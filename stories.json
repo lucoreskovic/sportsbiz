@@ -2,71 +2,78 @@
   "clusters": [
     {
       "category": "leagues",
-      "leadHeadline": "NWSL Adds 18th Team in Columbus; Haslams Pay $205M",
+      "leadHeadline": "NWSL Expands to Columbus with Haslam Sports Group Investment",
       "leadSource": "Sportico · recent",
-      "leadUrl": "https://www.sportico.com/",
-      "summary": "The NWSL continues expansion strategy with Columbus as 18th franchise. Haslam Sports Group's $205M investment signals strong investor confidence in women's soccer growth."
+      "leadUrl": "https://www.sportico.com/leagues/soccer/haslams-nwsl-columbus/",
+      "summary": "NWSL awarded its 18th franchise to Columbus, with Haslam Sports Group paying $205M for expansion rights. The deal marks continued growth for the women's soccer league."
+    },
+    {
+      "category": "revenue",
+      "leadHeadline": "Illinois Lawmakers Push $5B Bears Stadium Deal as Deadline Looms",
+      "leadSource": "Front Office Sports · recent",
+      "leadUrl": "https://www.frontofficesports.com/illinois-lawmakers-race-to-advance-5b-bears-stadium-plan/",
+      "summary": "State legislators race to advance a $5 billion stadium plan for the Bears' potential relocation to Indiana. The deal represents a major infrastructure and public funding commitment."
     },
     {
       "category": "contracts",
-      "leadHeadline": "NFL Rookie Deals Top $50M for First Time Since 2010",
+      "leadHeadline": "NFL Rookie Deals to Exceed $50M for First Time Since 2010",
       "leadSource": "Front Office Sports · recent",
-      "leadUrl": "https://www.frontofficesports.com/",
-      "summary": "Top 2025 NFL draft pick will earn nearly $55M, reflecting inflation in rookie contracts. Market dynamics and salary cap considerations reshape entry-level compensation."
+      "leadUrl": "https://www.frontofficesports.com/nfl-rookie-deals-will-top-50m/",
+      "summary": "The 2026 top overall pick will earn nearly $55 million, reflecting massive inflation in rookie contract values. This marks a historic high for first-year NFL compensation packages."
     },
     {
       "category": "labor",
-      "leadHeadline": "NIL Dispute Over 'Associated Entities' Could Shatter Salary Cap",
+      "leadHeadline": "NIL Dispute Over 'Associated Entities' Threatens College Sports Salary Cap",
       "leadSource": "Front Office Sports · recent",
-      "leadUrl": "https://www.frontofficesports.com/",
-      "summary": "College sports face regulatory crisis as NIL definition disputes threaten any remaining salary cap structure. Legal battle over entity classifications could reshape athlete compensation."
-    },
-    {
-      "category": "media",
-      "leadHeadline": "ESPN Defends NCAA Gymnastics Coverage After Minnesota Complaint",
-      "leadSource": "Front Office Sports · recent",
-      "leadUrl": "https://www.frontofficesports.com/",
-      "summary": "Minnesota challenged ESPN's broadcast equity in gymnastics coverage. Dispute highlights ongoing tensions over media rights allocation and broadcast fairness across NCAA sports."
+      "leadUrl": "https://www.frontofficesports.com/nil-dispute-salary-cap/",
+      "summary": "Ongoing legal battles over NIL definitions could eliminate salary cap enforcement in college sports. The core issue centers on how 'associated entities' are defined and regulated."
     },
     {
       "category": "revenue",
       "leadHeadline": "Churchill Downs Acquires Preakness Stakes IP Rights for $85M",
       "leadSource": "Sportico · recent",
-      "leadUrl": "https://www.sportico.com/",
-      "summary": "Churchill Downs expands portfolio by securing intellectual property rights to Preakness Stakes. Strategic consolidation of Triple Crown assets strengthens company's racing brand control."
+      "leadUrl": "https://www.sportico.com/business/churchill-downs-preakness/",
+      "summary": "Churchill Downs paid $85 million to acquire intellectual property rights to the Preakness Stakes. The acquisition consolidates Triple Crown ownership under one company."
+    },
+    {
+      "category": "media",
+      "leadHeadline": "ESPN Defends NCAA Gymnastics Coverage After Minnesota Backlash",
+      "leadSource": "Front Office Sports · recent",
+      "leadUrl": "https://www.frontofficesports.com/espn-defends-ncaa-gymnastics/",
+      "summary": "Minnesota criticized ESPN for unequal broadcast coverage, showing their gymnastics routines less frequently than competitors. The dispute highlights equity concerns in NCAA media rights deals."
     }
   ],
   "sidebar": [
     {
-      "headline": "Billy Donovan Exits Bulls as Franchise Overhaul Accelerates",
-      "source": "Front Office Sports",
-      "url": "https://www.frontofficesports.com/"
+      "headline": "Brandon Marshall Launches I AM ATHLETE Media Platform",
+      "source": "Front Office Sports · recent",
+      "url": "https://www.frontofficesports.com/brandon-marshall-athlete-media/"
     },
     {
-      "headline": "NFL Wins $27M Antitrust Case Over Packers Song Rights",
-      "source": "Sportico",
-      "url": "https://www.sportico.com/"
+      "headline": "Adam Thielen Invests in Youth Sports Technology Boom",
+      "source": "Front Office Sports · recent",
+      "url": "https://www.frontofficesports.com/adam-thielen-youth-sports/"
     },
     {
-      "headline": "Brandon Marshall Bets on Athlete-Owned Media with I AM ATHLETE",
-      "source": "Front Office Sports",
-      "url": "https://www.frontofficesports.com/"
+      "headline": "Billy Donovan Exits Bulls as Franchise Continues Overhaul",
+      "source": "Front Office Sports · recent",
+      "url": "https://www.frontofficesports.com/billy-donovan-bulls/"
     },
     {
-      "headline": "Ex-NFL Star Adam Thielen Targets Youth Sports Investment Boom",
-      "source": "Front Office Sports",
-      "url": "https://www.frontofficesports.com/"
+      "headline": "TickPick Acquires Momento App for Live Event Memory Catalog",
+      "source": "Sportico · recent",
+      "url": "https://www.sportico.com/business/tickpick-momento/"
     },
     {
-      "headline": "TickPick Acquires Momento App for Live Event Fan Engagement",
-      "source": "Sportico",
-      "url": "https://www.sportico.com/"
+      "headline": "NFL Defeats $27M Antitrust Suit Over Packers Song Rights",
+      "source": "Sportico · recent",
+      "url": "https://www.sportico.com/business/nfl-packers-songs/"
     },
     {
-      "headline": "Trump's College Sports EO Could Leverage Federal Funding Enforcement",
-      "source": "Sportico",
-      "url": "https://www.sportico.com/"
+      "headline": "Nike's Controversial Running Ad Sparks Sports Business Debate",
+      "source": "Sportico · recent",
+      "url": "https://www.sportico.com/business/nike-running-ad/"
     }
   ],
-  "updatedAt": "2026-04-21T20:36:51.857Z"
+  "updatedAt": "2026-04-21T23:53:35.999Z"
 }
