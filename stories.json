@@ -2,68 +2,61 @@
   "clusters": [
     {
       "category": "revenue",
-      "leadHeadline": "Padres Sale Breaks MLB Record at $3.9B With Clearlake Cofounder",
+      "leadHeadline": "Padres Sale Shatters MLB Record at $3.9B Valuation",
       "leadSource": "Front Office Sports · recent",
-      "leadUrl": "https://www.frontofficesports.com/padres-sale-set-to-break-mlb-record-with-3-9b-deal/",
-      "summary": "San Diego Padres ownership change to Clearlake Capital cofounder José E. Feliciano sets new MLB valuation benchmark. Business expansion signals continued growth in sports franchise valuations."
-    },
-    {
-      "category": "leagues",
-      "leadHeadline": "Kansas City Approves $600M Stadium Deal for MLB's Royals",
-      "leadSource": "Front Office Sports · recent",
-      "leadUrl": "https://www.frontofficesports.com/kansas-city-okays-600m-for-new-royals-stadium/",
-      "summary": "Kansas City green-lights $600M public funding for Royals stadium project, though financing plan remains incomplete. Major infrastructure investment tied to MLB team operations."
-    },
-    {
-      "category": "labor",
-      "leadHeadline": "WNBA's New CBA Forces Liberty Stars into Major Salary Cuts",
-      "leadSource": "Front Office Sports · recent",
-      "leadUrl": "https://www.frontofficesports.com/liberty-stars-are-taking-major-pay-cuts-to-chase-a-wnba-title/",
-      "summary": "Updated WNBA collective bargaining agreement restricts multi-max-player signings, forcing Liberty to cut salaries. New CBA fundamentally reshapes team roster construction and player compensation."
-    },
-    {
-      "category": "contracts",
-      "leadHeadline": "NFL Draft Trade Frenzy: Giants Acquire 10th Pick from Bengals",
-      "leadSource": "Front Office Sports · recent",
-      "leadUrl": "https://www.frontofficesports.com/nfl-draft-shake-up-6-teams-now-with-multiple-first-round-picks/",
-      "summary": "Giants-Bengals trade reshuffles first-round landscape with six teams now holding multiple picks. Draft capital consolidation affects contract structures and player valuation strategies."
-    },
-    {
-      "category": "leagues",
-      "leadHeadline": "College Football's Transfer Portal and Revenue-Sharing Reshape NFL Draft",
-      "leadSource": "Front Office Sports · recent",
-      "leadUrl": "https://www.frontofficesports.com/nfl-drafts-qb-class-thin-at-top-but-reshaped-new-era-of-college-football/",
-      "summary": "College football's 2025 transfer portal and revenue-sharing model directly impact NFL draft QB class quality and tier distribution. Structural changes in college sports ripple through professional recruitment."
+      "leadUrl": "https://www.frontofficesports.com/padres-sale-record/",
+      "summary": "Clearlake Capital cofounder's acquisition marks highest MLB team valuation ever. Deal signals continued growth in sports franchise values driven by private equity."
     },
     {
       "category": "revenue",
-      "leadHeadline": "LIV Golf Faces Existential Funding Crisis After Saudi Backing Disappears",
+      "leadHeadline": "Kansas City Approves $600M Royals Stadium Funding Plan",
       "leadSource": "Front Office Sports · recent",
-      "leadUrl": "https://www.frontofficesports.com/liv-golfs-future-in-doubt-inside-the-funding-crisis/",
-      "summary": "LIV Golf's viability threatened by loss of Saudi Arabian investor backing, forcing potential operational shutdown. League faces critical financial restructuring or dissolution."
+      "leadUrl": "https://www.frontofficesports.com/royals-stadium/",
+      "summary": "MLB team secures major public funding commitment for new facility. Club still needs to finalize remaining financing to complete stadium project."
+    },
+    {
+      "category": "labor",
+      "leadHeadline": "WNBA's New CBA Forces Liberty Stars Into Salary Restructuring",
+      "leadSource": "Front Office Sports · recent",
+      "leadUrl": "https://www.frontofficesports.com/liberty-cba/",
+      "summary": "Revised collective bargaining agreement limits max player signings, forcing teams to reduce compensation. Liberty Stars taking pay cuts to maintain competitiveness."
+    },
+    {
+      "category": "contracts",
+      "leadHeadline": "NFL Draft Sees Six Teams Trading for Multiple First-Round Picks",
+      "leadSource": "Front Office Sports · recent",
+      "leadUrl": "https://www.frontofficesports.com/nfl-draft-picks/",
+      "summary": "Giants acquire 10th pick from Bengals in weekend trade, highlighting active offseason player acquisition. Draft class reshapes quarterback market dynamics."
+    },
+    {
+      "category": "leagues",
+      "leadHeadline": "NFL Mulls 18-Game Schedule Expansion; Flacco Warns of Playoff Risks",
+      "leadSource": "Front Office Sports · recent",
+      "leadUrl": "https://www.frontofficesports.com/flacco-18-game/",
+      "summary": "Veteran QB Joe Flacco raises concerns about playoff integrity under expanded regular season. NFL continues evaluating schedule changes with labor implications."
     }
   ],
   "sidebar": [
     {
-      "headline": "Former NFL Star Thielen Bets on Youth Sports Boom Business",
+      "headline": "Adam Thielen Launches Youth Sports Investment Venture",
       "source": "Front Office Sports · recent",
-      "url": "https://www.frontofficesports.com/former-nfl-pro-adam-thielen-is-betting-on-the-youth-sports-boom/"
+      "url": "https://www.frontofficesports.com/thielen-youth-sports/"
     },
     {
-      "headline": "Joe Flacco Warns 18-Game NFL Schedule Could Damage Playoffs",
+      "headline": "LIV Golf Advances to Trump D.C. Event Following Mexico City Stop",
       "source": "Front Office Sports · recent",
-      "url": "https://www.frontofficesports.com/joe-flacco-sounds-alarm-on-18-game-schedule/"
+      "url": "https://www.frontofficesports.com/liv-golf-mexico/"
     },
     {
-      "headline": "LIV Golf Heads to Trump D.C. Event After Mexico City Stop",
-      "source": "Front Office Sports · recent",
-      "url": "https://www.frontofficesports.com/liv-golf-moves-on-to-trump-d-c-event-after-rocky-week-in-mexico/"
-    },
-    {
-      "headline": "Sportico Transactions: April 17 Moves and Mergers Roundup",
+      "headline": "Nike's Running Ad Sparks Controversy in Latest Campaign",
       "source": "Sportico · recent",
-      "url": "https://www.sportico.com/transactions-wire/"
+      "url": "https://www.sportico.com/nike-ad/"
+    },
+    {
+      "headline": "Sportico Transactions: Weekly M&A and Personnel Roundup",
+      "source": "Sportico · April 17",
+      "url": "https://www.sportico.com/transactions/"
     }
   ],
-  "updatedAt": "2026-04-21T04:39:00.544Z"
+  "updatedAt": "2026-04-21T10:50:23.250Z"
 }
