@@ -1,62 +1,72 @@
 {
   "clusters": [
     {
-      "category": "revenue",
-      "leadHeadline": "Padres Sale Shatters MLB Record at $3.9B Valuation",
-      "leadSource": "Front Office Sports · recent",
-      "leadUrl": "https://www.frontofficesports.com/padres-sale-record/",
-      "summary": "Clearlake Capital cofounder's acquisition marks highest MLB team valuation ever. Deal signals continued growth in sports franchise values driven by private equity."
-    },
-    {
-      "category": "revenue",
-      "leadHeadline": "Kansas City Approves $600M Royals Stadium Funding Plan",
-      "leadSource": "Front Office Sports · recent",
-      "leadUrl": "https://www.frontofficesports.com/royals-stadium/",
-      "summary": "MLB team secures major public funding commitment for new facility. Club still needs to finalize remaining financing to complete stadium project."
+      "category": "contracts",
+      "leadHeadline": "NFL Rookie Deals Will Top $50M for First Time Since 2010",
+      "leadSource": "Front Office Sports · 3h ago",
+      "leadUrl": "https://frontofficesports.com/nfl-rookie-deals-50m",
+      "summary": "Top NFL draft pick will command nearly $55M deal, marking significant salary inflation for rookie contracts. First time since 2010 that rookie deals breach the $50M threshold."
     },
     {
       "category": "labor",
-      "leadHeadline": "WNBA's New CBA Forces Liberty Stars Into Salary Restructuring",
-      "leadSource": "Front Office Sports · recent",
-      "leadUrl": "https://www.frontofficesports.com/liberty-cba/",
-      "summary": "Revised collective bargaining agreement limits max player signings, forcing teams to reduce compensation. Liberty Stars taking pay cuts to maintain competitiveness."
-    },
-    {
-      "category": "contracts",
-      "leadHeadline": "NFL Draft Sees Six Teams Trading for Multiple First-Round Picks",
-      "leadSource": "Front Office Sports · recent",
-      "leadUrl": "https://www.frontofficesports.com/nfl-draft-picks/",
-      "summary": "Giants acquire 10th pick from Bengals in weekend trade, highlighting active offseason player acquisition. Draft class reshapes quarterback market dynamics."
+      "leadHeadline": "Liberty Stars Take Pay Cuts Under New WNBA CBA Structure",
+      "leadSource": "Front Office Sports · 3h ago",
+      "leadUrl": "https://frontofficesports.com/liberty-stars-pay-cuts-wnba",
+      "summary": "New CBA makes it harder for teams to sign multiple max players, forcing Liberty Stars players into salary reductions. Demonstrates labor market constraints from collective bargaining agreement."
     },
     {
       "category": "leagues",
-      "leadHeadline": "NFL Mulls 18-Game Schedule Expansion; Flacco Warns of Playoff Risks",
-      "leadSource": "Front Office Sports · recent",
-      "leadUrl": "https://www.frontofficesports.com/flacco-18-game/",
-      "summary": "Veteran QB Joe Flacco raises concerns about playoff integrity under expanded regular season. NFL continues evaluating schedule changes with labor implications."
+      "leadHeadline": "College Football Transfer Portal Reshapes Talent Market in 2025",
+      "leadSource": "Front Office Sports · 3h ago",
+      "leadUrl": "https://frontofficesports.com/nfl-draft-college-football",
+      "summary": "College football's transfer portal and revenue-sharing agreements fundamentally reshaped player movement ahead of 2025 draft. Thin QB class at top reflects new era of college athlete compensation."
+    },
+    {
+      "category": "revenue",
+      "leadHeadline": "San Diego Padres Business Booming Amid Ownership Transition",
+      "leadSource": "Sportico · 3h ago",
+      "leadUrl": "https://sportico.com/padres-business-booming",
+      "summary": "Private equity billionaire José Feliciano expected to confirm ownership stake this week, signaling strong franchise valuation. Business performance reflects broader MLB market growth."
+    },
+    {
+      "category": "media",
+      "leadHeadline": "Brandon Marshall Expands I AM ATHLETE Athlete-Owned Media Platform",
+      "leadSource": "Front Office Sports · 3h ago",
+      "leadUrl": "https://frontofficesports.com/brandon-marshall-athlete-media",
+      "summary": "Former NFL star betting on athlete-owned media by scaling I AM ATHLETE platform. Reflects trend of athletes building direct-to-consumer media businesses."
     }
   ],
   "sidebar": [
     {
-      "headline": "Adam Thielen Launches Youth Sports Investment Venture",
-      "source": "Front Office Sports · recent",
-      "url": "https://www.frontofficesports.com/thielen-youth-sports/"
+      "headline": "Joe Flacco Warns 18-Game NFL Schedule Could Hurt Playoffs",
+      "source": "Front Office Sports",
+      "url": "https://frontofficesports.com/joe-flacco-18-game-schedule"
     },
     {
-      "headline": "LIV Golf Advances to Trump D.C. Event Following Mexico City Stop",
-      "source": "Front Office Sports · recent",
-      "url": "https://www.frontofficesports.com/liv-golf-mexico/"
+      "headline": "Jon Rahm Wins $4M at LIV Golf Mexico City Before Trump D.C. Event",
+      "source": "Front Office Sports",
+      "url": "https://frontofficesports.com/liv-golf-mexico-city"
     },
     {
-      "headline": "Nike's Running Ad Sparks Controversy in Latest Campaign",
-      "source": "Sportico · recent",
-      "url": "https://www.sportico.com/nike-ad/"
+      "headline": "TickPick Acquires Momento App to Enhance Fan Experience",
+      "source": "Sportico",
+      "url": "https://sportico.com/tickpick-momento-acquisition"
     },
     {
-      "headline": "Sportico Transactions: Weekly M&A and Personnel Roundup",
-      "source": "Sportico · April 17",
-      "url": "https://www.sportico.com/transactions/"
+      "headline": "Trump Executive Order Could Pull Federal Funding From College Sports",
+      "source": "Sportico",
+      "url": "https://sportico.com/trump-college-sports-eo"
+    },
+    {
+      "headline": "Spurs Wait for Round 2 Playoff Games After 7-Year Home Drought",
+      "source": "Sportico",
+      "url": "https://sportico.com/spurs-playoff-fiesta-night"
+    },
+    {
+      "headline": "Nike's Controversial Running Ad Sparks Sports Business Debate",
+      "source": "Sportico",
+      "url": "https://sportico.com/sporticast-nike-ad"
     }
   ],
-  "updatedAt": "2026-04-21T10:50:23.250Z"
+  "updatedAt": "2026-04-21T16:00:21.144Z"
 }
