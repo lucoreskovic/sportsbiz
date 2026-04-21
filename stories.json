@@ -1,6 +1,69 @@
 {
-  "clusters": [],
-  "sidebar": [],
-  "updatedAt": null,
-  "placeholder": true
+  "clusters": [
+    {
+      "category": "revenue",
+      "leadHeadline": "Padres Sale Breaks MLB Record at $3.9B With Clearlake Cofounder",
+      "leadSource": "Front Office Sports · recent",
+      "leadUrl": "https://www.frontofficesports.com/padres-sale-set-to-break-mlb-record-with-3-9b-deal/",
+      "summary": "San Diego Padres ownership change to Clearlake Capital cofounder José E. Feliciano sets new MLB valuation benchmark. Business expansion signals continued growth in sports franchise valuations."
+    },
+    {
+      "category": "leagues",
+      "leadHeadline": "Kansas City Approves $600M Stadium Deal for MLB's Royals",
+      "leadSource": "Front Office Sports · recent",
+      "leadUrl": "https://www.frontofficesports.com/kansas-city-okays-600m-for-new-royals-stadium/",
+      "summary": "Kansas City green-lights $600M public funding for Royals stadium project, though financing plan remains incomplete. Major infrastructure investment tied to MLB team operations."
+    },
+    {
+      "category": "labor",
+      "leadHeadline": "WNBA's New CBA Forces Liberty Stars into Major Salary Cuts",
+      "leadSource": "Front Office Sports · recent",
+      "leadUrl": "https://www.frontofficesports.com/liberty-stars-are-taking-major-pay-cuts-to-chase-a-wnba-title/",
+      "summary": "Updated WNBA collective bargaining agreement restricts multi-max-player signings, forcing Liberty to cut salaries. New CBA fundamentally reshapes team roster construction and player compensation."
+    },
+    {
+      "category": "contracts",
+      "leadHeadline": "NFL Draft Trade Frenzy: Giants Acquire 10th Pick from Bengals",
+      "leadSource": "Front Office Sports · recent",
+      "leadUrl": "https://www.frontofficesports.com/nfl-draft-shake-up-6-teams-now-with-multiple-first-round-picks/",
+      "summary": "Giants-Bengals trade reshuffles first-round landscape with six teams now holding multiple picks. Draft capital consolidation affects contract structures and player valuation strategies."
+    },
+    {
+      "category": "leagues",
+      "leadHeadline": "College Football's Transfer Portal and Revenue-Sharing Reshape NFL Draft",
+      "leadSource": "Front Office Sports · recent",
+      "leadUrl": "https://www.frontofficesports.com/nfl-drafts-qb-class-thin-at-top-but-reshaped-new-era-of-college-football/",
+      "summary": "College football's 2025 transfer portal and revenue-sharing model directly impact NFL draft QB class quality and tier distribution. Structural changes in college sports ripple through professional recruitment."
+    },
+    {
+      "category": "revenue",
+      "leadHeadline": "LIV Golf Faces Existential Funding Crisis After Saudi Backing Disappears",
+      "leadSource": "Front Office Sports · recent",
+      "leadUrl": "https://www.frontofficesports.com/liv-golfs-future-in-doubt-inside-the-funding-crisis/",
+      "summary": "LIV Golf's viability threatened by loss of Saudi Arabian investor backing, forcing potential operational shutdown. League faces critical financial restructuring or dissolution."
+    }
+  ],
+  "sidebar": [
+    {
+      "headline": "Former NFL Star Thielen Bets on Youth Sports Boom Business",
+      "source": "Front Office Sports · recent",
+      "url": "https://www.frontofficesports.com/former-nfl-pro-adam-thielen-is-betting-on-the-youth-sports-boom/"
+    },
+    {
+      "headline": "Joe Flacco Warns 18-Game NFL Schedule Could Damage Playoffs",
+      "source": "Front Office Sports · recent",
+      "url": "https://www.frontofficesports.com/joe-flacco-sounds-alarm-on-18-game-schedule/"
+    },
+    {
+      "headline": "LIV Golf Heads to Trump D.C. Event After Mexico City Stop",
+      "source": "Front Office Sports · recent",
+      "url": "https://www.frontofficesports.com/liv-golf-moves-on-to-trump-d-c-event-after-rocky-week-in-mexico/"
+    },
+    {
+      "headline": "Sportico Transactions: April 17 Moves and Mergers Roundup",
+      "source": "Sportico · recent",
+      "url": "https://www.sportico.com/transactions-wire/"
+    }
+  ],
+  "updatedAt": "2026-04-21T04:39:00.544Z"
 }
