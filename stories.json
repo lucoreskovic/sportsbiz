@@ -1,72 +1,72 @@
 {
   "clusters": [
     {
+      "category": "leagues",
+      "leadHeadline": "NWSL Adds 18th Team in Columbus; Haslams Pay $205M",
+      "leadSource": "Sportico · recent",
+      "leadUrl": "https://www.sportico.com/",
+      "summary": "The NWSL continues expansion strategy with Columbus as 18th franchise. Haslam Sports Group's $205M investment signals strong investor confidence in women's soccer growth."
+    },
+    {
       "category": "contracts",
-      "leadHeadline": "NFL Rookie Deals Will Top $50M for First Time Since 2010",
-      "leadSource": "Front Office Sports · 3h ago",
-      "leadUrl": "https://frontofficesports.com/nfl-rookie-deals-50m",
-      "summary": "Top NFL draft pick will command nearly $55M deal, marking significant salary inflation for rookie contracts. First time since 2010 that rookie deals breach the $50M threshold."
+      "leadHeadline": "NFL Rookie Deals Top $50M for First Time Since 2010",
+      "leadSource": "Front Office Sports · recent",
+      "leadUrl": "https://www.frontofficesports.com/",
+      "summary": "Top 2025 NFL draft pick will earn nearly $55M, reflecting inflation in rookie contracts. Market dynamics and salary cap considerations reshape entry-level compensation."
     },
     {
       "category": "labor",
-      "leadHeadline": "Liberty Stars Take Pay Cuts Under New WNBA CBA Structure",
-      "leadSource": "Front Office Sports · 3h ago",
-      "leadUrl": "https://frontofficesports.com/liberty-stars-pay-cuts-wnba",
-      "summary": "New CBA makes it harder for teams to sign multiple max players, forcing Liberty Stars players into salary reductions. Demonstrates labor market constraints from collective bargaining agreement."
-    },
-    {
-      "category": "leagues",
-      "leadHeadline": "College Football Transfer Portal Reshapes Talent Market in 2025",
-      "leadSource": "Front Office Sports · 3h ago",
-      "leadUrl": "https://frontofficesports.com/nfl-draft-college-football",
-      "summary": "College football's transfer portal and revenue-sharing agreements fundamentally reshaped player movement ahead of 2025 draft. Thin QB class at top reflects new era of college athlete compensation."
-    },
-    {
-      "category": "revenue",
-      "leadHeadline": "San Diego Padres Business Booming Amid Ownership Transition",
-      "leadSource": "Sportico · 3h ago",
-      "leadUrl": "https://sportico.com/padres-business-booming",
-      "summary": "Private equity billionaire José Feliciano expected to confirm ownership stake this week, signaling strong franchise valuation. Business performance reflects broader MLB market growth."
+      "leadHeadline": "NIL Dispute Over 'Associated Entities' Could Shatter Salary Cap",
+      "leadSource": "Front Office Sports · recent",
+      "leadUrl": "https://www.frontofficesports.com/",
+      "summary": "College sports face regulatory crisis as NIL definition disputes threaten any remaining salary cap structure. Legal battle over entity classifications could reshape athlete compensation."
     },
     {
       "category": "media",
-      "leadHeadline": "Brandon Marshall Expands I AM ATHLETE Athlete-Owned Media Platform",
-      "leadSource": "Front Office Sports · 3h ago",
-      "leadUrl": "https://frontofficesports.com/brandon-marshall-athlete-media",
-      "summary": "Former NFL star betting on athlete-owned media by scaling I AM ATHLETE platform. Reflects trend of athletes building direct-to-consumer media businesses."
+      "leadHeadline": "ESPN Defends NCAA Gymnastics Coverage After Minnesota Complaint",
+      "leadSource": "Front Office Sports · recent",
+      "leadUrl": "https://www.frontofficesports.com/",
+      "summary": "Minnesota challenged ESPN's broadcast equity in gymnastics coverage. Dispute highlights ongoing tensions over media rights allocation and broadcast fairness across NCAA sports."
+    },
+    {
+      "category": "revenue",
+      "leadHeadline": "Churchill Downs Acquires Preakness Stakes IP Rights for $85M",
+      "leadSource": "Sportico · recent",
+      "leadUrl": "https://www.sportico.com/",
+      "summary": "Churchill Downs expands portfolio by securing intellectual property rights to Preakness Stakes. Strategic consolidation of Triple Crown assets strengthens company's racing brand control."
     }
   ],
   "sidebar": [
     {
-      "headline": "Joe Flacco Warns 18-Game NFL Schedule Could Hurt Playoffs",
+      "headline": "Billy Donovan Exits Bulls as Franchise Overhaul Accelerates",
       "source": "Front Office Sports",
-      "url": "https://frontofficesports.com/joe-flacco-18-game-schedule"
+      "url": "https://www.frontofficesports.com/"
     },
     {
-      "headline": "Jon Rahm Wins $4M at LIV Golf Mexico City Before Trump D.C. Event",
+      "headline": "NFL Wins $27M Antitrust Case Over Packers Song Rights",
+      "source": "Sportico",
+      "url": "https://www.sportico.com/"
+    },
+    {
+      "headline": "Brandon Marshall Bets on Athlete-Owned Media with I AM ATHLETE",
       "source": "Front Office Sports",
-      "url": "https://frontofficesports.com/liv-golf-mexico-city"
+      "url": "https://www.frontofficesports.com/"
     },
     {
-      "headline": "TickPick Acquires Momento App to Enhance Fan Experience",
-      "source": "Sportico",
-      "url": "https://sportico.com/tickpick-momento-acquisition"
+      "headline": "Ex-NFL Star Adam Thielen Targets Youth Sports Investment Boom",
+      "source": "Front Office Sports",
+      "url": "https://www.frontofficesports.com/"
     },
     {
-      "headline": "Trump Executive Order Could Pull Federal Funding From College Sports",
+      "headline": "TickPick Acquires Momento App for Live Event Fan Engagement",
       "source": "Sportico",
-      "url": "https://sportico.com/trump-college-sports-eo"
+      "url": "https://www.sportico.com/"
     },
     {
-      "headline": "Spurs Wait for Round 2 Playoff Games After 7-Year Home Drought",
+      "headline": "Trump's College Sports EO Could Leverage Federal Funding Enforcement",
       "source": "Sportico",
-      "url": "https://sportico.com/spurs-playoff-fiesta-night"
-    },
-    {
-      "headline": "Nike's Controversial Running Ad Sparks Sports Business Debate",
-      "source": "Sportico",
-      "url": "https://sportico.com/sporticast-nike-ad"
+      "url": "https://www.sportico.com/"
     }
   ],
-  "updatedAt": "2026-04-21T16:00:21.144Z"
+  "updatedAt": "2026-04-21T20:36:51.857Z"
 }
