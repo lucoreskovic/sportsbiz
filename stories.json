@@ -2,78 +2,106 @@
   "clusters": [
     {
       "category": "leagues",
-      "leadHeadline": "NWSL Expands to Columbus with Haslam Sports Group Investment",
+      "leadHeadline": "NWSL Expands to Columbus with Haslams' $205M Investment",
       "leadSource": "Sportico · recent",
-      "leadUrl": "https://www.sportico.com/leagues/soccer/haslams-nwsl-columbus/",
-      "summary": "NWSL awarded its 18th franchise to Columbus, with Haslam Sports Group paying $205M for expansion rights. The deal marks continued growth for the women's soccer league."
-    },
-    {
-      "category": "revenue",
-      "leadHeadline": "Illinois Lawmakers Push $5B Bears Stadium Deal as Deadline Looms",
-      "leadSource": "Front Office Sports · recent",
-      "leadUrl": "https://www.frontofficesports.com/illinois-lawmakers-race-to-advance-5b-bears-stadium-plan/",
-      "summary": "State legislators race to advance a $5 billion stadium plan for the Bears' potential relocation to Indiana. The deal represents a major infrastructure and public funding commitment."
-    },
-    {
-      "category": "contracts",
-      "leadHeadline": "NFL Rookie Deals to Exceed $50M for First Time Since 2010",
-      "leadSource": "Front Office Sports · recent",
-      "leadUrl": "https://www.frontofficesports.com/nfl-rookie-deals-will-top-50m/",
-      "summary": "The 2026 top overall pick will earn nearly $55 million, reflecting massive inflation in rookie contract values. This marks a historic high for first-year NFL compensation packages."
-    },
-    {
-      "category": "labor",
-      "leadHeadline": "NIL Dispute Over 'Associated Entities' Threatens College Sports Salary Cap",
-      "leadSource": "Front Office Sports · recent",
-      "leadUrl": "https://www.frontofficesports.com/nil-dispute-salary-cap/",
-      "summary": "Ongoing legal battles over NIL definitions could eliminate salary cap enforcement in college sports. The core issue centers on how 'associated entities' are defined and regulated."
+      "leadUrl": "https://www.sportico.com/leagues/soccer/nwsl-columbus-expansion/",
+      "summary": "Women's soccer league adds 18th franchise in Ohio with Haslam Sports Group ownership. Marks continued growth strategy for NWSL as it pursues mainstream sports legitimacy.",
+      "posts": []
     },
     {
       "category": "revenue",
       "leadHeadline": "Churchill Downs Acquires Preakness Stakes IP Rights for $85M",
       "leadSource": "Sportico · recent",
       "leadUrl": "https://www.sportico.com/business/churchill-downs-preakness/",
-      "summary": "Churchill Downs paid $85 million to acquire intellectual property rights to the Preakness Stakes. The acquisition consolidates Triple Crown ownership under one company."
+      "summary": "Derby operator consolidates racing's crown jewel intellectual property portfolio. Strategic move centralizes control of Triple Crown marketing and broadcast rights.",
+      "posts": []
+    },
+    {
+      "category": "contracts",
+      "leadHeadline": "NFL Rookie Deals Will Top $50M for First Time Since 2010",
+      "leadSource": "Front Office Sports · recent",
+      "leadUrl": "https://www.frontofficesports.com/nfl-rookie-contracts/",
+      "summary": "This year's top pick will earn nearly $55 million, reflecting inflated rookie salary scale. Represents significant shift in NFL compensation structure over past 15 years.",
+      "posts": []
+    },
+    {
+      "category": "revenue",
+      "leadHeadline": "Illinois Lawmakers Race Clock on $5B Bears Stadium Plan",
+      "leadSource": "Front Office Sports · recent",
+      "leadUrl": "https://www.frontofficesports.com/illinois-bears-stadium/",
+      "summary": "State legislators push toward approval as NFL franchise relocation decision looms. Multi-billion dollar infrastructure deal hangs on political consensus.",
+      "posts": []
+    },
+    {
+      "category": "labor",
+      "leadHeadline": "NIL Dispute Over 'Associated Entities' Could Eliminate Salary Cap",
+      "leadSource": "Front Office Sports · recent",
+      "leadUrl": "https://www.frontofficesports.com/nil-salary-cap-dispute/",
+      "summary": "College sports compensation battle centers on defining what constitutes NIL funding sources. Unresolved definitional issues threaten entire regulatory framework.",
+      "posts": []
     },
     {
       "category": "media",
-      "leadHeadline": "ESPN Defends NCAA Gymnastics Coverage After Minnesota Backlash",
+      "leadHeadline": "ESPN Defends NCAA Gymnastics Coverage After Minnesota Criticism",
       "leadSource": "Front Office Sports · recent",
-      "leadUrl": "https://www.frontofficesports.com/espn-defends-ncaa-gymnastics/",
-      "summary": "Minnesota criticized ESPN for unequal broadcast coverage, showing their gymnastics routines less frequently than competitors. The dispute highlights equity concerns in NCAA media rights deals."
+      "leadUrl": "https://www.frontofficesports.com/espn-gymnastics-broadcast/",
+      "summary": "Network faces backlash over unequal airtime distribution across collegiate athletic broadcasts. Raises questions about editorial standards in women's sports coverage.",
+      "posts": []
+    },
+    {
+      "category": "revenue",
+      "leadHeadline": "TickPick Acquires Momento App to Expand Fan Engagement Platform",
+      "leadSource": "Sportico · recent",
+      "leadUrl": "https://www.sportico.com/business/tickpick-momento/",
+      "summary": "Ticket marketplace consolidates live event memory-sharing technology. Strategic acquisition positions TickPick as end-to-end fan experience provider.",
+      "posts": []
     }
   ],
   "sidebar": [
     {
-      "headline": "Brandon Marshall Launches I AM ATHLETE Media Platform",
-      "source": "Front Office Sports · recent",
-      "url": "https://www.frontofficesports.com/brandon-marshall-athlete-media/"
-    },
-    {
-      "headline": "Adam Thielen Invests in Youth Sports Technology Boom",
-      "source": "Front Office Sports · recent",
-      "url": "https://www.frontofficesports.com/adam-thielen-youth-sports/"
-    },
-    {
-      "headline": "Billy Donovan Exits Bulls as Franchise Continues Overhaul",
+      "headline": "Billy Donovan Exits Bulls Amid Franchise Overhaul",
       "source": "Front Office Sports · recent",
       "url": "https://www.frontofficesports.com/billy-donovan-bulls/"
     },
     {
-      "headline": "TickPick Acquires Momento App for Live Event Memory Catalog",
-      "source": "Sportico · recent",
-      "url": "https://www.sportico.com/business/tickpick-momento/"
+      "headline": "Big Cat Discusses Barstool Netflix Deal and Bears Relocation",
+      "source": "Front Office Sports · recent",
+      "url": "https://www.frontofficesports.com/big-cat-barstool-bears/"
     },
     {
-      "headline": "NFL Defeats $27M Antitrust Suit Over Packers Song Rights",
-      "source": "Sportico · recent",
-      "url": "https://www.sportico.com/business/nfl-packers-songs/"
+      "headline": "Brandon Marshall Bets on Athlete-Owned Media Strategy",
+      "source": "Front Office Sports · recent",
+      "url": "https://www.frontofficesports.com/brandon-marshall-media/"
     },
     {
-      "headline": "Nike's Controversial Running Ad Sparks Sports Business Debate",
+      "headline": "Adam Thielen Targets Youth Sports Boom Market Opportunity",
+      "source": "Front Office Sports · recent",
+      "url": "https://www.frontofficesports.com/adam-thielen-youth-sports/"
+    },
+    {
+      "headline": "NFL Defeats $27M Antitrust Lawsuit Over Packers Songs",
       "source": "Sportico · recent",
-      "url": "https://www.sportico.com/business/nike-running-ad/"
+      "url": "https://www.sportico.com/business/nfl-packers-lawsuit/"
+    },
+    {
+      "headline": "Trump Could Enforce College Sports EO Via Federal Funding Cuts",
+      "source": "Sportico · recent",
+      "url": "https://www.sportico.com/policy/trump-college-sports-eo/"
+    },
+    {
+      "headline": "Washington Cap Director Represents Rival Big Ten Players",
+      "source": "Sportico · recent",
+      "url": "https://www.sportico.com/college/big-ten-cap-conflict/"
     }
   ],
-  "updatedAt": "2026-04-21T23:53:35.999Z"
+  "updatedAt": "2026-04-22T05:00:41.118Z",
+  "poll": {
+    "question": "Will the NWSL's Columbus expansion at $205M set the price floor for future women's sports franchises?",
+    "options": [
+      "Yes, this is the new baseline for women's league expansion",
+      "No, NWSL valuations won't translate to other sports",
+      "It depends on the next expansion team announcement",
+      "Women's sports will eventually command much higher valuations"
+    ]
+  }
 }
