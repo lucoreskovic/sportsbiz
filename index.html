@@ -63,6 +63,21 @@
   .lead-headline:hover { color: var(--green); }
   .lead-source  { font-family: 'IBM Plex Mono', monospace; font-size: 10px; color: var(--ink-3); margin-top: 5px; letter-spacing: .02em; }
   .lead-summary { font-size: 13px; color: var(--ink-2); margin-top: 7px; line-height: 1.6; max-width: 95%; }
+  .posts-label { font-size: 9px; font-weight: 600; letter-spacing: .1em; text-transform: uppercase; color: var(--ink-3); margin-top: 12px; margin-bottom: 6px; display: flex; align-items: center; gap: 6px; }
+  .posts-label::after { content: ''; flex: 1; height: 1px; background: var(--rule); }
+  .posts-list { display: flex; flex-direction: column; gap: 4px; }
+  .post-card { background: var(--bg); border: 1px solid var(--rule); border-radius: 6px; padding: 6px 9px; text-decoration: none; display: block; transition: border-color .12s; }
+  .post-card:hover { border-color: var(--ink-3); }
+  .post-header { display: flex; align-items: center; gap: 5px; margin-bottom: 4px; }
+  .post-avatar { width: 20px; height: 20px; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 8px; font-weight: 600; flex-shrink: 0; color: #fff; }
+  .avatar-x { background: #000; }
+  .avatar-bluesky { background: #0085ff; }
+  .post-meta { flex: 1; min-width: 0; display: flex; align-items: baseline; gap: 5px; }
+  .post-name { font-size: 11px; font-weight: 600; color: var(--ink); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+  .post-handle { font-family: 'IBM Plex Mono', monospace; font-size: 9px; color: var(--ink-3); white-space: nowrap; }
+  .post-platform { flex-shrink: 0; width: 11px; height: 11px; }
+  .post-body { font-size: 11px; color: var(--ink-2); line-height: 1.5; }
+  .post-time { font-family: 'IBM Plex Mono', monospace; font-size: 9px; color: var(--ink-3); margin-top: 3px; }
   .sidebar { display: flex; flex-direction: column; }
   .sidebar-section { margin-bottom: 22px; }
   .sidebar-heading { font-size: 9px; font-weight: 600; letter-spacing: .14em; text-transform: uppercase; color: var(--ink-3); border-bottom: 1px solid var(--rule); padding-bottom: 6px; margin-bottom: 10px; }
@@ -216,11 +231,28 @@
     }
     feed.innerHTML = clusters.map(function(c) {
       var tag = TAG[c.category] || TAG.default;
+      var posts = (c.posts || []).map(function(p) {
+        var isX = (p.platform||'').toLowerCase() === 'x';
+        var initials = (p.name||'?').split(' ').map(function(w){return w[0];}).join('').slice(0,2).toUpperCase();
+        var icon = isX
+          ? '<svg class="post-platform" viewBox="0 0 24 24" fill="currentColor"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-4.714-6.231-5.401 6.231H2.748l7.73-8.835L1.254 2.25H8.08l4.253 5.622L18.244 2.25zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg>'
+          : '<svg class="post-platform" viewBox="0 0 24 24"><circle cx="12" cy="12" r="10" fill="#0085ff"/><path fill="white" d="M16.5 9.5c-.138 2.63-1.845 5.557-5.158 5.557-1.024 0-1.976-.3-2.777-.816.142.017.286.025.432.025 1.194 0 2.295-.407 3.168-1.09a2.573 2.573 0 0 1-2.4-1.784c.157.03.317.046.482.046.233 0 .46-.031.674-.09a2.571 2.571 0 0 1-2.06-2.52v-.032c.347.193.743.308 1.164.322a2.567 2.567 0 0 1-.795-3.43 7.3 7.3 0 0 0 5.3 2.686 2.572 2.572 0 0 1 4.379-2.344 5.15 5.15 0 0 0 1.632-.624 2.578 2.578 0 0 1-1.13 1.422A5.13 5.13 0 0 0 20 7.17a5.224 5.224 0 0 1-1.282 1.33z"/></svg>';
+        return '<a class="post-card" href="'+esc(p.url||'#')+'" '+(p.url?'target="_blank" rel="noopener"':'')+'>'+
+          '<div class="post-header">'+
+            '<div class="post-avatar '+(isX?'avatar-x':'avatar-bluesky')+'">'+initials+'</div>'+
+            '<div class="post-meta"><span class="post-name">'+esc(p.name||'')+'</span><span class="post-handle">'+esc(p.handle||'')+'</span></div>'+
+            icon+
+          '</div>'+
+          '<div class="post-body">'+esc(p.content||'')+'</div>'+
+          '<div class="post-time">'+esc(p.time||'')+'</div>'+
+        '</a>';
+      }).join('');
       return '<div class="cluster">' +
         '<span class="cat-tag '+tag.cls+'">'+tag.label+'</span>' +
         '<a class="lead-headline" href="'+esc(c.leadUrl||'#')+'" '+(c.leadUrl?'target="_blank" rel="noopener"':'')+'>'+esc(c.leadHeadline)+'</a>' +
         '<div class="lead-source">'+esc(c.leadSource||'')+'</div>' +
         '<div class="lead-summary">'+esc(c.summary||'')+'</div>' +
+        (posts ? '<div class="posts-label">Social reaction</div><div class="posts-list">'+posts+'</div>' : '') +
       '</div>';
     }).join('');
     var items = data.clusters.map(function(c){return c.leadHeadline;}).join('   ·   ');

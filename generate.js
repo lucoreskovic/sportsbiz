@@ -112,6 +112,7 @@ For each cluster:
 - leadUrl: URL of lead story
 - summary: 2 sentences on business significance, under 200 chars
 - storyIndexes: array of story index numbers in this cluster
+- posts: 2-3 real social media posts from X or Bluesky reacting to this topic. Search the web for real posts. Each: { platform: "x" or "bluesky", name, handle, content, time, url }. Only include real posts you find — leave empty array if none found. Never invent posts.
 
 Also return sidebar: 6-8 quick-hit items (minor stories or ones that don't fit a cluster). Each: { headline, source, url }
 
@@ -159,6 +160,7 @@ ${list}`;
       leadSource:   c.leadSource   || `${lead?.source||''} · ${timeAgo(lead?.pubDate)}`,
       leadUrl:      c.leadUrl      || lead?.link  || '',
       summary:      c.summary      || '',
+      posts:        Array.isArray(c.posts) ? c.posts.filter(p => p && p.content) : [],
     };
   });
 
