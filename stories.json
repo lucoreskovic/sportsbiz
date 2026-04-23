@@ -2,152 +2,169 @@
   "clusters": [
     {
       "category": "media",
-      "leadHeadline": "FCC Scrutinizes NFL Media Strategy as League Faces Washington Heat",
-      "leadSource": "Front Office Sports · latest",
-      "leadUrl": "https://www.frontofficesports.com/nfl-pushes-back-as-fcc-scrutiny-of-media-strategy-grows/",
-      "summary": "NFL faces federal regulatory pressure over media distribution and broadcast practices. Signals broader shift toward government oversight of sports media rights deals.",
-      "posts": []
-    },
-    {
-      "category": "revenue",
-      "leadHeadline": "Royals Strike $3B Downtown Stadium Deal With Hallmark Cards",
-      "leadSource": "Front Office Sports · latest",
-      "leadUrl": "https://www.frontofficesports.com/royals-new-3b-stadium-lands-downtown-but-not-where-expected/",
-      "summary": "Kansas City Royals secure major stadium financing through partnership with Hallmark Cards parent company. Represents one of largest MLB stadium development deals in recent years.",
+      "leadHeadline": "FCC Scrutiny Intensifies on NFL Media Strategy",
+      "leadSource": "Front Office Sports · recent",
+      "leadUrl": "https://frontofficesports.com/nfl-fcc-scrutiny-media-strategy",
+      "summary": "Washington regulators question NFL's broadcasting approach as league faces growing federal oversight. Regulatory pressure could reshape how the NFL distributes media rights and negotiates broadcast deals.",
       "posts": []
     },
     {
       "category": "media",
-      "leadHeadline": "All 44 Caitlin Clark Fever Games to Air Nationally Under New WNBA Deal",
-      "leadSource": "Front Office Sports · latest",
-      "leadUrl": "https://www.frontofficesports.com/all-44-of-caitlin-clarks-fever-games-will-be-on-national-tv/",
-      "summary": "WNBA's new media rights agreement guarantees full national television coverage of Indiana Fever games. Reflects league's commercial growth and Clark's massive audience draw.",
-      "posts": []
-    },
-    {
-      "category": "leagues",
-      "leadHeadline": "NWSL Adds 18th Team in Columbus; Haslams Pay $205M for Expansion",
-      "leadSource": "Sportico · latest",
-      "leadUrl": "https://www.sportico.com/soccer/haslams-pay-205m-for-nwsl-expansion-team-in-columbus/",
-      "summary": "Haslam Sports Group secures NWSL expansion franchise for Columbus with $205M fee. Shows strong investor appetite for women's soccer as league continues rapid growth.",
-      "posts": []
-    },
-    {
-      "category": "labor",
-      "leadHeadline": "NIL Salary Cap Dispute Could Eliminate Collegiate Athletic Pay Limits",
-      "leadSource": "Front Office Sports · latest",
-      "leadUrl": "https://www.frontofficesports.com/latest-dispute-over-nil-go-could-end-any-semblance-of-a-salary-cap/",
-      "summary": "Debate over 'associated entities' in NIL agreements threatens to dismantle remaining college athlete compensation controls. Could trigger unrestricted spending wars among programs.",
-      "posts": []
-    },
-    {
-      "category": "contracts",
-      "leadHeadline": "Chelsea Fires Coach Rosenior Four Months Into Six-Year, $50M+ Deal",
-      "leadSource": "Front Office Sports · latest",
-      "leadUrl": "https://www.frontofficesports.com/chelsea-fires-coach-less-than-four-months-into-six-year-contract/",
-      "summary": "Chelsea's premature termination of Liam Rosenior creates massive financial liability. Highlights reckless contract structuring in Premier League.",
-      "posts": []
-    },
-    {
-      "category": "revenue",
-      "leadHeadline": "Rogers Communications Plans $18B Sports Team Stake Sale",
-      "leadSource": "Sportico · latest",
-      "leadUrl": "https://www.sportico.com/business/rogers-planning-sports-team-stake-sale-at-18-billion-valuation/",
-      "summary": "Rogers Communications exploring sale of sports assets valued at $18 billion. Reflects strong investor appetite for premium sports franchises.",
+      "leadHeadline": "WNBA's New TV Deal Puts Caitlin Clark on National Stage",
+      "leadSource": "Front Office Sports · recent",
+      "leadUrl": "https://frontofficesports.com/caitlin-clark-fever-national-tv",
+      "summary": "All 44 Fever games broadcasting nationally signals WNBA's media rights expansion and athlete monetization strategy. First season of new rights deal capitalizes on Clark's rookie star power and broader women's sports growth.",
       "posts": []
     },
     {
       "category": "revenue",
       "leadHeadline": "Churchill Downs Acquires Preakness Stakes IP Rights for $85M",
-      "leadSource": "Sportico · latest",
-      "leadUrl": "https://www.sportico.com/business/churchill-downs-drops-85-million-to-buy-preakness-stakes-ip-rights/",
-      "summary": "Churchill Downs consolidates Triple Crown by securing Preakness intellectual property. Enables unified Triple Crown branding and cross-property monetization.",
+      "leadSource": "Sportico · recent",
+      "leadUrl": "https://sportico.com/churchill-downs-preakness-85-million",
+      "summary": "Kentucky Derby operator gains control of second leg of Triple Crown intellectual property in major consolidation move. Acquisition centralizes racing's marquee event marketing and merchandising under single operator.",
+      "posts": []
+    },
+    {
+      "category": "leagues",
+      "leadHeadline": "NWSL Awards 18th Franchise to Columbus for $205M",
+      "leadSource": "Sportico · recent",
+      "leadUrl": "https://sportico.com/haslams-nwsl-columbus-205-million",
+      "summary": "Haslam Sports Group lands women's soccer expansion team, marking NWSL's continued growth into underserved markets. Expansion fee demonstrates league's rising valuation and investor appetite for women's professional sports.",
+      "posts": []
+    },
+    {
+      "category": "contracts",
+      "leadHeadline": "Illinois Races Against Clock on $5B Bears Stadium Plan",
+      "leadSource": "Front Office Sports · recent",
+      "leadUrl": "https://frontofficesports.com/illinois-bears-5-billion-stadium",
+      "summary": "State legislature accelerates $5 billion package for NFL franchise as relocation deadline looms. Deal hinges on public-private financing and could reshape Chicago's sports landscape if completed.",
+      "posts": []
+    },
+    {
+      "category": "revenue",
+      "leadHeadline": "Royals' New $3B Stadium Strikes Downtown Development Deal",
+      "leadSource": "Front Office Sports · recent",
+      "leadUrl": "https://frontofficesports.com/royals-3-billion-stadium-hallmark",
+      "summary": "Kansas City MLB franchise secures major real estate partnership with Hallmark Cards for new arena project. Development deal demonstrates how stadium projects now leverage broader mixed-use development revenue streams.",
+      "posts": []
+    },
+    {
+      "category": "labor",
+      "leadHeadline": "NIL Dispute Over 'Associated Entities' Threatens College Salary Cap",
+      "leadSource": "Front Office Sports · recent",
+      "leadUrl": "https://frontofficesports.com/nil-associated-entities-salary-cap",
+      "summary": "Regulatory ambiguity around NIL deal definitions could eliminate college athletics' ability to enforce spending limits. Loophole threatens structural integrity of recently implemented scholarship caps across Division I.",
+      "posts": []
+    },
+    {
+      "category": "contracts",
+      "leadHeadline": "Rogers Communications Eyes $18B Valuation for Sports Team Sale",
+      "leadSource": "Sportico · recent",
+      "leadUrl": "https://sportico.com/rogers-sports-team-18-billion-valuation",
+      "summary": "Canadian media giant seeks premium exit from sports ownership at aggressive valuation multiple. Sale timing reflects broader consolidation pressures in North American sports media and broadcasting.",
       "posts": []
     }
   ],
   "sidebar": [
     {
-      "headline": "Fever GM: Long-Term Planning Required as Caitlin Clark's Big Payday Looms",
-      "source": "Front Office Sports · latest",
-      "url": "https://www.frontofficesports.com/fever-gm-team-must-think-long-term-with-clark-payday-incoming/"
+      "headline": "Chelsea Sacks Coach Four Months into Six-Year Deal",
+      "source": "Front Office Sports · recent",
+      "url": "https://frontofficesports.com/chelsea-liam-rosenior-fired"
     },
     {
-      "headline": "Six NFL Teams With Multiple First-Round Picks Face Draft Day Decisions",
-      "source": "Front Office Sports · latest",
-      "url": "https://www.frontofficesports.com/six-nfl-teams-have-multiple-first-round-picks-and-big-questions/"
+      "headline": "Real Madrid, Barcelona Lead Soccer Valuations at $14B Combined",
+      "source": "Sportico · recent",
+      "url": "https://sportico.com/real-madrid-barcelona-valuations-14-billion"
     },
     {
-      "headline": "Kentucky Governor Questions $1M Post for Retiring Athletic Director",
-      "source": "Front Office Sports · latest",
-      "url": "https://www.frontofficesports.com/kentucky-governor-questions-uks-1m-post-for-retiring-ad/"
+      "headline": "Kentucky Governor Questions $1M Post-Retirement AD Job",
+      "source": "Front Office Sports · recent",
+      "url": "https://frontofficesports.com/uk-athletic-director-1-million-job"
     },
     {
-      "headline": "ESPN Defends Gymnastics Coverage After Minnesota Complaints",
-      "source": "Front Office Sports · latest",
-      "url": "https://www.frontofficesports.com/espn-defends-ncaa-gymnastics-broadcast-after-minnesota-backlash/"
+      "headline": "FanDuel Launches Athlete Injury Protection Sportsbook Promo",
+      "source": "Sportico · recent",
+      "url": "https://sportico.com/fanduel-injury-protection-promotion"
     },
     {
-      "headline": "FanDuel's Injury Promotion Strategy Sparks Industry Debate",
-      "source": "Sportico · latest",
-      "url": "https://www.sportico.com/gambling/fanduel-injury-promo-gets-people-talking-and-betting/"
+      "headline": "NFL Defeats $27M Antitrust Suit Over Packers Song Rights",
+      "source": "Sportico · recent",
+      "url": "https://sportico.com/nfl-packers-antitrust-lawsuit-victory"
     },
     {
-      "headline": "NFL Wins $27M Antitrust Case Over Packers Fight Song Rights",
-      "source": "Sportico · latest",
-      "url": "https://www.sportico.com/business/nfl-defeats-27-million-antitrust-lawsuit-over-packers-songs/"
+      "headline": "ESPN Defends NCAA Gymnastics Broadcast Coverage Decision",
+      "source": "Front Office Sports · recent",
+      "url": "https://frontofficesports.com/espn-ncaa-gymnastics-minnesota"
+    },
+    {
+      "headline": "Washington Cap Director Represents Rival Big Ten Players",
+      "source": "Sportico · recent",
+      "url": "https://sportico.com/washington-cap-director-big-ten-conflict"
+    },
+    {
+      "headline": "Billy Donovan Leaves Bulls as Franchise Makeover Continues",
+      "source": "Front Office Sports · recent",
+      "url": "https://frontofficesports.com/billy-donovan-bulls-departure"
     }
   ],
-  "updatedAt": "2026-04-23T02:16:25.006Z",
+  "updatedAt": "2026-04-23T02:23:36.047Z",
   "poll": {
-    "question": "Should the FCC regulate sports media rights deals to promote competition?",
+    "question": "Which will drive more sports business value growth over next 3 years?",
     "options": [
-      "Yes—increase oversight to prevent monopolistic broadcasting",
-      "No—let leagues negotiate freely with networks",
-      "Partially—regulate only the biggest deals above $1B",
-      "Unsure—need more clarity on potential impact"
+      "Women's sports media rights expansion (WNBA, NWSL)",
+      "Stadium and arena infrastructure deals ($5B+)",
+      "Gambling/sports betting promotional innovation",
+      "College athlete NIL/compensation clarity"
     ]
   },
   "predictions": [
     {
-      "statement": "WNBA media rights values exceed $2.5B annually by 2028",
-      "probability": 68,
-      "rationale": "Caitlin Clark's full national TV schedule and Fever ratings boost leverage for next negotiation cycle; investor appetite for women's sports accelerating"
-    },
-    {
-      "statement": "College NIL salary cap collapse forces NCAA to adopt professional-style spending limits",
-      "probability": 72,
-      "rationale": "Current 'associated entities' loophole litigation threatens to eliminate all compensation controls; regulators will likely intervene within 18 months"
-    },
-    {
-      "statement": "FCC initiates formal antitrust investigation of NFL media distribution by Q3 2026",
+      "statement": "FCC regulatory framework on NFL media rights adopted by end of 2026",
       "probability": 58,
-      "rationale": "Mounting Washington scrutiny and bipartisan interest in sports monopoly investigations; NFL's response signals early-stage defensive posture"
+      "rationale": "Growing Washington scrutiny and public pressure mounting; league beginning formal defense suggests rulemaking process underway"
     },
     {
-      "statement": "Stadium development costs exceed $5B for 50% of new MLB/NFL projects by 2027",
-      "probability": 75,
-      "rationale": "Royals' $3B downtown deal sets new benchmark; inflation and mixed-use development requirements driving total project costs higher"
+      "statement": "Illinois approves $5B Bears stadium financing package by June 2026",
+      "probability": 72,
+      "rationale": "Legislature racing against relocation deadline; strong political momentum and cross-party support for deal documented"
     },
     {
-      "statement": "Premium sports franchise valuations stabilize or decline 5-10% in 2026-27",
+      "statement": "NWSL reaches $2B+ total franchise valuation by 2027",
+      "probability": 65,
+      "rationale": "Columbus expansion at $205M, national media coverage of Clark, and sustained investor interest in women's sports trajectory"
+    },
+    {
+      "statement": "College NIL 'associated entities' loophole codified into NCAA policy by 2025",
+      "probability": 48,
+      "rationale": "Regulatory ambiguity persists; schools benefit from current flexibility, reducing incentive for strict enforcement"
+    },
+    {
+      "statement": "Rogers sells sports teams at $18B+ valuation within 18 months",
       "probability": 62,
-      "rationale": "Rogers $18B asking price faces market skepticism; interest rate environment and streaming saturation cooling investor appetite after 2023-24 boom"
+      "rationale": "First-quarter results trigger sale timeline; Canadian market consolidation pressures and premium valuation multiples support transaction"
     }
   ],
   "picks": [
     {
-      "matchup": "Kansas City Royals 2026 season win total",
-      "pick": "Under 82.5 wins",
+      "matchup": "Kansas City Royals vs Detroit Tigers",
+      "pick": "Royals -1.5",
       "odds": "-110",
-      "edge": "New $3B stadium commitment signals long rebuild; franchise likely to field younger roster during 5-7 year payoff window rather than compete immediately",
+      "edge": "Royals energized by new $3B stadium deal struck this week; downtown development agreement signals long-term stability and organizational momentum. Home team confidence typically elevated after major ownership/facility announcements.",
       "confidence": "medium"
     },
     {
-      "matchup": "Chicago Bears 2026 season attendance",
-      "pick": "Under 85% capacity fill rate",
+      "matchup": "Chicago Cubs vs Milwaukee Brewers",
+      "pick": "Under 8.5",
       "odds": "-110",
-      "edge": "Relocation drama to Indiana creates fan backlash and uncertainty; $5B stadium plan remains unresolved heading into season, dampening season ticket renewals",
-      "confidence": "high"
+      "edge": "Illinois Bears stadium crisis creating statewide financial/political distraction affecting Chicago sports climate. Cubs may lack focus with city's sports infrastructure uncertainty dominating local media.",
+      "confidence": "medium"
+    },
+    {
+      "matchup": "WNBA: Indiana Fever vs Connecticut Sun",
+      "pick": "Fever -2",
+      "odds": "-110",
+      "edge": "Caitlin Clark elevated to national stage via new WNBA TV deal; Fever home games now receiving premium media attention and marketing push. Team likely energized by increased spotlight and franchise value surge.",
+      "confidence": "medium"
     }
   ]
 }
