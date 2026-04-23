@@ -143,7 +143,7 @@ For each cluster:
 - leadSource: source name + time (e.g. "Front Office Sports · 3h ago")
 - leadUrl: URL of lead story
 - summary: 2 sentences on business significance, under 200 chars
-- article: a 200-250 word original article written in a sharp sports business journalism style. Cover the who, what, why it matters, financial implications, and what to watch next. Write it as a real journalist would — no fluff, concrete facts and context from the stories provided. This replaces the need for external links.
+- article: a 120-150 word original article in sharp sports business journalism style. Cover the who, what, why it matters financially, and what to watch. No fluff, concrete facts only.
 - storyIndexes: array of story index numbers in this cluster
 - posts: 2-3 real social media posts from X or Bluesky reacting to this topic. Each: { platform: "x" or "bluesky", name, handle, content, time, url }. Only include real posts you find — leave empty array if none found. Never invent posts.
 
