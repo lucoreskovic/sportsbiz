@@ -13,10 +13,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-        with:
-          fetch-depth: 1
-          token: ${{ secrets.GITHUB_TOKEN }}
-
       - uses: actions/setup-node@v4
         with:
           node-version: '22'
@@ -26,18 +22,28 @@ jobs:
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
 
-      - name: Commit stories.json
+      - name: Push stories.json via GitHub API
         run: |
-          git config user.email "action@github.com"
-          git config user.name "GitHub Action"
-          git add stories.json
-          git diff --staged --quiet && echo "No changes" && exit 0
-          git commit -m "Refresh $(date -u '+%Y-%m-%d %H:%M UTC')"
-          n=0
-          until git push || [ $n -ge 5 ]; do
-            n=$((n+1))
-            echo "Push attempt $n failed, pulling and retrying..."
-            git pull --rebase
-            sleep 3
-          done
-          git push
+          # Get current file SHA (needed for updates)
+          SHA=$(curl -s -H "Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}" \
+            "https://api.github.com/repos/${{ github.repository }}/contents/stories.json" \
+            | python3 -c "import sys,json; print(json.load(sys.stdin).get('sha',''))" 2>/dev/null || echo "")
+          
+          # Base64 encode the file
+          CONTENT=$(base64 -w 0 stories.json)
+          
+          # Build request body
+          if [ -n "$SHA" ]; then
+            BODY="{\"message\":\"Refresh stories $(date -u '+%Y-%m-%d %H:%M UTC')\",\"content\":\"$CONTENT\",\"sha\":\"$SHA\"}"
+          else
+            BODY="{\"message\":\"Refresh stories $(date -u '+%Y-%m-%d %H:%M UTC')\",\"content\":\"$CONTENT\"}"
+          fi
+          
+          # Push via API - no git conflicts, no RPC failures
+          RESULT=$(curl -s -X PUT \
+            -H "Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}" \
+            -H "Content-Type: application/json" \
+            -d "$BODY" \
+            "https://api.github.com/repos/${{ github.repository }}/contents/stories.json")
+          
+          echo "$RESULT" | python3 -c "import sys,json; r=json.load(sys.stdin); print('OK:', r.get('content',{}).get('name','') if 'content' in r else r.get('message','unknown error'))"
