@@ -471,125 +471,153 @@
     } else { ms.style.display = 'none'; }
   }
 
+  var RSS_FEEDS = [
+    { url: 'https://frontofficesports.com/feed/',                     source: 'Front Office Sports'  },
+    { url: 'https://sportico.com/feed/',                              source: 'Sportico'             },
+    { url: 'https://nypost.com/sports/feed/',                         source: 'NY Post Sports'       },
+    { url: 'https://www.theguardian.com/sport/rss',                   source: 'The Guardian'         },
+    { url: 'https://rss.nytimes.com/services/xml/rss/nyt/Sports.xml', source: 'NY Times Sports'      },
+    { url: 'https://feeds.bbci.co.uk/sport/rss.xml',                  source: 'BBC Sport'            },
+    { url: 'https://www.si.com/rss/si_top_stories.rss',               source: 'Sports Illustrated'   },
+    { url: 'https://bleacherreport.com/articles/feed',                source: 'Bleacher Report'      },
+    { url: 'https://www.cbssports.com/rss/headlines/',                source: 'CBS Sports'           },
+    { url: 'https://www.sportingnews.com/us/rss.xml',                 source: 'Sporting News'        },
+    { url: 'https://www.sportsnet.ca/feed/',                          source: 'Sportsnet'            },
+    { url: 'https://deadspin.com/rss',                                source: 'Deadspin'             },
+  ];
+
+  function guessCategory(text) {
+    text = (text||'').toLowerCase();
+    if (/broadcast|media|tv|streaming|rights|network|nbc|cbs|espn|fox|disney/.test(text)) return 'media';
+    if (/contract|deal|sign|salary|extension|trade|acquire|million|billion/.test(text)) return 'contracts';
+    if (/stadium|arena|expansion|franchise|owner|merger|valuation|invest/.test(text)) return 'leagues';
+    if (/sponsor|revenue|ticket|gambling|betting|profit|endorsement/.test(text)) return 'revenue';
+    if (/labor|cba|union|strike|cap|collective/.test(text)) return 'labor';
+    return 'revenue';
+  }
+
+  async function fetchRSSFeed(feed) {
+    try {
+      var res = await fetch(
+        'https://api.rss2json.com/v1/api.json?rss_url=' + encodeURIComponent(feed.url) + '&count=8',
+        { signal: AbortSignal.timeout(8000) }
+      );
+      var data = await res.json();
+      if (data.status === 'ok' && data.items && data.items.length > 0) {
+        return data.items.map(function(item) {
+          return {
+            title: (item.title || '').replace(/<[^>]*>/g,'').trim(),
+            link: item.link || '',
+            description: (item.description || '').replace(/<[^>]*>/g,'').slice(0,200).trim(),
+            pubDate: item.pubDate || '',
+            source: feed.source,
+          };
+        }).filter(function(i) { return i.title && i.title.length > 10; });
+      }
+    } catch(e) { console.warn('Feed failed:', feed.source, e.message); }
+    return [];
+  }
+
+  async function loadStoriesFromRSS() {
+    document.getElementById('updated-label').textContent = 'Fetching live from ' + RSS_FEEDS.length + ' sources...';
+    var results = await Promise.allSettled(RSS_FEEDS.map(fetchRSSFeed));
+    var allItems = [];
+    var sourceCounts = {};
+    results.forEach(function(r) {
+      if (r.status === 'fulfilled' && r.value.length > 0) {
+        allItems = allItems.concat(r.value);
+        r.value.forEach(function(s) { sourceCounts[s.source] = (sourceCounts[s.source]||0)+1; });
+      }
+    });
+    // Deduplicate
+    var seen = new Set();
+    allItems = allItems.filter(function(s) {
+      var k = s.title.toLowerCase().replace(/[^a-z0-9]/g,'').slice(0,50);
+      if (seen.has(k)) return false;
+      seen.add(k); return true;
+    });
+    // Sort by date newest first
+    allItems.sort(function(a,b) { return new Date(b.pubDate||0) - new Date(a.pubDate||0); });
+    var working = Object.keys(sourceCounts).length;
+    console.log('RSS sources working:', working, sourceCounts);
+    var clusters = allItems.slice(0,18).map(function(s) {
+      var h = Math.round((Date.now()-new Date(s.pubDate||0).getTime())/3600000);
+      var tl = h < 1 ? 'Just now' : h < 24 ? h+'h ago' : Math.round(h/24)+'d ago';
+      return {
+        category: guessCategory(s.title+' '+s.description),
+        leadHeadline: s.title,
+        leadSource: s.source + ' · ' + tl,
+        leadUrl: s.link,
+        summary: s.description,
+        article: s.description,
+        posts: [],
+      };
+    });
+    var sidebar = allItems.slice(18,32).map(function(s) {
+      return { headline: s.title, source: s.source, article: s.description };
+    });
+    return { clusters: clusters, sidebar: sidebar, updatedAt: new Date().toISOString(), rssLive: true, rssSourceCount: working };
+  }
+
   async function loadStories() {
     var btn = document.getElementById('refresh-btn');
     btn.disabled = true;
     btn.classList.add('spinning');
-    document.getElementById('updated-label').textContent = 'Checking for updates...';
+    document.getElementById('updated-label').textContent = 'Loading...';
     try {
+      // Try stories.json from GitHub (has AI articles, polls, picks)
       var STORIES_URL = 'https://raw.githubusercontent.com/lucoreskovic/sportsbiz/main/stories.json';
-      var res = await fetch(STORIES_URL + '?nocache=' + Date.now(), { cache: 'no-store' });
-      if (!res.ok) throw new Error('Server returned ' + res.status);
-      var data = await res.json();
-      if (!data.clusters || data.clusters.length === 0 || data.placeholder) {
-        document.getElementById('updated-label').textContent = 'No stories yet — run workflow in GitHub Actions';
+      var sjData = null;
+      try {
+        var res = await fetch(STORIES_URL + '?nc=' + Date.now(), { cache: 'no-store' });
+        if (res.ok) {
+          var text = await res.text();
+          if (text && text.trim().startsWith('{')) sjData = JSON.parse(text);
+        }
+      } catch(e) { console.warn('stories.json fetch failed:', e.message); }
+
+      if (sjData && sjData.clusters && sjData.clusters.length > 0) {
+        allData = sjData;
       } else {
-        allData = data;
-        // Update poll from fresh data, reset vote if question changed
-        if (data.poll && data.poll.question) {
-          var prevQ = localStorage.getItem('sb_poll_question');
-          if (prevQ !== data.poll.question) {
-            localStorage.removeItem('sb_poll_v1');
-            localStorage.setItem('sb_poll_question', data.poll.question);
-          }
-          POLL = data.poll;
-        }
-        if (Array.isArray(data.predictions) && data.predictions.length > 0) {
-          PREDICTIONS = data.predictions;
-        }
-        if (Array.isArray(data.picks) && data.picks.length > 0) {
-          PICKS = data.picks;
-        }
-        if (Array.isArray(data.highlights) && data.highlights.length > 0) {
-          HIGHLIGHTS = data.highlights;
-        }
-        renderFeed(data);
-        renderSidebar(data);
-        if (activeWidget === 'poll') renderWidget();
-        var t = data.updatedAt ? new Date(data.updatedAt).toLocaleTimeString('en-US',{hour:'numeric',minute:'2-digit'}) : '';
-        document.getElementById('updated-label').textContent = 'Feed updated ' + t + ' · auto-refreshes every 2h';
+        // Fallback: fetch live from RSS feeds directly in browser
+        console.log('stories.json unavailable, fetching live RSS...');
+        allData = await loadStoriesFromRSS();
       }
+
+      if (allData.poll && allData.poll.question) {
+        var prevQ = localStorage.getItem('sb_poll_question');
+        if (prevQ !== allData.poll.question) {
+          localStorage.removeItem('sb_poll_v1');
+          localStorage.setItem('sb_poll_question', allData.poll.question);
+        }
+        POLL = allData.poll;
+      }
+      if (Array.isArray(allData.picks) && allData.picks.length > 0) PICKS = allData.picks;
+      if (Array.isArray(allData.predictions) && allData.predictions.length > 0) PREDICTIONS = allData.predictions;
+      if (Array.isArray(allData.highlights) && allData.highlights.length > 0) HIGHLIGHTS = allData.highlights;
+
+      if (activeCat === 'highlights') renderHighlightsFeed();
+      else if (activeCat === 'picks') renderPicksFeed();
+      else renderFeed(allData);
+      renderSidebar(allData);
+      if (activeWidget === 'poll') renderWidget();
+
+      var src = allData.rssLive
+        ? 'Live from ' + allData.rssSourceCount + ' sources · ' + new Date().toLocaleTimeString('en-US',{hour:'numeric',minute:'2-digit'})
+        : 'Feed updated ' + new Date(allData.updatedAt).toLocaleTimeString('en-US',{hour:'numeric',minute:'2-digit'}) + ' · auto-refreshes every 2h';
+      document.getElementById('updated-label').textContent = src;
+
+      renderTicker(allData);
+
     } catch(err) {
-      console.warn('loadStories:', err.message);
-      document.getElementById('updated-label').textContent = 'Update check failed — showing last stories';
-      // Re-render what we have so feed stays visible
-      if (allData) {
-        if (activeCat === 'highlights') renderHighlightsFeed();
-        else if (activeCat === 'picks') renderPicksFeed();
-        else renderFeed(allData);
-      }
+      console.error('loadStories error:', err.message);
+      document.getElementById('updated-label').textContent = 'Could not load stories';
+      if (allData) renderFeed(allData);
+    } finally {
+      var btn2 = document.getElementById('refresh-btn');
+      if (btn2) { btn2.disabled = false; btn2.classList.remove('spinning'); }
     }
-    btn.disabled = false;
-    btn.classList.remove('spinning');
   }
-
-  /* WIDGET */
-  // Poll and predictions loaded dynamically from stories.json
-  var POLL = {
-    question: 'Loading poll...',
-    options: []
-  };
-  // ESPN league configs
-  var PREDICTIONS = [];
-  var PICKS = [];
-  var HIGHLIGHTS = [];
-
-  var ESPN_LEAGUES = [
-    { id: 'nba', label: 'NBA', url: 'https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard'  },
-    { id: 'nhl', label: 'NHL', url: 'https://site.api.espn.com/apis/site/v2/sports/hockey/nhl/scoreboard'      },
-    { id: 'nfl', label: 'NFL', url: 'https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard'    },
-    { id: 'mlb', label: 'MLB', url: 'https://site.api.espn.com/apis/site/v2/sports/baseball/mlb/scoreboard'    },
-  ];
-  var activeLeague = 'nba';
-  var scoresCache  = {};
-
-  function setWidget(type, btn) {
-    activeWidget = type;
-    document.querySelectorAll('.widget-type-btn').forEach(function(b){b.classList.remove('active');});
-    if (btn) btn.classList.add('active');
-    document.getElementById('widget-title').textContent = type==='poll'?"Today's Poll":type==='scores'?'Scores':'Predictions';
-    renderWidget();
-    if (type === 'scores') fetchScores(activeLeague);
-  }
-  function renderWidget() {
-    document.getElementById('widget-body').innerHTML =
-      activeWidget==='poll' ? buildPoll() : activeWidget==='scores' ? buildScoresShell() : buildBlank();
-  }
-  function getPollVotes(){try{return JSON.parse(localStorage.getItem('sb_poll_v1'))||null;}catch(e){return null;}}
-  function savePollVotes(v){try{localStorage.setItem('sb_poll_v1',JSON.stringify(v));}catch(e){}}
-  function buildPoll(){
-    var v=getPollVotes();
-    if(v) return buildPollResults(v);
-    return '<div class="poll-question">'+esc(POLL.question)+'</div>'+
-      POLL.options.map(function(o,i){return '<div class="poll-option"><button class="poll-option-btn" onclick="castVote('+i+')">'+esc(o)+'</button></div>';}).join('');
-  }
-  function castVote(idx){
-    var v=POLL.options.map(function(_,i){return i===idx?1:0;});
-    savePollVotes(v);
-    document.getElementById('widget-body').innerHTML=buildPollResults(v);
-  }
-  function buildPollResults(votes){
-    var total=votes.reduce(function(a,b){return a+b;},0)||1;
-    var maxV=Math.max.apply(null,votes);
-    var html='<div class="poll-question">'+esc(POLL.question)+'</div>';
-    POLL.options.forEach(function(o,i){
-      var pct=Math.round((votes[i]/total)*100);
-      html+='<div class="poll-result"><div class="poll-result-label"><span>'+esc(o)+'</span><span class="poll-result-pct">'+pct+'%</span></div>'+
-        '<div class="poll-bar-track"><div class="poll-bar-fill'+(votes[i]===maxV&&votes[i]>0?' winner':'')+'" style="width:'+pct+'%"></div></div></div>';
-    });
-    html+='<div class="poll-meta">'+total+' vote'+(total!==1?'s':'')+
-      '<button class="poll-reset" onclick="resetPoll()">Reset</button></div>';
-    return html;
-  }
-  function resetPoll(){try{localStorage.removeItem('sb_poll_v1');}catch(e){}renderWidget();}
-  function buildScoresShell() {
-    // League tab bar + placeholder — fetchScores() will fill #scores-games
-    var tabs = ESPN_LEAGUES.map(function(l) {
-      return '<button class="score-tab'+(l.id===activeLeague?' active':'')+'" onclick="fetchScores('+"'"+l.id+"'"+')">'+l.label+'</button>';
-    }).join('');
-    return '<div class="score-tabs">'+tabs+'</div><div id="scores-games"><div class="score-loading">Loading scores...</div></div>';
-  }
-
   async function fetchScores(leagueId) {
     activeLeague = leagueId;
     // Update tab active state
