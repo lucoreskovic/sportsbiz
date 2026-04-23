@@ -12,11 +12,12 @@ jobs:
   refresh:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repo
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+          token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Setup Node.js
-        uses: actions/setup-node@v4
+      - uses: actions/setup-node@v4
         with:
           node-version: '22'
 
@@ -25,14 +26,18 @@ jobs:
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
 
-      - name: Commit and push stories.json
+      - name: Commit stories.json
         run: |
           git config user.email "action@github.com"
           git config user.name "GitHub Action"
           git add stories.json
           git diff --staged --quiet && echo "No changes" && exit 0
-          git commit -m "Refresh stories $(date -u '+%Y-%m-%d %H:%M UTC')"
-          # Retry push up to 3 times
-          for i in 1 2 3; do
-            git push && break || (echo "Push attempt $i failed, retrying..." && sleep 5)
+          git commit -m "Refresh $(date -u '+%Y-%m-%d %H:%M UTC')"
+          n=0
+          until git push || [ $n -ge 5 ]; do
+            n=$((n+1))
+            echo "Push attempt $n failed, pulling and retrying..."
+            git pull --rebase
+            sleep 3
           done
+          git push
