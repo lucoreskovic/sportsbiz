@@ -282,7 +282,10 @@
     if (!body) return;
     body.innerHTML = activeWidget==='poll' ? buildPoll() : activeWidget==='scores' ? buildScoresShell() : buildBlank();
   }
-
+  var POLL = { question: '', options: [] };
+  var PICKS = [];
+  var PREDICTIONS = [];
+  var HIGHLIGHTS = [];
   function buildPoll() {
     if (!POLL || !POLL.question) return '<div style="padding:16px;color:var(--ink-3);font-size:13px;">Poll loading...</div>';
     var voted = localStorage.getItem('sb_poll_v1');
