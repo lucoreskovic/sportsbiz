@@ -22,28 +22,44 @@ jobs:
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
 
-      - name: Push stories.json via GitHub API
+      - name: Push via GitHub API
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          REPO: ${{ github.repository }}
         run: |
-          # Get current file SHA (needed for updates)
-          SHA=$(curl -s -H "Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}" \
-            "https://api.github.com/repos/${{ github.repository }}/contents/stories.json" \
-            | python3 -c "import sys,json; print(json.load(sys.stdin).get('sha',''))" 2>/dev/null || echo "")
-          
-          # Base64 encode the file
-          CONTENT=$(base64 -w 0 stories.json)
-          
-          # Build request body
-          if [ -n "$SHA" ]; then
-            BODY="{\"message\":\"Refresh stories $(date -u '+%Y-%m-%d %H:%M UTC')\",\"content\":\"$CONTENT\",\"sha\":\"$SHA\"}"
-          else
-            BODY="{\"message\":\"Refresh stories $(date -u '+%Y-%m-%d %H:%M UTC')\",\"content\":\"$CONTENT\"}"
-          fi
-          
-          # Push via API - no git conflicts, no RPC failures
-          RESULT=$(curl -s -X PUT \
-            -H "Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}" \
-            -H "Content-Type: application/json" \
-            -d "$BODY" \
-            "https://api.github.com/repos/${{ github.repository }}/contents/stories.json")
-          
-          echo "$RESULT" | python3 -c "import sys,json; r=json.load(sys.stdin); print('OK:', r.get('content',{}).get('name','') if 'content' in r else r.get('message','unknown error'))"
+          python3 << 'PYEOF'
+          import json, base64, urllib.request, os, sys
+
+          with open('stories.json', 'rb') as f:
+              content = base64.b64encode(f.read()).decode()
+
+          token = os.environ['GITHUB_TOKEN']
+          repo  = os.environ['REPO']
+          url   = f'https://api.github.com/repos/{repo}/contents/stories.json'
+          hdrs  = {'Authorization': f'Bearer {token}', 'Content-Type': 'application/json'}
+
+          # Get current SHA
+          sha = None
+          try:
+              req = urllib.request.Request(url, headers=hdrs)
+              with urllib.request.urlopen(req) as r:
+                  sha = json.loads(r.read().decode())['sha']
+          except Exception as e:
+              print('No existing SHA:', e)
+
+          # Update file
+          body = {'message': 'Refresh stories', 'content': content}
+          if sha:
+              body['sha'] = sha
+
+          req = urllib.request.Request(url,
+              data=json.dumps(body).encode(),
+              headers=hdrs, method='PUT')
+          try:
+              with urllib.request.urlopen(req) as r:
+                  result = json.loads(r.read().decode())
+                  print('Pushed OK:', result.get('content', {}).get('name'))
+          except urllib.error.HTTPError as e:
+              print('Push failed:', e.code, e.read().decode())
+              sys.exit(1)
+          PYEOF
