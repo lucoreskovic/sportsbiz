@@ -30,5 +30,9 @@ jobs:
           git config user.email "action@github.com"
           git config user.name "GitHub Action"
           git add stories.json
-          git diff --staged --quiet || git commit -m "Refresh stories $(date -u '+%Y-%m-%d %H:%M UTC')"
-          git push
+          git diff --staged --quiet && echo "No changes" && exit 0
+          git commit -m "Refresh stories $(date -u '+%Y-%m-%d %H:%M UTC')"
+          # Retry push up to 3 times
+          for i in 1 2 3; do
+            git push && break || (echo "Push attempt $i failed, retrying..." && sleep 5)
+          done
