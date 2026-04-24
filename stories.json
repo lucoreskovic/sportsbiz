@@ -1,131 +1,152 @@
 {
   "clusters": [
     {
-      "category": "labor",
-      "leadHeadline": "Mike Vrabel Addresses Scandal Before Draft, but Path Ahead Unclear",
-      "leadSource": "Front Office Sports · 0h ago",
-      "leadUrl": "https://frontofficesports.com/mike-vrabel-addresses-scandal-before-draft-but-path-ahead-unclear/",
-      "summary": "Patriots coach Mike Vrabel made surprise comments addressing recent controversy minutes before the NFL Draft began. The NFL stated it would not investigate the matter, though Vrabel will attend counseling.",
-      "article": "New England Patriots head coach Mike Vrabel addressed mounting scrutiny surrounding photographs published by Page Six showing him with former Athletic reporter Dianna Russini in March 2020. The unexpected statement arrived moments before the 2026 NFL Draft commenced in Pittsburgh. The Patriots organization publicly backed Vrabel's leadership despite the controversy. The NFL indicated it would not launch an investigation into the matter. Vrabel agreed to attend counseling sessions moving forward. The timing of his comments—just before the draft—suggested an effort to clear the air before the intense media spotlight shifted to player selections. The Patriots' support signals organizational confidence in Vrabel's ability to manage the situation professionally.",
-      "posts": []
-    },
-    {
       "category": "contracts",
-      "leadHeadline": "2026 NFL Draft picks by team: Full list of all 257 picks, plus every selection for all 32 teams",
-      "leadSource": "CBS Sports · 0h ago",
-      "leadUrl": "https://www.cbssports.com/nfl/draft/news/nfl-draft-picks-by-team-2026-full-list/",
-      "summary": "The 2026 NFL Draft delivered team-by-team analysis with first-round rookie signing bonuses jumping 18.5% as Fernando Mendoza headlined selections. Cardinals took RB Jeremiayah Love at No. 3 with a $50M rookie deal.",
-      "article": "The 2026 NFL Draft unfolded with comprehensive coverage tracking all 257 selections across 32 teams. First-round picks commanded unprecedented financial commitments, with rookie signing bonuses surging 18.5% year-over-year. Las Vegas Raiders selected consensus No. 1 pick Fernando Mendoza with -20000 betting odds, making him a franchise cornerstone. Arizona Cardinals drafted running back Jeremiayah Love third overall—the highest RB selection since Saquon Barkley in 2018—securing him a $50 million rookie contract. Draft grades provided immediate analysis of first-round selections, evaluating team strategy and player fit. The financial escalation reflected increasing investment in top talent. Media coverage emphasized fantasy football implications and roster construction impacts across the league.",
-      "posts": []
-    },
-    {
-      "category": "media",
-      "leadHeadline": "Premier League and FA Cup semi-finals: 10 things to look out for this weekend",
-      "leadSource": "The Guardian · 2h ago",
-      "leadUrl": "https://www.theguardian.com/sport/live/2026/apr/23/nfl-draft-live-updates",
-      "summary": "The Guardian previewed critical Premier League and FA Cup semi-final matches featuring Spurs' must-win game at Wolves and Arsenal's title-chase battle. Chelsea prepared for the post-Rosenior era.",
-      "article": "The Guardian's comprehensive preview highlighted pivotal Premier League and FA Cup semi-final fixtures demanding immediate attention. Tottenham faced a crucial must-win situation at Wolverhampton, with playoff positioning implications. Arsenal fought to maintain legitimate title-race credentials against high-pressure circumstances. Chelsea navigated transition challenges following managerial changes in the post-Rosenior period. Nottingham Forest pursued potential fourth-time-lucky success in competition. The Guardian's analysis provided tactical breakdowns and storyline context for each matchup. BBC Sport's football correspondent Sami Mokbel examined broader managerial upheaval sweeping the Premier League heading into summer. Multiple competitions converged simultaneously, creating unprecedented fixture congestion and dramatic narrative stakes.",
-      "posts": []
-    },
-    {
-      "category": "revenue",
-      "leadHeadline": "Patricof Co, L Catterton Champ Roster Includes Haliburton,Trout",
-      "leadSource": "Sportico · 1h ago",
-      "leadUrl": "https://www.sportico.com/business/commerce/2026/patricof-co-l-catterton-form-strategic-partnership-champ-1234891011/",
-      "summary": "Patricof Co and L Catterton expanded athlete investment portfolio featuring NBA star Tyrese Haliburton and MLB's Mike Trout. The advisory practice has spent nearly a decade pooling athlete capital for investment opportunities.",
-      "article": "Patricof Co and investment firm L Catterton announced an expanded championship roster integrating prominent athletes into investment capital strategies. The advisory practice leveraged nearly a decade of experience pooling athlete wealth for diversified investment opportunities. NBA All-Star Tyrese Haliburton and MLB superstar Mike Trout joined the initiative, amplifying the platform's market credibility. The partnership demonstrates growing athlete interest in building generational wealth beyond playing contracts. Investment portfolio expansion reflected sophisticated athlete financial planning beyond traditional endorsement models. The collaboration positioned premium athletes as capital partners rather than passive endorsers. This model addresses athlete concerns about post-career financial security while creating alternative revenue streams.",
-      "posts": []
-    },
-    {
-      "category": "leagues",
-      "leadHeadline": "F1 Mulls October Return of Bahrain Race Canceled by IranWar",
-      "leadSource": "Sportico · 3h ago",
-      "leadUrl": "https://www.sportico.com/leagues/motorsports/2026/f1-bahrain-grand-prix-middle-east-october-1234891036/",
-      "summary": "The FIA and Formula 1 parent Liberty Media discussed reinstating the Bahrain Grand Prix on the 2026 calendar after its cancellation. The 11 F1 teams have participated in discussions about the proposed October return.",
-      "article": "Formula 1 leadership engaged in active discussions regarding potential reinstatement of the Bahrain Grand Prix on the 2026 racing calendar. The race faced cancellation due to regional geopolitical circumstances, prompting comprehensive stakeholder consultation. The FIA, Formula 1 parent company Liberty Media, and all 11 competing teams participated in strategic discussions. An October timeline emerged as the proposed replacement slot, offering scheduling flexibility within the calendar framework. The negotiations reflected complex balancing between sporting calendar optimization and geopolitical risk assessment. Liberty Media's involvement signaled corporate-level commitment to calendar stability and sponsor satisfaction. Race reinstatement discussions highlighted F1's dependence on international venues and the league's vulnerability to external political events.",
-      "posts": []
-    },
-    {
-      "category": "labor",
-      "leadHeadline": "PGA Tour Lays Off 56 Employees As Shift Under Rolapp Continues",
-      "leadSource": "Front Office Sports · 4h ago",
-      "leadUrl": "https://frontofficesports.com/pga-tour-layoffs-brian-rolapp-strategy-for-profit/",
-      "summary": "The PGA Tour eliminated 56 positions representing roughly 4% of workforce during leadership transition under new management. The layoffs reflect organizational restructuring as the tour navigates strategic direction changes.",
-      "article": "The PGA Tour announced significant workforce reductions, eliminating 56 employee positions equating to approximately 4% of total staff. The layoffs occurred during ongoing organizational transformation under new leadership direction. Restructuring efforts signaled strategic realignment prioritizing operational efficiency and cost management. The workforce reduction followed broader industry consolidation affecting professional golf's governance and business model. PGA Tour leadership initiated comprehensive organizational review evaluating departmental redundancies and operational optimization. Employee reductions reflected financial pressures from declining television ratings and shifting sponsorship landscapes. The strategic shifts positioned the organization for modernization while managing immediate financial constraints affecting personnel decisions.",
+      "leadHeadline": "NFL Rookie Signing Bonuses Up 18.5% for Mendoza-Headlined Draft",
+      "leadSource": "Sportico · 0h ago",
+      "leadUrl": "https://www.sportico.com/leagues/football/2026/nfl-draft-contracts-fernando-mendoza-1234890951/",
+      "summary": "2026 NFL Draft rookie signing bonuses surge 18.5% with QB Fernando Mendoza leading the class. First-round compensation packages reach historic levels.",
+      "article": "The 2026 NFL Draft has triggered a significant increase in rookie signing bonuses, jumping 18.5% as teams compete for top talent. Fernando Mendoza's selection by Las Vegas at No. 1 sets the tone for inflated compensation packages throughout the first round. Industry analysts attribute the surge to increased NFL revenues and competitive bidding wars among franchises seeking franchise cornerstones. Running back Jeremiyah Love's No. 3 selection to Arizona nets a $50M rookie deal, the highest RB contract since 2018. The financial trajectory reflects broader trends of escalating rookie compensation as teams invest heavily in young talent. Draft economics demonstrate how quarterback scarcity and positional value drive unprecedented spending in professional football.",
       "posts": []
     },
     {
       "category": "media",
       "leadHeadline": "Football Focus to end after 52 years",
-      "leadSource": "BBC Sport · 5h ago",
+      "leadSource": "BBC Sport · 1h ago",
       "leadUrl": "https://www.bbc.com/sport/football/articles/c98kz9pe01po?at_medium=RSS&amp;at_campaign=rss",
-      "summary": "BBC Sport announced the cancellation of Football Focus after 52 years, marking the end of a longstanding football programming institution. The decision reflects evolving media consumption patterns and broadcaster strategy.",
-      "article": "BBC Sport confirmed the discontinuation of Football Focus, terminating the venerable football program after five decades of continuous programming. The 52-year institutional legacy represented British football broadcasting history and viewer tradition. Program cancellation reflected broader shifts in media consumption habits, particularly among younger audiences preferring digital platforms. BBC strategic decisions prioritized alternative content formats and budget reallocation toward emerging distribution channels. Football Focus had established generational viewership across British households, making the cancellation a significant cultural moment. The network's decision acknowledged changing audience preferences away from traditional television programming windows. The discontinuation signaled accelerating transformation of sports media landscapes globally, with legacy programming giving way to digital-first content strategies and platform-specific offerings.",
+      "summary": "BBC Sport announces Football Focus will end after 52 years on air. The long-running program represents shifting media landscape in sports broadcasting.",
+      "article": "BBC Sport has announced the end of Football Focus, concluding a 52-year run of sports programming. The decision reflects broader changes in media consumption and broadcasting priorities within the organization. Football Focus built a legacy covering Premier League action and football culture across five decades. The cancellation signals shifting editorial strategies as networks reassess programming portfolios amid changing viewership patterns. Traditional weekend sports shows face increased competition from digital platforms and on-demand content. BBC Sport's decision underscores challenges facing established broadcasting institutions in adapting to modern sports media consumption, where live streaming and social media fragments audience attention away from scheduled broadcasts.",
       "posts": []
     },
     {
       "category": "labor",
-      "leadHeadline": "Paige Shiver says ex-Michigan football coach Sherrone Moore 'had complete control over me'",
-      "leadSource": "The Guardian · 6h ago",
-      "leadUrl": "https://www.theguardian.com/sport/2026/apr/23/paige-shiver-sherrone-moore-good-morning-america-interview",
-      "summary": "Michigan football's former assistant Paige Shiver detailed alleged control and manipulation by fired coach Sherrone Moore in her first television interview. ABC will air the full interview Friday morning following Moore's conviction and sentencing.",
-      "article": "Paige Shiver, former Michigan football assistant, revealed extensive allegations of control and manipulation by ex-coach Sherrone Moore during her first televised interview. The disclosure followed Moore's firing, arrest, and criminal sentencing for conduct violations. Shiver detailed repeated contact patterns and psychological control mechanisms employed during their alleged affair. The interview provided firsthand account of workplace power dynamics and institutional accountability failures at Michigan. ABC scheduled comprehensive broadcast coverage for Friday morning, expanding media scrutiny of college football's workplace culture. Her public testimony challenged institutional silence surrounding coaching staff misconduct. The case highlighted systemic vulnerabilities in collegiate athletics governance, particularly regarding assistant coach oversight and player-staff relationship boundaries. Shiver's willingness to speak publicly accelerated broader conversations about power imbalances and institutional responsibility in sports.",
+      "leadHeadline": "PGA Tour Lays Off 56 Employees As Shift Under Rolapp Continues",
+      "leadSource": "Front Office Sports · 2h ago",
+      "leadUrl": "https://frontofficesports.com/pga-tour-layoffs-brian-rolapp-strategy-for-profit/",
+      "summary": "PGA Tour cuts 56 employees, roughly 4% of workforce, under new leadership. Restructuring continues organizational transition amid merger discussions.",
+      "article": "The PGA Tour has eliminated 56 positions, representing approximately 4% of its total workforce, as leadership under new management implements structural changes. The layoffs reflect ongoing organizational transformation following executive transitions and strategic realignment discussions. PGA Tour officials cite operational efficiency and financial optimization as drivers for workforce reduction. The cuts affect multiple departments as the organization repositions for evolving golf business landscape. Industry observers view the layoffs as part of broader consolidation efforts within professional golf, particularly amid ongoing merger negotiations. The restructuring demonstrates challenges facing established sports organizations adapting to changing competitive environments and financial pressures from alternative golf tours and entertainment platforms.",
+      "posts": []
+    },
+    {
+      "category": "leagues",
+      "leadHeadline": "Mendoza Goes No. 1 to Raiders As QB Run at Top of NFL Draft Continues",
+      "leadSource": "NY Post Sports · 3h ago",
+      "leadUrl": "https://nypost.com/2026/04/23/sports/fernando-mendoza-shares-sweet-moment-with-mom-family-after-going-no-1/",
+      "summary": "Fernando Mendoza selected first overall by Raiders in 2026 NFL Draft. Heisman winner positioned as franchise quarterback cornerstone for Las Vegas.",
+      "article": "Fernando Mendoza became the first overall pick in the 2026 NFL Draft when the Las Vegas Raiders selected the Heisman Trophy-winning quarterback Thursday night. The selection caps months of speculation about quarterback positioning in the draft's opening selections. Raiders organization has strategically prepared for Mendoza's arrival, implementing long-term development infrastructure. The Heisman winner's selection by Las Vegas represents organizational commitment to building around a franchise quarterback prospect. Mendoza's draft night moment with his family highlighted emotional stakes surrounding quarterback transitions in professional football. The Raiders' choice signals confidence in Mendoza's ability to transform franchise trajectory after decades searching for Super Bowl-caliber quarterback play.",
+      "posts": []
+    },
+    {
+      "category": "media",
+      "leadHeadline": "Vrabel Photos Test Realities of NFL Privacy, WorkplaceConduct",
+      "leadSource": "Sportico · 4h ago",
+      "leadUrl": "https://www.sportico.com/law/analysis/2026/mike-vrabel-photos-dianna-russini-legal-implications-1234890984/",
+      "summary": "Mike Vrabel photos with reporter spark workplace conduct debates in NFL. Patriots coach navigates privacy, professional relationship scrutiny.",
+      "article": "Published photographs of New England Patriots head coach Mike Vrabel with The Athletic's Dianna Russini have ignited broader conversations about workplace conduct and privacy in professional sports. The images, released by NY Post's Page Six, prompted immediate organizational response and league attention. NFL management stated it would not formally investigate the matter, though Vrabel will attend counseling. Patriots ownership publicly backed the coach's leadership credentials despite controversy surrounding the photos. The situation highlights tension between public visibility, professional relationships, and workplace standards in elite sports organizations. Media scrutiny of coach-journalist interactions raises questions about privacy expectations for public figures and appropriate professional boundaries within sports industry relationships.",
+      "posts": []
+    },
+    {
+      "category": "leagues",
+      "leadHeadline": "2026 NFL Draft picks by team: Full list of all 257 picks, plus every selection for all 32 teams",
+      "leadSource": "CBS Sports · 5h ago",
+      "leadUrl": "https://www.cbssports.com/nfl/draft/news/nfl-draft-picks-by-team-2026-full-list/",
+      "summary": "CBS Sports tracks all 257 picks across 2026 NFL Draft with comprehensive team-by-team breakdown. Live draft analysis and grading provided throughout event.",
+      "article": "CBS Sports provided comprehensive coverage of the 2026 NFL Draft, tracking all 257 selections across 32 teams in real-time analysis. The coverage included detailed team-by-team breakdowns with immediate draft grading and evaluation insights. Mike Renner's first-round analysis assessed strategic positioning and selection value for each franchise. Draft grades evaluated organizational decision-making at critical junctures, particularly for quarterback and running back selections. The comprehensive tracking system allowed fans and analysts to monitor every transaction, trade, and substitution throughout the four-day event. CBS Sports' multi-platform coverage demonstrates the scale and audience investment surrounding professional football's annual player allocation event.",
+      "posts": []
+    },
+    {
+      "category": "revenue",
+      "leadHeadline": "If Every NFL Team Used AI Before the Draft, Why Is It aPunchline?",
+      "leadSource": "Sportico · 6h ago",
+      "leadUrl": "https://www.sportico.com/business/tech/2026/nfl-draft-ai-use-teams-chatgpt-claude-1234890950/",
+      "summary": "Sportico examines why NFL teams using AI draft technology remains subject of ridicule. Analytics adoption raises questions about competitive effectiveness.",
+      "article": "Sportico's analysis questions why artificial intelligence implementation in NFL draft processes remains culturally dismissed despite widespread adoption across franchises. The piece explores tension between technological sophistication and traditional draft culture skepticism. NFL general managers increasingly employ AI analytics for player evaluation, yet public perception lags behind operational reality. The comedy surrounding analytics adoption reflects broader sports culture resistance to computational decision-making frameworks. Organizations leverage machine learning for injury prediction, performance modeling, and prospect evaluation with measurable competitive advantages. The cultural disconnect between technological implementation and public acceptance demonstrates how sports traditions resist modernization, even when data-driven approaches demonstrably improve organizational outcomes across multiple franchises.",
+      "posts": []
+    },
+    {
+      "category": "media",
+      "leadHeadline": "Meet Roger Goodells NFL Draft Night Pronunciation Whisperer",
+      "leadSource": "Front Office Sports · 7h ago",
+      "leadUrl": "https://frontofficesports.com/meet-roger-goodells-nfl-draft-night-pronunciation-whisperer/",
+      "summary": "NFL Commissioner Roger Goodell relies on pronunciation specialist for draft night introductions. Behind-scenes preparation ensures accurate player name announcements.",
+      "article": "NFL Commissioner Roger Goodell employs a pronunciation specialist to ensure accurate player name announcements during draft night broadcasts. The role highlights organizational attention to detail for high-profile televised events reaching millions of viewers. Goodell announces all 32 first-round picks, requiring meticulous preparation for international and diverse player names. Pronunciation accuracy protects player dignity and reflects league professionalism during marquee programming. The specialist role demonstrates NFL commitment to respectful player representation on sports' biggest annual television platform. Behind-scenes infrastructure supporting broadcast excellence reveals organizational investment in viewer experience and cultural sensitivity surrounding diverse player backgrounds.",
       "posts": []
     }
   ],
   "sidebar": [
     {
-      "headline": "Mendoza Goes No. 1 to Raiders As QB Run at Top of NFL Draft Continues",
-      "source": "Front Office Sports · 0h ago",
-      "article": "Fernando Mendoza, the Heisman Trophy winner, was selected No. 1 overall by the Las Vegas Raiders, cementing his status as a franchise cornerstone. The selection launched what multiple sources indicated would be a quarterback-heavy draft run at the top of the first round, reshaping NFL rosters across the league."
+      "headline": "Fernando Mendoza shares sweet moment with mom and family after going No. 1 in NFL Draft 2026",
+      "source": "NY Post Sports · 3h ago",
+      "article": "Heisman Trophy winner Fernando Mendoza celebrated becoming the first overall pick with heartfelt family moments Thursday night as the Mendoza household erupted in celebration of his historic draft night selection."
     },
     {
-      "headline": "Falcons James Pearce Jr. will enter pretrial intervention program to resolve felony charges against ex-girlfriend Rickea Jackson",
-      "source": "NY Post Sports · 1h ago",
-      "article": "Atlanta Falcons defensive end James Pearce Jr. resolved legal proceedings through a pretrial intervention program addressing felony charges. The resolution arrived on opening day of the 2026 NFL Draft, allowing the player to continue his professional career under agreed terms and program requirements."
+      "headline": "2026 NFL Draft: What Fernando Mendozas Raiders arrival means for Brock Bowers, Ashton Jeanty and Jalen Nailor",
+      "source": "CBS Sports · 5h ago",
+      "article": "Mendoza's selection impacts existing Raiders roster players as fantasy implications emerge. Bowers, Jeanty and Nailor face uncertain offensive roles under new quarterback leadership."
     },
     {
-      "headline": "Meet Roger Goodell's NFL Draft Night Pronunciation Whisperer",
-      "source": "Front Office Sports · 2h ago",
-      "article": "NFL Commissioner Roger Goodell announced first-round picks with assistance from specialized pronunciation guidance. The 'pronunciation whisperer' supported Goodell throughout the evening, ensuring accurate name pronunciation for all 32 first-round selections during draft night."
-    },
-    {
-      "headline": "If Every NFL Team Used AI Before the Draft, Why Is It a Punchline?",
-      "source": "Sportico · 3h ago",
-      "article": "Sportico examined the paradox of AI adoption across NFL front offices during draft preparation. Despite widespread implementation of artificial intelligence analytical tools, media and fans continued ridiculing general manager draft decisions, questioning whether sophisticated technology truly improved personnel selections."
-    },
-    {
-      "headline": "Stanley Cup Playoffs on Sportsnet: Senators vs. Hurricanes, Game 3",
-      "source": "Sportsnet · 4h ago",
-      "article": "The Carolina Hurricanes visited the Ottawa Senators in first-round Stanley Cup Playoff action holding a 2-0 series lead. Sportsnet broadcast Game 3 coverage starting at 7:30 p.m. ET, with the Hurricanes positioned to advance with a home-ice victory."
-    },
-    {
-      "headline": "Doug Martin, former Vikings star, dead at 68",
+      "headline": "Jeremiyah Love goes No. 3 to Cardinals in NFL draft in statement pick",
       "source": "NY Post Sports · 5h ago",
-      "article": "Doug Martin, a legendary Minnesota Vikings defensive lineman and ninth overall pick in the 1980 NFL Draft, passed away at age 68. Martin's career represented a significant chapter in franchise history, establishing him among the best defensive linemen in Vikings organization records."
+      "article": "Running back Jeremiyah Love became the highest RB drafted since 2018 when Arizona selected him at No. 3 overall, securing a $50M rookie contract in statement organizational commitment."
     },
     {
-      "headline": "'Worth a thousand words': Trump photo obscuring women's tennis team sparks backlash",
-      "source": "The Guardian · 6h ago",
-      "article": "A White House photograph showing Georgia's women's tennis championship team sparked widespread criticism after President Trump was positioned obscuring female players while shaking hands with male teammates. Tennis legend Martina Navratilova led criticism, highlighting gender inequity in celebratory recognition."
+      "headline": "Paige Shiver says ex-Michigan football coach Sherrone Moore 'had complete control over me'",
+      "source": "The Guardian · 4h ago",
+      "article": "Paige Shiver provides first interview detailing alleged control and repeated contact by former Michigan football coach Sherrone Moore following his firing and sentencing, airing on ABC Friday."
     },
     {
-      "headline": "The bad, and good, of Blue Jays reliever Jeff Hoffman's tumultuous 2026",
+      "headline": "Littler cuts gap to Clayton with win in Liverpool",
+      "source": "BBC Sport · 6h ago",
+      "article": "Luke Littler strengthened playoff positioning in Premier League darts with impressive 6-1 victory over Jonny Clayton, maintaining grip on critical postseason qualification."
+    },
+    {
+      "headline": "The bad, and good, of Blue Jays reliever Jeff Hoffmans tumultuous 2026",
       "source": "Sportsnet · 7h ago",
-      "article": "The Toronto Blue Jays evaluated reliever Jeff Hoffman's role balancing short-term winning objectives with his performance recovery. The analysis addressed franchise priorities of maximizing 2026 competitiveness while addressing Hoffman's bullpen contribution consistency."
+      "article": "Toronto Blue Jays evaluate Jeff Hoffman's bullpen role amid tumultuous 2026 season, balancing short-term winning objectives with longer-term pitcher development priorities."
+    },
+    {
+      "headline": "Kentucky Derby Owner Expands Triple Crown Footprint With Preakness IP Deal",
+      "source": "Front Office Sports · 8h ago",
+      "article": "Kentucky Derby ownership expands across Triple Crown with strategic Preakness intellectual property agreement, signaling long-term franchise development beyond traditional racing revenue streams."
+    },
+    {
+      "headline": "F1 Mulls October Return of Bahrain Race Canceled by IranWar",
+      "source": "Sportico · 8h ago",
+      "article": "FIA, Liberty Media and 11 F1 teams discussed reintroducing Bahrain Grand Prix to 2026 calendar following cancellation due to regional conflict, potentially reshaping formula one scheduling."
     }
   ],
   "poll": {
-    "question": "Will the 18.5% increase in 2026 NFL rookie signing bonuses prove sustainable for future draft classes?",
+    "question": "Which 2026 NFL Draft trend will have greatest long-term impact?",
     "options": [
-      "Yes, market forces and salary cap growth justify permanent increases",
-      "No, bonuses will normalize downward within 2-3 years",
-      "Partially, increases stick but growth rate moderates significantly",
-      "Unsure, dependent on league revenue trajectory"
+      "QB salary explosion with Mendoza deal setting market",
+      "Running back resurgence with Love's No. 3 selection",
+      "AI analytics finally winning mainstream acceptance",
+      "Media/privacy boundaries reshaping player-journalist relationships"
     ]
   },
-  "predictions": [],
+  "predictions": [
+    {
+      "statement": "Fernando Mendoza wins NFL Offensive Rookie of the Year",
+      "probability": 0.68,
+      "rationale": "Heisman winner, first overall pick, Raiders infrastructure investment, historical QB draft success rates"
+    },
+    {
+      "statement": "Additional PGA Tour layoffs announced within 6 months",
+      "probability": 0.72,
+      "rationale": "Ongoing organizational restructuring, merger negotiations, competitive pressure from alternative tours, efficiency trends"
+    },
+    {
+      "statement": "BBC reinstates Football Focus within 24 months",
+      "probability": 0.35,
+      "rationale": "Fan backlash potential, legacy programming value, but streaming shift permanent, viewer migration established"
+    },
+    {
+      "statement": "NFL adopts formal workplace conduct policy addressing coach-media relationships",
+      "probability": 0.58,
+      "rationale": "Vrabel situation created precedent, league governance evolving, but traditional resistance to privacy intrusion remains"
+    }
+  ],
   "picks": [],
-  "updatedAt": "2026-04-23T00:30:00Z",
+  "updatedAt": "2026-04-23T04:32:00Z",
   "highlights": []
 }
