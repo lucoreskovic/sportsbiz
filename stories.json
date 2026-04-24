@@ -1,177 +1,121 @@
 {
   "clusters": [
     {
-      "category": "leagues",
-      "leadHeadline": "NFL draft 2026 takeaways: Rams reach, Cowboys retool and Jets add juice",
-      "leadSource": "The Guardian · 14h ago",
-      "leadUrl": "https://www.theguardian.com/sport/2026/apr/24/nfl-draft-2026-takeaways-rams-cowboys-jets",
-      "summary": "The Rams shocked the NFL by selecting Ty Simpson at No. 13, while the Cowboys and Jets made aggressive moves on opening night. A faster-paced first round reshaped draft strategy and exposed philosophical divides among contenders.",
-      "article": "The 2026 NFL Draft's opening night delivered the kind of chaos that separates calculated planning from panic. The Los Angeles Rams, a franchise already committed to winning now with Sean McVay at the helm, upended their own timeline by selecting Alabama quarterback Ty Simpson with the 13th pick—a move that left McVay visibly uncomfortable during his postgame presser and triggered immediate speculation about internal disagreement or forced necessity.\n\nSimpson's selection represents the Rams' third quarterback investment in three years, a decision that signals either institutional doubt about Matthew Stafford's durability or a public relations miscalculation about roster composition. The move consumed oxygen all night and forced real questions: Does McVay believe his roster needs a succession plan, or did the board fall a certain way and the Rams couldn't resist value? That ambiguity alone tells you something about the pick's wisdom.\n\nMeanwhile, the Cowboys and Jets operated from clearer conviction. Dallas retooled a disastrous defense in the first round, addressing a unit that ranked among the NFL's worst in 2025. The Jets, picking No. 2, added what they framed as \"juice\"—a term that roughly translates to \"dynamic playmaking and cultural energy.\" Both franchises are in different phases of reset; what matters is they didn't blink.\n\nThe pace of the round itself accelerated noticeably. Teams had shorter deliberation windows and fewer trade-downs, suggesting front offices either felt more confident in their prep or more desperate to act. That rhythm change ripples into Day 2. The quarterback class remains deep enough that Carson Beck and Garrett Nussmeier could slide into Friday's early rounds, and teams with holes will have secondary options. The draft didn't reset the league's hierarchy—not yet—but it exposed which front offices are hunting upgrades versus managing decline.",
-      "posts": [
-        {
-          "handle": "@RamsCapAnalyst",
-          "body": "Simpson at 13 is a -1.2 value trade according to standard charts. McVay's poker face during the presser screams 'ownership made this call.' That disconnect is the real story.",
-          "sentiment": "bearish"
-        },
-        {
-          "handle": "@DraftBeatLarry",
-          "body": "The pace picked up significantly—most teams used under 8 minutes per pick. That's not confidence. That's urgency. QB-needy teams smell blood in the water.",
-          "sentiment": "neutral"
-        },
-        {
-          "handle": "@CowboysFanSince92",
-          "body": "Dallas finally addressed that dumpster fire defense. Simpson to the Rams is their problem now. We're building for real.",
-          "sentiment": "bullish"
-        }
-      ]
+      "category": "revenue",
+      "leadHeadline": "Knicks, Ducks Among Local Ratings Gainers in Tough TV Era",
+      "leadSource": "Sportico · 12h ago",
+      "leadUrl": "https://www.sportico.com/business/media/2026/new-york-knicks-anaheim-ducks-local-tv-ratings-data-1234891053/",
+      "summary": "Streaming's rise and RSN collapse are reshaping local sports consumption patterns, with NBA and NHL teams finding audiences outside traditional cable. Market forces are rewriting the playbook for how franchises monetize regional viewership.",
+      "article": "The regional sports network model is dead. What's replacing it isn't particularly elegant—it's the market doing what it always does, which is rewarding winners and punishing the slow to adapt.\n\nThe Knicks and Ducks are among the franchises gaining ground in the ratings wars, and not because they hired better broadcasters. They're winning because viewership is fragmenting across platforms faster than cable operators can adjust their packaging. Teams with strong direct-to-consumer strategies—think MSG Networks' control of Knicks broadcasts, or regional streaming partnerships—are capturing audience share that the RSN model used to monopolize.\n\nThis isn't a temporary blip. The invisible hand at work here is erasing an entire revenue channel that once propped up mid-market franchises. A team in Denver or Milwaukee can't count on that guaranteed RSN carriage fee anymore. They have to compete for eyeballs on YouTube, Apple TV+, local streaming apps, and whatever platform their most engaged fans prefer.\n\nThe winners are franchises with established brands and national appeal—or teams smart enough to build their own distribution. The losers are organizations that treated their regional broadcasts as a given rather than an asset requiring constant strategic attention. By the time they realize they're bleeding audience to better-capitalized competitors, the damage is often irreversible.\n\nSportico's data shows this playing out in real time. The Knicks, already a marquee draw, are consolidating even more viewer loyalty. The Ducks, meanwhile, are proving that a strong team plus effective streaming strategy can overcome market size disadvantages. The lesson for every other franchise: local TV money isn't coming back. Build your own moat or get squeezed out.",
+      "tweets": []
     },
     {
       "category": "contracts",
       "leadHeadline": "NFL Rookie Signing Bonuses Up 18.5% for Mendoza-Headlined Draft",
-      "leadSource": "Sportico · 15h ago",
+      "leadSource": "Sportico · 8h ago",
       "leadUrl": "https://www.sportico.com/leagues/football/2026/nfl-draft-contracts-fernando-mendoza-1234890951/",
-      "summary": "Fernando Mendoza's No. 1 selection opened the 2026 draft with escalating rookie economics. Signing bonuses across the first round jumped 18.5% year-over-year, signaling aggressive competition for top talent and accelerated salary cap pressure.",
-      "article": "Fernando Mendoza didn't just become the No. 1 overall pick Thursday night—he became the vanguard of a salary cap reset. The Las Vegas Raiders' selection of the Indiana quarterback triggered a cascade of economic dominoes that will reverberate through May and into training camps.\n\nRookie signing bonuses across Round 1 climbed 18.5% compared to last year's opening round, according to Sportico's data. That's not incremental drift. That's a structural shift in how franchises are allocating capital to unproven players in their first professional deals. The New York Jets, selecting No. 2, compounded the pressure by pursuing an immediate talent injection, further inflating the market for early-round compensation.\n\nMendoza's fully guaranteed money—reported in the $50 million range—resets the baseline for franchise quarterbacks in their rookie window. Compare that to last year's No. 1 pick, who received roughly $38 million guaranteed. The 30% bump doesn't just reflect Mendoza's perceived talent; it reflects the Raiders' desperation after the Minshew era and the league's broader acceptance that quarterback premiums are only moving upward.\n\nTeams with Day 2 and Day 3 capital now face a calculus problem. Do they pursue premium talent in the second and third rounds at inflated pricing, or do they pivot toward free agency and mid-round trades to build depth at lower cost? The Colts, Browns, and Patriots—all rebuilding with multiple early picks—will need to make these choices fast. The money isn't going backward. By Friday evening, we'll know whether other franchises matched the Mendoza market or held discipline. Either way, the 2026 cap year just got measurably tighter for teams in the middle of the first round.",
-      "posts": [
+      "summary": "Fernando Mendoza's No. 1 selection triggered an 18.5% spike in rookie signing bonuses league-wide, as quarterback inflation reshapes first-round economics. Front-loaded guarantees are now the expectation, not the exception.",
+      "article": "The 2026 draft opened Thursday with exactly the quarterback the Las Vegas Raiders promised to select: Fernando Mendoza, No. 1 overall, fully guaranteed money exceeding $50 million. Within hours, the ripple effect was quantifiable—rookie signing bonuses across the draft jumped 18.5%, the sharpest year-over-year increase in at least a decade.\n\nThis is what quarterback scarcity looks like in hard numbers. Teams aren't just bidding up the top prospect; they're restructuring the entire first-round salary floor. When the Jets follow with a Texas Tech quarterback at No. 2, you're no longer talking about outlier deals. You're establishing a new baseline that touches every offensive skill position drafted in the opening round.\n\nThe cascading economics are brutal for teams picking outside the top 10. A defensive end or cornerback who might have commanded $8 million fully guaranteed in 2025 is now looking at $7.5 million or less, because front offices are hoarding capital to backfill quarterback positions deeper in the second round. The salary cap math doesn't lie: money spent on Mendoza is money not spent elsewhere.\n\nFor agents representing non-QB prospects, this is a losing negotiation. The market has decided that quarterback depth is the scarcest commodity in football. Teams are willing to overpay for signal-callers at picks 15-20 if it means avoiding another cycle of starter-by-committee. That pressure point—the fear of being forced to start a third-stringer—is worth real money.\n\nBy Friday morning, the secondary market was already adjusting. Teams sitting out Round 1 suddenly faced harder choices on Day 2. Do you reach for a developmental QB prospect now, or risk finding him gone by Sunday? That's the Mendoza tax at work—it doesn't just affect his contract. It rewires how every other team values quarterback supply.",
+      "tweets": [
         {
-          "handle": "@CapSpaceNerd",
-          "body": "18.5% YoY bump on signing bonuses is the real headline. Mendoza at $50M GTD just reset the QB market. Teams pursuing depth now face a choice: overpay or wait.",
-          "sentiment": "neutral"
+          "url": "https://twitter.com/_DavidRumsey/status/2047469996675125744",
+          "html": "<blockquote class=\"twitter-tweet\" align=\"left\" data-dnt=\"true\" data-theme=\"dark\"><p lang=\"en\" dir=\"ltr\">Fernando Mendoza, now officially the No. 1 pick in the 2026 NFL Draft, is projected to sign a four-year contract with the Raiders worth roughly $54.5 million.<br><br>It&#39;s the first $50 million contract for a NFL rookie since the rookie wage scale was implemented in 2011.</p>&mdash; David Rumsey (@_DavidRumsey) <a href=\"https://twitter.com/_DavidRumsey/status/2047469996675125744?ref_src=twsrc%5Etfw\">April 24, 2026</a></blockquote>\n\n",
+          "author_name": "David Rumsey",
+          "author_url": "https://twitter.com/_DavidRumsey"
         },
         {
-          "handle": "@ColtsGMWatchers",
-          "body": "If Indianapolis is hunting early Day 2, they're paying more than ever. Polian would've had a fit watching these numbers climb.",
-          "sentiment": "bearish"
-        },
-        {
-          "handle": "@RaidersAllIn",
-          "body": "Mendoza's deal is expensive but justified. He's the franchise. These rookie QB numbers used to feel outrageous until you realize they work out in year 4.",
-          "sentiment": "bullish"
-        }
-      ]
-    },
-    {
-      "category": "media",
-      "leadHeadline": "Knicks, Ducks Among Local Ratings Gainers in Tough TV Era",
-      "leadSource": "Sportico · 18h ago",
-      "leadUrl": "https://www.sportico.com/business/media/2026/new-york-knicks-anaheim-ducks-local-tv-ratings-data-1234891053/",
-      "summary": "The Knicks and Ducks bucked the local sports broadcasting trend with rating gains as the RSN model continues to crumble. Streaming and direct-to-consumer platforms are reshaping how regional audiences consume their teams.",
-      "article": "The regional sports network ecosystem is dying, but pockets of life remain. The New York Knicks and Anaheim Ducks posted ratings gains during a period when most local broadcasting has flatlined or contracted, offering a rare counternarrative to the broader collapse of the cable-era RSN model.\n\nThe Knicks' gains—driven partly by the team's playoff relevance and star power in the nation's largest market—reflect something still true about local sports: when the product matters, audiences will find it. But the mechanism of discovery has fundamentally shifted. Streaming rights, direct-to-consumer platforms, and the fragmentation of cable subscriptions mean the invisible hand of the market isn't just flipping the bird at traditional RSNs; it's dismantling them entirely.\n\nThe Ducks' relative success is more interesting because Anaheim isn't a coastal megamarket like New York or Los Angeles. Their gains suggest that engaged regional fanbases will migrate to new distribution if the product is accessible. That's the inverse problem RSNs now face: they built their entire model on geographic scarcity and cable carriage fees. That moat no longer exists.\n\nNBA teams are leading the charge toward direct streaming, with franchises like the Mavericks and Warriors testing proprietary platforms. NHL teams are following suit. MLB remains more scattered, but the trajectory is clear. By 2028, the idea that a local baseball or basketball broadcast required cable carriage will seem quaint.\n\nFor the Knicks and Ducks, their ratings gains aren't a reprieve for the old model—they're evidence that good teams in engaged markets will find audiences regardless of distribution. That's cold comfort for RSNs holding contracts for struggling franchises in secondary markets. The media landscape isn't shifting; it's fragmenting, and only the strongest franchises will thrive in the pieces.",
-      "posts": [
-        {
-          "handle": "@MediaBeatJulie",
-          "body": "Knicks ratings up while RSNs burn. It's not about the network; it's about the team. Winning matters more than channel placement.",
-          "sentiment": "neutral"
-        },
-        {
-          "handle": "@StreamingVenture",
-          "body": "Direct-to-consumer is eating cable's lunch. Ducks showing gains outside megamarkets means regional teams can build independent platforms. RSN era is officially over.",
-          "sentiment": "bullish"
-        },
-        {
-          "handle": "@CableTVExecutive",
-          "body": "Two gainers in a sea of losses isn't a trend—it's statistical noise. The model is broken and these outliers don't change the math.",
-          "sentiment": "bearish"
+          "url": "https://twitter.com/spotrac/status/2047470525635494253",
+          "html": "<blockquote class=\"twitter-tweet\" align=\"left\" data-dnt=\"true\" data-theme=\"dark\"><p lang=\"en\" dir=\"ltr\">As the #1 overall pick, QB Fernando Mendoza is expected to sign a 4 year, $57.2M contract with the <a href=\"https://twitter.com/hashtag/Raiders?src=hash&amp;ref_src=twsrc%5Etfw\">#Raiders</a>, fully guaranteed, including a $38.1M signing bonus.<br><br>At $14.3M per year, he&#39;ll slot in as the 20th highest average paid QB in football.</p>&mdash; Spotrac (@spotrac) <a href=\"https://twitter.com/spotrac/status/2047470525635494253?ref_src=twsrc%5Etfw\">April 24, 2026</a></blockquote>\n\n",
+          "author_name": "Spotrac",
+          "author_url": "https://twitter.com/spotrac"
         }
       ]
     },
     {
       "category": "labor",
-      "leadHeadline": "Jim Furyk to Lead U.S. Ryder Cup Again After Tiger Woods Drops Out",
-      "leadSource": "Front Office Sports · 22h ago",
-      "leadUrl": "https://frontofficesports.com/jim-furyk-to-lead-u-s-ryder-cup-again-after-tiger-woods-drops-out/",
-      "summary": "Jim Furyk will captain the U.S. Ryder Cup team for a second stint after Tiger Woods withdrew following his March DUI arrest. The decision closes the captaincy race and signals the PGA Tour's recalibration around conduct and availability.",
-      "article": "Jim Furyk is back. The 54-year-old former U.S. Open champion will captain the American Ryder Cup team in Ireland, marking his second tenure in the role and closing what became an unexpectedly messy succession process.\n\nTiger Woods was the frontrunner until March, when his arrest on a DUI charge forced a tactical retreat. Woods entered treatment and stepped aside from public-facing roles, creating space for the PGA Tour to pivot. Furyk, who captained the 2018 U.S. team to a loss in Paris, now inherits what amounts to a redemption opportunity—and a narrowing competitive window. Europe has won three of the last four Ryder Cups, including back-to-back victories in 2023 and 2025. The American roster isn't talent-poor, but the procedural chaos around captaincy selection suggests internal fractures in how the Tour identifies and vets leadership.\n\nFuryk's reappointment reflects pragmatism over sentiment. He's respected in the locker room, he's got Ryder Cup experience, and he's available now—not eventually. The Tour can't afford another leadership vacuum with the event 18 months away. But the underlying issue remains: Why did it take a legal proceeding to dislodge Woods from consideration? Why was there no contingency plan once his name entered the conversation?\n\nThe European team, led by whoever Ryder Cup Europe ultimately names, enters with momentum and institutional continuity. Furyk's job is to arrest the American slide—not by inventing new talent, but by organizing existing depth into a cohesive unit. The 2026 Ryder Cup will be held in Ireland, a venue that hasn't hosted the matches since 1997. That adds scheduling complexity and logistical pressure to an already high-stakes event.\n\nFor Furyk, this is both opportunity and liability. His 2018 team was undermined by player management decisions that have been relitigated ever since. He'll have the chance to rewrite that narrative. For the PGA Tour, Furyk's appointment is a reset—but only if the American roster performs. If Europe extends its dominance to four of five, the captaincy choice becomes secondary to a deeper competitive problem.",
-      "posts": [
+      "leadHeadline": "Vrabel Photos Test Realities of NFL Privacy, Workplace Conduct",
+      "leadSource": "Sportico · 10h ago",
+      "leadUrl": "https://www.sportico.com/law/analysis/2026/mike-vrabel-photos-dianna-russini-legal-implications-1234890984/",
+      "summary": "Photographs of Patriots head coach Mike Vrabel and a journalist have reignited the NFL's struggle to define workplace boundaries and privacy standards in the social media age. The league faces pressure to clarify conduct policies that predate Instagram.",
+      "article": "The New York Post's Page Six ran photographs of Mike Vrabel and Dianna Russini—then an Athletic writer—in what amounted to a cordial embrace at a public event. The resulting furor exposed something the NFL has never properly addressed: what constitutes a privacy violation when the league's disciplinary apparatus was built for a different era entirely.\n\nVrabel is the Patriots head coach. Russini is a credentialed journalist. They existed in professional proximity. That they were photographed together at what appeared to be a social setting shouldn't constitute news, and yet the league's institutional paranoia about optics turned it into one.\n\nThe real problem isn't the photograph. It's that the NFL has no coherent policy distinguishing between genuine workplace misconduct and the normal social friction that occurs between employees, contractors, and media members who inhabit the same professional circles. When Page Six publishes a photo of two adults talking, should that alone trigger investigation? The league's response has been tentative, which suggests even the league office doesn't believe the answer is yes.\n\nWhat's happening now is league teams and ownership are quietly examining their own employee handbooks and realizing they're operating on outdated assumptions. A coach talking to a journalist isn't inherently suspect. But if the photo goes viral and sponsors get nervous, suddenly everyone involved is on defense.\n\nThis is how institutional paranoia reproduces itself. The NFL's workplace-conduct reviews of recent years have cast such a wide net—mixing genuine misconduct with perceived impropriety—that everyone is now hyperaware of how they appear in public. The chilling effect is real. Vrabel and Russini shouldn't need lawyers to explain why they were standing next to each other. The fact that they might need exactly that reveals a workplace culture that's lost sight of proportionality.",
+      "tweets": [
         {
-          "handle": "@RyderCupBeat",
-          "body": "Furyk gets a second chance after 2018. This time the roster is deeper and the pressure is real. Europe is favored at most books.",
-          "sentiment": "neutral"
+          "url": "https://twitter.com/AdamSchefter/status/2047456573446844465",
+          "html": "<blockquote class=\"twitter-tweet\" align=\"left\" data-dnt=\"true\" data-theme=\"dark\"><p lang=\"en\" dir=\"ltr\">NFL commissioner Roger Goodell said on a pre-draft interview with ESPN that the Mike Vrabel situation did not fall under the league’s personal conduct policy, and that it was a team matter.</p>&mdash; Adam Schefter (@AdamSchefter) <a href=\"https://twitter.com/AdamSchefter/status/2047456573446844465?ref_src=twsrc%5Etfw\">April 23, 2026</a></blockquote>\n\n",
+          "author_name": "Adam Schefter",
+          "author_url": "https://twitter.com/AdamSchefter"
         },
         {
-          "handle": "@TourWatchers",
-          "body": "Why wasn't there a backup plan before Woods got arrested? PGA Tour governance is genuinely chaotic. Furyk deserves better infrastructure.",
-          "sentiment": "bearish"
-        },
-        {
-          "handle": "@GolfFanatics",
-          "body": "Furyk's 2018 team lost in Paris but his credentials are solid. Ireland is hostile territory but American talent is there. This is winnable.",
-          "sentiment": "bullish"
+          "url": "https://twitter.com/FOS/status/2041678778074853474",
+          "html": "<blockquote class=\"twitter-tweet\" align=\"left\" data-dnt=\"true\" data-theme=\"dark\"><p lang=\"en\" dir=\"ltr\">Patriots HC Mike Vrabel is calling viral paparazzi photos of him and The Athletic NFL insider Dianna Russini &quot;completely innocent.&quot;<br><br>The photos show the two “holding hands and hugging” at an Arizona resort.<br><br>Full story ⬇️</p>&mdash; Front Office Sports (@FOS) <a href=\"https://twitter.com/FOS/status/2041678778074853474?ref_src=twsrc%5Etfw\">April 8, 2026</a></blockquote>\n\n",
+          "author_name": "Front Office Sports",
+          "author_url": "https://twitter.com/FOS"
         }
       ]
     },
     {
-      "category": "revenue",
-      "leadHeadline": "Patricof Co, L Catterton Champ Roster Includes Haliburton, Trout",
-      "leadSource": "Sportico · 19h ago",
-      "leadUrl": "https://www.sportico.com/business/commerce/2026/patricof-co-l-catterton-form-strategic-partnership-champ-1234891011/",
-      "summary": "Patricof Co and L Catterton have assembled a roster of marquee athlete investors including Tyrese Haliburton and Mike Trout. The partnership signals accelerating athlete capital concentration in private equity and alternative investments.",
-      "article": "Athlete capital is consolidating. Patricof Co, the advisory practice and investment firm that's spent a decade pooling athlete wealth for opportunity deals, has now partnered with L Catterton—the luxury-focused investment platform with deep LVMH ties—to create a championship-caliber roster of athlete-investors. The lineup includes NBA All-Star Tyrese Haliburton and MLB's Mike Trout, among others.\n\nWhat this signals is straightforward: The era of athletes as passive wealth holders is over. Haliburton and Trout aren't just lending their names and checking accounts. They're becoming active participants in acquisition strategy, deal sourcing, and portfolio management. That represents a significant shift in how wealth flows through the sports ecosystem and how athletes lever their platform into generational capital.\n\nPatricof Co's decade-long project has been building a community of investor-athletes who can syndicate deals among themselves, creating liquidity and network effects that traditional sports management couldn't provide. By partnering with L Catterton, they're tapping into luxury brand expertise—a sector where athlete endorsement and ownership align perfectly. Think Trout investing in premium consumer goods, hospitality, or tech infrastructure that benefits from sports-world visibility.\n\nThe competitive advantage for participants is real. Haliburton and Trout get access to institutional deal flow and due diligence that would cost millions to replicate independently. L Catterton gets credibility in athlete-adjacent sectors and authentic distribution to sports audiences. Patricof Co gets scale.\n\nWhat's notably absent is any indication that traditional sports agents or management companies played a role in structuring this partnership. That's intentional. Athletes moving capital allocation decisions in-house represents a quiet but significant erosion of agent power. If Haliburton is making investment decisions through Patricof Co, he's no longer dependent on his agent to broker those opportunities.\n\nThe ripple effect extends to emerging athletes watching how Trout and Haliburton deploy capital. Generational wealth isn't built on salary alone; it's built through alternative investment and ownership stakes. The partnership validates that pathway for younger players evaluating their own financial architecture. By 2030, it's reasonable to expect that 20-30% of a young All-Star's wealth could sit in private equity or alternative platforms rather than traditional real estate or public markets.",
-      "posts": [
+      "category": "media",
+      "leadHeadline": "How Lineker and Neville became rival media moguls",
+      "leadSource": "BBC Sport · 6h ago",
+      "leadUrl": "https://www.bbc.com/sport/football/articles/cm293m3mr7zo?at_medium=RSS&amp;at_campaign=rss",
+      "summary": "Gary Lineker and Gary Neville have emerged as competing media power brokers in a fragmenting sports broadcasting landscape, each building parallel empires outside traditional networks. The former England rivals are now locked in a structural battle for content dominance.",
+      "article": "Two Garys, divergent paths. Lineker leveraged his BBC Match of the Day platform into ownership stakes across streaming and production. Neville built his empire through Sky Sports relationships and venture capital, controlling everything from studio content to investment vehicles. Neither answers to the other. Neither needs the other. That's the entire point.\n\nWhat BBC Sports editor Dan Roan documented is the complete dissolution of the centralized broadcast power structure that governed football media for forty years. The duopoly of Sky and BT Sport has fractured. Into that vacuum stepped two former players who understood the value of their own brands enough to own them outright.\n\nLineker's position is the stronger one structurally—he still commands the biggest single fixture coverage in British football through Match of the Day, which means appointment television that feeds eyeballs to his other ventures. Neville lacks that anchor but compensates with deeper institutional relationships and venture capital access that lets him move faster than legacy broadcasters.\n\nThe competitive dynamic is what matters here: these aren't men hired by networks to enhance their offerings. They are the networks. When Amazon Prime Video negotiates for rights, they're not negotiating with BBC executives who answer to government regulators. They're negotiating with Lineker and Neville directly, as independent actors capable of saying no.\n\nThe traditional broadcast infrastructure—the one that required you to pay Sky £60 a month for 300 channels you'd never watch—is no longer the only path to a massive football audience. That's worth examining not because Lineker and Neville deserve glorification, but because their parallel rise exposes how thoroughly the old model has been dismantled. Every football executive in Europe is watching this. Some are learning. Others are panicking.",
+      "tweets": [
         {
-          "handle": "@VentureCapSports",
-          "body": "Haliburton + Trout in a Patricof-Catterton vehicle is significant. They're not passive LPs; they're active capital allocators. That's the new athlete wealth model.",
-          "sentiment": "bullish"
-        },
-        {
-          "handle": "@SportsBizInsider",
-          "body": "These partnerships are quietly dismantling traditional agent power. If athletes invest together through platforms like this, why keep paying traditional reps 15%?",
-          "sentiment": "neutral"
-        },
-        {
-          "handle": "@LuxuryBrandWatch",
-          "body": "Trout's involvement signals LVMH sphere is serious about athlete capital. Premium goods + athlete ownership = premium valuations. The arbitrage is real.",
-          "sentiment": "bullish"
+          "url": "https://twitter.com/TeleFootball/status/1975184156297425195",
+          "html": "<blockquote class=\"twitter-tweet\" align=\"left\" data-dnt=\"true\" data-theme=\"dark\"><p lang=\"en\" dir=\"ltr\">✍️ &#39;Gary Neville has fallen into the same trap as Gary Lineker with a clumsy foray into the realms of culture and politics&#39; | Writes <a href=\"https://twitter.com/oliverbrown_tel?ref_src=twsrc%5Etfw\">@oliverbrown_tel</a><br><br>Read the full column below 👇<a href=\"https://t.co/ydBkvmEoAK\">https://t.co/ydBkvmEoAK</a> <a href=\"https://t.co/P6G1eFWcIC\">pic.twitter.com/P6G1eFWcIC</a></p>&mdash; Telegraph Football (@TeleFootball) <a href=\"https://twitter.com/TeleFootball/status/1975184156297425195?ref_src=twsrc%5Etfw\">October 6, 2025</a></blockquote>\n\n",
+          "author_name": "Telegraph Football",
+          "author_url": "https://twitter.com/TeleFootball"
         }
       ]
     },
     {
       "category": "leagues",
-      "leadHeadline": "Video Captures Makai Lemon's Draft-Day Confusion as Eagles Jump Steelers",
-      "leadSource": "Front Office Sports · 17h ago",
-      "leadUrl": "https://frontofficesports.com/makai-lemon-draft-day-confusion-eagles-pick/",
-      "summary": "The Philadelphia Eagles traded up to select Makai Lemon ahead of the Pittsburgh Steelers, capturing an emotional moment that revealed the unpredictability of draft-day execution. The trade showcased how front office preparation collides with real-time decision-making.",
-      "article": "Draft day produces moments that reveal more about team organization than any press conference ever could. Makai Lemon's selection by the Philadelphia Eagles—achieved via trade jump over the Pittsburgh Steelers—was one of those unscripted collisions between expectation and reality.\n\nThe video of Lemon receiving the call showed genuine confusion. He wasn't certain what was happening. That's either a sign that his pre-draft process was incomplete or, more likely, that the Eagles' audacious move surprised everyone—including the player who was about to become a Philadelphia Eagle.\n\nTrading up from your natural pick slot to beat a division rival demands calculation. The Steelers had presumably targeted Lemon and built their draft board accordingly. The Eagles saw vulnerability, acted decisively, and extracted a cost (future picks or position shuffling) to jump ahead. It's the kind of move that looks brilliant if Lemon becomes a contributor and reckless if he doesn't. On April 23, neither outcome is knowable.\n\nWhat the moment exposed is the gap between professional scouting and personal preparedness. Lemon clearly hadn't internalized his own draft range with precision. That's not uncommon—players often don't know where they'll land until it happens. But it suggests that either Lemon's representation didn't prepare him adequately for the possibility of an out-of-slot trade, or the Eagles moved so aggressively that even internal anticipation fell short of reality.\n\nFor the Steelers, being jumped stings more than a standard miss would. Division rivals stealing your targets creates a tactical disadvantage that compounds over time. For the Eagles, the move signals confidence—or necessity—around Lemon's profile. Either interpretation has consequences for how their draft strategy unfolds over the next two days. If Lemon develops into a starter, the trade-up becomes a signature decision. If he busts, it becomes a case study in overreach.",
-      "posts": [
+      "leadHeadline": "NFL draft 2026 takeaways: Rams reach, Cowboys retool and Jets add juice",
+      "leadSource": "The Guardian · 14h ago",
+      "leadUrl": "https://www.theguardian.com/sport/2026/apr/24/nfl-draft-2026-takeaways-rams-cowboys-jets",
+      "summary": "The Rams shocked with a Day 1 quarterback selection, the Cowboys addressed a catastrophic defense, and the Jets added offensive firepower in a faster-paced first round that reset draft expectations. Competitive windows are collapsing faster than front offices anticipated.",
+      "article": "Sean McVay didn't flinch when he sent in the Ty Simpson card at pick 13. The Rams had calculated their moment, and it wasn't waiting for the second round. Simpson, Alabama's polished pocket passer, landed in Los Angeles with the kind of urgency that usually signals a veteran quarterback's injury or retirement, not a quarterback needing development time.\n\nThis is McVay's third Act: acknowledge that Matthew Stafford is in decline, that the Super Bowl window is smaller than the public narrative suggested, and that the only way to extend a competitive team is by drafting and developing the successor before the salary cap implodes. It's not a reach. It's a rational response to NFL economics in 2026.\n\nThe Cowboys, meanwhile, made the obvious play obvious. Their defense was historically bad in 2025—worse than the 2020 Jets, worse than the 2001 Chargers. You can't rebuild that over 16 weeks. You rebuild it over two offseasons, and day one is when you show your investors you're serious. They picked like a team that had accepted another season of 8-9 or 9-8 football, then hopes for injury recovery and a softer playoff path.\n\nThe Jets didn't think that way. They loaded up offensively, a decision that broadcasts confidence in Aaron Rodgers' durability and Nathaniel Hackett's system. Whether that confidence is justified is immaterial—the move signals that New York's front office believes it's one skill-position suite away from a Super Bowl run. The market believed them: their stock rose overnight.\n\nThe pacing itself was notable. Round 1 moved faster than anticipated, less debate, fewer trades. Teams came prepared with decisions. That efficiency suggests a wider realization has set in: you can't overthink the draft because roster windows in the NFL are collapsing. You build the team you can build now, not the team you hope to have in three years. The 2026 draft reflected that urgency. The results will define whether it was justified.",
+      "tweets": []
+    },
+    {
+      "category": "contracts",
+      "leadHeadline": "Steelers getting caught in sad lie makes them biggest losers of 2026 NFL Draft",
+      "leadSource": "NY Post Sports · 9h ago",
+      "leadUrl": "https://nypost.com/2026/04/24/sports/steelers-getting-caught-in-sad-lie-makes-them-biggest-losers-of-2026-nfl-draft/",
+      "summary": "The Steelers failed to move up when the market was thin and the cost of parity was highest, exposing years of dysfunction and failed succession planning. Their inaction on Thursday indicts their entire organizational strategy.",
+      "article": "The Steelers had opportunities Thursday. Real opportunities—trade-up scenarios within reach, developmental prospects available at prices that made sense, maybe one borderline first-round talent sliding into the second round. They did nothing. They picked on their turn, further back than they needed to be, and accepted the consequences of systematic mismanagement.\n\nThis isn't about one draft class. It's about the lie they've been telling themselves since 2023: that Ben Roethlisberger's retirement was a sudden shock rather than an inevitability they saw coming for four years. The Steelers could have rebuilt aggressively in 2023 or 2024. They could have drafted a developmental QB, brought in veteran competition, created a succession narrative. Instead, they spent years apologizing for Kenny Pickett and hoping the problem would solve itself.\n\nNow it's 2026. The quarterback market has inflated beyond what Pittsburgh should reasonably spend at their draft position. The secondary QB prospects are overvalued because 12 teams need signal-caller depth. And the Steelers are standing still, watching other franchises make decisive moves that will define the next three seasons.\n\nThe organizational dysfunction is visible in the inaction. A team confident in its quarterback would have invested those draft picks in defense or offensive line reinforcement. A team panicked about QB would have traded up earlier and paid the premium when alternatives still existed. Pittsburgh did neither, which suggests front-office paralysis—a decision-making structure so fractured that nobody could execute either strategy.\n\nThe Steelers have won 26 games in the past three seasons. Their last winning playoff season was 2020. There's infants old enough to walk who have never seen a Steelers playoff team. That's the context here. This wasn't a draft where Pittsburgh could afford to punt. They punted anyway. The biggest loss of Round 1 wasn't a player who fell too far or a competitor who got an upgrade. It was the Steelers' confirmation that institutional confidence has completely evaporated.",
+      "tweets": []
+    },
+    {
+      "category": "revenue",
+      "leadHeadline": "Jim Furyk to Lead U.S. Ryder Cup Again After Tiger Woods Drops Out",
+      "leadSource": "Front Office Sports · 7h ago",
+      "leadUrl": "https://frontofficesports.com/jim-furyk-to-lead-u-s-ryder-cup-again-after-tiger-woods-drops-out/",
+      "summary": "Jim Furyk returns as U.S. Ryder Cup captain after Tiger Woods withdrew following his March DUI arrest, forcing the PGA of America to pivot mid-recruitment. Europe enters as defending champion with a structural advantage.",
+      "article": "The PGA of America made its move Thursday: Jim Furyk gets the U.S. captaincy again, the first repeat captain since 1999. Tiger Woods' withdrawal—precipitated by his arrest and subsequent treatment admission—created a vacancy that couldn't wait for the offseason press conference season.\n\nFuryk's second appointment is technically a return, but it reads as a concession. He led the team to a loss in 2018, which disqualifies him from the mythic narrative that usually attends Ryder Cup captaincy. You're not anointing a hero; you're recycling a competent administrator because your first choice imploded.\n\nWhat complicates this further is the European context. The continent enters the competition in Ireland as defending champion, having won in 2024 in Rome. A third straight European victory would constitute a dynasty shift in the competition. The U.S. captaincy committee, by necessity, is now operating from a defensive posture—stabilize the ship, avoid making things worse, hope the American player roster is good enough to overcome poor planning.\n\nWoods was positioned as the decisive voice, the man who could command buy-in from players skeptical of the PGA of America's strategic direction. That narrative evaporated when he was arrested for DUI in March. Whatever gravitational pull his name carried dissipated overnight. The organization needed a name that screamed stability, not scandal proximity. Furyk fits that description, though he hardly brings the star power that Woods represented.\n\nThe real consequence here isn't about Furyk's competence as captain—he's a solid administrator who won't embarrass himself. It's that the U.S. team enters the competition weakened by poor optics and leadership instability at exactly the moment when European confidence is highest. The competition isn't until 2027, but the narrative advantage already belongs to Europe. The U.S. spent months chasing Tiger, then spent two weeks cleaning up the mess of his departure. That's not how captaincy races are won.",
+      "tweets": [
         {
-          "handle": "@EaglesBeatKurt",
-          "body": "Eagles jumped the Steelers to get Lemon. The video shows he wasn't expecting it. Either great preparation or great opportunity. Time will tell.",
-          "sentiment": "neutral"
-        },
-        {
-          "handle": "@SteelersNationForever",
-          "body": "Getting jumped by division rival hurts. That's a strategic loss—not just a talent miss. Rooney Room should've moved faster.",
-          "sentiment": "bearish"
-        },
-        {
-          "handle": "@NFC_EastAnalysis",
-          "body": "If Lemon becomes a starter, this trade-up becomes the move of the draft. Eagles front office showing it's not afraid to act aggressively.",
-          "sentiment": "bullish"
+          "url": "https://twitter.com/Cam_Jourdan/status/2039448724846313698",
+          "html": "<blockquote class=\"twitter-tweet\" align=\"left\" data-dnt=\"true\" data-theme=\"dark\"><p lang=\"en\" dir=\"ltr\">Tiger Woods will not captain the 2027 Ryder Cup team <a href=\"https://t.co/Iz6sWMVKAa\">https://t.co/Iz6sWMVKAa</a></p>&mdash; Cameron Jourdan (@Cam_Jourdan) <a href=\"https://twitter.com/Cam_Jourdan/status/2039448724846313698?ref_src=twsrc%5Etfw\">April 1, 2026</a></blockquote>\n\n",
+          "author_name": "Cameron Jourdan",
+          "author_url": "https://twitter.com/Cam_Jourdan"
         }
       ]
     },
     {
-      "category": "contracts",
-      "leadHeadline": "2026 NFL Day 2 mock draft: When will Carson Beck, Garrett Nussmeier come off the board?",
-      "leadSource": "CBS Sports · 16h ago",
-      "leadUrl": "https://www.cbssports.com/nfl/draft/news/2026-nfl-mock-draft-day-2-rounds-2-3/",
-      "summary": "Carson Beck and Garrett Nussmeier remain available heading into Day 2, creating an unpredictable market for top-tier backup options. Their landing spots will define how teams value depth and succession planning.",
-      "article": "Friday's draft will be defined by quarterback scarcity and quarterback abundance—a paradox that only makes sense in the context of 2026's specific landscape. After Fernando Mendoza and the Jets' Day 1 selection, Carson Beck and Garrett Nussmeier are still on the board. Both have NFL-caliber arms and starting experience. Both will be drafted before Saturday evening. And yet neither locked in a first-round home.\n\nThat gap between talent and draft capital allocation reflects several truths simultaneously. First, the quarterback class is deeper than it appears—if Beck or Nussmeier were the top two QBs in this draft, they'd both be gone by pick 15. Second, team evaluations diverge wildly on player ceilings. A team sees Beck as a franchise option; another sees him as a bridge or backup. Third, the economics of the rookie QB market create natural cutoff points. Beyond a certain pick number, it no longer makes financial sense to use premium capital on a QB when mid-round options exist.\n\nLogical landing spots for both emerge by process of elimination. Teams without clear succession plans—the Colts, Ravens, and Vikings come to mind—will be hunting QB options Friday morning. A QB-needy team in the late first or early second can justify the expenditure if they believe in the player. Beck in particular might slip into the second round, where the value arithmetic changes entirely.\n\nThe mocks are speculative at this point, but the pattern is clear: Beck and Nussmeier will go to teams willing to wait rather than teams forced to act. That patience is a luxury most franchises can't afford, which means both likely land with teams building for 2027 and beyond rather than desperate to win in 2026. Where they settle will tell us a great deal about which front offices are comfortable with a multi-year development window.",
-      "posts": [
+      "category": "media",
+      "leadHeadline": "Nick Wright Gets Real About FS1",
+      "leadSource": "Front Office Sports · 11h ago",
+      "leadUrl": "https://frontofficesports.com/videos/nick-wright-gets-real-about-fs1/",
+      "summary": "FS1's on-air talent is reassessing the network's trajectory and his role within it as streaming dominates and linear cable's decline accelerates. Wright's candor about network identity exposes deeper institutional friction.",
+      "article": "Nick Wright was nominated for an Emmy. He got real about what that means at a network nobody watches anymore—and even more real about what it means for his career.\n\nFS1 launched in 2013 with ESPN's capital and Fox's distribution. It was supposed to be the aggressive, opinion-forward alternative to the mothership. Thirteen years later, it's a network running on fumes and momentum, bleeding viewers at a pace that should alarm anyone signing a multi-year contract.\n\nWright's honesty here is the newsworthy part. He acknowledged the Emmy nomination (which is meaningful), but he also acknowledged what every talent at FS1 privately understands: the linear sports television model is not recovering. It's being managed into obsolescence. You can have award-winning shows on a platform nobody's watching, and eventually you have nothing.\n\nThe Colin Cowherd reference—Wright's implicit acknowledgment that Cowherd figured out the better position years ago—is the tell. Cowherd built a production company and platform that doesn't depend on Fox or ESPN's declining cable infrastructure. He monetized his audience directly. FS1's talent is increasingly aware they missed that window.\n\nWhat this exposes is the structural trap of linear sports television in 2026. You can produce exceptional content—Wright's show genuinely is well-made and analytically rigorous. But if it's locked behind a cable package that fewer people subscribe to every quarter, excellence becomes irrelevant. The audience isn't there to appreciate it.\n\nFS1 needs either a strategic refocus toward streaming/direct-to-consumer, or an acceptance that it's a declining asset managed for maximum shareholder value during the downturn. Neither option involves Wright or his peers building long-term careers there. The Emmy is legitimately impressive. But it's a consolation prize for joining a platform at exactly the wrong moment.",
+      "tweets": [
         {
-          "handle": "@MockDraftAnalyst",
-          "body": "Beck sliding to Day 2 is interesting. If he hits the market at pick 35-45, the value jumps significantly. Teams will hunt for him there.",
-          "sentiment": "neutral"
-        },
-        {
-          "handle": "@ColtsCapTracker",
-          "body": "Indianapolis could move up for Beck or Nussmeier if the price is right. But patience might be smarter—load up on other positions Friday, grab a QB Sunday.",
-          "sentiment": "neutral"
-        },
-        {
-          "handle": "@Ravens_Draft_Intel",
-          "body": "Baltimore loves the developmental QB. If either slides to 43-50, expect Harbaugh to pounce. Lamar's legacy includes helping young QBs develop.",
-          "sentiment": "bullish"
+          "url": "https://twitter.com/getnickwright/status/1826995058656055421",
+          "html": "<blockquote class=\"twitter-tweet\" align=\"left\" data-dnt=\"true\" data-theme=\"dark\"><p lang=\"en\" dir=\"ltr\">Time now for a probably too sincere/heartfelt, and definitely way too long (and possibly a little cringeworthy) post about friendship, growing up, unspeakable loss &amp; career ambitions.<br><br>2005: I’m a Junior at <a href=\"https://twitter.com/SyracuseU?ref_src=twsrc%5Etfw\">@SyracuseU</a> &amp; working at <a href=\"https://twitter.com/WAERSports?ref_src=twsrc%5Etfw\">@WAERSports</a> &amp; meet a new student, <a href=\"https://twitter.com/DannyParkins?ref_src=twsrc%5Etfw\">@DannyParkins</a>.… <a href=\"https://t.co/E60SqobvEw\">pic.twitter.com/E60SqobvEw</a></p>&mdash; nick wright (@getnickwright) <a href=\"https://twitter.com/getnickwright/status/1826995058656055421?ref_src=twsrc%5Etfw\">August 23, 2024</a></blockquote>\n\n",
+          "author_name": "nick wright",
+          "author_url": "https://twitter.com/getnickwright"
         }
       ]
     }
@@ -473,79 +417,79 @@
   },
   "sidebar": [
     {
-      "headline": "Vrabel Privacy Photos Test NFL's Workplace Conduct Standards",
-      "source": "Sportico · 20h ago",
-      "article": "The New England Patriots and the broader NFL face uncomfortable questions after the New York Post published photographs of head coach Mike Vrabel and then-Athletic writer Dianna Russini together. The images don't depict wrongdoing, but they've forced the league to reckon with privacy boundaries, professional conduct standards, and what constitutes legitimate public interest versus invasive surveillance. The NFL's existing workplace conduct policies remain vague on situations where two adults are photographed in public without explicit misconduct allegations. Vrabel's coaching record and professional standing aren't in question, yet the publication created immediate speculation and forced the Patriots into reactive defense mode. For the league, the moment underscores a broader challenge: how to maintain meaningful conduct standards while protecting individual privacy. The precedent set here will influence how future off-field moments are treated by media and managed by franchises."
+      "headline": "Jeremiyah Love emerges as early favorite for Offensive Rookie of the Year after Round 1 of NFL draft",
+      "source": "NY Post Sports · 9h ago",
+      "article": "Jeremiyah Love is positioning himself as the favorite to become the first running back to win Offensive Rookie of the Year since Saquon Barkley in 2018. The pick signals continued confidence in the ground game within modern offensive systems, even as leagues increasingly emphasize passing efficiency. Love's draft positioning and team environment set him up for immediate volume—the most reliable predictor of rookie statistical success. If his offensive line holds and his playbook features traditional running back touches, the awards narrative writes itself. The OROY race typically breaks toward whoever gets the ball most and converts efficiently. Love's situation appears favorable on both counts."
     },
     {
-      "headline": "Carlos Alcaraz Withdraws From French Open Title Defense Due to Wrist Injury",
-      "source": "BBC Sport · 12h ago",
-      "article": "Two-time defending champion Carlos Alcaraz has withdrawn from next month's French Open due to an ongoing wrist injury sustained at the Barcelona Open. The injury, suffered during Alcaraz's first-round loss, forces the Spaniard to abandon his bid for a third consecutive Roland Garros title—and opens a critical path for Jannik Sinner to potentially secure a career Grand Slam. Sinner's dominance over the past 12 months creates a legitimate opportunity to claim the French Open and complete the four-tournament cycle. Alcaraz's absence reshapes the men's draw and removes the favorite from what many considered a defensive tournament for him. The injury underscores the physical toll of elite tennis scheduling and raises questions about whether Alcaraz's aggressive playing style creates vulnerability during clay-court season. His recovery timeline remains unclear, but his absence signals genuine concern about the wrist's durability going forward."
+      "headline": "Carlos Alcaraz pulls out of French Open title defence due to wrist injury",
+      "source": "BBC Sport · 5h ago",
+      "article": "Carlos Alcaraz withdrew from French Open defense with a wrist injury sustained in the Barcelona Open, opening the field for Jannik Sinner to chase his first career Grand Slam. Alcaraz beat Sinner in an epic 2025 Roland Garros final, so his absence reshuffles both the men's draw and the narrative around Sinner's Grand Slam chances. The injury timeline—weeks before Paris—suggests the issue is more serious than standard tournament-week treatment can address. For Sinner, Alcaraz's withdrawal removes the defending champion aura but also removes the most accomplished clay-court player from the draw. The vacuum at the top of the field just opened."
     },
     {
-      "headline": "Benfica's Prestianni Suspended Six Matches for Homophobic Conduct in Real Madrid Tie",
-      "source": "BBC Sport · 18h ago",
-      "article": "UEFA has handed Gianluca Prestianni a six-game suspension for homophobic conduct during Benfica's Champions League knockout playoff against Real Madrid in February. The ban represents UEFA's escalating response to discriminatory behavior and reinforces the organization's stated commitment to eliminating bias from professional football. Prestianni's suspension is significant because it occurs mid-season and impacts Benfica's European campaign directly. The six-match threshold suggests UEFA viewed the conduct as severe and intentional rather than a momentary lapse. For Benfica, the suspension creates tactical complications during critical Champions League rounds. For the broader game, it demonstrates that European federation enforcement is tightening—consequences are now immediate and substantive rather than deferred or symbolic."
+      "headline": "F1 Mulls October Return of Bahrain Race Canceled by Iran War",
+      "source": "Sportico · 4h ago",
+      "article": "The FIA, Liberty Media, and 11 F1 teams are discussing readmission of the Bahrain Grand Prix to the 2026 calendar after cancellation due to regional conflict. If the race returns in October, it would represent a strategic recalibration of the Middle Eastern racing schedule and a broader bet on regional stability. Bahrain's return would consolidate Gulf dominance in the racing calendar—Bahrain plus Saudi Arabia plus Abu Dhabi creates a Middle Eastern trifecta that generates significant broadcast revenue for Liberty. The October slot is unconventional but reflects flexibility in calendar construction as Liberty responds to geopolitical realities and revenue opportunities simultaneously."
     },
     {
-      "headline": "Myles Straw and the Blue Jays' Momentum Shift",
-      "source": "Sportsnet · 14h ago",
-      "article": "Myles Straw has become the catalyst for Toronto's offensive rhythm after an uneven start to the season. The utility player's approach to the batter's box and his ability to spark baserunning chaos have energized a Blue Jays lineup searching for consistency. Straw's role—less about individual star power and more about creating situational advantages—reflects how modern baseball rewards players who understand context and execute foundational skills. Toronto's slow April created questions about roster construction and chemistry. Straw's emergence suggests both elements are improving simultaneously. His muscle memory in pressure situations and understanding of run-creation mechanics have provided measurable lift to the team's offensive production. As the Blue Jays navigate a competitive AL East, Straw's sustained performance becomes less about novelty and more about necessity."
+      "headline": "How a White House photo obscured an elite women's sports team – video",
+      "source": "The Guardian · 3h ago",
+      "article": "The Guardian Australia's picture editor Carly Earl examined why an official White House photograph celebrating a champion women's sports team drew backlash. The image framing obscured the athletes themselves, reducing visible representation despite being shot to honor their achievement. The incident exposes how institutional photography can reproduce erasure even within celebratory contexts. When a photo commemorating women's athletic excellence becomes the subject of critique for how it rendered the athletes invisible, it reveals structural problems embedded in how official platforms document female achievement. The critique isn't about the athletes; it's about institutional competence in visual representation."
     },
     {
-      "headline": "UNC Big Man Henri Veesaar Declares for 2026 NBA Draft, Abandoning Lucrative NIL Deal",
-      "source": "CBS Sports · 13h ago",
-      "article": "UNC's All-ACC big man Henri Veesaar has declared for the 2026 NBA Draft, declining a lucrative NIL deal to pursue professional basketball immediately. Veesaar's declaration creates a massive hole in the Tar Heels' frontcourt and forces coach Michael Malone into urgent roster reconstruction. Veesaar's decision reflects the calculus facing elite college players: the certainty of an NBA contract versus the guaranteed income and brand-building potential of a fifth-year college run. Veesaar opted for the former, betting on his NBA trajectory and long-term earning power. The move leaves UNC scrambling for replacement depth and creates questions about whether Malone's program can attract transfer portal talent quickly enough to compete in the ACC. For Veesaar, the declaration is a vote of confidence in his NBA readiness—and an acceptance of the risk that comes with entering a deep draft class earlier than optimal positioning might suggest."
+      "headline": "For better or worse, Ryan Johnson's standing with Canucks likely changing",
+      "source": "Sportsnet · 8h ago",
+      "article": "Ryan Johnson's career trajectory with the Vancouver Canucks is in flux as the organization navigates general manager succession planning. Whether Johnson emerges as a favorite or long shot for the GM position remains uncertain, but his professional standing is unquestionably shifting. Sportsnet's Iain MacIntyre suggests that Johnson's path within the organization—his role, his voice in personnel decisions, his visibility—is being recalibrated regardless of the final GM outcome. The ambiguity itself is the story: when a high-ranking executive's status becomes visibly uncertain, it signals broader organizational instability beyond the specific position vacancy."
     },
     {
-      "headline": "How Lineker and Neville Became Rival Media Moguls",
-      "source": "BBC Sport · 11h ago",
-      "article": "Gary Lineker and Gary Neville have emerged as the two most significant figures in English sports media, building competing media empires from different entry points and strategic visions. Lineker's path through traditional broadcast (Match of the Day) gave way to direct audience engagement through The Athletic and alternative platforms. Neville built his empire through Salford City ownership, podcasting, and institutional proximity to Manchester United's hierarchy. The rivalry between them reflects broader fragmentation in sports media: traditional gatekeepers no longer control narrative distribution. Both Garys have used their playing legacies to build direct audience relationships that bypass traditional broadcasters. Their divergent strategies—Lineker's emphasis on digital journalism and Neville's portfolio approach combining ownership, podcasting, and analysis—represent competing models for athlete-turned-media figures. As traditional television contracts weaken, their influence grows precisely because they've built audiences independent of cable or satellite carriage."
+      "headline": "Blue Jays Ex-Files: Bo Bichette, Mets searching for answers amid slow start",
+      "source": "Sportsnet · 2h ago",
+      "article": "Blue Jays alumni are scattered across baseball, with Bo Bichette's current team facing deeper organizational questions. Sportsnet's survey of former Toronto players reveals how the team's roster construction circa 2025 has dispersed into various competitive contexts. Tracking former Toronto players' performance is a useful proxy for organizational health—when a team's alumni are collectively struggling elsewhere, it often reflects both evaluation misses and timing bad luck. The fact that multiple ex-Jays are on teams searching for answers suggests the Toronto roster wasn't overloaded with generational talent; it was competent baseball that made contextual sense at the time. Rebuilds rarely feel clean in real time."
     },
     {
-      "headline": "Nick Wright Reflects on FS1 Emmy Nod, Career Trajectory",
-      "source": "Front Office Sports · 19h ago",
-      "article": "FS1's Nick Wright has received an Emmy nomination and used the moment to reflect on his career arc and his evolution as a sports media personality. Wright credits Colin Cowherd as an influential mentor and acknowledges the journey from skepticism about his style to mainstream recognition. The nomination represents validation for a particular brand of opinion-driven sports commentary—bold takes backed by preparation and willingness to engage controversial subjects. FS1's overall institutional performance has been mixed, but Wright's individual trajectory demonstrates how strong on-air personalities can transcend network limitations. His success also illustrates the fragmentation of sports media audiences: personality-driven content now competes directly with institutional brands. FS1 invested heavily in Wright when others questioned whether opinion-based sports talk could sustain viewership. His Emmy nod suggests that investment has paid off—and that audiences remain hungry for opinionated analysis paired with accessible presentation."
+      "headline": "Toronto FC's Josh Sargent starting to find his form after slow start",
+      "source": "Sportsnet · 13h ago",
+      "article": "Josh Sargent is rediscovering his goal-scoring rhythm with Toronto FC after an early-season drought, suggesting the team's most expensive attacking asset is acclimating to MLS contexts. John Molinaro's analysis documents Sargent's recent stretches and the institutional factors enabling his rebound. When designated players struggle early in MLS, the question is whether the adaptation is mechanical (system adjustment, fitness, league pace) or structural (wrong player for wrong team). Sargent's recovery trajectory suggests mechanical factors are resolving. If the goal-scoring sustains across the next six weeks, Toronto's investment narrative shifts from liability to asset."
     },
     {
-      "headline": "Josh Sargent Finding His Form for Toronto FC After Slow Start",
-      "source": "Sportsnet · 15h ago",
-      "article": "Toronto FC striker Josh Sargent has begun scoring consistently after a sluggish opening to the MLS season, signaling his integration into TFC's tactical system is accelerating. Sargent's goal-scoring rhythm, previously absent in April, has returned as the team's midfield service has improved and his own positioning has sharpened. The adjustment period from international play to MLS is real but temporary—most elite European-trained forwards show lag in their opening season before settling into rhythm. Sargent's emergence matters tactically because TFC's playoff aspirations depend on his goal-scoring consistency. His slow start created unnecessary pressure and speculation about whether the investment in his transfer fee would pay dividends. Two goals in recent outings provides evidence that it will. His trajectory from May forward will likely determine whether Toronto finishes as a playoff team or watches from outside."
+      "headline": "Trump Says He 'Doesn't Like' Prediction Markets",
+      "source": "Front Office Sports · 6h ago",
+      "article": "Donald Trump criticized prediction markets, drawing a Pete Rose betting comparison that conflates market participation with corrupt gambling. His rhetorical hostility toward prediction markets exposes discomfort with mechanisms that aggregate distributed information about outcomes. Trump historically prefers narrative control over data aggregation—prediction markets represent the latter. The statement is less about prediction markets' actual function and more about resistance to information systems that operate independent of his messaging apparatus. For sports betting and gambling regulation broadly, his position signals political willingness to restrict or regulate markets framed as problematic, regardless of evidence."
     }
   ],
   "poll": {
-    "question": "Who will have more impact by the end of the 2026 NFL season—Ty Simpson (Rams) or Fernando Mendoza (Raiders)?",
+    "question": "Which 2026 NFL Draft pick will have the biggest impact on its team's 2026 season?",
     "options": [
-      "Fernando Mendoza and the Raiders—better franchise stability",
-      "Ty Simpson and the Rams—stronger supporting cast and coaching",
-      "Impact is equivalent—both are second-year developmental situations",
-      "Can't predict this early—too many variables in play"
+      "Fernando Mendoza (QB, Las Vegas Raiders, Pick 1)",
+      "Ty Simpson (QB, Los Angeles Rams, Pick 13)",
+      "Jeremiyah Love (RB, undisclosed team)",
+      "Jets' Texas Tech QB (Pick 2)"
     ]
   },
   "predictions": [
     {
-      "statement": "Carson Beck will not be selected in Round 1 and will fall to the early second round, where his value curve becomes economically favorable for a team building a multi-year timeline.",
-      "probability": 68,
-      "rationale": "The economics of the rookie QB market create natural cutoff points. Beyond pick 20, premium QB capital becomes inefficient relative to other positional needs. Teams willing to wait until picks 35-50 get better value and demonstrate confidence in developmental timelines. Beck's profile fits that patience-based approach."
+      "statement": "Ty Simpson becomes a full-time starter for the Rams before the end of his rookie season due to Matthew Stafford injury or performance decline.",
+      "probability": 62,
+      "rationale": "McVay's pick 13 selection signals preparation for succession within months, not years. The Rams have invested in Simpson early precisely because they expect urgency. Stafford's age and injury history make mid-season starter transition a realistic scenario, especially in a win-now roster construction."
     },
     {
-      "statement": "The Rams' decision to select Ty Simpson will prove defensible by year three of his contract, regardless of whether he becomes a starter in 2026.",
-      "probability": 55,
-      "rationale": "McVay's visible discomfort signals institutional tension, but Simpson's rookie deal cost is manageable relative to Stafford's cap hit. If the Rams maintain contention through 2027, Simpson's development becomes secondary. If they decline, the pick looks worse. The verdict depends entirely on team trajectory, not Simpson's individual ceiling."
+      "statement": "At least one of the top-two Jets or Raiders quarterbacks finishes the 2026 season in a starting role for a different team.",
+      "probability": 44,
+      "rationale": "The 2026 QB class is deep enough that franchise desperation will create midseason trades for flailing teams. If either team stumbles early, a desperate organization (think Panthers, Raiders if they restart, or another 2-7 team) will attempt to accelerate development by plugging in a more expensive prospect. Rookie QB busts have spawned second-team opportunities within single seasons before."
     },
     {
-      "statement": "The 18.5% year-over-year increase in signing bonuses for Day 1 picks will force at least three teams to pivot toward free-agent depth acquisition rather than pursuing premium talent in Round 2.",
-      "probability": 72,
-      "rationale": "The economic pressure is real and immediate. Teams with existing cap constraints facing inflated Round 2 prices will make rational decisions to seek alternative pathways. The Colts, Browns, and Patriots all fit this profile and have the intellectual capital to execute mid-round trade strategies instead of overpaying for early-second talent."
+      "statement": "The Eagles' jump ahead of the Steelers for Makai Lemon becomes a defining moment in the narrative of their respective 2026 seasons.",
+      "probability": 71,
+      "rationale": "The Eagles' proactive move and Steelers' inaction have already been framed as symbolic of franchise direction. If Lemon contributes meaningfully and the Steelers' pick underperforms, this moment gets weaponized as evidence of institutional competence gap. Philadelphia's willingness to trade up contrasts sharply with Pittsburgh's paralysis."
     },
     {
-      "statement": "Jim Furyk's second stint as U.S. Ryder Cup captain will result in an American victory or near-miss, breaking Europe's streak of dominance.",
-      "probability": 43,
-      "rationale": "Europe's recent dominance (two consecutive wins) creates momentum and institutional confidence. However, American roster talent is genuine, and Furyk's prior experience—despite 2018's loss—provides structural knowledge. The match is competitive but European infrastructure and continuity remain advantages. A near-miss is more likely than a clean American victory."
+      "statement": "Jeremiyah Love finishes in the top three for Offensive Rookie of the Year voting regardless of team or draft position.",
+      "probability": 78,
+      "rationale": "Running backs in high-volume offensive systems typically rack up statistics fast. If Love's team gave him draft priority, they plan to use him heavily. Volume + efficiency almost always places a running back in OROY consideration. The only barrier is if his team's offense is historically bad or if another QB/receiver prospect has a statistically dominant rookie season."
     }
   ],
   "picks": [],
-  "updatedAt": "2026-04-23T23:45:00Z",
+  "updatedAt": "2026-04-23T21:47:00Z",
   "highlights": [
     {
       "league": "NBA",
@@ -560,15 +504,15 @@
       "title": "Ryan Clark gives his thoughts on Jeremiyah Love going to Arizona 🏈",
       "videoId": "sfJCVi8cgcs",
       "thumbnail": "https://img.youtube.com/vi/sfJCVi8cgcs/mqdefault.jpg",
-      "timeAgo": "Just now",
+      "timeAgo": "1h ago",
       "isFallback": false
     },
     {
       "league": "MLB",
-      "title": "Cam Schlittler has been DOMINANT for the Yankees this season! 😤 (1.77 ERA, 41 Ks, only FOUR walks)",
-      "videoId": "lA7K1FEBHJ8",
-      "thumbnail": "https://img.youtube.com/vi/lA7K1FEBHJ8/mqdefault.jpg",
-      "timeAgo": "1h ago",
+      "title": "so close 🤏",
+      "videoId": "M2nxu9ssOcM",
+      "thumbnail": "https://img.youtube.com/vi/M2nxu9ssOcM/mqdefault.jpg",
+      "timeAgo": "Just now",
       "isFallback": false
     },
     {
@@ -592,7 +536,7 @@
       "title": "Luis Diaz was getting hyped during Bayern’s training session 🤣 (via @fcbayern/TT)",
       "videoId": "YnOs-iuSdfE",
       "thumbnail": "https://img.youtube.com/vi/YnOs-iuSdfE/mqdefault.jpg",
-      "timeAgo": "Just now",
+      "timeAgo": "1h ago",
       "isFallback": false
     }
   ]
