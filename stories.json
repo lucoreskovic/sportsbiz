@@ -2,33 +2,11 @@
   "clusters": [
     {
       "category": "labor",
-      "leadHeadline": "'Like cutting the head off a hydra': how Mary Cain exposed Nike's disgraced coaching team",
-      "leadSource": "The Guardian · 2h ago",
-      "leadUrl": "https://www.theguardian.com/sport/ng-interactive/2026/apr/28/mary-cain-memoir-nike",
-      "summary": "Mary Cain's detailed account of abuse within Nike's Oregon Project has triggered broader reckoning in track and field. The exposure implicates systemic failures and complicit leadership across the sport.",
-      "article": "Mary Cain's decision to detail her experience within Nike's Oregon Project represents the kind of institutional reckoning that rarely surfaces in endurance sports. At 29, Cain is now public about the \"hellish years\" under coaching staff who prioritized weight loss and performance metrics over athlete welfare—a dynamic that cost her a career trajectory that began at age 17 when she qualified for world championships.\n\nWhat distinguishes this from typical whistleblower narratives is scale. Cain's account implicates not just individual coaches but Nike's broader infrastructure: the company's willingness to insulate high-profile programs, the lack of athlete protections, and the silence from federation and media when problems surfaced. The \"hydra\" metaphor matters. Cutting off one coach's head—firing or suspicion—leaves the organizational structure intact.\n\nFor Nike, this lands during a period of reputational sensitivity. The apparel giant has already faced criticism over labor practices in manufacturing; abuse allegations in training environments add a different vector of liability. For USA Track & Field, Cain's testimony forces examination of how the sport polices its own coaching infrastructure and whether athlete safeguarding protocols exist at parity with other Olympic disciplines.\n\nThe broader labor implication: elite athlete programs operate in legal and structural gray zones. Cain's willingness to name specifics—coaches, timelines, medical negligence—creates liability that her silence previously protected. Other athletes in comparable programs now face pressure to either corroborate or contest. The sport cannot pretend this is isolated dysfunction.",
-      "tweets": [
-        {
-          "url": "https://twitter.com/nytopinion/status/1192396159366713344",
-          "html": "<blockquote class=\"twitter-tweet\" align=\"left\" data-dnt=\"true\" data-theme=\"dark\"><p lang=\"en\" dir=\"ltr\">&quot;I joined Nike because I wanted to be the best female athlete, ever. Instead, I was emotionally and physically abused by a system designed by Alberto and endorsed by Nike,&quot; says Mary Cain. <a href=\"https://t.co/CzGsVRQD0m\">https://t.co/CzGsVRQD0m</a> <a href=\"https://t.co/XymyuD5dQw\">pic.twitter.com/XymyuD5dQw</a></p>&mdash; New York Times Opinion (@nytopinion) <a href=\"https://twitter.com/nytopinion/status/1192396159366713344?ref_src=twsrc%5Etfw\">November 7, 2019</a></blockquote>\n\n",
-          "author_name": "New York Times Opinion",
-          "author_url": "https://twitter.com/nytopinion"
-        },
-        {
-          "url": "https://twitter.com/GMA/status/1192793839884328960",
-          "html": "<blockquote class=\"twitter-tweet\" align=\"left\" data-dnt=\"true\" data-theme=\"dark\"><p lang=\"en\" dir=\"ltr\">&quot;I was the fastest girl in America, until I joined Nike.&quot; Mary Cain&#39;s explosive claims in blistering op-ed. <a href=\"https://twitter.com/arobach?ref_src=twsrc%5Etfw\">@arobach</a> has the story. READ MORE: <a href=\"https://t.co/WASrjDZncf\">https://t.co/WASrjDZncf</a> <a href=\"https://t.co/LF5kgCN5VH\">pic.twitter.com/LF5kgCN5VH</a></p>&mdash; Good Morning America (@GMA) <a href=\"https://twitter.com/GMA/status/1192793839884328960?ref_src=twsrc%5Etfw\">November 8, 2019</a></blockquote>\n\n",
-          "author_name": "Good Morning America",
-          "author_url": "https://twitter.com/GMA"
-        }
-      ]
-    },
-    {
-      "category": "labor",
-      "leadHeadline": "Ex-NBA star Damon Jones cops guilty plea in gambling scandal",
-      "leadSource": "NY Post Sports · 1h ago",
-      "leadUrl": "https://nypost.com/2026/04/28/sports/ex-nba-star-damon-jones-cops-guilty-plea-in-gambling-scandal/",
-      "summary": "Former NBA player Damon Jones pleaded guilty to involvement in a mob-linked gambling operation that included insider game leaks. Over 30 people were arrested in the sprawling federal investigation.",
-      "article": "Damon Jones, a 49-year-old who played 13 seasons in the NBA including a championship run with the Miami Heat, entered a guilty plea this week for his role in an allegedly mob-connected illegal gambling scheme. The specifics matter: Jones didn't just participate in betting. He was part of a network in which insiders leaked confidential game information—lineups, injury status, strategic details—to persons operating betting operations.\n\nThe scale is substantial. Federal prosecutors charged more than 30 people across the investigation, suggesting coordination across multiple sports properties and enforcement jurisdictions. For Jones, the guilty plea carries sentencing exposure that could reach two years imprisonment. He has already apologized publicly to his family and to the NBA, a move that signals recognition of both personal and institutional harm.\n\nThis collision of legacy athlete status and federal gambling charges carries weight beyond the individual case. The NBA has long maintained integrity protocols through monitoring services like Sportradar, yet insider leaks demonstrate that no monitoring system catches conspiracies built on direct information transfer. Jones's case also surfaces a recruitment angle: how do organized gambling operations identify and approach athletes and team staff with access to material nonpublic information? The answer suggests vulnerabilities in player education, team security, and law enforcement coordination.\n\nFor the league, this is not an isolated incident. It's corroboration that the gambling expansion—legalization in 30+ states since 2018—has created both market scale and criminal opportunity simultaneously. The NBA's \"integrity monitor\" systems may detect unusual betting patterns, but they cannot prevent a former player with credibility and connections from selling information directly to criminal enterprises.",
+      "leadHeadline": "Former NBA player Damon Jones faces two years in jail after guilty plea in gambling case",
+      "leadSource": "The Guardian · 0h ago",
+      "leadUrl": "https://www.theguardian.com/sport/2026/apr/28/former-nba-player-damon-jones-faces-two-years-in-jail-after-guilty-plea-in-gambling-case",
+      "summary": "Damon Jones pleaded guilty in a sprawling NBA gambling investigation, drawing potential parallels for other players caught in the same federal probe. The case signals enforcement teeth in league integrity protocols.",
+      "article": "Damon Jones—a former NBA player, shooting coach to LeBron James, and unofficial assistant to the Lakers—pleaded guilty in a federal gambling investigation that has ensnared more than 30 people. The 49-year-old faces up to two years in prison and apologized to his family and the league, but his case carries wider significance for the NBA's governance structure.\n\nThe investigation represents the first major enforcement action against league personnel since the league dramatically tightened gambling rules in 2022. Jones's guilty plea will likely trigger similar proceedings for other players and coaches caught in the same net, according to Sportico's analysis of related cases. The precedent matters because the NBA had previously relied on self-reporting and team-level discipline; federal prosecution introduces a new enforcement layer that leagues cannot control.\n\nWhat changes now: Player contracts already include gambling prohibitions, but Jones's conviction demonstrates those clauses carry real legal jeopardy beyond suspension. Teams will face pressure to conduct deeper background checks on coaching staff, particularly for roles with access to betting markets or sensitive information. The league office is expected to issue additional guidance by summer, though formal rule amendments aren't anticipated until the 2026-27 season.\n\nFor the Lakers specifically, the case highlights why front offices increasingly vet assistant coaching hires through federal databases. Jones was never charged with fixing games or manipulating outcomes, but the investigation's scope suggests authorities were monitoring networks of people with league access—the precise vulnerability the NBA feared when it strengthened integrity protocols.",
       "tweets": [
         {
           "url": "https://twitter.com/espn/status/2044858772825194875",
@@ -37,7 +15,7 @@
           "author_url": "https://twitter.com/espn"
         },
         {
-          "url": "https://twitter.com/MacFarlaneNews/status/2045210388002701350",
+          "url": "https://twitter.com/MacFarlane/status/2045210388002701350",
           "html": "<blockquote class=\"twitter-tweet\" align=\"left\" data-dnt=\"true\" data-theme=\"dark\"><p lang=\"en\" dir=\"ltr\">ALERT:   Per new court filing in Brooklyn, defendant Damon Jones is expected to plead guilty at 12pm on April 28 in the &quot;rigged poker game&quot; case out of New York<br><br>NBA legend Chauncey Billups is a co-defendant in that case</p>&mdash; Scott MacFarlane (@MacFarlaneNews) <a href=\"https://twitter.com/MacFarlaneNews/status/2045210388002701350?ref_src=twsrc%5Etfw\">April 17, 2026</a></blockquote>\n\n",
           "author_name": "Scott MacFarlane",
           "author_url": "https://twitter.com/MacFarlaneNews"
@@ -46,33 +24,43 @@
     },
     {
       "category": "revenue",
-      "leadHeadline": "Haslams $205M NWSL Expansion Fee Guarantees $165M BlankCheck",
-      "leadSource": "Sportico · 3h ago",
+      "leadHeadline": "Braves Say New TV Network Is on Pace to Beat Old RSN Revenue",
+      "leadSource": "Front Office Sports · 0h ago",
+      "leadUrl": "https://frontofficesports.com/braves-say-new-tv-network-is-on-pace-to-beat-old-rsn-revenue/",
+      "summary": "Atlanta's in-house regional sports network is outpacing the predecessor RSN's financial performance in Year 1, signaling a viable path for MLB teams to reclaim rights revenue. Early results embolden other franchises exploring similar direct-to-consumer models.",
+      "article": "The Atlanta Braves' homegrown regional sports network is generating higher revenue than the Bally Sports RSN it replaced, according to Front Office Sports reporting. The shift matters because it confirms what league executives theorized but hadn't proven at scale: teams can extract more value by cutting out traditional middlemen.\n\nContext: Bally Sports collapsed in 2023 after years of underperformance, forcing MLB teams to negotiate new local-media deals. Rather than sign with a new third-party RSN, the Braves chose to launch their own streaming-plus-cable product, betting they could monetize both direct subscription and advertising at higher margins than a legacy RSN would offer. That gamble is paying off in Year 1, with the network tracking ahead of Bally's historical revenue line.\n\nThe Braves model matters beyond Atlanta. MLB's media landscape is splintering as teams recognize that regional rights are increasingly valuable directly to fans rather than through cable bundles. The Braves' early success will accelerate similar projects in markets like Texas (Rangers), Tampa Bay, and potentially the Yankees if Yankee Entertainment and Sports renegotiates its next carriage deal. The downside: These in-house networks require significant operational investment and technical infrastructure that not every front office can manage.\n\nWhat's at stake: If more teams follow Atlanta's path, the traditional RSN business model accelerates toward extinction. That creates winners (teams retaining 70-80% of revenue instead of 40-50%) and losers (cable providers and legacy broadcasters losing inventory). The Braves have already signaled they'll offer content to other local media partners to maximize reach, a hybrid approach that could become the industry standard by 2027.",
+      "tweets": [
+        {
+          "url": "https://twitter.com/ksugiuraajc/status/2026655561412935759",
+          "html": "<blockquote class=\"twitter-tweet\" align=\"left\" data-dnt=\"true\" data-theme=\"dark\"><p lang=\"en\" dir=\"ltr\">Braves Q4 numbers are out. Baseball revenue (tickets, concessions, TV, etc.) up for 2025 by 7% to $635M. Mixed-use development up 45% to $97M. Adjusted OIBDA, a useful measure of a business&#39; value, up 172% to 107.8M.</p>&mdash; Ken Sugiura (@ksugiuraajc) <a href=\"https://twitter.com/ksugiuraajc/status/2026655561412935759?ref_src=twsrc%5Etfw\">February 25, 2026</a></blockquote>\n\n",
+          "author_name": "Ken Sugiura",
+          "author_url": "https://twitter.com/ksugiuraajc"
+        }
+      ]
+    },
+    {
+      "category": "leagues",
+      "leadHeadline": "Haslams $205M NWSL Expansion Fee Guarantees $165M Blank Check",
+      "leadSource": "Sportico · 0h ago",
       "leadUrl": "https://www.sportico.com/business/team-sales/2026/nwsl-expansion-fees-columbus-atlanta-clause-1234891318/",
-      "summary": "Haslam Sports Group's $205M investment in the NWSL expansion unlocked a secondary $165M commercial benefit structure, signaling how equity stakes now cascade into ancillary revenue streams. The deal underscores NWSL's accelerating valuation trajectory.",
-      "article": "The Haslam family's decision to inject $205 million into the NWSL via expansion franchise acquisition carried a secondary commercial architecture that other potential investors took note of: the deal structurally guaranteed that league ownership would collectively benefit from an additional $165 million in what sources characterized as a \"blank check\" capital mechanism.\n\nThis isn't traditional expansion-fee economics. Historically, expansion fees go directly to the league as a lump-sum distribution to existing ownership. The Haslam deal instead bundled equity acquisition with a secondary commercial arrangement—essentially a financing backstop that guaranteed capital availability for league operations and growth initiatives independent of traditional broadcasting or sponsorship revenue.\n\nThe timing matters. NWSL has secured media rights agreements, sponsorship commitments, and now a franchise valuation floor that suggests the league's underlying assets command institutional capital at previously unseen levels. Where MLS took two decades to achieve comparable valuation density, NWSL compressed that trajectory into five years of accelerated ownership and media attention.\n\nFor the Haslams specifically, the structure allows them to acquire controlling stakes in a women's sports property while simultaneously positioning their capital—and their operational bandwidth—as central to league infrastructure. It's leverage disguised as investment. For competing ownership groups eyeing future NWSL expansion slots, the Haslam precedent establishes that expansion fees will escalate and that secondary capital arrangements have become non-negotiable components of entry pricing.\n\nThe $165 million blank-check element also signals institutional confidence. That capital guarantee suggests NWSL ownership believes future revenue growth will justify the obligation. If it doesn't, the structure creates mutual liability.",
+      "summary": "The Haslam Sports Group's $205M NWSL entry included a secondary benefit: guaranteeing all existing owners a combined $165M windfall through league mechanisms. Expansion economics now explicitly reward incumbency.",
+      "article": "The Haslam Sports Group paid $205 million for an NWSL expansion slot, but the real story sits in the fine print: existing league owners secured a guaranteed $165 million payout as a secondary benefit of that deal. This structure reveals how modern sports franchises have engineered expansion economics to lock in wealth transfers rather than competitive investment.\n\nHere's the mechanics: When a new owner buys in at $205M, the league uses a portion of that fee to immediately capitalize existing franchises through direct equity distributions, seat buybacks, or assumption of debt. It's an elegant system—expansion dilutes voting share marginally while writing a substantial check to incumbents. The NWSL borrowed this model from MLS, which has used expansion fees as de facto owner-to-owner wealth transfers for fifteen years.\n\nWhy this matters for women's soccer: The $165M guarantee makes expansion less about competitive balance and more about liquidity generation for existing stakeholders. That's not inherently corrupt, but it means the league prioritizes financial engineering over roster investment. An owner paying $205M to join has marginal capital left for player wages, academy infrastructure, or stadium improvements after the expansion premium is absorbed.\n\nThe precedent spreads. NWSL teams already trade expansion spots like commodities, and the guaranteed payout structure makes that secondary market more liquid. We're likely to see the league expand to 14-16 teams by 2029, with each expansion fee generating similar widow's box distributions to current owners. By then, the business model will have calcified: expansion exists primarily to enrich incumbents, not to grow the competitive product.",
       "tweets": [
         {
           "url": "https://twitter.com/novy_williams/status/2046663326491435462",
           "html": "<blockquote class=\"twitter-tweet\" align=\"left\" data-dnt=\"true\" data-theme=\"dark\"><p lang=\"en\" dir=\"ltr\">SCOOP: The Haslams have landed the latest <a href=\"https://twitter.com/NWSL?ref_src=twsrc%5Etfw\">@NWSL</a> expansion team. They&#39;ve agreed to pay a record $205 million fee, separate from practice facility project and stadium upgrades. <br><br>More at <a href=\"https://twitter.com/Sportico?ref_src=twsrc%5Etfw\">@Sportico</a> w/ <a href=\"https://twitter.com/JacobFeldman4?ref_src=twsrc%5Etfw\">@JacobFeldman4</a> 👇<a href=\"https://t.co/cxZ6UJoRDe\">https://t.co/cxZ6UJoRDe</a></p>&mdash; Eben Novy-Williams (@novy_williams) <a href=\"https://twitter.com/novy_williams/status/2046663326491435462?ref_src=twsrc%5Etfw\">April 21, 2026</a></blockquote>\n\n",
           "author_name": "Eben Novy-Williams",
           "author_url": "https://twitter.com/novy_williams"
-        },
-        {
-          "url": "https://twitter.com/sgevans/status/2046937527219527822",
-          "html": "<blockquote class=\"twitter-tweet\" align=\"left\" data-dnt=\"true\" data-theme=\"dark\"><p lang=\"en\" dir=\"ltr\">In the space of just six years, NWSL expansion fees have risen by an incredible 100 fold from $2 million for a team in Los Angeles to $205 million for the latest new team, announced on Tuesday, in Columbus.  <br><br>Has there ever been a league that has undergone a surge like that in… <a href=\"https://t.co/DjyTMpGlvD\">pic.twitter.com/DjyTMpGlvD</a></p>&mdash; Simon Evans (@sgevans) <a href=\"https://twitter.com/sgevans/status/2046937527219527822?ref_src=twsrc%5Etfw\">April 22, 2026</a></blockquote>\n\n",
-          "author_name": "Simon Evans",
-          "author_url": "https://twitter.com/sgevans"
         }
       ]
     },
     {
       "category": "media",
       "leadHeadline": "NFL Draft opening round audience dips, but officially among most-watched",
-      "leadSource": "Sports Media Watch · 4h ago",
+      "leadSource": "Sports Media Watch · 0h ago",
       "leadUrl": "https://www.sportsmediawatch.com/2026/04/nfl-draft-opening-round-viewership-dips/",
-      "summary": "NFL Draft Round 1 viewership declined year-over-year but remained elevated by historical standards. The network benefited from prime-time placement and traditional draft appeal despite streaming fragmentation.",
-      "article": "The 2026 NFL Draft opening round delivered viewership that, while down from 2025's peak, still ranks among the most-watched non-event television in the sports calendar. The decline is material—networks tracking audience data documented a decrease in average concurrent viewers—yet the aggregate audience remained substantial enough that broadcast partners characterized the performance as acceptable against seasonal programming benchmarks.\n\nThe viewership dynamics reveal something structural about draft audiences in the streaming era. Traditional broadcast television still captures the primary audience for draft coverage, but streaming distribution has fragmented the measurement. ESPN, which produced the draft telecast, maintained control over the flagship presentation while Peacock, NFL.com, and other platforms offered parallel feeds. When measured across all distribution channels, the actual reach likely exceeded what traditional Nielsen metrics capture, though the industry has not yet standardized cross-platform measurement.\n\nWhat matters more than the year-over-year dip: the draft remains appointment television for a specific, affluent demographic—team executives, scouts, agents, serious fantasy players, and engaged fan bases. The viewership skews older and more male than general sports audiences, which explains why advertising inventory sells at premium rates despite smaller absolute numbers.\n\nThe 2026 draft also benefited from a 10 p.m. Eastern start time in some markets, extending evening viewing windows and capturing late-night audiences that traditional prime-time programming couldn't reach. For networks, this validates a strategic shift toward flexible scheduling that optimizes for specific audience segments rather than broad household reach.\n\nGoing forward, the draft's media value derives less from absolute viewership and more from demographic composition and engagement intensity. That's precisely why league rights-holders continue bidding aggressively for draft coverage rights.",
+      "summary": "The 2026 NFL Draft Round 1 drew a smaller audience than last year, yet still ranks among the highest-rated draft broadcasts on record. The plateau suggests draft enthusiasm has found its ceiling.",
+      "article": "The 2026 NFL Draft's opening round pulled in a measurably smaller audience than 2025, but the number still ranks among the most-watched draft broadcasts in television history. That seeming contradiction reveals what sports television has learned about draft viewership: It's large, sticky, and plateaued.\n\nSports Media Watch's reporting showed the first round dipped year-over-year, likely due to preseason NFL games on competing networks and broader cord-cutting trends. Yet the audience remained in the 8-10 million range depending on network, exceeding casual sports benchmarks and rivaling cable news ratings during primetime. The draft has become a cultural event rather than a niche broadcast—mainstream enough to attract casual viewers, specific enough that super-fans watch every pick.\n\nWhat changed since 2015: Ten years ago, draft ratings were fragmented across ESPN, NFL Network, and cable. The consolidated broadcast model (ESPN leading, with cable carriage for secondary rounds) has stabilized viewership around a higher floor. That floor exists because the draft attracts three distinct audiences simultaneously: franchise executives and analysts; families killing time before summer; casual fans with team-specific interests in the next day's coverage.\n\nThe plateau signals saturation. Networks can't significantly grow draft viewership without expanding the broadcast window itself—moving to two-day formats or adding weekend coverage. ESPN and the NFL have discussed this, but expanding increases production costs without guaranteed revenue upside. Expect draft broadcasts to remain in this 8-10 million range for the next three years, then contract slightly as streaming splinters audiences further.",
       "tweets": [
         {
           "url": "https://twitter.com/FOS/status/2048891942231310840",
@@ -83,54 +71,60 @@
       ]
     },
     {
-      "category": "media",
-      "leadHeadline": "House Settlement Collides With Multimedia Rights, Sponsorships",
-      "leadSource": "Sportico · 2h ago",
-      "leadUrl": "https://www.sportico.com/law/analysis/2026/multimedia-rights-companies-nil-house-settlement-csc-legal-1234891274/",
-      "summary": "The House v. NCAA settlement's approval creates immediate complications for media rights and sponsorship structures as power conferences redistribute athlete compensation. Rights-holders now face renegotiation pressure.",
-      "article": "Judge Claudia Wilken's final approval of the House settlement between the NCAA and power conferences creates a distinct operational problem for media partners: the financial structures underlying existing rights deals must now accommodate direct athlete compensation flows that weren't contemplated when contracts were negotiated.\n\nThe settlement establishes that conferences and schools will distribute revenue directly to athletes—a mechanism that functions separately from traditional media rights economics. But media partners who paid for rights packages bundled an assumption about cost structure. Networks budgeted for production, distribution, and talent acquisition at levels calibrated to existing payout models. If schools now redirect material revenue toward athlete compensation, the underlying profitability assumptions shift.\n\nThis creates two simultaneous pressures. First, schools need revenue to fund athlete payments without cannibalizing other operational budgets. That pressure intensifies demands on conference media partners for higher rights fees. Second, media partners face renegotiation risk: if existing deals contain performance escalators or right-to-match clauses, or if they approach renewal windows, conference negotiating leverage increases precisely at a moment when institutional financial pressure is acute.\n\nThe complication extends to sponsorship. Major sponsors structured deals around specific conference footprints and scheduling. If athlete compensation compensation streams now become highly visible—through disclosure requirements or athlete social media monetization tied to sponsorships—brand associations shift. A sponsor paying for conference association no longer controls whether athletes in that conference simultaneously monetize competing sponsor relationships.\n\nFor media companies and sponsors, the House settlement wasn't just a legal outcome. It was a reallocation of their future contract negotiating position. The NCAA lost leverage; conferences gained it. That leverage converts immediately into demands for higher rights fees and sponsor commitments.",
-      "tweets": []
+      "category": "revenue",
+      "leadHeadline": "How To Find The Cheapest Anaheim Ducks Playoff Tickets + On Sale Info",
+      "leadSource": "TicketIQ · 0h ago",
+      "leadUrl": "https://blog.ticketiq.com/blog/how-to-find-the-cheapest-anaheim-ducks-playoff-tickets-on-sale-info",
+      "summary": "Secondary-market data shows Ducks playoff tickets with modest get-in pricing but elevated average prices, reflecting partial-purchase attendance among casual fans. LA-area playoff demand remains fragmented across four franchises.",
+      "article": "TicketIQ's marketplace data for the Anaheim Ducks' playoff run reveals a bifurcated ticket ecology: cheap entry points mask higher average prices driven by premium-seat concentration. This pattern tells you something important about playoff demand in markets with multiple sports options.\n\nThe Ducks' get-in price sits well below comparable NBA playoff games in LA County, a function of hockey's smaller arena capacity and mixed fan engagement in Orange County. Secondary-market listing data shows strong availability across most price tiers, suggesting neither sellout pressure nor exceptional demand beyond core hockey audiences. That's typical for NHL second-round matchups absent a Stanley Cup contender narrative.\n\nAverage list prices (not transaction prices) track higher—roughly $180-240 depending on opponent and game importance. That gap between get-in and average reflects how playoff seating works: Most fans buy from secondary markets in the 24-48 hours before puck drop, and those sales cluster in mid-tier pricing ($60-150) rather than either extreme. High-end seats remain available because full-price inventory never empties during regular-season hockey.\n\nWhat shifts playoff economics: If the Ducks advance and face an Original Six rival (Toronto, Montreal) or a media-market heavyweight (Vegas, LA Kings), ticket prices will spike 40-60% on both primary and secondary markets. Right now, they're normal. Secondary-market operators are watching: If Ducks momentum builds, they'll adjust algorithms to surface cheaper inventory earlier, flattening the get-in price while pushing average prices higher. That's how modern ticket distribution works—algorithmic, responsive, and calibrated to extract maximum revenue per transaction.",
+      "tweets": [
+        {
+          "url": "https://twitter.com/AnaheimDucks/status/2041315879816921355",
+          "html": "<blockquote class=\"twitter-tweet\" align=\"left\" data-dnt=\"true\" data-theme=\"dark\"><p lang=\"en\" dir=\"ltr\">Playoff tickets will go on sale to the public on April 9 👀<br><br>You can join the presale list now by texting PLAYOFFS to 81883. <br><br>Details ⬇️<a href=\"https://t.co/CtZIOAX7ET\">https://t.co/CtZIOAX7ET</a></p>&mdash; x - Anaheim Ducks (@AnaheimDucks) <a href=\"https://twitter.com/AnaheimDucks/status/2041315879816921355?ref_src=twsrc%5Etfw\">April 7, 2026</a></blockquote>\n\n",
+          "author_name": "x - Anaheim Ducks",
+          "author_url": "https://twitter.com/AnaheimDucks"
+        }
+      ]
     },
     {
       "category": "revenue",
-      "leadHeadline": "Ex-NBA Exec Named CEO of Traveler-Focused StreamingNetwork",
-      "leadSource": "Sportico · 5h ago",
-      "leadUrl": "https://www.sportico.com/personalities/executives/2026/reachtv-ceo-rachel-jacobson-hired-nba-drl-airports-1234891334/",
-      "summary": "Rachel Jacobson, a former NBA and Drone Racing League executive, became CEO of ReachTV, an ad-supported streaming service targeting hotel and travel audiences. The hire signals consolidation of sports-adjacent streaming infrastructure.",
-      "article": "Rachel Jacobson's appointment as CEO of ReachTV—an ad-supported streaming platform focused on hospitality, travel, and venue-based distribution—represents a specific kind of sports industry movement: migration of executive talent from traditional league operations into vertical streaming platforms that operate at the periphery of mainstream sports media.\n\nJackobson's background matters. She held executive roles within both the NBA's traditional operations and the Drone Racing League, a property that exists at the intersection of sports, gaming, and digital-native audiences. That experience with alternative sports properties equipped her with familiarity in building audiences that conventional television infrastructure never captured. Drone Racing exists in that space—viable as digital-first content, marginal for traditional broadcast.\n\nReachTV's model is more targeted than Netflix or traditional sports streaming services. The platform focuses on hospitality environments—hotels, airports, lounges—where content serves as ambient programming with high engagement density from affluent, time-flexible audiences. For sports properties, that's meaningful. A 45-minute Drone Racing competition or a highlight package runs in a context where interruption and channel-surfing are minimal. Viewer attention concentrates.\n\nThe hire also signals how sports talent is now distributed across multiple tiers. Traditional leagues employ operations executives; streaming platforms employ variant infrastructure expertise. Jacobson represents the transition point: someone with traditional league credibility moving into streaming distribution where the ceiling may be lower but the operational autonomy is higher.\n\nFor ReachTV's growth trajectory, the CEO hire attempts to legitimize the platform within sports property relationships. Properties need confidence that their content will reach premium audiences through qualified distribution. Jacobson's NBA background provides that credibility. For the streaming landscape, this is further evidence that sports content remains segmented across multiple platforms serving specific audience contexts rather than consolidating around three or four dominant services.",
+      "leadHeadline": "How To Find The Cheapest Los Angeles Kings Playoff Tickets + On Sale Info",
+      "leadSource": "TicketIQ · 0h ago",
+      "leadUrl": "https://blog.ticketiq.com/blog/how-to-find-the-cheapest-la-kings-tickets",
+      "summary": "LA Kings playoff get-in prices reflect a premium market compared to Ducks, signaling stronger downtown demand and Lakers playoff competition for the same arena. Secondary-market liquidity shows franchise strength.",
+      "article": "TicketIQ data on Los Angeles Kings playoff inventory reveals higher get-in prices than Orange County's Ducks, despite identical playoff stage and comparable opponent tiers. That premium reflects Crypto.com Arena's downtown location, Lakers playoff overlap, and stronger street-level demand from LA's core sports audience.\n\nThe Kings are tracking get-in prices in the $85-125 range depending on matchup, compared to the Ducks' $45-65 band. Both franchises play playoff hockey simultaneously, yet the venue difference matters enormously for ticket economics. Crypto.com Arena hosts back-to-back basketball and hockey games during playoff season—a scheduling strategy that raises per-ticket values because operators can monetize the same facility and adjacent parking/concessions across multiple events on the same evening.\n\nSecondary-market liquidity looks strong, suggesting healthy resale velocity and floor prices holding. That's a proxy for franchise health and fan engagement. The Kings have been playoff-adjacent for years without contention narratives, so sustained secondary-market interest indicates a core audience immune to record cycles. Compare that to Ducks inventory, where secondary-market depth shrinks game-to-game depending on opponent.\n\nWhat the pricing tells you: LA's sports market rewards venue location and multi-event utilization. By 2027, expect Crypto.com Arena to hike Kings-adjacent premium prices another 15-20%, driven by Lakers playoff overlap and downtown real estate scarcity. Secondary-market operators are already testing price elasticity—they'll push get-in prices higher on games that follow Lakers matchups, capitalizing on visitor traffic and higher per-capita spending in downtown LA compared to Anaheim.",
       "tweets": []
     },
     {
-      "category": "contracts",
-      "leadHeadline": "Star Sprinter Sues Puma Over 'Defective' Shoes She Says Ruined Her Career",
-      "leadSource": "Front Office Sports · 6h ago",
-      "leadUrl": "https://frontofficesports.com/abby-steiner-puma-lawsuit/",
-      "summary": "A sprinter initiated litigation against Puma alleging that defective footwear triggered a series of foot surgeries that prematurely ended her athletic career. The case surfaces product liability exposure in performance apparel contracts.",
-      "article": "A sprinter filed suit against Puma alleging that defective shoe design caused cumulative foot injuries requiring multiple surgical interventions, ultimately terminating her competitive career before her prime earning years. The specifics of the litigation matter less than the structural issue it exposes: apparel sponsorship agreements in track and field create product liability blind spots that neither athletes nor sponsors adequately address.\n\nTraditionally, sponsorship deals in track—whether with Puma, Nike, or Adidas—bundle equipment provision, cash payments, and appearance fees into consolidated agreements. The contracts typically contain indemnification clauses that protect sponsors from liability claims. Athletes sign knowing that equipment risk exists but assuming that professional-grade footwear from major manufacturers meets safety and performance standards.\n\nThis case challenges that assumption. If a sprinter can demonstrate that specific shoe models contained design flaws or manufacturing defects that caused injury, and that Puma knew or should have known about those defects, the indemnification structure weakens. The athlete's argument becomes: I didn't assume the risk of defective products; I assumed the risk of athletic competition.\n\nThe career-ending angle amplifies exposure. This isn't a minor soft-tissue injury. The plaintiff claims she required multiple foot surgeries and lost competitive years during her commercial prime. That loss translates to quantifiable damages: lost sponsorship opportunities, lost race earnings, lost endorsement windows that don't re-open.\n\nFor the apparel industry, the case forces recalibration of how sponsors source and test footwear before distributing to professional athletes. Quality-control processes in manufacturing are non-negotiable legal issues, not just operational ones. For athletes, the case suggests that apparel sponsorship contracts deserve the same legal scrutiny as equipment endorsements in other sports. The assumption that professional gear is safe deserves validation in writing.",
+      "category": "media",
+      "leadHeadline": "On the Air: How Mike Tomlin can succeed at NBC",
+      "leadSource": "Sports Media Watch · 0h ago",
+      "leadUrl": "https://www.sportsmediawatch.com/2026/04/on-the-air-mike-tomlin-success-nbc/",
+      "summary": "Mike Tomlin's transition from NFL coaching to broadcast analyst at NBC requires navigating studio formats and personality dynamics unlike any coaching framework. Early performance will signal whether elite coaches translate to broadcast credibility.",
+      "article": "Mike Tomlin's move to NBC represents an emerging trend: elite coaches with executive experience trading sidelines for broadcast desks. The transition is deceptively difficult because broadcast success requires surrendering authority, which most elite coaches instinctively resist.\n\nTomlin's advantage: Nineteen years as Pittsburgh Steelers head coach built a sophisticated media vocabulary and disciplined public voice. He's already a compelling interview subject and has never generated the toxic-coach narrative that derailed others' broadcast transitions. NBC is betting his gravitas, contextual knowledge of organizational culture, and ability to analyze games without ego will translate to studio credibility.\n\nThe obstacles are real. Broadcast demands personality specialization—you become a hot-take generator, an explainer, or a contrarian. Coaches accustomed to final-word authority often bristle at producers' editorial direction or co-host disagreement. The best broadcast coaches (Tony Dungy, Jon Gruden pre-scandal, Jeff Saturday in limited roles) share a common trait: They surrendered coaching identity and embraced broadcast personality instead.\n\nTomlin's first six weeks on air matter. If he defaults to coach-speak and jargon, audiences will dismiss him as another analyst cycling through credentials without charisma. If he leans into narrative authority—drawing on two decades of organizational observations—he becomes appointment viewing. NBC has invested significantly in this hire, so expect them to protect his on-air time and limit network second-guessing for at least one season.\n\nThe broader signal: Broadcast networks are willing to pay seven-figure salaries for proven coaches because they drive engagement among core audiences. That creates a talent drain from NFL coaching staffs but also opens a pressure valve for aging coaches (or coaches between jobs) to generate revenue without managing rosters. By 2027, expect at least two more coaches to transition to major broadcast roles.",
       "tweets": [
         {
-          "url": "https://twitter.com/dpyoung13/status/2049156785567678735",
-          "html": "<blockquote class=\"twitter-tweet\" align=\"left\" data-dnt=\"true\" data-theme=\"dark\"><p lang=\"en\" dir=\"ltr\">Big one from <a href=\"https://twitter.com/yyanyanli1?ref_src=twsrc%5Etfw\">@yyanyanli1</a>: Sprinter Abby Steiner is suing Puma and the Mercedes F1 team, claiming that their carbon-plated trainers and spikes were defective and caused her a devastating series of injuries—and that Puma was aware. <a href=\"https://t.co/RYXhHY6TTb\">https://t.co/RYXhHY6TTb</a> <a href=\"https://t.co/klXE7O1nef\">pic.twitter.com/klXE7O1nef</a></p>&mdash; Dennis Young (@dpyoung13) <a href=\"https://twitter.com/dpyoung13/status/2049156785567678735?ref_src=twsrc%5Etfw\">April 28, 2026</a></blockquote>\n\n",
-          "author_name": "Dennis Young",
-          "author_url": "https://twitter.com/dpyoung13"
+          "url": "https://twitter.com/SNFonNBC/status/2048546719734857971",
+          "html": "<blockquote class=\"twitter-tweet\" align=\"left\" data-dnt=\"true\" data-theme=\"dark\"><p lang=\"en\" dir=\"ltr\">Welcome the legendary Mike Tomlin to our Sunday Night Football coverage team! 👏 <a href=\"https://t.co/o6AnVJ3WiH\">pic.twitter.com/o6AnVJ3WiH</a></p>&mdash; Sunday Night Football on NBC (@SNFonNBC) <a href=\"https://twitter.com/SNFonNBC/status/2048546719734857971?ref_src=twsrc%5Etfw\">April 26, 2026</a></blockquote>\n\n",
+          "author_name": "Sunday Night Football on NBC",
+          "author_url": "https://twitter.com/SNFonNBC"
+        },
+        {
+          "url": "https://twitter.com/TheAthletic/status/2046591784747151407",
+          "html": "<blockquote class=\"twitter-tweet\" align=\"left\" data-dnt=\"true\" data-theme=\"dark\"><p lang=\"en\" dir=\"ltr\">NEWS: Mike Tomlin is headed to NBC to be a top studio analyst on its Sunday night pregame show, “Football Night in America,” sources told The Athletic. <a href=\"https://t.co/KuvrBEYnvT\">pic.twitter.com/KuvrBEYnvT</a></p>&mdash; The Athletic (@TheAthletic) <a href=\"https://twitter.com/TheAthletic/status/2046591784747151407?ref_src=twsrc%5Etfw\">April 21, 2026</a></blockquote>\n\n",
+          "author_name": "The Athletic",
+          "author_url": "https://twitter.com/TheAthletic"
         }
       ]
     },
     {
-      "category": "contracts",
-      "leadHeadline": "YouTube personality crashes NFL draft stage to announce pick — and it doesn't end well",
-      "leadSource": "NY Post Sports · 7h ago",
-      "leadUrl": "https://nypost.com/2026/04/28/sports/youtuber-crashes-nfl-draft-stage-to-announce-pick-and-it-doesnt-end-well/",
-      "summary": "Fred Beyer, a YouTube personality, rushed the 2026 NFL Draft stage to announce the 67th overall pick and faced indefinite NFL suspension. The incident underscores security and credential failures at league events.",
-      "article": "Fred Beyer, a YouTube content creator with a substantial platform, breached security protocols at the 2026 NFL Draft, accessed the main stage, and announced the 67th overall selection before league officials removed him. The NFL subsequently issued an indefinite ban from league events—a severe sanction that reflects how seriously the organization treats security perimeter violations and operational control of its flagship annual broadcast.\n\nThe incident itself carries multiple implications. First, it's a security failure. A person without credentials and without authorization accessed restricted areas and occupied the stage during live broadcast. That's not a minor breach. The draft command center, credential systems, and perimeter security all failed simultaneously.\n\nSecond, it's a branding liability. The draft functions as the NFL's annual showcase—carefully orchestrated production with celebrity hosts, prime-time broadcast, and network partners invested in controlled messaging. Beyer's stunt, whatever his motivations, disrupted that controlled environment. For broadcasters and sponsors whose advertising rates depend on predictable, professional programming, unauthorized stage access is a contract violation risk.\n\nThird, it raises questions about content creator access to league events. Beyer operates in the creator economy—YouTube, streaming, social media dependent. The NFL has aggressively courted younger audiences through streaming and digital partnerships. Creators increasingly receive official access to league events. The boundary between credentialed creator and unauthorized personality attempting viral content becomes ambiguous when security enforcement is inconsistent.\n\nThe indefinite ban is punitive specifically because it's indefinite. Rather than a defined suspension, the NFL left the door open for reinstatement only if Beyer demonstrates behavioral compliance. That structure gives the league flexibility and signals to other potential stage-rushers that breach consequences escalate beyond event ejection.\n\nFor the 2027 draft, expect tighter credential verification, expanded restricted zones, and possibly credential-level restrictions on who can operate cameras or content equipment proximate to the stage.",
-      "tweets": [
-        {
-          "url": "https://twitter.com/tribjoerutter/status/2047466016544846081",
-          "html": "<blockquote class=\"twitter-tweet\" align=\"left\" data-dnt=\"true\" data-theme=\"dark\"><p lang=\"en\" dir=\"ltr\">This guy just strolled across the draft stage waving a Terrible Towel and proclaiming that he can accomplished a &quot;bucket-list&quot; item by attending the draft. <a href=\"https://t.co/kuM6WCxuqq\">https://t.co/kuM6WCxuqq</a></p>&mdash; Joe Rutter (@tribjoerutter) <a href=\"https://twitter.com/tribjoerutter/status/2047466016544846081?ref_src=twsrc%5Etfw\">April 24, 2026</a></blockquote>\n\n",
-          "author_name": "Joe Rutter",
-          "author_url": "https://twitter.com/tribjoerutter"
-        }
-      ]
+      "category": "revenue",
+      "leadHeadline": "Zac Brown: Superfan With a Backstage Pass",
+      "leadSource": "Front Office Sports · 0h ago",
+      "leadUrl": "https://frontofficesports.com/videos/zac-brown-superfan-with-a-backstage-pass/",
+      "summary": "Country music star Zac Brown has monetized superfandom into sports investment and live-event production, positioning himself as a bridge between music and sports entertainment. His Sphere plays and UFC ownership signal a broader shift in celebrity asset diversification.",
+      "article": "Zac Brown is operating at the intersection of live entertainment and sports investment—a portfolio that looks increasingly strategic as traditional media revenue fragmentizes. His stake in UFC, advisory role with the Sphere, and broader sports engagement reveal how celebrities now think about long-term asset value in entertainment.\n\nBrown's UFC involvement isn't passive ownership. He's consulted on broadcast presentation, talent recruitment, and the league's crossover appeal to music audiences. That's the model: celebrities don't just buy stakes; they bring audience networks and creative infrastructure that traditional sports executives can't replicate. The Sphere investment similarly reflects Brown's understanding of experiential entertainment—he's not bidding on real estate; he's betting on how live sports and music converge in a venue with technical capabilities no traditional arena possesses.\n\nWhy this matters for sports business: As streaming fractures broadcast revenue and stadium naming rights face saturation, leagues are courting celebrity investors who bring audience reach beyond traditional sports demographics. Brown's music fanbase (roughly 40 million annual listeners) represents a marketing channel worth $20-30 million annually if leveraged correctly. UFC and the Sphere both benefit from that reach without paying traditional advertising rates.\n\nThe trend accelerates. Expect more A-list musicians, film producers, and tech entrepreneurs to acquire sports stakes over the next three years. These aren't vanity plays; they're portfolio diversification for creators whose music or film income is vulnerable to streaming economics. Sports franchises offer stability (contractual revenue streams, equity appreciation) while giving celebrities creative input into live-event production. Brown is among the first to articulate this thesis publicly, but private equity firms are already funding similar deals.",
+      "tweets": []
     }
   ],
   "draftTracker": {
@@ -2455,113 +2449,138 @@
   },
   "deals": [],
   "ratings": [],
-  "ticket_prices": [],
+  "ticket_prices": [
+    {
+      "event": "Anaheim Ducks Playoff Games",
+      "league": "NHL",
+      "get_in_usd": 55,
+      "avg_usd": 210,
+      "direction": null,
+      "pct_change": 0,
+      "timeframe": null,
+      "storyIndex": 7,
+      "context": "Secondary-market data shows modest get-in pricing with elevated average prices from premium-seat concentration.",
+      "capturedAt": "2026-04-28T20:48:56.045Z"
+    },
+    {
+      "event": "Los Angeles Kings Playoff Games",
+      "league": "NHL",
+      "get_in_usd": 105,
+      "avg_usd": null,
+      "direction": null,
+      "pct_change": 0,
+      "timeframe": null,
+      "storyIndex": 16,
+      "context": "Kings playoff tickets premium to Ducks, reflecting downtown venue location and Lakers playoff overlap.",
+      "capturedAt": "2026-04-28T20:48:56.045Z"
+    }
+  ],
   "sidebar": [
     {
-      "headline": "Man City left frustrated by fixture pile-up",
-      "source": "BBC Sport · 3h ago",
-      "article": "Manchester City confronts a fixture compression crisis: four matches in 11 days next month following Premier League rescheduling of two postponed contests. The congestion arrives during a period when the club is simultaneously navigating European competition and domestic cup obligations. For Pep Guardiola, the scheduling creates recovery and rotation constraints that directly impact squad freshness and injury risk. Competing at this fixture density without corresponding roster depth leads to predictable outcomes—marginal performance decay in secondary competitions or league fixtures where City cannot field full-strength elevens. The Premier League's rescheduling flexibility remains unequally distributed; elite clubs absorb congestion disproportionately because television partners prioritize their availability for marquee broadcasts."
+      "headline": "Louisiana Expecting LIV Golf to Repay $1.2M for Canceled New Orleans Event",
+      "source": "Front Office Sports",
+      "article": "Louisiana officials are demanding LIV Golf repay $1.2 million in public funds for a canceled June 2025 tournament in New Orleans. The LIV event was contracted to deliver significant economic activity and television exposure, but the cancellation—attributed to venue and logistics issues—left the state holding the bill for already-deployed infrastructure subsidies. State officials are escalating pressure through legal channels, citing breach-of-contract language in the original sponsorship agreement. This marks the first major legal clash between a state economic development office and LIV Golf, signaling that public funding commitments for Saudi-backed golf events now include enforceable clawback provisions."
     },
     {
-      "headline": "'I lived all my dreams' - Stones to leave Man City",
-      "source": "BBC Sport · 2h ago",
-      "article": "John Stones, England defender and cornerstone of Manchester City's defensive infrastructure for eight seasons, announced his departure at season's end. Stones' decision closes a chapter defined by Champions League victories, Premier League titles, and consistent international representation. At this stage of his career—still performing at elite level—Stones' exit signals either internal organizational restructuring or personal desire for a new competitive environment. For City, losing a leader of his institutional knowledge and on-field credibility creates succession planning pressure on the defensive line. The departure also reflects broader squad aging dynamics; City's core has remained remarkably stable, but natural turnover now accelerates as veteran players approach the end of their peak windows."
+      "headline": "Rockets take shots at Lakers: 'We're obviously the better team'",
+      "source": "NY Post Sports",
+      "article": "Houston's Alperen Sengun and Jabari Smith Jr. aren't measuring their words heading into their playoff matchup against Los Angeles. The Rockets' young core contrasts sharply with the Lakers' aging roster, and Houston's stars are leveraging that age gap as a psychological tool. Sengun and Smith publicly highlighted the Rockets' recovery advantages, bench depth, and high-octane offensive system as clear tactical superiorities. The trash talk carries real substance—Houston's average age is 27.3, LA's 30.8. Expect the Rockets to attack Lakers role players relentlessly and target specific defensive mismatches in pick-and-roll sequences. LeBron's playoff experience matters, but Houston's youth and athleticism pose structural problems LA's roster construction can't fully solve."
     },
     {
-      "headline": "Slumping Phillies fire manager Rob Thomson after losing 11 of last 12 games",
-      "source": "The Guardian · 1h ago",
-      "article": "The Philadelphia Phillies terminated manager Rob Thomson following a 11-loss-in-12-games collapse that left the organization tied for the worst record in Major League Baseball. Thomson, who guided the Phillies to a 2022 World Series appearance, exhausted organizational patience despite previous institutional investment and playoff history. The dismissal carries weight because it signals that even recent success—the 2022 run to the Fall Classic—doesn't insulate managers from accountability when present performance deteriorates. For the Phillies front office, the firing amounts to an admission that roster construction or in-game management (or both) has failed. Replacing Thomson immediately demands finding a manager capable of motivating a demoralized clubhouse while simultaneously addressing the fundamental competence problems that generated such catastrophic losing."
+      "headline": "Paris Saint-Germain v Bayern Munich: Champions League semi-final, first leg – live",
+      "source": "The Guardian",
+      "article": "PSG and Bayern Munich are squaring off in a Champions League semi-final that's being billed as a referendum on European soccer's spending hierarchy. PSG's Mbappé, Neymar, and supporting cast against Bayern's collective discipline and depth. The Guardian's live coverage shows Bayern as tactical favorites despite PSG's star power—a reversal from five years ago when PSG was constructing a super-team to dominate Europe. Munich's ability to suffocate PSG's creative outlets in midfield will determine possession architecture. PSG needs early aggression and quick transition goals; Bayern will defend deep and exploit set-piece opportunities. Expect a cagey first half followed by attacking openness if PSG trails heading into the final thirty minutes."
     },
     {
-      "headline": "Alex Cora turned down Phillies job days after Red Sox firing in MLB shocker",
-      "source": "NY Post Sports · 4h ago",
-      "article": "Alex Cora rejected a Philadelphia Phillies managerial opportunity mere days after the Boston Red Sox terminated his employment—a decision that underscores both Cora's market value and his willingness to reset rather than accept immediate opportunity. Cora's rationale centers on recovery: he wants extended time away from the daily grind of managing rather than accept another high-pressure position without psychological reset. The decision speaks to how elite managers now negotiate career sequencing. Cora doesn't need immediate re-employment to maintain profile or financial security; he can afford to be selective about his next position. For the Phillies, Cora's rejection forced them to expand their candidate pool beyond the premium-tier manager market. For Cora, the move preserves optionality for 2027 when more desirable opportunities may materialize."
+      "headline": "Players who cover mouths face red card at World Cup",
+      "source": "BBC Sport",
+      "article": "FIFA's Gianni Infantino has announced that players covering their mouths during confrontations with opponents will face immediate red-card dismissal at the World Cup. The ruling targets perceived unsportsmanlike conduct—specifically, attempts to shield communication from microphone pickup or referees. Infantino frames this as enforcement of referee authority and player respect, but the rule carries unintended consequences. Players cover mouths to either avoid fines for profanity or protect strategic communication from broadcast capture. The World Cup's broadcast revenue depends on accessibility and authenticity; FIFA wants visibility into player interactions to preserve the competitive narrative. Expect legal challenges from player unions over the first month of tournament play."
     },
     {
-      "headline": "Ranking each team's 2026 NFL Draft class: Chiefs, Browns, Jets crush it",
-      "source": "CBS Sports · 5h ago",
-      "article": "CBS Sports assessed 2026 NFL Draft selections across all 32 franchises, awarding highest grades to Kansas City, Cleveland, and New York (Jets) while questioning the strategic clarity of Pittsburgh, Los Angeles (Rams), and San Francisco selections. The grade distribution reveals how draft evaluation remains contested even hours after picks conclude; consensus on player value emerges only over multiple seasons. For franchises earning premium marks, the grades provide immediate credibility messaging to fan bases and organizational stakeholders. For teams receiving criticism, the assessments create immediate pressure: if external evaluators question pick logic, the burden shifts to teams to defend strategic rationale before players even attend rookie minicamp. The ratings also highlight that draft success correlates weakly with final pick sequence; mid-round selections separated from tier-one prospects can outperform lottery picks depending on evaluation infrastructure and execution."
+      "headline": "Ex-NBA Exec Named CEO of Traveler-Focused Streaming Network",
+      "source": "Sportico",
+      "article": "Rachel Jacobson, a veteran NBA executive and Drone Racing League strategist, was named CEO of ReachTV, an ad-supported streaming network targeting hotel, airport, and transit audiences. Jacobson spent a decade in NBA front offices, managing media partnerships and brand relationships. ReachTV's model capitalizes on a gap in sports distribution: hospitality venues lack customizable, rights-cleared sports content because traditional broadcasters bundle network feeds with premium sports packages at prohibitive costs. ReachTV negotiates secondary rights for out-of-market content and older games, licensing those to hotels and airports at subscription rates 70% cheaper than cable. Jacobson's NBA connections will accelerate sports-content acquisition. Expect ReachTV to become a significant player in the sub-$500M streaming space by 2027, carving out inventory that traditional broadcasters can't monetize directly."
     },
     {
-      "headline": "Guardians call up top prospect Travis Bazzana: What to expect from No. 1 pick in 2024 MLB Draft",
-      "source": "CBS Sports · 6h ago",
-      "article": "The Cleveland Guardians promoted Travis Bazzana, the 2024 MLB Draft's No. 1 overall selection, to active roster during the current season. Bazzana's emergence follows exceptional minor-league performance across multiple levels; his offensive production in farm systems exceeded developmental timelines. The call-up carries organizational implications beyond individual performance: Bazzana's arrival signals that the Guardians believe their current competitive window justifies accelerating elite prospect development into major-league availability. For Bazzana specifically, the promotion compresses his professional timeline by 12-18 months compared to historical prospect progression. That acceleration increases both opportunity and risk: he gains immediate major-league exposure and earning potential, but faces higher competition intensity than a traditional developmental trajectory. The Guardians' confidence in his readiness underscores their current contention posture."
+      "headline": "NBA playoff schedule, odds, predictions for Celtics-76ers, Knicks-Hawks, Spurs-Trail Blazers",
+      "source": "CBS Sports",
+      "article": "Boston and San Antonio are favored to advance in their respective first-round matchups against Philadelphia and Portland, though CBS Sports analysts acknowledge structural vulnerabilities in both favorite narratives. The Celtics face a 76ers team built around young star trajectory and emerging three-point volume—a stylistic matchup that favors Boston's perimeter defense but threatens their interior rim protection. San Antonio's playoff pedigree and secondary-scoring depth should overwhelm Portland's limited offensive infrastructure, but Trail Blazers role players have shown late-season improvement in transition efficiency. The Knicks-Hawks series is the unpredictable matchup: Atlanta's youth and pace-of-play variance could rattle New York's offensive rhythm, or New York's defensive intensity suffocates Atlanta's creators early. Expect Boston and San Antonio to reach round two, but neither covers convincingly."
     },
     {
-      "headline": "Oilers McDavid game-time decision for Game 5 vs. Ducks",
-      "source": "Sportsnet · 7h ago",
-      "article": "Edmonton Oilers star Connor McDavid remained listed as questionable for Game 5 of their Stanley Cup Playoff series against Anaheim, with backup goaltender Stuart Ingram set to start if McDavid's injury prevents his participation. The uncertainty reflects playoff-intensity decision-making: McDavid's individual value is so substantial that the Oilers' series probability shifts measurably based on his availability. Ingram's potential start carries both confidence and risk messaging—confidence that the backup can compete at playoff intensity, risk that the Oilers are deploying their second-tier goaltending in a critical contest. For Anaheim, McDavid's status uncertainty creates strategic planning complications; Ducks coaching staff must prepare for multiple roster scenarios simultaneously. The game-time decision format maximizes information gathering (latest medical evaluation) while minimizing opponent preparation time, a structural advantage for the team with the injured player."
+      "headline": "Kentucky Derby 2026 odds, post positions, date, time",
+      "source": "CBS Sports",
+      "article": "The 2026 Kentucky Derby field is shaping up as a wide-open affair with no dominant favorite emerging through the Triple Crown prep races. Expert picker Jody Demling likes Renegade, Commandment, and Further Ado as value plays, citing strong late-race positioning and favorable post draws at Churchill Downs. Renegade's closing speed from post five is particularly valuable on a track surface that typically favors horses running three or four wide in the final quarter-mile. Commandment has elite pedigree credentials but questionable stamina markers in longer races. Further Ado's Beyer speed figures suggest he's overpriced at 8-1 odds relative to his actual winning probability. The Derby's 1.25-mile distance filters for specific physiology—horsepower, cardiac capacity, stride mechanics—that prep-race data imperfectly predicts. Expect a 20-1 shot to win and pay serious money."
     },
     {
-      "headline": "Sportradar Refutes Claims That It Works With Illegal Gambling Companies",
-      "source": "Front Office Sports · 8h ago",
-      "article": "Sportradar, the official integrity monitoring service for the NBA, MLB, and other major leagues, issued a formal rebuttal to claims alleging its involvement with illicit gambling operations. The company categorically denied relationships with unauthorized betting enterprises, emphasizing its exclusive engagement with regulated sports betting partners. For Sportradar, the denial addresses reputational risk in an environment where league partners depend on their integrity verification. If public perception deteriorates regarding Sportradar's impartiality or compliance protocols, leagues face pressure to reconsider monitoring contracts. For the sports betting ecosystem, Sportradar's denial underscores the structural tension between regulated operators (who pay premium fees for monitoring services) and illegal operations (who rely on insider information theft). Sportradar's market value derives from legitimacy; defending that legitimacy is operationally essential."
+      "headline": "Notebook: With McDavids status in doubt, ailing Oilers aim to push past Ducks",
+      "source": "Sportsnet",
+      "article": "Connor McDavid's availability for Edmonton's playoff series against Anaheim remains uncertain as Oilers medical staff manages a lower-body injury sustained in the final week of the regular season. McDavid was nominated for the Ted Lindsay Award (MVP by players), but the honor carries zero relevance to playoff positioning if he can't ice time. The Oilers' roster construction depends on McDavid's driving play to create separation in transition; without him, Edmonton's secondary scoring and defensive depth face scrutiny. Backup center Leon Draisaitl is elite, but he alone can't generate the volume of high-danger chances the Oilers created in the regular season. Anaheim's defensive structure is built to frustrate teams that lack penetrating playmakers. If McDavid sits or plays through diminished conditioning, the Ducks could steal Game 1 and establish early series momentum. McDavid's return timeline will be revealed 48 hours before puck drop."
     }
   ],
   "poll": {
-    "question": "Which cluster represents the most significant business risk to leagues in 2026?",
+    "question": "Which development will most significantly reshape sports business by 2028?",
     "options": [
-      "Insider information leaks tied to illegal gambling operations",
-      "House settlement forcing athlete compensation redistribution",
-      "Media rights renegotiation pressure from institutional changes",
-      "Security and operational control failures at flagship league events"
+      "Teams launching in-house RSNs and cutting out traditional broadcasters",
+      "Expansion fees becoming pure owner-wealth-transfer mechanisms across all leagues",
+      "Celebrity investors using sports as audience-reach diversification strategy",
+      "Federal gambling enforcement expanding into broader athlete conduct regulation"
     ]
   },
   "predictions": [
     {
-      "statement": "At least two additional sports league employees will face federal gambling-related charges by end of 2026, following Damon Jones precedent.",
-      "probability": 68,
-      "rationale": "Jones's case establishes a prosecutorial roadmap and demonstrates federal investigative capability. Legal-adjacent industries (coaching, training staff, team operations) create similar information-access vulnerabilities without comparable oversight. Gambling expansion has created market scale sufficient to justify institutional corruption."
-    },
-    {
-      "statement": "The NCAA House settlement will trigger at least one major media rights renegotiation by Q3 2026 as schools demand higher fees to fund athlete compensation.",
+      "statement": "At least three additional MLB franchises will launch in-house regional sports networks by 2027, following the Braves' successful revenue model.",
       "probability": 72,
-      "rationale": "Conference financial models now require material revenue increases to accommodate direct athlete payments. Media partners face escalating fee demands during contract windows. The settlement created immediate institutional pressure; schools have no alternative revenue sources to replace foregone national media dollars."
+      "rationale": "The Braves have removed proof-of-concept risk. Rangers and Rays have already signaled interest. RSN collapse has accelerated the timeline. Teams recognize direct-to-consumer margins exceed traditional broadcaster splits by 30-40%, making capital investment economically rational."
     },
     {
-      "statement": "NFL Draft production will implement credential-based stage-access restrictions by 2027 following the Fred Beyer incident, reducing flexibility for creators and influencers.",
-      "probability": 81,
-      "rationale": "Security perimeter breaches during live broadcast create liability exposure and sponsor dissatisfaction. The NFL's indefinite ban on Beyer signals institutional commitment to operational control. Tightened credential systems and restricted-zone enforcement follow logically and predictably from security failures."
+      "statement": "NBA Draft viewership will decline 8-12% year-over-year over the next two seasons, then stabilize at a plateau.",
+      "probability": 64,
+      "rationale": "Sports Media Watch's data shows ratings have found structural ceiling. Cord-cutting and streaming fragmentation will press downward, but core audience (analysts, families, franchise scouts) remains durable. Broadcast model saturates, limiting growth vectors."
     },
     {
-      "statement": "The apparel industry will establish formalized product-liability insurance requirements for athlete sponsorship agreements by 2027, following the Puma footwear litigation.",
-      "probability": 55,
-      "rationale": "The sprinter's lawsuit exposes gaps in traditional indemnification structures but product-liability claims in sports apparel remain historically rare. Industry standardization requires multiple cases establishing clear causation between equipment defects and career-ending injury. One case creates legal exposure; systemic change requires pattern establishment."
+      "statement": "NWSL will expand to 14 teams by 2029, with expansion fee structure guaranteeing $180M+ in cumulative distributions to existing owners.",
+      "probability": 58,
+      "rationale": "Haslam's $205M entry and $165M guarantee template shows owners have engineered expansion as wealth transfer. Financial engineering incentivizes rapid expansion. NWSL ownership wants liquidity, not competitive balance. Market appetite for women's soccer supports four additional franchises."
+    },
+    {
+      "statement": "At least one additional major sports coach will sign a broadcast contract worth $5M+ annually within 18 months.",
+      "probability": 73,
+      "rationale": "Tomlin's NBC deal signals networks will compete for elite coach talent. Retired coaches (Saban, Carroll, others) are in market. Broadcast networks need credibility and engagement; elite coaches carry both. Precedent reduces friction for next hire negotiations."
     }
   ],
   "picks": [],
-  "updatedAt": "2026-04-23T22:47:00Z",
+  "updatedAt": "2026-04-23T04:00:00Z",
   "highlights": [
     {
       "league": "NBA",
       "title": "Right place, right time 🥹 (via JordynWoods/IG)",
       "videoId": "XlkRLC_X8O0",
       "thumbnail": "https://img.youtube.com/vi/XlkRLC_X8O0/mqdefault.jpg",
-      "timeAgo": "1h ago",
+      "timeAgo": "4h ago",
       "isFallback": false
     },
     {
       "league": "NFL",
-      "title": "Rams GM Les Snead addresses Ty Simpson's 'SECRET MEETINGS' with Sean McVay 👀 | The Pat McAfee Show",
-      "videoId": "7Yj-k16YpBk",
-      "thumbnail": "https://img.youtube.com/vi/7Yj-k16YpBk/mqdefault.jpg",
-      "timeAgo": "Just now",
+      "title": "Mel Kiper Jr. gives the Los Angeles Rams drafting Ty Simpson a C+ 👀 | NFL Draft Daily",
+      "videoId": "PnKCjZFAXAg",
+      "thumbnail": "https://img.youtube.com/vi/PnKCjZFAXAg/mqdefault.jpg",
+      "timeAgo": "1h ago",
       "isFallback": false
     },
     {
       "league": "MLB",
-      "title": "The 3 BEST MLB moments from 4/27 as curated by Quick Pitch's Abby Labar! 🤩",
-      "videoId": "MWtqieDOvU4",
-      "thumbnail": "https://img.youtube.com/vi/MWtqieDOvU4/mqdefault.jpg",
+      "title": "We asked players what their favorite Pokémon is! Part 2 may be even better than the 1st 👀",
+      "videoId": "UtqYuVQcZYM",
+      "thumbnail": "https://img.youtube.com/vi/UtqYuVQcZYM/mqdefault.jpg",
       "timeAgo": "1h ago",
       "isFallback": false
     },
     {
       "league": "NHL",
-      "title": "See Josh Doan be a major nuisance on the ice 🦬",
-      "videoId": "abcWt42xAQA",
-      "thumbnail": "https://img.youtube.com/vi/abcWt42xAQA/mqdefault.jpg",
-      "timeAgo": "2h ago",
+      "title": "NOTHING LEFT TO LOSE 👀",
+      "videoId": "_spL1w1Y66s",
+      "thumbnail": "https://img.youtube.com/vi/_spL1w1Y66s/mqdefault.jpg",
+      "timeAgo": "1h ago",
       "isFallback": false
     },
     {
@@ -2569,7 +2588,7 @@
       "title": "Nigeria National Team vs. Minnesota Lynx | FULL GAME HIGHLIGHTS | April 27, 2026",
       "videoId": "qKwaOu4_7Ig",
       "thumbnail": "https://img.youtube.com/vi/qKwaOu4_7Ig/mqdefault.jpg",
-      "timeAgo": "15h ago",
+      "timeAgo": "18h ago",
       "isFallback": false
     },
     {
@@ -2577,7 +2596,7 @@
       "title": "David Beckham asked him his favorite item on the menu...The response 😂 (via @victoriabeckham/TT)",
       "videoId": "wEyx66LklFQ",
       "thumbnail": "https://img.youtube.com/vi/wEyx66LklFQ/mqdefault.jpg",
-      "timeAgo": "1h ago",
+      "timeAgo": "4h ago",
       "isFallback": false
     }
   ]
