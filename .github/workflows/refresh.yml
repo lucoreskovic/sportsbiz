@@ -1,0 +1,71 @@
+name: Refresh Stories
+
+on:
+  schedule:
+    # Every 2 hours on the hour (general refresh)
+    - cron: '0 */2 * * *'
+    # Morning anchor: 8 AM ET / 12:00 UTC (DST). This is the critical run that
+    # populates the day's picks after the full schedule and odds are posted.
+    # When DST ends (early Nov), 8 AM ET becomes 13:00 UTC — adjust then.
+    - cron: '0 12 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: Generate stories
+        run: node generate.js
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}
+
+      - name: Push via GitHub API
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          REPO: ${{ github.repository }}
+        run: |
+          python3 << 'PYEOF'
+          import json, base64, urllib.request, os, sys
+
+          with open('stories.json', 'rb') as f:
+              content = base64.b64encode(f.read()).decode()
+
+          token = os.environ['GITHUB_TOKEN']
+          repo  = os.environ['REPO']
+          url   = f'https://api.github.com/repos/{repo}/contents/stories.json'
+          hdrs  = {'Authorization': f'Bearer {token}', 'Content-Type': 'application/json'}
+
+          # Get current SHA
+          sha = None
+          try:
+              req = urllib.request.Request(url, headers=hdrs)
+              with urllib.request.urlopen(req) as r:
+                  sha = json.loads(r.read().decode())['sha']
+          except Exception as e:
+              print('No existing SHA:', e)
+
+          # Update file
+          body = {'message': 'Refresh stories', 'content': content}
+          if sha:
+              body['sha'] = sha
+
+          req = urllib.request.Request(url,
+              data=json.dumps(body).encode(),
+              headers=hdrs, method='PUT')
+          try:
+              with urllib.request.urlopen(req) as r:
+                  result = json.loads(r.read().decode())
+                  print('Pushed OK:', result.get('content', {}).get('name'))
+          except urllib.error.HTTPError as e:
+              print('Push failed:', e.code, e.read().decode())
+              sys.exit(1)
+          PYEOF
