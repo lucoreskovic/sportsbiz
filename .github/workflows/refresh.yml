@@ -2,12 +2,10 @@ name: Refresh Stories
 
 on:
   schedule:
-    # Every 2 hours on the hour (general refresh)
-    - cron: '0 */2 * * *'
-    # Morning anchor: 8 AM ET / 12:00 UTC (DST). This is the critical run that
-    # populates the day's picks after the full schedule and odds are posted.
-    # When DST ends (early Nov), 8 AM ET becomes 13:00 UTC — adjust then.
-    - cron: '0 12 * * *'
+    # Every 4 hours (was every 2). Sports news cadence doesn't need 2h refreshes
+    # outside game windows, and this halves cluster + tweet-attach costs.
+    # Hits 0, 4, 8, 12, 16, 20 UTC — including the 12 UTC morning anchor.
+    - cron: '0 */4 * * *'
   workflow_dispatch:
 
 permissions:
