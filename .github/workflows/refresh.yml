@@ -2,10 +2,15 @@ name: Refresh Stories
 
 on:
   schedule:
-    # Every 4 hours (was every 2). Sports news cadence doesn't need 2h refreshes
-    # outside game windows, and this halves cluster + tweet-attach costs.
-    # Hits 0, 4, 8, 12, 16, 20 UTC — including the 12 UTC morning anchor.
-    - cron: '0 */4 * * *'
+    # Morning anchor: 11:00 UTC = 7 AM EDT (March-Nov) / 6 AM EST (Nov-March).
+    # This run generates the day's value picks. The picks pipeline ONLY fires
+    # on this anchor (or a manual dispatch) — see generate.js shouldRunPicks.
+    - cron: '0 11 * * *'
+    # Cluster + tweets refresh every 4 hours so news content stays current.
+    # These runs do NOT regenerate picks (preserves the morning's picks until
+    # the next 7 AM ET run). Hits 3, 7, 15, 19, 23 UTC — interleaved with the
+    # 11 UTC anchor for ~6 total daily runs.
+    - cron: '0 3,7,15,19,23 * * *'
   workflow_dispatch:
 
 permissions:
