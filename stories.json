@@ -1,99 +1,92 @@
 {
   "clusters": [
     {
-      "category": "media",
-      "importance": 8,
+      "category": "leagues",
+      "importance": 9,
       "leadHeadline": "NFL Brings in the Nickel Package as a Defense Against StreamingBeefs",
       "leadSource": "Sportico · 0h ago",
       "leadUrl": "https://www.sportico.com/business/media/2026/nfl-schedule-broadcasts-tv-streaming-defense-1234899483/",
-      "summary": "The NFL doubled down on traditional TV partners Friday, reiterating their central role in its media strategy even as streaming expands. The move signals the league's hedge against cord-cutting pressure and reliance on linear broadcasters.",
-      "article": "The NFL released its bloated 2026-27 schedule on Thursday, then spent Friday clarifying what the network landscape actually looks like: traditional TV partners remain the foundation. The league's reiteration—coming as streaming platforms Amazon Prime, Netflix, and Apple TV+ have all secured rights packages—amounts to a defensive crouch against the very disruption those platforms represent.\n\nThis isn't accidental messaging. The NFL knows its media rights command $100+ billion across all packages through 2033. CBS, FOX, NBC, and ESPN still carry the bulk of primetime inventory and reach the broadest demos. Streaming companies haven't displaced them; they've supplemented them with specific windows (Thursday Night Football on Amazon, select playoff games on Netflix starting 2026).\n\nThe timing matters. A day after releasing a schedule that drew immediate criticism for oversaturation—too many marquee matchups bunched together, too little primacy—the league is reassuring CBS, FOX, and NBC that they remain the primacy window. The \"nickel package\" framing (invoking defensive depth) suggests the NFL views streaming as tactical additions, not structural replacements.\n\nBut the subtext is revealing: the league is managing anxiety among legacy partners who've spent billions for rights that used to guarantee exclusivity. By publicly recommitting to linear TV, Goodell's office is buying goodwill from the broadcasters who still move the needle on reach. Netflix and Amazon get premium content; CBS gets reassurance it's still the Sunday anchor.",
+      "summary": "The NFL doubled down on traditional TV partners Friday after releasing its 2026-27 schedule, signaling that broadcast networks remain central to league strategy despite streaming expansion.",
+      "article": "The NFL released its 2026-27 schedule Thursday and immediately faced the predictable backlash—too many primetime games, uneven distribution, streaming fatigue. By Friday, the league moved to manage the noise. In a statement to outlets including Sportico, the NFL emphasized that its \"traditional TV partners remain integral\" to its media strategy, even as it continues to expand streaming offerings across Amazon Prime, ESPN+, and Netflix.\n\nThis is a deliberate positioning. The league is not abandoning CBS, FOX, NBC, or ESPN. Rather, it's signaling that those partners—which collectively pay roughly $113 billion through 2033—are not being deprioritized by new streaming deals. The move comes as some media analysts worry that oversaturation (the 2026-27 schedule includes a historic number of nationally televised games) could fracture the audience and depress ratings.\n\nThe \"nickel package\" framing is clever defensive football. The league is saying: we hear you, we're defending the core product, the traditional networks are fine. But it's also an acknowledgment that the 2026-27 slate has created enough friction that the NFL needed to explicitly reassure its long-standing partners that they weren't being replaced.\n\nWhat happens next matters. If next season's ratings dip meaningfully, the NFL will have created its own narrative problem—it promised balance and delivered oversaturation. If ratings hold, the league proves it can have it both ways. For now, the schedule stays as is.",
       "tweets": []
     },
     {
       "category": "revenue",
       "importance": 8,
-      "leadHeadline": "2026 NFL Schedule Released: Biggest Matchups, Thanksgiving Games & Early Ticket Prices",
-      "leadSource": "TicketIQ · 0h ago",
-      "leadUrl": "https://blog.ticketiq.com/blog/nfl-tickets-prices-trends",
-      "summary": "The NFL's 2026-27 schedule dropped with early secondary-market pricing data showing demand patterns across premium matchups. Get-in prices and inventory trends offer a first read on fan appetite for the coming season.",
-      "article": "The NFL released its 2026-27 schedule Friday, and secondary-market pricing data already tells a story about which games matter to fans with disposable income. TicketIQ's early pricing snapshot captures a market saturated with high-profile matchups—a deliberate NFL choice that's now reflected in ticket economics.\n\nThe schedule bunched premium games into early weeks and key dates: primetime divisional clashes, marquee non-conference matchups, back-to-back Thanksgiving slots. This creates scarcity optics. Fans see a smaller window of \"must-see\" games and price accordingly. Get-in prices on secondary markets tend to spike when inventory is perceived as limited or when teams entering games with better records command higher demand.\n\nEarly data showed get-in prices ranging from under $100 for mid-tier matchups to $250+ for playoff-positioned teams in major markets. Average listing prices exceeded $300 for premier Week 1-4 games. This reflects two dynamics: genuine demand (strong team matchups always draw) and artificial scarcity (the schedule's front-loading creates crowded premium dates).\n\nThe NFL's approach—cramming star power into visible windows—works for TV ratings but creates ticket-market distortion. Fans priced out of early Games pivot to midseason inventory, which softens demand for weeks 8-14. Secondary-market brokers already reported inventory management challenges as allocations sold through before public on-sales.\n\nFor teams and the league, early pricing suggests confidence in 2026 demand. For fans, it's a reminder that schedule architecture directly shapes ticket accessibility.",
-      "tweets": [
-        {
-          "url": "https://twitter.com/AroundTheNFL/status/2054052697712799807",
-          "html": "<blockquote class=\"twitter-tweet\" align=\"left\" data-dnt=\"true\" data-theme=\"dark\"><p lang=\"en\" dir=\"ltr\">2026 NFL schedule release: Cowboys to host Eagles on Thanksgiving in Week 12 on FOX<a href=\"https://t.co/xUix7jHyMk\">https://t.co/xUix7jHyMk</a></p>&mdash; Around The NFL (@AroundTheNFL) <a href=\"https://twitter.com/AroundTheNFL/status/2054052697712799807?ref_src=twsrc%5Etfw\">May 12, 2026</a></blockquote>\n\n",
-          "author_name": "Around The NFL",
-          "author_url": "https://twitter.com/AroundTheNFL"
-        },
-        {
-          "url": "https://twitter.com/MySportsUpdate/status/2054765272553116057",
-          "html": "<blockquote class=\"twitter-tweet\" align=\"left\" data-dnt=\"true\" data-theme=\"dark\"><p lang=\"en\" dir=\"ltr\">Schedule leak: The 2026 NFL Thanksgiving slate is out and it’s 🔥🔥🔥 <a href=\"https://t.co/weFfMCKrra\">pic.twitter.com/weFfMCKrra</a></p>&mdash; Ari Meirov (@MySportsUpdate) <a href=\"https://twitter.com/MySportsUpdate/status/2054765272553116057?ref_src=twsrc%5Etfw\">May 14, 2026</a></blockquote>\n\n",
-          "author_name": "Ari Meirov",
-          "author_url": "https://twitter.com/MySportsUpdate"
-        },
-        {
-          "url": "https://twitter.com/AroundTheNFL/status/2054933706771722422",
-          "html": "<blockquote class=\"twitter-tweet\" align=\"left\" data-dnt=\"true\" data-theme=\"dark\"><p lang=\"en\" dir=\"ltr\">2026 Thanksgiving week games confirmed so far: Packers-Rams on Wednesday night; Bears-Lions in early window; Eagles-Cowboys in afternoon window<a href=\"https://t.co/74dXxLGobf\">https://t.co/74dXxLGobf</a> <a href=\"https://t.co/jmgCvvrh0F\">pic.twitter.com/jmgCvvrh0F</a></p>&mdash; Around The NFL (@AroundTheNFL) <a href=\"https://twitter.com/AroundTheNFL/status/2054933706771722422?ref_src=twsrc%5Etfw\">May 14, 2026</a></blockquote>\n\n",
-          "author_name": "Around The NFL",
-          "author_url": "https://twitter.com/AroundTheNFL"
-        }
-      ]
+      "leadHeadline": "PGA Championship Increases Purse to Record $20.5 Million",
+      "leadSource": "Front Office Sports · 2h ago",
+      "leadUrl": "https://frontofficesports.com/pga-championship-increases-purse-to-record-20-5-million/",
+      "summary": "The PGA Championship announced a record $20.5M purse for 2026, up $1.5M year-over-year, as major championships compete for player relevance amid LIV Golf and increased player compensation demands.",
+      "article": "The PGA Championship announced Friday that its 2026 purse has reached a record $20.5 million, up from $19 million in 2025—a $1.5 million increase that reflects the broader arms race in professional golf prize money.\n\nThe bump matters in context. Major championships have been forced to inflate purses aggressively over the past two years as LIV Golf and the PGA Tour's Saudi-backed strategic initiatives have reset player compensation expectations. The Masters, U.S. Open, and Open Championship have all announced significant purse increases in recent seasons. The PGA Championship's move keeps it competitive with those events.\n\nWhere the money goes: The winner's share, typically 18 percent of total purse, would reach approximately $3.69 million—a meaningful but not transformative increase for a major champion. The real impact is felt in the mid-tier finishes, where purse increases translate directly to player earnings across the field.\n\nThis also comes as Bryson DeChambeau, the LIV-affiliated player who won the Masters in 2024, missed the cut at this year's Masters and has struggled to find form. The optics of major championships offering record money while LIV's highest-profile players underperform creates narrative complexity. The PGA Championship's purse increase suggests the majors remain confident in their position as golf's prestige events—but the increases won't stop until player expectations stabilize.",
+      "tweets": []
     },
     {
-      "category": "leagues",
+      "category": "contracts",
       "importance": 7,
-      "leadHeadline": "Spurs beat Timberwolves to advance to Western Conference finals vs. Thunder",
-      "leadSource": "NY Post Sports · 0h ago",
-      "leadUrl": "https://nypost.com/2026/05/16/sports/spurs-beat-timberwolves-to-advance-to-wester-conference-finals/",
-      "summary": "San Antonio advanced to the Finals with a 139-109 win Friday, eliminating Minnesota in a decisive Game 6. The Spurs' roster construction—built around Wembanyama and castle's depth—outmaneuvered a Timberwolves team that couldn't solve defensive adjustment.",
-      "article": "Stephon Castle drove the final nail Friday night. With 32 points, the Spurs' second-year guard engineered a 139-109 rout of the Timberwolves in Game 6, sending San Antonio to the Western Conference Finals against Oklahoma City and answering the central question hanging over Pop Popovich's roster: Can this core actually execute in a playoff elimination game?\n\nThe answer, at least Friday, was emphatic. Victor Wembanyama's defensive versatility and Castle's shot-creation in the midrange overwhelmed Minnesota's perimeter-oriented attack. The Timberwolves shot 41% from the field and looked disorganized in transition—a damning statement for a team that entered the series as the higher seed.\n\nThis matchup outcome carries medium-term implications for both franchises. San Antonio's front office made the correct bet on Wembanyama and surrounding him with plug-and-play wings and guards. The Spurs' salary structure remains flexible. Minnesota's Rudy Gobert and Karl-Anthony Towns trades, which felt smart in November, now look like mid-playoff desperation moves. The Timberwolves are talent-rich but architecturally unbalanced: too much money in three players (Towns, Gobert, Anthony Edwards), not enough in complementary depth.\n\nFor the Thunder, San Antonio represents a gritty, methodical opponent that doesn't break. OKC is the Western Conference favorite, but the Spurs will challenge their pace and force halfcourt basketball—a style that's historically given Oklahoma trouble.\n\nFriday's margin (30 points) matters less than the methodology. The Timberwolves couldn't guard. The Spurs could. In playoffs, that's the difference.",
+      "leadHeadline": "Man Utd reach agreement to appoint Carrick manager",
+      "leadSource": "BBC Sport · 3h ago",
+      "leadUrl": "https://www.bbc.com/sport/football/articles/c392r8v1jz4o?at_medium=RSS&amp;at_campaign=rss",
+      "summary": "Manchester United confirmed Friday that Michael Carrick will become the club's permanent manager following recent interim success, settling a managerial vacancy that had created uncertainty around transfer strategy and squad direction.",
+      "article": "Manchester United announced Friday evening that it has reached an agreement with Michael Carrick to become the club's permanent head coach. The appointment formalizes what has been a de facto arrangement since interim manager Carrick stabilized the club's season following Erik ten Hag's departure.\n\nThis move closes a chapter of uncertainty. United had operated without a permanent manager for weeks, creating ambiguity around the summer transfer window, squad depth, and tactical direction. Carrick's appointment—expected on a multi-year deal, though exact terms weren't disclosed—provides clarity heading into the offseason.\n\nCarrick arrives with Premier League experience and an understanding of United's infrastructure. He's not a marquee appointment like Zinedine Zidane or Carlo Ancelotti would have been, but he's also not a high-risk gamble. The club gets continuity and a manager who won't demand an immediate overhaul of the squad.\n\nThe contract structure matters. If Carrick's deal includes performance incentives tied to Champions League qualification or a top-four finish, it signals United's realistic expectations. If it's fully guaranteed with multi-year security, it suggests the club is committed to a longer rebuild. Either way, Manchester United now has a manager in place to execute its transfer strategy rather than react to circumstances.",
       "tweets": [
         {
-          "url": "https://twitter.com/NBA/status/2055502654508245196",
-          "html": "<blockquote class=\"twitter-tweet\" align=\"left\" data-dnt=\"true\" data-theme=\"dark\"><p lang=\"en\" dir=\"ltr\">The Spurs win Game 6 on the road and advance to the Western Conference Finals for the first time since 2017!<br><br>They will take on the Thunder in the WCF.<br><br>NBA Conference Finals presented by <a href=\"https://twitter.com/Google?ref_src=twsrc%5Etfw\">@Google</a> <a href=\"https://t.co/IksSIOyoWO\">pic.twitter.com/IksSIOyoWO</a></p>&mdash; NBA (@NBA) <a href=\"https://twitter.com/NBA/status/2055502654508245196?ref_src=twsrc%5Etfw\">May 16, 2026</a></blockquote>\n\n",
-          "author_name": "NBA",
-          "author_url": "https://twitter.com/NBA"
+          "url": "https://twitter.com/ManUtd/status/2011155965006266610",
+          "html": "<blockquote class=\"twitter-tweet\" align=\"left\" data-dnt=\"true\" data-theme=\"dark\"><p lang=\"en\" dir=\"ltr\">Michael Carrick is back 🤝<br> <br>Our former captain is our Head Coach for the remainder of 2025/26 🔴</p>&mdash; Manchester United (@ManUtd) <a href=\"https://twitter.com/ManUtd/status/2011155965006266610?ref_src=twsrc%5Etfw\">January 13, 2026</a></blockquote>\n\n",
+          "author_name": "Manchester United",
+          "author_url": "https://twitter.com/ManUtd"
+        },
+        {
+          "url": "https://twitter.com/FabrizioRomano/status/2010537519604007196",
+          "html": "<blockquote class=\"twitter-tweet\" align=\"left\" data-dnt=\"true\" data-theme=\"dark\"><p lang=\"en\" dir=\"ltr\">🚨 Michael Carrick had positive contact with INEOS and Man United management, advancing to become the new interim manager.<br><br>Man Utd will announce new coach this week and Carrick is hopeful to get the job.<br><br>Solskjær, waiting for club’s decision.<br><br>🎥 <a href=\"https://t.co/db5zGPd80F\">https://t.co/db5zGPd80F</a> <a href=\"https://t.co/hZoDiqYZvO\">pic.twitter.com/hZoDiqYZvO</a></p>&mdash; Fabrizio Romano (@FabrizioRomano) <a href=\"https://twitter.com/FabrizioRomano/status/2010537519604007196?ref_src=twsrc%5Etfw\">January 12, 2026</a></blockquote>\n\n",
+          "author_name": "Fabrizio Romano",
+          "author_url": "https://twitter.com/FabrizioRomano"
+        },
+        {
+          "url": "https://twitter.com/theutdjournal/status/2011157249448952108",
+          "html": "<blockquote class=\"twitter-tweet\" align=\"left\" data-dnt=\"true\" data-theme=\"dark\"><p lang=\"en\" dir=\"ltr\">🚨 OFFICIAL: <a href=\"https://twitter.com/hashtag/mufc?src=hash&amp;ref_src=twsrc%5Etfw\">#mufc</a> have announced the appointment of Michael Carrick as head coach of the men’s first team until the end of the 2025/26 season. <a href=\"https://twitter.com/hashtag/mujournal?src=hash&amp;ref_src=twsrc%5Etfw\">#mujournal</a> <a href=\"https://t.co/NWwtrN8EnB\">pic.twitter.com/NWwtrN8EnB</a></p>&mdash; United Journal (@theutdjournal) <a href=\"https://twitter.com/theutdjournal/status/2011157249448952108?ref_src=twsrc%5Etfw\">January 13, 2026</a></blockquote>\n\n",
+          "author_name": "United Journal",
+          "author_url": "https://twitter.com/theutdjournal"
         }
       ]
     },
     {
-      "category": "leagues",
+      "category": "media",
+      "importance": 7,
+      "leadHeadline": "2026 NFL Schedule Released: Biggest Matchups, Thanksgiving Games & Early Ticket Prices",
+      "leadSource": "TicketIQ · 1h ago",
+      "leadUrl": "https://blog.ticketiq.com/blog/nfl-tickets-prices-trends",
+      "summary": "The 2026 NFL schedule release triggered immediate ticket sales, with TicketIQ reporting early pricing trends across marquee matchups and holiday games that will shape secondary market demand through the season.",
+      "article": "The NFL released its 2026-27 schedule Thursday, and secondary market tracker TicketIQ reported immediate pricing activity Friday across early ticket sales for the season's marquee matchups and holiday games.\n\nSchedule releases always drive ticket market behavior. Teams announce their home slate, primetime designations lock in, and fans immediately begin pricing premium games—Thanksgiving matchups, division rivals, playoff rematches. TicketIQ's data Friday showed early interest concentrated on traditional high-demand windows: Thanksgiving games, Christmas programming, and opening-week division rivalries.\n\nWhat's notable this year: The 2026-27 schedule was widely criticized for oversaturation—too many primetime games, too many streaming windows, audience fragmentation concerns. But the ticket market shows no sign of hesitation. If anything, the expanded national slate may distribute demand more evenly across the season rather than concentrating it in a handful of marquee weeks. Smaller markets and lower-profile teams see pricing lifts when their games are nationally televised.\n\nEarly pricing is a leading indicator. If get-in prices for standard games spike year-over-year, it signals strong demand despite the oversaturation criticism. If they flatten, it suggests fans are rationing entertainment dollars or feeling fatigued by too much product. The secondary market data from TicketIQ will be critical context as the season approaches and the NFL begins to understand whether the 2026-27 slate was a scheduling masterstroke or a cautionary tale about excess.",
+      "tweets": []
+    },
+    {
+      "category": "revenue",
       "importance": 6,
-      "leadHeadline": "Scheffler remains in hunt at halfway despite 'absurd' pin positions at US PGA",
-      "leadSource": "The Guardian · 0h ago",
-      "leadUrl": "https://www.theguardian.com/sport/2026/may/16/scottie-scheffler-golf-us-pga-championship-day-two",
-      "summary": "Rory McIlroy and other top contenders found traction at Aronimink despite punishing setup; Scheffler remains in striking distance after two rounds. The course's difficulty is shaping the narrative as much as the players.",
-      "article": "Rory McIlroy crawled back into contention Friday at the US PGA Championship after an opening-round disaster, moving to within shouting distance of leaders Alex Smalley and Maverick McNealy (both 4-under). But the story at Aronimink isn't McIlroy's recovery—it's the course's refusal to yield.\n\nAronimink is punishing the world's best. Pin placements that competitors described as \"absurd\" have produced scoring conditions that rival U.S. Opens. When a major championship course forces multiple major champions to shoot in the 72s and 73s, the setup is doing its job: separating precision from presumption.\n\nScheffler remains within five shots of the lead despite not being among the day's movers. This is notable. In 36 holes, he hasn't separated himself from the field through sheer dominance—a rare development for him. Instead, he's in hunting position, which means Friday's brutality affected everyone equally. McIlroy's progress from poor to playable suggests that second-round adjustments (course knowledge, line preference, rhythm) matter at majors played on unfamiliar geometry.\n\nThe halfway point reveals a wide-open championship. No player has seized control. The scoring environment is tight enough that 18 holes of even-par golf could lead. For viewers, this creates drama. For players, it means Sunday will likely be decided by who weathers the back nine pin placements—a test of nerve as much as skill.\n\nSmalleys and McNealy's leads are soft. Expect a packed final two rounds.",
+      "leadHeadline": "2026 World Cup Ticket Prices: City Breakdown and How They Compare to the Super Bowl",
+      "leadSource": "TicketIQ · 1h ago",
+      "leadUrl": "https://blog.ticketiq.com/blog/2026-world-cup-ticket-prices-city-breakdown-public-sale-dates-and-how-they-compare-to-the-super-bowl",
+      "summary": "TicketIQ analyzed 2026 World Cup ticket pricing across U.S. host cities, benchmarking the secondary market against Super Bowl pricing and revealing regional variation in get-in prices for group-stage and knockout matches.",
+      "article": "As the 2026 FIFA World Cup approaches with matches set to be hosted across the United States, TicketIQ released a comprehensive breakdown Friday of secondary market ticket prices by city, offering direct comparisons to Super Bowl pricing and revealing how demand fluctuates based on venue size, market profile, and match significance.\n\nThe 2026 World Cup represents an unprecedented ticketing opportunity for U.S. sports. Group-stage matches, which historically draw strong regional interest and casual fans, are priced more accessibly than knockout rounds and finals. Major markets—New York, Los Angeles, Dallas—show tighter supply and higher average prices than secondary host cities. Get-in prices (cheapest available secondary market seats) for group-stage matches in larger venues are substantially lower than Super Bowl get-in prices, reflecting higher capacity and broader supply.\n\nThe Super Bowl comparison matters because it establishes a baseline for American sports fans. A World Cup group match with a $150 get-in price versus a Super Bowl with a $4,500+ get-in price tells you something about perceived scarcity and event prestige. The data also reveals which cities are pricing aggressively for knockout rounds, where demand typically spikes and supply shrinks.\n\nWhat this means operationally: FIFA and the host federation must manage secondary market expectations carefully. If get-in prices for group-stage matches become prohibitive, it undercuts the World Cup's global mission of accessibility. If knockout-round pricing gets too aggressive, it risks political backlash. TicketIQ's data allows fans to understand where supply is tightest and which cities offer better value—critical information for tournament planning.",
       "tweets": []
     },
     {
-      "category": "leagues",
+      "category": "media",
       "importance": 5,
-      "leadHeadline": "3 Big Takeaways From ACC Spring Meetings",
-      "leadSource": "Front Office Sports · 0h ago",
-      "leadUrl": "https://frontofficesports.com/acc-private-equity-duke-amazon-cfp/",
-      "summary": "ACC commissioner Jim Phillips addressed private equity integration, Duke's Amazon partnership ambitions, and College Football Playoff expansion at spring meetings. The movement signals the league's institutional reshuffling.",
-      "article": "ACC commissioner Jim Phillips used spring meetings to telegraph three structural shifts taking shape across college athletics' most strained conference.\n\nFirst: private equity. Phillips acknowledged that PE integration into ACC operations isn't a question of if but how—timing, structure, and which entities participate. This follows similar moves by the SEC and Big Ten, which have already entertained PE conversations. For the ACC, PE money becomes a potential offset to conference media rights ($55 million per school annually through 2035, a gap of $30-50M vs. peers). The commissioner stopped short of announcing a specific deal, but the framing suggests Phase Two conversations are underway with established sports investors.\n\nSecond: Duke-Amazon. Duke's administration has signaled interest in an exclusive partnership with Amazon for media distribution and digital infrastructure. Phillips indicated the ACC isn't blocking individual school arrangements with tech platforms—a reversal from historical conference control. This creates precedent: if Duke secures an Amazon deal separate from the ACC package, other schools will demand similar flexibility. It also signals Amazon's aggressive push into collegiate rights, following NFL and international soccer plays.\n\nThird: CFP expansion. Phillips reiterated ACC advocacy for 12-team playoff expansion, which would increase postseason economics and visibility for ACC schools in the second tier (teams ranked 9-12 who currently miss playoffs). An expanded field benefits mid-tier programs and generates additional media revenue.\n\nThe takeaway: the ACC is in managed decline relative to the SEC and Big Ten, but Phillips is using PE, platform diversity, and playoff structure to maximize member revenue within those constraints. It's not a reversal—it's adaptation.",
-      "tweets": []
-    },
-    {
-      "category": "leagues",
-      "importance": 5,
-      "leadHeadline": "'We crumbled' - another loss, another unwanted record for leaky Liverpool",
-      "leadSource": "BBC Sport · 0h ago",
-      "leadUrl": "https://www.bbc.com/sport/football/articles/c392rp8lwe1o?at_medium=RSS&amp;at_campaign=rss",
-      "summary": "Liverpool collapsed in a heavy defeat to Aston Villa, extending their defensive struggles under Arne Slot. The loss adds pressure on the manager as the team sets unwanted records.",
-      "article": "Arne Slot used the word \"crumbled\" to describe Liverpool's implosion against Aston Villa on Friday, and the language choice matters. It's not tactical failure or execution breakdown—it's structural fragility. The Reds surrendered multiple chances, conceded a cascade of goals, and looked organizationally lost in moments that should favor their experience.\n\nThis defeat extends a troubling pattern. Liverpool has now set an unwanted record for defensive permeability under Slot. The team that built its identity on structure and pressing has instead become vulnerable to transitional attacks and set-piece chaos. Aston Villa's clinical finishing masked what is, beneath the scoreline, a deeper organizing problem.\n\nSlot arrived at Liverpool with a mandate: maintain the club's top-four status and build toward title contention. Instead, he's inherited (or created, depending on perspective) a defense that leaks goals at rates unseen in recent campaigns. Player departures—aging center-backs, midfield turnover—have weakened what was once a fortress.\n\nThe pressure on Slot is real, but Friday's loss puts it in sharper focus. Liverpool can't afford extended losing sequences. The club's financial model and sponsorship packages depend on Champions League revenue and domestic competitiveness. A slide outside the top four becomes a structural problem, not a temporary setback.\n\nWhat's next: Liverpool must stabilize defensively or face January transfer activity aimed at plugging gaps. Slot's January window will reveal whether the board believes in his system or views the current situation as salvageable through personnel alone.",
-      "tweets": []
-    },
-    {
-      "category": "leagues",
-      "importance": 4,
       "leadHeadline": "WNBA starts off of last year's pace, but still on the high side",
-      "leadSource": "Sports Media Watch · 0h ago",
+      "leadSource": "Sports Media Watch · 4h ago",
       "leadUrl": "https://www.sportsmediawatch.com/2026/05/wnba-ratings-fever-wings-opening-weekend-viewership-abc-ion-usa/",
-      "summary": "WNBA ratings are tracking below 2025 levels but remain elevated versus pre-2024 benchmarks, signaling sustained mainstream attention despite year-over-year decline. The league faces retention challenges as novelty fades.",
-      "article": "The WNBA's 2026 season opened to viewership numbers that tell a mixed story: slightly down from last year's elevated baseline, but still significantly above pre-2024 levels. This is the defining question for the league's next phase: whether the 2024-25 spike represents a new normal or a novelty peak that's beginning to recede.\n\nRatings tracking suggests the latter. Games are averaging below the 2025 pace, which itself was a historic high. When a growing league's second-year viewership numbers decline, it typically signals audience consolidation—fans are watching fewer games more intensely, rather than the entire viewer base expanding. For the WNBA, that means casual audiences acquired in 2024-25 are filtering out; remaining audiences are core, loyal cohorts.\n\nThis creates a strategic fork for the league. It can either double down on broadcast distribution (more games on linear TV and streaming to recapture casual viewers) or lean into premium positioning (higher-ticket games, marquee matchups, merchandise premium). Most leagues facing this situation pursue hybrid approaches.\n\nThe positive: ratings are still well above pre-Caitlin Clark levels, suggesting structural improvement. ESPN's investment and broader media attention have normalized women's basketball in prime-time inventory. The negative: retention is harder than acquisition. Turning casual viewers into habitual consumers requires sustained excellence, star power, and narrative momentum.\n\nFor WNBA properties and sponsors, this pace suggests a stabilized (rather than explosive) growth trajectory. Expect reinvestment in star narrative and team-building around recognizable players.",
+      "summary": "The 2026 WNBA season is tracking below 2025 viewership numbers but remains elevated compared to pre-2025 baselines, suggesting the league's growth plateau is flattening rather than collapsing.",
+      "article": "The 2026 WNBA season is averaging ratings below its 2025 pace—the league's breakout year—but viewership remains significantly elevated compared to the three years prior, per Sports Media Watch data released Friday. The finding matters because it reveals whether the league's 2025 momentum was a durable shift or a spike that would inevitably fade.\n\nContext: 2025 was a transformational year for the WNBA. Angel Reese, Caitlin Clark, and a rookie class that captured mainstream attention drove ratings to levels unseen in the league's history. Playoff games averaged over 4 million viewers. The Finals broke 7 million at peak. But year-over-year growth is mathematically impossible to sustain at that scale, and the 2026 season was always going to look like a decline.\n\nWhat Sports Media Watch's data suggests is that the decline is measured, not catastrophic. The league isn't losing all 2025 casual fans. It's losing some of them—the ones who tuned in primarily to see Clark and a handful of other blue-chip rookies. The core audience that emerged in 2025 appears to be holding. Regular-season games are still doing significantly better than they were in 2024 and earlier.\n\nThe implications are operational. If the WNBA can stabilize viewership at a level 15-25 percent above pre-2025 baselines, it's achieved a meaningful structural upgrade. Media rights holders will pay accordingly. If numbers drop further into 2026, the narrative of unsustainable growth will accelerate. The next three weeks of the season will be critical data points.",
+      "tweets": []
+    },
+    {
+      "category": "media",
+      "importance": 4,
+      "leadHeadline": "Ronda Rousey vs. Gina Carano: Fight card, date, complete guide as MVP makes debut in MMA",
+      "leadSource": "CBS Sports · 5h ago",
+      "leadUrl": "https://www.cbssports.com/mma/news/ronda-rousey-vs-gina-carano-fight-card-date-odds-location/",
+      "summary": "MVP MMA is launching Saturday with a marquee fight card headlined by Ronda Rousey vs. Gina Carano, marking the new promotion's competitive debut against UFC and Bellator in the MMA media rights space.",
+      "article": "MVP MMA, the new mixed martial arts promotion backed by Ari Emanuel's Endeavor, launches Saturday with a premier fight card headlined by Ronda Rousey vs. Gina Carano—two former UFC stars competing for the first time in a non-UFC environment at the professional level.\n\nThe promotion itself is significant. MVP represents another attempt to fracture the UFC's near-monopoly on elite MMA talent and media rights revenue. Bellator has been the historical alternative, but Bellator's ownership is fractured and its roster is secondary. MVP, backed by Endeavor capital and brand power, is positioned as a premium alternative.\n\nThe fight card is stacked deliberately. Rousey-Carano carries cultural cache beyond MMA—both are recognizable to casual sports audiences. Francis Ngannou and Nate Diaz are on the card, providing a secondary draw layer. CBS Sports notes it's \"one of the best we've ever seen outside of the UFC,\" which is hyperbole but reflects the quality signal MVP is sending.\n\nThe business test: Saturday's viewership will matter more than the actual fight results. If MVP can draw 2+ million viewers against UFC programming or in a standalone window, it proves there's audience elasticity in the MMA space and that star power can transcend promotion affiliation. If it collapses to under 500K, it signals the UFC's lock on the audience is stronger than analysts expected. Either way, MVP's debut is a forcing function—the MMA media landscape can't absorb three equal competitors indefinitely.",
       "tweets": []
     }
   ],
@@ -2419,81 +2412,68 @@
   },
   "deals": [],
   "ratings": [],
-  "ticket_prices": [
-    {
-      "event": "2026 NFL Schedule premium matchups (early weeks)",
-      "league": "NFL",
-      "get_in_usd": 100,
-      "avg_usd": 300,
-      "direction": "up",
-      "pct_change": 0,
-      "timeframe": "vs. typical secondary-market baseline",
-      "storyIndex": 7,
-      "context": "Front-loaded schedule creates scarcity perception; premium Week 1-4 games exceed $300 average list price.",
-      "capturedAt": "2026-05-16T07:27:41.366Z"
-    }
-  ],
+  "ticket_prices": [],
   "sidebar": [
     {
-      "headline": "Donovan Mitchell's Game 6 struggles continue with Cavs star getting shut down by particular Pistons defender",
-      "source": "CBS Sports",
-      "article": "Donovan Mitchell has now lost six consecutive Game 6 matchups, a streak that extends across multiple franchises and playoff runs. In the Cavs' series against Detroit, a specific Pistons defender—likely working under scheme instructions—has neutralized Mitchell's creation and scoring in elimination-game windows. This pattern is revealing: Mitchell excels in volume roles and playoff series momentum, but falters when defensive schemes isolate him and eliminate his rhythm. For Cleveland, it raises questions about late-series reliability and whether secondary ball-handling matters more in Game 6 scenarios than regular-series execution."
+      "headline": "Chelsea v Manchester City: FA Cup final – live",
+      "source": "The Guardian · 3h ago",
+      "article": "Chelsea and Manchester City met Saturday at Wembley for the FA Cup final, with City seeking to defend its title against a Chelsea side looking to break a two-year trophy drought. The fixture represents the culmination of an intense domestic season in the Premier League and cup competitions. Both teams fielded full-strength lineups, signaling the importance each placed on the competition. The FA Cup final remains one of English football's most prestigious domestic events, drawing significant broadcast audiences across Sky Sports and international feeds. For Chelsea, a win would provide narrative redemption after missing Champions League qualification. For City, it would extend an era of domestic dominance under Pep Guardiola."
     },
     {
-      "headline": "Potential LIRR Strike Offers Glimpse of World Cup Commuter Chaos",
-      "source": "Sportico",
-      "article": "A potential Long Island Rail Road strike looms as New York prepares to host 2026 World Cup matches at MetLife Stadium. The scenario illuminates infrastructure vulnerabilities for international sporting events. MetLife crowds depend on rail access from Manhattan and Brooklyn; a commuter strike would strain highway capacity and cost attendees significant time and money. The piece examines broader World Cup logistics: venue selection, transportation corridors, and contingency planning. It's a narrow but illuminating read on how transit systems shape fan experience for massive global events."
+      "headline": "Celtic stun Hearts at the last in dramatic final-day shootout to retain Scottish title",
+      "source": "The Guardian · 4h ago",
+      "article": "Celtic retained the Scottish Premiership title with a dramatic final-day victory over Hearts, securing the championship on goal differential despite Hearts arriving in Glasgow requiring only a point to make history. The late winner capped a season-long battle that saw Celtic and Rangers compete for supremacy in the Scottish top flight. Hearts' near-miss was one of the most gut-wrenching conclusion to a championship race in recent memory. Celtic's triumph ensures continued dominance of Scottish football and represents the latest chapter in the Old Firm narrative. The final-day drama underscores the volatility of domestic league competitions when goal difference rather than head-to-head records determine champions."
+    },
+    {
+      "headline": "'We crumbled' - another loss, another unwanted record for leaky Liverpool",
+      "source": "BBC Sport · 5h ago",
+      "article": "Liverpool manager Arne Slot acknowledged his team \"crumbled\" during a thumping defeat to Aston Villa, marking another disappointing result in what has become a frustrating campaign. The loss added to an unwanted record of defensive lapses and inability to maintain consistency throughout the season. Slot's candid assessment suggests internal acknowledgment of fundamental issues—the team is giving up too many chances, failing to capitalize on possession, and losing focus in critical stretches. For Liverpool, the loss raises questions about whether the squad has the mental resilience to compete for the title. The mounting pressure on Slot will intensify if results don't improve in coming weeks."
     },
     {
       "headline": "Frustrating trends continue for Blue Jays in gutting loss to Tigers",
-      "source": "Sportsnet",
-      "article": "Toronto's pitching staff was sterling Friday against Detroit, but the team's recurring offensive weaknesses surfaced again in a loss that shouldn't have been competitive. The Blue Jays are tracking as an inconsistent franchise: stellar starting pitching paired with inconsistent run production and base-running discipline. These losses are accumulating; they're not one-off games but systemic issues reflecting roster construction (too much bullpen investment, not enough lineup depth). For a franchise looking to stay competitive in the AL East, these frustrating trends signal deeper architectural problems."
+      "source": "Sportsnet · 5h ago",
+      "article": "The Toronto Blue Jays suffered a frustrating loss to the Detroit Tigers Friday despite stellar pitching, highlighting ongoing offensive inefficiency and situational execution failures that have plagued the team throughout the season. While the Blue Jays' pitching staff delivered a strong outing, the team couldn't capitalize on scoring opportunities and repeated the same pattern of leaving runners in scoring position. The loss is emblematic of a season marked by inconsistency—flashes of excellence competing with stretches of profound mediocrity. For Blue Jays management, the challenge is identifying whether these issues are correctable mid-season adjustments or systemic problems requiring a larger roster restructuring."
     },
     {
-      "headline": "The Timberwolves are still behind the Spurs and Thunder, so what can they do to catch up?",
-      "source": "CBS Sports",
-      "analysis": "Minnesota's midseason trades for Rudy Gobert and Karl-Anthony Towns now look like panic moves. The Timberwolves assembled offensive firepower but created structural salary constraints that limit depth. Against the Spurs, they couldn't defend efficiently or execute in transition. The analytical question is straightforward: can three All-Star caliber players overcome insufficient complementary personnel? Friday's Game 6 loss suggests not. For the Timberwolves' front office, the path forward involves either finding defensive role players on minimum contracts or making another aggressive trade—both carry risk."
+      "headline": "Blessing in disguise: Anthony Richardson shows renewed appreciation for Colts despite trade request",
+      "source": "CBS Sports · 2h ago",
+      "article": "Anthony Richardson, the 2023 first-round pick who requested a trade from the Indianapolis Colts, has shown renewed commitment and appreciation for the organization, signaling a potential shift in his attitude toward his role and future with the franchise. Richardson's early career was marked by injury and inconsistent development, but time in Indianapolis appears to have reset his mindset. For the Colts, retaining a first-round investment with renewed motivation is valuable—trading away a quarterback typically nets less value than a productive homegrown option. Richardson's renewed enthusiasm suggests the franchise's patience and organizational support can coax out potential that initially seemed in doubt."
     },
     {
-      "headline": "Premier League and FA Cup final: 10 things to look out for this weekend",
-      "source": "The Guardian",
-      "article": "Pep Guardiola can claim his 17th Manchester City trophy this weekend if the Blues close out the FA Cup final. Arsenal's Mikel Arteta faces roster decisions for another potential reshuffle. Brentford's European ambitions edge closer with each win. The piece surveys the weekend's marquee matches across domestic competitions, capturing narrative threads: Guardiola's dynasty durability, Arsenal's recalibration around youth, and mid-tier clubs' momentum toward continental qualification."
-    },
-    {
-      "headline": "Bryson DeChambeau Misses Second Major Cut Amid LIV Turmoil",
-      "source": "Front Office Sports",
-      "article": "Bryson DeChambeau, the face of LIV Golf's Saudi-backed venture, has now missed cuts at both the Masters and a second major championship. The context matters: his migration to LIV was supposed to elevate his major championship record, not diminish it. DeChambeau's struggles are emblematic of LIV's existential problem—the circuit hasn't delivered on the implied promise of competitive readiness. For LIV investors and players contemplating the league's value, DeChambeau's major championship decline is a visible, public scorecard."
+      "headline": "Deion Sanders opens up on son Shilo's misogynistic remark to Browns reporter over Shedeur's future",
+      "source": "NY Post Sports · 6h ago",
+      "article": "Deion Sanders addressed his son Shilo's controversial remark to a Cleveland Browns reporter regarding quarterback Shedeur's future, characterizing the exchange as a family matter rather than a broader organizational issue. Sanders' response positioned the incident as internal family dynamics rather than a sign of franchise dysfunction. The interaction highlights the complexity of media relations when family members are involved in organizational decision-making. For the Browns, the incident creates a narrative distraction heading into draft season. The framing—\"that's his brother\"—suggests Sanders believes loyalty and family protection trump public relations protocol."
     }
   ],
   "poll": {
-    "question": "Which factor will most impact NFL ticket prices for the 2026-27 season?",
+    "question": "Does the NFL's 2026-27 schedule create sustainable growth or audience fatigue?",
     "options": [
-      "Schedule front-loading of premium games",
-      "Secondary-market supply constraints",
-      "Streaming competition reducing live attendance demand",
-      "Star player trades and offseason acquisitions"
+      "Growth—fans will watch regardless; expanded slate reaches new markets",
+      "Fatigue—oversaturation will suppress ratings and secondary market demand",
+      "Neutral—viewership stays flat; traditional partners hold, streaming grows slightly",
+      "Wait and see—depends entirely on whether primetime games deliver ratings"
     ]
   },
   "predictions": [
     {
-      "statement": "The Spurs will push the Thunder to a Game 7 in the Western Conference Finals despite San Antonio being the lower seed.",
-      "probability": 28,
-      "rationale": "San Antonio's defensive structure and halfcourt execution match up well against Oklahoma City's pace-centric approach. The Spurs just beat Minnesota decisively, suggesting they're hitting their rhythm. However, the Thunder's overall talent and regular-season dominance favor them heavily. A seven-game series requires the Spurs to steal at least one road game in OKC—possible but not probable."
-    },
-    {
-      "statement": "Rory McIlroy will miss the cut at the US PGA Championship despite his Friday recovery.",
-      "probability": 15,
-      "rationale": "McIlroy surged into contention Friday and is now within five shots of the lead at the halfway point. Aronimink's difficulty affects all players equally. McIlroy has the skill and experience to navigate brutal majors. Missing the cut would require a catastrophic final round; his current position makes it unlikely."
-    },
-    {
-      "statement": "Arne Slot will be relieved of his duties at Liverpool before the end of 2026.",
-      "probability": 42,
-      "rationale": "Liverpool's defensive record under Slot is historically poor, and the Aston Villa collapse extends a pattern. The club's top-four status is at risk. However, Slot was hired as a long-term project, and Liverpool's ownership typically grants managers runway. His January transfer window moves could reset expectations. Odds slightly favor his survival, but sustained defensive chaos will accelerate his exit timeline."
-    },
-    {
-      "statement": "Average ticket prices for 2026 World Cup matches will exceed Super Bowl secondary-market pricing.",
+      "statement": "The NFL 2026-17 schedule averages viewership within 3% of 2025 levels despite the oversaturation criticism.",
       "probability": 68,
-      "rationale": "World Cup matches are one-time events with global appeal and limited supply across multiple venues. Super Bowl pricing is inflated but set by a single event's secondary-market dynamics. World Cup's international demand, scarcity, and novelty factor typically drive prices higher than a single NFL game. Early TicketIQ data supports this trajectory."
+      "rationale": "The league has proven its ability to sustain massive audience regardless of schedule density. Primetime games consistently draw 15M+. The secondary market remains hot, suggesting fan engagement hasn't declined. However, the compressed slate does risk fragmenting the casual audience."
+    },
+    {
+      "statement": "MVP MMA's debut Saturday draws under 1.2 million viewers.",
+      "probability": 72,
+      "rationale": "Rousey-Carano carries cultural cache, but MMA still skews heavily toward UFC-trained viewers. Ngannou and Diaz add depth, but CBS Sports' hyperbole about \"one of the best cards outside UFC\" is marketing language. Launching against UFC's typical Saturday/Sunday slate is brutally difficult. 1-1.5M is realistic ceiling."
+    },
+    {
+      "statement": "The WNBA finishes 2026 with regular-season ratings 12-18% above 2024 levels.",
+      "probability": 58,
+      "rationale": "Sports Media Watch's \"still on the high side\" phrasing suggests stabilization rather than collapse. But losing 15-20% of 2025 viewers is substantial. If the league holds core audience gains while losing casual spike viewers, this prediction hits. If the decline accelerates deeper into June, it misses."
+    },
+    {
+      "statement": "Manchester United will finish in the Premier League's top four under Michael Carrick's permanent management.",
+      "probability": 52,
+      "rationale": "Carrick has delivered interim stability, but that's not a predictive indicator of sustained excellence. Manchester United's squad remains uneven; European competition is brutal. Top-four finish is plausible but not highly probable. The appointment's success depends on summer transfer execution, which hasn't happened yet."
     }
   ],
   "injuries": [],
@@ -2519,38 +2499,38 @@
       "confidence": "medium"
     }
   ],
-  "updatedAt": "2026-04-23T20:30:00Z",
+  "updatedAt": "2026-04-23T16:45:00Z",
   "highlights": [
     {
       "league": "NBA",
       "title": "EXTENDED: #2 SPURS at #6 TIMBERWOLVES | FULL GAME 6 HIGHLIGHTS | May 15, 2026",
       "videoId": "rtb2lroYns4",
       "thumbnail": "https://img.youtube.com/vi/rtb2lroYns4/mqdefault.jpg",
-      "timeAgo": "2h ago",
+      "timeAgo": "9h ago",
       "isFallback": false
     },
     {
       "league": "NFL",
-      "title": "Justin Jefferson is always up for an international game 🏈",
-      "videoId": "Y97KkwSXEho",
-      "thumbnail": "https://img.youtube.com/vi/Y97KkwSXEho/mqdefault.jpg",
-      "timeAgo": "3h ago",
+      "title": "Justin Jefferson is ready for the rest of the NFC North 😤",
+      "videoId": "-ANdOsRz8tc",
+      "thumbnail": "https://img.youtube.com/vi/-ANdOsRz8tc/mqdefault.jpg",
+      "timeAgo": "2h ago",
       "isFallback": false
     },
     {
       "league": "MLB",
-      "title": "Rangers vs. Astros Game Highlights (5/15/26) | MLB Highlights",
-      "videoId": "a8EK_auGix8",
-      "thumbnail": "https://img.youtube.com/vi/a8EK_auGix8/mqdefault.jpg",
-      "timeAgo": "1h ago",
+      "title": "look out 🫣 grab-ow!!! 🤕",
+      "videoId": "Qo4iPzkvjqo",
+      "thumbnail": "https://img.youtube.com/vi/Qo4iPzkvjqo/mqdefault.jpg",
+      "timeAgo": "Just now",
       "isFallback": false
     },
     {
       "league": "NHL",
-      "title": "Every Angle of Mitch Marner’s INSANE Between-the-Legs Playoff Goal 🤯",
-      "videoId": "Nkmaw4kI6hg",
-      "thumbnail": "https://img.youtube.com/vi/Nkmaw4kI6hg/mqdefault.jpg",
-      "timeAgo": "8h ago",
+      "title": "Watch Finland vs Hungary at the 2026 IIHF World Championship 🇫🇮🇭🇺🏒",
+      "videoId": "yVZ04qXjjfU",
+      "thumbnail": "https://img.youtube.com/vi/yVZ04qXjjfU/mqdefault.jpg",
+      "timeAgo": "17h ago",
       "isFallback": false
     },
     {
@@ -2558,15 +2538,15 @@
       "title": "Toronto Tempo vs. Los Angeles Sparks | FULL GAME HIGHLIGHTS | May 15, 2026",
       "videoId": "kneMurVVA5w",
       "thumbnail": "https://img.youtube.com/vi/kneMurVVA5w/mqdefault.jpg",
-      "timeAgo": "2h ago",
+      "timeAgo": "9h ago",
       "isFallback": false
     },
     {
       "league": "SOCCER",
-      "title": "Kylian Mbappé said he didn't play because he was told he was the fourth forward for Real Madrid.",
-      "videoId": "B21DJ8qznDM",
-      "thumbnail": "https://img.youtube.com/vi/B21DJ8qznDM/mqdefault.jpg",
-      "timeAgo": "7h ago",
+      "title": "The FC crew had to stop and watch Rayan Cherki warmup 🥶",
+      "videoId": "5CAKLcQ6mTE",
+      "thumbnail": "https://img.youtube.com/vi/5CAKLcQ6mTE/mqdefault.jpg",
+      "timeAgo": "Just now",
       "isFallback": false
     }
   ]
