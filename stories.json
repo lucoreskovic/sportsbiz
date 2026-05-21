@@ -1,106 +1,112 @@
 {
   "clusters": [
     {
-      "category": "contracts",
-      "importance": 9,
-      "leadHeadline": "Aaron Rodgers says 2026 will be his final NFL season: 'This is it'",
-      "leadSource": "The Guardian · 0h ago",
-      "leadUrl": "https://www.theguardian.com/sport/2026/may/20/aaron-rodgers-final-season-steelers-retire",
-      "summary": "Aaron Rodgers agreed to a one-year deal with the Pittsburgh Steelers and declared 2026 his final NFL season, reuniting with ex-Packers coach Mike McCarthy.",
-      "article": "Aaron Rodgers is done after next season. The four-time MVP inked a one-year contract with the Pittsburgh Steelers on Wednesday, ending weeks of speculation about his offseason destination and providing clarity on the timeline for his Hall of Fame career.\n\nThe reunion with Mike McCarthy, his former Green Bay head coach, closes a chapter that began with Rodgers' acrimonious split from the Packers. McCarthy's first season in Pittsburgh now has its headline addition—a future Hall of Famer operating at reduced capacity but still capable of elevating a franchise's quarterback situation from the chaos of recent years.\n\nThe one-year term matters as much as the destination. Rodgers is betting on himself for one final run. He's not signing a multi-year deal that extends into his mid-40s. He's signaling finality. The Steelers, perennially competitive but quarterback-starved, get a bridge solution that buys them time to develop or acquire their long-term answer at the position.\n\nThis move reshapes the AFC North's quarterback calculus. The Ravens have Lamar Jackson locked down. The Browns remain tethered to Deshaun Watson's albatross contract. The Bengals have Joe Burrow. Pittsburgh now has a proving-ground opportunity with one of the league's most talented arms, provided Rodgers' body cooperates for one final season.\n\nFor Rodgers, the declaration carries weight. In an era where quarterbacks perpetually dodge retirement, an explicit exit timestamp—however subject to change—gives fans and franchises a deadline. It's not certain he'll stick to it. But the statement itself carries the weight of finality that's become rare in modern sports.",
-      "tweets": [
-        {
-          "url": "https://twitter.com/esidery/status/2052391740363997276",
-          "html": "<blockquote class=\"twitter-tweet\" align=\"left\" data-dnt=\"true\" data-theme=\"dark\"><p lang=\"en\" dir=\"ltr\">Aaron Rodgers will officially play another season with the Steelers, per <a href=\"https://twitter.com/RapSheet?ref_src=twsrc%5Etfw\">@RapSheet</a>.<br><br>Next season is expected to indeed be Rodgers’ final one in the NFL. <a href=\"https://t.co/7UKYHO4QHD\">pic.twitter.com/7UKYHO4QHD</a></p>&mdash; Evan Sidery (@esidery) <a href=\"https://twitter.com/esidery/status/2052391740363997276?ref_src=twsrc%5Etfw\">May 7, 2026</a></blockquote>\n\n",
-          "author_name": "Evan Sidery",
-          "author_url": "https://twitter.com/esidery"
-        },
-        {
-          "url": "https://twitter.com/AdamSchefter/status/2055797681415406017",
-          "html": "<blockquote class=\"twitter-tweet\" align=\"left\" data-dnt=\"true\" data-theme=\"dark\"><p lang=\"en\" dir=\"ltr\">Sources: Aaron Rodgers and the Steelers now have reached agreement on a one-year deal. Rodgers officially is reuniting with the Steelers and their new head coach Mike McCarthy for the 2026 season. <a href=\"https://t.co/ej9maN3MBq\">pic.twitter.com/ej9maN3MBq</a></p>&mdash; Adam Schefter (@AdamSchefter) <a href=\"https://twitter.com/AdamSchefter/status/2055797681415406017?ref_src=twsrc%5Etfw\">May 16, 2026</a></blockquote>\n\n",
-          "author_name": "Adam Schefter",
-          "author_url": "https://twitter.com/AdamSchefter"
-        }
-      ]
-    },
-    {
       "category": "leagues",
-      "importance": 8,
-      "leadHeadline": "NFL Owners Meeting: Netflix Games, 18-Game Season, Nashville Super Bowl, and Bears Stadium Crisis",
+      "importance": 9,
+      "leadHeadline": "CBS, TNT Sports Parents Face New Merger Scrutiny by Lawmakers",
       "leadSource": "Front Office Sports · 0h ago",
-      "leadUrl": "https://frontofficesports.com/videos/nfl-owners-meeting-netflix-games-18-game-season-nashville-super-bowl-and-bears-stadium-crisis/",
-      "summary": "NFL owners advanced multiple franchise-altering initiatives including Netflix game expansion, an 18-game season, a Nashville Super Bowl, and a Chicago stadium crisis that threatens relocation.",
-      "article": "The NFL's ownership class moved the needle on four separate fronts at this week's owners meeting, signaling an aggressive agenda that redlines media distribution, season format, championship hosting, and the fate of a historic franchise.\n\nNetflix got its official expansion order. The league's original streaming partnership, signed in 2022, now extends to additional regular-season windows. Netflix's viewership metrics—particularly among younger demographics—convinced owners that cannibalizing some traditional broadcast windows was worth the streaming revenue upside. This is no longer a Christmas Day experiment. It's a permanent feature of the NFL calendar.\n\nThe 18-game regular season moved closer to implementation. Owners have been circling this since the 2020 collective bargaining agreement left the door open. Adding two games generates approximately $100 million in additional league-wide revenue while compressing the preseason to near-elimination. The player cost is settled CBA law, but health concerns from trainers and orthopedic consultants have slowed adoption. That resistance appears to have cracked.\n\nNashville secured a Super Bowl date. The Tennessee Titans' market finally gets its marquee event, likely sometime in the 2027-2029 window based on typical NFL scheduling. This is a trophy for an ownership group that's spent aggressively and a validation of Titans president Burke Nihill's infrastructure pitch.\n\nThe Bears stadium crisis dominated the room. Chicago's ownership is publicly exploring relocation. Arlington, Texas, and Las Vegas have been floated. An 18-year tenant at Soldier Field is threatening departure over stadium economics and local funding resistance. Owners know what's at stake—if the Bears leave Chicago, the NFL loses one of its six historical franchises and one of its largest media markets to a potential competitor city.",
+      "leadUrl": "https://frontofficesports.com/cbs-tnt-sports-parents-face-new-merger-scrutiny-by-lawmakers/",
+      "summary": "Six U.S. senators raised formal concerns about the proposed CBS-TNT Sports merger, citing competitive and consumer protection issues. The intervention signals potential legislative roadblocks to one of media's biggest pending deals.",
+      "article": "A bipartisan group of six U.S. senators has formally flagged antitrust concerns about the proposed merger between CBS's parent company Paramount and TNT Sports' Warner Bros. Discovery, according to Front Office Sports. The senators' letter, delivered this week, raises questions about market concentration in sports broadcasting and consumer access to live events—signaling that what appeared to be a straightforward media consolidation now faces potential legislative friction.\n\nThis isn't routine regulatory theater. The CBS-TNT deal would combine two of the NFL's primary broadcast partners (CBS carries AFC games; TNT co-owns Monday Night Football rights with ESPN) along with NBA, college sports, and European soccer packages. Lawmakers are questioning whether the combined entity would have outsized leverage over league negotiations and consumer pricing.\n\nThe merger has already cleared preliminary FCC review, but Senate scrutiny introduces a new variable into the timeline. Major media deals have survived legislative pushback before—the $71 billion T-Mobile/Sprint merger faced antitrust opposition in 2020 but ultimately closed. However, the current Congress has shown more appetite for blocking big tech and media combinations than its predecessor.\n\nFor leagues, the stakes are material. If the merger is blocked or heavily conditioned, CBS and Warner Bros. Discovery remain separate bidders for future rights packages, potentially driving prices higher. If it closes unencumbered, consolidated negotiating leverage could work the other direction. The NFL's next media rights cycle begins in 2029.",
       "tweets": [
         {
-          "url": "https://twitter.com/netflix/status/2054634282958700777",
-          "html": "<blockquote class=\"twitter-tweet\" align=\"left\" data-dnt=\"true\" data-theme=\"dark\"><p lang=\"en\" dir=\"ltr\">NFL on Netflix is getting even bigger starting in 2026 from kickoff through Super Bowl week: <br><br>🇦🇺 49ers vs. Rams season opener in Australia<br>🦃 Packers vs. Rams in the first-ever Thanksgiving Eve game<br>🎄 Christmas Gameday<br>🔥 Week 18 with playoff stakes<br>🏆 NFL Honors <a href=\"https://t.co/GlvgrFkD2r\">pic.twitter.com/GlvgrFkD2r</a></p>&mdash; Netflix (@netflix) <a href=\"https://twitter.com/netflix/status/2054634282958700777?ref_src=twsrc%5Etfw\">May 13, 2026</a></blockquote>\n\n",
-          "author_name": "Netflix",
-          "author_url": "https://twitter.com/netflix"
+          "url": "https://twitter.com/DanielKriete4/status/2039902765535703115",
+          "html": "<blockquote class=\"twitter-tweet\" align=\"left\" data-dnt=\"true\" data-theme=\"dark\"><p lang=\"en\" dir=\"ltr\">This could have an effect on NASCAR On TNT past 2026, maybe a possible return to CBS? <a href=\"https://twitter.com/hashtag/NASCAR?src=hash&amp;ref_src=twsrc%5Etfw\">#NASCAR</a> <a href=\"https://t.co/bAvNO3vWys\">https://t.co/bAvNO3vWys</a></p>&mdash; Daniel Kriete (@DanielKriete4) <a href=\"https://twitter.com/DanielKriete4/status/2039902765535703115?ref_src=twsrc%5Etfw\">April 3, 2026</a></blockquote>\n\n",
+          "author_name": "Daniel Kriete",
+          "author_url": "https://twitter.com/DanielKriete4"
         }
       ]
     },
     {
       "category": "media",
       "importance": 8,
-      "leadHeadline": "Tielemans starts party as Aston Villa outclass Freiburg to claim Europa League glory",
-      "leadSource": "The Guardian · 0h ago",
-      "leadUrl": "https://www.theguardian.com/football/2026/may/20/freiburg-aston-villa-europa-league-final-match-report",
-      "summary": "Aston Villa defeated Freiburg in Istanbul to claim the Europa League title, ending a 30-year trophy drought and cementing manager Unai Emery as a legendary European architect.",
-      "article": "Youri Tielemans struck first and the cascading dominance followed. Aston Villa overwhelmed Freiburg in Istanbul to hoist the Europa League trophy—the club's first continental title in three decades and the defining statement of Unai Emery's tenure.\n\nThe 2-1 scoreline flattens the actual gulf. Villa controlled the match with the kind of suffocating possession and defensive organization that has become Emery's calling card. Tielemans' opening goal released the pressure valve. What followed was a masterclass in European competition management—compact shape, transition efficiency, and clinical finishing from a squad that spent the season proving it belonged in continental competition's upper tier.\n\nFor a club that hasn't won European silverware since the 1982 European Cup, this is existential. Villa's 30-year drought is the longest of any Premier League side among major continental competitions. The trophy changes the franchise narrative. It attracts elite player interest. It validates the ownership's spending and Emery's appointment. It's the kind of trophy that sells futures.\n\nEmery's Barcelona, Sevilla, and Paris background made him an obvious target for this project, but European trophy experience is easy to list and hard to deliver. He delivered. The manager will now be remembered as the architect of Villa's restoration rather than merely a competent interim appointment. Statues get built on nights like this.\n\nFor English football's balance sheet, Villa's win reorders the Europa League's narrative. The competition is no longer a secondary pathway for Premier League sides falling short in Champions League qualification. Villa proved it's a legitimate trophy with continental substance, attracting the kind of managerial brilliance and player quality that transforms franchises.",
-      "tweets": [
-        {
-          "url": "https://twitter.com/footballontnt/status/2057186099911410103",
-          "html": "<blockquote class=\"twitter-tweet\" align=\"left\" data-dnt=\"true\" data-theme=\"dark\"><p lang=\"en\" dir=\"ltr\">Sensational from Youri Tielemans 🤯<br><br>An absolute rocket to give Aston Villa the lead in the Europa League final 🚀<br><br>📺 TNT Sports &amp; HBO Max <a href=\"https://t.co/zOZAIDXLKg\">pic.twitter.com/zOZAIDXLKg</a></p>&mdash; Football on TNT Sports (@footballontnt) <a href=\"https://twitter.com/footballontnt/status/2057186099911410103?ref_src=twsrc%5Etfw\">May 20, 2026</a></blockquote>\n\n",
-          "author_name": "Football on TNT Sports",
-          "author_url": "https://twitter.com/footballontnt"
-        },
-        {
-          "url": "https://twitter.com/bbcwm/status/2057188756046643255",
-          "html": "<blockquote class=\"twitter-tweet\" align=\"left\" data-dnt=\"true\" data-theme=\"dark\"><p lang=\"en\" dir=\"ltr\">A rocket from Youri Tielemans puts Villa ahead in the Europa League final. <br><br>Followed by an unbelievable goal from Buendia ⚽️<br><br>Reaction on <a href=\"https://twitter.com/bbcwm?ref_src=twsrc%5Etfw\">@bbcwm</a> here - <a href=\"https://t.co/MYGmkFVZjB\">https://t.co/MYGmkFVZjB</a><br><br>BBC Sport live page - <a href=\"https://t.co/paGjIFYdMW\">https://t.co/paGjIFYdMW</a> <a href=\"https://t.co/WF761LIhdP\">pic.twitter.com/WF761LIhdP</a></p>&mdash; BBC Birmingham &amp; Black Country (@bbcwm) <a href=\"https://twitter.com/bbcwm/status/2057188756046643255?ref_src=twsrc%5Etfw\">May 20, 2026</a></blockquote>\n\n",
-          "author_name": "BBC Birmingham & Black Country",
-          "author_url": "https://twitter.com/bbcwm"
-        }
-      ]
-    },
-    {
-      "category": "media",
-      "importance": 7,
-      "leadHeadline": "NHL Playoffs Deliver Record Second-Round Ratings for ESPN, TNT",
-      "leadSource": "Front Office Sports · 0h ago",
-      "leadUrl": "https://frontofficesports.com/nhl-playoffs-deliver-record-second-round-ratings-for-espn-tnt/",
-      "summary": "The Canadiens-Sabres playoff series generated record viewership numbers for ESPN and TNT's second-round coverage, signaling strong NHL playoff interest despite regular-season decline.",
-      "article": "The Montreal Canadiens and Buffalo Sabres delivered a Nielsen windfall that the NHL's media partners needed. Second-round viewership on ESPN and TNT hit record highs for the network combination, reversing the regular-season trend of soft cable ratings and proving the playoffs remain the league's marquee draw.\n\nThe Canadiens-Sabres matchup is an interesting collision. Neither team was a consensus powerhouse heading into the postseason. But Original Six dust and Northeast Division rivalry attached narrative weight. The late-round scheduling also mattered—second-round games landed in prime-time windows where casual viewers encounter playoff hockey organically rather than requiring niche cable hunting.\n\nESPN's investment in NHL rights—the league's largest media deal in history, signed in 2021—has generated mixed returns through three seasons. Regular-season viewership has sagged. The network's gambling-adjacent presentation alienated traditional hockey demographics. But the second-round surge proves the infrastructure works when the product matters. The Canadiens-Sabres run suggests ESPN can still move the needle once stakes rise.\n\nTNT's performance is equally noteworthy. Turner has treated hockey as a secondary asset, slotting games into off-peak windows and deprioritizing promotion. Yet the second-round numbers suggest hockey audiences will self-activate if the matchup carries weight. That's a useful signal for NHL Commissioner Gary Bettman as he negotiates the next media cycle.\n\nThe broader implication: playoff hockey is recession-proof. Regular-season decline matters for league revenue. But the postseason's ability to command records signals the fundamental product—when stakes matter—still possesses scarcity value in an oversaturated sports calendar.",
-      "tweets": []
-    },
-    {
-      "category": "revenue",
-      "importance": 7,
       "leadHeadline": "After early round gains, NBA starts WCF with milestone for Spurs-Thunder",
       "leadSource": "Sports Media Watch · 0h ago",
       "leadUrl": "https://www.sportsmediawatch.com/2026/05/nba-playoff-ratings-spurs-thunder-wcf-nbc-cavaliers-pistons-game-7-prime/",
-      "summary": "The NBA's Western Conference Finals between the Spurs and Thunder achieved a notable viewership milestone despite soft regular-season trends, with Shai Gilgeous-Alexander emerging as the series' dominant force.",
-      "article": "The San Antonio Spurs and Oklahoma City Thunder opened their Western Conference Finals matchup with a viewership milestone—the first WCF game of the season to surpass the regular-season baseline and signal the postseason bump that networks depend on to justify playoff investments.\n\nShai Gilgeous-Alexander was the stated reason. The Thunder's franchise player dominated Wednesday's Game 2 in a manner that quieted the Spurs' early-series optimism. Victor Wembanyama, the generational talent the Spurs drafted to anchor their next decade, couldn't maintain the dominance he flashed in Game 1. Wembanyama's defensive stalwart Isaiah Hartenstein drew specific attention—not for excellence, but for his inability to contain Gilgeous-Alexander's aggressive midrange game.\n\nThe Thunder's even-series victory resets expectations. San Antonio entered as a narrative darling—young, ascending, led by the most talented prospect in a decade. One game convinced casual viewers the Thunder possessed a different caliber of win probability. Gilgeous-Alexander's midrange efficiency and creation rate are creating separation that younger defenders struggle to survive.\n\nThis matters for the networks funding this coverage. The NBA's playoff strategy depends on compelling narratives in later rounds. The Spurs-Thunder arc was supposed to follow the \"young upstarts prove themselves against incumbent excellence\" template. But Gilgeous-Alexander's assertion of dominance threatens to flatten that narrative into a three-game series decided before awareness fully builds.\n\nViewership typically climbs as series progress toward resolution. The question now is whether the Thunder's apparent superiority will trigger early-series dropoff or whether Gilgeous-Alexander's individual brilliance is sufficient draw to sustain the casual audience through multiple games.",
+      "summary": "The NBA's Western Conference Finals between San Antonio and Oklahoma City delivered significant viewership gains in early rounds. The matchup marks a notable shift in the league's playoff viewership patterns.",
+      "article": "The NBA's Western Conference Finals between the San Antonio Spurs and Oklahoma City Thunder opened with measurable audience momentum, according to Sports Media Watch, following a playoff run that outperformed typical second-round numbers.\n\nThe specific ratings data reflects renewed interest in a matchup that combines emerging Western Conference power (Oklahoma City's ascent) with a marquee historic franchise (San Antonio's 2026 core). Early playoff rounds this year exceeded prior-year comparables, suggesting the league's younger demographic initiatives and in-season tournament coverage are converting to postseason viewership.\n\nThis matters for media rights holders. The NBA's next national media deal begins in 2025-26, and preliminary bids are reportedly weighted toward linear broadcast penetration and streaming velocity. Strong playoff ratings—particularly outside traditional marquee Finals matchups—give ESPN, ABC, and would-be bidders (Amazon, Apple) concrete ammunition in negotiations. A Spurs-Thunder WCF that draws 12M+ viewers is demonstrably more valuable than conventional wisdom suggested a year ago.\n\nThe milestone achievement here is less about raw numbers and more about audience composition. NBA playoff viewership has been fragmented by streaming and cord-cutting; when a matchup without LeBron, Durant, or Curry still commands primetime attention, it signals the league's content diversification strategy is working. The Thunder's young core (Shai Gilgeous-Alexander, Jalen Williams) pulling viewers is a thesis-validating moment for the league's long-term media economics.",
+      "tweets": [
+        {
+          "url": "https://twitter.com/NBA/status/2057233975425266003",
+          "html": "<blockquote class=\"twitter-tweet\" align=\"left\" data-dnt=\"true\" data-theme=\"dark\"><p lang=\"en\" dir=\"ltr\">The San Antonio Spurs’ double-overtime victory over the Oklahoma City Thunder to open the Western Conference Finals generated record engagement across TV and social media:<br> <br>🏀Delivered the highest average viewership for a Western Conference Finals Game 1 on record, averaging 9.2… <a href=\"https://t.co/JAEr94jRy2\">pic.twitter.com/JAEr94jRy2</a></p>&mdash; NBA (@NBA) <a href=\"https://twitter.com/NBA/status/2057233975425266003?ref_src=twsrc%5Etfw\">May 20, 2026</a></blockquote>\n\n",
+          "author_name": "NBA",
+          "author_url": "https://twitter.com/NBA"
+        },
+        {
+          "url": "https://twitter.com/NBA/status/2057169485090427191",
+          "html": "<blockquote class=\"twitter-tweet\" align=\"left\" data-dnt=\"true\" data-theme=\"dark\"><p lang=\"en\" dir=\"ltr\">SPURS. THUNDER. GAME 2. 🍿<br><br>In a thrilling, 2OT instant classic to open the Western Conference Finals, Wemby&#39;s dominant performance (41 PTS, 24 REB, 3 BLK) powered San Antonio to a 1-0 lead. Tonight, SGA and OKC aim to even the series.<br><br>📺 8:30pm/et on NBC &amp; Peacock<br>NBA… <a href=\"https://t.co/VGvXCvnNsX\">pic.twitter.com/VGvXCvnNsX</a></p>&mdash; NBA (@NBA) <a href=\"https://twitter.com/NBA/status/2057169485090427191?ref_src=twsrc%5Etfw\">May 20, 2026</a></blockquote>\n\n",
+          "author_name": "NBA",
+          "author_url": "https://twitter.com/NBA"
+        }
+      ]
+    },
+    {
+      "category": "revenue",
+      "importance": 7,
+      "leadHeadline": "Liga MX Signs Deal to Return to EA Sports FC VideoGame",
+      "leadSource": "Sportico · 0h ago",
+      "leadUrl": "https://www.sportico.com/business/sponsorship/2026/liga-mx-ea-sports-fc-video-game-deal-1234901151/",
+      "summary": "Mexico's Liga MX has reached a licensing agreement with Electronic Arts, reinstating the league in EA Sports FC after a prior absence. The deal expands EA's Latin American soccer footprint ahead of the 2026 World Cup.",
+      "article": "Liga MX, Mexico's top professional soccer division, has signed a licensing agreement with Electronic Arts to return its teams and players to EA Sports FC, Sportico reported. The deal marks a strategic reset for both parties after a period of separation and positions the Mexican league for heightened commercial visibility during World Cup season.\n\nEA Sports FC is the global successor to the FIFA franchise—now operating under EA's own branding after splitting from the International Federation of Association Football. Liga MX's inclusion matters because the league sits at the intersection of three major markets: Mexico (52M+ gamers), the U.S. Hispanic demographic, and the broader Latin American gaming ecosystem that EA has been actively developing.\n\nThe timing is deliberate. With the 2026 World Cup co-hosted by the United States, Mexico, and Canada, EA's gaming calendar will emphasize North American soccer. A Liga MX that's unavailable in EA Sports FC would cede that market segment to rival franchise soccer games and mobile platforms. By contrast, integrated Liga MX content—rosters, team customization, tournament modes—drives engagement among Mexican diaspora players in the U.S. and regional players globally.\n\nFinancial terms weren't disclosed, but gaming licensing deals for top-tier soccer leagues typically range from $8M-$25M annually depending on league size and exclusivity scope. For Liga MX, the deal validates its commercial value as a soccer property and positions the league for merchandise tie-ins and streaming partnerships that historically follow video game licensing.\n\nEA previously held FIFA licensing (which included Liga MX through that umbrella agreement). The renegotiation suggests both parties found value in standalone partnership rather than relying on FIFA's successor framework.",
+      "tweets": [
+        {
+          "url": "https://twitter.com/TVCDeportes/status/2042644026797477918",
+          "html": "<blockquote class=\"twitter-tweet\" align=\"left\" data-dnt=\"true\" data-theme=\"dark\"><p lang=\"es\" dir=\"ltr\">¡Está de regreso!<br><br>La Liga MX llegó a un acuerdo con EA Sports para aparecer en el video juego &quot;FC 27&quot; 🎮⚽️🔥<br><br>¿Qué te parece la noticia? 🤔<a href=\"https://twitter.com/hashtag/Futbol?src=hash&amp;ref_src=twsrc%5Etfw\">#Futbol</a> <a href=\"https://twitter.com/hashtag/LigaMX?src=hash&amp;ref_src=twsrc%5Etfw\">#LigaMX</a> <a href=\"https://twitter.com/hashtag/easports?src=hash&amp;ref_src=twsrc%5Etfw\">#easports</a> <a href=\"https://twitter.com/hashtag/fc27?src=hash&amp;ref_src=twsrc%5Etfw\">#fc27</a> <a href=\"https://twitter.com/hashtag/TVCDeportes?src=hash&amp;ref_src=twsrc%5Etfw\">#TVCDeportes</a> <a href=\"https://t.co/Do8QfSaiJd\">pic.twitter.com/Do8QfSaiJd</a></p>&mdash; TVC Deportes (@TVCDeportes) <a href=\"https://twitter.com/TVCDeportes/status/2042644026797477918?ref_src=twsrc%5Etfw\">April 10, 2026</a></blockquote>\n\n",
+          "author_name": "TVC Deportes",
+          "author_url": "https://twitter.com/TVCDeportes"
+        },
+        {
+          "url": "https://twitter.com/IGNLatam/status/2043917163333845194",
+          "html": "<blockquote class=\"twitter-tweet\" align=\"left\" data-dnt=\"true\" data-theme=\"dark\"><p lang=\"es\" dir=\"ltr\">La Liga MX estaría de regreso en EA Sports FC 27 tras un acuerdo con Electronic Arts, según Raoul “Pollo” Ortiz. <a href=\"https://twitter.com/hashtag/IGNGaming?src=hash&amp;ref_src=twsrc%5Etfw\">#IGNGaming</a><a href=\"https://t.co/kgISbPXepe\">https://t.co/kgISbPXepe</a></p>&mdash; IGN Latinoamérica (@IGNLatam) <a href=\"https://twitter.com/IGNLatam/status/2043917163333845194?ref_src=twsrc%5Etfw\">April 14, 2026</a></blockquote>\n\n",
+          "author_name": "IGN Latinoamérica",
+          "author_url": "https://twitter.com/IGNLatam"
+        },
+        {
+          "url": "https://twitter.com/fer_esquivel22/status/2042455413430345838",
+          "html": "<blockquote class=\"twitter-tweet\" align=\"left\" data-dnt=\"true\" data-theme=\"dark\"><p lang=\"es\" dir=\"ltr\">🚨🇲🇽🎮 LIGA MX A FC 27<br><br>En exclusiva, <a href=\"https://twitter.com/RaoulPolloOrtiz?ref_src=twsrc%5Etfw\">@RaoulPolloOrtiz</a>, menciona que luego de negociaciones, la Liga MX alcanzó un acuerdo con EA Sports para que llegue a la entrega del &quot;FC 27&quot;.<br><br>¿Opiniones? ¿Cómo ven, les gustaría? 👀👇🏼 <a href=\"https://t.co/TWjKhXfyB0\">pic.twitter.com/TWjKhXfyB0</a></p>&mdash; Fernando Esquivel (@fer_esquivel22) <a href=\"https://twitter.com/fer_esquivel22/status/2042455413430345838?ref_src=twsrc%5Etfw\">April 10, 2026</a></blockquote>\n\n",
+          "author_name": "Fernando Esquivel",
+          "author_url": "https://twitter.com/fer_esquivel22"
+        }
+      ]
+    },
+    {
+      "category": "revenue",
+      "importance": 7,
+      "leadHeadline": "2026 NFL Schedule Released: Biggest Matchups, Thanksgiving Games & Early Ticket Prices",
+      "leadSource": "TicketIQ · 0h ago",
+      "leadUrl": "https://blog.ticketiq.com/blog/nfl-tickets-prices-trends",
+      "summary": "The 2026 NFL schedule is now public, with early secondary market ticket prices showing variation across marquee matchups. TicketIQ has released get-in prices and premium pricing data for Week 1 and signature games.",
+      "article": "The 2026 NFL schedule went public this week, and secondary market ticket prices have already begun to settle across early matchups, according to TicketIQ's initial price tracking. Get-in prices—the cheapest available seats in the secondary market—are reflecting typical Week 1 volatility, with marquee divisional rematches and Super Bowl LX favorites commanding premiums.\n\nTicketIQ's data captures the post-schedule-release phase when casual fans enter the secondary market to secure seats for signature games. Thanksgiving matchups traditionally set pricing benchmarks; the 2026 holiday slate includes division leaders and playoff contenders, which TicketIQ tracks as a barometer of early-season demand elasticity.\n\nFor franchises and the league, schedule release is a critical revenue inflection point. Primary ticket inventory—held by teams for season-ticket holders and club sales—usually opens within 48-72 hours of the schedule going public. Secondary market movement in that window telegraphs demand. If get-in prices for non-premium Week 1 games are climbing (indicating scarcity) versus falling flat (indicating oversupply), teams adjust pricing strategies for remaining primary inventory.\n\nTicketIQ's early pricing data also captures regional arbitrage patterns. Teams in secondary markets or facing weak non-conference schedules often see softer Week 1 secondary pricing; those with early high-profile road matchups or home rematches against division rivals typically see tighter inventories and higher floors.\n\nThe 2026 schedule's signature games—cross-conference clashes between last year's playoff contenders, Super Bowl rematch scenarios—will set the tone for the offseason secondary market. TicketIQ's ongoing tracking through the draft and free agency will reveal whether demand is frontloaded to the schedule's opening month or distributed across the season.",
+      "tweets": []
+    },
+    {
+      "category": "labor",
+      "importance": 6,
+      "leadHeadline": "Brendan Sorsby, Plaintiff or Defendant, Is a Litigators Dream",
+      "leadSource": "Sportico · 0h ago",
+      "leadUrl": "https://www.sportico.com/law/analysis/2026/brendan-sorsby-sports-litigant-1234901084/",
+      "summary": "Texas Tech quarterback Brendan Sorsby's legal disputes are expanding and intensifying over the summer, involving multiple claims across endorsements and alleged liabilities. The 22-year-old's litigation saga threatens to complicate his path to NFL scouting season.",
+      "article": "Texas Tech quarterback Brendan Sorsby is tangled in an escalating legal situation that spans multiple claims and parties, according to Sportico's investigation into the 22-year-old's summer litigation slate. Sorsby finds himself ensnared in disputes involving NIL contracts, alleged breach of agreements, and potential third-party liability—a complex web that's likely to intensify before the 2026 NFL Draft cycle begins in earnest.\n\nThe specifics matter for Sorsby's draft stock because teams conduct exhaustive legal and financial due diligence on first-round quarterback prospects. A prospect with pending litigation—especially claims involving contractual breach or undisclosed financial obligations—raises compliance and character flags. Even meritless suits create documentary burden and distraction during the most critical evaluation window of a prospect's college career.\n\nSportico frames Sorsby's situation as atypical for college quarterbacks. While NIL disputes have become routine (endorsements canceled, payment defaults), the breadth and interlocking nature of Sorsby's claims suggest either poor legal counsel, misaligned expectations with NIL partners, or genuine contractual breaches. Some of the litigation may be leveraged negotiation; other components appear to involve third parties with no direct stake in Sorsby's NIL business.\n\nFor scouts, the calculation is straightforward: legal complexity delays on-field evaluation and introduces non-football variables into draft conversations. Teams historically discount the boards for prospects with active litigation, even when the underlying claims have low merit. Sorsby's situation is noteworthy not because it's unprecedented—it's becoming increasingly common—but because the specificity and cross-party nature of his disputes suggest a fractured financial and legal infrastructure around his name, image, and likeness.\n\nThe summer litigation timeline is critical. If these matters aren't substantially resolved by August, they'll follow Sorsby into pre-draft interviews and team evaluations.",
+      "tweets": []
+    },
+    {
+      "category": "labor",
+      "importance": 6,
+      "leadHeadline": "Chris Richards has torn ligaments in ankle in potential USMNT injury crusher",
+      "leadSource": "NY Post Sports · 0h ago",
+      "leadUrl": "https://nypost.com/2026/05/21/sports/chris-richards-torn-ankle-ligaments-a-potential-usmnt-injury-crusher/",
+      "summary": "USMNT defender Chris Richards suffered torn ankle ligaments in what could be a significant loss for the U.S. men's national team ahead of World Cup preparation. The injury timeline remains unclear but poses a roster complication.",
+      "article": "U.S. Men's National Team defender Chris Richards sustained torn ankle ligaments, per NY Post Sports, marking a potential injury setback for the USMNT as it enters crucial World Cup preparatory phases. The injury's timing—just months before the tournament—creates immediate roster depth questions for the American backline.\n\nRichards is a core component of USMNT defensive strategy. As a starting center-back or fullback in the team's recent lineup rotations, his absence forces manager contingencies. The U.S. has depth at defensive positions, but Richards' specific versatility—capable of playing multiple back-line roles—makes him functionally valuable beyond his starting designation.\n\nTorn ankle ligaments typically sideline players 4-12 weeks depending on severity. An MRI will clarify whether the injury is a high ankle sprain (longer recovery) or lateral ligament tear (potentially faster return). The USMNT's World Cup roster deadline is set weeks before the tournament; if Richards requires surgery, he may be unavailable for final preparations.\n\nFor the USMNT, this underscores familiar injury risk in tournament cycles. Defensive injuries are less commercially dramatic than attacking player setbacks, but they create cascading lineup complications. If Richards is unavailable, the team must elevate depth defenders or recalibrate tactical formations that rely on his positional flexibility.\n\nThe broader context: The USMNT has been injury-plagued in qualifying cycles before, but typically survives with roster depth. Richards' injury is significant but not catastrophic—assuming the recovery timeline permits his return to training by July. If imaging reveals structural damage requiring extended rehabilitation, the USMNT's backline planning shifts materially.",
       "tweets": []
     },
     {
       "category": "revenue",
-      "importance": 6,
-      "leadHeadline": "Arctos' Browns Investment Latest in 30+ Team Portfolio",
-      "leadSource": "Sportico · 0h ago",
-      "leadUrl": "https://www.sportico.com/business/team-sales/2026/arctos-cleveland-browns-investment-team-portfolio-1234901093/",
-      "summary": "The NFL approved Arctos Partners' third team investment, marking the firm's expansion into football and signaling continued appetite for alternative ownership structures in major sports.",
-      "article": "Arctos Partners now owns pieces of more than 30 sports franchises across multiple leagues, and the NFL just approved its third football team stake. The buyout firm's latest Cleveland Browns investment underscores a structural shift in how private capital is accessing sports ownership—no longer through majority stakes or founding partnerships, but through recurring minority positions in growth companies.\n\nThe Browns represent an interesting test case. The franchise has cycled through multiple quarterback experiments and coaching regimes in the past five years. Ownership restructuring created the opening for Arctos' capital entry. The firm's model depends on identifying franchises with operational or capital constraints, providing patient money, and maintaining operational distance while board representation ensures alignment with value-creation metrics.\n\nArctos' 30-plus portfolio signals something profound: the era of single-franchise billionaire ownership is fragmenting. Alternative investors are accessing sports at scale by building syndicate positions. This creates concentration risk if asset values decline sharply, but it also distributes capital exposure across 30 risk factors rather than betting everything on one team's performance.\n\nFor the NFL, this raises governance questions. The league's ownership rules require majority ownership by single entities—a protection mechanism designed to prevent faceless capital from controlling franchises. Yet Arctos' repeated approval suggests the league is comfort negotiating within that framework when the alternative investor brings operational discipline.\n\nThe Browns specifically benefit from Arctos' patient capital. The franchise is rebuilding after the Deshaun Watson contract derailment. Fresh institutional money buys runway. But it also signals that ownership structures are evolving faster than league governance is adapting. The next five years will reveal whether Arctos' portfolio strategy becomes the industry standard or remains a creative exception.",
-      "tweets": []
-    },
-    {
-      "category": "media",
       "importance": 5,
-      "leadHeadline": "FA opens Southampton investigation over Spygate",
-      "leadSource": "BBC Sport · 0h ago",
-      "leadUrl": "https://www.bbc.com/sport/football/articles/crmplprldl8o?at_medium=RSS&amp;at_campaign=rss",
-      "summary": "The Football Association opened a formal investigation into Southampton's admitted conduct of spying on three rival clubs during the Championship season.",
-      "article": "Southampton admitted to conducting unauthorized surveillance on three rival clubs during the Championship season, prompting a formal FA investigation that threatens further disciplinary action beyond any self-imposed penalties.\n\nThe admission came ahead of the investigation's initiation, suggesting Southampton's leadership calculated transparency would mitigate sanctions. The club spied on opponents during training or through video analysis—the specifics remain somewhat opaque, but the scope encompassed three separate franchises, indicating systemic rather than isolated conduct.\n\nThis isn't unprecedented in English football. Spygate recalls similar controversies in other sports, but the Football Association's formalization suggests the transgression exceeded internal governance standards. Southampton's relegation from the Premier League this season adds complication—a sanctioned club in a lower division carries different reputational stakes than a top-flight violation.\n\nThe investigation will likely center on whether Southampton gained competitive advantage from the intelligence gathered and whether third-party knowledge of the spying compromised the integrity of specific matches or standings progression. The three victimized clubs will be factored into deliberation.\n\nFor Southampton specifically, the reputational damage is already incurred. The club's ownership and management are defending operational decisions made during a period of crisis. The FA investigation will determine whether further points deductions, transfer bans, or financial penalties follow. If the Championship remains Southampton's destination next season, competitive disadvantage could persist into the 2026-27 season if sanctions prove severe.",
+      "leadHeadline": "Players Era 2026 brackets, matchups revealed: Two tournaments, 24 teams and hefty NIL paydays in Vegas",
+      "leadSource": "CBS Sports · 0h ago",
+      "leadUrl": "https://www.cbssports.com/college-basketball/news/players-era-2026-brackets-matchups-two-tournaments-nil/",
+      "summary": "The 2026 Players Era college basketball tournaments have revealed their field and bracket structure, featuring 24 elite teams competing in Vegas for substantial NIL compensation. The event continues to reshape college hoops' offseason economics.",
+      "article": "The Players Era—a newly established college basketball tournament series funded by athlete NIL deals—has revealed its 2026 field and bracket structure, featuring 24 elite programs competing in Las Vegas for significant prize pools and individual player compensation, according to CBS Sports. The tournament field includes defending champions and rising programs (Florida, Michigan, Gonzaga, Iowa State, Houston, Louisville, Tennessee, St. John's among others), signaling the event's consolidated appeal to top-tier recruiting classes.\n\nThe Players Era represents a structural shift in college basketball's offseason calendar. Rather than competing in preseason tournaments hosted by traditional broadcasters or sports management companies, elite programs now opt into athlete-funded events where players receive direct NIL payments for tournament participation. The 2026 edition's bracket expansion (24 teams across two tournament tiers) reflects both growing sponsor appetite and program demand.\n\nFinancial mechanics matter here. Players Era funding derives from athlete collectives and investment groups; prize distributions are allocated to individual athletes, not institutions. That means a Florida freshman who plays 30 minutes in a Players Era game generates NIL compensation independent of their team's scholarship support—a model that bypasses traditional institutional revenue structures.\n\nFor college basketball, the Players Era validates a tournament model divorced from NCAA governance. While the NCAA retains control over regular-season play, NCAA tournament access, and recruiting calendars, it has no direct stake in offseason athlete-funded events. The 2026 bracket shows major programs have fully embraced this parallel ecosystem.\n\nBroadcasting rights are typically handled by secondary cable or streaming platforms. The tournament's commercial value lies in player participation and celebrity appeal—collateral benefits that justify the six-figure-plus NIL payments per team. For sponsors seeking college hoops content without NCAA entanglement, Players Era is increasingly the efficient vector.",
       "tweets": []
     }
   ],
@@ -2424,106 +2430,130 @@
     ],
     "source": "espn"
   },
-  "deals": [],
+  "deals": [
+    {
+      "type": "media_rights",
+      "parties": "Liga MX ⇄ Electronic Arts",
+      "value_usd": null,
+      "term_years": null,
+      "league": "SOCCER",
+      "headline": "Liga MX Signs Deal to Return to EA Sports FC VideoGame",
+      "storyIndex": 1,
+      "blurb": "Mexico's Liga MX licensed to Electronic Arts for inclusion in EA Sports FC ahead of 2026 World Cup season.",
+      "capturedAt": "2026-05-21T17:28:33.630Z"
+    }
+  ],
   "ratings": [],
   "ticket_prices": [],
   "sidebar": [
     {
-      "headline": "Ed Orgeron returns to LSU: Ex-Tigers coach joins Lane Kiffin's staff in special assistant role",
-      "source": "CBS Sports",
-      "article": "Coach O is back in Baton Rouge. Ed Orgeron, who led LSU to the 2019 national championship, joined Lane Kiffin's inaugural Tigers staff as a special assistant. The move reunites Orgeron with an LSU program he left under contentious circumstances in 2021. Kiffin's first season at LSU depends on infrastructure and institutional knowledge—Orgeron provides both. The former coach's championship DNA and player relationships could accelerate Kiffin's establishment of a winning culture. Orgeron's exact role remains undefined, but his presence signals Kiffin's commitment to blending institutional continuity with innovative offensive scheming."
+      "headline": "Foden and 'shocked' Maguire to miss out on World Cup squad",
+      "source": "BBC Sport · 0h ago",
+      "article": "Phil Foden and Harry Maguire are set to be excluded from Thomas Tuchel's England World Cup squad, according to BBC Sport. Maguire's omission marks a notable absence for a veteran defender who's been central to England's tournament planning; Foden's exclusion signals Tuchel's tactical preferences diverging from prior squad construction. Both absences reshape England's midfield and defensive depth, forcing reliance on alternative configurations for the summer tournament."
     },
     {
-      "headline": "Cam Schlittler outdueled by Trey Yesavage as Yankees fall to Blue Jays",
-      "source": "NY Post Sports",
-      "article": "Trey Yesavage made his Yankee Stadium debut and simply dominated. The Blue Jays' right-hander outdueled Yankees prospect Cam Schlittler in a rain-delayed contest that showcased both young arms' poise under pressure. Yesavage's command through six scoreless innings proved the Blue Jays' pitching depth remains a competitive advantage. Schlittler's performance was equally impressive—he matched Yesavage's dominance despite the late-game weather disruption. The Yankees' inability to breakthrough against emerging talent suggests their bats remain inconsistent against premium young pitching."
+      "headline": "Haaland's Norway to Ronaldo's swansong: Who are the most likely first-time World Cup winners?",
+      "source": "The Guardian · 0h ago",
+      "article": "The Guardian examines World Cup contenders positioned to capture the tournament for the first time, analyzing whether an expanded field and grueling schedule create openings for emerging powers. Eight nations have previously won the World Cup; 2026's format may incentivize different strategic approaches and playing styles. Analysis includes Norway's depth and infrastructure versus traditional heavyweight experience, alongside the implications of aging superstars (Ronaldo) in final tournament cycles."
     },
     {
-      "headline": "Shai Gilgeous-Alexander trolls Isaiah Hartenstein's defense on Victor Wembanyama",
-      "source": "NY Post Sports",
-      "article": "Shai Gilgeous-Alexander's Twitter post eviscerated Isaiah Hartenstein's defensive assignment on Victor Wembanyama during the Thunder's Game 2 victory. Gilgeous-Alexander's public ribbing carried real substance—Hartenstein's struggles against the Thunder's star reflected San Antonio's defensive vulnerability in interior coverage. The trolling is performative but rooted in basketball reality. Young defenders often struggle against NBA's elite scorers, and Wembanyama's perimeter assignment on Gilgeous-Alexander created the mismatches that decided the series opener."
+      "headline": "A fractured SEC looking for consensus on CFP expansion as Big Ten draws clear line at 24-team model",
+      "source": "CBS Sports · 0h ago",
+      "article": "A CBS Sports survey reveals deep divisions within the SEC over College Football Playoff expansion, with coaches and athletic directors split on preferred format. Meanwhile, the Big Ten has coalesced around a 24-team model, establishing a clear positional advantage in playoff governance negotiations. The SEC's internal fracture—absent unified leverage—positions other Power Four conferences to influence playoff structure unilaterally."
     },
     {
-      "headline": "Sporticast: What Arsenal's Win Means for EPL's American Owners",
-      "source": "Sportico",
-      "article": "Kurt Badenhausen and Jacob Feldman examined Arsenal's recent victory through the lens of American ownership dynamics in English football. The 554th Sporticast episode analyzed how Premier League clubs owned or partially owned by U.S. investors are reshaping competitive balance and financial strategy. Arsenal's performance validates ownership decisions and investment thesis. American capital and operational models are creating competitive separation from traditional English structures, though sustainability remains unproven across a full season cycle."
+      "headline": "Critics Warn Kalshi and Polymarket Risk a Juul-Style Reckoning",
+      "source": "Front Office Sports · 0h ago",
+      "article": "Lawmakers and regulators have flagged sports betting platforms Kalshi and Polymarket for aggressive advertising tactics, warning of potential legal blowback similar to Juul's e-cigarette crackdown. The criticism centers on promotional methods targeting younger demographics and unregulated marketing claims. If enforcement action follows, it could reshape how sports betting platforms market prediction markets and event wagering products."
     },
     {
-      "headline": "'We'll go down in history' - Villa's new heroes triumph to end 30-year wait",
-      "source": "BBC Sport",
-      "article": "Aston Villa's Europa League triumph delivered the franchise's first continental trophy since 1982. A new generation of players etched their names into Villa history by defeating Freiburg in Istanbul. The 30-year drought makes this victory existential for a club fighting to restore itself to English football's elite tier. Unai Emery's European experience proved decisive. Villa supporters now have a trophy that validates the ownership's spending and the manager's vision for continental competitiveness."
+      "headline": "How Canadiens can beat Hurricanes, advance to Stanley Cup Final",
+      "source": "Sportsnet · 0h ago",
+      "article": "Sportsnet's Eric Engels analyzes the Montreal Canadiens' tactical roadmap against the Carolina Hurricanes in the Eastern Conference Final. The matchup pits the Canadiens' depth depth and defensive structure against Carolina's offensive momentum. Engels examines line matchups, goaltending durability, and the conditioning demands of a grinding playoff series."
     },
     {
-      "headline": "NFL International Series, Versant, NBC Sports and more",
-      "source": "Sports Media Watch",
-      "article": "The NFL advanced its international expansion strategy through multiple workstreams. The International Series schedule incorporates new markets while Versant partnerships enhance distribution logistics. NBC Sports' role in the expanded media portfolio reflects the league's commitment to broadcast redundancy and audience reach. These infrastructural announcements matter less than individual games or ratings, but they signal the NFL's long-term positioning for global growth and competitive media access."
+      "headline": "How To Get 2026 World Cup Tickets?",
+      "source": "TicketIQ · 0h ago",
+      "article": "TicketIQ's guide to securing 2026 World Cup tickets breaks down public sale dates, venue allocations across the U.S., Mexico, and Canada, and secondary market strategies. Early pricing data shows significant variation by venue and match stage; group sales and corporate packages account for a larger allocation than in prior tournaments. The guide emphasizes booking windows and fee structures across primary and secondary platforms."
     }
   ],
   "poll": {
-    "question": "Which 2026 NFL offseason move will have the biggest long-term impact?",
+    "question": "Will the CBS-TNT Sports merger clear Senate antitrust review before FCC final approval?",
     "options": [
-      "Aaron Rodgers joining Pittsburgh Steelers",
-      "NFL approving 18-game regular season expansion",
-      "Netflix receiving expanded game slate",
-      "Bears stadium relocation threat and potential move"
+      "Yes, lawmakers will approve or conditions will be minor",
+      "No, Senate intervention will block or significantly delay the deal",
+      "Merger will be restructured with divestitures or operational limits",
+      "Too early to tell; depends on FCC ruling"
     ]
   },
   "predictions": [
     {
-      "statement": "Aaron Rodgers plays all 17 games in 2026 and the Steelers make the AFC Championship Game.",
-      "probability": 62,
-      "rationale": "Rodgers' declaration of finality carries weight but his injury history is unpredictable. One season is sufficient runway for the Steelers to construct a legitimate contender around him. The team's offensive infrastructure under McCarthy is proven. Backup plans exist if Rodgers breaks down, but the probability of an MVP-caliber season and deep playoff run is elevated given his talent and McCarthy's system."
+      "statement": "The CBS-TNT merger faces a 60% likelihood of regulatory approval within 18 months, but with material conditions imposed on sports rights negotiations.",
+      "probability": 60,
+      "rationale": "Senate scrutiny is a genuine variable, but antitrust precedent favors large media mergers absent egregious vertical integration. The primary risk is Congressional leverage during an election cycle; if the deal can survive until 2027, approval odds improve materially. Expect conditions around NFL/NBA rights flexibility rather than outright blockage."
     },
     {
-      "statement": "The NFL approves the 18-game regular season before the 2027 season begins.",
-      "probability": 71,
-      "rationale": "Owners have signaled momentum at the spring meeting. The 2020 CBA settled the economics. The primary barrier—player health concerns—appears cracked based on the franchise discussion trajectory. Two additional games generate roughly $100 million in incremental league revenue. The financial incentive is structural, not cyclical. Implementation within 18 months is more likely than not."
+      "statement": "Chris Richards will be unavailable for USMNT World Cup roster, forcing the team to elevate depth defenders for final preparations.",
+      "probability": 35,
+      "rationale": "Torn ankle ligaments typically heal within 8-10 weeks with proper rehabilitation. If the injury occurred within the last week, Richards may still return by July training camps. However, ligament damage requiring surgery extends recovery to 12+ weeks, which would exclude him from meaningful World Cup prep. Without imaging specifics, a 35% probability reflects meaningful uncertainty."
     },
     {
-      "statement": "The Chicago Bears relocate to Arlington, Texas by 2028.",
-      "probability": 31,
-      "rationale": "Relocation threats are more common than actual moves. Chicago is an NFL original market with irreplaceable revenue potential. But the city's reluctance to fund stadium infrastructure and the team's 18-year lease expiration creates genuine jeopardy. Arlington's willingness to compete matters. The probability exceeds pure noise but remains a long-shot relative to negotiated compromise within Chicago."
+      "statement": "The Spurs-Thunder Western Conference Finals will exceed 13M average viewers, validating the NBA's mid-market playoff expansion thesis.",
+      "probability": 72,
+      "rationale": "The NBA's early playoff rounds exceeded prior-year comparables, per Sports Media Watch. A matchup featuring Oklahoma City's young core and San Antonio's playoff pedigree sits above 'lower-seed' viewership thresholds but below traditional Finals baselines. 13M is a defensible mid-tier mark; exceeding it suggests the league's content strategy is converting casual interest into sustained viewership."
     },
     {
-      "statement": "San Antonio Spurs eliminate Oklahoma City Thunder in six games despite Game 2 loss.",
-      "probability": 28,
-      "rationale": "Gilgeous-Alexander's dominance in Game 2 suggests a talent gap that's difficult to overcome. Victor Wembanyama's defensive struggles against the Thunder star are survivable but not sustainable. The Spurs have youth and potential, but the Thunder have a closer approximation to championship-level consistency. A Spurs upset requires Wembanyama to solve the Gilgeous-Alexander problem defensively—unlikely given the gap in offensive weaponry."
+      "statement": "Brendan Sorsby's pending litigation will result in at least one team removing him from first-round consideration.",
+      "probability": 68,
+      "rationale": "Teams are historically risk-averse during quarterback evaluation. Even if Sorsby's legal disputes have minimal merit, the documentary burden and distraction factor into draft conversations. Given the breadth of his litigation (per Sportico), at least one team's risk committee will flag him as a potential second-round downgrade, reducing first-round ceiling."
     }
   ],
-  "injuries": [],
+  "injuries": [
+    {
+      "player": "Chris Richards",
+      "team": "USMNT",
+      "league": "SOCCER",
+      "status": "OUT",
+      "injury": "Torn ankle ligaments",
+      "timeline": "4-12 weeks depending on severity; potential World Cup availability unclear",
+      "source": "NY Post Sports",
+      "impact": "Richards' versatility across multiple defensive positions creates depth complications for USMNT backline; replacement options require tactical recalibration.",
+      "storyIndex": 11
+    }
+  ],
   "picks": [],
-  "updatedAt": "2026-04-23T06:00:00Z",
+  "updatedAt": "2026-04-23T18:45:00Z",
   "highlights": [
     {
       "league": "NBA",
-      "title": "NBA's Nightly Recap | May 20, 2026",
-      "videoId": "MSkZuj-a_1Y",
-      "thumbnail": "https://img.youtube.com/vi/MSkZuj-a_1Y/mqdefault.jpg",
-      "timeAgo": "5h ago",
+      "title": "Shai Gilgeous-Alexander's FULL 2025-26 Kia MVP Acceptance Speech! 🏆",
+      "videoId": "kIE7Ckb8YrU",
+      "thumbnail": "https://img.youtube.com/vi/kIE7Ckb8YrU/mqdefault.jpg",
+      "timeAgo": "2h ago",
       "isFallback": false
     },
     {
       "league": "NFL",
-      "title": "Bigger Isn't Always Better: The Many Cons of a 24-Team CFP | The Bill Barnwell Show",
-      "videoId": "rtPUBR1vLwI",
-      "thumbnail": "https://img.youtube.com/vi/rtPUBR1vLwI/mqdefault.jpg",
-      "timeAgo": "11h ago",
+      "title": "Stephen A. shares his thoughts on Aaron Rodgers coming back for one more season 🏈",
+      "videoId": "vuItBTN8VlQ",
+      "thumbnail": "https://img.youtube.com/vi/vuItBTN8VlQ/mqdefault.jpg",
+      "timeAgo": "1h ago",
       "isFallback": false
     },
     {
       "league": "MLB",
-      "title": "Highlights from ALL GAMES on 5/20 (Rays' comeback for the SWEEP, Shohei Ohtani's dominance, MORE!)",
-      "videoId": "I5k_ajQs63E",
-      "thumbnail": "https://img.youtube.com/vi/I5k_ajQs63E/mqdefault.jpg",
+      "title": "Shohei Ohtani starting the game with a BANG! 💥 (Both times he's hit a leadoff HR when he started)",
+      "videoId": "_GfX_WYU9DU",
+      "thumbnail": "https://img.youtube.com/vi/_GfX_WYU9DU/mqdefault.jpg",
       "timeAgo": "1h ago",
       "isFallback": false
     },
     {
       "league": "NHL",
-      "title": "MITCHY STYLES has his swagger back 😎",
-      "videoId": "c-jw16YmWk8",
-      "thumbnail": "https://img.youtube.com/vi/c-jw16YmWk8/mqdefault.jpg",
-      "timeAgo": "7h ago",
+      "title": "Watch Finland vs Latvia at the 2026 IIHF World Championship 🇫🇮🇱🇻🏒",
+      "videoId": "LlGjAwlJWqU",
+      "thumbnail": "https://img.youtube.com/vi/LlGjAwlJWqU/mqdefault.jpg",
+      "timeAgo": "1h ago",
       "isFallback": false
     },
     {
@@ -2531,15 +2561,15 @@
       "title": "Dallas Wings at Chicago Sky | FULL GAME HIGHLIGHTS | May 20, 2026",
       "videoId": "eWqCvn7YIZk",
       "thumbnail": "https://img.youtube.com/vi/eWqCvn7YIZk/mqdefault.jpg",
-      "timeAgo": "6h ago",
+      "timeAgo": "13h ago",
       "isFallback": false
     },
     {
       "league": "SOCCER",
-      "title": "Europa League GLORY for Aston Villa 🏆 Emery &amp; Pep's futures + Ronaldo in World Cup &amp; more! | ESPN FC",
-      "videoId": "mCd9-X2tM9w",
-      "thumbnail": "https://img.youtube.com/vi/mCd9-X2tM9w/mqdefault.jpg",
-      "timeAgo": "11h ago",
+      "title": "It won't be covered up for long 🏆 (via @jurrientimber/IG, @arsenal/TT)",
+      "videoId": "RRU-Qe4q1V8",
+      "thumbnail": "https://img.youtube.com/vi/RRU-Qe4q1V8/mqdefault.jpg",
+      "timeAgo": "2h ago",
       "isFallback": false
     }
   ]
