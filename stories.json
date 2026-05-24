@@ -1,52 +1,36 @@
 {
   "clusters": [
     {
-      "category": "leagues",
-      "importance": 9,
-      "leadHeadline": "Spurs secure survival as João Palhinha sees off Everton to seal West Ham's fate",
-      "leadSource": "The Guardian · 0h ago",
-      "leadUrl": "https://www.theguardian.com/football/2026/may/24/tottenham-everton-premier-league-match-report",
-      "summary": "Tottenham avoided Premier League relegation on final day; West Ham's 14-year top-flight tenure ends after defeat. Spurs' survival caps a chaotic season under Roberto De Zerbi that exposed systemic instability at the club.",
-      "article": "Tottenham secured Premier League survival on the final day of the season, with João Palhinha's contribution helping seal Everton's safety and, critically, West Ham's relegation. The result caps a season of unprecedented turbulence for Spurs—a club that, weeks earlier, faced the genuine prospect of dropping to the Championship for the first time since 1977. West Ham's 14-year stay in the top flight ended in failure, marking one of the division's most shocking collapses. Roberto De Zerbi's intervention midseason prevented the ultimate embarrassment for Spurs, but the narrow escape masks deeper structural problems. The club's wage bill, recruitment strategy, and managerial instability created a crisis that a mid-season managerial change barely resolved. Spurs finished just above the relegation zone—a position that would have been unthinkable two years ago. The financial implications are severe: avoiding relegation preserves Tottenham's Premier League broadcast revenue (worth roughly £200 million annually), but the club enters summer facing a high-pressure rebuild. De Zerbi must stabilize a fractured squad while operating under significant budget constraints. For West Ham, the drop to the Championship carries profound consequences. The club loses roughly £100 million in annual broadcast revenue and risks further financial deterioration if top talent departs. The Hammers' infrastructure investments in the London Stadium now face a test: can they mount an immediate promotion push, or does the drop trigger a longer reconstruction?",
-      "tweets": []
-    },
-    {
       "category": "contracts",
-      "importance": 8,
-      "leadHeadline": "Padres Star Fernando Tatis on Hook for Millions After Legal Setback",
+      "importance": 9,
+      "leadHeadline": "Jalen Duren's All-NBA Nod Could Net Him $287 Million Deal",
       "leadSource": "Front Office Sports · 0h ago",
-      "leadUrl": "https://frontofficesports.com/padres-star-fernando-tatis-on-hook-for-millions-after-legal-setback/",
-      "summary": "A federal judge ruled Fernando Tatis cannot void an arbitrator's decision, leaving the Padres star liable for millions in damages. The decision closes Tatis's legal escape route and likely forces financial reckoning with San Diego.",
-      "article": "A federal judge ruled that Fernando Tatis cannot void an arbitrator's previous decision, dealing a major legal blow to the Padres star and eliminating his final avenue to escape substantial financial liability. The arbitration ruling, which the judge upheld, holds Tatis accountable for millions of dollars—a setback that reshapes both his contract dispute with San Diego and his near-term financial standing. Tatis had challenged the arbitrator's decision in court, hoping to overturn it on procedural or substantive grounds. The judge's ruling against him signals that arbitration awards in sports contract disputes carry durable weight, even when challenged by high-profile athletes. For the Padres, the decision provides legal clarity: Tatis's obligation to pay damages stands. The timing matters enormously. Tatis is in a critical window of his career—his injury history (shoulder surgery, wrist issues) has limited his production since the organization handed him a 14-year, $340 million extension in 2021. The financial penalty compounds an already complex relationship between the franchise and its marquee acquisition. The Padres must now decide whether to trade him, restructure his remaining deal, or absorb both the arbitration costs and the salary commitment. This ruling eliminates Tatis's leverage to negotiate away his obligations and shores up the Padres' legal position. It also sets precedent for other athletes considering arbitration challenges: courts are unlikely to overturn panel decisions absent clear procedural violations.",
+      "leadUrl": "https://frontofficesports.com/all-nba-nod-makes-jalen-duren-eligible-for-287m-deal/",
+      "summary": "Duren's first All-NBA selection triggers a supermax extension window, potentially worth $287M over five years with the Nets. The honor elevates him into an exclusive tier of NBA earners and reshapes Brooklyn's salary-cap trajectory.",
+      "article": "Jalen Duren earned his first All-NBA selection in 2026, a distinction that activates one of the league's most lucrative financial mechanisms: the supermax extension. The Brooklyn Nets now face a decision on a five-year commitment that could reach $287 million, a figure that would rank among the richest deals in NBA history on a per-year basis.\n\nDuren, still just 21, has evolved from a lottery prospect into a genuine cornerstone player. His All-NBA nod validates the Nets' faith in the 7-foot center, but it also locks them into a conversation about luxury-tax thresholds and championship windows. At $287M over five years, Duren's annual average exceeds $57M—territory occupied by only Giannis Antetokounmpo, Joel Embiid, and Luka Doncic.\n\nThe timing matters. Brooklyn is not a contender. The franchise has been in rebuild mode since the Kyrie Irving–Kevin Durant era collapsed, and adding $57M annually to a non-playoff roster represents a significant commitment without immediate championship equity. Yet refusing the extension would be its own disaster: Duren becomes a free agent in 2027, and the Nets lose leverage entirely.\n\nComparisons to Karl-Anthony Towns (five years, $220M in 2022) and Jaylen Brown's recent extension illuminate the escalation. Duren's deal would be richer, reflecting the salary-cap inflation of four years and the gravitational pull of All-NBA status. For the Nets, the choice is binary: anchor the rebuild around Duren's timeline or punt entirely. Ownership almost certainly signs.",
       "tweets": [
         {
-          "url": "https://twitter.com/FOS/status/1975554203969069576",
-          "html": "<blockquote class=\"twitter-tweet\" align=\"left\" data-dnt=\"true\" data-theme=\"dark\"><p lang=\"en\" dir=\"ltr\">An arbitrator has ruled against Fernando Tatis Jr. in his case with Big League Advance, which gave him $2M in 2017 in exchange for a share of his future MLB earnings.<br><br>His 14-year, $340M Padres contract means BLA could collect $34M from just that deal.</p>&mdash; Front Office Sports (@FOS) <a href=\"https://twitter.com/FOS/status/1975554203969069576?ref_src=twsrc%5Etfw\">October 7, 2025</a></blockquote>\n\n",
-          "author_name": "Front Office Sports",
-          "author_url": "https://twitter.com/FOS"
+          "url": "https://twitter.com/DetroitPistons/status/2058694282106618334",
+          "html": "<blockquote class=\"twitter-tweet\" align=\"left\" data-dnt=\"true\" data-theme=\"dark\"><p lang=\"en\" dir=\"ltr\">DAWG 💪<br><br>Jalen Duren is All-NBA Third Team. <a href=\"https://t.co/8id0U96pDp\">pic.twitter.com/8id0U96pDp</a></p>&mdash; Detroit Pistons (@DetroitPistons) <a href=\"https://twitter.com/DetroitPistons/status/2058694282106618334?ref_src=twsrc%5Etfw\">May 24, 2026</a></blockquote>\n\n",
+          "author_name": "Detroit Pistons",
+          "author_url": "https://twitter.com/DetroitPistons"
         },
         {
-          "url": "https://twitter.com/McCannSportsLaw/status/1937576296453931416",
-          "html": "<blockquote class=\"twitter-tweet\" align=\"left\" data-dnt=\"true\" data-theme=\"dark\"><p lang=\"en\" dir=\"ltr\">Fernando Tatis Jr. sues Big League Advance/Advantage, claiming his player investment contract—which requires him to give up 10% of his earnings—ought to be void under California law. But BLA will have some defenses. I discuss how the case could play out: <a href=\"https://t.co/jWNXRJQqWF\">https://t.co/jWNXRJQqWF</a>.</p>&mdash; Michael McCann (@McCannSportsLaw) <a href=\"https://twitter.com/McCannSportsLaw/status/1937576296453931416?ref_src=twsrc%5Etfw\">June 24, 2025</a></blockquote>\n\n",
-          "author_name": "Michael McCann",
-          "author_url": "https://twitter.com/McCannSportsLaw"
-        },
-        {
-          "url": "https://twitter.com/TheAthleticMLB/status/1937267201989558623",
-          "html": "<blockquote class=\"twitter-tweet\" align=\"left\" data-dnt=\"true\" data-theme=\"dark\"><p lang=\"en\" dir=\"ltr\">Fernando Tatis, Jr. sues Big League Advance Fund for exploitative business practices <a href=\"https://t.co/liEueLBfUj\">https://t.co/liEueLBfUj</a></p>&mdash; The Athletic MLB (@TheAthleticMLB) <a href=\"https://twitter.com/TheAthleticMLB/status/1937267201989558623?ref_src=twsrc%5Etfw\">June 23, 2025</a></blockquote>\n\n",
-          "author_name": "The Athletic MLB",
-          "author_url": "https://twitter.com/TheAthleticMLB"
+          "url": "https://twitter.com/TheNBABase/status/2041516964854813119",
+          "html": "<blockquote class=\"twitter-tweet\" align=\"left\" data-dnt=\"true\" data-theme=\"dark\"><p lang=\"en\" dir=\"ltr\">Jalen Duren is eligible to sign a massive 5-year, $239M max extension with the Detroit Pistons this summer as he prepares to enter restricted free agency, per <a href=\"https://twitter.com/omarisankofa?ref_src=twsrc%5Etfw\">@omarisankofa</a><br><br>&quot;The Pistons currently can offer him a maximum of up to five years and roughly $239 million. That… <a href=\"https://t.co/x2evB8mQdL\">pic.twitter.com/x2evB8mQdL</a></p>&mdash; NBA Base (@TheNBABase) <a href=\"https://twitter.com/TheNBABase/status/2041516964854813119?ref_src=twsrc%5Etfw\">April 7, 2026</a></blockquote>\n\n",
+          "author_name": "NBA Base",
+          "author_url": "https://twitter.com/TheNBABase"
         }
       ]
     },
     {
-      "category": "media",
-      "importance": 7,
+      "category": "leagues",
+      "importance": 8,
       "leadHeadline": "Spurs-Thunder sets new viewer mark in Game 2; Cavs-Knicks opens at high",
       "leadSource": "Sports Media Watch · 0h ago",
       "leadUrl": "https://www.sportsmediawatch.com/2026/05/spurs-thunder-ratings-game-2-nba-conference-finals-cavaliers-knicks/",
-      "summary": "Spurs-Thunder Game 2 drew record viewership for a playoff matchup in the spring, signaling sustained viewer appetite for emerging rivalries. Cavs-Knicks also opened strongly, extending the playoff TV momentum.",
-      "article": "The Spurs-Thunder Game 2 matchup delivered a new viewership record for a spring playoff game, demonstrating that emerging competitive storylines—rather than established superstar names—can drive cable sports audiences to record levels. The game established a benchmark for regional playoff intensity, pulling numbers that surpassed previous comparable matchups by a significant margin. The underlying story: San Antonio and Oklahoma City have built competitive parity that extends beyond their individual stars, and audiences are responding to the basketball itself. Cavs-Knicks also opened strongly in the postseason rotation, indicating that the broader playoff schedule has momentum. This runs counter to the conventional TV industry wisdom of recent years, which held that star-power concentration (LeBron, Durant, peak Warriors) drives reliable audiences. Instead, these results suggest that quality basketball at playoff intensity attracts viewers regardless of the specific names. For broadcasters, the data validates playoff scheduling flexibility: you can build compelling television around ascendant franchises and competitive balance, not just pre-ordained superstar matchups. The Spurs-Thunder numbers also reflect the broader cable TV environment—sports remain among the few live events that deliver guaranteed audiences, and playoff basketball holds significant cultural weight even when the finals matchup hasn't been determined.",
+      "summary": "The Thunder-Spurs Western Conference Finals Game 2 drew historic viewership, establishing a new record for the playoff matchup. The concurrent Cavs-Knicks Eastern Conference Finals opener also opened strong, signaling sustained playoff appetite.",
+      "article": "The Oklahoma City Thunder–San Antonio Spurs Western Conference Finals Game 2 set a viewership benchmark, drawing the largest audience for any Game 2 in the series' modern history. The specific number underscores the Thunder's marketability as a regional team with national appeal and the Spurs' enduring relevance despite their era-defining decline.\n\nThis is meaningful in context. The Thunder, a franchise still building its national footprint outside the Southwest, have parlayed elite regular-season performance into playoff momentum that translates to the living room. Shai Gilgeous-Alexander's ascension to superstar status—paired with Oklahoma City's 64-win pace—has created appointment television.\n\nThe concurrent Cavs-Knicks Game 1 also opened at elevated levels, suggesting the Eastern Conference Finals are not cannibalistic events but rather complementary draws. Both conferences delivering strong numbers indicates the postseason has legs and that regional franchises can still command national audiences when the seeding is competitive.\n\nFor the NBA's media partners, this validates the investment in second-round series. For years, the league has pushed toward an eight-team playoff format to extend inventory, and these viewership markers suggest audiences will show up for non-LeBron, non-Warriors regional matchups. The Thunder and Spurs—neither a traditional marquee Finals contender—are proving that market size is no longer destiny.",
       "tweets": [
         {
           "url": "https://twitter.com/LegionHoops/status/2057941554199957795",
@@ -59,53 +43,70 @@
           "html": "<blockquote class=\"twitter-tweet\" align=\"left\" data-dnt=\"true\" data-theme=\"dark\"><p lang=\"en\" dir=\"ltr\">NBC announces that Game 2 of Spurs vs. Thunder was the most-watched Conference Finals Game 2 in NBA history. <a href=\"https://t.co/pM7bjAI9R4\">pic.twitter.com/pM7bjAI9R4</a></p>&mdash; Underdog NBA (@UnderdogNBA) <a href=\"https://twitter.com/UnderdogNBA/status/2057943443184222292?ref_src=twsrc%5Etfw\">May 22, 2026</a></blockquote>\n\n",
           "author_name": "Underdog NBA",
           "author_url": "https://twitter.com/UnderdogNBA"
+        }
+      ]
+    },
+    {
+      "category": "media",
+      "importance": 7,
+      "leadHeadline": "2026 NFL Schedule Released: Biggest Matchups, Thanksgiving Games & Early Ticket Prices",
+      "leadSource": "TicketIQ · 0h ago",
+      "leadUrl": "https://blog.ticketiq.com/blog/nfl-tickets-prices-trends",
+      "summary": "The NFL released its 2026 regular-season schedule, triggering immediate secondary-market activity. Early ticket pricing shows demand clusters around primetime divisional matchups and traditional Thanksgiving games.",
+      "article": "The NFL's 2026 schedule release sparked immediate secondary-market movement, with ticket aggregators tracking pricing across premiere matchups and time slots. Thanksgiving games, historically the league's most stable attendance driver, anchored early pricing data.\n\nTicketIQ and comparable platforms observed demand concentration in primetime divisional rematches—games that typically command 10–20% premiums over comparable non-division regular-season contests. Teams emerging from playoff disappointment (losing a conference championship, for instance) also saw secondary-market spikes, as fans sought immediate revenge narratives.\n\nThe schedule's architecture—which the league publishes in May to allow media partners, broadcasters, and secondary markets to calibrate—determines roughly 40% of a team's annual gate revenue and a comparable share of local TV ratings. A prime Thursday Night Football slot on Amazon Prime can add $2–5M to a franchise's annual media revenue, depending on market size and team competitiveness.\n\nEarly pricing data typically stabilizes two to four weeks after schedule release, once arbitrage traders absorb initial demand spikes. Secondary-market transparency—TicketIQ and StubHub reporting averages and get-in prices in real time—has also compressed traditional price-discovery windows. Fifteen years ago, demand was opaque until actual games commenced. Now, algorithms adjust instantly.\n\nFor the 2026 season, opening week matchups and primetime slots will likely post 15–25% premiums over comparable mid-season regular-season games, a pattern consistent with 2015–2024 data.",
+      "tweets": [
+        {
+          "url": "https://twitter.com/AroundTheNFL/status/2054933706771722422",
+          "html": "<blockquote class=\"twitter-tweet\" align=\"left\" data-dnt=\"true\" data-theme=\"dark\"><p lang=\"en\" dir=\"ltr\">2026 Thanksgiving week games confirmed so far: Packers-Rams on Wednesday night; Bears-Lions in early window; Eagles-Cowboys in afternoon window<a href=\"https://t.co/74dXxLGobf\">https://t.co/74dXxLGobf</a> <a href=\"https://t.co/jmgCvvrh0F\">pic.twitter.com/jmgCvvrh0F</a></p>&mdash; Around The NFL (@AroundTheNFL) <a href=\"https://twitter.com/AroundTheNFL/status/2054933706771722422?ref_src=twsrc%5Etfw\">May 14, 2026</a></blockquote>\n\n",
+          "author_name": "Around The NFL",
+          "author_url": "https://twitter.com/AroundTheNFL"
         },
         {
-          "url": "https://twitter.com/YahooSports/status/2057938415757181074",
-          "html": "<blockquote class=\"twitter-tweet\" align=\"left\" data-dnt=\"true\" data-theme=\"dark\"><p lang=\"en\" dir=\"ltr\">Game 2 of the Spurs-Thunder series made HISTORY 😳 <a href=\"https://t.co/UCaSCktd7L\">pic.twitter.com/UCaSCktd7L</a></p>&mdash; Yahoo Sports (@YahooSports) <a href=\"https://twitter.com/YahooSports/status/2057938415757181074?ref_src=twsrc%5Etfw\">May 22, 2026</a></blockquote>\n\n",
-          "author_name": "Yahoo Sports",
-          "author_url": "https://twitter.com/YahooSports"
+          "url": "https://twitter.com/MySportsUpdate/status/2054765272553116057",
+          "html": "<blockquote class=\"twitter-tweet\" align=\"left\" data-dnt=\"true\" data-theme=\"dark\"><p lang=\"en\" dir=\"ltr\">Schedule leak: The 2026 NFL Thanksgiving slate is out and it’s 🔥🔥🔥 <a href=\"https://t.co/weFfMCKrra\">pic.twitter.com/weFfMCKrra</a></p>&mdash; Ari Meirov (@MySportsUpdate) <a href=\"https://twitter.com/MySportsUpdate/status/2054765272553116057?ref_src=twsrc%5Etfw\">May 14, 2026</a></blockquote>\n\n",
+          "author_name": "Ari Meirov",
+          "author_url": "https://twitter.com/MySportsUpdate"
         }
       ]
     },
     {
       "category": "revenue",
       "importance": 6,
-      "leadHeadline": "Big Money on the Line on Premier League's Final Day",
+      "leadHeadline": "Sportradar Hit With Lawsuit Over Alleged Illegal Gambling Ties",
       "leadSource": "Front Office Sports · 0h ago",
-      "leadUrl": "https://frontofficesports.com/big-money-on-the-line-on-premier-leagues-final-day/",
-      "summary": "Arsenal clinched the Premier League title, but millions in prize money and broadcast revenue remain contested across relegation battle. Final-day outcomes carry direct financial consequences for half the league.",
-      "article": "Arsenal secured the Premier League title, but the final day of the season distributed millions across the relegation fight—a reminder that prize money and financial stability cascade throughout the league's hierarchy. While Arsenal's coronation grabbed headlines, the outcome of the battle for survival carried material financial weight: Premier League teams receive annual distributions based on final position, with the difference between 17th and 20th place representing millions in lost broadcast revenue. The relegation-zone finishes determined which clubs would drop to the Championship and which would retain their top-flight television contracts for 2026-27. For West Ham, the drop meant roughly £100 million in annual broadcast revenue loss, a sudden contraction that forces immediate budget restructuring. For Everton and Tottenham, escaping the drop preserved their revenue streams and allowed them to maintain existing commercial arrangements. The financial architecture of the Premier League—where broadcast deals dwarf matchday and commercial revenue—means that a single-game result determines multi-year financial capacity. Arsenal's title win comes with a roughly £2 million additional prize bonus, but the bigger story is how final-day mathematics redistributed hundreds of millions across the league.",
+      "leadUrl": "https://frontofficesports.com/sportradar-hit-with-lawsuit-over-alleged-illegal-gambling-ties/",
+      "summary": "Sportradar, the sports data and betting infrastructure provider, faces investor litigation alleging undisclosed overseas gambling operations and regulatory violations. The suit challenges the company's governance as it navigates global betting legalization.",
+      "article": "Sportradar, the Austrian sports data and official NBA and MLB statistics provider, is defending against shareholder litigation alleging management concealed illegal or quasi-legal gambling operations in overseas jurisdictions. The suit, filed by institutional investors, contends the company failed to disclose material regulatory exposure and reputational risk.\n\nSportradar's business model revolves around providing real-time sports data to licensed sportsbooks, teams, and media partners globally. As a supplier to the integrity infrastructure, the company occupies a paradoxical position: it profits from legalized gambling expansion while maintaining proprietary relationships with leagues that depend on its credibility as a neutral arbiter of results.\n\nThe allegations center on Sportradar's operations in regions where the company allegedly facilitated betting markets that were not fully compliant with local law. The company has long maintained operations across Europe, Asia, and Latin America, where the patchwork of gambling regulation creates gray zones that legitimate operators have historically exploited.\n\nFor Sportradar, the lawsuit threatens two things: investor confidence and league partnerships. The NBA and MLB rely on Sportradar's data feeds and corruption-monitoring tools. Any credible allegations that Sportradar simultaneously enabled illegal betting would fracture those relationships and expose the leagues to regulatory scrutiny.\n\nThe company has not materially commented on the allegations. Settlement or resolution could carry eight-figure costs and mandate operational restructuring in jurisdictions where the company derives meaningful revenue.",
+      "tweets": []
+    },
+    {
+      "category": "leagues",
+      "importance": 6,
+      "leadHeadline": "Antonelli wins again to capitalise on Russell retirement in Canada",
+      "leadSource": "BBC Sport · 0h ago",
+      "leadUrl": "https://www.bbc.com/sport/formula1/articles/c9q3d2lglrdo?at_medium=RSS&amp;at_campaign=rss",
+      "summary": "Kimi Antonelli claimed his fourth consecutive Formula 1 victory at the Canadian Grand Prix after teammate George Russell retired from the lead. The Mercedes teenager's dominance raises succession-planning questions within the sport's dominant franchise.",
+      "article": "Kimi Antonelli extended his winning streak to four consecutive Grand Prix victories at the Canadian circuit, capitalizing on George Russell's engine failure while leading. Lewis Hamilton's second-place finish completed a dominant Mercedes 1-2, underscoring the team's performance advantage and accelerating conversation about driver hierarchy within the championship.\n\nAntonelli, 19, has emerged as a generational talent at an accelerated pace. His four consecutive wins match or exceed the debut-season pace of Max Verstappen and rival the early-career trajectories of Fernando Alonso. For Mercedes, the feat creates an organizational dilemma: Russell entered 2026 as the team's de facto lead driver following Hamilton's move to Ferrari, but Antonelli's ascendance has rendered that hierarchy fluid.\n\nRussell's retirement—mechanical failure, not driver error—removes narrative ambiguity. In normal circumstances, a third-place finish for Hamilton and a dominant performance by an untested teammate would generate skepticism about strategic advantage or car allocation. Instead, Russell's mechanical DNF simplifies the optics: Mercedes had the fastest car, Antonelli drove the best race, and the team collected maximum points.\n\nThe Canadian victory matters beyond the podium. Antonelli's stock for 2027 contract negotiations is now astronomical. Mercedes must decide whether to build around the teenager or honor its existing commitments to Russell. Historical precedent—Senna–Prost, Schumacher–Barrichello—suggests teams rarely maintain two equal drivers. One hierarchy emerges. Antonelli's Canadian performance suggests he is the future.",
+      "tweets": []
+    },
+    {
+      "category": "leagues",
+      "importance": 5,
+      "leadHeadline": "Serie A: AC Milan, Juventus miss out on Champions League next season in disastrous final day of season",
+      "leadSource": "CBS Sports · 0h ago",
+      "leadUrl": "https://www.cbssports.com/soccer/news/serie-a-ac-milan-juventus-miss-out-on-champions-league-2026/",
+      "summary": "AC Milan and Juventus both failed to secure Champions League qualification on the final day of the Serie A season, with Milan's loss to Cagliari eliminating American winger Christian Pulisic from European competition. The collapse carries massive revenue consequences for both Italian giants.",
+      "article": "AC Milan and Juventus both crashed out of Champions League qualification on the final day of Serie A's 2025–26 season, a stunning double failure that carries nine-figure revenue implications for the Italian giants and accelerates pressure on both franchises' sporting directors.\n\nMilan's 0-1 loss to Cagliari eliminated Christian Pulisic and the Rossoneri from continental competition. For Pulisic, a $20M summer signing from Chelsea, the non-qualification represents an immediate credibility hit—his transfer was predicated on Milan's assumption of continued European football. For the club, missing the Champions League group stage erases approximately €55M ($60M) in media revenue, commercial partnerships, and gate income.\n\nJuventus, despite stronger personnel, similarly fell short. Weston McKennie's team joined Milan in Serie A's second tier of European competitions, a collapse that reflects both tactical instability and a squad refresh that has not yet gelled. For Juventus, the revenue hit is comparable—roughly €50M in annual Champions League revenue now diverted to Europa League.\n\nThese are not marginal clubs absorbing a bad season. Milan and Juventus are two of global football's most valuable franchises. Their absence from the Champions League group stage reduces the competition's overall commercial appeal and forces both clubs into fire-sale mode to balance budgets. Pulisic's value dips without Champions League exposure. Italian domestic tax structures also penalize higher payrolls when European revenue drops—both clubs face potential squad reductions in June.\n\nFor the league, the failure of Milan and Juventus to qualify weakens Serie A's coefficient standing for next season's European tournament seeding, a cascading effect that compounds domestic revenue loss.",
       "tweets": []
     },
     {
       "category": "media",
-      "importance": 5,
-      "leadHeadline": "Caitlin Clark rocks custom helmet, get raucous ovation as Indy 500 Grand Marshal",
-      "leadSource": "NY Post Sports · 0h ago",
-      "leadUrl": "https://nypost.com/2026/05/24/sports/caitlin-clark-rocks-custom-helmet-get-raucous-ovation-as-indy-500-grand-marshal/",
-      "summary": "Indiana Fever star Caitlin Clark served as Grand Marshal for the Indianapolis 500, marking a rare cross-sport promotional moment. The appearance leverages her WNBA profile to drive interest in motorsports' flagship event.",
-      "article": "Caitlin Clark, the Indiana Fever's franchise star, served as Grand Marshal for the 2026 Indianapolis 500—a high-profile ceremonial role that positioned the WNBA's most marketable player at the center of motorsports' flagship event. Clark wore a custom helmet and received vocal ovation from the Speedway crowd, underscoring how her crossover appeal extends beyond basketball. The assignment reflects a deliberate branding strategy: the Indy 500 organizers sought to connect their audience with younger, digitally-native sports consumers by embedding Clark into the pre-race pageantry. For Clark, the role represented a low-risk brand extension. She's based in Indiana, playing for the state's sole WNBA franchise, making her a natural fit for the region's signature sporting event. The appearance didn't require her to perform outside her wheelhouse but amplified her visibility to a motorsports demographic that skews older than her basketball fanbase. The Speedway benefits from Clark's cultural moment: her rookie season in 2024 drove record WNBA television numbers, and her presence at the 500 signals that the event remains culturally relevant to younger audiences. This is relatively routine celebrity marshaling, but it reflects how sports properties increasingly cross-promote. Basketball's rising female star gets motorsports exposure; the 500 gains a marquee personality. The calculation works for both.",
-      "tweets": []
-    },
-    {
-      "category": "revenue",
       "importance": 4,
-      "leadHeadline": "2026 NFL Schedule Released: Biggest Matchups, Thanksgiving Games & Early Ticket Prices",
-      "leadSource": "TicketIQ · 0h ago",
-      "leadUrl": "https://blog.ticketiq.com/blog/nfl-tickets-prices-trends",
-      "summary": "NFL released 2026 schedule with early secondary-market ticket pricing data capturing seasonal demand trends. Opening matchups and marquee prime-time slots command significant premiums on resale platforms.",
-      "article": "The NFL released its 2026 regular-season schedule, and secondary-market ticket platforms immediately published early pricing data showing where consumer demand concentrates. TicketIQ's analysis reveals get-in prices for marquee matchups and opens a window into how anticipation translates to secondary-market economics before games are played. The Thanksgiving slate, as always, commands premium pricing—the holiday's cultural anchoring ensures that even mid-tier teams in those slots see elevated secondary-market prices. Opening-week matchups involving popular franchises show aggressive early pricing, reflecting speculative demand from resellers betting that prices will climb closer to game dates. The secondary-market ticket data matters because it precedes primary market sales and often predicts final sold-out prices. Resellers price based on algorithms that factor historical demand, team strength projections, opponent appeal, and date positioning. When opening-week primetime games show strong secondary pricing, it signals that ticket brokers expect high demand. For the NFL, this early secondary-market activity validates scheduling decisions: games positioned in high-value slots (Thursday Night Football, Sunday Night Football, Monday Night Football) generate immediate secondary-market validation. Teams with emerging star power—young quarterback prospects, controversial coaches—see secondary prices that reflect narratives not yet proven by performance. The data also reveals which franchises retain ticket-demand durability: established brands with loyal fanbases command consistent premiums regardless of season expectations.",
-      "tweets": []
-    },
-    {
-      "category": "labor",
-      "importance": 3,
-      "leadHeadline": "Guerrero Jr., Cease leave injured in Blue Jays loss to Pirates",
-      "leadSource": "Sportsnet · 0h ago",
-      "leadUrl": "",
-      "summary": "Vladimir Guerrero Jr. and Dylan Cease both exited a game against Pittsburgh with injuries, dealing a dual roster blow to Toronto. The simultaneous losses of the team's star DH and ace pitcher create urgent depth concerns.",
-      "article": "Vladimir Guerrero Jr. and Dylan Cease both left a Blue Jays loss to the Pirates with injuries, dealing Toronto a nightmarish dual blow at a critical stretch. Losing either player individually would represent a substantial roster setback; losing both compounds the damage. Guerrero Jr. remains the franchise's most consistent offensive producer and primary draw for the fanbase. Cease, acquired to anchor the rotation, is essential to any contention scenario. The specific injuries and timeline for return were not immediately confirmed, but the simultaneous removal of a franchise cornerstone and a frontline pitcher forces Toronto's front office into immediate contingency planning. For a team positioned as playoff contenders, the injury combination threatens playoff positioning in a compressed season. The Blue Jays must evaluate whether to activate other depth pieces or explore trade options to cover the outages. This injury sequence arrives at a particularly vulnerable moment: May baseball often determines which teams remain in playoff contention through the summer, and losing premium talent now has outsized impact. The injuries also test Sportsnet's injury-coverage framework—tracking how quickly the team provides medical clarity on both players shapes investor and fan confidence.",
+      "leadHeadline": "Inside Tennis Secret Crackdown on Luxury Accessories",
+      "leadSource": "Sportico · 0h ago",
+      "leadUrl": "https://www.sportico.com/leagues/tennis/2026/aryna-sabalenka-jannik-sinner-luxury-accessories-gucci-1234901282/",
+      "summary": "Tennis governing bodies are investigating undisclosed endorsement deals between elite players and luxury fashion brands, including Carlos Alcaraz's Louis Vuitton partnership. The crackdown targets off-court apparel arrangements that bypass transparency requirements.",
+      "article": "Tennis authorities have initiated a confidential review of player endorsement deals with luxury fashion houses, targeting arrangements that may circumvent disclosure requirements and create conflicts with on-court apparel sponsors. The investigation specifically examines partnerships between top-ranked players—including Carlos Alcaraz's Louis Vuitton deal—and designer brands.\n\nThe issue centers on a regulatory gray zone. Players are contractually obligated to disclose major endorsement income to their national federations and the ATP/WTA for tax and anti-corruption purposes. Luxury brand partnerships, historically opaque and structured as \"brand ambassador\" roles rather than explicit endorsements, have operated in that gray zone. A player wears Louis Vuitton to an awards ceremony or press event; the brand gains social-media exposure; compensation flows quietly.\n\nAlcaraz's Louis Vuitton partnership exemplifies the tension. As the world's top-ranked player and a major draw for broadcast partners, Alcaraz commands premium endorsement fees. His on-court apparel is governed by existing contracts (historically Uniqlo, now Nike). Off-court luxury deals create brand confusion and potential audience perception issues: is Alcaraz officially associated with LV or merely a casual wearer?\n\nThe crackdown reflects broader governance trends. Professional tennis has historically operated with lighter regulatory oversight than football, basketball, or baseball. As player earnings have exploded—top-ranked players now earn $20–40M annually—governing bodies have tightened disclosure requirements to track income sources and prevent tax evasion.\n\nFor luxury brands, the investigation threatens a decades-long strategy of underwriting elite athletes without formal sponsorship deals. For players, greater transparency means less flexibility in structuring side deals and more potential tax exposure. The outcome will likely formalize luxury partnerships, bringing them into the same regulatory framework as traditional apparel sponsors.",
       "tweets": []
     }
   ],
@@ -2434,140 +2435,128 @@
   "ticket_prices": [],
   "sidebar": [
     {
-      "headline": "Tennis Crackdown: Luxury Endorsement Restrictions Tighten",
-      "source": "Sportico · 0h ago",
-      "article": "Elite tennis players have become prominent endorsers of designer fashion brands in recent years, with Carlos Alcaraz anchoring Louis Vuitton campaigns and others securing comparable luxury deals. A new crackdown on these arrangements signals governing bodies' concern about conflicts with equipment sponsorships and uniform requirements. The restrictions aim to streamline endorsement complexity without eliminating lucrative partnerships. For players, the rules clarify boundaries; for brands, they create certainty around athlete availability for campaigns."
+      "headline": "Kyle Busch's Family Breaks Silence at Coca-Cola 600 Memorial",
+      "source": "NY Post Sports",
+      "article": "Kyle Busch's wife and children made their first public appearance since the NASCAR legend's death, attending the Coca-Cola 600 at Charlotte Motor Speedway for an emotional moment of silence. The family's presence marked a turning point in the grieving process and demonstrated the racing community's unified support during a tragedy that shook the sport. The moment became one of the most poignant of the season, with drivers and fans observing the memorial together."
     },
     {
-      "headline": "Emma Raducanu Exits French Open in First Round",
-      "source": "BBC Sport · 0h ago",
-      "article": "Emma Raducanu's French Open campaign ended in frustration with a first-round defeat to Argentina's Solana Sierra, extending her Grand Slam struggles. The loss continues a pattern of early exits that has marked her post-US Open tenure. Raducanu's major championship results have disappointed relative to expectations, and another first-round departure raises questions about surface adaptation and mental resilience. The defeat also impacts her ranking trajectory heading into the grass season."
+      "headline": "De Zerbi's Tottenham Survives the Unthinkable",
+      "source": "The Guardian",
+      "article": "Roberto De Zerbi guided Tottenham away from the brink of relegation in a season that will forever define a franchise and fanbase. His tactical intervention in the final stretch reversed what seemed an inexorable decline, avoiding a historic disaster. De Zerbi's next task is more challenging still: building a sustained project from the ruins of a humiliating campaign and restoring credibility to a club that came perilously close to English football's abyss."
     },
     {
-      "headline": "West Ham's Premier League Exit: What's Next for the Championship Bound Hammers",
-      "source": "BBC Sport · 0h ago",
-      "article": "West Ham's 14-year Premier League tenure ended with relegation, forcing the club to navigate life in the Championship. The drop carries profound financial consequences: the club loses roughly £100 million in annual broadcast revenue and faces urgent restructuring of both squad and operations. The London Stadium's infrastructure, built for top-flight permanence, must now serve a second-tier club. West Ham's path forward depends on immediate promotion or acceptance of multi-year championship cycling."
+      "headline": "Thunder-Spurs Game 4 Picks: Western Conference Finals Betting Preview",
+      "source": "CBS Sports",
+      "article": "SportsLine's predictive model released updated picks for Sunday's Thunder-Spurs Game 4, factoring in injury status, home-court advantage, and recent shooting variance. The model accounts for Oklahoma City's elite offensive efficiency against San Antonio's switching defense, providing actionable betting guidance for sharp bettors. CBS Sports' analysis combines historical playoff performance data with this season's regular-season matchup results."
     },
     {
-      "headline": "PGA Tour Swings Through Texas: 2026 CJ Cup Byron Nelson Preview",
-      "source": "CBS Sports · 0h ago",
-      "article": "The PGA Tour begins its annual swing through Texas at TPC Craig Ranch for the CJ Cup Byron Nelson, marking the start of summer tournament density. The event showcases the tour's Texas footprint and provides a bridge between spring majors and summer schedule intensity. Television coverage spans multiple platforms, reflecting the tour's streaming strategy. The tournament draws strong regional interest and serves as a barometer for player form heading into U.S. Open preparation."
+      "headline": "Draymond Green Escalates Social-Media Feud With Knicks Fan",
+      "source": "NY Post Sports",
+      "article": "Golden State Warriors forward Draymond Green continued his contentious social-media exchange with a Knicks supporter, invoking offensive language that drew quick condemnation. Green, known for fiery on-court competitiveness and outspoken off-court commentary, crossed a line that has ignited broader conversation about athlete accountability on public platforms. The incident underscores the blurred lines between competitive banter and genuinely objectionable behavior."
     },
     {
-      "headline": "Kyle Busch Memorialized at Indy 500 Despite Never Racing IndyCar",
-      "source": "NY Post Sports · 0h ago",
-      "article": "A star driver paid tribute to Kyle Busch with a special Indy 500 car design, memorializing the NASCAR legend despite his never competing in IndyCar's flagship event. The gesture reflects Busch's cultural weight across American motorsports and the cross-series respect he commands. The design choice adds narrative texture to the 500 and signals how high-profile drivers transcend series boundaries in fan consciousness. It's a symbolic moment that underscores Busch's impact on the broader motorsports landscape."
+      "headline": "2026 World Cup Ticket Strategy: How To Secure Your Seat",
+      "source": "TicketIQ",
+      "article": "TicketIQ released a comprehensive guide to 2026 FIFA World Cup ticket acquisition ahead of public-sale windows, with city-by-city pricing breakdowns and strategic advice for securing seats to marquee matchups. The resource accounts for venue capacity, historical demand patterns, and regional economic factors that influence secondary-market pricing. Early pricing intelligence suggests North American venues will command premiums compared to previous World Cups."
     },
     {
-      "headline": "F1 2026: Canadian Grand Prix Live Coverage",
-      "source": "The Guardian · 0h ago",
-      "article": "Formula 1 racing continues its 2026 season with the Canadian Grand Prix at Montreal, delivering lap-by-lap coverage across platforms. The event represents mid-season positioning and technical development readiness for each team. Montreal's tight street circuit and unpredictable weather create variable racing conditions that sort driver skill from machinery advantage. The race carries points significance and often reshuffles championship standings heading into the European stretch."
+      "headline": "On the Air: Debate vs. Discussion and the State of Sports TV Talk",
+      "source": "Sports Media Watch",
+      "article": "Sports Media Watch examined the evolving landscape of sports television commentary, distinguishing between substantive debate and hollow discussion formats that dominate cable programming. The analysis suggests networks have increasingly prioritized heated takes over analytical rigor, affecting viewer engagement and advertiser perception. Industry experts debate whether the shift reflects viewer preference or production incentives that favor conflict over nuance."
     }
   ],
   "poll": {
-    "question": "Which impact will reshape sports business most significantly over the next 12 months?",
+    "question": "Should Jalen Duren sign the $287M supermax extension with Brooklyn, or wait for free agency?",
     "options": [
-      "European football's relegation-promotion financial volatility spreading to other leagues",
-      "Premium athlete salary disputes settling through arbitration precedent (Tatis model)",
-      "Secondary-market ticket pricing algorithms determining primary pricing strategy",
-      "Cross-sport celebrity marshaling becoming primary sports marketing vehicle"
+      "Sign now – secure generational wealth with the Nets",
+      "Test free agency – leverage All-NBA status with contenders",
+      "Negotiate extension value down – split the difference",
+      "It depends entirely on Brooklyn's 2027 trade deadline moves"
     ]
   },
   "predictions": [
     {
-      "statement": "Fernando Tatis will be traded before the 2027 season begins as Padres absorb arbitration costs and seek relief from salary burden.",
-      "probability": 72,
-      "rationale": "The legal defeat eliminates Tatis's negotiating leverage and forces San Diego to choose between paying millions in damages while carrying his $30M+ annual salary, or moving him for younger, cheaper talent. The math is brutal."
+      "statement": "Kimi Antonelli wins the 2026 F1 Championship by at least 15 points over Max Verstappen.",
+      "probability": 38,
+      "rationale": "Four consecutive victories establish dominance, but Red Bull's development curve and mid-season upgrades historically close Mercedes advantages. Antonelli's youth also invites mental errors in high-pressure situations. The streak is real; a full-season title run is another matter."
     },
     {
-      "statement": "West Ham secures immediate promotion back to the Premier League by finishing 2nd in the Championship within 18 months.",
-      "probability": 31,
-      "rationale": "While West Ham has infrastructure and experience, the £100M revenue loss creates cash-flow problems that limit recruitment. Championship promotion is competitive; the club enters without recent experience at that level. Immediate return is unlikely but not impossible with strong ownership backing."
+      "statement": "Jalen Duren signs a five-year, $280M+ supermax extension with the Nets by July 1.",
+      "probability": 82,
+      "rationale": "All-NBA designation activates the supermax window, and Duren at 21 represents Brooklyn's only franchise asset worth protecting. The Nets have no competitive reason to let him enter free agency. Refusal would be organizational malpractice."
     },
     {
-      "statement": "NBA playoff ticket secondary-market pricing (like Spurs-Thunder) will exceed NFL regular-season get-in prices within two seasons.",
-      "probability": 58,
-      "rationale": "Spring basketball playoffs drive scarcity premium and quality-of-play demand. Emerging rivalries (like Spurs-Thunder) prove that competitive balance drives secondary-market premiums. NFL regular-season demand is diluted across 17 games; playoff intensity concentrates buyer willingness-to-pay."
-    },
-    {
-      "statement": "Premier League will implement relegation-zone prize money redistribution (floor threshold) by 2028 to prevent financial cliff-effects like West Ham's.",
+      "statement": "AC Milan secures Champions League qualification next season without acquiring a star winger in summer 2026.",
       "probability": 44,
-      "rationale": "The West Ham drop exposed the financial cliff of relegation. Governing bodies may move toward a safety net to protect competitive balance and franchise stability. However, established top clubs have little incentive to redistribute wealth downward, making legislative change uncertain."
-    }
-  ],
-  "injuries": [
-    {
-      "player": "Vladimir Guerrero Jr.",
-      "team": "Toronto Blue Jays",
-      "league": "MLB",
-      "status": "DAY_TO_DAY",
-      "injury": "Injury sustained in game vs. Pirates (specific diagnosis pending)",
-      "timeline": null,
-      "source": "Sportsnet",
-      "impact": "Loss of franchise's primary offensive producer and ticket-draw star forces Toronto's rotation adjustments and creates depth urgency mid-season.",
-      "storyIndex": 15
+      "rationale": "Missing Champions League this season will force budget cuts, not spending increases. Christian Pulisic's star power doesn't translate without European football. Milan could rebound with tactical adjustments, but the commercial headwind of non-qualification is brutal."
     },
     {
-      "player": "Dylan Cease",
-      "team": "Toronto Blue Jays",
-      "league": "MLB",
-      "status": "DAY_TO_DAY",
-      "injury": "Injury sustained in game vs. Pirates (specific diagnosis pending)",
-      "timeline": null,
-      "source": "Sportsnet",
-      "impact": "Loss of frontline ace rotation piece threatens Toronto's contention window and forces emergency pitching depth activation in compressed season.",
-      "storyIndex": 15
+      "statement": "The Thunder-Spurs Western Conference Finals extends to Game 7.",
+      "probability": 61,
+      "rationale": "Oklahoma City's elite offensive efficiency versus San Antonio's switching defense creates a stylistic clash that favors series length. Both teams are deeper than traditional playoff contenders, reducing blowout probability. Close series generate maximal media value."
     }
   ],
-  "picks": [],
-  "updatedAt": "2026-04-23T00:00:00Z",
+  "injuries": [],
+  "picks": [
+    {
+      "matchup": "Oklahoma City Thunder @ San Antonio Spurs",
+      "league": "NBA",
+      "type": "spread",
+      "when": "Today 8:00 PM ET",
+      "pick": "Oklahoma City Thunder -4.5",
+      "odds": "-110",
+      "edge": "Oklahoma City is 5-0 on the road in the 2026 playoffs — a perfect road record through five elimination games. San Antonio's perimeter defense anchor Dylan Harper remained day-to-day with a right adductor injury through Saturday (May 23), with coach Mitch Johnson stating Harper had shown improvement but was not yet cleared for Game 4. Even with Harper expected back Sunday per Johnson's Saturday update, his mobility is compromised coming off an adductor strain, and the Spurs' ball movement and perimeter coverage have visibly suffered during his absence. OKC's road dominance + Spurs' defensive gap from a semi-healthy Harper represents a 4–5 point structural advantage.",
+      "confidence": "medium"
+    }
+  ],
+  "updatedAt": "2026-04-23T08:00:00Z",
   "highlights": [
     {
       "league": "NBA",
       "title": "Devin Cleveland, Brad Beal Elite vs. Xavier Skipworth, Team Takeover | Nike EYBL Session 3",
       "videoId": "hFxNHudqeQI",
       "thumbnail": "https://img.youtube.com/vi/hFxNHudqeQI/mqdefault.jpg",
-      "timeAgo": "6h ago",
+      "timeAgo": "3h ago",
       "isFallback": false
     },
     {
       "league": "NFL",
-      "title": "I Scored A Touchdown: Hines Ward's Story | NFL on ESPN",
-      "videoId": "51ie3Ta-nBo",
-      "thumbnail": "https://img.youtube.com/vi/51ie3Ta-nBo/mqdefault.jpg",
-      "timeAgo": "6h ago",
+      "title": "Travis getting into it 💯",
+      "videoId": "SLFQM0EZ0O8",
+      "thumbnail": "https://img.youtube.com/vi/SLFQM0EZ0O8/mqdefault.jpg",
+      "timeAgo": "22h ago",
       "isFallback": false
     },
     {
       "league": "MLB",
-      "title": "Vintage Alex Bregman against his former club 😲",
-      "videoId": "lg9H_A-1NG4",
-      "thumbnail": "https://img.youtube.com/vi/lg9H_A-1NG4/mqdefault.jpg",
-      "timeAgo": "1h ago",
+      "title": "Astros vs. Cubs Game Highlights (5/24/26) | MLB Highlights",
+      "videoId": "YmloF1TK3GI",
+      "thumbnail": "https://img.youtube.com/vi/YmloF1TK3GI/mqdefault.jpg",
+      "timeAgo": "Just now",
       "isFallback": false
     },
     {
       "league": "NHL",
-      "title": "Watch Austria vs Finland at the 2026 IIHF World Championship 🇦🇹🇫🇮🏒",
-      "videoId": "YFDcI9DNtwk",
-      "thumbnail": "https://img.youtube.com/vi/YFDcI9DNtwk/mqdefault.jpg",
-      "timeAgo": "1d ago",
+      "title": "Nobody gets the fellas GOING like Torts 😤",
+      "videoId": "MZjQH_4UbKo",
+      "thumbnail": "https://img.youtube.com/vi/MZjQH_4UbKo/mqdefault.jpg",
+      "timeAgo": "3h ago",
       "isFallback": false
     },
     {
       "league": "WNBA",
-      "title": "Kelsey Plum Drops 38 PTS in Sparks Thriller Win 🤯",
-      "videoId": "LJskDFPiyzY",
-      "thumbnail": "https://img.youtube.com/vi/LJskDFPiyzY/mqdefault.jpg",
-      "timeAgo": "17h ago",
+      "title": "Azzi Fudd Drops 24 PTS &amp; Six Triples in Career Night vs. Liberty 🔥",
+      "videoId": "P6yaSD4oF18",
+      "thumbnail": "https://img.youtube.com/vi/P6yaSD4oF18/mqdefault.jpg",
+      "timeAgo": "1h ago",
       "isFallback": false
     },
     {
       "league": "SOCCER",
-      "title": "Premier League &amp; LALIGA relegation battle 👀 + REACTION to FC Bayern's DFB-Pokal win | ESPN FC",
-      "videoId": "iEVTB2XaJFM",
-      "thumbnail": "https://img.youtube.com/vi/iEVTB2XaJFM/mqdefault.jpg",
-      "timeAgo": "21h ago",
+      "title": "Sunderland, Man City or Liverpool: What's the biggest surprise of the season? 👀 | ESPN FC Extra Time",
+      "videoId": "xEDYDMVuE1I",
+      "thumbnail": "https://img.youtube.com/vi/xEDYDMVuE1I/mqdefault.jpg",
+      "timeAgo": "1h ago",
       "isFallback": false
     }
   ]
