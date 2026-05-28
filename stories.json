@@ -2,111 +2,92 @@
   "clusters": [
     {
       "category": "revenue",
+      "importance": 9,
+      "leadHeadline": "SoFi Stadium lawsuit sparks $400 million battle with Rams owner Stan Kroenke",
+      "leadSource": "NY Post Sports · recent",
+      "leadUrl": "https://nypost.com/2026/05/28/sports/inglewood-v-stan-kroenke-sofi-stadium-lawsuit-seeks-400m/",
+      "summary": "Stan Kroenke faces a $400M lawsuit tied to SoFi Stadium, the $5B Inglewood private venue that reshaped NFL stadium economics. The dispute strikes at the heart of modern franchise wealth concentration and the legal frameworks governing mega-projects.",
+      "article": "Stan Kroenke's Hollywood Park empire is the subject of a $400 million lawsuit that threatens to become the most consequential stadium litigation since the Rams owner bankrolled SoFi Stadium's construction in Inglewood. The suit, which centers on contractual disputes and cost overruns tied to the $5 billion venue, arrives as Kroenke continues leveraging the NFL's most valuable real estate asset—one that has made the Rams, Chargers, and his broader development portfolio nearly untouchable revenue engines.\n\nThe lawsuit exposes fractures in how mega-stadium deals are structured when a single owner funds the entire project privately. SoFi opened in 2020 as a monument to Kroenke's capital: no public funding, no tax breaks, full private control. That autonomy bred both success and contention. The $400M dispute likely hinges on cost allocation, change orders, and who bears financial responsibility for construction overruns—the kind of fine print that becomes weaponized when relationships deteriorate.\n\nThe case matters beyond one owner's legal bills. If Kroenke loses, it establishes precedent for how courts value promises made in stadium development agreements. It also signals that even the most successful private stadium projects invite litigation. The Rams won a Super Bowl at SoFi, the venue hosts major events, and its valuation has skyrocketed—yet Kroenke still fights over who paid what. For other owners considering SoFi-style private funding, the lawsuit is a warning: size and success don't prevent disputes.",
+      "tweets": [
+        {
+          "url": "https://twitter.com/hearinladotcom/status/2011181826220437707",
+          "html": "<blockquote class=\"twitter-tweet\" align=\"left\" data-dnt=\"true\" data-theme=\"dark\"><p lang=\"en\" dir=\"ltr\">Rams owner Stan Kroenke is 78 and worth $20 billion. His wife, a Walmart heir, is worth $14 billion. <br><br>Instead of reading <a href=\"https://x.com/LATimesklein?ref_src=twsrc%5Etfw\">@LATimesklein</a> and getting pumped up for Da Bears on Sunday in what should be a great playoff matchup, Stan is busy whining about money he thinks Inglewood…</p>&mdash; Hear in LA (@hearinladotcom) <a href=\"https://x.com/hearinladotcom/status/2011181826220437707?ref_src=twsrc%5Etfw\">January 13, 2026</a></blockquote>\n\n",
+          "author_name": "Hear in LA",
+          "author_url": "https://x.com/hearinladotcom"
+        }
+      ]
+    },
+    {
+      "category": "labor",
       "importance": 8,
-      "leadHeadline": "Serena Williams seemingly ending retirement at 44 years old — with comeback tournament days away",
-      "leadSource": "NY Post Sports · hours ago",
-      "leadUrl": "https://nypost.com/2026/05/28/sports/serena-williams-seemingly-ending-retirement-at-44-years-old-with-comeback-tournament-days-away/",
-      "summary": "Serena Williams is preparing for a competitive return to professional tennis, with discussions underway for a Queen's Club appearance next month. Her last match was the 2022 US Open third round.",
-      "article": "Serena Williams is coming back. The 44-year-old retired champion is in active discussions about a potential return to competitive tennis at Queen's Club next month, according to multiple reports. Williams last played professionally at the 2022 US Open, where she lost to Ajla Tomljanović in the third round—a loss that came after she'd suggested the match might be her final competitive appearance. Three years later, she's ready to reverse that call.\n\nThe timing matters. Queen's Club is a grass-court warmup to Wimbledon, a surface where Williams won seven of her 23 Grand Slam titles. The tournament sits in late June, giving her roughly a month to finalize a return and prepare. It's a controlled re-entry: Queen's isn't a major, the competition level is manageable, and the venue itself carries prestige without the pressure-cooker intensity of a Grand Slam.\n\nFrom a business standpoint, this is massive. Williams remains one of sports' biggest draw names. A Serena comeback tour would generate immediate media revenue, sponsorship interest, and ticket demand at any tournament willing to accommodate her. Queen's attendance would spike. Her appearance alone—regardless of results—moves the needle on viewership and social media engagement.\n\nBut there's skepticism baked in. A 44-year-old returning after three years of inactivity against players who've spent that time competing continuously faces a steep physical reality. The discussions are preliminary; nothing is locked. If she does play, the question isn't whether she'll win—it's whether the moment itself becomes the story, overshadowing both the competition and whatever comes next.",
-      "tweets": [
-        {
-          "url": "https://twitter.com/alkassenglish/status/2021177337723879465",
-          "html": "<blockquote class=\"twitter-tweet\" align=\"left\" data-dnt=\"true\" data-theme=\"dark\"><p lang=\"en\" dir=\"ltr\">Serena Williams has been listed as eligible to return to tennis from February 22 by the sport&#39;s drug-testing body (ITIA), though it remains unclear whether the 23-time Grand Slam champion will make a stunning comeback to the women&#39;s tour.<br><br>The 44-year-old raised eyebrows late in… <a href=\"https://t.co/AgIcto070w\">pic.twitter.com/AgIcto070w</a></p>&mdash; Alkass English (@alkassenglish) <a href=\"https://x.com/alkassenglish/status/2021177337723879465?ref_src=twsrc%5Etfw\">February 10, 2026</a></blockquote>\n\n",
-          "author_name": "Alkass English",
-          "author_url": "https://x.com/alkassenglish"
-        },
-        {
-          "url": "https://twitter.com/BBCNews/status/2016815668163658165",
-          "html": "<blockquote class=\"twitter-tweet\" align=\"left\" data-dnt=\"true\" data-theme=\"dark\"><p lang=\"en\" dir=\"ltr\">Serena Williams refuses to rule out comeback <a href=\"https://t.co/KAbA5lPugU\">https://t.co/KAbA5lPugU</a></p>&mdash; BBC News (UK) (@BBCNews) <a href=\"https://x.com/BBCNews/status/2016815668163658165?ref_src=twsrc%5Etfw\">January 29, 2026</a></blockquote>\n\n",
-          "author_name": "BBC News (UK)",
-          "author_url": "https://x.com/BBCNews"
-        }
-      ]
-    },
-    {
-      "category": "revenue",
-      "importance": 7,
-      "leadHeadline": "Heavy French Open Favorite Jannik Sinner Suffers Second-Round Upset",
-      "leadSource": "Front Office Sports · hours ago",
-      "leadUrl": "https://frontofficesports.com/heavy-french-open-favorite-jannik-sinner-suffers-second-round-upset/",
-      "summary": "World No. 1 Jannik Sinner lost to Cerúndolo in a shock second-round exit at Roland Garros in 91-degree heat. The upset eliminates one of the tournament's biggest draws and viewership drivers.",
-      "article": "Jannik Sinner, the heavy favorite and world No. 1, is out of the French Open after a second-round loss to Cerúndolo. The match was played in brutal 91-degree Fahrenheit heat at Roland Garros, a condition that appeared to break Sinner's rhythm and durability. For a tournament banking on Sinner as a marquee draw, it's a significant revenue hit.\n\nSinner came into the French Open as one of the most bankable players on the calendar. He's the defending Australian Open champion, plays an aggressive game that translates to compelling television, and at 22 has built a global fan base. Roland Garros organizers and broadcasters counted on deep Sinner runs to carry viewership through the second and third weeks. His exit in Round 2 doesn't just remove a player from contention—it flattens the tournament's narrative arc.\n\nThe heat itself became part of the story. At 91 degrees, clay courts become punishing. Players wilt. Movement slows. Rallies shorten. Sinner appeared to lose composure during the match—the physical toll of the conditions mixing with the shock of being pushed to the brink by a lower-seeded opponent. For a player whose brand is built on control and precision, it was an uncharacteristic deterioration.\n\nFrom a media perspective, this opens the draw to less predictable storylines. But unpredictability often means lower star power, and lower star power means softer TV numbers. The tournament loses a player whose name alone could drive casual viewership. European broadcasters built promotional calendars around Sinner's presence. Now they're scrambling to remarket the event around alternative narratives—injury comebacks, dark-horse surges, generational transitions. None of it moves ratings like a defending No. 1 does.",
-      "tweets": [
-        {
-          "url": "https://twitter.com/espn/status/2059998559928287535",
-          "html": "<blockquote class=\"twitter-tweet\" align=\"left\" data-dnt=\"true\" data-theme=\"dark\"><p lang=\"en\" dir=\"ltr\">Top-ranked Jannik Sinner is OUT of the French Open, dropping 18 of the last 20 games en route to a second-round loss to 56th-ranked Juan Manuel Cerundolo.<br><br>He appeared to struggle with the heat at the match, going from one game away from victory to finding himself out of the… <a href=\"https://t.co/mfHfHjRwpp\">pic.twitter.com/mfHfHjRwpp</a></p>&mdash; ESPN (@espn) <a href=\"https://x.com/espn/status/2059998559928287535?ref_src=twsrc%5Etfw\">May 28, 2026</a></blockquote>\n\n",
-          "author_name": "ESPN",
-          "author_url": "https://x.com/espn"
-        },
-        {
-          "url": "https://twitter.com/TheTennisLetter/status/2059974211586891892",
-          "html": "<blockquote class=\"twitter-tweet\" align=\"left\" data-dnt=\"true\" data-theme=\"dark\"><p lang=\"en\" dir=\"ltr\">Jannik Sinner is being seen by the physio in the 3rd set against Cerundolo at Roland Garros. <br><br>He was up 5-1. <br><br>The score is now 5-4, 0-40 with Jannik serving for the match…<br><br>Jannik: “If I give time away, how does it work now? I can’t do it. I cannot wait.”<br><br>Umpire: “if you… <a href=\"https://t.co/J4XUcSRTPK\">pic.twitter.com/J4XUcSRTPK</a></p>&mdash; The Tennis Letter (@TheTennisLetter) <a href=\"https://x.com/TheTennisLetter/status/2059974211586891892?ref_src=twsrc%5Etfw\">May 28, 2026</a></blockquote>\n\n",
-          "author_name": "The Tennis Letter",
-          "author_url": "https://x.com/TheTennisLetter"
-        }
-      ]
-    },
-    {
-      "category": "contracts",
-      "importance": 7,
-      "leadHeadline": "NBA Finals predictions: Can the Knicks hit first in upcoming series?",
-      "leadSource": "NY Post Sports · hours ago",
-      "leadUrl": "https://nypost.com/2026/05/28/betting/nba-finals-predictions-can-the-knicks-hit-first-in-upcoming-series/",
-      "summary": "The New York Knicks are heading to the NBA Finals, setting up a championship matchup with major implications for the league's flagship media market and Madison Square Garden's ownership narrative.",
-      "article": "The Knicks have punched their ticket to the NBA Finals. New York will face its opponent in a series that carries more weight than a typical championship run—because of James Dolan and Madison Square Garden.\n\nThe Knicks' Finals appearance is the franchise's first since 2000, a 26-year drought that defines modern New York basketball. From a revenue standpoint, it's enormous. MSG gets Finals crowds, hospitality spend at an all-time high, merchandise sales spike nationally. Yes, New York is already a wealthy market, but Finals appearances drive suburban and international demand. Ticket prices will reflect that. Local and national media rights holders will see ratings bumps. Sponsorships tied to playoff runs suddenly become worth more.\n\nThe complicated part: James Dolan ownership. Dolan has spent two decades making the Knicks an organizational mess before recent front office changes began reversing course. Now, as the Finals arrive, he gets credit and capital he hasn't earned. The narrative becomes messier—a Finals run legitimizes an owner most New York sports fans have spent years criticizing. From a pure business angle, though, Dolan benefits enormously. A championship would be worth hundreds of millions in franchise valuation alone, not counting the immediate revenue surges from Finals tickets, ancillary spending, and repeat national TV appearances.\n\nThe basketball itself matters too. Can the Knicks impose their style early? Game 1 could set a tone. But beneath the court-level story sits a dollars-and-cents reality: New York is back in the Finals, and every stakeholder in the sports business ecosystem—from broadcasters to sponsors to the league office—is counting on that momentum.",
-      "tweets": [
-        {
-          "url": "https://twitter.com/darrenrovell/status/2059275627727884336",
-          "html": "<blockquote class=\"twitter-tweet\" align=\"left\" data-dnt=\"true\" data-theme=\"dark\"><p lang=\"en\" dir=\"ltr\">Knicks odds to win 2026 NBA Championship<br><br>Opening of Season: 7/1<br><br>After Nuggets Trade: 10/1<br><br>December 3, 2025: 16/1<br><br>March 10, 2026: 17/1<br><br>April 13, 2026: 18/1<br><br>1st round: 22/1<br><br>EC Semis: 9/1<br><br>ECF: 5.50/1<br><br>Current Odds: 2.6/1<br><br>(Source: <a href=\"https://x.com/BetMGM?ref_src=twsrc%5Etfw\">@BetMGM</a>)</p>&mdash; Darren Rovell (@darrenrovell) <a href=\"https://x.com/darrenrovell/status/2059275627727884336?ref_src=twsrc%5Etfw\">May 26, 2026</a></blockquote>\n\n",
-          "author_name": "Darren Rovell",
-          "author_url": "https://x.com/darrenrovell"
-        },
-        {
-          "url": "https://twitter.com/esidery/status/2059398947551006899",
-          "html": "<blockquote class=\"twitter-tweet\" align=\"left\" data-dnt=\"true\" data-theme=\"dark\"><p lang=\"en\" dir=\"ltr\">Polymarket’s odds currently favor the Knicks in a potential Finals matchup vs. the Spurs, but project a blowout series against the Thunder.<br><br>OKC remains the strong betting favorite to repeat as NBA champions, but a swing Game 5 versus San Antonio awaits tonight. <a href=\"https://t.co/WD3psaTQ3L\">https://t.co/WD3psaTQ3L</a> <a href=\"https://t.co/wa9u3JfI3r\">pic.twitter.com/wa9u3JfI3r</a></p>&mdash; Evan Sidery (@esidery) <a href=\"https://x.com/esidery/status/2059398947551006899?ref_src=twsrc%5Etfw\">May 26, 2026</a></blockquote>\n\n",
-          "author_name": "Evan Sidery",
-          "author_url": "https://x.com/esidery"
-        }
-      ]
-    },
-    {
-      "category": "media",
-      "importance": 6,
-      "leadHeadline": "Paramount-WBD, FIFA World Cup, NFL and more",
-      "leadSource": "Sports Media Watch · hours ago",
-      "leadUrl": "https://www.sportsmediawatch.com/2026/05/paramount-wbd-merger-fox-fifa-world-cup-nfl-schedule-expansion/",
-      "summary": "Paramount is reportedly approaching merger discussions with WBD while FIFA World Cup media rights remain in flux, with implications for NFL broadcasting strategy going forward.",
-      "article": "The media landscape is reshuffling again. Paramount is reportedly in preliminary discussions with Warner Bros. Discovery about a potential merger—a move that would reshape the sports media hierarchy and consolidate two major rights holders into a single entity. The timing coincides with FIFA World Cup media rights negotiations, creating a parallel story about who will hold premium soccer content in the U.S. market.\n\nFor sports properties, the Paramount-WBD dynamic matters immediately. Both companies hold significant sports portfolios. Paramount has CBS, which carries NFL games and NCAA March Madness. WBD owns TNT and HBO Max, which have NBA and golf rights. A merger would theoretically create a unified platform with leverage across multiple leagues. It could reshape bidding dynamics for upcoming rights auctions, particularly the NFL's next round of package negotiations set for the late 2020s.\n\nThe World Cup angle adds urgency. FIFA is evaluating media rights for 2026 and beyond. Traditionally, U.S. broadcasters bid as separate entities. A merged Paramount-WBD would enter those negotiations as a consolidated buyer with more financial heft and platform flexibility. They could offer FIFA integrated streaming, cable, and premium-tier options that smaller competitors can't match.\n\nNFL stakeholders are watching closely. The league collects roughly $14 billion annually from media rights across all broadcasters. If Paramount and WBD merge, the consolidated company becomes an even more critical partner. It also raises questions about ESPN's dominance—if two major competitors consolidate, Disney's sports division faces a more unified competitor than before.\n\nNothing is final. These are reportedly early discussions. But consolidation in sports media distribution rarely stops once it starts.",
+      "leadHeadline": "Player Advocates Rip Cantwell-Cruz Bill, but House Counsel Sees Upside",
+      "leadSource": "Sportico · recent",
+      "leadUrl": "https://www.sportico.com/leagues/college-sports/2026/cantwell-cruz-college-sports-act-house-ncaa-plaintiffs-1234901691/",
+      "summary": "The Protect College Sports Act of 2026, introduced by Sens. Cantwell and Cruz, has already drawn fire from player advocates who say it doesn't go far enough on NIL rights. The House is considering support despite opposition from athletes pushing for stronger guardrails.",
+      "article": "The Protect College Sports Act of 2026, introduced Wednesday by Sens. Maria Cantwell (D-Wash.) and Ted Cruz (R-Texas), has ignited a collision between legislative intent and player-advocate demands before the bill even reaches committee votes. Player advocates are already condemning the legislation, arguing it codifies NIL restrictions rather than expanding athlete rights—the opposite of what athletes expected from a federal framework.\n\nThe bill's central provision creates a national floor for name, image, and likeness deals while explicitly permitting state-level caps on athlete compensation. That flexibility was intended as a compromise: federal regulation without total deference to athlete demands. But player advocates see it as a bait-and-switch. By allowing states to impose their own NIL ceilings, the bill functionally permits colleges and conferences to suppress earnings under the guise of state sovereignty.\n\nHouse Counsel has flagged potential upside for the bill, viewing it as a workable compromise that could pass bipartisan muster. That institutional support matters—House backing would accelerate floor debate and potentially force the Senate to reconcile competing drafts.\n\nThe legislative path forward hinges on whether player advocates can force amendments before a vote. If the bill moves unchanged, it signals Congress prioritizes collegiate sports stability over athlete compensation growth. If advocates extract concessions—higher NIL floors, stricter state restrictions—it reshapes how athletes monetize their college careers beginning in 2027.",
       "tweets": []
     },
     {
       "category": "revenue",
-      "importance": 5,
+      "importance": 7,
       "leadHeadline": "How To Find The Cheapest New York Knicks Playoff Tickets",
-      "leadSource": "TicketIQ · hours ago",
+      "leadSource": "TicketIQ · recent",
       "leadUrl": "https://blog.ticketiq.com/blog/how-to-find-the-cheapest-knicks-playoff-tickets",
-      "summary": "Secondary market data on Knicks playoff ticket pricing shows the Finals run is driving up-market demand and reshaping availability. Get-in prices are elevated as inventory thins.",
-      "article": "The secondary market for Knicks playoff tickets is tightening. As New York advances toward the Finals, ticket availability on resale platforms is compressing while prices at all tiers climb. For fans looking to get into Madison Square Garden, the get-in price on TicketIQ's tracking shows the cheap-seat floor has risen significantly compared to earlier playoff rounds.\n\nThis is a textbook revenue dynamics story. Early-round playoff tickets had deeper inventory at lower prices because demand was uncertain. Now that the Knicks are Finals-bound, casual fans who passed on earlier matchups are rushing secondary markets. Supply shrank. Demand exploded. Prices rose.\n\nThe cheapest available seats—the true get-in prices—are now running substantially higher than they were two weeks ago. Fans pricing sensitivity has shifted. They're now asking not \"Can I afford this?\" but \"Can I afford to miss this?\" MSG doesn't need to move inventory anymore; they can let price discovery work upward.\n\nThe strategic angle: TicketIQ's reporting on this pricing data serves a dual purpose. For fans, it's a guide to the secondary market. For the sports business community, it's real-time evidence of demand elasticity. Knicks Finals appearances drive ticket value higher than almost any other playoff matchup—the only comparable bump would be a Warriors-Celtics rematch or a LeBron Finals run. New York's size, the Dolan narrative, and the 26-year Finals drought all compound.\n\nFor MSG as an operator, this is the optimal revenue moment. Playoff runs generate immediate cash spikes via ticket sales, but they also set the floor for next season's seat license pricing and season-ticket rates. What fans paid to get into the Finals becomes the basis for what they'll pay to ensure seats next year.",
-      "tweets": []
+      "summary": "TicketIQ tracks Knicks playoff ticket pricing and availability, revealing get-in prices and secondary market trends as New York advances. The data offers insight into playoff demand elasticity in a major market.",
+      "article": "The Knicks' playoff run has triggered predictable secondary market dynamics: get-in prices spiking, average list prices climbing, and inventory tightening as each round advances. TicketIQ's tracking reveals that Knicks playoff tickets at Madison Square Garden follow traditional scarcity curves—early round games show softer floors, later rounds command premiums.\n\nTicketIQ recommends scanning StubHub, SeatGeek, and Ticketmaster's resale channels for sub-face-value deals, particularly for upper-deck seating and less competitive matchups. Weekday games consistently underperform weekend games, meaning Tuesday or Wednesday playoff contests offer better value than Friday or Saturday equivalents—a pattern that holds across NBA markets.\n\nThe Knicks' presence in deep playoffs is a revenue windfall for Madison Square Garden. Higher ticket prices feed the gate, and sellout crowds boost sponsorship activation. MSG's strategic pricing—neither capping supply nor flooding the market—suggests management is optimizing revenue per seat rather than maximizing attendance. That approach works when demand exceeds supply, as it does in New York's current playoff window.\n\nFor fans seeking discounts, the play is clear: buy weekday games, buy upper-level inventory, buy earlier in rounds before elimination narrows the field. Secondary markets reward patience; buyers who wait 48 hours before tipoff often capture deals as sellers dump inventory to avoid total loss.",
+      "tweets": [
+        {
+          "url": "https://twitter.com/NBA_NewYork/status/2042616255232786503",
+          "html": "<blockquote class=\"twitter-tweet\" align=\"left\" data-dnt=\"true\" data-theme=\"dark\"><p lang=\"en\" dir=\"ltr\">Knicks playoff tickets on sale to general public with cheapest $376 on Ticketmaster <a href=\"https://t.co/8tDzoFEB7l\">pic.twitter.com/8tDzoFEB7l</a></p>&mdash; New York Basketball (@NBA_NewYork) <a href=\"https://x.com/NBA_NewYork/status/2042616255232786503?ref_src=twsrc%5Etfw\">April 10, 2026</a></blockquote>\n\n",
+          "author_name": "New York Basketball",
+          "author_url": "https://x.com/NBA_NewYork"
+        },
+        {
+          "url": "https://twitter.com/NBA_NewYork/status/2043864235843723625",
+          "html": "<blockquote class=\"twitter-tweet\" align=\"left\" data-dnt=\"true\" data-theme=\"dark\"><p lang=\"en\" dir=\"ltr\">Knicks playoff tickets $74 <br><br>Games 3 and 4 in Atlanta<a href=\"https://t.co/m63nA28v5x\">https://t.co/m63nA28v5x</a> <br>$20 off with our Vivid code NBANY20 (&gt;$200 &amp; new customer) <a href=\"https://t.co/ELwrJpDH2X\">pic.twitter.com/ELwrJpDH2X</a></p>&mdash; New York Basketball (@NBA_NewYork) <a href=\"https://x.com/NBA_NewYork/status/2043864235843723625?ref_src=twsrc%5Etfw\">April 14, 2026</a></blockquote>\n\n",
+          "author_name": "New York Basketball",
+          "author_url": "https://x.com/NBA_NewYork"
+        }
+      ]
     },
     {
-      "category": "media",
-      "importance": 4,
-      "leadHeadline": "Underdog Stands by Shai Gilgeous-Alexander Promo Despite Cease and Desist",
-      "leadSource": "Front Office Sports · hours ago",
-      "leadUrl": "https://frontofficesports.com/underdog-stands-by-shai-gilgeous-alexander-promo-despite-cease-and-desist/",
-      "summary": "Sportsbook Underdog is defending its promotional board game featuring Shai Gilgeous-Alexander against legal pressure from SGA's attorneys, creating a clash between sports betting marketing and athlete publicity rights.",
-      "article": "Underdog, the sportsbook operator, is refusing to back down from a promotional campaign featuring Shai Gilgeous-Alexander despite cease-and-desist demands from his legal team. The promotion centers on a board game that apparently takes comedic aim at the Thunder star—a playful jab that SGA's attorneys claim violates his publicity rights and has demanded be \"destroyed.\"\n\nThis is a boundary-testing moment in sports betting marketing. As sportsbooks have scaled up spending over the past three years, they've become increasingly aggressive with athlete-adjacent content. Underdog's position suggests they believe parody and comedic reference fall under fair-use protections. SGA's legal team disagrees, arguing that using his name and likeness—even in jest—in a promotional context requires consent and compensation.\n\nThe stakes are relatively contained in dollar terms. This isn't a multi-million-dollar rights negotiation. But it's a signal about how the sportsbook industry plans to operate at the margins of athlete licensing. If Underdog prevails in standing its ground, other sportsbooks will likely test similar promotional boundaries. If SGA's legal team forces destruction and changes, it sets a precedent that sportsbooks need explicit approval even for minor comedic references.\n\nFrom an athlete perspective, SGA (and his team) is drawing a line. Stars have increasingly monetized their likenesses through selective partnerships and sponsorships. A sportsbook using his name and image for promotion without compensation or approval erodes that value. The cease-and-desist is both a legal move and a market signal: if you want to use me, you negotiate.\n\nUnderdog's public stance—that they're standing by the promotion—suggests confidence in their legal position. But this dispute will likely resolve in settlement, not court. Both sides benefit from avoiding litigation costs. The real question is whether Underdog's stance influences other sportsbooks' approach to athlete marketing.",
+      "category": "revenue",
+      "importance": 7,
+      "leadHeadline": "Indy 500 viewership dips, but still nears high, in year two on FOX",
+      "leadSource": "Sports Media Watch · recent",
+      "leadUrl": "https://www.sportsmediawatch.com/2026/05/indy-500-viewership-down-nears-high/",
+      "summary": "The Indianapolis 500 drew strong viewership on FOX in its second year on the network, though it declined slightly from last year's debut. The event remains a major media property despite the dip.",
+      "article": "The Indianapolis 500 posted solid viewership numbers on FOX in year two of the network's broadcast deal, though the audience declined modestly from its 2025 debut on the network. Despite the dip, the race maintained its position as an anchor event for FOX's motorsports portfolio and remains one of American sports' most-watched annual events.\n\nThe viewership trajectory matters because FOX paid top dollar for IndyCar's flagship event. A sustained audience, even if down year-over-year, validates the network's investment and supports IndyCar's claim that the sport has secured stable media footing after years of fragmentation across NBC, ABC, and cable channels. FOX's multiplatform distribution—broadcast, streaming, and cable—hedges against traditional TV decline and reaches younger audiences cord-cutting makes harder to capture through linear TV alone.\n\nThe Indy 500's resilience also reflects the event's cultural footprint beyond hardcore racing fans. The race draws casual viewers for its spectacle, celebrity attendance, and historic weight. That crossover appeal makes it valuable to networks seeking prestige events that move needle metrics beyond their core sport's fanbase.\n\nThe modest decline doesn't threaten FOX's confidence in the partnership. What matters more is the floor—maintaining eight-digit viewership confirms IndyCar isn't shrinking into obscurity. For IndyCar leadership, the message is simple: hold FOX's viewership at this level through competitive racing and smart broadcast presentation, and the next media rights negotiation will be easier than the last one.",
       "tweets": []
     },
     {
       "category": "revenue",
-      "importance": 3,
-      "leadHeadline": "2026 NFL Schedule Released: Biggest Matchups, Thanksgiving Games & Early Ticket Prices",
-      "leadSource": "TicketIQ · hours ago",
-      "leadUrl": "https://blog.ticketiq.com/blog/nfl-tickets-prices-trends",
-      "summary": "The 2026 NFL schedule is out, and secondary market ticket data is already showing pricing patterns for marquee matchups and Thanksgiving Day games. Early indicators suggest strong demand for traditional rivalry matchups.",
-      "article": "The 2026 NFL schedule is live, and ticket markets are already reflecting demand. TicketIQ's data on early secondary-market pricing shows the expected pattern: marquee matchups (division rivals, Super Bowl rematches, rookie QB debuts) are pricing at premiums, while mid-season non-division games are tracking lower. Thanksgiving Day games, as always, are pricing above-average due to scarcity and cultural significance.\n\nFor the NFL's media and sponsorship partners, schedule release is a critical moment. Networks use the schedule to plan promotional calendars, set broadcast slate expectations, and signal marquee moments to advertisers. Premium matchups—your opening-week slate, Thanksgiving games, Sunday Night Football headliners, playoff-positioned teams—command higher advertising rates because they deliver larger audiences.\n\nTicket pricing data is the first real signal of fan demand. By tracking secondary-market prices immediately after schedule release, we get unfiltered sentiment about which games matter most to ticket-holders. Travel-dependent matchups (small-market teams visiting large markets) typically show early strength. Divisional rivalries with recent playoff history price higher. First-time-ever or nostalgia matchups spike based on narrative.\n\nWhat TicketIQ's pricing data reveals is which games the casual audience actually cares about—not which games the league thinks should matter. This information gets fed back to broadcasters, sponsors, and eventually to the league for future scheduling considerations. A game that prices weak on the secondary market early often signals softer TV performance down the line.\n\nThe 2026 schedule's release also triggers the regular season's first wave of merchandise orders, premium seating packages, and local radio promotions. From a revenue perspective, it's one of the biggest single moments outside of the draft itself.",
+      "importance": 6,
+      "leadHeadline": "Sacramento's Bid Intensifies MLB's Complex Expansion Derby",
+      "leadSource": "Front Office Sports · recent",
+      "leadUrl": "https://frontofficesports.com/sacramentos-bid-intensifies-mlbs-complex-expansion-derby/",
+      "summary": "Sacramento formally unveiled its MLB expansion bid, intensifying competition among candidate cities. The California capital's entry adds complexity to an already crowded pursuit of baseball's next franchises.",
+      "article": "Sacramento made its expansion bid official, joining Nashville, Charlotte, and other contenders in MLB's increasingly theatrical pursuit of new franchises. The California capital's formal presentation underscores a fundamental truth about baseball's expansion calculus: every candidate city can demonstrate market size, stadium infrastructure, and local investment appetite. The question is whether MLB believes any of them justify diluting the sport's value across 32 teams.\n\nSacramento's pitch rests on the region's population growth, tech sector wealth, and the promise of a downtown ballpark funded by local investors. Those credentials are solid but not unique. Charlotte has similar demographics and deeper corporate funding. Nashville has emerged as a growth market with younger demographics. The competition has intensified because expansion, once treated as a once-per-decade event, now feels inevitable—and cities want in before MLB closes the window.\n\nThe timing is critical. MLB's current media rights cycle (expiring 2028) will determine how much new franchises can expect from broadcast revenue. If the next media deal disappoints compared to prior growth, expansion loses financial appeal. If it exceeds expectations, MLB accelerates the timeline to capitalize on growth.\n\nSacramento's bid is credible. But so are four others. That surplus of viable candidates actually works against expansion momentum. Commissioner Rob Manfred has shown no urgency to expand. He knows that each new team dilutes existing franchises' market value and complicates labor negotiations. Sacramento's entry makes the eventual decision harder, not easier—and that calculus may be precisely why MLB continues to delay.",
+      "tweets": []
+    },
+    {
+      "category": "revenue",
+      "importance": 6,
+      "leadHeadline": "Gucci Is Making a Big Bet on Sports",
+      "leadSource": "Front Office Sports · recent",
+      "leadUrl": "https://frontofficesports.com/gucci-is-making-a-big-bet-on-sports/",
+      "summary": "Gucci announced it will become the title sponsor for Alpine Formula One team starting next year, marking a major fashion-sport convergence. The deal signals luxury brands' escalating interest in motorsports' affluent demographics.",
+      "article": "Gucci will serve as title sponsor for Alpine Formula One team beginning in 2026, a partnership that reflects luxury fashion's accelerating pivot toward motorsports and high-net-worth sports audiences. The deal, announced by Gucci and the French team, represents one of the largest fashion-house F1 sponsorships and signals that heritage luxury brands now view racing teams as premium placement alongside traditional retail and heritage touchpoints.\n\nFormula One has become the sport of choice for LVMH group brands and competitors seeking affluent, globally mobile audiences. Gucci's entry competes with existing luxury presences—Ferrari (owned by LVMH competitor Agnelli family), Mercedes' German heritage positioning, and McLaren's tech-adjacent narrative. Each team uses luxury partnerships to justify premium pricing for merchandise, experiences, and VIP hospitality. Alpine's partnership with Gucci elevates the French team's brand profile in markets where Italian and German teams dominate perception.\n\nThe sponsorship structure likely involves both cash and equity. Gucci gets branded trackside visibility, hospitality activation, and merchandise cross-promotion. Alpine gains capital to fund its competitive program and gains association with luxury positioning—critical for a team fighting to regain relevance after recent struggles.\n\nFor F1, the Gucci deal validates the sport's expansion into luxury markets. Racing teams are now positioned as lifestyle assets, not just competitive franchises. That positioning justifies higher sponsorship fees and enables teams to compete for capital against traditional entertainment properties. Gucci's commitment suggests F1's appeal to ultra-high-net-worth audiences continues to expand, even as the sport works to grow mainstream viewership.",
+      "tweets": []
+    },
+    {
+      "category": "media",
+      "importance": 5,
+      "leadHeadline": "Squash Giant Trinity College Adds NCAA Fencing to Bolster Budget",
+      "leadSource": "Sportico · recent",
+      "leadUrl": "https://www.sportico.com/leagues/college-sports/2026/trinity-college-adding-fencing-to-athletics-program-1234901658/",
+      "summary": "Trinity College, historically dominant in NCAA squash, has added NCAA-sanctioned fencing to its athletics portfolio. The move reflects how non-traditional sports programs are using NCAA sponsorship to diversify revenue and strengthen budget resiliency.",
+      "article": "Trinity College formalized NCAA sponsorship for its fencing program, expanding its athletics portfolio beyond squash—the sport that has defined the school's athletic identity for decades. The move positions Trinity to access NCAA tournament revenue, media rights distributions, and NCAA-sponsored sponsorship categories that non-NCAA sports cannot. Squash, despite Trinity's 18 men's national championships, generates limited revenue because the sport exists outside the NCAA framework.\n\nBy adding fencing as an NCAA sport while maintaining squash as a non-NCAA program, Trinity hedges its athletics investment. Fencing provides a pathway to NCAA distributions and broader sponsorship reach. Squash maintains its elite standing without diluting resources across NCAA competition requirements. The dual strategy reflects how institutions are navigating sports sponsorship fragmentation: NCAA provides infrastructure and revenue distribution; non-NCAA sports provide niche dominance and recruiting advantage.\n\nTrinity's decision also signals pressure on non-NCAA programs to demonstrate revenue impact. If squash generated eight-figure distributions like NCAA basketball or football, Trinity would lobby to bring squash into the NCAA. Instead, the school accepts squash's NCAA-outside status while building NCAA-eligible programs alongside it. This two-track approach is spreading among Division III schools seeking to maximize revenue from limited athletic budgets.\n\nThe fencing addition doesn't diminish squash's prestige. Trinity will continue winning squash nationals. But the NCAA move acknowledges that prestige alone doesn't fund facilities, coaching, or travel. NCAA-sponsored sports distribute media rights revenue and provide institutional stability that non-NCAA programs cannot match.",
       "tweets": []
     }
   ],
@@ -2430,70 +2411,82 @@
     ],
     "source": "espn"
   },
-  "deals": [],
+  "deals": [
+    {
+      "type": "sponsorship",
+      "parties": "Gucci ⇄ Alpine Formula One",
+      "value_usd": null,
+      "term_years": null,
+      "league": "OTHER",
+      "headline": "Gucci becomes title sponsor for Alpine Formula One team",
+      "storyIndex": 0,
+      "blurb": "Luxury fashion house Gucci will serve as title sponsor for Alpine F1 team beginning 2026.",
+      "capturedAt": "2026-05-28T17:58:38.945Z"
+    }
+  ],
   "ratings": [],
   "ticket_prices": [],
   "sidebar": [
     {
-      "headline": "World Cup Ticketing Strategy Tested by USMNT Opener Availability",
-      "source": "Sportico",
-      "article": "The U.S. Men's National Team's World Cup opener on June 12 has thousands of tickets still available, suggesting FIFA's aggressive dynamic pricing and official channel distribution strategy is creating unusual secondary-market conditions. Historically, World Cup matches sell out weeks in advance, but modern fan-purchase patterns—waiting for secondary-market drops, international travel complications, and time-zone considerations—are flattening early demand. For broadcasters and sponsors banking on scarcity-driven urgency, it's a mixed signal about how ticket velocity translates to TV engagement."
+      "headline": "Claude Lemieux, four-time Stanley Cup champion, dead at 60",
+      "source": "NY Post Sports",
+      "article": "Claude Lemieux, the Quebec native who won four Stanley Cups and became a Devils icon during New Jersey's 1995 Cup run, has died at 60. Lemieux was in attendance as Montreal hosted Carolina in Game 3 of a recent playoff series. His career spanned the 1980s and 1990s, a period when he won Cups with Montreal (1986), New Jersey (1995, 2000, 2003), and established himself as one of hockey's most feared playoff competitors. His death removes a celebrated voice from the sport's current landscape."
     },
     {
-      "headline": "Anthony Gordon's Barcelona Move Reshapes Premier League Forward Market",
+      "headline": "Jannik Sinner exits French Open after injury-hampered struggle",
       "source": "BBC Sport",
-      "article": "Anthony Gordon's transfer to Barcelona, paired with his goal-scoring resurgence in Europe, is raising questions about how English clubs value attacking talent. Gordon's speed, aggression, and work ethic suggest there's untapped upside in the 22-year-old, a signal that Premier League suitors may have underestimated him. For Barcelona, it's a low-cost acquisition proving dividends. For Newcastle and English clubs, it's a lost asset gaining value elsewhere—a recurring frustration in the modern transfer market where European giants identify undervalued English talent before domestic rivals recognize its worth."
+      "article": "Jannik Sinner's bid for a first French Open title and career Grand Slam completion ended after an injury-hampered five-set exit. The world No. 1, who had won three straight events before Roland Garros, cited fatigue rather than extreme heat as the culprit. Sinner's tournament exit marks a rare setback for tennis' dominant player and removes a major storyline from the second week of the event."
     },
     {
-      "headline": "Gerrit Cole Returns, but Yankees Rotation Health Remains Fragile",
+      "headline": "Mauricio Pochettino in talks with Milan over head coach's role",
+      "source": "The Guardian",
+      "article": "USMNT head coach Mauricio Pochettino has drawn interest from AC Milan over a potential head coaching position, according to Milan's CEO. Pochettino remains focused on leading the U.S. through World Cup camp, which opens after squad selection Tuesday. The timing of Milan's overture signals Pochettino's stock has risen globally despite USMNT's mixed recent results. A move to Milan would represent a significant step up in club competition."
+    },
+    {
+      "headline": "Josh Kroenke says Covid gave Arsenal space to revive under Arteta",
+      "source": "BBC Sport",
+      "article": "Arsenal co-chair Josh Kroenke credited the Covid-era behind-closed-doors football with giving manager Mikel Arteta the \"space\" necessary to rebuild the Gunners. Kroenke's comments suggest that early pandemic conditions—fewer media scrutiny, reduced fan pressure, and continuity of personnel—allowed Arteta time to implement his system without immediate public judgment. The observation underscores how external circumstances shaped managerial success."
+    },
+    {
+      "headline": "PSG faces Arsenal in 2026 UEFA Champions League final",
       "source": "CBS Sports",
-      "article": "Gerrit Cole is back for the Yankees, but the rotation's depth remains concerning. Jose Soriano is potentially returning as well, which theoretically bolsters the staff but also signals that New York has been operating with a shorthanded pitching unit. For a franchise banking on October success, rotation health in June isn't a luxury—it's essential infrastructure. The Yankees entered the season with Cole as their ace and presumed anchor. If he's battling other arms' availability now, depth is thinner than planning suggested. Durability across the rotation becomes the story."
+      "article": "The 2026 UEFA Champions League final will pit PSG against Arsenal on Saturday, with expert Martin Green locking in his soccer best bets for the matchup on CBS and Paramount+. The final brings together two of Europe's highest-spending clubs in a meeting that carries significant continental prestige. Both teams have invested heavily to reach this stage, making the final a referendum on modern transfer strategy and managerial cohesion."
     },
     {
-      "headline": "GeoSports Trivia Game Rides Viral Wave to Cultural Relevance",
-      "source": "Sportico",
-      "article": "GeoSports, a geography-trivia game with sports flavor, transitioned from indie project to viral phenomenon. The app's rapid growth speaks to how niche content—sports trivia without mainstream broadcast backing—can reach critical mass through social media and word-of-mouth. For media companies, it's a reminder that fan engagement exists beyond traditional broadcasting. Casual sports fans are willing to spend time and money on novel sports content that isn't dependent on live games or network schedules. It's a small success story, but it indicates how digital-native sports entertainment captures attention differently than legacy media."
-    },
-    {
-      "headline": "2026 MLB Draft Shaping Around Consensus Top Prospect Roch Cholowsky",
-      "source": "CBS Sports",
-      "article": "UCLA's Roch Cholowsky is the consensus No. 1 prospect heading into the 2026 MLB Draft, with scouts projecting him as a future All-Star. His profile suggests he'll be an early-round lock, establishing the draft's opening narrative. For MLB and ESPN, which broadcasts the draft, a consensus top pick creates clarity for audience preview coverage. The NCAA tournament becomes the pre-draft showcase, with Cholowsky's performance under pressure defining early-broadcast storytelling. Prospect clarity drives engagement; mystery drafts underperform."
-    },
-    {
-      "headline": "MLB.TV Bracing for Next Round of Streaming Changes",
-      "source": "Sports Media Watch",
-      "article": "MLB.TV is preparing for its next evolutionary phase as the league reckons with streaming's impact on broadcast logistics and revenue. The service has been MLB's digital anchor, but cord-cutting and changing consumption habits are forcing fresh strategic decisions. Apple TV+ has exclusive windows. Amazon has select games. MLB.TV itself has regional restrictions. For the league, managing multiple distribution partners while maintaining fan accessibility creates operational complexity. The coming changes suggest MLB is still calibrating how to monetize streaming while protecting traditional broadcast revenue."
+      "headline": "2026 NFL schedule released with pricing and playoff implications",
+      "source": "TicketIQ",
+      "article": "TicketIQ released early ticket pricing data following the 2026 NFL schedule announcement, tracking get-in prices across marquee matchups. The data reveals which games command premium pricing and which offer secondary-market value. Thanksgiving games, division rivalries, and playoff positioning tilts drive demand, with prices trending upward from schedule release through December."
     }
   ],
   "poll": {
-    "question": "Will Serena Williams' Queen's Club comeback actually happen, or will it remain in discussions?",
+    "question": "Which candidate city has the strongest MLB expansion bid?",
     "options": [
-      "She plays at Queen's Club and competes at Wimbledon afterward",
-      "She plays at Queen's Club but skips Wimbledon",
-      "Discussions fall through; no tournament appearance in 2026",
-      "She announces a comeback but withdraws before competing"
+      "Sacramento",
+      "Nashville",
+      "Charlotte",
+      "Too early to judge—need more clarity on MLB's timeline"
     ]
   },
   "predictions": [
     {
-      "statement": "The Knicks win Game 1 of the NBA Finals.",
+      "statement": "The Protect College Sports Act passes the House before 2027 with amendments strengthening NIL floors.",
+      "probability": 62,
+      "rationale": "House Counsel's support signals institutional appetite for compromise. Player advocates' early opposition suggests they can extract amendments before floor votes. Bipartisan sponsorship (Cantwell-Cruz) creates political incentive to pass something, even if imperfect."
+    },
+    {
+      "statement": "Gucci's Alpine sponsorship triggers 2-3 additional luxury fashion deals with F1 teams by year-end 2026.",
       "probability": 58,
-      "rationale": "Home-court advantage at MSG is real. New York crowds are the loudest in the league, and playoff intensity at the Garden historically favors the Knicks. They've momentum from reaching the Finals. But fatigue and opponent quality matter equally. 58% reflects genuine win probability tempered by Finals-level competition."
+      "rationale": "Gucci's entry opens the door; competitors (LVMH, Kering) can't ignore F1's UHNW audience. Racing teams are desperate for capital post-budget-cap compression. Luxury brands have proven ROI expectations from motorsports partnerships and will follow market signal."
     },
     {
-      "statement": "Paramount and WBD complete a merger within 18 months.",
-      "probability": 42,
-      "rationale": "Preliminary discussions are often just that—preliminary. Major media mergers face regulatory scrutiny, shareholder approval, and culture-clashing. The strategic logic is sound (consolidated sports rights portfolio, streaming consolidation), but execution risk is high. 42% reflects genuine possibility against significant friction."
-    },
-    {
-      "statement": "A second-round Jannik Sinner upset at a major happens again before year-end.",
+      "statement": "Stan Kroenke's SoFi Stadium lawsuit settles for at least $250M before trial.",
       "probability": 71,
-      "rationale": "Sinner has now shown vulnerability at the French Open under heat stress. The conditions revealed something—either fatigue management or mental brittleness under unexpected pressure. Three more majors in 2026 (Wimbledon, US Open, Australian) give ample opportunity. 71% reflects that early-round upsets cluster more often once a player shows cracks."
+      "rationale": "Both parties have incentive to avoid public discovery of stadium-project details. Kroenke wants to protect competitive advantage of SoFi's valuation; opponents want to avoid establishing unfavorable legal precedent. Settlement within 18 months is most likely outcome."
     },
     {
-      "statement": "Serena Williams plays a competitive match in 2026.",
-      "probability": 64,
-      "rationale": "Discussions are active and specific (Queen's Club). She's 44 with motivation tied to Wimbledon legacy and final chapter narrative. But injury risk, rustiness, and family/business obligations are real. 64% reflects genuine probability that her commitment translates to actual play, weighed against the number of times comeback plans dissolve."
+      "statement": "MLB announces expansion timeline (2028 or 2029 entry) within 12 months.",
+      "probability": 44,
+      "rationale": "Manfred has resisted urgency; multiple viable bids create decision paralysis. Media rights negotiations (expiring 2028) will clarify expansion's financial feasibility. Commissioner prefers clarity over commitment; announcement more likely post-media-deal than pre."
     }
   ],
   "injuries": [],
@@ -2509,38 +2502,38 @@
       "confidence": "medium"
     }
   ],
-  "updatedAt": "2026-05-28T14:32:00Z",
+  "updatedAt": "2026-04-23T14:32:00Z",
   "highlights": [
     {
       "league": "NBA",
-      "title": "The Knicks UNSTOPPABLE Run to the NBA Finals 🔥",
-      "videoId": "dLslCWu3vjo",
-      "thumbnail": "https://img.youtube.com/vi/dLslCWu3vjo/mqdefault.jpg",
-      "timeAgo": "20h ago",
+      "title": "New York's next stop: The NBA Finals 🏆 | Chasing History presented by @michelobultra",
+      "videoId": "ycclw74qupE",
+      "thumbnail": "https://img.youtube.com/vi/ycclw74qupE/mqdefault.jpg",
+      "timeAgo": "2h ago",
       "isFallback": false
     },
     {
       "league": "NFL",
-      "title": "Will Jayden Daniels have a better year for the Commanders? 🤔",
-      "videoId": "ps294NdNiC8",
-      "thumbnail": "https://img.youtube.com/vi/ps294NdNiC8/mqdefault.jpg",
+      "title": "Dan O feels J.J. McCarthy's comments on Vikings’ QB situation feel like an ‘act’ 👀 | Pat McAfee Show",
+      "videoId": "9Yes4TIXs9M",
+      "thumbnail": "https://img.youtube.com/vi/9Yes4TIXs9M/mqdefault.jpg",
       "timeAgo": "1h ago",
       "isFallback": false
     },
     {
       "league": "MLB",
-      "title": "INCREDIBLE performances from Shohei Ohtani, Cristopher Sánchez and Gerrit Cole!",
-      "videoId": "7pqnneLNRx0",
-      "thumbnail": "https://img.youtube.com/vi/7pqnneLNRx0/mqdefault.jpg",
+      "title": "Does Brice Turang have the most athletic family? 💪",
+      "videoId": "4eaZFN_YOIc",
+      "thumbnail": "https://img.youtube.com/vi/4eaZFN_YOIc/mqdefault.jpg",
       "timeAgo": "1h ago",
       "isFallback": false
     },
     {
       "league": "NHL",
-      "title": "Dobes even gets cheers on the BENCH! 🤣",
-      "videoId": "1iTDYuf7jyk",
-      "thumbnail": "https://img.youtube.com/vi/1iTDYuf7jyk/mqdefault.jpg",
-      "timeAgo": "Just now",
+      "title": "WNBA's A'Ja Wilson, NBA's Bam Adebayo witness Vegas' Game 3 comeback 🎤",
+      "videoId": "dJTp5Du7Iqk",
+      "thumbnail": "https://img.youtube.com/vi/dJTp5Du7Iqk/mqdefault.jpg",
+      "timeAgo": "1h ago",
       "isFallback": false
     },
     {
@@ -2548,14 +2541,14 @@
       "title": "Connecticut Sun vs. Portland Fire | FULL GAME HIGHLIGHTS | May 27, 2026",
       "videoId": "BT5t6O932_M",
       "thumbnail": "https://img.youtube.com/vi/BT5t6O932_M/mqdefault.jpg",
-      "timeAgo": "9h ago",
+      "timeAgo": "13h ago",
       "isFallback": false
     },
     {
       "league": "SOCCER",
-      "title": "With Barca set to sign Gordon, where does that leave Rashford this summer?",
-      "videoId": "zHOWkbAO6gE",
-      "thumbnail": "https://img.youtube.com/vi/zHOWkbAO6gE/mqdefault.jpg",
+      "title": "He wasn't too happy 🤣",
+      "videoId": "KS6mPjNjeOE",
+      "thumbnail": "https://img.youtube.com/vi/KS6mPjNjeOE/mqdefault.jpg",
       "timeAgo": "Just now",
       "isFallback": false
     }
