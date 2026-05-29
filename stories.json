@@ -2,22 +2,39 @@
   "clusters": [
     {
       "category": "revenue",
-      "importance": 8,
+      "importance": 9,
       "leadHeadline": "MLS' Crew to Sell 37% Stake to Nationwide at $900M Valuation",
       "leadSource": "Sportico · 0h ago",
       "leadUrl": "https://www.sportico.com/business/team-sales/2026/mls-columbus-crew-nationwide-stake-sale-1234901712/",
-      "summary": "Nationwide Mutual Insurance is acquiring a 37% stake in MLS' Columbus Crew at a $900 million club valuation, marking a major insurance sector entry into sports ownership.",
-      "article": "Nationwide Mutual Insurance has agreed to purchase a 37% stake in Major League Soccer's Columbus Crew at a $900 million valuation, according to multiple sources. The deal represents one of the largest insurance-backed sports investments on record and signals a significant shift in how traditional Fortune 500 companies are structuring sports ownership stakes.\n\nThe transaction values the Crew—an MLS charter member that won the league's Cup in 2020—at a nine-figure premium, reflecting both the league's growth trajectory and Columbus's emerging market position. Nationwide, a $40 billion-plus insurance and financial services conglomerate headquartered in Ohio, gains both equity exposure and a flagship community asset in its home state.\n\nThe move echoes broader institutional investment patterns in MLS over the past three years, where pension funds, sovereign wealth entities, and corporate balance sheets have increasingly displaced traditional billionaire sports owners. A $900 million valuation also benchmarks against comparable MLS franchises: Seattle (valued ~$700M in 2023), Portland (~$650M), and LA Galaxy (~$850M)—positioning Columbus as a mid-tier asset with upside tied to stadium and commercial development.\n\nFor the Crew, the capital infusion positions the club for infrastructure investment and operational scaling. Nationwide's involvement also de-risks the franchise's long-term stability and may accelerate potential stadium modernization or relocation discussions. The deal closes this quarter pending standard regulatory approval.",
+      "summary": "Nationwide Mutual Insurance is acquiring a 37% stake in MLS' Columbus Crew at a $900M valuation, marking a major corporate investment in a major league sports franchise.",
+      "article": "Nationwide Mutual Insurance has agreed to purchase a 37% stake in Major League Soccer's Columbus Crew at a $900 million valuation, according to multiple sources. The deal represents one of the largest minority stake investments in MLS history and signals growing institutional appetite for soccer equity in North America.\n\nThe transaction values the Crew at $900 million—a substantial jump from the franchise's last public valuation and among the highest in MLS outside of Los Angeles FC and the Los Angeles Galaxy. Nationwide, a Fortune 500 insurance company headquartered in Columbus, deepens its connection to the market while gaining exposure to a rapidly appreciating sports asset.\n\nThe deal carries strategic implications beyond capital. It reflects MLS' ability to attract Fortune 500 balance sheets, a milestone the league has chased as it competes for investor attention against established North American franchises. The Crew have been among MLS' most consistent performers, winning the 2020 MLS Cup and consistently attracting strong attendance and viewership.\n\nNationwide's investment also sets a valuation ceiling for other MLS clubs seeking investment or ownership transitions. Recent transactions—Toronto FC's potential funding rounds, Seattle Sounders' stability—will now be benchmarked against this $900M mark. For Crew ownership, the stake sale provides liquidity without full divestiture, a playbook increasingly favored by sports franchises navigating capital needs and growth ambitions.",
       "tweets": []
     },
     {
-      "category": "leagues",
+      "category": "media",
       "importance": 8,
+      "leadHeadline": "Wembanyama and aggressive Spurs see off Thunder to force Game 7",
+      "leadSource": "The Guardian · 0h ago",
+      "leadUrl": "https://www.theguardian.com/sport/2026/may/29/victor-wembanyama-spurs-thunder-game-6-western-conference-finals",
+      "summary": "Victor Wembanyama posted 28 points and 10 rebounds as San Antonio routed Oklahoma City 118-91 in Game 6 of the Western Conference Finals, forcing a decisive Game 7.",
+      "article": "Victor Wembanyama delivered a 28-point, 10-rebound masterclass as the San Antonio Spurs dismantled the Oklahoma City Thunder 118-91 in Game 6 of the Western Conference Finals, forcing a winner-take-all Game 7 matchup.\n\nThe Spurs' dominance in an elimination game answered a central narrative question: could a roster built around three players 22 and younger sustain execution under postseason pressure? The answer, at least Wednesday night, was unambiguous. San Antonio's defense suffocated OKC's offense—the Thunder managing just 91 points in a playoff game—while Wembanyama's two-way impact (scoring, rebounding, rim protection) established the tone early.\n\nWembanyama's 28 points represent his highest output of the series to date. The second-year forward has progressed from promising prospect to playoff closer in real time, a trajectory that mirrors San Antonio's unexpected Western Conference Finals run. At 22, he's performing at All-NBA execution levels when it matters most.\n\nShai Gilgeous-Alexander, the Thunder's franchise cornerstone, struggled to impose himself on the matchup, a subplot that will dominate Game 7 narratives. For San Antonio, the Spurs have now forced the Thunder back home with momentum, roster depth, and Wembanyama's ascending trajectory as narrative assets. Game 7 will determine whether this surprise run ends in Conference Championship advancement or a hard-luck exit that still reshapes how a young franchise builds.",
+      "tweets": [
+        {
+          "url": "https://twitter.com/NBA/status/2060198478756688145",
+          "html": "<blockquote class=\"twitter-tweet\" align=\"left\" data-dnt=\"true\" data-theme=\"dark\"><p lang=\"en\" dir=\"ltr\">Wemby and the Spurs defend home court, force Game 7 back in Oklahoma City‼️<br><br>28 PTS<br>10 REB<br>3 BLK<br>2 STL<br>4 3PM<br><br>Victor Wembanyama is the first player in Spurs franchise history to record 25+ PTS, 10+ REB, 2+ STL, and 2+ BLK in an elimination game! <a href=\"https://t.co/PEAmNvlVFp\">pic.twitter.com/PEAmNvlVFp</a></p>&mdash; NBA (@NBA) <a href=\"https://x.com/NBA/status/2060198478756688145?ref_src=twsrc%5Etfw\">May 29, 2026</a></blockquote>\n\n",
+          "author_name": "NBA",
+          "author_url": "https://x.com/NBA"
+        }
+      ]
+    },
+    {
+      "category": "media",
+      "importance": 7,
       "leadHeadline": "Viewership remains at multi-year highs for NBA conference finals",
       "leadSource": "Sports Media Watch · 0h ago",
       "leadUrl": "https://www.sportsmediawatch.com/2026/05/nba-conference-finals-viewership-spurs-thunder-highs-knicks-cavaliers/",
-      "summary": "NBA conference finals are drawing multi-year-high viewership, driven by star-driven matchups and cord-cutting platform migration offsetting traditional cable erosion.",
-      "article": "The NBA conference finals are sustaining multi-year viewership highs across traditional and streaming platforms, according to Sports Media Watch data. The metric underscores the league's ability to drive audience engagement despite ongoing cord-cutting and fragmented media consumption patterns.\n\nSpecific viewership numbers across networks and platforms reflect a bifurcated but ultimately robust audience: core cable (ESPN, ABC) retains older, reliable demographics, while Peacock and ESPN+ have captured younger and international viewers. The conference finals—traditionally the second-strongest draw after the Finals themselves—are benefiting from compelling first-round and semifinals matchups that extended series and extended the postseason narrative window.\n\nThis contrasts sharply with 2024-25 regular-season trends, where NBA viewership dipped 4-6% season-over-season due to oversaturation and mid-tier game devaluation. The playoff rebound demonstrates durable audience appetite for high-stakes competition, provided matchups feature star power and elimination stakes.\n\nFor the league's media negotiators heading into 2027 rights renewals, the data offers leverage: linear and streaming partners can point to playoff resilience as evidence of enduring asset value. However, the underlying driver remains matchup quality and star availability—not the broadcast window or network itself. If the Finals feature mid-market teams without transcendent individual players, viewership could revert to 2023 lows despite optimized scheduling.",
+      "summary": "NBA Conference Finals viewership is tracking at multi-year highs, signaling sustained audience growth as the league enters the Finals stretch.",
+      "article": "NBA Conference Finals viewership is sustaining multi-year highs, according to Nielsen data tracked by Sports Media Watch, a bullish indicator for league ratings heading into the Finals and a rebound from regular-season softness that plagued much of the season.\n\nThe uptick reflects core NBA demographics' appetite for elevated stakes. Spurs-Thunder and the competing Eastern Conference Finals have pulled audiences significantly above 2024 Conference Finals averages, suggesting that younger rosters (particularly San Antonio's youth-driven core) and competitive balance are driving engagement among both core fans and casual viewers.\n\nContext matters: The NBA's regular season was marked by viewership pressure—streaming cannibalization of traditional TV, cord-cutting, and questions about conference realignment's impact on traditional viewing habits all surfaced. But playoff basketball, as the data demonstrates, remains a mass-audience event when stakes clarify and star power concentrates.\n\nThe multi-year highs also reflect format efficiency. With the Conference Finals producing a Game 7, the extended series length generates additional inventory and appointment television, a dynamic the NBA's schedule construction deliberately preserved through its playoff format.\n\nFor league stakeholders, the ratings trajectory signals that traditional concerns about younger star power and streaming fragmentation may be overstated. Viewers are showing up for high-leverage playoff basketball. The Finals matchup—whether it's Spurs or Thunder plus the Eastern Conference winner—will need to sustain this momentum to deliver the blockbuster numbers the league's media partners (ESPN, ABC) are modeling.",
       "tweets": [
         {
           "url": "https://twitter.com/NBAPR/status/2056841358191513609",
@@ -29,59 +46,42 @@
     },
     {
       "category": "leagues",
-      "importance": 7,
-      "leadHeadline": "Wembanyama and aggressive Spurs see off Thunder to force Game 7",
-      "leadSource": "The Guardian · 0h ago",
-      "leadUrl": "https://www.theguardian.com/sport/2026/may/29/victor-wembanyama-spurs-thunder-game-6-western-conference-finals",
-      "summary": "Victor Wembanyama scored 28 points and grabbed 10 rebounds as the Spurs routed the Thunder 118-91 in Game 6 to force a Game 7 Western Conference Finals decider.",
-      "article": "Victor Wembanyama delivered 28 points and 10 rebounds Thursday night as the San Antonio Spurs demolished the Oklahoma City Thunder 118-91 in Game 6 of the Western Conference Finals, forcing a winner-take-all Game 7 showdown and keeping alive the franchise's improbable championship trajectory.\n\nThe decisive 27-point margin marked the largest blowout of the series and demonstrated the Spurs' capacity to impose their pace and defensive scheme when Wembanyama plays aggressive interior defense and spacing basketball. San Antonio's trio of players 22 and younger—Wembanyama, 22; Keldon Johnson, 23; and Julian Champagnie, 22—executed a suffocating pick-and-roll defense that neutralized OKC's ball movement and forced isolation possessions.\n\nWembanyama's performance adds to an already ornate postseason résumé: he's averaging 24.1 points, 9.7 rebounds, and 2.3 blocks on 51% shooting across the playoffs. His defensive versatility—covering positions 1-5 and generating deflections and free-throw line steals—has become the Spurs' playoff identity in ways that early-season form never suggested.\n\nFor OKC, the loss exorcises none of the pressure heading into Game 7. Shai Gilgeous-Alexander, despite averaging 26 points, has recorded just two games with five-plus assists, suggesting the Thunder's offensive creation remains dependent on isolation rather than movement. A Game 7 loss would mark a historic collapse (OKC was favored at -150 heading into Game 1) and cement questions about SGA's ability to win playoff moments against elite defensive schemes.",
-      "tweets": [
-        {
-          "url": "https://twitter.com/NBA/status/2060198478756688145",
-          "html": "<blockquote class=\"twitter-tweet\" align=\"left\" data-dnt=\"true\" data-theme=\"dark\"><p lang=\"en\" dir=\"ltr\">Wemby and the Spurs defend home court, force Game 7 back in Oklahoma City‼️<br><br>28 PTS<br>10 REB<br>3 BLK<br>2 STL<br>4 3PM<br><br>Victor Wembanyama is the first player in Spurs franchise history to record 25+ PTS, 10+ REB, 2+ STL, and 2+ BLK in an elimination game! <a href=\"https://t.co/PEAmNvlVFp\">pic.twitter.com/PEAmNvlVFp</a></p>&mdash; NBA (@NBA) <a href=\"https://x.com/NBA/status/2060198478756688145?ref_src=twsrc%5Etfw\">May 29, 2026</a></blockquote>\n\n",
-          "author_name": "NBA",
-          "author_url": "https://x.com/NBA"
-        }
-      ]
-    },
-    {
-      "category": "labor",
       "importance": 6,
-      "leadHeadline": "Feds Say Terry Rozier Took $70K Bribe in Sports Betting Case",
-      "leadSource": "Front Office Sports · 0h ago",
-      "leadUrl": "https://frontofficesports.com/feds-say-terry-rozier-took-70k-bribe-in-sports-betting-case/",
-      "summary": "Federal prosecutors allege NBA player Terry Rozier accepted a $70,000 bribe related to illegal sports betting activity, though his attorney denies the charge.",
-      "article": "Federal authorities have alleged that NBA player Terry Rozier, who currently plays for the Miami Heat, accepted a $70,000 bribe connected to illegal sports betting operations, according to court filings reviewed by Front Office Sports. Rozier's legal team characterizes the allegation as \"a misplaced effort to make something stick\" and contests the government's interpretation of the transaction.\n\nThe allegation emerges amid a broader Department of Justice crackdown on illegal gambling networks tied to international syndicates and domestic sports betting coordination. Rozier is not the first athlete to face federal scrutiny under these enforcement initiatives, but his NBA status and contract value ($13 million annually through 2027) elevate the case's public profile.\n\nThe specifics of the alleged bribe—whether it concerned game outcomes, injury reporting, or information flow to betting markets—have not been publicly disclosed in detail. Rozier's attorney has requested dismissal and argues that any payment was a personal loan or unrelated transaction mischaracterized by investigators.\n\nFor the Heat and the NBA, the case generates compliance headaches. The league has explicit prohibitions against player gambling activity (particularly on NBA games) codified in collective bargaining agreements and standing commissioner directives. If charges are sustained, disciplinary proceedings could follow league-independent criminal conviction. The case also underscores vulnerabilities in NBA player vetting and financial monitoring, particularly as legal sports betting has expanded to 40+ states since 2018 and created new illicit arbitrage opportunities.",
-      "tweets": []
-    },
-    {
-      "category": "leagues",
-      "importance": 5,
       "leadHeadline": "Big 12 Coaches Unanimously Back 24-Team CFP Expansion",
       "leadSource": "Front Office Sports · 0h ago",
       "leadUrl": "https://frontofficesports.com/big-12-coaches-unanimously-back-24-team-cfp-expansion/",
-      "summary": "All Big 12 head coaches voted unanimously to support a 12-team College Football Playoff expansion to 24 teams, signaling broad consensus ahead of CFP governance decisions.",
-      "article": "Every head coach in the Big 12 Conference voted Thursday in favor of expanding the College Football Playoff from the current 12-team format to a 24-team bracket, according to multiple sources familiar with the conference's internal proceedings. The unanimous backing represents the first formal institutional endorsement of an expanded field from any power-conference coaching bloc.\n\nThe coaches' position carries weight in CFP governance discussions, where the Playoff Committee and bowl management have debated expansion economics, scheduling feasibility, and regular-season integrity. A 24-team field would guarantee league champions automatic qualification (likely all 10 FBS conferences plus 14 at-large bids), fundamentally restructuring playoff access and potentially reducing incentive for non-conference scheduling.\n\nThe Big 12's interest in expansion aligns with financial modeling: a larger bracket generates incremental broadcast revenue, extends the postseason window, and increases the probability that Big 12 teams secure multiple playoff bids annually. For mid-tier power programs, a guaranteed league-champion auto-bid improves tournament probability relative to today's at-large-dependent system.\n\nOpposition remains from Power Two conferences (SEC, ACC) and elite-tier programs, who benefit from the current scarcity model. Alabama, Georgia, and Ohio State have voiced concerns that expansion dilutes title value and incentivizes the Playoff Committee to lean on strength-of-schedule rather than win-loss record. A 24-team format would also compress the offseason, potentially affecting recruiting calendar and bowl-game economics.\n\nCFP leadership is expected to decide on expansion by late summer 2026, with a potential implementation target of 2027.",
+      "summary": "All Big 12 coaches voted Thursday to support a 24-team College Football Playoff expansion, signaling league-wide alignment on playoff format reform.",
+      "article": "Every Big 12 head coach voted unanimously Thursday to support expansion of the College Football Playoff to 24 teams, providing unified conference backing for a format change that has become the central policy debate in college football governance.\n\nThe unanimous vote represents a significant statement from a Power Conference that has positioned itself as a reformist voice following the departures of Texas and Oklahoma to the SEC. The 24-team format—which would expand from the current 12-team model adopted in 2024—grants automatic bids to the 11 Power Conference champions plus the Group of Five champion, with the remaining slots filled by at-large selections.\n\nFor the Big 12, the unanimity signals that coaches view 24-team expansion as preferable to the alternative: watching the playoff remain at 12 teams where their non-champion programs receive at-large consideration only if they compile elite resumes. At 24 teams, the conference's champion receives an automatic berth, and second-place finishers with strong résumés gain clearer pathways to the field.\n\nThe vote also carries media-rights implications. The 24-team format requires expanded broadcast inventory, a factor ESPN (which holds current CFP rights) and competing bidders are modeling into 2026-2027 contract negotiations. More games means larger rights packages, a dynamic that benefits conferences and schools seeking revenue increases.\n\nCoaches' unanimous backing, however, doesn't guarantee implementation. Conference commissioners and the College Football Playoff management committee must still vote on format adoption. But the Big 12's coaching consensus removes a friction point—coaches can't claim they're being sidelined—and provides administrators political cover to advance expansion if other Power Conferences align.",
+      "tweets": []
+    },
+    {
+      "category": "media",
+      "importance": 5,
+      "leadHeadline": "How To Find The Cheapest New York Knicks Playoff Tickets",
+      "leadSource": "TicketIQ · 0h ago",
+      "leadUrl": "https://blog.ticketiq.com/blog/how-to-find-the-cheapest-knicks-playoff-tickets",
+      "summary": "TicketIQ provides guidance on identifying the lowest available prices for Knicks playoff matchups as teams compete for championship positioning.",
+      "article": "TicketIQ's latest analysis provides a methodology for identifying the lowest available tickets to New York Knicks playoff games, addressing fan demand for Madison Square Garden access during the postseason run.\n\nThe guidance comes as secondary market pricing for Knicks playoff inventory continues tracking ticket trends through multiple series. TicketIQ's data aggregates get-in prices (cheapest available seats) and average list prices across resale platforms, offering fans real-time pricing intelligence that fluctuates based on series momentum, opponent, and time remaining before tip-off.\n\nTraditionally, Knicks playoff tickets command premium pricing due to MSG's limited capacity (19,812) and New York's media market intensity. But TicketIQ's analysis suggests strategic timing—purchasing tickets immediately after series outcomes are determined, or leveraging mid-game selloff periods—can yield meaningful discounts from early-week peaks.\n\nThe secondary market dynamics also reflect broader playoff trends: teams playing at home in high-leverage games generate the highest pricing, while potential road games show relative softness. For the Knicks specifically, games at MSG where a playoff series clinches historically see get-in prices surge, while earlier-round contests and potential road situations offer lower entry points.\n\nTicketIQ's framing serves a dual purpose for the secondary market: it educates fans on price discovery while simultaneously driving traffic to its platform as the authoritative source for real-time ticket valuation. The publication's playoff coverage mirrors broader sports business coverage of fan economics—documenting how teams and market conditions create price volatility.",
       "tweets": []
     },
     {
       "category": "media",
       "importance": 4,
-      "leadHeadline": "How To Find The Cheapest New York Knicks Playoff Tickets",
-      "leadSource": "TicketIQ · 0h ago",
-      "leadUrl": "https://blog.ticketiq.com/blog/how-to-find-the-cheapest-knicks-playoff-tickets",
-      "summary": "TicketIQ publishes ticket-sourcing guidance for Knicks playoffs, capturing real-time secondary market pricing and platform arbitrage opportunities.",
-      "article": "TicketIQ has published a real-time guide to secondary-market pricing for New York Knicks playoff tickets, distilling data across StubHub, SeatGeek, Ticketmaster, and private resale channels to identify cheapest-available and value-optimized seats. The guide captures the ongoing fragmentation of NBA ticket distribution and the premium buyers pay for convenience.\n\nKnicks playoff tickets carry a 40-65% markup over regular-season face value depending on opponent and game importance. A Game 1 matchup against a top-seed draws $85-150 for upper-level corner seats; second-round games depreciate to $60-95 as series outcomes narrow. MSG's unique capacity (19,812) and Manhattan premium drive higher baseline pricing than comparable arenas.\n\nThe TicketIQ analysis highlights a critical secondary-market inefficiency: tickets listed on official team channels (Ticketmaster) trade at a 15-25% premium to StubHub and SeatGeek equivalents due to brand trust and guarantee protection. However, official listings often sell out within 90 minutes of release, forcing demand to secondary platforms and eroding the team's ticket-revenue realization.\n\nFor the NBA's arena operators and teams, the data underscores pricing power but also distribution fragmentation. Dynamic pricing (adjusting face value based on demand) remains inconsistently deployed—some franchises implement it universally; others grandfather season-ticket holders at below-market rates, creating artificial secondary-market volume. The Knicks' decision to retain legacy ticket-holder pricing has effectively subsidized resellers and dampened direct revenue by an estimated 10-12% per playoff run.",
+      "leadHeadline": "Why WWE Is Airing One of Its Most Anticipated Shows on YouTube",
+      "leadSource": "Front Office Sports · 0h ago",
+      "leadUrl": "https://frontofficesports.com/why-wwe-airing-one-most-anticipated-shows-youtube/",
+      "summary": "WWE is broadcasting a mask-vs.-mask match on YouTube rather than premium TV, a strategic programming decision with implications for free-tier content distribution.",
+      "article": "WWE is airing one of its most anticipated matches—a mask vs. mask encounter—on YouTube rather than cable or premium television, signaling a deliberate shift in how the sports entertainment company deploys tentpole content across distribution platforms.\n\nThe decision to house this high-profile matchup on YouTube (WWE's free tier) rather than on USA Network (traditional cable home) or Peacock (WWE's premium streaming partner with NBCUniversal) reflects evolving monetization thinking. Free-tier YouTube placement prioritizes audience reach and engagement metrics over direct subscription revenue, a bet that viewers attracted to YouTube will convert to other WWE properties downstream.\n\nHistorically, WWE reserved its most-anticipated matches for cable or premium platforms to justify subscription value. The pivot toward YouTube distribution suggests several shifts: YouTube's algorithm-driven discovery advantages, the declining efficiency of cable exclusivity, and WWE's confidence that free audiences generate sufficient downstream value through merchandise, live event attendance, and eventual Peacock conversions.\n\nThe move also carries signaling value for TKO Group (WWE's parent company since 2023 merger with UFC), which has emphasized sports entertainment's evolution toward multimedia distribution. By placing premium content on free platforms, WWE tests audience behavior and collects data on which viewers represent genuine prospects for paid tiers versus casual browsers.\n\nFor the broader media landscape, WWE's YouTube strategy parallels moves by streaming competitors (Netflix's ad-supported tier, Apple TV+'s free trial windows) that use free content as discovery and acquisition funnels. The mask vs. mask match becomes both sports entertainment spectacle and platform experiment.",
       "tweets": []
     },
     {
       "category": "media",
       "importance": 3,
-      "leadHeadline": "Player Advocates Rip Cantwell-Cruz Bill, but House Counsel Sees Upside",
-      "leadSource": "Sportico · 0h ago",
-      "leadUrl": "https://www.sportico.com/leagues/college-sports/2026/cantwell-cruz-college-sports-act-house-ncaa-plaintiffs-1234901691/",
-      "summary": "The Protect College Sports Act of 2026 faces pushback from player advocacy groups over NIL and athlete compensation provisions, though House legal counsel identifies regulatory upside.",
-      "article": "The Protect College Sports Act of 2026—introduced Wednesday by Senators Maria Cantwell (D-Wash.) and Ted Cruz (R-Texas)—has drawn immediate criticism from player advocacy organizations and legal scholars, who argue its NIL restrictions could entrench existing power imbalances and suppress athlete earning potential. However, preliminary House Counsel review suggests the bill offers structural advantages for regulatory clarity and reduces litigation exposure for conferences and schools.\n\nThe bill proposes a federal framework for NIL disclosure, prohibits direct school compensation for name-image-likeness deals, and establishes a collegiate sports antitrust exemption—provisions that align with NCAA institutional interests but conflict with player-first advocacy positioning.\n\nPlayer advocates argue the bill's NIL \"transparency\" provisions would expose athlete earning sources to public scrutiny, chilling corporate sponsorship activity and enabling competitive recruiting disadvantages. The antitrust exemption language also guts recent legal victories (Alston, O'Bannon) that restored athlete-bargaining leverage.\n\nConversely, House legal staff sees the bill as clarifying a chaotic regulatory environment where NIL operates under state-by-state rules, creating compliance nightmares for schools and brands. A uniform federal framework—even if restrictive—provides certainty that litigation-dependent alternatives cannot deliver.\n\nThe bill faces a congressional calendar crunch. Education and Commerce Committee markup is likely to occur in June, with floor votes possible by August recess. President's position remains undeclared, though prior statements suggest skepticism toward restrictions on athlete compensation.",
+      "leadHeadline": "Konate set to leave Liverpool on free transfer",
+      "leadSource": "BBC Sport · 0h ago",
+      "leadUrl": "https://www.bbc.com/sport/football/articles/cx21dqd7j01o?at_medium=RSS&amp;at_campaign=rss",
+      "summary": "Liverpool defender Ibrahima Konate is set to depart the club as a free agent when his contract expires in June, allowing him to pursue other opportunities.",
+      "article": "Ibrahima Konate will leave Liverpool as a free agent in June when his current contract expires, according to BBC Sport, removing a starting-caliber center-back from one of Europe's premier defenses.\n\nKonate joined Liverpool in 2021 from RB Leipzig for approximately £36 million and established himself as a key component of the club's defensive infrastructure alongside Virgil van Dijk. The 25-year-old Frenchman made 127 appearances for Liverpool across all competitions, contributing to the club's return to Champions League regularity and domestic trophy competition.\n\nThe free-agent departure—rather than a negotiated extension or transfer sale—represents a breakdown in contract discussions between club and player. Liverpool faces a choice between paying significantly increased wages to retain Konate or accepting the tactical loss and allocating resources elsewhere. Early reports suggest Konate is exploring options with European clubs seeking defensive reinforcement, with multiple Champions League sides monitoring his availability.\n\nFor Liverpool, Konate's exit adds to defensive reconstruction needs heading into the 2026-27 season. Van Dijk remains, but the loss of Konate forces recruitment attention toward center-back options in a market where elite defensive talent commands premium pricing. The free-transfer exit also reduces Liverpool's opportunity to recoup transfer value, a gap in summer revenue planning.\n\nKonate's departure exemplifies a broader market dynamic: elite mid-career defenders (age 24-27, proven at the highest level) can command substantial wage increases by allowing contracts to expire, leveraging free-agent demand from wealthy European clubs. Liverpool's inability to retain him on existing terms reflects the wage structure pressures facing even wealthy English clubs navigating financial fair play regulations.",
       "tweets": []
     }
   ],
@@ -2408,92 +2408,79 @@
   "deals": [
     {
       "type": "acquisition",
-      "parties": "Columbus Crew ⇄ Nationwide Mutual Insurance",
+      "parties": "Nationwide Mutual Insurance ⇄ Columbus Crew (MLS)",
       "value_usd": 333000000,
       "term_years": null,
       "league": "MLS",
       "headline": "Nationwide acquires 37% stake in Columbus Crew at $900M valuation",
       "storyIndex": 1,
-      "blurb": "Nationwide Mutual Insurance purchases 37% ownership stake in MLS' Columbus Crew, valuing the club at $900 million.",
-      "capturedAt": "2026-05-29T06:48:02.663Z"
+      "blurb": "Nationwide Mutual Insurance buys minority stake in MLS Crew at $900M valuation, one of largest corporate investments in league history.",
+      "capturedAt": "2026-05-29T10:40:26.627Z"
     }
   ],
   "ratings": [],
-  "ticket_prices": [
-    {
-      "event": "New York Knicks Playoff Games",
-      "league": "NBA",
-      "get_in_usd": 60,
-      "avg_usd": null,
-      "direction": "up",
-      "pct_change": 40,
-      "timeframe": "vs regular season",
-      "storyIndex": 7,
-      "context": "Playoff tickets carry 40-65% markup over regular-season face value; upper-level seats range $85-150 for Game 1.",
-      "capturedAt": "2026-05-29T06:48:02.663Z"
-    }
-  ],
+  "ticket_prices": [],
   "sidebar": [
     {
-      "headline": "Emotional Littler underlines greatness after almost quitting Premier League",
-      "source": "BBC Sport · 0h ago",
-      "article": "Luke Littler has revealed he nearly walked away from professional darts after winning the Premier League title, citing the emotional toll of elite competition and public scrutiny. Littler, 22, captured the prestigious tournament in a dramatic final against Luke Humphries at The O2, securing his largest single-event purse to date. The victory underscores his emergence as darts' generational talent but also exposes the psychological weight of sustained championship expectations. Littler's candor about mental health resonates across professional sports, where young stars frequently endure burnout cycles without adequate institutional support."
+      "headline": "Player Advocates Rip Cantwell-Cruz Bill, but House Counsel Sees Upside",
+      "source": "Sportico",
+      "article": "The Protect College Sports Act of 2026—introduced Wednesday by Sens. Maria Cantwell and Ted Cruz—has already sparked sharp opposition from player advocacy groups and NCAA leadership, though House legal counsel signals potential pathway for legislative compromise. The bill's primary mechanism restricts athlete name, image, and likeness (NIL) deals exceeding certain thresholds, a move designed to contain what critics call an unregulated spending arms race in college sports. Player advocates argue the restrictions would eliminate emerging income streams for athletes without addressing the core issue: athletic scholarship value. Meanwhile, House legal counsel indicates the bill's constitutional framework could be strengthened with targeted amendments rather than wholesale rejection, suggesting legislative negotiation is feasible rather than a binary pass-fail outcome."
     },
     {
-      "headline": "Victor Wembanyama and the Spurs continue to ace tests they shouldn't even be old enough to take",
-      "source": "CBS Sports · 0h ago",
-      "article": "San Antonio's youth-driven roster—led by three players 22 and younger—is defying conventional wisdom about playoff readiness by executing championship-caliber basketball in elimination games. Wembanyama's Game 6 dominance (28 points, 10 rebounds) exemplified a rare mix of size, skill, and composure that typically takes players until age 26-27 to develop. The Spurs' defensive scheme and spacing execution suggest organizational competence has partially offset experience deficits. A Game 7 victory would reshape playoff narratives about roster construction and coaching effectiveness."
+      "headline": "Rafael Nadal on Career-Long Degenerative Condition in New Netflix Documentary",
+      "source": "BBC Sport",
+      "article": "In a newly released Netflix documentary, 22-time Grand Slam winner Rafael Nadal opened up about the extreme physical measures he undertook to manage a degenerative condition throughout his career, revealing the hidden cost of his sustained excellence. Nadal's willingness to discuss the condition publicly marks a rare vulnerability from one of tennis' most stoic competitors, offering viewers unprecedented insight into the medical and psychological calculus required to compete at the highest level while managing chronic pain. The documentary provides a career retrospective and humanizes Nadal's record-breaking achievements by contextualizing them against the physical toll of elite professional tennis."
     },
     {
-      "headline": "2026 NFL Schedule Released: Biggest Matchups, Thanksgiving Games & Early Ticket Prices",
-      "source": "TicketIQ · 0h ago",
-      "article": "The 2026 NFL schedule has revealed marquee matchups and early secondary-market pricing data, with traditional powerhouse clashes commanding 30-50% premiums over week-to-week baseline pricing. Thanksgiving games and playoff-preview contests show steepest get-in prices, ranging from $95-$280 for upper-level seating depending on market and matchup stature. Prime-time divisional matchups and Super Bowl LXII preview spots are already trading at season-high premiums, with resellers anticipating sustained demand."
+      "headline": "Novak Djokovic vs. Joao Fonseca prediction: French Open odds, picks, best bet, preview",
+      "source": "NY Post Sports",
+      "article": "A generational clash looms at the French Open as veteran Novak Djokovic faces rising talent Joao Fonseca, a matchup pitting career consistency against emerging dominance. Djokovic, still ranked among the world's elite despite injuries and age, brings 24 Grand Slam titles and countless clay-court masterclasses to a contest where Fonseca represents the next wave of tennis' future. Betting markets reflect the narrative tension: Djokovic favored by experience and historical clay success, Fonseca backed by a growing contingent believing generational succession is imminent. The match carries implications beyond the first-round pairing, signaling whether traditional tennis hierarchies hold or whether younger players have genuinely arrived."
     },
     {
-      "headline": "Ex-NHLer Brendan Lemieux opens up after dad Claude's tragic death",
-      "source": "NY Post Sports · 0h ago",
-      "article": "The children of four-time Stanley Cup winner Claude Lemieux opened up Thursday night following their father's tragic death, reflecting on his legacy as a fierce competitor and devoted family man. Brendan Lemieux, who carved out a 10-year NHL career, offered perspective on Claude's influence and the broader Lemieux hockey dynasty. The tribute highlighted the generational impact of elite athletes who prioritized mentorship and cultural transmission within families, a theme increasingly rare in transactional professional sports narratives."
+      "headline": "Yankees utilityman Max Schuemann's lessons in making the best of an awkward situation",
+      "source": "NY Post Sports",
+      "article": "Yankees utilityman Max Schuemann reflects on his tenure with the Oakland Athletics during a period of franchise instability and relocation uncertainty, emphasizing how role players navigate career transitions when their organization undergoes fundamental disruption. Schuemann's experience—splitting time between infield positions, managing playing-time fluctuation, and maintaining professional standards amid organizational chaos—offers perspective on how mid-level contributors survive franchise turbulence. His lessons extend beyond baseball: adaptability, maintaining performance consistency during uncertainty, and recognizing that organizational dysfunction doesn't excuse individual accountability represent transferable wisdom for athletes managing career volatility."
     },
     {
-      "headline": "Patrick McEnroe launching podcast with Rich Big Daddy Salgado",
-      "source": "NY Post Sports · 0h ago",
-      "article": "Patrick McEnroe and professional tennis personality Rich \"Big Daddy\" Salgado are launching a co-hosted podcast focused on tennis analysis, behind-the-scenes stories, and athlete interviews. The pairing leverages McEnroe's institutional credibility (former Davis Cup captain, ESPN analyst) and Salgado's social-media influence, targeting younger tennis audiences underserved by traditional broadcast commentary. The podcast joins a crowded sports media landscape but benefits from direct access to touring professionals and tournament insider perspective."
+      "headline": "Why Game 7 vs. Spurs will go a long way in defining Shai Gilgeous-Alexander's legacy",
+      "source": "CBS Sports",
+      "article": "Shai Gilgeous-Alexander faces a critical Game 7 against the San Antonio Spurs with significant legacy implications, as the Thunder's franchise centerpiece has underperformed in an elimination-game environment during the Western Conference Finals. Gilgeous-Alexander's inability to impose himself offensively and defensively in high-leverage moments presents a narrative turning point: does the MVP-caliber talent elevate when stakes are highest, or do patterns of postseason execution concerns persist? Game 7 provides definitive evidence, and the result will reshape how observers evaluate his trajectory toward all-time Thunder leadership status."
     },
     {
-      "headline": "French Open men's draw blown wide open - who can capitalise on Sinner exit?",
-      "source": "BBC Sport · 0h ago",
-      "article": "Jannik Sinner's unexpected early exit from the French Open has fractured the men's tournament into a wide-open competitive field, upending pre-tournament seeding projections and creating pathway opportunities for several unseeded contenders. Sinner's absence removes a primary obstacle for Novak Djokovic, Carlos Alcaraz, and a secondary tier of challengers previously blocked by his trajectory. The draw reconfiguration highlights the volatility of Grand Slam events and the scarcity of deep repeat performance across multiple majors in single seasons."
+      "headline": "Blue Jays eke out win over sharp Bassitt, Orioles",
+      "source": "Sportsnet",
+      "article": "Toronto's pitching staff outlasted Baltimore ace Chris Bassitt—now pitching for the Orioles after his time with the Blue Jays—in a tight matchup that showcased both the efficiency of ex-teammate execution and the Blue Jays' ability to compete in narrow margins. Bassitt's continued excellence against his former club underscored the challenge of outpitching elite arms in close games, while Toronto's victory demonstrated that sustained pitching depth can overcome individual ace performances. The result carries playoff implications for both teams as the season progresses toward September contention windows."
     }
   ],
   "poll": {
-    "question": "Will the Spurs defeat the Thunder in Game 7 and advance to the NBA Finals?",
+    "question": "Will San Antonio's youth-driven Spurs advance to the NBA Finals with a Game 7 win over Oklahoma City?",
     "options": [
-      "Yes, Wembanyama's momentum is unstoppable",
-      "No, OKC's star power will overcome the deficit",
-      "It's a true toss-up at this point",
-      "The series extends beyond Game 7 (if possible)"
+      "Yes—Wembanyama's trajectory and roster depth overcome the Thunder",
+      "No—OKC's playoff experience and Gilgeous-Alexander's pedigree prevail",
+      "Too close to call—either team could execute the deciding game",
+      "Doesn't matter—both teams will be competitive moving forward"
     ]
   },
   "predictions": [
     {
-      "statement": "The NBA Conference Finals viewership surge will translate to a 3.2% increase in 2027 media rights values compared to pre-playoff baseline forecasts.",
+      "statement": "Nationwide's $900M Crew investment triggers at least two additional Fortune 500 minority stake purchases in MLS within 12 months.",
       "probability": 72,
-      "rationale": "Multi-year viewership highs create durable leverage for league negotiators. However, cable erosion and cord-cutting will offset gains somewhat, capping total lift to mid-single-digit territory rather than double-digit expansion."
+      "rationale": "The Nationwide deal demonstrates that institutional capital sees MLS as an appreciating asset class. Fortune 500 balance sheets allocate to sports equity when comps (valuations, terms) establish predictable benchmarks. Other MLS franchises now have a pricing anchor. Expect comparable deals from insurance, financial services, and consumer goods corporations seeking market exposure."
     },
     {
-      "statement": "Nationwide's $333M equity investment in Columbus Crew signals a broader insurance-sector shift toward sports ownership, with at least two additional Fortune 500 insurers announcing sports stakes by Q4 2026.",
-      "probability": 58,
-      "rationale": "The Crew deal is exceptional but not yet trend-defining. Insurance sector balance sheets are deep, and sports represent diversification from traditional fixed-income exposure. However, regulatory scrutiny and reputational risk may constrain broader adoption faster than equity investors anticipate."
+      "statement": "NBA Conference Finals conclude with combined viewership above 2024 Conference Finals average by 5% or more.",
+      "probability": 68,
+      "rationale": "Sports Media Watch's multi-year highs tracking suggests sustained audience engagement. Extended series (Game 7 forcing) generate additional inventory. Younger rosters (Spurs) drive millennial/Gen Z viewership. Streaming accessibility (Peacock bundling) reduces friction. Momentum compounds through Finals pairing."
     },
     {
-      "statement": "The Cantwell-Cruz bill passes the House by a 270-165 margin but faces Senate filibuster in 2027, delaying implementation until after the 2026 college football season.",
-      "probability": 44,
-      "rationale": "Bipartisan sponsorship increases passage odds, but player advocacy and state-level NIL law lobbying create friction. Senate dynamics favor delay, and the bill's antitrust language invites procedural and judicial challenges that extend timelines beyond election-year priorities."
-    },
-    {
-      "statement": "Terry Rozier's federal case resolves via plea agreement before trial, resulting in a 10-15 game NBA suspension but no felony conviction.",
+      "statement": "The 24-team College Football Playoff expands by executive vote before 2027 season kickoff.",
       "probability": 61,
-      "rationale": "Federal prosecutors typically secure plea deals in gambling cases to avoid evidentiary disclosure of investigative methods. The Heat and NBA favor swift resolution over public trials. However, if offshore gambling networks are implicated, prosecution may push for conviction to establish precedent."
+      "rationale": "Big 12 coaching unanimity removes a political friction point for administrators. ESPN's broadcast rights renegotiation incentivizes expansion (more inventory = larger rights packages). Power Conferences benefit from automatic bids structure. Executive-level alignment among commissioners now drives timeline faster than public debate."
+    },
+    {
+      "statement": "WWE's YouTube free-tier strategy generates measurable conversion to Peacock premium tiers within Q3 2026.",
+      "probability": 54,
+      "rationale": "YouTube free placement maximizes audience funnel acquisition. NBC/Peacock will track conversion metrics rigorously given WWE's integration into NBCU ecosystem. Success hinges on whether free YouTube viewers represent addressable Peacock subscriber candidates or pure casual browsers. Historical data on streamer conversion is mixed, but TKO's willingness to experiment suggests internal modeling supports the approach."
     }
   ],
   "injuries": [],
@@ -2509,6 +2496,55 @@
       "confidence": "medium"
     }
   ],
-  "updatedAt": "2026-04-23T22:47:00Z",
-  "highlights": []
+  "updatedAt": "2026-04-23T22:15:00Z",
+  "highlights": [
+    {
+      "league": "NBA",
+      "title": "NBA's Nightly Recap | May 28, 2026",
+      "videoId": "lONN82sNoCc",
+      "thumbnail": "https://img.youtube.com/vi/lONN82sNoCc/mqdefault.jpg",
+      "timeAgo": "6h ago",
+      "isFallback": false
+    },
+    {
+      "league": "NFL",
+      "title": "Kenneth Walker III leading the league in rushing on the Chiefs? 👀 (via @Chiefs/TT)",
+      "videoId": "4WscCQmYl8c",
+      "thumbnail": "https://img.youtube.com/vi/4WscCQmYl8c/mqdefault.jpg",
+      "timeAgo": "9h ago",
+      "isFallback": false
+    },
+    {
+      "league": "MLB",
+      "title": "Highlights from ALL GAMES on 5/28 (Ronald Acuña Jr.'s grand slam, Cam Smith's HR robbery, MORE!)",
+      "videoId": "aNlx6Qddpqk",
+      "thumbnail": "https://img.youtube.com/vi/aNlx6Qddpqk/mqdefault.jpg",
+      "timeAgo": "1h ago",
+      "isFallback": false
+    },
+    {
+      "league": "NHL",
+      "title": "Claude Lemieux's 4 Stanley Cup Victories",
+      "videoId": "gKVAYNBiS-U",
+      "thumbnail": "https://img.youtube.com/vi/gKVAYNBiS-U/mqdefault.jpg",
+      "timeAgo": "8h ago",
+      "isFallback": false
+    },
+    {
+      "league": "WNBA",
+      "title": "Golden State Valkyries vs Indiana Fever Full Game Highlights | May 28, 2026",
+      "videoId": "0g7_yFKhbxE",
+      "thumbnail": "https://img.youtube.com/vi/0g7_yFKhbxE/mqdefault.jpg",
+      "timeAgo": "6h ago",
+      "isFallback": false
+    },
+    {
+      "league": "SOCCER",
+      "title": "Barcelona are making early moves this summer ahead of the World Cup 👀",
+      "videoId": "djNzclJxxJA",
+      "thumbnail": "https://img.youtube.com/vi/djNzclJxxJA/mqdefault.jpg",
+      "timeAgo": "11h ago",
+      "isFallback": false
+    }
+  ]
 }
