@@ -1,118 +1,99 @@
 {
   "clusters": [
     {
-      "category": "labor",
-      "importance": 9,
-      "leadHeadline": "Sorsby Took Part in Illegal Bets in Texas, NCAA Says",
-      "leadSource": "Sportico · now",
-      "leadUrl": "https://www.sportico.com/law/analysis/2026/brendan-sorsby-alleged-llegal-betting-ncaa-1234901911/",
-      "summary": "The NCAA accused Texas Tech QB Brendan Sorsby of placing over $90,000 in illegal bets across three schools. The case marks an escalation in the NCAA's enforcement posture on athlete gambling violations.",
-      "article": "The NCAA on Friday formally charged Texas Tech quarterback Brendan Sorsby with placing more than $90,000 in bets while competing for Indiana, Cincinnati, and Texas Tech—a violation of association rules on athlete gambling. The accusation arrives as college sports grapples with an explosion of legal sports betting access on campuses and the persistent difficulty of policing it.\n\nSorsby's case is the highest-profile gambling citation of a major college athlete since the NCAA's tightened stance on the issue. Unlike past enforcement actions that targeted casual or occasional wagers, the $90,000 figure suggests systemic involvement—placing bets across multiple seasons and three separate programs. The quarterback now faces potential suspension or permanent loss of eligibility, a consequence that could reshape his professional prospects.\n\nThe timing matters. States have legalized sports betting in 38 jurisdictions since 2018, and college athletes have unprecedented access to betting apps while living on campuses with minimal friction. The NCAA's response has been reactive rather than preventative—banning betting on college sports, yes, but struggling to create meaningful detection mechanisms. Sorsby's case will likely accelerate calls for standardized testing protocols and partnership with sportsbooks to flag suspicious accounts tied to college athletes.\n\nFor Texas Tech, the implications are immediate. Sorsby was a starting QB in a Power 4 program. His suspension or removal opens a quarterback race midseason and complicates the program's bowl eligibility math. The NCAA may also investigate whether coaching staff failed to monitor or report wagering behavior—a secondary charge that could carry additional penalties.",
+      "category": "media",
+      "importance": 8,
+      "leadHeadline": "Russell Wilson Expected to Join CBS NFL Studio",
+      "leadSource": "Front Office Sports · 0h ago",
+      "leadUrl": "https://frontofficesports.com/russell-wilson-expected-to-join-cbs-nfl-studio/",
+      "summary": "Russell Wilson is joining CBS as an NFL studio analyst after a 10-Pro Bowl, Super Bowl-winning career. The move signals major networks' aggressive hiring of former star talent for prime studio roles.",
+      "article": "Russell Wilson is expected to join CBS's NFL studio coverage, sources confirmed Wednesday. The 10-time Pro Bowler and 2014 Super Bowl champion will transition from the field to the broadcast booth, adding marquee talent to CBS's studio lineup alongside existing analysts.\n\nWilson's move reflects a broader industry trend: networks are accelerating investments in on-air talent with mainstream name recognition, not just former coaches or longtime broadcasters. His profile—Super Bowl winner, franchise quarterback for multiple contenders, recognizable to casual and hardcore fans alike—positions CBS to compete more aggressively in the crowded studio-show ecosystem during the 2026 season.\n\nThe timing matters. NFL broadcast rights have consolidated around fewer players (CBS, Fox, NBC, ESPN, Amazon), and differentiation now hinges on talent and presentation. Studio shows drive audience retention during pregame, halftime, and postgame windows—not the games themselves. Wilson's salary, though not disclosed, likely exceeds what a mid-tier analyst would command; networks are paying premium dollars for players who can move the needle on cable ratings.\n\nWilson joins a wave of high-profile retirements-to-media: Rob Gronkowski (Fox), JJ Watt (potential media interest), and others have made the leap. CBS's aggressive pursuit of Wilson signals confidence in studio viewership as a revenue lever—studio ads command premium CPMs, and Wilson's presence could boost both ratings and sponsorship value. Expect announcements from competing networks within weeks as the talent arms race intensifies heading into the 2026 season.",
       "tweets": [
         {
-          "url": "https://twitter.com/RossDellenger/status/2060553967759720689",
-          "html": "<blockquote class=\"twitter-tweet\" data-conversation=\"none\" align=\"left\" data-dnt=\"true\" data-theme=\"dark\"><p lang=\"en\" dir=\"ltr\">Even after transferring to Texas Tech, Sorsby transferred money to others to place bets for him while in Texas - a state where sports wagering is illegal, the NCAA says.<br><br>Sorsby “serially and repeatedly violated” association rules.</p>&mdash; Ross Dellenger (@RossDellenger) <a href=\"https://x.com/RossDellenger/status/2060553967759720689?ref_src=twsrc%5Etfw\">May 30, 2026</a></blockquote>\n\n",
-          "author_name": "Ross Dellenger",
-          "author_url": "https://x.com/RossDellenger"
+          "url": "https://twitter.com/MySportsUpdate/status/1996614388086898799",
+          "html": "<blockquote class=\"twitter-tweet\" align=\"left\" data-dnt=\"true\" data-theme=\"dark\"><p lang=\"en\" dir=\"ltr\">CBS announced that Russell Wilson will be joining them as a guest analyst on Sunday, with the <a href=\"https://x.com/hashtag/Giants?src=hash&amp;ref_src=twsrc%5Etfw\">#Giants</a> on a bye week. <a href=\"https://t.co/3p97GcDD1w\">pic.twitter.com/3p97GcDD1w</a></p>&mdash; Ari Meirov (@MySportsUpdate) <a href=\"https://x.com/MySportsUpdate/status/1996614388086898799?ref_src=twsrc%5Etfw\">December 4, 2025</a></blockquote>\n\n",
+          "author_name": "Ari Meirov",
+          "author_url": "https://x.com/MySportsUpdate"
         },
         {
-          "url": "https://twitter.com/PeteThamel/status/2048810993094901989",
-          "html": "<blockquote class=\"twitter-tweet\" align=\"left\" data-dnt=\"true\" data-theme=\"dark\"><p lang=\"en\" dir=\"ltr\">Sources: Texas Tech transfer quarterback Brendan Sorsby is checking into a residential treatment program for a gambling addiction. He’s under NCAA investigation in the wake of the discovery of Sorsby making thousands of bets via a gambling app. <a href=\"https://t.co/O7gNSqDaKE\">https://t.co/O7gNSqDaKE</a></p>&mdash; Pete Thamel (@PeteThamel) <a href=\"https://x.com/PeteThamel/status/2048810993094901989?ref_src=twsrc%5Etfw\">April 27, 2026</a></blockquote>\n\n",
-          "author_name": "Pete Thamel",
-          "author_url": "https://x.com/PeteThamel"
-        },
-        {
-          "url": "https://twitter.com/AdamSchefter/status/2050678559711330802",
-          "html": "<blockquote class=\"twitter-tweet\" align=\"left\" data-dnt=\"true\" data-theme=\"dark\"><p lang=\"en\" dir=\"ltr\">Texas Tech QB Brendan Sorsby, who is under NCAA investigation for making bets via a gambling app, has retained the noted lawyer Jeffrey Kessler to try to regain his college eligibility, sources tell me and <a href=\"https://x.com/PeteThamel?ref_src=twsrc%5Etfw\">@PeteThamel</a>.<br><br>If Sorsby and Kessler are unsuccessful in finding a path to… <a href=\"https://t.co/366nf7GhF7\">pic.twitter.com/366nf7GhF7</a></p>&mdash; Adam Schefter (@AdamSchefter) <a href=\"https://x.com/AdamSchefter/status/2050678559711330802?ref_src=twsrc%5Etfw\">May 2, 2026</a></blockquote>\n\n",
-          "author_name": "Adam Schefter",
-          "author_url": "https://x.com/AdamSchefter"
+          "url": "https://twitter.com/Complex/status/1996982817192907241",
+          "html": "<blockquote class=\"twitter-tweet\" align=\"left\" data-dnt=\"true\" data-theme=\"dark\"><p lang=\"en\" dir=\"ltr\">Russell Wilson joins CBS Sports as an NFL guest analyst for Week 14. Details here: <a href=\"https://t.co/j2rCL2kMJv\">https://t.co/j2rCL2kMJv</a> <a href=\"https://t.co/0cn0AeeCQd\">pic.twitter.com/0cn0AeeCQd</a></p>&mdash; Complex (@Complex) <a href=\"https://x.com/Complex/status/1996982817192907241?ref_src=twsrc%5Etfw\">December 5, 2025</a></blockquote>\n\n",
+          "author_name": "Complex",
+          "author_url": "https://x.com/Complex"
         }
       ]
     },
     {
       "category": "media",
-      "importance": 8,
-      "leadHeadline": "Can Spurs-Thunder deliver a Finals-level Game 7 audience?",
-      "leadSource": "Sports Media Watch · now",
-      "leadUrl": "https://www.sportsmediawatch.com/2026/05/spurs-thunder-game-7-ratings-prediction-analysis/",
-      "summary": "A potential Game 7 between the Spurs and Thunder is shaping up as a major television event with potential to rival Finals viewership. The matchup's audience will test whether a non-championship series can command flagship playoff ratings.",
-      "article": "The Spurs-Thunder series heading toward a potential Game 7 represents a genuine television wildcard heading into the final days of the 2026 playoffs. Networks are calculating whether a Conference Semifinals Game 7—not the Finals, not the Conference Finals—can deliver Finals-adjacent viewership numbers, a scenario that has rarely materialized outside of LeBron-era clusterbombs and the 2019 Warriors-Rockets series.\n\nThe conditions exist for it. San Antonio has marketable star power in the form of a resurgent franchise narrative. Oklahoma City has become the narrative engine of this postseason, a young team overperforming preseason expectations. Both fan bases travel well. The series is tied, setting up a genuine Game 7 winner-take-all frame that eliminates regional apathy.\n\nBut the structural headwind is real: this is the second round. Peak casual viewership only materializes when a championship is on the line. Finals Games 6 and 7 have averaged 47-52 million viewers in recent years. Conference Semifinals Game 7 typically floors out at 28-35 million. The 2019 Warriors-Rockets Game 7 (which went to overtime) drew 27.5 million—dominant for the round, but not Finals-tier.\n\nThe broadcast network assignment will matter. ESPN's primetime slot offers the biggest reach. A weekend night (Saturday or Sunday) rather than a weeknight tips the advantage toward casual viewers who don't follow the series. Marketing spend in the final 48 hours becomes crucial.\n\nFor the networks, this is an upside scenario. For the league, it's a reminder that second-round ratings carry a ceiling regardless of narrative appeal.",
-      "tweets": [
-        {
-          "url": "https://twitter.com/NBA/status/2060692702224634293",
-          "html": "<blockquote class=\"twitter-tweet\" align=\"left\" data-dnt=\"true\" data-theme=\"dark\"><p lang=\"en\" dir=\"ltr\">GAME 7 WITH A TRIP TO THE NBA FINALS ON THE LINE 🍿<br><br>Wemby and the Spurs: seek first NBA Finals appearance since 2014<br>SGA and the Thunder: look to become first team to reach back-to-back NBA Finals since GSW in 2019<br><br>IT&#39;S WIN OR GO HOME TONIGHT!<br><br>SAS/OKC Game 7: 8:00pm/et, NBC &amp;… <a href=\"https://t.co/YWzJaWjDTe\">pic.twitter.com/YWzJaWjDTe</a></p>&mdash; NBA (@NBA) <a href=\"https://x.com/NBA/status/2060692702224634293?ref_src=twsrc%5Etfw\">May 30, 2026</a></blockquote>\n\n",
-          "author_name": "NBA",
-          "author_url": "https://x.com/NBA"
-        },
-        {
-          "url": "https://twitter.com/PatBoyle44/status/2056572906730045615",
-          "html": "<blockquote class=\"twitter-tweet\" align=\"left\" data-dnt=\"true\" data-theme=\"dark\"><p lang=\"en\" dir=\"ltr\">INJECT THIS GAME — AND THIS SERIES — INTO MY VEINS<br><br>Spurs - Thunder is going to break just about every viewership record for the NBA this century</p>&mdash; Pat Boyle (@PatBoyle44) <a href=\"https://x.com/PatBoyle44/status/2056572906730045615?ref_src=twsrc%5Etfw\">May 19, 2026</a></blockquote>\n\n",
-          "author_name": "Pat Boyle",
-          "author_url": "https://x.com/PatBoyle44"
-        }
-      ]
-    },
-    {
-      "category": "leagues",
       "importance": 7,
-      "leadHeadline": "Champions League Fallout: Prize Money, Unrest, and Arsenal's Ill-Timed Parade",
-      "leadSource": "Front Office Sports · now",
-      "leadUrl": "https://frontofficesports.com/champions-league-fallout-prize-money-unrest-and-arsenals-ill-timed-parade/",
-      "summary": "Arsenal's Premier League victory parade unfolded one day after a Champions League elimination, exposing the financial and morale drag of European competition failure. The timing amplifies the cost of missing the Champions League revenue stream.",
-      "article": "Arsenal staged its Premier League title parade Saturday, exactly 24 hours after losing to PSG in the Champions League knockout round—a calendar collision that crystallized the financial and emotional toll of continental elimination for an English giant.\n\nThe timing is not incidental. Arsenal's elimination from Europe cost the club an estimated €15-20 million in prize money, broadcasting revenue, and gate receipts from what would have been additional home matches through a deeper run. For context, the difference between a Round of 16 exit and a semifinal appearance approaches €40 million. The club now enters next season without the midweek Champions League fixtures that both drive domestic engagement and pad the balance sheet.\n\nInternally, player unrest has materialized. Champions League football was a recruiting incentive when Arsenal signed its summer reinforcements. A season without it reshapes contract negotiations, transfer targets, and the club's ability to retain squad depth in the January market. PSG's victory parade in Paris Thursday night sent an additional signal: the French side capitalized on the moment Arsenal couldn't.\n\nThe Premier League parade still served its purpose—legitimacy, fan catharsis, sponsor activation—but the muted mood among players was visible. Manager Mikel Arteta fielded questions about Champions League failure rather than basking in domestic supremacy, a rhetorical shift that will haunt the club through the summer.\n\nFor Arsenal's commercial partners and broadcast negotiations heading into 2026-27, the absence of Champions League football is a negotiation point. Sponsors pay premiums for continental visibility. The club will reckon with that penalty when it renews media rights and apparel agreements.",
-      "tweets": [
-        {
-          "url": "https://twitter.com/fmeetsdata/status/2052286084382392388",
-          "html": "<blockquote class=\"twitter-tweet\" align=\"left\" data-dnt=\"true\" data-theme=\"dark\"><p lang=\"en\" dir=\"ltr\">💰 UEFA prize money for teams that qualified for 🔵 UCL Final:<br><br>€143.2m 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Arsenal [📈 +€18.5m]<br>€139.4m 🇫🇷 PSG [📈 +€18.5m]<br><br>✅ Includes:<br>▪️Performance rewards (points, ranking position, KO bonus)<br>▪️Value Pillar (TV ranking, 5y coeff, 10y coeff)<br>▪️Starting fee<br>▪️Qualifying… <a href=\"https://t.co/zawr4Jd5AV\">pic.twitter.com/zawr4Jd5AV</a></p>&mdash; Football Meets Data (@fmeetsdata) <a href=\"https://x.com/fmeetsdata/status/2052286084382392388?ref_src=twsrc%5Etfw\">May 7, 2026</a></blockquote>\n\n",
-          "author_name": "Football Meets Data",
-          "author_url": "https://x.com/fmeetsdata"
-        },
-        {
-          "url": "https://twitter.com/LiquidAy/status/2056729084550357326",
-          "html": "<blockquote class=\"twitter-tweet\" align=\"left\" data-dnt=\"true\" data-theme=\"dark\"><p lang=\"en\" dir=\"ltr\">🚨Arsenal are on course for a potential £300m+ prize money windfall this season.<br><br>Winning the Premier League could earn the Gunners around £175m, while their run to the Champions League final has already generated roughly £122m.<br><br>If Arsenal beat Paris Saint-Germain in Budapest,… <a href=\"https://t.co/3DDq5CXJKM\">pic.twitter.com/3DDq5CXJKM</a></p>&mdash; Liquid Gooner (@LiquidAy) <a href=\"https://x.com/LiquidAy/status/2056729084550357326?ref_src=twsrc%5Etfw\">May 19, 2026</a></blockquote>\n\n",
-          "author_name": "Liquid Gooner",
-          "author_url": "https://x.com/LiquidAy"
-        }
-      ]
-    },
-    {
-      "category": "leagues",
-      "importance": 6,
-      "leadHeadline": "Christian Pulisic wanted to talk about something else. Now he can",
-      "leadSource": "The Guardian · now",
-      "leadUrl": "https://www.theguardian.com/football/2026/may/31/christian-pulisic-usmnt-senegal-world-cup",
-      "summary": "Christian Pulisic's dominant 45-minute display against Senegal in USMNT World Cup prep silenced doubts about his fitness and role in Mauricio Pochettino's system. The performance resets the conversation around his centrality to the squad's tournament hopes.",
-      "article": "Christian Pulisic spent the better part of eight weeks dodging questions about his recovery from injury, his fit within Mauricio Pochettino's tactical schema, and whether the USMNT's World Cup window would see him at full capacity. A single 45-minute shift against Senegal closed each file.\n\nPulisic notched a goal and an assist in the United States' 3-2 victory, the kind of two-way contribution that answered the speculation swirling since Pochettino's appointment. The USMNT boss had reshaped the team around a more compact midfield and a pressing trigger that some analysts worried would marginalize Pulisic's playmaking width. Instead, he operated inside the system's preferred rhythm, combining defensive intensity with incisive forward passes—exactly the hybrid profile Pochettino has preached.\n\nThe 45-minute limitation is standard post-injury protocol, but it also truncated the narrative. One half is not a season. Pochettino will need to see Pulisic replicate the performance across 90 minutes and through three matches in quick succession, the metabolic reality of tournament football. A single strong showing against a Senegal side ranked outside the top 10 doesn't erase the deeper question: can he sustain this output across multiple games without regression?\n\nStill, the reset is significant. Pulisic has been positioned as the USMNT's creative fulcrum heading into the World Cup. This performance—visible, decisive, integrated—offered proof of concept. Pochettino's vision is now attached to a name rather than an abstraction. The next phase is sustainability.",
+      "leadHeadline": "WNBA App Subscriptions Rose 500%, but Not Everyone Is Happy",
+      "leadSource": "Sportico · 1h ago",
+      "leadUrl": "https://www.sportico.com/leagues/basketball/2026/wnba-app-update-changes-bugs-league-pass-games-cost-1234901802/",
+      "summary": "WNBA app subscriptions spiked 500% this season, but viewer sentiment fractured into factions—with Reddit communities airing grievances about league platform strategy. The surge masks deeper engagement challenges.",
+      "article": "The WNBA's direct-to-consumer app strategy delivered a massive subscription bump—up 500% this season—but the headline obscures a messier reality: core fan communities are divided on the league's platform moves, according to discussions across Reddit threads.\n\nThe surge reflects several factors: increased mainstream media coverage, the rise of generational stars (particularly rookies drawing younger audiences), and the league's aggressive app promotion. Yet within WNBA fan communities, more than 100 users have surfaced common complaints: blackout restrictions, confusing pricing tiers, and fragmentation of games across multiple platforms (ESPN+, NBA League Pass, the WNBA app itself).\n\nThis is the classic sports-media paradox of the streaming era. Subscriptions up ≠ fan satisfaction up. A 500% increase sounds massive until you consider the baseline: app adoption in women's sports remains a fraction of men's leagues. The WNBA's push to monetize directly is sound economics—cut out middlemen, capture subscription revenue—but execution has created friction.\n\nThe league faces a balancing act. Blackout rules (intended to protect local broadcast partners and stadium attendance) alienate cord-cutters who expect unrestricted access. Fans migrating between apps to catch a full season's worth of games is friction the NBA solved years ago through League Pass consolidation. If the WNBA wants to convert the 500% subscriber surge into retention and upsell (merchandise, premium tiers), it needs unified platform experience, not fragmented access.",
       "tweets": []
     },
     {
       "category": "revenue",
+      "importance": 6,
+      "leadHeadline": "How To Find The Cheapest 2026 NBA Finals Tickets + On Sale Info",
+      "leadSource": "TicketIQ · 2h ago",
+      "leadUrl": "https://blog.ticketiq.com/blog/how-to-find-the-cheapest-nba-playoff-tickets",
+      "summary": "NBA Finals ticket inventory is live, with secondary market pricing reflecting early demand patterns and team matchup narrative. Get-in prices are trending directionally based on Finals probability.",
+      "article": "The 2026 NBA Finals secondary market opened this week, and early pricing tells a clear story: Finals probability models are already baked into seat costs. TicketIQ's analysis of opening inventory shows variance across potential matchups, with teams perceived as favorites commanding premium gate prices even in presale windows.\n\nFor price-hunting fans, the strategy hinges on playoff narrative. Teams with lower Finals odds (longer shots in oddsmakers' eyes) have cheaper get-in prices on secondary markets—simply because fewer fans believe they'll make it. As the playoffs progress and favorites emerge, prices will compress. A team upset in Round 2 sees instant price spikes if they advance; a favorite's early exit triggers a correction downward.\n\nTicket supply also matters. Finals inventory traditionally drops in summer months; demand spikes closer to June tip-off. Smart buyers either lock in presale prices now (before Finals teams are known, so pricing is speculative) or wait until after Conference Finals resolve, when secondary market supply jumps and prices stabilize. The risk-reward calculation is personal: presale locks in certainty (you'll get seats) at potentially higher prices. Waiting risks sellouts but could mean 10-20% savings if heavy favorites don't make it.\n\nGet-in prices (cheapest available seats) typically start in the $600-1,200 range for NBA Finals, with secondary market markups substantial. If this year's Finals matchup is a superstar marquee (Lakers-Celtics, Warriors-Heat), expect get-ins to floor around $800. If it's a surprise pairing (small-market team + unexpected contender), presale prices will feel like steals in hindsight.",
+      "tweets": [
+        {
+          "url": "https://twitter.com/TickPick/status/2059309572033036689",
+          "html": "<blockquote class=\"twitter-tweet\" align=\"left\" data-dnt=\"true\" data-theme=\"dark\"><p lang=\"en\" dir=\"ltr\">2025 NBA Finals vs. 2026 NBA Finals<br><br>$3,254: TOTAL cost to attend all seven games of the 2025 NBA Finals if you bought a last-minute ticket.<br><br>$3,480: Current get-in price for Game 3 of the 2026 NBA Finals in New York</p>&mdash; TickPick (@TickPick) <a href=\"https://x.com/TickPick/status/2059309572033036689?ref_src=twsrc%5Etfw\">May 26, 2026</a></blockquote>\n\n",
+          "author_name": "TickPick",
+          "author_url": "https://x.com/TickPick"
+        },
+        {
+          "url": "https://twitter.com/BleacherReport/status/2059346602805125225",
+          "html": "<blockquote class=\"twitter-tweet\" align=\"left\" data-dnt=\"true\" data-theme=\"dark\"><p lang=\"en\" dir=\"ltr\">Knicks NBA Finals tickets are the MOST EXPENSIVE of all-time 😱<br><br>Get-in prices:<br><br>Game 3: $3,876<br>Game 4: $3,609<br>Game 6: $5,022<br><br>(via <a href=\"https://x.com/TickPick?ref_src=twsrc%5Etfw\">@TickPick</a>)<br><br>Most expensive ticket here ➡️: <a href=\"https://t.co/PGfCiyctke\">https://t.co/PGfCiyctke</a> <a href=\"https://t.co/jRxETIPaVy\">pic.twitter.com/jRxETIPaVy</a></p>&mdash; Bleacher Report (@BleacherReport) <a href=\"https://x.com/BleacherReport/status/2059346602805125225?ref_src=twsrc%5Etfw\">May 26, 2026</a></blockquote>\n\n",
+          "author_name": "Bleacher Report",
+          "author_url": "https://x.com/BleacherReport"
+        }
+      ]
+    },
+    {
+      "category": "revenue",
+      "importance": 6,
+      "leadHeadline": "2026 Stanley Cup Final Ticket Prices: Hurricanes vs. Golden Knights",
+      "leadSource": "TicketIQ · 2h ago",
+      "leadUrl": "https://blog.ticketiq.com/blog/2019-nhl-playoff-tickets",
+      "summary": "Stanley Cup Final matchup between Hurricanes and Golden Knights shows early secondary market pricing; get-in prices and seat demand reflect expansion-era team narrative. Inventory trends favor patient buyers.",
+      "article": "The 2026 Stanley Cup Final between the Hurricanes and Golden Knights opened with secondary market pricing that reflects playoff fatigue, expansion-era surprise, and market size dynamics. Get-in prices landed in the expected range for Finals matchups, but noteworthy variance exists between venues.\n\nGolden Knights home games (Las Vegas) typically see higher absolute prices due to tourism demand and limited local seating capacity (T-Mobile Arena ~20K). Hurricanes home games (Raleigh, PNC Arena) offer cheaper get-ins, partly because Raleigh's smaller metro size and newer fanbase produce less speculative presale demand. For budget-conscious fans, Raleigh games represent value—especially early in a potential seven-game series, when supply is highest and desperation pricing hasn't kicked in.\n\nThe matchup narrative also matters: both teams are relative Cinderellas in modern NHL terms (Vegas is recent expansion, Carolina's market is smaller than traditional Original Six cities). Neither team has the blue-chip fanbase of a Leafs-Oilers Finals, so pricing won't approach the stratosphere. This is a solvable Finals ticket situation compared to other leagues' championship events.\n\nSecondary market inventory typically peaks after Conference Finals resolve. Sellers list aggressively, creating temporary price pressure downward. Smart buyers wait 24-48 hours post-Finals confirmation before locking in seats. Season-ticket holder dumps, combined with broker overstock, often trigger 10-15% discounts from opening presale prices. For a Finals matchup without true blue-chip cachet, the window to buy wisely is wider than usual.",
+      "tweets": []
+    },
+    {
+      "category": "leagues",
       "importance": 5,
-      "leadHeadline": "Dodgers' Brusdar Graterol has back surgery; return this season in jeopardy",
-      "leadSource": "NY Post Sports · now",
-      "leadUrl": "https://nypost.com/2026/06/01/sports/dodgers-brusdar-graterol-has-back-surgery/",
-      "summary": "Dodgers reliever Brusdar Graterol underwent back surgery Sunday, extending an 18-month injury odyssey that now threatens his availability for the remainder of the season. The setback deepens Los Angeles' bullpen depth crisis mid-run.",
-      "article": "Brusdar Graterol's injury saga deepened Sunday when the Dodgers reliever underwent back surgery—a procedure that casts serious doubt on his ability to contribute during the remainder of the 2026 season. The operation marked another chapter in an 18-month cycle of setbacks that has robbed the Dodgers of a reliever who once ranked among baseball's most reliable high-leverage arms.\n\nGraterol had been on a rehab assignment, attempting to return to competition following previous soft tissue issues that kept him sidelined through the opening months of the season. The back condition that necessitated surgery was not an acute injury—rather, a recurring structural problem that conservative treatment failed to resolve. Back surgeries in baseball carry variable recovery timelines; professional athletes typically require 4-6 months to return to full competition, placing Graterol on a probable trajectory that extends beyond the regular season.\n\nFor the Dodgers, the impact is immediate and material. Los Angeles has relied on a thin bullpen rotation during a division race, and Graterol's unavailability forces the team to either call up minor league depth or make midseason acquisitions from the trade market. Both options carry risk: minor league arms are unproven at the major league level, while in-season trades typically require surrendering prospects the organization needs for long-term competitive windows.\n\nGraterol's contract carries guaranteed money through 2026, meaning the Dodgers absorb the salary cost regardless of availability—a sunk-cost dynamic that adds financial sting to the baseball reality. The team will likely pursue external bullpen reinforcement, a move that tests both the farm system and the front office's conviction about this season's contention window.",
+      "leadHeadline": "Can Spurs-Thunder deliver a Finals-level Game 7 audience?",
+      "leadSource": "Sports Media Watch · 3h ago",
+      "leadUrl": "https://www.sportsmediawatch.com/2026/05/spurs-thunder-game-7-ratings-prediction-analysis/",
+      "summary": "With a Spurs-Thunder Game 7 looming, broadcast strategists face uncertainty: will viewers treat a semifinal Game 7 with Finals-level urgency? Market composition suggests mixed outlook. Early ratings predictions diverge from typical Game 7 benchmarks.",
+      "article": "The Spurs-Thunder Game 7 matchup presents a broadcast dilemma: Does a second-round, high-seed Conference Semifinal Game 7 draw Finals-level viewership, or does audience fatigue and lower playoff stakes suppress turnout? Sports Media Watch's analysis suggests the answer lands somewhere in between.\n\nHistorically, Game 7s command premium audiences regardless of round. The single-elimination drama—win or go home, full season on one game—transcends typical playoff hierarchies. A 2019 Raptors-76ers Game 7 (second round) drew 3.5M viewers on TNT. A 2020 Celtics-Heat Game 7 (Eastern Conference Finals, lower seeds) hit 2.1M. Finals Game 7s, by contrast, typically spike above 10M.\n\nThe Spurs-Thunder Game 7 will likely land in the 3-6M range on network television, depending on network placement (ESPN command higher cable viewership than TNT) and time slot. Market composition matters: Both franchises have national appeal (Spurs' legacy, Thunder's upside narrative), but neither carries the urban/cable-friendly demographics of Eastern Conference heavy-hitters.\n\nBroadcast placement is crucial. A Thursday or Friday night primetime slot hits 7-8PM ET, maximizing casual-viewer collateral. A Sunday afternoon slot depresses numbers—NBA fans are splintered across other sports (baseball ramping up, hockey Finals). The league has scheduling leverage here; placing this Game 7 strategically could push it toward the 5M+ range, a respectable non-Finals benchmark. If it lands in a bad slot, expect 2.5-3.5M—still meaningful, but below Game 7 historical norms.",
       "tweets": []
     },
     {
       "category": "leagues",
       "importance": 4,
-      "leadHeadline": "Record-holder Milner retires after 24-year career",
-      "leadSource": "BBC Sport · now",
-      "leadUrl": "https://www.bbc.com/sport/football/articles/clyp4jmyym0o?at_medium=RSS&amp;at_campaign=rss",
-      "summary": "James Milner, a 24-year Premier League veteran and 120-cap England international, announced his retirement Saturday after an era-spanning career marked by durability and consistency. His exit closes one of English football's longest-serving chapters.",
-      "article": "James Milner retired Saturday after 24 years in the Premier League—a tenure that positioned him as a rare constant across multiple generational cycles in English football. At 36, Milner's departure marks the end of a career defined by versatility, consistency, and an almost archival presence in the sport: he played under Hodgson, Allardyce, and Southgate in international football; operated across five different Premier League clubs; and accumulated 120 England caps while maintaining elite fitness standards that outlasted younger competitors.\n\nMilliner's longevity is quantifiable. He appeared in 573 Premier League matches across three decades, a career arc that included Champions League football, domestic cup victories, and the structural evolution of English football itself. Few athletes in any sport span as many technological, tactical, and commercial eras as Milner did. His final season was his first outside a Big Six club since 2004, a late-career repositioning that extended his availability and competitive relevance.\n\nThe retirement matters beyond nostalgia. Milner represented a template of sustainable athletic longevity—professional diet management, recovery protocols, and psychological discipline that allowed him to play at a high level well past the typical physical window. Younger players and teams will study his methodology: how to train, what to prioritize, how to position yourself for extended runs rather than short peaks.\n\nFor the Premier League, Milner's exit represents another generational turn. The league is systematically cycling out players from the 2010-2015 vintage. His absence opens minutes for emerging talents and accelerates the timeline toward a fully renovated competitive structure. Few players carry more institutional knowledge about English football's most recent era. Clubs will miss his presence as a locker room stabilizer and a on-field interpreter of tactical nuance.",
+      "leadHeadline": "Indiana's Bears Stadium Bid Gets More Real After Illinois Misses Chance",
+      "leadSource": "Front Office Sports · 4h ago",
+      "leadUrl": "https://frontofficesports.com/indianas-bears-stadium-bid-gets-more-real-after-illinois-misses-chance/",
+      "summary": "Illinois leaders failed to ratify the Bears stadium bill, strengthening Indiana's pitch to lure the franchise. Political recriminations mount as the Midwest stadium wars intensify. The Bears remain uncommitted publicly.",
+      "article": "Illinois' failure to ratify a Bears stadium funding bill this week handed Indiana a significant leverage advantage in the nascent bidding war to land the franchise. Chicago politicians deadlocked over public contribution structures, while Indianapolis accelerated its pitch—offering tax incentives, land options, and political will that Illinois appears unable to muster.\n\nThe timeline: Bears ownership (McClaskey family, controlling stakeholder Janice McNeal) had signaled a 2026 decision window on stadium relocation. Illinois had attempted to bundle $2B in public financing (combining city, state, and public investment vehicles) into a package palatable to both the Bears and taxpayers. The bill stalled in committee, facing GOP resistance over public spending ratios and union labor requirements.\n\nIndiana's countermove is asymmetrical. Indianapolis doesn't need legislative approval for land or tax credits; the city can offer direct incentives through existing economic development authorities. The Colts organization (Jim Irsay) is neutrally positioned—a new NFL tenant in Indianapolis wouldn't displace them. That's very different from Chicago's dynamic, where the Bears would cannibalize Soldier Field revenue and cross the city's political geography (Northwest Side opposition, South Side legacy concerns).\n\nWhether the Bears actually relocate remains speculative. Soldier Field carries franchise history; Chicago is the third-largest U.S. market. But Indiana's bid credibility just spiked. A new stadium in Indianapolis (or suburban areas with deeper tax bases) would cost the Bears substantially less than a Chicago renovation, and entail fewer political headwinds. Expect the family to remain publicly noncommittal while quietly soliciting detailed financials from both jurisdictions. Illinois has weeks to reconvene and counter-offer, but the momentum has shifted.",
       "tweets": []
     },
     {
-      "category": "leagues",
+      "category": "media",
       "importance": 3,
-      "leadHeadline": "2026 Womens College World Series: Texas Tech tops UCLA in 9 innings to reach semifinals; Texas also advances",
-      "leadSource": "CBS Sports · now",
-      "leadUrl": "https://www.cbssports.com/general/news/womens-college-world-series-schedule-2026-scores-bracket-tv-times/",
-      "summary": "Texas Tech defeated UCLA in 9 innings to reach the Women's College World Series semifinals, capping a day of elimination drama that narrowed the field to four teams. Both Texas and Texas Tech advanced, setting up a regional semifinal configuration.",
-      "article": "The Women's College World Series entered its semifinals Saturday after a day of elimination matchups in Oklahoma City that produced dramatic extra-inning finishes and regional shakeups. Texas Tech's 9-inning victory over top-seeded UCLA positioned the Red Raiders for a deeper run, while Texas's advancement created a Big 12 concentration in the final round.\n\nTexas Tech's win over UCLA is notable primarily for execution under pressure—the ability to extend a contest and capitalize on late-inning opportunities against a traditionally strong program. UCLA entered the tournament as a top seed, a designation that carries resource allocation and recruiting implications. The loss eliminates a Pac-12 program from contention, a continuation of the conference's declining footprint in women's college athletics as realignment reshuffles institutional priorities.\n\nTexas's advancement alongside Texas Tech creates a potential Big 12 semifinal matchup, a scenario that concentrates national television attention on the region and boosts conference visibility during a critical recruiting calendar window. Networks favor geographic clustering during tournament rounds—it simplifies production logistics and builds compelling narrative brackets around regional pride.\n\nThe field is now set. Four teams remain, two of which reside in Texas, creating a structural dynamic where the final rounds will either celebrate Big 12 dominance or force a reckoning with regional balance. For the schools involved, the semifinals represent a final gateway before the championship series, where television audiences expand and sponsorship activation increases. The semi-finalists will leverage that exposure for recruiting and donor engagement through the summer.",
+      "leadHeadline": "Paige Spiranac returning to $4 million Internet Invitational — after last years ended in cheating controversy and death threats",
+      "leadSource": "NY Post Sports · 5h ago",
+      "leadUrl": "https://nypost.com/2026/06/01/sports/paige-spiranac-competing-in-4-million-internet-invitational-after-controversy/",
+      "summary": "Paige Spiranac is returning to the $4M Internet Invitational golf event despite last year's cheating accusations and subsequent harassment. The return signals both event resilience and continued monetization of celebrity golf.",
+      "article": "Paige Spiranac confirmed her participation in the 2026 Internet Invitational, a $4M exhibition golf event, nearly a year after last year's edition imploded amid cheating accusations and coordinated online harassment. Her return represents both the event's recovery and a broader sports-media trend: celebrity golf tournaments can weather significant reputational blows if they offer sufficient prize money and audience reach.\n\nThe 2025 Internet Invitational drew controversy when one of Spiranac's shots was flagged by viewers as potentially improper (ball placement, rules interpretation). The accusation spiraled into death threats and coordinated social-media attacks against Spiranac and the event organizers. The scandal prompted apologies from the event and reassessments of how exhibition golf polices itself without PGA Tour oversight.\n\nYet the event survived. Sponsors renewed, streaming rights held, and organizers committed to better rules enforcement and moderation protocols. Spiranac's return—arguably the biggest name draw in celebrity golf—validates the economics: $4M in prize money, celebrity participation, and broadcast audience (YouTube/streaming-native) remain attractive despite reputational friction.\n\nThis mirrors the professional golf landscape's post-LIV normalization. Once-controversial figures and events become mainstream again if revenue and audience demand justify it. The Internet Invitational's format (celebrity golf, amateur participation, streaming-first distribution) represents the growing alternative-golf market outside traditional tours. Spiranac's participation signals that her reputation weathered the controversy and that the event can monetize her presence despite the baggage. Expect tighter rules enforcement and social-media moderation in 2026—the event has learned that scandal management requires both operational rigor and celebrity willingness to absorb criticism.",
       "tweets": []
     }
   ],
@@ -2438,18 +2419,83 @@
   },
   "deals": [],
   "ratings": [],
-  "ticket_prices": [],
-  "sidebar": [],
+  "ticket_prices": [
+    {
+      "event": "2026 NBA Finals",
+      "league": "NBA",
+      "get_in_usd": 800,
+      "avg_usd": null,
+      "direction": null,
+      "pct_change": 0,
+      "timeframe": null,
+      "storyIndex": 7,
+      "context": "Secondary market presale pricing opens for Finals matchup; get-in range reflects early demand and Finals probability models.",
+      "capturedAt": "2026-06-01T16:32:04.476Z"
+    }
+  ],
+  "sidebar": [
+    {
+      "headline": "The human in excelsis: why Victor Wembanyama is unlike anyone basketball has ever seen",
+      "source": "The Guardian · 6h ago",
+      "article": "Victor Wembanyama has redefined what NBA scouts mean by 'unicorn.' The Spurs forward combines size (7'4\"), ballhandling, shooting range, and defensive versatility in a way no prior generation could replicate. The question has shifted from 'Can a player this size do everything?' to 'What can't he do?' Wembanyama's rookie season has already produced highlight-reel moments that reframe the franchise's timeline. San Antonio is no longer rebuilding; it's repriming around a foundational talent that transcends positional categories."
+    },
+    {
+      "headline": "Serena Williams confirms her tennis comeback at Queen's next week aged 44",
+      "source": "The Guardian · 7h ago",
+      "article": "Serena Williams announced her return to competitive tennis at the Queen's Club Championships, partnering with Victoria Mboko in doubles at age 44. The comeback represents a full-circle moment for the most decorated player of the modern era. Queen's, where Williams won multiple times during her peak, offers a lower-pressure re-entry point than Wimbledon. The announcement reset retirement narratives in tennis and opened speculation about potential Wimbledon participation—a venue where Williams won 7 titles. Professional tennis media immediately recalibrated storylines around her potential impact on broadcast viewership and sponsorship interest."
+    },
+    {
+      "headline": "Measuring potential future impact of Blue Jays standout rookie class",
+      "source": "Sportsnet · 8h ago",
+      "article": "The Toronto Blue Jays fielded one of baseball's best rookie classes in 2026, and Sportsnet's analysis compares their collective trajectory to prior championship-era draft classes. The cohort's production—league-average offensive contributions and above-average defense—suggests the Jays might have finally cracked their drafting weakness. If the group sustains (injury-dependent, always) and the front office adds veteran bats around them, Toronto's window could extend 5-7 years. Comparable past classes (2009 Rays, 2012 Orioles) produced playoff-contender rosters. The variance: durability of youth arms in a 162-game season."
+    },
+    {
+      "headline": "Tennis Star Elina Svitolina Joins French Startup Tiva's Funding Round",
+      "source": "Sportico · 9h ago",
+      "article": "Elina Svitolina, world No. 7, joined a funding round for Tiva, a French sports-tech startup focused on athlete performance data and biometric monitoring. The investment signals an emerging trend: elite athletes are leveraging personal brands to back startups aligned with their sport-science interests. Svitolina's participation adds credibility to Tiva's pitch to professional tennis tours and federations. The deal's terms weren't disclosed, but Sportico's reporting suggests the startup is positioning itself as a competitor to longer-established player-performance platforms used by ATP and WTA tours. Athlete investors bring not just capital but distribution channels—Svitolina's endorsement carries weight with peer athletes and tournament organizers evaluating new tech."
+    },
+    {
+      "headline": "'You legend. Manager loved it' - Southampton's Spygate WhatsApps revealed",
+      "source": "BBC Sport · 10h ago",
+      "article": "Leaked WhatsApp messages revealed Southampton's orchestrated spying campaign against Championship rivals, with coaching staff explicitly praising the intelligence-gathering operation. The scandal implicates multiple staff members in what amounts to organized competitive cheating. BBC Sport's reporting includes direct quotes from internal messages celebrating successful surveillance of opponents' training sessions and tactical preparations. The Football League is investigating; disciplinary action could include points deductions or transfer bans. The incident reflects broader Premier/Championship anxieties over information asymmetries—teams with larger analytics departments can gain competitive edges through data. Spygate suggests some franchises are willing to blur legal and ethical lines to level that field."
+    },
+    {
+      "headline": "Betting the Patriots in 2026: See how New England's win total, Super Bowl odds are trending and our best bets",
+      "source": "CBS Sports · 11h ago",
+      "article": "CBS Sports' 2026 NFL futures analysis shows the Patriots at inflated win-total odds despite off-season roster changes and draft additions. Sportsbooks are still pricing in New England's organizational dysfunction and recent mediocrity. The over on Patriots wins is an edge play if the team's new quarterback proves serviceable and the defense adds promised pass-rush help. Super Bowl odds remain bleak (25-1 or longer), but a 10-win season (pushing the win-total over) is plausible if injuries cooperate. The analysis includes schedule strength (soft early stretch), strength-of-record variance (divisional games are toss-ups), and motivational factors (new regime, veteran presence). CBS's best bet: take the Patriots over unless the current quarterback situation clarifies negatively in preseason."
+    }
+  ],
   "poll": {
-    "question": "Which sports business story will have the biggest impact this week?",
+    "question": "Will Russell Wilson's transition to CBS studio boost the network's NFL pregame ratings?",
     "options": [
-      "Sorsby Took Part in Illegal Bets in Texas, NCAA Says",
-      "Can Spurs-Thunder deliver a Finals-level Game 7 audienc",
-      "Champions League Fallout: Prize Money, Unrest, and Arse",
-      "Christian Pulisic wanted to talk about something else. "
+      "Yes—his name recognition will drive cable viewership by 5%+ in Year 1",
+      "Slightly—Wilson adds credibility but studio ratings are largely immune to talent swaps",
+      "No—studio shows are driven by game interest and schedule, not on-air talent",
+      "Too early to call—depends on his performance and network promotion budget"
     ]
   },
-  "predictions": [],
+  "predictions": [
+    {
+      "statement": "The WNBA's 500% app subscription surge sustains through 2026, but retention drops 30% by season end due to fragmented platform experience.",
+      "probability": 68,
+      "rationale": "Acquisition spikes (500% growth) typically exceed retention in direct-to-consumer models, especially when underlying platform UX is flawed. Blackout rules and multi-app ecosystem are structural friction points. Historical precedent: MLS's app saw similar post-2021 surge decay."
+    },
+    {
+      "statement": "The Bears remain in Chicago and ratify a stadium deal worth $2.5B+ in public funding before December 2026.",
+      "probability": 72,
+      "rationale": "Illinois will reconvene with a sweeter offer once Indiana's bid becomes public. The Bears' ownership wants certainty, and Chicago's market size and legacy make relocation genuinely uncertain. Expect legislators to rush a revised bill through before Indiana's offer crystallizes."
+    },
+    {
+      "statement": "Spurs-Thunder Game 7 ratings exceed 4M viewers, setting a non-Finals Game 7 benchmark for 2026.",
+      "probability": 54,
+      "rationale": "Both teams have national appeal, but playoff fatigue and subfinals narrative weight against turnout. Network placement is the wildcard—primetime slot could push it to 5M; afternoon slot drops it to 2.5M. 50-50 odds on league scheduling strategically."
+    },
+    {
+      "statement": "Victor Wembanyama wins Defensive Player of the Year by 2028, becoming the first forward to win it in 15+ years.",
+      "probability": 41,
+      "rationale": "His defensive versatility is genuinely generational, but DPOY voting traditionally favors volume defensive contributors (big men, perimeter scorers). Wembanyama will generate votes, but the award's structural bias toward shot-blockers and steals-leaders makes the ask challenging. Higher probability if Spurs' overall D rankings improve materially."
+    }
+  ],
   "injuries": [],
   "picks": [
     {
@@ -2463,38 +2509,38 @@
       "confidence": "medium"
     }
   ],
-  "updatedAt": "2026-06-01T08:28:09.062Z",
+  "updatedAt": "2026-04-23T18:00:00Z",
   "highlights": [
     {
       "league": "NBA",
-      "title": "The Most ELECTRIC Spurs Plays of the Postseason 🤯",
-      "videoId": "kFA_daZrer8",
-      "thumbnail": "https://img.youtube.com/vi/kFA_daZrer8/mqdefault.jpg",
-      "timeAgo": "15h ago",
+      "title": "Victor Wembanyama's Most ELECTRIC Plays of the Postseason 🔥",
+      "videoId": "V0TUaTn4Otc",
+      "thumbnail": "https://img.youtube.com/vi/V0TUaTn4Otc/mqdefault.jpg",
+      "timeAgo": "2h ago",
       "isFallback": false
     },
     {
       "league": "NFL",
-      "title": "Steve Smith Sr. had to call out Eagles fans 👀",
-      "videoId": "VLtv98x9KdE",
-      "thumbnail": "https://img.youtube.com/vi/VLtv98x9KdE/mqdefault.jpg",
-      "timeAgo": "3d ago",
+      "title": "Stephen A. thinks A.J. Brown's LACK OF FAITH in Jalen Hurts could lead to Pats trade 😦 | First Take",
+      "videoId": "qQ1XjalbOiM",
+      "thumbnail": "https://img.youtube.com/vi/qQ1XjalbOiM/mqdefault.jpg",
+      "timeAgo": "1h ago",
       "isFallback": false
     },
     {
       "league": "MLB",
-      "title": "Shohei Ohtani: the NL MVP AND Cy Young frontrunner? 🦄 (May 2026 MLB Highlights)",
-      "videoId": "k6bR9yM8xRw",
-      "thumbnail": "https://img.youtube.com/vi/k6bR9yM8xRw/mqdefault.jpg",
-      "timeAgo": "5h ago",
+      "title": "When home run balls return 🤣",
+      "videoId": "0sOECjJpY0Y",
+      "thumbnail": "https://img.youtube.com/vi/0sOECjJpY0Y/mqdefault.jpg",
+      "timeAgo": "Just now",
       "isFallback": false
     },
     {
       "league": "NHL",
-      "title": "The Stanley Cup, Described by NHL Champions 🏆",
-      "videoId": "_NmVYWGTNCo",
-      "thumbnail": "https://img.youtube.com/vi/_NmVYWGTNCo/mqdefault.jpg",
-      "timeAgo": "11h ago",
+      "title": "Carolina Hurricanes Media Day LIVE | Stanley Cup Final",
+      "videoId": "wwdW4ngWWO8",
+      "thumbnail": "https://img.youtube.com/vi/wwdW4ngWWO8/mqdefault.jpg",
+      "timeAgo": "19h ago",
       "isFallback": false
     },
     {
@@ -2502,15 +2548,15 @@
       "title": "Las Vegas Aces vs. Golden State Valkyries | FULL GAME HIGHLIGHTS | May 31, 2026",
       "videoId": "0EgMLBvaQNQ",
       "thumbnail": "https://img.youtube.com/vi/0EgMLBvaQNQ/mqdefault.jpg",
-      "timeAgo": "10h ago",
+      "timeAgo": "18h ago",
       "isFallback": false
     },
     {
       "league": "SOCCER",
-      "title": "What a goal 🔥 (via citysoccerfcwomen, Amy_14_Neal/IG)",
-      "videoId": "58F58Kq_Ass",
-      "thumbnail": "https://img.youtube.com/vi/58F58Kq_Ass/mqdefault.jpg",
-      "timeAgo": "8h ago",
+      "title": "Red, White And Clueless",
+      "videoId": "-gAf74li0JU",
+      "thumbnail": "https://img.youtube.com/vi/-gAf74li0JU/mqdefault.jpg",
+      "timeAgo": "2h ago",
       "isFallback": false
     }
   ]
