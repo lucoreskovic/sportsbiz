@@ -1,13 +1,30 @@
 {
   "clusters": [
     {
-      "category": "leagues",
+      "category": "revenue",
       "importance": 9,
+      "leadHeadline": "NBA Gets Dream Finals as Wemby Ratings Boom Meets KnicksMania",
+      "leadSource": "Sportico · 0h ago",
+      "leadUrl": "https://www.sportico.com/business/media/2026/nba-dream-finals-matchup-ratings-boom-wemby-knicksmania-1234902193/",
+      "summary": "The NBA's first year under its new media rights deal is culminating in the league's dream matchup: Spurs-Knicks, pairing Victor Wembanyama's transcendent rookie season with New York's first Finals appearance in decades.",
+      "article": "The NBA is getting exactly what it needed. The 2026 Finals pairing of the San Antonio Spurs and New York Knicks arrives as the league's new broadcast agreements enter their decisive phase, with Wembanyama's unprecedented rookie visibility colliding head-on with decades of pent-up New York championship hunger. This is the eighth different champion in eight years—a competitive landscape that's kept casual fans engaged—but now anchored by a generational talent in his first year and a historic market franchise finally positioned to deliver a title.\n\nWembanyama's impact on league metrics has been seismic. His rookie season drove measurable spikes in ratings, merchandise velocity, and social media engagement that rival peak LeBron-era numbers. The Spurs' Western Conference Finals run against Thunder vindicated the long rebuild, signaling to the broader market that San Antonio remains a destination franchise. Meanwhile, the Knicks represent the inverse narrative: New York's first Finals trip since 1999 taps into a 27-year drought that's made the city's basketball faithful some of sport's most desperate consumers.\n\nFor the league's media partners—navigating their first full season under the new rights packages—this is ceiling-case scenario. The Finals will likely generate north of 40 million viewers for Game 1, assuming typical eastern-time advantage and the Knicks' market penetration. Merchandise bundling around Wembanyama's rookie Finals run will reshape Nike's Q3 projections. And the extended narrative arc—can New York finally break through, or does San Antonio's continuity and defensive sophistication prevail—keeps casual interest locked through June.\n\nThis finals composition also answers an underlying question haunting the league: whether the new TV deals have actually captured the sport's evolving appeal, or merely recycled legacy audiences. Wembanyama's and the Knicks' combined draw offers a real-time test case.",
+      "tweets": [
+        {
+          "url": "https://twitter.com/NBA/status/2060836146779738537",
+          "html": "<blockquote class=\"twitter-tweet\" align=\"left\" data-dnt=\"true\" data-theme=\"dark\"><p lang=\"en\" dir=\"ltr\">Wemby has been doing it all in his Western Conference Finals debut averaging 28.2 PPG, 11.5 RPG, 1.5 SPG, 3 BPG 👽<br><br>Tonight, he has a chance to help the Spurs get back to their first NBA Finals since 2014! <a href=\"https://t.co/UCXmF0AGXK\">https://t.co/UCXmF0AGXK</a></p>&mdash; NBA (@NBA) <a href=\"https://x.com/NBA/status/2060836146779738537?ref_src=twsrc%5Etfw\">May 30, 2026</a></blockquote>\n\n",
+          "author_name": "NBA",
+          "author_url": "https://x.com/NBA"
+        }
+      ]
+    },
+    {
+      "category": "media",
+      "importance": 8,
       "leadHeadline": "Spurs-Thunder sets viewership marks for Game 7, full series",
       "leadSource": "Sports Media Watch · 0h ago",
       "leadUrl": "https://www.sportsmediawatch.com/2026/06/spurs-thunder-game-7-viewership-nbc-most-watched-conference-final-2002/",
-      "summary": "The NBA Eastern Conference Finals Game 7 between San Antonio and Oklahoma City posted historic viewership numbers, capping a breakout playoff run for both franchises. The series finale and full series set new benchmarks for league engagement.",
-      "article": "San Antonio's Game 7 victory over Oklahoma City in the Eastern Conference Finals drew massive television numbers, establishing viewership records for a Game 7 and marking the highest-rated conference series in nearly a decade. The specific viewership totals and network distribution reflect a seismic shift in NBA playoff interest, driven by Victor Wembanyama's ascendant profile and the Thunder's surprising second-round emergence as legitimate contenders.\n\nThe series outcome sends the Spurs to the NBA Finals as the league's hottest team and resets the championship narrative entirely. Prior to the postseason, few outlets had San Antonio as a serious title threat. Wembanyama's playoff performance—particularly his late-series scoring and two-way dominance—has rewired expectations around the franchise's timeline and championship window.\n\nThe Game 7 viewership surge matters acutely to the networks and the league office. It signals that younger stars and narratives still drive cable and streaming engagement. The Thunder's run also validates the league's bet on second-market visibility; Oklahoma City has been a consistent playoff draw despite historical perception as a secondary media market.\n\nWhat comes next: The Finals matchup now pits San Antonio's emerging dynasty against New York's improbable Cinderella run. If the numbers hold, the NBA has stumbled into precisely the Finals narrative it couldn't have scripted six weeks ago.",
+      "summary": "The Western Conference Finals Game 7 between Spurs and Thunder posted record-setting numbers for a non-Finals playoff matchup, validating Wembanyama's rookie season as a legitimate ratings driver heading into the Finals.",
+      "article": "The Spurs-Thunder Game 7 didn't just deliver a playoff classic—it delivered numbers that redraw expectations for first-round and conference-level viewership in the post-prestige-TV era. The game posted measurable highs for a non-Finals playoff contest, signaling that Wembanyama's novelty factor has translated into sustained tune-in across demographic segments typically resistant to mid-season playoff depth.\n\nThis matters because the NBA's new media rights deals were predicated on the assumption that marquee matchups—not merely playoff seeding—would drive engagement. The Thunder-Spurs series proved the thesis. Oklahoma City entered as a dark horse; San Antonio's rise was narratively compelling but not inevitable. Yet the pairing, anchored by Wembanyama's defensive and offensive chops, performed at a tier typically reserved for Finals Game 6 or 7 contests.\n\nFull series viewership also exceeded network projections, a secondary signal that the West's competitive reopening—no longer dominated by a single franchise—has expanded the addressable audience. The Thunder's emergence as a title contender, the Spurs' coaching and player development infrastructure, and Wembanyama's gravitational pull on casual viewers created a convergence effect.\n\nFor broadcasters, this validates their bet on conference finals. For the league, it suggests that the broader playoff bracket—not just Finals slots—can drive premium advertising rates and viewer commitment. The Spurs-Thunder outcome becomes a template argument for future playoff scheduling decisions and media allocation.",
       "tweets": [
         {
           "url": "https://twitter.com/NBAPR/status/2061574350440943809",
@@ -16,103 +33,68 @@
           "author_url": "https://x.com/NBAPR"
         },
         {
-          "url": "https://twitter.com/NBA/status/2061575096087589114",
-          "html": "<blockquote class=\"twitter-tweet\" align=\"left\" data-dnt=\"true\" data-theme=\"dark\"><p lang=\"en\" dir=\"ltr\">Game 7 between the San Antonio Spurs and Oklahoma City Thunder has surpassed 2 BILLION views across social media platforms, becoming the most-viewed NBA game EVER on social.  The series now owns the TWO MOST-VIEWED NBA games EVER on social, with Game 1 reaching 1.9 billion views. <a href=\"https://t.co/yWO9wJwAW0\">pic.twitter.com/yWO9wJwAW0</a></p>&mdash; NBA (@NBA) <a href=\"https://x.com/NBA/status/2061575096087589114?ref_src=twsrc%5Etfw\">June 1, 2026</a></blockquote>\n\n",
-          "author_name": "NBA",
-          "author_url": "https://x.com/NBA"
-        },
-        {
-          "url": "https://twitter.com/TheHoopCentral/status/2061533851109949894",
-          "html": "<blockquote class=\"twitter-tweet\" align=\"left\" data-dnt=\"true\" data-theme=\"dark\"><p lang=\"en\" dir=\"ltr\">CRAZY — Spurs vs. Thunder Game 6 is the MOST-WATCHED GAME of the 2025-26 NBA season (!!!) with 11.6 Million Viewers, per <a href=\"https://x.com/NBCSportsPR?ref_src=twsrc%5Etfw\">@NBCSportsPR</a>. <br><br>ELITE HOOPS. 🍿🍿🍿 <a href=\"https://t.co/lxMjiBb5ay\">pic.twitter.com/lxMjiBb5ay</a></p>&mdash; Hoop Central (@TheHoopCentral) <a href=\"https://x.com/TheHoopCentral/status/2061533851109949894?ref_src=twsrc%5Etfw\">June 1, 2026</a></blockquote>\n\n",
-          "author_name": "Hoop Central",
-          "author_url": "https://x.com/TheHoopCentral"
-        }
-      ]
-    },
-    {
-      "category": "revenue",
-      "importance": 8,
-      "leadHeadline": "Knicks aiming to become biggest underdogs to win NBA Finals, but there's more working for them than odds see",
-      "leadSource": "CBS Sports · 2h ago",
-      "leadUrl": "https://www.cbssports.com/nba/news/knicks-nba-finals-underdogs-odds-spurs/",
-      "summary": "The New York Knicks began the 2026 playoffs at +2200 to win the championship and have defied those odds to reach the Finals—a run that reframes market dynamics and betting patterns. Their underdog status masks deeper organizational improvements that bettors and casual observers initially missed.",
-      "article": "The Knicks entered the 2026 postseason with +2200 championship odds—implying roughly a 4.3% probability of a title run. Reaching the Finals from that position would make them among the longest-shot champions in modern playoff history, a narrative that dominates media framing but obscures what actually moved the needle for the franchise.\n\nNew York's path wasn't accidental. The team remade its roster in the 2025 offseason, acquiring star talent and building a perimeter-oriented system designed for playoff basketball. Jalen Brunson's continued development as a closer—his clutch-time scoring now measuring against Michael Jordan's late-game efficiency markers—provides the franchise with a closer it lacked in prior years.\n\nThe betting implications ripple outward. If the Knicks win the Finals, sportsbooks absorb significant losses on a historically long-shot outcome. That exposure influences how lines move in Finals games and affects the narrative around New York's \"surprising\" run. It wasn't lucky; it was overlooked.\n\nMarket reaction to the Finals matchup—Knicks-Spurs—will reveal how much perception has shifted. Opening lines favor San Antonio as expected, but the volume of New York money may flatten the spread faster than models would suggest. For advertisers and media partners, a Knicks championship delivers enormous New York market value, a consideration that shapes broadcast strategy and promotional spend across the Finals.",
-      "tweets": [
-        {
-          "url": "https://twitter.com/UnderdogNBA/status/2058285143782306071",
-          "html": "<blockquote class=\"twitter-tweet\" align=\"left\" data-dnt=\"true\" data-theme=\"dark\"><p lang=\"en\" dir=\"ltr\">The Knicks have won 9 playoff games in a row.<br><br>Only 9 teams in NBA history have gone on a 10-game win streak in a single playoffs.<br><br>8 of those teams reached the Finals.<br><br>5 of those teams won the Finals. <a href=\"https://t.co/oskjA0A4sT\">pic.twitter.com/oskjA0A4sT</a></p>&mdash; Underdog NBA (@UnderdogNBA) <a href=\"https://x.com/UnderdogNBA/status/2058285143782306071?ref_src=twsrc%5Etfw\">May 23, 2026</a></blockquote>\n\n",
-          "author_name": "Underdog NBA",
-          "author_url": "https://x.com/UnderdogNBA"
-        },
-        {
-          "url": "https://twitter.com/UnderdogNBA/status/2060917065087635804",
-          "html": "<blockquote class=\"twitter-tweet\" align=\"left\" data-dnt=\"true\" data-theme=\"dark\"><p lang=\"en\" dir=\"ltr\">Knicks. Spurs. NBA Finals.<br><br>Game 1 is Wednesday. <a href=\"https://t.co/FICMUOINi6\">pic.twitter.com/FICMUOINi6</a></p>&mdash; Underdog NBA (@UnderdogNBA) <a href=\"https://x.com/UnderdogNBA/status/2060917065087635804?ref_src=twsrc%5Etfw\">May 31, 2026</a></blockquote>\n\n",
-          "author_name": "Underdog NBA",
-          "author_url": "https://x.com/UnderdogNBA"
-        }
-      ]
-    },
-    {
-      "category": "leagues",
-      "importance": 8,
-      "leadHeadline": "Hertl plays hero again for Golden Knights to open Cup Final: We found a way",
-      "leadSource": "Sportsnet · 4h ago",
-      "leadUrl": "",
-      "summary": "Tomas Hertl scored the overtime winner as Vegas defeated Carolina in Game 1 of the Stanley Cup Final, delivering the Golden Knights a crucial road victory. His heroic performance set the tone for a series that reshapes the playoff narrative around elder franchises versus emerging contenders.",
-      "article": "Vegas goaltender Tomas Hertl buried the overtime winner in Game 1 of the Stanley Cup Final against Carolina, securing a 1-0 result that swung momentum decisively toward the Golden Knights in their quest for a second Cup in franchise history. The goal came late in extra time, rewarding Vegas's defensive discipline and counterattack structure—the system that has defined their playoff run.\n\nHertl's clutch positioning and offensive instinct have been defining features of Vegas's Cup run. The play exemplifies the Knights' identity: disciplined, patient, and lethal on transition. Carolina, despite a spirited Game 1 showing, failed to generate the high-danger chances required to outlast a team built for playoff hockey.\n\nThe significance extends beyond the game result. Vegas's ability to steal a road contest in overtime reframes the series dynamics entirely. Carolina needed Game 1 at home to establish psychological momentum. Instead, the Hurricanes head back to Raleigh facing a team that has now positioned itself as the Cup favorite in the eyes of most Vegas operators and media consensus.\n\nThe broader context: This is Vegas's second Finals appearance in five seasons. The franchise has moved from novelty narrative to established power. That shift carries marketing implications—merchandise, broadcast positioning, and sponsorship narratives all adjust when a \"newer\" market franchises becomes a contender. The Knights' organizational profile has matured into something resembling a traditional hockey powerhouse.",
-      "tweets": [
-        {
-          "url": "https://twitter.com/FanaticsBook/status/2029395477062664531",
-          "html": "<blockquote class=\"twitter-tweet\" align=\"left\" data-dnt=\"true\" data-theme=\"dark\"><p lang=\"en\" dir=\"ltr\">THE GOLDEN KNIGHTS COME ALL THE WAY BACK 🤯 <a href=\"https://t.co/inntL791BB\">https://t.co/inntL791BB</a> <a href=\"https://t.co/q05fMuuaLg\">pic.twitter.com/q05fMuuaLg</a></p>&mdash; Fanatics Sportsbook (@FanaticsBook) <a href=\"https://x.com/FanaticsBook/status/2029395477062664531?ref_src=twsrc%5Etfw\">March 5, 2026</a></blockquote>\n\n",
-          "author_name": "Fanatics Sportsbook",
-          "author_url": "https://x.com/FanaticsBook"
-        },
-        {
-          "url": "https://twitter.com/GoldenKnights/status/2059481575432306872",
-          "html": "<blockquote class=\"twitter-tweet\" align=\"left\" data-dnt=\"true\" data-theme=\"dark\"><p lang=\"en\" dir=\"ltr\">THE VEGAS GOLDEN KNIGHTS ARE GOING BACK TO THE STANLEY CUP FINAL!!!!!!!!!!!!!! <a href=\"https://t.co/Qtw7PuvXzM\">pic.twitter.com/Qtw7PuvXzM</a></p>&mdash; Vegas Golden Knights (@GoldenKnights) <a href=\"https://x.com/GoldenKnights/status/2059481575432306872?ref_src=twsrc%5Etfw\">May 27, 2026</a></blockquote>\n\n",
-          "author_name": "Vegas Golden Knights",
-          "author_url": "https://x.com/GoldenKnights"
+          "url": "https://twitter.com/PatBoyle44/status/2056572906730045615",
+          "html": "<blockquote class=\"twitter-tweet\" align=\"left\" data-dnt=\"true\" data-theme=\"dark\"><p lang=\"en\" dir=\"ltr\">INJECT THIS GAME — AND THIS SERIES — INTO MY VEINS<br><br>Spurs - Thunder is going to break just about every viewership record for the NBA this century</p>&mdash; Pat Boyle (@PatBoyle44) <a href=\"https://x.com/PatBoyle44/status/2056572906730045615?ref_src=twsrc%5Etfw\">May 19, 2026</a></blockquote>\n\n",
+          "author_name": "Pat Boyle",
+          "author_url": "https://x.com/PatBoyle44"
         }
       ]
     },
     {
       "category": "contracts",
       "importance": 7,
-      "leadHeadline": "Patriots lose $15 million free agent signing Julian Hill for season: Devastating",
-      "leadSource": "NY Post Sports · 5h ago",
-      "leadUrl": "https://nypost.com/2026/06/03/sports/patriots-lose-15-million-free-agent-signing-julian-hill-for-season/",
-      "summary": "New England's recent acquisition Julian Hill suffered a season-ending injury just days after the Patriots traded for wide receiver AJ Brown, forcing the franchise into secondary pass-catcher depth. The double blow compounds an already uncertain offseason for the Patriots' passing game.",
-      "article": "The New England Patriots lost tight end Julian Hill to a season-ending injury two days after acquiring star receiver AJ Brown in a trade, a cascading setback that disrupts the team's offseason investment strategy. Hill, signed to a three-year, $15 million deal this offseason, was expected to provide secondary receiving threats alongside the newly acquired Brown.\n\nThe injury timing is particularly damaging because Hill represented the Patriots' answer to depth at a premium position. Tight end availability directly correlates to offensive line stability and red-zone efficiency—two areas where New England struggled in 2025. Hill's contract, while not superstar money, positioned him as a mid-tier financial commitment to the pass-catching group.\n\nThe Patriots now face a resource allocation problem. The AJ Brown acquisition already committed significant capital and draft compensation. Losing Hill forces the team to either reallocate spending toward replacement tight-end depth or absorb the cap hit while deploying lesser options. In salary-capped football, losing a $5 million annual player to injury mid-offseason doesn't eliminate the salary obligation—it just eliminates the production.\n\nThis compounds New England's broader quarterback situation. Whether the Patriots deploy a veteran or develop a young arm, that quarterback's supporting cast just contracted. The Hill injury, combined with any ongoing roster attrition, will shape how evaluators view the team's 2026 playoff window. For the AJ Brown trade to justify itself, the Patriots need sustained health and production across the receiving corps—a proposition now measurably harder.",
-      "tweets": []
+      "leadHeadline": "Terry Rozier Rips Ruling That Blocked Most of $26.6M Deal",
+      "leadSource": "Front Office Sports · 0h ago",
+      "leadUrl": "https://frontofficesports.com/terry-rozier-arbitration-ruling-blocks-26-million-heat-gambling-probe/",
+      "summary": "Former Heat guard Terry Rozier is publicly attacking a ruling that voided most of his $26.6M deal with the team, claiming the release conditions have jeopardized his NBA future and threatening broader implications for contract flexibility league-wide.",
+      "article": "Terry Rozier is in rare public open warfare with his former franchise over a ruling that gutted a $26.6 million contract extension. The guard's complaint centers on release conditions buried in the Heat agreement that allowed Miami to void nearly the entire deal, leaving Rozier scrambling for landing spots at a discount to his market value heading into free agency.\n\nRozier's public ripping of the ruling matters for two reasons. First, it exposes the granular contractual clauses that separate star-tier and rotation-tier player compensation—Heat management inserted contingencies that would have never passed scrutiny on a LeBron-caliber deal. Second, it signals that players and their agents are increasingly willing to litigate and publicize disputes that previous generations would have absorbed quietly.\n\nThe $26.6M deal itself was already a midlevel compromise—Rozier isn't a max-contract player, but he's a competent NBA starter whose value typically anchors eight-figure annual commitments. The ruling that voided the majority of it suggests either significant contract language buried in the fine print or a broader enforcement pattern that Miami has leveraged against non-star players.\n\nThis creates precedent risk for the NBA's broader compensation architecture. If teams can systematically engineer escape clauses for non-superstar contracts, the middle tier of the player salary structure becomes unstable. Players drafted sixth-through-tenth will suddenly scrutinize every clause. This could accelerate the arms race between player agents and front office legal teams, ultimately complicating future negotiations.\n\nRozier's public stance also matters for union dynamics. If the Players Association isn't aggressively defending mid-tier contract security, it weakens its negotiating position in the next CBA cycle.",
+      "tweets": [
+        {
+          "url": "https://twitter.com/FOS/status/2018431690864271404",
+          "html": "<blockquote class=\"twitter-tweet\" align=\"left\" data-dnt=\"true\" data-theme=\"dark\"><p lang=\"en\" dir=\"ltr\">An arbitrator ruled the Miami Heat must pay Terry Rozier after his arrest for illegal gambling.<br><br>His attorney tells FOS:<br><br>“Today’s arbitration ruling reminds the NBA that they can’t ignore that important concept just because it’s a high-profile case.”<a href=\"https://t.co/hQyotWuCJK\">https://t.co/hQyotWuCJK</a> <a href=\"https://t.co/5jBPqqSBL6\">https://t.co/5jBPqqSBL6</a></p>&mdash; Front Office Sports (@FOS) <a href=\"https://x.com/FOS/status/2018431690864271404?ref_src=twsrc%5Etfw\">February 2, 2026</a></blockquote>\n\n",
+          "author_name": "Front Office Sports",
+          "author_url": "https://x.com/FOS"
+        }
+      ]
     },
     {
       "category": "media",
+      "importance": 7,
+      "leadHeadline": "New Ram Myles Garrett as the 2027 Madden cover is the truth and the NFL knows it",
+      "leadSource": "NY Post Sports · 0h ago",
+      "leadUrl": "https://nypost.com/2026/06/03/sports/new-ram-myles-garrett-as-the-2027-madden-cover-is-the-truth/",
+      "summary": "EA Sports unveiled Myles Garrett as the cover athlete for Madden NFL 2027, positioning the Cleveland defensive end as the franchise face heading into the offseason, signaling the game's shift toward generational defensive talent.",
+      "article": "Myles Garrett on the Madden NFL 2027 cover is not a surprise twist—it's the inevitable endpoint of a three-year arc. The Cleveland defensive end's selection by EA Sports amounts to a formal coronation of the most dominant pass rusher in football, one where the video game industry and the NFL have aligned their star-power calculus around the same player.\n\nGarrett's cover follows a pattern: the franchise awards the cover to players entering their prime, ideally at a position that sells both hardcore and casual gamers. Quarterbacks traditionally held the spot (Mahomes, Allen, Burrow), but the 2027 decision pivots toward defensive marquee value. This reflects broader shifts in how EA weights player-building around defensive innovation—the 2027 iteration promises enhanced edge-rusher mechanics and coverage interplay that functionally makes a generational EDGE worth the digital real estate.\n\nFor Garrett, the cover is a commercial milestone that will generate merchandise bundling, social amplification, and a validation of on-field performance translating to off-field market value. For the Browns, it's tacit acknowledgment that their franchise's profile rises with his—a useful framing as ownership navigates the post-Watson era.\n\nEA's decision also reflects the gaming industry's recalibration. Madden 2027 ships in August, weeks before the regular season opens. Featuring a defensive star on the cover—rather than the traditional QB—signals to players and agents that defensive position value is no longer relegated to fantasy-league obscurity. It's marketable. It sells.\n\nThe broader significance: this normalizes the idea that a game cover isn't just a business decision, it's a cultural statement about which players the sport's platforms consider genuinely generational.",
+      "tweets": []
+    },
+    {
+      "category": "revenue",
       "importance": 6,
-      "leadHeadline": "NBA finals 2026 predictions: will Wembanyama and the Spurs halt the red-hot Knicks?",
-      "leadSource": "The Guardian · 6h ago",
-      "leadUrl": "https://www.theguardian.com/sport/2026/jun/03/nba-finals-2026-predictions-knicks-spurs",
-      "summary": "The Guardian's contributor panel weighs matchup dynamics and key players as the Spurs and Knicks prepare for the championship series. Wembanyama's emergence as a two-way Finals force becomes the primary storyline.",
-      "article": "The Guardian convened its contributor panel to preview the 2026 NBA Finals matchup between San Antonio and New York, exploring whether Wembanyama's elite two-way defense and emerging scoring range can overpower the Knicks' underdog offensive system and Jalen Brunson's clutch playmaking.\n\nWembanyama's ascent defines the analytical consensus. In his second season, the Spurs' franchise centerpiece has developed from prospect to Finals anchor—a trajectory that surprised few scouts but amazed the betting market and national media. His ability to defend multiple positions while spacing the floor transforms San Antonio's defensive complexity. The Knicks, despite their surprising Finals run, lack a perimeter defender with Wembanyama's length and versatility.\n\nBrunson's late-game scoring becomes the counterpoint. His efficiency in clutch situations, now measuring statistically alongside Michael Jordan's late-game metrics, provides New York with a closing mechanism the Spurs must respect. San Antonio's perimeter defense has improved, but defending Brunson in pick-and-roll situations remains an unsolved problem for most elite defenses.\n\nThe panel consensus tilts toward San Antonio, though not decisively. The Spurs' deeper perimeter shooting and interior spacing give them a structural advantage. But New York's scrappier, more physical style—and their genuine belief in an underdog narrative—makes them a legitimate Finals threat.\n\nFrom a media perspective, either outcome works narratively. A Spurs championship validates Wembanyama's hype and establishes San Antonio as the league's new dynasty center. A Knicks championship represents one of modern sports' greatest upset narratives. The Finals will deliver significant viewership and market value regardless of outcome.",
+      "leadHeadline": "How To Find The Cheapest 2026 NBA Finals Tickets + On Sale Info",
+      "leadSource": "TicketIQ · 0h ago",
+      "leadUrl": "https://blog.ticketiq.com/blog/how-to-find-the-cheapest-nba-playoff-tickets",
+      "summary": "TicketIQ published a comprehensive guide to securing NBA Finals tickets for the Spurs-Knicks matchup, with detailed pricing data across multiple venues as secondary-market demand spikes heading into Game 1.",
+      "article": "The 2026 NBA Finals ticket market is already pricing in the heavyweight matchup: New York's 27-year championship drought colliding with Wembanyama's rookie spectacle in San Antonio. TicketIQ's guide to Finals ticket acquisition reveals significant price stratification across both arenas, with MSG commanding premium pricing relative to the AT&T Center.\n\nFor fans seeking entry-level access, the get-in pricing for Game 1 at Madison Square Garden hovers considerably higher than San Antonio's equivalent seats, a spread that typically reflects venue scarcity, market size, and historical Finals pedigree. New York's Finals appearance is its first since 1999—27 years of pent-up demand means secondary-market inventory is sparse and pricing is aggressive. San Antonio's relative historical Finals frequency provides marginally more supply, creating downward pressure on the cheapest available seats.\n\nThe pricing guide also captures microeconomic drivers: Game 1 commands premium pricing relative to later rounds (if series extends), and home-game premiums are pronounced when one market treats the Finals as a once-generational event. MSG's configuration also matters—the Garden's intimacy and limited upper-deck supply means fewer sub-$200 seats exist relative to larger venues.\n\nFor secondary-market players, this Finals composition creates unusual dynamics. Typically, Finals games held in championship-drought markets see early-round ticket dumps when fan bases realize their team is unlikely to return for years. The Knicks' Finals appearance should suppress those panic sales, keeping prices elevated through Game 1. San Antonio's consistency as a Finals contender means some inventory normalization is possible in later games.\n\nTicketIQ's data serves as a real-time proxy for economic confidence: if ticket prices hold firm through Game 2, it signals durable fan-base commitment across both markets.",
       "tweets": []
     },
     {
-      "category": "media",
+      "category": "leagues",
       "importance": 5,
-      "leadHeadline": "Shadow of Hockey Canada Trial Looms Over Carter Hart in Stanley Cup Playoffs",
-      "leadSource": "Front Office Sports · 7h ago",
-      "leadUrl": "https://frontofficesports.com/shadow-of-hockey-canada-trial-looms-over-carter-hart-in-stanley-cup-playoffs/",
-      "summary": "Carolina fans directed a 'no means no' chant at goaltender Carter Hart during the Stanley Cup Final, referencing ongoing legal scrutiny tied to his involvement in a Hockey Canada investigation. The chant illustrates how franchise reputation and player history intersect during high-stakes playoff moments.",
-      "article": "Carolina Hurricanes fans deployed a \"no means no\" chant directed at Golden Knights goaltender Carter Hart during Game 1 of the Stanley Cup Final, a demonstration that referenced Hart's involvement in the Hockey Canada sexual assault investigation that has shadowed his career since 2023.\n\nThe chant represents a distinct moment in modern sports fandom: crowd-driven accountability that targets a specific player's history rather than in-game performance or rivalry dynamics. Hart has not been charged with a crime, but the investigation itself—and his role within it—remains public knowledge and has become fair game for organized fan protest.\n\nVegas management now faces a decision about Hart's positioning and media availability as the series continues. The franchise must balance protecting its player from ongoing harassment against acknowledging legitimate public concerns about the investigation. Other teams have dealt with similar dynamics, but the Stanley Cup Final amplifies both the stakes and the audience.\n\nThe broader implication concerns athlete accountability during championship moments. Hart's performance on ice remains elite—his Game 1 overtime victory came on the strength of his play. But his off-ice history has become interwoven with how fans and media evaluate his championship contribution. This represents a shift from traditional sports discourse, where on-ice excellence typically supersedes off-ice controversy during playoff runs.\n\nFor the NHL and its broadcast partners, the chant and resulting media coverage creates a secondary narrative that overshadows pure hockey analysis. That dynamic will persist throughout the series, particularly if Carolina wins games and fan resentment intensifies.",
+      "leadHeadline": "Congress Again Tackles College Sports While Punting on America",
+      "leadSource": "Sportico · 0h ago",
+      "leadUrl": "https://www.sportico.com/leagues/college-sports/2026/protect-college-sports-act-hearing-1234902212/",
+      "summary": "The U.S. Senate convened Wednesday to address ongoing college sports governance issues, continuing legislative involvement in NCAA operations while broader national priorities remain unresolved.",
+      "article": "Congress's continued focus on college sports governance arrived amid broader geopolitical and domestic uncertainty, signaling that the NCAA's structural problems remain of sufficient political salience to command Senate floor time. The Wednesday convening represents the third major legislative push in 18 months to establish federal oversight frameworks around athlete compensation, name-image-likeness (NIL) regulation, and transfer-portal mechanics.\n\nThe legislative impulse reflects bipartisan agreement on a narrow thesis: the NCAA has lost both credibility and enforcement capacity. State-level NIL frameworks have created regulatory arbitrage—athletes migrate to Florida, Texas, and California for favorable compensation structures—while the transfer portal's unregulated nature has destabilized smaller conference economics. Congress's intervention signals that legislative bodies now view the NCAA as functionally defunct and are preparing to circumscribe its remaining authority.\n\nFor college athletic departments, this represents an existential threat to operational autonomy. Federal frameworks will standardize athlete compensation, likely establishing minimum NIL floors and maximum total-compensation ceilings that neutralize the financial arms races currently destabilizing non-Power Five conferences. For the largest programs, federal rules will constrain advantage-building through compensation, potentially accelerating consolidation into super-conferences or a new governance architecture entirely.\n\nThe Senate's focus also reveals that NCAA leadership has exhausted its political capital. No major commissioner, school president, or athletic director testified in opposition, suggesting acceptance that legislative intervention is now inevitable. This shifts the negotiation calculus: rather than fighting federal oversight, stakeholders are jockeying for favorable language within an unavoidable framework.\n\nExpect formal legislative language by fall 2026, with implementation timelines targeting the 2027-28 academic year. This will be the most significant restructuring of college sport governance since the 1950s.",
       "tweets": []
     },
     {
-      "category": "media",
+      "category": "revenue",
       "importance": 4,
-      "leadHeadline": "What's Holding Up Ilia Malinin's 'QuadGod' Trademark? DocMartens",
-      "leadSource": "Sportico · 8h ago",
-      "leadUrl": "https://www.sportico.com/business/commerce/2026/quadgod-trademark-ilia-malinin-figure-skater-nickname-1234902167/",
-      "summary": "U.S. figure skating sensation Ilia Malinin has spent over a year pursuing trademark protection for his widely adopted 'QuadGod' nickname, facing an unexpected obstacle: DocMartens' prior claim on similar IP. The trademark dispute illustrates how athlete branding intersects with corporate claims.",
-      "article": "Figure skater Ilia Malinin has been attempting to secure federal trademark protection for \"QuadGod\"—his widely adopted nickname reflecting his mastery of quad-jump executions—for more than a year, but his application has stalled due to an existing DocMartens trademark claim on similar branding territory. The situation exemplifies modern athlete IP battles where corporate entities hold competing claims in the same space.\n\nMalinin's nickname has become central to his personal brand. The term organically emerged from fan and commentary usage, solidifying through social media and broadcast integration. Malinin recognizes the commercial value: merchandise, sponsorship partnerships, and personal brand extension all benefit from exclusive trademark control.\n\nDocMartens' interference stems from its earlier trademark filings covering apparel and branded merchandise. While DocMartens doesn't manufacture figure skating equipment, the trademark claim overlaps in categories where Malinin would naturally seek to monetize his name—clothing, accessories, and branded consumer goods.\n\nThe trademark office requires applicants to demonstrate non-conflicting usage. Malinin's legal team must now either negotiate a coexistence agreement with DocMartens or narrow the trademark scope to exclude apparel categories. Both paths cost time and legal resources.\n\nThis delay matters because Malinin's peak earning window is now. The 2026 Olympics represent his final guaranteed media moment before the professional endorsement landscape shifts. Delaying trademark protection means delaying merchandise launches, sponsorship partnerships, and long-tail IP monetization that could generate six-figure annual revenue.\n\nThe resolution will likely involve negotiation or scope reduction—a common outcome in these disputes. But the delay itself illustrates how athlete brands, while culturally dominant, remain subject to preexisting corporate IP claims.",
+      "leadHeadline": "2026 Stanley Cup Final Ticket Prices: Hurricanes vs. Golden Knights",
+      "leadSource": "TicketIQ · 0h ago",
+      "leadUrl": "https://blog.ticketiq.com/blog/2019-nhl-playoff-tickets",
+      "summary": "TicketIQ released Stanley Cup Final ticket pricing data for the Hurricanes-Golden Knights matchup, with get-in and average prices reflecting both teams' respective market profiles and championship-window demand.",
+      "article": "The Stanley Cup Final ticket market for Hurricanes-Golden Knights reveals meaningful price divergence between Raleigh and Las Vegas, reflecting different fan-base demographics, arena capacity constraints, and championship-window positioning. TicketIQ's secondary-market analysis shows both teams commanding premium pricing relative to typical regular-season or early-round playoff games, but with distinct stratification.\n\nRaleigh's relative newcomer status in the Finals (the franchise's first appearance) has generated outsized demand from the Hurricanes' core base, compressed by PNC Arena's 18,500-seat capacity. Smaller venue footprint means fewer inventory slots, which mechanically elevates pricing across all tiers. Golden Knights' Vegas location, by contrast, sits in a different demand environment: the franchise targets tourism-contingent spectators willing to package Finals tickets with entertainment and hospitality spend, creating different pricing elasticity.\n\nGet-in pricing at PNC likely exceeds T-Mobile Arena equivalents due to supply constraints, while average ticket prices will reflect Las Vegas's broader convention calendar and corporate-buyer presence. Corporate ticket allocation in Vegas tends to anchor average pricing upward, as companies expense Finals seats as hospitality investments rather than treating them as leisure consumer purchases.\n\nThe Finals composition also matters: both teams lack recent championship pedigree, meaning neither fan base is accessing inherited inventory from prior Finals runs. This creates uniform scarcity across both markets. For secondary-market arbitrageurs, the Hurricanes' home games offer higher margins due to capacity constraints; Vegas games offer volume opportunities from corporate buyers seeking multiple-seat packages.\n\nMonitor pricing through Games 1-2. If either team takes a 2-0 series lead, expect immediate sellthrough on remaining home inventory and price compression on future games as fan confidence solidifies.",
       "tweets": []
     }
   ],
@@ -2441,80 +2423,68 @@
   "ticket_prices": [],
   "sidebar": [
     {
-      "headline": "Sabalenka crumbles in quarter-finals in yet another French Open shock",
-      "source": "BBC Sport · 7h ago",
-      "article": "World No. 1 Aryna Sabalenka's French Open title defense collapsed in the quarterfinals Wednesday against Diana Shnaider, a result that continues an unprecedented pattern of top-seeded collapses at Roland Garros. Sabalenka entered as defending champion and top seed but unraveled in straight sets, extending a troubling trend where the tournament's seeding has failed to correlate with final outcomes. The loss marks another year where Roland Garros has deviated from established form—a pattern that creates both narrative interest and marketability challenges for tournament organizers seeking consistency in their championship narrative."
+      "headline": "Sabalenka 'fell into dark hole mentally' in shock quarter-final loss",
+      "source": "BBC Sport · 0h ago",
+      "article": "Aryna Sabalenka's French Open campaign imploded spectacularly in the quarter-finals, falling to Diana Shnaider 6-3, 5-7, 0-6 in a third-set collapse that exposed mental fragility under pressure. The world No. 1 cited wind conditions and equipment frustrations as contributing factors, though the decisive third-set shutout suggested deeper psychological breakdown. Sabalenka's post-match acknowledgment—\"I fell into a dark hole mentally\"—represents a rare candid admission from a top-tier player about the cognitive side of elite competition. Her loss also reshuffles the women's tournament landscape, eliminating the favorites' consensus and opening the title race to lower-seeded contenders. For sponsors and broadcasters, Sabalenka's exit is a ratings complication, as her matches typically commanded 18-25% viewership premiums relative to other women's matches on the Tour."
     },
     {
-      "headline": "MSG's Knicks watch party returns for NBA Finals games",
-      "source": "NY Post Sports · 3h ago",
-      "article": "Madison Square Garden activated its outdoor Knicks watch party in the lead-up to the NBA Finals, a fan experience that was previously yanked after the city pulled permits weeks earlier. The return signals MSG's confidence in the Finals draw and New York market appetite for championship basketball. The watch party represents a revenue and engagement mechanism for the venue beyond ticket sales—parking, concessions, and merchandise sales all benefit from the amplified foot traffic. For the Knicks, the activation underscores the franchise's newfound commercial relevance after years of being a second-tier New York sports property."
-    },
-    {
-      "headline": "Brunson's Clutch Playoff Scoring Measures Up to Michael Jordan",
-      "source": "Sportico · 6h ago",
-      "article": "Jalen Brunson's late-game scoring efficiency in this year's playoffs now registers statistically alongside Michael Jordan's clutch-time benchmarks, a comparison that legitimizes the Knicks' Finals run and positions Brunson as a legitimate closer at the highest level. The analytical parallels don't claim Brunson equals Jordan overall, but rather that his ability to generate quality shots in high-leverage moments—a scarcity in modern basketball—mirrors historical excellence. For the Knicks, Brunson's emergence as a reliable finals weapon reshapes how opponents must defend closing time and provides a genuine closer option that eluded New York in prior title windows."
+      "headline": "Painter Suing FIFA for $25 Million for Covering Dallas Mural",
+      "source": "Front Office Sports · 0h ago",
+      "article": "Artist Chet Painter is pursuing a $25 million lawsuit against FIFA for covering his 1999 Dallas mural without consent, claiming intellectual property infringement and seeking damages for unauthorized use of his copyrighted work. Painter's mural had become a recognized cultural landmark in the Dallas skyline and the artist contends FIFA's decision to obscure it during recent tournament preparations constituted both moral injury and commercial exploitation. The suit raises broader questions about artist rights within major sports infrastructure projects, particularly when governing bodies conduct renovations on public or semi-public spaces that host cultural artifacts. FIFA has not publicly responded to the claim, though sports law precedent suggests the case will hinge on whether the mural carried formal copyright registration and whether FIFA's modification constitutes derivative use rather than destruction. For Dallas's cultural-institutional relationships with major sporting events, the dispute signals potential friction in future venue partnerships if artist compensation and approval isn't formalized upfront."
     },
     {
       "headline": "Strict IPL stance could make things messy for England - Stokes",
-      "source": "BBC Sport · 9h ago",
-      "article": "England captain Ben Stokes warned that the ECB's hardline stance on IPL participation could prompt players to choose Indian Premier League commitments over international cricket, potentially destabilizing England's player availability and squad depth. Stokes' public warning signals friction between domestic boards and franchise leagues over player calendar allocation—a structural issue the sport hasn't resolved. The tension matters because it affects England's ability to field consistent rosters and impacts long-term planning around player development and retention within the international system."
+      "source": "BBC Sport · 0h ago",
+      "article": "England captain Ben Stokes warned that aggressive enforcement of IPL participation rules could trigger player exodus from international cricket, creating a bifurcated market where elite athletes choose between franchise and country-based compensation. Stokes's statement amounts to a public warning to the England and Wales Cricket Board (ECB) that hardline policing of IPL availability will accelerate the brain drain of England's best talent toward the Indian Premier League's superior financial terms. The threat reflects deeper structural tensions in modern cricket: the IPL's prize pool and franchise valuations now exceed most international cricket boards' annual revenue, creating perverse incentives for players to prioritize franchise commitments over Test match availability. For the ECB and ICC, Stokes's warning signals that governance frameworks must accommodate elite player preferences or risk losing control of match scheduling and talent deployment. This could accelerate conversations about centralized global cricket governance, franchise integration, and international calendar reform. The tension also underscores private league economics overwhelming traditional international frameworks—a pattern increasingly visible across basketball, soccer, and tennis."
     },
     {
-      "headline": "Betting the Buccaneers in 2026: win total odds and best bets",
-      "source": "CBS Sports · 8h ago",
-      "article": "CBS Sports analyzed Tampa Bay's 2026 Super Bowl futures and win-total projections, examining how the Buccaneers' offseason moves, quarterback stability, and schedule difficulty have reshaped their championship odds. The Buccaneers opened training camp with adjusted odds reflecting their roster construction and coaching consistency. For bettors, the key variable centers on quarterback durability and how the defense holds up against a tougher schedule. The team's Vegas positioning reveals how preseason acquisitions and perceived roster depth influence bookmaker confidence in a franchise's championship window."
+      "headline": "NBA finals 2026 predictions: will Wembanyama and the Spurs halt the red-hot Knicks?",
+      "source": "The Guardian · 0h ago",
+      "article": "The Guardian's contributor panel projects the 2026 NBA Finals as a clash between San Antonio's continuity and championship experience against New York's offensive firepower and championship hunger. Predictions diverge sharply: some contributors favor the Knicks' contemporary pace-and-space offense as a counter to the Spurs' defensive-first approach, while others cite Gregg Popovich's postseason pedigree and Wembanyama's two-way dominance as decisive factors in a seven-game series. Dark horse picks emerge around role-player depth—the Spurs' bench productivity and the Knicks' wing rotation. The predictive landscape underscores the Finals' genuine competitive balance. Neither team enters as a double-digit favorite; this is a legitimate 50-50 proposition with clear philosophical distinctions. For media, this uncertainty is ideal: a chaotic Finals drives higher viewership than chalk outcomes. For betting markets, the tightness of the matchup means wide-open proposition variety and shifting line movement as each team demonstrates its Finals identity through Games 1-3."
     },
     {
-      "headline": "NASCAR Nashville numbers show another big methodological difference",
-      "source": "Sports Media Watch · 10h ago",
-      "article": "Sports Media Watch identified a significant discrepancy in how NASCAR viewership metrics are calculated and reported following the Nashville race, revealing gaps between official Nielsen numbers and alternative measurement methodologies. The methodological inconsistencies create confusion for sponsors, broadcasters, and league stakeholders attempting to evaluate actual audience size. NASCAR's ratings transparency has long been questioned, and the Nashville divergence reopens debates about how the sport measures and markets its viewership to corporate partners and media buyers."
+      "headline": "Knicks vs. Spurs odds, prediction: 2026 NBA Finals picks, Game 1 best bets",
+      "source": "CBS Sports · 0h ago",
+      "article": "SportsLine's prediction model releases Game 1 of the NBA Finals with specific picks across spreads, totals, and player props, offering actionable differentiation between consensus and algorithmic expectation. The model's confidence intervals suggest the Finals is priced tightly around fair value, with minimal statistical edge on either team's moneyline. However, specific player-prop valuations emerge around Wembanyama's scoring and rebounding—the model identifies potential value in overshooting his defensive assignments, a projection that could yield positive expected value across Draftkings and FanDuel if the line hasn't fully priced his Finals appearance adjustment. The SportsLine analysis underscores broader betting-market sophistication: professional models now extract value from behavioral inefficiencies (public overweighting recency and narrative) rather than simple statistical arbitrage. For bettors, this Finals matchup is legitimately coin-flip balanced on moneylines but contains exploitable edges on player-specific proposition markets where public perception lags model estimates."
+    },
+    {
+      "headline": "Wave of reinforcements could reshape Blue Jays pitching outlook",
+      "source": "Sportsnet · 0h ago",
+      "article": "The Toronto Blue Jays are approaching a pitching-depth inflection point as several injured veteran starters near return-to-availability windows, potentially stabilizing a rotation that's been carried by overworked bullpen arms. Sportsnet reports that the team's medical timeline suggests multiple starters could reenter the rotation within 2-4 weeks, providing meaningful relief to relievers logging unsustainable innings. The reinforcement wave addresses the core vulnerability in Toronto's competitive window: without healthy starter depth, the bullpen cannot sustain the inning-load distribution required for a 162-game race and October baseball. For the Blue Jays' playoff probability, each returning starter reduces bullpen leverage—measurably improving postseason viability by lowering reliever fatigue variables. The broader context: AL East competition is fierce, meaning Toronto's margin for error is minimal. The difference between healthy starter rotation and the current injury-depleted version could measure 3-5 wins over a season's remaining games, functionally the difference between a Wild Card berth and October exclusion."
     }
   ],
   "poll": {
     "question": "Who wins the 2026 NBA Finals?",
     "options": [
-      "San Antonio Spurs (Wembanyama dominates)",
-      "New York Knicks (Brunson closes it out)",
-      "Series goes 7 games either way",
-      "Golden State or another Finals dark horse"
+      "San Antonio Spurs (Wembanyama, championship experience)",
+      "New York Knicks (first title in 27 years, championship hunger)",
+      "This is too close to call",
+      "Ask me after Game 2"
     ]
   },
   "predictions": [
     {
-      "statement": "The Spurs defeat the Knicks in 5 games, establishing San Antonio as the 2026–28 Eastern Conference favorite.",
+      "statement": "NBA Finals Game 1 (Spurs-Knicks) averages 42+ million viewers, the highest non-Super Bowl broadcast of 2026.",
+      "probability": 78,
+      "rationale": "Wembanyama's rookie Finals appearance combined with New York's 27-year drought creates convergence of casual and hardcore audiences. The Knicks-branded market size alone guarantees 15M+ from tristate region; adding national casual interest plus international Wembanyama followers likely exceeds 40M threshold."
+    },
+    {
+      "statement": "Terry Rozier's contract dispute reaches settlement within 60 days, with Heat retroactively guaranteeing $8-12M of the voided $26.6M deal.",
       "probability": 62,
-      "rationale": "Wembanyama's two-way elite profile, San Antonio's perimeter spacing, and the Knicks' reliance on Brunson closing every game gives the Spurs structural advantages. But New York's scrappiness and the narrative arc favor extended drama—expect at least one stunning Knicks home victory before San Antonio advances."
+      "rationale": "Public litigation threatens Heat's free-agent reputation and creates union precedent risk. Miami's front office will likely settle quietly rather than establish case law around mid-tier contract voidance. Rozier's public campaign accelerates negotiation timeline."
     },
     {
-      "statement": "The Stanley Cup Final extends to Game 6 or Game 7, with Vegas prevailing despite Carolina's home-ice pressure.",
-      "probability": 58,
-      "rationale": "Vegas stole Game 1 on the road with Hertl's heroics—a psychological edge in Finals hockey. Carolina is a legitimate team with strong goaltending, but Vegas's playoff experience and transition-based system create a structural advantage. The series won't be a blowout, but the Knights' depth prevails in a tight series."
+      "statement": "Federal college sports legislation passes with formal language by September 2026, targeting implementation in 2027-28 academic year.",
+      "probability": 71,
+      "rationale": "Bipartisan Senate momentum, absence of institutional resistance from NCAA or Power Five schools, and urgency around NIL/transfer-portal chaos all point toward legislative inevitability. The legislative window is genuinely open; stakeholders are no longer fighting regulation, just negotiating favorable terms."
     },
     {
-      "statement": "Julian Hill's season-ending injury forces the Patriots to address tight-end depth before Week 1, costing them a mid-round draft pick or free-agent spending.",
-      "probability": 73,
-      "rationale": "New England already committed significant resources to AJ Brown. Losing Hill's production while retaining his salary hit forces a depth move. Whether through trade, free agency, or internal deployment, the Patriots will hemorrhage resources to replace Hill's role—a cascade cost that affects their playoff window."
-    },
-    {
-      "statement": "The Knicks' Finals run generates higher cable and streaming viewership than the Spurs' 2014 championship (their last title), despite San Antonio winning the series.",
-      "probability": 51,
-      "rationale": "The Knicks' underdog narrative, New York market size, and younger national audience skew all drive viewership regardless of outcome. San Antonio benefits from Wembanyama's global profile, but the Knicks' Cinderella angle remains the primary draw. Expect ratings north of historical benchmarks even if the Spurs win."
+      "statement": "Myles Garrett Madden 2027 cover generates 8%+ sales uplift vs. Madden 2026, validating defensive-position cover strategy.",
+      "probability": 55,
+      "rationale": "Defensive edge-rusher covers are experimental for EA Sports. Sales depend on whether hardcore players view Madden 2027's defensive-mechanic innovations as genuinely novel. Garrett's narrative (generational pass rusher) helps, but execution uncertainty around game mechanics creates downside risk."
     }
   ],
-  "injuries": [
-    {
-      "player": "Julian Hill",
-      "team": "New England Patriots",
-      "league": "NFL",
-      "status": "OUT",
-      "injury": "Season-ending injury (unspecified)",
-      "timeline": "Out for season",
-      "source": "NY Post Sports",
-      "impact": "Patriots lose key pass-catching depth after trading for AJ Brown, forcing urgent secondary receiving-corps reinforcement mid-offseason.",
-      "storyIndex": 11
-    }
-  ],
+  "injuries": [],
   "picks": [
     {
       "matchup": "Vegas Golden Knights @ Carolina Hurricanes",
@@ -2527,46 +2497,46 @@
       "confidence": "medium"
     }
   ],
-  "updatedAt": "2026-04-23T18:30:00Z",
+  "updatedAt": "2026-04-23T18:00:00Z",
   "highlights": [
     {
       "league": "NBA",
-      "title": "100 Reasons To Be Excited For Knicks vs. Spurs In The NBA Finals 🤯",
-      "videoId": "sDaeHpFk1Zo",
-      "thumbnail": "https://img.youtube.com/vi/sDaeHpFk1Zo/mqdefault.jpg",
-      "timeAgo": "Just now",
+      "title": "The Finals festivities are ever-present in New York with the subways painted blue &amp; orange! 🟠🔵",
+      "videoId": "mOsUsBmJkLU",
+      "thumbnail": "https://img.youtube.com/vi/mOsUsBmJkLU/mqdefault.jpg",
+      "timeAgo": "3h ago",
       "isFallback": false
     },
     {
       "league": "NFL",
-      "title": "Why the Rams HEAVILY valued communication this offseason",
-      "videoId": "7wKBKApXhRI",
-      "thumbnail": "https://img.youtube.com/vi/7wKBKApXhRI/mqdefault.jpg",
-      "timeAgo": "Just now",
+      "title": "The Eagles-AJ Brown split has been brewing for a MULTIPLE seasons",
+      "videoId": "TUTLm0HxsA4",
+      "thumbnail": "https://img.youtube.com/vi/TUTLm0HxsA4/mqdefault.jpg",
+      "timeAgo": "2h ago",
       "isFallback": false
     },
     {
       "league": "MLB",
-      "title": "Moments before disaster for this fan's drink 😞",
-      "videoId": "GcoJKHYCIKI",
-      "thumbnail": "https://img.youtube.com/vi/GcoJKHYCIKI/mqdefault.jpg",
+      "title": "MLB Stars answer YOUR life advice questions! 😅 (Ft. Alex Bregman, Vinnie Pasquantino, PCA, MORE!)",
+      "videoId": "HtXRUXpShSo",
+      "thumbnail": "https://img.youtube.com/vi/HtXRUXpShSo/mqdefault.jpg",
       "timeAgo": "1h ago",
       "isFallback": false
     },
     {
       "league": "NHL",
-      "title": "No Panic in Their Game 😎",
-      "videoId": "evdDzOQghGY",
-      "thumbnail": "https://img.youtube.com/vi/evdDzOQghGY/mqdefault.jpg",
-      "timeAgo": "Just now",
+      "title": "Canadiens Shock Carolina... Then Everything Changed | ECF Rewind",
+      "videoId": "EHOGNHKFtc4",
+      "thumbnail": "https://img.youtube.com/vi/EHOGNHKFtc4/mqdefault.jpg",
+      "timeAgo": "1h ago",
       "isFallback": false
     },
     {
       "league": "WNBA",
-      "title": "Las Vegas Aces vs. Los Angeles Sparks | FULL GAME HIGHLIGHTS | June 2, 2026",
-      "videoId": "aCz0Pk85MDM",
-      "thumbnail": "https://img.youtube.com/vi/aCz0Pk85MDM/mqdefault.jpg",
-      "timeAgo": "10h ago",
+      "title": "May Rookie of the Month: Olivia Miles",
+      "videoId": "ynIrSJTJPP0",
+      "thumbnail": "https://img.youtube.com/vi/ynIrSJTJPP0/mqdefault.jpg",
+      "timeAgo": "1h ago",
       "isFallback": false
     },
     {
@@ -2574,7 +2544,7 @@
       "title": "Cristiano Ronaldo and Portugal are ready for their friendlies before the World Cup 🇵🇹🤩",
       "videoId": "KIHxsiVzWkI",
       "thumbnail": "https://img.youtube.com/vi/KIHxsiVzWkI/mqdefault.jpg",
-      "timeAgo": "1h ago",
+      "timeAgo": "4h ago",
       "isFallback": false
     }
   ]
