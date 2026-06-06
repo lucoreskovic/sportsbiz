@@ -1704,6 +1704,36 @@
      into full native tweet cards (avatars, verified checks, reply/like counts).
      Loads async; our renderFeed() calls twttr.widgets.load() after injecting HTML. -->
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<!-- ─── SITE TRAFFIC ANALYTICS (GoatCounter) ──────────────────────────────────
+     Free, cookie-free, privacy-friendly visitor counting for static sites.
+     SETUP (one time):
+       1. Create a free account at https://www.goatcounter.com/signup
+       2. Choose a site code (e.g. "sportsbiznow") — dashboard will live at
+          https://sportsbiznow.goatcounter.com
+       3. Replace SB_GOATCOUNTER_CODE below with that code.
+     Until the code is set, no script loads and nothing is tracked.
+     Tab switches are counted as virtual pageviews (/tab/picks, /tab/market,
+     /sub/scores, ...) so the dashboard shows which sections people actually use. -->
+<script>
+  window.SB_GOATCOUNTER_CODE = '';  // ← your GoatCounter site code, e.g. 'sportsbiznow'
+  (function () {
+    if (!window.SB_GOATCOUNTER_CODE) return;
+    var s = document.createElement('script');
+    s.async = true;
+    s.src = 'https://gc.zgo.at/count.js';
+    s.setAttribute('data-goatcounter', 'https://' + window.SB_GOATCOUNTER_CODE + '.goatcounter.com/count');
+    document.head.appendChild(s);
+  })();
+  // Safe no-op tracker: records a virtual pageview if GoatCounter is loaded,
+  // silently does nothing otherwise. Never throws, never blocks the UI.
+  window.sbTrack = function (path) {
+    try {
+      if (window.goatcounter && typeof window.goatcounter.count === 'function') {
+        window.goatcounter.count({ path: path, title: path, event: false });
+      }
+    } catch (e) { /* analytics must never break the site */ }
+  };
+</script>
 </head>
 <body>
 
@@ -2657,6 +2687,7 @@
 
   function filterCat(btn, cat) {
     activeCat = cat;
+    if (window.sbTrack) sbTrack('/tab/' + cat);
     document.querySelectorAll('.nav-pill').forEach(function(p){p.classList.remove('active');});
     btn.classList.add('active');
     // Body class controls full-bleed layout for Reels (hides sidebar + toolbar).
@@ -2683,6 +2714,7 @@
 
   function filterSub(btn, sub) {
     activeSub = sub;
+    if (window.sbTrack) sbTrack('/sub/' + sub);
     document.querySelectorAll('.subnav-pill').forEach(function(p){p.classList.remove('active');});
     if (btn) btn.classList.add('active');
     renderActiveSub();
