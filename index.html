@@ -3746,6 +3746,10 @@
     // The Odds API isn't always available for every game; picks without a
     // snapshot still display, just without the inline "@ DraftKings" tag.
     rawPicks = rawPicks.slice().sort(function(a, b) {
+      // Edge tier always renders above the value board.
+      var aBoard = (a.tier === 'board') ? 1 : 0;
+      var bBoard = (b.tier === 'board') ? 1 : 0;
+      if (aBoard !== bBoard) return aBoard - bBoard;
       var aSnap = !!(a.marketSnapshot && a.marketSnapshot.markets);
       var bSnap = !!(b.marketSnapshot && b.marketSnapshot.markets);
       if (aSnap !== bSnap) return bSnap - aSnap;
@@ -3783,6 +3787,11 @@
       var bg    = confBg[conf]    || confBg.medium;
       var t     = typeInfo[(p.type || '').toLowerCase()] || { label: 'Pick', fg: 'var(--ink-2)', bg: 'var(--surface-2)' };
       var typeTag = '<span style="display:inline-block;font-size:9px;font-weight:600;letter-spacing:.08em;text-transform:uppercase;padding:2px 8px;border-radius:3px;background:' + t.bg + ';color:' + t.fg + ';">' + esc(t.label) + '</span>';
+      // Tier badge: edge picks get the accent treatment (they carry the record's
+      // headline plays); board picks get a quiet neutral tag.
+      var tierTag = (p.tier === 'board')
+        ? '<span style="display:inline-block;font-size:9px;font-weight:600;letter-spacing:.08em;text-transform:uppercase;padding:2px 8px;border-radius:3px;background:var(--surface-2);color:var(--ink-3);border:1px solid var(--rule);">Value Board</span>'
+        : '<span style="display:inline-block;font-size:9px;font-weight:700;letter-spacing:.08em;text-transform:uppercase;padding:2px 8px;border-radius:3px;background:var(--accent);color:var(--paper, #0a0a0a);">Edge Pick</span>';
       var leaguePrefix = p.league ? '<span style="font-family:JetBrains Mono,monospace;font-size:9px;color:var(--ink-3);letter-spacing:.08em;margin-right:6px;">' + esc(p.league) + '</span>' : '';
 
       // Pull the ACTUAL bookmaker line from marketSnapshot. This is the line
@@ -3854,6 +3863,7 @@
         '<div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;flex-wrap:wrap;">' +
           '<span style="font-family:Archivo,sans-serif;font-size:20px;font-weight:700;color:var(--ink);">' + esc(p.pick||'') + '</span>' +
           (realLineHtml || '<span style="font-family:JetBrains Mono,monospace;font-size:11px;color:var(--ink-3);font-style:italic;">no line snapshot</span>') +
+          tierTag +
           typeTag +
           '<span class="pick-status"></span>' +
           '<span style="display:inline-block;font-size:9px;font-weight:600;letter-spacing:.08em;text-transform:uppercase;padding:2px 8px;border-radius:3px;background:' + bg + ';color:' + color + ';">' + esc(conf) + ' confidence</span>' +
