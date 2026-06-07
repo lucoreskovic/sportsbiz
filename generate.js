@@ -1091,6 +1091,138 @@ function formatOddsForPrompt(odds) {
 }
 function signed(n) { const v = Number(n); return (v > 0 ? '+' : '') + v; }
 
+// ─── GUARANTEED PER-SPORT VOLUME: MARKET FILL PICKS ──────────────────────────
+// The LLM slate cannot be trusted to deliver volume — research budgets run out,
+// briefings come back thin, and the model under-returns. This builder is pure
+// code: given the real bookmaker lines already fetched, it guarantees every
+// sport with priced games carries at least `minPerSport` picks. Fill picks are
+// always labeled "low" confidence, always carry a real marketSnapshot, and say
+// plainly in the writeup that they're market-consensus plays, so they can never
+// pollute the tracked high-confidence record. Zero API calls.
+function etTimeLabel(isoTime) {
+  const d = new Date(isoTime);
+  if (isNaN(d.getTime())) return '';
+  const fmtDate = (x) => new Intl.DateTimeFormat('en-CA', { timeZone: 'America/New_York', year:'numeric', month:'2-digit', day:'2-digit' }).format(x);
+  const gameDay = fmtDate(d), today = fmtDate(new Date());
+  const tomorrow = fmtDate(new Date(Date.now() + 86400000));
+  const time = new Intl.DateTimeFormat('en-US', { timeZone: 'America/New_York', hour: 'numeric', minute: '2-digit', hour12: true }).format(d);
+  const dayWord = gameDay === today ? 'Today' : gameDay === tomorrow ? 'Tomorrow' : 'Today';
+  return dayWord + ' ' + time + ' ET';
+}
+
+function buildMarketFillPicks(oddsByGame, existingPicks, minPerSport, maxPerSport) {
+  const fills = [];
+  const games = Object.values(oddsByGame || {}).filter(o => {
+    const ts = Date.parse(o.commenceTime || '');
+    // Only games that haven't started and start within the next 24h.
+    return !isNaN(ts) && ts > Date.now() && ts < Date.now() + 24 * 3600 * 1000;
+  });
+  if (games.length === 0) return fills;
+
+  // Count existing picks per league and note which games are already used.
+  const perLeague = {};
+  const usedGames = new Set();
+  const norm = (s) => String(s || '').toLowerCase().replace(/[^a-z0-9]/g, '');
+  existingPicks.forEach(p => {
+    const lg = String(p.league || '').toUpperCase();
+    perLeague[lg] = (perLeague[lg] || 0) + 1;
+    if (p.marketSnapshot && p.marketSnapshot.awayTeam) {
+      usedGames.add(norm(p.marketSnapshot.awayTeam) + '|' + norm(p.marketSnapshot.homeTeam));
+    }
+  });
+
+  const byLeague = {};
+  games.forEach(g => {
+    const lg = String(g.league || '').toUpperCase();
+    (byLeague[lg] = byLeague[lg] || []).push(g);
+  });
+
+  for (const lg of Object.keys(byLeague)) {
+    let count = perLeague[lg] || 0;
+    if (count >= minPerSport) continue;
+    const candidates = byLeague[lg]
+      .filter(g => !usedGames.has(norm(g.awayTeam) + '|' + norm(g.homeTeam)))
+      .sort((a, b) => Date.parse(a.commenceTime) - Date.parse(b.commenceTime));
+
+    for (const g of candidates) {
+      if (count >= minPerSport || count >= maxPerSport) break;
+      const m = g.markets || {};
+      const matchup = g.awayTeam + ' @ ' + g.homeTeam;
+      const when = etTimeLabel(g.commenceTime);
+      let pick = null;
+
+      // Heuristic 1: moneyline favorite at a sane price (-105 to -220).
+      const h = m.h2h || {};
+      const sides = [
+        h.home ? { slot: 'home', team: g.homeTeam, price: h.home.price, book: h.home.book } : null,
+        h.away ? { slot: 'away', team: g.awayTeam, price: h.away.price, book: h.away.book } : null,
+      ].filter(Boolean);
+      const fav = sides.filter(s => s.price < 0).sort((a, b) => a.price - b.price)[0];
+      const dog = sides.find(s => fav && s.slot !== fav.slot);
+      if (fav && fav.price <= -105 && fav.price >= -220) {
+        pick = {
+          type: 'moneyline',
+          pick: fav.team + ' ML',
+          odds: String(fav.price),
+          edge: 'Market fill from live lines: ' + fav.team + ' is the books\' favorite at ' + fav.price + ' (best price @ ' + fav.book + ')' +
+            (dog ? ' against ' + dog.team + ' at ' + signed(dog.price) : '') +
+            (fav.slot === 'home' ? ', with home ice/court/field behind them' : ', favored even on the road') +
+            '. No researched edge here — this is a low-confidence market-consensus play added to round out the slate. Low confidence is honest confidence.',
+        };
+      }
+      // Heuristic 2: favorite spread.
+      if (!pick) {
+        const s = m.spreads || {};
+        const spFav = [s.home && { ...s.home, team: g.homeTeam }, s.away && { ...s.away, team: g.awayTeam }]
+          .filter(Boolean).find(x => x.point < 0);
+        if (spFav) {
+          pick = {
+            type: 'spread',
+            pick: spFav.team + ' ' + signed(spFav.point),
+            odds: String(spFav.price),
+            edge: 'Market fill from live lines: the books lay ' + signed(spFav.point) + ' with ' + spFav.team + ' at ' + spFav.price + ' (best @ ' + spFav.book + '). No researched edge — a low-confidence market-consensus play so this sport isn\'t empty today.',
+          };
+        }
+      }
+      // Heuristic 3: total, on whichever side has the better juice.
+      if (!pick) {
+        const t = m.totals || {};
+        const tSide = [t.over && { ...t.over, label: 'Over' }, t.under && { ...t.under, label: 'Under' }]
+          .filter(Boolean).sort((a, b) => b.price - a.price)[0];
+        if (tSide) {
+          pick = {
+            type: 'total',
+            pick: tSide.label + ' ' + tSide.point,
+            odds: String(tSide.price),
+            edge: 'Market fill from live lines: total posted at ' + tSide.point + ', taking the ' + tSide.label.toLowerCase() + ' at the better price (' + signed(tSide.price) + ' @ ' + tSide.book + '). No researched edge — low-confidence market-consensus play.',
+          };
+        }
+      }
+      if (!pick) continue;
+
+      fills.push({
+        ...pick,
+        matchup,
+        league: g.league,
+        when,
+        confidence: 'low',
+        _autofill: true,
+        _scheduledTs: Date.parse(g.commenceTime),
+        marketSnapshot: {
+          capturedAt: new Date().toISOString(),
+          markets: g.markets,
+          awayTeam: g.awayTeam,
+          homeTeam: g.homeTeam,
+        },
+      });
+      usedGames.add(norm(g.awayTeam) + '|' + norm(g.homeTeam));
+      count++;
+      console.log('[picks] market fill [' + lg + ']: ' + pick.pick + ' (' + matchup + ')');
+    }
+  }
+  return fills;
+}
+
 // Generate sports value picks via a three-stage research pipeline:
 //
 //   1. SCOUT    — given today's real ESPN schedule, Claude picks 8-10 candidate
@@ -1819,17 +1951,27 @@ You MUST return exactly 1 pick. Not zero. Pick the candidate with the most concr
       .map(x => x.p);
     console.log('[picks] line gate complete: ' + finalPicks.filter(p=>p.confidence==='high').length + ' verified high-confidence picks');
 
-    // ─── PER-SPORT BACKSTOP — INTENTIONALLY DISABLED ──────────────────────────
-    // Previous version filled in any sport that had games but no pick. That
-    // contradicts the new "fewer better picks" philosophy: backstopping is
-    // padding, padding hurts long-term hit rate. If a sport has no edge today,
-    // it gets zero picks today. The user sees an honest empty section and the
-    // record stays clean.
+    // ─── GUARANTEED VOLUME: PER-SPORT MARKET FILL ──────────────────────────────
+    // Code, not the model, enforces "multiple picks per sport." Any sport with
+    // priced games and fewer than 2 picks gets deterministic fill picks built
+    // straight from the live lines (low confidence, real snapshots, honest
+    // writeups). This can't run without odds — without ODDS_API_KEY there are
+    // no real lines to fill from.
+    if (hasOdds) {
+      const fills = buildMarketFillPicks(oddsByGame, finalPicks, 2, 4);
+      if (fills.length > 0) {
+        finalPicks = finalPicks.concat(fills);
+        console.log('[picks] market fill: +' + fills.length + ' picks to guarantee per-sport volume');
+      }
+    } else {
+      console.warn('[picks] market fill SKIPPED — no live odds this run. Set ODDS_API_KEY in repo secrets for per-sport volume.');
+    }
 
     // Stamp the real UTC instant of game time NOW, while "Today"/"Tomorrow"
     // still refers to the day the pick was written. Later runs use this stamp
     // instead of re-parsing the relative string on the wrong calendar day.
     finalPicks.forEach(p => {
+      if (typeof p._scheduledTs === 'number') return; // fill picks carry an exact game time already
       const ts = etScheduleTs(p.when);
       if (ts) p._scheduledTs = ts;
     });
