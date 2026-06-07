@@ -381,9 +381,37 @@ function dedup(stories) {
 }
 
 async function cluster(stories) {
+  // ─── RECENCY GUARD ─────────────────────────────────────────────────────────
+  // RSS feeds keep big stories near the top for DAYS, so without an age filter
+  // the same lead story can win "most important" run after run. Drop anything
+  // older than 36h (keep undated items), and label every story with its age so
+  // the model can weigh freshness.
+  const ageLabel = (pd) => {
+    const t = Date.parse(pd || '');
+    if (isNaN(t)) return 'age unknown';
+    const h = Math.max(0, Math.round((Date.now() - t) / 3600000));
+    return h < 1 ? 'just now' : h < 24 ? h + 'h ago' : Math.round(h/24) + 'd ago';
+  };
+  const freshStories = stories.filter(s => {
+    const t = Date.parse(s.pubDate || '');
+    return isNaN(t) || (Date.now() - t) < 36 * 3600 * 1000;
+  });
+  if (freshStories.length !== stories.length) {
+    console.log('[cluster] recency filter: ' + stories.length + ' → ' + freshStories.length + ' stories (dropped >36h old)');
+  }
+  // What did the last refresh lead with? Used to stop the feed from re-leading
+  // with the same story when nothing new happened.
+  let prevLeads = [];
+  try {
+    if (existsSync('stories.json')) {
+      const prev = JSON.parse(readFileSync('stories.json', 'utf8'));
+      prevLeads = (prev.clusters || []).slice(0, 3).map(c => c.leadHeadline).filter(Boolean);
+    }
+  } catch (e) {}
+
   // Interleave stories from ALL sources for even distribution
   const sourceGroups = {};
-  for (const s of stories) {
+  for (const s of freshStories) {
     if (!sourceGroups[s.source]) sourceGroups[s.source] = [];
     if (sourceGroups[s.source].length < 5) sourceGroups[s.source].push(s);
   }
@@ -401,9 +429,12 @@ async function cluster(stories) {
     // Truncate descriptions to 140 chars — preserves the headline meaning while
     // halving the token footprint. Full descriptions weren't adding clustering
     // value over titles + first sentence anyway.
-    '[' + i + '] SOURCE:' + s.source + ' | ' + s.title + ' | ' + (s.description||'').slice(0, 140)
+    '[' + i + '] SOURCE:' + s.source + ' | ' + ageLabel(s.pubDate) + ' | ' + s.title + ' | ' + (s.description||'').slice(0, 140)
   ).join('\n');
   const srcList = [...new Set(selected.map(s=>s.source))].join(', ');
+  const prevLeadsBlock = prevLeads.length
+    ? '\nFRESHNESS — DO NOT RERUN YESTERDAY\'S FEED:\nThe previous refresh led with these stories:\n' + prevLeads.map(h => '- "' + h + '"').join('\n') + '\nDo NOT re-lead with any of these unless a genuinely NEW development happened since (a new game was played, new numbers were reported, a new announcement dropped). A follow-up WITH new facts is a new story; the same article re-ranked is not. Each story below shows its age — strongly prefer leads under 24h old. When two candidates are comparably important, the fresher one leads.\n'
+    : '';
 
   const prompt = `You are a sports business columnist — the voice of The Athletic, Sportico, Pablo Torre Finds Out. Confident, specific, editorial. Stories from: ${srcList}.
 
@@ -425,6 +456,7 @@ NOT a "big story":
 - Recap-of-recap analysis pieces
 
 Spread cluster leads across sources. No more than 2 leads from any single outlet (especially not Front Office Sports or Sportico).
+${prevLeadsBlock}
 
 For each cluster return:
 - importance: integer 1-10. 10 = "this is THE story of the day, every major sports outlet is leading with it." 7-8 = "front-page worthy, would be on most outlets' homepage." 4-6 = "solid news, of interest to industry readers." 1-3 = "minor but worth tracking." Use the full range honestly — most days have one 8-10 lead, two or three 5-7 mid-tier, and the rest lower.
@@ -1106,7 +1138,8 @@ function etTimeLabel(isoTime) {
   const gameDay = fmtDate(d), today = fmtDate(new Date());
   const tomorrow = fmtDate(new Date(Date.now() + 86400000));
   const time = new Intl.DateTimeFormat('en-US', { timeZone: 'America/New_York', hour: 'numeric', minute: '2-digit', hour12: true }).format(d);
-  const dayWord = gameDay === today ? 'Today' : gameDay === tomorrow ? 'Tomorrow' : 'Today';
+  const dayWord = gameDay === today ? 'Today' : gameDay === tomorrow ? 'Tomorrow'
+    : new Intl.DateTimeFormat('en-US', { timeZone: 'America/New_York', weekday: 'short' }).format(d);
   return dayWord + ' ' + time + ' ET';
 }
 
@@ -1253,11 +1286,25 @@ async function generatePicks() {
     {label:'UCL',        urlPath:'soccer/uefa.champions'},
     {label:'MLS',        urlPath:'soccer/usa.1'},
   ];
+  const espnFailed = []; // leagues whose scoreboard fetch errored (NOT "no games")
   for (const lg of leagues) {
+    let d = null;
+    // Two attempts — a single 6s timeout at 7 AM ET was silently wiping entire
+    // sports (one MLB flake = zero MLB picks all day).
+    for (let attempt = 1; attempt <= 2 && !d; attempt++) {
+      try {
+        const res = await fetch('https://site.api.espn.com/apis/site/v2/sports/' + lg.urlPath + '/scoreboard', {signal:AbortSignal.timeout(attempt === 1 ? 6000 : 10000)});
+        if (res.ok) d = await res.json();
+        else if (attempt === 2) espnFailed.push(lg.label);
+      } catch(e) {
+        if (attempt === 2) {
+          espnFailed.push(lg.label);
+          console.warn('[picks] ESPN scoreboard failed twice for ' + lg.label + ': ' + e.message);
+        }
+      }
+    }
+    if (!d) continue;
     try {
-      const res = await fetch('https://site.api.espn.com/apis/site/v2/sports/' + lg.urlPath + '/scoreboard', {signal:AbortSignal.timeout(6000)});
-      if (!res.ok) continue;
-      const d = await res.json();
       for (const ev of (d.events||[]).slice(0,4)) {
         const comp = ev.competitions?.[0];
         const teams = comp?.competitors||[];
@@ -1276,11 +1323,14 @@ async function generatePicks() {
   }
 
   if (games.length === 0) {
-    console.warn('[picks] no games returned from ESPN, skipping pick generation');
-    return [];
+    if (!process.env.ODDS_API_KEY) {
+      console.warn('[picks] no games returned from ESPN and no odds key — skipping pick generation');
+      return [];
+    }
+    console.warn('[picks] ESPN returned no games — falling back to The Odds API for the slate');
   }
 
-  const gamesList = games.join('\n');
+  // (the games list for prompts is built AFTER odds pricing, as gamesListWithOdds)
 
   // ─── STAGE 0: REAL MARKET ODDS ─────────────────────────────────────────────
   // Fetch actual bookmaker lines from The Odds API. This is the foundation —
@@ -1314,6 +1364,20 @@ async function generatePicks() {
       const m = g.match(/^([A-Z][A-Z0-9 ]+):/);
       if (m && oddsSportKeys[m[1].trim()]) leaguesWithGames.add(m[1].trim());
     });
+    // ESPN-side hardening: a league whose scoreboard fetch FAILED (as opposed
+    // to legitimately having no games) still gets priced from the odds side, so
+    // an ESPN flake can't blank a sport. The far-future filter downstream
+    // discards offseason opener lines this might pull in.
+    espnFailed.forEach(l => {
+      if (oddsSportKeys[l] && !leaguesWithGames.has(l)) {
+        console.log('[picks] ESPN failed for ' + l + ' — pricing it from The Odds API as backup');
+        leaguesWithGames.add(l);
+      }
+    });
+    // Total ESPN outage: price the core US leagues and build the slate from odds.
+    if (games.length === 0) {
+      ['NBA','MLB','NHL','NFL'].forEach(l => leaguesWithGames.add(l));
+    }
     console.log('[picks] stage 0: fetching real odds for ' + leaguesWithGames.size + ' leagues...');
     for (const league of leaguesWithGames) {
       const sportKey = oddsSportKeys[league];
@@ -1338,6 +1402,17 @@ async function generatePicks() {
       }
     }
     console.log('[picks] stage 0: priced ' + Object.keys(oddsByGame).length + ' total games');
+    // If ESPN gave us nothing, rebuild the prompt's games list from the priced
+    // odds (only games starting within 36h, so offseason lines don't leak in).
+    if (games.length === 0) {
+      Object.values(oddsByGame).forEach(o => {
+        const ts = Date.parse(o.commenceTime || '');
+        if (isNaN(ts) || ts < Date.now() - 3600000 || ts > Date.now() + 36 * 3600 * 1000) return;
+        games.push(o.league + ': ' + o.awayTeam + ' @ ' + o.homeTeam + ' — ' + etTimeLabel(o.commenceTime));
+      });
+      console.log('[picks] synthesized ' + games.length + ' games from odds data (ESPN outage fallback)');
+      if (games.length === 0) return [];
+    }
   } else {
     console.warn('[picks] ODDS_API_KEY not set — pipeline will run without real market lines (degraded mode)');
   }
@@ -1894,13 +1969,40 @@ You MUST return exactly 1 pick. Not zero. Pick the candidate with the most concr
           markets: matched.markets,
           awayTeam: matched.awayTeam,
           homeTeam: matched.homeTeam,
+          commenceTime: matched.commenceTime,
         };
+        // The odds feed knows the REAL game time — trust it over the model's
+        // "Today H:MM" guess. This both fixes the displayed time and powers
+        // the far-future filter below.
+        const realTs = Date.parse(matched.commenceTime || '');
+        if (!isNaN(realTs)) {
+          p._scheduledTs = realTs;
+          p.when = etTimeLabel(matched.commenceTime) || p.when;
+        }
         console.log('[picks] matched odds for: ' + p.matchup + ' → ' + matched.awayTeam + ' @ ' + matched.homeTeam);
       } else {
         console.log('[picks] NO odds match for: ' + p.matchup);
       }
       return p;
     });
+
+    // ─── NO FAR-FUTURE PICKS ───────────────────────────────────────────────────
+    // Books post lines for season openers months ahead (NFL Week 1 lines are up
+    // in June). The odds feed returns them, and the model will happily pick
+    // them. A daily picks page must not carry games weeks away — drop anything
+    // starting more than 36 hours out.
+    const farFutureCutoff = Date.now() + 36 * 3600 * 1000;
+    const beforeFuture = finalPicks.length;
+    finalPicks = finalPicks.filter(p => {
+      if (typeof p._scheduledTs === 'number' && p._scheduledTs > farFutureCutoff) {
+        console.log('[picks] DROP (game starts >36h out — offseason/future line): ' + p.pick + ' @ ' + new Date(p._scheduledTs).toISOString());
+        return false;
+      }
+      return true;
+    });
+    if (finalPicks.length !== beforeFuture) {
+      console.log('[picks] far-future filter: ' + beforeFuture + ' → ' + finalPicks.length);
+    }
 
     // ─── GATE 2: HIGH CONFIDENCE = VERIFIED REAL LINE ──────────────────────────
     // This is the process link between research and the sportsbooks: a pick may
