@@ -1,80 +1,86 @@
 {
   "clusters": [
     {
-      "category": "revenue",
+      "category": "leagues",
       "importance": 9,
-      "leadHeadline": "Knicks-Spurs Finals Begins on Red-Hot Ratings Pace for ABC",
-      "leadSource": "Sportico · 0h ago",
-      "leadUrl": "https://www.sportico.com/business/media/2026/knicks-spurs-nba-finals-abc-audience-results-game-1-1234902598/",
-      "summary": "The Knicks' return to the NBA Finals after 29 years generated the league's most-watched game since 2019, signaling major revenue upside for ABC and the NBA. New York's 2-0 series lead has ticket resale surging, with Game 4 prices hitting $15K on secondary markets.",
-      "article": "The New York Knicks' improbable Finals run is already generating blockbuster viewership numbers for ABC. Game 1 of the Knicks-Spurs matchup neared 17 million viewers, marking the NBA's most-watched game since 2019 and a remarkable return for the league's second-largest market. The Knicks hadn't reached the Finals in 29 years—a drought that's now being monetized across every revenue stream. Game 4 tickets, with New York up 2-0, hit $15,000 on the resale market, as fans paying secondary rates are willing to spend nearly triple typical Finals pricing to witness the franchise's first title run in a generation. This is the kind of ratings performance the NBA's media partners dream about: a storied franchise with institutional stardom (Jalen Brunson, Julius Randle) facing the quiet excellence of Victor Wembanyama and the Spurs, playing in a Finals that feels genuinely competitive. The viewership surge matters directly to ABC's ad inventory and, by extension, the league's next media rights negotiations. Networks will cite these numbers as proof that the NBA's core product still delivers when the right market stories align. For the Knicks organization, it's a vindication of the roster construction that brought Brunson and Karl-Anthony Towns to Madison Square Garden. For the NBA, it's a timely reminder that star power and narrative matter more than league parity in driving audience.",
-      "tweets": []
-    },
-    {
-      "category": "contracts",
-      "importance": 7,
-      "leadHeadline": "NBA Finals Game 4 Tickets Hit $15K After Knicks Go Up 2-0",
-      "leadSource": "Front Office Sports · 0h ago",
-      "leadUrl": "https://frontofficesports.com/nba-finals-game-4-tickets-hit-15k-after-knicks-go-up-2-0/",
-      "summary": "Secondary market ticket prices for Knicks-Spurs Game 4 have climbed to $15,000 as resellers capitalize on the franchise's first Finals appearance in three decades. The surge reflects unprecedented demand for a Finals series featuring a historic New York market return.",
-      "article": "Knicks fans are paying whatever it takes. Game 4 tickets on the resale market have reached $15,000 as secondary-market operators have priced in the scarcity and sentiment of a Finals series that shouldn't exist by conventional NBA timeline logic. The Knicks' 2-0 series lead over San Antonio has accelerated the price climb—each win increases the odds that Games 5 and 6 will be clinched at Madison Square Garden, meaning fewer available tickets and higher perceived urgency. This is textbook demand economics: a 29-year Finals drought, a Madison Square Garden hungry for playoff basketball, and a Knicks roster built around Jalen Brunson that has actually worked. The $15K price point is notable because it's not an outlier for a potential clinching game at the Garden, but it reflects a floor that will only rise if New York goes up 3-0 or clinches Game 5 at home. For the NBA's secondary ticketing ecosystem, this is a banner moment—TicketIQ and other resale platforms are processing record volume on Knicks tickets, and the media coverage of sky-high prices itself becomes marketing fuel for the series. The Knicks' organization benefits indirectly through brand elevation, though the direct ticket revenue goes to the league and team's primary seat holders. The real winner here is the resale market operator capturing the spread between face value and secondary listings.",
-      "tweets": [
-        {
-          "url": "https://twitter.com/TheDunkCentral/status/2063103021404377190",
-          "html": "<blockquote class=\"twitter-tweet\" align=\"left\" data-dnt=\"true\" data-theme=\"dark\"><p lang=\"en\" dir=\"ltr\">🚨 MADISON SQUARE GARDEN IS SHATTERING TICKET PRICE RECORDS.<br><br>Cheapest ticket for Game 3: $11,461<br><br>Cheapest ticket for Game 4: $13,065<br><br>It now costs over $24,500 for one person to attend both Finals games in New York.<br><br>The Knicks haven’t hosted the NBA Finals in over 25 years. 🤯… <a href=\"https://t.co/oAQA9mTHXn\">pic.twitter.com/oAQA9mTHXn</a></p>&mdash; NBACentral (@TheDunkCentral) <a href=\"https://x.com/TheDunkCentral/status/2063103021404377190?ref_src=twsrc%5Etfw\">June 6, 2026</a></blockquote>\n\n",
-          "author_name": "NBACentral",
-          "author_url": "https://x.com/TheDunkCentral"
-        }
-      ]
-    },
-    {
-      "category": "labor",
-      "importance": 6,
-      "leadHeadline": "Maple Leafs plan to interview Joe Pavelski for head coach vacancy",
-      "leadSource": "Sportsnet · 0h ago",
-      "leadUrl": "",
-      "summary": "The Toronto Maple Leafs are pursuing Hall of Famer Joe Pavelski as a head coach candidate, marking an unexpected turn in the franchise's coaching search. Pavelski, a two-decade career player, would represent a high-profile hire if the Leafs secure him.",
-      "article": "The Toronto Maple Leafs are swinging for a Hall of Famer. According to multiple sources, Joe Pavelski—the 41-year-old former Sharks, Stars, and Avalanche veteran who retired after 1,652 regular-season games—is on the Maple Leafs' coaching interview list. This is a surprising move in the most visible North American hockey coaching search, as Pavelski has no professional coaching experience and is not widely known as an aspiring bench coach. The Leafs, however, may be betting that Pavelski's pedigree and leadership credibility with elite players could move the needle in a franchise that has struggled to break through in the playoffs despite assembling a star-laden roster around Auston Matthews. Hiring a first-time coach with no system to prove is risk management: Pavelski brings credibility and the ability to command respect in a locker room full of players worth $400 million in salary cap space. The Leafs have the cap cushion to absorb a mid-tier coaching salary, so financial constraints aren't a factor. What matters is whether a living legend without coaching reps can translate his institutional knowledge into a winning system faster than a coach with an established blueprint. The hire would also signal to Matthews, Mitch Marner, and the organization that change isn't coming in the form of a proven system-builder, but rather a fresh voice with player empathy. That's either visionary or a short-term gamble.",
+      "leadHeadline": "Alexander Zverev wins first grand slam after holding off Cobolli in French Open",
+      "leadSource": "The Guardian · 1h ago",
+      "leadUrl": "https://www.theguardian.com/sport/2026/jun/07/alexander-zverev-wins-first-grand-slam-after-holding-off-cobolli-in-french-open",
+      "summary": "Zverev claimed his first major title Sunday, defeating Italy's Flavio Cobolli 6-1, 4-6, 6-4, 7-6 (5), 6-1 in the French Open final after reaching four prior Grand Slam finals. The victory marks a watershed moment for the German star and resets the men's tennis hierarchy heading into Wimbledon.",
+      "article": "Alexander Zverev finally cracked the Grand Slam ceiling on Sunday at Roland-Garros, defeating Flavio Cobolli 6-1, 4-6, 6-4, 7-6 (5), 6-1 in a tense five-set final. The No. 2 seed's breakthrough arrives in his fourth major final—a run of heartbreak that included losses at the 2020 US Open, 2022 French Open, and back-to-back Wimbledon finals in 2023-24. Zverev and Cobolli will split more than $71 million in total prize money distributed across the two-week Roland-Garros tournament, with career-high paydays awaiting both finalists.\n\nThe victory ends a 14-year drought for German men in Grand Slam singles—the longest such gap since the modern era of tennis. Zverev's consistency—a career-best ranking and four finals in the past 18 months—finally converted to hardware. Cobolli, 23, emerged as one of 2026's breakout stories, becoming only the third Italian male finalist at a major in the Open Era and signaling a generational shift in men's tennis beyond the Djokovic-Nadal-Federer shadow.\n\nFor the men's game at large, Zverev's win scrambles the narrative heading into Wimbledon. The grass-court season has typically favored serve-dominant specialists; Zverev's all-court mastery suggests the dominance of any single surface-specific threat has fractured. Sponsorship implications are immediate—expect renewed apparel and equipment endorsement interest from European multinationals targeting German marketability. Television ratings for the final will signal whether clay-court tennis can retain prime-time audiences beyond the traditional Roland-Garros diehards.",
       "tweets": []
     },
     {
       "category": "leagues",
-      "importance": 5,
-      "leadHeadline": "Why the Bears' Indiana Move Isn't Final Despite State Celebrations",
-      "leadSource": "Sportico · 0h ago",
-      "leadUrl": "https://www.sportico.com/law/analysis/2026/chicago-bears-stadium-relocation-nfl-approval-process-1234902577/",
-      "summary": "The Chicago Bears' board approved a relocation vote, but the move to Indianapolis is not yet official and remains subject to NFL owner approval and additional conditions. State celebrations have masked the still-incomplete legal and league procedural steps required.",
-      "article": "The Chicago Bears announced their board of directors approved a relocation study, but calling it a move to Indianapolis is premature. Sportico reported Friday that while the board voted to advance the Indiana plan, the Bears still require explicit NFL owner approval—a vote that has not yet happened. That procedural step matters because it's where other owners can impose conditions, demand concessions, or challenge the relocation on financial or competitive grounds. The Bears would also need to resolve their Soldier Field lease termination, a complex legal process that could extend the timeline by months or trigger additional costs. Indiana's celebration of a done deal misses the reality that NFL relocations are rarely fait accompli, even after ownership votes. The Raiders, Chargers, and Rams all faced extended negotiation periods between initial board approval and final league ratification. What the Bears have done is signal intent to the NFL's relocation committee and, by extension, to Indianapolis as a negotiating partner. But the Bears could still reverse course, renegotiate with Chicago for a new stadium deal, or find themselves entangled in litigation over Soldier Field use rights. The franchise's current path is not irreversible—it's merely the beginning of a multi-step process that will stretch into 2026 and possibly beyond. Owners will watch closely to see whether the NFL allows a flagship market like Chicago to leave without exhausting every option to keep the team in place.",
-      "tweets": []
+      "importance": 8,
+      "leadHeadline": "Eriksen conscious after collapsing in Denmark game",
+      "leadSource": "BBC Sport · 1h ago",
+      "leadUrl": "https://www.bbc.com/sport/football/articles/czrxgd2nljno?at_medium=RSS&amp;at_campaign=rss",
+      "summary": "Christian Eriksen collapsed during Denmark's friendly against Ukraine but has regained consciousness, the Danish Football Association confirmed. Medical crews responded immediately; no further details on his condition have been released.",
+      "article": "Christian Eriksen lost consciousness during Denmark's World Cup qualifier against Ukraine on Sunday but has since regained awareness, according to the Danish Football Association's official statement. The midfielder collapsed on the pitch; emergency responders were deployed immediately.\n\nThis marks a recurrence of a life-threatening cardiac event. Eriksen suffered a near-fatal cardiac arrest during Euro 2020 in 2021, when he collapsed during a group-stage match against Finland. That incident led to the implantation of an ICD (implantable cardioverter-defibrillator) and prompted international discussion about player safety protocols and whether athletes with such conditions should continue competing at elite levels.\n\nDespite the ICD, Eriksen returned to professional football with Brentford and later Tottenham, earning a Denmark recall this season. Medical experts have debated the risks of continued participation in top-level sport with his condition. His latest collapse will trigger immediate scrutiny from Danish team physicians, Tottenham's medical staff, and UEFA—particularly regarding fitness certification and the adequacy of on-field emergency protocols.\n\nThe incident underscores the tension between modern cardiac monitoring and athlete autonomy. Eriksen's determination to continue his career post-2021 earned widespread admiration, but Sunday's collapse will almost certainly force a comprehensive medical reassessment and could reshape discussions about player safety requirements across international football.",
+      "tweets": [
+        {
+          "url": "https://twitter.com/433/status/2063686667400294405",
+          "html": "<blockquote class=\"twitter-tweet\" align=\"left\" data-dnt=\"true\" data-theme=\"dark\"><p lang=\"en\" dir=\"ltr\">Christian Eriksen has just collapsed on the pitch during Denmark’s game against Ukraine.<br><br>He lay down on the pitch for a few minutes, but eventually was able to get up and walk to the ambulance himself. <br><br>Danish FA: &quot;Christian Eriksen is conscious and doing well under the… <a href=\"https://t.co/lWrP3aQIpF\">pic.twitter.com/lWrP3aQIpF</a></p>&mdash; 433 (@433) <a href=\"https://x.com/433/status/2063686667400294405?ref_src=twsrc%5Etfw\">June 7, 2026</a></blockquote>\n\n",
+          "author_name": "433",
+          "author_url": "https://x.com/433"
+        },
+        {
+          "url": "https://twitter.com/eurofootcom/status/2063685819634758135",
+          "html": "<blockquote class=\"twitter-tweet\" align=\"left\" data-dnt=\"true\" data-theme=\"dark\"><p lang=\"en\" dir=\"ltr\">🚨🇩🇰 𝐁𝐑𝐄𝐀𝐊𝐈𝐍𝐆 | The Denmark-Ukraine friendly match has been called off due to Christian Eriksen collapsing on the pitch. ❌<br><br>Denmark statement: &quot;Christian Eriksen is conscious and feeling well according to the circumstances. The match has been called off.&quot; <a href=\"https://t.co/jutCcz8hQR\">pic.twitter.com/jutCcz8hQR</a></p>&mdash; EuroFoot (@eurofootcom) <a href=\"https://x.com/eurofootcom/status/2063685819634758135?ref_src=twsrc%5Etfw\">June 7, 2026</a></blockquote>\n\n",
+          "author_name": "EuroFoot",
+          "author_url": "https://x.com/eurofootcom"
+        }
+      ]
     },
     {
-      "category": "media",
-      "importance": 4,
-      "leadHeadline": "On the Air: The staying power of NBA Finals voice Mike Breen",
-      "leadSource": "Sports Media Watch · 0h ago",
-      "leadUrl": "https://www.sportsmediawatch.com/2026/06/on-the-air-mike-breen-voice-nba-staying-power/",
-      "summary": "Sports Media Watch profiles Mike Breen's enduring tenure as the NBA Finals play-by-play announcer, examining his role in the league's broadcast success. Breen has called nearly every Finals telecast for two decades, becoming synonymous with the NBA's biggest moments.",
-      "article": "Mike Breen's voice is the NBA Finals. The ABC/ESPN announcer has called 18 consecutive Finals series, a tenure that has made him the league's most recognizable play-by-play voice across network and cable. Breen's consistency through broadcasters' realignment, streamer wars, and the NBA's own primetime maneuvering reflects a rare stability in sports media: the league recognizes that the Finals booth is not the place to experiment with talent rotation. His signature calls—particularly the elongated \"BANG!\" on crucial three-pointers—have become part of the Finals' cultural texture. The assignment matters for ABC, which carries the Finals and benefits from Breen's credibility with casual viewers who tune in once a year. Networks typically rotate top talent to develop depth and test new voices, but the Finals are too high-stakes for that experiment. Breen's continued role suggests the NBA and its broadcast partners value consistency and institutional knowledge over novelty. It also reflects Breen's market value: he's irreplaceable enough that negotiating his contract renewal is simpler than finding a successor. In an era where sports media talent churn constantly, Breen's 18-year Finals run is an outlier—and it suggests that the very best broadcast spots remain stable when the performer is indispensable.",
+      "category": "revenue",
+      "importance": 7,
+      "leadHeadline": "LIV Golf May Not Have Funding to Last Entire Season: Sources",
+      "leadSource": "Front Office Sports · 1h ago",
+      "leadUrl": "https://frontofficesports.com/liv-golf-saudi-funding-season/",
+      "summary": "LIV Golf faces potential cash flow crisis with only 47 days before its next scheduled tournament, per unnamed sources briefed on the league's financials. Uncertainty around Saudi PIF funding threatens the tour's ability to complete the 2026 season.",
+      "article": "LIV Golf is staring down a potential liquidity crisis, with sources telling Front Office Sports the league has merely 47 days of runway before its next scheduled tournament and uncertainty about whether Saudi Arabia's Public Investment Fund will sustain promised capital commitments. The timeline creates an existential pressure point for the Greg Norman-backed tour, which has burned through billions in PIF backing since its 2021 launch without achieving profitability or a clear path to one.\n\nThe funding uncertainty arrives amid broader Saudi economic headwinds. Crown Prince Mohammed bin Salman's Vision 2030 diversification agenda has been tested by oil-price volatility and competing domestic priorities. LIV's operating losses—estimated at $2 billion annually across player payroll, event operations, and infrastructure—have strained even the PIF's deep pockets. The PGA Tour merger talks, launched in 2023 and still unresolved, have created institutional ambiguity that may have cooled PIF appetite for additional LIV outlays.\n\nA full-season collapse would trigger cascading consequences: player contracts ($500 million in guaranteed annual salaries) would face renegotiation or breach; broadcasters (likely Fox Sports or another streaming partner) would absorb significant losses; and the ongoing PGA-LIV integration framework would fracture entirely. LIV executives have publicly maintained funding commitments, but 47 days is an extraordinarily tight margin for a league burning $5 million per tournament.\n\nSources close to the situation suggest a resolution is likely within weeks—either a fresh PIF pledge or accelerated merger talks with the PGA Tour. Neither outcome is assured.",
       "tweets": []
     },
     {
       "category": "revenue",
-      "importance": 3,
-      "leadHeadline": "2026 Stanley Cup Final Ticket Prices: Hurricanes vs. Golden Knights",
-      "leadSource": "TicketIQ · 0h ago",
-      "leadUrl": "https://blog.ticketiq.com/blog/2019-nhl-playoff-tickets",
-      "summary": "TicketIQ reports Stanley Cup Final ticket pricing between the Carolina Hurricanes and Las Vegas Golden Knights. Secondary market pricing reflects the popularity of both franchises and Vegas's unique arena economics.",
-      "article": "The Stanley Cup Final between the Carolina Hurricanes and Vegas Golden Knights is drawing significant secondary market attention, with TicketIQ tracking ticket availability and pricing across both venues. Vegas, as the perennial draw for big events, is commanding premium pricing—the Golden Knights' home games are among the most expensive Stanley Cup Final matchups in recent memory, driven by the city's resort infrastructure and transient population willing to pay resort rates for playoffs. Carolina's games are comparatively more affordable, reflecting a regional fanbase that requires less inducement to attend. The Hurricanes' return to the Finals for the first time in recent years has generated local interest, but not the out-of-market destination appeal of Vegas. For TicketIQ, this Finals matchup is a secondary market opportunity: Vegas games are likely to see higher resale velocity and pricing, while Raleigh games may see more face-value and primary seat holder inventory flowing to the resale market. The split geography—East Coast and Mountain West—also means that the Finals will test different regional ticketing pools: Northeast buyers flying to Vegas for games versus a regional Carolina population with short travel distances. The pricing differential between the two venues will likely persist across all seven games, with Vegas maintaining a premium that reflects both venue appeal and the composition of likely buyers.",
+      "importance": 7,
+      "leadHeadline": "Knicks Ticket Prices Dip as Josh Hart Laments Ridiculous Costs",
+      "leadSource": "Front Office Sports · 1h ago",
+      "leadUrl": "https://frontofficesports.com/knicks-ticket-prices-soften-hart/",
+      "summary": "Secondary market ticket prices for Knicks NBA Finals games have fallen from a peak of over $11,000 to lower levels as Game 3 approaches. Josh Hart publicly criticized the cost structure, noting the franchise's security burden amid Donald Trump's announced attendance.",
+      "article": "Knicks ticket prices on the secondary market have moderated significantly from their opening peaks, dropping from a high of $11,000-plus to lower price points as Game 3 of the NBA Finals approaches at Madison Square Garden. The decline reflects both routine demand curves—as series progress, resale inventory increases and per-ticket cost typically falls—and public backlash to the franchise's pricing.\n\nForward Josh Hart did not hold back, publicly lamenting the \"ridiculous\" ticket costs and the accessibility gap created for longtime MSG patrons. Hart's criticism carries weight as the franchise's locker-room conscience; his willingness to call out team management on pricing suggests internal frustration over the economic moat being erected between fans and the product.\n\nSecurity logistics have further complicated the ticketing narrative. The Knicks issued formal guidance requiring fans to arrive two hours early due to enhanced security protocols surrounding President Donald Trump's confirmed attendance at Game 3. Metal detectors, credential verification, and Secret Service coordination will add friction to gate entry and may have dampened secondary market demand from casual buyers unprepared for the procedural overhead.\n\nThe price moderation—while mathematically predictable—carries reputational cost for a franchise positioning itself as New York's working-class alternative to the Nets. If secondary market get-in prices remain above $3,000-5,000 range even after normalization, the accessibility messaging collapses. Hart's public complaint signals the locker room is watching how the front office monetizes this moment.",
+      "tweets": []
+    },
+    {
+      "category": "leagues",
+      "importance": 6,
+      "leadHeadline": "Why the Bears' Indiana Move Isn't Final Despite State Celebrations",
+      "leadSource": "Sportico · 1d ago",
+      "leadUrl": "https://www.sportico.com/law/analysis/2026/chicago-bears-stadium-relocation-nfl-approval-process-1234902577/",
+      "summary": "Chicago Bears' board voted to advance relocation discussions, but the move to Indiana remains conditional pending stadium deal finalization and NFL approval. Multiple veto points remain despite the franchise's public positioning.",
+      "article": "The Chicago Bears' board of directors voted Friday to escalate relocation talks with Indiana, creating the appearance of a fait accompli. But the franchise is nowhere near a binding commitment. Multiple contractual and regulatory gates remain open—and could still halt the move entirely.\n\nFirst: the Indianapolis stadium deal. Governor Eric Holcomb and the state have not yet finalized a public financing structure for a new $3 billion-plus facility. Negotiations with Colts owner Jim Irsay over use agreements, revenue sharing, and operational control are ongoing. If Indiana's legislature balks at the funding package or Irsay demands terms the Bears find unacceptable, the deal collapses.\n\nSecond: NFL approval. Commissioner Roger Goodell's office must greenlight any relocation. While politically unlikely to block a move, Goodell has historically extracted concessions—media rights adjustments, settlement payments to Chicago-area stakeholders, even community benefit agreements. The Bears cannot unilaterally decamp.\n\nThird: the Chicago lawsuit risk. Expect Mayor Brandon Johnson and Illinois AG Kwame Raoul to challenge any departure through litigation, citing the 1997 Illinois Sports Facilities Authority agreement that gave the state a claim on relocation compensation. A protracted legal battle could delay the move by 2-3 years.\n\nThe Bears' board vote was performative—a signal to Indiana that intent is real. But the franchise is managing expectations poorly if it's implied the move is locked. Indiana, Chicago, the NFL, and the Bears' own financing constraints will determine the timeline. Expect an announcement of conditional approval within 90 days, followed by 18-24 months of structural negotiation.",
       "tweets": []
     },
     {
       "category": "media",
-      "importance": 2,
-      "leadHeadline": "2026 FIFA World Cup time zones: Here's what to know about kickoff times in USA, Mexico and Canada",
-      "leadSource": "CBS Sports · 0h ago",
-      "leadUrl": "https://www.cbssports.com/soccer/news/2026-fifa-world-cup-time-zones-heres-what-to-know/",
-      "summary": "CBS Sports explains how the 2026 FIFA World Cup's North American host cities span four time zones, complicating broadcast scheduling. The distributed format creates unique challenges for tournament organizers and broadcasters managing simultaneous matches.",
-      "article": "The 2026 FIFA World Cup's unprecedented three-country host format—the United States, Mexico, and Canada—stretches the tournament across four distinct time zones, forcing broadcasters and tournament organizers to navigate scheduling challenges unlike any previous World Cup. Games will kick off across Eastern, Central, Mountain, and Pacific times, meaning a match in Vancouver (Pacific) and one in Toronto (Eastern) could occur simultaneously but at vastly different times for North American viewers. This has direct implications for broadcast strategy: networks will need to distribute matches across multiple time windows to capture peak viewership in each zone. Peak matches—those most likely to draw casual viewers—will be scheduled strategically to avoid conflicts with major US sports events and to hit primetime in at least one of the four zones. The scheduling also affects corporate ticket sales: North American buyers used to consolidated European kickoff times will now face fragmented availability windows. Hotels and travel packages in host cities will command premium pricing for matches that coincide with primetime in their region, while games scheduled outside primetime hours may see reduced pricing and lower on-site attendance. For FOX, which holds the US broadcast rights, this is both an opportunity and a logistical headache—the broader geographic footprint means more markets can reasonably attend matches, but the time zone scatter reduces the likelihood of simultaneous primetime audiences across all four zones. The tournament organizers will publish the full schedule imminently, and ratings analysts will watch carefully to see how the time zone split impacts viewership against previous World Cup benchmarks.",
+      "importance": 5,
+      "leadHeadline": "Longtime Bulls analyst Stacey King has died",
+      "leadSource": "Sports Media Watch · 1h ago",
+      "leadUrl": "https://www.sportsmediawatch.com/2026/06/bulls-stacey-king-passes-away/",
+      "summary": "Stacey King, one of Chicago's most recognizable local sports voices and long-time Chicago Bulls broadcaster, has passed away. King was known for his exuberant play-by-play commentary and cultural impact on Chicago sports media.",
+      "article": "Stacey King, the Chicago Bulls' most distinctive voice for three decades, has died. The broadcaster's passing marks the end of an era for Chicago sports radio and local television, where King's unscripted enthusiasm and authenticity made him a cultural institution beyond basketball analysis.\n\nKing's role extended far beyond traditional play-by-play. He became the emotional interpreter of Chicago fandom—translating the city's sports anguish and occasional joy into catchphrases and genuine reaction that resonated across demographic lines. His broadcasts reached beyond the city's basketball diehards; King's infectious personality made him a recognizable figure in Chicago's broader media ecosystem, capable of moving ratings and selling sponsorships through sheer force of personality.\n\nFor the Bulls organization, King's absence creates an on-air void. Local broadcasts depend heavily on color commentary voices that can sustain audience interest through rebuilding seasons and roster transitions. The franchise will need to either promote from within its broadcast structure or conduct an external search for a voice with comparable staying power.\n\nThe broader implications extend to Chicago sports media. King represented the last generation of local broadcasters whose primary loyalty was to their city's team rather than a national network. His replacement will likely reflect modern media economics—potentially a more transient hire less invested in the franchise's long-term narrative arc. That trade-off is inevitable, but the loss of King's institutional knowledge and authentic voice is irreplaceable.",
+      "tweets": []
+    },
+    {
+      "category": "leagues",
+      "importance": 4,
+      "leadHeadline": "Maple Leafs plan to interview Joe Pavelski for head coach vacancy",
+      "leadSource": "Sportsnet · 4h ago",
+      "leadUrl": "",
+      "summary": "Toronto Maple Leafs are interviewing Hall-of-Famer Joe Pavelski for their vacant head coaching position, per multiple sources. Pavelski, a recently retired star forward, represents an unconventional candidate with no prior coaching experience.",
+      "article": "The Toronto Maple Leafs are planning to interview Joe Pavelski for their open head coaching position, according to multiple sources briefed on the team's search process. The move brings a Hall-of-Famer into consideration—but also signals the franchise's willingness to bet on a candidate with zero prior coaching experience.\n\nPavelski retired this offseason after a 19-season NHL career that included stints with the San Jose Sharks, Dallas Stars, and Colorado Avalanche. He won the Stanley Cup once (2023, Avalanche) and established himself as an elite power-play operator and playoff performer—exactly the profile the Leafs need given their chronic early-round exits.\n\nHowever, his lack of coaching résumé is a red flag. The Leafs have traditionally hired established assistants or head coaches with proven track records. Pavelski's appeal is \"locker room credibility\" and \"championship pedigree\"—narratives that have launched a thousand unsuccessful coaching hires. His playing intelligence does not automatically translate to roster management, player development, or system installation.\n\nThe interview likely serves multiple purposes: it signals to Pavelski (and potential future corporate hires) that Toronto views retired stars as viable candidates; it provides media cover for the search's legitimacy; and it keeps the franchise visible in headline-generating news cycles. Whether Pavelski is seriously considered for the role or serves as a marquee interview remains unclear. The Leafs will almost certainly hire an experienced assistant or foreign league coach if they're serious about changing their playoff fortunes.",
       "tweets": []
     }
   ],
@@ -2398,118 +2404,280 @@
     ],
     "source": "espn"
   },
-  "deals": [],
-  "ratings": [
+  "deals": [
     {
-      "event": "Knicks vs Spurs NBA Finals Game 1",
-      "network": "ABC",
-      "viewers_m": 17,
-      "peak_viewers_m": null,
-      "league": "NBA",
-      "storyIndex": 17,
-      "context": "Most-watched NBA game since 2019; Knicks' first Finals appearance in 29 years drove audience.",
-      "capturedAt": "2026-06-07T16:08:27.945Z"
+      "type": "media_rights",
+      "parties": "French Open ⇄ Multiple Broadcasters",
+      "value_usd": null,
+      "term_years": null,
+      "league": "SOCCER",
+      "headline": "2026 French Open distributes $71M+ in prize money across two-week event",
+      "storyIndex": 5,
+      "blurb": "Roland-Garros total purse exceeded $71M for 2026 edition, with career-high payouts for finalists Zverev and Andreeva.",
+      "capturedAt": "2026-06-07T19:07:14.142Z"
     }
   ],
-  "ticket_prices": [
-    {
-      "event": "NBA Finals Game 4 - Knicks vs Spurs",
-      "league": "NBA",
-      "get_in_usd": null,
-      "avg_usd": 15000,
-      "direction": "up",
-      "pct_change": 0,
-      "timeframe": "since series began",
-      "storyIndex": 9,
-      "context": "Secondary market resale prices surge as Knicks lead 2-0; peak price hit $15K for potential closeout.",
-      "capturedAt": "2026-06-07T16:08:27.946Z"
-    }
-  ],
+  "ratings": [],
+  "ticket_prices": [],
   "sidebar": [
     {
-      "headline": "Knicks-Spurs opener nears 17 million viewers in NBA's top game since 2019",
-      "source": "Sports Media Watch · 0h ago",
-      "article": "The New York Knicks' Finals return has already shattered viewership benchmarks. Game 1 against the Spurs drew nearly 17 million viewers on ABC, the NBA's largest audience for a single game since 2019. The number underscores the league's ability to generate mass-market interest when a historic franchise with star talent reaches the Finals. The Knicks' 29-year absence amplified casual viewership—a city starved for playoff basketball turned out en masse. For ABC and ESPN, the number validates their Finals investment and suggests sustained viewership for Games 2-7 if the series remains competitive. The audience also hints at strong demand for games in later rounds, positioning well for network upfronts and advertising rates heading into next season."
+      "headline": "'It's Bible time': How religion became part of the USMNT's World Cup identity",
+      "source": "The Guardian",
+      "article": "Christian faith has become an explicit organizing principle for the USMNT's World Cup campaign, with stars like Christian Pulisic and Weston McKennie openly discussing scripture and prayer as mental preparation. The trend reflects a broader evangelical presence in American sports, where organized faith communities provide both spiritual grounding and team-building mechanics. For the USMNT, faith-based bonding may serve a tactical purpose—unified belief systems historically strengthen squad cohesion. However, the messaging also risks alienating fans and creating exclusionary subcultures within the locker room. The team's public emphasis on Bible study diverges sharply from historical USMNT branding, which has traditionally focused on meritocratic multiculturalism over sectarian identity."
     },
     {
-      "headline": "NBA Finals overreactions: Knicks a team of destiny? Victor Wembanyama sinking the Spurs?",
-      "source": "CBS Sports · 0h ago",
-      "article": "After two Knicks wins to open the Finals, the hot takes are flying: Is New York a team of destiny? Is Victor Wembanyama already a Finals choker? CBS Sports' analysis walks through the overreactions and underreactions from Games 1-2. The Knicks' depth—specifically Jalen Brunson's efficiency and the three-point shooting of Karl-Anthony Towns—is catching the Spurs off-guard in a way that San Antonio's perimeter defense hasn't anticipated. Wembanyama's individual numbers are solid, but his impact on team spacing has been limited by the Knicks' ball movement. These are not evidence of destiny or decline, but rather the natural variance of a two-game sample in a Finals series. Expect adjustments in San Antonio's approach for Games 3-4, which will be played in Texas."
+      "headline": "Colombia vs. Jordan prediction, odds: Best bet for Sunday's World Cup friendly",
+      "source": "NY Post Sports",
+      "article": "Colombia takes on Jordan in an international friendly Sunday with implied betting odds favoring the South American side. The matchup serves as a late-stage preparation window for Colombia's World Cup campaign. Jordan's participation in such warm-up matches indicates the team is ramping testing against elevated competition ahead of qualifying. Standard sports betting analysis applies: Colombia's squad depth and recent tournament experience typically favor them in such fixtures, though friendlies remain inherently unpredictable given varying squad rotations and intensity levels."
     },
     {
-      "headline": "Why the Bears' Indiana Move Isn't Final Despite State Celebrations",
-      "source": "Sportico · 0h ago",
-      "article": "Indiana celebrated a Bears relocation as a done deal after the franchise's board approved a move study, but the NFL approval process is far from complete. The league requires explicit owner voting, lease termination negotiations with Chicago, and potential litigation over Soldier Field. Sportico reports that while the board's vote signals intent, the Bears retain optionality to renegotiate with the city or face complications from fellow owners who may demand concessions in exchange for supporting the move. This is a multi-year process, not a finalized transaction. Chicago could still land new stadium financing, or the Bears could face legal delays that extend the timeline indefinitely."
+      "headline": "Blue Jays on Sportsnet: Toronto vs. Baltimore",
+      "source": "Sportsnet",
+      "article": "Kevin Gausman takes the mound Sunday as the Toronto Blue Jays pursue a series victory against the Baltimore Orioles. The matchup carries mid-season divisional implications for both AL East contenders. Gausman's recent performance and the Orioles' lineup matchups will determine broadcast narrative. Sportsnet's coverage will emphasize Toronto's bullpen stability and offensive production in close games—metrics that determine playoff positioning in compressed AL East races."
     },
     {
-      "headline": "Maple Leafs plan to interview Joe Pavelski for head coach vacancy",
-      "source": "Sportsnet · 0h ago",
-      "article": "The Toronto Maple Leafs are pursuing Hall of Famer Joe Pavelski as a head coaching candidate, signaling a pivot toward first-time coaches with elite player credentials. Pavelski, who retired after 1,652 regular-season games and holds deep respect from elite players, brings no formal coaching experience but carries institutional knowledge that could appeal to a Leafs roster built around Auston Matthews. The hire would prioritize locker room leadership and player empathy over established system-building. It's a gamble that high-level player credentials can translate to coaching success without a proven organizational blueprint."
+      "headline": "Long Island bishop using Knicks NBA Finals run to convince long-suffering fans there is a God",
+      "source": "NY Post Sports",
+      "article": "A Long Island bishop has begun weaponizing the Knicks' improbable NBA Finals run as evidence of divine intervention, invoking biblical metaphor to connect New York basketball redemption with spiritual awakening. The messaging targets the city's generational fan base—sufferers through decades of playoff disappointment. Whether intentional or not, the framing suggests organized faith institutions are capitalizing on sports euphoria to broaden congregation messaging. The Knicks' Finals presence has triggered cultural moments beyond basketball, revealing the psychological void left by 25+ years of futility."
     },
     {
-      "headline": "2026 FIFA World Cup time zones: Here's what to know about kickoff times in USA, Mexico and Canada",
-      "source": "CBS Sports · 0h ago",
-      "article": "The 2026 World Cup stretches across four North American time zones—Eastern, Central, Mountain, and Pacific—forcing broadcasters and organizers to navigate unprecedented scheduling challenges. Matches in Vancouver (Pacific) and Toronto (Eastern) could occur simultaneously but at radically different times for North American viewers, fracturing the primetime window that typically concentrates World Cup viewership. FOX must distribute matches strategically to maintain audience size across dispersed time zones. Regional pricing and ticket availability will vary based on each match's broadcast window, with primetime slots commanding premium pricing and off-peak games seeing reduced on-site demand."
+      "headline": "Dabble promo code NYPBONUS: Get $10 for Fire vs. Sparks when you sign-up",
+      "source": "NY Post Sports",
+      "article": "Dabble's fantasy sports promotional offer targets WNBA audiences specifically, incentivizing new user acquisition ahead of the Fire vs. Sparks matchup. The marketing reflects broader DFS ecosystem strategy: regional promos tied to specific teams and matchups maximize conversion among local fan bases. NY Post's syndication of the offer underscores how sports betting marketing now funds traditional sports media distribution—a structural shift in sports journalism business models."
     },
     {
-      "headline": "On the Air: The staying power of NBA Finals voice Mike Breen",
-      "source": "Sports Media Watch · 0h ago",
-      "article": "Mike Breen has called 18 consecutive NBA Finals for ABC/ESPN, a rare tenure that reflects the league's commitment to consistent broadcast talent. Breen's signature calls—particularly the elongated \"BANG!\" on clutch three-pointers—have become part of Finals cultural shorthand. His longevity contrasts sharply with typical sports media talent rotation, suggesting that the most high-stakes broadcast moments warrant stability over experimentation. Breen's continued role validates that indispensable talent can secure long-term job security in an otherwise unstable industry."
+      "headline": "'I Don't Know Why We're Still On This:' Caitlin Clark, Fever Tired of Circus Around Team",
+      "source": "Front Office Sports",
+      "article": "Caitlin Clark expressed public frustration over persistent rumors and external circus surrounding the Indiana Fever, signaling fatigue with off-court noise interfering with team performance. Her willingness to call out the media/fan ecosystem reflects growing player agency in shaping narrative—especially for generational talents with leverage. The Fever's structural instability (coaching transitions, roster volatility, market positioning) creates a perpetual rumor cycle that diverts focus from competitive rebuilding. Clark's complaint is a warning shot at the franchise: recruit operational stability or risk losing cultural credibility with your star."
     }
   ],
   "poll": {
-    "question": "Will the Bears' relocation to Indianapolis survive the full NFL owner vote?",
+    "question": "Which storyline will have the biggest long-term sports business impact?",
     "options": [
-      "Yes, it's approved without significant conditions",
-      "Yes, but owners demand compensation or concessions",
-      "No, the deal falls apart in negotiations",
-      "Chicago renegotiates a new stadium deal and Bears stay"
+      "LIV Golf's funding crisis and potential PGA Tour merger acceleration",
+      "Chicago Bears' conditional relocation to Indianapolis",
+      "Alexander Zverev's Grand Slam breakthrough and media rights implications",
+      "Knicks Finals ticket pricing and accessibility debate"
     ]
   },
   "predictions": [
     {
-      "statement": "The Knicks will win the 2026 NBA Finals in six games, with Game 6 drawing over 20M viewers on ABC.",
-      "probability": 42,
-      "rationale": "New York's 2-0 series lead and the Knicks' Finals-starved market create momentum, but the Spurs' perimeter defense will adjust in San Antonio. A six-game Finals gives the Knicks multiple chances to clinch at the Garden, where primetime viewership will be maximized. However, Victor Wembanyama's adjustments and San Antonio's playoff pedigree make a Spurs comeback plausible."
-    },
-    {
-      "statement": "The Chicago Bears' relocation to Indianapolis will be officially approved by NFL ownership within 18 months.",
-      "probability": 68,
-      "rationale": "Ownership votes typically rubber-stamp board recommendations, and Indianapolis has already made the political and financial commitment. However, the 32% probability of delays reflects genuine risks: Chicago's potential stadium financing, litigation over Soldier Field, and the NFL's historical reluctance to abandon marquee markets without exhausting alternatives."
-    },
-    {
-      "statement": "Joe Pavelski will be hired as the Toronto Maple Leafs' head coach and will make the second round of the 2027 playoffs.",
-      "probability": 35,
-      "rationale": "Pavelski's Hall of Famer status commands respect in elite locker rooms, and the Leafs have the roster to make a playoff run. But first-time coaches typically underperform in Year 1, and the Leafs' recent playoff struggles suggest systemic issues beyond coaching credibility. Success requires Pavelski to quickly assimilate a winning system, which is a steep learning curve."
-    },
-    {
-      "statement": "The 2026 FIFA World Cup will exceed 2022 Qatar viewership in the United States despite the four-time-zone fragmentation.",
+      "statement": "LIV Golf will announce fresh PIF capital commitments or accelerated PGA Tour merger framework within 30 days.",
       "probability": 72,
-      "rationale": "Home-soil advantage and North American accessibility will drive casual viewership that Qatar's foreign location didn't generate. The four-time-zone scatter will reduce simultaneous primetime audiences but will expand peak-time windows across the continent. FOX's scheduling expertise should mitigate the downside of fragmentation."
+      "rationale": "47 days of runway is unsustainable; Saudi leadership will either recommit publicly or force merger urgency. Silent collapse is not an option given Crown Prince attention to Vision 2030 sportswashing optics."
+    },
+    {
+      "statement": "Chicago Bears complete relocation to Indianapolis by 2028 despite ongoing litigation and NFL approval delays.",
+      "probability": 68,
+      "rationale": "State and municipal opposition will protract the process, but the Bears' ownership has signaled clear intent and Indiana's financing package will eventually coalesce. 18-24 month timeline is conservative."
+    },
+    {
+      "statement": "Alexander Zverev will be ranked No. 1 in men's tennis within 12 months following his French Open breakthrough.",
+      "probability": 55,
+      "rationale": "His first major suggests peak form and psychological breakthrough, but the men's rankings remain competitive. Grass and hard courts will test his consistency; a Wimbledon semifinal appearance or US Open run would trigger the No. 1 conversation."
+    },
+    {
+      "statement": "Joe Pavelski will not be hired as Maple Leafs head coach; the franchise will choose an experienced assistant.",
+      "probability": 81,
+      "rationale": "Pavelski is a marquee interview serving PR purposes, not a serious frontrunner. The Leafs' playoff failures demand proven structural expertise—not a first-time coach, regardless of playing pedigree."
     }
   ],
-  "injuries": [],
+  "injuries": [
+    {
+      "player": "Christian Eriksen",
+      "team": "Denmark National Team / Tottenham Hotspur",
+      "league": "SOCCER",
+      "status": "OUT",
+      "injury": "Cardiac event / loss of consciousness on pitch",
+      "timeline": "Under evaluation; return status unclear",
+      "source": "BBC Sport",
+      "impact": "Denmark faces significant midfield depth crisis ahead of World Cup qualifiers; Tottenham's European competition participation may be jeopardized pending medical clearance.",
+      "storyIndex": 4
+    }
+  ],
   "picks": [
     {
-      "matchup": "San Antonio Spurs @ New York Knicks",
-      "league": "NBA",
+      "matchup": "Boston Red Sox @ New York Yankees",
+      "league": "MLB",
       "type": "moneyline",
-      "when": "Tonight 8:30 PM ET",
-      "pick": "New York Knicks ML",
-      "odds": "-130",
-      "edge": "The Knicks have already secured a 2-0 Finals lead with the series moving to New York (Game 3). New York ranks first among all playoff teams in defensive rating, allowing only 100.6 OPPG through 14 playoff games—a historically elite defensive performance in Finals-level competition. The Spurs, trailing 0-2, must win on the road against the league's top-ranked playoff defense with no margin for error. Home-court advantage in a elimination-game scenario combined with elite defensive depth gives the Knicks a structural edge the market has not fully priced into -130 moneyline odds.",
-      "confidence": "medium",
+      "when": "Today 2:00 PM ET",
+      "pick": "New York Yankees ML",
+      "odds": "-141",
+      "edge": "Ranger Suarez has posted a 6.13 ERA over four games against teams ranking in the Top 10 in OPS vs. left-handed pitching; the Yankees lead the majors in OPS against lefties. Suarez will face a lineup built to exploit this specific weakness. Goldschmidt (.808 SLG vs. LHP) and five additional Yankees batters sport ISOs above .200 against left-handed pitching. The Red Sox bullpen's recent 2.74 ERA (7-day) provides some offset, but the matchup edge is structural and significant. Market has priced Yankees at -141, which appears fair to slightly undervalued given the magnitude of Suarez's splits and the Yankees' league-leading offensive profile vs. lefties.",
+      "confidence": "high",
       "marketSnapshot": {
-        "capturedAt": "2026-06-07T12:16:56.264Z",
+        "capturedAt": "2026-06-07T19:08:13.684Z",
         "markets": {
           "h2h": {
             "away": {
-              "price": 115,
-              "book": "BetMGM"
+              "price": 120,
+              "book": "Bovada"
             },
             "home": {
-              "price": -130,
+              "price": -141,
+              "book": "DraftKings"
+            },
+            "draw": null
+          },
+          "spreads": {
+            "away": {
+              "point": 1.5,
+              "price": -260,
+              "book": "Bovada"
+            },
+            "home": {
+              "point": -1,
+              "price": 123,
+              "book": "BetRivers"
+            }
+          },
+          "totals": {
+            "over": {
+              "point": 4,
+              "price": -125,
+              "book": "MyBookie.ag"
+            },
+            "under": {
+              "point": 4.5,
+              "price": -135,
+              "book": "Bovada"
+            }
+          }
+        },
+        "awayTeam": "Boston Red Sox",
+        "homeTeam": "New York Yankees",
+        "commenceTime": "2026-06-07T18:00:00Z"
+      },
+      "_scheduledTs": 1780855200000
+    },
+    {
+      "matchup": "Pittsburgh Pirates @ Atlanta Braves",
+      "league": "MLB",
+      "type": "moneyline",
+      "when": "Today 1:36 PM ET",
+      "pick": "Atlanta Braves ML",
+      "odds": "-345",
+      "edge": "Probable starters confirmed: Bubba Chandler (RHP, 2-6, 4.89 ERA, 55 SO) for Pittsburgh vs. Bryce Elder (RHP, 5-3, 2.63 ERA, 67 SO) for Atlanta. Elder's ERA advantage of 2.26 runs and superior strikeout rate in a 55-SO difference represents a material edge in a starting-pitcher-dependent sport. Braves' 44-21 record and Pirates' 34-31 record reflect the overall talent gap. The -345 moneyline (implied 77.5% win probability) accurately reflects this disparity but remains worth playing given the confirmed ERA split and the Braves' home-field efficiency.",
+      "confidence": "medium",
+      "marketSnapshot": {
+        "capturedAt": "2026-06-07T19:08:13.685Z",
+        "markets": {
+          "h2h": {
+            "away": {
+              "price": -425,
+              "book": "Bovada"
+            },
+            "home": {
+              "price": 345,
+              "book": "MyBookie.ag"
+            },
+            "draw": null
+          },
+          "spreads": {
+            "away": {
+              "point": -1.5,
+              "price": -150,
+              "book": "BetRivers"
+            },
+            "home": {
+              "point": 1.5,
+              "price": 142,
               "book": "FanDuel"
+            }
+          },
+          "totals": {
+            "over": {
+              "point": 4.5,
+              "price": -114,
+              "book": "BetRivers"
+            },
+            "under": {
+              "point": 4.5,
+              "price": 105,
+              "book": "Bovada"
+            }
+          }
+        },
+        "awayTeam": "Pittsburgh Pirates",
+        "homeTeam": "Atlanta Braves",
+        "commenceTime": "2026-06-07T17:36:00Z"
+      },
+      "_scheduledTs": 1780853760000
+    },
+    {
+      "matchup": "Chicago White Sox @ Philadelphia Phillies",
+      "league": "MLB",
+      "type": "moneyline",
+      "when": "Today 1:36 PM ET",
+      "pick": "Philadelphia Phillies ML",
+      "odds": "-333",
+      "edge": "Even matchup in wins (34-30 each) but the Phillies are a significantly deeper and more consistent organization playing at home. The -333 moneyline reflects modest pricing that accounts for the White Sox' surprising record parity, but Philadelphia's bullpen depth and offensive firepower justify the favorite. No specific injury or recent stat split was confirmed in research, so this is framed as a structural quality gap at a fair price rather than a hidden edge.",
+      "confidence": "low",
+      "marketSnapshot": {
+        "capturedAt": "2026-06-07T19:08:13.686Z",
+        "markets": {
+          "h2h": {
+            "away": {
+              "price": 315,
+              "book": "Bovada"
+            },
+            "home": {
+              "price": -333,
+              "book": "MyBookie.ag"
+            },
+            "draw": null
+          },
+          "spreads": {
+            "away": {
+              "point": 2.5,
+              "price": -140,
+              "book": "DraftKings"
+            },
+            "home": {
+              "point": -1.5,
+              "price": -125,
+              "book": "MyBookie.ag"
+            }
+          },
+          "totals": {
+            "over": {
+              "point": 12.5,
+              "price": -115,
+              "book": "BetMGM"
+            },
+            "under": {
+              "point": 12.5,
+              "price": 105,
+              "book": "DraftKings"
+            }
+          }
+        },
+        "awayTeam": "Chicago White Sox",
+        "homeTeam": "Philadelphia Phillies",
+        "commenceTime": "2026-06-07T17:36:00Z"
+      },
+      "_scheduledTs": 1780853760000
+    },
+    {
+      "matchup": "San Antonio Spurs @ New York Knicks",
+      "league": "NBA",
+      "type": "spread",
+      "when": "Tomorrow 8:40 PM ET",
+      "pick": "New York Knicks -2",
+      "odds": "-108",
+      "edge": "Spurs are 62-20 (elite), but this is a road spot for San Antonio and the Knicks (53-29) are playing at home with a 5-game sample favoring home teams in this late-season window. No confirmed injury data, schedule spot data, or bench-scoring split was available from search results, so this pick is anchored to the record gap (9 wins) and home-court value at a fair -108 line.",
+      "confidence": "low",
+      "marketSnapshot": {
+        "capturedAt": "2026-06-07T19:08:13.686Z",
+        "markets": {
+          "h2h": {
+            "away": {
+              "price": 114,
+              "book": "DraftKings"
+            },
+            "home": {
+              "price": -128,
+              "book": "LowVig.ag"
             },
             "draw": null
           },
@@ -2521,15 +2689,15 @@
             },
             "home": {
               "point": -2,
-              "price": -110,
+              "price": -108,
               "book": "LowVig.ag"
             }
           },
           "totals": {
             "over": {
               "point": 215.5,
-              "price": -107,
-              "book": "LowVig.ag"
+              "price": -115,
+              "book": "BetMGM"
             },
             "under": {
               "point": 216.5,
@@ -2539,9 +2707,10 @@
           }
         },
         "awayTeam": "San Antonio Spurs",
-        "homeTeam": "New York Knicks"
+        "homeTeam": "New York Knicks",
+        "commenceTime": "2026-06-09T00:40:00Z"
       },
-      "_scheduledTs": 1780878600000
+      "_scheduledTs": 1780965600000
     },
     {
       "matchup": "San Antonio Spurs @ New York Knicks",
@@ -2556,14 +2725,14 @@
       "_pendingGrade": true
     }
   ],
-  "updatedAt": "2026-04-23T18:45:00Z",
+  "updatedAt": "2026-04-23T15:47:00Z",
   "highlights": [
     {
       "league": "NBA",
-      "title": "Christian &amp; Scooby mic’d up at Game 2 of the NBA Finals in San Antonio 🔥",
-      "videoId": "DBIA5G93Dag",
-      "thumbnail": "https://img.youtube.com/vi/DBIA5G93Dag/mqdefault.jpg",
-      "timeAgo": "14h ago",
+      "title": "Jalen Brunson aura 😮‍💨",
+      "videoId": "opVBMnhBYsY",
+      "thumbnail": "https://img.youtube.com/vi/opVBMnhBYsY/mqdefault.jpg",
+      "timeAgo": "Just now",
       "isFallback": false
     },
     {
@@ -2571,23 +2740,23 @@
       "title": "I Scored A Touchdown: Mike Alstott's Story | NFL on ESPN",
       "videoId": "7a541FsUY2Y",
       "thumbnail": "https://img.youtube.com/vi/7a541FsUY2Y/mqdefault.jpg",
-      "timeAgo": "2h ago",
+      "timeAgo": "5h ago",
       "isFallback": false
     },
     {
       "league": "MLB",
-      "title": "Jacob Misiorowski got what he wished for and delivered 🔥",
-      "videoId": "P7Havsf0zGo",
-      "thumbnail": "https://img.youtube.com/vi/P7Havsf0zGo/mqdefault.jpg",
+      "title": "Myles Garrett delivers a strike at Dodger Stadium 🤩",
+      "videoId": "UjOQdO8ciTw",
+      "thumbnail": "https://img.youtube.com/vi/UjOQdO8ciTw/mqdefault.jpg",
       "timeAgo": "1h ago",
       "isFallback": false
     },
     {
       "league": "NHL",
-      "title": "McDavid awarded Ted Lindsay Award on the Links! ⛳️⛳️⛳️",
-      "videoId": "sEBqt1PFjc4",
-      "thumbnail": "https://img.youtube.com/vi/sEBqt1PFjc4/mqdefault.jpg",
-      "timeAgo": "1h ago",
+      "title": "The Hat Trick Stick Must Be Saved 😤",
+      "videoId": "GxPLzRqNy0o",
+      "thumbnail": "https://img.youtube.com/vi/GxPLzRqNy0o/mqdefault.jpg",
+      "timeAgo": "3h ago",
       "isFallback": false
     },
     {
@@ -2595,14 +2764,14 @@
       "title": "Indiana Fever vs. New York Liberty | FULL GAME HIGHLIGHTS | June 6, 2026",
       "videoId": "An0xC-dR2xQ",
       "thumbnail": "https://img.youtube.com/vi/An0xC-dR2xQ/mqdefault.jpg",
-      "timeAgo": "13h ago",
+      "timeAgo": "16h ago",
       "isFallback": false
     },
     {
       "league": "SOCCER",
-      "title": "What an effort!",
-      "videoId": "SxWJq2Eabl0",
-      "thumbnail": "https://img.youtube.com/vi/SxWJq2Eabl0/mqdefault.jpg",
+      "title": "iShowSpeed was shook 😂👏 (via @IShowSpeed/TT)",
+      "videoId": "WMULZI-Et80",
+      "thumbnail": "https://img.youtube.com/vi/WMULZI-Et80/mqdefault.jpg",
       "timeAgo": "1h ago",
       "isFallback": false
     }
