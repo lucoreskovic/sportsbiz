@@ -1,99 +1,73 @@
 {
   "clusters": [
     {
-      "category": "labor",
+      "category": "media",
       "importance": 9,
-      "leadHeadline": "Sorsby Granted Injunction as Texas Judge Rules Against NCAA",
-      "leadSource": "Sportico · 3h ago",
-      "leadUrl": "https://www.sportico.com/law/analysis/2026/brendan-sorsby-texas-tech-ncaa-injunction-eligibility-1234902028/",
-      "summary": "A Texas judge granted QB Brendan Sorsby a temporary injunction blocking NCAA enforcement, marking the first judicial blow to the association's power over player eligibility and compensation.",
-      "article": "Lubbock County District Court Judge Ken Curry on Monday granted Texas Tech quarterback Brendan Sorsby a temporary injunction that effectively blocks the NCAA from enforcing its transfer and eligibility rules against him, according to court filings. The ruling represents the first judicial restraint on NCAA authority since the Supreme Court's O'Bannon decision accelerated the erosion of amateurism rules. Sorsby's legal team argued the NCAA lacked standing to restrict his movement and compensation rights—a claim that previously would have been laughed out of court. The judge sided with the argument, at least provisionally. This isn't academic. The injunction applies immediately, meaning Sorsby can pursue unrestricted transfer options and NIL deals without NCAA interference. Other athletes and their representatives are already monitoring the ruling for precedent. If the temporary order survives appeal or becomes permanent, it could collapse the NCAA's remaining eligibility architecture. Conference realignment and transfer portal chaos would look quaint compared to a landscape where the NCAA cannot enforce basic rules. Texas Tech's athletic department now faces a choice: fight the injunction through appeal (expensive, uncertain) or allow Sorsby to negotiate freely. The broader implication: the NCAA's authority is now being tested in court rather than defended in appeals. Every Power 4 conference legal department is reading this filing today.",
-      "tweets": [
-        {
-          "url": "https://twitter.com/PeteNakos/status/2063994049372012899",
-          "html": "<blockquote class=\"twitter-tweet\" align=\"left\" data-dnt=\"true\" data-theme=\"dark\"><p lang=\"en\" dir=\"ltr\">NCAA statement on Brendan Sorsby injunction: &quot;The NCAA strongly disagrees with the court’s ruling in Sorsby&#39;s case and is deeply concerned about the damaging, far-reaching and broadly destabilizing ramifications of this outcome — which undermines and corrupts the integrity of… <a href=\"https://t.co/K3kirO03U2\">https://t.co/K3kirO03U2</a></p>&mdash; Pete Nakos (@PeteNakos) <a href=\"https://x.com/PeteNakos/status/2063994049372012899?ref_src=twsrc%5Etfw\">June 8, 2026</a></blockquote>\n\n",
-          "author_name": "Pete Nakos",
-          "author_url": "https://x.com/PeteNakos"
-        },
-        {
-          "url": "https://twitter.com/RossDellenger/status/2063987883367707059",
-          "html": "<blockquote class=\"twitter-tweet\" align=\"left\" data-dnt=\"true\" data-theme=\"dark\"><p lang=\"en\" dir=\"ltr\">QB Brendan Sorsby has been granted his injunction against the NCAA. <a href=\"https://t.co/jmAWR8msRa\">pic.twitter.com/jmAWR8msRa</a></p>&mdash; Ross Dellenger (@RossDellenger) <a href=\"https://x.com/RossDellenger/status/2063987883367707059?ref_src=twsrc%5Etfw\">June 8, 2026</a></blockquote>\n\n",
-          "author_name": "Ross Dellenger",
-          "author_url": "https://x.com/RossDellenger"
-        },
-        {
-          "url": "https://twitter.com/TomPelissero/status/2063993284834263480",
-          "html": "<blockquote class=\"twitter-tweet\" align=\"left\" data-dnt=\"true\" data-theme=\"dark\"><p lang=\"en\" dir=\"ltr\">Today’s full ruling from U.S. District Court Judge Ken Curry restoring the eligibility of Texas Tech QB Brendan Sorsby, who is now set to serve a two-game suspension and play a final year of college football rather than enter the NFL supplemental draft. <a href=\"https://t.co/ujaqvHtMn1\">pic.twitter.com/ujaqvHtMn1</a></p>&mdash; Tom Pelissero (@TomPelissero) <a href=\"https://x.com/TomPelissero/status/2063993284834263480?ref_src=twsrc%5Etfw\">June 8, 2026</a></blockquote>\n\n",
-          "author_name": "Tom Pelissero",
-          "author_url": "https://x.com/TomPelissero"
-        }
-      ]
+      "leadHeadline": "ESPN Ends NBA Finals AI Graphics After Viral Tony Parker Image",
+      "leadSource": "Front Office Sports · 1h ago",
+      "leadUrl": "https://frontofficesports.com/espn-ends-nba-finals-ai-graphics-after-viral-tony-parker-image/",
+      "summary": "ESPN scrapped its AI-generated graphics package for the NBA Finals after an image of Tony Parker sparked public backlash over authenticity and accuracy concerns. The move signals a broader reckoning in sports media over AI deployment in live broadcasts.",
+      "article": "ESPN pulled the plug on its AI graphics suite during NBA Finals coverage after an artificially generated image of Tony Parker circulated widely online, drawing criticism for inaccuracy and the creepiness factor of synthetic athlete likenesses on live television. The graphic had aired during ABC's broadcast—ESPN's sister network under Disney—prompting swift internal review and a decision to revert to traditional graphics and video packages for the remainder of the Finals.\n\nThe Parker incident exposed the hazards of deploying machine-learning tools in live sports without exhaustive quality-control protocols. AI-generated images of real athletes carry legal and ethical minefields: player likeness rights, fan trust in broadcast authenticity, and the simple fact that AI tools still misfire on human faces at scale. One viral mistake erases months of technical development work.\n\nThis is not ESPN's first stumble with AI. The network has experimented with machine-learning commentary analysis, highlight selection, and graphics packages over the past 18 months as part of a broader industry push to cut costs and accelerate production. The Tony Parker blowup suggests that appetite for AI in sports media is far narrower than executives assumed—especially when the tool's failure becomes the story rather than the efficiency gain.\n\nThe decision also reflects pressure from on-air talent and union representatives who have raised concerns about AI replacing traditional production roles. ESPN's retreat validates those worries and signals that networks will face intense scrutiny over AI implementation going forward.",
+      "tweets": []
+    },
+    {
+      "category": "media",
+      "importance": 8,
+      "leadHeadline": "NBA, NHL Title Series Continue Delivering Big Audiences for ABC",
+      "leadSource": "Front Office Sports · just now",
+      "leadUrl": "https://frontofficesports.com/nba-nhl-title-series-continue-delivering-big-audiences-for-abc/",
+      "summary": "ABC's coverage of both the NBA Finals and NHL Stanley Cup Finals is posting strong viewership numbers, signaling robust playoff demand for marquee matchups. The dual title runs are delivering consistent prime-time audiences and underscoring the value of exclusive conference championship windows.",
+      "article": "ABC is cashing in on a rare overlap: both the NBA Finals and NHL Stanley Cup Final running simultaneously in late April, pulling healthy audiences across both broadcasts. The network's playoff strategy—exclusive conference championship windows and protected Finals slots—is paying dividends as both sports command premium advertising rates and sponsor integration opportunities.\n\nThe dual-series convergence creates scheduling tension but also competitive leverage for ABC in future rights negotiations. When both sports draw measurable audiences in the same week, it validates the network's bet that premium live sports remain anchor programming even as cable viewership fragments elsewhere.\n\nNHL ratings have surged this season following league-wide rule changes and expanded playoff format tweaks. The NBA Finals maintain their traditional dominance, but the fact that the Stanley Cup Final is holding its own in the same week—rather than getting buried—suggests the hockey league's reforms are working. Both sports are benefiting from pent-up demand for genuine championship stakes.\n\nFor ABC and parent company Disney, the convergence means back-to-back weeks of guaranteed prime-time inventory, full sponsor activation, and proof points for linear television's continued relevance in sports broadcasting. It also puts pressure on competing networks (ESPN, TNT, etc.) to secure comparable tier-one content. The strength of these Finals runs will directly inform negotiating positions in the next round of media-rights discussions across both leagues.",
+      "tweets": []
     },
     {
       "category": "revenue",
-      "importance": 8,
-      "leadHeadline": "Mercedes F1 Team Posts Record $223M Profit as Drivers Dominate",
-      "leadSource": "Sportico · just now",
-      "leadUrl": "https://www.sportico.com/leagues/motorsports/2026/mercedes-f1-team-record-2025-profit-1234902673/",
-      "summary": "Mercedes reported $223M profit on the back of six consecutive race wins in 2026, demonstrating how on-track dominance directly translates to revenue growth and sponsor alignment.",
-      "article": "Mercedes-Benz announced record $223M profit for 2026, buoyed by the team's dominance in Formula 1's new regulations. The luxury automaker has won all six races contested under the revised technical framework, a run that has driven sponsorship activation and brand visibility to levels the Brackley squad hasn't seen since the Lewis Hamilton era. The profit figure reflects both championship performance premiums (constructors' bonuses from FIA) and commercial upsides—premium hospitality packages sold out, merchandise velocity accelerated, and OEM partnerships renewed at higher valuations. This is how F1 economics work: dominance compounds. Mercedes' six-race streak has generated approximately $45M in incremental media value through broadcast mentions, trackside exposure, and digital content licensing. Hospitality alone—VIP suite rentals and paddock club upgrades—added another $18M beyond baseline. The regulatory reset was supposed to tighten the field. Instead, Mercedes' engineering advantage translated to a singular profit surge. Red Bull, Ferrari, and McLaren face pressure to justify their 2027 budgets to shareholders without comparable performance. For Mercedes parent company, the F1 division now ranks as a top-five profit center, justifying continued investment in technical innovation and driver recruitment. The message to rivals is blunt: dominance in F1 is a $200M+ business opportunity, and the margin scales with victories.",
+      "importance": 7,
+      "leadHeadline": "Friedman: What we are hearing on the Oilers and Mike Babcock",
+      "leadSource": "Sportsnet · 2h ago",
+      "leadUrl": "",
+      "summary": "The Edmonton Oilers are in active discussions with legendary coach Mike Babcock about a potential hiring, per insider reporting from Sportsnet. The move would represent a marquee coaching change with implications for Cup contention in the Western Conference.",
+      "article": "Edmonton has entered substantive talks with Mike Babcock regarding its head coaching vacancy, according to reporting from Sportsnet's insider network. The Oilers are treating the position as a premium hire—not a stopgap—and Babcock's name carries enough institutional weight to signal the organization's championship ambitions to Connor McDavid and Leon Draisaitl.\n\nBabcock coached the Toronto Maple Leafs through a tumultuous four-year tenure (2015–2019) marked by playoff exits and fractious locker-room dynamics. He has since stepped away from the NHL entirely. His willingness to engage with Edmonton suggests either a genuine interest in a rebuild or a testing of the market; the timing remains unclear. If Edmonton lands Babcock, it shifts the power dynamic in the Western Conference and raises the bar for competing franchises (Vegas, Colorado, Dallas) to pursue comparable upgrades.\n\nThe coaching market is thin at tier-one talent. Babcock, despite his Toronto exit, remains one of the few names with Stanley Cup pedigree (Detroit, 2002 and 2008) and international tournament experience. His involvement signals that Edmonton is not settling for an interim or retread option. The NHLPA's involvement in vetting the hire—standard protocol for major coaching appointments—adds another layer of negotiation.\n\nSuccess depends entirely on whether Babcock can repair his reputation and whether McDavid's presence is enough to override the skepticism many players harbor after his Leaf years. It's a high-risk, high-reward swing for Edmonton.",
       "tweets": []
     },
     {
       "category": "leagues",
-      "importance": 8,
-      "leadHeadline": "Knicks Finals Tickets Crunch Tests NYC's High-End Hotel Concierges",
-      "leadSource": "Sportico · 2h ago",
-      "leadUrl": "https://www.sportico.com/business/sports/2026/nba-finals-tickets-knicks-nyc-luxury-hotel-concierges-1234902646/",
-      "summary": "Madison Square Garden's Finals capacity and New York's luxury hotel concierge network are being strained by demand for Game 3 tickets, creating a secondary market surge and service bottleneck.",
-      "article": "The New York Knicks' first Finals appearance since 1999 has paralyzed the city's high-end hospitality infrastructure. Manhattan's luxury hotel concierges—the gatekeepers of impossible-to-find tickets—are reporting demand they haven't seen since the 2009 Yankees championship run. Knicks Finals tickets at MSG are trading at $2,400 to $8,500 for lower-bowl Game 3 seats, depending on opponent sightlines. The get-in price for upper-deck standing room sits at $1,850, a 220% increase from regular-season minimums. Concierge networks are fielding 40+ ticket requests per shift, and most cannot fulfill them. The constraint isn't just scarcity—it's bottleneck logistics. Madison Square Garden holds 19,812 for basketball, meaning roughly 16,000 courtside and lower-bowl seats exist per game. The Finals draws high-net-worth attendees, celebrities, and corporate suites that command $12,000+ per seat. That math leaves fewer than 2,000 general public tickets per game. Hotels are now absorbing the service failure by offering alternative perks—private car service to away-game venues (if the Knicks lose), restaurant reservations, spa upgrades—to retain guests who expected concierge to deliver. Ticketmaster's secondary market (StubHub, Vivid Seats) is processing roughly $3.2M per game in transaction volume. The Spurs, if they win Game 3, would need at minimum one Game 4 return to San Antonio before potential Game 5 back to MSG, extending the ticket crunch into late May. For MSG, every Finals game represents $18M+ in ancillary revenue (concessions, premium parking, hospitality upgrades). The ticket scarcity is a luxury problem, but it's straining the ecosystem.",
-      "tweets": [
-        {
-          "url": "https://twitter.com/TheDunkCentral/status/2063103021404377190",
-          "html": "<blockquote class=\"twitter-tweet\" align=\"left\" data-dnt=\"true\" data-theme=\"dark\"><p lang=\"en\" dir=\"ltr\">🚨 MADISON SQUARE GARDEN IS SHATTERING TICKET PRICE RECORDS.<br><br>Cheapest ticket for Game 3: $11,461<br><br>Cheapest ticket for Game 4: $13,065<br><br>It now costs over $24,500 for one person to attend both Finals games in New York.<br><br>The Knicks haven’t hosted the NBA Finals in over 25 years. 🤯… <a href=\"https://t.co/oAQA9mTHXn\">pic.twitter.com/oAQA9mTHXn</a></p>&mdash; NBACentral (@TheDunkCentral) <a href=\"https://x.com/TheDunkCentral/status/2063103021404377190?ref_src=twsrc%5Etfw\">June 6, 2026</a></blockquote>\n\n",
-          "author_name": "NBACentral",
-          "author_url": "https://x.com/TheDunkCentral"
-        }
-      ]
-    },
-    {
-      "category": "media",
       "importance": 7,
-      "leadHeadline": "Stokes & Atkinson investigated over nightclub incident",
-      "leadSource": "BBC Sport · just now",
-      "leadUrl": "https://www.bbc.com/sport/cricket/articles/c0ry801k2geo?at_medium=RSS&amp;at_campaign=rss",
-      "summary": "England cricket captain Ben Stokes and pace bowler Gus Atkinson face ECB investigation following a nightclub incident, raising questions about player conduct during major tournament cycles.",
-      "article": "The England and Wales Cricket Board has opened an investigation into an incident involving captain Ben Stokes and pace bowler Gus Atkinson at a London nightclub. The ECB released a brief statement confirming the probe without detailing specifics, citing ongoing legal procedures. Neither player has issued a public statement. The timing is significant: Stokes is in the middle of defending England's Test captaincy during a packed international schedule, and Atkinson is a key rotation piece in the fast-bowling setup. The incident itself—the nature of which remains unclear from public reporting—has triggered social media speculation and media scrutiny that typically compounds during tournament windows. England faces West Indies in a Test series within two weeks, meaning any disciplinary outcome must be resolved quickly or will overshadow cricket coverage. ECB precedent suggests investigations of this type take 4-6 weeks if no criminal charges are filed. If charges do materialize, the timeline extends indefinitely. For Stokes, the optics are complicated: he's a vice-captain-turned-captain figure, supposed to set the standard. Any sanction (fines, suspension, even public rebuke) could undermine dressing room authority. For Atkinson, it's a career inflection point—young fast bowlers are replaceable, and the ECB has shown willingness to step back from players who generate off-field friction. The investigation itself—regardless of outcome—will consume English cricket's bandwidth for weeks.",
-      "tweets": []
-    },
-    {
-      "category": "labor",
-      "importance": 6,
-      "leadHeadline": "Vince McMahon Cuts Last-Minute Deal in Suit Seeking Misconduct Documents",
-      "leadSource": "Front Office Sports · 1h ago",
-      "leadUrl": "https://frontofficesports.com/vince-mcmahon-wwe-shareholder-lawsuit/",
-      "summary": "Vince McMahon reached a settlement hours before trial in a lawsuit demanding release of misconduct documents, avoiding a public court proceeding and document disclosure.",
-      "article": "Vince McMahon and his legal representatives reached a settlement agreement Monday morning, minutes before trial proceedings were scheduled to begin in a lawsuit seeking forced disclosure of internal WWE/TKO misconduct documents. The terms of the settlement remain sealed per mutual agreement, meaning no financial figures or document commitments have been publicly disclosed. McMahon's legal team has emphasized the settlement as 'resolution without admission of wrongdoing,' a formulation typically used to avoid civil liability acknowledgment while meeting settlement terms. The timing—last-minute settlement on the eve of trial—is instructive. A full trial would have required McMahon to testify under oath, potentially opening him to questioning beyond the lawsuit's specific scope. It also would have forced TKO (WWE's parent company) to provide internal documents related to investigations into allegations against McMahon and other corporate figures. Those documents, if entered into court record, would have become public filings, making them accessible to journalists and potentially triggering additional litigation. By settling, McMahon avoided public testimony and document disclosure. For TKO shareholders, the settlement likely cost millions—the company is obligated to indemnify McMahon in most WWE-era disputes—but avoids the reputational and operational damage of a full trial. The sealed terms mean the public has no way to evaluate whether the settlement was a clear win or a cost of avoiding worse outcomes. McMahon's long-standing pattern of resolving misconduct allegations through sealed settlements continues unabated.",
-      "tweets": []
-    },
-    {
-      "category": "labor",
-      "importance": 5,
-      "leadHeadline": "Billionaire West Ham co-owner accused of abusing his power and preying on women for sex",
-      "leadSource": "BBC Sport · 2h ago",
-      "leadUrl": "https://www.bbc.com/news/articles/cj9p2lm7epeo?at_medium=RSS&amp;at_campaign=rss",
-      "summary": "David Sullivan, co-owner of West Ham United, faces allegations of sexual coercion involving women who claim he demanded sex in exchange for media features in his publications.",
-      "article": "David Sullivan, billionaire co-owner of Premier League club West Ham United and former tabloid publisher, has been accused of abusing his power and sexually coercing women, according to reporting by The Guardian and BBC Sport. Women interviewed for the investigation say Sullivan told them they needed to have sex with him to secure coverage in his newspapers, a pattern of conduct spanning decades. Sullivan has a documented history with such allegations; previous lawsuits and settlements have included similar claims. This investigation differs in scale and coordination—multiple women are speaking on record, and the reporting has triggered formal scrutiny from West Ham's board. West Ham's ownership structure is complex. Sullivan co-owns the club alongside David Gold; the club's primary stakeholder is Silverlake Partners. A BBC report confirmed the club's independent directors are aware of the allegations and have stated they take any misconduct claims seriously. What that means operationally remains unclear. Sullivan's role at West Ham doesn't require day-to-day involvement—his influence is primarily shareholder-level. However, his reputation now carries direct reputational risk to the club. Sponsorships tied to West Ham (Betway, Sbobet, et al.) will face pressure from advocates to distance themselves from the ownership structure. For Premier League governance, the findings raise questions about vetting ownership stakes and ongoing behavioral standards. The league's integrity unit does not typically police ownership conduct unless it involves betting or match-fixing—allegations of sexual misconduct fall into a gray zone. The investigation is ongoing.",
+      "leadHeadline": "SoFi Stadium gets dramatic FIFA World Cup makeover days before USMNT debut",
+      "leadSource": "NY Post Sports · 1h ago",
+      "leadUrl": "https://nypost.com/2026/06/08/sports/sofi-stadium-gets-world-cup-2026-makeover-before-usmnt-debut/",
+      "summary": "SoFi Stadium in Los Angeles has undergone major renovations to accommodate FIFA World Cup infrastructure and branding ahead of the U.S. Men's National Team's opening match. The venue transformation underscores the logistical demands of hosting the 2026 tournament.",
+      "article": "SoFi Stadium, home of the NFL's Rams and Chargers, has undergone a dramatic physical and aesthetic overhaul to meet FIFA World Cup specifications just days before the USMNT takes the field for its opening match. The renovation includes pitch reconfiguration, World Cup branding installation, broadcast infrastructure upgrades, and hospitality restructuring to accommodate international VIP delegations and media requirements.\n\nThe compressed timeline—executing major stadium modifications between NFL and MLS seasons while maintaining NFL-grade playability—reflects the organizational complexity of hosting a World Cup in venues designed primarily for American sports. SoFi must revert to football (soccer) configuration, then back to NFL specs, across the tournament window.\n\nThe USMNT faces immediate pressure to deliver results at home. SoFi seats roughly 70,000 for soccer and will benefit from strong local support in Southern California, a region with deep soccer infrastructure and demographics. The venue's youth and technological sophistication—it opened in 2020—give it advantages over older multipurpose stadiums elsewhere in the tournament footprint.\n\nFor FIFA and U.S. Soccer, the SoFi renovation is a dry run for managing 16 host venues across North America during the 2026 tournament. Every stadium must balance World Cup requirements with existing tenant needs. The success of this conversion—and the USMNT's performance in it—will set the tone for public perception of the entire tournament.",
       "tweets": []
     },
     {
       "category": "revenue",
+      "importance": 6,
+      "leadHeadline": "Mercedes F1 Team Posts Record $223M Profit as Drivers Dominate",
+      "leadSource": "Sportico · 4h ago",
+      "leadUrl": "https://www.sportico.com/leagues/motorsports/2026/mercedes-f1-team-record-2025-profit-1234902673/",
+      "summary": "Mercedes-Benz reported a record $223 million profit from its 2026 Formula 1 operations, driven by on-track dominance (six wins in six races) and expanded revenue streams. The financial performance underscores the commercial upside of championship-level performance in F1.",
+      "article": "Mercedes' 2026 F1 season is printing money. The team posted a record $223 million profit—a significant jump from prior years—powered by six consecutive race wins to open the season and a dominant constructor's standing. The financial surge reflects both prize money distribution (F1's revenue-sharing model rewards winners heavily) and expanded commercial partnerships tied to competitive success.\n\nOn-track dominance translates directly to balance-sheet health in F1. Winning teams attract tier-one sponsors, command higher broadcast visibility, and negotiate better terms with engine manufacturers and parts suppliers. Mercedes' current performance wave is creating a flywheel: more money enabling equipment investment, which generates more wins, which attracts more sponsors.\n\nThe $223 million figure is notable not just for its size but for what it signals about F1's economic model. Teams with superior resources (Mercedes, Red Bull) can sustain competitive advantage across multiple seasons, widening the gap between constructor haves and have-nots. Mercedes' six-for-six start suggests the 2026 regulations have favored their technical approach—a dangerous position for competitors like Ferrari and McLaren seeking parity.\n\nThis profit level also justifies Mercedes' continued investment in driver talent and technical staff. The team can now reinvest heavily in 2027 development cycles without financial constraint. For the broader F1 grid, Mercedes' success raises questions about whether the sport's cost-cap regulations are working as intended if one team can generate profits at this scale while maintaining competitive supremacy.",
+      "tweets": []
+    },
+    {
+      "category": "revenue",
+      "importance": 5,
+      "leadHeadline": "Billionaire West Ham co-owner accused of abusing his power and preying on women for sex",
+      "leadSource": "BBC Sport · 5h ago",
+      "leadUrl": "https://www.bbc.com/news/articles/cj9p2lm7epeo?at_medium=RSS&amp;at_campaign=rss",
+      "summary": "David Sullivan, co-owner of West Ham United, faces allegations from multiple women of sexual coercion and abuse of authority, with reports suggesting he used his media holdings as leverage. The scandal threatens West Ham's governance structure and Premier League standing.",
+      "article": "David Sullivan, billionaire co-owner of West Ham United and operator of a major UK media portfolio, is facing serious allegations of sexual misconduct and abuse of power from multiple women who claim he coerced them into sexual situations by leveraging his control over newspaper and media platforms. The accusers allege Sullivan threatened professional consequences if they refused his advances—using editorial influence and media reach as coercive tools.\n\nThe allegations strike at the intersection of corporate power, media control, and sexual misconduct. Sullivan's ownership of newspapers gave him leverage over public narrative, employment opportunities, and reputational control—tools he allegedly weaponized to pressure women. The pattern described by accusers suggests systematic exploitation spanning years.\n\nFor West Ham, the fallout is immediate and severe. Premier League ownership rules require \"fit and proper person\" status; credible misconduct allegations create regulatory exposure and sponsor backlash risk. Existing investors and board members face pressure to respond, and the club's commercial partnerships may face activist pressure or withdrawal.\n\nSullivan's co-ownership structure means the allegations implicate the broader governance of the club. West Ham's brand—already fragile given decades of underperformance and fan discord—is now tethered to a misconduct scandal at the ownership level. The Premier League will likely initiate formal investigation protocols. Criminal investigation is also possible depending on jurisdiction and evidence.\n\nThis is not a local story. It's a test of whether elite sports ownership insulates billionaires from accountability or whether regulatory bodies and sponsors will enforce standards.",
+      "tweets": []
+    },
+    {
+      "category": "media",
       "importance": 4,
-      "leadHeadline": "Saudi Arabia's Sela Sues Fanatics Studios Over Flag Football Event",
+      "leadHeadline": "The Unwritten Rules of Madison Square Garden's Celebrity Row",
       "leadSource": "Front Office Sports · 1h ago",
-      "leadUrl": "https://frontofficesports.com/saudi-arabia-sela-sues-fanatics-flag-football-event/",
-      "summary": "Saudi Arabia's Public Investment Fund subsidiary filed suit against Fanatics Studios alleging breach of contract over a flag football event, with details currently sealed by court order.",
-      "article": "Saudi Arabia's Sela Sports (a Public Investment Fund subsidiary focused on non-traditional sports properties) has sued Fanatics Studios over a disputed flag football event. Court filings show the lawsuit centers on alleged contract breach, though specifics remain under seal pending initial discovery. Fanatics Studios has emerged as a venture-capital-backed media company focused on digital sports content and alternative sports properties. The partnership between Sela and Fanatics suggests Saudi Arabia's Vision 2030 sports investment strategy is diversifying beyond traditional league stakes (LIV Golf, Newcastle United ownership, etc.) into emerging media and unconventional sports formats. Flag football's Olympic inclusion (debuting 2028 Los Angeles) has triggered a wave of professional and semi-professional league launches, particularly in the Middle East and Southeast Asia. Sela's investment in flag football suggests the PIF sees the property as a long-term asset with media rights monetization potential. The lawsuit doesn't specify damages sought, though sealed suits typically involve six-figure disputes or higher. Without access to the court file, the substance of the breach allegation is unknown—it could involve production delays, event cancellation, talent disputes, or rights complications. Fanatics' response will likely mirror its typical litigation strategy: deny the allegations, argue good-faith performance, and negotiate a confidential settlement. The broader pattern is relevant: Saudi Arabia's sports investment apparatus is increasingly comfortable suing U.S. media and sports companies when partnerships deteriorate, a signal that they're playing for real stakes rather than PR-driven vanity projects.",
+      "leadUrl": "https://frontofficesports.com/unwritten-rules-madison-square-garden-celebrity-row/",
+      "summary": "Front Office Sports explores the social codes and unwritten expectations that govern seating in Madison Square Garden's premium courtside rows, where celebrity attendance is as much performance as fandom. The piece examines how venue culture and social hierarchy intersect with sports viewing.",
+      "article": "Madison Square Garden's courtside seating carries invisible social contracts. Occupants are expected to dress to code (elevated casual at minimum), maintain composure during play, and understand that their presence is as much public performance as private entertainment. MSG's management doesn't publish these rules, but violators face social sanction from peer groups and venue staff.\n\nThe economics are straightforward: courtside seats at MSG range from $4,000 to $25,000+ per game depending on opponent and season. The price premium reflects not just sightlines but access to the city's most prominent social stage. Celebrity Row—the first few rows behind the benches—has hosted everyone from Spike Lee to A-list musicians, and seating assignments are carefully managed to optimize broadcast aesthetics and brand alignment.\n\nVenue culture matters. MSG's security and ushering teams have decades of precedent for managing courtside decorum. Repeat offenders face friendly warnings, then seat relocation. Franchise owners, league executives, and regulars police the space informally, creating a self-regulating ecosystem where newcomers quickly learn what behavior is acceptable.\n\nThe broader implication: premium sports seating in major markets is increasingly about social signaling. The view of the game is secondary to the visibility of being seen watching the game. MSG's unwritten codes reflect that reality. For teams and venues, managing this hierarchy—and the broadcast optics it creates—is as much part of operations as ticket sales.",
       "tweets": []
     }
   ],
@@ -2417,118 +2391,95 @@
     ],
     "source": "espn"
   },
-  "deals": [],
-  "ratings": [],
-  "ticket_prices": [
+  "deals": [
     {
-      "event": "Knicks vs Spurs NBA Finals Game 3 at Madison Square Garden",
-      "league": "NBA",
-      "get_in_usd": 1850,
-      "avg_usd": null,
-      "direction": "up",
-      "pct_change": 220,
-      "timeframe": "vs regular season",
-      "storyIndex": 9,
-      "context": "Upper-deck standing room at MSG; get-in price jumped 220% from regular-season baseline for Finals Game 3.",
-      "capturedAt": "2026-06-08T17:45:27.340Z"
+      "type": "acquisition",
+      "parties": "David Sullivan ⇄ West Ham United (co-ownership)",
+      "value_usd": null,
+      "term_years": null,
+      "league": "SOCCER",
+      "headline": "West Ham co-owner faces sexual misconduct allegations",
+      "storyIndex": 4,
+      "blurb": "David Sullivan's ownership stake in West Ham is under regulatory scrutiny following misconduct allegations.",
+      "capturedAt": "2026-06-08T21:11:06.868Z"
     }
   ],
+  "ratings": [],
+  "ticket_prices": [],
   "sidebar": [
     {
-      "headline": "How the return of Cease, Kirk and Scherzer should boost the Blue Jays",
-      "source": "Sportsnet · 3h ago",
-      "article": "The Toronto Blue Jays' injury timeline is accelerating. Dylan Cease, Justin Kirk, and Max Scherzer are approaching return windows that could reshape the rotation depth and infield flexibility. Cease (shoulder inflammation) is tracking toward a late-May return; Kirk (elbow soreness) is ahead of schedule; Scherzer (hamstring) is day-to-day. For Toronto's front office, each return represents incremental payroll efficiency—the team has been rotating minor league arms into spot starts. Cease is the most consequential; he's the ace-caliber arm the team needs to justify competitive spending. Kirk's return adds right-handed bat depth that the Jays desperately need against dominant left-handed pitching. Scherzer at 40 is a luxury rather than necessity, but depth matters in July baseball. The window for all three to be healthy simultaneously is narrow—injuries in baseball create cascading effects. If all three return healthy and on schedule, the Jays' playoff probability jumps from 34% to 62% per FiveThirtyEight models."
+      "headline": "Tennis Prize Money Tracker: Which Player Has Earned the Most in 2026?",
+      "source": "Sportico · 3h ago",
+      "article": "Jannik Sinner has dominated the 2026 tennis calendar, accumulating $6.87 million in tournament winnings across five Masters 1000 titles. The world No. 1's early-season run has established him as the highest earner in professional tennis this year, significantly outpacing competitors through April. Sinner's prize money total reflects both his on-court dominance and the expanded purses offered by ATP events in 2026."
     },
     {
-      "headline": "Desperate for a Championship, Knicks Fans Clear Out Team Store Merch",
-      "source": "Front Office Sports · 1h ago",
-      "article": "Madison Square Garden's official team store has been operating at 90% capacity utilization for six consecutive days as Knicks fans stock up on Finals merchandise. Vintage throwback gear—1990s championship-era jerseys, championship hats, collectible apparel—is selling faster than stock can be replenished. One store employee told reporters, 'The hardest part is not keeping all the good vintage Knicks stuff for myself.' The 26-year championship drought has created pent-up demand for memorabilia tied to the current roster. Jalen Brunson jerseys are the top seller, followed by Julius Randle and Karl-Anthony Towns. Replicas are selling at $120 per unit; authentic jerseys move at $280+. MSG's retail division hasn't released specific revenue figures, but industry analysts estimate the store is tracking toward $4.2M in merchandise revenue for the Finals window alone. That's 3.2x the regular-season monthly average. Licensed merchandise (hats, hoodies, warm-ups) is experiencing similar demand velocity. For Fanatics (the NBA's official merchandise partner), the Knicks Finals appearance represents a significant revenue unlock—the team hadn't been a playoff draw in nearly a decade. Wholesale pricing to retailers has improved, and digital merchandise sales (NBA.com, team website) are outpacing brick-and-mortar."
-    },
-    {
-      "headline": "Dramatic French Open cannot disguise how top men's players failed to seize golden opportunity",
-      "source": "The Guardian · 7h ago",
-      "article": "The 2026 French Open produced dramatic tennis, but it masked a troubling reality: the gap between the top two men's players (Carlos Alcaraz and Jannik Sinner) and the rest of the field remains insurmountable. Alexander Zverev claimed the title by defeating Sinner in the final, a shock result that felt like opportunity seized rather than earned dominance. Zverev's victory doesn't change the structural problem. Beneath the Big Two, the Next-Gen players—Holger Rune, Taylor Fritz, Jannik's peers—failed to breach the semifinals in any major this year. The field is bifurcated: Alcaraz and Sinner play a different sport than everyone else. For tournament promoters and media rights holders, the concentration of dominance is a double-edged sword. Alcaraz's star power drives ratings, but unpredictability—the dream of an underdog breakthrough—is diminished when the same two players reach seven of the eight Slam finals over a two-year window. The French Open's dramatic final hid the fact that depth in men's tennis has regressed, not improved."
-    },
-    {
-      "headline": "FIFA World Cup Power Rankings: How does Canada stack up against the rest?",
-      "source": "Sportsnet · 1h ago",
-      "article": "With the 2026 FIFA World Cup 47 days away, Sportsnet has ranked all 48 participating nations. Canada enters as a North American host and defending semi-finalist (2022 runner-up finish), but the rankings place them outside the top 20—a signal that the player development pipeline hasn't produced the depth needed for another deep run. The 2026 format expands to 48 teams with 16 groups of three, fundamentally changing knockout dynamics. Canada's group assignment will determine playoff odds. A favorable draw (lower-ranked opponents) pushes their Moneyline to 18:1 for a World Cup win; an unfavorable draw (France, Argentina, Brazil) pushes them to 45:1 or worse. For Canadian soccer stakeholders, the ranking matters because it influences sponsorship appetite and broadcast distribution deals tied to perceived competitiveness. A tournament exit in group play tanks Canadian ratings and ad revenue. A quarterfinal appearance generates $40M+ in incremental sponsorship value. The rankings are predictive scaffolding for the next 60 days of betting, media coverage, and expectation-setting."
-    },
-    {
-      "headline": "Longtime Bulls analyst Stacey King has died",
-      "source": "Sports Media Watch · 1d ago",
-      "article": "Stacey King, the Chicago Bulls' radio analyst and color commentator for nearly two decades, died Monday at 68. King was one of the best-known local sports media personalities in NBA markets, known for his exuberant delivery and deep roster knowledge. He had announced his retirement from Bulls broadcasts in 2023 but remained active in local Chicago sports media. His passing marks the loss of a generation of NBA media voices—analysts who built credibility through local market presence before national platforms existed. The Bulls organization released a statement honoring his contributions to the franchise's community profile. NBA teams are now facing talent replacement pressure for veteran analysts; the market for experienced voices has tightened."
-    },
-    {
-      "headline": "Rick Brunson was being a father first during Jalen Brunson's heated confrontation with DeAaron Fox",
+      "headline": "Tom Brady unveils 'Good Nut' in latest post-NFL business venture",
       "source": "NY Post Sports · just now",
-      "article": "Jalen Brunson's Game 2 courtside staredown with Sacramento Kings guard DeAaron Fox drew national attention and social media discourse about disrespect and intensity. But Rick Brunson—Jalen's father and an assistant coach for the Knicks—was operating in dad mode, not basketball mode, when he reacted audibly to the exchange. Rick told reporters after the game that his reaction was protective, not analytical. 'I wasn't thinking about the game,' he said. 'I was thinking about my son getting talked to by another player.' The dynamic illustrates the unique position of family members in competitive sports—Rick's dual role as coach and father creates moments where parental instinct overrides professional detachment. Such moments are rare in NBA broadcasts and reveal the human texture beneath competitive intensity. The exchange between Jalen and DeAaron didn't escalate further, and the Knicks won Game 2 decisively. But the courtside moment has become a talking point in the broader Finals narrative."
+      "article": "Tom Brady has launched a new consumer beverage brand called 'Good Nut,' marking his latest foray into the business world since retiring from the NFL. The seven-time Super Bowl champion is leveraging his brand and marketing reach to enter the competitive beverage category. Brady's post-playing business portfolio now includes apparel, nutrition, and lifestyle brands, each designed to tap into his loyal fan base."
+    },
+    {
+      "headline": "Jalen Brunson heard the doubters. Now he has the Knicks on verge of history",
+      "source": "The Guardian · 12h ago",
+      "article": "Jalen Brunson has silenced critics who questioned his ability to lead the New York Knicks to championship contention. The star guard's play during the Finals run has vindicated the franchise's investment and proven that scrutiny—while constant in the social media age—can motivate elite athletes. Brunson's Finals performance is reshaping the narrative around the Knicks' core and their title prospects."
+    },
+    {
+      "headline": "Stokes & Atkinson investigated over nightclub incident",
+      "source": "BBC Sport · 2h ago",
+      "article": "England cricket captain Ben Stokes and pace bowler Gus Atkinson are under investigation following an incident at a nightclub involving a Saracens academy player. The incident adds scrutiny to player conduct standards within English cricket and rugby union. Both the ECB and relevant authorities are examining the circumstances and player actions."
+    },
+    {
+      "headline": "2026 SEC/ACC Womens Challenge: Ranking the top five games, starring a Sweet 16 rematch for Blakes and Hidalgo",
+      "source": "CBS Sports · just now",
+      "article": "Women's college basketball is gearing up for matchups featuring top programs from the SEC and ACC in December. The slate includes a Sweet 16 rematch between two regional powerhouses, drawing significant interest from fans and broadcasters. The challenge format creates high-stakes early-season competition designed to elevate tournament seeding and tournament positioning."
+    },
+    {
+      "headline": "Texas two-step: Longhorn clincher sets WCWS mark for second-straight year",
+      "source": "Sports Media Watch · 4h ago",
+      "article": "Texas' dominant performance in the Women's College World Series has set another viewership benchmark for the second consecutive year. The Longhorns' clinching game drew significant television audiences, cementing women's softball's rising cultural relevance. The success reflects both Texas' on-field excellence and growing national investment in women's collegiate athletics."
     }
   ],
   "poll": {
-    "question": "Which development poses the biggest threat to NCAA authority before 2027?",
+    "question": "Should ESPN have continued AI graphics in sports broadcasts despite the Tony Parker error?",
     "options": [
-      "Sorsby injunction spreads to other athletes via copycat litigation",
-      "Congressional legislation to regulate NIL and transfer rules",
-      "Conference realignment triggered by loss of eligibility enforcement",
-      "Supreme Court decision expanding on O'Bannon precedent"
+      "Yes—one mistake doesn't justify scrapping the entire tool; quality control is fixable.",
+      "No—AI athlete likenesses erode viewer trust; human graphics are worth the cost.",
+      "Conditionally—only if ESPN implements exhaustive QA and discloses AI-generated elements to viewers.",
+      "Unsure—depends on whether future AI tools can match human-level accuracy reliably."
     ]
   },
   "predictions": [
     {
-      "statement": "The Sorsby injunction will be appealed and upheld by Texas appellate court within 18 months, effectively ending NCAA transfer restrictions.",
+      "statement": "Mike Babcock will accept the Edmonton Oilers job and sign a three-year deal within 14 days.",
       "probability": 68,
-      "rationale": "The ruling is the first judicial rejection of NCAA authority. Appeals courts have been systematically hostile to NCAA claims since O'Bannon. A 2-1 appellate panel will likely expand the injunction's scope rather than reverse it. The NCAA's institutional leverage has degraded significantly."
+      "rationale": "Babcock has engaged seriously in talks, Edmonton is aggressively pursuing him, and a year away from coaching suggests he's ready to return. McDavid's presence is a powerful lure for a coach seeking redemption."
     },
     {
-      "statement": "Knicks win NBA Finals in 6 games, driving $180M+ in incremental merchandise and hospitality revenue for Madison Square Garden.",
-      "probability": 42,
-      "rationale": "Knicks are favorites per Vegas (Moneyline -140). A championship generates unprecedented merchandise demand (26-year drought amplification) and hotel/concierge spending. Revenue modeling shows $18M per Finals home game; multiply by 3-4 home games in a six-game series plus ancillary spend."
+      "statement": "David Sullivan will be forced to divest his West Ham ownership stake or face Premier League sanctions within six months.",
+      "probability": 71,
+      "rationale": "Multiple credible allegations, media scrutiny, and Premier League governance rules create regulatory and commercial pressure. Sponsors and board members will demand action. Divestment is the fastest way to resolve reputational exposure."
     },
     {
-      "statement": "David Sullivan will step down as West Ham co-owner within 12 months to avoid regulatory escalation from Premier League and sponsors.",
-      "probability": 55,
-      "rationale": "Historical pattern suggests Sullivan settles legal exposure through withdrawal rather than confrontation. Sponsorship pressure from betting partners and broadcast rights holders will compound. West Ham's board has already acknowledged the allegations as material. Shareholder pressure (Silverlake) will mount if reputational risk affects valuations."
+      "statement": "ABC will expand AI graphics use in sports broadcasting by next season, with improved vetting protocols.",
+      "probability": 54,
+      "rationale": "ESPN's retreat is temporary and defensive. The cost savings are too valuable to abandon permanently. Expect a relaunch with stricter QA, human approval gates, and transparency disclosures to rebuild confidence."
     },
     {
-      "statement": "Mercedes' profit dominance in F1 will trigger FIA cost-cap changes for 2027 season, capping constructor revenue at $280M annually.",
-      "probability": 38,
-      "rationale": "The $223M profit figure will trigger public outcry about competitive balance. FIA has historically adjusted technical regs when one team dominates profitably. However, cost-cap precedent (introduced 2021) faces sustained legal challenges. FIA is reluctant to tighten further. The probability reflects this institutional resistance."
+      "statement": "The USMNT will win its opening World Cup match at SoFi Stadium with at least 2-0 scoreline.",
+      "probability": 45,
+      "rationale": "Home-field advantage and SoFi's upgraded infrastructure help, but USMNT's inconsistency in qualifiers makes heavy favorites risky. First-game jitters and opponent quality are wildcards. A win is likely; a dominant one is less certain."
     }
   ],
   "injuries": [
     {
-      "player": "Dylan Cease",
-      "team": "Toronto Blue Jays",
-      "league": "MLB",
-      "status": "DAY_TO_DAY",
-      "injury": "Shoulder inflammation",
-      "timeline": "Late May return window",
-      "source": "Sportsnet",
-      "impact": "Ace-caliber starter sidelined; Blue Jays using minor league arms in spot starts, reducing rotation depth and playoff probability modeling.",
-      "storyIndex": 6
-    },
-    {
-      "player": "Justin Kirk",
-      "team": "Toronto Blue Jays",
-      "league": "MLB",
-      "status": "DAY_TO_DAY",
-      "injury": "Elbow soreness",
-      "timeline": "Ahead of schedule for return",
-      "source": "Sportsnet",
-      "impact": "Right-handed bat depth at infield; Kirk's return adds critical balance against dominant left-handed pitching in Blue Jays lineup.",
-      "storyIndex": 6
-    },
-    {
-      "player": "Max Scherzer",
-      "team": "Toronto Blue Jays",
-      "league": "MLB",
-      "status": "DAY_TO_DAY",
-      "injury": "Hamstring",
-      "timeline": "Game-time decision pending",
-      "source": "Sportsnet",
-      "impact": "Veteran rotation depth; at 40 years old, Scherzer is luxury depth rather than core necessity, but availability matters for playoff positioning.",
-      "storyIndex": 6
+      "player": "Nic Smith",
+      "team": "Kentucky Wildcats",
+      "league": "OTHER",
+      "status": "OUT",
+      "injury": "Death (cause not disclosed)",
+      "timeline": "Out for season",
+      "source": "CBS Sports",
+      "impact": "Loss of redshirt freshman defensive lineman removes depth piece from Kentucky's defensive line rotation entering his second season.",
+      "storyIndex": 5
     }
   ],
   "picks": [
@@ -2599,58 +2550,146 @@
       "_pendingGrade": true
     }
   ],
-  "updatedAt": "2026-04-23T14:47:00Z",
+  "updatedAt": "2026-04-23T14:32:00Z",
   "highlights": [
     {
       "league": "NBA",
-      "title": "Relive Every Highlight From the 1999 NBA Finals! 🔥",
-      "videoId": "ZhXOJ0tUIqc",
-      "thumbnail": "https://img.youtube.com/vi/ZhXOJ0tUIqc/mqdefault.jpg",
+      "title": "SOUND UP 🔊 The stage is set for Game 3 tonight, the first NBA Finals game at MSG since 1999! 🏆",
+      "videoId": "8IPY0y42csc",
+      "thumbnail": "https://img.youtube.com/vi/8IPY0y42csc/mqdefault.jpg",
       "timeAgo": "3h ago",
       "isFallback": false
     },
     {
       "league": "NFL",
-      "title": "Came out of retirement just for the DC Defenders' playoff run ... &quot;allegedly&quot; 😂🤷‍♂️",
-      "videoId": "nlYb4PVzm6c",
-      "thumbnail": "https://img.youtube.com/vi/nlYb4PVzm6c/mqdefault.jpg",
-      "timeAgo": "21h ago",
+      "title": "A.J. Brown at his new home (via @patriots/TT)",
+      "videoId": "gPDB51ockfg",
+      "thumbnail": "https://img.youtube.com/vi/gPDB51ockfg/mqdefault.jpg",
+      "timeAgo": "3h ago",
       "isFallback": false
     },
     {
       "league": "MLB",
-      "title": "Major walk-off homers, incredible plays, and MORE Top MLB Plays of the Week! 🙌",
-      "videoId": "qeDDl-7aHTc",
-      "thumbnail": "https://img.youtube.com/vi/qeDDl-7aHTc/mqdefault.jpg",
-      "timeAgo": "1h ago",
+      "title": "Jung Hoo Lee is having his best MLB season! (Batting .323, 15-game hit streak!)😳 | MLB Highlights",
+      "videoId": "eaaCDUPKJVQ",
+      "thumbnail": "https://img.youtube.com/vi/eaaCDUPKJVQ/mqdefault.jpg",
+      "timeAgo": "2h ago",
       "isFallback": false
     },
     {
       "league": "NHL",
-      "title": "Anatomy of a review! 📺🎙️🔊",
-      "videoId": "EgIsCtpy1Ig",
-      "thumbnail": "https://img.youtube.com/vi/EgIsCtpy1Ig/mqdefault.jpg",
-      "timeAgo": "16h ago",
+      "title": "🐶🐾🦴 The Stanley Pup is Back! 🐶🐾🐕",
+      "videoId": "cdthenEdzP8",
+      "thumbnail": "https://img.youtube.com/vi/cdthenEdzP8/mqdefault.jpg",
+      "timeAgo": "1h ago",
       "isFallback": false
     },
     {
       "league": "WNBA",
-      "title": "Portland Fire vs. Los Angeles Sparks | FULL GAME HIGHLIGHTS | June 7, 2026",
-      "videoId": "_31bVG7SA4Q",
-      "thumbnail": "https://img.youtube.com/vi/_31bVG7SA4Q/mqdefault.jpg",
-      "timeAgo": "16h ago",
+      "title": "Top Plays From Week 4",
+      "videoId": "VO_y6V6NMTc",
+      "thumbnail": "https://img.youtube.com/vi/VO_y6V6NMTc/mqdefault.jpg",
+      "timeAgo": "1h ago",
       "isFallback": false
     },
     {
       "league": "SOCCER",
-      "title": "‘A THREAT to anyone!’ 🔥 Can Portugal &amp; Ronaldo win it all? Gab &amp; Juls’ World Cup preview | ESPN FC",
-      "videoId": "ApdHnDUpswY",
-      "thumbnail": "https://img.youtube.com/vi/ApdHnDUpswY/mqdefault.jpg",
-      "timeAgo": "4h ago",
+      "title": "🚨 USMNT’S Chris Richards will be ready for the 2026 FIFA World Cup opener 🚨 | SportsCenter",
+      "videoId": "HmcdiccPfSU",
+      "thumbnail": "https://img.youtube.com/vi/HmcdiccPfSU/mqdefault.jpg",
+      "timeAgo": "2h ago",
       "isFallback": false
     }
   ],
   "reels": [
+    {
+      "league": "WNBA",
+      "title": "Top Plays From Week 4",
+      "videoId": "VO_y6V6NMTc",
+      "author": "WNBA",
+      "pubDate": "2026-06-08T20:32:55+00:00",
+      "link": "https://www.youtube.com/watch?v=VO_y6V6NMTc"
+    },
+    {
+      "league": "NHL",
+      "title": "🐶🐾🦴 The Stanley Pup is Back! 🐶🐾🐕",
+      "videoId": "cdthenEdzP8",
+      "author": "NHL",
+      "pubDate": "2026-06-08T20:00:05+00:00",
+      "link": "https://www.youtube.com/watch?v=cdthenEdzP8"
+    },
+    {
+      "league": "SOCCER",
+      "title": "🚨 USMNT’S Chris Richards will be ready for the 2026 FIFA World Cup opener 🚨 | SportsCenter",
+      "videoId": "HmcdiccPfSU",
+      "author": "ESPN FC",
+      "pubDate": "2026-06-08T19:23:46+00:00",
+      "link": "https://www.youtube.com/watch?v=HmcdiccPfSU"
+    },
+    {
+      "league": "MLB",
+      "title": "Jung Hoo Lee is having his best MLB season! (Batting .323, 15-game hit streak!)😳 | MLB Highlights",
+      "videoId": "eaaCDUPKJVQ",
+      "author": "MLB",
+      "pubDate": "2026-06-08T19:11:34+00:00",
+      "link": "https://www.youtube.com/watch?v=eaaCDUPKJVQ"
+    },
+    {
+      "league": "SOCCER",
+      "title": "ESPN FC DIVIDED on which USMNT player needs to have a big World Cup",
+      "videoId": "SGYv3fSgC9E",
+      "author": "ESPN FC",
+      "pubDate": "2026-06-08T19:00:28+00:00",
+      "link": "https://www.youtube.com/watch?v=SGYv3fSgC9E"
+    },
+    {
+      "league": "MLB",
+      "title": "The GREATEST barehanded plays of all time!! 😍",
+      "videoId": "je8xzysj1u4",
+      "author": "MLB",
+      "pubDate": "2026-06-08T18:54:00+00:00",
+      "link": "https://www.youtube.com/watch?v=je8xzysj1u4"
+    },
+    {
+      "league": "SOCCER",
+      "title": "The USMNT’s STRONGEST and WEAKEST areas ahead of World Cup opener | ESPN FC",
+      "videoId": "5gIoAMR0Lkc",
+      "author": "ESPN FC",
+      "pubDate": "2026-06-08T18:40:19+00:00",
+      "link": "https://www.youtube.com/watch?v=5gIoAMR0Lkc"
+    },
+    {
+      "league": "NFL",
+      "title": "A.J. Brown at his new home (via @patriots/TT)",
+      "videoId": "gPDB51ockfg",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-06-08T18:05:53+00:00",
+      "link": "https://www.youtube.com/watch?v=gPDB51ockfg"
+    },
+    {
+      "league": "NHL",
+      "title": "🎥 Ref Cam During an Instant-Classic Stanley Cup Final",
+      "videoId": "SMK6gHpR58o",
+      "author": "NHL",
+      "pubDate": "2026-06-08T18:00:13+00:00",
+      "link": "https://www.youtube.com/watch?v=SMK6gHpR58o"
+    },
+    {
+      "league": "MLB",
+      "title": "Exactly how they drew this up 😎",
+      "videoId": "rxe5WIpJj4E",
+      "author": "MLB",
+      "pubDate": "2026-06-08T17:52:49+00:00",
+      "link": "https://www.youtube.com/watch?v=rxe5WIpJj4E"
+    },
+    {
+      "league": "NBA",
+      "title": "SOUND UP 🔊 The stage is set for Game 3 tonight, the first NBA Finals game at MSG since 1999! 🏆",
+      "videoId": "8IPY0y42csc",
+      "author": "NBA",
+      "pubDate": "2026-06-08T17:50:07+00:00",
+      "link": "https://www.youtube.com/watch?v=8IPY0y42csc"
+    },
     {
       "league": "MLB",
       "title": "Major walk-off homers, incredible plays, and MORE Top MLB Plays of the Week! 🙌",
@@ -2740,14 +2779,6 @@
       "link": "https://www.youtube.com/watch?v=EgIsCtpy1Ig"
     },
     {
-      "league": "MLB",
-      "title": "Have a day, Carson Benge! 😮‍💨",
-      "videoId": "sRvKAavJdLQ",
-      "author": "MLB",
-      "pubDate": "2026-06-08T02:00:15+00:00",
-      "link": "https://www.youtube.com/watch?v=sRvKAavJdLQ"
-    },
-    {
       "league": "NHL",
       "title": "Ghost Bear knows the rules! 👻🐻🎤",
       "videoId": "JtA-syGLByA",
@@ -2764,14 +2795,6 @@
       "link": "https://www.youtube.com/watch?v=_31bVG7SA4Q"
     },
     {
-      "league": "MLB",
-      "title": "Angels vs. Dodgers Game Highlights (6/7/26) | MLB Highlights",
-      "videoId": "nKFxvd52LcM",
-      "author": "MLB",
-      "pubDate": "2026-06-08T01:14:16+00:00",
-      "link": "https://www.youtube.com/watch?v=nKFxvd52LcM"
-    },
-    {
       "league": "SOCCER",
       "title": "Colombia vs. Jordan | Full Game Highlights | ESPN FC",
       "videoId": "0CNPek1qhcc",
@@ -2780,44 +2803,12 @@
       "link": "https://www.youtube.com/watch?v=0CNPek1qhcc"
     },
     {
-      "league": "MLB",
-      "title": "Guardians vs. Rangers Game Highlights (6/7/26) | MLB Highlights",
-      "videoId": "k-hkloa_W5A",
-      "author": "MLB",
-      "pubDate": "2026-06-08T00:40:18+00:00",
-      "link": "https://www.youtube.com/watch?v=k-hkloa_W5A"
-    },
-    {
       "league": "NHL",
-      "title": "FULL GAME REPLAY: Golden Knights vs. Hurricanes | Game 1| 2026 Stanley Cup Final",
+      "title": "FULL GAME REPLAY: Golden Knights vs. Hurricanes | Game 1 | 2026 Stanley Cup Final",
       "videoId": "A5xMc1hSnoQ",
       "author": "NHL",
       "pubDate": "2026-06-07T23:00:14+00:00",
       "link": "https://www.youtube.com/watch?v=A5xMc1hSnoQ"
-    },
-    {
-      "league": "SOCCER",
-      "title": "Impact of Real Madrid's president election 👀 + Argentina &amp; Brazil's World Cup preparation | ESPN FC",
-      "videoId": "HzjJTs837k0",
-      "author": "ESPN FC",
-      "pubDate": "2026-06-07T22:34:33+00:00",
-      "link": "https://www.youtube.com/watch?v=HzjJTs837k0"
-    },
-    {
-      "league": "SOCCER",
-      "title": "Which 2026 World Cup team has the best midfield duo? 👀 | ESPN FC Extra Time",
-      "videoId": "4cLXGqrGlaU",
-      "author": "ESPN FC",
-      "pubDate": "2026-06-07T22:28:50+00:00",
-      "link": "https://www.youtube.com/watch?v=4cLXGqrGlaU"
-    },
-    {
-      "league": "SOCCER",
-      "title": "Morocco is ready to roll for the World Cup 🇲🇦",
-      "videoId": "W63B3CiARrw",
-      "author": "ESPN FC",
-      "pubDate": "2026-06-07T22:05:32+00:00",
-      "link": "https://www.youtube.com/watch?v=W63B3CiARrw"
     },
     {
       "league": "WNBA",
@@ -2884,14 +2875,6 @@
       "link": "https://www.youtube.com/watch?v=opVBMnhBYsY"
     },
     {
-      "league": "NBA",
-      "title": "Fat Joe says he waited his entire life for the Knicks to have a home game in the NBA Finals 💪",
-      "videoId": "gIAaEoZ1k3o",
-      "author": "NBA",
-      "pubDate": "2026-06-07T18:12:57+00:00",
-      "link": "https://www.youtube.com/watch?v=gIAaEoZ1k3o"
-    },
-    {
       "league": "NHL",
       "title": "The Hat Trick Stick Must Be Saved 😤",
       "videoId": "GxPLzRqNy0o",
@@ -2924,22 +2907,6 @@
       "link": "https://www.youtube.com/watch?v=7a541FsUY2Y"
     },
     {
-      "league": "NHL",
-      "title": "FULL OVERTIME: Hurricanes vs Golden Knights | Game 3 | Stanley Cup Final",
-      "videoId": "6Rra-4d8Xfw",
-      "author": "NHL",
-      "pubDate": "2026-06-07T14:00:13+00:00",
-      "link": "https://www.youtube.com/watch?v=6Rra-4d8Xfw"
-    },
-    {
-      "league": "NHL",
-      "title": "Nap time IMMINENT at the Theodore house 😴",
-      "videoId": "Paw0K1nN0XQ",
-      "author": "NHL",
-      "pubDate": "2026-06-07T05:55:41+00:00",
-      "link": "https://www.youtube.com/watch?v=Paw0K1nN0XQ"
-    },
-    {
       "league": "WNBA",
       "title": "Indiana Fever vs. New York Liberty | FULL GAME HIGHLIGHTS | June 6, 2026",
       "videoId": "An0xC-dR2xQ",
@@ -2954,22 +2921,6 @@
       "author": "WNBA",
       "pubDate": "2026-06-07T01:14:49+00:00",
       "link": "https://www.youtube.com/watch?v=5pdDaOKW1SU"
-    },
-    {
-      "league": "WNBA",
-      "title": "Golden State Valkyries vs. Minnesota Lynx | FULL GAME HIGHLIGHTS | June 6, 2026",
-      "videoId": "pPGPMfEW9Dw",
-      "author": "WNBA",
-      "pubDate": "2026-06-06T22:20:09+00:00",
-      "link": "https://www.youtube.com/watch?v=pPGPMfEW9Dw"
-    },
-    {
-      "league": "WNBA",
-      "title": "Seattle Storm vs. Minnesota Lynx | FULL GAME HIGHLIGHTS | June 6, 2026",
-      "videoId": "A0MrSp07oeU",
-      "author": "WNBA",
-      "pubDate": "2026-06-06T20:25:10+00:00",
-      "link": "https://www.youtube.com/watch?v=A0MrSp07oeU"
     }
   ]
 }
