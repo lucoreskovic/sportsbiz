@@ -102,6 +102,46 @@
   }
   .nav-chev { display: inline-block; font-size: 8px; margin-left: 4px; opacity: 0.7; transition: transform .15s; }
   .nav-pill.active .nav-chev { transform: rotate(180deg); opacity: 1; }
+
+  /* "All Stories" category dropdown — collapses the five topic filters into a
+     menu so the top nav stays clean. Opens on hover (desktop) or tap (mobile). */
+  .nav-group { position: relative; display: inline-flex; }
+  .nav-menu {
+    position: absolute;
+    top: calc(100% + 6px);
+    left: 0;
+    min-width: 210px;
+    background: var(--ink-deep, #0d0d0f);
+    border: 1px solid rgba(255,255,255,0.14);
+    border-radius: 4px;
+    box-shadow: 0 12px 32px rgba(0,0,0,0.55);
+    padding: 5px;
+    z-index: 200;
+    display: none;
+    flex-direction: column;
+    gap: 2px;
+  }
+  .nav-group:hover .nav-menu,
+  .nav-group.open .nav-menu { display: flex; }
+  .nav-menu-item {
+    font-family: 'Archivo', sans-serif;
+    font-size: 11px;
+    font-weight: 700;
+    letter-spacing: .04em;
+    text-transform: uppercase;
+    text-align: left;
+    padding: 8px 12px;
+    border-radius: 2px;
+    border: none;
+    cursor: pointer;
+    background: transparent;
+    color: rgba(255,255,255,0.7);
+    white-space: nowrap;
+    transition: all .12s ease;
+  }
+  .nav-menu-item:hover { background: rgba(255,255,255,0.08); color: #fff; }
+  .nav-menu-item.active { background: rgba(202,255,63,0.14); color: var(--accent); }
+  .nav-menu-divider { height: 1px; background: rgba(255,255,255,0.08); margin: 3px 4px; }
   .subnav-bar { display: none; align-items: center; gap: 6px; padding: 10px 0 12px; border-top: 1px solid rgba(255,255,255,0.06); }
   .subnav-bar.open { display: flex; }
   .subnav-prefix { font-family: 'JetBrains Mono', monospace; font-size: 11px; color: rgba(255,255,255,0.3); margin-right: 4px; letter-spacing: 0; }
@@ -1746,12 +1786,18 @@
     <div class="header-dateline" id="hd-dateline"></div>
   </div>
   <nav class="nav-bar">
-    <button class="nav-pill active" data-cat="all"      onclick="filterCat(this,'all')">All Stories</button>
-    <button class="nav-pill" data-cat="media"     onclick="filterCat(this,'media')">Media &amp; Broadcast</button>
-    <button class="nav-pill" data-cat="contracts" onclick="filterCat(this,'contracts')">Contracts</button>
-    <button class="nav-pill" data-cat="leagues"   onclick="filterCat(this,'leagues')">Leagues</button>
-    <button class="nav-pill" data-cat="revenue"   onclick="filterCat(this,'revenue')">Revenue &amp; Sponsorship</button>
-    <button class="nav-pill" data-cat="labor"     onclick="filterCat(this,'labor')">Labor &amp; Cap</button>
+    <div class="nav-group" id="stories-group">
+      <button class="nav-pill active" id="all-stories-pill" data-cat="all" onclick="filterCat(this,'all')">All Stories<span class="nav-chev">▾</span></button>
+      <div class="nav-menu" id="stories-menu">
+        <button class="nav-menu-item active" data-cat="all"       onclick="filterCat(this,'all')">All Stories</button>
+        <div class="nav-menu-divider"></div>
+        <button class="nav-menu-item" data-cat="media"     onclick="filterCat(this,'media')">Media &amp; Broadcast</button>
+        <button class="nav-menu-item" data-cat="contracts" onclick="filterCat(this,'contracts')">Contracts</button>
+        <button class="nav-menu-item" data-cat="leagues"   onclick="filterCat(this,'leagues')">Leagues</button>
+        <button class="nav-menu-item" data-cat="revenue"   onclick="filterCat(this,'revenue')">Revenue &amp; Sponsorship</button>
+        <button class="nav-menu-item" data-cat="labor"     onclick="filterCat(this,'labor')">Labor &amp; Cap</button>
+      </div>
+    </div>
     <button class="nav-pill" data-cat="analytics" onclick="filterCat(this,'analytics')">Sports Analytics<span class="nav-chev">▾</span></button>
     <button class="nav-pill" data-cat="market"    onclick="filterCat(this,'market')">Market Tracker</button>
     <button class="nav-pill" data-cat="reels"     onclick="filterCat(this,'reels')">Reels</button>
@@ -2715,11 +2761,34 @@
       '<br>' + d.toLocaleTimeString('en-US',{hour:'numeric',minute:'2-digit',timeZoneName:'short'});
   }
 
+  var STORY_CATS = { all:'All Stories', media:'Media & Broadcast', contracts:'Contracts', leagues:'Leagues', revenue:'Revenue & Sponsorship', labor:'Labor & Cap' };
+
   function filterCat(btn, cat) {
     activeCat = cat;
     if (window.sbTrack) sbTrack('/tab/' + cat);
+    // Clear active state on the top-level pills (Analytics, Market, Reels).
     document.querySelectorAll('.nav-pill').forEach(function(p){p.classList.remove('active');});
-    btn.classList.add('active');
+    // Manage the All Stories dropdown: highlight the chosen category inside the
+    // menu, and keep the All Stories pill lit (showing the active category)
+    // whenever any story category is selected.
+    var isStoryCat = STORY_CATS.hasOwnProperty(cat);
+    document.querySelectorAll('.nav-menu-item').forEach(function(mi){
+      mi.classList.toggle('active', mi.getAttribute('data-cat') === cat);
+    });
+    var storiesPill = document.getElementById('all-stories-pill');
+    if (storiesPill) {
+      if (isStoryCat) {
+        storiesPill.classList.add('active');
+        storiesPill.innerHTML = esc(STORY_CATS[cat]) + '<span class="nav-chev">▾</span>';
+      }
+    }
+    // Close the dropdown after a selection (mobile tap case).
+    var storiesGroup = document.getElementById('stories-group');
+    if (storiesGroup) storiesGroup.classList.remove('open');
+    // For non-story tabs, light up the clicked top-level pill.
+    if (!isStoryCat && btn && btn.classList.contains('nav-pill')) {
+      btn.classList.add('active');
+    }
     // Body class controls full-bleed layout for Reels (hides sidebar + toolbar).
     document.body.classList.toggle('reels-mode', cat === 'reels');
     var subnav = document.getElementById('subnav-bar');
@@ -2741,6 +2810,26 @@
         '<div class="loading-state"><div class="spinner"></div><div class="loading-title">Loading...</div></div>';
     }
   }
+
+  // Mobile: tapping the All Stories pill toggles the dropdown instead of relying
+  // on hover. (On desktop, hover opens it; the tap toggle is harmless there.)
+  document.addEventListener('DOMContentLoaded', function() {
+    var pill = document.getElementById('all-stories-pill');
+    var group = document.getElementById('stories-group');
+    if (pill && group) {
+      pill.addEventListener('click', function(e) {
+        // Only toggle on touch/coarse pointers; desktop uses hover + the
+        // normal filterCat('all') behavior fires too.
+        if (window.matchMedia('(hover: none)').matches) {
+          e.stopPropagation();
+          group.classList.toggle('open');
+        }
+      });
+      document.addEventListener('click', function(e) {
+        if (!group.contains(e.target)) group.classList.remove('open');
+      });
+    }
+  });
 
   function filterSub(btn, sub) {
     activeSub = sub;
