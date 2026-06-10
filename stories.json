@@ -1,111 +1,83 @@
 {
   "clusters": [
     {
-      "category": "leagues",
+      "category": "revenue",
       "importance": 9,
-      "leadHeadline": "Wembanyama condemns apparent attacks on Spurs fans in New York during NBA finals",
-      "leadSource": "The Guardian · 1h ago",
-      "leadUrl": "https://www.theguardian.com/sport/2026/jun/09/wembanyama-condemns-apparent-attacks-on-spurs-fans-in-new-york-during-nba-finals",
-      "summary": "Videos emerged showing Spurs fans having jerseys ripped off during NBA Finals Game 3 at MSG; both teams' players condemned the incidents as unacceptable, raising security concerns for the Finals.",
-      "article": "Videos circulating from Monday's NBA Finals Game 3 at Madison Square Garden show Spurs fans being physically attacked—jerseys ripped off their bodies—in what players from both teams are calling an unacceptable breach of arena safety. Victor Wembanyama led the public condemnation, with Knicks players also weighing in to distance themselves from the incidents.\n\nThe attacks represent a serious black eye for the league's flagship venue during its biggest stage. MSG has hosted Finals before, but fan-on-fan violence of this magnitude—captured on video, impossible to ignore—forces the NBA to answer immediate questions about security protocols, ejection procedures, and how crowd management failed to prevent sustained physical altercations.\n\nThis isn't isolated incident theater. It happens during a Finals that has otherwise generated momentum: the Spurs-Knicks matchup is drawing eyeballs, the storylines are clean (emerging star vs. New York's resurrection), and the league has spent two years rebuilding its image after the 2024 playoff controversies. One night of viral violence threatens to overshadow that progress. The NBA will face pressure to detail what happened, who was ejected, whether criminal charges apply, and what changes to security are incoming. For MSG and the league, the narrative pivot starts now.",
+      "leadHeadline": "NBA Finals hits second-straight high, most-watched through Game 2 since 2018",
+      "leadSource": "Sports Media Watch · just now",
+      "leadUrl": "https://www.sportsmediawatch.com/2026/06/nba-finals-most-watched-game-two-eight-years-knicks-spurs/",
+      "summary": "Knicks-Spurs NBA Finals averaging historic viewership through two games, extending ABC's strongest opening stretch in nearly a decade. Disney's flagship property is posting numbers that validate the league's media strategy heading into summer rights negotiations.",
+      "article": "The Knicks-Spurs NBA Finals have posted back-to-back increases in viewership through Game 2, marking the most-watched opening pair since 2018, according to Sports Media Watch. ABC's broadcast of Game 2 on Monday night held the audience gain from Game 1, a rare occurrence in Finals matchups where viewership typically drops from opener to Game 2. The Knicks' return to the Finals for the first time since 1999, paired with Spurs basketball in New York—a marquee market—created appointment television that bucked recent Finals trends. This comes as Disney faces expiring media rights packages across the league and needs to demonstrate that traditional basketball still commands premium advertising rates and subscriber interest. The Finals' strength also supports the broader NBA narrative heading into 2026: younger stars (Wembanyama, Jalen Brunson) are moving ratings needles, and East Coast markets still matter in the streaming era. The second consecutive high suggests the matchup had legs rather than novelty appeal—a meaningful data point for ESPN's negotiating position when the next media window opens.",
+      "tweets": []
+    },
+    {
+      "category": "media",
+      "importance": 8,
+      "leadHeadline": "Knicks, MSG, Sphere Stocks Up 150%+ on Average in Past Year",
+      "leadSource": "Sportico · 12h ago",
+      "leadUrl": "https://www.sportico.com/business/finance/2026/new-york-knicks-msg-sphere-stock-gains-dolan-1234902737/",
+      "summary": "Madison Square Garden Company and Sphere Entertainment stocks surged 150%+ over 12 months, propelled by the Knicks' Finals run and Las Vegas venue's growing premium-event profile. Investor appetite for sports real estate and experiential venues is at a decade-high.",
+      "article": "Madison Square Garden Company and Sphere Entertainment have posted average stock gains exceeding 150% over the past year, a rally tied directly to the Knicks' surprise Finals appearance and Sphere's emergence as a premier venue for marquee events, according to Sportico. The Knicks' run to the Finals—their first in 26 years—has restored luster to MSG's flagship basketball asset and signaled that the franchise's bottom line could improve materially if the team sustains playoff contention. Sphere, the Las Vegas venue owned partially by MSG Corp, has become a proving ground for high-margin experiential events, generating outsized per-capita spending compared to traditional arenas. Investors are betting that both entities benefit from a confluence of factors: renewed Knicks relevance in a crowded media landscape, MSG's ability to monetize premium courtside experiences, and Sphere's reputation as a differentiated venue that can command premium pricing for entertainment and sporting events. The stock surge also reflects confidence in sports infrastructure as an inflation hedge and a stable revenue driver in an uncertain macro environment. For Madison Square Garden Company specifically, the Knicks' Finals push validates years of front-office investment in player acquisition and the strategic decision to pay for immediate contention.",
+      "tweets": []
+    },
+    {
+      "category": "leagues",
+      "importance": 7,
+      "leadHeadline": "Stanley Cup Final on Sportsnet: Golden Knights vs. Hurricanes, Game 4",
+      "leadSource": "Sportsnet · 1h ago",
+      "leadUrl": "",
+      "summary": "Golden Knights-Hurricanes Stanley Cup Final Game 4 tips Tuesday with the series locked and viewership momentum from Game 3's barn-burner. The Finals have posted strong ratings through three games, signaling robust interest in both franchises.",
+      "article": "The Golden Knights host the Hurricanes in Game 4 of the Stanley Cup Final on Tuesday, with the series evenly poised after an overtime thriller in Game 3. Sportsnet will broadcast the matchup across Canada. The Finals have maintained strong viewership pacing through three games, building on the momentum generated by Vegas's Game 3 overtime victory in front of a packed Bridgestone Arena. Both franchises bring compelling storylines: Vegas has been a reliable ratings draw since the franchise's 2017 expansion, while Carolina's Finals return after a 30-year drought has energized a Sunbelt market that the NHL has targeted for growth. The game's placement on Tuesday night positions it against moderate NBA Finals competition, offering networks a clear inventory advantage. Through Game 3, the Stanley Cup Final has maintained ratings consistent with recent years' opening rounds, suggesting that despite the NBA's Finals ascendancy, hockey's championship series retains a dedicated and engaged audience. Vegas's star power (Jack Eichel, Mark Stone) and Carolina's upstart narrative have created a Finals matchup that appeals across demographics. The outcome of Game 4 will determine momentum heading into what could be a decisive Game 5 later this week.",
       "tweets": []
     },
     {
       "category": "labor",
-      "importance": 8,
+      "importance": 6,
       "leadHeadline": "Sorsby Injunction: A Jump-the-Shark Moment for College Sports?",
-      "leadSource": "Sportico · 10h ago",
+      "leadSource": "Sportico · 13h ago",
       "leadUrl": "https://www.sportico.com/law/analysis/2026/brendan-sorsby-injunction-betting-ncaa-takeaway-1234902706/",
-      "summary": "A Texas Tech QB won a court injunction allowing him to play despite betting on his own team, upending NCAA enforcement and raising questions about the viability of college sports' regulatory framework.",
-      "article": "A federal court ruled Monday that Texas Tech quarterback Brendan Sorsby can continue playing college football despite having wagered on his own team—a decision that cuts to the heart of the NCAA's collapsing ability to enforce its own rules. The injunction doesn't clear Sorsby of wrongdoing; it simply prevents the NCAA from benching him while the case proceeds.\n\nThe implications detonate across college sports. For decades, the NCAA's enforcement mechanism rested on unilateral authority: the organization decides violations, imposes penalties, athletes comply or appeal within NCAA channels. Sorsby's injunction shattered that model. A federal judge essentially said: your rules may be unenforceable as written, and the athlete's right to play outweighs your authority to suspend him.\n\nThis follows months of NCAA destabilization—transfer portal chaos, NIL arms races, state-level legislation carving out athlete compensation rules the NCAA forbade. But Sorsby is different. It's not just a loophole or a gray area. It's a court saying the NCAA's disciplinary infrastructure itself is vulnerable to legal challenge. If an athlete can play mid-case, what stops others from doing the same? If federal judges start overriding NCAA suspensions on procedural grounds, the entire enforcement ladder collapses.\n\nThe NCAA will appeal. But the precedent is set: athletes now have a path to court relief that didn't exist before. For a governing body already hemorrhaging authority to conferences, state legislatures, and state courts, Sorsby represents a jump-the-shark moment—proof the model is broken and can't be jury-rigged back together.",
-      "tweets": [
-        {
-          "url": "https://twitter.com/AP/status/2064180707878985922",
-          "html": "<blockquote class=\"twitter-tweet\" align=\"left\" data-dnt=\"true\" data-theme=\"dark\"><p lang=\"en\" dir=\"ltr\">A Texas judge granted Texas Tech quarterback Brendan Sorsby a temporary injunction that clears the way for him to play this fall despite being declared ineligible by the NCAA for wagering on college sports, including bets made on his own team while he was at Indiana.…</p>&mdash; The Associated Press (@AP) <a href=\"https://x.com/AP/status/2064180707878985922?ref_src=twsrc%5Etfw\">June 9, 2026</a></blockquote>\n\n",
-          "author_name": "The Associated Press",
-          "author_url": "https://x.com/AP"
-        },
-        {
-          "url": "https://twitter.com/RossDellenger/status/2063987883367707059",
-          "html": "<blockquote class=\"twitter-tweet\" align=\"left\" data-dnt=\"true\" data-theme=\"dark\"><p lang=\"en\" dir=\"ltr\">QB Brendan Sorsby has been granted his injunction against the NCAA. <a href=\"https://t.co/jmAWR8msRa\">pic.twitter.com/jmAWR8msRa</a></p>&mdash; Ross Dellenger (@RossDellenger) <a href=\"https://x.com/RossDellenger/status/2063987883367707059?ref_src=twsrc%5Etfw\">June 8, 2026</a></blockquote>\n\n",
-          "author_name": "Ross Dellenger",
-          "author_url": "https://x.com/RossDellenger"
-        },
-        {
-          "url": "https://twitter.com/zach_barnett/status/2063993446386282893",
-          "html": "<blockquote class=\"twitter-tweet\" align=\"left\" data-dnt=\"true\" data-theme=\"dark\"><p lang=\"en\" dir=\"ltr\">Judge Ken Curry found the damage to Brendan Sorsby&#39;s career for gambling on his own team&#39;s games more important than protecting the integrity of college football, and so Sorsby is now eligible to play for Texas Tech this fall.<a href=\"https://t.co/Xr58U290NB\">https://t.co/Xr58U290NB</a></p>&mdash; Zach Barnett (@zach_barnett) <a href=\"https://x.com/zach_barnett/status/2063993446386282893?ref_src=twsrc%5Etfw\">June 8, 2026</a></blockquote>\n\n",
-          "author_name": "Zach Barnett",
-          "author_url": "https://x.com/zach_barnett"
-        }
-      ]
-    },
-    {
-      "category": "media",
-      "importance": 7,
-      "leadHeadline": "Does referee case show Fifa has lost control of its own World Cup?",
-      "leadSource": "BBC Sport · 3h ago",
-      "leadUrl": "https://www.bbc.com/sport/football/articles/clyr6drdl79o?at_medium=RSS&amp;at_campaign=rss",
-      "summary": "FIFA referee Omar Artan was denied U.S. entry ahead of the World Cup, raising questions about FIFA's control over its own tournament and security/logistics failures.",
-      "article": "FIFA sent a referee to the 2026 World Cup being held in the United States. The U.S. government turned him away at the border. That simple fact—a tournament's governing body unable to guarantee its own officials entry to the host nation—exposes a control problem that extends far beyond one visa denial.\n\nOmar Artan's denial of entry to the United States is not a isolated administrative glitch. Reports indicate concerns about staff and supporters also being turned back, suggesting a broader pattern of border enforcement that FIFA either didn't anticipate or couldn't negotiate around. For an organization that positioned itself as having \"secured\" the World Cup rights years in advance, the inability to coordinate smooth entry for tournament personnel is a public failure.\n\nThe deeper issue: FIFA licenses referees. FIFA assigns them. FIFA holds the tournament. And yet FIFA appears powerless to pre-clear its own officials with U.S. immigration, suggesting either zero coordination between FIFA and the State Department, or worse, that FIFA's diplomatic weight in the U.S. is weaker than it assumes. Past World Cups in Russia, Qatar, and Brazil saw FIFA exert near-total control over host infrastructure. Here, the U.S. is enforcing border protocol regardless of FIFA's preferences—a statement about who actually runs this tournament.\n\nThis invites bigger questions: What other logistical surprises are coming? Can FIFA guarantee smooth movement for players, media, and fans? If the organization can't pre-negotiate referee entry, what else has been left to chance? The Artan denial is a symptom, not the disease. It signals that FIFA's operational control over this World Cup is thinner than advertised.",
-      "tweets": [
-        {
-          "url": "https://twitter.com/AP/status/2064271311984099531",
-          "html": "<blockquote class=\"twitter-tweet\" align=\"left\" data-dnt=\"true\" data-theme=\"dark\"><p lang=\"en\" dir=\"ltr\">Somali referee Omar Artan, the only World Cup referee from Somalia, won’t officiate in the World Cup after being denied entry into the United States.  <a href=\"https://t.co/Viyp3VhFVA\">https://t.co/Viyp3VhFVA</a></p>&mdash; The Associated Press (@AP) <a href=\"https://x.com/AP/status/2064271311984099531?ref_src=twsrc%5Etfw\">June 9, 2026</a></blockquote>\n\n",
-          "author_name": "The Associated Press",
-          "author_url": "https://x.com/AP"
-        },
-        {
-          "url": "https://twitter.com/BBCSport/status/2064095736967418208",
-          "html": "<blockquote class=\"twitter-tweet\" align=\"left\" data-dnt=\"true\" data-theme=\"dark\"><p lang=\"en\" dir=\"ltr\">Somali referee Omar Artan, who was set to be the first from his country to officiate at the World Cup finals, has been denied entry to the United States. <a href=\"https://t.co/Tf4zsMSI25\">pic.twitter.com/Tf4zsMSI25</a></p>&mdash; BBC Sport (@BBCSport) <a href=\"https://x.com/BBCSport/status/2064095736967418208?ref_src=twsrc%5Etfw\">June 8, 2026</a></blockquote>\n\n",
-          "author_name": "BBC Sport",
-          "author_url": "https://x.com/BBCSport"
-        },
-        {
-          "url": "https://twitter.com/RobHarris/status/2064150098150318349",
-          "html": "<blockquote class=\"twitter-tweet\" align=\"left\" data-dnt=\"true\" data-theme=\"dark\"><p lang=\"en\" dir=\"ltr\">Statement from top Somali referee Omar Artan denied entry to US for WC over vetting concerns: “I want to thank the football family for their messages and wish my colleagues all the best success during the World Cup &amp; I look forward to joining them again in future competitions” <a href=\"https://t.co/6v68nRKi8L\">https://t.co/6v68nRKi8L</a> <a href=\"https://t.co/MUXHKUKmXp\">pic.twitter.com/MUXHKUKmXp</a></p>&mdash; Rob Harris (@RobHarris) <a href=\"https://x.com/RobHarris/status/2064150098150318349?ref_src=twsrc%5Etfw\">June 9, 2026</a></blockquote>\n\n",
-          "author_name": "Rob Harris",
-          "author_url": "https://x.com/RobHarris"
-        }
-      ]
-    },
-    {
-      "category": "revenue",
-      "importance": 7,
-      "leadHeadline": "U.S. Hotels Still Struggling to Fill Rooms As World Cup Approaches",
-      "leadSource": "Front Office Sports · 2h ago",
-      "leadUrl": "https://frontofficesports.com/u-s-hotels-still-struggling-to-fill-rooms-as-world-cup-approaches/",
-      "summary": "U.S. hotels are failing to sell rooms at projected prices as the 2026 World Cup approaches, with \"aspirational buyers\" unwilling to pay up—a demand shortfall weeks before the tournament.",
-      "article": "The 2026 World Cup is eight months away. U.S. hotels in host cities are still struggling to fill rooms and are discounting aggressively. Industry operators describe \"aspirational buyers\"—tourists willing to attend but unwilling to absorb the inflated rates hotels projected—as the core problem.\n\nThis is a demand signal: fans want to come, but not at the prices hotels set. It suggests either miscalibration of what international visitors will actually pay, or the possibility that demand for the tournament itself is softer than FIFA and host city projections assumed. Hotels in Las Vegas, New York, Los Angeles, and other host markets spent years acquiring inventory and raising room rates in anticipation of World Cup surge. Instead, they're facing vacancy and margin pressure.\n\nThe implications ripple: if hotels are discounting now, what happens to F&B, parking, and ancillary revenue? If occupancy rates remain low through June, that's lost tax revenue for municipalities that factored World Cup economic impact into their budgets. For FIFA, it undercuts the narrative that 2026 is a commercial juggernaut—proof that even in the U.S. market, where soccer's profile has risen, the tournament hasn't generated the demand surge organizers promised.\n\nPart of this is spread geography: games across 16 cities means no single market gets the sustained sellout window past Cups experienced. But the root is simpler—hotels overestimated willingness to pay. They're correcting now, which is better than losing money on empty rooms later. Still, the headline remains: two months out from the tournament, U.S. hotel occupancy is weak, prices are falling, and the demand windfall FIFA promised isn't materializing.",
+      "summary": "A Texas Tech quarterback obtained an injunction allowing him to play despite betting on his own team, exposing NCAA enforcement gaps and raising questions about competitive integrity in the transfer era. The ruling signals that legal challenges may supersede league rules more frequently.",
+      "article": "Texas Tech quarterback Brendan Sorsby secured a court injunction Monday permitting him to play NCAA football despite having wagered on his own team, a ruling that undermines the NCAA's ability to enforce gambling prohibitions and signals a potential sea change in how student-athlete disputes will be resolved, according to Sportico. The injunction represents a legal victory for Sorsby and a precedent-setting loss for the NCAA's governance model. Rather than accept the NCAA's standard disciplinary apparatus, Sorsby's legal team challenged the eligibility ruling in court, arguing that the punishment violated due process or contract principles. A judge sided with the player, effectively bypassing the NCAA's traditional enforcement mechanisms. This matters because it establishes that athletes and their attorneys can now litigate eligibility disputes instead of accepting administrative judgment—a shift that weakens the NCAA's unilateral rule-making authority. For Sorsby specifically, the ruling clears a path to play, protecting his draft stock and earning potential. For the NCAA, it demonstrates that institutional enforcement of gambling rules may be vulnerable to legal challenge, particularly when an athlete argues that monetary damages or missed playing time constitute irreparable harm. The broader implication: student-athletes increasingly have legal remedies that bypass league rules, a development that compounds the NCAA's existing crisis over Name Image Likeness chaos and transfer portal volatility.",
       "tweets": []
     },
     {
       "category": "media",
       "importance": 6,
-      "leadHeadline": "Knicks, MSG, Sphere Stocks Up 150%+ on Average in Past Year",
-      "leadSource": "Sportico · 9h ago",
-      "leadUrl": "https://www.sportico.com/business/finance/2026/new-york-knicks-msg-sphere-stock-gains-dolan-1234902737/",
-      "summary": "Knicks and MSG parent company stocks surged 150%+ in value over the past year, driven by the team's Finals run and venue performance, reflecting investor appetite for NY basketball.",
-      "article": "The Knicks defeated the Spurs 115-111 on Monday night at Madison Square Garden in front of President Donald Trump, extending their Finals run to Game 4. What matters for the business story: the parent company's stock—Madison Square Garden Entertainment, which operates both the Knicks and the venue—has appreciated 150% or more on average over the past 12 months.\n\nThe surge reflects investor bets on two converging narratives. First, the Knicks have rebuilt themselves from 2020-era lottery dwellers into Finals contenders under a coherent front office and with young star power. That narrative shift alone drives valuation. Second, MSG has operated at peak capacity utilization this season—Finals games, regular sellouts, corporate revenue, suite premiums all tracking north of historical norms.\n\nThe stock appreciation also captures Sphere's contribution. Madison Square Garden Entertainment owns the Sphere in Las Vegas, the high-margin entertainment venue that has become a template for venue-based revenue innovation (luxury experiences, premium sight lines, hospitality multipliers). Investors see the Sphere as a replicable model: build Sphere 2.0 somewhere else, generate outsized per-capita revenue. The Knicks Finals run creates optionality—winning teams attract premium sponsors, higher TV ratings mean better media deals, and both flow to MSG's bottom line.\n\nThe caveat: equity appreciation in a growth stock doesn't guarantee forward returns. If the Knicks lose the Finals, if New York market saturation sets in, if Sphere's Las Vegas returns prove unreplicable, valuations correct. But for now, the market is pricing MSG as a redemption story—a once-troubled franchisee turbo-charged by sports performance and venue innovation.",
+      "leadHeadline": "Yahoo Sports Syndicates False Kevin Durant Trade Story",
+      "leadSource": "Front Office Sports · 3h ago",
+      "leadUrl": "https://frontofficesports.com/yahoo-syndicates-false-kevin-durant-trade-article/",
+      "summary": "Yahoo Sports inadvertently distributed a false Kevin Durant trade report, highlighting the risks of syndicated breaking news and the pressure to publish rapid-fire trade speculation without source verification. Durant remains a Rocket.",
+      "article": "Yahoo Sports syndicated and distributed a false report Tuesday that Kevin Durant had been traded, creating momentary market confusion and underscoring the operational hazards of rapid-fire trade coverage in the social media age, according to Front Office Sports. As of Tuesday, Durant remains a member of the Houston Rockets. The false report spread across Yahoo's syndication network before being corrected, a pattern that has become increasingly common as outlets compete for immediate traffic on player movement rumors. The incident illustrates the tension between speed and accuracy in modern sports journalism. Syndication systems—which push stories to multiple partner sites simultaneously—amplify the cost of errors, as a single false report can reach millions of readers in seconds. For Yahoo, the error represents a credibility hit in a crowded market where trust in sources is currency. For the broader sports media ecosystem, it raises questions about whether the standard for publishing trade reports (typically a single named source or a statement from an official channel) remains sufficient given the speed of distribution. The false Durant report also reflects the broader landscape of deadline pressure during the offseason, when trades and free agency moves occur rapidly and reporters are incentivized to publish before competitors. No trade actually occurred; Durant's contract status and team affiliation remain unchanged.",
       "tweets": []
     },
     {
-      "category": "media",
+      "category": "leagues",
       "importance": 5,
-      "leadHeadline": "Serena Williams makes winning return to tennis with victory in Queen's doubles",
-      "leadSource": "The Guardian · 2h ago",
-      "leadUrl": "https://www.theguardian.com/sport/2026/jun/09/serena-williams-makes-winning-return-to-tennis-with-victory-in-queens-doubles",
-      "summary": "Serena Williams won her first match in 1,375 days, defeating Melichar-Martinez and Routliffe 7-6, 6-2 in doubles at Queen's Club—a symbolic comeback drawing global media attention.",
-      "article": "Serena Williams returned to competitive tennis Monday after 1,375 days away from professional play. She and partner Victoria Mboko won their doubles match at Queen's Club 7-6 (2), 6-2 over Melichar-Martinez and Routliffe, marking the 44-year-old's first official competition since her September 2022 retirement from singles at the U.S. Open.\n\nThe match itself was a controlled re-entry—doubles, not singles, against established opponents, at a storied grass court venue known for its prestige. Williams played with the efficiency of someone who has played 860+ career matches: placing serves, moving to the net, finishing points. She didn't dominate, but she didn't need to. The victory was the event.\n\nFor tennis, the comeback carries narrative weight beyond the match score. Williams is the sport's biggest global celebrity. Her absence for nearly four years coincided with tennis' struggle to find a dominant storyline post-Nadal/Djokovic/Federer. Her return—especially if it extends to singles competition—reintroduces the sport's most marketable figure to a global audience. Television ratings for Queen's broadcasts spiked. Social media mentions of tennis hit levels unseen since the Osaka era.\n\nThe business angle: if Williams plays Wimbledon (starting in weeks), if she competes in singles, the viewership and sponsorship implications are enormous. Even at 44, even in doubles, even in a low-pressure setting, she moves the needle. For the WTA and for broadcast partners, her continued participation is oxygen. The question now isn't whether she'll play more—it's how much more, and whether singles play is on the table.",
+      "leadHeadline": "Shaquille O'Neal Shines During 'Inside the NBA' Finals Debut",
+      "leadSource": "Front Office Sports · 3h ago",
+      "leadUrl": "https://frontofficesports.com/shaquille-oneal-shines-inside-the-nba-finals-debut/",
+      "summary": "Shaquille O'Neal made his analytical debut on Inside the NBA during the Finals, praising the Spurs' physical style and integrating into the panel's chemistry. The talent upgrade signals TNT's confidence in the show's roster heading into its final broadcast seasons.",
+      "article": "Shaquille O'Neal delivered praised commentary during his Inside the NBA Finals debut, analyzing the Spurs' physical defense and integrating seamlessly with the existing panel of Ernie Johnson, Charles Barkley, and Kenny Smith, according to Front Office Sports. O'Neal's appearance represents a significant addition to TNT's basketball coverage and underscores the network's investment in the show's talent depth as it prepares for the final years of its NBA media contract. O'Neal's credentials—four championships, Hall of Fame status, and decades of media experience—position him as an authoritative voice on elite playoff basketball. His willingness to engage with the panel's established chemistry and his specific analysis of the Spurs' defensive schemes demonstrated that the integration could work without disrupting the show's format. Inside the NBA has faced competitive pressure from ESPN and streaming options, but the addition of O'Neal signals TNT's commitment to maintaining the program as a destination for premium post-game analysis. O'Neal's presence may also serve as a negotiating point if TNT pursues a media rights extension or if the NBA considers the show's value in future rights packages. The Diesel's debut during the Finals—the season's most-watched programming—maximizes his visibility and allows him to establish credibility as an analyst when the audience is most engaged.",
       "tweets": []
     },
     {
       "category": "leagues",
       "importance": 4,
-      "leadHeadline": "Stanley Cup Final notebook: Hurricanes respond well when adversity strikes",
-      "leadSource": "Sportsnet · 2h ago",
-      "leadUrl": "",
-      "summary": "The Hurricanes head into Game 4 of the Stanley Cup Final having shown a pattern of responding to adversity; Sportsnet notes they'll need to draw on that resilience again.",
-      "article": "The Hurricanes enter Game 4 of the Stanley Cup Final tomorrow night trailing their opponent in the series. Sportsnet's notebook coverage tracks a pattern: when the Hurricanes face what appears to be a devastating blow—an injury, a loss in a crucial moment, mounting pressure—they tend to respond with immediate offensive execution and defensive tightening in the next outing.\n\nThis isn't mystical. It's organizational culture visible in playoff data. The Hurricanes don't panic when faced with elimination-game scenarios or deficit situations. They play tighter, shoot more, and commit fewer unforced errors. That consistency under pressure is a mark of veteran-led teams with clear coaching infrastructure.\n\nFor the Finals narrative, this matters: Game 4 is a pivot point. A loss ends the series. A win forces Game 5, shifts momentum, and extends the Finals' commercial runway. The Hurricanes' historical resilience under duress suggests they have the organizational DNA to win at home when it matters. Whether that pattern holds in this specific Finals is the open question. But if history is instructive, expect the Hurricanes to tighten defensively and generate more Grade-A chances in Game 4 than they did in Game 3.",
+      "leadHeadline": "Caution over Saka as Tuchel says England must dare to dream",
+      "leadSource": "BBC Sport · 3h ago",
+      "leadUrl": "https://www.bbc.com/sport/football/articles/cq61ll2p5pzo?at_medium=RSS&amp;at_campaign=rss",
+      "summary": "England head coach Thomas Tuchel is managing Bukayo Saka's fitness carefully ahead of the 2026 World Cup, signaling that the winger's workload will be monitored despite his importance to Three Lions' setup. Squad depth and injury risk loom large in tournament preparation.",
+      "article": "England head coach Thomas Tuchel announced that Bukayo Saka's fitness is being managed with caution heading into the 2026 World Cup, indicating that the winger will have his workload monitored through the qualifying and tournament phases, according to BBC Sport. Tuchel's statement reflects the strategic balance between deploying star players and preserving them for the competition itself—a recurring challenge in international football where club and country calendars collide. Saka, Arsenal's primary creative outlet, is a cornerstone of England's attacking setup, and any long-term injury could diminish the Three Lions' chances significantly. Tuchel's public acknowledgment of fitness management also signals to other staff and medical teams that Saka's availability in May and June is a priority, potentially affecting playing time decisions at club level during the season's final stretch. The comment fits within Tuchel's broader messaging about England's World Cup ambitions. Earlier in the same remarks, Tuchel called on the team to embrace confidence, suggesting that the Three Lions believe they have the talent to compete for the tournament despite the competition's expanded field and parity. For Arsenal, Tuchel's statement may inform squad rotation decisions, particularly in April and May if Europe is still in play. The winger's health is a proxy for England's overall condition heading into Qatar's successor tournament—a reminder that international success depends on the timely availability of elite club players at their peak fitness.",
+      "tweets": []
+    },
+    {
+      "category": "leagues",
+      "importance": 3,
+      "leadHeadline": "Serena Williams makes winning return to tennis with victory in Queen's doubles",
+      "leadSource": "The Guardian · 5h ago",
+      "leadUrl": "https://www.theguardian.com/sport/2026/jun/09/serena-williams-makes-winning-return-to-tennis-with-victory-in-queens-doubles",
+      "summary": "Serena Williams, 44, won her doubles match at Queen's Club alongside partner Victoria Mboko, posting a 7-6(2), 6-2 victory and signaling a possible competitive return to professional tennis. The comeback adds marquee value to the grass-court season.",
+      "article": "Serena Williams, 44, claimed a doubles victory at Queen's Club on Tuesday, teaming with Victoria Mboko to defeat Melichar-Martinez and Routliffe 7-6(2), 6-2, marking a competitive return to professional tennis after stepping away from full-time play, according to The Guardian. The win signals that Williams may continue to compete selectively on the grass-court circuit and beyond, a development that elevates the profile of tournaments she enters. Williams' presence at Queen's—traditionally a warm-up event for Wimbledon—carries significant commercial and narrative value. Her return matches broader trends in professional tennis, where veteran players (Roger Federer, Billie Jean King) have engaged in exhibition and limited tournament play rather than full retirements. For the WTA and grass-court organizers, Williams' willingness to compete adds a household name to the draw and generates media attention that benefits the overall season. Her doubles partnership with Mboko, a rising player, also reflects a mentoring dynamic that could extend Williams' influence in the sport beyond singles play. The Queen's victory doesn't necessarily signal a singles return, but it demonstrates fitness and competitive readiness. Any future singles entries—particularly at Wimbledon—would command massive television audiences and sponsorship interest. For now, the doubles win establishes that Williams remains engaged with competitive tennis and willing to test herself at the highest level, a posture that keeps her name in consideration for future tournaments and keeps sponsors' investments in her brand active.",
       "tweets": []
     }
   ],
@@ -2434,65 +2406,65 @@
   "ticket_prices": [],
   "sidebar": [
     {
-      "headline": "Ashlyn Harris on NWSL Growth and Purpose",
-      "source": "Front Office Sports · 2h ago",
-      "article": "Ashlyn Harris, NWSL veteran and newly released Roku documentary subject, sat down to discuss the league's escalating valuations, the FIFA coaching rule's impact on American talent development, and the pricing strategy behind World Cup ticket sales. Harris emphasized that NWSL teams are no longer afterthoughts in the North American sports marketplace—they're destinations. Valuations have climbed into the $500M+ range for expansion franchises, a number unthinkable five years ago. On the FIFA rule constraining foreign coaches, Harris sees it as a competitive disadvantage for U.S. development. But World Cup ticket pricing, she argued, should balance accessibility with revenue: price too high, you lose casual fans; too low, you leave money on the field."
-    },
-    {
-      "headline": "Is Babcock the right person to guide Oilers?",
-      "source": "Sportsnet · 1h ago",
-      "article": "Mike Babcock is the Oilers' new head coach, hired to unlock a roster loaded with talent but stalled by organizational dysfunction. Sportsnet's question: is Babcock the right *person*—not just tactician—to navigate Edmonton's culture issues? Babcock has rings, résumé credentials, and a reputation for tough-love accountability. But he also carries a history of interpersonal friction. For the Oilers, this is a bet on whether Babcock's demand-based leadership style can coexist with Connor McDavid's generational talent and the franchise's need for stability. If it works, Edmonton gets a Finals contender. If it fractures, the Babcock hire becomes a cautionary tale about hiring for pedigree rather than fit."
-    },
-    {
-      "headline": "Former Giants all-star Shawn Estes blasts Tony Vitello for manager miscues",
-      "source": "NY Post Sports · just now",
-      "article": "The Giants blew a one-out-away opportunity to secure a victory Monday night, with former all-star pitcher Shawn Estes directing criticism at manager Tony Vitello for in-game decision-making. Estes cited a specific sequence of moves—bullpen selection, baserunning instructions, or pitch sequencing—that Estes believes cost the team. This isn't mere fan critique; Estes' voice carries weight in the Giants organization and fanbase. A public blast from a franchise legend signals either a rift between front office and coaching staff, or a broader frustration with execution. For Vitello, it's a reminder that managing in San Francisco means managing under scrutiny from a rooted community of baseball experts."
+      "headline": "2026 World Cup Betting Guide Live: Odds, Rosters, Promo Codes",
+      "source": "CBS Sports · 2h ago",
+      "article": "CBS Sports published a comprehensive 2026 World Cup betting guide covering odds, team rosters, tournament schedule, and promotional offers from major sportsbooks. The guide positions the expanded 48-team format and competitive landscape as compelling wagering opportunities. With the tournament expanding to North America and featuring three hosts, betting volume is expected to surge, particularly in the United States where legal sports gambling has exploded since 2018. The guide serves as a resource for bettors navigating odds across multiple books and capitalizes on heightened World Cup interest in a World Cup year."
     },
     {
       "headline": "Sporticast: This World Cup Shows the American-ization of Soccer",
-      "source": "Sportico · 11h ago",
-      "article": "On the 559th episode of the Sporticast podcast, hosts Scott Soshnick and Eben Novy-Williams dissected how the 2026 World Cup reflects American commercialization patterns: multiple host cities (spread revenue, dilute atmosphere), premium pricing strategies (squeeze corporate buyers), stadium technology integration (in-venue tech as spectacle), and media fragmentation across streaming platforms. The hosts argued this World Cup looks less like past iterations and more like an American sports league event—constructed for maximum revenue extraction rather than singular iconic moments. Whether that's good for soccer globally or just good for FIFA's balance sheet remains contested."
+      "source": "Sportico · 14h ago",
+      "article": "On the latest Sporticast episode, hosts Scott Soshnick and Eben Novy-Williams discuss the American-ization of soccer, examining how the 2026 World Cup reflects U.S. market influence on the sport's structure and broadcast strategy. The expanded tournament and three-nation host format (USA, Canada, Mexico) have created a North American-centric competition that differs structurally from previous World Cups. Sponsorship, media deals, and venue design all reflect American sports business norms, signaling FIFA's pivot toward U.S. revenue generation and audience preferences."
     },
     {
-      "headline": "Carlsbad Organizers Ready to Bid on NCAA Golf Championships Extension",
-      "source": "Front Office Sports · 2h ago",
-      "article": "The North Course at Omni La Costa in Carlsbad, California, has hosted the NCAA golf championships for three consecutive years. Now, organizers are preparing to bid for an extension—seeking to lock in a multi-year renewal that would cement Carlsbad as the permanent home of the event. The bid strategy centers on venue quality, logistics, and the region's established golf tourism infrastructure. If successful, it's a major win for the Carlsbad tourism board and a statement that venue stickiness (retaining events long-term) is now as valuable to organizers as acquisition."
+      "headline": "Knicks can lean on what got them here with a second Garden chance",
+      "source": "NY Post Sports · 1h ago",
+      "article": "The Knicks' path to the Finals was built on the defensive pressure and ball movement that defined their 13-game playoff run—elements head coach Tom Thibodeau can deploy again at Madison Square Garden in Game 2 and beyond. The team's depth and willingness to play physical defense on every possession created the 46-day run that carried them from play-in to Finals. Returning to the Garden provides home-court advantage and crowd energy that the Knicks leveraged during their regular-season climb. Thibodeau's message will emphasize replication: execute the same defensive principles, move the ball, and play inside-out offense that generated their Finals appearance."
     },
     {
-      "headline": "Texas two-step: Longhorn clincher sets WCWS mark for second-straight year",
-      "source": "Sports Media Watch · 1d ago",
-      "article": "Texas claimed the Women's College World Series championship for the second consecutive year, with the clinching game drawing viewership that set a Sports Media Watch-tracked benchmark for the WCWS. The back-to-back titles reflect program stability and investment, with ESPN's broadcast commitment to women's college sports generating sufficient audience to justify annual championship-round slots. Texas's dominance in women's college softball mirrors sustained competitive advantage—strong coaching, recruiting depth, and institutional commitment to the program's infrastructure."
+      "headline": "Cam Skattebo proving to be so much more than everything John Harbaugh expected",
+      "source": "NY Post Sports · just now",
+      "article": "Baltimore Ravens running back Cam Skattebo has exceeded head coach John Harbaugh's pre-draft assessment, demonstrating versatility and productivity that justify the franchise's investment. Harbaugh evaluated Skattebo extensively on tape and projected contributions, but the player has expanded his impact beyond initial expectations. Skattebo's receiving ability, red-zone efficiency, and willingness to contribute on special teams have made him a three-down option in Baltimore's offensive scheme. For Harbaugh, the overperformance validates the scouting process and signals that the Ravens' draft class is producing immediate dividends."
+    },
+    {
+      "headline": "Blue Jays on Sportsnet: Toronto vs. Philadelphia",
+      "source": "Sportsnet · 1h ago",
+      "article": "Dylan Cease returns to the mound for the Toronto Blue Jays Tuesday night as they continue their interleague series with the Philadelphia Phillies. Cease's return marks a significant moment in the Blue Jays' rotation health and reinforces their contention window. The right-hander's availability strengthens Toronto's pitching depth heading into the stretch run. Sportsnet will broadcast the matchup live across Canada."
+    },
+    {
+      "headline": "Does referee case show Fifa has lost control of its own World Cup?",
+      "source": "BBC Sport · 6h ago",
+      "article": "FIFA referee Omar Artan was denied entry to the United States, raising questions about FIFA's ability to manage administrative and security logistics for the 2026 World Cup hosted across North America. The incident reflects broader concerns about staff and supporter access, visa processing, and border coordination between three nations. If FIFA cannot guarantee that its own referees and officials can enter host countries without obstruction, it undermines the federation's credibility and tournament operations. The case signals potential friction between U.S. immigration policy and FIFA's international protocols."
     }
   ],
   "poll": {
-    "question": "Which develops first—the Sorsby legal precedent cascading into broader NCAA enforcement collapse, or the NCAA/conferences adapting by creating a new independent arbitration system?",
+    "question": "Which Finals will draw the larger cumulative audience through their conclusion?",
     "options": [
-      "Legal precedent spreads; NCAA loses ability to suspend athletes unilaterally within 18 months",
-      "Conferences band together and fund alternative enforcement body by 2027",
-      "Congress steps in with athlete rights legislation before either happens",
-      "Status quo holds; Sorsby remains isolated, NCAA adapts case-by-case"
+      "Knicks-Spurs NBA Finals (ABC)",
+      "Golden Knights-Hurricanes Stanley Cup Final (multiple networks)",
+      "They'll finish nearly equal in total viewership",
+      "The NBA Finals lead, but it's closer than expected"
     ]
   },
   "predictions": [
     {
-      "statement": "The Knicks win the NBA Finals in six games, and MSG Entertainment's stock surges another 20% on the championship bump.",
-      "probability": 35,
-      "rationale": "MSG's valuation is already fully priced for a Finals appearance. A championship extends runway for premium sponsorships and media rights, but equity markets already bid that optionality in. The stock needs *failure* to correct downward, not success to rally further. Still, championship narratives do drive sentiment, so modest upside is real if they finish the job."
+      "statement": "The Knicks win the 2026 NBA Finals in six games.",
+      "probability": 62,
+      "rationale": "New York's home-court advantage at MSG and the Knicks' defensive intensity have carried them this far. The Spurs' youth and Wembanyama's adjustment to Finals intensity favor the more experienced Knicks roster. MSG's electricity is a real home-court asset that shouldn't be discounted."
     },
     {
-      "statement": "Serena Williams plays at least one singles match before the end of 2026, driving WTA broadcast viewership up 25%+ in that broadcast window.",
-      "probability": 68,
-      "rationale": "Williams' doubles comeback is momentum-building. Her celebrity still moves the needle globally. If she feels confident in her body (and doubles credibility suggests she does), playing a few singles matches—even losses—is inevitable and commercially irresistible for the WTA. The 25% viewership bump is conservative given her stardom."
+      "statement": "Golden Knights win the Stanley Cup in seven games.",
+      "probability": 55,
+      "rationale": "Vegas has playoff experience and veteran leadership (Eichel, Stone) that typically matters in Finals. Carolina's depth is formidable, but the Knights' regular-season pacing and Bridgestone Arena advantage give them slight odds. A Game 7 feels inevitable given the series balance through three games."
     },
     {
-      "statement": "The Hurricanes lose the Stanley Cup Final in Game 5 or 6, and the victorious team attributes their edge to managing the Hurricanes' historical 'resilience under pressure' by avoiding close games and blowing them out.",
-      "probability": 52,
-      "rationale": "Every pattern can be countered if an opponent understands it. The Hurricanes' strength (responding to adversity) becomes a weakness if their opponent simply refuses to let the series get close. It's not a prediction of inevitability, just a 50-50 bet that the opponent has studied film and plays a game designed to prevent the Hurricanes from ever needing to respond."
+      "statement": "The NBA Finals viewership maintains above 15M average through Game 6.",
+      "probability": 78,
+      "rationale": "The first two games posted historic numbers for a non-LeBron era Finals. The Knicks' market, Wembanyama's global appeal, and East Coast scheduling all support sustained viewership. Even if the series concludes in six, ABC will retain strong averages."
     },
     {
-      "statement": "FIFA's inability to pre-clear referees triggers a secondary controversy (player visa delays, media access issues, or fan entry complications) within three weeks of tournament kickoff.",
-      "probability": 61,
-      "rationale": "The Artan denial exposes a coordination breakdown between FIFA and U.S. immigration. That breakdown isn't fixed by assigning one referee differently. If referees hit border friction, players and media likely will too. History suggests mega-event logistics chain-react: one failure signals systemic brittleness."
+      "statement": "Serena Williams plays at least one singles match at Wimbledon in 2026.",
+      "probability": 48,
+      "rationale": "The Queen's Club doubles victory shows she's fit and competitive, but a full Wimbledon push requires singles endurance she may not prioritize. She could enter as a wild card or skip it entirely. Her presence would be massive for ratings, but her choices typically prioritize quality over quantity."
     }
   ],
   "injuries": [],
@@ -2564,38 +2536,38 @@
       "_pendingGrade": true
     }
   ],
-  "updatedAt": "2026-06-09T16:45:00Z",
+  "updatedAt": "2026-04-23T17:45:00Z",
   "highlights": [
     {
       "league": "NBA",
-      "title": "The Brunson family in the Finals 🤝",
-      "videoId": "6Xg2DgVC2eM",
-      "thumbnail": "https://img.youtube.com/vi/6Xg2DgVC2eM/mqdefault.jpg",
-      "timeAgo": "1h ago",
+      "title": "How Wemby became one of the NBA's most unstoppable young talents (via @jeffchen333 )",
+      "videoId": "ndJYsIcGzg8",
+      "thumbnail": "https://img.youtube.com/vi/ndJYsIcGzg8/mqdefault.jpg",
+      "timeAgo": "Just now",
       "isFallback": false
     },
     {
       "league": "NFL",
-      "title": "Myles Garrett Trade + Browns QB Situation with GM Andrew Berry | Schrager Hour",
-      "videoId": "ANXBpFg46us",
-      "thumbnail": "https://img.youtube.com/vi/ANXBpFg46us/mqdefault.jpg",
+      "title": "🔥🔥🔥 (via @k1/IG)",
+      "videoId": "aZR6lgnN4wg",
+      "thumbnail": "https://img.youtube.com/vi/aZR6lgnN4wg/mqdefault.jpg",
       "timeAgo": "1h ago",
       "isFallback": false
     },
     {
       "league": "MLB",
-      "title": "Shohei Ohtani is ON FIRE at the plate! 🔥 (Batting .415 since May 15th, average up to .302!)",
-      "videoId": "htBfjWxCZeU",
-      "thumbnail": "https://img.youtube.com/vi/htBfjWxCZeU/mqdefault.jpg",
+      "title": "Spencer Jones sends his first Major League home run 443 feet 🤯",
+      "videoId": "seTelDDBMe0",
+      "thumbnail": "https://img.youtube.com/vi/seTelDDBMe0/mqdefault.jpg",
       "timeAgo": "1h ago",
       "isFallback": false
     },
     {
       "league": "NHL",
-      "title": "A cup lift 22 years in the making 🏆",
-      "videoId": "Eriiq-aC0EQ",
-      "thumbnail": "https://img.youtube.com/vi/Eriiq-aC0EQ/mqdefault.jpg",
-      "timeAgo": "1h ago",
+      "title": "🏒 Stanley Cup Live | Hurricanes vs Golden Knights Game 4 | @emptynetterspod",
+      "videoId": "PXDVeob3rFQ",
+      "thumbnail": "https://img.youtube.com/vi/PXDVeob3rFQ/mqdefault.jpg",
+      "timeAgo": "Just now",
       "isFallback": false
     },
     {
@@ -2603,26 +2575,210 @@
       "title": "Week 4: Eastern Conference Player of the Week Breanna Stewart",
       "videoId": "vVj_XHAvDnM",
       "thumbnail": "https://img.youtube.com/vi/vVj_XHAvDnM/mqdefault.jpg",
-      "timeAgo": "4h ago",
+      "timeAgo": "7h ago",
       "isFallback": false
     },
     {
       "league": "SOCCER",
-      "title": "Alex Morgan sees GRIT from the USMNT &amp; wants the USWNT to MAKE A STATEMENT ⚽ | SportsCenter",
-      "videoId": "PsVyILQ0ENI",
-      "thumbnail": "https://img.youtube.com/vi/PsVyILQ0ENI/mqdefault.jpg",
-      "timeAgo": "Just now",
+      "title": "When Cristiano Ronaldo and Portugal lifted the Nations League trophy 🤩 (via @uefaeuro/IG)",
+      "videoId": "WP5tsHVpGnw",
+      "thumbnail": "https://img.youtube.com/vi/WP5tsHVpGnw/mqdefault.jpg",
+      "timeAgo": "1h ago",
       "isFallback": false
     }
   ],
   "reels": [
     {
+      "league": "NHL",
+      "title": "🏒 Stanley Cup Live | Hurricanes vs Golden Knights Game 4 | @emptynetterspod",
+      "videoId": "PXDVeob3rFQ",
+      "author": "NHL",
+      "pubDate": "2026-06-09T23:53:19+00:00",
+      "link": "https://www.youtube.com/watch?v=PXDVeob3rFQ"
+    },
+    {
+      "league": "NBA",
+      "title": "How Wemby became one of the NBA's most unstoppable young talents (via @jeffchen333 )",
+      "videoId": "ndJYsIcGzg8",
+      "author": "NBA",
+      "pubDate": "2026-06-09T23:49:06+00:00",
+      "link": "https://www.youtube.com/watch?v=ndJYsIcGzg8"
+    },
+    {
+      "league": "NHL",
+      "title": "Bettman Talks Growth of the Game 📈",
+      "videoId": "JzCjkGQO2PM",
+      "author": "NHL",
+      "pubDate": "2026-06-09T23:31:51+00:00",
+      "link": "https://www.youtube.com/watch?v=JzCjkGQO2PM"
+    },
+    {
+      "league": "MLB",
+      "title": "Spencer Jones sends his first Major League home run 443 feet 🤯",
+      "videoId": "seTelDDBMe0",
+      "author": "MLB",
+      "pubDate": "2026-06-09T23:29:09+00:00",
+      "link": "https://www.youtube.com/watch?v=seTelDDBMe0"
+    },
+    {
       "league": "SOCCER",
-      "title": "Alex Morgan sees GRIT from the USMNT &amp; wants the USWNT to MAKE A STATEMENT ⚽ | SportsCenter",
-      "videoId": "PsVyILQ0ENI",
+      "title": "When Cristiano Ronaldo and Portugal lifted the Nations League trophy 🤩 (via @uefaeuro/IG)",
+      "videoId": "WP5tsHVpGnw",
       "author": "ESPN FC",
-      "pubDate": "2026-06-09T20:41:10+00:00",
-      "link": "https://www.youtube.com/watch?v=PsVyILQ0ENI"
+      "pubDate": "2026-06-09T23:14:30+00:00",
+      "link": "https://www.youtube.com/watch?v=WP5tsHVpGnw"
+    },
+    {
+      "league": "NHL",
+      "title": "Another wacky Habs draft question 🤣",
+      "videoId": "TwkwyUdRI4M",
+      "author": "NHL",
+      "pubDate": "2026-06-09T23:12:33+00:00",
+      "link": "https://www.youtube.com/watch?v=TwkwyUdRI4M"
+    },
+    {
+      "league": "MLB",
+      "title": "Spencer Jones CRUSHES his first career home run for the New York Yankees! 💪 (443 feet! 😮‍💨)",
+      "videoId": "L7CbfiGt5B8",
+      "author": "MLB",
+      "pubDate": "2026-06-09T23:08:03+00:00",
+      "link": "https://www.youtube.com/watch?v=L7CbfiGt5B8"
+    },
+    {
+      "league": "NFL",
+      "title": "🔥🔥🔥 (via @k1/IG)",
+      "videoId": "aZR6lgnN4wg",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-06-09T23:05:23+00:00",
+      "link": "https://www.youtube.com/watch?v=aZR6lgnN4wg"
+    },
+    {
+      "league": "SOCCER",
+      "title": "Gotta be serious 😭😂 (via @equipedefrance/TT)",
+      "videoId": "uX4SJ9ZBua8",
+      "author": "ESPN FC",
+      "pubDate": "2026-06-09T23:05:03+00:00",
+      "link": "https://www.youtube.com/watch?v=uX4SJ9ZBua8"
+    },
+    {
+      "league": "SOCCER",
+      "title": "Previewing USMNT &amp; France ahead of FIFA World Cup + Updates on Julian Alvarez &amp; Savinho | ESPN FC",
+      "videoId": "SU1wU6Mu6e4",
+      "author": "ESPN FC",
+      "pubDate": "2026-06-09T23:03:08+00:00",
+      "link": "https://www.youtube.com/watch?v=SU1wU6Mu6e4"
+    },
+    {
+      "league": "SOCCER",
+      "title": "Why does Florian Wirtz look better playing for Germany than for Liverpool? | ESPN FC Extra Time",
+      "videoId": "nQagp1alJug",
+      "author": "ESPN FC",
+      "pubDate": "2026-06-09T22:55:57+00:00",
+      "link": "https://www.youtube.com/watch?v=nQagp1alJug"
+    },
+    {
+      "league": "SOCCER",
+      "title": "Is Kylian Mbappe UNDROPPABLE⁉️ Debating Mbappe's importance for France | ESPN FC",
+      "videoId": "K1qRAQU3M58",
+      "author": "ESPN FC",
+      "pubDate": "2026-06-09T22:46:20+00:00",
+      "link": "https://www.youtube.com/watch?v=K1qRAQU3M58"
+    },
+    {
+      "league": "NFL",
+      "title": "George Kittle ranks his top tight ends in the NFL 🔥",
+      "videoId": "IEGZnTunJww",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-06-09T22:39:26+00:00",
+      "link": "https://www.youtube.com/watch?v=IEGZnTunJww"
+    },
+    {
+      "league": "NHL",
+      "title": "Gabriel Landeskog on winning the Mark Messier NHL Leadership Award",
+      "videoId": "LdEbJJOxpTo",
+      "author": "NHL",
+      "pubDate": "2026-06-09T22:37:14+00:00",
+      "link": "https://www.youtube.com/watch?v=LdEbJJOxpTo"
+    },
+    {
+      "league": "NHL",
+      "title": "Gabriel Landeskog wins Masterton Trophy in Emotional Surprise 🥹",
+      "videoId": "cYsC1e8t4qU",
+      "author": "NHL",
+      "pubDate": "2026-06-09T22:37:10+00:00",
+      "link": "https://www.youtube.com/watch?v=cYsC1e8t4qU"
+    },
+    {
+      "league": "NHL",
+      "title": "&quot;Jeez Marti&quot; 🎤 🪑",
+      "videoId": "4t84LXjDbdY",
+      "author": "NHL",
+      "pubDate": "2026-06-09T22:24:51+00:00",
+      "link": "https://www.youtube.com/watch?v=4t84LXjDbdY"
+    },
+    {
+      "league": "SOCCER",
+      "title": "Real Madrid announce €150M offer for Julian Alvarez was REJECTED by Atletico Madrid | ESPN FC",
+      "videoId": "YpZMZBluGUI",
+      "author": "ESPN FC",
+      "pubDate": "2026-06-09T22:22:52+00:00",
+      "link": "https://www.youtube.com/watch?v=YpZMZBluGUI"
+    },
+    {
+      "league": "SOCCER",
+      "title": "Jurgen Klinsmann explains USMNT'S FOCUS &amp; APPROACH as the 2026 World Cup begins 🧠 | ESPN FC",
+      "videoId": "2RXkur0We7w",
+      "author": "ESPN FC",
+      "pubDate": "2026-06-09T22:07:42+00:00",
+      "link": "https://www.youtube.com/watch?v=2RXkur0We7w"
+    },
+    {
+      "league": "NFL",
+      "title": "DON'T RUSH Fernando Mendoza 🛑 The Raiders' approach to starting the rookie QB | NFL Live",
+      "videoId": "j0jH-oXkS-E",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-06-09T21:40:33+00:00",
+      "link": "https://www.youtube.com/watch?v=j0jH-oXkS-E"
+    },
+    {
+      "league": "MLB",
+      "title": "White Sox promote MLB's #21 overall prospect &amp; their #2 prospect Braden Montgomery | MiLB Highlights",
+      "videoId": "4s6yv-BbYhg",
+      "author": "MLB",
+      "pubDate": "2026-06-09T21:30:32+00:00",
+      "link": "https://www.youtube.com/watch?v=4s6yv-BbYhg"
+    },
+    {
+      "league": "NFL",
+      "title": "NYC was in a FUNK Tuesday",
+      "videoId": "yrGvIH1dlvI",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-06-09T21:09:33+00:00",
+      "link": "https://www.youtube.com/watch?v=yrGvIH1dlvI"
+    },
+    {
+      "league": "SOCCER",
+      "title": "They were battling 🔥🔥 (via @_manoelfotos/IG)",
+      "videoId": "JiQ5U2yBV6k",
+      "author": "ESPN FC",
+      "pubDate": "2026-06-09T21:00:15+00:00",
+      "link": "https://www.youtube.com/watch?v=JiQ5U2yBV6k"
+    },
+    {
+      "league": "MLB",
+      "title": "The Orioles place plaques on the street outside right field for every home run that lands there 😮⚾",
+      "videoId": "NtQAj1jFEIg",
+      "author": "MLB",
+      "pubDate": "2026-06-09T21:00:11+00:00",
+      "link": "https://www.youtube.com/watch?v=NtQAj1jFEIg"
+    },
+    {
+      "league": "NFL",
+      "title": "Mel Kiper's Most Unforgettable Super Bowl Moment #NFL #SuperBowl #Nostalgia",
+      "videoId": "fW9WZN1ffjE",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-06-09T20:52:08+00:00",
+      "link": "https://www.youtube.com/watch?v=fW9WZN1ffjE"
     },
     {
       "league": "NHL",
@@ -2663,14 +2819,6 @@
       "author": "NFL on ESPN",
       "pubDate": "2026-06-09T19:29:38+00:00",
       "link": "https://www.youtube.com/watch?v=iLiIhOE54FY"
-    },
-    {
-      "league": "SOCCER",
-      "title": "They really enjoy the days before the start 😅",
-      "videoId": "adRb_g8nEnk",
-      "author": "ESPN FC",
-      "pubDate": "2026-06-09T19:00:24+00:00",
-      "link": "https://www.youtube.com/watch?v=adRb_g8nEnk"
     },
     {
       "league": "NBA",
@@ -2737,14 +2885,6 @@
       "link": "https://www.youtube.com/watch?v=5y9iJJ-5aj4"
     },
     {
-      "league": "NBA",
-      "title": "Victor Wembanyama Talks Game 3 In The Garden, &quot;Relentless&quot; Mindset, &amp; More | June 9, 2026",
-      "videoId": "p2kodprea6U",
-      "author": "NBA",
-      "pubDate": "2026-06-09T18:17:35+00:00",
-      "link": "https://www.youtube.com/watch?v=p2kodprea6U"
-    },
-    {
       "league": "MLB",
       "title": "ALL 11 HOMERS: most in an MLB game since 2019! 💪 | MLB Highlights (Brewers vs. A’s)",
       "videoId": "xehn1viv8V8",
@@ -2767,174 +2907,6 @@
       "author": "MLB",
       "pubDate": "2026-06-09T17:30:00+00:00",
       "link": "https://www.youtube.com/watch?v=IutUSv5ov3Y"
-    },
-    {
-      "league": "SOCCER",
-      "title": "Anything for a Messi autograph 😂 (via @fcdofficial/TT)",
-      "videoId": "yMhBFQi52UU",
-      "author": "ESPN FC",
-      "pubDate": "2026-06-09T17:26:50+00:00",
-      "link": "https://www.youtube.com/watch?v=yMhBFQi52UU"
-    },
-    {
-      "league": "NFL",
-      "title": "Sean McDermott Explains How Josh Allen Became An MVP QB",
-      "videoId": "GxQEG9OJzXY",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-06-09T17:13:53+00:00",
-      "link": "https://www.youtube.com/watch?v=GxQEG9OJzXY"
-    },
-    {
-      "league": "SOCCER",
-      "title": "Best defensive teams qualified for the 2026 World Cup",
-      "videoId": "wG7C6BrKuC0",
-      "author": "ESPN FC",
-      "pubDate": "2026-06-09T17:10:00+00:00",
-      "link": "https://www.youtube.com/watch?v=wG7C6BrKuC0"
-    },
-    {
-      "league": "WNBA",
-      "title": "Week 4: Eastern Conference Player of the Week Breanna Stewart",
-      "videoId": "vVj_XHAvDnM",
-      "author": "WNBA",
-      "pubDate": "2026-06-09T17:04:22+00:00",
-      "link": "https://www.youtube.com/watch?v=vVj_XHAvDnM"
-    },
-    {
-      "league": "WNBA",
-      "title": "Week 4: Western Conference Player of the Week Olivia Miles",
-      "videoId": "g3Oya-tB1O8",
-      "author": "WNBA",
-      "pubDate": "2026-06-09T17:04:01+00:00",
-      "link": "https://www.youtube.com/watch?v=g3Oya-tB1O8"
-    },
-    {
-      "league": "SOCCER",
-      "title": "Starting the week with Portugal’s aura 🤩🇵🇹",
-      "videoId": "AZHvQ5CkHHo",
-      "author": "ESPN FC",
-      "pubDate": "2026-06-09T17:00:08+00:00",
-      "link": "https://www.youtube.com/watch?v=AZHvQ5CkHHo"
-    },
-    {
-      "league": "MLB",
-      "title": "WHAT A FINISH 🤯 Every MAJOR MOMENT between the Brewers &amp; A’s from the 9th inning on | MLB Highlights",
-      "videoId": "-8pu0DY8AIA",
-      "author": "MLB",
-      "pubDate": "2026-06-09T16:54:21+00:00",
-      "link": "https://www.youtube.com/watch?v=-8pu0DY8AIA"
-    },
-    {
-      "league": "NFL",
-      "title": "Sean McDermott: Cam Newton Was a Unicorn",
-      "videoId": "SW6pSeGDFGs",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-06-09T16:50:02+00:00",
-      "link": "https://www.youtube.com/watch?v=SW6pSeGDFGs"
-    },
-    {
-      "league": "NFL",
-      "title": "Which QB Kept Sean McDermott Up at Night?",
-      "videoId": "cqvfgxj_NRg",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-06-09T16:49:57+00:00",
-      "link": "https://www.youtube.com/watch?v=cqvfgxj_NRg"
-    },
-    {
-      "league": "NFL",
-      "title": "Brian Dawkins Was Absolutely Insane",
-      "videoId": "dkpt-c3ojpc",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-06-09T16:49:47+00:00",
-      "link": "https://www.youtube.com/watch?v=dkpt-c3ojpc"
-    },
-    {
-      "league": "NFL",
-      "title": "Schefter on a Rams return for Donald, &quot;More likely than not&quot; + the Indiana Bears?",
-      "videoId": "h8b_ZTqkA3g",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-06-09T16:45:19+00:00",
-      "link": "https://www.youtube.com/watch?v=h8b_ZTqkA3g"
-    },
-    {
-      "league": "MLB",
-      "title": "This will be an epic story when this little girl grows up 😯",
-      "videoId": "YeoEMsODEqU",
-      "author": "MLB",
-      "pubDate": "2026-06-09T16:28:30+00:00",
-      "link": "https://www.youtube.com/watch?v=YeoEMsODEqU"
-    },
-    {
-      "league": "SOCCER",
-      "title": "Colombia vs. Jordan EXTENDED HIGHLIGHTS [June 7, 2026] | ESPN FC",
-      "videoId": "UIhF36vpYLU",
-      "author": "ESPN FC",
-      "pubDate": "2026-06-09T16:15:31+00:00",
-      "link": "https://www.youtube.com/watch?v=UIhF36vpYLU"
-    },
-    {
-      "league": "MLB",
-      "title": "Outfielders making LEGENDARY CATCHES covering a ton of ground! 😯 (Jim Edmonds, Willie Mays &amp; MORE)",
-      "videoId": "haz6sM1SZ5c",
-      "author": "MLB",
-      "pubDate": "2026-06-09T16:00:33+00:00",
-      "link": "https://www.youtube.com/watch?v=haz6sM1SZ5c"
-    },
-    {
-      "league": "SOCCER",
-      "title": "ESPN FC’s 2026 World Cup Golden Ball PREDICTIONS!",
-      "videoId": "2BpeUcj3fko",
-      "author": "ESPN FC",
-      "pubDate": "2026-06-09T15:45:02+00:00",
-      "link": "https://www.youtube.com/watch?v=2BpeUcj3fko"
-    },
-    {
-      "league": "MLB",
-      "title": "William Contreras three-run home run FROM THE GROUND! 🤯",
-      "videoId": "JesbDPE2VhY",
-      "author": "MLB",
-      "pubDate": "2026-06-09T15:27:36+00:00",
-      "link": "https://www.youtube.com/watch?v=JesbDPE2VhY"
-    },
-    {
-      "league": "SOCCER",
-      "title": "Frank Leboeuf would NOT want to defend against Erling Haaland?! | ESPN FC",
-      "videoId": "t5wbENFiqkA",
-      "author": "ESPN FC",
-      "pubDate": "2026-06-09T15:16:54+00:00",
-      "link": "https://www.youtube.com/watch?v=t5wbENFiqkA"
-    },
-    {
-      "league": "NHL",
-      "title": "2026 Stanley Pup | Cutest Puppies You've Ever Seen!",
-      "videoId": "INNSAKAf258",
-      "author": "NHL",
-      "pubDate": "2026-06-09T13:00:24+00:00",
-      "link": "https://www.youtube.com/watch?v=INNSAKAf258"
-    },
-    {
-      "league": "WNBA",
-      "title": "Seattle Storm vs. Las Vegas Aces  | FULL GAME HIGHLIGHTS | June 8, 2026",
-      "videoId": "fPvjAPg35_o",
-      "author": "WNBA",
-      "pubDate": "2026-06-09T05:11:47+00:00",
-      "link": "https://www.youtube.com/watch?v=fPvjAPg35_o"
-    },
-    {
-      "league": "WNBA",
-      "title": "New York Liberty vs. Connecticut Sun | FULL GAME HIGHLIGHTS | June 8, 2026",
-      "videoId": "Kc8gF6QTn38",
-      "author": "WNBA",
-      "pubDate": "2026-06-09T05:05:47+00:00",
-      "link": "https://www.youtube.com/watch?v=Kc8gF6QTn38"
-    },
-    {
-      "league": "WNBA",
-      "title": "Indiana Fever vs. Washington Mystics | FULL GAME HIGHLIGHTS | June 8, 2026",
-      "videoId": "UapQoy1q-ec",
-      "author": "WNBA",
-      "pubDate": "2026-06-09T05:02:35+00:00",
-      "link": "https://www.youtube.com/watch?v=UapQoy1q-ec"
     }
   ]
 }
