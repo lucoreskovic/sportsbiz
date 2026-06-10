@@ -901,21 +901,29 @@ async function attachRealTweets(clusters) {
   // discussing that specific story. This is cheaper than N calls and lets
   // Claude prioritize searches across the whole slate.
   const headlineList = clusters
-    .map((c, i) => '[' + i + '] ' + c.leadHeadline + (c.summary ? ' — ' + String(c.summary).slice(0, 140) : ''))
+    .map((c, i) => '[' + i + '] ' + c.leadHeadline + (c.summary ? ' — ' + String(c.summary).slice(0, 180) : ''))
     .join('\n');
 
   const todayLabel = new Date().toLocaleDateString('en-US', { weekday: 'long', month: 'long', day: 'numeric', year: 'numeric' });
-  const prompt = `You are attaching real public tweets (X posts) to news stories. Today is ${todayLabel}. For each headline below, use the web_search tool to find REAL tweets from beat reporters, insiders, verified accounts, or high-engagement fan reactions discussing that specific story. Search for phrases from the headline combined with "site:twitter.com OR site:x.com".
+  const prompt = `You are attaching real public tweets (X posts) to sports-business news stories. Today is ${todayLabel}.
+
+Your goal: find at least one genuinely relevant, current tweet for as many of these stories as you can. Most of these stories ARE being discussed on X right now (league accounts, team accounts, beat reporters, Sportico/FOS/ESPN writers, verified insiders), so an empty result for a major story usually means you didn't search hard enough — not that nothing exists.
+
+PRIORITY: Story [0] is the day's lead story and gets the biggest display. Spend your first 1-2 searches making sure [0] has a relevant tweet if one exists at all — a thread on the lead story matters most. Then work through the rest.
+
+SEARCH STRATEGY (important — plain site:twitter.com queries often return nothing):
+- Search the KEY ENTITY + the EVENT, e.g. "Real Madrid Adidas deal" or "NBA Finals Game 3 ratings", and look for x.com / twitter.com status links in the results.
+- Also try the relevant org or reporter handle directly, e.g. "@FrontOfficeSport Real Madrid Adidas", "@SporticoUSA", "@ESPNNBA Game 3 ratings".
+- Run a search for EACH story that plausibly has X discussion. Don't spend your whole budget on one story.
 
 HARD RULES:
-- Return ONLY tweet URLs you actually saw in search results. If a search returned no tweet URLs, return an empty array for that headline. Do NOT fabricate URLs.
-- A valid tweet URL looks like: https://twitter.com/username/status/1234567890 or https://x.com/username/status/1234567890
-- RELEVANCE GATE: the tweet must be about the SPECIFIC EVENT in the headline, not merely the same team, league, or series. A tweet about an earlier game, a previous round, or a related-but-different storyline FAILS this gate. Example: a tweet celebrating a team clinching the Finals does NOT belong on a story about that Finals' Game 1 TV ratings.
-- RECENCY GATE: skip any tweet whose date in the search results is more than 2 days old, or that references a future event that has since already happened (those are pre-event tweets and read as outdated).
-- An empty array is ALWAYS better than a loosely related or stale tweet. When in doubt, leave it out.
-- Skip promotional/spam tweets. Prefer beat reporters, team accounts, verified insiders.
-- 0-3 tweets per headline. Quality > quantity.
-- It's fine if most headlines have no matching tweets — that's expected.
+- Return ONLY tweet URLs you actually saw in search results. Never fabricate a URL or guess a status ID.
+- A valid tweet URL: https://twitter.com/username/status/1234567890 or https://x.com/username/status/1234567890
+- RELEVANCE GATE: the tweet must be about the SPECIFIC EVENT in the headline, not merely the same team, league, or person. A tweet about an earlier game or a different storyline FAILS. (A tweet celebrating a Finals berth does NOT belong on a Game 3 TV-ratings story.)
+- RECENCY GATE: skip tweets more than ~3 days old, or pre-event hype tweets for an event that has already happened.
+- Between a loosely-related tweet and nothing, choose nothing. But between a clearly-relevant tweet and nothing, do the work to find the tweet.
+- Prefer verified org/team accounts and beat reporters over random fans.
+- 0-2 tweets per headline.
 
 HEADLINES:
 ${headlineList}
@@ -935,12 +943,13 @@ Return ONLY valid JSON with no prose:
       },
       body: JSON.stringify({
         model: 'claude-haiku-4-5-20251001',
-        // Output is just a JSON map of cluster→tweet IDs; 2500 is more than
-        // enough. max_uses dropped from 5 → 3 because each web_search pulls
-        // a full page of input tokens, and 3 searches reliably cover 6-7
-        // clusters when most don't surface a relevant tweet anyway.
         max_tokens: 2500,
-        tools: [{ type: 'web_search_20250305', name: 'web_search', max_uses: 3 }],
+        // X/Twitter is the hardest platform to surface via general web search,
+        // so this stage needs real budget. 8 searches across ~7 clusters lets
+        // Claude try the entity-search and handle-search angles for each story
+        // instead of giving up after 3. This is the single most impactful lever
+        // on "why are there no threads" — worth the extra searches on one run.
+        tools: [{ type: 'web_search_20250305', name: 'web_search', max_uses: 8 }],
         messages: [{ role: 'user', content: prompt }],
       }),
     });
@@ -1121,6 +1130,82 @@ function formatOddsForPrompt(odds) {
   }
   return lines.join('\n');
 }
+// Shared map: our league labels → The Odds API sport keys.
+const ODDS_SPORT_KEYS = {
+  'NBA':'basketball_nba', 'NFL':'americanfootball_nfl', 'MLB':'baseball_mlb',
+  'NHL':'icehockey_nhl', 'EPL':'soccer_epl', 'LA LIGA':'soccer_spain_la_liga',
+  'BUNDESLIGA':'soccer_germany_bundesliga', 'SERIE A':'soccer_italy_serie_a',
+  'LIGUE 1':'soccer_france_ligue_one', 'UCL':'soccer_uefa_champs_league', 'MLS':'soccer_usa_mls',
+};
+
+// Fetch + consolidate live odds for one league into an oddsByGame map.
+// Shared by the main pipeline (stage 0) and the off-cycle top-up.
+async function fetchLeagueOdds(league, oddsByGame) {
+  const sportKey = ODDS_SPORT_KEYS[league];
+  if (!sportKey || !process.env.ODDS_API_KEY) return;
+  const url = 'https://api.the-odds-api.com/v4/sports/' + sportKey +
+    '/odds?apiKey=' + process.env.ODDS_API_KEY +
+    '&regions=us&markets=h2h,spreads,totals&oddsFormat=american';
+  try {
+    const r = await fetch(url, { signal: AbortSignal.timeout(8000) });
+    if (!r.ok) { console.warn('[odds] fetch failed for ' + league + ': HTTP ' + r.status); return; }
+    const remaining = r.headers.get('x-requests-remaining');
+    const data = await r.json();
+    if (!Array.isArray(data)) return;
+    for (const ev of data) {
+      const key = (ev.away_team + ' @ ' + ev.home_team).toLowerCase().replace(/\s+/g,' ').trim();
+      oddsByGame[key] = consolidateBestLines(ev, league);
+    }
+    console.log('[odds] ' + league + ': ' + data.length + ' games priced (credits remaining: ' + remaining + ')');
+  } catch (e) {
+    console.warn('[odds] fetch error for ' + league + ':', e.message);
+  }
+}
+
+// Off-cycle top-up: for each core US league that has a game starting within the
+// next ~10 hours, ensure the slate carries at least 2 picks by adding
+// deterministic market-fill picks from freshly fetched lines.
+async function topUpMarketFills(currentPicks) {
+  if (!process.env.ODDS_API_KEY) return [];
+  // Which leagues are under-covered right now?
+  const countByLeague = {};
+  (currentPicks || []).forEach(p => {
+    const lg = String(p.league||'').toUpperCase();
+    countByLeague[lg] = (countByLeague[lg]||0) + 1;
+  });
+  // Only bother pricing leagues that (a) are below 2 picks and (b) plausibly
+  // have games today. We check ESPN cheaply for game presence first, then only
+  // hit the paid odds API for leagues that need topping up.
+  const CORE = [
+    {label:'MLB', urlPath:'baseball/mlb'},
+    {label:'NBA', urlPath:'basketball/nba'},
+    {label:'NHL', urlPath:'hockey/nhl'},
+    {label:'NFL', urlPath:'football/nfl'},
+  ];
+  const oddsByGame = {};
+  for (const lg of CORE) {
+    if ((countByLeague[lg.label]||0) >= 2) continue; // already covered
+    // Confirm the league has a non-final game today before spending a credit.
+    let hasGame = false;
+    try {
+      const res = await fetch('https://site.api.espn.com/apis/site/v2/sports/' + lg.urlPath + '/scoreboard', { signal: AbortSignal.timeout(6000) });
+      if (res.ok) {
+        const d = await res.json();
+        hasGame = (d.events||[]).some(ev => {
+          const n = ev.status?.type?.name;
+          return n !== 'STATUS_FINAL' && n !== 'STATUS_FULL_TIME';
+        });
+      }
+    } catch (e) {}
+    if (!hasGame) continue;
+    await fetchLeagueOdds(lg.label, oddsByGame);
+  }
+  if (Object.keys(oddsByGame).length === 0) return [];
+  // buildMarketFillPicks already dedupes against existing picks and respects
+  // the 2-4 per-sport bounds and the start-time window.
+  return buildMarketFillPicks(oddsByGame, currentPicks || [], 2, 4);
+}
+
 function signed(n) { const v = Number(n); return (v > 0 ? '+' : '') + v; }
 
 // ─── GUARANTEED PER-SPORT VOLUME: MARKET FILL PICKS ──────────────────────────
@@ -1344,20 +1429,8 @@ async function generatePicks() {
   const ODDS_API_KEY = process.env.ODDS_API_KEY;
   const oddsByGame = {}; // matchup-key → bookmaker odds
   if (ODDS_API_KEY) {
-    // Map our internal labels to The Odds API's sport keys.
-    const oddsSportKeys = {
-      'NBA':        'basketball_nba',
-      'NFL':        'americanfootball_nfl',
-      'MLB':        'baseball_mlb',
-      'NHL':        'icehockey_nhl',
-      'EPL':        'soccer_epl',
-      'LA LIGA':    'soccer_spain_la_liga',
-      'BUNDESLIGA': 'soccer_germany_bundesliga',
-      'SERIE A':    'soccer_italy_serie_a',
-      'LIGUE 1':    'soccer_france_ligue_one',
-      'UCL':        'soccer_uefa_champs_league',
-      'MLS':        'soccer_usa_mls',
-    };
+    // Map our internal labels to The Odds API's sport keys (shared constant).
+    const oddsSportKeys = ODDS_SPORT_KEYS;
     // Identify which leagues actually have games on the schedule today.
     const leaguesWithGames = new Set();
     games.forEach(g => {
@@ -1380,26 +1453,7 @@ async function generatePicks() {
     }
     console.log('[picks] stage 0: fetching real odds for ' + leaguesWithGames.size + ' leagues...');
     for (const league of leaguesWithGames) {
-      const sportKey = oddsSportKeys[league];
-      const url = 'https://api.the-odds-api.com/v4/sports/' + sportKey +
-        '/odds?apiKey=' + ODDS_API_KEY +
-        '&regions=us&markets=h2h,spreads,totals&oddsFormat=american';
-      try {
-        const r = await fetch(url, { signal: AbortSignal.timeout(8000) });
-        if (!r.ok) { console.warn('[picks] odds fetch failed for ' + league + ': HTTP ' + r.status); continue; }
-        const remaining = r.headers.get('x-requests-remaining');
-        const data = await r.json();
-        if (!Array.isArray(data)) continue;
-        // Each event: { home_team, away_team, commence_time, bookmakers: [{ markets: [{ key, outcomes }] }] }
-        for (const ev of data) {
-          // Build matchup key matching how we pass games to Claude
-          const key = (ev.away_team + ' @ ' + ev.home_team).toLowerCase().replace(/\s+/g,' ').trim();
-          oddsByGame[key] = consolidateBestLines(ev, league);
-        }
-        console.log('[picks] ' + league + ': ' + data.length + ' games priced (credits remaining: ' + remaining + ')');
-      } catch (e) {
-        console.warn('[picks] odds fetch error for ' + league + ':', e.message);
-      }
+      await fetchLeagueOdds(league, oddsByGame);
     }
     console.log('[picks] stage 0: priced ' + Object.keys(oddsByGame).length + ' total games');
     // If ESPN gave us nothing, rebuild the prompt's games list from the priced
@@ -2474,6 +2528,24 @@ async function main() {
     // doesn't go blank, plus anything waiting on an ESPN final.
     clustered.picks = storedFreshPicks.concat(gradeQueue);
     console.log('Skipped picks generation (off-cycle run); preserved ' + storedFreshPicks.length + ' non-stale picks, ' + gradeQueue.length + ' awaiting grade');
+
+    // ─── OFF-CYCLE MARKET-FILL TOP-UP ──────────────────────────────────────────
+    // The morning run can't fill a sport whose bookmaker lines aren't posted yet
+    // at 7 AM ET (typical for MLB day games and afternoon slates). Without this,
+    // those sports stay empty all day even after their lines appear. So on every
+    // off-cycle refresh we re-fetch odds for the active leagues and top up any
+    // sport sitting below 2 picks. Pure deterministic fills (low confidence,
+    // real lines) — no Claude calls. Cost: the same odds fetch the page already
+    // relies on, only for leagues that currently have a game starting soon.
+    try {
+      const topUps = await topUpMarketFills(clustered.picks);
+      if (topUps.length > 0) {
+        clustered.picks = clustered.picks.concat(topUps);
+        console.log('[picks] off-cycle top-up: +' + topUps.length + ' market-fill picks for under-covered sports');
+      }
+    } catch (e) {
+      console.warn('[picks] off-cycle top-up failed (non-fatal):', e.message);
+    }
   }
 
   console.log('Fetching highlights...');
