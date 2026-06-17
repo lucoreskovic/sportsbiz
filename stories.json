@@ -1,81 +1,94 @@
 {
   "clusters": [
     {
-      "category": "labor",
-      "importance": 9,
-      "leadHeadline": "Maple Leafs hire Jim Hiller as head coach",
-      "leadSource": "Sportsnet · 1h ago",
-      "leadUrl": "",
-      "summary": "Toronto names Jim Hiller its next head coach after a lengthy search, signaling a reset following years of first-round exits. The hire ends speculation and sets the stage for a critical offseason in a market desperate for a Stanley Cup.",
-      "article": "The Toronto Maple Leafs have hired Jim Hiller as their next head coach, according to Sportsnet's Elliotte Friedman. Hiller, who previously coached in the NHL, takes over a franchise that has cycled through leadership repeatedly while accumulating one of hockey's most talented rosters without playoff success beyond the first round.\n\nThe move represents Toronto's attempt to stabilize the bench after a tumultuous cycle of hirings and firings. Hiller inherits a team built around Auston Matthews, Mitch Marner, and William Nylander—three perennial 100-point threats who have not yet delivered a second-round appearance together. The pressure is immediate and unforgiving. Toronto's ownership and fanbase have grown impatient with the gap between regular-season dominance and postseason results.\n\nHiller's mandate is clear: extract maximum playoff performance from elite talent. Whether that means system adjustments, lineup deployment changes, or psychological recalibration remains to be seen, but the Leafs are banking that a new voice can unlock what previous coaches could not. The hire also signals that management believes the roster is closer to contention than a rebuild—a vote of confidence in the Marner-Matthews core.\n\nThis closes a chapter of instability and opens another bet on a coach's ability to win in April.",
+      "category": "media",
+      "importance": 8,
+      "leadHeadline": "Brazil-Morocco dominant viewership draw as World Cup continues hot start",
+      "leadSource": "Sports Media Watch · 3h ago",
+      "leadUrl": "https://www.sportsmediawatch.com/2026/06/world-cup-viewership-milestones-fox-telemundo-brazil-morocco/",
+      "summary": "The 2026 World Cup is posting strong early ratings across multiple markets, with Brazil-Morocco drawing major audiences as the tournament establishes momentum.",
+      "article": "The 2026 World Cup is off to a ratings windfall. Brazil-Morocco, among the tournament's early marquee fixtures, pulled dominant viewership numbers across broadcast platforms, cementing the event's early commercial success. The match capitalized on the dual draw of a heavyweight South American side and the geopolitical intrigue of African representation, translating to measurable audience volume.\n\nThis mirrors the pattern set by other early-round matchups this cycle—strong viewership suggests both casual and committed soccer audiences are tuning in at higher rates than some industry forecasters predicted. The numbers matter: World Cup media rights command premium pricing precisely because of these kind of audience guarantees. Broadcasters locked into rights packages years ago are now validating their investment through early viewership performance.\n\nWhat's notable is the breadth of the draw. This isn't just a single market story (the U.S. or Latin America propping up numbers); the tournament is posting strong concurrent viewership across geographies. That validates FIFA's tournament expansion and fixture scheduling—more teams, more matches, more pathways to star-tier viewing experiences. For media partners, early strong ratings create a halo effect for the entire tournament run, justifying premium ad pricing for later rounds. For the league itself, it's validation that the 48-team format expands rather than dilutes the audience.",
+      "tweets": []
+    },
+    {
+      "category": "contracts",
+      "importance": 7,
+      "leadHeadline": "Sixth Street Just Deepened Its Ties to Cowboys Owner Jerry Jones",
+      "leadSource": "Sportico · 2h ago",
+      "leadUrl": "https://www.sportico.com/business/finance/2026/sixth-street-jerry-jones-dallas-cowboys-1234936328/",
+      "summary": "Sixth Street Capital announced a $600 million investment for a 27% stake in Pinnacle Gas Services, further entrenching the investment firm's relationship with Cowboys owner Jerry Jones.",
+      "article": "Sixth Street Capital doubled down on its partnership with Jerry Jones on Monday, announcing a $600 million investment for a 27% stake in Pinnacle Gas Services—an energy company in which Jones is a principal stakeholder. The deal values Pinnacle at roughly $2.2 billion on a fully diluted basis.\n\nThis is the third major capital infusion Sixth Street has engineered alongside Jones in the past 18 months. The pattern reveals how mega-cap investment firms now operate as quasi-partners to billionaire sports owners, deploying capital across their portfolio companies to generate liquidity and valuation upside. For Jones, it's a playbook that unlocks value from non-sports holdings without forcing asset sales. For Sixth Street, it's a wedge into the Jones ecosystem—energy, sports, real estate—creating mutual dependency and cross-deal flow.\n\nThe Cowboys themselves remain private, but the energy-sector investment carries indirect implications: liquidity events tied to Jones's other holdings typically precede or follow valuation discussions around his flagship asset. The Cowboys have been valued north of $8 billion in recent appraisals; Sixth Street's deepening ties suggest confidence in Jones's broader financial architecture and, by extension, the franchise's equity value. Sixth Street's portfolio now includes meaningful stakes in Jones-affiliated enterprises, making the investment firm's fortunes partially dependent on the Cowboys' long-term trajectory.",
+      "tweets": []
+    },
+    {
+      "category": "media",
+      "importance": 6,
+      "leadHeadline": "Jimmie Johnson Joining TNT as NASCAR Analyst",
+      "leadSource": "Front Office Sports · just now",
+      "leadUrl": "https://frontofficesports.com/jimmie-johnson-tnt-sports-nascar-analyst/",
+      "summary": "Seven-time NASCAR Cup Series champion Jimmie Johnson will debut as a TNT analyst on June 28, adding a Hall of Fame driver to the network's broadcast booth.",
+      "article": "Jimmie Johnson, a seven-time NASCAR Cup Series champion and one of the sport's most decorated drivers, is joining TNT's broadcast team effective June 28. Johnson will move directly from his driver seat into the analyst chair, a transition that mirrors the playbook used by networks to add credibility to motorsports coverage through ex-driver expertise.\n\nJohnson brings 21 seasons of Cup Series competition and five consecutive championships (2004-2008) to the role—pedigree that matters in a sport where audience trust in commentary tracks closely to on-track résumé. His hire also signals TNT's commitment to maintaining NASCAR presence despite the sport's fragmented media landscape. With Fox, NBC, and now TNT sharing broadcast windows, differentiation through talent has become critical.\n\nThe timing places Johnson in the booth during the second half of the 2026 season, allowing him to build analyst chemistry before inheriting potential playoff coverage. TNT's NASCAR footprint expanded under current management; adding a name like Johnson—recognizable to longtime fans and casual audiences alike—justifies that investment. Johnson's Hall of Fame status also creates merchandising and promotional opportunities extending beyond individual broadcasts. The hire represents the mutual benefit economics of modern sports media: networks get authenticity and draw, while retired superstar athletes gain post-career income streams and cultural relevance without the physical demands of competition.",
+      "tweets": []
+    },
+    {
+      "category": "revenue",
+      "importance": 5,
+      "leadHeadline": "Madison Square Garden Hit With Class Action Lawsuit Over Apparent Data Breach",
+      "leadSource": "Front Office Sports · 2h ago",
+      "leadUrl": "https://frontofficesports.com/madison-square-garden-hit-with-class-action-after-apparent-data-breach/",
+      "summary": "MSG Entertainment faces a class action lawsuit alleging a data breach, with the suit citing the company's troubled history of data privacy violations.",
+      "article": "Madison Square Garden Entertainment is defending against a new class action lawsuit alleging a significant data breach affecting customer information. The suit specifically highlights MSG's \"tempestuous history with respect to data privacy,\" referencing prior incidents that created legal and reputational exposure for the company.\n\nData breaches carry multifaceted costs beyond settlement liability: regulatory fines, mandatory security audits, brand damage, and customer churn. For MSG, a company built on ticketing platform integration and fan data collection (purchases, attendance patterns, seat preferences), a breached database represents an existential risk to the customer relationship. The lawsuit's framing—that MSG has a pattern of negligence rather than an isolated incident—amplifies potential damages and raises scrutiny of the company's security infrastructure.\n\nMSG operates two of North America's most valuable sports venues (Madison Square Garden and The Forum in Los Angeles), plus the Knicks, Rangers, and other franchises. Fan data monetization funds premium experiences, targeted concession upsells, and advertising. A proven pattern of breaches erodes the trust required to make that ecosystem work. Class certification could expose MSG to eight-figure settlements and mandatory system overhauls. Beyond dollars, the suit pressures MSG to disclose the scope and timeline of the breach—information that determines whether this is a contained incident or systemic failure. Competitors and private equity bidders are watching; any franchise sale or stadium refinancing will now include forensic review of MSG's cybersecurity posture.",
+      "tweets": []
+    },
+    {
+      "category": "media",
+      "importance": 5,
+      "leadHeadline": "Scheffler faces mighty Shinnecock test in bid to claim career slam with US Open victory",
+      "leadSource": "The Guardian · 2h ago",
+      "leadUrl": "https://www.theguardian.com/sport/2026/jun/17/scottie-scheffler-us-open-preview-faces-mighty-shinnecock-test-in-bid-to-claim-career-slam",
+      "summary": "World No. 1 Scottie Scheffler will attempt to join an exclusive club by winning the U.S. Open at Shinnecock Hills, where the notoriously difficult course will test his patience and precision.",
+      "article": "Scottie Scheffler arrives at Shinnecock Hills this week with a chance to join an exclusive group: players who have won all four major championships in their career. The World No. 1 and defending Masters champion is the betting favorite, but the windswept Long Island layout—one of golf's most punishing U.S. Open venues—figures to neutralize raw talent advantage and reward patience.\n\nScheffler has won 10 times on the PGA Tour this season and holds the year's three major victories. A U.S. Open triumph would cement his place in golf's upper echelon and make him only the 10th player to achieve a career Grand Slam. The last player to join that club was Rory McIlroy in 2016; before that, Tiger Woods in 2000.\n\nShinnecock Hills presents a singular challenge: fairways are narrow, rough is thick, and greens are small and firm. The course doesn't reward aggressive play—it punishes it. Scheffler's strength lies in controlled aggression and course management, but Shinnecock demands restraint. Other contenders include Rory McIlroy, Jon Rahm, and the contingent of European-based Tour players accustomed to links-style tests. The broadcast window carries ESPN's full backing; a Scheffler major victory drives ratings, and a career Grand Slam achievement is a generational sports story. If Scheffler closes, he'll have claimed three of four majors in 2026—a dominance unmatched since Woods's 2000 season.",
       "tweets": [
         {
-          "url": "https://twitter.com/MapleLeafs/status/2067230869790539965",
-          "html": "<blockquote class=\"twitter-tweet\" align=\"left\" data-dnt=\"true\" data-theme=\"dark\"><p lang=\"en\" dir=\"ltr\">Jim Hiller has been named the 41st Head Coach in franchise history!</p>&mdash; Toronto Maple Leafs (@MapleLeafs) <a href=\"https://x.com/MapleLeafs/status/2067230869790539965?ref_src=twsrc%5Etfw\">June 17, 2026</a></blockquote>\n\n",
-          "author_name": "Toronto Maple Leafs",
-          "author_url": "https://x.com/MapleLeafs"
+          "url": "https://twitter.com/GolfChannel/status/2066539207217062380",
+          "html": "<blockquote class=\"twitter-tweet\" align=\"left\" data-dnt=\"true\" data-theme=\"dark\"><p lang=\"en\" dir=\"ltr\">Ranking the entire U.S. Open field from No. 1 to No. 156 ⬇️<a href=\"https://t.co/AISo2ltwAS\">https://t.co/AISo2ltwAS</a></p>&mdash; Golf Channel (@GolfChannel) <a href=\"https://x.com/GolfChannel/status/2066539207217062380?ref_src=twsrc%5Etfw\">June 15, 2026</a></blockquote>\n\n",
+          "author_name": "Golf Channel",
+          "author_url": "https://x.com/GolfChannel"
         }
       ]
     },
     {
       "category": "media",
-      "importance": 8,
-      "leadHeadline": "Los Angeles Intuit Dome to Host 2027 LaverCup",
-      "leadSource": "Sportico · just now",
-      "leadUrl": "https://www.sportico.com/leagues/tennis/2026/laver-cup-2027-host-intuit-dome-la-1234909942/",
-      "summary": "The Laver Cup returns to California in 2027, moving to the Clippers' new Intuit Dome venue in Los Angeles after a record-breaking 2024 event at Chase Center. The move capitalizes on momentum in one of tennis's most marketable franchise events.",
-      "article": "The Laver Cup is heading to Los Angeles in 2027, with the Clippers' newly opened Intuit Dome serving as host venue. The announcement follows a record-breaking 2024 edition at Chase Center in San Francisco, signaling sustained demand for tennis's star-studded team exhibition.\n\nThe Laver Cup—an annual men's team tennis event pitting Team Europe against Team World—has become one of the sport's marquee properties, drawing A-list attendance and prime television placement. The 2024 San Francisco event set viewership and attendance benchmarks, validating the tournament's position as a premium sports entertainment product outside the traditional Grand Slam calendar.\n\nIntuit Dome's selection underscores the venue's ambitions to diversify beyond basketball. The $2 billion+ facility, which opened in 2024, has been aggressively pursuing non-Clippers events to maximize utilization and revenue. Hosting Laver Cup positions the arena as a destination for marquee sporting events and signals to promoters and leagues that the venue can execute world-class experiences.\n\nLos Angeles also represents a strategic expansion for the Laver Cup. The city's tennis market, celebrity roster, and media infrastructure make it an ideal host for an event that trades in glamour and global appeal. The 2027 date gives organizers two years to build anticipation and secure high-profile player commitments—critical for an event whose draw depends on star power.",
-      "tweets": []
-    },
-    {
-      "category": "revenue",
-      "importance": 7,
-      "leadHeadline": "How Caitlin Clark bounced back: Fever star looks like herself again after rough stretch",
-      "leadSource": "CBS Sports · just now",
-      "leadUrl": "https://www.cbssports.com/wnba/news/how-caitlin-clark-bounced-back-fever/",
-      "summary": "Caitlin Clark has rebounded from a four-game slump to drive Indiana's current winning streak, restoring form after facing public criticism mid-season. The narrative reinforces Clark's durability and the Fever's playoff viability.",
-      "article": "Caitlin Clark has shaken off a brutal four-game stretch that prompted soul-searching and external skepticism, returning to form during Indiana's current four-game winning streak. The rebound matters for the Fever's playoff positioning and for the broader narrative around women's basketball's biggest draw.\n\nClark's dip in April—marked by inefficient shooting, turnover spikes, and some uncharacteristic defensive lapses—gave ammunition to those questioning whether rookie-year hype would sustain through a full season. The media amplified every miss. Social media turned hostile. The noise was real, and the pressure on a 22-year-old franchise cornerstone was acute.\n\nBut Clark does not fold. Her recent performance has restored the efficiency markers that defined her opening months: higher field-goal percentage, decision-making clarity, and a return to aggressive attacking. The Fever have won four straight, and Clark has been central to that turnaround.\n\nWhat makes this relevant beyond Indiana: Clark's ability to weather adversity in real time is critical to the WNBA's sustainability as a mainstream entertainment product. The league invested enormous media capital in Clark's arrival. When she struggles, the entire ecosystem feels it. When she bounces back, the narrative writes itself.\n\nThe Fever are playoff-positioned. Clark is playing winning basketball again. That's not just a statistical recovery—it's a business vindication.",
-      "tweets": []
-    },
-    {
-      "category": "contracts",
-      "importance": 6,
-      "leadHeadline": "Mayweather, With $1.2B in Earnings, Facing Charges for $200K Bad Check",
-      "leadSource": "Sportico · just now",
-      "leadUrl": "https://www.sportico.com/personalities/athletes/2026/floyd-mayweather-bad-check-career-earnings-1234936330/",
-      "summary": "Floyd Mayweather, one of boxing's highest earners, faces legal charges related to a $200K bad check, a stark irony given his decade-long brand built on ostentatious wealth. The case raises questions about financial discipline despite staggering career earnings.",
-      "article": "Floyd Mayweather, who has generated an estimated $1.2 billion in career earnings and built a global persona centered on extreme wealth and conspicuous consumption, is facing criminal charges related to a $200,000 bad check. The irony is difficult to overstate: a man whose entire brand rests on \"The Money Team\" and Instagram displays of liquid assets now faces legal complications tied to a bounced payment.\n\nThe specifics remain limited, but Sportico's reporting indicates the charge stems from a financial transaction where Mayweather's check failed to clear, triggering criminal proceedings. For a figure whose net worth is regularly cited in the $700M–$1B range, the charge carries no financial sting. It does, however, represent a reputational complication.\n\nMayweather has cultivated perhaps the most aggressively wealth-focused personal brand in sports history. His social media presence is a constant stream of cash displays, luxury watches, and private aircraft. He famously spent $100M in his first year of retirement. He named his company \"The Money Team.\" The brand works because audiences either admire or resent the excess—but they believe the wealth is real.\n\nA bad check undermines that credibility. Whether this stems from account oversight, a processing error, or something more deliberate is unclear. But the court case injects a note of chaos into a carefully constructed empire of financial mythology. For Mayweather—a man whose power derives entirely from the perception of unlimited resources—perception troubles matter.\n\nThe case is pending, but the damage to brand consistency may outlast the legal proceedings.",
-      "tweets": []
-    },
-    {
-      "category": "leagues",
-      "importance": 5,
-      "leadHeadline": "His House v. NCAA Claim Was Worth $40K. Referring Others Got Him $1M",
-      "leadSource": "Sportico · 2h ago",
-      "leadUrl": "https://www.sportico.com/leagues/college-sports/2026/house-settlement-claims-market-athlete-creditor-rashada-1234909883/",
-      "summary": "College athletes in the House v. NCAA settlement are realizing disparate payouts based on referral incentives, with some earning millions while others receive thousands. The mechanism reveals sharp divisions within the class and administrative complications in distributing settlement funds.",
-      "article": "The House v. NCAA settlement—which fundamentally restructured name, image, and likeness (NIL) compensation for college athletes—is producing starkly unequal payouts, with some class members earning over $1 million while others receive $40,000 or less. The disparity stems from referral incentive structures built into the settlement administration process.\n\nAthletes who referred other eligible class members to the settlement received financial bonuses, creating a two-tier distribution system. A subset of well-connected athletes who successfully referred peers capitalized on the structure, accumulating significant payouts. The broader class—particularly athletes with smaller social networks or limited awareness of the referral mechanism—received baseline distributions.\n\nThe House v. NCAA settlement was designed to address decades of NCAA restrictions on athlete compensation. The landmark deal created a pathway for current and former athletes to claim damages. But the settlement's administration has been tangled in appellate proceedings, delaying payments to the vast majority of the class and creating a secondary market of unequal outcomes.\n\nWhat this reveals is the friction between mass-class settlements and individual outcomes. The NCAA fought this settlement ferociously, and its appeals have frozen relief for most athletes. Meanwhile, early actors—those with leverage to negotiate referral bonuses—have accelerated their gains while hundreds of thousands await resolution.\n\nThis pattern may have implications for future NCAA cases and NIL policy. If athletes perceive the settlement as arbitrary or inequitable, it could reshape litigation strategy and political pressure on the NCAA. The settlement was supposed to represent collective justice. Instead, it's producing a ladder of winners and waiters.",
-      "tweets": []
-    },
-    {
-      "category": "media",
-      "importance": 5,
-      "leadHeadline": "Scottie Scheffler Eyes Grand Slam, Tiger's Career Earnings Record",
-      "leadSource": "Front Office Sports · 17h ago",
-      "leadUrl": "https://frontofficesports.com/scottie-scheffler-eyes-grand-slam-tigers-career-earnings-record/",
-      "summary": "Scottie Scheffler has won three of four majors in 2024, putting him on pace for a historic Grand Slam run and chasing Tiger Woods' career earnings records. The golfer's dominance is reshaping the sport's commercial trajectory.",
-      "article": "Scottie Scheffler has won three of the four major championships in 2024, positioning himself for a calendar-year Grand Slam—an achievement last completed by Tiger Woods in 2000. With only the PGA Championship remaining, Scheffler is days away from one of golf's rarest feats.\n\nThe implications extend far beyond prestige. Scheffler's dominance has become a business story. A Grand Slam would cement him as the sport's most compelling draw at precisely the moment golf is negotiating its media future, LIV integration, and commercial partnerships. Major broadcasters are heavily invested in Scheffler's continued success—it drives ratings and sponsorship demand.\n\nScheffler has also begun encroaching on Tiger Woods' career earnings record. Woods accumulated approximately $120 million in official PGA Tour earnings over his career—an astronomical sum. Scheffler, at 27, is on trajectory to exceed that figure within the next 3-5 years if current prize-money inflation and endorsement economics persist. His Major wins, appearance fees, and sponsorship deals are accumulating at a pace Woods never experienced early in his career.\n\nThe narrative around Scheffler is no longer merely about golf excellence. It's about recalibrating what the sport's top earner looks like in an era of elevated purses, fractured tours, and global competition. Every major Scheffler wins reshapes his market value, increases leverage in PGA-LIV negotiations, and signals to sponsors that he remains the central figure in the sport.\n\nThe PGA Championship will determine whether 2024 becomes a defining year in golf history—or merely a dominant season.",
-      "tweets": []
-    },
-    {
-      "category": "media",
       "importance": 4,
-      "leadHeadline": "Alex Pereira blasts Ciryl Gane for 'illegal shots' during White House UFC fight",
-      "leadSource": "The Guardian · 2h ago",
-      "leadUrl": "https://www.theguardian.com/sport/2026/jun/17/alex-pereira-ciryl-gane-ufc-white-house",
-      "summary": "UFC heavyweight Alex Pereira claimed he took illegal blows to the back of the head in a White House event against Ciryl Gane and called for referee removal. The dispute illustrates officiating complications in high-profile UFC events.",
-      "article": "Alex Pereira has accused Ciryl Gane of landing illegal shots to the back of his head during a UFC heavyweight bout at the White House, calling on Dana White to replace referee Herb Dean. The accusation emerged after the fight and has focused attention on both refereeing standards and the logistics of hosting combat sports in ceremonial venues.\n\nBlows to the back of the head are strictly prohibited under UFC rules, classified as potentially dangerous and subject to point deductions or disqualification. Pereira's complaint centers on whether Dean caught violations in real time and whether the back-of-the-head rule was applied consistently during the bout.\n\nThe White House event itself was unusual—a ceremonial combat exhibition at one of America's most formal settings. That setting, combined with potential crowd noise and sightline complications, may have affected officiating visibility. Pereira's frustration reflects a broader concern about referee consistency in high-pressure, non-standard venues.\n\nWhether Dean's crew violated standards or Pereira's interpretation overstates contact severity will likely remain disputed. But the incident does highlight a tension in UFC business strategy: as the promotion expands into ceremonial and international venues, it risks compromising the consistency of rule enforcement that protects fighter safety.\n\nDana White will have to weigh Pereira's credibility against Dean's track record. Either way, the event produced controversy where the UFC's goal was prestige.",
+      "leadHeadline": "Canes-Knights officially among top five most-watched Cup finals",
+      "leadSource": "Sports Media Watch · 15h ago",
+      "leadUrl": "https://www.sportsmediawatch.com/2026/06/stanley-cup-final-among-most-watched-on-record-hurricanes-golden-knights/",
+      "summary": "The Carolina Hurricanes-Vegas Golden Knights Stanley Cup Final earned placement among the five most-watched Cup Finals in recent history, validating the league's regular-season ratings momentum.",
+      "article": "The 2026 Stanley Cup Final between the Carolina Hurricanes and Vegas Golden Knights has officially been certified as one of the five most-watched Cup Finals in modern television history. The series delivered measurable audience volume across ESPN and regional broadcasts, cementing the NHL's recent ratings recovery.\n\nThe Canes-Knights matchup benefited from several factors: Vegas's blue-collar appeal to non-traditional hockey markets, Carolina's sustained playoff run capturing East Coast attention, and the novelty of two franchises meeting in a championship scenario for the first time. The confirmation that the series ranks in the top five speaks to how the NHL's regular season growth (attributed to Connor McDavid, post-pandemic viewership rebound, and franchise parity) translates into playoff urgency.\n\nFor broadcasters, the ratings validate playoff content investment. ESPN's exclusive Cup Final rights carry premium ad pricing; strong viewership justifies those commitments and creates leverage for the next rights negotiation cycle. For the league, top-five Finals viewership suggests the sport has regained traction after years of decline. It also raises the profile of smaller-market franchises (Vegas and Carolina) onto the national stage, potentially driving merchandise sales and expanding the league's footprint beyond traditional hockey strongholds. The Hurricanes and Golden Knights both benefit from sustained playoff exposure; free agency, sponsorship, and season-ticket demand all track to championship visibility.",
       "tweets": []
+    },
+    {
+      "category": "media",
+      "importance": 3,
+      "leadHeadline": "Wimbledon wildcard for Williams sisters is just reward for their contribution to tennis",
+      "leadSource": "The Guardian · 2h ago",
+      "leadUrl": "https://www.theguardian.com/sport/blog/2026/jun/17/wimbledon-wildcard-serena-venus-williams-sisters-tennis",
+      "summary": "Serena and Venus Williams have received wildcards to return and compete together at Wimbledon, marking a celebration of their unparalleled legacy in the sport.",
+      "article": "Serena and Venus Williams have been granted wildcards to return to Wimbledon and compete together, a decision by All England Club organizers that acknowledges both the sisters' career contributions and the commercial value of their participation. The return is not framed as a championship push but as a chance to honor two of tennis's greatest athletes on the sport's most prestigious stage.\n\nThe wildcard is significant: it bypasses qualifying and grants direct entry to the main draw, a courtesy typically reserved for former champions or players of exceptional stature. Serena and Venus qualify on both counts. Serena has won 23 major titles; Venus has won seven. Together, they've defined professional tennis for nearly three decades and remain the sport's most bankable brand outside active Top 10 competition.\n\nFor Wimbledon, the move generates guaranteed eyeballs and broadcast premium. The Williams sisters draw audiences across demographics—longtime tennis fans, casual sports viewers, and cultural figures indifferent to tennis per se but interested in legacy narratives. Their participation elevates the tournament's cultural cachet and justifies broadcast investment. For the sisters, the wildcard formalizes their transition from competitors to ceremonial figures—a role that extends their earning potential and public platform. The All England Club benefits from the goodwill narrative; Wimbledon positions itself as custodian of tennis history rather than purely a competition. The Williams return is neither a competitive shock nor a ratings afterthought—it's deliberate partnership between aging icons and institutional prestige.",
+      "tweets": [
+        {
+          "url": "https://twitter.com/Wimbledon/status/2066827500135551093",
+          "html": "<blockquote class=\"twitter-tweet\" align=\"left\" data-dnt=\"true\" data-theme=\"dark\"><p lang=\"en\" dir=\"ltr\">Back together, at Wimbledon 💚💜<br><br>Serena and Venus Williams will compete in the Ladies’ Doubles at The Championships 2026 <a href=\"https://t.co/xrOV0yeBCJ\">pic.twitter.com/xrOV0yeBCJ</a></p>&mdash; Wimbledon (@Wimbledon) <a href=\"https://x.com/Wimbledon/status/2066827500135551093?ref_src=twsrc%5Etfw\">June 16, 2026</a></blockquote>\n\n",
+          "author_name": "Wimbledon",
+          "author_url": "https://x.com/Wimbledon"
+        },
+        {
+          "url": "https://twitter.com/TennisChannel/status/2066835453089612172",
+          "html": "<blockquote class=\"twitter-tweet\" align=\"left\" data-dnt=\"true\" data-theme=\"dark\"><p lang=\"en\" dir=\"ltr\">THIS IS NOT A DRILL 🚨 <br><br>Serena and Venus Williams have officially received a wildcard to play doubles at Wimbledon 2026 🔥 <a href=\"https://t.co/XVgTmBoDki\">pic.twitter.com/XVgTmBoDki</a></p>&mdash; Tennis Channel (@TennisChannel) <a href=\"https://x.com/TennisChannel/status/2066835453089612172?ref_src=twsrc%5Etfw\">June 16, 2026</a></blockquote>\n\n",
+          "author_name": "Tennis Channel",
+          "author_url": "https://x.com/TennisChannel"
+        }
+      ]
     }
   ],
   "draftTracker": {
@@ -2399,84 +2412,235 @@
     "source": "espn"
   },
   "deals": [],
-  "ratings": [
-    {
-      "event": "Knicks vs Spurs NBA Finals Game 5 (Series Clincher)",
-      "network": "NBC",
-      "viewers_m": 24.5,
-      "peak_viewers_m": null,
-      "league": "NBA",
-      "storyIndex": 16,
-      "context": "Most-watched NBA Finals since 1998; capped the most-watched Finals series in 28 years.",
-      "capturedAt": "2026-06-17T14:24:17.062Z"
-    }
-  ],
+  "ratings": [],
   "ticket_prices": [],
   "sidebar": [
     {
-      "headline": "The person who could benefit most from WWE's unexpected Cody Rhodes-Sami Zayn twist",
-      "source": "NY Post Sports · 1h ago",
-      "article": "WWE rarely surprises anymore. Storylines telegraphed weeks in advance have become the norm, predictability the tax of long-term narrative planning. Yet the Cody Rhodes-Sami Zayn dynamic has defied expectation, creating genuine intrigue about who emerges strongest from their collision. The twist doesn't necessarily favor the headliners—sometimes supporting players absorb the residual heat and emerge positioned for elevation. In WWE's current calendar, that elevation could translate to WrestleMania profile, which translates to earning power. The unexpectedness alone has merit; in an era of spoiler culture and Reddit forecasts, WWE's ability to keep a storyline off-script is increasingly rare and increasingly valuable to fans starving for surprise."
+      "headline": "Bellingham set to start for England against Croatia",
+      "source": "BBC Sport · 1h ago",
+      "article": "Jude Bellingham will start for England in the World Cup opener against Croatia, deploying in the coveted number 10 role. The Real Madrid midfielder's selection marks a vote of confidence from the England coaching staff and positions him as a centerpiece of the attacking setup. Bellingham's club form—consistent, creative, goal-contributing—has earned the advancement from rotation player to starting fixture. His international assignment carries commercial weight: Bellingham is one of the sport's emerging superstars, and his visible role in England's World Cup campaign drives broadcasting interest and merchandise demand."
     },
     {
-      "headline": "Can Bellingham become England's superstar once more at the World Cup?",
-      "source": "BBC Sport · 4h ago",
-      "article": "Jude Bellingham has endured tough love from England head coach Thomas Tuchel, criticism designed to extract maximum output from one of football's most talented young midfielders. The World Cup build-up reveals a player responding to pressure rather than shrinking from it—the hallmark of a special talent with championship mentality. At 21, Bellingham has already proven himself in elite European competition; the World Cup stage offers him the platform to become England's defining figure for the next decade. Tuchel's hard-nosed approach may have seemed harsh, but it's produced focus and determination. Bellingham's tournament performance will shape not just England's campaign but his own trajectory toward global superstardom."
+      "headline": "Initial thoughts on the Maple Leafs hiring Jim Hiller as head coach",
+      "source": "Sportsnet · 2h ago",
+      "article": "The Toronto Maple Leafs' hire of Jim Hiller as head coach marks a significant departure from their prior regime. Hiller brings NHL experience and a reputation for tactical adjustment, but faces the entrenched challenge of translating regular-season success into playoff performance. The Leafs' fan base expects tangible results; Hiller's mandate is clear. His contract details and term are critical context for evaluating whether this represents a major reset or incremental adjustment."
     },
     {
-      "headline": "Gout Gout flies home for third in rarely-contested 150m behind US great Noah Lyles",
-      "source": "The Guardian · 13h ago",
-      "article": "Australian sprinter Gout Gout has set a new national 150m record of 14.96 seconds in Ostrava, finishing third behind American Noah Lyles in a rarely-contested showdown of elite short-distance runners. The result demonstrates Gout's rapid ascent in global sprinting hierarchy while underscoring Lyles' continued dominance in an event that sits between traditional Olympic distances. Gout's national record marks another increment in his development as a world-class sprinter, though the third-place finish suggests he remains a tier below Lyles in current form. The sparse field highlighted the niche appeal of 150m racing—an event that generates intrigue among track enthusiasts but lacks the mass appeal of the 100m or 200m."
+      "headline": "Knicks legends Walt Frazier, Patrick Ewing joining team for championship parade",
+      "source": "NY Post Sports · just now",
+      "article": "Walt Frazier and Patrick Ewing will finally participate in a New York Knicks championship parade, a ceremonial acknowledgment of their Hall of Fame contributions to the franchise. The pairing celebrates the Knicks' first championship in more than 50 years and reunites legendary figures with the fan base. The parade event drives merchandise sales, sponsor activation, and renewed interest in franchise history—economic benefits extending far beyond the ceremonial day."
     },
     {
-      "headline": "Davis Schneider helps Blue Jays find timely offence in win over Red Sox",
-      "source": "Sportsnet · 12h ago",
-      "article": "The Toronto Blue Jays showed flashes of offensive cohesion in Tuesday's victory over Boston, with Davis Schneider anchoring a lineup that executed timely hitting when it mattered. Schneider's performance illustrated what the Jays' offense is capable of when it clicks—aggressive at-bats in high-leverage situations and efficient baserunning. For a team still searching for consistent offensive identity, the win provides a template for what winning baseball looks like. Whether the Jays can replicate that approach consistently remains the central question of their season."
+      "headline": "Los Angeles Intuit Dome to Host 2027 LaverCup",
+      "source": "Sportico · 4h ago",
+      "article": "The Laver Cup, an annual tennis exhibition featuring European and World team competition, is returning to California in 2027 after a record-breaking event last year at the Chase Center in San Francisco. The Intuit Dome's selection positions the Clippers' new arena as a major tennis venue and validates its flexibility for non-basketball events. The decision reflects the venue's architectural capability and Southern California's premium sports audience concentration."
     },
     {
-      "headline": "Ali Brunson shares behind-the-scenes photos from Knicks championship run",
-      "source": "NY Post Sports · 1h ago",
-      "article": "The Knicks' wives and girlfriends have documented the team's grueling playoff run through the lens of personal access, sharing behind-the-scenes moments that humanize the championship experience beyond box scores and arena footage. Ali Brunson's photo gallery provides glimpses into the emotional toll of deep playoff runs—the investment, the pressure, the eventual vindication. These glimpses matter in the social media era, where franchise narrative extends beyond the hardwood into the domestic sphere, building community engagement and deepening fan connection to players as people rather than abstractions."
+      "headline": "'Travesty' if Stokes doesn't captain England again - Vaughan",
+      "source": "BBC Sport · 3h ago",
+      "article": "Former England Test captain Michael Vaughan has criticized the prospect of Ben Stokes being stripped of the captaincy over disciplinary violations. Vaughan's public support signals internal and external pressure on the England Cricket Board to retain Stokes despite the alleged midnight curfew breach. The captaincy debate carries broadcast and commercial implications—Stokes is England's most bankable cricket figure, and losing him as captain diminishes the team's marketability."
     },
     {
-      "headline": "Extraordinaire Messi makes more history in masterclass for the ages",
-      "source": "BBC Sport · 7h ago",
-      "article": "Lionel Messi, at nearly 39, continues to defy age and competitive decline, delivering performances that reshape World Cup narratives on a stage where younger superstars like Kylian Mbappe and Erling Haaland are establishing their own legacies. Messi's continued excellence at an age when most elite athletes have long retired underscores his technical mastery and competitive hunger. While Mbappe and Haaland offer the future, Messi remains the present—a reminder that excellence, once achieved, doesn't simply expire. His tournament performance will ultimately define how this World Cup is remembered."
+      "headline": "Mayweather, With $1.2B in Earnings, Facing Charges for $200K Bad Check",
+      "source": "Sportico · 3h ago",
+      "article": "Floyd Mayweather, despite career earnings exceeding $1.2 billion, is facing legal charges related to a $200,000 bad check. The incongruity underscores how personal financial mismanagement can coexist with massive wealth accumulation. The charges carry minimal material impact on Mayweather's net worth but represent reputational risk and legal overhead. The case illustrates the gap between celebrity wealth and operational financial discipline."
     }
   ],
   "poll": {
-    "question": "Does Scottie Scheffler complete the Grand Slam at the PGA Championship?",
+    "question": "Will Scottie Scheffler complete a career Grand Slam at Shinnecock Hills?",
     "options": [
-      "Yes — he's too dominant to be stopped now",
-      "No — the pressure and field intensity will break through",
-      "Too close to call — depends on which Scheffler shows up",
-      "Who cares — golf has bigger problems to solve"
+      "Yes – his skill set is built for major venues",
+      "No – Shinnecock's brutality neutralizes even his talent",
+      "Too close to call – he has the ability but the course is unforgiving",
+      "Depends on weather conditions during the tournament"
     ]
   },
   "predictions": [
     {
-      "statement": "Caitlin Clark finishes the 2024 WNBA regular season with an average of 19+ points per game.",
+      "statement": "The 2026 World Cup will post average viewership exceeding 2022's tournament despite expansion to 48 teams.",
       "probability": 72,
-      "rationale": "Clark's recent four-game winning streak has restored her form after the mid-season slump. She's played at All-Star caliber when healthy and focused. The Fever are playoff-positioned, increasing her usage and aggression down the stretch."
+      "rationale": "Early Brazil-Morocco ratings are tracking strong, and the expanded format creates more marquee fixtures per matchday. However, broader media fragmentation and streaming cannibalization pose headwinds. The early data is encouraging but full-tournament validation requires sustained audience through group play."
     },
     {
-      "statement": "Jim Hiller's Maple Leafs advance past the first round in the 2025 playoffs.",
+      "statement": "Scottie Scheffler will win the U.S. Open and complete a career Grand Slam.",
       "probability": 58,
-      "rationale": "Toronto has talent but a history of playoff underperformance. A new coach can provide tactical freshness and psychological reset, but the team's core hasn't fundamentally changed. First-round exits have become systemic; one hire doesn't guarantee breakthrough."
+      "rationale": "Scheffler is the betting favorite and has the technical game for Shinnecock, but U.S. Open venues have historically punished even elite players. McIlroy and Rahm are viable alternatives. The course's cruelty makes consensus picks dangerous; Scheffler's odds reflect his dominance but not the variance Shinnecock introduces."
     },
     {
-      "statement": "The Laver Cup at Intuit Dome in 2027 sets a new attendance record for the event.",
+      "statement": "Madison Square Garden will settle the data breach lawsuit within 18 months for under $50 million.",
       "probability": 65,
-      "rationale": "Los Angeles market is larger than San Francisco. Intuit Dome is a brand-new, premium venue with built-in marketing advantage. Celebrity access in LA amplifies appeal. The 2024 San Francisco event set records; momentum is real."
+      "rationale": "MSG's prior privacy violations create settlement leverage for plaintiffs, but class actions rarely award eight-figure damages unless proof of identity theft or direct financial harm is clear. MSG will fight certification; settlement is likely post-discovery to avoid protracted litigation and regulatory scrutiny tied to its venue operations."
     },
     {
-      "statement": "Mayweather's bad-check case resolves without jail time, but creates long-term brand perception damage.",
-      "probability": 79,
-      "rationale": "A $200K charge is financially trivial for someone with $1.2B in earnings; criminal conviction for financial crimes is avoidable with legal resources. But the reputational hit—the core of his brand—lingers regardless of outcome."
+      "statement": "Jimmie Johnson's TNT debut will average 1.8 million or more viewers.",
+      "probability": 52,
+      "rationale": "NASCAR broadcast viewership typically ranges 1.2-2.0M for non-playoff regular season races. Johnson's novelty as a seven-time champion analyst could drive incremental interest, but his first broadcast lacks the stakes of playoff racing. The debut will likely track average NASCAR ratings with modest upside from curiosity viewers."
     }
   ],
   "injuries": [],
   "picks": [
+    {
+      "matchup": "Miami Marlins @ Philadelphia Phillies",
+      "league": "MLB",
+      "type": "total",
+      "when": "Today 1:06 PM ET",
+      "pick": "Under 16.5",
+      "odds": "-125",
+      "edge": "The 16.5 total is inflated by the Phillies' offensive explosion in the first two games of this series (15 combined runs across 2 games), but the research briefing identifies a stabilizing factor: Sandy Alcantara (Marlins starter) has a solid 17.2% strikeout rate (18th percentile, better than his underlying peripherals suggest), and Miami has posted the second-best June ERA at 3.29—nearly a half-run better than Philadelphia's 3.88 mark. Andrew Painter (Phillies starter) carries a concerning 6.43 ERA, 1.57 WHIP, and 22 walks in 63 innings, suggesting regression after his recent 6-run outing. The market has anchored on the Phillies' 15-run explosion and hasn't fully accounted for Alcantara's stabilizing presence or Miami's elite June pitching profile. The Under 16.5 at -125 represents value when the true total should reflect two capable arms, not an offensive shootout.",
+      "confidence": "high",
+      "marketSnapshot": {
+        "capturedAt": "2026-06-17T17:48:22.110Z",
+        "markets": {
+          "h2h": {
+            "away": {
+              "price": -472,
+              "book": "DraftKings"
+            },
+            "home": {
+              "price": 400,
+              "book": "MyBookie.ag"
+            },
+            "draw": null
+          },
+          "spreads": {
+            "away": {
+              "point": -3.5,
+              "price": -110,
+              "book": "BetMGM"
+            },
+            "home": {
+              "point": 4.5,
+              "price": -143,
+              "book": "MyBookie.ag"
+            }
+          },
+          "totals": {
+            "over": {
+              "point": 16,
+              "price": -120,
+              "book": "Bovada"
+            },
+            "under": {
+              "point": 16.5,
+              "price": -125,
+              "book": "BetMGM"
+            }
+          }
+        },
+        "awayTeam": "Miami Marlins",
+        "homeTeam": "Philadelphia Phillies",
+        "commenceTime": "2026-06-17T17:06:00Z"
+      },
+      "_scheduledTs": 1781715960000
+    },
+    {
+      "matchup": "New York Mets @ Cincinnati Reds",
+      "league": "MLB",
+      "type": "moneyline",
+      "when": "Today 12:41 PM ET",
+      "pick": "Cincinnati Reds +390",
+      "odds": "390",
+      "edge": "The Mets are priced at -450 moneyline despite starting Nolan McLean, who carries a 6.38 ERA over his last five starts (1.54 WHIP) and is currently broken on the mound. Cincinnati's Nick Lodolo (2-1, 5.21 ERA) is the superior arm in this matchup, and the Reds are at home—a park and pitcher advantage not reflected in the heavy -450 chalk. The Mets' 32-41 record doesn't justify -450 moneyline odds when their starting pitcher is performing at a 6+ ERA clip in recent work. The line has overcorrected on season records and hasn't adjusted for McLean's recent collapse. The Reds' absence of Elly De La Cruz (out since June 1) is priced in; the edge is the overpricing of the Mets' starter and the home-field advantage the market is undervaluing at this price.",
+      "confidence": "medium",
+      "marketSnapshot": {
+        "capturedAt": "2026-06-17T17:48:22.112Z",
+        "markets": {
+          "h2h": {
+            "away": {
+              "price": -450,
+              "book": "BetMGM"
+            },
+            "home": {
+              "price": 390,
+              "book": "MyBookie.ag"
+            },
+            "draw": null
+          },
+          "spreads": {
+            "away": {
+              "point": -2.5,
+              "price": -114,
+              "book": "FanDuel"
+            },
+            "home": {
+              "point": 2.5,
+              "price": 105,
+              "book": "MyBookie.ag"
+            }
+          },
+          "totals": {
+            "over": {
+              "point": 8.5,
+              "price": -134,
+              "book": "BetRivers"
+            },
+            "under": {
+              "point": 9,
+              "price": -105,
+              "book": "MyBookie.ag"
+            }
+          }
+        },
+        "awayTeam": "New York Mets",
+        "homeTeam": "Cincinnati Reds",
+        "commenceTime": "2026-06-17T16:41:00Z"
+      },
+      "_scheduledTs": 1781714460000
+    },
+    {
+      "matchup": "San Francisco Giants @ Atlanta Braves",
+      "league": "MLB",
+      "type": "moneyline",
+      "when": "Tomorrow 7:16 PM ET",
+      "pick": "Atlanta Braves -145",
+      "odds": "-145",
+      "edge": "Atlanta (46-25) has a commanding 17-game win differential over San Francisco (29-43), and this is the only matchup with sufficient data where a clear talent/record mismatch exists. The Braves' win-loss record differential justifies moneyline chalk; the Giants are significantly depleted relative to Atlanta's roster strength. While specific starter ERAs were unavailable in the research briefing, the fundamental team-quality gap is large enough to support the -145 line. This is a generic quality edge (better team at home) backed by a concrete 17-game win differential, placing it at medium confidence on a thin slate.",
+      "confidence": "medium",
+      "marketSnapshot": {
+        "capturedAt": "2026-06-17T17:48:22.113Z",
+        "markets": {
+          "h2h": {
+            "away": {
+              "price": 131,
+              "book": "BetOnline.ag"
+            },
+            "home": {
+              "price": -145,
+              "book": "BetOnline.ag"
+            },
+            "draw": null
+          },
+          "spreads": {
+            "away": {
+              "point": 1.5,
+              "price": -176,
+              "book": "FanDuel"
+            },
+            "home": {
+              "point": -1.5,
+              "price": 146,
+              "book": "FanDuel"
+            }
+          },
+          "totals": {
+            "over": {
+              "point": 8.5,
+              "price": 107,
+              "book": "LowVig.ag"
+            },
+            "under": {
+              "point": 8.5,
+              "price": -120,
+              "book": "FanDuel"
+            }
+          }
+        },
+        "awayTeam": "San Francisco Giants",
+        "homeTeam": "Atlanta Braves",
+        "commenceTime": "2026-06-18T23:16:00Z"
+      },
+      "_scheduledTs": 1781824560000
+    },
     {
       "matchup": "Miami Marlins @ Philadelphia Phillies",
       "league": "MLB",
@@ -2710,37 +2874,37 @@
       "_pendingGrade": true
     }
   ],
-  "updatedAt": "2026-04-23T18:45:00Z",
+  "updatedAt": "2026-04-23T00:00:00Z",
   "highlights": [
     {
       "league": "NBA",
-      "title": "This kid is definitely spreading the news 🎶",
-      "videoId": "hjsM_ypZzSs",
-      "thumbnail": "https://img.youtube.com/vi/hjsM_ypZzSs/mqdefault.jpg",
-      "timeAgo": "Just now",
+      "title": "Chasing History: 2026 NBA Finals | MINI-MOVIE 🏆 | Presented by Michelob ULTRA",
+      "videoId": "S-ResPY3CGA",
+      "thumbnail": "https://img.youtube.com/vi/S-ResPY3CGA/mqdefault.jpg",
+      "timeAgo": "1h ago",
       "isFallback": false
     },
     {
       "league": "NFL",
-      "title": "Woody says the ridicule of Sirianni is RIDICULOUS 🗣️ What more do you want from the guy? | Get Up",
-      "videoId": "fCNackSFCnI",
-      "thumbnail": "https://img.youtube.com/vi/fCNackSFCnI/mqdefault.jpg",
-      "timeAgo": "1h ago",
+      "title": "Brian Urlacher HATES the Idea of the Bears Leaving Soldier Field",
+      "videoId": "EG8tchoud28",
+      "thumbnail": "https://img.youtube.com/vi/EG8tchoud28/mqdefault.jpg",
+      "timeAgo": "2h ago",
       "isFallback": false
     },
     {
       "league": "MLB",
-      "title": "THREE MVP FINALISTS from 2025 make a HUGE IMPACT last night! (Shohei, Big Dumper, Schwarber)",
-      "videoId": "imp_WbgfKmI",
-      "thumbnail": "https://img.youtube.com/vi/imp_WbgfKmI/mqdefault.jpg",
-      "timeAgo": "1h ago",
+      "title": "Former MLB reliever Adam Ottavino LIVE with Jacob Misiorowski! | Baseball &amp; Coffee",
+      "videoId": "6SEjheAAtcs",
+      "thumbnail": "https://img.youtube.com/vi/6SEjheAAtcs/mqdefault.jpg",
+      "timeAgo": "3h ago",
       "isFallback": false
     },
     {
       "league": "NHL",
-      "title": "Can you name a better birthday than this? Good luck 🎂🎁🏆",
-      "videoId": "lXyLP_Ct_uk",
-      "thumbnail": "https://img.youtube.com/vi/lXyLP_Ct_uk/mqdefault.jpg",
+      "title": "The Backup Goalie Who Changed the Stanley Cup Final 🚌",
+      "videoId": "5NqaDInad24",
+      "thumbnail": "https://img.youtube.com/vi/5NqaDInad24/mqdefault.jpg",
       "timeAgo": "1h ago",
       "isFallback": false
     },
@@ -2749,19 +2913,171 @@
       "title": "Toronto Tempo vs. Indiana Fever | FULL GAME HIGHLIGHTS | June 16, 2026",
       "videoId": "YYfbi6aLJaA",
       "thumbnail": "https://img.youtube.com/vi/YYfbi6aLJaA/mqdefault.jpg",
-      "timeAgo": "13h ago",
+      "timeAgo": "16h ago",
       "isFallback": false
     },
     {
       "league": "SOCCER",
-      "title": "Lionel Messi scores HAT TRICK, but should he have been shown a red card? | ESPN FC",
-      "videoId": "gWSd8Mwv98Q",
-      "thumbnail": "https://img.youtube.com/vi/gWSd8Mwv98Q/mqdefault.jpg",
+      "title": "Chris Richards on the USMNT's win vs. Paraguay &amp; facing pressure vs. Australia | The Pat McAfee Show",
+      "videoId": "-cl-uIkoF_A",
+      "thumbnail": "https://img.youtube.com/vi/-cl-uIkoF_A/mqdefault.jpg",
       "timeAgo": "Just now",
       "isFallback": false
     }
   ],
   "reels": [
+    {
+      "league": "SOCCER",
+      "title": "Chris Richards on the USMNT's win vs. Paraguay &amp; facing pressure vs. Australia | The Pat McAfee Show",
+      "videoId": "-cl-uIkoF_A",
+      "author": "ESPN FC",
+      "pubDate": "2026-06-17T17:37:40+00:00",
+      "link": "https://www.youtube.com/watch?v=-cl-uIkoF_A"
+    },
+    {
+      "league": "MLB",
+      "title": "Shohei Ohtani is HEATING UP at the plate 🔥 He's homered 4 times in his last 6 games!",
+      "videoId": "yYnzWiToOL4",
+      "author": "MLB",
+      "pubDate": "2026-06-17T17:32:43+00:00",
+      "link": "https://www.youtube.com/watch?v=yYnzWiToOL4"
+    },
+    {
+      "league": "MLB",
+      "title": "FIRST MLB PITCHER to 10 wins in 2026! Aaron Ashby has been DOMINANT for the Brewers!",
+      "videoId": "pSWfJTpHqaI",
+      "author": "MLB",
+      "pubDate": "2026-06-17T17:00:31+00:00",
+      "link": "https://www.youtube.com/watch?v=pSWfJTpHqaI"
+    },
+    {
+      "league": "MLB",
+      "title": "Prince Fielder still knows how to crush (From last year's East-West Classic game!)",
+      "videoId": "Xnp86bqNipY",
+      "author": "MLB",
+      "pubDate": "2026-06-17T17:00:25+00:00",
+      "link": "https://www.youtube.com/watch?v=Xnp86bqNipY"
+    },
+    {
+      "league": "NHL",
+      "title": "The Backup Goalie Who Changed the Stanley Cup Final 🚌",
+      "videoId": "5NqaDInad24",
+      "author": "NHL",
+      "pubDate": "2026-06-17T16:45:40+00:00",
+      "link": "https://www.youtube.com/watch?v=5NqaDInad24"
+    },
+    {
+      "league": "NBA",
+      "title": "Chasing History: 2026 NBA Finals | MINI-MOVIE 🏆 | Presented by Michelob ULTRA",
+      "videoId": "S-ResPY3CGA",
+      "author": "NBA",
+      "pubDate": "2026-06-17T16:30:06+00:00",
+      "link": "https://www.youtube.com/watch?v=S-ResPY3CGA"
+    },
+    {
+      "league": "SOCCER",
+      "title": "'WATCH THE LITTLE ONE!' 😂 Pat McAfee on Lionel Messi's HAT TRICK 🎩 | The Pat McAfee Show",
+      "videoId": "61dmMCHJJ-g",
+      "author": "ESPN FC",
+      "pubDate": "2026-06-17T16:27:23+00:00",
+      "link": "https://www.youtube.com/watch?v=61dmMCHJJ-g"
+    },
+    {
+      "league": "MLB",
+      "title": "Shohei Ohtani’s 4th HR in 6 games for Dodgers!!",
+      "videoId": "ROTELealw1s",
+      "author": "MLB",
+      "pubDate": "2026-06-17T16:18:34+00:00",
+      "link": "https://www.youtube.com/watch?v=ROTELealw1s"
+    },
+    {
+      "league": "NFL",
+      "title": "Brian Urlacher HATES the Idea of the Bears Leaving Soldier Field",
+      "videoId": "EG8tchoud28",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-06-17T16:00:40+00:00",
+      "link": "https://www.youtube.com/watch?v=EG8tchoud28"
+    },
+    {
+      "league": "NFL",
+      "title": "Stephen A. and Mad Dog DISAGREE about Pickens ‘Going to take him at his word!’ - Russo | First Take",
+      "videoId": "LgygWnWtpmc",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-06-17T15:45:54+00:00",
+      "link": "https://www.youtube.com/watch?v=LgygWnWtpmc"
+    },
+    {
+      "league": "MLB",
+      "title": "All 25 Kyle Schwarber home runs in 2026 so far! (First player to 25 HR) 🔔 | MLB Highlights",
+      "videoId": "Ccls6O1E7WM",
+      "author": "MLB",
+      "pubDate": "2026-06-17T15:30:08+00:00",
+      "link": "https://www.youtube.com/watch?v=Ccls6O1E7WM"
+    },
+    {
+      "league": "MLB",
+      "title": "Former MLB reliever Adam Ottavino LIVE with Jacob Misiorowski! | Baseball &amp; Coffee",
+      "videoId": "6SEjheAAtcs",
+      "author": "MLB",
+      "pubDate": "2026-06-17T15:17:59+00:00",
+      "link": "https://www.youtube.com/watch?v=6SEjheAAtcs"
+    },
+    {
+      "league": "SOCCER",
+      "title": "‘Cristiano Ronaldo, the GREATEST PLAYER to never win a World Cup’ - Stephen A. Smith 😬 | First Take",
+      "videoId": "pk3W-jU1ZzY",
+      "author": "ESPN FC",
+      "pubDate": "2026-06-17T15:16:00+00:00",
+      "link": "https://www.youtube.com/watch?v=pk3W-jU1ZzY"
+    },
+    {
+      "league": "SOCCER",
+      "title": "The crowd Kylian Mbappe garnered for his first game with Real Madrid 😲",
+      "videoId": "ZZMiqJycvcY",
+      "author": "ESPN FC",
+      "pubDate": "2026-06-17T15:15:30+00:00",
+      "link": "https://www.youtube.com/watch?v=ZZMiqJycvcY"
+    },
+    {
+      "league": "NBA",
+      "title": "Every NBA Finals MVP in History! (1969-2026)",
+      "videoId": "wf-O3Qxdewo",
+      "author": "NBA",
+      "pubDate": "2026-06-17T15:00:25+00:00",
+      "link": "https://www.youtube.com/watch?v=wf-O3Qxdewo"
+    },
+    {
+      "league": "SOCCER",
+      "title": "Lionel Messi, Erling Haaland and Kylian Mbappe DID NOT DISAPPOINT | ESPN FC",
+      "videoId": "jWOiFXwbNAo",
+      "author": "ESPN FC",
+      "pubDate": "2026-06-17T14:45:27+00:00",
+      "link": "https://www.youtube.com/watch?v=jWOiFXwbNAo"
+    },
+    {
+      "league": "SOCCER",
+      "title": "Argentinians celebrated the hat trick from Messi with all their hearts 🤩🇦🇷⚽️",
+      "videoId": "yu8tEKmSH1o",
+      "author": "ESPN FC",
+      "pubDate": "2026-06-17T14:30:16+00:00",
+      "link": "https://www.youtube.com/watch?v=yu8tEKmSH1o"
+    },
+    {
+      "league": "SOCCER",
+      "title": "Messi's RED CARD debate",
+      "videoId": "tquFyvmMheA",
+      "author": "ESPN FC",
+      "pubDate": "2026-06-17T14:24:52+00:00",
+      "link": "https://www.youtube.com/watch?v=tquFyvmMheA"
+    },
+    {
+      "league": "SOCCER",
+      "title": "Ronaldo to score 3 like Messi?",
+      "videoId": "n1RDrZPUNvI",
+      "author": "ESPN FC",
+      "pubDate": "2026-06-17T14:14:22+00:00",
+      "link": "https://www.youtube.com/watch?v=n1RDrZPUNvI"
+    },
     {
       "league": "NBA",
       "title": "This kid is definitely spreading the news 🎶",
@@ -2779,36 +3095,12 @@
       "link": "https://www.youtube.com/watch?v=J1wkcgrRs6I"
     },
     {
-      "league": "SOCCER",
-      "title": "Lionel Messi scores HAT TRICK, but should he have been shown a red card? | ESPN FC",
-      "videoId": "gWSd8Mwv98Q",
-      "author": "ESPN FC",
-      "pubDate": "2026-06-17T14:00:06+00:00",
-      "link": "https://www.youtube.com/watch?v=gWSd8Mwv98Q"
-    },
-    {
-      "league": "SOCCER",
-      "title": "Everyone is a fan of Zidane 😭👏 (via paulpogba/TT)",
-      "videoId": "wb0Pn0HJrpk",
-      "author": "ESPN FC",
-      "pubDate": "2026-06-17T14:00:03+00:00",
-      "link": "https://www.youtube.com/watch?v=wb0Pn0HJrpk"
-    },
-    {
-      "league": "SOCCER",
-      "title": "Erling Haaland wanted to make a statement - Kieran Gibbs | ESPN FC",
-      "videoId": "jdGzUtC76D0",
-      "author": "ESPN FC",
-      "pubDate": "2026-06-17T13:58:28+00:00",
-      "link": "https://www.youtube.com/watch?v=jdGzUtC76D0"
-    },
-    {
-      "league": "SOCCER",
-      "title": "Kylian Mbappe and Michael Olise SHINE for France: LEVELS TO GO?! | ESPN FC",
-      "videoId": "_j2tycqK0j0",
-      "author": "ESPN FC",
-      "pubDate": "2026-06-17T13:52:47+00:00",
-      "link": "https://www.youtube.com/watch?v=_j2tycqK0j0"
+      "league": "MLB",
+      "title": "BIGGEST SURPRISES of the 2026 MLB season so far! 😯 (All 30 teams)",
+      "videoId": "7tobxKJON4M",
+      "author": "MLB",
+      "pubDate": "2026-06-17T14:00:04+00:00",
+      "link": "https://www.youtube.com/watch?v=7tobxKJON4M"
     },
     {
       "league": "NFL",
@@ -2819,44 +3111,12 @@
       "link": "https://www.youtube.com/watch?v=fCNackSFCnI"
     },
     {
-      "league": "SOCCER",
-      "title": "Brad Wright-Phillips speaks on Messi's hat trick",
-      "videoId": "-cTsLNSW99o",
-      "author": "ESPN FC",
-      "pubDate": "2026-06-17T13:26:57+00:00",
-      "link": "https://www.youtube.com/watch?v=-cTsLNSW99o"
-    },
-    {
-      "league": "SOCCER",
-      "title": "Will Cristiano Ronaldo follow up with a performance like Lionel Messi’s?! | ESPN FC",
-      "videoId": "8P3jat4OlW4",
-      "author": "ESPN FC",
-      "pubDate": "2026-06-17T13:25:56+00:00",
-      "link": "https://www.youtube.com/watch?v=8P3jat4OlW4"
-    },
-    {
       "league": "NFL",
       "title": "How Doug Williams Broke Barriers in Football #nfl #history",
       "videoId": "hN3D_2nLy94",
       "author": "NFL on ESPN",
       "pubDate": "2026-06-17T13:24:25+00:00",
       "link": "https://www.youtube.com/watch?v=hN3D_2nLy94"
-    },
-    {
-      "league": "SOCCER",
-      "title": "MESSI IS A ‘MADMAN!’ Lionel Messi showed shades of ‘THE OLD’ Messi - Shaka Hislop | ESPN FC",
-      "videoId": "0ykU2yzOEo4",
-      "author": "ESPN FC",
-      "pubDate": "2026-06-17T13:18:31+00:00",
-      "link": "https://www.youtube.com/watch?v=0ykU2yzOEo4"
-    },
-    {
-      "league": "SOCCER",
-      "title": "Electric ⚡️ (via @Andxion_/TT)",
-      "videoId": "Z02pQe3UYCk",
-      "author": "ESPN FC",
-      "pubDate": "2026-06-17T13:15:37+00:00",
-      "link": "https://www.youtube.com/watch?v=Z02pQe3UYCk"
     },
     {
       "league": "NFL",
@@ -2907,84 +3167,12 @@
       "link": "https://www.youtube.com/watch?v=huiR66zyFeQ"
     },
     {
-      "league": "MLB",
-      "title": "The LONGEST home run of 2026 (so far!) &amp; the BEST MLB Highlights from 6/16/26!",
-      "videoId": "GYrtbICiFZc",
-      "author": "MLB",
-      "pubDate": "2026-06-17T11:00:01+00:00",
-      "link": "https://www.youtube.com/watch?v=GYrtbICiFZc"
-    },
-    {
-      "league": "MLB",
-      "title": "Highlights from ALL GAMES on 6/16 (Shohei’s homer is the difference, Schwarber’s 25th HR and MORE!)",
-      "videoId": "JBv8LlK1DOg",
-      "author": "MLB",
-      "pubDate": "2026-06-17T10:00:09+00:00",
-      "link": "https://www.youtube.com/watch?v=JBv8LlK1DOg"
-    },
-    {
-      "league": "MLB",
-      "title": "PIRATES vs. ATHLETICS Full Game Highlights (6/16/26) | MLB Highlights",
-      "videoId": "Rw9WkmH5uxU",
-      "author": "MLB",
-      "pubDate": "2026-06-17T05:54:04+00:00",
-      "link": "https://www.youtube.com/watch?v=Rw9WkmH5uxU"
-    },
-    {
-      "league": "MLB",
-      "title": "TIGERS vs. ASTROS Full Game Highlights (6/16/26) | MLB Highlights",
-      "videoId": "73B3_9fqpco",
-      "author": "MLB",
-      "pubDate": "2026-06-17T05:46:01+00:00",
-      "link": "https://www.youtube.com/watch?v=73B3_9fqpco"
-    },
-    {
-      "league": "MLB",
-      "title": "ORIOLES vs. MARINERS Full Game Highlights (6/16/26) | MLB Highlights",
-      "videoId": "mckcsQUZanQ",
-      "author": "MLB",
-      "pubDate": "2026-06-17T05:38:28+00:00",
-      "link": "https://www.youtube.com/watch?v=mckcsQUZanQ"
-    },
-    {
-      "league": "MLB",
-      "title": "PADRES vs. CARDINALS Full Game Highlights (6/16/26) | MLB Highlights",
-      "videoId": "HXCwKzwSjTo",
-      "author": "MLB",
-      "pubDate": "2026-06-17T05:13:03+00:00",
-      "link": "https://www.youtube.com/watch?v=HXCwKzwSjTo"
-    },
-    {
-      "league": "MLB",
-      "title": "RAYS vs. DODGERS Full Game Highlights (6/16/26) | MLB Highlights",
-      "videoId": "qwp5kKow5U4",
-      "author": "MLB",
-      "pubDate": "2026-06-17T04:54:55+00:00",
-      "link": "https://www.youtube.com/watch?v=qwp5kKow5U4"
-    },
-    {
       "league": "WNBA",
       "title": "Toronto Tempo vs. Indiana Fever | FULL GAME HIGHLIGHTS | June 16, 2026",
       "videoId": "YYfbi6aLJaA",
       "author": "WNBA",
       "pubDate": "2026-06-17T01:46:56+00:00",
       "link": "https://www.youtube.com/watch?v=YYfbi6aLJaA"
-    },
-    {
-      "league": "NFL",
-      "title": "Patrick Mahomes going to watch the World Cup in Kansas City! (🎥 via @blake.aerni/IG)",
-      "videoId": "dPPm5TYCVYY",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-06-17T01:15:33+00:00",
-      "link": "https://www.youtube.com/watch?v=dPPm5TYCVYY"
-    },
-    {
-      "league": "NFL",
-      "title": "How Knicks fans should view this championship run",
-      "videoId": "bOnE_ht6U-I",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-06-17T00:00:28+00:00",
-      "link": "https://www.youtube.com/watch?v=bOnE_ht6U-I"
     },
     {
       "league": "NHL",
@@ -3057,30 +3245,6 @@
       "author": "NHL",
       "pubDate": "2026-06-16T15:30:07+00:00",
       "link": "https://www.youtube.com/watch?v=EuDtYkQ0_Uo"
-    },
-    {
-      "league": "NBA",
-      "title": "NBA on Fire 2025 - 2026 Season - Episode 34",
-      "videoId": "-nxla37LGts",
-      "author": "NBA",
-      "pubDate": "2026-06-16T15:18:07+00:00",
-      "link": "https://www.youtube.com/watch?v=-nxla37LGts"
-    },
-    {
-      "league": "NBA",
-      "title": "The Night 60 Million Watched Jordan &amp; The Bulls Capture Their 4th Championship | 1996 NBA Finals",
-      "videoId": "ttqmgb7qS2g",
-      "author": "NBA",
-      "pubDate": "2026-06-16T14:56:55+00:00",
-      "link": "https://www.youtube.com/watch?v=ttqmgb7qS2g"
-    },
-    {
-      "league": "NHL",
-      "title": "NHL x Amazon Music: Rise Up by Jelly Roll. Stanley Cup Champions.",
-      "videoId": "gqHuZWBPEY0",
-      "author": "NHL",
-      "pubDate": "2026-06-16T13:15:11+00:00",
-      "link": "https://www.youtube.com/watch?v=gqHuZWBPEY0"
     }
   ]
 }
