@@ -115,4 +115,14 @@ function main() {
   }
 }
 
-main();
+// Fail safe: if the scrub itself throws unexpectedly, do NOT abort the job.
+// generate.js already applies the same validity gate, so the worst case is the
+// publish proceeds with generate.js's output ungated — far better than the job
+// erroring out and the page going stale (which is exactly what happened when
+// the earlier require()-based version crashed). We log loudly and exit 0.
+try {
+  main();
+} catch (e) {
+  console.error('[scrub] non-fatal error, leaving stories.json as generate.js produced it:', e && e.stack || e);
+  process.exit(0);
+}
