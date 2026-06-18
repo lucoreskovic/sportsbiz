@@ -18,7 +18,7 @@
 //   4. That game time is within [now - 3h, now + 36h]: not already finished,
 //      not days/weeks away (kills offseason/futures lines).
 
-const fs = require('fs');
+import fs from 'fs';
 
 const FILE = 'stories.json';
 
