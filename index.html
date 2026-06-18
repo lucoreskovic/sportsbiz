@@ -203,6 +203,79 @@
   @keyframes spin { to { transform: rotate(360deg); } }
   .page { max-width: 1100px; margin: 0 auto; padding: 20px 24px 40px; display: grid; grid-template-columns: 1fr 260px; gap: 28px; align-items: start; }
   @media (max-width: 760px) { .page { grid-template-columns: 1fr; } }
+
+  /* ─── PHONE LAYOUT (<=600px) ──────────────────────────────────────────────
+     One consolidated pass so the site fits and reads well on iOS/Android.
+     Tightens edge padding, scales down oversized type, stacks the header,
+     wraps the record strips, and enlarges tap targets. */
+  @media (max-width: 600px) {
+    /* Reclaim horizontal space — 24px side padding wastes a lot on a phone. */
+    .site-header { padding: 0 14px; }
+    .page { padding: 16px 14px 32px; gap: 22px; }
+
+    /* Header: let the logo and date stack instead of fighting for one row. */
+    .header-top { padding: 14px 0 10px; gap: 8px; }
+    .logo { font-size: 24px; }
+    .logo-sub { font-size: 8px; letter-spacing: .18em; }
+    .header-dateline { font-size: 9px; }
+
+    /* Nav already wraps; make pills comfortable thumb targets and let the row
+       scroll horizontally if needed rather than wrapping into many lines. */
+    .nav-bar { gap: 6px; padding: 8px 0; flex-wrap: nowrap; overflow-x: auto; -webkit-overflow-scrolling: touch; }
+    .nav-bar::-webkit-scrollbar { display: none; }
+    .nav-pill { padding: 8px 12px; font-size: 12px; white-space: nowrap; flex: 0 0 auto; }
+    .nav-menu { left: 0; right: auto; min-width: 200px; }
+    .subnav-bar { overflow-x: auto; -webkit-overflow-scrolling: touch; flex-wrap: nowrap; }
+    .subnav-bar::-webkit-scrollbar { display: none; }
+    .subnav-pill { white-space: nowrap; flex: 0 0 auto; padding: 8px 11px; }
+
+    /* Ticker: smaller, still scrolls. */
+    .ticker-inner { font-size: 11px; }
+
+    /* Headlines and body type, scaled for a narrow column. */
+    .lead-headline { font-size: 19px; line-height: 1.2; }
+
+    /* Record strips: stack the label and let the stat cells share a row so a
+       wide 4-column strip doesn't overflow off-screen. */
+    .picks-record-strip { min-height: 0; padding: 4px 0; }
+    .prs-cell-title { flex: 1 1 100%; padding: 10px 14px 6px; }
+    .prs-cell { flex: 1 1 0; min-width: 0; padding: 8px 10px; }
+    .prs-cell-value { font-size: 15px; }
+    .prs-cell-sub { font-size: 9px; }
+    .prs-expand { padding: 8px 14px; }
+
+    /* Pick history modal: full-bleed on phone. */
+    .ph-header { padding: 16px; gap: 10px; }
+    .ph-title { font-size: 17px; }
+    .ph-stat { padding: 12px 8px; }
+    .ph-stat-value { font-size: 20px; }
+
+    /* Any grid that uses min column widths near/over phone width: let them go
+       single-column so nothing forces a horizontal scrollbar. */
+    .dt-list,
+    .main-scores-grid,
+    .gd-leaders { grid-template-columns: 1fr; }
+
+    /* Poll options on the sidebar: comfortable tap height. */
+    .poll-option-btn { padding: 10px 12px; font-size: 13px; }
+
+    /* Article modal: use the screen instead of floating with big margins. */
+    .article-modal-overlay { padding: 0; align-items: stretch; }
+    .article-modal { padding: 20px 16px 32px; border-radius: 0; min-height: 100%; max-width: 100%; }
+    .article-modal-headline { font-size: 21px; }
+    .article-modal-body { font-size: 15px; }
+    .article-modal-close { top: 12px; right: 14px; font-size: 24px; padding: 4px; }
+
+    /* Prevent any single wide element from making the whole page scroll
+       sideways on iOS (a common mobile annoyance). Wide tables scroll inside
+       their own wrapper instead. */
+    html, body { overflow-x: hidden; }
+    .mt-val-row { font-size: 13px; }
+
+    /* iOS zooms the page when you focus an input with font-size < 16px. Force
+       16px on the search and date inputs so tapping them doesn't jolt the view. */
+    .scores-date-input, #lab-search { font-size: 16px; }
+  }
   .loading-state { text-align: center; padding: 60px 0; }
   .spinner { width: 32px; height: 32px; border: 2px solid var(--rule); border-top-color: var(--green); border-radius: 50%; animation: spin .7s linear infinite; margin: 0 auto 14px; }
   .loading-title { font-size: 13px; font-weight: 600; color: var(--ink-2); }
@@ -1163,6 +1236,7 @@
   @media (max-width: 768px) {
     .reels-stack {
       height: calc(100vh - 250px); /* leaves room for header + filter bar */
+      height: calc(100dvh - 250px); /* dvh accounts for the iOS address bar */
       overflow-y: scroll;
       scroll-snap-type: y mandatory;
       scroll-behavior: smooth;
@@ -1170,6 +1244,7 @@
     }
     .reels-card {
       height: calc(100vh - 250px);
+      height: calc(100dvh - 250px);
       scroll-snap-align: start;
       scroll-snap-stop: always;
       display: flex; flex-direction: column;
@@ -1638,6 +1713,7 @@
     color: var(--ink-2);
     border-radius: 2px;
     margin-bottom: 10px;
+  }
   /* Valuations "show more" expander button */
   .mt-val-expand {
     display: block;
