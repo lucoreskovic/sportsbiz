@@ -31,6 +31,9 @@ jobs:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}
 
+      - name: Validity gate (scrub phantom/stale picks before publish)
+        run: node scrub-picks.js
+
       - name: Push via GitHub API
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
