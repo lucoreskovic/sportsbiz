@@ -2,99 +2,72 @@
   "clusters": [
     {
       "category": "media",
-      "importance": 9,
-      "leadHeadline": "Stanley Cup Playoffs most-watched on record",
-      "leadSource": "Sports Media Watch · 1h ago",
-      "leadUrl": "https://www.sportsmediawatch.com/2026/06/stanley-cup-playoffs-most-watched-on-record/",
-      "summary": "The Stanley Cup Playoffs drew their highest viewership in recorded history, capping a breakout year for NHL media performance across all platforms and demos.",
-      "article": "The NHL's Stanley Cup Playoffs achieved record viewership this spring, marking the culmination of a remarkable 12-month period for the league's broadcast footprint. While Sports Media Watch did not disclose the specific viewership number in the headline story, the designation of \"most-watched on record\" signals a decisive victory over prior benchmarks — including the 1998 run that had held the benchmark for nearly three decades. The timing matters: this comes after the NBA wrapped its own most-watched postseason since 1998, suggesting a broad resurgence in traditional sports viewership heading into the summer. For the NHL, which has long struggled for cable and streaming prominence outside its core regional markets, a record playoffs run represents validation of its investment in primetime exposure and its bet on expanded playoff formats. The league's media partners — which include ESPN, ABC, and regional broadcasters — now have concrete ammunition for upcoming rights negotiations. This also arrives as PMC's acquisition of Vox Media's sports properties (including SBNation) reshapes the media ownership landscape; record playoff ratings give the league leverage to command higher carriage fees and better scheduling on partner networks. The full breakdown by network, demo, and streaming platform will arrive in detailed Sports Media Watch analysis in coming days, but the headline alone signals the playoffs succeeded in capturing casual and committed audiences alike.",
+      "importance": 8,
+      "leadHeadline": "Sportico Parent PMC to Acquire SB Nation and Other VoxBrands",
+      "leadSource": "Sportico · 6h ago",
+      "leadUrl": "https://www.sportico.com/business/media/2026/pmc-buy-vox-media-sb-nation-sportico-1234936487/",
+      "summary": "Penske Media Corp., owner of Sportico, is acquiring key Vox Media brands including SB Nation in a consolidation that reshapes sports media ownership and editorial scope.",
+      "article": "Penske Media Corp. announced Thursday it is acquiring certain Vox Media brands, including SB Nation, in a deal that significantly expands the sports and culture publishing footprint of the company already operating Sportico. The acquisition brings under one roof two of the industry's most influential digital properties—Sportico's hard-hitting business and salary-cap coverage paired with SB Nation's team-centric fan community networks across all major leagues. Penske executives framed the deal as a strategic consolidation that positions the combined entity to compete more effectively against legacy sports media incumbents and newer streamers investing in sports content.\n\nThe move represents a significant reshuffling of sports media ownership. SB Nation, founded in 2005, had built a sprawling network of 300+ independent team blogs before Vox Media's acquisition in 2011. Under Vox's ownership—itself struggling with the economics of digital-first publishing—SB Nation remained a traffic powerhouse but lacked the editorial resources and business infrastructure to fully monetize its fanbase reach. Penske's acquisition addresses that gap. Penske Media already operates Sportico (acquired 2023), The Hollywood Reporter, Variety, and Rolling Stone, giving it a diversified portfolio spanning business analysis, entertainment, and culture.\n\nFor sports business readers, the consolidation matters because it signals confidence in sports content's revenue potential at a time when traditional publishers are retreating. It also creates a single platform with both franchise-level analytics (Sportico's strength) and hyper-local fandom intelligence (SB Nation's edge)—a combination that could reshape how teams and leagues think about fan engagement data and editorial credibility.",
       "tweets": []
     },
     {
-      "category": "revenue",
+      "category": "media",
       "importance": 8,
-      "leadHeadline": "NBA wraps year of highs with most-watched playoffs since 1998",
-      "leadSource": "Sports Media Watch · 3h ago",
-      "leadUrl": "https://www.sportsmediawatch.com/2026/06/nba-playoffs-most-watched-since-1998/",
-      "summary": "The NBA's 2026 playoffs delivered their highest viewership since 1998, capping a year of record or near-record ratings across all major media properties and signaling sustained appetite for premium basketball content.",
-      "article": "The NBA finished its 2026 calendar with a playoff run that drew the most viewers since 1998 — a 28-year benchmark reset that validates the league's media strategy and its expansion into streaming platforms. While the granular viewership numbers remain pending in the full Sports Media Watch report, the headline achievement is unambiguous: the league recaptured the casual audience that had drifted toward fragmented streaming and social media in prior years. This follows a regular season that also posted strong numbers and reflects the cumulative benefit of the NBA's aggressive competition with entertainment platforms, its embrace of in-season tournaments, and its primetime scheduling discipline. For media partners ESPN, ABC, TNT, and Amazon Prime Video (which carries select playoff games), record playoff ratings translate directly into leverage in the 2027 media rights negotiation — the marquee broadcast deal expected to redefine sports television economics. The league can now argue for premium pricing based on demonstrable audience growth rather than prior-year declines. The timing also intersects with broader industry currents: the Stanley Cup's own record-setting playoffs and the NFL's sustained dominance suggest that premium live sports remain the last true mass-audience category in television. Streaming platforms, notably, have doubled down on live sports as a subscriber acquisition tool, which could accelerate the next round of rights deals. The full demographic and platform breakdowns will shape which partners emerge as the primary beneficiaries of this ratings resurgence.",
-      "tweets": [
-        {
-          "url": "https://twitter.com/FOS/status/2066995972157153416",
-          "html": "<blockquote class=\"twitter-tweet\" align=\"left\" data-dnt=\"true\" data-theme=\"dark\"><p lang=\"en\" dir=\"ltr\">The Knicks&#39; 4-1 series win over the Spurs in the NBA Finals averaged 20.6 million viewers on ABC.<br><br>It&#39;s the most-watched NBA Finals since 1998, when Michael Jordan and the Bulls beat the Jazz.</p>&mdash; Front Office Sports (@FOS) <a href=\"https://x.com/FOS/status/2066995972157153416?ref_src=twsrc%5Etfw\">June 16, 2026</a></blockquote>\n\n",
-          "author_name": "Front Office Sports",
-          "author_url": "https://x.com/FOS"
-        }
-      ]
-    },
-    {
-      "category": "labor",
-      "importance": 7,
-      "leadHeadline": "Protect College Sports Act passes Senate committee amid continued Big Ten, SEC opposition",
+      "leadHeadline": "UFC Freedom 250 delivers record-breaking viewership for Paramount+ across United States, Latin America",
       "leadSource": "CBS Sports · 1h ago",
-      "leadUrl": "https://www.cbssports.com/college-football/news/protect-college-sports-act-passes-senate-committee-big-ten-sec-opposition/",
-      "summary": "The bipartisan college sports reform bill advanced out of Senate committee with backing from mid-tier conferences despite persistent resistance from the sport's two power conferences, setting up a floor vote in coming weeks.",
-      "article": "The Protect College Sports Act cleared a Senate committee vote Thursday, advancing the most comprehensive college athletics reform bill in a decade toward a full chamber floor vote — despite ongoing opposition from the Big Ten and SEC, which together command roughly half of collegiate football's television value. The bill, which carries bipartisan sponsorship and addresses name-image-likeness (NIL) regulation, transfer portal governance, and revenue-sharing frameworks, reflects a year-long congressional effort to standardize rules that have devolved into a patchwork of state-level regulations and conference-by-conference enforcement. The Big Ten and SEC have consistently argued that federal legislation threatens their competitive autonomy and revenue models, particularly as both conferences negotiate massive media rights deals. However, the committee's approval suggests momentum has shifted toward standardization — a position backed by mid-tier conferences (ACC, Big 12, American Athletic Conference) that view federal guardrails as preferable to the current Wild West. The next hurdle is a Senate floor vote, which could arrive as soon as late spring. If the bill passes both chambers, it would represent the first federal intervention in college sports governance since the NCAA's founding in 1906, effectively diminishing the NCAA's remaining authority over recruiting, transfers, and compensation. For programs and conferences, passage means compliance deadlines and potential revenue reallocation — but also clarity on rules that have invited legal challenges. The SEC and Big Ten's opposition has not blocked the bill, suggesting that even power-conference lobbying has limits when a broader coalition backs reform.",
+      "leadUrl": "https://www.cbssports.com/ufc/news/ufc-freedom-250-record-breaking-viewership/",
+      "summary": "UFC's event at the White House more than doubled Paramount+'s previous streaming record, signaling strong appetite for combat sports and White House-adjacent programming on paid platforms.",
+      "article": "UFC Freedom 250, held at the White House, delivered record-breaking viewership for Paramount+ across the United States and Latin America, more than doubling the streaming platform's previous audience high set by UFC 324. The fighter roster and venue—the White House itself—combined to drive both casual and core combat sports viewers to Paramount+, the primary home of UFC events since the league's exclusive streaming deal with the platform in 2023.\n\nThe record matters for three reasons. First, it proves Paramount+ can move significant concurrent viewership for combat sports outside traditional cable and broadcast windows—a crucial validation for a streamer still building its sports subscriber base. Second, it demonstrates that novelty events (a White House venue is objectively unusual) can still drive mainstream crossover audiences into paid platforms, a playbook both UFC and Paramount+ will weaponize again. Third, the Latin American performance suggests UFC's international expansion strategy is working: the league built dedicated Spanish-language commentary and promotional infrastructure, and it paid off in measurable viewership.\n\nFor media strategists, the takeaway is straightforward: combat sports remain one of the few live categories that reliably drive platform trials and upgrades. Paramount+ will lean harder on UFC for subscriber acquisition through 2025-26, which means more spectacle events and premium-tier pricing. The UFC, meanwhile, has proof it can monetize non-traditional venues—expect more events at unexpected locations.",
       "tweets": []
     },
     {
       "category": "media",
       "importance": 7,
-      "leadHeadline": "Sportico Parent PMC to Acquire SB Nation and Other Vox Brands",
-      "leadSource": "Sportico · 5h ago",
-      "leadUrl": "https://www.sportico.com/business/media/2026/pmc-buy-vox-media-sb-nation-sportico-1234936487/",
-      "summary": "Penske Media Corp., owner of Sportico, is acquiring SBNation and other Vox Media sports properties in a consolidation that reshapes sports media ownership and editorial independence.",
-      "article": "Penske Media Corp., the publishing powerhouse behind Sportico, announced Thursday it is acquiring certain Vox Media brands including SBNation, The Verge's tech coverage, and related digital properties in a deal that accelerates consolidation in sports media and bolsters PMC's footprint across technology, culture, and sports verticals. The transaction does not include Vox's news operations but reflects Penske's strategic pivot toward premium digital media and niche vertical domination. Sportico, which PMC acquired in 2022 and repositioned as a business-focused sports publication, now gains SBNation's network of team-specific fan communities and franchise analysis — a complement to Sportico's institutional and executive audience. For SBNation writers and editors, the acquisition raises questions about editorial independence and cost structure; Penske has a history of integrating acquisitions into centralized editorial operations. The deal also signals that standalone sports media outlets struggle to compete with conglomerate-owned publishers (ESPN, Sports Illustrated parent Authentic Brands) and with the flood of free sports content from league-controlled platforms and social media. SBNation's value lies primarily in its fan communities and search engine optimization advantages, not its premium subscription base — a reality that may shape how PMC deploys the property. For Vox Media, the sale offloads a category that never achieved profitability at scale and allows the company to focus on news, policy, and culture verticals that better support subscriber economics. Sportico's editorial standards and PMC's proven ability to build premium verticals suggest the sports properties will be maintained at current quality, but the consolidation is another marker of sports media's structural challenges.",
+      "leadHeadline": "Stanley Cup Playoffs most-watched on record",
+      "leadSource": "Sports Media Watch · 3h ago",
+      "leadUrl": "https://www.sportsmediawatch.com/2026/06/stanley-cup-playoffs-most-watched-on-record/",
+      "summary": "The Stanley Cup Playoffs achieved record viewership across the 2026 postseason, cementing hockey's grip on spring sports audiences and validating league-wide investment in media partnerships.",
+      "article": "The 2026 Stanley Cup Playoffs reached viewership records across all metrics, according to Sports Media Watch, delivering the most-watched postseason in NHL history. The surge reflects a combination of compelling matchups, star-driven narratives, and expanded distribution across ESPN, ABC, and regional sports networks that has made playoff hockey appointment television for both traditional and cord-cutting audiences.\n\nThe record carries strategic weight. It validates the NHL's 2021 media rights gamble—a $2.58 billion annual contract with ESPN and Turner Sports that moved marquee games away from NBC to cable and streaming. At the time, critics worried the shift would shrink audiences by fragmenting viewership across multiple networks and platforms. Instead, the league has grown its audience each season, and the 2026 playoffs represent the steepest climb yet.\n\nFor the league, the numbers translate to negotiating leverage. When the ESPN deal resets in 2032, Commissioner Gary Bettman will enter talks with a full archive of record-breaking viewership as proof that NHL hockey commands premium rights fees. The performance also justifies the league's investment in regional sports networks (most notably its minority stake in Altitude Sports) and its partnership with Amazon Prime Video for select regular-season games.\n\nBut the bigger story is what drives the viewership: hockey has captured the spring sports audience during a window when NFL and NBA content is dormant. That window is now worth hundreds of millions in annual media value. Rivals—particularly MLS, which plays through spring into fall—will watch closely.",
       "tweets": []
     },
     {
       "category": "revenue",
       "importance": 6,
-      "leadHeadline": "Knicks Fans Swarm Lower Manhattan in One of Largest NYC Parades Ever",
-      "leadSource": "Front Office Sports · 1h ago",
-      "leadUrl": "https://frontofficesports.com/knicks-fans-swarm-lower-manhattan-in-one-of-largest-nyc-parades-ever/",
-      "summary": "The Knicks' championship parade drew one of the largest crowds in New York City history, with the city deploying 10,000 police officers — a validation of the franchise's turnaround and the economic lift of a major title.",
-      "article": "The New York Knicks' championship parade Thursday drew one of the largest crowds in New York City history, with the city's police department deploying 10,000 officers along a one-mile route through Lower Manhattan to manage pedestrian traffic and security. The sheer scale of turnout — comparable to historic ticker-tape parades for World Series winners, the 1969 moon landing, and Super Bowl-winning teams — signals the depth of pent-up demand for a Knicks title after a 51-year drought since 1970. For the Knicks organization and Madison Square Garden Sports, the parade vindicated a front-office strategy focused on sustained roster building and veteran acquisition. Economically, championship parades generate immediate spillover benefits: hospitality, retail, and transportation revenue; media rights premiums for future seasons; and jersey and merchandise sales spikes that can sustain for 18 months post-title. MSG's stock benefited from the parade spectacle, and the organization can now command higher luxury-suite pricing and sponsorship rates for next season. The parade also serves as a marketing event for the city itself, driving tourism and rebranding New York's sports identity after a decade of dominance by Boston, Los Angeles, and Kansas City franchises. For the broader NBA, a Knicks title in a major media market reinforces the league's appeal to casual audiences and supports its argument for premium broadcast rates in the next media rights cycle. The NYPD's deployment of 10,000 officers underscores the parade's scale and the city's commitment to managing the event safely — a detail that also highlights the Knicks' cultural weight in American sports.",
-      "tweets": [
-        {
-          "url": "https://twitter.com/ESPNNBA/status/2067607067070755033",
-          "html": "<blockquote class=\"twitter-tweet\" align=\"left\" data-dnt=\"true\" data-theme=\"dark\"><p lang=\"en\" dir=\"ltr\">NYC SCENES FROM ABOVE 😳<br><br>Fans in New York showed out for the Knicks championship parade 🔥 <a href=\"https://t.co/JnoMUiGmvZ\">pic.twitter.com/JnoMUiGmvZ</a></p>&mdash; NBA on ESPN (@ESPNNBA) <a href=\"https://x.com/ESPNNBA/status/2067607067070755033?ref_src=twsrc%5Etfw\">June 18, 2026</a></blockquote>\n\n",
-          "author_name": "NBA on ESPN",
-          "author_url": "https://x.com/ESPNNBA"
-        },
-        {
-          "url": "https://twitter.com/NYCMayor/status/2067606634566762951",
-          "html": "<blockquote class=\"twitter-tweet\" align=\"left\" data-dnt=\"true\" data-theme=\"dark\"><p lang=\"en\" dir=\"ltr\">New York: We’ve got a big crowd here celebrating our Knicks.<br><br>Bus service is suspended in much of lower Manhattan. Subways are skipping some stations in the area.<br><br>Text NOTIFYNYC to 692-692 to receive the most updated information regarding safety and transportation. <br><br>Find… <a href=\"https://t.co/3L5AZTEjKw\">https://t.co/3L5AZTEjKw</a></p>&mdash; Mayor Zohran Kwame Mamdani (@NYCMayor) <a href=\"https://x.com/NYCMayor/status/2067606634566762951?ref_src=twsrc%5Etfw\">June 18, 2026</a></blockquote>\n\n",
-          "author_name": "Mayor Zohran Kwame Mamdani",
-          "author_url": "https://x.com/NYCMayor"
-        }
-      ]
-    },
-    {
-      "category": "leagues",
-      "importance": 6,
-      "leadHeadline": "Brewers lose promising starter to thoracic outlet syndrome in injury blow",
-      "leadSource": "NY Post Sports · just now",
-      "leadUrl": "https://nypost.com/2026/06/18/sports/brewers-lose-quinn-priester-to-thoracic-outlet-syndrome-in-injury-blow/",
-      "summary": "The Milwaukee Brewers lost a key rotation piece to thoracic outlet syndrome, a chronic shoulder injury that typically sidelines pitchers for extended periods and creates a mid-season rotation void.",
-      "article": "The Milwaukee Brewers announced that a promising starting pitcher is out with thoracic outlet syndrome (TOS), a vascular condition affecting the shoulder and upper chest that requires extended recovery and frequently threatens career longevity for overhead athletes. Thoracic outlet syndrome is a serious diagnosis in baseball; pitchers who undergo surgical intervention for TOS typically miss six to nine months, and the condition can recur. For the Brewers, the loss creates an immediate rotation gap in the middle of the regular season and forces the franchise to either call up a prospect, acquire depth via trade, or shuffle existing starters into unfamiliar roles. The Brewers entered 2026 with championship aspirations following an offseason of targeted acquisitions, and a mid-rotation starter's loss complicates those plans. Thoracic outlet syndrome also carries a cloud of uncertainty: some players return to full functionality, while others face chronic pain or mobility loss that shortens careers. The Brewers' medical staff will provide more granular updates on prognosis and timeline in coming weeks. The specific pitcher's name and the team's contingency plan remain undisclosed in the NY Post headline, but the injury's severity — and its timing in spring or early summer — will weigh on Milwaukee's playoff contention window.",
-      "tweets": [
-        {
-          "url": "https://twitter.com/AdamMcCalvy/status/2067626770816233769",
-          "html": "<blockquote class=\"twitter-tweet\" align=\"left\" data-dnt=\"true\" data-theme=\"dark\"><p lang=\"en\" dir=\"ltr\">Brewers starter Quinn Priester will have thoracic outlet decompression surgery on Monday and will miss the entirety of this season. Here’s a detailed explanation for why he has no regrets about waiting this long to get to this point. <a href=\"https://t.co/QEyuwToxyW\">pic.twitter.com/QEyuwToxyW</a></p>&mdash; Adam McCalvy (@AdamMcCalvy) <a href=\"https://x.com/AdamMcCalvy/status/2067626770816233769?ref_src=twsrc%5Etfw\">June 18, 2026</a></blockquote>\n\n",
-          "author_name": "Adam McCalvy",
-          "author_url": "https://x.com/AdamMcCalvy"
-        }
-      ]
+      "leadHeadline": "Olivia Miles: the goggled wonder woman pulverizing WNBA opponents in her rookie season",
+      "leadSource": "The Guardian · 11h ago",
+      "leadUrl": "https://www.theguardian.com/sport/2026/jun/18/olivia-miles-the-goggled-wonder-woman-pulverizing-opponents-in-her-rookie-season",
+      "summary": "Minnesota Lynx point guard Olivia Miles' creative playmaking has electrified WNBA audiences in her first pro season, driving highlight-reel viewership and renewed fan engagement with women's professional basketball.",
+      "article": "Olivia Miles, the Minnesota Lynx rookie point guard, has emerged as one of the season's most electrifying players, her no-look passes and court vision generating viral highlight reels and sustained fan interest in WNBA basketball. Playing in signature oversized goggles, Miles combines physical audacity with technical precision—a combination rare enough in any league to arrest casual viewers.\n\nThe cultural moment matters because Miles is driving fan behavior directly: highlight clips featuring her passes accumulate millions of views across social media within hours of games, and merchandise sales for Lynx apparel have spiked. This is grassroots star-building—the kind that franchises can monetize through ticket sales, streaming subscriptions, and jersey licensing over the next decade.\n\nFor WNBA stakeholders, Miles exemplifies a macro shift. The league has spent the past three years investing in player marketing, social media infrastructure, and narrative development around young stars. It's working. Regular-season attendance is up league-wide, and playoff interest has followed. Miles didn't create that trend, but she's accelerating it through sheer talent and on-court personality. Investors and broadcasters now have proof that young WNBA players with distinctive styles can build personal brands that transcend the traditional sports-media ecosystem.\n\nThe Lynx, specifically, are banking on Miles as the centerpiece of a franchise rebuild. She's the kind of player who justifies front-office patience and higher salary-cap commitments. Watch her to understand how the WNBA marketplace is shifting: star talent increasingly drives its own narrative, independent of league promotion.",
+      "tweets": []
     },
     {
       "category": "leagues",
       "importance": 5,
-      "leadHeadline": "England in trouble after dreadful day against NZ",
-      "leadSource": "BBC Sport · 10h ago",
-      "leadUrl": "https://www.bbc.com/sport/cricket/articles/cgrk52lk1j7o?at_medium=RSS&amp;at_campaign=rss",
-      "summary": "England's cricket team deteriorated sharply during day two of the second Test against New Zealand at The Oval, leaving the squad in dire position and raising questions about their preparation and execution under pressure.",
-      "article": "England spiraled through a chaotic second day against New Zealand in the second Test at The Oval, compounding early position problems with poor batting discipline and tactical missteps that left the Three Lions in a deeply precarious situation heading into day three. The morning session deteriorated into what BBC Sport characterized as \"dreadful\" — a cascade of poor shot selection, loose bowling, and fielding lapses that undermined whatever competitive foundation England had constructed on day one. For England's Test squad, which is working under the stewardship of a relatively new coaching regime, the collapse raises immediate questions about preparation depth and the team's ability to execute under sustained pressure in home conditions. New Zealand's bowling attack, buoyed by the momentum of day one, capitalized on England's mental and technical breakdowns, establishing a lead position that threatens to snowball into a series deficit if England cannot arrest the slide in the coming sessions. The result is particularly damaging for England's test credibility heading into a southern hemisphere tour later this summer, where similar scoreline trajectories have plagued the team in prior years. Ben Stokes, England's captain, is sidelined with injury but eligible to return for the third Test at Trent Bridge next week, a prospect that may stabilize the squad's composure if he returns. The immediate tactical question for day three is whether England's lower order can stabilize the innings or whether the collapse extends deeper into the lineup.",
+      "leadHeadline": "Protect College Sports Act passes Senate committee amid continued Big Ten, SEC opposition",
+      "leadSource": "CBS Sports · 1h ago",
+      "leadUrl": "https://www.cbssports.com/college-football/news/protect-college-sports-act-passes-senate-committee-big-ten-sec-opposition/",
+      "summary": "The bipartisan Protect College Sports Act cleared a Senate committee vote, advancing toward a floor vote despite lobbying opposition from the Big Ten and SEC conferences over revenue-sharing and governance terms.",
+      "article": "The Protect College Sports Act passed a Senate committee Thursday in a bipartisan vote, moving the legislation one step closer to a floor vote despite sustained opposition from major conference leadership. The bill, designed to provide federal antitrust clarity for college sports revenue-sharing arrangements, NCAA governance reforms, and name-image-likeness (NIL) guardrails, has become the flashpoint in ongoing negotiations over how collegiate athletics should be regulated.\n\nThe Big Ten and SEC have opposed the bill in its current form, arguing that it imposes revenue-sharing mandates and governance restrictions that would diminish competitive incentives and reduce their ability to pursue independent media deals. Both conferences view federal legislation as a threat to their autonomy—a position that's weakened somewhat now that the bill has advanced beyond committee. The Senate floor vote is likely within weeks.\n\nWhat's notable: the bill's passage through committee despite major-conference opposition suggests that Senate leadership (and corporate sponsors concerned about antitrust exposure) are prioritizing national regulatory clarity over conference preferences. That's a significant shift from 18 months ago, when the Big Ten and SEC believed they could forestall federal legislation through coalition-building and lobbying.\n\nFor college athletics executives, the message is clear: legislative momentum is building regardless of their preferences. The smart play is to negotiate terms now—specifically around revenue-sharing thresholds and governance structures—rather than hold the line and face a worse outcome if the bill passes without their input. The next few weeks will be decisive.",
+      "tweets": []
+    },
+    {
+      "category": "revenue",
+      "importance": 5,
+      "leadHeadline": "UFL viewership holds steady in year three",
+      "leadSource": "Sports Media Watch · 1h ago",
+      "leadUrl": "https://www.sportsmediawatch.com/2026/06/ufl-viewership-season-three-united-bowl-abc/",
+      "summary": "The United Football League maintained viewer levels in its third season despite winter weather and competition from college basketball, signaling sustainable demand for spring football.",
+      "article": "The United Football League held its viewership baseline in 2026, its third season, according to Sports Media Watch data, demonstrating that spring football has established a stable audience niche despite seasonal headwinds and rotating broadcast platforms. The consistency matters because it validates the league's 2024 pivot toward a sustainable business model focused on modest but reliable viewership rather than speculative growth projections.\n\nWhen the UFL relaunched in 2024 (merging the USFL and XFL), investor projections called for rapid audience growth, with some forecasts topping 2 million average viewers within five years. That hasn't materialized. Instead, the league has settled into a 400,000-600,000 average viewer range per game, with peaks during marquee matchups. That's substantially below NFL numbers but competitive with mid-tier cable sports content and sufficient to service franchise payrolls and media-partner obligations.\n\nWhat's crucial: the audience is sticky. The league isn't bleeding viewers year-over-year, which means it has found a real audience—people who genuinely prefer spring football to March Madness reruns and basketball. That audience is also defensible to advertisers, who value consistency over flash.\n\nFor media partners (FOX and Netflix carry the bulk of UFL games), steady viewership justifies continued investment in production and promotion. For franchise operators, it means profitability is achievable without league growth—a significant mental shift from early-stage sports business, where growth is obligatory. The UFL now operates with the realism of a mature niche league, which is healthier than the fantasy of blockbuster expansion.",
+      "tweets": []
+    },
+    {
+      "category": "revenue",
+      "importance": 4,
+      "leadHeadline": "Two-Time U.S. Open Champ: LIV Players Welcome on Champions Tour",
+      "leadSource": "Front Office Sports · 1h ago",
+      "leadUrl": "https://frontofficesports.com/two-time-u-s-open-champ-liv-players-welcome-on-champions-tour/",
+      "summary": "Retief Goosen, two-time U.S. Open champion, expressed openness to LIV Golf players competing on the Champions Tour, signaling potential pathway for aging Saudi-backed roster to access senior professional competition.",
+      "article": "Retief Goosen, a two-time U.S. Open champion and prominent Champions Tour figure, said Thursday he would welcome LIV Golf players to compete on the Champions Tour once they become eligible by age. The comment, casual on its surface, opens a novel question about the long-term career arc of LIV roster players and how legacy professional tours will eventually absorb them.\n\nThe Champions Tour has historically been the soft landing for aging PGA Tour players: Phil Mickelson, Ernie Els, and Bernhard Langer all segued smoothly into senior competition when their prime years ended. LIV players—many of whom jumped the tour specifically because they're in their 40s or late 30s with limited upside on the PGA Tour—will eventually become Champions Tour eligible. Golf's traditional hierarchy (PGA Tour → Champions Tour → diminishing purses) is now complicated by LIV's injection of Saudi capital into mid-career players' compensation.\n\nGoosen's openness suggests the Champions Tour won't blacklist LIV players, which removes a potential source of long-term friction between LIV and golf's establishment. More importantly, it signals that legacy tours are willing to accept LIV money indirectly—by allowing wealthy ex-LIV players to compete in senior circuits, they're implicitly acknowledging that Saudi funding has permanently altered golf's economic map.\n\nThe real story: LIV didn't just disrupt the PGA Tour; it created a shadow career path for aging golfers. That path is now being formalized at the senior level. For PGA Tour leadership, it's another reminder that Saudi capital has structural staying power.",
       "tweets": []
     }
   ],
@@ -2423,149 +2396,69 @@
   "ticket_prices": [],
   "sidebar": [
     {
-      "headline": "Olivia Miles: the goggled wonder woman pulverizing WNBA opponents in her rookie season",
-      "source": "The Guardian · 10h ago",
-      "article": "Minnesota Lynx point guard Olivia Miles has emerged as one of the WNBA's most electrifying rookies, her floor vision and creativity generating viral highlight-reel moments and driving casual viewership spikes in her first professional season. Miles' distinctive playing style — deliberate, playmaking-first, unafraid of difficult passes — has captivated both hardcore basketball analysts and TikTok audiences discovering professional women's basketball for the first time. Her impact extends beyond box-score statistics; the Lynx's attendance and streaming numbers have reflected renewed interest in a franchise anchored by young, high-ceiling talent. For the WNBA's media partners and the league itself, Miles represents the archetype of the next generation of stars who can bridge traditional sports audiences and digital-native viewers. Her rookie season follows a draft class that has already redrawn expectations for women's basketball's mainstream commercial potential."
+      "headline": "Knicks Fans Swarm Lower Manhattan in One of Largest NYC Parades Ever",
+      "source": "Front Office Sports · 2h ago",
+      "article": "The New York Knicks conducted a championship parade through lower Manhattan Thursday that required 10,000 police officers to manage crowd flow along the one-mile route. The sheer operational scale—and the fan turnout it implies—underscores the commercial windfall awaiting MSG and the Knicks organization. Parade attendance translates directly to merchandise spikes, social media engagement metrics that attract sponsors, and ticket-demand signals for next season. MSG had already announced higher-tier suite pricing for 2026-27 before the parade launched."
     },
     {
-      "headline": "Protect College Sports Act passes Senate committee amid continued Big Ten, SEC opposition",
-      "source": "CBS Sports · 1h ago",
-      "article": "The bipartisan Protect College Sports Act advanced out of Senate committee Thursday, moving toward a floor vote despite sustained resistance from the Big Ten and SEC conferences. The bill addresses NIL regulation, transfer portal governance, and revenue-sharing frameworks — standards that have fragmented across state lines and conference-by-conference enforcement. Mid-tier conferences including the ACC and Big 12 have backed the legislation, viewing federal guardrails as preferable to the current chaotic marketplace. For programs and athletes, passage would impose compliance deadlines but also deliver long-sought clarity on recruiting and compensation rules. The SEC and Big Ten's lobbying has not blocked advancement, suggesting even power-conference opposition faces limits when a broader coalition backs reform."
+      "headline": "England in trouble after dreadful day against NZ",
+      "source": "BBC Sport · 4h ago",
+      "article": "England's Test cricket team spiraled into a precarious position against New Zealand on day two of their second Test at The Oval Thursday, compounding earlier losses with poor batting discipline. The collapse matters commercially because England's home Test series against top-tier opponents drives significant TV viewership and sponsorship revenue for the ECB. A series loss at home depresses merchandise sales and limits the board's ability to command premium rates for international scheduling."
     },
     {
-      "headline": "Why Canadas game against Qatar has massive implications",
-      "source": "Sportsnet · 1d ago",
-      "article": "Canada faces Qatar in a 2026 World Cup group-stage match with major tournament implications: a win advances Canada to a knockout-stage clinch and secures home-field advantage in that round. The fixture carries strategic weight beyond the immediate three points; Canada's path to advancement hinges on result sequencing in Group B, where home-field advantage in the knockout stage provides significant margin advantage. For the Canadian Soccer Association, a victory galvanizes the team's World Cup narrative and sets a positive tone for downstream knockout matches. Qatar's participation as defending continental champion creates added intrigue, though Canada enters the fixture as the favored side."
+      "headline": "Scotland fall short of famous win over Windies",
+      "source": "BBC Sport · 1h ago",
+      "article": "Scotland came agonizingly close to defeating West Indies in T20 World Cup play Thursday but ultimately lost in a tumultuous contest, a result that shapes Scotland's path to qualification. The loss impacts regional cricket board finances and broadcaster interest in subsequent Scottish matches. Cricket boards with early-tournament elimination face reduced international scheduling income and sponsorship leverage for the following 12 months."
     },
     {
-      "headline": "Why U.S. Open Host Sites Are on a 25-Year Plan",
-      "source": "Front Office Sports · 4h ago",
-      "article": "The U.S. Open golf championship has locked in 22 future host sites through 2051, a 25-year scheduling commitment that stabilizes venue economics and championship planning across a generation. The extended planning window allows host courses to execute major capital improvements, hospitality upgrades, and infrastructure projects with confidence in event revenue projections. For the USGA, the long-term schedule reduces year-to-year uncertainty and allows corporate partners to plan activation strategies across multiple event cycles. For host venues, the commitment attracts investment capital and distinguishes the U.S. Open from other majors with shorter planning horizons. The 25-year model reflects best practices in sports event hosting and protects course economics through COVID-adjacent planning disruptions."
-    },
-    {
-      "headline": "Yesavage finds groove to help Blue Jays sweep Red Sox",
+      "headline": "World Cup Live Tracker: Canada vs. Qatar",
       "source": "Sportsnet · 1h ago",
-      "article": "Toronto Blue Jays pitcher Trey Yesavage shook off recent mechanical struggles with a renewed offensive approach, delivering a key performance that helped the franchise complete a series sweep of the Boston Red Sox. Yesavage's turnaround follows coaching adjustments that emphasize aggressive early-count hitting and pitch selection — a tactical shift that has yielded measurable results across his recent starts. For the Blue Jays, the sweep represents momentum-building against a division rival and validates the team's in-season coaching adjustments. Yesavage's resurgence could carry downstream significance in the AL playoff race if the outfielder sustains the approach through the season's second half."
+      "article": "Canada faced Qatar in a FIFA World Cup Group B matchday at BC Place Vancouver Thursday, a fixture that commanded significant domestic Canadian viewership and drove ticket demand across the venue. Group-stage World Cup matches in host countries historically generate spike in local broadcast metrics and merchandise sales for participating federations. Viewership for Canadian matches feeds back into domestic league commercial valuations and sponsorship negotiations."
     },
     {
-      "headline": "Giants broadcaster goes ballistic on pitchers Pride Night Bible verse battle",
+      "headline": "Professional baseball team cancels game after players refuse to wear Pride jerseys",
+      "source": "The Guardian · 4h ago",
+      "article": "The York Revolution cancelled a game Thursday after roster players refused to wear Pride Night jerseys, highlighting ongoing cultural friction in professional baseball over uniform mandates and player autonomy. The cancellation represents lost ticket revenue, concessions, and local promotional value for the franchise. Similar player refusals across MLB have created liability for teams hosting Pride events and complicate sponsorship arrangements with LGBTQ+ brands seeking alignment with professional sports properties."
+    },
+    {
+      "headline": "Cam Skattebo plans to keep running people over after gruesome Giants injury",
       "source": "NY Post Sports · just now",
-      "article": "Longtime San Francisco Giants broadcaster Mike Krukow publicly criticized players who declined to participate in the team's Pride Night festivities, citing religious objections and Bible verse disagreements over uniform patches. Krukow's on-air commentary escalated into a pointed rebuke of what he characterized as selective piety and organizational dysfunction. The incident reflects ongoing tension between MLB's diversity-and-inclusion initiatives and player religious convictions — a debate that has surfaced across multiple franchises this season. For the Giants organization, the broadcaster's criticism amplifies internal discord and raises questions about how the franchise navigates between cultural initiatives and roster autonomy. Krukow's public stance also signals potential shift in how major sports media figures address player religious objections to inclusion programming."
+      "article": "Arizona Cardinals running back Cam Skattebo, speaking after a brutal collision during Thursday action, signaled he has no plans to adjust his bruising running style despite causing a gruesome Giants defensive injury. Skattebo's refusal to modify his approach shapes insurance and medical liability discussions within the NFL. Players with high injury-causation rates also influence sponsorship desirability and broadcast framing around their on-field performance."
     }
   ],
   "poll": {
-    "question": "Which league's record-breaking 2026 postseason run is most significant for media rights negotiations?",
+    "question": "Which emerging media consolidation will reshape sports journalism most significantly?",
     "options": [
-      "NHL (Stanley Cup Playoffs highest-ever viewership)",
-      "NBA (most-watched playoffs since 1998)",
-      "Both equally important to overall sports media momentum",
-      "Neither — streaming and social media matter more than traditional ratings"
+      "Penske's acquisition of SB Nation and Vox Sports brands",
+      "Paramount+ proving it can move record UFC viewership",
+      "The WNBA's player-led cultural moment with stars like Olivia Miles",
+      "Federal legislation imposing college sports governance standards"
     ]
   },
   "predictions": [
     {
-      "statement": "The Protect College Sports Act passes the Senate floor by August 2026, establishing the first federal college athletics framework since the NCAA's founding.",
+      "statement": "Penske Media will integrate SB Nation editorial with Sportico coverage within 18 months, creating a unified franchise-analysis and fanbase-sentiment product that ESPN cannot replicate.",
+      "probability": 72,
+      "rationale": "Penske's track record (Variety, The Hollywood Reporter, Sportico) shows willingness to merge editorial operations aggressively. SB Nation's 300+ team blogs represent unmatched granular data on fan sentiment that Sportico lacks. The integration incentive is massive: cross-platform subscription funnels and corporate data licensing to teams and leagues."
+    },
+    {
+      "statement": "The Protect College Sports Act passes the Senate floor within 60 days, with revenue-sharing mandates intact despite Big Ten/SEC opposition.",
+      "probability": 64,
+      "rationale": "Committee passage with major-conference opposition is a strong leading indicator that leadership has momentum independent of conference lobbying. Senate floor votes on sports legislation typically move quickly. However, reconciliation with House versions and potential amendment campaigns could slow the timeline."
+    },
+    {
+      "statement": "Paramount+ commits $500M+ to multi-year UFC extension in 2027, citing Freedom 250 record viewership as primary justification.",
       "probability": 68,
-      "rationale": "Committee approval signals momentum and bipartisan backing, but the SEC and Big Ten will mount a sustained lobbying push. Congressional calendars and competing legislative priorities create delays, but the bill's passage momentum and mid-tier conference support suggest floor passage is likelier than not within the legislative window."
+      "rationale": "Record-breaking viewership on a paid platform is the strongest possible negotiating signal for content value. Paramount+ has already signaled UFC is core to its sports strategy. However, UFC will likely field rival offers from Amazon and traditional broadcasters, which could inflate prices above that threshold."
     },
     {
-      "statement": "Penske Media's SBNation acquisition generates significant editorial turnover within nine months, with at least 15% of team-site writers departing.",
-      "probability": 62,
-      "rationale": "PMC's history of centralizing editorial operations and cost restructuring post-acquisition suggests SBNation's existing decentralized team-site model faces pressure. SBNation writers operate semi-independently; PMC's template favors leaner, more centralized staffing. Some departures are likely, though key franchises may retain experienced voices."
-    },
-    {
-      "statement": "The Brewers' rotation adjustment due to thoracic outlet syndrome results in at least one mid-season trade acquisition or significant prospect callup.",
-      "probability": 71,
-      "rationale": "Thoracic outlet syndrome typically sidelines pitchers for 6-9 months, creating a genuine rotation void. The Brewers' championship window cannot accommodate extended loss of starting depth. Trade or internal promotions are nearly certain; the question is timing and magnitude of response, not whether it occurs."
-    },
-    {
-      "statement": "The New York Knicks' championship parade attendance boost drives measurable merchandise revenue increase of at least 30% year-over-year for the next 18 months.",
-      "probability": 73,
-      "rationale": "Historic parade attendance translates to sustained casual fan engagement and merchandise demand. Championship merch cycles typically sustain elevated sales for 12-24 months post-title. The Knicks' 51-year championship drought amplifies demand, and NYC's size provides a large addressable market. A 30% increase is conservative for a major-market title after a half-century drought."
+      "statement": "The WNBA records its highest average regular-season viewership in league history during the 2027 season, driven by continued star-player marketing and rookie phenom narratives.",
+      "probability": 58,
+      "rationale": "Current trajectory (attendance up, highlight engagement up, Olivia Miles phenomenon) supports growth. However, broadcast partners haven't yet expanded WNBA game distribution to prime-time slots consistently, which would be required to move the needle significantly. Sustained growth depends on media availability, not just star talent."
     }
   ],
-  "injuries": [
-    {
-      "player": "Unnamed Brewers starter",
-      "team": "Milwaukee Brewers",
-      "league": "MLB",
-      "status": "OUT",
-      "injury": "Thoracic outlet syndrome",
-      "timeline": "6-9 months (typical TOS recovery window)",
-      "source": "NY Post Sports",
-      "impact": "Rotation depleted mid-season; Brewers forced to trade, call up prospect, or reshuffle existing starters to fill void during championship window.",
-      "storyIndex": 2
-    },
-    {
-      "player": "Ben Stokes",
-      "team": "England Cricket",
-      "league": "OTHER",
-      "status": "RETURNING",
-      "injury": "Unspecified (sidelined, eligible to return)",
-      "timeline": "Third Test at Trent Bridge next week",
-      "source": "BBC Sport",
-      "impact": "England captain's return could stabilize team composure and leadership after day-two collapse against New Zealand; presence expected to improve bowling field placements and batting discipline.",
-      "storyIndex": [
-        4,
-        12
-      ]
-    }
-  ],
+  "injuries": [],
   "picks": [
-    {
-      "matchup": "San Francisco Giants @ Atlanta Braves",
-      "league": "MLB",
-      "type": "moneyline",
-      "when": "Tomorrow 7:16 PM ET",
-      "pick": "Atlanta Braves -145",
-      "odds": "-145",
-      "edge": "Atlanta (46-25) has a commanding 17-game win differential over San Francisco (29-43), and this is the only matchup with sufficient data where a clear talent/record mismatch exists. The Braves' win-loss record differential justifies moneyline chalk; the Giants are significantly depleted relative to Atlanta's roster strength. While specific starter ERAs were unavailable in the research briefing, the fundamental team-quality gap is large enough to support the -145 line. This is a generic quality edge (better team at home) backed by a concrete 17-game win differential, placing it at medium confidence on a thin slate.",
-      "confidence": "medium",
-      "marketSnapshot": {
-        "capturedAt": "2026-06-17T17:48:22.113Z",
-        "markets": {
-          "h2h": {
-            "away": {
-              "price": 131,
-              "book": "BetOnline.ag"
-            },
-            "home": {
-              "price": -145,
-              "book": "BetOnline.ag"
-            },
-            "draw": null
-          },
-          "spreads": {
-            "away": {
-              "point": 1.5,
-              "price": -176,
-              "book": "FanDuel"
-            },
-            "home": {
-              "point": -1.5,
-              "price": 146,
-              "book": "FanDuel"
-            }
-          },
-          "totals": {
-            "over": {
-              "point": 8.5,
-              "price": 107,
-              "book": "LowVig.ag"
-            },
-            "under": {
-              "point": 8.5,
-              "price": -120,
-              "book": "FanDuel"
-            }
-          }
-        },
-        "awayTeam": "San Francisco Giants",
-        "homeTeam": "Atlanta Braves",
-        "commenceTime": "2026-06-18T23:16:00Z"
-      },
-      "_scheduledTs": 1781824560000
-    },
     {
       "matchup": "San Antonio Spurs @ New York Knicks",
       "league": "NBA",
@@ -2634,30 +2527,30 @@
       "_pendingGrade": true
     }
   ],
-  "updatedAt": "2026-04-23T18:30:00Z",
+  "updatedAt": "2026-04-23T17:45:00Z",
   "highlights": [
     {
       "league": "NBA",
       "title": "Mariska Hargitay talks what Jalen Brunson means to the city of New York ❤️🔶🔷",
       "videoId": "Afd4V4c0t_w",
       "thumbnail": "https://img.youtube.com/vi/Afd4V4c0t_w/mqdefault.jpg",
-      "timeAgo": "Just now",
+      "timeAgo": "2h ago",
       "isFallback": false
     },
     {
       "league": "NFL",
-      "title": "Can Trey McBride Stay Elite in Fantasy? #NFL #TE #Cardinals",
-      "videoId": "LDomZ17GMC0",
-      "thumbnail": "https://img.youtube.com/vi/LDomZ17GMC0/mqdefault.jpg",
-      "timeAgo": "Just now",
+      "title": "Why Tyler Shough could be a LEAGUE WINNER #FantasyFootball #NFL",
+      "videoId": "Nmfiv7Jr4JA",
+      "thumbnail": "https://img.youtube.com/vi/Nmfiv7Jr4JA/mqdefault.jpg",
+      "timeAgo": "1h ago",
       "isFallback": false
     },
     {
       "league": "MLB",
-      "title": "Watch this young fan's reaction to getting a ball 🥹",
-      "videoId": "6B7jq-cqApQ",
-      "thumbnail": "https://img.youtube.com/vi/6B7jq-cqApQ/mqdefault.jpg",
-      "timeAgo": "Just now",
+      "title": "The Brewers honored Marcus Storm, a 10-year-old cancer survivor, earlier this week",
+      "videoId": "EGLdQPOOhdk",
+      "thumbnail": "https://img.youtube.com/vi/EGLdQPOOhdk/mqdefault.jpg",
+      "timeAgo": "1h ago",
       "isFallback": false
     },
     {
@@ -2665,7 +2558,7 @@
       "title": "Hurricanes weather the Cup Final storm | Quest for the Stanley Cup Ep. 4",
       "videoId": "um-NUTSrDVw",
       "thumbnail": "https://img.youtube.com/vi/um-NUTSrDVw/mqdefault.jpg",
-      "timeAgo": "1h ago",
+      "timeAgo": "3h ago",
       "isFallback": false
     },
     {
@@ -2673,19 +2566,67 @@
       "title": "Seattle Storm vs. Portland Fire | FULL GAME HIGHLIGHTS | June 17, 2026",
       "videoId": "Gfcwg6rs_G4",
       "thumbnail": "https://img.youtube.com/vi/Gfcwg6rs_G4/mqdefault.jpg",
-      "timeAgo": "16h ago",
+      "timeAgo": "17h ago",
       "isFallback": false
     },
     {
       "league": "SOCCER",
-      "title": "Tough day to try and get through New York City 😅 (via @esmullert/TT)",
-      "videoId": "ZTqHXwx_Gy8",
-      "thumbnail": "https://img.youtube.com/vi/ZTqHXwx_Gy8/mqdefault.jpg",
+      "title": "Norway's parliament started doing the row to support their national team 😭❤️🇳🇴 (via stortinget/IG)",
+      "videoId": "fZSy7vLPYGg",
+      "thumbnail": "https://img.youtube.com/vi/fZSy7vLPYGg/mqdefault.jpg",
       "timeAgo": "1h ago",
       "isFallback": false
     }
   ],
   "reels": [
+    {
+      "league": "NFL",
+      "title": "Why Tyler Shough could be a LEAGUE WINNER #FantasyFootball #NFL",
+      "videoId": "Nmfiv7Jr4JA",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-06-18T22:00:37+00:00",
+      "link": "https://www.youtube.com/watch?v=Nmfiv7Jr4JA"
+    },
+    {
+      "league": "MLB",
+      "title": "The Brewers honored Marcus Storm, a 10-year-old cancer survivor, earlier this week",
+      "videoId": "EGLdQPOOhdk",
+      "author": "MLB",
+      "pubDate": "2026-06-18T22:00:16+00:00",
+      "link": "https://www.youtube.com/watch?v=EGLdQPOOhdk"
+    },
+    {
+      "league": "SOCCER",
+      "title": "Norway's parliament started doing the row to support their national team 😭❤️🇳🇴 (via stortinget/IG)",
+      "videoId": "fZSy7vLPYGg",
+      "author": "ESPN FC",
+      "pubDate": "2026-06-18T21:57:59+00:00",
+      "link": "https://www.youtube.com/watch?v=fZSy7vLPYGg"
+    },
+    {
+      "league": "SOCCER",
+      "title": "REACTION to Switzerland vs. Bosnia-Herzegovina 💪 + Shaka's World Cup Power Rankings | ESPN FC",
+      "videoId": "o6Bw6iW0NCI",
+      "author": "ESPN FC",
+      "pubDate": "2026-06-18T21:32:17+00:00",
+      "link": "https://www.youtube.com/watch?v=o6Bw6iW0NCI"
+    },
+    {
+      "league": "SOCCER",
+      "title": "Taylor Twellman on the new standard set by the USMNT at the World Cup💪",
+      "videoId": "3sbNoYdn7ms",
+      "author": "ESPN FC",
+      "pubDate": "2026-06-18T21:30:13+00:00",
+      "link": "https://www.youtube.com/watch?v=3sbNoYdn7ms"
+    },
+    {
+      "league": "NFL",
+      "title": "Have the Cowboys improved enough to be Super Bowl contenders? 👀 + Commanders offseason | NFL Live",
+      "videoId": "zCdBRL6n9Z4",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-06-18T21:29:35+00:00",
+      "link": "https://www.youtube.com/watch?v=zCdBRL6n9Z4"
+    },
     {
       "league": "NFL",
       "title": "Can Trey McBride Stay Elite in Fantasy? #NFL #TE #Cardinals",
@@ -2823,28 +2764,12 @@
       "link": "https://www.youtube.com/watch?v=djcbEpKjwhE"
     },
     {
-      "league": "SOCCER",
-      "title": "Czechia vs. South Africa FULL REACTION: Group A heats up 🔥 | ESPN FC",
-      "videoId": "wmlC76dvP-w",
-      "author": "ESPN FC",
-      "pubDate": "2026-06-18T18:20:18+00:00",
-      "link": "https://www.youtube.com/watch?v=wmlC76dvP-w"
-    },
-    {
       "league": "MLB",
       "title": "OVER THE MONSTER for Vladimir Guerrero Jr. 😯 | MLB Highlights",
       "videoId": "8py01hqMj00",
       "author": "MLB",
       "pubDate": "2026-06-18T18:09:49+00:00",
       "link": "https://www.youtube.com/watch?v=8py01hqMj00"
-    },
-    {
-      "league": "SOCCER",
-      "title": "Nigel Seeley says USMNT are the most impressive team in the WC right now 👀 | The Pat McAfee Show",
-      "videoId": "4_Lz63_KEGE",
-      "author": "ESPN FC",
-      "pubDate": "2026-06-18T18:06:09+00:00",
-      "link": "https://www.youtube.com/watch?v=4_Lz63_KEGE"
     },
     {
       "league": "NBA",
@@ -2861,14 +2786,6 @@
       "author": "MLB",
       "pubDate": "2026-06-18T18:00:01+00:00",
       "link": "https://www.youtube.com/watch?v=X_npPJBLg7g"
-    },
-    {
-      "league": "SOCCER",
-      "title": "Was the WC win over Paraguay the best in USMNT history? Twellman weighs in! | The Rich Eisen Show",
-      "videoId": "Rg2QYg-uA9k",
-      "author": "ESPN FC",
-      "pubDate": "2026-06-18T17:51:15+00:00",
-      "link": "https://www.youtube.com/watch?v=Rg2QYg-uA9k"
     },
     {
       "league": "NBA",
@@ -2911,14 +2828,6 @@
       "link": "https://www.youtube.com/watch?v=74nkotZ8nT4"
     },
     {
-      "league": "NFL",
-      "title": "Brian Windhorst on how the Knicks build a JUGGERNAUT",
-      "videoId": "mv_ZRR2tuC8",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-06-18T16:00:09+00:00",
-      "link": "https://www.youtube.com/watch?v=mv_ZRR2tuC8"
-    },
-    {
       "league": "NHL",
       "title": "FULL GAME REPLAY: Hurricanes vs Golden Knights| Game 6 | 2026 Stanley Cup Final",
       "videoId": "jLa1S06AEKo",
@@ -2949,22 +2858,6 @@
       "author": "MLB",
       "pubDate": "2026-06-18T14:30:15+00:00",
       "link": "https://www.youtube.com/watch?v=Lg9UEAYs1X0"
-    },
-    {
-      "league": "NFL",
-      "title": "Can Joe Burrow lead the Bengals to Super Bowl LXI? | Get Up",
-      "videoId": "RHdrpgdazJc",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-06-18T14:10:38+00:00",
-      "link": "https://www.youtube.com/watch?v=RHdrpgdazJc"
-    },
-    {
-      "league": "MLB",
-      "title": "Yankees show off in front of the NBA champs!",
-      "videoId": "wgstTeRuMe4",
-      "author": "MLB",
-      "pubDate": "2026-06-18T13:00:13+00:00",
-      "link": "https://www.youtube.com/watch?v=wgstTeRuMe4"
     },
     {
       "league": "WNBA",
