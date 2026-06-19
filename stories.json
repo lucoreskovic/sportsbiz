@@ -1,86 +1,73 @@
 {
   "clusters": [
     {
-      "category": "revenue",
+      "category": "leagues",
       "importance": 9,
-      "leadHeadline": "UFC's Freedom 250 Draws 17 Million Viewers",
-      "leadSource": "Front Office Sports · 3h ago",
-      "leadUrl": "https://frontofficesports.com/ufc-freedom-250-viewership-ratings-paramount-17-million-us-latin-america/",
-      "summary": "UFC's Freedom 250 event on Paramount+ drew 17 million viewers, marking a significant audience for the streaming-exclusive card. The viewership underscores Paramount+'s growing combat sports reach and UFC's ability to move major events off traditional pay-per-view.",
-      "article": "UFC's Freedom 250 event drew 17 million viewers on Paramount+, according to Front Office Sports reporting from the event held at Madison Square Garden. The card was available exclusively on the streaming platform, bypassing the traditional PPV model that has long anchored the organization's revenue structure.\n\nThe 17 million figure represents a substantial audience for a streaming-exclusive event, particularly one headlined by a bout outside the title-fight framework. For context, UFC's marquee pay-per-view cards typically range from 200,000 to 600,000 buys depending on star power and card depth, meaning the streaming audience vastly exceeded traditional PPV purchase patterns—though direct revenue comparison requires accounting for subscription economics versus PPV per-unit pricing.\n\nThe event's performance validates UFC President Dana White's strategy of leveraging Paramount+'s subscriber base as an alternative distribution channel. With Paramount+ now the home of multiple UFC cards annually, the organization is testing whether streaming audiences can eventually offset declining traditional PPV volumes among casual fans who resist $80 price points.\n\nThis follows the earlier White House event also on Paramount+, which Sports Media Watch reported drew measurable audience. Back-to-back streaming successes suggest UFC and Paramount+ have identified a viable partnership model heading into 2026 negotiations with broadcast partners. The question now becomes whether these streaming numbers translate to higher rights fees in next cycle negotiations with ESPN and other distributors, or whether Paramount+ becomes a permanent home for secondary events.",
-      "tweets": [
-        {
-          "url": "https://twitter.com/ChampRDS/status/2067723851824275547",
-          "html": "<blockquote class=\"twitter-tweet\" align=\"left\" data-dnt=\"true\" data-theme=\"dark\"><p lang=\"en\" dir=\"ltr\">🚨 BREAKING: The UFC White House event reached a total of 17 MILLION viewers on Paramount+ <a href=\"https://t.co/CqTz1TIdM0\">pic.twitter.com/CqTz1TIdM0</a></p>&mdash; Championship Rounds (@ChampRDS) <a href=\"https://x.com/ChampRDS/status/2067723851824275547?ref_src=twsrc%5Etfw\">June 18, 2026</a></blockquote>\n\n",
-          "author_name": "Championship Rounds",
-          "author_url": "https://x.com/ChampRDS"
-        },
-        {
-          "url": "https://twitter.com/jedigoodman/status/2067733699320561798",
-          "html": "<blockquote class=\"twitter-tweet\" align=\"left\" data-dnt=\"true\" data-theme=\"dark\"><p lang=\"en\" dir=\"ltr\">Per Paramount+:<a href=\"https://x.com/hashtag/UFCFreedom250?src=hash&amp;ref_src=twsrc%5Etfw\">#UFCFreedom250</a> <a href=\"https://x.com/hashtag/UFCWhiteHouse?src=hash&amp;ref_src=twsrc%5Etfw\">#UFCWhiteHouse</a> <br><br>Live Averaged Minute Audience/Streaming Views (Over 7 Bouts): 8.2M<br>US: 7M<br>Latin America: 1.2M<br><br>Viewers Reached: 17M<br>US: 15.26M<br>Latin America: 1.67M<br><br>The UFC will announce viewership numbers outside the U.S. and Latin America next…</p>&mdash; Jed I. Goodman © (@jedigoodman) <a href=\"https://x.com/jedigoodman/status/2067733699320561798?ref_src=twsrc%5Etfw\">June 18, 2026</a></blockquote>\n\n",
-          "author_name": "Jed I. Goodman ©",
-          "author_url": "https://x.com/jedigoodman"
-        }
-      ]
-    },
-    {
-      "category": "contracts",
-      "importance": 8,
-      "leadHeadline": "Darren Raddysh trade grades: Have the Maple Leafs acquired their new No. 1 defenseman?",
-      "leadSource": "CBS Sports · 1h ago",
-      "leadUrl": "https://www.cbssports.com/nhl/news/darren-raddysh-trade-grades-maple-leafs-defenseman/",
-      "summary": "The Maple Leafs completed a sign-and-trade for 30-year-old defenseman Darren Raddysh, signing him to an eight-year contract in an aggressive bet on his late breakout season. The deal represents Toronto's most significant defensive acquisition in recent years, though risk exists around whether Raddysh's 2025 performance was sustainable.",
-      "article": "The Toronto Maple Leafs acquired defenseman Darren Raddysh via sign-and-trade and immediately extended him to an eight-year contract, betting that his late-career breakout was the inflection point of his career rather than a statistical anomaly. At 30 years old, Raddysh carries both upside and risk—a player who averaged modest production through his twenties suddenly posting elite underlying metrics in 2025.\n\nThe eight-year term is the Leafs' clearest signal of conviction since their front-office overhaul under John Chayka. This isn't a short-term rental or a prove-it deal; it's a franchise commitment to Raddysh as a cornerstone piece alongside their core forwards. The contract structure, length, and reported value represent Toronto's most aggressive defensive investment in years, signaling that Chayka views the window to contend as narrow and immediate.\n\nCBS Sports' trade grades assessed whether Toronto truly acquired a \"No. 1 defenseman\" or merely a rising veteran at the right market moment. Comparable recent trades of aging defensemen—Vegas acquiring Mark Stone's depth, Edmonton's Cody Chubb deal—provide cautionary context. When teams extend 30-year-old blue-liners to eight years, they're assuming injury avoidance and continued peak performance through age 38.\n\nSportsnet's coverage emphasized Raddysh's tangible contributions to Leafs structure: he fills the top-pairing void that has haunted Toronto postseason runs. The risk cuts both ways. If Raddysh sustains 2025 form, this is a rare deadline-era move that bolsters a contender. If 2025 was an outlier, Toronto has mortgaged flexibility for a $30M+ commitment to a player entering age-decline curves.",
+      "leadHeadline": "Justice department says it will investigate MLB amid Pride hats controversy",
+      "leadSource": "The Guardian · just now",
+      "leadUrl": "https://www.theguardian.com/sport/2026/jun/19/mlb-investigation-department-of-justice-pride-hats-religious-discrimination",
+      "summary": "The DOJ referred MLB to the EEOC for religious discrimination after San Francisco Giants pitchers wore Bible verses on Pride hats, escalating the league's ongoing culture war into federal oversight territory.",
+      "article": "The Department of Justice announced it will investigate Major League Baseball for potential religious discrimination following the Giants pitchers' decision to write Bible verses on their Pride hats earlier this week. The referral to the Equal Employment Opportunity Commission marks the first federal intervention in what has become baseball's most charged cultural flashpoint of 2026.\n\nThe incident began when several San Francisco pitchers opted out of the team's Pride celebration by inscribing Scripture on their uniform caps—a move that ignited immediate backlash from LGBTQ+ advocates and forced MLB into an awkward middle position. The league had positioned itself as a Pride supporter through merchandise and stadium initiatives, making the Giants' religious objection a direct contradiction of its stated values.\n\nWhat makes the federal referral significant isn't just the optics—it's the legal exposure. The EEOC investigation could determine whether MLB failed to protect employees from religious coercion or, conversely, whether the league discriminated against players exercising religious expression. Either outcome creates liability. If MLB is found to have pressured players to participate in Pride activities, the league faces potential damages and reputational damage among conservative fans and players. If the investigation concludes the league protected religious freedom adequately, it still signals that Washington is watching sports league culture wars closely.\n\nThis follows years of similar flashpoints in professional sports—the anthem protests, vaccine mandates, social justice messaging—but represents an escalation because it's now in federal hands. MLB can no longer manage this as an internal messaging problem. The league will likely issue a carefully lawyered statement about inclusion and respect, but the investigation itself is the story: Washington has decided that how baseball handles the intersection of sexuality, religion, and workplace equality is federal concern.",
       "tweets": []
     },
     {
       "category": "media",
-      "importance": 7,
-      "leadHeadline": "Sportico Parent PMC to Acquire SB Nation and Other Vox Brands",
-      "leadSource": "Sportico · 1d ago",
-      "leadUrl": "https://www.sportico.com/business/media/2026/pmc-buy-vox-media-sb-nation-sportico-1234936487/",
-      "summary": "Penske Media Corp., owner of Sportico, is acquiring SB Nation and additional Vox Media sports and culture brands in a consolidation that expands PMC's sports publishing footprint. The deal represents a significant shift in sports media ownership and editorial control.",
-      "article": "Penske Media Corp., the publishing conglomerate that owns Sportico, announced an acquisition of SB Nation and other select Vox Media brands, expanding PMC's footprint in sports and culture publishing. The transaction is the latest indicator of consolidation among legacy sports media properties, as traditional publishers seek scale in an increasingly fragmented digital advertising environment.\n\nSB Nation, founded in 2005 as a community-driven network of team-specific blogs, has operated under Vox Media since 2011. The brand commands significant traffic among team-focused sports audiences, with roughly 50+ vertical sites covering individual franchises across the NFL, NBA, MLB, NHL, and MLS. Acquisition by PMC—which also owns Variety, Rolling Stone, and The Hollywood Reporter—places SB Nation under the same corporate umbrella as Sportico, PMC's premium sports business publication launched in 2021.\n\nThe strategic logic centers on audience bundling and ad-stack optimization. PMC gains SB Nation's grassroots team fandom data and traffic; Sportico gains distribution channels to introduce business-focused sports content to SB Nation's casual fan base. The move also consolidates Vox Media's struggling sports portfolio, which has faced advertising headwinds common to all digital publishers competing for CPM dollars against platforms and premium subscription models.\n\nThis follows broader media consolidation: Paramount+'s expansion into UFC, Amazon Prime's NFL Thursday Night package, and Apple TV+'s MLS rights deals all reflect a shift toward bundled sports content ownership rather than single-property editorial houses. PMC's bet is that integrated sports publishing—from team blogs to business analysis—creates defensible value in an advertising market that rewards scale and data.",
+      "importance": 8,
+      "leadHeadline": "UFC's Freedom 250 Draws 17 Million Viewers",
+      "leadSource": "Front Office Sports · 6h ago",
+      "leadUrl": "https://frontofficesports.com/ufc-freedom-250-viewership-ratings-paramount-17-million-us-latin-america/",
+      "summary": "UFC's White House-adjacent event pulled 17 million viewers exclusively on Paramount+, demonstrating the combat sports league's ability to move mainstream audiences for premium tentpole programming.",
+      "article": "UFC's Freedom 250 event drew 17 million viewers on Paramount+, marking a significant audience benchmark for combat sports on streaming platforms and validating the league's strategy of exclusive premium events beyond traditional pay-per-view.\n\nThe number is substantial in absolute terms—larger than most cable television broadcasts—and particularly impressive given that the event aired exclusively on a streaming service rather than traditional broadcast or pay-per-view, which have historically been the proven audience drivers for combat sports. The event's positioning around a White House appearance added cultural gravitas beyond the typical fight card and likely expanded viewership beyond the core MMA demographic.\n\nFor Paramount+, the number reinforces the streamer's ability to serve as a legitimate distribution home for live sports. The event wasn't a simulcast or secondary window; it was THE exclusive home, forcing casual viewers to access Paramount specifically. That audience size suggests the streaming infrastructure held and that interest in live combat sports transcends traditional distribution boundaries.\n\nThe result also signals UFC's continued leverage in its media negotiations. With live sports remaining one of the few categories that drive appointment viewing and subscription adoption, these numbers give UFC leverage as it approaches contract renewal discussions with major networks and streamers. A 17 million-viewer event on streaming proves the league can move audiences independent of traditional sports media partners.\n\nContext matters: this sits above typical cable sports broadcasts but below Super Bowl-adjacent events. It's a strong floor for streaming premium content, not a record-breaking ceiling. Still, for a combat sports league that was fighting legitimacy a decade ago, the ability to command that scale on a premium streaming platform represents genuine mainstream penetration.",
       "tweets": []
     },
     {
-      "category": "leagues",
+      "category": "revenue",
       "importance": 7,
-      "leadHeadline": "Justice department says it will investigate MLB amid Pride hats controversy",
-      "leadSource": "The Guardian · 3h ago",
-      "leadUrl": "https://www.theguardian.com/sport/2026/jun/19/mlb-investigation-department-of-justice-pride-hats-religious-discrimination",
-      "summary": "The U.S. Justice Department referred MLB to the EEOC for investigation following the San Francisco Giants pitchers' use of Bible verses on Pride Night hats, marking a rare federal labor inquiry into league workplace conduct. The referral escalates the Pride hat controversy from internal dispute to potential religious discrimination case.",
-      "article": "The U.S. Justice Department announced it will investigate Major League Baseball following the San Francisco Giants incident in which pitchers wrote Bible verses on hats during Pride Night, according to The Guardian. The referral to the Equal Employment Opportunity Commission (EEOC) transforms what began as an internal franchise matter into a federal labor inquiry focused on potential religious discrimination.\n\nThe Giants incident occurred during the 2025 season when several pitchers, citing religious objections to Pride celebrations, inscribed Bible passages on their hats rather than wearing the league-mandated Pride merchandise. Giants management declined to discipline the players, framing the choice as protected expression. MLB initially allowed the conduct to proceed without comment from league office.\n\nThe Justice Department's referral signals that federal authorities view the matter as raising workplace discrimination questions: whether MLB's Pride initiatives created an environment where employees felt compelled to choose between participating in diversity programming or expressing religious belief. The EEOC probe will likely examine whether the league's handling of the incident—or lack thereof—constituted acquiescence to religious expression that marginalized LGBTQ+ employees or visitors.\n\nThis is unprecedented territorial for MLB, which has avoided major federal labor investigations since collusion cases in the 1980s. The referral doesn't presume wrongdoing but mandates that MLB produce documents, employee communications, and policy records related to the Giants incident and any similar events across the league.\n\nThe investigation places Rob Manfred and ownership in a difficult position: defend Pride Night as binding league policy (risking religious discrimination claims) or retreat (signaling that religious objections override diversity standards). The outcome will likely shape how all sports leagues navigate identity initiatives against religious accommodation claims.",
+      "leadHeadline": "Women's Football Is Ready for Its Tom Brady Moment",
+      "leadSource": "Front Office Sports · 5h ago",
+      "leadUrl": "https://frontofficesports.com/womens-football-is-ready-for-its-tom-brady-moment/",
+      "summary": "The women's professional football league reached an inflection point in its seventh season, signaling readiness for the sustained commercial breakthrough that has eluded female team sports.",
+      "article": "Women's professional football completed its seventh season having reached the inflection point where sustainable viability shifts from hope to evidence. The league's timing coincides with three macro forces that rarely align: improved on-field product quality, mainstream media distribution infrastructure, and proven consumer appetite for women's sports content.\n\nThe \"Tom Brady Moment\" reference is instructive: Brady didn't create demand for football; he became the symbol that professional football could sustain star power, narrative arcs, and generational excellence across decades. Women's football needs its equivalent not in one player but in the league's ability to produce recognizable stars, repeatable playoff drama, and franchise stability that extends beyond a single season's novelty.\n\nEvidence suggests the league is moving in that direction. Media rights negotiations signal that streaming platforms and traditional broadcasters view women's football as proven content with audience depth rather than charity programming. Sponsorship conversations have shifted from one-off activations to multi-year category partnerships. Merchandise sales indicate female fans aren't seasonal but habitual.\n\nThe critical threshold isn't massive audiences in year one—it's whether the league can retain viewers across multiple seasons without needing external cultural moments (Olympics, World Cup) to drive engagement. That requires franchise investment in player development, coaching stability, and front-office professionalism. It also requires the league to stop treating parity as a feature and start treating star power as a business imperative.\n\nIf women's football can produce a quarterback, wide receiver, or defensive star who becomes recognizable beyond the sport—not because of their gender but because of their excellence—the commercial picture changes. The league has the infrastructure now. Whether it has the competitive architecture to produce that star is the remaining question.",
       "tweets": []
     },
     {
       "category": "media",
       "importance": 6,
-      "leadHeadline": "Women's Football Is Ready for Its Tom Brady Moment",
-      "leadSource": "Front Office Sports · 2h ago",
-      "leadUrl": "https://frontofficesports.com/womens-football-is-ready-for-its-tom-brady-moment/",
-      "summary": "The women's football league has reached an inflection point in its seventh season, with narratives and commercial infrastructure suggesting readiness for a superstar-driven era. The league is positioned to capitalize on sustained fan engagement and emerging media strategies.",
-      "article": "Women's professional football has reached a critical inflection point in its just-completed seventh season, according to Front Office Sports' analysis of the league's trajectory. The characterization—a \"Tom Brady moment\"—refers to the confluence of on-field storylines, emerging star power, and commercial infrastructure converging to elevate the sport from novelty to destination viewing.\n\nThe seventh season saw increased viewership across broadcast partners, expanded sponsorship commitments from traditional corporate sponsors, and deepening grassroots fan engagement in secondary markets previously underserved by major sports. Critically, the league now hosts recognizable individual players with marketable narratives, distinct playing styles, and social media followings that transcend the sport itself.\n\nThe \"Tom Brady moment\" framing invokes the quarterback's transformation of the Patriots from franchise punchline to dynasty—a shift catalyzed by sustained excellence, media saturation, and a single player's ubiquity. The women's league hasn't yet crowned an equivalent singular figure, but the ecosystem for one now exists: media partnerships capable of sustaining narrative arcs, sponsorships aligned with female athlete visibility, and a fanbase primed to consume content beyond game broadcasts.\n\nFront Office Sports' analysis noted that seventh-season performance in youth engagement, stadium attendance growth, and merchandising velocity suggest the league is past the critical \"novelty window\" where viewership depends entirely on novelty-factor. Fans are now returning for sport quality and player attachment rather than cultural moment consumption.\n\nThe commercial test comes in next media rights negotiation. If broadcast partners view the league as investment-grade—capable of sustaining 2-3M regular-season viewers and playoff peaks above 5M—rights fees could approach thresholds that make women's football a sustainable franchise model rather than loss-leader programming.",
+      "leadHeadline": "Jalen Brunson hilariously calls Luka Dončić the worst teammate he's ever had",
+      "leadSource": "NY Post Sports · just now",
+      "leadUrl": "https://nypost.com/2026/06/19/sports/jalen-brunson-jokingly-says-luka-doncic-is-the-worst-teammate-hes-ever-had/",
+      "summary": "Knicks guard Jalen Brunson joked that Luka Dončić is the worst teammate he's faced—a playful comment that underscores the chemistry between the two stars after winning the franchise's first title since 1973.",
+      "article": "Jalen Brunson quipped that Luka Dončić is the worst teammate he's ever had in a recent interview, a barb that reads as affectionate ribbing between two stars who just delivered the New York Knicks their first NBA championship in 53 years.\n\nThe comment requires context: Brunson and Dončić spent years together in Dallas before the Knicks acquired Brunson in the offseason. Whatever friction existed in those years—and there was some, given Dončić's ball dominance and defensive reputation—has apparently resolved into the kind of locker room chemistry that wins titles. The fact that Brunson felt comfortable making the joke publicly suggests security rather than lingering tension.\n\nMore importantly, the comment indexes how Brunson is using his postgame platform. Fresh off winning an MVP-caliber playoff run, he's not parsing words or hiding behind corporate-speak. He's doing interviews that feel organic and conversational, which is exactly what mainstream sports media needs from champions. The Knicks' marketing apparatus should be delighted—this is the kind of authentic, quotable material that drives podcast clips, social media engagement, and casual fan interest.\n\nFor Brunson specifically, the joke also reinforces his position as the team's alpha. He's not deferring to Dončić or speaking carefully around the franchise's history. He's treating his teammate as a peer and a rival, which is exactly the posture a championship guard should take. In a league where stars increasingly treat interviews as brand-management opportunities, Brunson's willingness to needle Dončić—especially in a winning context—sets a tone of confidence that extends beyond the court.\n\nThe broader story: the Knicks won because Brunson elevated his game, Dončić accepted a secondary role, and the roster depth filled gaps. That hierarchy is now public, and Brunson is comfortable making it known.",
       "tweets": []
     },
     {
-      "category": "leagues",
+      "category": "labor",
       "importance": 5,
-      "leadHeadline": "Coventry play champions Arsenal in Premier League opener",
-      "leadSource": "BBC Sport · 8h ago",
-      "leadUrl": "https://www.bbc.com/sport/football/articles/cdx7kyv92rjo?at_medium=RSS&amp;at_campaign=rss",
-      "summary": "Newly promoted Coventry City will open the 2026-27 Premier League season at home against defending champions Arsenal, a fixture that tests promotion sustainability and Arsenal's title defense immediately. The draw represents typical Premier League scheduling volatility for promoted clubs.",
-      "article": "The 2026-27 Premier League season will open with newly promoted Coventry City hosting defending champions Arsenal, a fixture that places the Championship-promoted side in immediate competitive jeopardy. BBC Sport reported the draw as part of the league's fixture release for the upcoming campaign.\n\nCoventry's promotion last season marked a return to the Premier League after years in lower divisions, ending one of English football's longest playoff droughts. The Coventry fanbase approaches their return with measured optimism rooted in genuine on-field progress rather than external investment; the club has built promotion through academy development and tactical coherence rather than financial windfall.\n\nThe fixture against Arsenal in Week 1, however, is unforgiving. Arsenal enters the 2026-27 season as defending champions following the 2025-26 title win, carrying momentum, established squad chemistry, and full European schedule load. For Coventry, it's both a narrative gift—\"little promoted club takes on Europe's giant\"—and a potentially demoralizing reality check. Promoted clubs historically struggle in opening weeks against elite opposition, with fixture difficulty correlated to late-season survival margins.\n\nPremier League fixture scheduling does not account for promotion favorability; all clubs draw opponents from the full 20-team pool. Arsenal and Manchester City will visit Coventry regardless of competitive logic. The early Arsenal test is immaterial to Coventry's survival prospects—their November-April schedule matters far more—but it frames the narrative immediately: promoted club either competes respectfully (moral victory) or collapses (confirmation of irrelevance).\n\nCoventry's academy-forward model and recent promotion suggest genuine structural improvements. But Week 1 against the defending champions offers little predictive value beyond entertainment framing.",
+      "leadHeadline": "Canada's Ismael Kone undergoes surgery, shares message after World Cup injury",
+      "leadSource": "Sportsnet · 4h ago",
+      "leadUrl": "",
+      "summary": "Canadian midfielder Ismael Kone underwent surgery after a World Cup injury and shared a message with fans, raising questions about his club team's timeline and fitness status.",
+      "article": "Ismael Kone, a key midfielder for Canada's World Cup squad, underwent surgery following an injury sustained during the tournament. The player shared a message with supporters, confirming the procedure but offering limited detail on recovery timeline or severity.\n\nThe injury is notable because Kone plays for a major club franchise in addition to his international duties, meaning his World Cup setback has ripple effects beyond the federation. His club will face questions about when he'll return to fitness and whether the World Cup injury creates a longer-than-typical recovery window. If Kone misses significant club time, it cascades into roster planning for both his franchise and Canada's competitive standing heading into qualification cycles.\n\nWorld Cup injuries during tournament play sit in a gray zone: they occur on the international stage but affect club rosters. Clubs have expressed frustration in recent years about players returning from World Cup tournaments dealing with unaddressed injuries because international federations have limited incentive to invest in deep rehabilitation once the tournament ends. Kone's public message may signal he's taking ownership of the recovery rather than waiting on federation support, which is pragmatic but also reveals the structural gap in how injuries are managed across club-country boundaries.\n\nThe actual severity—whether this is a season-defining injury or a manageable recovery—remains unclear. The surgery itself suggests something more than minor, though. Canadian fans and club scouts will be watching his rehabilitation closely, especially given his role in both contexts.",
       "tweets": []
     },
     {
-      "category": "revenue",
+      "category": "media",
       "importance": 4,
-      "leadHeadline": "Back to School: Philly MLS Club Plans Free Youth Soccer",
-      "leadSource": "Sportico · 5h ago",
-      "leadUrl": "https://www.sportico.com/leagues/soccer/2026/philadelphia-free-youth-soccer-program-1234936453/",
-      "summary": "A Philadelphia MLS franchise is launching a free youth soccer initiative as part of 2026 World Cup legacy-building, with sponsorship partnerships already in place. The program targets grassroots engagement and long-term fan development in a World Cup host market.",
-      "article": "A Philadelphia-based MLS club is establishing a free youth soccer initiative amid World Cup legacy planning, according to Sportico reporting. The program, backed by existing sponsorships, targets youth player development and market engagement as part of broader North American soccer infrastructure expansion.\n\nWith the 2026 FIFA World Cup now underway across the United States, host cities and incumbent professional franchises are executing legacy commitments—investments in youth development, facility improvements, and grassroots programming intended to sustain heightened soccer interest beyond the tournament.\n\nThe Philadelphia initiative partners with established sponsors to eliminate cost barriers for youth participation, a deliberate contrast to traditional pay-to-play youth soccer models. By providing free access, the MLS franchise captures demographic data, builds familiarization with the club brand among school-age populations, and establishes feeder pathways from youth leagues to academy pipelines.\n\nSportico's reporting noted that many stakeholders—including corporate sponsors—are executing similar legacy commitments in World Cup host markets. These programs are tax-deductible goodwill investments for sponsors and equity investments for franchises. A youth player who participates free at age 8 has a 15-year window to become a season ticket holder, merchandise consumer, and eventually a legacy donor.\n\nThe commercial calculus favors front-loaded investment: free youth programming costs less than adult stadium operations but generates data and brand affinity. By 2030, when World Cup interest normalizes, franchises hope youth participants have naturalized the sport as accessible and premium-brand-adjacent, driving premium ticket demand in adulthood.",
+      "leadHeadline": "Sportico Transactions: Moves and Mergers Roundup for June 19",
+      "leadSource": "Sportico · 2h ago",
+      "leadUrl": "https://www.sportico.com/personalities/people/2026/sportico-transactions-moves-mergers-roundup-june-19-1234936559/",
+      "summary": "Sportico's weekly transactions roundup captures personnel moves, partnerships, and product developments across the sports business industry.",
+      "article": "Sportico's weekly transactions digest aggregates the week's notable business movements across sports—personnel hires and departures, sponsorship agreements, media deals, and strategic partnerships that don't rise to individual headline status but collectively shape the industry's operational landscape.\n\nThese roundups serve as the industry's nervous system: they're where decisions that will matter in three to six months first appear in consolidated form. A sponsorship nobody noticed, a partnership signing, a leadership change at a mid-tier sports property—individual transactions often lack headline gravity, but patterns within them signal strategic direction.\n\nThe value of aggregating these moves is that it reveals what the industry's actual priorities are versus what gets press coverage. Major league and franchise news dominates headlines, but the real operational muscle of sports business happens in these secondary transactions: a sports tech startup raising capital, a regional network signing a new broadcast deal, a league adjusting its personnel strategy.\n\nFor industry readers—agents, executives, investors—these roundups are essential briefing material. They're the equivalent of reading court dockets: nothing individually shocking, but collectively they reveal the direction capital is flowing, which executives are in demand, and what strategic partnerships are forming.\n\nSportico's approach to packaging these weekly is efficient and necessary. As sports business becomes more complex and more deals happen simultaneously across more platforms and private markets, the ability to surface patterns in transaction data becomes a differentiator.",
+      "tweets": []
+    },
+    {
+      "category": "media",
+      "importance": 3,
+      "leadHeadline": "Indiana's Bob Knight Statue Costs a Pretty Penny",
+      "leadSource": "Sportico · 9h ago",
+      "leadUrl": "https://www.sportico.com/leagues/college-sports/2026/indiana-bobby-knight-statue-cost-1234936548/",
+      "summary": "The University of Indiana is paying a sculptor $195,000 to create a statue memorializing legendary basketball coach Bob Knight, reflecting the ongoing institutional investment in honoring his legacy.",
+      "article": "The University of Indiana is commissioning a $195,000 sculpture to memorialize basketball coach Bob Knight, according to public records reviewed by Sportico. The figure underscores Indiana's continued investment in honoring Knight despite his controversial tenure and the national reckoning with how universities handle the legacies of coaches with complicated histories.\n\nThe cost is notable because it's neither trivial nor shocking for a major sculpture. For context, university monuments typically range from $75,000 for modest campus installations to $500,000+ for prominent plaza installations. Indiana's $195,000 places Knight's statue in the mid-to-upper tier of campus art spending, signaling that the institution views his legacy as deserving meaningful commemorative investment.\n\nWhat complicates the picture: Knight's tenure at Indiana was marked by documented instances of abusive behavior toward players, incidents that contributed to his firing in 2000. Universities across the country have wrestled with whether historical figures with tainted legacies deserve continued monumental honor. Some have removed statues; others have contextualized them with plaques acknowledging their complicated history. Indiana's decision to commission a new sculpture rather than remove or contextualize an existing one suggests the institution has made a deliberate choice to emphasize Knight's basketball achievements over the conduct controversies.\n\nThe timing also matters. This isn't a decades-old monument that was commissioned when different standards applied. This is a contemporary decision with full awareness of the national conversation about institutional accountability. Indiana is making a statement that it views Knight's 29-year tenure and three national championships as worthy of fresh commemorative investment, institutional judgment be damned.\n\nFor college athletics, it's another data point in the ongoing tension between athletic achievement and institutional values.",
       "tweets": []
     }
   ],
@@ -2404,96 +2391,118 @@
     ],
     "source": "espn"
   },
-  "deals": [
-    {
-      "type": "media_rights",
-      "parties": "UFC ⇄ Paramount+",
-      "value_usd": null,
-      "term_years": null,
-      "league": "OTHER",
-      "headline": "UFC's Freedom 250 draws 17M viewers on Paramount+ exclusive",
-      "storyIndex": 8,
-      "blurb": "UFC Freedom 250 event on Paramount+ drew 17 million viewers, validating streaming model for major combat sports cards.",
-      "capturedAt": "2026-06-19T17:12:54.596Z"
-    }
-  ],
+  "deals": [],
   "ratings": [
     {
-      "event": "UFC Freedom 250 (Paramount+ exclusive)",
+      "event": "UFC Freedom 250",
       "network": "Paramount+",
       "viewers_m": 17,
       "peak_viewers_m": null,
       "league": "OTHER",
       "storyIndex": 8,
-      "context": "Streaming-exclusive event drew 17M viewers, exceeding traditional PPV patterns; validates UFC-Paramount+ strategy.",
-      "capturedAt": "2026-06-19T17:12:54.596Z"
+      "context": "Exclusive streaming event drew 17M viewers, validating Paramount+ as premium live sports platform.",
+      "capturedAt": "2026-06-19T20:24:47.080Z"
     }
   ],
   "ticket_prices": [],
   "sidebar": [
     {
+      "headline": "England winger Saka unlikely to start against Ghana",
+      "source": "BBC Sport · just now",
+      "article": "England head coach Thomas Tuchel signaled that winger Bukayo Saka is unlikely to feature in the starting XI for Tuesday's match against Ghana. The decision comes as Tuchel navigates the balance between rotation and momentum in the World Cup group stage. Saka has been a consistent starter for England under previous regimes, but Tuchel's comments suggest either tactical adjustment or a precautionary fitness management approach. With Ghana presenting a relatively favorable matchup, using the occasion to rest Saka makes strategic sense if lingering injury or fatigue is a concern. The broader pattern: Tuchel is asserting his own lineup philosophy rather than deferring to established starting roles."
+    },
+    {
+      "headline": "England hit by Rew drops and Nicholls century",
+      "source": "BBC Sport · 3h ago",
+      "article": "England's already difficult position in the second Test against New Zealand worsened after debutant wicketkeeper James Rew dropped crucial chances while New Zealand's Nicholls posted a commanding century. The drops underscore the risk inherent in blooding inexperienced players in hostile conditions. Rew's lapses behind the stumps are the kind of errors that swing Test matches in tight contests, and against a New Zealand side capable of exploiting every advantage, the slack catching is especially costly. Nicholls' century gives New Zealand momentum heading into England's second innings. The combination of defensive vulnerability and opponent excellence puts England in a precarious position."
+    },
+    {
       "headline": "Spencer Strider: MLB's Bernie Bro on veganism, Trash Panda, and fighting homophobia",
-      "source": "The Guardian · 8h ago",
-      "article": "Atlanta Braves pitcher Spencer Strider has established himself as baseball's most outspoken athlete on identity and activism, blending vegan advocacy, LGBTQ+ allyship, and unconventional media engagement. His interview with Joseph Palmer covers his evolution from prospect to polarizing figure, his use of social platforms to challenge baseball's institutional conservatism, and his activism around team-level Pride initiatives. Strider's visibility as a vocal progressive in a traditionally insular sport has made him a flashpoint for debates about athlete activism, religious accommodation, and institutional values—conversations that have escalated given the recent Justice Department investigation into MLB following Pride Night incidents."
+      "source": "The Guardian · 11h ago",
+      "article": "Braves pitcher Spencer Strider discussed his approach to veganism, his unusual social media presence ('Trash Panda'), and his commitment to fighting homophobia in baseball—topics that distinguish him from the typical MLB player demographic. Strider represents the growing cohort of baseball players who view their platform as an opportunity for advocacy beyond the sport. His willingness to engage directly with social issues positions him as an outlier in a sport that has historically favored political neutrality from players. The profile reflects a changing athlete archetype in baseball: younger players increasingly comfortable blending athletic identity with political and social conscience."
     },
     {
-      "headline": "Why Morocco game could be greatest of all for Scotland",
-      "source": "BBC Sport · 6h ago",
-      "article": "Scotland faces Morocco in a World Cup knockout-stage match that carries existential weight for Steve Clarke's tenure. A loss ends Scotland's tournament ambitions; a win secures knockout progression and validates Clarke's tenure-long project to stabilize the national team. BBC Sport's analysis positions the match as the defining moment of Clarke's managerial arc, requiring Scotland's most cohesive performance since his 2019 arrival. The fixture carries narrative weight beyond tournament math: a nation searching for confirmation that consistent qualification and steady development have genuine return on investment."
-    },
-    {
-      "headline": "Nobodys panicking here: Blue Jays World Series heartbreak is helping them navigate frustrating first half",
+      "headline": "Xander Schauffele exemplifies the power of patience required for a U.S. Open in strong Round 2",
       "source": "CBS Sports · 1h ago",
-      "article": "Toronto's collapse in last year's World Series (Game 6 loss) has paradoxically steadied the franchise through a frustrating 2026 first half. Despite falling below .500 for significant stretches, the front office and clubhouse have maintained conviction that roster construction and recent acquisitions—including the Raddysh trade—represent long-term positioning rather than immediate fixes. CBS Sports notes that 2025 Fall Classic heartbreak can either accelerate dysfunction or galvanize commitment; Toronto has chosen the latter, betting that one game away from a championship last October provides cover for near-term regular-season struggle."
-    },
-    {
-      "headline": "What Darren Raddysh can do for the Maple Leafs",
-      "source": "Sportsnet · 2h ago",
-      "article": "Defenseman Darren Raddysh's eight-year extension with Toronto addresses the Maple Leafs' persistent structural gap: elite forward depth without corresponding top-pairing blue-line stability. Sportsnet's analysis emphasizes Raddysh's tangible contributions—breakout-pass accuracy, zone exit velocity, postseason reliability—that translate directly to deeper playoff runs. The contract bet is that 2025 represented sustainable peak performance rather than statistical variance, positioning Raddysh as the defensive anchor that has eluded Toronto through recent contention windows."
+      "article": "Xander Schauffele's strong second-round performance at the U.S. Open demonstrated the patience and precision required to navigate the championship's notoriously demanding conditions. Schauffele has consistently contended in major championships over the past two years but hasn't converted pressure situations into victories. His ability to stay in contention at the U.S. Open—where aggressive play is penalized—suggests he's internalized the lessons from prior major disappointments. The leaderboard positioning reflects that Schauffele has learned to play for second chances at majors rather than forcing outcomes."
     },
     {
       "headline": "Kalshi's Tarek Mansour Talks Giannis, Don Jr., Supreme Court",
-      "source": "Front Office Sports · 4h ago",
-      "article": "Kalshi CEO Tarek Mansour addressed criticism of the prediction market platform's expansion into political betting, discussing regulatory approval, high-profile bets on sports personalities, and pending Supreme Court CFTC rulemaking. Mansour defended Kalshi's business model while acknowledging the political sensitivity of prediction markets that permit wagering on non-sporting outcomes. The interview underscores ongoing uncertainty around sports betting regulation and the intersection of markets, prediction platforms, and political speech."
+      "source": "Front Office Sports · 7h ago",
+      "article": "Kalshi cofounder Tarek Mansour discussed the sports betting platform's expansion, regulatory battles with the CFTC, and the intersection of his business with high-profile athletes and political figures. Mansour's comments on the Supreme Court and federal rulemaking reveal that sports betting infrastructure is increasingly a matter of regulatory policy, not just commercial competition. The Kalshi positioning suggests that betting platforms are moving beyond niche gambling operators into mainstream financial markets, which attracts both mainstream investment and federal scrutiny."
     },
     {
-      "headline": "Indiana's Bob Knight Statue Costs a Pretty Penny",
-      "source": "Sportico · 6h ago",
-      "article": "The University of Indiana is paying sculptor $195,000 to memorialize legendary basketball coach Bob Knight, a modest investment relative to campus monument costs but significant enough to generate discussion around institutional priorities. The sculpture honors Knight's historic tenure at Indiana, though his legacy remains contested given his well-documented coaching methods and off-court behavior. The commissioning underscores academia's ongoing calculus around athlete and coach memorialization in an era of legacy reassessment."
+      "headline": "Blue Jays head to Chicago to face Cubs on Friday",
+      "source": "Sportsnet · 2h ago",
+      "article": "The Toronto Blue Jays travel to Wrigley Field to face the Chicago Cubs on Friday, looking to extend a three-game road winning streak. The series matchup pits two franchises with contrasting seasonal arcs: the Cubs have struggled with consistency while the Jays have shown recent competitive form. The matchup is a standard mid-season divisional contest with playoff implications if both franchises remain in contention through August. Wrigley Field's historically difficult conditions for visiting teams add context to the Blue Jays' challenge."
     }
   ],
   "poll": {
-    "question": "What is the most pressing business story in sports right now?",
+    "question": "Which story has the biggest long-term impact on professional sports?",
     "options": [
-      "Media consolidation reshaping sports publishing (PMC-SB Nation)",
-      "Streaming exclusivity replacing traditional PPV (UFC-Paramount+)",
-      "Federal labor scrutiny on DEI initiatives (MLB-EEOC)",
-      "Mid-market franchise flexibility (Maple Leafs-Raddysh)"
+      "DOJ investigating MLB for religious discrimination",
+      "Women's football reaching commercial inflection point",
+      "UFC's 17M streaming viewers proving combat sports appeal",
+      "World Cup injury surge revealing club-country structural problems"
     ]
   },
   "predictions": [
     {
-      "statement": "MLB will reach settlement with EEOC on Pride Night incident without admitting wrongdoing, establishing precedent for future religious accommodation claims.",
-      "probability": 72,
-      "rationale": "Federal labor cases typically resolve via negotiated settlement rather than litigation. MLB's incentive is clarity and precedent; EEOC's is enforceable guidelines. Both parties avoid protracted discovery. The framework likely becomes template for other leagues navigating identity initiatives against religious objection claims."
+      "statement": "The EEOC investigation concludes with an MLB consent decree requiring formal religious accommodation policies within 18 months.",
+      "probability": 62,
+      "rationale": "Federal investigation rarely ends without enforcement action. MLB's existing DEI commitments create documented expectations that investigators will measure against. The league has leverage to negotiate terms, but avoiding consent decree entirely is unlikely once EEOC formally investigates."
     },
     {
-      "statement": "Paramount+ renews UFC streaming deal at 30%+ premium after Freedom 250 viewership validates subscriber value",
-      "probability": 68,
-      "rationale": "17M viewers on a streaming service without traditional PPV friction is exceptional performance. If sustained across 4-6 card slate annually, that audience size justifies higher licensing fees than traditional PPV buyrate models. Paramount+ has leverage to demand extended terms at inflated rates; UFC has proof-of-concept that exclusive streaming works."
+      "statement": "Women's professional football negotiates a media rights deal worth $80M+ annually by end of 2026.",
+      "probability": 48,
+      "rationale": "The article signals momentum but doesn't confirm imminent deals. Streamers are interested, but valuations depend on audience growth in the next 18 months. Worth betting on, but not a lock—depends on league's ability to build star narratives."
     },
     {
-      "statement": "Darren Raddysh maintains elite defensive metrics through age 32 (term midpoint), validating Toronto's eight-year contract investment.",
-      "probability": 55,
-      "rationale": "Raddysh is 30, entering the final peak years for defensemen. Historical comps (Suter, Pietrangelo) show durable D-men can maintain effectiveness into mid-30s if healthy. The risk is injury or sudden decline, which is non-zero but not catastrophic at this contract length. Toronto is betting on durability, not immortality—a reasonable wager at even odds."
+      "statement": "Ismael Kone misses more than 12 weeks of club play due to World Cup surgical injury.",
+      "probability": 71,
+      "rationale": "Surgery suggests something more serious than standard soft tissue injury. World Cup surgeries are rarely performed with conservative rehab windows; international federations often minimize recovery time. Clubs historically see 10-16 week absences post-World Cup procedures."
     },
     {
-      "statement": "Women's professional football secures media rights package at 40%+ increase in next negotiation cycle (within 24 months).",
-      "probability": 61,
-      "rationale": "Seven-season sustainability metrics, growing star power, and demonstrated sponsor value support higher rates. Broadcast partners will resist, citing CPM floors and traditional sports dominance. But if women's football averages 2-3M viewers this season with playoff peaks above 5M, rights fees reflect genuine audience scarcity—driving negotiating power that hasn't existed in prior cycles."
+      "statement": "Paramount+ negotiates exclusive rights to at least one major 2027 UFC event based on Freedom 250 viewership numbers.",
+      "probability": 84,
+      "rationale": "17M viewers is the proof point Paramount needed to justify premium sports investment. UFC needs reliable streaming distribution. The numbers create mutual incentive for expanded partnership. Only barrier is competing bidders, which is real but secondary to the demonstrated audience size."
     }
   ],
-  "injuries": [],
+  "injuries": [
+    {
+      "player": "Bukayo Saka",
+      "team": "England National Team",
+      "league": "SOCCER",
+      "status": "QUESTIONABLE",
+      "injury": "Undisclosed fitness concern",
+      "timeline": "Game-time decision vs Ghana",
+      "source": "Thomas Tuchel, England head coach",
+      "impact": "Potential loss of England's most consistent attacking threat; forces Tuchel to activate backup wide options in crucial World Cup group match.",
+      "storyIndex": 4
+    },
+    {
+      "player": "Ismael Kone",
+      "team": "Canada National Team / Club TBD",
+      "league": "SOCCER",
+      "status": "IR",
+      "injury": "Surgical injury (World Cup)",
+      "timeline": "8-16 weeks (typical post-surgical recovery)",
+      "source": "Sportsnet reporting",
+      "impact": "Absence creates midfield depth crisis for club; affects Canada's qualification cycle planning and tactical flexibility.",
+      "storyIndex": 14
+    },
+    {
+      "player": "James Rew",
+      "team": "England Cricket",
+      "league": "OTHER",
+      "status": "QUESTIONABLE",
+      "injury": "Dropped catches / defensive focus concern",
+      "timeline": "Ongoing Test series",
+      "source": "BBC Sport",
+      "impact": "Debutant wicketkeeper's inconsistency behind stumps costs England runs and builds psychological advantage for New Zealand in critical Test match.",
+      "storyIndex": 12
+    }
+  ],
   "picks": [
     {
       "matchup": "Chicago White Sox @ Detroit Tigers",
@@ -2604,60 +2613,6 @@
       "_scheduledTs": 1781910360000
     },
     {
-      "matchup": "Toronto Blue Jays @ Chicago Cubs",
-      "league": "MLB",
-      "type": "moneyline",
-      "when": "Today 2:21 PM ET",
-      "pick": "Chicago Cubs ML",
-      "odds": "-117",
-      "edge": "Research identified no statistical edge between Gausman and Brown, but Cubs moneyline at -117 reflects market pricing on home field + slight pitching favorability. Toronto's .705 team OPS (22nd in MLB) and Vladimir Guerrero Jr.'s power decline (4 HR to date) project a weak offensive environment. Cubs are favored and the -117 odds are fair-to-slight-edge pricing; this is the closest matchup on the slate but the home park and offensive disparity justify a lean on the Cubs at standard -117 rather than forcing a contrarian play.",
-      "confidence": "low",
-      "marketSnapshot": {
-        "capturedAt": "2026-06-19T17:13:58.332Z",
-        "markets": {
-          "h2h": {
-            "away": {
-              "price": 109,
-              "book": "LowVig.ag"
-            },
-            "home": {
-              "price": -117,
-              "book": "BetOnline.ag"
-            },
-            "draw": null
-          },
-          "spreads": {
-            "away": {
-              "point": 1.5,
-              "price": -210,
-              "book": "MyBookie.ag"
-            },
-            "home": {
-              "point": 1.5,
-              "price": -208,
-              "book": "DraftKings"
-            }
-          },
-          "totals": {
-            "over": {
-              "point": 7,
-              "price": -112,
-              "book": "LowVig.ag"
-            },
-            "under": {
-              "point": 7,
-              "price": 100,
-              "book": "DraftKings"
-            }
-          }
-        },
-        "awayTeam": "Toronto Blue Jays",
-        "homeTeam": "Chicago Cubs",
-        "commenceTime": "2026-06-19T18:21:00Z"
-      },
-      "_scheduledTs": 1781893260000
-    },
-    {
       "matchup": "San Francisco Giants @ Miami Marlins",
       "league": "MLB",
       "type": "moneyline",
@@ -2710,6 +2665,61 @@
         "commenceTime": "2026-06-19T23:11:00Z"
       },
       "_scheduledTs": 1781910660000
+    },
+    {
+      "matchup": "Toronto Blue Jays @ Chicago Cubs",
+      "league": "MLB",
+      "type": "moneyline",
+      "when": "Today 2:21 PM ET",
+      "pick": "Chicago Cubs ML",
+      "odds": "-117",
+      "edge": "Research identified no statistical edge between Gausman and Brown, but Cubs moneyline at -117 reflects market pricing on home field + slight pitching favorability. Toronto's .705 team OPS (22nd in MLB) and Vladimir Guerrero Jr.'s power decline (4 HR to date) project a weak offensive environment. Cubs are favored and the -117 odds are fair-to-slight-edge pricing; this is the closest matchup on the slate but the home park and offensive disparity justify a lean on the Cubs at standard -117 rather than forcing a contrarian play.",
+      "confidence": "low",
+      "marketSnapshot": {
+        "capturedAt": "2026-06-19T17:13:58.332Z",
+        "markets": {
+          "h2h": {
+            "away": {
+              "price": 109,
+              "book": "LowVig.ag"
+            },
+            "home": {
+              "price": -117,
+              "book": "BetOnline.ag"
+            },
+            "draw": null
+          },
+          "spreads": {
+            "away": {
+              "point": 1.5,
+              "price": -210,
+              "book": "MyBookie.ag"
+            },
+            "home": {
+              "point": 1.5,
+              "price": -208,
+              "book": "DraftKings"
+            }
+          },
+          "totals": {
+            "over": {
+              "point": 7,
+              "price": -112,
+              "book": "LowVig.ag"
+            },
+            "under": {
+              "point": 7,
+              "price": 100,
+              "book": "DraftKings"
+            }
+          }
+        },
+        "awayTeam": "Toronto Blue Jays",
+        "homeTeam": "Chicago Cubs",
+        "commenceTime": "2026-06-19T18:21:00Z"
+      },
+      "_scheduledTs": 1781893260000,
+      "_pendingGrade": true
     },
     {
       "matchup": "San Antonio Spurs @ New York Knicks",
@@ -2779,38 +2789,38 @@
       "_pendingGrade": true
     }
   ],
-  "updatedAt": "2026-04-23T18:45:00Z",
+  "updatedAt": "2026-06-19T18:47:00Z",
   "highlights": [
     {
       "league": "NBA",
-      "title": "The kid in the crowd was loving Brunson hitting his celly 😂",
-      "videoId": "bkAcrVJxrxA",
-      "thumbnail": "https://img.youtube.com/vi/bkAcrVJxrxA/mqdefault.jpg",
+      "title": "The Smartest Plays of the 2026 NBA Finals",
+      "videoId": "P87tRvtcc_c",
+      "thumbnail": "https://img.youtube.com/vi/P87tRvtcc_c/mqdefault.jpg",
       "timeAgo": "Just now",
       "isFallback": false
     },
     {
       "league": "NFL",
-      "title": "Will Tyreek Hill end up BACK WITH the Chiefs?!",
-      "videoId": "EAf5wFLvhrc",
-      "thumbnail": "https://img.youtube.com/vi/EAf5wFLvhrc/mqdefault.jpg",
-      "timeAgo": "3h ago",
+      "title": "Jared Allen teaches Joe Thomas how to lasso?! 😭🤠 | The Rich Eisen Show",
+      "videoId": "424oYknajHo",
+      "thumbnail": "https://img.youtube.com/vi/424oYknajHo/mqdefault.jpg",
+      "timeAgo": "2h ago",
       "isFallback": false
     },
     {
       "league": "MLB",
-      "title": "Judy Johnson was the first Delawarean elected to the Baseball Hall of Fame ⚾",
-      "videoId": "p11V4_87zQw",
-      "thumbnail": "https://img.youtube.com/vi/p11V4_87zQw/mqdefault.jpg",
+      "title": "Wrigley Field showed the replay of the US Men's National Team going up one nil on the jumbotron 🔥",
+      "videoId": "wn7ub4JPJlM",
+      "thumbnail": "https://img.youtube.com/vi/wn7ub4JPJlM/mqdefault.jpg",
       "timeAgo": "1h ago",
       "isFallback": false
     },
     {
       "league": "NHL",
-      "title": "Welcome to the NHL | Chase Reid",
-      "videoId": "HLR3elVz2fc",
-      "thumbnail": "https://img.youtube.com/vi/HLR3elVz2fc/mqdefault.jpg",
-      "timeAgo": "1h ago",
+      "title": "Jonathan Toews: 1st Goal, The Greatness, The Cups 🏆 #Shorts",
+      "videoId": "BBs6Tx7G0F0",
+      "thumbnail": "https://img.youtube.com/vi/BBs6Tx7G0F0/mqdefault.jpg",
+      "timeAgo": "3h ago",
       "isFallback": false
     },
     {
@@ -2818,19 +2828,139 @@
       "title": "Atlanta Dream vs. Indiana Fever | FULL GAME HIGHLIGHTS | June 18, 2026",
       "videoId": "9UijyooOa7A",
       "thumbnail": "https://img.youtube.com/vi/9UijyooOa7A/mqdefault.jpg",
-      "timeAgo": "15h ago",
+      "timeAgo": "18h ago",
       "isFallback": false
     },
     {
       "league": "SOCCER",
-      "title": "USMNT needs to be 'full throttle' vs. Australia 😤",
-      "videoId": "Wo6gmbIcz18",
-      "thumbnail": "https://img.youtube.com/vi/Wo6gmbIcz18/mqdefault.jpg",
-      "timeAgo": "Just now",
+      "title": "AMAZING!!! 🤣 (via @kamxsoto/IG , @bob_travel__/IG)",
+      "videoId": "ae8x1lGsEd8",
+      "thumbnail": "https://img.youtube.com/vi/ae8x1lGsEd8/mqdefault.jpg",
+      "timeAgo": "1h ago",
       "isFallback": false
     }
   ],
   "reels": [
+    {
+      "league": "NBA",
+      "title": "The Smartest Plays of the 2026 NBA Finals",
+      "videoId": "P87tRvtcc_c",
+      "author": "NBA",
+      "pubDate": "2026-06-19T20:00:39+00:00",
+      "link": "https://www.youtube.com/watch?v=P87tRvtcc_c"
+    },
+    {
+      "league": "MLB",
+      "title": "Wrigley Field showed the replay of the US Men's National Team going up one nil on the jumbotron 🔥",
+      "videoId": "wn7ub4JPJlM",
+      "author": "MLB",
+      "pubDate": "2026-06-19T19:41:02+00:00",
+      "link": "https://www.youtube.com/watch?v=wn7ub4JPJlM"
+    },
+    {
+      "league": "MLB",
+      "title": "FULL 7-RUN 1st INNING ft. Carson Kelly's grand slam! 🐻 | MLB Highlights (Cubs vs. Blue Jays)",
+      "videoId": "KRcUMw_GODo",
+      "author": "MLB",
+      "pubDate": "2026-06-19T19:37:29+00:00",
+      "link": "https://www.youtube.com/watch?v=KRcUMw_GODo"
+    },
+    {
+      "league": "SOCCER",
+      "title": "AMAZING!!! 🤣 (via @kamxsoto/IG , @bob_travel__/IG)",
+      "videoId": "ae8x1lGsEd8",
+      "author": "ESPN FC",
+      "pubDate": "2026-06-19T19:14:33+00:00",
+      "link": "https://www.youtube.com/watch?v=ae8x1lGsEd8"
+    },
+    {
+      "league": "SOCCER",
+      "title": "Unreal shot 😳 (via @jithhoooo.__/IG)",
+      "videoId": "BYIVNl3yz4A",
+      "author": "ESPN FC",
+      "pubDate": "2026-06-19T19:02:34+00:00",
+      "link": "https://www.youtube.com/watch?v=BYIVNl3yz4A"
+    },
+    {
+      "league": "NBA",
+      "title": "Stephon Castle Top Plays of the Spurs 2026 NBA Finals Run!",
+      "videoId": "k5HknILh5P0",
+      "author": "NBA",
+      "pubDate": "2026-06-19T19:00:32+00:00",
+      "link": "https://www.youtube.com/watch?v=k5HknILh5P0"
+    },
+    {
+      "league": "SOCCER",
+      "title": "Bro snapped 😱 (via @willster204/TT)",
+      "videoId": "HJlOJCl-Mf8",
+      "author": "ESPN FC",
+      "pubDate": "2026-06-19T18:52:31+00:00",
+      "link": "https://www.youtube.com/watch?v=HJlOJCl-Mf8"
+    },
+    {
+      "league": "SOCCER",
+      "title": "She was so chill about it 😭 (via @kira_lee2008/IG)",
+      "videoId": "DZxqlylRCFo",
+      "author": "ESPN FC",
+      "pubDate": "2026-06-19T18:51:34+00:00",
+      "link": "https://www.youtube.com/watch?v=DZxqlylRCFo"
+    },
+    {
+      "league": "NFL",
+      "title": "Jared Allen teaches Joe Thomas how to lasso?! 😭🤠 | The Rich Eisen Show",
+      "videoId": "424oYknajHo",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-06-19T18:44:05+00:00",
+      "link": "https://www.youtube.com/watch?v=424oYknajHo"
+    },
+    {
+      "league": "NFL",
+      "title": "Ian Rapoport breaks down best landing spots for Brendan Sorsby | The Pat McAfee Show",
+      "videoId": "CU9By4q2eKc",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-06-19T18:32:30+00:00",
+      "link": "https://www.youtube.com/watch?v=CU9By4q2eKc"
+    },
+    {
+      "league": "MLB",
+      "title": "Joe Buck’s most MEMORABLE calls!! ⚾",
+      "videoId": "H4oZLP25g4w",
+      "author": "MLB",
+      "pubDate": "2026-06-19T18:30:01+00:00",
+      "link": "https://www.youtube.com/watch?v=H4oZLP25g4w"
+    },
+    {
+      "league": "SOCCER",
+      "title": "Christian Pulisic officially OUT for United States vs. Australia 🚨 | SportsCenter",
+      "videoId": "ttGwpDffYxU",
+      "author": "ESPN FC",
+      "pubDate": "2026-06-19T18:12:01+00:00",
+      "link": "https://www.youtube.com/watch?v=ttGwpDffYxU"
+    },
+    {
+      "league": "NBA",
+      "title": "Dylan Harper Top plays of the Spurs 2026 NBA Finals Run!",
+      "videoId": "Q4wrEWheHvI",
+      "author": "NBA",
+      "pubDate": "2026-06-19T18:00:17+00:00",
+      "link": "https://www.youtube.com/watch?v=Q4wrEWheHvI"
+    },
+    {
+      "league": "SOCCER",
+      "title": "These saves are ridiculous 😭🧤 (via moderngoalkeeping/IG)",
+      "videoId": "5LuR0Rwyxeg",
+      "author": "ESPN FC",
+      "pubDate": "2026-06-19T17:33:21+00:00",
+      "link": "https://www.youtube.com/watch?v=5LuR0Rwyxeg"
+    },
+    {
+      "league": "SOCCER",
+      "title": "Mike Grella calls for USMNT to play full throttle and like champions vs. Australia | Pat McAfee Show",
+      "videoId": "v63tU3fbTHY",
+      "author": "ESPN FC",
+      "pubDate": "2026-06-19T17:24:16+00:00",
+      "link": "https://www.youtube.com/watch?v=v63tU3fbTHY"
+    },
     {
       "league": "SOCCER",
       "title": "USMNT needs to be 'full throttle' vs. Australia 😤",
@@ -2838,6 +2968,22 @@
       "author": "ESPN FC",
       "pubDate": "2026-06-19T17:04:14+00:00",
       "link": "https://www.youtube.com/watch?v=Wo6gmbIcz18"
+    },
+    {
+      "league": "NBA",
+      "title": "Victor Wembanyama Top plays of the Spurs 2026 NBA Finals Run! 👽",
+      "videoId": "YNxHMGuahdU",
+      "author": "NBA",
+      "pubDate": "2026-06-19T17:00:35+00:00",
+      "link": "https://www.youtube.com/watch?v=YNxHMGuahdU"
+    },
+    {
+      "league": "NHL",
+      "title": "Jonathan Toews: 1st Goal, The Greatness, The Cups 🏆 #Shorts",
+      "videoId": "BBs6Tx7G0F0",
+      "author": "NHL",
+      "pubDate": "2026-06-19T17:00:00+00:00",
+      "link": "https://www.youtube.com/watch?v=BBs6Tx7G0F0"
     },
     {
       "league": "NBA",
@@ -2880,44 +3026,12 @@
       "link": "https://www.youtube.com/watch?v=HLR3elVz2fc"
     },
     {
-      "league": "SOCCER",
-      "title": "Geoff Cameron gives some insight ✍️",
-      "videoId": "MKFMVcjwraw",
-      "author": "ESPN FC",
-      "pubDate": "2026-06-19T15:44:02+00:00",
-      "link": "https://www.youtube.com/watch?v=MKFMVcjwraw"
-    },
-    {
       "league": "NBA",
       "title": "The BIGGEST CROWD POPS of the 2026 NBA Playoffs! 🤯🔉",
       "videoId": "xCbqu3cA6gQ",
       "author": "NBA",
       "pubDate": "2026-06-19T15:26:06+00:00",
       "link": "https://www.youtube.com/watch?v=xCbqu3cA6gQ"
-    },
-    {
-      "league": "SOCCER",
-      "title": "These shots of Mexico City after their win over South Korea 🤯 (via @oscar._.damian/IG)",
-      "videoId": "-zWhrVt1oCw",
-      "author": "ESPN FC",
-      "pubDate": "2026-06-19T15:24:12+00:00",
-      "link": "https://www.youtube.com/watch?v=-zWhrVt1oCw"
-    },
-    {
-      "league": "SOCCER",
-      "title": "Geoff Cameron DOESN’T want Pulisic to play in U.S. vs. Australia?! | First Take",
-      "videoId": "udj0Ba7iC2o",
-      "author": "ESPN FC",
-      "pubDate": "2026-06-19T15:12:45+00:00",
-      "link": "https://www.youtube.com/watch?v=udj0Ba7iC2o"
-    },
-    {
-      "league": "SOCCER",
-      "title": "Interesting from Mbappe",
-      "videoId": "mVqO2b-JMYU",
-      "author": "ESPN FC",
-      "pubDate": "2026-06-19T15:00:25+00:00",
-      "link": "https://www.youtube.com/watch?v=mVqO2b-JMYU"
     },
     {
       "league": "MLB",
@@ -2928,36 +3042,12 @@
       "link": "https://www.youtube.com/watch?v=Tx9Q58aTjso"
     },
     {
-      "league": "SOCCER",
-      "title": "A Scottish freestyle rap",
-      "videoId": "PO35GH-rfVI",
-      "author": "ESPN FC",
-      "pubDate": "2026-06-19T14:49:38+00:00",
-      "link": "https://www.youtube.com/watch?v=PO35GH-rfVI"
-    },
-    {
       "league": "MLB",
       "title": "Mailman grabs Dawson's homer and was ECSTATIC",
       "videoId": "4IO5EUEtYdY",
       "author": "MLB",
       "pubDate": "2026-06-19T14:44:30+00:00",
       "link": "https://www.youtube.com/watch?v=4IO5EUEtYdY"
-    },
-    {
-      "league": "SOCCER",
-      "title": "ESPN FC’s USMNT vs. Australia FULL PREVIEW + BREAKDOWN",
-      "videoId": "OKf1CbWir1Y",
-      "author": "ESPN FC",
-      "pubDate": "2026-06-19T14:42:19+00:00",
-      "link": "https://www.youtube.com/watch?v=OKf1CbWir1Y"
-    },
-    {
-      "league": "SOCCER",
-      "title": "If the USMNT beats Australia, Geoff will do a SHOEY?! 😭",
-      "videoId": "R1RlQ83o9as",
-      "author": "ESPN FC",
-      "pubDate": "2026-06-19T14:35:38+00:00",
-      "link": "https://www.youtube.com/watch?v=R1RlQ83o9as"
     },
     {
       "league": "MLB",
@@ -2984,30 +3074,6 @@
       "link": "https://www.youtube.com/watch?v=9PsL0WTmBGQ"
     },
     {
-      "league": "MLB",
-      "title": "Benny back in the Bronx... and CRUSHES a GO-AHEAD slam!",
-      "videoId": "6cnUa4yoyOU",
-      "author": "MLB",
-      "pubDate": "2026-06-19T13:00:07+00:00",
-      "link": "https://www.youtube.com/watch?v=6cnUa4yoyOU"
-    },
-    {
-      "league": "MLB",
-      "title": "Andrew Benintendi's pinch-hit, go-ahead GRAND SLAM &amp; the BEST MLB Highlights from 6/18/26!",
-      "videoId": "awlmo5kBfOI",
-      "author": "MLB",
-      "pubDate": "2026-06-19T11:00:10+00:00",
-      "link": "https://www.youtube.com/watch?v=awlmo5kBfOI"
-    },
-    {
-      "league": "MLB",
-      "title": "Highlights from ALL GAMES on 6/17 (Corbin Carroll's go-ahead SLAM, Cubs' 7-run inning and MORE!)",
-      "videoId": "MuFCfTjGhjk",
-      "author": "MLB",
-      "pubDate": "2026-06-19T10:00:22+00:00",
-      "link": "https://www.youtube.com/watch?v=MuFCfTjGhjk"
-    },
-    {
       "league": "WNBA",
       "title": "Atlanta Dream vs. Indiana Fever | FULL GAME HIGHLIGHTS | June 18, 2026",
       "videoId": "9UijyooOa7A",
@@ -3022,14 +3088,6 @@
       "author": "NBA",
       "pubDate": "2026-06-18T23:41:12+00:00",
       "link": "https://www.youtube.com/watch?v=6JZ9WwjOv-E"
-    },
-    {
-      "league": "NBA",
-      "title": "Timmy hyping up the New York crowd 😂",
-      "videoId": "A6NZCP8IVng",
-      "author": "NBA",
-      "pubDate": "2026-06-18T23:01:22+00:00",
-      "link": "https://www.youtube.com/watch?v=A6NZCP8IVng"
     },
     {
       "league": "NFL",
@@ -3062,46 +3120,6 @@
       "author": "NFL on ESPN",
       "pubDate": "2026-06-18T21:00:15+00:00",
       "link": "https://www.youtube.com/watch?v=LDomZ17GMC0"
-    },
-    {
-      "league": "NFL",
-      "title": "It's that point of the offseason 😂",
-      "videoId": "LgSbWy-zBxM",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-06-18T20:56:28+00:00",
-      "link": "https://www.youtube.com/watch?v=LgSbWy-zBxM"
-    },
-    {
-      "league": "NFL",
-      "title": "What a story! 😳",
-      "videoId": "GmlfNzBphWo",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-06-18T20:55:36+00:00",
-      "link": "https://www.youtube.com/watch?v=GmlfNzBphWo"
-    },
-    {
-      "league": "NBA",
-      "title": "Mariska Hargitay talks what Jalen Brunson means to the city of New York ❤️🔶🔷",
-      "videoId": "Afd4V4c0t_w",
-      "author": "NBA",
-      "pubDate": "2026-06-18T20:48:42+00:00",
-      "link": "https://www.youtube.com/watch?v=Afd4V4c0t_w"
-    },
-    {
-      "league": "NBA",
-      "title": "This one is for you New York! 🔶🔷",
-      "videoId": "03TOSLQTNFM",
-      "author": "NBA",
-      "pubDate": "2026-06-18T20:27:01+00:00",
-      "link": "https://www.youtube.com/watch?v=03TOSLQTNFM"
-    },
-    {
-      "league": "NBA",
-      "title": "KAT was hype at the championship parade 🏆",
-      "videoId": "oNbipA2nCrA",
-      "author": "NBA",
-      "pubDate": "2026-06-18T20:25:59+00:00",
-      "link": "https://www.youtube.com/watch?v=oNbipA2nCrA"
     },
     {
       "league": "NHL",
@@ -3142,14 +3160,6 @@
       "author": "WNBA",
       "pubDate": "2026-06-18T05:33:18+00:00",
       "link": "https://www.youtube.com/watch?v=Gfcwg6rs_G4"
-    },
-    {
-      "league": "WNBA",
-      "title": "Olivia Miles Drops Career-High 31 Points on 80% Shooting | Full Highlights",
-      "videoId": "xhBvKb5q6YA",
-      "author": "WNBA",
-      "pubDate": "2026-06-18T05:30:40+00:00",
-      "link": "https://www.youtube.com/watch?v=xhBvKb5q6YA"
     }
   ]
 }
