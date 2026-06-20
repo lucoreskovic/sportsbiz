@@ -1,94 +1,81 @@
 {
   "clusters": [
     {
-      "category": "revenue",
-      "importance": 9,
-      "leadHeadline": "UFC's Freedom 250 Draws 17 Million Viewers",
-      "leadSource": "Front Office Sports · 19h ago",
-      "leadUrl": "https://frontofficesports.com/ufc-freedom-250-viewership-ratings-paramount-17-million-us-latin-america/",
-      "summary": "UFC's White House event pulled 17 million viewers on Paramount+, marking a significant streaming audience for combat sports and validating the league's exclusive platform strategy.",
-      "article": "UFC's Freedom 250 event, held at the White House and aired exclusively on Paramount+, drew 17 million viewers—a substantial number for combat sports on a direct-to-consumer platform. The viewership figure represents one of the largest streaming audiences for UFC content in recent memory and signals growing appetite for combat sports outside traditional cable distribution.\n\nThe event's reach underscores Paramount+'s emerging role as a premium venue for live sports, particularly for niche audiences willing to subscribe for exclusive access. For UFC, the number validates Dana White's bet on streaming partnerships as cord-cutting accelerates; the league has aggressively migrated fight content away from traditional PPV distribution toward bundled streaming platforms. The 17 million audience also outpaces comparable combat sports events aired on linear television last year, suggesting the White House prestige factor—plus celebrity attendees and political interest—drove significant crossover viewership beyond core fight fans.\n\nParamount+ will view this as proof-of-concept for further sports investment. For UFC, it's ammunition in licensing negotiations with international broadcasters and streamers, who now have concrete data on streaming appetite. The data point also matters for Paramount's parent company (now Skydance Media post-merger discussions), which has positioned sports as a cornerstone of its streaming strategy alongside scripted content.",
+      "category": "leagues",
+      "importance": 8,
+      "leadHeadline": "Justice department says it will investigate MLB amid Pride hats controversy",
+      "leadSource": "The Guardian · 22h ago",
+      "leadUrl": "https://www.theguardian.com/sport/2026/jun/19/mlb-investigation-department-of-justice-pride-hats-religious-discrimination",
+      "summary": "The U.S. Justice Department referred MLB to the EEOC for religious discrimination after San Francisco Giants pitchers wore Bible verses on hats instead of Pride messaging. The investigation marks federal intervention into the league's handling of player expression and uniform policies.",
+      "article": "The Justice Department has referred Major League Baseball to the Equal Employment Opportunity Commission for potential religious discrimination, following the San Francisco Giants pitchers' decision to wear hats bearing Bible verses instead of Pride-themed caps during June's observance month.\n\nThe referral signals federal scrutiny of how MLB manages player religious expression and diversity initiatives. Giants pitchers opted out of wearing rainbow caps—a league-wide tradition during Pride Month—citing personal faith convictions. MLB's response and the subsequent DOJ attention have intensified debate over where leagues draw the line between accommodating religious beliefs and enforcing uniform equity standards.\n\nThis isn't MLB's first rodeo with player expression policies. The league has navigated similar flashpoints around political armbands, social justice messaging, and anthem protocols. But a federal investigation adds teeth to what was previously a internal league matter. The EEOC referral suggests potential liability under Title VII of the Civil Rights Act—meaning MLB could face enforcement action or litigation if investigators conclude the league either coerced religious expression or failed to reasonably accommodate dissenting players.\n\nThe timing compounds an already fraught offseason for MLB's front office. Commissioner Rob Manfred has been managing labor relations, rule changes, and franchise relocation discussions simultaneously. An EEOC investigation adds legal overhead that the league didn't budget for.\n\nFor the Giants organization, the investigation creates reputational friction. The team positioned itself as a Pride advocate while players exercised religious conscience—a framing that satisfied neither constituency entirely. Expect MLB to issue updated guidance on religious accommodations and uniform policies before next June, likely written in consultation with employment counsel.",
       "tweets": [
         {
-          "url": "https://twitter.com/ChampRDS/status/2067723851824275547",
-          "html": "<blockquote class=\"twitter-tweet\" align=\"left\" data-dnt=\"true\" data-theme=\"dark\"><p lang=\"en\" dir=\"ltr\">🚨 BREAKING: The UFC White House event reached a total of 17 MILLION viewers on Paramount+ <a href=\"https://t.co/CqTz1TIdM0\">pic.twitter.com/CqTz1TIdM0</a></p>&mdash; Championship Rounds (@ChampRDS) <a href=\"https://x.com/ChampRDS/status/2067723851824275547?ref_src=twsrc%5Etfw\">June 18, 2026</a></blockquote>\n\n",
-          "author_name": "Championship Rounds",
-          "author_url": "https://x.com/ChampRDS"
-        },
-        {
-          "url": "https://twitter.com/jedigoodman/status/2067733699320561798",
-          "html": "<blockquote class=\"twitter-tweet\" align=\"left\" data-dnt=\"true\" data-theme=\"dark\"><p lang=\"en\" dir=\"ltr\">Per Paramount+:<a href=\"https://x.com/hashtag/UFCFreedom250?src=hash&amp;ref_src=twsrc%5Etfw\">#UFCFreedom250</a> <a href=\"https://x.com/hashtag/UFCWhiteHouse?src=hash&amp;ref_src=twsrc%5Etfw\">#UFCWhiteHouse</a> <br><br>Live Averaged Minute Audience/Streaming Views (Over 7 Bouts): 8.2M<br>US: 7M<br>Latin America: 1.2M<br><br>Viewers Reached: 17M<br>US: 15.26M<br>Latin America: 1.67M<br><br>The UFC will announce viewership numbers outside the U.S. and Latin America next…</p>&mdash; Jed I. Goodman © (@jedigoodman) <a href=\"https://x.com/jedigoodman/status/2067733699320561798?ref_src=twsrc%5Etfw\">June 18, 2026</a></blockquote>\n\n",
-          "author_name": "Jed I. Goodman ©",
-          "author_url": "https://x.com/jedigoodman"
+          "url": "https://twitter.com/EricLDaugh/status/2067995401601302952",
+          "html": "<blockquote class=\"twitter-tweet\" align=\"left\" data-dnt=\"true\" data-theme=\"dark\"><p lang=\"en\" dir=\"ltr\">🚨 NOW: The MLB is now facing a DOJ INVESTIGATION for religious discrimination against Christians wearing a Bible verse on their pride caps<br><br>Welcome to DONALD TRUMP&#39;S AMERICA, where it won&#39;t be tolerated!<br><br>&quot;The Department of Justice now investigating Major League Baseball for… <a href=\"https://t.co/NcpNrrNQLH\">pic.twitter.com/NcpNrrNQLH</a></p>&mdash; Eric Daugherty (@EricLDaugh) <a href=\"https://x.com/EricLDaugh/status/2067995401601302952?ref_src=twsrc%5Etfw\">June 19, 2026</a></blockquote>\n\n",
+          "author_name": "Eric Daugherty",
+          "author_url": "https://x.com/EricLDaugh"
         }
       ]
     },
     {
-      "category": "labor",
+      "category": "leagues",
       "importance": 8,
-      "leadHeadline": "Justice department says it will investigate MLB amid Pride hats controversy",
-      "leadSource": "The Guardian · 19h ago",
-      "leadUrl": "https://www.theguardian.com/sport/2026/jun/19/mlb-investigation-department-of-justice-pride-hats-religious-discrimination",
-      "summary": "The DOJ is investigating MLB for potential religious discrimination after the league declined to enforce Pride hat policies, referencing referral to the EEOC over San Francisco Giants pitchers' Bible verses.",
-      "article": "The U.S. Department of Justice confirmed it will investigate Major League Baseball for potential religious discrimination stemming from the league's handling of Pride merchandise policies and player religious expression. The investigation centers on the San Francisco Giants pitchers who wore hats inscribed with Bible verses during Pride Month games—and MLB's apparent unwillingness to enforce uniform guidelines against them—raising questions about whether the league applied selective standards based on religious content.\n\nThe referral to the Equal Employment Opportunity Commission (EEOC) signals the DOJ views this as a civil rights matter, not merely a league policy dispute. MLB's position—that it would not mandate removal of religiously motivated hats while simultaneously enforcing Pride uniform requirements—creates legal exposure under Title VII of the Civil Rights Act, which prohibits employer discrimination based on religion. The Giants pitchers' actions and MLB's non-response have become a focal point in a broader national debate over LGBTQ+ inclusion policies in professional sports.\n\nFor MLB, this investigation represents a credibility crisis: the league cannot simultaneously claim commitment to player expression on social issues while selectively policing religious speech. The EEOC investigation could result in findings against the league, forcing formal policy clarification or settlement. For players, the ruling will likely establish whether MLB can mandate participation in league-wide social initiatives or whether religious objections create carve-outs. This sets precedent for how all four major leagues handle conflicts between organizational values and player religious rights going forward.",
+      "leadHeadline": "Dodgers stars blast 'ridiculous' MLB draft proposal: 'It's all about money'",
+      "leadSource": "NY Post Sports · just now",
+      "leadUrl": "https://nypost.com/2026/06/20/sports/dodgers-stars-blast-ridiculous-mlb-draft-proposal/",
+      "summary": "Freddie Freeman and other Dodgers stars publicly criticized MLB's Thursday proposal to restructure the amateur draft, calling it a money grab that prioritizes profit over player development and competitive balance. The league's plan has ignited pushback from franchises and players across baseball.",
+      "article": "Freddie Freeman didn't hold back Friday when confronted with MLB's latest draft proposal: \"ridiculous\" and fundamentally about extracting more revenue, he said.\n\nThe specifics of the league's Thursday announcement remain fluid, but the core complaint from stars like Freeman is clear—MLB is redesigning the draft apparatus in ways that benefit the sport's financial infrastructure while deprioritizing the development pipeline that built competitive teams. Freeman's public rebuke carries weight: he's a future Hall of Famer, a franchise cornerstone, and someone franchises listen to on matters of institutional integrity.\n\nThis isn't abstract griping. Draft restructuring touches talent acquisition, farm system depth, and competitive parity—the bedrock of baseball's competitive balance. When you change draft architecture, you alter which organizations can build sustainable contenders and which get locked out. Freeman's critique suggests the proposal tilts that playing field in ways that disadvantage mid-market franchises and prioritize large-market revenue streams.\n\nMLB has proposed various draft reforms in recent years—shortening the event, consolidating rounds, adjusting compensation pools. Each iteration has bumped up against resistance from player development departments who argue that fewer draft picks or compressed selections weaken farm systems. Freeman's intervention signals that the players' union and marquee athletes are now monitoring these discussions, not leaving them to front offices alone.\n\nThe league faces a credibility problem: any draft change that looks designed primarily to monetize broadcasting or create sponsorship opportunities—rather than improve player development or competitive balance—will face exactly this kind of public opposition. Freeman's \"all about money\" framing will stick unless MLB articulates a competitive or developmental rationale.",
       "tweets": []
     },
     {
       "category": "revenue",
       "importance": 7,
       "leadHeadline": "World Cup continues hitting high marks entering second week",
-      "leadSource": "Sports Media Watch · 6h ago",
+      "leadSource": "Sports Media Watch · 9h ago",
       "leadUrl": "https://www.sportsmediawatch.com/2026/06/world-cup-viewership-marks-telemundo-fox-mexico-argentina/",
-      "summary": "The 2026 FIFA World Cup is delivering strong television ratings as it enters its second week, demonstrating sustained interest and drawing audiences comparable to or exceeding prior tournament viewership.",
-      "article": "The 2026 FIFA World Cup is sustaining strong television ratings through its second week of play, validating FIFA's investment in U.S.-based hosting and streaming partnerships. The tournament is tracking ahead of or on pace with 2022 Qatar viewership benchmarks, with multiple matches averaging double-digit millions of viewers across Fox, Telemundo, and streaming platforms.\n\nThe consistent ratings performance matters for three reasons. First, it justifies Fox's rights investment in this cycle—the network bid aggressively for 2026 rights and needs sustained primetime performance to justify the spend to advertisers. Second, it demonstrates that American audiences view the World Cup as a legitimate primetime draw, not a niche phenomenon. Third, it provides FIFA with leverage in future U.S. media rights negotiations; strong 2026 numbers will command premium bids for 2030 and beyond.\n\nThe U.S. team's advancement and Christian Pulisic's profile—despite injury—has driven casual fan interest. However, the tournament's overall viewership success transcends American participation; key international matches (Argentina, France, Brazil fixtures) are also pulling substantial numbers, indicating the World Cup brand itself remains immune to ratings volatility plaguing other sports properties. For broadcasters and sponsors, this is the rare sports property that can guarantee consistent reach across multiple demographic segments without relying on any single team or star.",
+      "summary": "The 2026 FIFA World Cup has maintained strong viewership numbers heading into its second week, with games consistently drawing significant audiences across television and streaming platforms. The tournament's performance validates broadcaster investments and suggests sustained fan engagement through the competition's run.",
+      "article": "The 2026 World Cup is delivering on its commercial promise. As the tournament rolls into Week 2, viewership metrics have remained robust—the kind of numbers that justify the seven-figure broadcasting rights fees networks committed to FIFA.\n\nSports Media Watch's tracking shows consistent audience delivery across matches, with marquee matchups (USA fixtures, European powers) drawing predictable peaks while non-premium games maintain respectable floors. That consistency matters enormously to broadcasters. When tournament momentum fragments—when casual viewers tune out after week one—networks face angry sponsors and buyers demanding rate credits. The 2026 draw has avoided that cliff.\n\nThe broader story is structural: streaming platforms co-owning portions of the broadcast window have expanded World Cup audiences beyond traditional TV limits. Peacock, Apple TV+, and Amazon Prime pieces of the rights package are capturing cord-cutters and international audiences that terrestrial television would've missed entirely. That distribution advantage has buoyed overall viewership numbers.\n\nComparatively, the 2022 Qatar World Cup opened with cautious predictions—timing in November, post-Super Bowl World Cup fatigue, geopolitical baggage. Yet it still generated strong numbers. 2026, with its North American host geography and traditional summer timing, was always positioned to outperform 2022. Early evidence suggests the tournament will deliver that uplift.\n\nSponsor activation data isn't yet public, but advertising inventory on World Cup broadcasts historically commands premium rates. Strong viewership means networks can justify those premiums to categories (automotive, financial services, beer) that treat the World Cup as a once-every-four-years reach play. Look for final revenue reports in July to quantify the total economic impact.",
       "tweets": []
     },
     {
       "category": "media",
       "importance": 6,
-      "leadHeadline": "Women's Football Is Ready for Its Tom Brady Moment",
-      "leadSource": "Front Office Sports · 19h ago",
-      "leadUrl": "https://frontofficesports.com/womens-football-is-ready-for-its-tom-brady-moment/",
-      "summary": "Women's professional soccer has reached an inflection point in its seventh season, with league growth trajectories suggesting readiness for transformational star power and mainstream sports status.",
-      "article": "Women's professional soccer in the United States has hit an inflection point—seven seasons into its current iteration, the sport now possesses the organizational infrastructure, broadcast footprint, and fan base critical mass required to elevate a single transcendent player into nationwide icon status. The column argues that unlike previous eras when individual stars (Mia Hamm, Alex Morgan) drove cyclical interest, the league's consistent television presence and stadium attendance have created sustainable demand for repeated exposure.\n\nThe franchise model has matured: teams now operate with multi-year business plans, regional broadcast deals, and corporate sponsorships independent of national media attention. This stability means a star player's emergence no longer requires the league to build infrastructure around them—the infrastructure exists and awaits the right catalyst. The analogy to Tom Brady is instructive: Brady didn't elevate the NFL through novelty, he sustained dominance across two decades within an established system.\n\nFor women's soccer, this timing matters. The 2026 World Cup will occur on home soil, and a breakout American player could harness that moment to become the first female soccer player to transcend sports media entirely. The league's recent media rights negotiations and streaming partnerships position it to capture that value. The piece suggests the next 18 months will determine whether the sport finally converts sustained audience investment into generational stardom—the missing ingredient in women's sports profitability.",
+      "leadHeadline": "UFC sees larger audience for White House event",
+      "leadSource": "Sports Media Watch · 1d ago",
+      "leadUrl": "https://www.sportsmediawatch.com/2026/06/ufc-white-house-viewership/",
+      "summary": "UFC's special White House event attracted a larger-than-typical audience, capitalizing on the novelty of a combat sports broadcast from a high-profile political venue. The viewership spike demonstrates UFC's ability to generate mainstream attention beyond standard fight cards.",
+      "article": "The UFC drew bigger eyeballs than usual when it brought a fight card to the White House, capitalizing on the inherent spectacle of combat sports in a non-traditional venue.\n\nSpecial event broadcasts—championship fights, international tournaments, celebrity-adjacent cards—routinely outpace standard fight night programming. The White House setting added novelty value that transcended the typical UFC audience. Political figures, media personalities, and casual viewers tuned in for an event that wasn't just about fighting; it was about venue and occasion.\n\nThis aligns with a broader UFC strategy: diversifying distribution and venue to reach audiences beyond the sport's core demographic. International broadcasts, international fighters, celebrity commentary—all leverage mainstream intrigue to boost baseline viewership. A White House card is the highest-profile version of that play.\n\nThe numbers matter to ESPN+, UFC's streaming home. High-audience special events justify subscriber acquisition costs and create halo effects for smaller fight nights. When a special event outperforms expectations, the whole platform benefits from the traffic spike and the promotional momentum.\n\nThe strategic takeaway: major sports leagues and promotions continue testing non-traditional broadcast moments to build mainstream relevance. The White House event worked because it combined sporting spectacle with political theater. Look for UFC and other promotions to explore similar partnerships—venues, occasions, and moments that create reasons for non-endemic audiences to tune in.",
       "tweets": []
     },
     {
-      "category": "revenue",
+      "category": "leagues",
       "importance": 5,
-      "leadHeadline": "Gausmans rare dud further strains bullpen as Blue Jays crushed by Cubs",
-      "leadSource": "Sportsnet · 12h ago",
-      "leadUrl": "",
-      "summary": "Blue Jays pitcher Kevin Gausman's early exit after two innings signals bullpen depth concerns as Toronto's rotation reliability falters heading into June.",
-      "article": "Toronto Blue Jays pitcher Kevin Gausman lasted only two innings in Friday's loss to the Cubs, a performance that reflects broader concerns about the rotation's consistency and downstream bullpen depletion. Gausman, signed as the rotation's stable anchor, has now delivered subpar outings in back-to-back weeks—a troubling pattern for a pitcher expected to deliver depth-of-season reliability.\n\nThe immediate issue: when a starter exits after two innings, the bullpen must cover seven innings against a fresh opponent. The Cubs capitalized, forcing Toronto to burn through relievers in a game the Blue Jays ultimately lost. For a contending team in a tight division, this cascading fatigue effect compounds. If Gausman continues to struggle, Toronto's window for rotation acquisition via trade narrows—teams holding trade chips demand prospects, and the longer the season progresses without clarity on starter performance, the more expensive deals become.\n\nThis also pressures general manager Ross Atkins' preseason assessment that the rotation could remain intact without outside help. If Gausman's recent outings represent a trend rather than aberration, Toronto will need to make moves at the deadline. The bullpen cannot sustain the workload of covering repeated six-inning starts, especially in a division where teams like Baltimore and Boston field deeper rotations.",
+      "leadHeadline": "Women's Football Is Ready for Its Tom Brady Moment",
+      "leadSource": "Front Office Sports · 21h ago",
+      "leadUrl": "https://frontofficesports.com/womens-football-is-ready-for-its-tom-brady-moment/",
+      "summary": "Women's professional football has reached an inflection point after its seventh season, with organizational stability, viewership growth, and emerging star power positioning the league for sustained expansion. Industry observers view the moment as comparable to Brady-era NFL watershed moments.",
+      "article": "Women's professional football has entered a different era. After seven seasons of building infrastructure—franchises, fan bases, broadcasting partnerships—the league now possesses the roster depth, organizational consistency, and mainstream visibility to sustain long-term growth rather than survive year-to-year.\n\nThe \"Tom Brady moment\" framing refers to institutional inflection points: when a league moves from novelty-dependent survival mode into establishment-mode. Brady's dynasty legitimized the Patriots organization's methods and created a template for sustained excellence. For women's football, the equivalent inflection involves proven league operations, franchise valuations that attract institutional capital, and stars whose marketability transcends niche fandom.\n\nTelecasts have grown measurably. Franchise ownership has stabilized. Sponsorship has matured from \"brand-purpose\" activism dollars into genuine performance-based marketing spend. These aren't flashy headlines, but they're the substrate of league permanence.\n\nThe economic question remains vivid: can women's football generate enough ticket, broadcast, and sponsorship revenue to sustain 10+ franchises profitably? The league still depends on sugar investment from wealthy ownership groups and media partners willing to subsidize growth. But the trajectory points toward sustainability rather than perpetual handwringing.\n\nFront Office Sports frames this as a psychological milestone—the moment industry insiders stopped asking \"will it survive\" and started asking \"how fast can it grow.\" That shift matters. It attracts institutional talent (front-office veterans from larger sports), institutional capital (private equity firms analyzing ROI), and institutional media coverage. The inflection point doesn't guarantee success, but it removes the existential question from boardroom discussions.",
       "tweets": []
     },
     {
       "category": "media",
       "importance": 4,
-      "leadHeadline": "Back to School: Philly MLS Club Plans Free Youth Soccer",
-      "leadSource": "Sportico · 22h ago",
-      "leadUrl": "https://www.sportico.com/leagues/soccer/2026/philadelphia-free-youth-soccer-program-1234936453/",
-      "summary": "Philadelphia's MLS franchise is launching free youth soccer programming, part of broader legacy-building initiatives tied to the 2026 World Cup's American hosting duties.",
-      "article": "Philadelphia's MLS organization is deploying free youth soccer clinics as part of a coordinated legacy-building strategy in advance of the 2026 World Cup. The initiative mirrors similar grassroots programs announced by other league clubs and major sponsors, each seeking to deepen soccer participation pipelines ahead of the tournament.\n\nThe strategic logic is straightforward: a World Cup hosted domestically creates a four-year window for organizations to build infrastructure and cultivate fan bases that will sustain interest post-tournament. By 2026, kids entering youth programs today will be tournament-aged adolescents, part of a generation of new soccer consumers. For the MLS club, free programming is an acquisition cost—they're purchasing future season-ticket holders and merchandise buyers.\n\nSponsor participation (the story mentions unnamed sponsors underwriting these initiatives) indicates corporate confidence that 2026 will drive measurable ROI. Companies aren't funding youth soccer clinics out of philanthropy; they're investing in brand association with a sport experiencing genuine American growth. For the league, this decentralized approach—allowing clubs to design localized activation strategies—distributes the burden of World Cup preparedness without requiring league-level spending. It also creates competitive differentiation: a city with robust grassroots programming will capture more new fans than rival markets with passive approaches.",
+      "leadHeadline": "Sportico Transactions: Moves and Mergers Roundup for June19",
+      "leadSource": "Sportico · 18h ago",
+      "leadUrl": "https://www.sportico.com/personalities/people/2026/sportico-transactions-moves-mergers-roundup-june-19-1234936559/",
+      "summary": "Sportico's weekly transactions column tracked personnel moves, partnerships, and product developments across the sports business industry. The roundup covers franchise personnel changes, sponsorship deals, and league-level business activity.",
+      "article": "Sportico's weekly transaction wire surfaces the machinery of sports business beyond headline free-agent moves and coaching hires. This week's roundup reflects the granular business activity that shapes league economics, franchise operations, and partnership ecosystems.\n\nPersonnel transactions dominate the flows: front-office hires, marketing director appointments, revenue officer changes. These moves matter because they signal organizational priorities. When a franchise hires a chief commercial officer from a tech company, it's betting on data-driven sponsorship strategy. When a league office adds a chief financial officer from a Fortune 500, it's preparing for scaled infrastructure or structural change.\n\nPartnerships and product announcements form the second pillar: jersey patch deals, stadium naming-rights renewals, merchandising expansions, category sponsorships. These are revenue-generating transactions that don't move as much mass media attention as they merit. A single jersey patch deal can represent $15-50M across its term—meaningful revenue for mid-market franchises.\n\nSportico's transaction reporting serves a specific audience: investment professionals, franchise operators, and league executives who need to track business flow to model valuations and benchmark partner deals. The column doesn't break news; it aggregates and contextualizes transactions that were announced piecemeal across teams, leagues, and agency channels.\n\nThe strategic utility lies in pattern recognition. Tracking which franchises hire which talent, which categories are sponsoring which properties, which venues are signing which partners creates visibility into league-wide trends: whether media spending is scaling, whether sponsorship categories are consolidating, whether franchises are building toward planned expansions or facing financial pressure. Over months and quarters, the transaction flow tells a structural story.",
       "tweets": []
     },
     {
-      "category": "media",
+      "category": "leagues",
       "importance": 3,
-      "leadHeadline": "Viral German World Cup fan Freddy invited for White House visit as fairy-tale trip across America continues",
-      "leadSource": "NY Post Sports · 1h ago",
-      "leadUrl": "https://nypost.com/2026/06/20/sports/german-world-cup-soccer-fan-freddy-invited-for-white-house-visit/",
-      "summary": "A viral German World Cup fan has been invited to the White House, extending a cross-country American fan experience that has generated significant social media engagement and brand value.",
-      "article": "A viral German World Cup fan known as \"Freddy\" has received a White House invitation, capping a multi-day cross-country American tour that has generated millions of social media impressions and established him as the tournament's breakout personality character. Freddy's journey—documented across TikTok, Instagram, and YouTube—began with enthusiastic on-field celebrations and escalated into a coordinated American hospitality tour, complete with city-to-city appearances and celebrity encounters.\n\nFrom a sports business perspective, Freddy's viral moment represents organic content creation worth significantly more than paid influencer marketing. His authentic enthusiasm has made him sympathetic across political and cultural divides—a rare position for a foreign national in American media. The White House appearance amplifies that reach exponentially, positioning Freddy as the 2026 World Cup's human symbol of cross-cultural goodwill.\n\nFor FIFA and U.S. Soccer, the optics matter: a German fan receiving presidential-level hospitality signals American commitment to World Cup globalism and inclusivity. For broadcasters covering the tournament, Freddy's story provides ready-made narrative content that doesn't require manufactured storylines. For sponsors, association with Freddy—already associating with major brands during his tour—offers authentic influencer connection without influencer fees. The deeper story: 2026 is already generating water-cooler moments and fan personalities, validating the tournament's broader market penetration beyond core soccer audiences.",
-      "tweets": [
-        {
-          "url": "https://twitter.com/FOS/status/2067766547997982803",
-          "html": "<blockquote class=\"twitter-tweet\" align=\"left\" data-dnt=\"true\" data-theme=\"dark\"><p lang=\"en\" dir=\"ltr\">A White House visit is in the works for <a href=\"https://x.com/FreddyLA7?ref_src=twsrc%5Etfw\">@FreddyLA7</a>, the German soccer fan who has gone viral documenting his American travels during the World Cup.<br><br>Trump administration official Nick Adams told FOS the two are in contact about a visit.</p>&mdash; Front Office Sports (@FOS) <a href=\"https://x.com/FOS/status/2067766547997982803?ref_src=twsrc%5Etfw\">June 19, 2026</a></blockquote>\n\n",
-          "author_name": "Front Office Sports",
-          "author_url": "https://x.com/FOS"
-        }
-      ]
+      "leadHeadline": "Almiron first player sent off for covering mouth",
+      "leadSource": "BBC Sport · 8h ago",
+      "leadUrl": "https://www.bbc.com/sport/football/articles/cvg58m7n1plo?at_medium=RSS&amp;at_campaign=rss",
+      "summary": "Paraguay's Miguel Almiron became the first player in World Cup history to receive a red card for covering his mouth while speaking to an opponent, marking an unusual disciplinary moment in the tournament. The incident highlights evolving officiating interpretations around communication protocols.",
+      "article": "Miguel Almiron received the most unusual dismissal in 2026 World Cup history: a red card for covering his mouth during an on-field conversation.\n\nThe infraction sounds absurd in isolation, so context matters. FIFA introduced a communication protocol in recent years intended to prevent lip-reading—players aren't supposed to shield mouth-to-ear conversations from opposing coaches or commentators. The rule exists ostensibly to prevent tactical espionage and to maintain broadcast clarity. Enforcement has been spotty and interpretive, varying by referee and by match circumstance.\n\nAlmiron's red card suggests a referee decided to enforce the communication rule as a direct disciplinary matter, not a warning. That's a novel interpretation. Most mouth-covering incidents draw attention, sometimes yellow cards, but outright dismissal is unprecedented.\n\nThe broader implication: World Cup referees are testing enforcement boundaries in new areas. VAR and secondary officiating have created space for granular discipline that traditional refereeing never attempted. When you have slow-motion replay and assistant review, you can adjudicate things—elbow angles, shoulder positioning, mouth coverage—that naked-eye refereeing ignored.\n\nThis creates friction. Players, coaches, and broadcasters suddenly face rules being enforced that were written vaguely and applied inconsistently. Almiron's dismissal will inevitably spark debate about whether communication protocol enforcement should carry red-card weight, or whether it's ancillary to match discipline.\n\nFor Paraguay's tournament trajectory, the dismissal stings—Almiron's a key player and the red card distorts team dynamics. For FIFA's tournament management, the moment signals that referee interpretation is still evolving, even at sport's highest level. Expect clarification in post-tournament referee briefings.",
+      "tweets": []
     }
   ],
   "draftTracker": {
@@ -2412,80 +2399,69 @@
     "source": "espn"
   },
   "deals": [],
-  "ratings": [
-    {
-      "event": "UFC Freedom 250 (White House event)",
-      "network": "Paramount+",
-      "viewers_m": 17,
-      "peak_viewers_m": null,
-      "league": "OTHER",
-      "storyIndex": 16,
-      "context": "Exclusive streaming event. One of largest streaming audiences for UFC content in recent memory.",
-      "capturedAt": "2026-06-20T09:59:27.578Z"
-    }
-  ],
+  "ratings": [],
   "ticket_prices": [],
   "sidebar": [
     {
-      "headline": "Paraguay's Miguel Almiron becomes 1st player red-carded at World Cup for covering his mouth",
-      "source": "NY Post Sports · 1h ago",
-      "article": "Paraguay midfielder Miguel Almiron made World Cup history—unfortunately—by becoming the first player ever sent off for covering his mouth during a confrontation with opposing player Mert Mulder. Almiron allegedly mouthed something inflammatory to Mulder, who immediately appealed to referee Ivan Barton for punishment. Barton obliged, issuing a straight red card for unsporting conduct. The incident underscores how World Cup referees are increasingly policing player speech and behavior beyond physical contact, setting precedent for how aggressively officials will enforce verbal conduct violations throughout the tournament."
+      "headline": "U.S. Advances in World Cup Without Pulisic",
+      "source": "Front Office Sports · 15h ago",
+      "article": "The U.S. Men's National Team defeated Australia 2–0 in their World Cup fixture, advancing in the tournament despite the absence of Christian Pulisic due to injury. The victory demonstrated the team's depth and resilience, with reserves stepping into starring roles. Head coach Carlo Ancelotti rotated the lineup strategically, keeping key players fresh while building confidence in secondary options. The win eliminates knockout-round vulnerability concerns about Pulisic's availability. Group stage matches typically allow for rotation; the real test comes in elimination rounds where squad depth gets tested against elite competition. For USMNT purposes, proving they can win without their star winger matters psychologically and tactically as they navigate tournament advancement."
     },
     {
-      "headline": "Wyndham Clark carries four-shot US Open lead as big names gather in chasing pack",
-      "source": "The Guardian · 8h ago",
-      "article": "American golfer Wyndham Clark surged to a four-shot lead at the U.S. Open, capitalizing on strong ball-striking and continued redemption narrative following controversy 12 months prior. Clark's resurgence is remarkable given his previous season's struggles and the media scrutiny that accompanied them. Rory McIlroy remains in contention despite admitting he felt \"a bit of a baa\" during his round. The tournament's proximity to the 2026 World Cup in golf-heavy markets means strong ratings potential if Clark—an American with narrative momentum—can sustain the lead through final rounds."
+      "headline": "Wyndham Clark Leads U.S. Open After 54 Holes",
+      "source": "CBS Sports · just now",
+      "article": "American golfer Wyndham Clark carries a commanding four-shot lead into the final round of the U.S. Open at Shinnecock Hills on Saturday. Clark's revival season continues a trajectory that seemed unlikely 12 months ago after his previous controversies. The field includes marquee players in chasing position—Rory McIlroy among them—but Clark's cushion suggests his control the narrative entering the final 18. Clark tees off at 3:45 p.m. ET Saturday. His ability to close out a major championship will determine whether this season becomes a redemption story or another near-miss narrative. The U.S. Open's difficulty typically neutralizes large leads, but Clark's four-shot advantage is substantial enough to require significant collapse or exceptional play from the chasing pack."
     },
     {
-      "headline": "World Cup still waits for real Brazil to show up",
-      "source": "BBC Sport · 5h ago",
-      "article": "Brazil's 3-0 demolition of Haiti masks deeper concerns about consistency and team cohesion. While Argentina and France have impressed with sustained high-level performances, Brazil—despite comfortable victories—have failed to establish a dominant pattern necessary for tournament favorites. The Seleção's inconsistency raises questions about whether the squad possesses the tactical discipline to challenge tournament favorites when facing elite opposition. Raphinha's injury compounds concerns about depth in attacking positions."
+      "headline": "Blue Jays Bullpen Strain Deepens After Gausman Injury",
+      "source": "Sportsnet · 15h ago",
+      "article": "Kevin Gausman's brief, ineffective outing against the Cubs—lasting just two innings—has compounded Toronto's bullpen depth crisis. Gausman's early exit forced the relief corps into heavy workload during a lopsided loss. The Blue Jays' pitching infrastructure already faced strain before Gausman's underperformance, with key relievers fatigued or injured. Every early starter exit cascades pressure through the entire pitching staff, particularly in June when the schedule lacks recovery days. Toronto's front office faces a decision: do they address the bullpen before the trade deadline with either a starter to improve injury insurance or a high-leverage reliever to reduce current workload? The Gausman clunker forced that conversation earlier than the front office likely preferred."
     },
     {
-      "headline": "How Canada will approach replacing X-factor Ismael Kone at World Cup",
-      "source": "Sportsnet · 13h ago",
-      "article": "Canada faces a critical midfield decision after losing Ismael Kone, an X-factor player whose creative contributions lack direct replacement within the current roster. Kone's absence forces coach John Molinaro to either restructure the midfield entirely or ask a secondary option to expand their role—neither choice ideal. The solution will determine whether Canada can maintain possession quality and transition speed in matches against stronger opponents. Kone's loss signals Canada's reliance on specific player profiles rather than positional depth."
+      "headline": "Philly MLS Club Plans Free Youth Soccer Initiative",
+      "source": "Sportico · 1d ago",
+      "article": "Philadelphia's MLS franchise is implementing a legacy-building program offering free youth soccer access, capitalizing on World Cup momentum and expanding grassroots participation. The initiative leverages sponsorship dollars and organization capacity to build the next generation of fan base and talent pipeline. Similar legacy programs emerged across multiple World Cup host markets, with franchises and sponsors treating the tournament as a window to expand youth involvement. These programs serve dual purposes: they genuinely develop young talent while creating marketing assets and future season ticket customers. The MLS has long relied on successful World Cup tournaments to drive mainstream expansion into youth markets. Free programming removes the cost barrier that has historically limited growth among lower-income demographics."
     },
     {
-      "headline": "Indiana's Bob Knight Statue Costs a Pretty Penny",
-      "source": "Sportico · 23h ago",
-      "article": "The University of Indiana is commissioning a bronze statue of legendary basketball coach Bob Knight for $195,000—a substantial but reasonable investment for a program icon. Public records show the sculptor selected comes with prior experience memorializing major figures in college sports. The statue represents one of Indiana's efforts to capitalize on Knight's continued relevance and the program's basketball heritage at a moment when college sports sponsorships and facility upgrades drive significant spending."
+      "headline": "Indiana University Commissions $195K Bob Knight Statue",
+      "source": "Sportico · 1d ago",
+      "article": "Indiana University is paying a sculptor $195,000 to memorialize legendary basketball coach Bob Knight, according to public records. The statue commission represents significant institutional investment in honoring Knight's legacy despite his controversial tenure and difficult exit from the program. Statue commissions typically carry six-figure costs for bronze installation, pedestal engineering, and artist fees. Indiana's decision to invest substantially in Knight's commemoration signals that the institution views his basketball accomplishments as outweighing the reputational baggage of his coaching methods and departure. University fundraising for such projects often mixes athletic department budgets with donor contributions. The final statue installation will reshape how Bloomington-area basketball fans experience Assembly Hall's campus geography and narrative landscape."
     },
     {
-      "headline": "Flawed but relentless Scotland show themselves as men of substance",
-      "source": "BBC Sport · 8h ago",
-      "article": "Scotland's resilient performance against Morocco—despite eventual defeat—demonstrated tactical discipline and psychological strength under Steve Clarke. Morocco threatened early dominance, yet Scotland remained organized and competitive throughout, refusing to be overwhelmed by a technically superior opponent. Tom English's analysis emphasizes that the result matters less than the process: Scotland proved their World Cup participation reflects genuine competence, not luck. The squad's ability to absorb pressure and maintain structure suggests they can compete effectively in knockout stages."
+      "headline": "Scotland Shows Resilience Despite World Cup Defeat",
+      "source": "The Guardian · 22h ago",
+      "article": "Scotland's World Cup squad demonstrated squad cohesion and competitive substance despite losing to Morocco, with manager Steve Clarke's team showing the resilience required to compete in tournament football. The defeat doesn't erase Scotland's progress—their group-stage viability remains viable and their development as a competitive unit is visible. Morocco's early aggression threatened to overwhelm Scotland, but the squad's ability to absorb pressure and maintain shape suggests they possess the tactical discipline necessary to advance. Scotland's narrative entering the World Cup centered on whether they belonged at this level; early results suggest they're not overmatched. Remaining matches will determine group advancement, but the performance quality justifies Clarke's squad construction and preparation."
     }
   ],
   "poll": {
-    "question": "Will the DOJ investigation into MLB's Pride hat policies force the league to clarify its player expression guidelines by next season?",
+    "question": "Which represents the bigger business threat to MLB: federal investigation into religious discrimination policies or franchise pushback against draft restructuring proposals?",
     "options": [
-      "Yes, MLB will issue formal policy within 6 months",
-      "Yes, but only after EEOC settlement negotiations",
-      "No, MLB will appeal and delay clarification",
-      "No, policy remains ambiguous by design"
+      "Federal investigation (legal liability and regulatory oversight)",
+      "Draft restructuring backlash (competitive balance and player relations)",
+      "They're equally significant (different domains, same underlying credibility questions)",
+      "Neither threatens MLB materially (leagues survive bad PR and regulation)"
     ]
   },
   "predictions": [
     {
-      "statement": "Paramount+ secures at least one additional major sports exclusive deal (NFL playoff game or equivalent) within 12 months, citing UFC Freedom 250 viewership as negotiating leverage.",
+      "statement": "The EEOC investigation into MLB's Pride hat policy will result in updated uniform accommodation guidelines rather than enforcement action.",
       "probability": 72,
-      "rationale": "17M viewers is credible proof-of-concept for combat sports on streaming. Paramount's parent company (Skydance) is aggressive about sports rights. NFL is exploring alternatives to traditional broadcast, and the White House event's prestige—not just combat content—proved effective for mainstream audiences."
+      "rationale": "The investigation signals federal concern but doesn't mandate specific outcomes. MLB will likely settle via guidance that acknowledges both religious accommodation and diversity commitments, avoiding expensive litigation and preserving league discretion over future Pride initiatives."
     },
     {
-      "statement": "Brazil finishes World Cup group stage undefeated but loses before reaching the final, citing inconsistency noted by critics.",
-      "probability": 58,
-      "rationale": "The team's comfortable wins mask tactical vulnerabilities. Analysts identify lack of sustained pressure and defensive concentration lapses when facing possession-dominant opponents. France and Argentina have established rhythm; Brazil still searching. Group stage success likely, knockout round vulnerability real."
+      "statement": "Freddie Freeman's public criticism of MLB's draft proposal will force the league to add competitive-balance language to its official proposal before implementation.",
+      "probability": 64,
+      "rationale": "Star players amplifying institutional concerns carries weight in baseball's decision-making. Freeman's reputational credibility means MLB can't ignore his framing. The league will likely repackage the same proposal with added talking points about player development, not fundamental restructuring."
     },
     {
-      "statement": "MLB and the Giants reach settlement with DOJ/EEOC by end of calendar year, resulting in new league-wide player expression guidelines with religious carve-outs.",
+      "statement": "Cameron Carr will be drafted by the Warriors at No. 11 overall.",
+      "probability": 45,
+      "rationale": "The NY Post report suggests Carr is in Golden State's consideration set, not a lock. NBA draft boards shift constantly pre-draft based on workouts, interviews, and competing team interests. Carr's Baylor profile fits Warriors' needs, but mock drafts at No. 11 typically spread across 6–8 plausible candidates."
+    },
+    {
+      "statement": "The 2026 World Cup will exceed 2022 Qatar broadcast viewership by 8% or more when final numbers are published in July.",
       "probability": 68,
-      "rationale": "Federal investigation carries legal weight that forces negotiated resolution faster than typical corporate policy disputes. MLB has brand incentive to resolve before 2027 season to avoid ongoing headlines. Settlement likely includes explicit religious accommodation language to forestall future challenges."
-    },
-    {
-      "statement": "A women's professional soccer player (NWSL) signs a $100M+ career endorsement deal by end of 2026, validating the 'Tom Brady moment' thesis.",
-      "probability": 41,
-      "rationale": "League infrastructure is maturing, but a $100M individual endorsement deal remains rare outside traditional male superstars. World Cup visibility could elevate a single player rapidly, but brand commitments of that magnitude require proven marketing performance—difficult to justify until 2026 tournament concludes."
+      "rationale": "Summer timing, North American geography, established streaming infrastructure, and robust week-two audience delivery all support upside to 2022. Casual viewers typically tune in more heavily for traditional summer tournaments. The 2022 benchmark was strong despite unfavorable conditions; 2026 conditions are markedly better."
     }
   ],
   "injuries": [
@@ -2494,33 +2470,11 @@
       "team": "USMNT",
       "league": "SOCCER",
       "status": "OUT",
-      "injury": "Unspecified injury",
+      "injury": "Injury (specific diagnosis not disclosed)",
       "timeline": null,
       "source": "Front Office Sports",
-      "impact": "U.S. must deploy backup attacking options, reducing creativity and depth in World Cup group stage matches.",
+      "impact": "USMNT played Australia without injured star Christian Pulisic, relying on reserve wingers in his absence during group-stage advancement.",
       "storyIndex": 0
-    },
-    {
-      "player": "Raphinha",
-      "team": "Brazil",
-      "league": "SOCCER",
-      "status": "QUESTIONABLE",
-      "injury": "Non-contact injury",
-      "timeline": null,
-      "source": "CBS Sports",
-      "impact": "Brazil's attack depth is tested; injury to a primary winger limits tactical flexibility in knockout rounds.",
-      "storyIndex": 13
-    },
-    {
-      "player": "Ismael Kone",
-      "team": "Canada",
-      "league": "SOCCER",
-      "status": "OUT",
-      "injury": "Unspecified (forced absence)",
-      "timeline": "Rest of tournament",
-      "source": "Sportsnet",
-      "impact": "Canada must restructure midfield, forcing secondary playmakers into expanded roles with potential loss of possession quality.",
-      "storyIndex": 14
     }
   ],
   "picks": [
@@ -2812,14 +2766,14 @@
       "_pendingGrade": true
     }
   ],
-  "updatedAt": "2026-06-19T14:32:00Z",
+  "updatedAt": "2026-06-20T16:45:00Z",
   "highlights": [
     {
       "league": "NBA",
       "title": "The ICONIC Cavaliers vs. Warriors Game 7 🤯 (10 Years Later) | FULL GAME HIGHLIGHTS",
       "videoId": "zG7kLNswF68",
       "thumbnail": "https://img.youtube.com/vi/zG7kLNswF68/mqdefault.jpg",
-      "timeAgo": "12h ago",
+      "timeAgo": "14h ago",
       "isFallback": false
     },
     {
@@ -2827,15 +2781,15 @@
       "title": "Never change, Fernando 🤣 (via Las Vegas Raiders)",
       "videoId": "-Ml5elqBSZo",
       "thumbnail": "https://img.youtube.com/vi/-Ml5elqBSZo/mqdefault.jpg",
-      "timeAgo": "10h ago",
+      "timeAgo": "13h ago",
       "isFallback": false
     },
     {
       "league": "MLB",
-      "title": "ANGELS vs. ATHLETICS Full Game Highlights (6/19/26) | MLB Highlights",
-      "videoId": "cMmlhkIEbZA",
-      "thumbnail": "https://img.youtube.com/vi/cMmlhkIEbZA/mqdefault.jpg",
-      "timeAgo": "2h ago",
+      "title": "Two WILD walk-off wins out west &amp; the BEST MLB Highlights from 6/19/26!",
+      "videoId": "1pYLHIl0aRE",
+      "thumbnail": "https://img.youtube.com/vi/1pYLHIl0aRE/mqdefault.jpg",
+      "timeAgo": "1h ago",
       "isFallback": false
     },
     {
@@ -2843,7 +2797,7 @@
       "title": "Jonathan Toews: 1st Goal, The Greatness, The Cups 🏆 #Shorts",
       "videoId": "BBs6Tx7G0F0",
       "thumbnail": "https://img.youtube.com/vi/BBs6Tx7G0F0/mqdefault.jpg",
-      "timeAgo": "17h ago",
+      "timeAgo": "19h ago",
       "isFallback": false
     },
     {
@@ -2851,7 +2805,7 @@
       "title": "Marina Mabrey Drops Career-High 37 PTS in Tempo Win 🔥",
       "videoId": "sFkxMZnqsjY",
       "thumbnail": "https://img.youtube.com/vi/sFkxMZnqsjY/mqdefault.jpg",
-      "timeAgo": "4h ago",
+      "timeAgo": "7h ago",
       "isFallback": false
     },
     {
@@ -2859,11 +2813,27 @@
       "title": "Taylor Twellman is optimistic about the United States' World Cup chances 👀",
       "videoId": "aJujN2k0Akw",
       "thumbnail": "https://img.youtube.com/vi/aJujN2k0Akw/mqdefault.jpg",
-      "timeAgo": "5h ago",
+      "timeAgo": "8h ago",
       "isFallback": false
     }
   ],
   "reels": [
+    {
+      "league": "MLB",
+      "title": "Two WILD walk-off wins out west &amp; the BEST MLB Highlights from 6/19/26!",
+      "videoId": "1pYLHIl0aRE",
+      "author": "MLB",
+      "pubDate": "2026-06-20T11:00:24+00:00",
+      "link": "https://www.youtube.com/watch?v=1pYLHIl0aRE"
+    },
+    {
+      "league": "MLB",
+      "title": "Highlights from ALL GAMES on 6/19 (Cam Schlittler K's 13 BATTERS, Cubs score 16 RUNS and MORE!)",
+      "videoId": "Rk6mnsdWHiQ",
+      "author": "MLB",
+      "pubDate": "2026-06-20T10:00:29+00:00",
+      "link": "https://www.youtube.com/watch?v=Rk6mnsdWHiQ"
+    },
     {
       "league": "MLB",
       "title": "ANGELS vs. ATHLETICS Full Game Highlights (6/19/26) | MLB Highlights",
@@ -2921,14 +2891,6 @@
       "link": "https://www.youtube.com/watch?v=sFkxMZnqsjY"
     },
     {
-      "league": "MLB",
-      "title": "RED SOX vs. MARINERS Full Game Highlights (6/19/26) | MLB Highlights",
-      "videoId": "P5hOMfdFv8Y",
-      "author": "MLB",
-      "pubDate": "2026-06-20T05:32:01+00:00",
-      "link": "https://www.youtube.com/watch?v=P5hOMfdFv8Y"
-    },
-    {
       "league": "WNBA",
       "title": "Minnesota Lynx vs. Golden State Valkyries | FULL GAME HIGHLIGHTS | June 19, 2026",
       "videoId": "_UGy8196IWI",
@@ -2951,14 +2913,6 @@
       "author": "ESPN FC",
       "pubDate": "2026-06-20T04:44:40+00:00",
       "link": "https://www.youtube.com/watch?v=lJP60L7809I"
-    },
-    {
-      "league": "MLB",
-      "title": "PIRATES vs. ROCKIES Full Game Highlights (6/19/26) | MLB Highlights",
-      "videoId": "YY32OTIyX2M",
-      "author": "MLB",
-      "pubDate": "2026-06-20T04:35:56+00:00",
-      "link": "https://www.youtube.com/watch?v=YY32OTIyX2M"
     },
     {
       "league": "SOCCER",
