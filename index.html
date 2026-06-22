@@ -219,12 +219,33 @@
     .logo-sub { font-size: 8px; letter-spacing: .18em; }
     .header-dateline { font-size: 9px; }
 
-    /* Nav already wraps; make pills comfortable thumb targets and let the row
-       scroll horizontally if needed rather than wrapping into many lines. */
-    .nav-bar { gap: 6px; padding: 8px 0; flex-wrap: nowrap; overflow-x: auto; -webkit-overflow-scrolling: touch; }
-    .nav-bar::-webkit-scrollbar { display: none; }
-    .nav-pill { padding: 8px 12px; font-size: 12px; white-space: nowrap; flex: 0 0 auto; }
-    .nav-menu { left: 0; right: auto; min-width: 200px; }
+    /* Nav: 4 top-level items fit on a phone by wrapping — NO horizontal scroll,
+       which is what trapped the dropdown inside a clipped scroll strip. The
+       group is static so the menu can escape it. */
+    .nav-bar { gap: 6px; padding: 8px 0; flex-wrap: wrap; overflow: visible; }
+    .nav-pill { padding: 9px 13px; font-size: 12px; white-space: nowrap; flex: 0 0 auto; }
+
+    /* The category dropdown becomes a full-width panel pinned just under the
+       nav, laid OVER the stories (not inside the cramped bar). position:fixed
+       takes it out of the nav's box entirely so nothing clips it. */
+    .nav-group { position: static; }
+    .nav-group.open .nav-menu,
+    .nav-group:hover .nav-menu {
+      display: flex;
+      position: fixed;
+      left: 12px;
+      right: 12px;
+      min-width: 0;
+      width: auto;
+      max-height: 70vh;
+      overflow-y: auto;
+      z-index: 500;
+      box-shadow: 0 16px 40px rgba(0,0,0,0.7);
+    }
+    .nav-menu-item { padding: 13px 16px; font-size: 13px; }
+
+    /* Sub-tabs (analytics) can still scroll horizontally — they're a flat row,
+       not a dropdown, so scrolling them is fine. */
     .subnav-bar { overflow-x: auto; -webkit-overflow-scrolling: touch; flex-wrap: nowrap; }
     .subnav-bar::-webkit-scrollbar { display: none; }
     .subnav-pill { white-space: nowrap; flex: 0 0 auto; padding: 8px 11px; }
@@ -2893,17 +2914,28 @@
   document.addEventListener('DOMContentLoaded', function() {
     var pill = document.getElementById('all-stories-pill');
     var group = document.getElementById('stories-group');
+    var menu = document.getElementById('stories-menu');
     if (pill && group) {
       pill.addEventListener('click', function(e) {
-        // Only toggle on touch/coarse pointers; desktop uses hover + the
-        // normal filterCat('all') behavior fires too.
         if (window.matchMedia('(hover: none)').matches) {
           e.stopPropagation();
+          var opening = !group.classList.contains('open');
           group.classList.toggle('open');
+          // Pin the fixed-position panel just below the nav bar, using the
+          // bar's real on-screen bottom edge so it never lands inside the bar
+          // or floats in the wrong place regardless of header height.
+          if (opening && menu) {
+            var bar = document.querySelector('.nav-bar');
+            var bottom = bar ? bar.getBoundingClientRect().bottom : 120;
+            menu.style.top = Math.max(0, bottom + 4) + 'px';
+          }
         }
       });
       document.addEventListener('click', function(e) {
-        if (!group.contains(e.target)) group.classList.remove('open');
+        if (!group.contains(e.target)) {
+          group.classList.remove('open');
+          if (menu) menu.style.top = '';
+        }
       });
     }
   });
