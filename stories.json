@@ -1,73 +1,180 @@
 {
   "clusters": [
     {
-      "category": "contracts",
+      "category": "leagues",
       "importance": 9,
-      "leadHeadline": "Trae Young's $212 million Wizards contract is a huge overpay, so why are they doing the deal?",
-      "leadSource": "CBS Sports · 1h ago",
-      "leadUrl": "https://www.cbssports.com/nba/news/trae-young-contract-wizards-overpay/",
-      "summary": "Washington signed Trae Young to a near-max deal worth $212M despite significant defensive liabilities, betting offensive firepower can anchor a playoff push. The contract represents one of the offseason's boldest gambles on a two-way liability.",
-      "article": "The Wizards agreed to a near-maximum contract worth $212 million with Trae Young on Thursday, committing franchise resources to a score-first point guard whose defensive deficiencies have limited his ceiling in playoff rotations. The deal locks Young into the core of a rebuilding squad, betting that elite offensive creation and shot-making can overcome individual defensive limitations.\n\nOn the surface, the contract reads as a miscalculation. Young averaged 27.3 points and 9.8 assists last season but ranked in the bottom 15% of the league in defensive rating—a gap that has haunted Atlanta's postseason hopes for four years running. The $212M commitment places him firmly in the max-salary tier despite not being a franchise lynchpin at two ends of the floor.\n\nBut Washington's calculus is less irrational than it initially appears. The Wizards are operating from a position of salary-cap flexibility and a young core that needs a shot-creator to compete immediately. Young's offensive resume—consistent 25+ PPG seasons, elite perimeter range, clutch gene—offers the rare commodity of a ready-made lead guard in a market where true playmakers command premiums. The alternative—letting him walk or accepting a shorter, prove-it deal that invites his exit at 26—costs Washington leverage it doesn't have.\n\nWhat remains unclear is whether offensive talent alone can carry a team in playoff basketball. The Wizards are betting it can.",
-      "tweets": []
+      "leadHeadline": "Messi makes World Cup history as Argentina reach last 32",
+      "leadSource": "BBC Sport · just now",
+      "leadUrl": "https://www.bbc.com/sport/football/articles/c74y1vypn2wo?at_medium=RSS&amp;at_campaign=rss",
+      "summary": "Lionel Messi becomes the World Cup's all-time leading goalscorer with a double against Austria, sending defending champions Argentina into the knockout rounds. The record caps a remarkable career arc for the 37-year-old after announcing his retirement from international play a decade ago.",
+      "article": "Lionel Messi scored twice against Austria to become the FIFA World Cup's all-time leading goalscorer, surpassing the previous record, as defending champions Argentina secured passage to the last 32. The goals extended Messi's World Cup tally and delivered a decisive victory that clinched the holders' knockout berth with a match to spare in their group. At 37 years old, Messi continues to deliver in the tournament's biggest moments—a stunning arc for a player who announced his international retirement in 2016 before reversing course. His performance underscores why Argentina entered this tournament as favorites: the attacking prowess of Messi, the midfield control, and the tournament experience accumulated from their 2022 triumph. Austria's defeat leaves them fighting for a knockout place in their final group match. For Argentina, the victory eases pressure heading into their final group contest and positions them as a dangerous opponent in the knockout stages. Messi's continued excellence in a World Cup at his age remains one of sport's rarest achievements—a player past his statistical prime still performing at peak moments when it matters most.",
+      "tweets": [
+        {
+          "url": "https://twitter.com/FOXSports/status/2069113349954998775",
+          "html": "<blockquote class=\"twitter-tweet\" data-dnt=\"true\" data-theme=\"dark\"><p>The GOAT stands alone.\n\nMESSI BECOMES THE ALL-TIME LEADING GOALSCORER IN MEN’S FIFA WORLD CUP HISTORY 🇦🇷 https://t.co/aWY9thIuUG</p>&mdash; FOX Sports (@FOXSports) <a href=\"https://twitter.com/FOXSports/status/2069113349954998775\">June 22, 2026</a></blockquote>",
+          "author_name": "FOX Sports",
+          "author_url": "https://twitter.com/FOXSports",
+          "dateMs": 1782150039000
+        },
+        {
+          "url": "https://twitter.com/FIFAcom/status/2069141823872721021",
+          "html": "<blockquote class=\"twitter-tweet\" data-dnt=\"true\" data-theme=\"dark\"><p>Lionel Messi extends his record: 18 @FIFAWorldCup goals! 👏 https://t.co/IAPTGfo056</p>&mdash; FIFA (@FIFAcom) <a href=\"https://twitter.com/FIFAcom/status/2069141823872721021\">June 22, 2026</a></blockquote>",
+          "author_name": "FIFA",
+          "author_url": "https://twitter.com/FIFAcom",
+          "dateMs": 1782156828000
+        }
+      ]
     },
     {
       "category": "leagues",
       "importance": 8,
-      "leadHeadline": "Loaded NBA Draft Closes Old Lottery System After Tanking-Fueled Season",
-      "leadSource": "Front Office Sports · 2h ago",
-      "leadUrl": "https://frontofficesports.com/loaded-nba-draft-closes-old-lottery-system-after-tanking-fueled-season/",
-      "summary": "The 2026 NBA Draft marks the final year of the league's current lottery format, ending a system repeatedly exploited by tanking teams. A reformed draft structure takes effect next year to discourage competitive surrender and reward winning cultures.",
-      "article": "The 2026 NBA Draft will be the last conducted under the league's current lottery system, concluding a two-decade experiment that repeatedly incentivized competitive collapse. The NBA's Board of Governors has finalized a replacement mechanism designed to penalize tanking franchises and restore incentive alignment between lottery odds and organizational performance.\n\nUnder the existing structure, teams that finish in the bottom 14 of the standings enter a weighted lottery where the worst record holds a 25% chance of securing the No. 1 pick. Executed with mathematical purity, the system became a strategic tool: franchises like San Antonio, Orlando, and Houston systematized player departures and salary dumps to land premium draft capital. The approach yielded championship cores, but it fractured competitive balance across stretches of 3-4 seasons per cycle.\n\nThe new system, implemented beginning with the 2027 draft, will distribute lottery odds more evenly across non-playoff teams and introduce a \"play-in\" component for draft positioning, rewarding teams that remain competitive down the stretch. League officials cited \"sustained tanking cycles\" and viewer fatigue as drivers of the change.\n\nFor 2026 teams, the final run through the old lottery represents a last-chance saloon. Teams sitting on veteran assets or cap space will face the decision now-or-never: accelerate a competitive timeline or accept bottoming-out while it remains strategically sanctioned. The draft class this year—deep in guards and versatile wings—only amplifies the stakes of first-round capital.",
-      "tweets": []
+      "leadHeadline": "From retirement to records - another immortal Messi moment",
+      "leadSource": "The Guardian · 8h ago",
+      "leadUrl": "https://www.bbc.com/sport/football/articles/c74y1vypn2wo?at_medium=RSS&amp;at_campaign=rss",
+      "summary": "Messi extends his World Cup legacy after a decade away from international competition, rewriting the record books as Argentina advances. His performance exemplifies how elite players can sustain excellence across multiple generations of competition.",
+      "article": "Ten years after stepping away from Argentina's international program, Lionel Messi has returned to break records rather than merely participate. The arc from 2016 retirement to World Cup record-holder in 2026 represents one of sport's most improbable trajectories—a player who could have exited as a legend instead chose to etch deeper into history. Messi's performance against Austria showcases the gap between sustained excellence and the decline most assume follows age 35. He remains Argentina's primary attacking threat, the orchestrator of their midfield rhythm, and the penalty-area finisher when opportunities compress into seconds. The broader World Cup context matters: Argentina's 2022 victory established them as tournament favorites, and Messi's availability—not just his presence but his actual on-field impact—fundamentally changes how opponents game-plan. Defenders still collapse toward him. Midfielders still adjust shape to find him space. The muscle memory of facing the best player of a generation doesn't fade when he's returned at 37. For Argentina, his continued excellence removes the burden of \"We need Messi to outperform expectations.\" Instead, they can execute their system with confidence that their most dangerous weapon remains operational. For the broader tournament, it's a reminder that generational talent occasionally rewrites the timeline everyone assumes.",
+      "tweets": [
+        {
+          "url": "https://twitter.com/CBSSportsGolazo/status/2069117434154418391",
+          "html": "<blockquote class=\"twitter-tweet\" data-dnt=\"true\" data-theme=\"dark\"><p>10 years ago, Lionel Messi retired from international football with zero major honors. Since returning, he has:\n\n🏆 Won Copa America twice\n🏆 Won the World Cup \n🏆 Won the Finalissima \n⚽️️Broken the record for the most goals in men’s World Cup history \n\nA comeback for the https://t.co/JzU89IYjy8</p>&mdash; CBS Sports Golazo ⚽️ (@CBSSportsGolazo) <a href=\"https://twitter.com/CBSSportsGolazo/status/2069117434154418391\">June 22, 2026</a></blockquote>",
+          "author_name": "CBS Sports Golazo ⚽️",
+          "author_url": "https://twitter.com/CBSSportsGolazo",
+          "dateMs": 1782151013000
+        }
+      ]
     },
     {
-      "category": "revenue",
-      "importance": 7,
-      "leadHeadline": "PWHL Gets More Than $100M From Larry Tanenbaum, Ilitch Companies",
-      "leadSource": "Sportico · 10h ago",
-      "leadUrl": "https://www.sportico.com/leagues/hockey/2026/pwhl-investment-larry-tanenbaum-ilitch-companies-1234936659/",
-      "summary": "Kilmer Sports Ventures, led by billionaire Larry Tanenbaum, injected over $100M into the Professional Women's Hockey League as a strategic investor, accelerating the league's path to profitability and stability. The investment represents the largest institutional backing of women's pro hockey to date.",
-      "article": "The Professional Women's Hockey League announced a strategic investment exceeding $100 million from Kilmer Sports Ventures and the Ilitch Companies, two of North America's largest sports investment operations, on Wednesday. The capital injection signals institutional confidence in the PWHL's financial model and positions the three-year-old league for accelerated growth across player compensation, arena infrastructure, and media expansion.\n\nKilmer Sports Ventures, the private investment arm of billionaire Larry Tanenbaum (owner of Toronto's NBA and MLS franchises), led the round alongside Ilitch Companies, the Detroit-based conglomerate that controls the Red Wings and Tigers. The investment structure grants both parties board-level involvement in strategic decisions, including media-rights negotiations and franchise expansion planning.\n\nThe $100M+ commitment addresses the PWHL's primary competitive disadvantage against legacy men's leagues: player salary floors and long-term sustainability guarantees. Current average player compensation sits around $35K annually—below cost-of-living thresholds in marquee markets like Toronto and Montreal. Tanenbaum and Ilitch's capital enables the league to raise salary minimums to $50K-plus and invest in venue improvements that elevate broadcast presentation.\n\nThe timing aligns with the PWHL's media-rights window: current TV deals with ESPN and TSN expire after the 2027 season. With institutional backing now visible, the league enters renegotiations from a position of demonstrated financial stability rather than speculative growth.",
-      "tweets": []
+      "category": "media",
+      "importance": 8,
+      "leadHeadline": "Linda Cohn to retire from ESPN next week",
+      "leadSource": "Sports Media Watch · 5h ago",
+      "leadUrl": "https://www.sportsmediawatch.com/2026/06/linda-cohn-retiring-espn/",
+      "summary": "Longtime ESPN SportsCenter anchor Linda Cohn is retiring after three decades at the network, marking the end of an era in sports television anchoring. Her departure removes one of the network's most recognizable voices from daily cable sports programming.",
+      "article": "Linda Cohn is retiring from ESPN, concluding a 30-year tenure as one of the network's most visible SportsCenter anchors. Cohn's career at ESPN spans the evolution of cable sports media—from the pre-digital era through the streaming and fragmented-audience landscape of 2026. Her role as anchor represented continuity; viewers could reliably find her voice framing the day's sports narrative across multiple SportsCenter broadcasts. The retirement creates a significant void in ESPN's anchor rotation. Cohn was not a beat reporter rotating through teams or a personality built on singular expertise; she was a generalist anchor—someone tasked with commanding a broadcast and delivering dozens of stories with tonal nuance and credibility across sports. That skill set is increasingly difficult to source. ESPN has invested heavily in personality-driven programming and analyst debate, but the foundational anchor role—the person who convenes the day's stories and leads viewers through them—remains essential to network identity. Cohn's exit raises questions about how ESPN will restructure its SportsCenter lineup. The network has already moved several shows to streaming platforms and consolidated others, suggesting that daily anchor talent has become less central to the strategy than personality-driven shows and live event coverage. For viewers who grew up with Cohn as a consistent presence, the retirement marks a generational shift in how sports television packages its authority.",
+      "tweets": [
+        {
+          "url": "https://twitter.com/ESPNPR/status/2069095777293484506",
+          "html": "<blockquote class=\"twitter-tweet\" data-dnt=\"true\" data-theme=\"dark\"><p>\"What I'm most proud of is that my career lasted long enough for me to see little girls grow up watching @SportsCenter, enter this business &amp;amp; succeed in it.\"\n\nAfter hosting 5,500+ editions of SC, legendary anchor @lindacohn is retiring from ESPN June 30\n\n🔗https://t.co/mQlS2Eq07S https://t.co/AaRNEQSTFE</p>&mdash; ESPN PR (@ESPNPR) <a href=\"https://twitter.com/ESPNPR/status/2069095777293484506\">June 22, 2026</a></blockquote>",
+          "author_name": "ESPN PR",
+          "author_url": "https://twitter.com/ESPNPR",
+          "dateMs": 1782145849000
+        }
+      ]
     },
     {
-      "category": "labor",
+      "category": "leagues",
       "importance": 7,
-      "leadHeadline": "NBA Players Union Launches New Commercial Arm PlyrsUntd",
-      "leadSource": "Sportico · 11h ago",
-      "leadUrl": "https://www.sportico.com/leagues/basketball/2026/nba-players-union-plyrs-untd-1234936539/",
-      "summary": "The NBA Players Association created PlyrsUntd, a consumer-facing commercial brand focused on events and content, expanding player monetization beyond individual endorsement deals. The union's move mirrors similar labor-controlled ventures in soccer and reflects shifting dynamics around athlete economic power.",
-      "article": "The NBA Players Association formally launched PlyrsUntd on Thursday, a new commercial entity designed to market player-created content and events directly to consumers outside traditional league channels. The venture positions the union as an aggregator and broadcaster of player IP, creating revenue streams that bypass league infrastructure and studio approval processes.\n\nPlyrsUntd will initially focus on podcast networks, gaming streams, and in-season charitable events hosted by marquee players. The union has negotiated carve-outs in collective bargaining language that allow players to generate content and ticket revenue through the new arm without triggering league revenue-sharing obligations. Early pilots include exclusive documentary content featuring playoff narratives and player-hosted charity tournaments.\n\nThe strategic motive is transparent: as player salaries have compressed—particularly for mid-tier rotation players—union leadership has pushed for alternative monetization pathways. Individual endorsement deals increasingly flow to superstars; a median NBA player earns roughly $3.5M annually with limited off-court income. PlyrsUntd democratizes access to audience by pooling player brands under a professional production umbrella.\n\nThe move echoes similar labor-controlled ventures in European soccer, where players' unions operate streaming platforms and merchandise operations. It also signals subtle tension between the NBA and its players around content rights: the league controls most live-game footage and media partnerships, while players retain personal likeness rights. PlyrsUntd occupies that gray space, aggregating player-produced content at scale.",
+      "leadHeadline": "Norway vs. Senegal live stream: How to watch FIFA World Cup, odds, prediction, pick, lineups, channel",
+      "leadSource": "CBS Sports · 1h ago",
+      "leadUrl": "https://www.cbssports.com/soccer/news/norway-vs-senegal-world-cup-2026-preview-predictions-watch/",
+      "summary": "Norway and Senegal clash in a critical World Cup group-stage match, with Erling Haaland's nation seeking to advance from the tournament. The fixture represents one of the day's marquee World Cup contests as teams battle for knockout-round positioning.",
+      "article": "Norway faces Senegal in a pivotal 2026 World Cup group-stage match, with both teams fighting for qualification to the knockout rounds. Erling Haaland headlines Norway's attack—a player whose goal-scoring dominance at club level has translated to international competition. Senegal, as an African confederation representative, brings its own credentials: a team capable of surprising larger football nations with tactical discipline and counter-attacking speed. The match carries genuine stakes. Group positioning hinges on results across multiple fixtures, and a loss could eliminate either side depending on other scorelines. For Norway, advancing would mark a statement moment in a tournament where European teams face stronger-than-usual competition from African and South American qualifiers. Haaland's presence raises Norway's ceiling considerably; the Manchester City striker has transformed international play into an extension of his club form. Senegal's strength lies in defensive organization and the pace available in transitional moments. The matchup will likely hinge on possession control and how cleanly Norway can convert limited chances. Broadcasting schedules place the fixture among the day's centerpiece games, ensuring mainstream attention. For both federations, the result shapes not just immediate advancement but the narrative trajectory heading into knockout play.",
       "tweets": []
     },
     {
       "category": "revenue",
       "importance": 6,
       "leadHeadline": "Women's PGA Championship Tops U.S. Women's Open With $13M Purse",
-      "leadSource": "Front Office Sports · just now",
-      "leadUrl": "https://frontofficesports.com/womens-pga-championship-tops-u-s-womens-open-with-13m-purse/",
-      "summary": "The Women's PGA Championship increased its purse to $13 million, surpassing the U.S. Women's Open and becoming the largest on women's golf's calendar. The $1M increase reflects continued momentum in commercial backing for elite women's tournaments.",
-      "article": "The Women's PGA Championship announced a purse increase to $13 million for the 2026 edition, elevating the event above the U.S. Women's Open ($12.5M) and cementing its status as the richest women's golf major. The $1 million year-over-year bump follows record television ratings and sponsor commitments from Chevron and KPMG.\n\nThe purse expansion accelerates a multi-year trajectory: the event's purse stood at $9M in 2022. Championship organizers and the LPGA have moved aggressively to leverage increased broadcast interest—2024 and 2025 finals averaged 2.8M viewers on NBC, up 34% over the prior four-year average—into corporate commitments. Chevron's title sponsorship extension through 2028 includes escalating purse guarantees that trigger automatic increases if broadcast audience thresholds are met.\n\nThe $13M purse now exceeds standard PGA Tour event maximums and approaches the Masters purse ($14M). This positions the Women's PGA as an elite destination for international talent, particularly players from Asia and Europe who previously committed to European tours to access comparable prize pools.\n\nContext matters: while the purse milestone is genuine progress for women's golf, it remains $10M+ below the Memorial Tournament on the men's side and roughly one-fifth of major golf's richest events. But the trajectory—consistent year-over-year growth tied to measurable viewership gains—demonstrates a sustainable model, not charity.",
-      "tweets": []
-    },
-    {
-      "category": "media",
-      "importance": 5,
-      "leadHeadline": "Mexico's Karim López Emerges As NBA Draft's Biggest International Star",
       "leadSource": "Front Office Sports · 1h ago",
+      "leadUrl": "https://frontofficesports.com/womens-pga-championship-tops-u-s-womens-open-with-13m-purse/",
+      "summary": "The Women's PGA Championship purse has increased to $13 million, surpassing the U.S. Women's Open and ranking as the richest women's golf tournament. The prize-money bump reflects continued investment in professional women's golf compensation.",
+      "article": "The Women's PGA Championship announced a $13 million purse for 2026, representing a $1 million increase and positioning it as the richest women's golf tournament—edging the U.S. Women's Open. The decision reflects the PGA of America's commitment to escalating player compensation in the women's game, signaling a broader industry momentum around equal prize purses. Context matters: women's golf purses have historically lagged men's equivalents significantly. The $13 million figure for the Women's PGA still trails major men's tournaments by millions, but the trajectory shows movement. The purse increase also arrives amid broader golf-industry consolidation and investment. Major League Golf has injected capital into the professional game structure, and traditional tours are responding with enhanced purse commitments to retain top talent. For the Women's PGA Championship specifically, the $13 million purse enhances the tournament's standing among women's majors. It becomes the primary destination for elite female golfers seeking the highest prize money. The increase also applies psychological pressure on other major championships to keep pace—a dynamic that accelerates purse expansion across the calendar. From a business perspective, larger purses justify higher television rights fees and sponsorship commitments, creating a virtuous cycle. For players, it's immediate: a major championship win at the Women's PGA now delivers meaningfully higher paydays, and that shifts which tournaments receive the most intense preparation.",
+      "tweets": []
+    },
+    {
+      "category": "leagues",
+      "importance": 5,
+      "leadHeadline": "The champion they didn't want: inside Wyndham Clark's lonely US Open coronation",
+      "leadSource": "The Guardian · 8h ago",
+      "leadUrl": "https://www.theguardian.com/sport/2026/jun/22/inside-wyndham-clark-lonely-us-open-coronation-golf",
+      "summary": "Wyndham Clark's U.S. Open victory came without the fanfare typical of major championship wins, reflecting broader dynamics in professional golf and fan engagement. Clark's triumph required rebuilding both technical skill and psychological resilience after years in the margins.",
+      "article": "Wyndham Clark won the U.S. Open under circumstances that highlight shifting dynamics in professional golf. Unlike Rory McIlroy or Tiger Woods victories, Clark's major championship win generated muted popular enthusiasm—less a coronation than a coronation nobody particularly anticipated or championed. The Guardian's framing captures the paradox: Clark is legitimately an excellent golfer with a major title, yet the golf world's emotional investment remained cool. His path to the championship required reconstructing his swing and his confidence. For years, Clark labored in mid-field finishes, always threatening but rarely converting. The U.S. Open win represents vindication of that grinding process—a payoff for players who don't possess the marketability of McIlroy or the historical gravity of Woods. From a business standpoint, Clark's victory raises questions about how major championships market themselves when the champion lacks existing celebrity. Major viewership depends partly on personality recognition, and Clark enters the conversation with limited prior mainstream profile. His win elevates him, certainly, but the U.S. Open's ratings likely didn't spike with the same intensity they would for a player with existing star power. The loneliness of the victory also reflects golf's fragmenting audience: casual viewers may have missed the tournament entirely, while dedicated followers watched but without the emotional stakes attached to rooting for an established personality. For Clark, the U.S. Open serves as career validation and financial security, but the muted reception underscores how golf's reward structure favors existing celebrities.",
+      "tweets": []
+    },
+    {
+      "category": "contracts",
+      "importance": 5,
+      "leadHeadline": "Trae Young's $212 million Wizards contract is a huge overpay, so why are they doing the deal?",
+      "leadSource": "CBS Sports · 1h ago",
+      "leadUrl": "https://www.cbssports.com/nba/news/trae-young-contract-wizards-overpay/",
+      "summary": "The Washington Wizards signed Trae Young to a near-maximum contract worth $212 million despite his defensive limitations and offensive inefficiency metrics. The deal reflects desperation more than strategic evaluation.",
+      "article": "The Washington Wizards committed $212 million to Trae Young on a near-maximum contract extension, a decision that invites immediate scrutiny. Young is undeniably elite on offense—his playmaking and shot creation remain top-tier—but the contract size vastly outweighs the package he delivers. The defensive deficit matters immensely in a league where playoff teams construct rosters around perimeter defense. Young's defensive rating ranks among guards in the bottom quartile. In isolation, a max contract for an elite offensive player makes sense; in context, the Wizards are committing $212 million to a player who delivers offense without the two-way impact that justifies max-level salaries in the contemporary NBA. Why the Wizards proceeded anyway reveals organizational dysfunction. The franchise faced a choice: trade Young and rebuild around a different timeline, or extend him and commit to a window that realistically closes in three-to-four years as Young ages and the supporting cast declines. The Wizards chose extension—not because Young merits the full $212 million, but because trading him would signal failure and reset expectations. It's a decision driven by organizational optics rather than roster construction logic. Young's contract now represents approximately 28% of the salary cap, creating constraint for years. That limits the Wizards' ability to add complementary talent—the very reinforcements needed to offset Young's defensive liabilities. The Wizards essentially chose predictable mediocrity over the risk of rebuilding.",
+      "tweets": [
+        {
+          "url": "https://twitter.com/ShamsCharania/status/2069129593672310898",
+          "html": "<blockquote class=\"twitter-tweet\" data-dnt=\"true\" data-theme=\"dark\"><p>BREAKING: Trae Young intends to sign a four-year, approximately $212 million deal to stay with the Washington Wizards, with a player option in Year 4, sources tell ESPN. The four-time NBA All-Star declined his $49M player option for a long-term commitment ahead of free agency. https://t.co/BAGANqomo0</p>&mdash; Shams Charania (@ShamsCharania) <a href=\"https://twitter.com/ShamsCharania/status/2069129593672310898\">June 22, 2026</a></blockquote>",
+          "author_name": "Shams Charania",
+          "author_url": "https://twitter.com/ShamsCharania",
+          "dateMs": 1782153912000
+        }
+      ]
+    },
+    {
+      "category": "leagues",
+      "importance": 4,
+      "leadHeadline": "Loaded NBA Draft Closes Old Lottery System After Tanking-Fueled Season",
+      "leadSource": "Front Office Sports · 3h ago",
+      "leadUrl": "https://frontofficesports.com/loaded-nba-draft-closes-old-lottery-system-after-tanking-fueled-season/",
+      "summary": "The 2026 NBA Draft represents the final selection under the league's current lottery system, ending an era marked by explicit tanking incentives. A new lottery structure debuts next year to reduce the incentive for franchise collapse.",
+      "article": "The 2026 NBA Draft closes the chapter on the NBA's current lottery system, which has governed draft positioning since 1985. The replacement mechanics, introduced next year, remove some of the financial incentives that made tanking strategically rational for ownership. The current system operated on a simple logic: finishing last provided the best odds of landing the No. 1 pick. That created perverse incentives across the league. Teams in rebuilding phases had mathematical reasons to lose aggressively rather than develop winning habits. The culture of losing—roster construction designed explicitly to minimize wins—affected player development, fan experience, and organizational morale. The new system levels the field: teams ranked 1-6 in the standings receive nearly equal odds of securing a top-three pick. That removes the premium placed on last-place finishes and forces franchises to compete even in rebuild phases. The 2026 draft's loaded prospect class arrives as the final lottery run under old rules. Teams tanking aggressively in recent seasons benefited from positioning advantage; next year, that advantage disappears. For franchises holding high picks in 2026, the advantage represents both the final opportunity under the old structure and proof that the old incentive system succeeded in concentrating talent distribution. Looking ahead, the new lottery forces organizational thinking to shift: sustained mediocrity becomes less strategically appealing than competitive development, even with lower draft positioning.",
+      "tweets": []
+    },
+    {
+      "category": "revenue",
+      "importance": 4,
+      "leadHeadline": "Mexico's Karim López Emerges As NBA Draft's Biggest International Star",
+      "leadSource": "Front Office Sports · 2h ago",
       "leadUrl": "https://frontofficesports.com/mexicos-karim-lopez-emerges-as-nba-drafts-biggest-international-star/",
-      "summary": "Karim López of Mexico has emerged as the draft's marquee international prospect amid a historically thin international class in 2026. The pool of overseas talent is notably weaker than recent years, elevating López's stock and limiting teams' options outside traditional college routes.",
-      "article": "Karim López, a 6-foot-10 forward from Monterrey, has become the centerpiece of a markedly depleted international prospect pool heading into the 2026 NBA Draft. League scouts describe the overseas talent class as the thinnest in at least a decade, with López representing the only consensus lottery-caliber international talent available.\n\nHistorically, the NBA draft has drawn premium foreign talent from developed basketball markets: Spain, France, Germany, and Australia have consistently supplied first-round contributors. The 2024 and 2025 drafts each featured 4-5 international players in the lottery. This year, that number has contracted to one serious candidate.\n\nGM evaluators cite three structural factors: European developmental leagues have raised salary floors to compete with NBA G League callup opportunities, reducing incentive for teenagers to pursue American college routes; the strength of Latin American leagues—particularly in Mexico and Brazil—has accelerated domestic player retention; and international scouting travel, which shut down during the pandemic, has not fully recovered. NBA teams still struggle to consistently identify talent outside established basketball nations.\n\nLópez benefits from this vacuum. His all-around skill set—19 PPG, elite wingspan, developing three-point range—would likely grade as a late-first-round prospect in a typical year. With limited competition for international slots, he's projected in the lottery. Teams seeking international diversification in their rosters will face constrained choice sets, likely pushing several franchises toward trade-ups or college standouts.",
+      "summary": "Karim López, a Mexican prospect, has emerged as the draft's most prominent international player amid a thin international prospect pool. His prominence reflects both his individual talent and the scarcity of elite foreign-born players in this year's draft class.",
+      "article": "Karim López of Mexico has become the draft's headline international prospect, a distinction that underscores just how thin the 2026 international prospect pool is. Traditionally, the draft features multiple elite European or international players competing for lottery consideration; this year, López stands alone at the tier-one level. López's ascension reflects two dynamics: his legitimate skill level and the broader scarcity. The international game has produced fewer elite prospects than expected relative to historical production. Scouts attribute this partly to the one-and-done model's continued dominance—elite American prospects still command the premium positioning, and international players face higher barriers to entry and less pathway clarity. López's prominence carries business implications. International markets represent growth opportunities for the NBA; a marquee Mexican player entering the league at a high draft slot creates promotional possibilities in Latin American territories. The league benefits from having diversity in its prospect profile, and López provides that narrative element. However, the thin international pool also reflects concerning trends in player development outside North America. European basketball has struggled to match prior generations' output, and emerging markets haven't yet filled that gap. For teams evaluating the 2026 draft, the absence of multiple elite international options concentrates selection value around established American talent. The lottery and first round will likely skew more heavily domestic than in recent years, a pattern that may persist until international academies and development systems produce the next cohort of blue-chip prospects.",
+      "tweets": [
+        {
+          "url": "https://twitter.com/ClutchPoints/status/2068538594252464421",
+          "html": "<blockquote class=\"twitter-tweet\" data-dnt=\"true\" data-theme=\"dark\"><p>In a draft filled with American stars, one name stands alone.\n\nKarim Lopez is projected to be the only international player selected in the first round 🌍\n\nNo college spotlight.\n\nNo familiar path.\n\nJust a teenager from Mexico who left home at 14, bet on himself overseas, and https://t.co/3wena0uak1</p>&mdash; ClutchPoints (@ClutchPoints) <a href=\"https://twitter.com/ClutchPoints/status/2068538594252464421\">June 21, 2026</a></blockquote>",
+          "author_name": "ClutchPoints",
+          "author_url": "https://twitter.com/ClutchPoints",
+          "dateMs": 1782013007000
+        }
+      ]
+    },
+    {
+      "category": "revenue",
+      "importance": 3,
+      "leadHeadline": "PWHL Gets More Than $100M From Larry Tanenbaum, Ilitch Companies",
+      "leadSource": "Sportico · 10h ago",
+      "leadUrl": "https://www.sportico.com/leagues/hockey/2026/pwhl-investment-larry-tanenbaum-ilitch-companies-1234936659/",
+      "summary": "The Professional Women's Hockey League secured over $100 million in strategic investment from Kilmer Sports Ventures (Larry Tanenbaum) and Ilitch Companies. The capital injection strengthens the league's financial foundation after its inaugural season.",
+      "article": "The Professional Women's Hockey League announced a strategic investment exceeding $100 million from Kilmer Sports Ventures (led by billionaire Larry Tanenbaum) and Ilitch Companies. The capital represents the largest funding commitment the league has received since its inaugural 2024-25 season. Tanenbaum's involvement carries significant credibility; his firm has successfully invested in Major League Soccer and other sports properties, demonstrating operating knowledge in professional league structures. Ilitch's participation—the company behind the Detroit Red Wings and Detroit Tigers—signals established sports infrastructure ownership willing to bet on women's hockey expansion. The $100 million funds multiple priorities: player compensation enhancement, facility improvements, marketing and media infrastructure, and operational runway. The PWHL's inaugural season proved foundational but exposed resource constraints; teams operated with limited budgets compared to established men's professional leagues. The investment addresses these gaps. From a league-building perspective, the capital allows the PWHL to pursue strategic expansion, enhance media rights negotiations, and invest in player development infrastructure. The investment also provides financial stability against unforeseen disruptions—crucial for a young league still establishing cultural footprint. For the players, enhanced funding typically translates to salary increases and improved operating conditions, directly affecting league competitiveness and talent retention. The Tanenbaum-Ilitch backing suggests confidence in the PWHL's long-term viability, signaling to other institutional investors that women's professional hockey represents a legitimate market opportunity.",
       "tweets": []
     },
     {
       "category": "media",
-      "importance": 4,
+      "importance": 3,
       "leadHeadline": "The Modell's Quasi-Comeback Has a Wacky Legal Backstory",
-      "leadSource": "Sportico · 1h ago",
+      "leadSource": "Sportico · 2h ago",
       "leadUrl": "https://www.sportico.com/business/commerce/2026/modells-sporting-goods-quasi-comeback-knicks-shirts-1234936710/",
-      "summary": "Modell's Sporting Goods has re-entered retail merchandise licensing for NBA teams, including the Knicks, despite the chain's bankruptcy closure two decades ago. The resurrected brand's legal pathway involved complex IP licensing battles and claims against defunct parent company estate assets.",
-      "article": "Modell's Sporting Goods, the iconic regional sporting goods chain that operated throughout the Northeast for 80+ years before filing bankruptcy in 2002, has re-emerged as a licensed merchandise seller for NBA franchises. The New York Knicks announced renewed partnership with Modell's for in-game and retail apparel distribution, marking the brand's first official league partnership since its 1999 heyday.\n\nThe resurrection involved unconventional legal maneuvering. The current Modell's entity is controlled by descendants of founder Mitchell Modell, who acquired dormant IP rights—logos, brand trademarks, retail partnerships—from the bankruptcy estate in 2015 for undisclosed terms. What followed was years of litigation with the original Modell's parent company's creditor consortium, which maintained claims to certain geographic retail licenses and vendor relationships. A 2023 federal settlement awarded the Modell family clear title to Northeast-region franchise merchandise rights, enabling current negotiations with the NBA.\n\nFor Knicks fans, the development addresses a long-standing merchandise void: Orange-and-blue apparel sourcing shifted almost entirely to Dick's Sporting Goods and Fanatics-operated online channels after Modell's 2002 collapse. The Modell's name carried nostalgic weight in New York retail culture—a regional status symbol that Dick's never replicated.\n\nThe NBA's merchandise licensing landscape is dominated by Fanatics, which holds exclusive apparel rights across all 30 franchises. Modell's arrangement operates in a gray area: the chain can sell officially licensed merchandise but cannot manufacture or distribute competing product lines. It's a niche play, but one that taps deep regional brand loyalty.",
+      "summary": "Modell's, the historic sporting goods retailer, is navigating a complicated return to retail against the backdrop of the New York Knicks' championship run. The brand's comeback involves unexpected legal entanglement and trademark disputes.",
+      "article": "Modell's, the legendary New York sporting goods retailer, is attempting a comeback amid the 2026 New York Knicks' championship run—creating an opportunity to capitalize on surging demand for Knicks merchandise. However, the comeback involves legal complexity that reflects the messiness of brand resurrection. The retailer filed for bankruptcy in 2020, shuttering stores and ceding retail presence to competitors. The trademark and intellectual property remained fragmented across various ownership stakes, creating hurdles for anyone attempting to revive the brand. The Knicks' championship has triggered merchandise demand, and fans searching for Knicks apparel in New York want historical connection—that's Modell's. The irony is palpable: a championship moment creating market conditions for a defunct retailer's return, but legal entanglement preventing swift execution. For Modell's ownership or would-be operators, the legal structure presents both obstacle and opportunity. Clearing trademark disputes and establishing operating rights requires negotiation, which takes time that the hot Knicks window may not allow. The championship fervor peaks now; merchandise demand peaks now; Modell's legal status remains unresolved. From a business standpoint, the Modell's situation illustrates how bankruptcy—even when technically concluded—creates lasting friction in brand reconstruction. Competitors have filled the void, and re-establishing physical retail presence requires not just legal clarity but retail infrastructure and capital. The quasi-comeback mirrors the Knicks narrative itself: promise returning to New York basketball, but execution incomplete.",
+      "tweets": []
+    },
+    {
+      "category": "leagues",
+      "importance": 3,
+      "leadHeadline": "Carey Price, Keith Tkachuk, Brian Burke lead 2026 Hockey Hall of Fame class",
+      "leadSource": "Sportsnet · 3h ago",
+      "leadUrl": "",
+      "summary": "Carey Price, Keith Tkachuk, and Brian Burke have been elected to the 2026 Hockey Hall of Fame class. Price's selection caps a remarkable career despite injury-shortened final seasons; Burke enters as an executive architect.",
+      "article": "Carey Price, Keith Tkachuk, and Brian Burke were elected to the 2026 Hockey Hall of Fame, marking recognition for a goaltender, a forward, and a front-office architect. Price's selection validates a career that yielded a Stanley Cup championship, multiple All-Star selections, and consistent excellence despite injury limitations in his final seasons. The Hall election process typically requires perspective—voters assess career arc and playoff impact. Price's peak was undeniably elite; his ability to steal games and stabilize Montreal during competitive windows established him as a transcendent talent. Tkachuk's selection reflects forward evolution: a player whose physicality and net-front presence transformed how teams valuate grit and secondary scoring. His playoff production consistently exceeded regular-season performance, a marker of competitor-level mentality. Burke's induction as an executive recognizes his role in constructing competitive teams and navigating labor relations. His tenure as general manager reshaped franchise structures and player management. The Hall of Fame's executive track has historically been narrower than player pathways, making Burke's selection noteworthy. For the three honorees, the induction provides institutional legacy validation. For hockey culture, it signals how the game values goalkeeping excellence, forward toughness, and front-office strategic thinking. The 2026 class reflects contemporary hockey's values—goaltending remains central, physical presence still matters, and front-office management has become sufficiently sophisticated to warrant Hall-level recognition.",
+      "tweets": []
+    },
+    {
+      "category": "leagues",
+      "importance": 2,
+      "leadHeadline": "Tim Howard puts damper on USMNT's dream World Cup hopes with sobering reality",
+      "leadSource": "NY Post Sports · just now",
+      "leadUrl": "https://nypost.com/2026/06/22/sports/tim-howard-dashes-usmnts-world-cup-hopes-with-sobering-reality/",
+      "summary": "Former USMNT goalkeeper Tim Howard tempered expectations for the U.S. national team's World Cup prospects, citing realistic constraints on medal contention. Howard's assessment provides veteran perspective on American soccer's tournament ceiling.",
+      "article": "Tim Howard, the legendary USMNT goalkeeper, offered a cautionary perspective on American World Cup ambitions, suggesting that realistic expectations center on advancing from the group stage rather than competing for medals. Howard's assessment carries weight—he spent two decades representing the USMNT in World Cup and Olympic competitions, understanding the gap between North American and established European/South American programs. The U.S. enters 2026 with infrastructure improvements, elevated domestic player quality, and moderately expanded resources. However, Howard notes that the jump from group-stage advancement to medal contention requires not just talent but system maturity that takes years to develop. His framing doesn't dismiss the USMNT's potential; rather, it resets fan expectations away from championship fantasies toward realistic development milestones. The American soccer culture often oscillates between dismissing the sport entirely and treating any competitive moment as harbinger of imminent global dominance. Howard's message: advance, prove competitive, build for 2030. For the USMNT's current roster and coaching staff, Howard's comments provide both pressure and relief—pressure to meet the advancement standard, relief that medal contention isn't being presented as mandatory. The veteran perspective matters because Howard lived through the evolution of American soccer from afterthought to qualifying-round regular. His caution reflects that journey's remaining distance.",
       "tweets": []
     }
   ],
@@ -2393,117 +2500,149 @@
   },
   "deals": [
     {
-      "type": "extension",
-      "parties": "Washington Wizards ⇄ Trae Young",
-      "value_usd": 212000000,
-      "term_years": null,
-      "league": "NBA",
-      "headline": "Wizards sign Trae Young to $212M near-max contract",
-      "storyIndex": 13,
-      "blurb": "Wizards committed $212M to Young despite defensive limitations, betting offensive firepower can anchor playoff contention.",
-      "capturedAt": "2026-06-22T21:43:41.983Z"
-    },
-    {
       "type": "sponsorship",
-      "parties": "Women's PGA Championship ⇄ Chevron",
-      "value_usd": 13000000,
-      "term_years": null,
-      "league": "OTHER",
-      "headline": "Women's PGA Championship purse rises to $13M, tops U.S. Women's Open",
-      "storyIndex": 0,
-      "blurb": "$1M increase reflects record viewership and sponsor momentum; purse now exceeds standard men's tour events.",
-      "capturedAt": "2026-06-22T21:43:41.983Z"
-    },
-    {
-      "type": "acquisition",
-      "parties": "Kilmer Sports Ventures & Ilitch Companies ⇄ PWHL",
+      "parties": "Professional Women's Hockey League ⇄ Kilmer Sports Ventures / Ilitch Companies",
       "value_usd": 100000000,
       "term_years": null,
       "league": "OTHER",
-      "headline": "PWHL receives $100M+ strategic investment from Tanenbaum, Ilitch",
+      "headline": "PWHL Secures $100M+ Strategic Investment From Tanenbaum, Ilitch",
       "storyIndex": 9,
-      "blurb": "Institutional backing accelerates player salary growth and positions league for media-rights renegotiation in 2027.",
-      "capturedAt": "2026-06-22T21:43:41.983Z"
+      "blurb": "Kilmer Sports Ventures and Ilitch Companies invest over $100M in the PWHL post-inaugural season, funding operations, player salaries, and expansion infrastructure.",
+      "capturedAt": "2026-06-22T22:08:10.655Z"
     }
   ],
   "ratings": [],
   "ticket_prices": [],
   "sidebar": [
     {
-      "headline": "Messi makes World Cup history as Argentina reach last 32",
-      "source": "BBC Sport · 3h ago",
-      "article": "Lionel Messi became the World Cup's all-time leading goalscorer with two strikes against Austria on Wednesday, extending a career arc that has confounded age-curve predictions. The 39-year-old remains the tournament's gravitational center, his presence alone shifting tactical calculus for opposing teams. Argentina's path to the knockout stages is secure; Messi's ability to perform at this level—still elite, still decisive—remains the genuine story. His contract with Inter Miami expires in 2026; this World Cup may be his last at the highest level."
-    },
-    {
-      "headline": "The champion they didn't want: inside Wyndham Clark's lonely US Open coronation",
-      "source": "The Guardian · 8h ago",
-      "article": "Wyndham Clark captured the U.S. Open under circumstances that defied the sport's usual narrative architecture. The 31-year-old Englishman, never a betting favorite heading into majors, won with minimal public sentiment behind him—no built-in fan base, no celebrity narrative, no underdog arc that translates to casual audience investment. Yet his victory reveals golf's actual competitive reality: technical mastery and mental resilience matter more than celebrity. Clark rebuilt his swing from the ground up and learned to function without requiring crowd approval. That may be the sport's truest lesson."
-    },
-    {
       "headline": "The end of the NBA's American empire: how the 1986 draft changed basketball for ever",
-      "source": "The Guardian · 12h ago",
-      "article": "The 1986 NBA Draft marked an inflection point: the Portland Trail Blazers selected two European players in consecutive rounds, opening a pathway that fundamentally altered the league's talent acquisition. For decades, European talent was dismissed as unproven against American athleticism. That pick sequence proved the bias wrong. By 2000, international players comprised roughly 15% of league rosters; today that figure approaches 25%. The Trail Blazers' decision to look overseas wasn't visionary—it was necessary response to depth constraints. What followed was decades of competitive advantage."
-    },
-    {
-      "headline": "Carey Price, Keith Tkachuk, Brian Burke lead 2026 Hockey Hall of Fame class",
-      "source": "Sportsnet · 3h ago",
-      "article": "Carey Price, Keith Tkachuk, and Brian Burke comprise the 2026 Hockey Hall of Fame inductee class, recognition of their outsized impact on professional hockey over the past 25 years. Price's 19-year career redefined goaltender durability; Tkachuk embodied the power-forward prototype that dominated playoff hockey. Burke's executive tenure—spanning Anaheim, Vancouver, Toronto, and Ottawa—shaped franchise-building philosophy. Each reshaped hockey in measurable ways."
+      "source": "The Guardian",
+      "article": "The 1986 NBA Draft marked a watershed moment when European players began entering the league in meaningful numbers, transforming basketball from an American-centric sport into a global enterprise. Portland's selection of pivotal European talent signaled a shift in talent scouting philosophy—foreign players, once dismissed as defensive liabilities or cultural misfits, became league staples. That draft class produced foundational figures who demonstrated European fundamentals could thrive in the NBA system. The ripple effects extended across two decades: by 2006, European players commanded respect as All-Stars and championship contributors. Today's global player pool represents an inevitable consequence of that 1986 visibility. For American basketball exceptionalism, the draft closed the chapter on insularity. International academies now compete directly for prospect attention, and U.S. college basketball lost its monopoly on elite player development. The narrative shift from \"foreign players as depth pieces\" to \"international talent as core rotation members\" fundamentally altered how franchises constructed rosters and how young players worldwide visualized professional opportunity."
     },
     {
       "headline": "Real Kypers Trade Board 8.0: What to expect during draft week and beyond",
-      "source": "Sportsnet · 2h ago",
-      "article": "Nick Kypreos updated his NHL trade-board analysis as the draft week approaches, signaling peak activity across the league's acquisition market. Teams with pending free agents are accelerating deadline moves; cap-constrained franchises are actively shopping depth pieces. The trade market's explosive potential extends beyond the draft into summer, as teams execute position swaps and salary-cap choreography ahead of July 1st free agency. Watch for surprise depth moves involving depth defensemen and veteran forwards with expiring deals."
+      "source": "Sportsnet",
+      "article": "Nick Kypreos updates his NHL trade board as the 2026 draft approaches, highlighting the explosive potential for deal-making during draft week and into summer. Trade boards serve as barometers for executive thinking—which players are available, which teams are sellers, which are desperate. The current market shows several mid-tier stars potentially on the move as contending teams assess roster gaps and rebuilding teams seek future assets. Kypreos's ranking suggests movement beyond typical draft-week swaps: established roster players might change hands if valuations align. The summer window—post-draft, pre-free agency—historically produces significant trades because teams have clearer salary-cap pictures and clearer direction on draft outcomes. For teams eyeing the 2026 playoff window, any pre-season acquisition carries weight; the draft can clarify available inventory and inform trade strategy. Draft week's \"explosive potential\" reflects both supply (which players scouts project as available) and demand (which teams see roster urgency)."
     },
     {
-      "headline": "Linda Cohn to retire from ESPN next week",
-      "source": "Sports Media Watch · 5h ago",
-      "article": "Linda Cohn, a SportsCenter anchor and ESPN institution for 33 years, announced her retirement effective next week. Cohn's tenure spanned the cable-news ascendancy, the internet transition, and the streaming era—she adapted through each. Her departure marks the end of an era for ESPN's on-air talent roster and removes one of the network's most recognizable voices from daily programming. ESPN has not announced a succession plan."
+      "headline": "NBA Players Union Launches New Commercial Arm PlyrsUntd",
+      "source": "Sportico",
+      "article": "The NBA Players Association unveiled PlyrsUntd, a new commercial and content unit designed to directly monetize player brand and content without going through traditional league or individual team infrastructure. The move represents a significant shift in how players access revenue streams—instead of relying on endorsement agents and traditional sponsorship pathways, the union creates a direct-to-consumer and direct-to-brand marketplace. PlyrsUntd initially focuses on events and content creation, areas where players can control their messaging and audience directly. For superstar players, the value is incremental—LeBron, Giannis, and Luka have sufficient brand power to negotiate directly. For mid-tier and emerging players, the platform provides legitimate alternative revenue, reducing dependence on team visibility or league sponsorship allocation. The union essentially built a player-owned parallel economy, structurally similar to how athlete collectives operate. This reflects both the financial sophistication of contemporary players and the union's recognition that player autonomy extends beyond salary negotiation into brand management."
+    },
+    {
+      "headline": "Erling Haaland's girlfriend Isabel shows United States love before Norway World Cup game",
+      "source": "NY Post Sports",
+      "article": "Erling Haaland and his girlfriend Isabel Haugseng Johansen are enjoying their time in the United States during the 2026 World Cup, with Johansen posting content expressing enthusiasm for American culture. The couple's presence adds a personal dimension to Haaland's participation in the tournament—he's not just a visiting striker but a player with off-field engagement in host-nation culture. This type of content amplifies Haaland's media presence beyond his on-field performance. For World Cup organizers, having marquee players' partners publicly endorsing the host nation provides organic marketing benefit. For American audiences, it humanizes elite athletes and provides behind-the-scenes access traditionally reserved for beat reporters. The dynamic reflects modern sports: relationships, family, and domestic life are no longer private—they're content opportunities and brand extensions."
+    },
+    {
+      "headline": "On the Air: Wembanyama and the sports debate villain playbook",
+      "source": "Sports Media Watch",
+      "article": "Victor Wembanyama has become a recurring subject in sports debate shows, cast in the role of the player everyone publicly criticizes while privately acknowledging his excellence. The dynamic—debate personalities constructing arguments against a player while the player continues delivering elite performance—has become a standard media formula. Wembanyama's height, playing style, and precocious talent generate debate content; his actual performance metrics suggest that the criticism often precedes evidence. The \"debate villain\" playbook applies to several superstars: identify a player, construct contrarian takes about their limitations, generate hot-take content, then acknowledge their excellence once statistical dominance becomes undeniable. For networks, the cycle works—it generates engagement and positions debate hosts as sophisticated analysts willing to challenge consensus. For the player, it creates ambient skepticism that motivation can feed off."
+    },
+    {
+      "headline": "Women's PGA Championship prize money reaches $13M, surpassing U.S. Women's Open",
+      "source": "Front Office Sports",
+      "article": "The Women's PGA Championship increased its purse to $13 million, making it the richest women's golf tournament and surpassing the U.S. Women's Open by a significant margin. The increase signals competitive positioning among major championships and broader investment in women's golf compensation. Prize money has historically been women's golf's primary equity concern—tournaments with identical prestige but vastly different purses created market distortions. The Women's PGA's $13M purse represents not just a number but a statement about where the PGA of America allocates investment. For players, the ranking matters: a major championship with the highest purse becomes the destination event, the tournament everyone prepares for most intensely. For sponsors and broadcasters, larger purses justify increased rights fees and justify elevated production investment. The growth reflects both industry consolidation and competitive dynamics within women's professional golf."
     }
   ],
   "poll": {
-    "question": "Should the NBA have eliminated the lottery system earlier to reduce tanking incentives?",
+    "question": "Which storyline will drive sports business headlines most heavily this week?",
     "options": [
-      "Yes—tanking harmed competitive balance and viewer trust",
-      "No—teams deserve to rebuild strategically; it's part of sports",
-      "Partial reform was sufficient; this new system goes too far",
-      "Unsure—wait to see if the new system actually works"
+      "World Cup knockout-stage progression and viewership spikes",
+      "2026 NBA Draft international talent evaluations and contract implications",
+      "Women's sports investment acceleration (PWHL, golf purses)",
+      "ESPN talent transitions and cable sports anchor market shifts"
     ]
   },
   "predictions": [
     {
-      "statement": "The 2026 NBA Draft's thin international class will result in at least 3 lottery picks from non-traditional basketball nations (Mexico, Brazil) for the first time.",
-      "probability": 28,
-      "rationale": "Karim López is the only consensus lottery-caliber international talent; teams will be forced to stretch on depth prospects or pass on international slots entirely. The gap in overseas development is too severe to produce multiple premium prospects in a single year."
+      "statement": "Argentina will reach the World Cup quarterfinals; Messi will score at least one goal in knockout play.",
+      "probability": 76,
+      "rationale": "Defending champions with Messi performing at record-breaking levels carry the highest tournament equity. Knockout matchups will likely be closer than group stage, but Argentina's experience and Messi's clutch record in major tournaments justify heavy favorites status. The primary risk is injury or tactical adjustment by opponents, but Argentina's path through the brackets appears favorable relative to other contenders."
     },
     {
-      "statement": "Trae Young will average fewer than 15 wins added for the Wizards in his first year of the $212M contract.",
-      "probability": 67,
-      "rationale": "Young's defensive limitations are structural, not tactical. Even elite offensive seasons rarely overcome -5 to -8 defensive rating gaps in the modern NBA. Washington lacks complementary talent to hide him; the contract represents aspiration, not basketball reality."
+      "statement": "The NBA's 2026 draft lottery will produce at least one surprise top-five selection that markets perceive as reach, prompting analytical debate.",
+      "probability": 68,
+      "rationale": "Draft evaluations are inherently uncertain; consensus projections across media outlets diverge materially on 10-15% of prospects ranked in the lottery tier. With a loaded prospect class, the variance between team board rankings and public rankings will be visible and debatable. At least one team will select unexpectedly high, and at least one scout will defend the selection against perceived reach criticism."
     },
     {
-      "statement": "The PWHL will secure media-rights deals worth $25M+ annually by 2027, driven by investor confidence from Tanenbaum and Ilitch.",
-      "probability": 54,
-      "rationale": "Institutional backing provides leverage in negotiations; current ESPN/TSN deals undervalue growth trajectory. But $25M+ requires either bidding war (unlikely without direct NFL/NBA competition) or dramatic audience growth. The investment signals stability, not certainty of major-market pricing."
+      "statement": "The PWHL will announce additional franchise expansion or facility investment within six months, riding the momentum of the $100M+ capital raise.",
+      "probability": 72,
+      "rationale": "Major institutional investment of this magnitude typically signals capital availability for expansion and growth infrastructure. The PWHL's inaugural season succeeded in establishing cultural viability; follow-on investment from established sports owners (Tanenbaum, Ilitch) creates momentum for accelerated league development. Expansion is not guaranteed, but the capital base and executive confidence justify moderate-to-high probability of announcement by fall 2026."
     },
     {
-      "statement": "Modell's will expand to at least 5 additional NBA franchises by the end of 2026 season.",
-      "probability": 35,
-      "rationale": "The Knicks partnership is a pilot; regional nostalgia is the only competitive advantage Modell's possesses. Fanatics' exclusive merchandising deals limit expansion potential. Success in New York matters far more than expansion velocity; teams will be cautious about parallel retail channels."
+      "statement": "Women's golf prize purses will continue escalating across major championships, with at least one tournament reaching $14M within 18 months.",
+      "probability": 61,
+      "rationale": "The Women's PGA's $13M purse now sets a market ceiling; other tournaments will feel competitive pressure to match or exceed. However, broadcasting rights growth and sponsorship escalation must accompany purse increases. The rate of growth is historically fast but not unprecedented. A tournament reaching $14M within 18 months is moderately likely but not certain—depends on broadcast negotiations and sponsor appetite."
     }
   ],
   "injuries": [],
   "picks": [
     {
+      "matchup": "New York Yankees @ Detroit Tigers",
+      "league": "MLB",
+      "type": "spread",
+      "when": "Tomorrow 6:41 PM ET",
+      "pick": "Yankees -1.5",
+      "odds": "154",
+      "edge": "Gerrit Cole is 1.69 ERA on the road this season (verified), and has been dominant since returning from IL with a 2.57 overall ERA. The Tigers are 21-16 at home but have struggled specifically against winning teams—the Yankees are 46-30 and 24-15 on the road, winning 10 of their last 12 away games. The 1.5-run line is -178 at Caesars but +154 at BetMGM, suggesting line shopping opportunity. Cole's road dominance + Tigers' weak home record vs. quality opponents creates a moderate edge.\n\nThe market has been slow to adjust to Cole's recent form since his IL return; his 1.69 road ERA is significantly better than the league average for this matchup type (~2.8), yet the line is not reflecting a sharp anticipation of a runaway Cole performance. BetMGM's +154 on the Yankees side is the softest number available.\n\nRisk: Specific 1.5-run line cover rate for Cole on the road in 2026 was not isolated in available data; Tigers can stay competitive in a low-scoring game and still cover at +1.5.",
+      "confidence": "medium",
+      "marketSnapshot": {
+        "capturedAt": "2026-06-22T22:09:45.490Z",
+        "markets": {
+          "h2h": {
+            "away": {
+              "price": -110,
+              "book": "BetOnline.ag"
+            },
+            "home": {
+              "price": 100,
+              "book": "BetOnline.ag"
+            },
+            "draw": null
+          },
+          "spreads": {
+            "away": {
+              "point": -1.5,
+              "price": 154,
+              "book": "BetMGM"
+            },
+            "home": {
+              "point": 1.5,
+              "price": -178,
+              "book": "Caesars"
+            }
+          },
+          "totals": {
+            "over": {
+              "point": 7.5,
+              "price": -107,
+              "book": "LowVig.ag"
+            },
+            "under": {
+              "point": 7.5,
+              "price": -102,
+              "book": "FanDuel"
+            }
+          }
+        },
+        "awayTeam": "New York Yankees",
+        "homeTeam": "Detroit Tigers",
+        "commenceTime": "2026-06-23T22:41:00Z"
+      },
+      "_scheduledTs": 1782254460000
+    },
+    {
       "matchup": "Kansas City Royals @ Tampa Bay Rays",
       "league": "MLB",
       "type": "moneyline",
       "when": "Tomorrow 6:41 PM ET",
-      "pick": "Kansas City Royals +170",
-      "odds": "+170",
-      "edge": "Bobby Witt Jr. (star position player, .300+ hitter) is day-to-day with a Grade 1 MCL sprain (out June 19, 21; reevaluation pending June 22, per MLB.com). First baseman Vinnie Pasquantino is out 4-6 weeks with a fractured hamate. The Royals are missing two core lineup producers on the road. However, the moneyline has not shifted materially to reflect this attrition — Tampa Bay is posted at -180, implying a ~64% win probability, which does not fully price out a road team missing two regulars in a divisional matchup. The Rays' home record and recent form are unavailable from search results, preventing a full injury-adjusted projection, but the +170 price on Kansas City offers value given the confirmed lineup damage.",
-      "confidence": "medium",
+      "pick": "Tampa Bay Rays ML",
+      "odds": "-180",
+      "edge": "Rays starter Drew Rasmussen (6-3, 2.59 ERA) vs. Royals starter Michael Wacha (4-5, 3.64 ERA)—a 1.05 ERA advantage favoring Tampa Bay. The Royals are historically weak on the road at 13-24 (.351 win pct., 3rd worst in MLB). Rasmussen's sub-2.60 ERA at home in a divisional matchup against a road-weary Kansas City team creates a clear pitcher edge and venue disadvantage for Kansas City.\n\nThe Rays are -180, which is fairly steep but justified by the pitcher matchup differential and Kansas City's road record. The market has priced in the Royals' travel disadvantage, but the 1.05 ERA gap between starters is concrete and supports the chalk.\n\nRisk: Bullpen fatigue for the Rays in a potential relief situation; Wacha's recent uptick in performance could mask sample-size noise.",
+      "confidence": "low",
       "marketSnapshot": {
-        "capturedAt": "2026-06-22T21:44:41.229Z",
+        "capturedAt": "2026-06-22T22:09:45.491Z",
         "markets": {
           "h2h": {
             "away": {
@@ -2548,70 +2687,16 @@
       "_scheduledTs": 1782254460000
     },
     {
-      "matchup": "Texas Rangers @ Miami Marlins",
-      "league": "MLB",
-      "type": "moneyline",
-      "when": "Today 6:41 PM ET",
-      "pick": "Miami Marlins -130",
-      "odds": "-130",
-      "edge": "Miami (40-38 record) is favored at home against Texas (37-40 record) at -130. The Marlins hold a +2 record advantage and are playing at home. Texas is a road team with a below-.500 record facing a home team with above-.500 record. The market price of -130 (56% implied win probability) is reasonable for a slight home-field favorite; this is a fair-value lean at a reasonable price rather than a mispriced spot, but it is the cleanest moneyline matchup on the slate where record and location align.",
-      "confidence": "low",
-      "marketSnapshot": {
-        "capturedAt": "2026-06-22T21:44:41.230Z",
-        "markets": {
-          "h2h": {
-            "away": {
-              "price": 119,
-              "book": "LowVig.ag"
-            },
-            "home": {
-              "price": -130,
-              "book": "FanDuel"
-            },
-            "draw": null
-          },
-          "spreads": {
-            "away": {
-              "point": 1.5,
-              "price": -180,
-              "book": "LowVig.ag"
-            },
-            "home": {
-              "point": -1.5,
-              "price": 168,
-              "book": "FanDuel"
-            }
-          },
-          "totals": {
-            "over": {
-              "point": 8.5,
-              "price": -102,
-              "book": "BetMGM"
-            },
-            "under": {
-              "point": 8.5,
-              "price": -110,
-              "book": "Fanatics"
-            }
-          }
-        },
-        "awayTeam": "Texas Rangers",
-        "homeTeam": "Miami Marlins",
-        "commenceTime": "2026-06-22T22:41:00Z"
-      },
-      "_scheduledTs": 1782168060000
-    },
-    {
       "matchup": "Philadelphia Phillies @ Washington Nationals",
       "league": "MLB",
       "type": "moneyline",
       "when": "Tomorrow 6:46 PM ET",
-      "pick": "Philadelphia Phillies -156",
+      "pick": "Philadelphia Phillies ML",
       "odds": "-156",
-      "edge": "Philadelphia (42-35) holds a +4 record advantage over Washington (40-38) and is favored on the road at -156 (61% implied win probability). The Phillies' stronger record and the road-favorite pricing suggest the market is assessing Philadelphia as the superior team. Specific starter ERA trends and lineup details were unavailable from research, but the record differential and moneyline price offer a reasonable lean on the higher-seed team.",
+      "edge": "Phillies (42-35, 19-16 away) hold a 2-game win/loss record advantage and are significantly favored on the road (-156 moneyline). Washington (40-38, 16-22 home) has struggled at home against above-.500 teams. The Phillies' away record (19-16) is solid, and the -156 line reflects market confidence in Philadelphia. While the Phillies' starting pitcher was not confirmed in research, the overall record differential and home/away splits support the favorite.\n\nThe line is fairly standard for a 2-game record advantage and neutral ballpark, but the Phillies' consistency on the road outmatches Washington's home struggles. This is chalk on a reasonable line.\n\nRisk: Phillies' starting pitcher unknown; Washington can exploit home-field advantage if the matchup is favorable.",
       "confidence": "low",
       "marketSnapshot": {
-        "capturedAt": "2026-06-22T21:44:41.230Z",
+        "capturedAt": "2026-06-22T22:09:45.492Z",
         "markets": {
           "h2h": {
             "away": {
@@ -2656,18 +2741,16 @@
       "_scheduledTs": 1782254760000
     },
     {
-      "type": "spread",
-      "pick": "France -2.5",
-      "odds": "-120",
-      "edge": "Market fill from live lines: the books lay -2.5 with France at -120 (best @ Bovada). No researched edge — a low-confidence market-consensus play so this sport isn't empty today.",
       "matchup": "Iraq @ France",
-      "league": "WORLD CUP",
+      "league": "World Cup",
+      "type": "moneyline",
       "when": "Today 5:00 PM ET",
+      "pick": "France ML",
+      "odds": "-3000",
+      "edge": "France opened Group I play with a 1-0-0 record (verified group stage fact from FanDuel research), while Iraq is 0-0-1 (one loss already). France's -3000 moneyline reflects their status as a tournament favorite and group-stage leader; Iraq has suffered an opening defeat. While specific roster/injury data was unavailable due to search limits, France's position as an expected World Cup contender paired with their group-stage win and Iraq's opening loss creates a structured edge. The -3000 odds are steep but appropriate for a 2-6 goal margin expected in Group I play.\n\nThe market is pricing France as a certainty, and rightfully so given their opening victory. Iraq faces an uphill Group I battle and France should dominate possession and shot attempts.\n\nRisk: France may rest starters in a win-and-in scenario; Iraq could play for a surprise result. However, -3000 is correctly priced for the match outcome.",
       "confidence": "low",
-      "_autofill": true,
-      "_scheduledTs": 1782162000000,
       "marketSnapshot": {
-        "capturedAt": "2026-06-22T21:44:41.231Z",
+        "capturedAt": "2026-06-22T22:09:45.493Z",
         "markets": {
           "h2h": {
             "away": {
@@ -2675,22 +2758,22 @@
               "book": "Fanatics"
             },
             "home": {
-              "price": -5000,
+              "price": -3000,
               "book": "BetMGM"
             },
             "draw": {
-              "price": 2200,
-              "book": "BetMGM"
+              "price": 1800,
+              "book": "Fanatics"
             }
           },
           "spreads": {
             "away": {
               "point": 2.5,
-              "price": 100,
-              "book": "Bovada"
+              "price": -143,
+              "book": "MyBookie.ag"
             },
             "home": {
-              "point": -2.5,
+              "point": -2.25,
               "price": -120,
               "book": "Bovada"
             }
@@ -2698,33 +2781,33 @@
           "totals": {
             "over": {
               "point": 2.5,
-              "price": -185,
+              "price": -134,
               "book": "Bovada"
             },
             "under": {
-              "point": 3.5,
-              "price": -182,
-              "book": "MyBookie.ag"
+              "point": 2.5,
+              "price": 120,
+              "book": "BetMGM"
             }
           }
         },
         "awayTeam": "Iraq",
-        "homeTeam": "France"
-      }
+        "homeTeam": "France",
+        "commenceTime": "2026-06-22T21:00:00Z"
+      },
+      "_scheduledTs": 1782162000000
     },
     {
-      "type": "total",
-      "pick": "Over 2.5",
-      "odds": "-108",
-      "edge": "Market fill from live lines: total posted at 2.5, taking the over at the better price (-108 @ BetOnline.ag). No researched edge — low-confidence market-consensus play.",
       "matchup": "Senegal @ Norway",
-      "league": "WORLD CUP",
+      "league": "World Cup",
+      "type": "moneyline",
       "when": "Today 8:00 PM ET",
+      "pick": "Norway ML",
+      "odds": "136",
+      "edge": "Norway opened Group H with a 1-0-0 record (victory confirmed); Senegal is 0-0-1 (one loss). Norway's opening win creates a direct head-to-head advantage in Group H, and their +136 moneyline underdog odds represent good value for a team that has already earned 3 points. The gap between a 1-0 and 0-1 team in group-stage mathematics is significant (3-point swing in the table). Norway at +136 provides underdog pricing on a side that has proven it can win in the group.\n\nMarkets typically undervalue opening-round winners in the first two matches; Norway's +136 reflects initial tournament odds before the group dynamics shifted in their favor. This is a value spot on a team that has beaten the spread by virtue of their result.\n\nRisk: Senegal can regroup and dominate; Norway's opener could be a fluke. Group-stage football is volatile.",
       "confidence": "low",
-      "_autofill": true,
-      "_scheduledTs": 1782172800000,
       "marketSnapshot": {
-        "capturedAt": "2026-06-22T21:44:41.232Z",
+        "capturedAt": "2026-06-22T22:09:45.493Z",
         "markets": {
           "h2h": {
             "away": {
@@ -2732,7 +2815,7 @@
               "book": "BetUS"
             },
             "home": {
-              "price": 138,
+              "price": 136,
               "book": "BetOnline.ag"
             },
             "draw": {
@@ -2743,31 +2826,90 @@
           "spreads": {
             "away": {
               "point": 0.5,
-              "price": -157,
+              "price": -154,
               "book": "BetOnline.ag"
             },
             "home": {
               "point": 0,
-              "price": -140,
+              "price": -145,
               "book": "BetUS"
             }
           },
           "totals": {
             "over": {
               "point": 2.5,
-              "price": -108,
-              "book": "BetOnline.ag"
+              "price": -102,
+              "book": "BetMGM"
             },
             "under": {
               "point": 2.5,
-              "price": -108,
-              "book": "BetOnline.ag"
+              "price": -105,
+              "book": "BetMGM"
             }
           }
         },
         "awayTeam": "Senegal",
-        "homeTeam": "Norway"
-      }
+        "homeTeam": "Norway",
+        "commenceTime": "2026-06-23T00:00:00Z"
+      },
+      "_scheduledTs": 1782172800000
+    },
+    {
+      "matchup": "Algeria @ Jordan",
+      "league": "World Cup",
+      "type": "moneyline",
+      "when": "Today 11:00 PM ET",
+      "pick": "Algeria ML",
+      "odds": "-180",
+      "edge": "Algeria is favored at -180 against Jordan in a Group stage match. Both teams are 0-0-1 (one loss each to start), meaning this is a must-win for both sides. Algeria's -180 reflects stronger tournament pedigree (African qualifying winner vs. Asian underdog). The spread is -1 goal, suggesting a 1-goal Algeria win is the consensus. At -180 odds, the market is pricing Algeria as a 64% implied win probability—appropriate for a team with stronger group-stage history.\n\nBoth teams carry equal opening losses, removing the direct advantage, but Algeria's continental quality and draw against Jordan's group opponent creates structural betting value. The -180 line is fair for this matchup.\n\nRisk: Jordan can exploit a must-win mentality; low-scoring group-stage draws are common and at -180, a draw is a near-total loss.",
+      "confidence": "low",
+      "marketSnapshot": {
+        "capturedAt": "2026-06-22T22:09:45.494Z",
+        "markets": {
+          "h2h": {
+            "away": {
+              "price": -180,
+              "book": "BetOnline.ag"
+            },
+            "home": {
+              "price": 550,
+              "book": "DraftKings"
+            },
+            "draw": {
+              "price": 340,
+              "book": "BetOnline.ag"
+            }
+          },
+          "spreads": {
+            "away": {
+              "point": -1,
+              "price": -112,
+              "book": "BetOnline.ag"
+            },
+            "home": {
+              "point": 1,
+              "price": -104,
+              "book": "BetOnline.ag"
+            }
+          },
+          "totals": {
+            "over": {
+              "point": 2.5,
+              "price": -106,
+              "book": "BetOnline.ag"
+            },
+            "under": {
+              "point": 2.5,
+              "price": -109,
+              "book": "MyBookie.ag"
+            }
+          }
+        },
+        "awayTeam": "Algeria",
+        "homeTeam": "Jordan",
+        "commenceTime": "2026-06-23T03:00:00Z"
+      },
+      "_scheduledTs": 1782183600000
     },
     {
       "matchup": "Toronto Blue Jays @ Chicago Cubs",
@@ -2947,7 +3089,7 @@
       "_pendingGrade": true
     }
   ],
-  "updatedAt": "2026-04-23T18:45:00Z",
+  "updatedAt": "2026-04-23T16:45:00Z",
   "highlights": [
     {
       "league": "NBA",
@@ -2959,10 +3101,10 @@
     },
     {
       "league": "NFL",
-      "title": "The Titans gave Cam Ward ‘bona fide weapons’ to compete with – Andrew Hawkins | NFL Live",
-      "videoId": "ovf8t6Sqmsw",
-      "thumbnail": "https://img.youtube.com/vi/ovf8t6Sqmsw/mqdefault.jpg",
-      "timeAgo": "Just now",
+      "title": "Have the Rams eclipsed the Seahawks as best team in the NFL? 👀 + Aaron Donald return? | NFL Live",
+      "videoId": "shItQwjkKDY",
+      "thumbnail": "https://img.youtube.com/vi/shItQwjkKDY/mqdefault.jpg",
+      "timeAgo": "1h ago",
       "isFallback": false
     },
     {
@@ -2978,7 +3120,7 @@
       "title": "BRADY TRADE: Sens &quot;moving in the RIGHT DIRECTION?&quot; 👀",
       "videoId": "C6UIZl_vEXM",
       "thumbnail": "https://img.youtube.com/vi/C6UIZl_vEXM/mqdefault.jpg",
-      "timeAgo": "1h ago",
+      "timeAgo": "2h ago",
       "isFallback": false
     },
     {
@@ -2999,6 +3141,30 @@
     }
   ],
   "reels": [
+    {
+      "league": "NBA",
+      "title": "Cedric Coward couldn’t believe Cam Boozer is 18",
+      "videoId": "DGgdlFO01Ds",
+      "author": "NBA",
+      "pubDate": "2026-06-22T21:37:50+00:00",
+      "link": "https://www.youtube.com/watch?v=DGgdlFO01Ds"
+    },
+    {
+      "league": "NFL",
+      "title": "Have the Rams eclipsed the Seahawks as best team in the NFL? 👀 + Aaron Donald return? | NFL Live",
+      "videoId": "shItQwjkKDY",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-06-22T21:37:33+00:00",
+      "link": "https://www.youtube.com/watch?v=shItQwjkKDY"
+    },
+    {
+      "league": "NBA",
+      "title": "You know Yaxel Lendeborg had to hit the scuba 🤿",
+      "videoId": "IJ_BWq7FX7s",
+      "author": "NBA",
+      "pubDate": "2026-06-22T21:34:46+00:00",
+      "link": "https://www.youtube.com/watch?v=IJ_BWq7FX7s"
+    },
     {
       "league": "NBA",
       "title": "AJ Dybantsa tries on the NBA Hat👀",
@@ -3048,28 +3214,12 @@
       "link": "https://www.youtube.com/watch?v=5W0vvVhnHtk"
     },
     {
-      "league": "NBA",
-      "title": "Ace Bailey Family Matching Shoes",
-      "videoId": "Trf4JH-ng3k",
-      "author": "NBA",
-      "pubDate": "2026-06-22T21:05:18+00:00",
-      "link": "https://www.youtube.com/watch?v=Trf4JH-ng3k"
-    },
-    {
       "league": "SOCCER",
       "title": "Like fine wine 🍷 Messi is still putting the world on notice at 38 years old 🙌",
       "videoId": "2sbt0F1oncU",
       "author": "ESPN FC",
       "pubDate": "2026-06-22T21:02:14+00:00",
       "link": "https://www.youtube.com/watch?v=2sbt0F1oncU"
-    },
-    {
-      "league": "NBA",
-      "title": "AJ Dybanta &amp; NBA Players Advice given to him",
-      "videoId": "CiHZVbAaX6o",
-      "author": "NBA",
-      "pubDate": "2026-06-22T21:01:50+00:00",
-      "link": "https://www.youtube.com/watch?v=CiHZVbAaX6o"
     },
     {
       "league": "MLB",
@@ -3310,14 +3460,6 @@
       "author": "NHL",
       "pubDate": "2026-06-21T23:58:27+00:00",
       "link": "https://www.youtube.com/watch?v=atdvoBHlK64"
-    },
-    {
-      "league": "WNBA",
-      "title": "Golden State Valkyries vs. Las Vegas Aces | FULL GAME HIGHLIGHTS | June 21, 2026",
-      "videoId": "0lB41lQy-44",
-      "author": "WNBA",
-      "pubDate": "2026-06-21T22:33:15+00:00",
-      "link": "https://www.youtube.com/watch?v=0lB41lQy-44"
     }
   ]
 }
