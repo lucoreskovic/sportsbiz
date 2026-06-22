@@ -930,6 +930,8 @@
   .main-score-row.winner { font-weight: 600; color: var(--ink); }
   .main-score-team { flex: 1; }
   .main-score-num { font-family: 'JetBrains Mono', monospace; font-size: 16px; font-weight: 600; min-width: 36px; text-align: right; }
+  .main-score-goals { display: flex; flex-direction: column; gap: 2px; padding-top: 4px; }
+  .main-score-goal { font-family: 'JetBrains Mono', monospace; font-size: 10px; color: var(--ink-2); }
   .main-score-footer { font-family: 'JetBrains Mono', monospace; font-size: 10px; color: var(--ink-3); padding-top: 6px; border-top: 1px solid var(--rule); }
   .main-score-footer.live { color: var(--red); font-weight: 600; }
 
@@ -1102,6 +1104,12 @@
   .gd-goal-scorer { color: var(--ink); flex: 1 1 auto; }
   .gd-goal-team {
     font-family: 'JetBrains Mono', monospace; font-size: 11px; color: var(--ink-3);
+  }
+  .gd-stat-teamhead {
+    font-family: 'JetBrains Mono', monospace !important;
+    font-size: 11px !important; font-weight: 700 !important;
+    letter-spacing: .06em; text-transform: uppercase;
+    color: var(--accent) !important; padding-bottom: 4px;
   }
   .gd-boxscore-grid {
     display: grid;
@@ -5803,16 +5811,22 @@
   function renderGameTeamComparison(summary, ev) {
     var box = summary && summary.boxscore;
     if (!box || !box.teams || box.teams.length < 2) return '';
-    var t1 = box.teams[0]; // away
-    var t2 = box.teams[1]; // home
+    var t1 = box.teams[0];
+    var t2 = box.teams[1];
     var s1 = (t1.statistics || []);
     var s2 = (t2.statistics || []);
     if (s1.length === 0 && s2.length === 0) return '';
 
+    // Use each team's ACTUAL name from the boxscore so the columns are labeled
+    // correctly. ESPN does not guarantee teams[0]=away, so we never assume —
+    // column 1 is whatever t1 is, column 2 is t2, and the header says which.
+    function teamName(t) {
+      return (t.team && (t.team.abbreviation || t.team.shortDisplayName || t.team.displayName)) || '';
+    }
+    var name1 = teamName(t1), name2 = teamName(t2);
+
     function statKey(st) { return (st.name || st.label || '').toString(); }
     function statVal(st) {
-      // displayValue is ESPN's pre-formatted string ("53.6%", "5", "4/9").
-      // Only fall back to value when displayValue is truly absent.
       if (st.displayValue !== undefined && st.displayValue !== null && st.displayValue !== '') return String(st.displayValue);
       if (st.value !== undefined && st.value !== null) return String(st.value);
       return '';
@@ -5823,32 +5837,33 @@
     s1.forEach(function(st) {
       var k = statKey(st);
       if (!k) return;
-      if (!statsMap[k]) { statsMap[k] = { label: st.label || st.name, away: '', home: '' }; order.push(k); }
-      statsMap[k].away = statVal(st);
+      if (!statsMap[k]) { statsMap[k] = { label: st.label || st.name, c1: '', c2: '' }; order.push(k); }
+      statsMap[k].c1 = statVal(st);
     });
     s2.forEach(function(st) {
       var k = statKey(st);
       if (!k) return;
-      if (!statsMap[k]) { statsMap[k] = { label: st.label || st.name, away: '', home: '' }; order.push(k); }
-      statsMap[k].home = statVal(st);
+      if (!statsMap[k]) { statsMap[k] = { label: st.label || st.name, c1: '', c2: '' }; order.push(k); }
+      statsMap[k].c2 = statVal(st);
     });
 
     var rows = order.map(function(k) {
       var s = statsMap[k];
-      // Skip rows where both sides are empty/zero-ish and meaningless.
-      if ((s.away === '' || s.away === '0') && (s.home === '' || s.home === '0')) {
-        // keep meaningful zero stats (goals, cards) but drop totally empty ones
-        if (s.away === '' && s.home === '') return '';
-      }
-      return '<div class="gd-stat-away">' + esc(s.away || '—') + '</div>' +
+      if (s.c1 === '' && s.c2 === '') return '';
+      return '<div class="gd-stat-away">' + esc(s.c1 || '—') + '</div>' +
              '<div class="gd-stat-label">' + esc(s.label || k) + '</div>' +
-             '<div class="gd-stat-home">' + esc(s.home || '—') + '</div>';
+             '<div class="gd-stat-home">' + esc(s.c2 || '—') + '</div>';
     }).filter(Boolean).join('');
 
     if (!rows) return '';
+    // Header row naming each column's team so "Argentina's stats on Austria's
+    // side" can't happen — the team name sits directly above its own column.
+    var header = '<div class="gd-stat-away gd-stat-teamhead">' + esc(name1) + '</div>' +
+                 '<div class="gd-stat-label"></div>' +
+                 '<div class="gd-stat-home gd-stat-teamhead">' + esc(name2) + '</div>';
     return '<div class="gd-section">' +
       '<div class="gd-section-title">Team Stats</div>' +
-      '<div class="gd-boxscore-grid">' + rows + '</div>' +
+      '<div class="gd-boxscore-grid">' + header + rows + '</div>' +
     '</div>';
   }
 
@@ -6109,9 +6124,34 @@
         var aName = away.team.shortDisplayName || away.team.abbreviation || '';
         var hDisp = stateType==='STATUS_SCHEDULED' ? '' : hScore;
         var aDisp = stateType==='STATUS_SCHEDULED' ? '' : aScore;
+
+        // Goalscorers with minutes, straight from the scoreboard event's
+        // competitions[0].details (no extra fetch). ESPN marks goals with
+        // scoringPlay=true; each has clock.displayValue and athletesInvolved.
+        // We list them under the score so soccer cards show who scored when,
+        // before you even click in.
+        var goalsHtml = '';
+        try {
+          var details = (comp.details || []).filter(function(d){
+            return d.scoringPlay === true || (d.type && /goal/i.test(d.type.text||''));
+          });
+          if (details.length) {
+            var gl = details.map(function(d){
+              var min = (d.clock && d.clock.displayValue) ? d.clock.displayValue : '';
+              var who = (Array.isArray(d.athletesInvolved) && d.athletesInvolved[0] &&
+                         (d.athletesInvolved[0].displayName || d.athletesInvolved[0].shortName)) || '';
+              var pen = /penalt/i.test((d.type&&d.type.text)||'') ? ' (P)' : (/own goal/i.test((d.type&&d.type.text)||'') ? ' (OG)' : '');
+              if (!who && !min) return '';
+              return '<div class="main-score-goal">⚽ ' + esc(min) + ' ' + esc(who || 'Goal') + esc(pen) + '</div>';
+            }).filter(Boolean).join('');
+            if (gl) goalsHtml = '<div class="main-score-goals">' + gl + '</div>';
+          }
+        } catch(e) {}
+
         return '<div class="main-score-card" onclick="openGameDetail(\'' + esc(cacheKey) + '\',\'' + esc(String(ev.id)) + '\')" style="cursor:pointer;">'+
           '<div class="main-score-row '+(aWin?'winner':'')+'"><span class="main-score-team">'+esc(aName)+'</span><span class="main-score-num">'+aDisp+'</span></div>'+
           '<div class="main-score-row '+(hWin?'winner':'')+'"><span class="main-score-team">'+esc(hName)+'</span><span class="main-score-num">'+hDisp+'</span></div>'+
+          goalsHtml+
           '<div class="main-score-footer'+(isLive?' live':'')+'">'+(isLive?'● ':'')+esc(statusTxt)+'</div>'+
         '</div>';
       }).join('');
