@@ -1088,6 +1088,21 @@
   .gd-loading { padding: 30px 0; text-align: center; color: var(--ink-3); font-size: 13px; }
 
   /* Box score / team comparison rows */
+  .gd-goals { display: flex; flex-direction: column; gap: 2px; }
+  .gd-goal-line {
+    display: flex; align-items: center; gap: 12px;
+    padding: 8px 10px; border-bottom: 1px solid var(--rule);
+    font-family: 'Inter', sans-serif; font-size: 14px;
+  }
+  .gd-goal-line:last-child { border-bottom: none; }
+  .gd-goal-min {
+    font-family: 'JetBrains Mono', monospace; font-size: 12px; font-weight: 700;
+    color: var(--accent); min-width: 38px;
+  }
+  .gd-goal-scorer { color: var(--ink); flex: 1 1 auto; }
+  .gd-goal-team {
+    font-family: 'JetBrains Mono', monospace; font-size: 11px; color: var(--ink-3);
+  }
   .gd-boxscore-grid {
     display: grid;
     grid-template-columns: 1fr auto 1fr;
@@ -5707,17 +5722,27 @@
     }
 
     // Detect if this is a soccer league for formation rendering
-    var isSoccer = ['epl','laliga','bundesliga','seriea','ligue1','ucl','mls'].indexOf(leagueId) !== -1;
+    var isSoccer = ['epl','laliga','bundesliga','seriea','ligue1','ucl','mls','worldcup','euros','copaamerica'].indexOf(leagueId) !== -1;
 
     var bodyHtml = '';
     if (!summary) {
       bodyHtml = '<div class="gd-loading">Detail data unavailable for this game.</div>';
     } else {
       bodyHtml += renderGameTeamComparison(summary, ev);
-      bodyHtml += renderGameLeaders(summary);
+      if (isSoccer) {
+        // Goals (with minutes) and lineups/formation are what soccer fans want.
+        bodyHtml += renderGameGoalscorers(summary);
+      }
+      // Per-player box score is the primary detail (replaces the old, thin
+      // "Top Performers" cards). Box score for every sport.
       bodyHtml += renderGameBoxScore(summary, leagueId);
       if (isSoccer) {
         bodyHtml += renderGameFormations(summary);
+      }
+      // Keep top-performers ONLY as a fallback when no full box score rendered
+      // (some lower-coverage leagues), so the panel is never empty.
+      if (bodyHtml.indexOf('Full Box Score') === -1) {
+        bodyHtml += renderGameLeaders(summary);
       }
       bodyHtml += '<div class="gd-disclaimer">Source: ESPN. Lineups appear ~30-90 min before kickoff. Some leagues have less detail than others.</div>';
     }
@@ -5768,36 +5793,57 @@
     '</div>';
   }
 
-  // Renders the team-stats comparison panel from /summary boxscore. ESPN puts
-  // these stats in summary.boxscore.teams[].statistics[]. We pick the most
-  // important ones per sport.
+  // Renders the team-stats comparison from /summary boxscore. ESPN stores each
+  // team's stats in boxscore.teams[].statistics[], where each entry has
+  // { name, label, displayValue, value }. We align the two teams by the stable
+  // `name` key (NOT the human label, which can collide or vary), and always
+  // prefer displayValue (already formatted, e.g. "53.6%" or "5/12") over the
+  // raw numeric value. This fixes the earlier bug where columns desynced and
+  // percentages showed as raw ratios like "0.9".
   function renderGameTeamComparison(summary, ev) {
     var box = summary && summary.boxscore;
     if (!box || !box.teams || box.teams.length < 2) return '';
-    var t1 = box.teams[0]; // Usually away
-    var t2 = box.teams[1]; // Usually home
+    var t1 = box.teams[0]; // away
+    var t2 = box.teams[1]; // home
     var s1 = (t1.statistics || []);
     var s2 = (t2.statistics || []);
     if (s1.length === 0 && s2.length === 0) return '';
 
-    // Build a map of statName → {away, home, label}
+    function statKey(st) { return (st.name || st.label || '').toString(); }
+    function statVal(st) {
+      // displayValue is ESPN's pre-formatted string ("53.6%", "5", "4/9").
+      // Only fall back to value when displayValue is truly absent.
+      if (st.displayValue !== undefined && st.displayValue !== null && st.displayValue !== '') return String(st.displayValue);
+      if (st.value !== undefined && st.value !== null) return String(st.value);
+      return '';
+    }
+
     var statsMap = {};
-    s1.forEach(function(stat) {
-      var key = stat.label || stat.name || '';
-      statsMap[key] = { label: stat.label || stat.name, away: stat.displayValue || stat.value || '', home: '' };
+    var order = [];
+    s1.forEach(function(st) {
+      var k = statKey(st);
+      if (!k) return;
+      if (!statsMap[k]) { statsMap[k] = { label: st.label || st.name, away: '', home: '' }; order.push(k); }
+      statsMap[k].away = statVal(st);
     });
-    s2.forEach(function(stat) {
-      var key = stat.label || stat.name || '';
-      if (statsMap[key]) statsMap[key].home = stat.displayValue || stat.value || '';
-      else statsMap[key] = { label: stat.label || stat.name, away: '', home: stat.displayValue || stat.value || '' };
+    s2.forEach(function(st) {
+      var k = statKey(st);
+      if (!k) return;
+      if (!statsMap[k]) { statsMap[k] = { label: st.label || st.name, away: '', home: '' }; order.push(k); }
+      statsMap[k].home = statVal(st);
     });
 
-    var rows = Object.keys(statsMap).map(function(k) {
+    var rows = order.map(function(k) {
       var s = statsMap[k];
+      // Skip rows where both sides are empty/zero-ish and meaningless.
+      if ((s.away === '' || s.away === '0') && (s.home === '' || s.home === '0')) {
+        // keep meaningful zero stats (goals, cards) but drop totally empty ones
+        if (s.away === '' && s.home === '') return '';
+      }
       return '<div class="gd-stat-away">' + esc(s.away || '—') + '</div>' +
              '<div class="gd-stat-label">' + esc(s.label || k) + '</div>' +
              '<div class="gd-stat-home">' + esc(s.home || '—') + '</div>';
-    }).join('');
+    }).filter(Boolean).join('');
 
     if (!rows) return '';
     return '<div class="gd-section">' +
@@ -5834,6 +5880,47 @@
     return '<div class="gd-section">' +
       '<div class="gd-section-title">Top Performers</div>' +
       '<div class="gd-leaders">' + cards.join('') + '</div>' +
+    '</div>';
+  }
+
+  // Soccer goalscorers with minute markers, parsed from summary.keyEvents[].
+  // ESPN marks scoring plays with type.id/text containing "Goal". Each event
+  // has clock.displayValue (e.g. "23'"), the scorer in participants/athletesInvolved,
+  // and the team. Renders "Messi 23', 67' (pen)" style lines per team.
+  function renderGameGoalscorers(summary) {
+    var events = summary && summary.keyEvents;
+    if (!Array.isArray(events) || events.length === 0) return '';
+    var goals = events.filter(function(e) {
+      var typeText = (e.type && (e.type.text || e.type.name) || '').toLowerCase();
+      var txt = (e.text || '').toLowerCase();
+      // include goals + penalties + own goals; exclude cards/subs
+      return /goal/.test(typeText) || /scores|penalty kick (is )?good|own goal/.test(txt);
+    });
+    if (goals.length === 0) return '';
+
+    var lines = goals.map(function(g) {
+      var minute = (g.clock && g.clock.displayValue) ? g.clock.displayValue : '';
+      var scorer = '';
+      if (Array.isArray(g.participants) && g.participants[0] && g.participants[0].athlete) {
+        scorer = g.participants[0].athlete.displayName || g.participants[0].athlete.shortName || '';
+      } else if (Array.isArray(g.athletesInvolved) && g.athletesInvolved[0]) {
+        scorer = g.athletesInvolved[0].displayName || g.athletesInvolved[0].shortName || '';
+      }
+      var team = (g.team && (g.team.abbreviation || g.team.displayName)) || '';
+      var txt = (g.text || '').toLowerCase();
+      var tag = /own goal/.test(txt) ? ' (OG)' : (/penalt/.test(txt) ? ' (pen)' : '');
+      if (!scorer && !minute) return '';
+      return '<div class="gd-goal-line">' +
+        '<span class="gd-goal-min">' + esc(minute || '—') + '</span>' +
+        '<span class="gd-goal-scorer">⚽ ' + esc(scorer || 'Goal') + esc(tag) + '</span>' +
+        (team ? '<span class="gd-goal-team">' + esc(team) + '</span>' : '') +
+      '</div>';
+    }).filter(Boolean).join('');
+
+    if (!lines) return '';
+    return '<div class="gd-section">' +
+      '<div class="gd-section-title">Goals</div>' +
+      '<div class="gd-goals">' + lines + '</div>' +
     '</div>';
   }
 
@@ -6000,7 +6087,14 @@
         if (stateType === 'STATUS_FINAL' || stateType === 'STATUS_FULL_TIME') {
           statusTxt = status.type.shortDetail || 'Final';
         } else if (stateType === 'STATUS_IN_PROGRESS' || stateType === 'STATUS_HALFTIME') {
-          statusTxt = status.displayClock ? (status.period ? 'Q'+status.period+' ' : '') + status.displayClock : 'Live';
+          if (stateType === 'STATUS_HALFTIME') {
+            statusTxt = 'HT';
+          } else if (status.displayClock && !status.period) {
+            // Soccer: displayClock is the match minute (e.g. "67'")
+            statusTxt = status.displayClock;
+          } else {
+            statusTxt = status.displayClock ? (status.period ? 'Q'+status.period+' ' : '') + status.displayClock : 'Live';
+          }
           isLive = true;
         } else {
           var d = new Date(ev.date);
@@ -6018,7 +6112,7 @@
         return '<div class="main-score-card" onclick="openGameDetail(\'' + esc(cacheKey) + '\',\'' + esc(String(ev.id)) + '\')" style="cursor:pointer;">'+
           '<div class="main-score-row '+(aWin?'winner':'')+'"><span class="main-score-team">'+esc(aName)+'</span><span class="main-score-num">'+aDisp+'</span></div>'+
           '<div class="main-score-row '+(hWin?'winner':'')+'"><span class="main-score-team">'+esc(hName)+'</span><span class="main-score-num">'+hDisp+'</span></div>'+
-          '<div class="main-score-footer'+(isLive?' live':'')+'">'+esc(statusTxt)+'</div>'+
+          '<div class="main-score-footer'+(isLive?' live':'')+'">'+(isLive?'● ':'')+esc(statusTxt)+'</div>'+
         '</div>';
       }).join('');
 
