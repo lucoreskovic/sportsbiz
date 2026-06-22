@@ -442,8 +442,9 @@
   .widget-type-btn.active { background: var(--ink-deep); color: #fff; border-color: var(--ink); }
   .widget-body { padding: 14px; }
   .poll-question { font-size: 13px; font-weight: 600; color: var(--ink); line-height: 1.4; margin-bottom: 12px; }
-  .poll-option { margin-bottom: 7px; }
-  .poll-option-btn { width: 100%; text-align: left; padding: 7px 10px; border-radius: 6px; border: 1px solid var(--rule); background: var(--bg); cursor: pointer; font-size: 12px; color: var(--ink-2); font-family: 'Inter', sans-serif; transition: all .12s; }
+  .poll-options { display: flex; flex-direction: column; gap: 6px; }
+  .poll-option { margin-bottom: 0; }
+  .poll-option-btn { width: 100%; text-align: left; padding: 10px 12px; border-radius: 6px; border: 1px solid var(--rule); background: var(--bg); cursor: pointer; font-size: 12px; line-height: 1.35; color: var(--ink-2); font-family: 'Inter', sans-serif; transition: all .12s; white-space: normal; }
   .poll-option-btn:hover  { border-color: var(--green); color: var(--green); background: var(--green-light); }
   .poll-result { margin-bottom: 8px; }
   .poll-result-label { display: flex; justify-content: space-between; font-size: 11px; color: var(--ink-2); margin-bottom: 3px; }
@@ -461,7 +462,10 @@
   .score-team.winner { font-weight: 600; color: var(--ink); }
   .score-num { font-family: 'JetBrains Mono', monospace; font-size: 13px; font-weight: 600; min-width: 28px; text-align: right; }
   .score-status { font-family: 'JetBrains Mono', monospace; font-size: 9px; color: var(--ink-3); text-align: center; padding: 0 8px; white-space: nowrap; }
-  .score-status.live { color: var(--red); font-weight: 600; }
+  .score-status.live { color: var(--red); font-weight: 700; }
+  .score-status.live::before { content: '● '; animation: livepulse 1.4s infinite; }
+  @keyframes livepulse { 0%,100% { opacity: 1; } 50% { opacity: 0.35; } }
+  .main-score-footer.live::before { content: ''; }
   .score-tabs { display: flex; gap: 3px; margin-bottom: 10px; }
   .score-tab { font-size: 9px; font-weight: 600; letter-spacing: .08em; text-transform: uppercase; padding: 3px 8px; border-radius: 3px; border: 1px solid var(--rule); cursor: pointer; background: transparent; color: var(--ink-3); font-family: 'Inter', sans-serif; transition: all .12s; }
   .score-tab:hover { background: var(--rule); }
@@ -2148,9 +2152,11 @@
         '<div style="font-size:10px;color:var(--ink-3);margin-top:8px;">'+total+' vote'+(total===1?'':'s')+'</div>';
     }
     return '<div class="poll-question">'+esc(POLL.question)+'</div>' +
+      '<div class="poll-options">' +
       POLL.options.map(function(opt,i) {
-        return '<button class="poll-option" onclick="votePoll('+i+')">'+esc(opt)+'</button>';
-      }).join('');
+        return '<div class="poll-option"><button class="poll-option-btn" onclick="votePoll('+i+')">'+esc(opt)+'</button></div>';
+      }).join('') +
+      '</div>';
   }
 
   function votePoll(idx) {
