@@ -4484,13 +4484,28 @@
     if (_liveInjuries && Date.now() - _liveInjuriesTs < 10 * 60 * 1000) return _liveInjuries;
     var leagues = [
       { id:'MLB', path:'baseball/mlb' }, { id:'NBA', path:'basketball/nba' },
-      { id:'NFL', path:'football/nfl' }, { id:'NHL', path:'hockey/nhl' }
+      { id:'NFL', path:'football/nfl' }, { id:'NHL', path:'hockey/nhl' },
+      // Soccer (best-effort). ESPN's per-competition /injuries feed is sparser
+      // than the US leagues, and the European club seasons go dark over the
+      // summer, so several of these can return nothing out of season. World Cup
+      // and general soccer injuries also arrive via the news-feed extraction
+      // (generate.js TASK 7, league:"SOCCER"). All of these bucket under the
+      // single "Soccer" option in the sport filter.
+      { id:'SOCCER', path:'soccer/eng.1' },         // Premier League
+      { id:'SOCCER', path:'soccer/esp.1' },         // La Liga
+      { id:'SOCCER', path:'soccer/ger.1' },         // Bundesliga
+      { id:'SOCCER', path:'soccer/ita.1' },         // Serie A
+      { id:'SOCCER', path:'soccer/fra.1' },         // Ligue 1
+      { id:'SOCCER', path:'soccer/uefa.champions' },// Champions League
+      { id:'SOCCER', path:'soccer/usa.1' },         // MLS
+      { id:'SOCCER', path:'soccer/fifa.world' }     // World Cup
     ];
     var statusMap = {
       'out':'OUT','injured reserve':'IR','ir':'IR','60-day-il':'IR','15-day-il':'OUT','10-day-il':'OUT',
       'doubtful':'DOUBTFUL','questionable':'QUESTIONABLE','day-to-day':'DAY_TO_DAY','game-time-decision':'QUESTIONABLE'
     };
     var all = [];
+    var seenKey = {}; // player|team — dedupe across overlapping comps (e.g. a club in both its league and UCL)
     await Promise.all(leagues.map(function(lg){
       return fetch('https://site.api.espn.com/apis/site/v2/sports/' + lg.path + '/injuries', { signal: AbortSignal.timeout(7000) })
         .then(function(r){ return r.ok ? r.json() : null; })
@@ -4503,10 +4518,14 @@
               var statusRaw = String(it.status || (it.type && it.type.description) || '').toLowerCase();
               var status = statusMap[statusRaw] || (statusRaw.indexOf('out')>=0?'OUT':statusRaw.indexOf('quest')>=0?'QUESTIONABLE':statusRaw.indexOf('doubt')>=0?'DOUBTFUL':'DAY_TO_DAY');
               var detail = (it.details && (it.details.type || it.details.detail)) || it.shortComment || it.longComment || (it.type && it.type.description) || 'Undisclosed';
+              var playerName = ath.displayName || ath.shortName || 'Unknown';
+              var dedupeKey = playerName.toLowerCase() + '|' + teamName.toLowerCase();
+              if (seenKey[dedupeKey]) return;
+              seenKey[dedupeKey] = true;
               all.push({
                 league: lg.id,
                 team: teamName,
-                player: ath.displayName || ath.shortName || 'Unknown',
+                player: playerName,
                 status: status,
                 injury: String(detail).slice(0, 80),
                 timeline: (it.details && it.details.returnDate) ? ('Est. return ' + it.details.returnDate) : '',
