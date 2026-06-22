@@ -2128,6 +2128,12 @@
         .then(function(r){ return r.ok ? r.json() : null; })
         .then(function(d){
           if (!d || !Array.isArray(d.events)) return;
+          // Cache this league's full event list under the SAME key the cards use
+          // (see g.cacheKey below). openGameDetail resolves a clicked game out of
+          // scoresEventCache; without this, clicking a live card on the home page
+          // fails with "Could not load game data." unless the user had already
+          // opened the Scores tab for that league.
+          scoresEventCache[l.id + ':' + (scoresActiveDate||'')] = d.events;
           d.events.forEach(function(ev){
             if (!sbIsLive(ev)) return;
             var comp = ev.competitions && ev.competitions[0];
@@ -4473,32 +4479,43 @@
   var _injuryDeskAll = [];
   var _injuryFilterSport = 'ALL';
   var _injuryFilterStatus = 'ALL';
-  function onInjuryFilterChange() {
+  var _injuryFilterPos = 'ALL'; // only meaningful when a specific sport is selected
+  function onInjuryFilterChange(which) {
     var sportSel  = document.getElementById('injury-filter-sport');
     var statusSel = document.getElementById('injury-filter-status');
-    if (sportSel)  _injuryFilterSport  = sportSel.value;
-    if (statusSel) _injuryFilterStatus = statusSel.value;
+    var posSel    = document.getElementById('injury-filter-pos');
+    // Update only the control that fired. Important for sport: when sport changes,
+    // the position <select> in the DOM still shows its OLD value, so we must NOT
+    // read it back. Positions are sport-specific (a "C" is a different thing in
+    // every sport), so changing sport always resets the position filter.
+    if (which === 'sport' && sportSel) {
+      _injuryFilterSport = sportSel.value;
+      _injuryFilterPos = 'ALL';
+    } else if (which === 'status' && statusSel) {
+      _injuryFilterStatus = statusSel.value;
+    } else if (which === 'pos' && posSel) {
+      _injuryFilterPos = posSel.value;
+    } else {
+      if (sportSel)  _injuryFilterSport  = sportSel.value;
+      if (statusSel) _injuryFilterStatus = statusSel.value;
+      if (posSel)    _injuryFilterPos    = posSel.value;
+    }
+    if (_injuryFilterSport === 'ALL') _injuryFilterPos = 'ALL';
     renderInjuryDeskRows(document.getElementById('main-feed'), _injuryDeskAll, false);
   }
   async function fetchLiveInjuries() {
     if (_liveInjuries && Date.now() - _liveInjuriesTs < 10 * 60 * 1000) return _liveInjuries;
     var leagues = [
       { id:'MLB', path:'baseball/mlb' }, { id:'NBA', path:'basketball/nba' },
-      { id:'NFL', path:'football/nfl' }, { id:'NHL', path:'hockey/nhl' },
-      // Soccer (best-effort). ESPN's per-competition /injuries feed is sparser
-      // than the US leagues, and the European club seasons go dark over the
-      // summer, so several of these can return nothing out of season. World Cup
-      // and general soccer injuries also arrive via the news-feed extraction
-      // (generate.js TASK 7, league:"SOCCER"). All of these bucket under the
-      // single "Soccer" option in the sport filter.
-      { id:'SOCCER', path:'soccer/eng.1' },         // Premier League
-      { id:'SOCCER', path:'soccer/esp.1' },         // La Liga
-      { id:'SOCCER', path:'soccer/ger.1' },         // Bundesliga
-      { id:'SOCCER', path:'soccer/ita.1' },         // Serie A
-      { id:'SOCCER', path:'soccer/fra.1' },         // Ligue 1
-      { id:'SOCCER', path:'soccer/uefa.champions' },// Champions League
-      { id:'SOCCER', path:'soccer/usa.1' },         // MLS
-      { id:'SOCCER', path:'soccer/fifa.world' }     // World Cup
+      { id:'NFL', path:'football/nfl' }, { id:'NHL', path:'hockey/nhl' }
+      // NOTE on soccer: ESPN's hidden API has NO league-wide soccer injuries
+      // feed. For soccer, injuries exist only at the team level
+      // (soccer/{league}/teams/{id}/injuries), which would mean 20-30+ requests
+      // per competition, far too many for a desk that opens on demand. The old
+      // soccer/{league}/injuries calls hit an endpoint that doesn't exist and
+      // returned nothing, so they were removed. Soccer and World Cup injuries
+      // are sourced from the news wire instead: generate.js TASK 7 extracts them
+      // with league:"SOCCER" and they merge in via the static INJURIES set.
     ];
     var statusMap = {
       'out':'OUT','injured reserve':'IR','ir':'IR','60-day-il':'IR','15-day-il':'OUT','10-day-il':'OUT',
@@ -4519,6 +4536,7 @@
               var status = statusMap[statusRaw] || (statusRaw.indexOf('out')>=0?'OUT':statusRaw.indexOf('quest')>=0?'QUESTIONABLE':statusRaw.indexOf('doubt')>=0?'DOUBTFUL':'DAY_TO_DAY');
               var detail = (it.details && (it.details.type || it.details.detail)) || it.shortComment || it.longComment || (it.type && it.type.description) || 'Undisclosed';
               var playerName = ath.displayName || ath.shortName || 'Unknown';
+              var posAbbr = (ath.position && (ath.position.abbreviation || ath.position.name)) || '';
               var dedupeKey = playerName.toLowerCase() + '|' + teamName.toLowerCase();
               if (seenKey[dedupeKey]) return;
               seenKey[dedupeKey] = true;
@@ -4526,6 +4544,7 @@
                 league: lg.id,
                 team: teamName,
                 player: playerName,
+                position: String(posAbbr).toUpperCase(),
                 status: status,
                 injury: String(detail).slice(0, 80),
                 timeline: (it.details && it.details.returnDate) ? ('Est. return ' + it.details.returnDate) : '',
@@ -4637,10 +4656,43 @@
     if (_injuryFilterSport  !== 'ALL' && sportsPresent.indexOf(_injuryFilterSport)   === -1) _injuryFilterSport  = 'ALL';
     if (_injuryFilterStatus !== 'ALL' && statusesPresent.indexOf(_injuryFilterStatus) === -1) _injuryFilterStatus = 'ALL';
 
-    // Apply both active filters.
+    // ─── Position options (only once a specific sport is selected) ──────────
+    // Positions are meaningless mashed across sports (a "C" is a center in
+    // basketball/hockey but a catcher in baseball), so the position dropdown
+    // only appears after the reader narrows to one league, and its options are
+    // drawn ONLY from that league's rows. Ordered roughly by line/role per sport.
+    var POSITION_ORDER = {
+      NFL:    ['QB','RB','FB','WR','TE','OT','OL','G','C','DL','DE','DT','EDGE','LB','ILB','OLB','CB','S','DB','K','P','LS'],
+      NBA:    ['PG','SG','SF','PF','C','G','F'],
+      WNBA:   ['G','F','C'],
+      MLB:    ['SP','RP','P','C','1B','2B','3B','SS','IF','LF','CF','RF','OF','DH'],
+      NHL:    ['C','LW','RW','W','F','D','G'],
+      SOCCER: ['GK','D','DF','CB','LB','RB','M','MF','CM','DM','AM','W','F','FW','ST','CF']
+    };
+    var positionsPresent = [];
+    if (_injuryFilterSport !== 'ALL') {
+      rows.forEach(function(r){
+        if (String(r.league || '').toUpperCase() !== _injuryFilterSport) return;
+        var p = String(r.position || '').toUpperCase();
+        if (p && positionsPresent.indexOf(p) === -1) positionsPresent.push(p);
+      });
+      var posOrder = POSITION_ORDER[_injuryFilterSport] || [];
+      positionsPresent.sort(function(a, b){
+        var ia = posOrder.indexOf(a); if (ia === -1) ia = 99;
+        var ib = posOrder.indexOf(b); if (ib === -1) ib = 99;
+        if (ia !== ib) return ia - ib;
+        return a < b ? -1 : a > b ? 1 : 0;
+      });
+    }
+    // Position only applies within a single sport; reset/validate accordingly.
+    if (_injuryFilterSport === 'ALL') _injuryFilterPos = 'ALL';
+    if (_injuryFilterPos !== 'ALL' && positionsPresent.indexOf(_injuryFilterPos) === -1) _injuryFilterPos = 'ALL';
+
+    // Apply all active filters.
     var filtered = rows.filter(function(r){
       if (_injuryFilterSport  !== 'ALL' && String(r.league || '').toUpperCase() !== _injuryFilterSport)  return false;
       if (_injuryFilterStatus !== 'ALL' && r.status !== _injuryFilterStatus) return false;
+      if (_injuryFilterPos    !== 'ALL' && String(r.position || '').toUpperCase() !== _injuryFilterPos)  return false;
       return true;
     });
 
@@ -4665,18 +4717,29 @@
         var lbl = (STATUS_META[s] && STATUS_META[s].label) || s;
         return '<option value="' + escSafe(s) + '"' + (_injuryFilterStatus === s ? ' selected' : '') + '>' + escSafe(lbl) + '</option>';
       }).join('');
+    // Position select only renders once a specific sport is chosen AND that sport
+    // actually has position data to filter on (so it never shows an empty box).
+    var posSelectHtml = '';
+    if (_injuryFilterSport !== 'ALL' && positionsPresent.length) {
+      var posOpts = '<option value="ALL"' + (_injuryFilterPos === 'ALL' ? ' selected' : '') + '>All Positions</option>' +
+        positionsPresent.map(function(p){
+          return '<option value="' + escSafe(p) + '"' + (_injuryFilterPos === p ? ' selected' : '') + '>' + escSafe(p) + '</option>';
+        }).join('');
+      posSelectHtml = '<select id="injury-filter-pos" onchange="onInjuryFilterChange(\'pos\')" style="' + selStyle + '">' + posOpts + '</select>';
+    }
     var controls =
       '<div style="display:flex;gap:10px;flex-wrap:wrap;align-items:center;margin:14px 0 2px;">' +
         '<span style="font-size:10px;color:var(--ink-3);font-family:JetBrains Mono,monospace;letter-spacing:.12em;">FILTER</span>' +
-        '<select id="injury-filter-sport" onchange="onInjuryFilterChange()" style="' + selStyle + '">' + sportOpts + '</select>' +
-        '<select id="injury-filter-status" onchange="onInjuryFilterChange()" style="' + selStyle + '">' + statusOpts + '</select>' +
+        '<select id="injury-filter-sport" onchange="onInjuryFilterChange(\'sport\')" style="' + selStyle + '">' + sportOpts + '</select>' +
+        '<select id="injury-filter-status" onchange="onInjuryFilterChange(\'status\')" style="' + selStyle + '">' + statusOpts + '</select>' +
+        posSelectHtml +
       '</div>';
 
     var cardsHtml;
     if (!sorted.length) {
       cardsHtml = '<div style="border:1px solid var(--rule);border-radius:8px;padding:20px;background:var(--surface);' +
         'color:var(--ink-3);font-size:13px;line-height:1.5;">No tracked injuries match this filter right now. ' +
-        'Try widening the sport or status.</div>';
+        'Try widening the sport, status, or position.</div>';
     } else {
       cardsHtml = sorted.map(function(inj) {
         var meta = STATUS_META[inj.status] || { label: inj.status || 'Unknown', color: 'var(--ink-3)', bg: 'var(--surface-2)' };
@@ -4686,6 +4749,7 @@
               '<div>' +
                 '<div style="font-size:11px;color:var(--ink-3);letter-spacing:.08em;font-family:JetBrains Mono,monospace;margin-bottom:4px;">' +
                   escSafe(inj.league) + ' · ' + escSafe(inj.team) +
+                  (inj.position ? ' · ' + escSafe(String(inj.position).toUpperCase()) : '') +
                 '</div>' +
                 '<div style="font-size:18px;font-weight:700;color:var(--ink-1);line-height:1.2;">' + escSafe(inj.player) + '</div>' +
               '</div>' +
