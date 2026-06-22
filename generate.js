@@ -2540,14 +2540,18 @@ async function main() {
   const results = await Promise.all(FEEDS.map(fetchFeed));
   const all = dedup(results.flat());
   console.log('Total stories: ' + all.length);
-  if (all.length < 3) { console.error('Too few stories'); process.exit(1); }
+  if (all.length < 3) { console.error('Too few stories — preserving existing stories.json'); process.exit(0); }
 
   console.log('Clustering...');
   const clustered = await cluster(all);
   console.log('Clusters: ' + clustered.clusters?.length);
 
   console.log('Attaching real X posts...');
-  await attachRealTweets(clustered.clusters || []);
+  try {
+    await attachRealTweets(clustered.clusters || []);
+  } catch (e) {
+    console.error('[main] tweet stage failed, continuing without new tweets:', e.message);
+  }
 
   // ─── PICKS: morning anchor only ────────────────────────────────────────────
   // The picks pipeline is the most expensive thing this script does (3 Claude
@@ -2669,10 +2673,19 @@ async function main() {
     } else {
       console.log('Generating picks (morning anchor / manual run)...');
     }
-    const newPicks = await generatePicks();
-    // Carry the grade queue alongside today's slate so results are never lost.
-    clustered.picks = newPicks.concat(gradeQueue);
-    console.log('Picks: ' + newPicks.length + ' new, ' + gradeQueue.length + ' awaiting grade');
+    try {
+      const newPicks = await generatePicks();
+      // Carry the grade queue alongside today's slate so results are never lost.
+      clustered.picks = newPicks.concat(gradeQueue);
+      console.log('Picks: ' + newPicks.length + ' new, ' + gradeQueue.length + ' awaiting grade');
+    } catch (e) {
+      // Picks generation is the most failure-prone stage (3 Claude calls + odds
+      // + web searches). If it throws, DO NOT abort the whole run — keep the
+      // picks already on disk so the page isn't blanked, and let the next
+      // refresh retry. This is what kept freezing the entire site.
+      console.error('[picks] generation FAILED, preserving existing picks and continuing:', e.message);
+      clustered.picks = storedFreshPicks.concat(gradeQueue);
+    }
   } else {
     // Off-cycle run: keep the still-fresh picks already on disk so the site
     // doesn't go blank, plus anything waiting on an ESPN final.
@@ -2699,24 +2712,41 @@ async function main() {
   }
 
   console.log('Fetching highlights...');
-  const videoFeeds = await fetchHighlights();
-  clustered.highlights = videoFeeds.highlights;
-  clustered.reels = videoFeeds.reels;
-  console.log('Highlights: ' + clustered.highlights?.length + ' | Reels: ' + clustered.reels?.length);
+  try {
+    const videoFeeds = await fetchHighlights();
+    clustered.highlights = videoFeeds.highlights;
+    clustered.reels = videoFeeds.reels;
+    console.log('Highlights: ' + clustered.highlights?.length + ' | Reels: ' + clustered.reels?.length);
+  } catch (e) {
+    console.error('[main] highlights stage failed, continuing:', e.message);
+  }
 
   // Live NFL draft — runs in parallel with rest. ESPN Core API, no CORS issues server-side.
   // Overrides the Claude-extracted news picks when available; those become the fallback.
-  const liveDraft = await fetchNflDraftLive();
-  if (liveDraft && liveDraft.picks.length > 0) {
-    clustered.draftTracker = liveDraft;
-    console.log('Draft tracker: using ESPN live feed (' + liveDraft.picks.length + ' picks)');
-  } else if (clustered.draftTracker && clustered.draftTracker.active) {
-    clustered.draftTracker.source = 'news';
-    console.log('Draft tracker: ESPN unavailable, using news extraction (' + clustered.draftTracker.picks.length + ' picks)');
+  try {
+    const liveDraft = await fetchNflDraftLive();
+    if (liveDraft && liveDraft.picks.length > 0) {
+      clustered.draftTracker = liveDraft;
+      console.log('Draft tracker: using ESPN live feed (' + liveDraft.picks.length + ' picks)');
+    } else if (clustered.draftTracker && clustered.draftTracker.active) {
+      clustered.draftTracker.source = 'news';
+      console.log('Draft tracker: ESPN unavailable, using news extraction (' + clustered.draftTracker.picks.length + ' picks)');
+    }
+  } catch (e) {
+    console.error('[main] draft stage failed, continuing:', e.message);
   }
 
   writeFileSync('stories.json', JSON.stringify(clustered, null, 2));
   console.log('Written stories.json');
 }
 
-main().catch(err => { console.error('FATAL:', err); process.exit(1); });
+main().catch(err => {
+  // A fatal error here means stories.json was NOT rewritten this run. Do NOT
+  // exit non-zero: that aborts the workflow before the push/deploy step, which
+  // would be fine (old file stays) EXCEPT it also marks the run failed and can
+  // interrupt the schedule. Exit 0 so the workflow completes and simply
+  // re-publishes the existing stories.json untouched. The next scheduled run
+  // retries. This guarantees the site never goes dark from a transient error.
+  console.error('FATAL (run produced no new stories.json; existing file preserved):', err && err.stack || err);
+  process.exit(0);
+});
