@@ -460,6 +460,7 @@ ${prevLeadsBlock}
 
 For each cluster return:
 - importance: integer 1-10. 10 = "this is THE story of the day, every major sports outlet is leading with it." 7-8 = "front-page worthy, would be on most outlets' homepage." 4-6 = "solid news, of interest to industry readers." 1-3 = "minor but worth tracking." Use the full range honestly — most days have one 8-10 lead, two or three 5-7 mid-tier, and the rest lower.
+  IMPORTANCE CALIBRATION (be strict, this sets the lead story): On-field history and marquee events outrank niche business items. A major record broken (e.g. an all-time scoring record), a championship result, a blockbuster trade or signing of a star, or a result in a marquee event (World Cup, Finals, a major) is an 8-10. A financial/investment story in a smaller or developing league (e.g. a new investment in a niche league, a mid-market sponsorship) is typically a 5-6 even if the dollar figure is large — it is industry-interesting but is NOT the story of the day. When in doubt, ask: "would ESPN/BBC lead their homepage with this?" If not, it is not a 9-10. Do NOT inflate a niche-league business story to the top slot over a genuine marquee sporting moment.
 - category: "media" | "contracts" | "leagues" | "revenue" | "labor"
 - leadHeadline: exact title from a source story (copy verbatim)
 - leadSource: exact source name from the [index] prefix + " · Xh ago"
@@ -768,11 +769,22 @@ ${list}`;
     };
   });
 
-  // Sort by importance descending so the day's top story leads the homepage
-  // (and every section) even if Claude returns clusters in a different order.
-  // The front-end also sorts client-side; doing it here too means the order
-  // is correct in stories.json for any downstream consumers (RSS, exports, etc).
-  parsed.clusters.sort((a, b) => (b.importance || 0) - (a.importance || 0));
+  // Sort by importance descending so the day's top story leads. Tiebreaker:
+  // when importance is equal, the more RECENT story wins (a fresh development
+  // should outrank an older same-tier story), then stable by original index.
+  // This stops a mid-tier story (e.g. a niche league investment) from leading
+  // over a bigger, fresher one (e.g. a record being broken) just because they
+  // scored the same.
+  parsed.clusters.forEach((c, i) => { c._origIdx = i; });
+  parsed.clusters.sort((a, b) => {
+    const di = (b.importance || 0) - (a.importance || 0);
+    if (di !== 0) return di;
+    const ta = Date.parse(a.leadPubDate || a.pubDate || '') || 0;
+    const tb = Date.parse(b.leadPubDate || b.pubDate || '') || 0;
+    if (tb !== ta) return tb - ta;
+    return a._origIdx - b._origIdx;
+  });
+  parsed.clusters.forEach(c => { delete c._origIdx; });
 
   if (!parsed.poll?.question) {
     parsed.poll = {
@@ -1271,9 +1283,14 @@ async function fetchLeagueOdds(league, oddsByGame) {
 // deterministic market-fill picks from freshly fetched lines.
 async function topUpMarketFills(currentPicks) {
   if (!process.env.ODDS_API_KEY) return [];
-  // Which leagues are under-covered right now?
+  // Which leagues are under-covered right now? Count ONLY renderable picks —
+  // _pendingGrade picks are finished games held for grading and are hidden from
+  // the page, so they must NOT count toward a sport's coverage. (This was the
+  // bug: 2 stale pending MLB picks made MLB look "covered" so today's real
+  // games never got filled, leaving the board empty.)
   const countByLeague = {};
   (currentPicks || []).forEach(p => {
+    if (p._pendingGrade) return;
     const lg = String(p.league||'').toUpperCase();
     countByLeague[lg] = (countByLeague[lg]||0) + 1;
   });
@@ -1348,7 +1365,10 @@ function buildMarketFillPicks(oddsByGame, existingPicks, minPerSport, maxPerSpor
   const norm = (s) => String(s || '').toLowerCase().replace(/[^a-z0-9]/g, '');
   existingPicks.forEach(p => {
     const lg = String(p.league || '').toUpperCase();
-    perLeague[lg] = (perLeague[lg] || 0) + 1;
+    // Pending-grade picks are hidden finished games — don't count them toward
+    // coverage (or a sport with only stale picks never gets filled). But DO
+    // mark their game used so we never double up on the same matchup.
+    if (!p._pendingGrade) perLeague[lg] = (perLeague[lg] || 0) + 1;
     if (p.marketSnapshot && p.marketSnapshot.awayTeam) {
       usedGames.add(norm(p.marketSnapshot.awayTeam) + '|' + norm(p.marketSnapshot.homeTeam));
     }
