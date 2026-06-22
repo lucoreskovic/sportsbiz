@@ -630,6 +630,7 @@ Scan the stories for injury news. Be generous — readers want a populated injur
       player: "Player Name",
       team: "Team Name",
       league: "NBA" | "NFL" | "MLB" | "NHL" | "SOCCER" | "OTHER",
+      position: "Position abbreviation if known (e.g. 'QB','RB','WR' for NFL; 'PG','C' for NBA; 'SP','SS' for MLB; 'G','D' for NHL; 'GK','FW' for soccer). Empty string if not stated.",
       status: "OUT" | "QUESTIONABLE" | "DOUBTFUL" | "DAY_TO_DAY" | "IR" | "RETURNING",
       injury: "Brief description (e.g. 'sprained ankle', 'hamstring', 'knee surgery')",
       timeline: "Return window if reported (e.g. '2-4 weeks', 'out for season', 'game-time decision'); null if not stated",
@@ -654,9 +655,18 @@ ALSO INCLUDE (treat as DAY_TO_DAY if no harder status given):
 EXCLUDE only:
 - Pure rumors with no reporter attribution
 - "Could miss" speculation without a confirmed status
-- Off-the-field issues (suspensions, personal leave) — those aren't injuries
+- Off-the-field issues (suspensions, personal leave), which aren't injuries
 
-Aim for 4-8 injuries on a normal news day. Only return injuries: [] if today's stories truly have ZERO injury mentions across all leagues (rare). Don't fabricate.
+SOCCER & WORLD CUP (these get under-captured, so pay attention):
+The FIFA World Cup is live right now and the wire is full of soccer availability news. Soccer reports injuries in different words than US sports and never uses "IR" or "injured list", so map soccer language like this:
+- "ruled out", "sidelined", "out for the season/tournament", "will miss the match", "set to miss" → OUT
+- "doubtful", "a doubt", "rated doubtful", "facing a fitness test", "racing to be fit" → DOUBTFUL
+- "game-time decision", "late call", "could feature" → QUESTIONABLE
+- "knock", "minor problem", "carrying an issue", "limped off but expected to be okay" → DAY_TO_DAY
+- "back in training", "passed a fitness test", "available again", "returns from injury" → RETURNING
+Also capture players withdrawn from a national-team squad through injury, and players who came off injured during a World Cup or club match. Tag all of these league:"SOCCER" (club or international alike). Skip pure suspensions and red-card bans, which are not injuries.
+
+Aim for 4-8 injuries on a normal news day. When the World Cup or another major soccer event is live, make sure soccer is represented whenever the wire carries any soccer injury news, don't let it skew all-US. Only return injuries: [] if today's stories truly have ZERO injury mentions across all leagues (rare). Don't fabricate.
 
 ## OUTPUT FORMAT
 
