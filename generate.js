@@ -1307,18 +1307,19 @@ async function topUpMarketFills(currentPicks) {
   const oddsByGame = {};
   for (const lg of CORE) {
     if ((countByLeague[lg.label]||0) >= 2) continue; // already covered
-    // Confirm the league has a non-final game today before spending a credit.
-    let hasGame = false;
+    // Confirm the league plausibly has a game today before spending a credit.
+    // Accept ANY game on today's scoreboard (scheduled, live, or even final —
+    // the odds fetch + fill-window filter will sort out what's actually
+    // bettable). If the ESPN check errors, price anyway rather than skip:
+    // better to spend one credit than leave the sport empty.
+    let hasGame = true;
     try {
       const res = await fetch('https://site.api.espn.com/apis/site/v2/sports/' + lg.urlPath + '/scoreboard', { signal: AbortSignal.timeout(6000) });
       if (res.ok) {
         const d = await res.json();
-        hasGame = (d.events||[]).some(ev => {
-          const n = ev.status?.type?.name;
-          return n !== 'STATUS_FINAL' && n !== 'STATUS_FULL_TIME';
-        });
+        hasGame = Array.isArray(d.events) && d.events.length > 0;
       }
-    } catch (e) {}
+    } catch (e) { hasGame = true; }
     if (!hasGame) continue;
     await fetchLeagueOdds(lg.label, oddsByGame);
   }
@@ -1354,8 +1355,11 @@ function buildMarketFillPicks(oddsByGame, existingPicks, minPerSport, maxPerSpor
   const fills = [];
   const games = Object.values(oddsByGame || {}).filter(o => {
     const ts = Date.parse(o.commenceTime || '');
-    // Only games that haven't started and start within the next 24h.
-    return !isNaN(ts) && ts > Date.now() && ts < Date.now() + 24 * 3600 * 1000;
+    // Include games starting within the next 24h AND games that started up to
+    // 3h ago (still live / bettable pre-close, and so the board isn't empty in
+    // the afternoon when day games have already begun). Excludes only games
+    // that are clearly over.
+    return !isNaN(ts) && ts > Date.now() - 3 * 3600 * 1000 && ts < Date.now() + 24 * 3600 * 1000;
   });
   if (games.length === 0) return fills;
 
