@@ -260,7 +260,11 @@
        stat cells (Today / All-Time / Hit Rate) sit in a tidy row beneath it.
        The desktop min-width:150px and right-border on the title were fighting
        the 100% width on a narrow screen and squashing the strip — reset them. */
-    .picks-record-strip { min-height: 0; padding: 0; }
+    .picks-record-strip-simple { padding: 11px 13px; gap: 10px; margin-bottom: 10px; flex-wrap: wrap; }
+    .prs2-name { min-width: 78px; font-size: 10px; }
+    .prs2-record { font-size: 18px; }
+    .prs2-pct { font-size: 15px; }
+    .prs2-status { font-size: 9px; }
     .prs-cell-title {
       flex: 1 1 100%;
       min-width: 0;
@@ -475,6 +479,55 @@
   .pick-status.badge-push { background: var(--ink-3); color: #fff; }
 
   /* Scoreboard-style record card. Click to open the history modal. */
+  /* ─── SIMPLIFIED RECORD STRIP (one clean line per sport) ─────────────────── */
+  .picks-record-strip-simple {
+    position: relative;
+    display: flex; align-items: center; gap: 14px;
+    margin-bottom: 14px;
+    padding: 12px 16px;
+    background: var(--surface);
+    border: 1px solid var(--rule);
+    border-radius: 4px;
+    cursor: pointer;
+    transition: border-color .15s, background .15s;
+    font-family: 'Inter', sans-serif;
+  }
+  .picks-record-strip-simple:hover { border-color: var(--ink-3); }
+  .picks-record-strip-simple[data-empty="1"] { cursor: default; opacity: 0.6; }
+  .picks-record-strip-simple[data-empty="1"]:hover { border-color: var(--rule); }
+  .picks-record-strip-simple.is-overall {
+    border-left: 3px solid var(--accent);
+    background: linear-gradient(90deg, rgba(202,255,63,0.05), transparent 40%);
+  }
+  .prs2-name {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 11px; font-weight: 600; letter-spacing: .08em; text-transform: uppercase;
+    color: var(--ink-2); min-width: 92px; flex: 0 0 auto;
+  }
+  .prs2-record {
+    font-family: 'Archivo', sans-serif; font-size: 20px; font-weight: 800;
+    color: var(--ink); flex: 0 0 auto; min-width: 54px;
+  }
+  .prs2-pct {
+    font-family: 'Archivo', sans-serif; font-size: 16px; font-weight: 700;
+    flex: 0 0 auto; min-width: 44px;
+  }
+  .prs2-status {
+    font-family: 'JetBrains Mono', monospace; font-size: 10px; letter-spacing: .04em;
+    color: var(--ink-3); flex: 1 1 auto;
+  }
+  .prs2-view {
+    font-family: 'JetBrains Mono', monospace; font-size: 10px; font-weight: 600;
+    letter-spacing: .08em; text-transform: uppercase; color: var(--accent);
+    flex: 0 0 auto;
+  }
+  .prs2-record .prs-w { color: var(--ink); }
+  .prs2-record .prs-l { color: var(--ink-3); }
+  .prs2-record .prs-p { color: var(--ink-3); }
+  .prs2-pct .prs-pct-good { color: var(--accent); }
+  .prs2-pct .prs-pct-bad  { color: var(--red, #ff5f5f); }
+  .prs2-pct .prs-pct-even { color: var(--ink-2); }
+
   .picks-record-strip {
     position: relative;
     display: flex; align-items: center; flex-wrap: wrap; gap: 0;
@@ -3663,72 +3716,40 @@
   function renderRecordStripInto(elementId, sportId, liveCount, pendingCount, isOverall) {
     var el = document.getElementById(elementId);
     if (!el) return;
-    var today = getTodayRecord(sportId || null);
     var all   = getAllTimeRecord(sportId || null);
     var titleMain = isOverall ? 'Overall' : (SPORT_CATEGORIES.find(function(s){return s.id===sportId;})?.label || 'Section');
-    var subtitle;
-    if (liveCount > 0) {
-      subtitle = '<span class="prs-live-pip">● ' + liveCount + ' LIVE</span>';
-    } else if (pendingCount > 0) {
-      subtitle = pendingCount + ' High-Conf Pending';
-    } else if (!today.wins && !today.losses && !today.pushes && !all.wins && !all.losses) {
-      subtitle = 'No high-conf history yet';
-    } else {
-      subtitle = 'High-conf record';
-    }
 
     var allTotal = all.wins + all.losses; // pushes excluded from pct
     var winPct = allTotal > 0 ? Math.round((all.wins / allTotal) * 100) : 0;
     var pctClass = allTotal === 0 ? 'prs-pct-even' : (winPct >= 55 ? 'prs-pct-good' : winPct < 50 ? 'prs-pct-bad' : 'prs-pct-even');
 
-    var todayHas = today.wins || today.losses || today.pushes;
-    var todayStr = todayHas
-      ? '<span class="prs-w">' + today.wins + '</span>–<span class="prs-l">' + today.losses + '</span>' + (today.pushes ? '–<span class="prs-p">' + today.pushes + '</span>' : '')
-      : '—';
-
-    var allHas = all.wins || all.losses;
-    var allStr = allHas
+    var allHas = all.wins || all.losses || all.pushes;
+    var recordStr = allHas
       ? '<span class="prs-w">' + all.wins + '</span>–<span class="prs-l">' + all.losses + '</span>' + (all.pushes ? '–<span class="prs-p">' + all.pushes + '</span>' : '')
       : '—';
+    var pctStr = (all.wins || all.losses) ? '<span class="' + pctClass + '">' + winPct + '%</span>' : '';
 
-    var pctStr = allHas ? '<span class="' + pctClass + '">' + winPct + '%</span>' : '—';
+    // Short status line: live > pending > record summary > empty.
+    var statusStr;
+    if (liveCount > 0)        statusStr = '<span class="prs-live-pip">● ' + liveCount + ' live</span>';
+    else if (pendingCount > 0) statusStr = pendingCount + ' pending';
+    else if (!allHas)          statusStr = 'No record yet';
+    else                       statusStr = allTotal + ' graded';
 
-    // Allow clicks only when there is history to show
-    var clickable = (today.wins + today.losses + today.pushes + all.wins + all.losses + all.pushes) > 0;
-    var emptyAttr = clickable ? '' : ' data-empty="1"';
-    var clickHandler = clickable ? ' onclick="openPickHistory(\'' + (sportId || '') + '\', ' + (isOverall ? 'true' : 'false') + ')"' : '';
+    var clickable = (all.wins + all.losses + all.pushes) > 0;
 
-    el.className = 'picks-record-strip' + (isOverall ? ' is-overall' : '');
-    // Set the --winpct custom property via the proper CSSStyleDeclaration API.
-    // Using setAttribute('style', ...) to write a CSS variable is unreliable
-    // and also wiped anytime other style changes happen.
+    el.className = 'picks-record-strip-simple' + (isOverall ? ' is-overall' : '');
     el.style.setProperty('--winpct', winPct + '%');
-    if (!clickable) el.setAttribute('data-empty', '1');
-    else el.removeAttribute('data-empty');
-    // Re-attach click by replacing the element's onclick attribute
+    if (!clickable) el.setAttribute('data-empty', '1'); else el.removeAttribute('data-empty');
     el.onclick = clickable ? function() { openPickHistory(sportId || '', !!isOverall); } : null;
 
+    // ONE clean line: sport name · record · hit rate · status · (view)
     el.innerHTML =
-      '<div class="prs-cell-title">' +
-        '<div class="prs-title-main">' + esc(titleMain) + '</div>' +
-        '<div class="prs-title-sub">' + subtitle + '</div>' +
-      '</div>' +
-      '<div class="prs-cell">' +
-        '<div class="prs-cell-label">Today</div>' +
-        '<div class="prs-cell-value">' + todayStr + '</div>' +
-        '<div class="prs-cell-sub">W–L' + (today.pushes ? '–P' : '') + '</div>' +
-      '</div>' +
-      '<div class="prs-cell">' +
-        '<div class="prs-cell-label">All-time</div>' +
-        '<div class="prs-cell-value">' + allStr + '</div>' +
-        '<div class="prs-cell-sub">W–L' + (all.pushes ? '–P' : '') + '</div>' +
-      '</div>' +
-      '<div class="prs-cell">' +
-        '<div class="prs-cell-label">Hit Rate</div>' +
-        '<div class="prs-cell-value">' + pctStr + '</div>' +
-        '<div class="prs-cell-sub">' + (allTotal > 0 ? allTotal + ' high-conf graded' : 'high conf only') + '</div>' +
-      '</div>' +
-      (clickable ? '<div class="prs-expand">View <span class="prs-expand-chev">▸</span></div>' : '');
+      '<div class="prs2-name">' + esc(titleMain) + '</div>' +
+      '<div class="prs2-record">' + recordStr + '</div>' +
+      (pctStr ? '<div class="prs2-pct">' + pctStr + '</div>' : '<div class="prs2-pct"></div>') +
+      '<div class="prs2-status">' + statusStr + '</div>' +
+      (clickable ? '<div class="prs2-view">View ›</div>' : '<div class="prs2-view"></div>');
   }
 
   // Back-compat wrapper so other call sites don't break.
