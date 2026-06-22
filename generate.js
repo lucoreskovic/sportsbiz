@@ -2695,9 +2695,29 @@ async function main() {
     }
     try {
       const newPicks = await generatePicks();
-      // Carry the grade queue alongside today's slate so results are never lost.
       clustered.picks = newPicks.concat(gradeQueue);
       console.log('Picks: ' + newPicks.length + ' new, ' + gradeQueue.length + ' awaiting grade');
+      // CRITICAL: generatePicks() can return an EMPTY array without throwing
+      // (e.g. the AI stage found no edge, or odds came back thin). That is NOT
+      // an error, so the catch below never fires — yet the board would still be
+      // empty. So: whenever we have zero RENDERABLE picks, run the deterministic
+      // market-fill from real bookmaker lines so every sport playing today gets
+      // picks. This is the missing path that left the page blank for days.
+      var renderableCount = clustered.picks.filter(function(p){ return !p._pendingGrade; }).length;
+      if (renderableCount === 0) {
+        console.log('[picks] generation returned 0 renderable picks — running market-fill fallback');
+        try {
+          const fills = await topUpMarketFills(clustered.picks);
+          if (fills.length > 0) {
+            clustered.picks = clustered.picks.concat(fills);
+            console.log('[picks] market-fill produced ' + fills.length + ' real-line picks');
+          } else {
+            console.log('[picks] market-fill produced 0 (no games with lines in window today)');
+          }
+        } catch (eFill) {
+          console.warn('[picks] market-fill fallback failed (non-fatal):', eFill.message);
+        }
+      }
     } catch (e) {
       // Picks generation is the most failure-prone stage (3 Claude calls + odds
       // + web searches). If it throws, DO NOT abort the whole run — keep the
