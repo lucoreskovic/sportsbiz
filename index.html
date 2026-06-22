@@ -4467,6 +4467,19 @@
   // Live ESPN injuries cache (fetched on demand, refreshed each desk open).
   var _liveInjuries = null;
   var _liveInjuriesTs = 0;
+  // Injury Desk filter state (sport + status). Persisted across re-renders so
+  // changing a dropdown re-filters the already-fetched set without re-fetching
+  // ESPN. _injuryDeskAll holds the full merged set the dropdowns filter against.
+  var _injuryDeskAll = [];
+  var _injuryFilterSport = 'ALL';
+  var _injuryFilterStatus = 'ALL';
+  function onInjuryFilterChange() {
+    var sportSel  = document.getElementById('injury-filter-sport');
+    var statusSel = document.getElementById('injury-filter-status');
+    if (sportSel)  _injuryFilterSport  = sportSel.value;
+    if (statusSel) _injuryFilterStatus = statusSel.value;
+    renderInjuryDeskRows(document.getElementById('main-feed'), _injuryDeskAll, false);
+  }
   async function fetchLiveInjuries() {
     if (_liveInjuries && Date.now() - _liveInjuriesTs < 10 * 60 * 1000) return _liveInjuries;
     var leagues = [
@@ -4558,6 +4571,10 @@
       return;
     }
 
+    // Keep the full merged set so the dropdown handlers can re-filter without
+    // re-fetching ESPN.
+    _injuryDeskAll = rows;
+
     // Status -> color/label/order. OUT-tier injuries lead because they have the
     // biggest line-moving impact; soft statuses follow.
     var STATUS_META = {
@@ -4569,51 +4586,123 @@
       RETURNING:     { label: 'Returning',     color: '#23a36a', bg: 'rgba(35,163,106,.10)', ord: 6 }
     };
 
-    var sorted = rows.slice().sort(function(a, b) {
+    function escSafe(s) { return esc(s || ''); }
+
+    // ─── Filter option lists ───────────────────────────────────────────────
+    // Built from the FULL set (not the filtered one) so each dropdown always
+    // offers every sport/status that exists in the data, whatever is selected.
+    var SPORT_ORDER = ['MLB','NBA','NFL','NHL','WNBA','MLS','NCAAF','NCAAB','SOCCER'];
+    var sportsPresent = [];
+    rows.forEach(function(r){
+      var s = String(r.league || '').toUpperCase();
+      if (s && sportsPresent.indexOf(s) === -1) sportsPresent.push(s);
+    });
+    sportsPresent.sort(function(a, b){
+      var ia = SPORT_ORDER.indexOf(a); if (ia === -1) ia = 99;
+      var ib = SPORT_ORDER.indexOf(b); if (ib === -1) ib = 99;
+      if (ia !== ib) return ia - ib;
+      return a < b ? -1 : a > b ? 1 : 0;
+    });
+    var statusesPresent = [];
+    rows.forEach(function(r){
+      if (r.status && statusesPresent.indexOf(r.status) === -1) statusesPresent.push(r.status);
+    });
+    statusesPresent.sort(function(a, b){
+      var oa = (STATUS_META[a] && STATUS_META[a].ord) || 99;
+      var ob = (STATUS_META[b] && STATUS_META[b].ord) || 99;
+      return oa - ob;
+    });
+
+    // If a previously chosen filter no longer exists after a data refresh,
+    // quietly fall back to ALL so the desk never goes blank by accident.
+    if (_injuryFilterSport  !== 'ALL' && sportsPresent.indexOf(_injuryFilterSport)   === -1) _injuryFilterSport  = 'ALL';
+    if (_injuryFilterStatus !== 'ALL' && statusesPresent.indexOf(_injuryFilterStatus) === -1) _injuryFilterStatus = 'ALL';
+
+    // Apply both active filters.
+    var filtered = rows.filter(function(r){
+      if (_injuryFilterSport  !== 'ALL' && String(r.league || '').toUpperCase() !== _injuryFilterSport)  return false;
+      if (_injuryFilterStatus !== 'ALL' && r.status !== _injuryFilterStatus) return false;
+      return true;
+    });
+
+    var sorted = filtered.slice().sort(function(a, b) {
       var aMeta = STATUS_META[a.status] || { ord: 99 };
       var bMeta = STATUS_META[b.status] || { ord: 99 };
       return aMeta.ord - bMeta.ord;
     });
 
-    function escSafe(s) { return esc(s || ''); }
+    // ─── Dropdown markup ───────────────────────────────────────────────────
+    // Native <select> arrow is kept for cross-browser reliability on the dark
+    // theme; only the box itself is restyled to match the cards.
+    var selStyle = "background:var(--surface);color:var(--ink);border:1px solid var(--rule-strong);" +
+      "border-radius:6px;padding:7px 12px;font-size:12px;font-family:'JetBrains Mono',monospace;" +
+      "letter-spacing:.03em;cursor:pointer;outline:none;";
+    var sportOpts = '<option value="ALL"' + (_injuryFilterSport === 'ALL' ? ' selected' : '') + '>All Sports</option>' +
+      sportsPresent.map(function(s){
+        return '<option value="' + escSafe(s) + '"' + (_injuryFilterSport === s ? ' selected' : '') + '>' + escSafe(s) + '</option>';
+      }).join('');
+    var statusOpts = '<option value="ALL"' + (_injuryFilterStatus === 'ALL' ? ' selected' : '') + '>All Statuses</option>' +
+      statusesPresent.map(function(s){
+        var lbl = (STATUS_META[s] && STATUS_META[s].label) || s;
+        return '<option value="' + escSafe(s) + '"' + (_injuryFilterStatus === s ? ' selected' : '') + '>' + escSafe(lbl) + '</option>';
+      }).join('');
+    var controls =
+      '<div style="display:flex;gap:10px;flex-wrap:wrap;align-items:center;margin:14px 0 2px;">' +
+        '<span style="font-size:10px;color:var(--ink-3);font-family:JetBrains Mono,monospace;letter-spacing:.12em;">FILTER</span>' +
+        '<select id="injury-filter-sport" onchange="onInjuryFilterChange()" style="' + selStyle + '">' + sportOpts + '</select>' +
+        '<select id="injury-filter-status" onchange="onInjuryFilterChange()" style="' + selStyle + '">' + statusOpts + '</select>' +
+      '</div>';
 
-    var cards = sorted.map(function(inj) {
-      var meta = STATUS_META[inj.status] || { label: inj.status || 'Unknown', color: 'var(--ink-3)', bg: 'var(--surface-2)' };
-      return '' +
-        '<div style="border:1px solid var(--rule);border-radius:8px;padding:16px;background:var(--surface);">' +
-          '<div style="display:flex;justify-content:space-between;align-items:flex-start;gap:12px;margin-bottom:10px;">' +
-            '<div>' +
-              '<div style="font-size:11px;color:var(--ink-3);letter-spacing:.08em;font-family:JetBrains Mono,monospace;margin-bottom:4px;">' +
-                escSafe(inj.league) + ' · ' + escSafe(inj.team) +
+    var cardsHtml;
+    if (!sorted.length) {
+      cardsHtml = '<div style="border:1px solid var(--rule);border-radius:8px;padding:20px;background:var(--surface);' +
+        'color:var(--ink-3);font-size:13px;line-height:1.5;">No tracked injuries match this filter right now. ' +
+        'Try widening the sport or status.</div>';
+    } else {
+      cardsHtml = sorted.map(function(inj) {
+        var meta = STATUS_META[inj.status] || { label: inj.status || 'Unknown', color: 'var(--ink-3)', bg: 'var(--surface-2)' };
+        return '' +
+          '<div style="border:1px solid var(--rule);border-radius:8px;padding:16px;background:var(--surface);">' +
+            '<div style="display:flex;justify-content:space-between;align-items:flex-start;gap:12px;margin-bottom:10px;">' +
+              '<div>' +
+                '<div style="font-size:11px;color:var(--ink-3);letter-spacing:.08em;font-family:JetBrains Mono,monospace;margin-bottom:4px;">' +
+                  escSafe(inj.league) + ' · ' + escSafe(inj.team) +
+                '</div>' +
+                '<div style="font-size:18px;font-weight:700;color:var(--ink-1);line-height:1.2;">' + escSafe(inj.player) + '</div>' +
               '</div>' +
-              '<div style="font-size:18px;font-weight:700;color:var(--ink-1);line-height:1.2;">' + escSafe(inj.player) + '</div>' +
+              '<div style="background:' + meta.bg + ';color:' + meta.color + ';padding:4px 10px;border-radius:4px;' +
+                    'font-size:10px;font-weight:700;letter-spacing:.08em;white-space:nowrap;font-family:JetBrains Mono,monospace;">' +
+                escSafe(meta.label).toUpperCase() +
+              '</div>' +
             '</div>' +
-            '<div style="background:' + meta.bg + ';color:' + meta.color + ';padding:4px 10px;border-radius:4px;' +
-                  'font-size:10px;font-weight:700;letter-spacing:.08em;white-space:nowrap;font-family:JetBrains Mono,monospace;">' +
-              escSafe(meta.label).toUpperCase() +
+            '<div style="display:flex;gap:24px;font-size:13px;color:var(--ink-2);margin-bottom:10px;flex-wrap:wrap;">' +
+              '<div><span style="color:var(--ink-3);font-size:11px;">INJURY</span><br>' + escSafe(inj.injury) + '</div>' +
+              (inj.timeline ? '<div><span style="color:var(--ink-3);font-size:11px;">TIMELINE</span><br>' + escSafe(inj.timeline) + '</div>' : '') +
             '</div>' +
-          '</div>' +
-          '<div style="display:flex;gap:24px;font-size:13px;color:var(--ink-2);margin-bottom:10px;flex-wrap:wrap;">' +
-            '<div><span style="color:var(--ink-3);font-size:11px;">INJURY</span><br>' + escSafe(inj.injury) + '</div>' +
-            (inj.timeline ? '<div><span style="color:var(--ink-3);font-size:11px;">TIMELINE</span><br>' + escSafe(inj.timeline) + '</div>' : '') +
-          '</div>' +
-          (inj.impact ? '<div style="font-size:13px;color:var(--ink-1);line-height:1.5;padding:10px 12px;background:var(--surface-2);border-left:2px solid ' + meta.color + ';margin-bottom:10px;">' +
-            escSafe(inj.impact) +
-          '</div>' : '') +
-          (inj.source ? '<div style="font-size:11px;color:var(--ink-3);font-family:JetBrains Mono,monospace;">via ' + escSafe(inj.source) + '</div>' : '') +
-        '</div>';
-    }).join('');
+            (inj.impact ? '<div style="font-size:13px;color:var(--ink-1);line-height:1.5;padding:10px 12px;background:var(--surface-2);border-left:2px solid ' + meta.color + ';margin-bottom:10px;">' +
+              escSafe(inj.impact) +
+            '</div>' : '') +
+            (inj.source ? '<div style="font-size:11px;color:var(--ink-3);font-family:JetBrains Mono,monospace;">via ' + escSafe(inj.source) + '</div>' : '') +
+          '</div>';
+      }).join('');
+    }
+
+    var filtersActive = (_injuryFilterSport !== 'ALL' || _injuryFilterStatus !== 'ALL');
+    var countTxt = filtersActive
+      ? (sorted.length + ' of ' + rows.length + ' shown.')
+      : (rows.length + ' player' + (rows.length === 1 ? '' : 's') + ' tracked.');
 
     feed.innerHTML =
       '<div style="max-width:860px;">' +
-        '<div style="margin-bottom:16px;">' +
+        '<div style="margin-bottom:4px;">' +
           '<div style="font-size:11px;color:var(--ink-3);letter-spacing:.10em;font-family:JetBrains Mono,monospace;margin-bottom:4px;">SPORTSBIZNOW! INTELLIGENCE</div>' +
           '<h2 style="margin:0;font-size:22px;font-weight:800;">Injury Desk</h2>' +
           '<div style="font-size:13px;color:var(--ink-3);margin-top:6px;">Current injuries across the major leagues (live from ESPN + today\'s wire), ranked by status severity. ' +
-            sorted.length + ' player' + (sorted.length === 1 ? '' : 's') + ' tracked.' +
+            countTxt +
           '</div>' +
         '</div>' +
-        '<div style="display:grid;gap:12px;">' + cards + '</div>' +
+        controls +
+        '<div style="display:grid;gap:12px;margin-top:10px;">' + cardsHtml + '</div>' +
       '</div>';
   }
 
