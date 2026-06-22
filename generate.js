@@ -2685,6 +2685,20 @@ async function main() {
       // refresh retry. This is what kept freezing the entire site.
       console.error('[picks] generation FAILED, preserving existing picks and continuing:', e.message);
       clustered.picks = storedFreshPicks.concat(gradeQueue);
+      // FALLBACK: generation died, but the sports playing today still deserve
+      // picks. Build them deterministically from real bookmaker lines (no Claude
+      // calls, same validity guarantees — real line + real near-future game).
+      // This is what keeps the board populated on a day the AI stage fails,
+      // instead of leaving it empty.
+      try {
+        const fillFallback = await topUpMarketFills(clustered.picks);
+        if (fillFallback.length > 0) {
+          clustered.picks = clustered.picks.concat(fillFallback);
+          console.log('[picks] fallback market-fill after generation failure: +' + fillFallback.length + ' real-line picks');
+        }
+      } catch (e2) {
+        console.warn('[picks] fallback market-fill also failed (non-fatal):', e2.message);
+      }
     }
   } else {
     // Off-cycle run: keep the still-fresh picks already on disk so the site
