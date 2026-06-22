@@ -175,13 +175,22 @@
   .ticker-inner {
     display: inline-block;
     animation: ticker 120s linear infinite;
+    /* iOS Safari stalls/blacks-out marquees that mix vw and % units and lack
+       compositing hints. Force GPU compositing and use translate3d so the
+       scroll stays smooth and never freezes when the address bar moves. */
+    will-change: transform;
+    transform: translate3d(0,0,0);
+    backface-visibility: hidden;
     font-family: 'JetBrains Mono', monospace;
     font-size: 10px;
     color: rgba(255,255,255,0.85);
     letter-spacing: .04em;
   }
   .ticker-inner .ticker-sep { color: var(--accent); margin: 0 10px; font-weight: 600; }
-  @keyframes ticker { 0% { transform: translateX(100vw); } 100% { transform: translateX(-100%); } }
+  @keyframes ticker {
+    0%   { transform: translate3d(100%,0,0); }
+    100% { transform: translate3d(-100%,0,0); }
+  }
   .toolbar { display: flex; align-items: center; justify-content: space-between; padding: 12px 24px; border-bottom: 1px solid var(--rule); background: var(--surface); }
   .updated-label { font-family: 'JetBrains Mono', monospace; font-size: 10px; color: var(--ink-3); letter-spacing: .04em; }
   .refresh-btn {
@@ -260,11 +269,15 @@
        stat cells (Today / All-Time / Hit Rate) sit in a tidy row beneath it.
        The desktop min-width:150px and right-border on the title were fighting
        the 100% width on a narrow screen and squashing the strip — reset them. */
-    .picks-record-strip-simple { padding: 11px 13px; gap: 10px; margin-bottom: 10px; flex-wrap: wrap; }
-    .prs2-name { min-width: 78px; font-size: 10px; }
-    .prs2-record { font-size: 18px; }
-    .prs2-pct { font-size: 15px; }
-    .prs2-status { font-size: 9px; }
+    /* Record strip on phone: keep it a single readable row that never hides the
+       record or hit-rate. Name + record + % share the top line; status/View
+       wrap to a compact second line only if needed. */
+    .picks-record-strip-simple { padding: 11px 13px; gap: 8px 10px; margin-bottom: 10px; flex-wrap: wrap; align-items: center; }
+    .prs2-name { min-width: 0; flex: 1 1 auto; font-size: 11px; }
+    .prs2-record { font-size: 18px; flex: 0 0 auto; }
+    .prs2-pct { font-size: 16px; flex: 0 0 auto; }
+    .prs2-status { font-size: 9px; flex: 1 1 100%; order: 5; margin-top: 2px; }
+    .prs2-view { font-size: 9px; flex: 0 0 auto; }
     .prs-cell-title {
       flex: 1 1 100%;
       min-width: 0;
@@ -2127,8 +2140,24 @@
             if (!home || !away) return;
             var clock = (ev.status.displayClock || '');
             var per = ev.status.period;
-            var meta = ev.status.type.shortDetail ||
-                       ((per ? (l.id==='mlb'?'':'Q'+per+' ') : '') + clock) || 'LIVE';
+            var isSoccerLg = ['epl','laliga','bundesliga','seriea','ligue1','ucl','mls','worldcup'].indexOf(l.id) !== -1;
+            // Prefer ESPN's own shortDetail (already correct: "1st Half", "Bot 3rd",
+            // "Q2 5:31"). Only build our own label if it's missing, and make it
+            // sport-correct: soccer = halves, hockey = periods, basketball/football
+            // = quarters, baseball = inning text.
+            var meta = ev.status.type.shortDetail;
+            if (!meta) {
+              if (isSoccerLg) {
+                meta = (per === 1 ? '1st Half' : per === 2 ? '2nd Half' : 'Live') + (clock ? ' ' + clock : '');
+              } else if (l.id === 'nhl') {
+                meta = (per ? per + (per===1?'st':per===2?'nd':per===3?'rd':'th') + ' Period ' : '') + clock;
+              } else if (l.id === 'mlb') {
+                meta = clock || 'Live';
+              } else {
+                meta = (per ? 'Q' + per + ' ' : '') + clock;
+              }
+              meta = meta.trim() || 'LIVE';
+            }
             live.push({
               league: l.label, leagueId: l.id, cacheKey: l.id + ':' + (scoresActiveDate||''),
               id: ev.id,
@@ -6204,7 +6233,12 @@
         if (isFinalState()) {
           statusTxt = (status.type && status.type.shortDetail) || 'Final';
         } else if (isLiveState()) {
-          if (/halftime/.test(rawStatus) || stateType === 'STATUS_HALFTIME') {
+          // ESPN's shortDetail is already sport-correct ("1st Half", "Bot 3rd",
+          // "Q2 5:31", "P2 12:04"). Use it directly; only fall back to a built
+          // label when it's absent.
+          if (status.type && status.type.shortDetail) {
+            statusTxt = status.type.shortDetail;
+          } else if (/halftime/.test(rawStatus) || stateType === 'STATUS_HALFTIME') {
             statusTxt = 'HT';
           } else if (status.displayClock && !status.period) {
             statusTxt = status.displayClock; // soccer minute
