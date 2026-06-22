@@ -256,14 +256,24 @@
     /* Headlines and body type, scaled for a narrow column. */
     .lead-headline { font-size: 19px; line-height: 1.2; }
 
-    /* Record strips: stack the label and let the stat cells share a row so a
-       wide 4-column strip doesn't overflow off-screen. */
-    .picks-record-strip { min-height: 0; padding: 4px 0; }
-    .prs-cell-title { flex: 1 1 100%; padding: 10px 14px 6px; }
-    .prs-cell { flex: 1 1 0; min-width: 0; padding: 8px 10px; }
+    /* Record strips: the title becomes its own full-width row, then the three
+       stat cells (Today / All-Time / Hit Rate) sit in a tidy row beneath it.
+       The desktop min-width:150px and right-border on the title were fighting
+       the 100% width on a narrow screen and squashing the strip — reset them. */
+    .picks-record-strip { min-height: 0; padding: 0; }
+    .prs-cell-title {
+      flex: 1 1 100%;
+      min-width: 0;
+      border-right: none;
+      border-bottom: 1px solid var(--rule);
+      padding: 12px 14px 8px;
+    }
+    .prs-cell { flex: 1 1 0; min-width: 0; padding: 10px 8px; }
     .prs-cell-value { font-size: 15px; }
     .prs-cell-sub { font-size: 9px; }
-    .prs-expand { padding: 8px 14px; }
+    .prs-title-main { font-size: 12px; }
+    /* VIEW expander drops to its own full-width tappable row. */
+    .prs-expand { flex: 1 1 100%; border-top: 1px solid var(--rule); padding: 10px 14px; text-align: center; }
 
     /* Pick history modal: full-bleed on phone. */
     .ph-header { padding: 16px; gap: 10px; }
