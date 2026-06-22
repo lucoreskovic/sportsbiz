@@ -399,6 +399,20 @@
   }
   .sidebar { display: flex; flex-direction: column; }
   .sidebar-section { margin-bottom: 22px; }
+  .live-dot { color: var(--red, #ff5f5f); animation: sblivepulse 1.4s infinite; font-size: 9px; vertical-align: middle; }
+  @keyframes sblivepulse { 0%,100% { opacity: 1; } 50% { opacity: 0.3; } }
+  .sb-live-card {
+    display: block; padding: 9px 11px; margin-bottom: 6px;
+    background: var(--surface); border: 1px solid var(--rule);
+    border-left: 2px solid var(--red, #ff5f5f);
+    border-radius: 5px; cursor: pointer; transition: border-color .12s;
+  }
+  .sb-live-card:hover { border-color: var(--accent); }
+  .sb-live-row { display: flex; justify-content: space-between; align-items: baseline; gap: 8px; font-family: 'Inter', sans-serif; }
+  .sb-live-team { font-size: 13px; color: var(--ink); }
+  .sb-live-score { font-family: 'Archivo', sans-serif; font-size: 14px; font-weight: 800; color: var(--ink); }
+  .sb-live-meta { font-family: 'JetBrains Mono', monospace; font-size: 9px; color: var(--red, #ff5f5f); font-weight: 700; margin-top: 4px; letter-spacing: .04em; }
+  .sb-live-league { font-family: 'JetBrains Mono', monospace; font-size: 8px; color: var(--ink-3); text-transform: uppercase; letter-spacing: .08em; }
   .sidebar-heading {
     font-family: 'Archivo', sans-serif;
     font-size: 10px; font-weight: 700;
@@ -2023,6 +2037,10 @@
     </div>
   </div>
   <div class="sidebar">
+    <div class="sidebar-section" id="sidebar-live-section" style="display:none">
+      <div class="sidebar-heading"><span class="live-dot">●</span> Live Now</div>
+      <div id="sidebar-live"></div>
+    </div>
     <div class="widget-box">
       <div class="widget-header">
         <span class="widget-title">Today's Poll</span>
@@ -2073,6 +2091,67 @@
   var activeLeague = 'nba';
   var scoresCache = {};
   var scoresActiveDate = null; // YYYY-MM-DD; null = today
+
+  // ── HOMEPAGE LIVE-SCORES SIDEBAR ─────────────────────────────────────────
+  // Scans the core leagues + World Cup for in-progress games and shows them in
+  // a small "Live Now" panel on the All Stories homepage. Robust to ESPN's
+  // status formats (STATUS_IN_PROGRESS / state "in" / lowercase "inprogress").
+  function sbIsLive(ev) {
+    var st = ev && ev.status && ev.status.type;
+    if (!st) return false;
+    if (st.state === 'in') return true;
+    var n = String(st.name || st.id || '').toLowerCase();
+    return /inprogress|in_progress|in-progress|halftime|live/.test(n);
+  }
+  async function renderLiveSidebar() {
+    var sec = document.getElementById('sidebar-live-section');
+    var box = document.getElementById('sidebar-live');
+    if (!sec || !box) return;
+    // Only the leagues most likely to have live games right now — keeps it fast.
+    var scan = ESPN_LEAGUES.filter(function(l){
+      return ['nba','nfl','mlb','nhl','mls','worldcup','epl','ucl'].indexOf(l.id) !== -1;
+    });
+    var live = [];
+    await Promise.all(scan.map(function(l){
+      return fetch(l.url, { signal: AbortSignal.timeout(6000) })
+        .then(function(r){ return r.ok ? r.json() : null; })
+        .then(function(d){
+          if (!d || !Array.isArray(d.events)) return;
+          d.events.forEach(function(ev){
+            if (!sbIsLive(ev)) return;
+            var comp = ev.competitions && ev.competitions[0];
+            if (!comp) return;
+            var teams = comp.competitors || [];
+            var home = teams.find(function(t){return t.homeAway==='home';}) || teams[0];
+            var away = teams.find(function(t){return t.homeAway==='away';}) || teams[1];
+            if (!home || !away) return;
+            var clock = (ev.status.displayClock || '');
+            var per = ev.status.period;
+            var meta = ev.status.type.shortDetail ||
+                       ((per ? (l.id==='mlb'?'':'Q'+per+' ') : '') + clock) || 'LIVE';
+            live.push({
+              league: l.label, leagueId: l.id, cacheKey: l.id + ':' + (scoresActiveDate||''),
+              id: ev.id,
+              a: away.team.abbreviation || away.team.shortDisplayName || '',
+              h: home.team.abbreviation || home.team.shortDisplayName || '',
+              as: parseInt(away.score)||0, hs: parseInt(home.score)||0,
+              meta: meta
+            });
+          });
+        })
+        .catch(function(){});
+    }));
+    if (live.length === 0) { sec.style.display = 'none'; return; }
+    box.innerHTML = live.slice(0, 8).map(function(g){
+      return '<div class="sb-live-card" onclick="if(window.openGameDetail){openGameDetail(\''+g.cacheKey+'\',\''+g.id+'\')}">' +
+        '<div class="sb-live-league">'+g.league+'</div>' +
+        '<div class="sb-live-row"><span class="sb-live-team">'+g.a+'</span><span class="sb-live-score">'+g.as+'</span></div>' +
+        '<div class="sb-live-row"><span class="sb-live-team">'+g.h+'</span><span class="sb-live-score">'+g.hs+'</span></div>' +
+        '<div class="sb-live-meta">● '+g.meta+'</div>' +
+      '</div>';
+    }).join('');
+    sec.style.display = '';
+  }
 
   var TAG = {
     media:     { label:'Media & Broadcast',    cls:'tag-media'     },
@@ -3082,7 +3161,7 @@
       // a real, public tweet from X — we just wrap with our own styling and
       // label. widgets.js enhances the raw <blockquote> into full X cards.
       var tweetsHtml = '';
-      var tweets = Array.isArray(c.tweets) ? c.tweets : [];
+      var tweets = (Array.isArray(c.tweets) ? c.tweets : []).slice(0, 1);
       if (tweets.length > 0) {
         tweetsHtml = '<div class="posts-label"><svg class="x-logo-icon" viewBox="0 0 24 24" fill="currentColor"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-4.714-6.231-5.401 6.231H2.748l7.73-8.835L1.254 2.25H8.08l4.253 5.622L18.244 2.25zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg>Replies from X</div>' +
           '<div class="tweets-list">' +
@@ -6103,18 +6182,36 @@
         var home   = teams.find(function(t){return t.homeAway==='home';}) || teams[0];
         var away   = teams.find(function(t){return t.homeAway==='away';}) || teams[1];
         var status = ev.status;
-        var stateType = status.type.name;
+        var stateType = (status.type && status.type.name) || '';
+        var stateState = (status.type && status.type.state) || '';
+        var rawStatus = String(status.type && (status.type.name || status.type.id) || '').toLowerCase();
+        // Robust live detection: ESPN returns several shapes —
+        // "STATUS_IN_PROGRESS"/"STATUS_HALFTIME" (name), state "in", or a
+        // lowercase "inprogress". Match all of them so live games actually tag.
+        function isLiveState() {
+          if (stateState === 'in') return true;
+          if (['STATUS_IN_PROGRESS','STATUS_HALFTIME','STATUS_END_PERIOD','STATUS_END_OF_INNING'].indexOf(stateType) !== -1) return true;
+          if (/inprogress|in_progress|halftime|in-progress|live/.test(rawStatus)) return true;
+          return false;
+        }
+        function isFinalState() {
+          if (stateState === 'post') return true;
+          if (stateType === 'STATUS_FINAL' || stateType === 'STATUS_FULL_TIME') return true;
+          if (/final|full[-_ ]?time|closed|complete/.test(rawStatus)) return true;
+          return false;
+        }
         var statusTxt, isLive = false;
-        if (stateType === 'STATUS_FINAL' || stateType === 'STATUS_FULL_TIME') {
-          statusTxt = status.type.shortDetail || 'Final';
-        } else if (stateType === 'STATUS_IN_PROGRESS' || stateType === 'STATUS_HALFTIME') {
-          if (stateType === 'STATUS_HALFTIME') {
+        if (isFinalState()) {
+          statusTxt = (status.type && status.type.shortDetail) || 'Final';
+        } else if (isLiveState()) {
+          if (/halftime/.test(rawStatus) || stateType === 'STATUS_HALFTIME') {
             statusTxt = 'HT';
           } else if (status.displayClock && !status.period) {
-            // Soccer: displayClock is the match minute (e.g. "67'")
-            statusTxt = status.displayClock;
+            statusTxt = status.displayClock; // soccer minute
+          } else if (status.displayClock || status.period) {
+            statusTxt = (status.period ? 'Q'+status.period+' ' : '') + (status.displayClock || '');
           } else {
-            statusTxt = status.displayClock ? (status.period ? 'Q'+status.period+' ' : '') + status.displayClock : 'Live';
+            statusTxt = 'Live';
           }
           isLive = true;
         } else {
@@ -6122,14 +6219,16 @@
           statusTxt = d.toLocaleDateString('en-US',{weekday:'short'}) + ' ' +
                       d.toLocaleTimeString('en-US',{hour:'numeric',minute:'2-digit'});
         }
+        var isFinal = isFinalState();
+        var isScheduled = !isLive && !isFinal;
         var hScore = parseInt(home.score) || 0;
         var aScore = parseInt(away.score) || 0;
-        var hWin = (stateType==='STATUS_FINAL' || stateType==='STATUS_FULL_TIME') && hScore > aScore;
-        var aWin = (stateType==='STATUS_FINAL' || stateType==='STATUS_FULL_TIME') && aScore > hScore;
+        var hWin = isFinal && hScore > aScore;
+        var aWin = isFinal && aScore > hScore;
         var hName = home.team.shortDisplayName || home.team.abbreviation || '';
         var aName = away.team.shortDisplayName || away.team.abbreviation || '';
-        var hDisp = stateType==='STATUS_SCHEDULED' ? '' : hScore;
-        var aDisp = stateType==='STATUS_SCHEDULED' ? '' : aScore;
+        var hDisp = isScheduled ? '' : hScore;
+        var aDisp = isScheduled ? '' : aScore;
 
         // Goalscorers with minutes, straight from the scoreboard event's
         // competitions[0].details (no extra fetch). ESPN marks goals with
@@ -6173,6 +6272,9 @@
   setDateline();
   setInterval(setDateline, 60000);
   renderWidget();
+  // Homepage live-scores panel: populate now and refresh every 60s so live
+  // games appear and scores update without a page reload.
+  try { renderLiveSidebar(); setInterval(renderLiveSidebar, 60000); } catch(e) {}
 
   // ─── One-time pick-history reset ──────────────────────────────────────────
   // The pick W-L record lives in each visitor's localStorage. To "reset to 0-0"
