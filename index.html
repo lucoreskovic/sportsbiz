@@ -2020,8 +2020,6 @@
     <button class="subnav-pill active" data-sub="scores"      onclick="filterSub(this,'scores')">Scores</button>
     <button class="subnav-pill"        data-sub="picks"       onclick="filterSub(this,'picks')">Value Picks</button>
     <button class="subnav-pill"        data-sub="injuries"    onclick="filterSub(this,'injuries')">Injury Desk</button>
-    <button class="subnav-pill"        data-sub="prospects"   onclick="filterSub(this,'prospects')">Prospect Lab</button>
-    <button class="subnav-pill"        data-sub="trades"      onclick="filterSub(this,'trades')">Trade Value</button>
     <button class="subnav-pill"        data-sub="highlights"  onclick="filterSub(this,'highlights')">Highlights</button>
     <button class="subnav-pill"        data-sub="predictions" onclick="filterSub(this,'predictions')">Predictions</button>
   </nav>
@@ -3154,8 +3152,6 @@
     else if (activeSub === 'highlights')  renderHighlightsFeed();
     else if (activeSub === 'predictions') renderPredictionsFeed();
     else if (activeSub === 'injuries')    renderInjuryDesk();
-    else if (activeSub === 'prospects')   renderProspectLab();
-    else if (activeSub === 'trades')      renderTradeValue();
     else                                   renderScoresFeed(); // 'scores' is the default
   }
 
@@ -4468,10 +4464,82 @@
   // RETURNING). Each card surfaces the impact line and source so a reader can
   // size the news without leaving the page.
   // ═════════════════════════════════════════════════════════════════════════
-  function renderInjuryDesk() {
-    var feed = document.getElementById('main-feed');
-    var rows = INJURIES || [];
+  // Live ESPN injuries cache (fetched on demand, refreshed each desk open).
+  var _liveInjuries = null;
+  var _liveInjuriesTs = 0;
+  async function fetchLiveInjuries() {
+    if (_liveInjuries && Date.now() - _liveInjuriesTs < 10 * 60 * 1000) return _liveInjuries;
+    var leagues = [
+      { id:'MLB', path:'baseball/mlb' }, { id:'NBA', path:'basketball/nba' },
+      { id:'NFL', path:'football/nfl' }, { id:'NHL', path:'hockey/nhl' }
+    ];
+    var statusMap = {
+      'out':'OUT','injured reserve':'IR','ir':'IR','60-day-il':'IR','15-day-il':'OUT','10-day-il':'OUT',
+      'doubtful':'DOUBTFUL','questionable':'QUESTIONABLE','day-to-day':'DAY_TO_DAY','game-time-decision':'QUESTIONABLE'
+    };
+    var all = [];
+    await Promise.all(leagues.map(function(lg){
+      return fetch('https://site.api.espn.com/apis/site/v2/sports/' + lg.path + '/injuries', { signal: AbortSignal.timeout(7000) })
+        .then(function(r){ return r.ok ? r.json() : null; })
+        .then(function(d){
+          if (!d || !Array.isArray(d.injuries)) return;
+          d.injuries.forEach(function(teamBlock){
+            var teamName = (teamBlock.team && (teamBlock.team.displayName || teamBlock.team.abbreviation)) || '';
+            (teamBlock.injuries || []).forEach(function(it){
+              var ath = it.athlete || {};
+              var statusRaw = String(it.status || (it.type && it.type.description) || '').toLowerCase();
+              var status = statusMap[statusRaw] || (statusRaw.indexOf('out')>=0?'OUT':statusRaw.indexOf('quest')>=0?'QUESTIONABLE':statusRaw.indexOf('doubt')>=0?'DOUBTFUL':'DAY_TO_DAY');
+              var detail = (it.details && (it.details.type || it.details.detail)) || it.shortComment || it.longComment || (it.type && it.type.description) || 'Undisclosed';
+              all.push({
+                league: lg.id,
+                team: teamName,
+                player: ath.displayName || ath.shortName || 'Unknown',
+                status: status,
+                injury: String(detail).slice(0, 80),
+                timeline: (it.details && it.details.returnDate) ? ('Est. return ' + it.details.returnDate) : '',
+                impact: it.longComment ? String(it.longComment).slice(0, 220) : (it.shortComment ? String(it.shortComment).slice(0,220) : ''),
+                source: 'ESPN'
+              });
+            });
+          });
+        })
+        .catch(function(){});
+    }));
+    _liveInjuries = all;
+    _liveInjuriesTs = Date.now();
+    return all;
+  }
 
+  async function renderInjuryDesk() {
+    var feed = document.getElementById('main-feed');
+    var rows = (INJURIES || []).slice();
+    renderInjuryDeskRows(feed, rows, true);
+    try {
+      var live = await fetchLiveInjuries();
+      if (live && live.length) {
+        var seen = {};
+        rows.forEach(function(r){ seen[(r.player||'').toLowerCase()] = true; });
+        live.forEach(function(r){
+          var k = (r.player||'').toLowerCase();
+          if (!seen[k]) { rows.push(r); seen[k] = true; }
+        });
+      }
+    } catch(e) {}
+    renderInjuryDeskRows(feed, rows, false);
+  }
+
+  function renderInjuryDeskRows(feed, rows, loading) {
+    if (!rows.length && loading) {
+      feed.innerHTML =
+        '<div style="max-width:860px;">' +
+          '<div style="margin-bottom:16px;">' +
+            '<div style="font-size:11px;color:var(--ink-3);letter-spacing:.10em;font-family:JetBrains Mono,monospace;margin-bottom:4px;">SPORTSBIZNOW! INTELLIGENCE</div>' +
+            '<h2 style="margin:0;font-size:22px;font-weight:800;">Injury Desk</h2>' +
+            '<div style="font-size:13px;color:var(--ink-3);margin-top:6px;">Loading current injuries across the major leagues…</div>' +
+          '</div>' +
+        '</div>';
+      return;
+    }
     if (!rows.length) {
       feed.innerHTML =
         '<div style="max-width:860px;">' +
@@ -4541,7 +4609,7 @@
         '<div style="margin-bottom:16px;">' +
           '<div style="font-size:11px;color:var(--ink-3);letter-spacing:.10em;font-family:JetBrains Mono,monospace;margin-bottom:4px;">SPORTSBIZNOW! INTELLIGENCE</div>' +
           '<h2 style="margin:0;font-size:22px;font-weight:800;">Injury Desk</h2>' +
-          '<div style="font-size:13px;color:var(--ink-3);margin-top:6px;">Confirmed injuries from today\'s wire, ranked by status severity. ' +
+          '<div style="font-size:13px;color:var(--ink-3);margin-top:6px;">Current injuries across the major leagues (live from ESPN + today\'s wire), ranked by status severity. ' +
             sorted.length + ' player' + (sorted.length === 1 ? '' : 's') + ' tracked.' +
           '</div>' +
         '</div>' +
