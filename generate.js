@@ -460,7 +460,13 @@ ${prevLeadsBlock}
 
 For each cluster return:
 - importance: integer 1-10. 10 = "this is THE story of the day, every major sports outlet is leading with it." 7-8 = "front-page worthy, would be on most outlets' homepage." 4-6 = "solid news, of interest to industry readers." 1-3 = "minor but worth tracking." Use the full range honestly — most days have one 8-10 lead, two or three 5-7 mid-tier, and the rest lower.
-  IMPORTANCE CALIBRATION (be strict, this sets the lead story): On-field history and marquee events outrank niche business items. A major record broken (e.g. an all-time scoring record), a championship result, a blockbuster trade or signing of a star, or a result in a marquee event (World Cup, Finals, a major) is an 8-10. A financial/investment story in a smaller or developing league (e.g. a new investment in a niche league, a mid-market sponsorship) is typically a 5-6 even if the dollar figure is large — it is industry-interesting but is NOT the story of the day. When in doubt, ask: "would ESPN/BBC lead their homepage with this?" If not, it is not a 9-10. Do NOT inflate a niche-league business story to the top slot over a genuine marquee sporting moment.
+  IMPORTANCE CALIBRATION (be strict, this sets the lead story):
+  • A MAJOR LIVE EVENT HAPPENING NOW is the lead, full stop. While the FIFA World Cup, an Olympics, the NBA/Stanley Cup Finals, or a major championship is in progress, results, records, and standout performances from it are 9-10 and should LEAD the page. The World Cup is the biggest sporting event on earth — when it is on, a World Cup result/record (e.g. "Messi makes World Cup history") leads over almost anything else.
+  • On-field history (records, championships, marquee results) = 8-10.
+  • A blockbuster STAR signing/trade can be 8 ONLY if genuinely league-altering (a top-10 player changing teams, a record-shattering contract that reshapes the league). A normal big-money contract is a 5-6.
+  • DEPRIORITIZE routine business/league-governance news: contract signings, draft-lottery mechanics, sponsorship/investment deals, front-office moves. These are 4-6 and should NOT lead unless genuinely groundbreaking (a franchise relocating, a league folding, a CBA/lockout, a multi-billion-dollar media deal that changes the sport). A $200M contract or a niche-league investment is NOT a lead story when a marquee event is live.
+  • Test: "would ESPN/BBC lead their homepage with this RIGHT NOW, with the World Cup on?" If not, it is not a 9-10.
+  Do NOT inflate contract/draft/business stories to the top slot over a live marquee sporting moment. When the World Cup is active and there's a World Cup story available, it should almost always be the lead.
 - category: "media" | "contracts" | "leagues" | "revenue" | "labor"
 - leadHeadline: exact title from a source story (copy verbatim)
 - leadSource: exact source name from the [index] prefix + " · Xh ago"
@@ -1079,18 +1085,24 @@ Return ONLY valid JSON with no prose:
   // higher search budget and explicit instruction to return the single best
   // current tweet. Still real-and-relevant only — if this also finds nothing,
   // we accept zero rather than force junk.
-  const lead = clusters[0];
-  if (lead && (!lead.tweets || lead.tweets.length === 0)) {
+  // Guarantee a thread on the lead story (and try the next two as bonus). If
+  // the main pass left cluster[0] empty, retry it hard; if that succeeds we're
+  // done, otherwise try [1] and [2] so the page reliably carries SOME thread.
+  const retryTargets = clusters.slice(0, 3).filter(c => c && (!c.tweets || c.tweets.length === 0));
+  let retriesUsed = 0;
+  for (const target of retryTargets) {
+    if (target !== clusters[0] && clusters[0].tweets && clusters[0].tweets.length > 0 && retriesUsed >= 2) break;
+    retriesUsed++;
     try {
-      console.log('[tweets] lead story has no tweet — running focused retry for: ' + lead.leadHeadline);
-      const focusPrompt = `Find ONE real, current public tweet (X post) about this specific sports story, posted in the last ~4 days:\n\n"${lead.leadHeadline}"${lead.summary ? '\n' + String(lead.summary).slice(0,200) : ''}\n\nUse web_search aggressively. Try: the key people/orgs/teams named + the event; the beat reporter or league/team handle; the publication that broke it (Front Office Sports @FrontOfficeSport, Sportico @SporticoUSA, ESPN, The Athletic). Look for x.com or twitter.com /status/ links in results.\n\nReturn ONLY the single most relevant, most recent tweet URL you actually saw, as JSON: {"url":"https://twitter.com/.../status/..."} — or {"url":null} if you genuinely cannot find a real, on-topic, recent one. Never fabricate a URL.`;
+      console.log('[tweets] focused retry for: ' + target.leadHeadline);
+      const focusPrompt = `Find ONE real, current public tweet (X post) about this specific sports story, posted in the last ~4 days:\n\n"${target.leadHeadline}"${target.summary ? '\n' + String(target.summary).slice(0,200) : ''}\n\nUse web_search aggressively (you have several searches). Strategy in priority order:\n1. The OFFICIAL account most likely to have posted it + a keyword — e.g. for World Cup: @FIFAWorldCup, @fifaworldcup_en, @ESPNFC, the national team accounts (@Argentina, @afaseleccion); for NBA: @NBA, the team account; for a league/business story: @FrontOfficeSport, @SporticoUSA, @TheAthletic.\n2. The beat reporter who covers it + the event.\n3. The key people/teams named + the event, looking for x.com or twitter.com /status/ links in the results.\nOfficial league/team/event accounts almost always post about major moments — find their tweet about THIS story.\n\nReturn ONLY the single most relevant, most recent tweet URL you actually saw, as JSON: {"url":"https://twitter.com/.../status/..."} — or {"url":null} if you genuinely cannot find a real, on-topic, recent one. Never fabricate a URL.`;
       const r = await fetch('https://api.anthropic.com/v1/messages', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json', 'x-api-key': process.env.ANTHROPIC_API_KEY, 'anthropic-version': '2023-06-01' },
         body: JSON.stringify({
           model: 'claude-haiku-4-5-20251001',
           max_tokens: 1000,
-          tools: [{ type: 'web_search_20250305', name: 'web_search', max_uses: 6 }],
+          tools: [{ type: 'web_search_20250305', name: 'web_search', max_uses: 8 }],
           messages: [{ role: 'user', content: focusPrompt }],
         }),
       });
@@ -1104,19 +1116,20 @@ Return ONLY valid JSON with no prose:
           if (url && tweetUrlRegex.test(url)) {
             const resolved = await fetchTweetData(url);
             if (resolved && tweetIsFresh(resolved)) {
-              if (!Array.isArray(lead.tweets)) lead.tweets = [];
-              lead.tweets.push(resolved);
-              console.log('[tweets] lead-story retry SUCCESS: ' + resolved.url);
+              if (!Array.isArray(target.tweets)) target.tweets = [];
+              target.tweets.push(resolved);
+              console.log('[tweets] retry SUCCESS for "' + target.leadHeadline.slice(0,40) + '": ' + resolved.url);
+              if (target === clusters[0]) break; // lead has a tweet — that's the priority, stop
             } else {
-              console.log('[tweets] lead-story retry: found URL but it failed validation/freshness');
+              console.log('[tweets] retry: found URL but failed validation/freshness');
             }
           } else {
-            console.log('[tweets] lead-story retry: no valid tweet found (accepting zero, not forcing junk)');
+            console.log('[tweets] retry: no valid tweet found for this story');
           }
         }
       }
     } catch (e) {
-      console.warn('[tweets] lead-story retry failed (non-fatal):', e.message);
+      console.warn('[tweets] focused retry failed (non-fatal):', e.message);
     }
   }
 }
