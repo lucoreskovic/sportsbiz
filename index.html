@@ -1373,22 +1373,40 @@
   /* Mobile (≤768px): vertical scroll-snap stack */
   @media (max-width: 768px) {
     .reels-stack {
-      height: calc(100vh - 250px); /* leaves room for header + filter bar */
-      height: calc(100dvh - 250px); /* dvh accounts for the iOS address bar */
+      /* --reels-h is measured in JS from visualViewport for an exact fit on iOS,
+         where the address bar resizes the viewport mid-scroll. The calc() is the
+         pre-JS fallback. */
+      height: calc(100dvh - 220px);
+      height: var(--reels-h, calc(100dvh - 220px));
       overflow-y: scroll;
       scroll-snap-type: y mandatory;
       scroll-behavior: smooth;
       -webkit-overflow-scrolling: touch;
+      overscroll-behavior: contain; /* stop scroll-chaining that toggles the iOS bar */
     }
     .reels-card {
-      height: calc(100vh - 250px);
-      height: calc(100dvh - 250px);
+      height: calc(100dvh - 220px);
+      height: var(--reels-h, calc(100dvh - 220px));
       scroll-snap-align: start;
       scroll-snap-stop: always;
       display: flex; flex-direction: column;
       align-items: center; justify-content: center;
-      padding: 20px 16px;
+      gap: 10px;
+      padding: 12px 16px;
     }
+    /* Size the video by available HEIGHT so the card never overflows its snap
+       viewport. The old width-driven 9:16 box plus the meta block could be taller
+       than the card on tall phones, which is what pushed reels "out of frame". */
+    .reels-card .reels-video-wrap {
+      flex: 1 1 auto;
+      min-height: 0;
+      height: auto;
+      width: auto;
+      max-width: 100%;
+      max-height: 100%;
+      aspect-ratio: 9 / 16;
+    }
+    .reels-card .reels-meta { flex: 0 0 auto; margin-top: 0; }
     .reels-pager-controls { display: none; }
   }
 
@@ -1471,6 +1489,24 @@
     backdrop-filter: blur(4px);
   }
   .reels-yt-link:hover { background: rgba(0,0,0,0.8); }
+  .reels-sound-toggle {
+    position: absolute;
+    top: 12px; left: 12px;
+    background: rgba(0,0,0,0.55);
+    color: #fff;
+    border: none;
+    padding: 5px 10px;
+    border-radius: 3px;
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 9px;
+    letter-spacing: .08em;
+    text-transform: uppercase;
+    cursor: pointer;
+    pointer-events: auto;
+    backdrop-filter: blur(4px);
+    z-index: 3;
+  }
+  .reels-sound-toggle:hover { background: rgba(0,0,0,0.8); }
   .reels-meta {
     margin-top: 14px;
     color: #fff;
@@ -2849,13 +2885,79 @@
     }
   }
 
-  // Format a YouTube embed URL for muted autoplay. Each card uses a unique URL
-  // so the iframe reloads when the index changes — important for autoplay to
-  // re-fire on swipe/click.
+  // Format a YouTube embed URL for autoplay. Each card uses a unique URL so the
+  // iframe reloads when the index changes (autoplay re-fires on swipe/click).
+  // We always start muted because browsers only allow autoplay when muted; the
+  // player is then unmuted via the IFrame API (postMessage) right after the user
+  // gesture that put this reel on screen. enablejsapi=1 is what lets us do that.
   function reelsEmbedSrc(videoId, autoplay) {
     return 'https://www.youtube-nocookie.com/embed/' + videoId +
       '?autoplay=' + (autoplay ? 1 : 0) +
-      '&mute=1&playsinline=1&rel=0&modestbranding=1';
+      '&mute=1&playsinline=1&rel=0&modestbranding=1&enablejsapi=1';
+  }
+
+  // Sound is ON by default (per request: auto-on when entering the tab and when
+  // moving between reels). Users can silence it with the on-card toggle; the
+  // choice persists for the session.
+  var reelsSoundOn = true;
+  function reelsPostCmd(iframe, func) {
+    try {
+      if (iframe && iframe.contentWindow) {
+        iframe.contentWindow.postMessage(JSON.stringify({ event: 'command', func: func, args: [] }), '*');
+      }
+    } catch (e) {}
+  }
+  // Apply the current sound preference to a reel's player. Commands are no-ops
+  // until the player finishes initializing, so we retry across its init window.
+  function reelsApplySound(iframe) {
+    if (!iframe) return;
+    var func = reelsSoundOn ? 'unMute' : 'mute';
+    [120, 500, 1200].forEach(function(ms) {
+      setTimeout(function() {
+        reelsPostCmd(iframe, func);
+        if (reelsSoundOn) reelsPostCmd(iframe, 'playVideo');
+      }, ms);
+    });
+  }
+  window.reelsToggleSound = function(btn) {
+    reelsSoundOn = !reelsSoundOn;
+    document.querySelectorAll('.reels-sound-toggle').forEach(function(b) {
+      b.textContent = reelsSoundOn ? '♪ Sound on' : '✕ Muted';
+    });
+    var card = btn.closest ? btn.closest('.reels-card') : null;
+    reelsApplySound(card ? card.querySelector('iframe') : null);
+  };
+
+  // iOS viewport fix: measure the exact space below the filter bar and expose it
+  // as --reels-h so the snap cards line up with the visible viewport even as the
+  // iOS address bar grows/shrinks during scroll.
+  var _reelsVpBound = false;
+  function sizeReels() {
+    if (typeof activeCat !== 'undefined' && activeCat !== 'reels') return;
+    var stack = document.getElementById('reels-stack');
+    if (!stack) return;
+    if (!window.matchMedia('(max-width: 768px)').matches) {
+      document.documentElement.style.removeProperty('--reels-h');
+      return;
+    }
+    var vv = window.visualViewport;
+    var vpH = vv ? vv.height : window.innerHeight;
+    var vvTop = vv ? vv.offsetTop : 0;
+    var fromVisibleTop = stack.getBoundingClientRect().top - vvTop;
+    var avail = vpH - fromVisibleTop - 6;
+    if (avail < 220) avail = 220;
+    document.documentElement.style.setProperty('--reels-h', Math.round(avail) + 'px');
+  }
+  function bindReelsViewport() {
+    if (_reelsVpBound) return;
+    _reelsVpBound = true;
+    var rerun = function() { requestAnimationFrame(sizeReels); };
+    window.addEventListener('resize', rerun);
+    window.addEventListener('orientationchange', function() { setTimeout(sizeReels, 200); });
+    if (window.visualViewport) {
+      window.visualViewport.addEventListener('resize', rerun);
+      window.visualViewport.addEventListener('scroll', rerun);
+    }
   }
 
   // Time-ago label
@@ -2962,6 +3064,16 @@
       stackEl.innerHTML = reelsBuildCardHtml(reelsCurrentItems[0], true);
     }
     reelsUpdateCounter();
+    // Sound on for the first reel as soon as the tab opens (entering the tab is a
+    // user gesture, so the unmute is allowed). The observer handles subsequent
+    // reels as they scroll into view.
+    reelsApplySound(stackEl.querySelector('.reels-card iframe'));
+    // iOS framing: bind viewport listeners once, then size now and again after
+    // layout settles (iOS needs a tick or two after the address bar moves).
+    bindReelsViewport();
+    sizeReels();
+    setTimeout(sizeReels, 60);
+    setTimeout(sizeReels, 350);
   }
 
   function reelsBuildCardHtml(it, autoplay) {
@@ -2974,6 +3086,9 @@
           'allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" ' +
           'allowfullscreen loading="lazy"></iframe>' +
         '<div class="reels-video-overlay"></div>' +
+        '<button type="button" class="reels-sound-toggle" onclick="reelsToggleSound(this)">' +
+          (reelsSoundOn ? '♪ Sound on' : '✕ Muted') +
+        '</button>' +
         '<a class="reels-yt-link" href="' + esc(it.link) + '" target="_blank" rel="noopener">Open on YouTube ↗</a>' +
       '</div>' +
       '<div class="reels-meta">' +
@@ -3001,11 +3116,15 @@
           // Find this card's index for the counter
           var idx = Array.prototype.indexOf.call(cards, entry.target);
           if (idx >= 0) { reelsCurrentIndex = idx; reelsUpdateCounter(); }
+          // Sound on for the reel now on screen (scrolling here was a user gesture).
+          reelsApplySound(iframe);
         } else {
           // Pause by stripping autoplay param (cheaper than tearing down the player)
           if (iframe.src.indexOf('autoplay=1') !== -1) {
             iframe.src = reelsEmbedSrc(vid, false);
           }
+          // Make sure an off-screen reel isn't audible.
+          reelsPostCmd(iframe, 'mute');
         }
       });
     }, { threshold: [0.6] });
@@ -3027,6 +3146,7 @@
       if (cards[next]) cards[next].scrollIntoView({ behavior: 'smooth', block: 'start' });
     } else {
       stackEl.innerHTML = reelsBuildCardHtml(reelsCurrentItems[next], true);
+      reelsApplySound(stackEl.querySelector('.reels-card iframe'));
     }
     reelsUpdateCounter();
   };
@@ -4503,6 +4623,25 @@
     if (_injuryFilterSport === 'ALL') _injuryFilterPos = 'ALL';
     renderInjuryDeskRows(document.getElementById('main-feed'), _injuryDeskAll, false);
   }
+  // Expand/collapse a long ESPN injury note in place. Referenced from the inline
+  // onclick on each card's "Show more" button.
+  function toggleImpact(btn) {
+    var wrap = btn.parentNode;
+    if (!wrap) return;
+    var shortEl = wrap.querySelector('.impact-short');
+    var fullEl  = wrap.querySelector('.impact-full');
+    if (!shortEl || !fullEl) return;
+    var expanded = fullEl.style.display !== 'none';
+    if (expanded) {
+      fullEl.style.display = 'none';
+      shortEl.style.display = '';
+      btn.textContent = 'Show more';
+    } else {
+      fullEl.style.display = '';
+      shortEl.style.display = 'none';
+      btn.textContent = 'Show less';
+    }
+  }
   async function fetchLiveInjuries() {
     if (_liveInjuries && Date.now() - _liveInjuriesTs < 10 * 60 * 1000) return _liveInjuries;
     var leagues = [
@@ -4548,7 +4687,7 @@
                 status: status,
                 injury: String(detail).slice(0, 80),
                 timeline: (it.details && it.details.returnDate) ? ('Est. return ' + it.details.returnDate) : '',
-                impact: it.longComment ? String(it.longComment).slice(0, 220) : (it.shortComment ? String(it.shortComment).slice(0,220) : ''),
+                impact: it.longComment ? String(it.longComment).slice(0, 600) : (it.shortComment ? String(it.shortComment).slice(0,600) : ''),
                 source: 'ESPN'
               });
             });
@@ -4762,9 +4901,24 @@
               '<div><span style="color:var(--ink-3);font-size:11px;">INJURY</span><br>' + escSafe(inj.injury) + '</div>' +
               (inj.timeline ? '<div><span style="color:var(--ink-3);font-size:11px;">TIMELINE</span><br>' + escSafe(inj.timeline) + '</div>' : '') +
             '</div>' +
-            (inj.impact ? '<div style="font-size:13px;color:var(--ink-1);line-height:1.5;padding:10px 12px;background:var(--surface-2);border-left:2px solid ' + meta.color + ';margin-bottom:10px;">' +
-              escSafe(inj.impact) +
-            '</div>' : '') +
+            (inj.impact ? (function(){
+              var full = String(inj.impact);
+              var LIMIT = 180; // preview length before "Show more" kicks in
+              var box = 'font-size:13px;color:var(--ink-1);line-height:1.5;padding:10px 12px;background:var(--surface-2);border-left:2px solid ' + meta.color + ';margin-bottom:10px;';
+              if (full.length <= LIMIT) {
+                return '<div style="' + box + '">' + escSafe(full) + '</div>';
+              }
+              // Cut the preview at a word boundary so it doesn't end mid-word.
+              var cut = full.slice(0, LIMIT);
+              var lastSpace = cut.lastIndexOf(' ');
+              if (lastSpace > 120) cut = cut.slice(0, lastSpace);
+              var linkStyle = 'background:none;border:none;padding:0;margin-left:4px;color:var(--accent);font:inherit;font-weight:600;cursor:pointer;';
+              return '<div class="injury-impact" style="' + box + '">' +
+                '<span class="impact-short">' + escSafe(cut) + '… </span>' +
+                '<span class="impact-full" style="display:none;">' + escSafe(full) + '</span>' +
+                '<button type="button" class="impact-toggle" style="' + linkStyle + '" onclick="toggleImpact(this)">Show more</button>' +
+              '</div>';
+            })() : '') +
             (inj.source ? '<div style="font-size:11px;color:var(--ink-3);font-family:JetBrains Mono,monospace;">via ' + escSafe(inj.source) + '</div>' : '') +
           '</div>';
       }).join('');
