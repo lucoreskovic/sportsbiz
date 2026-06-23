@@ -470,7 +470,7 @@ For each cluster return:
 - category: "media" | "contracts" | "leagues" | "revenue" | "labor"
 - leadHeadline: exact title from a source story (copy verbatim)
 - leadSource: exact source name from the [index] prefix + " · Xh ago"
-- summary: 2 sentences, under 180 chars, tone guide applies. MUST be about the specific event in leadHeadline, not the broader topic. Put a real fact in it (a number, a name, a result), not a vibe.
+- summary: 2 sentences, under 180 chars, tone guide applies. MUST be about the specific event in leadHeadline, not the broader topic. Put a real fact in it (a number, a name, a result), not a vibe. Plain text only, no tags or markup.
 - article: up to 280 words, but ONLY as long as your real facts support. **MUST be ABOUT the specific event named in leadHeadline.** Lead with the hard specifics of that event drawn from the source snippets: who, what, the actual numbers, the score, the date, the dollar figure, the record and the previous holder of it. If a source says Messi has 18 World Cup goals, the article says "18" and says whose record that passed, do not write "a figure no other player has reached." Mine every concrete detail out of the clustered sources and put it on the page.
   THEN you may add analytical context, implications, comparables, who wins/loses, what's next. But the specifics come first and dominate.
   HARD RULES on facts:
@@ -478,6 +478,7 @@ For each cluster return:
   • NEVER fabricate a reaction, quote, or state of mind. Do not write that someone "responded", "said", "is confident", "was emotional", "called it" anything, or that a response "was understated/measured/defiant", UNLESS the actual words or clear substance of what they said are in the sources. A characterization of a quote is not a quote. If you don't have what they actually said, don't claim they said anything.
   • HEADLINE PAYLOAD: if the leadHeadline promises a specific payload you cannot source, a quote, a "response", a "reaction", a decision, someone "addresses"/"speaks out"/"reveals", and that payload is NOT in the snippets, do NOT manufacture it. Lead instead with the hard news you actually have (what happened, the numbers), and either pick a different source title from this cluster as the leadHeadline whose payload you CAN deliver, or write the factual story straight. A "responds to X" headline with no actual response in the body is the exact failure to avoid.
   • Do NOT pad to hit a word count. A tight 150-word piece packed with real facts is far better than 280 words of filler. If you only have enough verified detail for 130 words, write 130 words and stop. Length is a ceiling, never a target.
+  • PLAIN PROSE ONLY. The article and summary are shown to readers as raw text, so any tag or bracketed reference renders literally on the page and breaks it. Do NOT add citation markup, footnotes, or source indices of any kind. Never emit <cite ...> or </cite>, never write [1], [10-4], (source 3), superscripts, or any XML/HTML tags. Attribute in plain words instead ("Sportico reported", "per ESPN"). Just write sentences.
   Write it like a wire-service sports reporter: lead, facts, context, done. Do not write a generic thematic piece that uses the headline as a jumping-off point. tone guide applies.
 - storyIndexes: [story indexes that belong in this cluster, from multiple sources when possible]
 - posts: [] (real X posts are attached separately after clustering, leave empty here)
@@ -802,14 +803,19 @@ ${list}`;
     if (imp < 1) imp = 1;
     if (imp > 10) imp = 10;
 
+    // Strip any Claude-style citation markup the model may leak into prose
+    // (<cite index="...">...</cite>). Keep the text, drop the tags. This is the
+    // server-side guarantee; the front end strips too as defense-in-depth.
+    const stripCite = (s) => String(s == null ? '' : s).replace(/<\/?cite\b[^>]*>/gi, '');
+
     return {
       category:     c.category     || 'revenue',
       importance:   imp,
-      leadHeadline: headline,
+      leadHeadline: stripCite(headline),
       leadSource:   c.leadSource   || (lead?.source||'') + ' · ' + timeAgo(lead?.pubDate),
       leadUrl:      (lead?.link && lead.link.startsWith('http')) ? lead.link : '',
-      summary:      c.summary      || '',
-      article:      c.article      || '',
+      summary:      stripCite(c.summary || ''),
+      article:      stripCite(c.article || ''),
       tweets:       [], // populated by attachRealTweets() after clustering
     };
   });
