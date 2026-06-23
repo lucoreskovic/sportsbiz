@@ -2697,63 +2697,6 @@
       "_scheduledTs": 1782342480000
     },
     {
-      "matchup": "Ghana @ England",
-      "league": "WORLD_CUP",
-      "type": "moneyline",
-      "when": "Today 4:00 PM ET",
-      "pick": "England ML",
-      "odds": "-525",
-      "edge": "Both Ghana (1-0-0) and England (1-0-0) opened their 2026 World Cup campaigns with wins. England is a top-5 FIFA-ranked nation and traditional qualifying favorite; Ghana is a strong African representative but ranked outside the global top 50. The spread (-1.5 at -175) and moneyline (-525) reflect England's favoritism. Research did not confirm current form, squad injuries, or recent head-to-head patterns, so a clean edge cannot be documented.\n\nThis is a generic structural pick: higher-ranked team at a reasonable favorite price. Ghana's +1675 moneyline is theoretically exploitable if there were evidence of form parity, but no such data was retrieved.",
-      "confidence": "low",
-      "marketSnapshot": {
-        "capturedAt": "2026-06-23T18:18:05.257Z",
-        "markets": {
-          "h2h": {
-            "away": {
-              "price": 1675,
-              "book": "BetOnline.ag"
-            },
-            "home": {
-              "price": -525,
-              "book": "BetMGM"
-            },
-            "draw": {
-              "price": 660,
-              "book": "BetOnline.ag"
-            }
-          },
-          "spreads": {
-            "away": {
-              "point": 2,
-              "price": -110,
-              "book": "Bovada"
-            },
-            "home": {
-              "point": -1.5,
-              "price": -175,
-              "book": "BetOnline.ag"
-            }
-          },
-          "totals": {
-            "over": {
-              "point": 3,
-              "price": -111,
-              "book": "MyBookie.ag"
-            },
-            "under": {
-              "point": 3.5,
-              "price": -180,
-              "book": "BetRivers"
-            }
-          }
-        },
-        "awayTeam": "Ghana",
-        "homeTeam": "England",
-        "commenceTime": "2026-06-23T20:00:00Z"
-      },
-      "_scheduledTs": 1782244800000
-    },
-    {
       "type": "moneyline",
       "pick": "Croatia ML",
       "odds": "-200",
