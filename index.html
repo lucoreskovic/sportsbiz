@@ -2254,13 +2254,29 @@
     showArticleModal(TAG.default, headline, source, article || headline);
   }
 
+  // The article generator can leak Claude-style citation markup
+  // (<cite index="...">...</cite>) into prose. Strip the tags, keep the text.
+  // Done at load so every surface (modal, card previews, ticker) is clean, and
+  // again in the modal as defense-in-depth for callers that pass other text.
+  function stripCiteTags(s) {
+    return String(s == null ? '' : s).replace(/<\/?cite\b[^>]*>/gi, '');
+  }
+  function sanitizeStoryData(d) {
+    if (!d || !Array.isArray(d.clusters)) return;
+    d.clusters.forEach(function(c) {
+      if (c.article)      c.article      = stripCiteTags(c.article);
+      if (c.summary)      c.summary      = stripCiteTags(c.summary);
+      if (c.leadHeadline) c.leadHeadline = stripCiteTags(c.leadHeadline);
+    });
+  }
+
   function showArticleModal(tag, headline, source, articleText) {
     document.getElementById('modal-tag').className = 'article-modal-tag ' + (tag ? tag.cls : 'tag-default');
     document.getElementById('modal-tag').textContent = tag ? tag.label : 'Sports Business';
     document.getElementById('modal-headline').textContent = headline || '';
     document.getElementById('modal-meta').textContent = source || '';
     var body = document.getElementById('modal-body');
-    var paras = String(articleText).split('\n').filter(function(p){return p.trim();});
+    var paras = stripCiteTags(articleText).split('\n').filter(function(p){return p.trim();});
     body.innerHTML = paras.map(function(p){return '<p>'+esc(p)+'</p>';}).join('');
     document.getElementById('article-modal').style.display = 'flex';
     document.body.style.overflow = 'hidden';
@@ -6110,6 +6126,7 @@
       if (!res.ok) throw new Error('HTTP ' + res.status);
       var data = await res.json();
       if (!data || !data.clusters || data.clusters.length === 0) throw new Error('empty');
+      sanitizeStoryData(data);
       allData = data;
       if (data.poll && data.poll.question) {
         var prevQ = localStorage.getItem('sb_poll_question');
