@@ -2697,63 +2697,6 @@
       "_scheduledTs": 1782342480000
     },
     {
-      "matchup": "Uzbekistan @ Portugal",
-      "league": "WORLD_CUP",
-      "type": "total",
-      "when": "Today 1:00 PM ET",
-      "pick": "Over 4.5",
-      "odds": "-110",
-      "edge": "Portugal is a top-20 FIFA-ranked nation facing Uzbekistan in a 2026 World Cup qualifier. Portugal's baseline in qualifying typically generates 1.5-2+ goals per game as a strong European side; Uzbekistan's defensive profile is unconfirmed but historically Asian qualifiers concede 1-1.5 goals to European nations. The 4.5 total is borderline between typical high-variance qualifier (3-5 goals) and low-scoring stalemate. Portugal's offensive pedigree and home-advantage likelihood support slight over lean.\n\nResearch did not retrieve full form data or head-to-head history, so this is a lean rather than a confirmed edge. The line at 4.5 is fair-to-soft given Portugal's qualifying history.",
-      "confidence": "low",
-      "marketSnapshot": {
-        "capturedAt": "2026-06-23T18:18:05.257Z",
-        "markets": {
-          "h2h": {
-            "away": {
-              "price": 90000,
-              "book": "Fanatics"
-            },
-            "home": {
-              "price": -10000,
-              "book": "Caesars"
-            },
-            "draw": {
-              "price": 20000,
-              "book": "Fanatics"
-            }
-          },
-          "spreads": {
-            "away": {
-              "point": 3.75,
-              "price": 110,
-              "book": "Bovada"
-            },
-            "home": {
-              "point": -3.5,
-              "price": -222,
-              "book": "MyBookie.ag"
-            }
-          },
-          "totals": {
-            "over": {
-              "point": 4.5,
-              "price": -110,
-              "book": "Bovada"
-            },
-            "under": {
-              "point": 4.5,
-              "price": 105,
-              "book": "MyBookie.ag"
-            }
-          }
-        },
-        "awayTeam": "Uzbekistan",
-        "homeTeam": "Portugal",
-        "commenceTime": "2026-06-23T17:00:00Z"
-      },
-      "_scheduledTs": 1782234000000
-    },
-    {
       "matchup": "Ghana @ England",
       "league": "WORLD_CUP",
       "type": "moneyline",
