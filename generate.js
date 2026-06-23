@@ -475,8 +475,10 @@ For each cluster return:
   THEN you may add analytical context, implications, comparables, who wins/loses, what's next. But the specifics come first and dominate.
   HARD RULES on facts:
   • Use only specifics that appear in the source snippets, OR well-established historical background you are certain is correct (e.g. a prior record-holder's name, a past championship, an old contract figure). NEVER invent a current number, quote, date, or stat. If you don't have the figure, write around it honestly, do not paper over the gap with grand abstraction.
+  • NEVER fabricate a reaction, quote, or state of mind. Do not write that someone "responded", "said", "is confident", "was emotional", "called it" anything, or that a response "was understated/measured/defiant", UNLESS the actual words or clear substance of what they said are in the sources. A characterization of a quote is not a quote. If you don't have what they actually said, don't claim they said anything.
+  • HEADLINE PAYLOAD: if the leadHeadline promises a specific payload you cannot source, a quote, a "response", a "reaction", a decision, someone "addresses"/"speaks out"/"reveals", and that payload is NOT in the snippets, do NOT manufacture it. Lead instead with the hard news you actually have (what happened, the numbers), and either pick a different source title from this cluster as the leadHeadline whose payload you CAN deliver, or write the factual story straight. A "responds to X" headline with no actual response in the body is the exact failure to avoid.
   • Do NOT pad to hit a word count. A tight 150-word piece packed with real facts is far better than 280 words of filler. If you only have enough verified detail for 130 words, write 130 words and stop. Length is a ceiling, never a target.
-  Do not write a generic thematic piece that uses the headline as a jumping-off point. tone guide applies.
+  Write it like a wire-service sports reporter: lead, facts, context, done. Do not write a generic thematic piece that uses the headline as a jumping-off point. tone guide applies.
 - storyIndexes: [story indexes that belong in this cluster, from multiple sources when possible]
 - posts: [] (real X posts are attached separately after clustering, leave empty here)
 
@@ -516,6 +518,11 @@ BAD (vague, padded, em-dashed AI slop):
 GOOD (concrete, human, no em dashes):
 "The brace was Messi's 17th and 18th career World Cup goals, moving him past Miroslav Klose's record of 16. He's 39, four years removed from the title in Qatar, and still Argentina's primary scorer: both goals came from inside the box against an Austria side that had conceded once in the group stage. Argentina draw the Group F runner-up in the last 32."
 (Note: only state the prior record-holder and figures if your sources or solid historical knowledge support them. Never invent the number.)
+
+FAKE-REACTION FAILURE (the headline promises a response; the body must deliver it or not claim it):
+BAD: "Messi's response to the record was characteristically understated. He remains the team's primary scoring threat..." (This describes a response without ever saying what it was. Pure filler over a missing fact.)
+GOOD, if you have the quote: 'Asked about the record afterward, Messi kept it short: "The win is what matters." He finished with two goals...'
+GOOD, if you do NOT have the quote: skip the "response" framing entirely and lead with what actually happened: "Messi's two goals beat Austria 2-0 and moved him to 17 career World Cup goals, past Klose's 16." Never assert a reaction you can't quote.
 
 GOOD OPENING EXAMPLE (note the specificity and angle, and no em dashes):
 "The Raiders made Fernando Mendoza the first pick of Thursday's draft, the third straight year a quarterback opened the proceedings and the fourth of the past five. Mendoza's rookie deal will top $50 million fully guaranteed, a number the franchise hasn't committed to a quarterback since Derek Carr's 2022 extension. The pick closes the Minshew-era holding pattern and opens the most consequential offseason build of Antonio Pierce's tenure."
@@ -2615,6 +2622,72 @@ async function fetchNflDraftLive() {
   }
 }
 
+// ─── LEAD-STORY ENRICHMENT ──────────────────────────────────────────────────
+// The clustering model only sees RSS snippets (title + ~400 chars), so the lead
+// story can promise something its snippet doesn't contain (a quote, a "response")
+// and then paper over the hole with filler. This pass re-writes ONLY the top
+// story's summary + article using web_search, so the lead (which gets the biggest
+// display on the site) is grounded in real, fetched facts and actually delivers
+// what the headline promises. Scoped to story[0] to bound cost; one extra
+// search-enabled call per refresh. Flip ENRICH_LEAD_WITH_SEARCH to false to skip.
+const ENRICH_LEAD_WITH_SEARCH = true;
+const ENRICH_LEAD_COUNT = 1; // number of top stories to enrich
+
+async function enrichLeadStories(clusters) {
+  if (!ENRICH_LEAD_WITH_SEARCH || !Array.isArray(clusters) || clusters.length === 0) return;
+  const targets = clusters.slice(0, ENRICH_LEAD_COUNT).filter(Boolean);
+  for (const c of targets) {
+    if (!c || !c.leadHeadline) continue;
+    const prompt = `You are a sports reporter rewriting ONE story for a sports-business site. Use the web_search tool (you have a few searches) to find the ACTUAL specifics behind this headline, then rewrite it tight and human.
+
+HEADLINE: "${c.leadHeadline}"
+SOURCE: ${c.leadSource || ''}
+CURRENT DRAFT (likely vague; may assert a reaction it cannot back up): ${c.article || c.summary || ''}
+
+YOUR JOB:
+1. Search for the concrete specifics this headline implies: exact numbers/score, the record and its previous holder, dates, dollar figures, and CRUCIALLY any real quote or response if the headline mentions a "response", "reaction", "responds", "addresses", "speaks out", or "reveals".
+2. Rewrite the story so it actually delivers what the headline promises, led by hard facts.
+
+HARD RULES:
+- If the headline promises a quote or response, include what the person ACTUALLY said: a short direct quote UNDER 15 WORDS, otherwise paraphrase the substance in your own words. If after searching you genuinely cannot find what they said, DROP the response framing and just report the news. Never write "the response was understated/measured/defiant" or similar without the actual words.
+- Use only facts you found via search or that are well-established history. Never invent a number, quote, or date. If sources disagree on a number, use the most recent authoritative one.
+- Tone: wire-service sports reporter. Lead, facts, context, done. Mix short punchy sentences with longer ones. Name names, cite numbers. Sound like a person, not an AI.
+- BANNED: em dashes (use commas, periods, or parentheses), and slop like "cements his status", "another layer to a legacy", "defies expectation", "remains the story of", "for the ages", "isn't just X, it's Y". No vague intensifiers ("brilliance", "ruthlessness", "masterclass") without a number attached.
+- Copyright: at most one short quoted phrase per source; paraphrase everything else.
+
+Return ONLY valid JSON, no markdown fences: {"summary":"2 sentences, under 180 chars, with a real fact","article":"up to 250 words, only as long as the real facts support"}`;
+
+    try {
+      const res = await fetch('https://api.anthropic.com/v1/messages', {
+        method: 'POST',
+        headers: { 'Content-Type':'application/json','x-api-key':process.env.ANTHROPIC_API_KEY,'anthropic-version':'2023-06-01' },
+        body: JSON.stringify({
+          model: 'claude-haiku-4-5-20251001',
+          max_tokens: 1600,
+          tools: [{ type: 'web_search_20250305', name: 'web_search', max_uses: 3 }],
+          messages: [{ role: 'user', content: prompt }],
+        }),
+      });
+      const data = await res.json();
+      if (!res.ok) throw new Error('API ' + res.status + ': ' + (data.error?.message || ''));
+      const text = (data.content || []).filter(b => b.type === 'text').map(b => b.text).join('');
+      const start = text.indexOf('{');
+      const end = text.lastIndexOf('}');
+      if (start === -1 || end === -1) throw new Error('no JSON in response');
+      const obj = JSON.parse(text.slice(start, end + 1));
+      if (obj && typeof obj.article === 'string' && obj.article.trim().length > 40) {
+        c.article = obj.article.trim();
+        if (typeof obj.summary === 'string' && obj.summary.trim()) c.summary = obj.summary.trim();
+        console.log('[enrich] rewrote lead story via search: "' + String(c.leadHeadline).slice(0, 50) + '"');
+      } else {
+        console.warn('[enrich] response too thin; kept original for "' + String(c.leadHeadline).slice(0, 40) + '"');
+      }
+    } catch (e) {
+      console.warn('[enrich] lead-story enrichment failed, keeping original:', e.message);
+    }
+  }
+}
+
 async function main() {
   console.log('Fetching RSS feeds...');
   const results = await Promise.all(FEEDS.map(fetchFeed));
@@ -2625,6 +2698,15 @@ async function main() {
   console.log('Clustering...');
   const clustered = await cluster(all);
   console.log('Clusters: ' + clustered.clusters?.length);
+
+  // Re-ground the lead story in real, searched facts so it delivers what its
+  // headline promises (runs before tweets; story[0] is already sorted to top).
+  console.log('Enriching lead story via web_search...');
+  try {
+    await enrichLeadStories(clustered.clusters || []);
+  } catch (e) {
+    console.error('[main] lead enrichment failed, continuing:', e.message);
+  }
 
   console.log('Attaching real X posts...');
   try {
