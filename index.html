@@ -2976,6 +2976,40 @@
     }
   }
 
+  // iOS hard-blocks audio until the user physically interacts with the page, and
+  // it sometimes won't honor an unmute that wasn't fired directly inside a touch
+  // handler. So the very first tap/scroll anywhere unmutes the reel that's on
+  // screen, straight from inside the gesture. After that the per-reel logic in
+  // the observer keeps sound on. One-shot; removes itself once it has fired.
+  var _reelsFirstGestureBound = false;
+  function bindReelsFirstGestureUnmute() {
+    if (_reelsFirstGestureBound) return;
+    _reelsFirstGestureBound = true;
+    var fire = function() {
+      reelsSoundOn = true;
+      var stack = document.getElementById('reels-stack');
+      if (stack) {
+        // Unmute whichever card is currently centered in the viewport.
+        var cards = stack.querySelectorAll('.reels-card');
+        var active = null, bestDist = Infinity;
+        var mid = (window.visualViewport ? window.visualViewport.height : window.innerHeight) / 2;
+        cards.forEach(function(c) {
+          var r = c.getBoundingClientRect();
+          var dist = Math.abs((r.top + r.bottom) / 2 - mid);
+          if (dist < bestDist) { bestDist = dist; active = c; }
+        });
+        var iframe = active ? active.querySelector('iframe') : stack.querySelector('.reels-card iframe');
+        if (iframe) { reelsPostCmd(iframe, 'unMute'); reelsPostCmd(iframe, 'playVideo'); reelsApplySound(iframe); }
+      }
+      document.removeEventListener('touchstart', fire, true);
+      document.removeEventListener('pointerdown', fire, true);
+      document.removeEventListener('click', fire, true);
+    };
+    document.addEventListener('touchstart', fire, true);
+    document.addEventListener('pointerdown', fire, true);
+    document.addEventListener('click', fire, true);
+  }
+
   // Time-ago label
   function reelsTimeAgo(pubDate) {
     if (!pubDate) return '';
@@ -3087,6 +3121,7 @@
     // iOS framing: bind viewport listeners once, then size now and again after
     // layout settles (iOS needs a tick or two after the address bar moves).
     bindReelsViewport();
+    bindReelsFirstGestureUnmute();
     sizeReels();
     setTimeout(sizeReels, 60);
     setTimeout(sizeReels, 350);
