@@ -1,73 +1,81 @@
 {
   "clusters": [
     {
-      "category": "leagues",
-      "importance": 9,
-      "leadHeadline": "World Cup viewership remains on a roll as group stage nears end",
-      "leadSource": "Sports Media Watch · 8h ago",
-      "leadUrl": "https://www.sportsmediawatch.com/2026/06/world-cup-viewership-strong-fox-telemundo-usmnt-mexico-beyond/",
-      "summary": "World Cup viewership is crushing it in the group stage's final stretch. Fox Sports averaging 5.9M viewers, Telemundo at 5.5M—both triple-digit gains over 2022.",
-      "article": "The 2026 FIFA World Cup is maintaining robust audiences as the group stage nears its end. <cite index=\"11-1\">Through Sunday, FIFA World Cup matches were averaging 5.9 million viewers on Fox Sports (including pre-match coverage), and 5.5 million on Telemundo (match window only)</cite>.\n\n<cite index=\"11-9\">Both figures are up a triple-digit percentage from the previous World Cup four years ago in Qatar</cite>. The numbers reflect strength beyond U.S. fixtures. <cite index=\"11-2\">The Mexico-South Korea match on Telemundo finished with an audience of 14 million, including a record streaming audience of 6.1 million measured by Adobe Analytics, making it the most-watched World Cup match ever on Spanish-language television</cite>.\n\nThe USMNT has driven the biggest audiences. <cite index=\"11-10\">Last Friday's United States-Australia match finished with 16.22 million on FOX, trailing only the USMNT opener against Paraguay (18.04M)</cite>. With <cite index=\"11-7\">the FIFA World Cup continuing to deliver substantial audiences heading into the stretch run of the group stage</cite>, broadcasters are on pace for historic numbers through the knockout round.",
-      "tweets": []
-    },
-    {
-      "category": "leagues",
+      "category": "contracts",
       "importance": 8,
-      "leadHeadline": "IOC scraps 130 years of tradition by paying athletes $10,000 at Olympics",
-      "leadSource": "The Guardian · 18h ago",
-      "leadUrl": "https://www.theguardian.com/sport/2026/jun/24/ioc-pay-olympic-athletes-10000-dollars",
-      "summary": "International Olympic Committee breaks with 130 years of tradition by establishing a 106 million pound fund to pay all Olympic athletes $10,000 to compete, starting at Milano-Cortina Winter Games.",
-      "article": "The International Olympic Committee has ended one of sports' most durable traditions by deciding to directly compensate athletes at the Olympic Games. Beginning with the Milan-Cortina Winter Olympics, every competitor will receive a $10,000 payment, funded through a 106 million pound endowment established by the IOC.\n\nThis represents a fundamental shift in Olympic economics. For 130 years, the IOC operated under the strict amateur ideal, refusing to pay athletes while profiting enormously from broadcast rights, sponsorships, and licensing. Athletes were expected to compete for patriotic honor and medal prestige alone. Host nations bore the cost of training support, travel, and accommodation; individual federations shouldered athlete development.\n\nThe IOC's reversal acknowledges two realities: first, that athletes have become the primary product driving Olympic revenues, yet most receive nothing directly from those revenues; second, that the amateur model increasingly feels indefensible when billionaire federations and corporate sponsors surround the games. The $10,000 floor is modest by professional sports standards, but the structural break is seismic.\n\nThis move likely pressures other Olympic sports and federations to increase athlete compensation to remain competitive for top talent. It also signals the IOC's awareness that future Olympic host bids have grown scarcer as cities resist bearing escalating infrastructure costs with minimal athlete welfare benefit.",
-      "tweets": []
+      "leadHeadline": "How Austin Reaves $185M contract affects LeBron James future with the Lakers",
+      "leadSource": "NY Post Sports · just now",
+      "leadUrl": "https://nypost.com/2026/06/25/sports/does-austin-reaves-deal-impact-lakers-lebron-james-talks/",
+      "summary": "<cite index=\"1-1\">Lakers re-signed Austin Reaves on a four-year, $185 million contract with a player option in the final season</cite>, <cite index=\"1-22\">the biggest contract ever signed by an undrafted free agent in NBA history</cite>, while <cite index=\"3-13\">LeBron James still looms as a pending free agent for the Lakers this offseason</cite>.",
+      "article": "<cite index=\"1-1\">The Lakers agreed to terms with Austin Reaves on a four-year, $185 million contract with a player option in the final season</cite>, keeping their backcourt of <cite index=\"3-11,3-12\">Reaves and star Luka Doncic signed as a backcourt tandem for at least the next two seasons after Doncic signed a new 3-year max contract extension with the Lakers in August 2025 that includes a player option for the 2028-29 season</cite>. <cite index=\"1-22\">This is the biggest contract ever signed by an undrafted free agent in NBA history</cite>.\n\n<cite index=\"2-7\">Reaves declined his $14.9 million player option for the upcoming season to reach this deal</cite> with the franchise that signed him out of college in 2021. <cite index=\"17-13,17-14\">In 51 games this past season, Reaves ranked second on the Lakers with 23.5 points per game and also added 4.7 rebounds, 5.5 assists and 1.1 steals as the Lakers won the Pacific Division with a 53-29 record</cite>.\n\nWhile the deal cements Reaves' future, it leaves LeBron James' status in limbo. <cite index=\"3-13\">LeBron James still looms as a pending free agent for the Lakers this offseason</cite>, and <cite index=\"2-15,2-17\">James said he intends to wait until later in the summer to make a decision as to whether he will be returning to the NBA</cite>. <cite index=\"9-7,9-8\">The next potential domino to fall will be LeBron James, who is expected to remain with the Lakers if he doesn't retire, and it would be in the team's best interest to get an answer from James, whatever he decides, sooner than later because his $59.5 million cap hold represents a large chunk of their remaining flexibility</cite>.\n\nCrucially, <cite index=\"1-26,1-27\">while paying Reaves max money will affect the team's long-term balance sheet, it does not actually affect their ability to create cap space this offseason. The Lakers still have more spending power than any other team in the NBA</cite>. <cite index=\"1-12,1-13\">If Reaves doesn't sign his deal, the Lakers are decidedly less flexible once Reaves officially signs his deal, at which point the Lakers simply have two max contracts on their books</cite>.",
+      "tweets": [
+        {
+          "url": "https://twitter.com/ShamsCharania/status/2069805085991801101",
+          "html": "<blockquote class=\"twitter-tweet\" data-dnt=\"true\" data-theme=\"dark\"><p>Los Angeles Lakers star Austin Reaves intends to sign a four-year, $185 million maximum contract to return to the franchise, with a player option for the final season in 2029-30, sources tell ESPN. Reaves declined his $14.9M player option for the new max deal. https://t.co/5T8Ze6v0kF</p>&mdash; Shams Charania (@ShamsCharania) <a href=\"https://twitter.com/ShamsCharania/status/2069805085991801101\">June 24, 2026</a></blockquote>",
+          "author_name": "Shams Charania",
+          "author_url": "https://twitter.com/ShamsCharania",
+          "dateMs": 1782314962000
+        }
+      ]
     },
     {
-      "category": "revenue",
+      "category": "leagues",
       "importance": 7,
-      "leadHeadline": "Sporticast: The Biggest Loser in the NHLs TexasExpansion",
-      "leadSource": "Sportico · just now",
-      "leadUrl": "https://www.sportico.com/podcasts/sporticast/2026/nhl-texas-expansion-sorsby-friedkin-1234936983/",
-      "summary": "Sportico podcast episode 564 discusses NHL's Texas expansion with Dan Friedkin, owner of Everton and AS Roma, negotiating a signed term sheet to bring a 33rd franchise to the league.",
-      "article": "The NHL is moving toward Texas expansion after Sportico hosts Eben Novy-Williams and Jacob Feldman discussed terms involving Dan Friedkin, the owner of Premier League side Everton and Serie A club AS Roma. Friedkin has signed a term sheet to add the league's 33rd franchise, marking a major geographic expansion for North American professional hockey.\n\nFriedkin's track record with European soccer clubs signals the seriousness of the commitment: he acquired Roma in 2020 and expanded his portfolio into English football through Everton. His presence in the expansion bid lends financial credibility and sports-business acumen to a Texas market that has grown economically but lacked major ice hockey infrastructure at the NHL level.\n\nThe expansion echoes the Vegas precedent from 2017, when the Golden Knights joined and immediately competed for the Stanley Cup. Texas offers a larger metro footprint than Vegas, though also greater geographic distance from existing NHL clusters. The Sportico discussion framed winners and losers across the league landscape: existing franchises may face pressure to upgrade arenas and reinvest in markets perceived as secondary if Texas emerges as a prestige destination.\n\nFriedkin's European soccer ties also raise questions about cross-sport operational strategy: whether his NHL franchise might share resources, ticketing systems, or sponsorship strategies with his soccer clubs. The term sheet now moves to formal franchise approval, likely within the next 12 months.",
+      "leadHeadline": "Nelly Kord Chases History at Womens PGA Championship",
+      "leadSource": "Sportico · 1h ago",
+      "leadUrl": "https://www.sportico.com/personalities/athletes/2026/nelly-korda-golf-womens-pga-championship-1234937009/",
+      "summary": "Nelly Kord tees off Thursday at the KPMG Women's PGA Championship seeking to become just the third LPGA player ever to win three majors in a single calendar year. She's already claimed the Chevron Championship and U.S. Women's Open in 2026.",
+      "article": "Nelly Kord arrives at the KPMG Women's PGA Championship as the world's No. 1 player and the heavy favorite to add a third major title to her 2026 resume. She's already won the Chevron Championship and the U.S. Women's Open, putting her in rare historical company: only two other LPGA players have won three majors in a single season.\n\nThe championship tees off Thursday in what amounts to a straight chase for history. Kord's dominance this year has been consistent and comprehensive. Three majors in one calendar year remains among the rarest feats in professional golf, and she has two of them locked in with nine holes of competitive golf still available before the year ends.\n\nKord's form suggests she has the game to make it three. Her ball-striking and course management have been sharp all season, and the Women's PGA typically rewards the player who avoids mistakes over the player who hits the most spectacular shots. If she wins, she joins an exclusive club and enters the conversation about one of the strongest single seasons in modern LPGA history.",
       "tweets": []
     },
     {
       "category": "leagues",
+      "importance": 7,
+      "leadHeadline": "Austrian Grand Prix declared heat-hazard race amid heatwave",
+      "leadSource": "BBC Sport · 4h ago",
+      "leadUrl": "https://www.bbc.co.uk/sport/formula1/articles/crelx8d3ye1o?at_medium=RSS&amp;at_campaign=rss",
+      "summary": "Formula 1's governing body declared the Austrian Grand Prix a heat-hazard race this weekend, the first such designation of the 2026 season. Teams must fit driver cooling systems as temperatures spike across Europe.",
+      "article": "The FIA designated the Austrian Grand Prix at Red Bull Ring as a heat-hazard race for this weekend, the first time the designation has been applied in the 2026 season. Race director Rui Marques made the call amid a broader European heatwave, requiring all teams to outfit their cars with active driver cooling systems.\n\nThe heat-hazard declaration carries operational weight. Teams must invest time and resources into cooling infrastructure that doesn't normally carry through a regular weekend. Driver safety becomes a more explicit variable in qualifying, practice, and the 71-lap race itself. Cockpit temperatures can exceed 60 degrees Celsius in normal F1 conditions; a heat hazard pushes that boundary further and increases physical stress on drivers over a two-hour race window.\n\nThis marks the first time this season that the FIA has invoked the protocol, suggesting that Austrian conditions have shifted notably or that the early-season baseline didn't warrant the precaution. Teams with better cooling systems or drivers with superior fitness profiles could extract marginal advantage from a field forced to manage thermal stress equally. The declaration also signals the sport's growing attention to climate and driver welfare as racing conditions intensify.",
+      "tweets": []
+    },
+    {
+      "category": "media",
       "importance": 6,
-      "leadHeadline": "Breaking down winners and losers of first round of 2026 NBA Draft",
-      "leadSource": "NY Post Sports · 4h ago",
-      "leadUrl": "https://nypost.com/2026/06/25/sports/breaking-down-winners-and-losers-of-first-round-of-2026-nba-draft/",
-      "summary": "NY Post examines the first round of the 2026 NBA Draft, identifying teams and players who exceeded or fell short of pre-draft expectations in the night's biggest selections.",
-      "article": "The first round of the 2026 NBA Draft delivered on expectations and upended several pre-draft narratives. The NY Post's analysis broke down the clear winners and losers from the night's 30 picks, with emphasis on teams that either positioned for long-term contention or missed critical opportunity windows.\n\nWinning franchises were those that acquired young talent at positions of need while avoiding reaches on uncertain prospects. Losing organizations either drafted based on perceived upside without clarity on fit, or failed to land a prospect they'd prepared to pursue, forcing secondary-round compensation.\n\nSt. John's University's frontcourt enjoyed a historic night, with multiple players hearing their names called across rounds one and two, capping a Final Four run that translated into NBA opportunity. Separately, Jay Williams weighed in on the broader draft conversation and a notable awkward moment during the draft broadcast that overshadowed some analysis.\n\nThe draft class overall reflected continued emphasis on perimeter shooting and switchable defense, with teams de-prioritizing traditional low-post centers. This meta-trend favored college programs that develop modern wing and guard archetypes and punished those betting on older positional models. The full impact of first-round selections won't clarify until rookie-season performance data arrives in fall 2026.",
+      "leadHeadline": "World Cup group stage in final stretch: Is head-to-head tiebreaker working? Deniz Undav gets Germany chance",
+      "leadSource": "CBS Sports · just now",
+      "leadUrl": "https://www.cbssports.com/soccer/news/world-cup-group-stage-tiebreaker-deniz-undav-germany/",
+      "summary": "FIFA's new World Cup tiebreaker rules are creating dead-rubber matches in the group stage final round, with the head-to-head system raising questions about whether fans are losing closing drama. Germany's Deniz Undav is one of the beneficiaries.",
+      "article": "The FIFA World Cup's group stage is entering its final stretch, and the new head-to-head tiebreaker system is showing cracks. With teams already qualified or eliminated before their last games, several matches have lost urgency, and fans are watching dead rubbers instead of climactic group finales.\n\nUnder the previous tiebreaker, goal differential and goals scored created incentive for even-qualified teams to push hard in final matches, knowing that scoreline could determine first or second place. The new head-to-head-first approach flips the calculus: once the top two teams have secured enough points, there's little reason for either to risk injury or tactical resource in the final game.\n\nDeniz Undav of Germany is one player capitalizing on the shift. Players who might normally see reduced minutes get meaningful late-stage reps when their teams have already advanced. The broader question is whether the rule change is an improvement or a loss. FIFA designed it to reduce goal-difference manipulation, but the cost appears to be dead-rubber matches at the tournament's most-watched stage. Whether the sport aligns the tiebreaker rules again for 2030 will depend on how much the dramatic reduction bothers broadcasters and global audiences watching the group stage finale.",
+      "tweets": []
+    },
+    {
+      "category": "labor",
+      "importance": 6,
+      "leadHeadline": "Cardinals Shake Up Front Office in Long-Term Leadership Plan",
+      "leadSource": "Front Office Sports · 16h ago",
+      "leadUrl": "https://frontofficesports.com/cardinals-shake-up-front-office-in-long-term-leadership-plan/",
+      "summary": "Cardinals owner Bill DeWitt Jr. has begun restructuring the front office to prepare the organization for leadership continuity beyond his tenure. The moves signal a generational shift in baseball's oldest franchise.",
+      "article": "Cardinals owner Bill DeWitt Jr. initiated a front-office restructuring aimed at securing the franchise's long-term leadership pipeline, a deliberate succession plan for one of baseball's most storied organizations. The moves reflect DeWitt's focus on institutional stability as he prepares the club for his eventual departure.\n\nThe specific personnel changes reshape reporting lines and expand the decision-making authority of younger executives, allowing the organization to evaluate who can carry the franchise into the next era. DeWitt, who has owned the team since 2000 and rebuilt it into a consistent playoff contender and World Series winner, is signaling that building institutional depth matters as much as current roster construction.\n\nThis approach differs from the transactional churn many franchises embrace after major trades or free-agency misses. Instead, the Cardinals are investing in organizational learning and continuity. For a franchise that prides itself on stability and player development, the move keeps that culture intact while widening the group of executives who understand the team's philosophy and can execute it. The timing suggests DeWitt is thinking in decades, not quarters.",
       "tweets": []
     },
     {
       "category": "media",
       "importance": 5,
       "leadHeadline": "Linda Cohn talks her ESPN exit and future plans on the SMW Podcast",
-      "leadSource": "Sports Media Watch · 8h ago",
+      "leadSource": "Sports Media Watch · 10h ago",
       "leadUrl": "https://www.sportsmediawatch.com/2026/06/linda-cohn-espn-retirement-future-plans-interview-smw-podcast/",
-      "summary": "SportsCenter anchor Linda Cohn discusses her departure from ESPN and reveals future career plans on the Sports Media Watch podcast.",
-      "article": "Linda Cohn, a longtime SportsCenter anchor at ESPN, discussed her exit from the network and outlined her next professional steps during an appearance on the Sports Media Watch Podcast. Cohn's departure marks the end of a tenure that spanned decades and made her one of the network's most recognizable on-air talents.\n\nCohn's decision to leave ESPN comes amid broader industry consolidation and shifting viewer consumption habits. ESPN has reduced anchor headcount and restructured SportsCenter production multiple times over the past three years, closing nightly international windows and consolidating overnight programming. Cohn's exit is consistent with that pattern.\n\nHer future plans, as discussed on SMW, position her outside traditional cable sports infrastructure, though specifics remained guarded during the podcast appearance. The broader context: anchors of Cohn's profile and tenure have few natural landing spots in a media landscape dominated by streaming platforms, fragmented news cycles, and content produced by leagues themselves.\n\nCohn's departure also reflects ESPN's ongoing challenge in retaining premium talent when the network's reach has shrunk and production budgets remain constrained. Younger audiences gravitate toward league-specific media and social platforms rather than aggregated SportsCenter, putting pressure on the model that built ESPN's decades-long dominance. Cohn's next chapter will likely involve digital platforms or league partnerships, reflecting the structural shifts reshaping sports media employment.",
+      "summary": "ESPN anchor Linda Cohn discussed her departure from the network and next steps in her career on the Sports Media Watch Podcast. Cohn's exit marks a notable shift in the sports media landscape.",
+      "article": "Linda Cohn, a longtime ESPN SportsCenter anchor, opened up about her exit from the network on the Sports Media Watch Podcast, discussing the circumstances of her departure and her plans moving forward. Cohn's tenure at ESPN spanned decades and made her one of the most recognizable voices in sports broadcasting.\n\nThe departure reflects broader changes in sports media. Traditional cable sports networks are navigating declining viewership and shifting consumption patterns, forcing talent renegotiations and strategic exits. Cohn's conversation addressed not just her own next chapter but the structural pressures reshaping how sports news gets reported and distributed.\n\nCohn has been central to SportsCenter's identity for years, bringing consistency and credibility to nightly sports coverage. Her next role—whether in streaming, podcasting, or another media venture—will signal where talent sees the most opportunity in a fragmenting sports media ecosystem. The podcast appearance itself reflects the trend: major broadcast talent increasingly use independent platforms to shape their own narrative around industry departures.",
       "tweets": []
     },
     {
       "category": "leagues",
-      "importance": 4,
-      "leadHeadline": "Cardinals Shake Up Front Office in Long-Term Leadership Plan",
-      "leadSource": "Front Office Sports · 13h ago",
-      "leadUrl": "https://frontofficesports.com/cardinals-shake-up-front-office-in-long-term-leadership-plan/",
-      "summary": "St. Louis Cardinals owner Bill DeWitt Jr. initiates front-office restructuring as the organization prepares for succession planning and long-term leadership transition.",
-      "article": "St. Louis Cardinals owner Bill DeWitt Jr. has begun a strategic front-office reorganization designed to prepare the franchise for the post-DeWitt era, according to Front Office Sports. The changes reflect both immediate competitive priorities and generational succession planning.\n\nDeWitt, who acquired controlling interest in the Cardinals in 1999, has overseen one of baseball's most successful franchises: 11 playoff appearances, three World Series, and consistent financial profitability. However, ownership succession is an industry-wide trend: MLB has seen multiple aging owners navigate multi-generational transfers in recent years, with varying degrees of operational continuity.\n\nThe specific moves DeWitt initiated remain under wraps, but the timing suggests the organization is identifying next-generation baseball operations leadership and establishing clear authority chains before any ownership transition occurs. This approach mirrors how the Pohlad family managed Minnesota Twins succession and how the Castellani group positioned the Colorado Rockies during leadership changes.\n\nFor the Cardinals, timing matters: the franchise has competed but not won in a decade, and a retooling front office could accelerate or hinder a return to championship contention. DeWitt's careful sequencing of this transition suggests an effort to avoid the chaos that befell franchises where ownership transfers happened abruptly without clear operational handoff protocols.",
-      "tweets": []
-    },
-    {
-      "category": "revenue",
-      "importance": 3,
-      "leadHeadline": "Cape Verde's Cinderella Run Puts Companies at Odds Over Jerseys",
-      "leadSource": "Sportico · 17h ago",
-      "leadUrl": "https://www.sportico.com/business/commerce/2026/cape-verde-world-cup-jerseys-capelli-sport-tempo-1234936972/",
-      "summary": "Cape Verde's strong World Cup start, including a draw with Spain, has sparked a licensing dispute over who can sell official team uniforms as the nation's unexpected success drives fan merchandise demand.",
-      "article": "Cape Verde's breakout World Cup performance, capped by a shocking scoreless draw with Spain, has triggered a commercial battle between apparel licensees over rights to sell the nation's jerseys. Fans eager to purchase Cape Verde kits can buy $95 uniforms from Capelli Sport, the reported supplier, though licensing clarity remains murky.\n\nCape Verde entered the tournament as a long shot and emerged as a group-stage story: a small African nation competing at parity against a tournament favorite. That narrative value translates directly into merchandise demand. Casuals and serious soccer fans both want to wear the kit of an overperforming underdog, especially one competing in the World Cup's prime exposure window.\n\nThe jersey dispute underscores how little licensing infrastructure exists in smaller federations. Major soccer nations like Brazil, Germany, and England have locked-in apparel deals negotiated years in advance, with clear commercial authority vested in a single partner. Cape Verde's federation, operating with far smaller budgets and less commercial sophistication, appears to have created ambiguity about who holds rights to manufacture and distribute official kit.\n\nFor Capelli Sport and any competing licensee, the window is narrow: Cape Verde advances or exits. If the team reaches the knockout round, merchandise demand spikes again. If they're eliminated, interest drops sharply. Commercial disputes in sports apparel are usually settled quickly because the sales window is finite. A resolution favoring one licensee will reshape who captures the revenue from Cape Verde's unlikely run.",
+      "importance": 5,
+      "leadHeadline": "Sporticast: The Biggest Loser in the NHLs Texas Expansion",
+      "leadSource": "Sportico · 3h ago",
+      "leadUrl": "https://www.sportico.com/podcasts/sporticast/2026/nhl-texas-expansion-sorsby-friedkin-1234936983/",
+      "summary": "Sportico analyzed the winners and losers of the NHL's Texas expansion move, which Gary Bettman said has a signed term sheet with Everton and Roma owner Dan Friedkin to add a 33rd franchise. The expansion reshapes the league's geographic footprint.",
+      "article": "Sportico's Sporticast episode examined the fallout from the NHL's Texas expansion, centered on a signed term sheet with billionaire owner Dan Friedkin, whose portfolio includes English Premier League club Everton and Serie A's AS Roma. The addition of a 33rd franchise marks the league's first expansion since Vegas in 2017.\n\nFriedkin's ownership of major European sports properties signals the NFL's strategy to recruit wealthy multi-sport operators who can navigate complex ownership structures across continents. His financial depth and international sports experience suggest stability, but also raise questions about attention and resource allocation across his holdings.\n\nThe bigger league-wide impact: a Texas expansion touches realignment, playoff structure, and regional rivalries. Adding a team in Dallas or Houston requires the NHL to rebalance divisional geometry, and the conference implications ripple across the entire playoff seeding system. Some existing franchises benefit from new local matchups; others lose regional leverage or face longer travel schedules. The biggest losers are likely teams in weaker markets or those losing geographic distinctiveness in a newly shuffled alignment. Friedkin's entry wealth and arena infrastructure will be tested against the franchise's ability to build a competitive roster in its inaugural season.",
       "tweets": []
     }
   ],
@@ -2393,80 +2401,80 @@
   },
   "deals": [
     {
-      "type": "apparel",
-      "parties": "Capelli Sport ⇄ Cape Verde National Team",
-      "value_usd": null,
-      "term_years": null,
-      "league": "SOCCER",
-      "headline": "Cape Verde kit licensing dispute emerges amid World Cup run",
-      "storyIndex": 17,
-      "blurb": "Capelli Sport offers $95 Cape Verde World Cup uniforms as licensing dispute emerges over jersey rights during team's unexpected group-stage success.",
-      "capturedAt": "2026-06-25T10:12:52.626Z"
+      "type": "extension",
+      "parties": "Los Angeles Lakers ⇄ Austin Reaves",
+      "value_usd": 185000000,
+      "term_years": 4,
+      "league": "NBA",
+      "headline": "Lakers sign Austin Reaves to 4-year, $185M contract extension",
+      "storyIndex": 10,
+      "blurb": "Reaves locked in on long-term deal; shapes Lakers' cap flexibility and LeBron James partnership forward.",
+      "capturedAt": "2026-06-25T13:10:30.146Z"
     }
   ],
   "ratings": [],
   "ticket_prices": [],
   "sidebar": [
     {
-      "headline": "Jaron 'Boots' Ennis preps for title unification in Brooklyn",
-      "source": "The Guardian · 1h ago",
-      "article": "Unbeaten American boxer Jaron \"Boots\" Ennis sits down ahead of Saturday's title unification fight in Brooklyn. Ennis, one of boxing's most feared fighters, discusses his Philadelphia roots, family legacy in the sport, and the weight of being positioned as the sport's next pound-for-pound king. The fighter has long been treated as a prophecy rather than a present champion, with boxing's establishment viewing him as the inevitable future dominant force. Now, his unification bout offers concrete validation of that trajectory. For North Philadelphia, Ennis represents the continuation of a legacy: a homegrown fighter carrying his city's identity into championship moments."
+      "headline": "Jaron 'Boots' Ennis: 'It means everything to be a Philadelphia fighter. We always find a way to win'",
+      "source": "The Guardian · 4h ago",
+      "article": "Jaron Ennis, the unbeaten American welterweight and one of boxing's most feared fighters, sat down ahead of Saturday's title unification bout in Brooklyn. Ennis has long been treated by boxing's establishment less as a current champion and more as a prophecy: the next generational talent, the future pound-for-pound king. But this weekend in Brooklyn, he has the chance to consolidate that promise into concrete hardware. For Ennis, fighting in his native Philadelphia region carries generational weight. His family's boxing legacy runs deep, and representing North Philadelphia at the sport's highest level is personal. The title unification fight offers him a chance to cement his status among the sport's elite and validate years of projection and expectation."
     },
     {
-      "headline": "USA vs. Turkiye odds, picks, prediction for 2026 World Cup",
-      "source": "CBS Sports · 1h ago",
-      "article": "The United States can secure an unbeaten run through the group stage when they face Turkiye on Thursday at the 2026 World Cup. CBS Sports offers betting analysis and expert predictions for the USMNT matchup, with pick odds available on FanDuel. The match carries playoff implications for both teams: the USMNT seeks to avoid a second-place finish that would require facing a stronger opponent in the last 32, while Turkiye fights for advancement or faces elimination. Group-stage trajectories often hinge on these final matches when stakes clarify for each team."
+      "headline": "Blue Jays circus proves costly in sloppy loss to Astros",
+      "source": "Sportsnet · 11h ago",
+      "article": "The Toronto Blue Jays dropped a winnable game to the Houston Astros, undone by a cascade of execution failures that have become routine frustration points this season. In the eighth inning, Jeff Hoffman's pickoff attempt sailed past third baseman Kazuma Okamoto, a mental error that swung the game's momentum decisively toward Houston. The play epitomized the series: tight, competitive baseball undermined by preventable mistakes. The Jays let another close match slip away, falling to the Astros in what should have been a chance to even the series. For Toronto, details are breaking down in high-leverage moments, and depth pitching or bench execution isn't compensating for those lapses."
     },
     {
-      "headline": "Austria Grand Prix declared heat-hazard race amid European heatwave",
+      "headline": "Stay or go home? Tartan Army in limbo as Scotland await fate",
       "source": "BBC Sport · 1h ago",
-      "article": "Formula 1's governing body, the FIA, has declared this weekend's Austrian Grand Prix a heat-hazard race as a severe heatwave sweeps across Europe. The designation triggers additional medical protocols and driver safety measures. Heat-hazard declarations affect pit crew operations, medical response readiness, and driver cooling systems. Teams must prepare for elevated track temperatures that can exceed 60 degrees Celsius on asphalt, reducing tire grip and increasing engine load. The FIA takes such declarations seriously: they reshape setup strategies and force teams to balance performance against reliability in extreme conditions."
+      "article": "The Scotland national team and their traveling supporters, known as the Tartan Army, face an agonizing wait to learn whether their World Cup campaign continues or ends in Miami. With qualification hopes hanging by a thread, fans are confronting logistical and emotional decisions: stay in the United States for a potential knockout match, or book flights home? For Scotland, the World Cup represents a rare shot at deep competition on the international stage, and every remaining fixture carries maximum consequence. The uncertainty underscores the high stakes of group-stage football, where a single result can alter a nation's tournament arc."
     },
     {
-      "headline": "Jay Williams on NBA Draft awkward moment: 'Extremely Uncomfortable'",
-      "source": "Front Office Sports · 14h ago",
-      "article": "NBA analyst Jay Williams addressed a notably awkward moment during the 2026 NBA Draft broadcast involving jokes from co-hosts about his career-ending injury. Williams called the exchange \"extremely uncomfortable\" and spoke candidly about the experience on air. The incident underscores how live sports television can veer into insensitive territory when hosts riff without editorial guardrails. Williams, a former Duke basketball player whose NBA career ended after a motorcycle accident, has become a prominent media voice. His willingness to name the discomfort directly may reset expectations for broadcast professionalism during future draft events."
+      "headline": "NBA Rookie of the Year predictions: Early expert picks after 2026 Draft with Cameron Boozer favored",
+      "source": "CBS Sports · 1h ago",
+      "article": "With the 2026 NBA Draft in the books, expert analysts are weighing in on early Rookie of the Year favorites, with Cameron Boozer commanding early consensus. The draft class will be evaluated immediately as teams begin summer league play and preseason competition. Early projections often shift once players hit NBA courts, but Boozer's talent trajectory and landing spot have earned him preferred status among voters. Tracking ROY races early allows outlets to establish historical prediction records and engage readers in long-form follow-ups as the season unfolds and surprise contenders emerge."
     },
     {
-      "headline": "Brazil beats Scotland; Scotland's World Cup hopes remain alive",
-      "source": "BBC Sport · 9h ago",
-      "article": "Vinicius Jr. scored to lead Brazil past Scotland in Miami, halting the Scots' party in the group stage. Scotland's loss keeps their World Cup survival uncertain as they navigate the final group matches. Brazil's victory ensures they advance and likely finish atop their group. Scotland now faces an elimination scenario or a path through the group-runners-up bracket, where they would face tougher last-32 opposition. Vinicius's clinical finishing exemplifies Brazil's attacking depth and their ability to convert chances late in matches. The Scots, despite strong moments, couldn't overcome Brazil's efficiency."
+      "headline": "How the Premier League Turns Data Into Decisions in Real Time",
+      "source": "Front Office Sports · just now",
+      "article": "Front Office Sports explains how Microsoft Azure powers the Premier League's real-time data infrastructure, allowing clubs and the league office to make split-second decisions during matches. Modern football has become a data-driven sport, with analytics shaping team selection, tactical adjustment, and injury prevention. The Premier League's partnership with Microsoft enables clubs to process player performance metrics, injury risk scores, and opposition patterns instantaneously, giving top teams a marginal edge in decision-making speed. This technological advantage often proves decisive in tight matches where informed substitutions or tactical pivots arrive seconds before competitors can execute similar calls."
     },
     {
-      "headline": "Blue Jays drop series to Astros in sloppy defensive game",
-      "source": "Sportsnet · 8h ago",
-      "article": "Toronto Blue Jays suffered a costly loss to the Houston Astros on Wednesday when a miscue shifted momentum decisively. Jeff Hoffman's pickoff throw sailed past third baseman Kazuma Okamoto in the eighth inning, a play that exemplified the Jays' defensive struggles in a tight contest. The loss extended Toronto's frustration with winnable games slipping away. Sportsnet's Jamie Campbell and Kevin Barker broke down how the Jays' attention to detail fractured at a critical moment. The error cost the Jays a series against a division rival, pushing them further back in the AL East standings as the season enters its middle innings."
+      "headline": "CC Sabathia, Hunter Pence, Dexter Fowler on Day 3 at Cannes Lions",
+      "source": "Sportico · 17h ago",
+      "article": "Sportico caught up with three MLB legends—CC Sabathia, Hunter Pence, and Dexter Fowler—at Cannes Lions as they navigated the annual advertising and sports marketing festival. Fowler, in particular, seemed energized by the Southern French vibe and the creative energy flowing through the event. These appearances signal how athletes increasingly use global marketing conferences to build personal brands, explore business opportunities beyond playing, and connect with sponsors and media partners in informal settings. Cannes Lions provides a stage for athletes to shape their post-playing identity."
     }
   ],
   "poll": {
-    "question": "Which business story matters most to sports right now?",
+    "question": "Should FIFA adjust the World Cup tiebreaker rules again to reduce dead-rubber group-stage matches?",
     "options": [
-      "IOC paying Olympic athletes directly signals broader labor shifts",
-      "NHL Texas expansion reshapes Western Conference geography",
-      "World Cup TV numbers validate FIFA's media-rights strategy",
-      "ESPN losing anchor talent like Cohn reflects structural decline"
+      "Yes, return to goal differential as the primary tiebreaker",
+      "No, head-to-head reduces gaming and manipulation",
+      "Keep head-to-head but reduce group size to minimize dead rubbers",
+      "Expand to 48 teams in a balanced group format instead"
     ]
   },
   "predictions": [
     {
-      "statement": "The NHL's Texas expansion closes within 18 months and the 33rd franchise begins play by 2028-29 season.",
-      "probability": 78,
-      "rationale": "Friedkin's track record with Everton and Roma, combined with a signed term sheet and the league's appetite for growth, suggests momentum. The Vegas precedent from 2017 shows expansion can execute quickly. Texas market size and corporate sponsor appetite accelerate timelines."
-    },
-    {
-      "statement": "USA advances from World Cup group stage with an unbeaten record after Thursday's match against Turkiye.",
+      "statement": "Nelly Kord wins the KPMG Women's PGA Championship and becomes the third LPGA player in history to win three majors in a single calendar year.",
       "probability": 72,
-      "rationale": "USMNT's current group position and the fact that Turkiye's situation may pressure them into attacking play creates conditions favoring a US win. Home-continent advantage in North America aids US morale. Turkiye's elimination scenarios may lead to desperation rather than composure."
+      "rationale": "Kord is the world No. 1, has won two majors already this year, and women's golf has shown that dominant players often run the table when they reach peak form. The field will be strong, but her ball-striking and consistency have separated her cleanly from the rest of the tour."
     },
     {
-      "statement": "Cape Verde's World Cup kit licensing dispute resolves in favor of the federation's preferred licensee within two weeks.",
-      "probability": 85,
-      "rationale": "World Cup commercial windows are brutally finite. If Cape Verde advances, merchandise demand justifies fast resolution. If eliminated, the dispute becomes moot within days. Lawyers and federation leadership will prioritize speed over protracted litigation."
+      "statement": "The NHL's Texas expansion with Dan Friedkin formally closes by year-end 2026, with a 2027 or 2028 start date announced.",
+      "probability": 65,
+      "rationale": "Friedkin has the financial resources and multi-sport ownership experience to move quickly, but arena construction, relocation logistics, and roster expansion draft timelines typically take 18-24 months from term sheet to puck drop. A formal approval and start-date announcement by December is plausible but tight."
     },
     {
-      "statement": "The $10,000 IOC athlete payment sets precedent that leads to minimum payments in all Olympic sports within four years.",
-      "probability": 64,
-      "rationale": "The IOC's move breaks the amateur tradition and creates moral hazard: why should some Olympic federations pay athletes while others don't? Pressure from athletes, federations, and sponsors will push toward standardized minimums. However, resistance from smaller federations and traditional-minded organizations will slow broader adoption."
+      "statement": "The Lakers' Austin Reaves extension prevents a LeBron James trade this offseason and keeps the core intact for at least one more title run.",
+      "probability": 58,
+      "rationale": "Locking in Reaves signals front-office commitment to competing with James now, but the salary cap impact limits additional moves. A LeBron trade was never imminent, but keeping Reaves reduces the likelihood that the front office pivots toward a rebuild mid-James's tenure. One more run is the bet."
+    },
+    {
+      "statement": "Scotland advances past the World Cup group stage and reaches the knockout round for the first time since 1998.",
+      "probability": 22,
+      "rationale": "Scotland has qualified for the World Cup twice since 1998 and has not advanced in either appearance. The group-stage format is punishing, and while anything is possible in tournament football, the Tartan Army's historical record in World Cups suggests they face a steep climb."
     }
   ],
   "injuries": [],
@@ -3387,14 +3395,14 @@
       "_pendingGrade": true
     }
   ],
-  "updatedAt": "2026-04-23T18:45:00Z",
+  "updatedAt": "2026-04-23T18:47:00Z",
   "highlights": [
     {
       "league": "NBA",
       "title": "Best Emotional Moments of the 2026 NBA Draft",
       "videoId": "fRO0KTjjLaw",
       "thumbnail": "https://img.youtube.com/vi/fRO0KTjjLaw/mqdefault.jpg",
-      "timeAgo": "6h ago",
+      "timeAgo": "9h ago",
       "isFallback": false
     },
     {
@@ -3402,15 +3410,15 @@
       "title": "Took it like a champ 👏 (via @blakemccall/IG)",
       "videoId": "RN6VBLwA0zU",
       "thumbnail": "https://img.youtube.com/vi/RN6VBLwA0zU/mqdefault.jpg",
-      "timeAgo": "6h ago",
+      "timeAgo": "9h ago",
       "isFallback": false
     },
     {
       "league": "MLB",
-      "title": "Highlights from ALL GAMES on 6/24 (Dansby Swanson's 11 total RBIs, Mookie Betts' 300th HR, MORE!)",
-      "videoId": "CIKubAQ64Yg",
-      "thumbnail": "https://img.youtube.com/vi/CIKubAQ64Yg/mqdefault.jpg",
-      "timeAgo": "Just now",
+      "title": "Braxton Ashcraft's 10 strikeouts in dominant outing &amp; the BEST MLB Highlights from 6/24/26!",
+      "videoId": "Z8uxncX9K1g",
+      "thumbnail": "https://img.youtube.com/vi/Z8uxncX9K1g/mqdefault.jpg",
+      "timeAgo": "2h ago",
       "isFallback": false
     },
     {
@@ -3418,7 +3426,7 @@
       "title": "Bussi's fiancée Mary talks Brandon, Stanley Cup on Never Offside | S2, Ep30",
       "videoId": "jNvTrP7QZrc",
       "thumbnail": "https://img.youtube.com/vi/jNvTrP7QZrc/mqdefault.jpg",
-      "timeAgo": "15h ago",
+      "timeAgo": "18h ago",
       "isFallback": false
     },
     {
@@ -3426,19 +3434,67 @@
       "title": "Atlanta Dream vs. Golden State Valkyries | FULL GAME HIGHLIGHTS | June 24, 2026",
       "videoId": "dzF2MbkQyjQ",
       "thumbnail": "https://img.youtube.com/vi/dzF2MbkQyjQ/mqdefault.jpg",
-      "timeAgo": "5h ago",
+      "timeAgo": "8h ago",
       "isFallback": false
     },
     {
       "league": "SOCCER",
-      "title": "Michael Who?! 😭😭 (via pandachurches/TT)",
-      "videoId": "iGaj_i0iE0U",
-      "thumbnail": "https://img.youtube.com/vi/iGaj_i0iE0U/mqdefault.jpg",
-      "timeAgo": "2h ago",
+      "title": "Update on Pulisic's status vs. Türkiye 🚨",
+      "videoId": "w6bBwbAlCjQ",
+      "thumbnail": "https://img.youtube.com/vi/w6bBwbAlCjQ/mqdefault.jpg",
+      "timeAgo": "Just now",
       "isFallback": false
     }
   ],
   "reels": [
+    {
+      "league": "SOCCER",
+      "title": "Update on Pulisic's status vs. Türkiye 🚨",
+      "videoId": "w6bBwbAlCjQ",
+      "author": "ESPN FC",
+      "pubDate": "2026-06-25T12:53:02+00:00",
+      "link": "https://www.youtube.com/watch?v=w6bBwbAlCjQ"
+    },
+    {
+      "league": "SOCCER",
+      "title": "Jurgen Klinsmann addresses Germany’s ‘tricky game’ with Ecuador | ESPN FC",
+      "videoId": "SwkjG4VWfsA",
+      "author": "ESPN FC",
+      "pubDate": "2026-06-25T12:15:29+00:00",
+      "link": "https://www.youtube.com/watch?v=SwkjG4VWfsA"
+    },
+    {
+      "league": "SOCCER",
+      "title": "Shaka Hislop WANTS to see Christian Pulisic play MEANINGFUL MINUTES vs. Turkiye | SportsCenter",
+      "videoId": "L7Rps1G_51c",
+      "author": "ESPN FC",
+      "pubDate": "2026-06-25T12:10:45+00:00",
+      "link": "https://www.youtube.com/watch?v=L7Rps1G_51c"
+    },
+    {
+      "league": "SOCCER",
+      "title": "Haaland is just the social media guy 🤣 (via Erling Haaland/YT)",
+      "videoId": "WvOhFBm84os",
+      "author": "ESPN FC",
+      "pubDate": "2026-06-25T12:09:29+00:00",
+      "link": "https://www.youtube.com/watch?v=WvOhFBm84os"
+    },
+    {
+      "league": "SOCCER",
+      "title": "Mbappe’s come a long way 👏 (via @equipedefrance/X)",
+      "videoId": "DxIWEQ-FBH4",
+      "author": "ESPN FC",
+      "pubDate": "2026-06-25T12:05:28+00:00",
+      "link": "https://www.youtube.com/watch?v=DxIWEQ-FBH4"
+    },
+    {
+      "league": "MLB",
+      "title": "Braxton Ashcraft's 10 strikeouts in dominant outing &amp; the BEST MLB Highlights from 6/24/26!",
+      "videoId": "Z8uxncX9K1g",
+      "author": "MLB",
+      "pubDate": "2026-06-25T11:00:32+00:00",
+      "link": "https://www.youtube.com/watch?v=Z8uxncX9K1g"
+    },
     {
       "league": "MLB",
       "title": "Highlights from ALL GAMES on 6/24 (Dansby Swanson's 11 total RBIs, Mookie Betts' 300th HR, MORE!)",
@@ -3528,14 +3584,6 @@
       "link": "https://www.youtube.com/watch?v=fRO0KTjjLaw"
     },
     {
-      "league": "SOCCER",
-      "title": "Czechia vs. Mexico Reaction: This is HISTORICAL from Mexico – Herculez Gomez | ESPN FC",
-      "videoId": "1wm1mb1I_F8",
-      "author": "ESPN FC",
-      "pubDate": "2026-06-25T04:05:33+00:00",
-      "link": "https://www.youtube.com/watch?v=1wm1mb1I_F8"
-    },
-    {
       "league": "MLB",
       "title": "BREWERS vs. REDS Full Game Highlights (6/24/26) | MLB Highlights",
       "videoId": "d9sm3otUp_E",
@@ -3544,36 +3592,12 @@
       "link": "https://www.youtube.com/watch?v=d9sm3otUp_E"
     },
     {
-      "league": "SOCCER",
-      "title": "‘This was there for the taking’ – Reaction to Canada’s loss to Switzerland | ESPN FC",
-      "videoId": "awprldxxWmk",
-      "author": "ESPN FC",
-      "pubDate": "2026-06-25T04:00:41+00:00",
-      "link": "https://www.youtube.com/watch?v=awprldxxWmk"
-    },
-    {
-      "league": "SOCCER",
-      "title": "SCOTLAND WERE TERRIBLE! 🗣️ Brazil-Scotland takeaways + Neymar back is 'good for football' | ESPN FC",
-      "videoId": "EfCq7pms7Mg",
-      "author": "ESPN FC",
-      "pubDate": "2026-06-25T03:58:16+00:00",
-      "link": "https://www.youtube.com/watch?v=EfCq7pms7Mg"
-    },
-    {
       "league": "MLB",
       "title": "BRAVES vs. PADRES Full Game Highlights (6/24/26) | MLB Highlights",
       "videoId": "ZS_2P5_fYNQ",
       "author": "MLB",
       "pubDate": "2026-06-25T03:56:17+00:00",
       "link": "https://www.youtube.com/watch?v=ZS_2P5_fYNQ"
-    },
-    {
-      "league": "MLB",
-      "title": "Full at-bats of Shohei Ohtani's 8 strikeouts with the Dodgers over a strong 6-inning start 💪",
-      "videoId": "1wjDQUC3cJ8",
-      "author": "MLB",
-      "pubDate": "2026-06-25T03:34:43+00:00",
-      "link": "https://www.youtube.com/watch?v=1wjDQUC3cJ8"
     },
     {
       "league": "NBA",
@@ -3654,22 +3678,6 @@
       "author": "NBA",
       "pubDate": "2026-06-25T02:05:49+00:00",
       "link": "https://www.youtube.com/watch?v=NtImWLq6Vic"
-    },
-    {
-      "league": "SOCCER",
-      "title": "World Cup stars RISING TO THE OCCASION 🤩 + Trouble for Harry Kane &amp; England 😦 | The Sports Reporters",
-      "videoId": "PgKt_MYEBQI",
-      "author": "ESPN FC",
-      "pubDate": "2026-06-25T02:02:33+00:00",
-      "link": "https://www.youtube.com/watch?v=PgKt_MYEBQI"
-    },
-    {
-      "league": "SOCCER",
-      "title": "REACTION to Brazil vs. Scotland 🔥 Neymar makes first appearance + Morocco expectations | ESPN FC",
-      "videoId": "bdbXrNXfOyM",
-      "author": "ESPN FC",
-      "pubDate": "2026-06-25T01:17:47+00:00",
-      "link": "https://www.youtube.com/watch?v=bdbXrNXfOyM"
     },
     {
       "league": "NFL",
