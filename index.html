@@ -2652,7 +2652,7 @@
       '<div class="mt-card-header">' +
         '<div>' +
           '<div class="mt-card-title">Deal Flow</div>' +
-          '<div class="mt-card-meta">Extracted from today\'s news · Updates every 2h</div>' +
+          '<div class="mt-card-meta">Extracted from today\'s news · Updates every 12h</div>' +
         '</div>' +
       '</div>' +
       summary +
@@ -6175,7 +6175,7 @@
       refreshDraftTracker();
       renderWidget();
       var t = data.updatedAt ? new Date(data.updatedAt).toLocaleTimeString('en-US',{hour:'numeric',minute:'2-digit'}) : '';
-      document.getElementById('updated-label').textContent = 'Feed updated ' + t + ' · auto-refreshes every 2h';
+      document.getElementById('updated-label').textContent = 'Feed updated ' + t + ' · auto-refreshes every 12h';
       if (typeof renderTicker === 'function') renderTicker(allData);
     } catch(err) {
       console.warn('loadStories error:', err.message);
