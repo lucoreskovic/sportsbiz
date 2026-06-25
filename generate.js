@@ -432,6 +432,23 @@ async function cluster(stories) {
     '[' + i + '] SOURCE:' + s.source + ' | ' + ageLabel(s.pubDate) + ' | ' + s.title + ' | ' + (s.description||'').slice(0, 400)
   ).join('\n');
   const srcList = [...new Set(selected.map(s=>s.source))].join(', ');
+
+  // Soccer/World Cup injuries have no live ESPN feed, so they only reach the desk
+  // if an injury-framed soccer story happens to be in the 18 clustered stories
+  // above — which it usually isn't. To fix that, scan the FULL fetched feed (not
+  // just the clustered slice) for injury language tied to soccer/World Cup and
+  // hand those items to the injury task as extra candidates. Reuses already-
+  // fetched RSS, so no web searches and no extra API cost beyond input tokens.
+  const INJ_RX = /injur|ruled out|sidelin|doubtful|out for|fitness test|\bknock\b|hamstring|\bknee\b|ankle|withdrawn|limp|set to miss|miss(es|ed)? the (match|game|tournament|cup)|return(s|ing)? from|setback|strain|sprain|surgery|concussion|out (of|for) the/i;
+  const SOC_RX = /world cup|\bfifa\b|premier league|la liga|bundesliga|serie a|ligue 1|champions league|europa league|\bmls\b|usmnt|uswnt|national team|knockout (stage|round)|group stage|round of 16|quarter-?final|semi-?final|\bnations league\b/i;
+  const injCandidates = stories.filter(s => {
+    const t = (s.title || '') + ' ' + (s.description || '');
+    return INJ_RX.test(t) && SOC_RX.test(t);
+  }).slice(0, 12);
+  const injBlock = injCandidates.length
+    ? '\n\nSOCCER / WORLD CUP INJURY CANDIDATES (flagged across the FULL feed, beyond the clustered set above — scan these for TASK 7 injuries too):\n' +
+      injCandidates.map((s, i) => '(S' + i + ') ' + s.source + ' | ' + ageLabel(s.pubDate) + ' | ' + s.title + ' | ' + (s.description || '').slice(0, 300)).join('\n')
+    : '';
   const prevLeadsBlock = prevLeads.length
     ? '\nFRESHNESS — DO NOT RERUN YESTERDAY\'S FEED:\nThe previous refresh led with these stories:\n' + prevLeads.map(h => '- "' + h + '"').join('\n') + '\nDo NOT re-lead with any of these unless a genuinely NEW development happened since (a new game was played, new numbers were reported, a new announcement dropped). A follow-up WITH new facts is a new story; the same article re-ranked is not. Each story below shows its age — strongly prefer leads under 24h old. When two candidates are comparably important, the fresher one leads.\n'
     : '';
@@ -631,13 +648,13 @@ Quality bar: only include entries with at least one of get_in_usd or avg_usd pop
 
 ## TASK 7 — INJURY EXTRACTION
 
-Scan the stories for injury news. Be generous — readers want a populated injury desk, not an empty page. Include ANY player who is a starter, key rotation piece, or notable contributor with a meaningful status. Don't restrict to stars. Return an "injuries" array. For each injury, provide:
+Scan the stories for injury news. Be generous, readers want a populated injury desk, not an empty page. Include ANY player who is a starter, key rotation piece, or notable contributor with a meaningful status. Don't restrict to stars. ALSO scan the "SOCCER / WORLD CUP INJURY CANDIDATES" section at the very end (if present) and extract every real soccer/World Cup injury from it, not just from the clustered stories. Return an "injuries" array. For each injury, provide:
 
   injuries: [
     {
       player: "Player Name",
       team: "Team Name",
-      league: "NBA" | "NFL" | "MLB" | "NHL" | "SOCCER" | "OTHER",
+      league: "The player's ACTUAL sport. Use 'NBA' | 'NFL' | 'MLB' | 'NHL' for those leagues; 'SOCCER' ONLY for association football (World Cup, Premier League, La Liga, MLS, Champions League, etc.); 'TENNIS' | 'GOLF' | 'F1' | 'MMA' | 'CRICKET' for those; 'OTHER' for anything else. CRITICAL: NEVER label a tennis, golf, F1, cricket, or other non-football athlete as SOCCER — a Wimbledon/tennis injury is TENNIS, not SOCCER. Soccer means players who play association football only.",
       position: "Position abbreviation if known (e.g. 'QB','RB','WR' for NFL; 'PG','C' for NBA; 'SP','SS' for MLB; 'G','D' for NHL; 'GK','FW' for soccer). Empty string if not stated.",
       status: "OUT" | "QUESTIONABLE" | "DOUBTFUL" | "DAY_TO_DAY" | "IR" | "RETURNING",
       injury: "Brief description (e.g. 'sprained ankle', 'hamstring', 'knee surgery')",
@@ -681,7 +698,7 @@ Aim for 4-8 injuries on a normal news day. When the World Cup or another major s
 Return ONLY valid JSON. Top-level keys: clusters, draftTracker, deals, ratings, ticket_prices, sidebar, poll, predictions, injuries, picks, updatedAt.
 
 Stories:
-${list}`;
+${list}${injBlock}`;
 
   // Retry up to 3 times if we hit a rate limit. Wait progressively longer each
   // attempt so the per-minute window has time to reset.
