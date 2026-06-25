@@ -1058,12 +1058,12 @@ Return ONLY valid JSON with no prose:
       body: JSON.stringify({
         model: 'claude-haiku-4-5-20251001',
         max_tokens: 2500,
-        // X/Twitter is the hardest platform to surface via general web search,
-        // so this stage needs real budget. 8 searches across ~7 clusters lets
-        // Claude try the entity-search and handle-search angles for each story
-        // instead of giving up after 3. This is the single most impactful lever
-        // on "why are there no threads" — worth the extra searches on one run.
-        tools: [{ type: 'web_search_20250305', name: 'web_search', max_uses: 8 }],
+        // X/Twitter is the hardest platform to surface via general web search.
+        // Cost-trim: dropped 8 → 4 searches. The batch still tries the lead and
+        // a couple of top clusters; the focused retry below covers the lead if it
+        // came back empty. Per our "show none rather than force one" stance, fewer
+        // searches just means fewer threads on the smaller stories, which is fine.
+        tools: [{ type: 'web_search_20250305', name: 'web_search', max_uses: 4 }],
         messages: [{ role: 'user', content: prompt }],
       }),
     });
@@ -1142,7 +1142,10 @@ Return ONLY valid JSON with no prose:
   // Guarantee a thread on the lead story (and try the next two as bonus). If
   // the main pass left cluster[0] empty, retry it hard; if that succeeds we're
   // done, otherwise try [1] and [2] so the page reliably carries SOME thread.
-  const retryTargets = clusters.slice(0, 3).filter(c => c && (!c.tweets || c.tweets.length === 0));
+  // Cost-trim: retry only the lead story [0] (was top 3). The lead is the most
+  // visible and most likely to have an official-account post; chasing threads for
+  // the smaller stories was a big share of the per-run search spend.
+  const retryTargets = clusters.slice(0, 1).filter(c => c && (!c.tweets || c.tweets.length === 0));
   let retriesUsed = 0;
   for (const target of retryTargets) {
     if (target !== clusters[0] && clusters[0].tweets && clusters[0].tweets.length > 0 && retriesUsed >= 2) break;
@@ -1156,7 +1159,7 @@ Return ONLY valid JSON with no prose:
         body: JSON.stringify({
           model: 'claude-haiku-4-5-20251001',
           max_tokens: 1000,
-          tools: [{ type: 'web_search_20250305', name: 'web_search', max_uses: 8 }],
+          tools: [{ type: 'web_search_20250305', name: 'web_search', max_uses: 3 }],
           messages: [{ role: 'user', content: focusPrompt }],
         }),
       });
@@ -1550,7 +1553,7 @@ function buildMarketFillPicks(oddsByGame, existingPicks, minPerSport, maxPerSpor
 //                 candidates where research revealed genuine edge make the cut;
 //                 candidates without edge get dropped.
 //
-// This trades latency (~60-90s vs ~5s) for ground truth. The 2-hour cron can
+// This trades latency (~60-90s vs ~5s) for ground truth. The 12-hour cron can
 // easily absorb that. If any stage fails, falls back to simpler single-pass
 // generation so the site never renders without picks.
 async function generatePicks() {
