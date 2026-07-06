@@ -1,73 +1,89 @@
 {
   "clusters": [
     {
+      "category": "leagues",
+      "importance": 9,
+      "leadHeadline": "Trump confirms he asked Fifa to review Balogun ban",
+      "leadSource": "BBC Sport · 2h ago",
+      "leadUrl": "https://www.bbc.co.uk/sport/football/articles/c1myykx0gmxo?at_medium=RSS&amp;at_campaign=rss",
+      "summary": "<cite index=\"1-9,1-10\">Trump confirmed Monday he called FIFA President Gianni Infantino asking for a review of Balogun's red card, saying \"I asked for a review because I didn't think it was a foul.\"</cite> <cite index=\"1-1\">FIFA reversed the automatic one-game suspension</cite> hours before the USA faced Belgium.",
+      "article": "<cite index=\"1-9,1-10\">President Donald Trump confirmed Monday he called FIFA President Gianni Infantino to ask for a review of Folarin Balogun's red card and suspension, saying \"I asked for a review because I didn't think it was a foul.\"</cite> <cite index=\"1-1\">FIFA's Disciplinary Committee reversed the automatic one-game suspension</cite> on Sunday, <cite index=\"4-2,4-3\">though Infantino said in a statement he told Trump that \"there was an ongoing legal process involving FIFA's independent judicial bodies.\"</cite>\n\n<cite index=\"1-8\">Balogun received the red card in the 64th minute of the USA's 2-0 victory over Bosnia and Herzegovina on Wednesday</cite> after <cite index=\"2-21\">stepping on the back of defender Tarik Muharemović's leg.</cite> <cite index=\"1-14\">FIFA suspended the ban \"for a probationary period of one (1) year,\"</cite> citing Article 27 of its disciplinary code.\n\n<cite index=\"1-3\">UEFA called the decision \"unprecedented, incomprehensible and unjustifiable.\"</cite> <cite index=\"2-17\">The only other time FIFA had allowed a player who received a red card to play in the subsequent game came in 1962, when Brazil's Garrincha played in the final after being sent off in the semifinal.</cite> <cite index=\"3-14\">Balogun has scored three goals for the USA in this tournament and is the team's leading scorer.</cite>",
+      "tweets": [
+        {
+          "url": "https://twitter.com/FoxNews/status/2074141395917394123",
+          "html": "<blockquote class=\"twitter-tweet\" data-dnt=\"true\" data-theme=\"dark\"><p>BREAKING: President Trump reveals the details of his conversation with FIFA President Gianni Infantino over the controversial red card call on star American player Folarin Balogun.\n\n\"All I did was ask for a review because I didn't think it was a foul. And, you know, again, I'm https://t.co/MD5Q9t44th</p>&mdash; Fox News (@FoxNews) <a href=\"https://twitter.com/FoxNews/status/2074141395917394123\">July 6, 2026</a></blockquote>",
+          "author_name": "Fox News",
+          "author_url": "https://twitter.com/FoxNews",
+          "dateMs": 1783348819000
+        }
+      ]
+    },
+    {
       "category": "revenue",
       "importance": 9,
       "leadHeadline": "Rogers Completes Toronto Sports Empire With $3.1B MLSE Purchase",
-      "leadSource": "Sportico · just now",
+      "leadSource": "Sportico · 4h ago",
       "leadUrl": "https://www.sportico.com/business/finance/2026/rogers-buys-mlse-toronto-maple-leafs-raptors-1234938017/",
-      "summary": "<cite index=\"2-1\">Rogers Communications signed a deal to buy the remaining 25% stake in Maple Leaf Sports & Entertainment from Kilmer Sports Inc. for $4.35 billion</cite>, <cite index=\"7-13\">with the transaction expected to close in Q4 2026</cite> after league approvals.",
-      "article": "<cite index=\"2-1\">Rogers Communications has signed a deal to buy the remaining 25% stake in Maple Leaf Sports & Entertainment from Kilmer Sports Inc. for $4.35 billion</cite>, moving toward 100% ownership of Toronto's major sports portfolio. <cite index=\"2-5\">The deal gives MLSE ownership of the Toronto Maple Leafs, Raptors, Toronto FC, and Toronto Argonauts</cite>. <cite index=\"7-13\">The transaction is expected to close in Q4 2026</cite>, <cite index=\"7-12\">subject to league approvals</cite>. <cite index=\"2-3,2-4\">Rogers CEO Tony Staffieri called it a defining moment for the company, saying \"Our full ownership of MLSE brings together Canada's premier communications company with Canada's premier sports and entertainment organization.\"</cite> <cite index=\"1-5\">Rogers says it has already raised the cash needed for the deal</cite>. <cite index=\"7-11\">The company also intends to sell a minority stake in the consolidated sports, media and entertainment assets over the next year</cite>.",
-      "tweets": []
-    },
-    {
-      "category": "leagues",
-      "importance": 8,
-      "leadHeadline": "Integrity of game at stake over Fifa Balogun decision - Uefa",
-      "leadSource": "BBC Sport · just now",
-      "leadUrl": "https://www.bbc.co.uk/sport/football/articles/c5yzzd73871o?at_medium=RSS&amp;at_campaign=rss",
-      "summary": "UEFA has condemned FIFA's decision not to uphold US striker Folarin Balogun's immediate ban at the World Cup, calling it 'unprecedented, incomprehensible and unjustifiable.' Belgium has launched an appeal.",
-      "article": "UEFA has escalated its criticism of FIFA's handling of Folarin Balogun's World Cup eligibility, declaring that the integrity of the game is at stake after FIFA declined to uphold Balogun's ban from knockout play. The US striker, who had been suspended following a red card and subsequent review, was allowed to compete in the Round of 16 match against Belgium after FIFA rejected the initial disciplinary ruling. UEFA's formal statement characterized the decision as \"unprecedented, incomprehensible and unjustifiable,\" signaling a rare public rift between the continental confederation and world football's governing body. The Royal Belgian Football Association confirmed it was filing an appeal, arguing it had \"no alternative\" given FIFA's reversal. The dispute centers on the application of FIFA's disciplinary code and whether FIFA properly upheld sanctions from earlier in the tournament. The decision directly impacts the USMNT's quarterfinal bid against Belgium on Monday in Seattle, as Balogun remains available. The controversy highlights ongoing tensions over FIFA's consistency in applying its own rules during major tournaments.",
-      "tweets": []
+      "summary": "Rogers Communications has acquired the remaining 25% of MLSE for CAD $4.35 billion ($3.06 billion USD), cementing full ownership of the Maple Leafs, Raptors, and Toronto FC. The transaction is expected to close in the coming months.",
+      "article": "Rogers Communications has completed its acquisition of the remaining 25% stake in Maple Leaf Sports and Entertainment (MLSE) from Kilmer Sports, paying CAD $4.35 billion, equivalent to approximately $3.06 billion USD at current exchange rates. The deal gives Rogers full ownership of three major franchises: the NHL's Toronto Maple Leafs, the NBA's Toronto Raptors, and MLS's Toronto FC.\n\nThis transaction consolidates Rogers' control of Toronto's major sports assets under a single corporate umbrella, a consolidation that began with earlier acquisitions. The deal is expected to close in the coming months pending final regulatory approvals and closing mechanics.\n\nThe $3.06 billion valuation underscores the premium placed on bundled North American sports franchises with shared infrastructure. For Rogers, the move completes a decade-long strategy to position itself as a vertically integrated sports and media operator in Canada's largest market. The Maple Leafs remain one of the most valuable franchises in the NHL, while the Raptors and Toronto FC round out a portfolio that spans three major leagues.",
+      "tweets": [
+        {
+          "url": "https://twitter.com/MapleLeafs/status/2073153591896924603",
+          "html": "<blockquote class=\"twitter-tweet\" data-dnt=\"true\" data-theme=\"dark\"><p>Officially official 🔵⚪️ https://t.co/qEYSFHSIUg</p>&mdash; Toronto Maple Leafs (@MapleLeafs) <a href=\"https://twitter.com/MapleLeafs/status/2073153591896924603\">July 3, 2026</a></blockquote>",
+          "author_name": "Toronto Maple Leafs",
+          "author_url": "https://twitter.com/MapleLeafs",
+          "dateMs": 1783113308000
+        }
+      ]
     },
     {
       "category": "media",
       "importance": 8,
-      "leadHeadline": "How England used five mini games to beat Mexico",
-      "leadSource": "BBC Sport · 2h ago",
-      "leadUrl": "https://www.bbc.co.uk/sport/football/articles/cqx113327eyo?at_medium=RSS&amp;at_campaign=rss",
-      "summary": "England advanced to the World Cup quarterfinals with a dramatic win over Mexico in hostile conditions, using unconventional tactical adjustments that Thomas Tuchel's staff deployed to overcome playing with 10 men.",
-      "article": "England progressed to the World Cup quarterfinals with a stunning victory over Mexico in Mexico City, a result BBC Sport analyzed as a tactical masterclass by head coach Thomas Tuchel's staff. Playing with 10 men for much of the match, England adapted by breaking the game into five distinct tactical phases, each designed to exploit specific weaknesses in Mexico's setup while maintaining structural stability despite the numerical disadvantage. The strategy involved rapid transitions between defensive and attacking formations, forcing Mexico into decision-making errors in congested midfield spaces. Tuchel's tactical flexibility allowed England to absorb pressure in stretches while remaining lethal on the counterattack, a combination that proved decisive against a Mexican side that dominated possession but failed to convert territorial advantage into clear chances. The win marks a significant moment in England's tournament run and Tuchel's tenure, demonstrating an ability to win under adverse circumstances against a traditionally difficult opponent. The quarterfinal draw will determine England's path forward, though the Mexico result proves the team can compete and win in high-pressure environments far from home.",
+      "leadHeadline": "Tour de France 2026: Pogacar surges clear to win stage three and take yellow jersey",
+      "leadSource": "The Guardian · 1h ago",
+      "leadUrl": "https://www.theguardian.com/sport/live/2026/jul/06/tour-de-france-stage-three-goes-ahead-without-fans-amid-wildfire-threat-live",
+      "summary": "Tadej Pogacar claimed stage three of the 2026 Tour de France, securing the yellow leader's jersey with a dominant performance. The stage ran from Granollers to Les Angles over 195.9km.",
+      "article": "Tadej Pogacar won stage three of the 2026 Tour de France, moving into the overall race lead and claiming the yellow jersey. The 195.9-kilometer stage from Granollers to Les Angles saw Pogacar surge clear of the field, extending his advantage over rivals including Remco Evenepoel and Jonas Vingegaard.\n\nPogacar's stage victory marks a commanding start to a race he enters as one of the favorites. The yellow jersey signals his control of the race's narrative early, a position that typically requires defending across the Alps and the final time trial.\n\nThe Guardian's live coverage tracked the stage through the Pyrenees, with Pogacar's aggression paying dividends over the climbing terrain. His performance follows a strong showing on stage two, confirming he has arrived at the Tour in peak condition. The race continues with eight stages remaining after Monday's action, and Pogacar's lead will face its first real test in the high mountains later in the week.",
       "tweets": []
     },
     {
       "category": "contracts",
       "importance": 7,
+      "leadHeadline": "Trouble looms for Warriors as Quinten Post lured by $30M Memphis offer",
+      "leadSource": "NY Post Sports · just now",
+      "leadUrl": "https://nypost.com/2026/07/06/sports/warriors-could-lose-backup-big-man-to-west-rival-imminently/",
+      "summary": "Restricted free agent Quinten Post signed a three-year, $30 million offer sheet with the Memphis Grizzlies. The Golden State Warriors have until 11:59 p.m. ET Tuesday to match, though a move away appears likely.",
+      "article": "Restricted free agent Quinten Post signed a three-year, $30 million offer sheet with the Memphis Grizzlies, forcing the Golden State Warriors to decide whether to match by the 11:59 p.m. ET Tuesday deadline. According to NBA insider Shams Charania, the Warriors appear unlikely to match the contract, signaling Post's likely departure from the franchise.\n\nPost is coming off a 2025-26 season where he appeared in limited action for the Warriors. The $30 million over three years averages $10 million annually, a number that exceeds what Golden State seems willing to commit to a depth piece in a crowded roster. Memphis, rebuilding around its core, is willing to invest in Post's upside.\n\nThe offer sheet is a common restricted free agency tool that allows teams to make an aggressive move while giving the original team one final chance to retain the player. Warriors' reluctance to match suggests they're either comfortable with their depth chart, prioritizing cap flexibility, or both. Post's departure would mark another transition for a franchise navigating life in a salary-cap constrained environment.",
+      "tweets": []
+    },
+    {
+      "category": "revenue",
+      "importance": 6,
       "leadHeadline": "Versant Buys Tiger Woods-Backed Golf Simulator Company for $530M",
-      "leadSource": "Front Office Sports · 2h ago",
+      "leadSource": "Front Office Sports · 6h ago",
       "leadUrl": "https://frontofficesports.com/versant-full-swing-tiger-woods-deal/",
-      "summary": "Versant Capital Management has acquired Full Swing, the golf simulator technology company backed by Tiger Woods, for $530 million. Full Swing is the primary technology platform for the TGL golf league.",
-      "article": "Versant Capital Management has purchased Full Swing, the golf simulator technology company with backing from Tiger Woods, for $530 million. Full Swing operates as the predominant technology platform for the TGL, a new prime-time golf league backed by Woods, Rory McIlroy, and PGA Tour commissioner Jay Monahan. The acquisition underscores the growing investment in golf technology and virtual competition as the sport expands its media footprint and appeals to younger audiences. Full Swing's simulator technology has become central to TGL's business model, enabling matches played in controlled indoor environments rather than traditional golf courses. The $530 million valuation reflects confidence in both the technology's capability and TGL's commercial potential as it ramps up inaugural season operations. This investment signals that golf's modernization push has attracted significant capital commitments from institutions beyond the sport's traditional power base. Versant's ownership may accelerate Full Swing's expansion into consumer markets and other sports betting and gaming integrations that compete for viewership and engagement.",
+      "summary": "Versant Capital Management has acquired Full Swing, the golf simulator company backed by Tiger Woods, for $530 million. Full Swing is the predominant technology platform used by the PGA Tour's TGL league.",
+      "article": "Versant Capital Management has acquired Full Swing, the Tiger Woods-backed golf simulator and technology company, for $530 million. Full Swing is the primary technology platform powering TGL, the PGA Tour's prime-time indoor golf league launched in January 2024.\n\nThe acquisition signals continued investor confidence in digital golf and the tech infrastructure supporting professional golf's next generation of viewing experiences. Full Swing's simulator technology underpins TGL's unique format, which features three-on-three team competition in a controlled environment with broadcast-friendly gameplay and faster rounds.\n\nWoods, who co-founded TGL alongside PGA Tour Commissioner Jay Monahan and Rory McIlroy, maintains a stake in Full Swing. The $530 million valuation reflects the growing value placed on golf technology platforms as the sport expands its digital footprint beyond traditional broadcast. Full Swing's technology is also used in consumer golf centers and by professional players for training, giving the platform revenue streams beyond TGL.",
       "tweets": []
     },
     {
       "category": "labor",
-      "importance": 6,
-      "leadHeadline": "The Looming Legal Fallout From Baseball's Labor Strife: Part II",
-      "leadSource": "Sportico · 1h ago",
-      "leadUrl": "https://www.sportico.com/law/analysis/2026/mlb-lockout-players-union-options-strike-1234937750/",
-      "summary": "MLB's current collective bargaining agreement with players expires December 1, and Sportico's legal analysis warns that an expected lockout could threaten the 2027 season unless a new deal is reached.",
-      "article": "Sportico has published an in-depth legal analysis of the labor dynamics set to unfold in baseball over the next five months. The current collective bargaining agreement between Major League Baseball and the Major League Baseball Players Association is set to expire at 11:59 p.m. ET on December 1. MLB is widely expected to institute a lockout following the CBA's expiration, mirroring the labor brinkmanship that characterized negotiations in 2021. According to Sportico's legal correspondent Michael McCann, an attorney specializing in sports law, the lockout could threaten the start of the 2027 season if negotiations stall. The analysis examines the legal frameworks governing lockout procedures, potential grievance filings, and arbitration mechanisms available to both sides. Previous labor disputes in baseball have resulted in work stoppages that shortened seasons or delayed opening day, creating revenue losses across the league and damaging fan relations. The owners and players have significant financial gaps to bridge, including revenue sharing, salary arbitration thresholds, and minimum salaries. Without progress before December, a prolonged lockout could become inevitable, repeating the pattern that cost fans games in 2022.",
-      "tweets": []
-    },
-    {
-      "category": "media",
       "importance": 5,
-      "leadHeadline": "Nielsen Prepares Another Major Shake-Up in Sports TV Ratings",
-      "leadSource": "Front Office Sports · 16h ago",
-      "leadUrl": "https://frontofficesports.com/nielsen-prepares-another-major-shake-up-in-sports-tv-ratings/",
-      "summary": "Nielsen, the dominant sports ratings firm, is preparing significant changes to how it measures and reports television viewership in sports, with major implications for media buyers and broadcasters.",
-      "article": "Nielsen, the long-standing authority in television ratings measurement, is preparing another major overhaul of its sports viewership methodology. Front Office Sports reports that the changes will have wide-ranging impacts on how sports media companies, broadcasters, and advertisers evaluate audience size and engagement. Nielsen's ratings have been under scrutiny in recent years as traditional TV viewership has fractured across linear, cable, streaming, and digital platforms, making unified measurement increasingly complex. Sports networks rely heavily on Nielsen data to justify advertising rates and secure renewal deals with leagues, so methodological shifts directly affect hundreds of millions of dollars in media contracts. Previous Nielsen adjustments have triggered disputes between broadcasters and advertisers over whether ratings accurately reflect actual viewership, particularly as Nielsen adjusted for out-of-home viewing and streaming consumption. The specifics of the pending changes have not been fully disclosed, but the move signals that Nielsen is responding to pressure from networks and agencies to capture a more complete picture of sports consumption in an environment where a single viewer may watch games across multiple screens and platforms simultaneously. The changes could reshape leverage in media rights negotiations across the NFL, NBA, MLB, NHL, and MLS.",
+      "leadHeadline": "The Looming Legal Fallout From Baseball's Labor Strife: Part II",
+      "leadSource": "Sportico · 5h ago",
+      "leadUrl": "https://www.sportico.com/law/analysis/2026/mlb-lockout-players-union-options-strike-1234937750/",
+      "summary": "The MLB-MLBPA collective bargaining agreement expires December 1, with a lockout expected to follow. Legal experts forecast litigation over the terms and timing of any work stoppage.",
+      "article": "The current collective bargaining agreement between Major League Baseball and the Major League Baseball Players Association is set to expire at 11:59 p.m. ET on December 1, 2026. MLB is expected to institute a lockout following the CBA's expiration, setting the stage for potential labor strife that could threaten the 2027 season.\n\nSportico's Michael McCann, an attorney and labor analyst, reports that legal fallout from baseball's labor disputes may intensify. A lockout would halt spring training and delay regular-season play unless the sides reach a new agreement. The 2022 lockout lasted 99 days and forced cancellation of regular-season games, setting a cautionary precedent.\n\nKey points of contention typically include salary arbitration thresholds, minimum wage, revenue sharing, and luxury tax calculations. The union has demanded higher minimum salaries and greater revenue distribution, while ownership argues for cost containment. Legal disputes often emerge over the lockout's legality, whether either side is negotiating in good faith, and the scope of damages if games are lost. A second labor disruption in five years would further damage baseball's standing as it competes for fan attention with other leagues.",
       "tweets": []
     },
     {
       "category": "leagues",
       "importance": 4,
       "leadHeadline": "College Merger Sparks Athletics Lawsuit Amid Enrollment Cliff",
-      "leadSource": "Sportico · just now",
+      "leadSource": "Sportico · 4h ago",
       "leadUrl": "https://www.sportico.com/law/analysis/2026/enrollment-cliff-college-sports-implications-litigation-1234937946/",
-      "summary": "A new lawsuit has emerged as colleges merge to address declining enrollment, reduced federal funding, and restricted international student visas, raising complex questions about athletics sustainability.",
-      "article": "A lawsuit has been filed as higher education institutions grapple with a structural revenue crisis that is forcing college mergers and restructuring at an accelerating pace. The underlying causes are severe: declining enrollment as the U.S. faces a demographic cliff with fewer high school graduates, diminished federal research funding, tighter international student visa restrictions, and more restrictive federal student loan caps all squeezing institutional budgets simultaneously. When colleges merge to consolidate operations and reduce overhead, athletics departments face immediate complications around dual conference memberships, redundant rosters, coaching contracts, and facilities utilization. The lawsuit reflects broader legal exposure as institutions navigate NCAA rules, conference obligations, and athlete compensation amid consolidation. Sportico reports that the litigation could set precedents for how colleges must handle athletes' contractual rights, NIL (name, image, likeness) obligations, and roster decisions when institutions restructure. The case underscores that the financial pressures reshaping higher education are now directly threatening collegiate sports stability, particularly at smaller schools with historically thin athletic margins. As mergers accelerate, more disputes over athlete welfare and institutional obligations are likely to follow.",
+      "summary": "College mergers aimed at offsetting enrollment declines and reduced federal research funding are triggering athletics-related lawsuits as institutions consolidate. The implications for NCAA governance and student-athlete funding remain unclear.",
+      "article": "As colleges merge to contend with declining enrollment, diminished tuition and residence-hall revenue, reduced federal research funding, and tighter restrictions on international student visas and federal student loan caps, their athletics departments face unprecedented upheaval. A new lawsuit has been filed challenging the athletic implications of one such merger.\n\nThe consolidations represent a structural shift in higher education finance. Fewer students mean less tuition, fewer dorm beds, fewer meal plans, and less federal research money. These pressures are forcing mergers at institutions that historically operated independently, creating complicated questions about athletic program viability, NCAA conference alignment, and student-athlete scholarships.\n\nThe litigation signals that courts will become a venue for resolving disputes over which athletic programs survive mergers, how scholarships transfer between institutions, and whether athletes have enforceable rights in consolidation proceedings. The NCAA has limited jurisdiction over these issues, leaving individual states and federal courts to set precedent. If mergers accelerate, expect more lawsuits and possible congressional scrutiny of how athlete welfare is protected during institutional restructuring.",
       "tweets": []
     }
   ],
@@ -2394,90 +2410,90 @@
   "deals": [
     {
       "type": "acquisition",
-      "parties": "Rogers Communications ⇄ Kilmer Sports / Maple Leaf Sports & Entertainment",
+      "parties": "Rogers Communications ⇄ Kilmer Sports (MLSE)",
       "value_usd": 3060000000,
       "term_years": null,
       "league": "MULTI",
-      "headline": "Rogers completes MLSE acquisition for $3.06B USD, gains full control of Leafs, Raptors, TFC",
+      "headline": "Rogers acquires remaining 25% of MLSE for $3.06B USD",
       "storyIndex": 1,
-      "blurb": "Rogers bought remaining 25% of MLSE (Maple Leafs, Raptors, Toronto FC) for CAD $4.35B ($3.06B USD), taking full ownership of Toronto's three major sports franchises.",
-      "capturedAt": "2026-07-06T14:23:12.576Z"
+      "blurb": "Rogers completes full ownership of Toronto Maple Leafs, Raptors, and Toronto FC with CAD $4.35B acquisition.",
+      "capturedAt": "2026-07-06T17:36:49.970Z"
     },
     {
       "type": "acquisition",
-      "parties": "Versant Capital Management ⇄ Full Swing Golf Simulator",
+      "parties": "Versant Capital Management ⇄ Tiger Woods Full Swing",
       "value_usd": 530000000,
       "term_years": null,
       "league": "OTHER",
-      "headline": "Versant Capital acquires Tiger Woods-backed Full Swing for $530M",
-      "storyIndex": 0,
-      "blurb": "Versant bought Full Swing, the golf simulator platform backing the TGL league and supported by Tiger Woods, for $530 million in a tech-driven expansion of golf media.",
-      "capturedAt": "2026-07-06T14:23:12.576Z"
+      "headline": "Versant buys Full Swing golf simulator company for $530M",
+      "storyIndex": 14,
+      "blurb": "Full Swing is the primary technology platform powering the PGA Tour's TGL indoor golf league.",
+      "capturedAt": "2026-07-06T17:36:49.970Z"
     }
   ],
   "ratings": [],
   "ticket_prices": [],
   "sidebar": [
     {
-      "headline": "USMNT faces defining World Cup moment against Belgium with Balogun available",
-      "source": "NY Post Sports · 3h ago",
-      "article": "The USMNT has no excuses now. Folarin Balogun, the US striker at the center of a FIFA-UEFA eligibility dispute, has been cleared to play against Belgium on Monday night in Seattle in the Round of 16. The American team can advance to the quarterfinals for the first time since 2002 if it wins. Balogun's availability resolves what had been a major question mark after FIFA reversed an earlier ban, prompting UEFA to condemn the decision as unprecedented and unjustifiable. Belgium has appealed, but Balogun will be on the pitch. For the USMNT, his presence transforms the matchup from an underdog effort into a genuine medal-round opportunity. The team must now execute against a formidable Belgian side in a neutral but hostile environment."
+      "headline": "How England used five mini games to beat Mexico",
+      "source": "BBC Sport · 6h ago",
+      "article": "Thomas Tuchel's England pulled off a remarkable World Cup last-16 win in hostile Mexico City while playing with 10 men for most of the match. Tuchel's tactical flexibility paid dividends as England adapted to the numerical disadvantage by using five mini-game structures within the 90 minutes. The approach kept Mexico from settling into a rhythm despite the home-field advantage. England's ability to shift between defensive shapes and quick counter-attacking sequences frustrated Mexico's possession-based approach. The win advances England to the quarter-finals and showcases Tuchel's evolution as a tournament tactician. His willingness to adjust in real time, rather than rigid adherence to a system, has redefined England's identity in this World Cup."
     },
     {
-      "headline": "England midfielder Jordan Henderson suffers wrist injury in World Cup celebrations",
-      "source": "BBC Sport · 8h ago",
-      "article": "England's jubilation over its stunning victory against Mexico in the World Cup Round of 16 was tempered by an unusual injury to midfielder Jordan Henderson. The 34-year-old suffered a wrist injury while celebrating the team's dramatic win in Mexico City, a bizarre incident that head coach Thomas Tuchel characterized as \"really bad.\" Henderson's availability for the quarterfinal will likely be a game-time decision pending medical evaluation. The injury is a footnote to an otherwise dominant performance, but it underscores the physical toll of high-intensity World Cup football. England will assess his status in the coming days as it prepares for its next opponent."
+      "headline": "Why Frederik Andersen may not cure Oilers goaltending woes",
+      "source": "Sportsnet · 1h ago",
+      "article": "The Edmonton Oilers have cycled through numerous goalies during the Connor McDavid era in search of that elusive Stanley Cup. Frederik Andersen is the latest addition to that long list. Adam Vingan dives into whether Andersen's arrival truly solves the team's goaltending crisis or if deeper structural issues remain. The Oilers have consistently put elite offensive talent in front of below-average or injury-prone goaltenders, and Andersen's addition doesn't necessarily fix a pattern of net-minding instability. While Andersen brings veteran credibility and experience, the question is whether he can remain healthy and perform at a high level behind an Oilers defense that has had gaps. The team's inability to attract or develop elite goaltending alongside McDavid suggests the problem runs deeper than any single signing."
     },
     {
-      "headline": "Haaland double fires Norway into World Cup quarter-finals",
-      "source": "BBC Sport · 16h ago",
-      "article": "Erling Haaland scored twice as Norway knocked out five-time World Cup champions Brazil in a stunning Round of 16 result. The brace sent Norway to the quarterfinals and leaves Brazil facing a humiliating exit at the last-16 stage despite being favored by many analysts. Haaland's performance showcased his clinical finishing in a high-pressure environment, adding to his World Cup tally with goals that came from inside the box against a disorganized Brazilian defense. Norway's victory is a major upset and resets the tournament's narrative around which teams can win. Brazil's loss will trigger significant internal reckonings about tactical approach and squad composition."
+      "headline": "What's driving the success of top Jays prospect JoJo Parker",
+      "source": "Sportsnet · 4h ago",
+      "article": "JoJo Parker, a top prospect in the Toronto Blue Jays system, is rising through the minor leagues with an offensive skill set that has scouts and the organization increasingly convinced of his major-league potential. Ben Nicholson-Smith examines what makes Parker different. When Parker watches a big-league baseball game, he zeroes in not just on hitters and their approach, but also how pitchers attack them and what patterns emerge. This dual awareness—offensive execution and pitcher tendencies—separates elite prospects from solid ones. Parker's willingness to learn from professional at-bats, study opposing arms, and adjust his approach mid-sequence suggests a baseball IQ that projection models often miss. His rise is a reminder that prospect evaluation goes beyond raw tools and includes intangible consistency and the ability to process information in real time."
     },
     {
-      "headline": "2026 Wimbledon odds, picks: All-USA womens quarterfinal Tuesday with Jessica Pegula vs. Coco Gauff",
-      "source": "CBS Sports · just now",
-      "article": "An American woman is guaranteed a spot in the Wimbledon semifinals after Jessica Pegula and Coco Gauff were paired to meet in Tuesday's quarterfinals. The matchup represents a significant milestone for American tennis, with one of the two advancing to the final four of a Grand Slam. Both players have been performing at a high level throughout the tournament, and the winner will carry momentum into the semifinals against either a European seed or another top international player. The quarterfinal represents a crossroads for both Americans: Pegula seeks her first Grand Slam semifinal appearance, while Gauff continues her quest for a major title at age 22."
+      "headline": "Why 7 LIV Golf Players Are Competing at This Week's PGA Tour Event",
+      "source": "Front Office Sports · 3h ago",
+      "article": "Seven LIV Golf players are competing in this week's Scottish Open, which is co-sanctioned with the DP World Tour. The PGA Tour-LIV Golf reconciliation, finalized over the past year, has opened pathways for LIV members to earn PGA Tour events and world ranking points. The Scottish Open, a historic event on the DP World Tour, is one of the first co-sanctioned tournaments where LIV players are permitted full participation. This marks a continuation of the integration strategy that allows the rival tours to maintain competitive integrity while gradually merging player pools. The presence of LIV players at a prestigious DP World Tour event signals the speed of reconciliation and the practical mechanisms now in place to manage overlapping memberships and eligibility across tours."
     },
     {
-      "headline": "USMNT's World Cup Run Is Turning Pochettino's Plain Blue Shirt Into a Hit",
-      "source": "Front Office Sports · 15h ago",
-      "article": "The USMNT's unexpected World Cup success has transformed a simple item into an unexpected merchandise bestseller. Mauricio Pochettino's plain blue shirt, the stripped-down uniform worn during training and matches, has become one of the tournament's hottest retail items. American fans, energized by the team's run to the Round of 16 and beyond, have driven demand for the iconic piece to levels that surprised sponsors and merchandise partners. The phenomenon underscores how sports performance translates directly into commerce: a good run opens the wallet for casual fans. Similar surges in merchandise sales have accompanied successful tournament runs in past World Cups, but the velocity and breadth of interest in a simple training shirt speaks to both the American fanbase's engagement and the USMNT's broader cultural moment."
+      "headline": "Over/Under betting: What it is, how it works, and best strategies",
+      "source": "CBS Sports · 1h ago",
+      "article": "CBS Sports breaks down Over/Under betting mechanics for July 2026 sports bettors. An Over/Under bet, also called a total, wagers on whether a game's combined score will exceed or fall short of a sportsbook's posted line. The strategy is distinct from picking a winner; it's a pure judgment call on offensive and defensive output. Sharp bettors analyze team pace, defensive styles, injury status, and weather to exploit mispricings. Common mistakes include assuming totals will always land near historic averages—they don't—and ignoring late-breaking information like lineup changes. The most successful over/under bettors build models based on pace-adjusted efficiency metrics and track how sharps move the line in the final hours before kickoff. A line that shifts significantly usually signals informed money, worth tracking for value hunters."
     },
     {
-      "headline": "Tour de France 2026: stage three goes ahead without fans amid wildfire threat",
-      "source": "The Guardian · just now",
-      "article": "Stage three of the 2026 Tour de France proceeded without spectators due to wildfire threats in the Granollers to Les Angles region. Race organizers made the decision to ban fan attendance to reduce safety risks as fires burned in areas adjacent to the stage route. The stage still proceeded on schedule at 11:10am BST, with the peloton competing over 195.9 kilometers despite the environmental hazard. The decision represents a rare restriction on one of cycling's most iconic events, where the presence of passionate fans along the roadside is central to the Tour's character and atmosphere. Organizers had to balance the safety of competitors and spectators against the need to maintain the race calendar during an unpredictable wildfire season."
+      "headline": "Lewis Hamilton rues Ferrari's decision at British Grand Prix",
+      "source": "The Guardian · 22h ago",
+      "article": "Lewis Hamilton was left frustrated by a late-race pit-stop strategy call from Ferrari at the British Grand Prix that may have cost him a second-place finish. Christian Horner made his return to the F1 paddock after a period away. Hamilton admitted the afternoon had gone poorly from the start, but the strategic decision in the late stages felt like an unforced error. Ferrari's call to pit Hamilton at a particular moment, while potentially logical on paper, left him vulnerable to track position changes and cost him positions in the closing laps. The move underscores the thin margins in F1 where a single strategic decision made under pressure can determine podium finishes. Hamilton's frustration signals tension over team strategy calls, a recurring theme in his Ferrari tenure."
     }
   ],
   "poll": {
-    "question": "Will MLB and the Players Association reach a new CBA before the December 1 deadline, or will a lockout delay the 2027 season?",
+    "question": "Will the Warriors match Quinten Post's $30M three-year offer from Memphis?",
     "options": [
-      "Deal done before December 1; no lockout",
-      "Lockout starts but resolved before Opening Day 2027",
-      "Lockout delays start of 2027 season",
-      "Lockout extends into regular season, games lost"
+      "Yes, Warriors match to keep depth intact",
+      "No, Post leaves and Warriors save cap space",
+      "Warriors get a sign-and-trade with Memphis",
+      "Unknown until Tuesday deadline passes"
     ]
   },
   "predictions": [
     {
-      "statement": "Rogers' full ownership of MLSE will result in at least one Maple Leafs playoff round win within two seasons as integrated broadcast strategy and capital investment improve the franchise.",
+      "statement": "Folarin Balogun plays in the USMNT's Round of 16 match on Monday and scores or assists.",
+      "probability": 68,
+      "rationale": "With Trump's intervention and FIFA's eligibility confirmation, Balogun is now available. He's the USMNT's primary attacking threat and will start the most important match of the tournament for the Americans. The probability reflects his talent against the likely Round of 16 opponent (Spain or Portugal) rather than a certainty of a goal or assist."
+    },
+    {
+      "statement": "Pogacar wins the 2026 Tour de France yellow jersey overall.",
       "probability": 72,
-      "rationale": "The Leafs have struggled in playoffs despite regular-season success; Rogers now controls media, sponsorship, and strategic capital. Full vertical integration typically improves front office decision-making. But NHL playoff variance is high, so certainty is capped."
+      "rationale": "Pogacar has claimed stage three and the yellow jersey after a dominant performance. His early command of the race, combined with his track record in grand tours and peak fitness, makes him the odds-on favorite. Evenepoel and Vingegaard remain threats, but Pogacar's aggression and lead suggest he's the team to beat."
     },
     {
-      "statement": "The Balogun eligibility dispute will set a precedent that leads to formal FIFA rules clarifications on red-card reversals before the 2026 World Cup final.",
-      "probability": 58,
-      "rationale": "UEFA has publicly escalated the issue to 'integrity' level, and Belgium's appeal will likely force FIFA to issue guidance. However, FIFA has historically been slow to pre-empt controversies with formal rulings, so this is a coin flip."
+      "statement": "MLB and MLBPA reach a new CBA before December 1 without a lockout.",
+      "probability": 25,
+      "rationale": "The 2022 lockout lasted 99 days and forced regular-season game cancellations. History and structural labor tension make a work stoppage likely, though not certain. Both sides have incentive to avoid 2027 season disruption, but the pattern of brinkmanship in baseball labor negotiations suggests a lockout remains probable."
     },
     {
-      "statement": "Nielsen's ratings methodology changes will lower reported viewership for at least one major NFL or NBA broadcast by 8% or more compared to 2025 final numbers.",
-      "probability": 65,
-      "rationale": "Methodology shifts in ratings have historically produced either inflations or deflations of 5-15% depending on what's measured (streaming, out-of-home, etc.). A downward shift is likely if Nielsen tightens definitions."
-    },
-    {
-      "statement": "The college athletics merger litigation will result in a settlement that establishes minimum athlete protections (NIL, contract rights) before the 2026-27 academic year begins.",
-      "probability": 42,
-      "rationale": "NCAA litigation has historically moved slowly through courts. However, settlements are possible if the case gains visibility and threatens multiple institutions simultaneously. Early resolution is uncertain given the novelty of merger-era disputes."
+      "statement": "At least one other major NCAA Division I program merges within the next 18 months amid enrollment pressure.",
+      "probability": 61,
+      "rationale": "The enrollment cliff, visa restrictions, and federal research funding cuts are creating structural pressure on universities nationwide. The first merger triggering litigation suggests more will follow. Expect 2-4 additional mergers by mid-2027 as institutions face existential budget choices."
     }
   ],
   "injuries": [
@@ -2486,12 +2502,12 @@
       "team": "England",
       "league": "SOCCER",
       "position": "MF",
-      "status": "QUESTIONABLE",
-      "injury": "wrist injury",
-      "timeline": "game-time decision expected",
-      "source": "BBC Sport / Thomas Tuchel",
-      "impact": "England midfielder's availability for quarterfinal TBD; suffered bizarre celebration injury after Mexico win but described as 'really bad' by head coach.",
-      "storyIndex": 2
+      "status": "OUT",
+      "injury": "Broken wrist sustained in post-match celebrations",
+      "timeline": "Out of World Cup",
+      "source": "The Guardian",
+      "impact": "England loses midfielder depth in World Cup quarter-finals after he fell over an advertising board celebrating the Mexico win.",
+      "storyIndex": 0
     }
   ],
   "picks": [
@@ -5157,14 +5173,14 @@
       "_pendingGrade": true
     }
   ],
-  "updatedAt": "2026-07-06T00:00:00Z",
+  "updatedAt": "2026-07-06T16:45:00Z",
   "highlights": [
     {
       "league": "NBA",
-      "title": "SPURS vs WARRIORS GOLD | CALIFORNIA CLASSIC | FULL GAME HIGHLIGHTS | July 5, 2026",
-      "videoId": "eg0hGS1-Sfw",
-      "thumbnail": "https://img.youtube.com/vi/eg0hGS1-Sfw/mqdefault.jpg",
-      "timeAgo": "13h ago",
+      "title": "The fans come first at the PlayStation NBA Creator Cup 👏",
+      "videoId": "TxsTCYaJ3qk",
+      "thumbnail": "https://img.youtube.com/vi/TxsTCYaJ3qk/mqdefault.jpg",
+      "timeAgo": "3h ago",
       "isFallback": false
     },
     {
@@ -5172,23 +5188,23 @@
       "title": "Hannah Storm wished everyone a happy 4th of July from the site of the Super Bowl!",
       "videoId": "p3lBxR0odz4",
       "thumbnail": "https://img.youtube.com/vi/p3lBxR0odz4/mqdefault.jpg",
-      "timeAgo": "Just now",
+      "timeAgo": "3h ago",
       "isFallback": false
     },
     {
       "league": "MLB",
-      "title": "Highlights from ALL GAMES on 7/5 (Mets-Braves DRAMA in 9th, Eury Pérez's PERFECT start and MORE!)",
-      "videoId": "A9W5IpJmEIQ",
-      "thumbnail": "https://img.youtube.com/vi/A9W5IpJmEIQ/mqdefault.jpg",
+      "title": "2026 MLB All-Star Game Pitchers &amp; Reserve Players! 🤩 (Ft. Bryce Harper, Cam Schlittler and more!)",
+      "videoId": "iaa4hWrJsr4",
+      "thumbnail": "https://img.youtube.com/vi/iaa4hWrJsr4/mqdefault.jpg",
       "timeAgo": "1h ago",
       "isFallback": false
     },
     {
       "league": "NHL",
-      "title": "3ICE World Cup - Semi Finals &amp; Championship Games | July 5th",
-      "videoId": "BOyXU2FRIms",
-      "thumbnail": "https://img.youtube.com/vi/BOyXU2FRIms/mqdefault.jpg",
-      "timeAgo": "17h ago",
+      "title": "The Sickest Shootout Goals of the 2025-26 NHL Season",
+      "videoId": "fbPtFXiA7jo",
+      "thumbnail": "https://img.youtube.com/vi/fbPtFXiA7jo/mqdefault.jpg",
+      "timeAgo": "2h ago",
       "isFallback": false
     },
     {
@@ -5196,19 +5212,99 @@
       "title": "Indiana Fever vs. Las Vegas Aces | FULL GAME HIGHLIGHTS | July 5, 2026",
       "videoId": "tzSCKrwRnhM",
       "thumbnail": "https://img.youtube.com/vi/tzSCKrwRnhM/mqdefault.jpg",
-      "timeAgo": "13h ago",
+      "timeAgo": "16h ago",
       "isFallback": false
     },
     {
       "league": "SOCCER",
-      "title": "Go with the Flo: Will Folarin Balogun START for the U.S. vs. Belgium? | ESPN FC",
-      "videoId": "-YYymDdaReo",
-      "thumbnail": "https://img.youtube.com/vi/-YYymDdaReo/mqdefault.jpg",
-      "timeAgo": "Just now",
+      "title": "This moment can never be forgotten 😆 (via @IShowSpeed/TT)",
+      "videoId": "kaRyG0slWFk",
+      "thumbnail": "https://img.youtube.com/vi/kaRyG0slWFk/mqdefault.jpg",
+      "timeAgo": "1h ago",
       "isFallback": false
     }
   ],
   "reels": [
+    {
+      "league": "MLB",
+      "title": "2026 MLB All-Star Game Pitchers &amp; Reserve Players! 🤩 (Ft. Bryce Harper, Cam Schlittler and more!)",
+      "videoId": "iaa4hWrJsr4",
+      "author": "MLB",
+      "pubDate": "2026-07-06T17:00:09+00:00",
+      "link": "https://www.youtube.com/watch?v=iaa4hWrJsr4"
+    },
+    {
+      "league": "MLB",
+      "title": "Nolan McLean has been fooling hitters with his curveball 🔥",
+      "videoId": "c3UoS004vIU",
+      "author": "MLB",
+      "pubDate": "2026-07-06T16:46:04+00:00",
+      "link": "https://www.youtube.com/watch?v=c3UoS004vIU"
+    },
+    {
+      "league": "SOCCER",
+      "title": "This moment can never be forgotten 😆 (via @IShowSpeed/TT)",
+      "videoId": "kaRyG0slWFk",
+      "author": "ESPN FC",
+      "pubDate": "2026-07-06T16:30:10+00:00",
+      "link": "https://www.youtube.com/watch?v=kaRyG0slWFk"
+    },
+    {
+      "league": "NHL",
+      "title": "The Sickest Shootout Goals of the 2025-26 NHL Season",
+      "videoId": "fbPtFXiA7jo",
+      "author": "NHL",
+      "pubDate": "2026-07-06T16:00:37+00:00",
+      "link": "https://www.youtube.com/watch?v=fbPtFXiA7jo"
+    },
+    {
+      "league": "SOCCER",
+      "title": "‘He looked like a man possessed’🔥",
+      "videoId": "PRq7Hx8Cdko",
+      "author": "ESPN FC",
+      "pubDate": "2026-07-06T16:00:04+00:00",
+      "link": "https://www.youtube.com/watch?v=PRq7Hx8Cdko"
+    },
+    {
+      "league": "MLB",
+      "title": "INTENSE strikeouts, homers, impressive catches and MORE AMAZING MLB Top Moments this week!",
+      "videoId": "YF-7l0WSz1Q",
+      "author": "MLB",
+      "pubDate": "2026-07-06T15:00:11+00:00",
+      "link": "https://www.youtube.com/watch?v=YF-7l0WSz1Q"
+    },
+    {
+      "league": "NBA",
+      "title": "The fans come first at the PlayStation NBA Creator Cup 👏",
+      "videoId": "TxsTCYaJ3qk",
+      "author": "NBA",
+      "pubDate": "2026-07-06T14:40:33+00:00",
+      "link": "https://www.youtube.com/watch?v=TxsTCYaJ3qk"
+    },
+    {
+      "league": "NBA",
+      "title": "The hometown hero is back for another PlayStation NBA Creator Cup!",
+      "videoId": "bgcJa-nECw4",
+      "author": "NBA",
+      "pubDate": "2026-07-06T14:40:09+00:00",
+      "link": "https://www.youtube.com/watch?v=bgcJa-nECw4"
+    },
+    {
+      "league": "SOCCER",
+      "title": "England vs. Mexico REACTION, Haaland propels Norway + Balogun’s reprieve | ESPN FC",
+      "videoId": "2pG0ZaNfRic",
+      "author": "ESPN FC",
+      "pubDate": "2026-07-06T14:30:19+00:00",
+      "link": "https://www.youtube.com/watch?v=2pG0ZaNfRic"
+    },
+    {
+      "league": "MLB",
+      "title": "2026 All-Star Game rosters have been announced and MUCH MORE!",
+      "videoId": "yAbO2YJ5ZAk",
+      "author": "MLB",
+      "pubDate": "2026-07-06T14:15:28+00:00",
+      "link": "https://www.youtube.com/watch?v=yAbO2YJ5ZAk"
+    },
     {
       "league": "SOCCER",
       "title": "Go with the Flo: Will Folarin Balogun START for the U.S. vs. Belgium? | ESPN FC",
@@ -5232,14 +5328,6 @@
       "author": "ESPN FC",
       "pubDate": "2026-07-06T14:01:37+00:00",
       "link": "https://www.youtube.com/watch?v=TK20NhslOEg"
-    },
-    {
-      "league": "SOCCER",
-      "title": "Ronaldo HITS OUT at Carlo Ancelotti’s ‘TOO MANY MISTAKES’ with Brazil | ESPN FC",
-      "videoId": "4b_AQo2cAr0",
-      "author": "ESPN FC",
-      "pubDate": "2026-07-06T13:46:59+00:00",
-      "link": "https://www.youtube.com/watch?v=4b_AQo2cAr0"
     },
     {
       "league": "SOCCER",
@@ -5290,22 +5378,6 @@
       "link": "https://www.youtube.com/watch?v=0e_ql06DyAY"
     },
     {
-      "league": "SOCCER",
-      "title": "Round of 16 Reaction 🔥 England &amp; Norway set for World Cup showdown | ESPN FC Full Show",
-      "videoId": "RqnrMbM9Iqg",
-      "author": "ESPN FC",
-      "pubDate": "2026-07-06T04:58:34+00:00",
-      "link": "https://www.youtube.com/watch?v=RqnrMbM9Iqg"
-    },
-    {
-      "league": "SOCCER",
-      "title": "Is it coming home!? | ESPN FC Extra Time",
-      "videoId": "broOobbgAjE",
-      "author": "ESPN FC",
-      "pubDate": "2026-07-06T04:40:51+00:00",
-      "link": "https://www.youtube.com/watch?v=broOobbgAjE"
-    },
-    {
       "league": "MLB",
       "title": "PADRES vs. DODGERS: Official Full Game Highlights (July 5) | 2026 MLB Season",
       "videoId": "uVrvH0l82D4",
@@ -5330,44 +5402,12 @@
       "link": "https://www.youtube.com/watch?v=tzSCKrwRnhM"
     },
     {
-      "league": "MLB",
-      "title": "MARLINS vs. ATHLETICS: Official Full Game Highlights (July 5) | 2026 MLB Season",
-      "videoId": "Z1S3-OWjDvM",
-      "author": "MLB",
-      "pubDate": "2026-07-06T01:19:04+00:00",
-      "link": "https://www.youtube.com/watch?v=Z1S3-OWjDvM"
-    },
-    {
       "league": "NBA",
       "title": "SPURS vs WARRIORS GOLD | CALIFORNIA CLASSIC | FULL GAME HIGHLIGHTS | July 5, 2026",
       "videoId": "eg0hGS1-Sfw",
       "author": "NBA",
       "pubDate": "2026-07-06T01:07:13+00:00",
       "link": "https://www.youtube.com/watch?v=eg0hGS1-Sfw"
-    },
-    {
-      "league": "MLB",
-      "title": "hit ✅ pitch ✅ javelin ✅ Shohei can do it all 😆",
-      "videoId": "aj1eqqY1C08",
-      "author": "MLB",
-      "pubDate": "2026-07-06T00:40:51+00:00",
-      "link": "https://www.youtube.com/watch?v=aj1eqqY1C08"
-    },
-    {
-      "league": "MLB",
-      "title": "Eury Pérez throws SEVEN PERFECT INNINGS against the A's! 🐟🤩 | MLB Highlights",
-      "videoId": "M_NsjkUfnTg",
-      "author": "MLB",
-      "pubDate": "2026-07-06T00:20:20+00:00",
-      "link": "https://www.youtube.com/watch?v=M_NsjkUfnTg"
-    },
-    {
-      "league": "MLB",
-      "title": "BLUE JAYS vs. MARINERS: Official Full Game Highlights (July 5) | 2026 MLB Season",
-      "videoId": "pZG7rmXXX_s",
-      "author": "MLB",
-      "pubDate": "2026-07-06T00:12:19+00:00",
-      "link": "https://www.youtube.com/watch?v=pZG7rmXXX_s"
     },
     {
       "league": "NBA",
@@ -5410,14 +5450,6 @@
       "link": "https://www.youtube.com/watch?v=0ghDKZMZVfQ"
     },
     {
-      "league": "NBA",
-      "title": "Vladislav Goldin with the huge denial ‼️🚫",
-      "videoId": "mnfA9oI0Gd4",
-      "author": "NBA",
-      "pubDate": "2026-07-05T21:57:18+00:00",
-      "link": "https://www.youtube.com/watch?v=mnfA9oI0Gd4"
-    },
-    {
       "league": "WNBA",
       "title": "Dallas Wings vs. Toronto Tempo | FULL GAME HIGHLIGHTS | July 5, 2026",
       "videoId": "b3X9jYYWr2Y",
@@ -5432,14 +5464,6 @@
       "author": "NFL on ESPN",
       "pubDate": "2026-07-05T21:16:02+00:00",
       "link": "https://www.youtube.com/watch?v=CWN0H32jrZI"
-    },
-    {
-      "league": "NBA",
-      "title": "NETS vs BUCKS | CALIFORNIA CLASSIC | FULL GAME HIGHLIGHTS | July 5, 2026",
-      "videoId": "09PvCiAWXys",
-      "author": "NBA",
-      "pubDate": "2026-07-05T21:14:58+00:00",
-      "link": "https://www.youtube.com/watch?v=09PvCiAWXys"
     },
     {
       "league": "NHL",
@@ -5520,14 +5544,6 @@
       "author": "WNBA",
       "pubDate": "2026-07-04T05:18:31+00:00",
       "link": "https://www.youtube.com/watch?v=yMZfX9Dh308"
-    },
-    {
-      "league": "WNBA",
-      "title": "Breanna Stewart Drops 36 PTS &amp; Moves Into 3rd All-Time in 30+ Point Games ⭐",
-      "videoId": "WTE5oa6F5zg",
-      "author": "WNBA",
-      "pubDate": "2026-07-04T03:14:00+00:00",
-      "link": "https://www.youtube.com/watch?v=WTE5oa6F5zg"
     }
   ]
 }
