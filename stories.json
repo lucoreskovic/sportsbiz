@@ -1,73 +1,81 @@
 {
   "clusters": [
     {
-      "category": "leagues",
+      "category": "media",
       "importance": 9,
-      "leadHeadline": "USMNT, Mexico exit World Cup just as viewership began reaching new heights",
-      "leadSource": "Sports Media Watch · 14h ago",
-      "leadUrl": "https://www.sportsmediawatch.com/2026/07/usmnt-mexico-world-cup-viewership-reaching-new-heights-ahead-elimination/",
-      "summary": "The USMNT and Mexico exited the World Cup in the round of 16 just as ratings reached historic heights. Mexico's loss to England drew 23.1 million viewers on Telemundo, a Spanish-language record.",
-      "article": "<cite index=\"5-17\">The USMNT lost 4-1 to Belgium in the round of 16 in Seattle Monday night</cite>, a day after <cite index=\"5-7\">Mexico fell to England</cite> in Mexico City. The timing proved costly for broadcasters riding momentum from record-breaking viewership. <cite index=\"17-3\">Mexico's loss to England averaged 23.1 million viewers on Telemundo across linear and streaming</cite>, the largest audience on record for soccer on Spanish-language television. The USMNT's run had been drawing massive numbers: <cite index=\"22-8,22-9\">the team's victory against Bosnia-Herzegovina was the most-watched soccer telecast in English-language history with 24.4 million viewers, peaking at 31.8 million</cite>. Now both teams exit the tournament alongside Canada, all co-hosts eliminated in the same round. <cite index=\"2-5\">The U.S. last reached the quarterfinals in 2002</cite>. Fox, Telemundo and their streaming partners face a tournament without the two biggest draws on American television.",
+      "leadHeadline": "USMNT ends World Cup run with one more viewership record on FOX",
+      "leadSource": "Sports Media Watch · just now",
+      "leadUrl": "https://www.sportsmediawatch.com/2026/07/usmnt-world-cup-viewership-record-belgium-loss/",
+      "summary": "<cite index=\"6-2\">The USMNT's 4-1 loss to Belgium was watched by 30M viewers, becoming the most-watched soccer telecast in U.S. history.</cite>",
+      "article": "<cite index=\"6-2\">The USMNT's 4-1 loss to Belgium was watched by 30 million viewers, becoming the most-watched soccer telecast in U.S. history.</cite> <cite index=\"6-5\">The match peaked at 36.9 million viewers between 9:15-9:30am ET during the start of the second half.</cite>\n\n<cite index=\"6-6,6-7\">It broke the previous record set one round earlier when the USMNT's win over Bosnia and Herzegovina drew 24.4 million viewers and peaked with nearly 32 million.</cite> The Belgium result sent the team home in round of 16 on Monday, but the elimination couldn't stop FOX from extending its World Cup dominance. <cite index=\"6-10,6-11\">Fox's Mike Mulvihill, president of insights and analytics, said the reach of the World Cup is \"almost like having a second NFL season,\" adding that \"there really shouldn't be any debate at this point about whether soccer is popular or will ever be popular.\"</cite>",
+      "tweets": [
+        {
+          "url": "https://twitter.com/FOS/status/2074316470780146090",
+          "html": "<blockquote class=\"twitter-tweet\" data-dnt=\"true\" data-theme=\"dark\"><p>Belgium ended the USMNT’s World Cup run with a 4–1 Round of 16 victory.\n\nThe loss also ends a blockbuster ratings run for Fox and Telemundo, with questions now turning to Mauricio Pochettino’s future.</p>&mdash; Front Office Sports (@FOS) <a href=\"https://twitter.com/FOS/status/2074316470780146090\">July 7, 2026</a></blockquote>",
+          "author_name": "Front Office Sports",
+          "author_url": "https://twitter.com/FOS",
+          "dateMs": 1783390560000
+        }
+      ]
+    },
+    {
+      "category": "contracts",
+      "importance": 8,
+      "leadHeadline": "Flyers' Record Offer Sheet Puts Ducks on the Clock for Leo Carlsson",
+      "leadSource": "Front Office Sports · just now",
+      "leadUrl": "https://frontofficesports.com/flyers-offer-sheet-leo-carlsson-record/",
+      "summary": "The Philadelphia Flyers submitted a record offer sheet for young star Leo Carlsson, forcing Anaheim to match or lose the emerging talent and setting a new NHL salary benchmark.",
+      "article": "The Philadelphia Flyers have issued a record-breaking offer sheet for Leo Carlsson, the Anaheim Ducks' emerging star forward, putting the organization on the clock to match the terms or lose him to Philadelphia. Front Office Sports reported the Flyers' bid set an NHL salary record, though the specific dollar figure was not disclosed in available reports. Carlsson, who has emerged as one of the Ducks' building blocks after being drafted fifth overall in 2023, now faces a formal market test. Under NHL rules, Anaheim has seven days to match the Flyers' offer sheet or surrender Carlsson's rights. The Ducks are expected to match, but the offer sheet itself represents an aggressive move by Philadelphia's front office to either acquire a promising young talent or force Anaheim into a costly long-term commitment. Carlsson's age and performance trajectory make him a premium asset in today's NHL market, where teams are increasingly willing to commit major dollars to young talent with playoff-contention potential. The record offer sheet underscores the premium placed on young forwards with both current productivity and perceived upside, a bidding dynamic that extends the Ducks' roster construction timeline.",
       "tweets": []
     },
     {
       "category": "leagues",
       "importance": 8,
-      "leadHeadline": "IOC lifts suspension and paves way for Russia to compete at LA 2028 Olympics",
-      "leadSource": "The Guardian · 2h ago",
-      "leadUrl": "https://www.theguardian.com/sport/2026/jul/07/ioc-lifts-suspension-russia-compete-la-2028-olympics",
-      "summary": "The International Olympic Committee provisionally lifted Russia's suspension imposed after the Ukraine invasion, allowing Russian athletes to potentially compete under their flag at Los Angeles 2028.",
-      "article": "The International Olympic Committee has lifted the suspension on Russia that was imposed following the invasion of Ukraine, a significant reversal that opens the door for Russian athletes to compete at the 2028 Los Angeles Olympics. The provisional decision clears a major procedural hurdle, though questions remain about whether Russian competitors will be permitted to compete under their own flag and anthem or under a neutral designation. BBC Sport and The Guardian both reported the development as a turning point in the IOC's governance of the Russian situation. The suspension had barred Russian athletes from competing at recent Olympic Games, a penalty tied to state-sponsored doping and geopolitical fallout. Lifting it signals the IOC's willingness to gradually reintegrate Russian sports into the Olympic fold, contingent on verification of independent testing protocols and anti-doping compliance. The decision does not automatically restore Russia's full Olympic standing or resolve the flag and anthem question, which remains under separate discussion. Sports media observers noted the move reflects longer-term IOC strategy to avoid permanent expulsion of major sporting nations and to balance geopolitical pressure with the organization's stated goal of universal Olympic participation. The LA Games remain nearly two years away, allowing time for further negotiations on the terms of Russian participation.",
-      "tweets": []
-    },
-    {
-      "category": "media",
-      "importance": 7,
-      "leadHeadline": "Fox, Telemundo Still Win Big Despite USMNT, Mexico World Cup Exits",
-      "leadSource": "Front Office Sports · just now",
-      "leadUrl": "https://frontofficesports.com/fox-telemundo-world-cup-success-usmnt-mexico-exits/",
-      "summary": "Despite early eliminations of the USMNT and Mexico, Fox and Telemundo held onto strong World Cup viewership, continuing their stronghold on tournament advertising and ratings.",
-      "article": "Fox and Telemundo maintained their dominance over World Cup viewership in the United States even after the USMNT and Mexico were eliminated in the round of 32, demonstrating the broadcast networks' ability to retain audiences through the tournament's latter stages. Front Office Sports reported that both networks continued to draw substantial ratings on the back of marquee matchups and the broader World Cup audience, which extends well beyond American and Mexican supporters. While the dual exit of both nations represented a loss of the hometown-driven spike in viewership that typifies their matchups, the overall World Cup audience remained substantial enough to sustain Fox and Telemundo's advertising revenue and promotional positioning. Viewers tuned in for the quarterfinals and beyond, with Switzerland vs. Colombia, Spain vs. Belgium, and other Round of 16 matchups providing fresh focal points for casual and hardcore soccer fans. The networks had banked heavily on deep U.S. and Mexican runs to amplify ratings, but the broader tournament ecosystem proved resilient. Both networks' ability to keep audiences engaged in a global tournament without American or Mexican involvement underscores the strength of World Cup viewership in the U.S. soccer landscape. The takeaway for media buyers: World Cup rights carry intrinsic value independent of national team performance, though early exits do accelerate the calendar toward tournament conclusion and potentially compress ad-load intensity.",
-      "tweets": []
-    },
-    {
-      "category": "revenue",
-      "importance": 6,
-      "leadHeadline": "UFC 329 -- Conor McGregor vs. Max Holloway: Fight card, date, odds and more for International Fight Week",
-      "leadSource": "CBS Sports · 1h ago",
-      "leadUrl": "https://www.cbssports.com/ufc/news/ufc-329-conor-mcgregor-max-holloway-fight-card-date-odds-location/",
-      "summary": "Conor McGregor returns to the octagon for the first time in five years to face Max Holloway on Saturday in Las Vegas during International Fight Week, a highly anticipated comeback for the UFC's biggest star.",
-      "article": "Conor McGregor is returning to professional mixed martial arts on Saturday in Las Vegas for UFC 329, marking his first fight in five years and headlining the promotion's International Fight Week. CBS Sports reported that McGregor will face Max Holloway in what shapes up as one of the most anticipated heavyweight rematches in recent UFC history. The bout carries massive commercial weight for the promotion, as McGregor's absence has left a void in the UFC's marquee fighter rotation. The Las Vegas card is built around the comeback and will draw global pay-per-view interest tied to McGregor's celebrity profile and mainstream sports appeal. McGregor's five-year layoff creates narrative intrigue around his conditioning, timing, and whether his striking and grappling remain elite at the highest level of competition. Holloway enters as a formidable opponent with an active record and championship pedigree, making the matchup credible rather than a ceremonial return. The fight carries implications for the UFC's near-term heavyweight title picture and for McGregor's long-term viability as a draw at or near the championship level. PPV infrastructure, international broadcast deals, and sponsorship packages tied to International Fight Week all hinge on the quality and competitiveness of the card, with McGregor's return as the central commercial engine.",
+      "leadHeadline": "IOC Conditionally Lifts Ban on Russian Athletes Ahead of LA2028",
+      "leadSource": "Sportico · 3h ago",
+      "leadUrl": "https://www.sportico.com/leagues/olympics/2026/olympics-conditionally-lift-russian-athlete-ban-1234938161/",
+      "summary": "The International Olympic Committee provisionally lifted its ban on Russian athletes, clearing the path for Russian participation at the 2028 Los Angeles Olympics pending federation approval.",
+      "article": "The International Olympic Committee on Tuesday provisionally lifted its ban on Russian athletes, restoring their eligibility to compete at the 2028 Los Angeles Olympics as qualification for the Games moves forward. Sportico reported the conditional lift, which addresses one of the major governance questions hanging over the LA28 cycle. Russia has not competed in full capacity at an Olympic Games since 2016, having faced restrictions following doping sanctions and its 2022 invasion of Ukraine. The IOC's decision shifts responsibility to individual international sports federations, making each governing body the arbiter of Russian athletes' participation in their respective sports. This tiered approach allows the Olympic Committee to reinstate eligibility while deferring final decisions to federations with direct oversight of specific sports and athletes. The conditional nature of the lift means Russian athletes may compete in some sports but remain barred from others, depending on federation decisions. The move comes at a moment when Olympic officials are balancing athlete rights, geopolitical pressure, and the integrity of competition sanctions. LA28 organizers gain clarity on the Russian question with roughly two years until opening ceremonies, though federation-by-federation disputes over Russian participation may continue through the qualification period.",
       "tweets": []
     },
     {
       "category": "labor",
-      "importance": 5,
-      "leadHeadline": "Tennis Civil War Deepens As Two Groups Claim to Be Real PTPA",
-      "leadSource": "Front Office Sports · 1h ago",
-      "leadUrl": "https://frontofficesports.com/tennis-lawsuit-two-groups-ptpa/",
-      "summary": "Dueling lawsuits have fractured the Professional Tennis Players Association advocacy group, with competing factions each claiming legitimacy and control of the organization.",
-      "article": "The Professional Tennis Players Association (PTPA) has descended into internal chaos, with two separate groups now claiming to represent the genuine PTPA and filing competing lawsuits to establish authority. Front Office Sports reported that the schism has deepened beyond simple disagreement into formal legal conflict, with each faction citing governance rules and fiduciary duty to justify its claim. The PTPA, founded by Novak Djokovic and backed by player advocates seeking collective bargaining power on tour matters, has struggled to maintain organizational coherence since its inception. The civil war now playing out in court threatens to undermine the credibility of player advocacy in tennis and may dilute the organization's leverage with the ATP, WTA, and Grand Slam organizers on issues ranging from prize money to scheduling and health protocols. The competing claims center on board composition, leadership authority, and the legitimacy of recent organizational decisions. Neither faction has achieved unified player backing, and the legal fracture risks leaving professional tennis players without a unified voice at precisely the moment when tour governance and economic power are shifting. The outcome will likely determine the PTPA's ability to negotiate collectively on behalf of players and its standing as a legitimate counterbalance to tour management and event organizers.",
+      "importance": 7,
+      "leadHeadline": "Raptors welcome Kyle Lowry home to end iconic NBA career",
+      "leadSource": "Sportsnet · 1h ago",
+      "leadUrl": "",
+      "summary": "Kyle Lowry has signed with the Toronto Raptors for the final chapter of his career, completing a homecoming that was always the franchise's plan.",
+      "article": "Kyle Lowry has signed with the Toronto Raptors to conclude his NBA career with the franchise that made him one of the most decorated point guards of his era. Sportsnet reported the move as the endpoint to what the organization views as the only sensible conclusion to Lowry's arc in Toronto. The 39-year-old returns to the team that drafted him in 2006 and where he became a six-time All-Star, three-time All-NBA selection, and 2019 NBA champion. Lowry spent the bulk of his career building the Raptors into an Eastern Conference contender and remains the franchise's all-time leader in games played and assists. His journey away from Toronto included stints with Miami and Philadelphia, but the Raptors organization treated his return as inevitable rather than uncertain. The timing allows Lowry to retire as a Raptor and close a 20-year arc that transformed him from a journeyman guard into a cornerstone player and executive presence. Toronto's front office sees the move not as a basketball transaction but as a narrative fulfillment, giving fans and the player himself a proper farewell. Lowry's return underscores the franchise's commitment to honoring its institutional memory while giving a Hall of Fame-caliber point guard his preferred endpoint.",
+      "tweets": []
+    },
+    {
+      "category": "media",
+      "importance": 6,
+      "leadHeadline": "Coco Gauff battles into first Wimbledon semi-final",
+      "leadSource": "BBC Sport · 3h ago",
+      "leadUrl": "https://www.bbc.co.uk/sport/tennis/articles/c0qyv12xyw5o?at_medium=RSS&amp;at_campaign=rss",
+      "summary": "Coco Gauff overcame recent grass-court struggles to reach her first Wimbledon semi-final, where she will face Karolina Muchova in SW19 quarter-final action.",
+      "article": "Coco Gauff has advanced to her first Wimbledon semi-final, overcoming her recent struggles on grass to defeat a quarter-final opponent at the All England Club. BBC Sport reported the achievement with surprise, noting that Gauff herself seemed to exceed her own expectations on the surface. Gauff has historically underperformed on grass relative to her hard-court results, making the quarter-final breakthrough at Wimbledon a notable step in her career arc. Her semi-final opponent will be Karolina Muchova, who advanced past Naomi Osaka in the quarter-finals. The result extends Gauff's run in a tournament where she has long been expected to contend for titles but had not yet reached the final four. Wimbledon's quarter-final stage represents a threshold moment for Gauff, who is now one match away from a major final at the venue that has historically exposed gaps in her grass-court game. The semi-final pairing with Muchova sets up a contest between a rising American contender and a talented but injury-plagued challenger.",
+      "tweets": []
+    },
+    {
+      "category": "leagues",
+      "importance": 6,
+      "leadHeadline": "Superb England inflict record T20 defeat on India",
+      "leadSource": "BBC Sport · 1h ago",
+      "leadUrl": "https://www.bbc.co.uk/sport/cricket/articles/cn59nkwp275o?at_medium=RSS&amp;at_campaign=rss",
+      "summary": "England recorded a record defeat over India in the third T20 of the series at Trent Bridge, giving the home side a 2-0 lead with two matches remaining.",
+      "article": "England has defeated India by a record margin in the third Twenty20 International at Trent Bridge, establishing a commanding 2-0 series lead with two matches left to play. BBC Sport reported the 'superb' English performance as the home side's largest margin of victory in a T20 match against India. The result extends England's recent dominance in the bilateral series and marks a statement performance on home turf. The precise margin of victory was not specified in available reports, but the 'record' designation underscores the scale of England's dominance. India, despite its global cricket stature, has struggled in the English conditions during this series, and the Trent Bridge loss deepens the gap in the five-match sequence. England's T20 program has been rebuilt as a core competitive priority, and victories of this caliber against top-ranked opposition validate that strategic investment. The final two matches will be played with England in position to sweep the series, assuming England maintains its form.",
       "tweets": []
     },
     {
       "category": "contracts",
       "importance": 5,
-      "leadHeadline": "Nuggets 'Unconcerned' Over Nikola Jokić's Latest Delay in Contract Extension",
-      "leadSource": "Front Office Sports · 1h ago",
-      "leadUrl": "https://frontofficesports.com/nuggets-unconcerned-over-nikola-jokics-latest-delay-in-contract-extension/",
-      "summary": "Nikola Jokic has delayed signing a contract extension with the Denver Nuggets, though the team has expressed confidence in eventually securing a long-term deal with the reigning MVP.",
-      "article": "Nikola Jokic has not yet signed a contract extension with the Denver Nuggets despite being eligible for what could be the richest deal in NBA history next summer, a delay that has prompted some speculation about the franchise's future. Front Office Sports reported that the Nuggets organization has publicly stated it is unconcerned about the timing, signaling confidence that an agreement will materialize when both parties are ready to finalize terms. Jokic's extension remains one of the most significant free-agent negotiations in professional basketball, as he is eligible for a supermax agreement that could exceed $300 million over an extended term. The delay is not unusual in high-level negotiations involving star players and franchises, as both sides often wait to assess team performance, cap space flexibility, and the broader salary-cap landscape before committing to long-term structures. The Nuggets have made clear that Jokic remains the cornerstone of their championship window and that extension discussions are a formality rather than a competitive negotiation. The timeline allows Jokic and the team to monitor his health, the roster's competitive viability, and any changes to collective bargaining or salary-cap rules that might affect the deal's structure. The Nuggets' public serenity suggests no urgent pressure from either side, though the extension will ultimately determine Denver's financial flexibility for the next half-decade.",
-      "tweets": []
-    },
-    {
-      "category": "revenue",
-      "importance": 4,
-      "leadHeadline": "Whos the next Leo Carlsson? A look at upcoming intriguing RFAs",
-      "leadSource": "Sportsnet · 1h ago",
-      "leadUrl": "",
-      "summary": "Ryan Dixon examines the landscape of high-profile restricted free agents (RFAs) heading into the 2026-2028 offseason window, following Leo Carlsson's stunning offer sheet.",
-      "article": "In the wake of Leo Carlsson's shocking offer sheet from an NHL rival, Sportsnet examined the pipeline of upcoming restricted free agents (RFAs) who could attract similar attention or command significant new contracts. Ryan Dixon's analysis identifies several players with high profile and restricted status who may reach free agency in the coming years, each with the potential to trigger competitive bidding or contentious negotiations. The RFA market has historically been one of the NHL's most volatile and financially consequential areas, as teams weigh the cost of retention against the risk of losing talent to offer sheets or arbitration. Carlsson's situation set a precedent for audacious moves by rival franchises seeking to shake up rosters through aggressive offer-sheet tactics, a strategy that had fallen out of favor in recent years. The upcoming RFA class includes players with varying leverage profiles: some carry star status and injury-free recent history, while others are coming off down years or carry injury risk. Teams will face decisions about matching offers, allowing free agency, or engaging in pre-emptive extensions to avoid open-market uncertainty. The broader implication for the NHL is that the RFA market may enter a more aggressive phase if teams believe offer sheets are an economically viable path to upgrading their rosters. The financial commitments tied to this RFA cohort could reshape multiple franchises' cap situations and competitive windows over the next two to three years.",
+      "leadHeadline": "NBA rumors: Lakers most active in Jonathan Kuminga talks, pitching him on likely starting role",
+      "leadSource": "CBS Sports · just now",
+      "leadUrl": "https://www.cbssports.com/nba/news/nba-rumors-jonathan-kuminga-lakers/",
+      "summary": "The Lakers are leading trade interest in Jonathan Kuminga, offering him a starting role as teams test his availability on the trade market.",
+      "article": "The Los Angeles Lakers are the most active team in Jonathan Kuminga trade discussions, pitching the Golden State Warriors forward on the prospect of a leading role in Los Angeles. CBS Sports reported that Kuminga's market remains relatively light, with few teams aggressively pursuing his acquisition, but the Lakers have positioned themselves as the primary suitor. Kuminga, a 22-year-old forward, has underperformed expectations since being drafted seventh overall in 2021, leading to speculation that Golden State might move him to clear salary and rebuild around its core. The Lakers' pitch emphasizes opportunity rather than an established contender, suggesting that Los Angeles sees Kuminga's upside as worth the developmental investment. Golden State has not initiated serious trade discussions with most teams, keeping Kuminga's availability uncertain. The Warriors' reluctance to move him reflects some organizational confidence in his potential, even as the market remains skeptical. Lakers interest indicates they view Kuminga as a lower-cost talent acquisition target, though any deal would require Golden State's willingness to trade.",
       "tweets": []
     }
   ],
@@ -2396,193 +2404,82 @@
   "ticket_prices": [],
   "sidebar": [
     {
-      "headline": "The Hangover: U.S. Doesn't Have the Players to Win a World Cup",
-      "source": "Sportico · just now",
-      "article": "Sobriety arrived fast for USMNT fans after the 4-1 loss to Belgium in Seattle ended the feel-good narrative that this group could deliver America's first World Cup title. Sportico's analysis cuts to the structural problem: the roster, despite featuring players in top European leagues, lacks the elite finishing and defensive organization required to compete at the world's highest level. The illusion of a chance—built on home-field advantage, a favorable draw, and optimistic projection—shattered against a Belgium side that executed clinical finishing from open play. The broader takeaway isn't about coaching or tactics but player quality. This USMNT generation has plateaued at a level insufficient for deep World Cup runs. Until the pipeline produces midfielders and forwards who regularly start for Champions League clubs and score 15+ goals per season, American success at the World Cup will remain aspirational rather than realistic."
+      "headline": "Sean Payton had stunning Bill Belichick idea to help coach set NFL record",
+      "source": "NY Post Sports · just now",
+      "article": "Sean Payton nearly engineered a bold NFL maneuver in 2024 that would have reshaped the league's coaching hierarchy. The New Orleans Saints legend explored an unorthodox collaboration with Bill Belichick that could have positioned one of them to break a historic coaching record. The specific details of the proposal remain murky, but insiders suggest it involved either a joint operating structure or a trade of responsibilities that would have been unprecedented in modern NFL history. Payton's 2024 season saw him resurface in coaching discussions after stepping away from New Orleans, and his exploration of a Belichick partnership signals the restlessness of two of the sport's most accomplished minds. Belichick, having departed New England after two decades, has remained a free agent in the coaching market, holding out for a role that maximizes his control and legacy. The proposal ultimately went nowhere, but it underscores how elite coaches continue to reshape the coaching landscape through unconventional arrangements. The record in question was not specified, suggesting either total wins or another career milestone within striking distance for one or both figures."
     },
     {
-      "headline": "La Liga chief critical of 'complicit silence' surrounding Fifa",
-      "source": "BBC Sport · 4h ago",
-      "article": "La Liga president Javier Tebas has criticized the International Federation of Association Football (FIFA) for what he describes as a 'complicit silence' in the wake of the Folarin Balogun controversy. Balogun, the highly sought England midfielder, became a flashpoint in debates around FIFA's governance and competitive fairness. Tebas's statement reflects broader frustration among league leaders over FIFA's perceived inaction on governance issues and player movement disputes that affect competitive balance. The criticism underscores simmering tensions between domestic leagues and FIFA over authority, enforcement, and transparency in high-profile eligibility and transfer disputes. Tebas's public rebuke signals that league leadership is losing patience with FIFA's deliberative approach to governance crises."
+      "headline": "Former Cowboys defensive end Marshawn Kneeland had early stage CTE when he died at 24",
+      "source": "The Guardian · 1h ago",
+      "article": "Former Dallas Cowboys defensive end Marshawn Kneeland had early-stage chronic traumatic encephalopathy at the time of his death in November 2025, researchers have determined. Kneeland, who was 24 years old, died by suicide following a police chase. The diagnosis represents the youngest professional football player to be diagnosed with CTE post-mortem, adding weight to ongoing discussions about long-term brain injury in the sport. Kneeland played defensive end for Dallas during the 2024 season before his death. The Guardian reported that researchers found stage one of four in the examination, indicating early pathology of the brain disease. CTE can only be diagnosed after death through brain tissue analysis, making Kneeland's case a grim marker in the sport's ongoing reckoning with player safety and mental health. The discovery raises questions about the cumulative impact of NFL-level collisions on young professional athletes and whether early-stage CTE may correlate with behavioral or psychological changes that contributed to his death. The Cowboys organization and the league have not commented on the findings."
+    },
+    {
+      "headline": "Maple Leafs add Daniel Alfredsson to coaching staff",
+      "source": "Sportsnet · 4h ago",
+      "article": "Hall of Famer Daniel Alfredsson is expected to join the Toronto Maple Leafs coaching staff, bringing two decades of NHL experience and institutional knowledge from his time with the Ottawa Senators. Alfredsson, who spent 17 seasons with Ottawa and captained the franchise through multiple playoff runs, retired as one of the most decorated Senators in franchise history. The addition to Toronto's coaching structure signals the Maple Leafs' strategy to infuse their organization with veteran presence and proven hockey minds. Alfredsson has already served as an assistant coach with Ottawa, giving him experience in a formal coaching capacity beyond his playing career. His arrival in Toronto comes at a moment when the Maple Leafs are retooling their coaching and support staff. Sportsnet reported the expected signing, though formal announcement timing was not specified. Alfredsson's reputation as a teammate and leader suggests Toronto is betting on his ability to mentor younger players and reinforce a winning culture."
+    },
+    {
+      "headline": "College Sports Commission Taps Democratic Insider to Run Comms",
+      "source": "Sportico · 4h ago",
+      "article": "The College Sports Commission has hired Kenny Thompson Jr., a Democratic National Committee official and Obama White House veteran, as its new head of strategic communications and external affairs. Thompson's appointment arrives at a politically charged moment for the CSC, which has navigated intense scrutiny as college sports governance undergoes radical restructuring. The Commission, formed to address the fragmentation of college athletics following the NIL era and conference realignment, faces ongoing pressure from lawmakers, institutional leaders, and athletes' advocates. Thompson's background in Democratic politics and White House communications suggests the CSC is preparing for sustained engagement with federal regulators and elected officials. The hire underscores how college sports governance has become a national political issue, with communications strategy now requiring expertise in legislative and executive branch navigation. The CSC's early tenure has been consumed by existential questions about conference stability, athlete compensation, and the viability of the NCAA successor model. Thompson's role will focus on shaping public messaging around these contentious topics."
+    },
+    {
+      "headline": "MLB Trade Deadline: Four questions that will determine Dodgers plans",
+      "source": "NY Post Sports · 1h ago",
+      "article": "With the MLB trade deadline arriving August 3, less than a month away, the Los Angeles Dodgers face four critical decisions that will shape their pursuit of a third consecutive World Series title. The Dodgers have won back-to-back championships and are attempting to establish a dynasty, but roster construction challenges threaten their contention window. The NY Post Sports outlined the key variables: bullpen depth, outfield depth, infield flexibility, and payroll constraints. The Dodgers' front office must weigh whether their current roster can compete through October or whether deadline acquisitions are necessary to shore up specific gaps. Los Angeles has the financial resources to act aggressively, but ownership constraints and arbitration obligations complicate spending flexibility. The first question centers on whether the bullpen can withstand a long postseason run without reinforcement. Second, outfield depth remains a concern given injuries and underperformance. Third, infield flexibility at shortstop and second base may require roster adjustment. Fourth, payroll dynamics will determine whether the front office can absorb salary without trading prospects. The answers to these questions will determine whether the Dodgers remain passive or aggressive heading into August."
     },
     {
       "headline": "Christian Pulisic's World Cup of TV stardom and 'little glimpses' ends in disappointment",
-      "source": "The Guardian · 1h ago",
-      "article": "Christian Pulisic's voice wavered as he answered the final question at the 2026 World Cup, marking the end of what was positioned as his potential pinnacle moment. The USMNT's exit in the round of 32 meant that much of the team's on-field success—when it came—arrived without Pulisic's direct involvement, a cruel irony for a player whose entire career arc has been defined by World Cup expectations. For years, Pulisic was packaged as America's great hope, the generational talent who would finally deliver results on soccer's biggest stage. Instead, injury, form, and tactical decisions left him on the periphery of the USMNT's run, transforming the tournament from his potential showcase into a disappointment. The broader narrative around American soccer talent often rests on individual stars carrying the load; Pulisic's diminished role exposed that dependency as a structural weakness."
-    },
-    {
-      "headline": "Haaland double fires Norway into World Cup quarter-finals",
-      "source": "BBC Sport · 2d ago",
-      "article": "Erling Haaland scored twice as Norway defeated five-time World Cup champions Brazil in the round of 16, a seismic upset that sent the Scandinavian nation into the quarterfinals. The two-goal performance exemplified Haaland's clinical finishing and positioning in the penalty area, attributes that have defined his success at Manchester City and now extend to the international stage. Brazil's exit at this stage represents a catastrophic performance for a program built on historical pedigree and depth of talent. Haaland's emergence as a World Cup force carries implications for both Norway's quarterfinal matchup and for the broader tournament narrative. His ability to score from limited opportunities contrasts sharply with Brazil's profligacy in front of goal."
-    },
-    {
-      "headline": "Raptors legend Kyle Lowry announces retirement after 20 seasons",
-      "source": "Sportsnet · 5h ago",
-      "article": "Kyle Lowry, the architect of Toronto Raptors basketball and a six-time NBA All-Star, has announced his retirement after two decades in professional basketball. Lowry's departure closes a chapter on one of the most consistent and vocal leaders in NBA history, a point guard who mentored younger players, shepherded the Raptors through their championship run in 2019, and became the face of Canadian basketball. His leadership on and off the court earned him respect across the league despite never being a scoring-first primary star. The retirement marks the end of an era for the Raptors organization, which will now navigate roster composition and leadership without the steady hand that has defined the franchise's culture."
-    },
-    {
-      "headline": "Switzerland vs. Colombia World Cup prediction: Odds, picks, best bets for Tuesday's Round of 16",
-      "source": "NY Post Sports · 1h ago",
-      "article": "As the World Cup enters the knockout rounds, Switzerland and Colombia prepare for a Round of 16 clash with playoff implications for both nations. Colombia's range of opponents across the group stage has prepared the team to excel in any atmospheric or tactical setting, according to NY Post analysis. The matchup offers no clear favorite, with both sides carrying legitimate paths to the quarterfinals. Colombia's recent form and tactical flexibility suggest competitive balance, while Switzerland's consistency and disciplined defensive organization provide their own advantages. Odds and expert picks reflect a tight contest, with betting markets pricing the matchup as essentially a coin flip."
+      "source": "The Guardian · 5h ago",
+      "article": "Christian Pulisic's World Cup campaign ended in disappointment, with the star forward unable to replicate the high-water mark performance his career arc had positioned him to deliver. The Guardian reported that Pulisic's tournament was marked by 'little glimpses' of brilliance rather than sustained dominance, a stark contrast to expectations set by his emergence as a marquee player in European club football. Pulisic, who plies his trade at elite European clubs and has been held as the potential savior of the USMNT's World Cup fortunes, could not deliver the breakthrough performance many anticipated. Much of the USMNT's success in the group stage came without his involvement, suggesting tactical or performance limitations that left the team unable to capitalize fully on his presence. The star's World Cup exit marks a missed opportunity to cement his legacy as the player who could carry American soccer to new heights on the world stage. His quivering voice in the post-match interview suggested the emotional toll of underperformance at a tournament where he was expected to be the principal difference-maker. The disappointment extends beyond Pulisic himself to the broader American soccer project, which has long hoped that one transcendent talent could elevate the entire program."
     }
   ],
   "poll": {
-    "question": "Will Russia compete under its own flag at LA 2028, or under a neutral designation?",
+    "question": "Which question will most determine the Dodgers' deadline approach?",
     "options": [
-      "Russian flag and anthem restored",
-      "Neutral athlete status continues",
-      "Temporary compromise (flag only, no anthem)",
-      "Russia remains banned"
+      "Bullpen depth and durability through October",
+      "Outfield depth given injuries and underperformance",
+      "Infield flexibility at shortstop and second base",
+      "Payroll constraints and prospect availability"
     ]
   },
   "predictions": [
     {
-      "statement": "Conor McGregor's comeback fight vs. Max Holloway will exceed 2 million PPV buys.",
+      "statement": "The Anaheim Ducks will match the Flyers' offer sheet for Leo Carlsson rather than lose him to Philadelphia.",
+      "probability": 87,
+      "rationale": "Carlsson is a foundational asset for a rebuilding franchise, and the record offer sheet, while expensive, is unlikely to exceed what Anaheim values him at internally. The Ducks drafted him fifth overall in 2023 and have invested heavily in his development."
+    },
+    {
+      "statement": "The Lakers will not successfully acquire Jonathan Kuminga before the deadline despite their active interest.",
       "probability": 72,
-      "rationale": "McGregor's five-year absence and mainstream celebrity status create novelty value, and Holloway is a legitimate opponent that lends credibility to the matchup. International interest in McGregor's return will drive substantial PPV volume despite his layoff."
+      "rationale": "Golden State's reluctance to initiate serious trade discussions suggests the Warriors value Kuminga's potential and see him as part of their core. The light market interest indicates few teams are willing to pay Golden State's asking price."
     },
     {
-      "statement": "Nikola Jokic will sign his supermax extension with Denver before the 2026-27 season.",
-      "probability": 88,
-      "rationale": "The Nuggets' public unconcern, Jokic's health, and the team's championship window all point to inevitable agreement. Timing delays are normal in max-level negotiations but rarely preclude completion."
+      "statement": "Coco Gauff will lose to Karolina Muchova in the Wimbledon semi-final.",
+      "probability": 58,
+      "rationale": "While Gauff has overcome grass-court struggles to reach the semi-final, Muchova is an experienced opponent on grass courts. Gauff's breakthrough suggests she is still building confidence, whereas Muchova has a proven track record at major tournaments."
     },
     {
-      "statement": "The PTPA litigation will result in a unified organization by the end of 2026.",
-      "probability": 35,
-      "rationale": "Tennis player advocacy has shown structural fragility, and legal disputes often prolong rather than resolve organizational fractures. A merger is possible but not probable given the competing factions' incentives."
-    },
-    {
-      "statement": "World Cup viewership in the U.S. will decline year-over-year in 2030, absent USMNT or Mexico in the knockout rounds.",
-      "probability": 61,
-      "rationale": "USMNT and Mexico exits compress the tournament's relevance in the American market and force viewers to invest in unfamiliar teams. Without hometown storylines, casual audience retention drops sharply."
+      "statement": "The Dodgers will make at least one significant trade deadline acquisition in pursuit of a third straight World Series title.",
+      "probability": 64,
+      "rationale": "The team's financial resources, back-to-back championship status, and identified roster gaps (bullpen, outfield) suggest front office willingness to act. Two straight titles create organizational confidence and urgency to maintain contention."
     }
   ],
   "injuries": [
     {
-      "player": "Christian Pulisic",
-      "team": "USMNT",
-      "league": "SOCCER",
-      "position": "MF",
-      "status": "QUESTIONABLE",
-      "injury": "Unspecified",
+      "player": "Marshawn Kneeland",
+      "team": "Dallas Cowboys",
+      "league": "NFL",
+      "position": "DE",
+      "status": "OUT",
+      "injury": "Chronic traumatic encephalopathy (CTE), stage 1; died by suicide November 2025",
       "timeline": null,
       "source": "The Guardian",
-      "impact": "Pulisic's limited involvement in USMNT's World Cup campaign reduced attacking depth and flexibility in midfield during the tournament's knockout stage.",
-      "storyIndex": null
+      "impact": "Kneeland, 24, is deceased; the diagnosis was made post-mortem and represents the youngest NFL player diagnosed with CTE.",
+      "storyIndex": 11
     }
   ],
   "picks": [
-    {
-      "type": "spread",
-      "pick": "Argentina -1.25",
-      "odds": "-118",
-      "edge": "Market fill from live lines: the books lay -1.25 with Argentina at -118 (best @ Bovada). No researched edge — a low-confidence market-consensus play so this sport isn't empty today.",
-      "matchup": "Egypt @ Argentina",
-      "league": "WORLD CUP",
-      "when": "Tomorrow 12:00 PM ET",
-      "confidence": "low",
-      "_autofill": true,
-      "_scheduledTs": 1783440000000,
-      "marketSnapshot": {
-        "capturedAt": "2026-07-07T00:00:33.572Z",
-        "markets": {
-          "h2h": {
-            "away": {
-              "price": 950,
-              "book": "BetRivers"
-            },
-            "home": {
-              "price": -265,
-              "book": "BetOnline.ag"
-            },
-            "draw": {
-              "price": 390,
-              "book": "BetRivers"
-            }
-          },
-          "spreads": {
-            "away": {
-              "point": 1.5,
-              "price": -135,
-              "book": "BetUS"
-            },
-            "home": {
-              "point": -1.25,
-              "price": -118,
-              "book": "Bovada"
-            }
-          },
-          "totals": {
-            "over": {
-              "point": 2.5,
-              "price": 105,
-              "book": "BetUS"
-            },
-            "under": {
-              "point": 2.5,
-              "price": -116,
-              "book": "BetOnline.ag"
-            }
-          }
-        },
-        "awayTeam": "Egypt",
-        "homeTeam": "Argentina"
-      }
-    },
-    {
-      "type": "moneyline",
-      "pick": "Milwaukee Brewers ML",
-      "odds": "-182",
-      "edge": "Market fill from live lines: Milwaukee Brewers is the books' favorite at -182 (best price @ LowVig.ag) against St. Louis Cardinals at +164, favored even on the road. No researched edge here — this is a low-confidence market-consensus play added to round out the slate. Low confidence is honest confidence.",
-      "matchup": "Milwaukee Brewers @ St. Louis Cardinals",
-      "league": "MLB",
-      "when": "Today 2:16 PM ET",
-      "confidence": "low",
-      "_autofill": true,
-      "_scheduledTs": 1783448160000,
-      "marketSnapshot": {
-        "capturedAt": "2026-07-07T06:39:11.048Z",
-        "markets": {
-          "h2h": {
-            "away": {
-              "price": -182,
-              "book": "LowVig.ag"
-            },
-            "home": {
-              "price": 164,
-              "book": "LowVig.ag"
-            },
-            "draw": null
-          },
-          "spreads": {
-            "away": {
-              "point": -1.5,
-              "price": -107,
-              "book": "MyBookie.ag"
-            },
-            "home": {
-              "point": 1.5,
-              "price": -107,
-              "book": "LowVig.ag"
-            }
-          },
-          "totals": {
-            "over": {
-              "point": 7.5,
-              "price": -113,
-              "book": "LowVig.ag"
-            },
-            "under": {
-              "point": 8,
-              "price": -121,
-              "book": "BetRivers"
-            }
-          }
-        },
-        "awayTeam": "Milwaukee Brewers",
-        "homeTeam": "St. Louis Cardinals"
-      }
-    },
     {
       "type": "moneyline",
       "pick": "Chicago Cubs ML",
@@ -2693,6 +2590,119 @@
         "awayTeam": "Colombia",
         "homeTeam": "Switzerland"
       }
+    },
+    {
+      "type": "spread",
+      "pick": "Argentina -1.25",
+      "odds": "-118",
+      "edge": "Market fill from live lines: the books lay -1.25 with Argentina at -118 (best @ Bovada). No researched edge — a low-confidence market-consensus play so this sport isn't empty today.",
+      "matchup": "Egypt @ Argentina",
+      "league": "WORLD CUP",
+      "when": "Tomorrow 12:00 PM ET",
+      "confidence": "low",
+      "_autofill": true,
+      "_scheduledTs": 1783440000000,
+      "marketSnapshot": {
+        "capturedAt": "2026-07-07T00:00:33.572Z",
+        "markets": {
+          "h2h": {
+            "away": {
+              "price": 950,
+              "book": "BetRivers"
+            },
+            "home": {
+              "price": -265,
+              "book": "BetOnline.ag"
+            },
+            "draw": {
+              "price": 390,
+              "book": "BetRivers"
+            }
+          },
+          "spreads": {
+            "away": {
+              "point": 1.5,
+              "price": -135,
+              "book": "BetUS"
+            },
+            "home": {
+              "point": -1.25,
+              "price": -118,
+              "book": "Bovada"
+            }
+          },
+          "totals": {
+            "over": {
+              "point": 2.5,
+              "price": 105,
+              "book": "BetUS"
+            },
+            "under": {
+              "point": 2.5,
+              "price": -116,
+              "book": "BetOnline.ag"
+            }
+          }
+        },
+        "awayTeam": "Egypt",
+        "homeTeam": "Argentina"
+      },
+      "_pendingGrade": true
+    },
+    {
+      "type": "moneyline",
+      "pick": "Milwaukee Brewers ML",
+      "odds": "-182",
+      "edge": "Market fill from live lines: Milwaukee Brewers is the books' favorite at -182 (best price @ LowVig.ag) against St. Louis Cardinals at +164, favored even on the road. No researched edge here — this is a low-confidence market-consensus play added to round out the slate. Low confidence is honest confidence.",
+      "matchup": "Milwaukee Brewers @ St. Louis Cardinals",
+      "league": "MLB",
+      "when": "Today 2:16 PM ET",
+      "confidence": "low",
+      "_autofill": true,
+      "_scheduledTs": 1783448160000,
+      "marketSnapshot": {
+        "capturedAt": "2026-07-07T06:39:11.048Z",
+        "markets": {
+          "h2h": {
+            "away": {
+              "price": -182,
+              "book": "LowVig.ag"
+            },
+            "home": {
+              "price": 164,
+              "book": "LowVig.ag"
+            },
+            "draw": null
+          },
+          "spreads": {
+            "away": {
+              "point": -1.5,
+              "price": -107,
+              "book": "MyBookie.ag"
+            },
+            "home": {
+              "point": 1.5,
+              "price": -107,
+              "book": "LowVig.ag"
+            }
+          },
+          "totals": {
+            "over": {
+              "point": 7.5,
+              "price": -113,
+              "book": "LowVig.ag"
+            },
+            "under": {
+              "point": 8,
+              "price": -121,
+              "book": "BetRivers"
+            }
+          }
+        },
+        "awayTeam": "Milwaukee Brewers",
+        "homeTeam": "St. Louis Cardinals"
+      },
+      "_pendingGrade": true
     },
     {
       "type": "moneyline",
@@ -5303,40 +5313,94 @@
         "homeTeam": "Switzerland"
       },
       "_pendingGrade": true
+    },
+    {
+      "type": "moneyline",
+      "pick": "Philadelphia Phillies ML",
+      "odds": "-161",
+      "edge": "Market fill from live lines: Philadelphia Phillies is the books' favorite at -161 (best price @ LowVig.ag) against Cincinnati Reds at +146, favored even on the road. No researched edge here — this is a low-confidence market-consensus play added to round out the slate. Low confidence is honest confidence.",
+      "matchup": "Philadelphia Phillies @ Cincinnati Reds",
+      "league": "MLB",
+      "when": "Today 7:10 PM ET",
+      "confidence": "low",
+      "_autofill": true,
+      "_scheduledTs": 1783465800000,
+      "marketSnapshot": {
+        "capturedAt": "2026-07-07T20:47:21.304Z",
+        "markets": {
+          "h2h": {
+            "away": {
+              "price": -161,
+              "book": "LowVig.ag"
+            },
+            "home": {
+              "price": 146,
+              "book": "LowVig.ag"
+            },
+            "draw": null
+          },
+          "spreads": {
+            "away": {
+              "point": -1.5,
+              "price": -101,
+              "book": "MyBookie.ag"
+            },
+            "home": {
+              "point": 1.5,
+              "price": -110,
+              "book": "LowVig.ag"
+            }
+          },
+          "totals": {
+            "over": {
+              "point": 9,
+              "price": -105,
+              "book": "DraftKings"
+            },
+            "under": {
+              "point": 9,
+              "price": -109,
+              "book": "LowVig.ag"
+            }
+          }
+        },
+        "awayTeam": "Philadelphia Phillies",
+        "homeTeam": "Cincinnati Reds"
+      }
     }
   ],
-  "updatedAt": "2026-07-07T18:45:00Z",
+  "updatedAt": "2026-07-07T00:00:00Z",
   "highlights": [
     {
       "league": "NBA",
       "title": "First Look at the No. 6 Overall Pick Mikel Brown Jr. at the California Classic | July 6, 2026",
       "videoId": "qsWWaZ4YIH4",
       "thumbnail": "https://img.youtube.com/vi/qsWWaZ4YIH4/mqdefault.jpg",
-      "timeAgo": "2h ago",
+      "timeAgo": "5h ago",
       "isFallback": false
     },
     {
       "league": "NFL",
-      "title": "Field Yates relives Patriots-Giants Super Bowl XLII from SIDELINES! | The Biggest Game",
-      "videoId": "xFfIBlz-uRI",
-      "thumbnail": "https://img.youtube.com/vi/xFfIBlz-uRI/mqdefault.jpg",
+      "title": "Top 5 NFL Burning Questions with Jason McCourty | Schrager Hour",
+      "videoId": "hU0vqAJSmcU",
+      "thumbnail": "https://img.youtube.com/vi/hU0vqAJSmcU/mqdefault.jpg",
       "timeAgo": "3h ago",
       "isFallback": false
     },
     {
       "league": "MLB",
-      "title": "Ben Rice announces he's competing in his first Home Run Derby! (10 longest homers) 🍚 MLB Highlights",
-      "videoId": "gj1Od8zzrq4",
-      "thumbnail": "https://img.youtube.com/vi/gj1Od8zzrq4/mqdefault.jpg",
-      "timeAgo": "1h ago",
+      "title": "respect your elders … they have powers 🔮",
+      "videoId": "kjHqhmkO6-w",
+      "thumbnail": "https://img.youtube.com/vi/kjHqhmkO6-w/mqdefault.jpg",
+      "timeAgo": "3h ago",
       "isFallback": false
     },
     {
       "league": "NHL",
-      "title": "Which Ruck brother can tape a stick faster 🤔🏒",
-      "videoId": "d_7R0CHigdU",
-      "thumbnail": "https://img.youtube.com/vi/d_7R0CHigdU/mqdefault.jpg",
-      "timeAgo": "3h ago",
+      "title": "Sharks draft pick Keaton Verhoeff takes on the social media combine  🦈 📏 🏒",
+      "videoId": "WOF0fBz29LA",
+      "thumbnail": "https://img.youtube.com/vi/WOF0fBz29LA/mqdefault.jpg",
+      "timeAgo": "1h ago",
       "isFallback": false
     },
     {
@@ -5344,14 +5408,14 @@
       "title": "Seattle Storm vs. Los Angeles Sparks | FULL GAME HIGHLIGHTS | July 6, 2026",
       "videoId": "vCEbGKi2hB8",
       "thumbnail": "https://img.youtube.com/vi/vCEbGKi2hB8/mqdefault.jpg",
-      "timeAgo": "13h ago",
+      "timeAgo": "16h ago",
       "isFallback": false
     },
     {
       "league": "SOCCER",
-      "title": "FULL REACTION: Norway vs. England LIVE | ESPN FC",
-      "videoId": "3uJ4Ub-hh3o",
-      "thumbnail": "https://img.youtube.com/vi/3uJ4Ub-hh3o/mqdefault.jpg",
+      "title": "ESPN FC provides World Cup POWER RANKINGS 👀",
+      "videoId": "6fmGDKluYus",
+      "thumbnail": "https://img.youtube.com/vi/6fmGDKluYus/mqdefault.jpg",
       "timeAgo": "1h ago",
       "isFallback": false
     }
@@ -5359,11 +5423,107 @@
   "reels": [
     {
       "league": "SOCCER",
-      "title": "FULL REACTION: Norway vs. England LIVE | ESPN FC",
-      "videoId": "3uJ4Ub-hh3o",
+      "title": "ESPN FC provides World Cup POWER RANKINGS 👀",
+      "videoId": "6fmGDKluYus",
       "author": "ESPN FC",
-      "pubDate": "2026-07-07T16:29:05+00:00",
-      "link": "https://www.youtube.com/watch?v=3uJ4Ub-hh3o"
+      "pubDate": "2026-07-07T20:15:05+00:00",
+      "link": "https://www.youtube.com/watch?v=6fmGDKluYus"
+    },
+    {
+      "league": "SOCCER",
+      "title": "The reaction of Norwegian fans in Oslo 🥳🧤",
+      "videoId": "RexQO3suF80",
+      "author": "ESPN FC",
+      "pubDate": "2026-07-07T20:00:34+00:00",
+      "link": "https://www.youtube.com/watch?v=RexQO3suF80"
+    },
+    {
+      "league": "NHL",
+      "title": "Sharks draft pick Keaton Verhoeff takes on the social media combine  🦈 📏 🏒",
+      "videoId": "WOF0fBz29LA",
+      "author": "NHL",
+      "pubDate": "2026-07-07T20:00:06+00:00",
+      "link": "https://www.youtube.com/watch?v=WOF0fBz29LA"
+    },
+    {
+      "league": "SOCCER",
+      "title": "Lionel Messi once again proves Father Time 'WRONG' | ESPN FC",
+      "videoId": "VwzH0n3uQb8",
+      "author": "ESPN FC",
+      "pubDate": "2026-07-07T19:30:00+00:00",
+      "link": "https://www.youtube.com/watch?v=VwzH0n3uQb8"
+    },
+    {
+      "league": "SOCCER",
+      "title": "That is a bold statement",
+      "videoId": "nk4l3Ct84OI",
+      "author": "ESPN FC",
+      "pubDate": "2026-07-07T19:22:38+00:00",
+      "link": "https://www.youtube.com/watch?v=nk4l3Ct84OI"
+    },
+    {
+      "league": "SOCCER",
+      "title": "🇧🇪🇺🇸 The highs and lows of being a fan 🥲",
+      "videoId": "Vwy8jq9cVzA",
+      "author": "ESPN FC",
+      "pubDate": "2026-07-07T19:14:25+00:00",
+      "link": "https://www.youtube.com/watch?v=Vwy8jq9cVzA"
+    },
+    {
+      "league": "SOCCER",
+      "title": "Unreal 🇦🇷",
+      "videoId": "GA46MoHUpy4",
+      "author": "ESPN FC",
+      "pubDate": "2026-07-07T19:13:25+00:00",
+      "link": "https://www.youtube.com/watch?v=GA46MoHUpy4"
+    },
+    {
+      "league": "SOCCER",
+      "title": "Chaos in #Argentina 😱",
+      "videoId": "ODCM4aXkmaU",
+      "author": "ESPN FC",
+      "pubDate": "2026-07-07T19:12:30+00:00",
+      "link": "https://www.youtube.com/watch?v=ODCM4aXkmaU"
+    },
+    {
+      "league": "SOCCER",
+      "title": "Argentina's defensive vulnerability could end their World Cup | ESPN FC",
+      "videoId": "UC4BspL1e58",
+      "author": "ESPN FC",
+      "pubDate": "2026-07-07T19:08:38+00:00",
+      "link": "https://www.youtube.com/watch?v=UC4BspL1e58"
+    },
+    {
+      "league": "MLB",
+      "title": "respect your elders … they have powers 🔮",
+      "videoId": "kjHqhmkO6-w",
+      "author": "MLB",
+      "pubDate": "2026-07-07T17:50:46+00:00",
+      "link": "https://www.youtube.com/watch?v=kjHqhmkO6-w"
+    },
+    {
+      "league": "NHL",
+      "title": "One more year AT LEAST for Ovi! 🥳",
+      "videoId": "_tRSL1CS-aU",
+      "author": "NHL",
+      "pubDate": "2026-07-07T17:28:21+00:00",
+      "link": "https://www.youtube.com/watch?v=_tRSL1CS-aU"
+    },
+    {
+      "league": "NFL",
+      "title": "Top 5 NFL Burning Questions with Jason McCourty | Schrager Hour",
+      "videoId": "hU0vqAJSmcU",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-07-07T17:22:36+00:00",
+      "link": "https://www.youtube.com/watch?v=hU0vqAJSmcU"
+    },
+    {
+      "league": "MLB",
+      "title": "Yordan Alvarez hitting a walk-off is great, but sharing it with your son is even better ❤️",
+      "videoId": "seW_BFmJMhg",
+      "author": "MLB",
+      "pubDate": "2026-07-07T16:59:18+00:00",
+      "link": "https://www.youtube.com/watch?v=seW_BFmJMhg"
     },
     {
       "league": "MLB",
@@ -5406,14 +5566,6 @@
       "link": "https://www.youtube.com/watch?v=2mwZRGo1eFo"
     },
     {
-      "league": "SOCCER",
-      "title": "The laugh 😂 (via @naya.reignn/TT)",
-      "videoId": "9GPiQvSBpeg",
-      "author": "ESPN FC",
-      "pubDate": "2026-07-07T14:51:59+00:00",
-      "link": "https://www.youtube.com/watch?v=9GPiQvSBpeg"
-    },
-    {
       "league": "NBA",
       "title": "2019 championship teammate Kawhi Leonard here to support Kyle as he retires a Raptor 👏",
       "videoId": "Tke-knBqcYs",
@@ -5454,28 +5606,12 @@
       "link": "https://www.youtube.com/watch?v=FxZ9vC31olE"
     },
     {
-      "league": "SOCCER",
-      "title": "USMNT FAILURE?! Cristiano Ronaldo’s legacy + Ilkay Gundogan joins! | ESPN FC",
-      "videoId": "R3bg7SMR_cU",
-      "author": "ESPN FC",
-      "pubDate": "2026-07-07T14:30:10+00:00",
-      "link": "https://www.youtube.com/watch?v=R3bg7SMR_cU"
-    },
-    {
       "league": "MLB",
       "title": "Gotta stay on your toes! 🤣",
       "videoId": "8tlCwmDKwC0",
       "author": "MLB",
       "pubDate": "2026-07-07T14:30:08+00:00",
       "link": "https://www.youtube.com/watch?v=8tlCwmDKwC0"
-    },
-    {
-      "league": "SOCCER",
-      "title": "Rodri apologizes to Bernardo Silva 👀 'Don't apologize baby, CELEBRATE!' - Ale Moreno | ESPN FC",
-      "videoId": "2Ex_-jTvs_s",
-      "author": "ESPN FC",
-      "pubDate": "2026-07-07T14:27:30+00:00",
-      "link": "https://www.youtube.com/watch?v=2Ex_-jTvs_s"
     },
     {
       "league": "NHL",
@@ -5494,60 +5630,12 @@
       "link": "https://www.youtube.com/watch?v=xFfIBlz-uRI"
     },
     {
-      "league": "SOCCER",
-      "title": "Why would Mauricio Pochettino want to stay?! - Steve Nicol | ESPN FC",
-      "videoId": "MZRdNXwe2fU",
-      "author": "ESPN FC",
-      "pubDate": "2026-07-07T14:00:06+00:00",
-      "link": "https://www.youtube.com/watch?v=MZRdNXwe2fU"
-    },
-    {
-      "league": "SOCCER",
-      "title": "Cristiano Ronaldo and Portugal’s World Cup destiny was ‘FORETOLD’ | ESPN FC",
-      "videoId": "qBzM8p2GBmw",
-      "author": "ESPN FC",
-      "pubDate": "2026-07-07T13:52:03+00:00",
-      "link": "https://www.youtube.com/watch?v=qBzM8p2GBmw"
-    },
-    {
-      "league": "SOCCER",
-      "title": "Steve Nicol DID NOT HEED Jermaine Jones’ USMNT warning 🍿 | ESPN FC",
-      "videoId": "OLNmxWWgOvA",
-      "author": "ESPN FC",
-      "pubDate": "2026-07-07T13:23:10+00:00",
-      "link": "https://www.youtube.com/watch?v=OLNmxWWgOvA"
-    },
-    {
-      "league": "SOCCER",
-      "title": "No idea how bro did this 🔥 (via @Bundesliga/TT)",
-      "videoId": "1NcZKl_bmGA",
-      "author": "ESPN FC",
-      "pubDate": "2026-07-07T13:15:13+00:00",
-      "link": "https://www.youtube.com/watch?v=1NcZKl_bmGA"
-    },
-    {
       "league": "MLB",
       "title": "Cam Schlittler and José Caballero SHINE in a crucial AL East matchup and MUCH MORE!",
       "videoId": "fWl-qngNmzI",
       "author": "MLB",
       "pubDate": "2026-07-07T13:00:28+00:00",
       "link": "https://www.youtube.com/watch?v=fWl-qngNmzI"
-    },
-    {
-      "league": "MLB",
-      "title": "James Wood CRUSHES a 446-foot GRAND SLAM &amp; the BEST MLB Highlights from 7/6/26!",
-      "videoId": "yYVoYIw25eU",
-      "author": "MLB",
-      "pubDate": "2026-07-07T11:00:11+00:00",
-      "link": "https://www.youtube.com/watch?v=yYVoYIw25eU"
-    },
-    {
-      "league": "MLB",
-      "title": "Highlights from ALL GAMES on 7/6 (Cam Schlittler DOMINATES, Mets-Braves ELECTRIC ending and MORE!)",
-      "videoId": "6Z3NNyQICuI",
-      "author": "MLB",
-      "pubDate": "2026-07-07T10:00:32+00:00",
-      "link": "https://www.youtube.com/watch?v=6Z3NNyQICuI"
     },
     {
       "league": "NBA",
@@ -5652,30 +5740,6 @@
       "author": "NFL on ESPN",
       "pubDate": "2026-07-06T14:07:53+00:00",
       "link": "https://www.youtube.com/watch?v=p3lBxR0odz4"
-    },
-    {
-      "league": "NFL",
-      "title": "When Browns security was working on their tackle-a-fan-on-the-field drill 🤣 (via johnclarknbc/TT)",
-      "videoId": "dYz3O05Nyt0",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-07-06T02:51:32+00:00",
-      "link": "https://www.youtube.com/watch?v=dYz3O05Nyt0"
-    },
-    {
-      "league": "WNBA",
-      "title": "Indiana Fever vs. Las Vegas Aces | FULL GAME HIGHLIGHTS | July 5, 2026",
-      "videoId": "tzSCKrwRnhM",
-      "author": "WNBA",
-      "pubDate": "2026-07-06T01:41:15+00:00",
-      "link": "https://www.youtube.com/watch?v=tzSCKrwRnhM"
-    },
-    {
-      "league": "WNBA",
-      "title": "Dallas Wings vs. Toronto Tempo | FULL GAME HIGHLIGHTS | July 5, 2026",
-      "videoId": "b3X9jYYWr2Y",
-      "author": "WNBA",
-      "pubDate": "2026-07-05T21:25:32+00:00",
-      "link": "https://www.youtube.com/watch?v=b3X9jYYWr2Y"
     }
   ]
 }
