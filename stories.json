@@ -1,81 +1,91 @@
 {
   "clusters": [
     {
-      "category": "contracts",
+      "category": "leagues",
       "importance": 9,
-      "leadHeadline": "Ducks make $90 million Leo Carlsson decision after jaw-dropping Flyers offer sheet",
-      "leadSource": "NY Post Sports · just now",
-      "leadUrl": "https://nypost.com/2026/07/09/sports/ducks-make-90-million-leo-carlsson-decision-after-flyers-offer-sheet/",
-      "summary": "The Ducks matched Philadelphia's $90M offer sheet for Leo Carlsson on Thursday, locking in an NHL-record $18M AAV for the 21-year-old center through 2030-31.",
-      "article": "<cite index=\"1-1,1-4\">The Anaheim Ducks matched the Philadelphia Flyers' five-year, $90 million offer sheet for Leo Carlsson on Thursday, securing an $18 million average annual value—the richest in NHL history</cite>. <cite index=\"1-3\">The Flyers tendered the offer on July 3</cite>, giving Anaheim seven days to match or lose their restricted free agent to compensation picks.\n\n<cite index=\"19-1\">Carlsson's $18 million AAV surpasses Kirill Kaprizov's $17 million</cite>. <cite index=\"1-10\">The 21-year-old center had 67 points in 70 games last season</cite>, establishing himself as one of the league's emerging talents after <cite index=\"1-1\">leading the Ducks' first playoff run to the second round since 2017-18</cite>.\n\n<cite index=\"1-5,1-8\">Ducks GM Pat Verbeek said, \"We are very happy to have Leo under contract for five years,\" adding that matching \"was always our intention.\"</cite> <cite index=\"1-9\">Had Anaheim declined to match, the Flyers would have sent four first-round picks as compensation</cite>, a steep price that underscored Philadelphia's commitment to prying him away. <cite index=\"11-4\">Carlsson's contract runs through the 2030-31 season</cite>.",
+      "leadHeadline": "Tadej Pogacar demolishes Tour de France rivals on the Tourmalet to take ominous lead",
+      "leadSource": "The Guardian · 6h ago",
+      "leadUrl": "https://www.theguardian.com/sport/2026/jul/09/pogacar-vingegaard-col-du-tourmalet-lead-tour-de-france-stage-six",
+      "summary": "<cite index=\"1-6,1-1\">Pogačar won stage 6 after riding solo 43km, gaining 2:38 on rival Vingegaard to seize a 2:42 overall lead</cite>.",
+      "article": "<cite index=\"2-1\">Tadej Pogačar won stage 6 with a dominant display that started 4.1km from the Col du Tourmalet summit</cite>. <cite index=\"1-4\">His teammate Isaac del Toro led him up the climb before Pogačar attacked, and Vingegaard couldn't match the pace</cite>.\n\n<cite index=\"1-6\">After 43 kilometres solo, Pogačar finished victorious in Gavarnie-Gèdre, gaining 2:38 on Vingegaard and taking the yellow jersey for the 56th time in his career</cite>. <cite index=\"1-1\">Pogačar leads the Tour by 2:42 over Vingegaard, with Isaac del Toro third at 3:27</cite>.\n\n<cite index=\"2-3\">The 186.2km stage from Pau featured two major climbs, with Pogačar riding solo for 40km to win</cite>. <cite index=\"1-17\">At the Tourmalet summit, Pogačar had 31 seconds on Vingegaard</cite>. The Slovenian's authority on the descent sealed the victory.\n\n<cite index=\"4-3\">Overnight leader Torstein Træen was 7:53 down before the stage began</cite> and <cite index=\"1-19,1-20\">crashed on the Tourmalet descent but continued after medical assessment</cite>.\n\nWhen asked how this stage win ranked among his career victories, <cite index=\"1-2\">Pogačar said \"It's one of the sweetest for sure\"</cite> out of his 123 total wins. <cite index=\"4-7,4-8\">This was his 23rd Tour stage victory overall, moving him to fifth all-time, twelve behind Mark Cavendish's record of 35</cite>.\n\n<cite index=\"12-1,12-2\">French President Emmanuel Macron watched the final part of stage 6 from the race director's car</cite>.",
       "tweets": [
         {
-          "url": "https://twitter.com/AnaheimDucks/status/2075253389345341747",
-          "html": "<blockquote class=\"twitter-tweet\" data-dnt=\"true\" data-theme=\"dark\"><p>Five more years of LEO!\nhttps://t.co/3uscSK2GmJ</p>&mdash; Anaheim Ducks (@AnaheimDucks) <a href=\"https://twitter.com/AnaheimDucks/status/2075253389345341747\">July 9, 2026</a></blockquote>",
-          "author_name": "Anaheim Ducks",
-          "author_url": "https://twitter.com/AnaheimDucks",
-          "dateMs": 1783613939000
+          "url": "https://twitter.com/VelonCC/status/2075234238916378901",
+          "html": "<blockquote class=\"twitter-tweet\" data-dnt=\"true\" data-theme=\"dark\"><p>Pogačar demolishes Tourmalet record 💥\n\nTadej Pogačar rode the Col du Tourmalet from Sainte-Marie-de-Campan on Tour de France Stage 6 in a remarkable 43:02, over 2min faster than the old record\n\nVingegaard also broke the old record in 43:32.\n\n📸 Getty Images https://t.co/YQVRWsRp8W</p>&mdash; Velon CC (@VelonCC) <a href=\"https://twitter.com/VelonCC/status/2075234238916378901\">July 9, 2026</a></blockquote>",
+          "author_name": "Velon CC",
+          "author_url": "https://twitter.com/VelonCC",
+          "dateMs": 1783609373000
         }
       ]
     },
     {
-      "category": "media",
+      "category": "contracts",
       "importance": 8,
-      "leadHeadline": "Muchova beats Gauff in epic tie-break to reach final",
-      "leadSource": "BBC Sport · 1h ago",
-      "leadUrl": "https://www.bbc.co.uk/sport/tennis/articles/c74yk1qp4dko?at_medium=RSS&amp;at_campaign=rss",
-      "summary": "Karolina Muchova defeated Coco Gauff in a thrilling Wimbledon semi-final, recovering from match point down to win the deciding-set tie-break. Muchova advances to Saturday's final at the All England Club.",
-      "article": "Karolina Muchova reached the Wimbledon final on Thursday after beating Coco Gauff in an extraordinary deciding-set tie-break, recovering from match point down to claim one of the tournament's most dramatic victories.\n\nThe Czech player's comeback from a position where Gauff had match point underscores both competitors' mental resilience in a match that stretched the length and emotional arc of a Grand Slam semi-final. Muchova's ability to find court position and angles in the tie-break proved decisive when the pressure was highest.\n\nMuchova, seeded lower than Gauff in the draw, had to overcome a player who entered Wimbledon as one of the favorites and had shown consistency through six rounds. The match showcased the modern game at its most demanding: long rallies, high pace, and points decided by fractions of movement.\n\nMuchova now faces a final opponent in Saturday's championship match. The Czech player has been strong on grass this summer and will carry that momentum into the title bout. For Gauff, the loss represents another semi-final exit at a major and extends her drought in Grand Slam finals despite being ranked among the world's elite. The match will be replayed in highlight form across all major broadcast networks covering the championship.",
+      "leadHeadline": "Kawhi Leonard Trade on Hold Until NBA Wraps Clippers Investigation",
+      "leadSource": "Sportsnet · 5h ago",
+      "leadUrl": "",
+      "summary": "The Raptors-Clippers trade for Kawhi Leonard cannot be finalized until the NBA completes its investigation into Leonard and the Clippers organization. ESPN reported the hold via Shams Charania.",
+      "article": "The Toronto Raptors' acquisition of All-Star forward Kawhi Leonard from the Los Angeles Clippers has stalled pending completion of an NBA investigation into Leonard and the Clippers, according to ESPN's Shams Charania. The hold on the trade finalization represents a significant complication in what was expected to be a routine offseason move after the two franchises agreed to terms in June. The investigation's scope and timeline remain unclear, but the league's decision to withhold approval creates uncertainty around Leonard's status and the Raptors' roster construction heading into the 2026-27 season. Leonard, a two-time NBA champion and six-time All-Star, had been sidelined by injuries in recent years, and the Raptors move was intended to pair him with their core rotation. The investigation delays any official announcement or media availability for Leonard in Toronto and prevents both teams from moving forward with integration planning. No timeline has been provided for when the NBA investigation will conclude.",
+      "tweets": []
+    },
+    {
+      "category": "leagues",
+      "importance": 8,
+      "leadHeadline": "Muchova into Wimbledon final after nailbiting tie-break defeat of Coco Gauff",
+      "leadSource": "The Guardian · 8h ago",
+      "leadUrl": "https://www.theguardian.com/sport/2026/jul/09/karolina-muchova-into-wimbledon-final-tie-break-defeat-coco-gauff-tennis",
+      "summary": "Czech 10th seed Karolina Muchova defeated Coco Gauff 6-2, 1-6, 7-6 (10) in a deciding-set tiebreak to reach the Wimbledon final. Muchova will face compatriot Noskova on Saturday.",
+      "article": "Karolina Muchova clinched a 6-2, 1-6, 7-6 (10) victory over Coco Gauff in a nailbiting Wimbledon semifinal, punching a 117mph first serve down the center line on match point to secure passage to Saturday's final. The Czech 10th seed will face fellow countrywoman Noskova in the championship match at Centre Court. The third-set tiebreak was decided at 10-9, with Muchova's serve holding firm when it mattered most. After dropping the second set decisively, Muchova regrouped and forced the decider, then outlasted Gauff in the prolonged tiebreak. The match showcased Muchova's ability to construct points and close on her terms, particularly evident on her first serve on match point. Her advance marks a major achievement for a player working back from injury, and the all-Czech final will be one of the tournament's most compelling storylines heading into Saturday.",
+      "tweets": []
+    },
+    {
+      "category": "leagues",
+      "importance": 7,
+      "leadHeadline": "Christian Pulisic suffered leg fracture in US loss to Belgium, out for several weeks",
+      "leadSource": "The Guardian · 6h ago",
+      "leadUrl": "",
+      "summary": "Christian Pulisic sustained a microfracture and bone bruise in his right leg during the USMNT's 4-1 World Cup loss to Belgium and will be sidelined for several weeks. The Milan forward was substituted out during the last-16 match.",
+      "article": "Christian Pulisic suffered a microfracture and bone bruise in his right leg during the United States' 4-1 loss to Belgium in the World Cup last 16 on Monday, sidelining the Milan forward for several weeks. Pulisic was substituted out of the match after sustaining the injury and will miss the remainder of the American campaign. The injury represents a major blow to the USMNT's attacking depth at a critical stage of the tournament and comes after Pulisic faced criticism for availability issues throughout the season. His absence removes one of the team's most dynamic attacking players and forces a reshuffle of the frontline. The severity of the microfracture and bone bruise sets the recovery timeline at least several weeks, extending well beyond the World Cup. Pulisic's injury also raises questions about the physical toll of the condensed domestic schedule and his club duties at Milan heading into a grueling tournament.",
       "tweets": []
     },
     {
       "category": "contracts",
-      "importance": 7,
-      "leadHeadline": "Christian Pulisics USMNT legacy faces familiar questions after another injury-plagued World Cup exit",
-      "leadSource": "CBS Sports · 1h ago",
-      "leadUrl": "",
-      "summary": "Christian Pulisic suffered a fractured right leg with bone bruise and microfracture to his tibia and fibula during the USMNT's 4-1 World Cup loss to Belgium, ending his tournament after just 59 minutes. The injury marks another World Cup derailed by physical setbacks for the U.S. star.",
-      "article": "Christian Pulisic's World Cup ended in the 59th minute of the USMNT's 4-1 loss to Belgium on Monday, when the U.S. star suffered a fractured right leg diagnosed as a bone bruise and microfracture to his tibia and fibula. He will be sidelined for several weeks, a person familiar with the injury said Thursday.\n\nThe injury compounds a career pattern of World Cup disappointment tied to availability. Pulisic entered this tournament as the team's most consistent attacking threat and primary creative force, but played limited minutes before the setback ended his participation entirely.\n\nThe USMNT's early exit and Pulisic's early exit within it have sparked immediate questions about the team's preparation, squad construction, and whether the U.S. has adequately developed depth at attacking positions to withstand injuries to key players. Belgium's four-goal performance exposed defensive vulnerabilities, and the absence of Pulisic's press-and-release rhythm offered no counterbalance.\n\nFor Pulisic, the injury adds another chapter to an otherwise elite resume shadowed by World Cup misfortune. His club form with AC Milan has been strong, but international tournaments have repeatedly denied him the stage his talent warrants. Recovery from this fracture typically runs 4-8 weeks depending on severity and whether surgery is required, a timeline that will affect both club and country scheduling as summer approaches.",
-      "tweets": []
-    },
-    {
-      "category": "revenue",
       "importance": 6,
-      "leadHeadline": "Rays Tout New Stadium Designs as Funding Talks Continue",
-      "leadSource": "Front Office Sports · 2h ago",
-      "leadUrl": "https://frontofficesports.com/rays-tout-new-stadium-designs-as-funding-talks-continue/",
-      "summary": "The Tampa Bay Rays unveiled interior ballpark designs for a potential new stadium while ongoing negotiations continue with local and state officials on project funding. The disclosure signals the club's continued push for a new venue ahead of a self-imposed 2027 deadline.",
-      "article": "The Tampa Bay Rays released renderings of a proposed new stadium's interior design on Thursday, offering the first detailed public look at team plans for a modern ballpark while negotiations over public funding remain active with Hillsborough County and Florida state officials.\n\nThe timing of the design unveiling coincides with the team's self-imposed operational deadline. The Rays have signaled they need a new facility to compete and remain in the Tampa Bay market; their current venue, Tropicana Field, opened in 1990 and lacks modern revenue-generating amenities common in newer ballparks.\n\nThe renderings show seating bowl configurations, sight line considerations, and what the franchise envisions as fan experience upgrades. The images are carefully timed to maintain public momentum around the project and reinforce the team's commitment to a local solution rather than relocation.\n\nFunding remains the central question. Public support for sports facility subsidies has cooled nationally, and Florida's legislature has not committed state dollars to the project. Hillsborough County voters previously rejected a sales tax increase tied to stadium funding, forcing county commissioners and the team to explore alternative revenue sources including private investment and other tax mechanisms.\n\nThe design reveal is a negotiating tactic as much as a planning document: it demonstrates architectural feasibility and allows the organization to demonstrate progress to both stakeholders and fans. Without a funding agreement by 2027, the team has indicated it will explore relocation options.",
+      "leadHeadline": "All-Star pitcher Ranger Suarez lands on IL in Red Sox injury blow",
+      "leadSource": "NY Post Sports · 1h ago",
+      "leadUrl": "https://nypost.com/2026/07/09/sports/all-star-pitcher-ranger-suarez-lands-on-il-in-red-sox-injury-blow/",
+      "summary": "Red Sox All-Star pitcher Ranger Suarez has been placed on the 15-day injured list days before the second All-Star Game. No diagnosis details were provided in the announcement.",
+      "article": "Ranger Suarez, the Red Sox All-Star pitcher, was placed on the 15-day injured list in what the team called an injury blow during the heart of the regular season. The timing is particularly difficult, coming just days before the All-Star Game in which Suarez was set to represent Boston. The Red Sox have not disclosed the specific nature or severity of Suarez's injury, leaving his availability for the Midsummer Classic uncertain. His absence from the rotation forces the Red Sox to shuffle their pitching staff and lean more heavily on depth options during a stretch run where consistency in the rotation is critical. The length of the injury and Suarez's participation in the All-Star Game remain unclear pending further evaluation.",
       "tweets": []
     },
     {
-      "category": "media",
-      "importance": 5,
-      "leadHeadline": "Caitlin Clark struggles in return from back injury, calls out Fevers short substitution patterns",
-      "leadSource": "CBS Sports · just now",
-      "leadUrl": "https://www.cbssports.com/wnba/news/caitlin-clark-return-back-injury-calls-out-fever/",
-      "summary": "Caitlin Clark returned from a back injury in the Fever's 106-92 loss to the Los Angeles Sparks but struggled to find rhythm, citing the team's frequent substitution patterns as a factor. Clark said it's \"really, really hard to get into a flow\" under the defensive rotation.",
-      "article": "Caitlin Clark took the court Thursday for the Indiana Fever's matchup against the Los Angeles Sparks after missing time with a back injury, but the team's loss and her performance sparked a pointed critique of the coaching staff's substitution strategy.\n\nClark struggled to impose her usual pace and rhythm in the 106-92 defeat, and afterward she directly attributed the difficulty to frequent bench rotations that disrupted her ability to build continuity with teammates and stay mentally locked into the flow of the game.\n\n\"It's really, really hard to get into a flow,\" Clark said after the loss, a clear jab at head coach Todd Feuerbach's approach to player rotation.\n\nThe Fever have leaned heavily on substitution patterns designed to manage workload and matchup flexibility, but Clark's criticism suggests the rotating cast is fragmenting offensive rhythm precisely when the team needs her playmaking to be at its peak. At 22 and in her second WNBA season, Clark's authority to critique coaching decisions carries weight; she remains the Fever's most important player.\n\nIndiana's record and playoff positioning depend on Clark's health and effectiveness. A back injury that lingers can affect her explosiveness on both ends. The Sparks' win moves them closer to the Eastern Conference standings while leaving the Fever searching for answers on both continuity and roster management as they approach the midseason stretch.",
+      "category": "leagues",
+      "importance": 6,
+      "leadHeadline": "Judge Orders NCAA to Grandfather Athletes Into New Eligibility Model",
+      "leadSource": "Front Office Sports · 5h ago",
+      "leadUrl": "https://frontofficesports.com/judge-orders-ncaa-grandfather-athletes-eligibility-model/",
+      "summary": "An Ohio judge awarded Filip Borovicanin and 23 other college basketball players an injunction allowing them to play this fall, while a Tennessee judge heard a separate petition from college football players seeking additional eligibility.",
+      "article": "Xavier basketball player Filip Borovicanin and 23 other college basketball players from the class of 2022 won an injunction from an Ohio judge, clearing them to play college hoops this fall under new eligibility rules. The ruling comes hours after three college football players petitioned a Tennessee judge for the right to play another season. The dual litigation challenges the NCAA's transition to a new eligibility model and suggests widespread athlete concerns about how the classification applies retrospectively. The basketball injunction specifically addresses players affected by the high school class of 2022 eligibility window, indicating potential gaps in how the NCAA implemented its new framework. The football players' Tennessee petition signals the issue extends across multiple sports and multiple jurisdictions. If the Tennessee court grants relief similar to the Ohio decision, the NCAA could face pressure to grandfather thousands of athletes into additional years of eligibility. The rulings underscore ongoing tension between the NCAA's new policies and athlete legal challenges to their implementation.",
       "tweets": []
     },
     {
-      "category": "media",
+      "category": "leagues",
       "importance": 5,
-      "leadHeadline": "Kalshi's Weather Delay Bets Raise Regulatory Questions",
-      "leadSource": "Sportico · 1h ago",
-      "leadUrl": "https://www.sportico.com/business/sports-betting/2026/kalshi-weather-delay-bet-trade-world-cup-mlb-1234938355/",
-      "summary": "Kalshi has opened a new prediction market allowing sports fans to bet on whether individual sporting events will have weather delays, after self-certifying the category with the Commodity Futures Trading Commission. The move represents an expansion of sports betting into previously unregulated territory.",
-      "article": "Kalshi, a prediction market platform, has begun accepting bets on whether specific sporting events will experience weather delays, marking an expansion of sports wagering into terrain that has raised questions among regulators and sports officials about the boundaries of event-level betting.\n\nThe company self-certified the weather delay category with the Commodity Futures Trading Commission (CFTC) in July, meaning Kalshi determined the product met regulatory requirements without seeking explicit prior approval. This regulatory pathway, available under CFTC guidelines for certain derivatives, allows platforms to launch products quickly, though they remain subject to post-launch review.\n\nWeather-delay betting presents a novel risk profile compared to traditional sports outcomes. Unlike wagering on a winner or a final score, weather delay bets hinge on external conditions that no team controls. This distinction has implications for integrity: the products cannot be manipulated by players or coaches, but they can create incentives for venues to misreport conditions or for broadcasters to adjust timing decisions based on betting patterns.\n\nMajor sports leagues have not publicly objected to the category, though the NFL, NBA, and MLB have each established betting integrity departments tasked with monitoring novel betting products for abuse. Whether leagues will formally weigh in on weather-delay markets remains unclear.\n\nKalshi's self-certification approach mirrors broader trends in crypto-native prediction markets seeking to operate in gray regulatory space. Success here could encourage other platforms to expand into similar event-adjacent categories, or it could prompt the CFTC to clarify boundaries around what sports betting products it will tolerate.",
+      "leadHeadline": "To Wimbledon and back - Fery's voyage to Centre Court spotlight",
+      "leadSource": "BBC Sport · 5h ago",
+      "leadUrl": "https://www.bbc.co.uk/sport/tennis/articles/cpq30vnj7jlo?at_medium=RSS&amp;at_campaign=rss",
+      "summary": "Arthur Fery learned to play tennis less than a mile from Wimbledon's Centre Court and is now one match away from reaching the final. The journey highlights the connection between local talent and the sport's most storied venue.",
+      "article": "Arthur Fery's path to the Wimbledon semifinals reads like a fairy tale: he learned tennis within a mile of Centre Court and has now advanced to one match away from the final. The local player's proximity to the All England Club shaped his early development and provided rare access to the sport's most prestigious tournament. Fery's trajectory from neighborhood courts to the semifinal stage represents a breakthrough for home-grown talent at a venue that often sees international stars dominate. His semifinal appearance adds a compelling human-interest angle to the tournament and raises the possibility of a hometown narrative in the championship match. The draw and his continued advancement will determine whether Fery reaches Saturday's final.",
       "tweets": []
     },
     {
       "category": "media",
       "importance": 4,
       "leadHeadline": "Bettman: NHL feeling no pressure to reach rights deal before NFL",
-      "leadSource": "Sports Media Watch · 13h ago",
+      "leadSource": "Sports Media Watch · 20h ago",
       "leadUrl": "https://www.sportsmediawatch.com/2026/07/bettman-nhl-no-pressure-nfl-rights-deals-update/",
-      "summary": "NHL commissioner Gary Bettman said Wednesday that the league is not under pressure to negotiate a media rights deal before the NFL finalizes its next broadcast agreements. The comment suggests the NHL is taking a longer view of the rights market.",
-      "article": "NHL commissioner Gary Bettman stated Wednesday that the league faces no timeline pressure to conclude media rights negotiations ahead of the NFL's own talks, signaling that the NHL is content to let football's market-setting process unfold before committing its own broadcast future.\n\nBettman's comments come amid ongoing speculation about the NHL's media rights strategy. The NFL's next television deal, expected to command $10-14 billion annually across all partners, will establish ceiling prices and competitive dynamics that trickle down to other leagues. By waiting, the NHL avoids bidding in a vacuum and gains clarity on what broadcasters and streaming services are willing to invest in sports content broadly.\n\nThe NHL's current media landscape includes deals with ESPN, TNT, and SiriusXM. Negotiations for the next cycle will likely involve the same players plus potential entrants like Amazon or Apple TV+, each evaluating their sports strategy against the broader streaming wars.\n\nBettman's relaxed posture contrasts with urgency shown by the NBA, which has been more aggressive in initial rights conversations. By stepping back, the NHL is essentially choosing patience over first-mover advantage, betting that its profile and inventory will remain attractive to broadcasters regardless of timing.\n\nThe league does face pressure on the business side: cord-cutting continues to erode traditional television audiences, and younger viewers' media habits have shifted toward streaming and on-demand. Bettman's comments suggest the NHL's board of governors believes the league has leverage and can afford to wait for better market conditions.",
+      "summary": "NHL commissioner Gary Bettman said the league is under no pressure to finalize media rights negotiations ahead of the NFL's own deal. The comment came Wednesday amid ongoing discussions with broadcasters.",
+      "article": "NHL commissioner Gary Bettman stated that the league is not pressured to conclude its media rights negotiations before the NFL enters its own discussions, according to Sports Media Watch. The comment reflects the NHL's deliberate approach to rights talks and contrasts with earlier speculation that the league might rush a deal to precede the NFL process. Bettman's remarks suggest the NHL is comfortable with its current timeline and negotiating position, indicating no imminent announcement is expected. The NHL's rights negotiations involve multiple potential partners and remain fluid. The league's lack of urgency relative to the NFL's anticipated schedule could affect the overall timing of major sports media deals across professional North American sports, though Bettman indicated this competitive pressure is not shaping the NHL's strategy.",
       "tweets": []
     }
   ],
@@ -2399,132 +2409,126 @@
     ],
     "source": "espn"
   },
-  "deals": [
-    {
-      "type": "extension",
-      "parties": "Anaheim Ducks ⇄ Leo Carlsson",
-      "value_usd": 90000000,
-      "term_years": 5,
-      "league": "NHL",
-      "headline": "Ducks match Flyers offer sheet: Carlsson signs 5-year, $90M deal",
-      "storyIndex": 2,
-      "blurb": "Record $18M average annual value for the 22-year-old forward locked in through his mid-20s.",
-      "capturedAt": "2026-07-09T17:14:08.875Z"
-    }
-  ],
+  "deals": [],
   "ratings": [],
   "ticket_prices": [],
   "sidebar": [
     {
-      "headline": "Alan Shearer explains why he now has belief England can go further in World Cup",
-      "source": "BBC Sport · 3h ago",
-      "article": "Alan Shearer reversed his earlier skepticism about England's World Cup chances, signaling renewed confidence the Three Lions can advance further than he initially expected. Shearer's shift in outlook comes after England's Group Stage performance and reflects a reassessment of the squad's composition and tactical flexibility. The former England captain's endorsement carries weight in the domestic conversation around the team's title ambitions. England enters the knockout rounds with significant attacking depth and a defense that has tightened since the group stage. Shearer's changed mind suggests that what looked like a squad vulnerable to deeper competition may have more resilience than early analysis suggested."
+      "headline": "Bears' Indiana Stadium Plans in 'Red Zone,' Governor Says",
+      "source": "Front Office Sports · 4h ago",
+      "article": "The Chicago Bears are drawing closer to a long-awaited decision on a new stadium in Indiana, with the state's governor indicating the project has reached a critical stage. The team has been exploring options outside Illinois for years, and the Indiana proposal has emerged as a serious contender alongside potential Chicago-based sites. The governor's 'red zone' comment suggests active negotiations and regulatory review are underway. The decision timeline remains uncertain, but the progress signals movement on a franchise priority that has stalled for over a decade. A stadium relocation would reshape the Bears' revenue structure and have enormous implications for Illinois and Indiana's sports landscape."
     },
     {
-      "headline": "Conor McGregor returns for first time in five years to face Max Holloway at UFC 329",
-      "source": "CBS Sports · just now",
-      "article": "Conor McGregor steps into the octagon for the first time in five years on Saturday in Las Vegas against Max Holloway at UFC 329, marking a major return for the sport's biggest star. The fight headline caps International Fight Week and represents one of the most anticipated comebacks in MMA history. McGregor's absence from competition has fueled speculation about his physical condition, mental state, and whether his reflexes and fight IQ remain at elite level. Holloway is among the most durable and technically proficient fighters in the sport, a stern test for any returning competitor. The bout will command significant viewership and live gate revenue for the UFC, with Las Vegas setting record betting handle expectations."
+      "headline": "News: NASCAR, LIV Golf, ESPN and more",
+      "source": "Sports Media Watch · 6h ago",
+      "article": "NASCAR CEO Steve O'Donnell said the league's newest television rights partners are interested in airing more races, signaling potential expansion of broadcast inventory. LIV Golf has informed employees about potential layoffs amid the organization's ongoing integration discussions. John Lasker, a 27-year ESPN veteran, is retiring at the end of September. The moves reflect broader shifts in media partnerships, cost structures, and personnel across sports broadcasting and league operations."
     },
     {
-      "headline": "Republicans ask WNBA to protect Caitlin Clark from 'racially motivated' attacks",
-      "source": "The Guardian · 5h ago",
-      "article": "Eleven Republican politicians have written to the WNBA asking the league to protect Indiana Fever star Caitlin Clark from what they characterized as multiple attacks on court. The letter cited hard fouls Clark has received during her rookie and sophomore seasons, framing them as potentially racially motivated. The WNBA has long grappled with racist abuse directed at Black players on social media and in some cases on court. Clark's high profile and endorsement deals have made her a lightning rod in broader conversations about basketball and race in America. The league is expected to respond to the congressional inquiry, though the framing of fouls as racially motivated rather than typical playoff-intensity contact remains contested by basketball analysts."
+      "headline": "Kalshi's Weather Delay Bets Raise Regulatory Questions",
+      "source": "Sportico · 8h ago",
+      "article": "Kalshi, a prediction market platform, has opened a new betting frontier by allowing sports fans to wager on whether individual sporting events will have weather delays. The company self-certified the weather delay category with the Commodity Futures Trading Commission in July. The move raises regulatory questions about the scope of prediction markets and what events qualify as tradeable contracts. Kalshi's expansion into weather-related bets tests the boundaries of sports betting innovation and CFTC oversight."
     },
     {
-      "headline": "Charlie Woods has highest NIL golf valuation since 2024 system launch",
-      "source": "NY Post Sports · just now",
-      "article": "Charlie Woods, Tiger's son, has been assigned the highest NIL valuation in professional golf since the NIL system began in 2024, despite having only 164,000 social media followers. The 16-year-old's valuation reflects both his family name and growing junior golf profile as he approaches eligibility for PGA Tour events. The figure underscores how NIL valuations in golf diverge sharply from traditional social media metrics, instead pricing in family brand power and long-term earning potential. Woods' valuation opens questions about how NIL markets price legacy, access, and future earning capacity versus current follower counts or engagement rates, particularly in sports where audience size is smaller but purchasing power is higher."
+      "headline": "In MLB's sea of paywalled madness, a Mets-Royals circus provided a shred of hope",
+      "source": "NY Post Sports · 1h ago",
+      "article": "As baseball's broadcast landscape increasingly fragments behind paywalls, a Mets-Royals game offered a rare exception: a matchup available on traditional television without additional subscription fees. The piece critiques MLB's distribution model and celebrates moments of accessibility that remind fans why free-to-air games matter. The Mets-Royals broadcast became an unexpected bright spot in an otherwise fractured media ecosystem."
     },
     {
-      "headline": "Ryan Johnson on Canucks summer moves: 'Q and A' with new GM",
+      "headline": "Should Blue Jays be concerned by Shane Bieber's troubling stretch?",
       "source": "Sportsnet · 4h ago",
-      "article": "New Vancouver Canucks general manager Ryan Johnson outlined his offseason strategy in an interview with Sportsnet, discussing trades, signings, and the direction of the franchise after taking over in May. Johnson has been active on the market, making several notable moves designed to address roster gaps and salary structure. The Canucks have missed the Stanley Cup Finals for decades and are seeking a retool that balances immediate competitiveness with youth development. Johnson's early moves suggest a willingness to be aggressive in the trade market and to reshape the roster in ways previous management had resisted. The GM will face pressure to show results quickly in a market that grows impatient with rebuilds."
+      "article": "Blue Jays ace Shane Bieber has endured a difficult stretch of starts, prompting questions about whether Toronto should be concerned about his performance trajectory. Analyst Nick Ashbourne examines the difference between off-nights and the sustained struggles Bieber has displayed. The analysis considers whether the issues are mechanical, health-related, or simply variance in a long season. Bieber's recent form matters significantly to the Blue Jays' playoff positioning and rotation reliability."
     },
     {
-      "headline": "Jacob Tobey out as Spurs announcer after affair allegation",
-      "source": "Front Office Sports · 3h ago",
-      "article": "Jacob Tobey has stepped down as the San Antonio Spurs' play-by-play announcer after an affair allegation surfaced, ending his tenure calling Spurs games since 2024. The separation comes after an internal review by the franchise. Tobey had built a public presence in San Antonio and the Spurs organization during his brief tenure. The team is expected to begin a search for his replacement. The incident adds to a broader reckoning across sports media and team operations around workplace conduct and personal behavior of on-air talent."
+      "headline": "Zion Williamson Tells Ex-Agent to Pay Up in Latest Legal Brief",
+      "source": "Sportico · 10h ago",
+      "article": "New Orleans Pelicans forward Zion Williamson has filed a court document arguing that his former agent, Gina Ford of Prime Sports Marketing, should pay what Williamson contends she owes. The legal saga has been in court for seven years. Williamson's latest filing maintains pressure on Ford and Prime Sports to settle. The case remains unresolved and highlights the complexity of player-agent disputes in professional basketball."
     }
   ],
   "poll": {
-    "question": "Which story will have the bigger long-term impact on its sport?",
+    "question": "Which storyline will have the biggest impact on 2026 sports business by year's end?",
     "options": [
-      "Leo Carlsson's record $18M AAV contract and NHL salary structure",
-      "Caitlin Clark's criticism of WNBA coaching rotations and player development",
-      "Christian Pulisic's World Cup injury and USMNT depth at attacking positions",
-      "Kalshi's weather-delay betting and sports wagering regulation expansion"
+      "NFL, NBA, NHL media rights deals reshape broadcast landscape",
+      "Kawhi Leonard trade clears; impacts Raptors championship window",
+      "NCAA eligibility ruling forces extensive athlete compensation restructuring",
+      "World Cup 2026 in North America sets new tournament revenue record"
     ]
   },
   "predictions": [
     {
-      "statement": "Leo Carlsson will average over 1 point per game in his five-year contract extension with Anaheim.",
+      "statement": "The Kawhi Leonard trade to Toronto will finalize within 30 days, clearing the NBA investigation before training camp.",
       "probability": 72,
-      "rationale": "Carlsson is 22 and has shown consistent development. The $18M AAV reflects confidence in his scoring trajectory. Durability and defensive growth are the primary risks, but NHL centers with his skill set and usage patterns typically hit 1 PPG unless traded or significantly derailed by injury."
+      "rationale": "Investigations typically conclude faster when focused on a single player and team rather than systematic issues. The Raptors have incentive to complete the trade quickly to integrate Leonard with the roster, and the NBA rarely delays trades beyond a few weeks."
     },
     {
-      "statement": "The NHL will conclude its next media rights deal before the 2028-29 season begins.",
+      "statement": "Pogacar will win the 2026 Tour de France overall, extending his run to five titles.",
+      "probability": 78,
+      "rationale": "His dominance on stage six and early overall lead suggest the form of a clear favorite. Pogacar has won four Tour titles already and has demonstrated he can sustain leads over three weeks. Injuries remain the only real unknown."
+    },
+    {
+      "statement": "The NCAA will grandfather at least 2,000 athletes into additional eligibility years following further court rulings similar to the Ohio and Tennessee decisions.",
       "probability": 65,
-      "rationale": "Bettman's relaxed stance suggests no deadline pressure, but leagues typically negotiate rights deals 18-24 months before expiration to avoid disruption. The NFL's 2024-25 deal will set market expectations by late 2024, giving the NHL clear data for negotiation. Waiting too long risks a down market or competitor undercuts."
+      "rationale": "If courts continue to find merit in athlete petitions across multiple jurisdictions, the NCAA will face pressure to settle class-action exposure by grandfathering cohorts. The pattern of early wins in Ohio and Tennessee suggests sympathetic judges and broad plaintiff pools."
     },
     {
-      "statement": "Caitlin Clark will play 30+ minutes per game in at least 70 percent of remaining Fever regular-season games.",
-      "probability": 58,
-      "rationale": "Clark's recent criticism of substitution patterns suggests friction with coaching staff, but the Fever cannot afford to bench their best player. A back injury can flare up, limiting available minutes. The tension between her expectations and coaching philosophy creates uncertainty, but business realities favor her on court."
-    },
-    {
-      "statement": "Karolina Muchova will win the Wimbledon title and reach the top 3 in world rankings by year-end.",
-      "probability": 42,
-      "rationale": "Muchova is in the final and has shown elite-level tennis in the semi. Winning Wimbledon would vault her into the top 5 immediately. However, she remains inconsistent across surfaces and has a history of injuries. The final opponent and physical durability through the remainder of the grass season are key variables."
+      "statement": "An NHL media rights deal will be announced before the NFL begins formal negotiating sessions.",
+      "probability": 35,
+      "rationale": "Bettman explicitly stated the league feels no pressure to rush. The NHL typically moves deliberately, and the NFL's timeline is not yet public. Unless urgency shifts, the NHL will likely extend discussions through the fall."
     }
   ],
   "injuries": [
+    {
+      "player": "Ranger Suarez",
+      "team": "Boston Red Sox",
+      "league": "MLB",
+      "position": "SP",
+      "status": "IR",
+      "injury": "Undisclosed injury",
+      "timeline": "15-day IL minimum",
+      "source": "NY Post Sports",
+      "impact": "Red Sox rotation loses All-Star pitcher days before MLB All-Star Game; depth options must absorb starts in regular season stretch.",
+      "storyIndex": 2
+    },
     {
       "player": "Christian Pulisic",
       "team": "USMNT",
       "league": "SOCCER",
       "position": "FW",
       "status": "OUT",
-      "injury": "Fractured right leg with bone bruise and microfracture to tibia and fibula",
-      "timeline": "Several weeks",
-      "source": "CBS Sports, Sportsnet",
-      "impact": "USMNT's primary attacking creator sidelined for remainder of tournament and likely several weeks of club season.",
-      "storyIndex": 6
+      "injury": "Microfracture and bone bruise, right leg",
+      "timeline": "several weeks",
+      "source": "The Guardian / US Soccer",
+      "impact": "USMNT loses key attacker for remainder of World Cup; forces restructuring of frontline and reduces offensive depth in knockout rounds.",
+      "storyIndex": [
+        "S0",
+        "S3"
+      ]
+    },
+    {
+      "player": "Marc Guehi",
+      "team": "England",
+      "league": "SOCCER",
+      "position": "D",
+      "status": "DOUBTFUL",
+      "injury": "Hamstring",
+      "timeline": "Saturday Norway quarter-final",
+      "source": "BBC Sport",
+      "impact": "England's defense faces potential absence of key center-back hours before critical World Cup quarter-final match.",
+      "storyIndex": [
+        4,
+        "S2"
+      ]
     },
     {
       "player": "Jordan Henderson",
       "team": "England",
       "league": "SOCCER",
-      "position": "MF",
+      "position": "D",
       "status": "OUT",
-      "injury": "Underwent surgery (nature of injury not specified in available details)",
-      "timeline": "Out for remainder of tournament",
+      "injury": "Required surgery",
+      "timeline": "Out for World Cup",
       "source": "The Guardian",
-      "impact": "England loses midfield stability and leadership during knockout rounds of World Cup.",
-      "storyIndex": 1
-    },
-    {
-      "player": "Taylor Fritz",
-      "team": "Wimbledon",
-      "league": "TENNIS",
-      "position": "",
-      "status": "OUT",
-      "injury": "Injured (nature not specified)",
-      "timeline": "Out of semi-final",
-      "source": "BBC Sport",
-      "impact": "Fritz unable to compete in Wimbledon semi-final against Alexander Zverev.",
-      "storyIndex": 3
-    },
-    {
-      "player": "Ismael Saibari",
-      "team": "Morocco",
-      "league": "SOCCER",
-      "position": "MF",
-      "status": "OUT",
-      "injury": "Injury details not specified",
-      "timeline": "Out for quarter-final",
-      "source": "BBC Sport",
-      "impact": "Morocco without Saibari for World Cup quarter-final at Boston Stadium against France.",
-      "storyIndex": 4
+      "impact": "England loses experienced defender after undergoing surgical procedure; squad depth tested in World Cup knockout stage.",
+      "storyIndex": "S1"
     }
   ],
   "picks": [
@@ -2583,115 +2587,8 @@
         },
         "awayTeam": "Morocco",
         "homeTeam": "France"
-      }
-    },
-    {
-      "type": "moneyline",
-      "pick": "Atlanta Braves ML",
-      "odds": "-116",
-      "edge": "Market fill from live lines: Atlanta Braves is the books' favorite at -116 (best price @ FanDuel) against Pittsburgh Pirates at +109, favored even on the road. No researched edge here — this is a low-confidence market-consensus play added to round out the slate. Low confidence is honest confidence.",
-      "matchup": "Atlanta Braves @ Pittsburgh Pirates",
-      "league": "MLB",
-      "when": "Today 12:36 PM ET",
-      "confidence": "low",
-      "_autofill": true,
-      "_scheduledTs": 1783614960000,
-      "marketSnapshot": {
-        "capturedAt": "2026-07-09T06:36:58.757Z",
-        "markets": {
-          "h2h": {
-            "away": {
-              "price": -116,
-              "book": "FanDuel"
-            },
-            "home": {
-              "price": 109,
-              "book": "BetOnline.ag"
-            },
-            "draw": null
-          },
-          "spreads": {
-            "away": {
-              "point": -1.5,
-              "price": 140,
-              "book": "BetRivers"
-            },
-            "home": {
-              "point": 1.5,
-              "price": -149,
-              "book": "LowVig.ag"
-            }
-          },
-          "totals": {
-            "over": {
-              "point": 9,
-              "price": -117,
-              "book": "BetRivers"
-            },
-            "under": {
-              "point": 9.5,
-              "price": -120,
-              "book": "Fanatics"
-            }
-          }
-        },
-        "awayTeam": "Atlanta Braves",
-        "homeTeam": "Pittsburgh Pirates"
-      }
-    },
-    {
-      "type": "moneyline",
-      "pick": "New York Mets ML",
-      "odds": "-140",
-      "edge": "Market fill from live lines: New York Mets is the books' favorite at -140 (best price @ LowVig.ag) against Kansas City Royals at +128, with home ice/court/field behind them. No researched edge here — this is a low-confidence market-consensus play added to round out the slate. Low confidence is honest confidence.",
-      "matchup": "Kansas City Royals @ New York Mets",
-      "league": "MLB",
-      "when": "Today 1:11 PM ET",
-      "confidence": "low",
-      "_autofill": true,
-      "_scheduledTs": 1783617060000,
-      "marketSnapshot": {
-        "capturedAt": "2026-07-09T06:36:58.757Z",
-        "markets": {
-          "h2h": {
-            "away": {
-              "price": 128,
-              "book": "FanDuel"
-            },
-            "home": {
-              "price": -140,
-              "book": "LowVig.ag"
-            },
-            "draw": null
-          },
-          "spreads": {
-            "away": {
-              "point": 1.5,
-              "price": -160,
-              "book": "LowVig.ag"
-            },
-            "home": {
-              "point": -1.5,
-              "price": 146,
-              "book": "FanDuel"
-            }
-          },
-          "totals": {
-            "over": {
-              "point": 9,
-              "price": -113,
-              "book": "LowVig.ag"
-            },
-            "under": {
-              "point": 9,
-              "price": -102,
-              "book": "LowVig.ag"
-            }
-          }
-        },
-        "awayTeam": "Kansas City Royals",
-        "homeTeam": "New York Mets"
-      }
+      },
+      "_pendingGrade": true
     },
     {
       "type": "moneyline",
@@ -2745,61 +2642,6 @@
         },
         "awayTeam": "Athletics",
         "homeTeam": "Detroit Tigers"
-      },
-      "_pendingGrade": true
-    },
-    {
-      "type": "moneyline",
-      "pick": "Chicago Cubs ML",
-      "odds": "-112",
-      "edge": "Market fill from live lines: Chicago Cubs is the books' favorite at -112 (best price @ FanDuel) against Baltimore Orioles at +104, favored even on the road. No researched edge here — this is a low-confidence market-consensus play added to round out the slate. Low confidence is honest confidence.",
-      "matchup": "Chicago Cubs @ Baltimore Orioles",
-      "league": "MLB",
-      "when": "Today 6:36 PM ET",
-      "confidence": "low",
-      "_autofill": true,
-      "_scheduledTs": 1783463760000,
-      "marketSnapshot": {
-        "capturedAt": "2026-07-07T06:39:11.049Z",
-        "markets": {
-          "h2h": {
-            "away": {
-              "price": -112,
-              "book": "FanDuel"
-            },
-            "home": {
-              "price": 104,
-              "book": "BetUS"
-            },
-            "draw": null
-          },
-          "spreads": {
-            "away": {
-              "point": -1.5,
-              "price": 146,
-              "book": "FanDuel"
-            },
-            "home": {
-              "point": 1.5,
-              "price": -154,
-              "book": "LowVig.ag"
-            }
-          },
-          "totals": {
-            "over": {
-              "point": 9.5,
-              "price": 101,
-              "book": "LowVig.ag"
-            },
-            "under": {
-              "point": 9.5,
-              "price": -116,
-              "book": "LowVig.ag"
-            }
-          }
-        },
-        "awayTeam": "Chicago Cubs",
-        "homeTeam": "Baltimore Orioles"
       },
       "_pendingGrade": true
     },
@@ -2971,61 +2813,6 @@
         },
         "awayTeam": "Egypt",
         "homeTeam": "Argentina"
-      },
-      "_pendingGrade": true
-    },
-    {
-      "type": "moneyline",
-      "pick": "Tampa Bay Rays ML",
-      "odds": "-109",
-      "edge": "Market fill from live lines: Tampa Bay Rays is the books' favorite at -109 (best price @ LowVig.ag) against New York Yankees at +102, with home ice/court/field behind them. No researched edge here — this is a low-confidence market-consensus play added to round out the slate. Low confidence is honest confidence.",
-      "matchup": "New York Yankees @ Tampa Bay Rays",
-      "league": "MLB",
-      "when": "Today 6:41 PM ET",
-      "confidence": "low",
-      "_autofill": true,
-      "_scheduledTs": 1783377660000,
-      "marketSnapshot": {
-        "capturedAt": "2026-07-06T07:04:31.112Z",
-        "markets": {
-          "h2h": {
-            "away": {
-              "price": 102,
-              "book": "FanDuel"
-            },
-            "home": {
-              "price": -109,
-              "book": "LowVig.ag"
-            },
-            "draw": null
-          },
-          "spreads": {
-            "away": {
-              "point": 1.5,
-              "price": -218,
-              "book": "LowVig.ag"
-            },
-            "home": {
-              "point": 1.5,
-              "price": -197,
-              "book": "MyBookie.ag"
-            }
-          },
-          "totals": {
-            "over": {
-              "point": 7.5,
-              "price": 105,
-              "book": "Bovada"
-            },
-            "under": {
-              "point": 7.5,
-              "price": -115,
-              "book": "Caesars"
-            }
-          }
-        },
-        "awayTeam": "New York Yankees",
-        "homeTeam": "Tampa Bay Rays"
       },
       "_pendingGrade": true
     },
@@ -5583,40 +5370,205 @@
         "homeTeam": "Switzerland"
       },
       "_pendingGrade": true
+    },
+    {
+      "type": "spread",
+      "pick": "Miami Marlins -1.5",
+      "odds": "110",
+      "edge": "Market fill from live lines: the books lay -1.5 with Miami Marlins at 110 (best @ MyBookie.ag). No researched edge — a low-confidence market-consensus play so this sport isn't empty today.",
+      "matchup": "Seattle Mariners @ Miami Marlins",
+      "league": "MLB",
+      "when": "Today 6:41 PM ET",
+      "confidence": "low",
+      "_autofill": true,
+      "_scheduledTs": 1783636860000,
+      "marketSnapshot": {
+        "capturedAt": "2026-07-09T23:59:29.383Z",
+        "markets": {
+          "h2h": {
+            "away": {
+              "price": 1200,
+              "book": "Fanatics"
+            },
+            "home": {
+              "price": -250,
+              "book": "MyBookie.ag"
+            },
+            "draw": null
+          },
+          "spreads": {
+            "away": {
+              "point": 5.5,
+              "price": -140,
+              "book": "Fanatics"
+            },
+            "home": {
+              "point": -1.5,
+              "price": 110,
+              "book": "MyBookie.ag"
+            }
+          },
+          "totals": {
+            "over": {
+              "point": 7.5,
+              "price": -118,
+              "book": "MyBookie.ag"
+            },
+            "under": {
+              "point": 11.5,
+              "price": -125,
+              "book": "Fanatics"
+            }
+          }
+        },
+        "awayTeam": "Seattle Mariners",
+        "homeTeam": "Miami Marlins"
+      }
+    },
+    {
+      "type": "moneyline",
+      "pick": "Milwaukee Brewers ML",
+      "odds": "-111",
+      "edge": "Market fill from live lines: Milwaukee Brewers is the books' favorite at -111 (best price @ MyBookie.ag) against St. Louis Cardinals at +109, favored even on the road. No researched edge here — this is a low-confidence market-consensus play added to round out the slate. Low confidence is honest confidence.",
+      "matchup": "Milwaukee Brewers @ St. Louis Cardinals",
+      "league": "MLB",
+      "when": "Today 7:46 PM ET",
+      "confidence": "low",
+      "_autofill": true,
+      "_scheduledTs": 1783640760000,
+      "marketSnapshot": {
+        "capturedAt": "2026-07-09T23:59:29.383Z",
+        "markets": {
+          "h2h": {
+            "away": {
+              "price": -111,
+              "book": "MyBookie.ag"
+            },
+            "home": {
+              "price": 109,
+              "book": "BetUS"
+            },
+            "draw": null
+          },
+          "spreads": {
+            "away": {
+              "point": -1,
+              "price": 123,
+              "book": "BetRivers"
+            },
+            "home": {
+              "point": 1.5,
+              "price": -154,
+              "book": "LowVig.ag"
+            }
+          },
+          "totals": {
+            "over": {
+              "point": 7.5,
+              "price": -106,
+              "book": "FanDuel"
+            },
+            "under": {
+              "point": 8.5,
+              "price": -113,
+              "book": "LowVig.ag"
+            }
+          }
+        },
+        "awayTeam": "Milwaukee Brewers",
+        "homeTeam": "St. Louis Cardinals"
+      }
+    },
+    {
+      "type": "moneyline",
+      "pick": "Spain ML",
+      "odds": "-152",
+      "edge": "Market fill from live lines: Spain is the books' favorite at -152 (best price @ Bovada) against Belgium at +460, with home ice/court/field behind them. No researched edge here — this is a low-confidence market-consensus play added to round out the slate. Low confidence is honest confidence.",
+      "matchup": "Belgium @ Spain",
+      "league": "WORLD CUP",
+      "when": "Tomorrow 3:00 PM ET",
+      "confidence": "low",
+      "_autofill": true,
+      "_scheduledTs": 1783710000000,
+      "marketSnapshot": {
+        "capturedAt": "2026-07-09T23:59:29.384Z",
+        "markets": {
+          "h2h": {
+            "away": {
+              "price": 460,
+              "book": "FanDuel"
+            },
+            "home": {
+              "price": -152,
+              "book": "Bovada"
+            },
+            "draw": {
+              "price": 302,
+              "book": "BetOnline.ag"
+            }
+          },
+          "spreads": {
+            "away": {
+              "point": 1,
+              "price": -130,
+              "book": "BetOnline.ag"
+            },
+            "home": {
+              "point": -0.75,
+              "price": -125,
+              "book": "Bovada"
+            }
+          },
+          "totals": {
+            "over": {
+              "point": 2.5,
+              "price": -124,
+              "book": "MyBookie.ag"
+            },
+            "under": {
+              "point": 2.5,
+              "price": 108,
+              "book": "BetOnline.ag"
+            }
+          }
+        },
+        "awayTeam": "Belgium",
+        "homeTeam": "Spain"
+      }
     }
   ],
-  "updatedAt": "2026-04-23T17:45:00Z",
+  "updatedAt": "2026-04-23T18:45:00Z",
   "highlights": [
     {
       "league": "NBA",
-      "title": "Kyle Lowry mic’d up as he preps for this weekend’s AC Championship on NBC!",
-      "videoId": "pyLMCHkMXcs",
-      "thumbnail": "https://img.youtube.com/vi/pyLMCHkMXcs/mqdefault.jpg",
-      "timeAgo": "2h ago",
+      "title": "Kager Knueppel, Team Herro vs. Beckham Black, AB Elite | Nike EYBL Session 4",
+      "videoId": "twWfqqJKla0",
+      "thumbnail": "https://img.youtube.com/vi/twWfqqJKla0/mqdefault.jpg",
+      "timeAgo": "21h ago",
       "isFallback": false
     },
     {
       "league": "NFL",
-      "title": "BIGGEST CONCERNS for teams in 2026 😳 Kevin Clark points to the STEELERS | First Take",
-      "videoId": "FLA0JvAjc9I",
-      "thumbnail": "https://img.youtube.com/vi/FLA0JvAjc9I/mqdefault.jpg",
-      "timeAgo": "1h ago",
+      "title": "Kyle Hamilton on Trey Hendrickson, Lamar Jackson and the Ravens new coaching staff | NFL Live",
+      "videoId": "At_TC1OvoGo",
+      "thumbnail": "https://img.youtube.com/vi/At_TC1OvoGo/mqdefault.jpg",
+      "timeAgo": "3h ago",
       "isFallback": false
     },
     {
       "league": "MLB",
-      "title": "BREAKOUT BATTER Jordan Walker is headed to the 2026 Home Run Derby! 🤩 (His 10 longest MLB homers)",
-      "videoId": "xTSpeeLUWUQ",
-      "thumbnail": "https://img.youtube.com/vi/xTSpeeLUWUQ/mqdefault.jpg",
-      "timeAgo": "1h ago",
+      "title": "a ballpark snack HATES to see Pablo Sanchez on the way",
+      "videoId": "fSbjhdicN-8",
+      "thumbnail": "https://img.youtube.com/vi/fSbjhdicN-8/mqdefault.jpg",
+      "timeAgo": "Just now",
       "isFallback": false
     },
     {
       "league": "NHL",
-      "title": "Watch these NHL Draft picks attempt to juggle cups 😂",
-      "videoId": "lWnkB29v6vY",
-      "thumbnail": "https://img.youtube.com/vi/lWnkB29v6vY/mqdefault.jpg",
-      "timeAgo": "1h ago",
+      "title": "Which NHL player is making your beer league team based on vibes ✨",
+      "videoId": "FJZvcfCiqUc",
+      "thumbnail": "https://img.youtube.com/vi/FJZvcfCiqUc/mqdefault.jpg",
+      "timeAgo": "3h ago",
       "isFallback": false
     },
     {
@@ -5624,14 +5576,14 @@
       "title": "Isabelle Harrison Drops CAREER-HIGH 24 PTS vs. the Valkyries",
       "videoId": "BqR2HTf2Nmw",
       "thumbnail": "https://img.youtube.com/vi/BqR2HTf2Nmw/mqdefault.jpg",
-      "timeAgo": "12h ago",
+      "timeAgo": "19h ago",
       "isFallback": false
     },
     {
       "league": "SOCCER",
-      "title": "Living his best life (via @vozinha1/IG)",
-      "videoId": "gImpt9JQLOA",
-      "thumbnail": "https://img.youtube.com/vi/gImpt9JQLOA/mqdefault.jpg",
+      "title": "Do you agree with Frank Leboeuf saying this is the best French team EVER? 🤔",
+      "videoId": "v3zEv3HmmYE",
+      "thumbnail": "https://img.youtube.com/vi/v3zEv3HmmYE/mqdefault.jpg",
       "timeAgo": "1h ago",
       "isFallback": false
     }
@@ -5639,19 +5591,187 @@
   "reels": [
     {
       "league": "MLB",
-      "title": "BREAKOUT BATTER Jordan Walker is headed to the 2026 Home Run Derby! 🤩 (His 10 longest MLB homers)",
-      "videoId": "xTSpeeLUWUQ",
+      "title": "a ballpark snack HATES to see Pablo Sanchez on the way",
+      "videoId": "fSbjhdicN-8",
       "author": "MLB",
-      "pubDate": "2026-07-09T16:42:24+00:00",
-      "link": "https://www.youtube.com/watch?v=xTSpeeLUWUQ"
+      "pubDate": "2026-07-09T23:33:34+00:00",
+      "link": "https://www.youtube.com/watch?v=fSbjhdicN-8"
+    },
+    {
+      "league": "NBA",
+      "title": "Yaxel Lendeborg draining his first Vegas Summer league bucket",
+      "videoId": "3zRemS4w3Z0",
+      "author": "NBA",
+      "pubDate": "2026-07-09T23:25:46+00:00",
+      "link": "https://www.youtube.com/watch?v=3zRemS4w3Z0"
+    },
+    {
+      "league": "NBA",
+      "title": "Morez Johnson gets the nice floater to go for his first summer league bucket",
+      "videoId": "j6tNZu0d6A8",
+      "author": "NBA",
+      "pubDate": "2026-07-09T23:20:19+00:00",
+      "link": "https://www.youtube.com/watch?v=j6tNZu0d6A8"
+    },
+    {
+      "league": "SOCCER",
+      "title": "Do you agree with Frank Leboeuf saying this is the best French team EVER? 🤔",
+      "videoId": "v3zEv3HmmYE",
+      "author": "ESPN FC",
+      "pubDate": "2026-07-09T23:06:18+00:00",
+      "link": "https://www.youtube.com/watch?v=v3zEv3HmmYE"
     },
     {
       "league": "MLB",
-      "title": "Shohei Ohtani's road to 300 home runs 💯💯💯",
-      "videoId": "YoZmg2-3MEE",
+      "title": "CUBS vs. ORIOLES: Official Full Game Highlights (July 9) | 2026 MLB Season",
+      "videoId": "Y0Vx8WMLnM0",
       "author": "MLB",
-      "pubDate": "2026-07-09T16:15:38+00:00",
-      "link": "https://www.youtube.com/watch?v=YoZmg2-3MEE"
+      "pubDate": "2026-07-09T23:02:55+00:00",
+      "link": "https://www.youtube.com/watch?v=Y0Vx8WMLnM0"
+    },
+    {
+      "league": "MLB",
+      "title": "RED SOX vs. WHITE SOX: Official Full Game Highlights (July 9) | 2026 MLB Season",
+      "videoId": "075N3ECKj1o",
+      "author": "MLB",
+      "pubDate": "2026-07-09T22:56:23+00:00",
+      "link": "https://www.youtube.com/watch?v=075N3ECKj1o"
+    },
+    {
+      "league": "NBA",
+      "title": "Labaron Philon with the dime to Johni Broome for the poster 🔥",
+      "videoId": "iHvDXfuTIbc",
+      "author": "NBA",
+      "pubDate": "2026-07-09T22:55:24+00:00",
+      "link": "https://www.youtube.com/watch?v=iHvDXfuTIbc"
+    },
+    {
+      "league": "NBA",
+      "title": "Asa Newell’s face 😂",
+      "videoId": "NXn4EBKFhkw",
+      "author": "NBA",
+      "pubDate": "2026-07-09T22:53:08+00:00",
+      "link": "https://www.youtube.com/watch?v=NXn4EBKFhkw"
+    },
+    {
+      "league": "SOCCER",
+      "title": "Spain vs. Belgium preview and predictions 🍿+ Lamine Yamal injury update | ESPN FC",
+      "videoId": "pcrnGYyrr3I",
+      "author": "ESPN FC",
+      "pubDate": "2026-07-09T22:48:18+00:00",
+      "link": "https://www.youtube.com/watch?v=pcrnGYyrr3I"
+    },
+    {
+      "league": "MLB",
+      "title": "ROYALS vs. METS: Official Full Game Highlights (July 9) | 2026 MLB Season",
+      "videoId": "xZeNsRoShIs",
+      "author": "MLB",
+      "pubDate": "2026-07-09T22:46:31+00:00",
+      "link": "https://www.youtube.com/watch?v=xZeNsRoShIs"
+    },
+    {
+      "league": "NBA",
+      "title": "SPURS vs HAWKS | LAS VEGAS SUMMER LEAGUE | FULL GAME HIGHLIGHTS | July 9, 2026",
+      "videoId": "pVDPE4sepdY",
+      "author": "NBA",
+      "pubDate": "2026-07-09T22:39:12+00:00",
+      "link": "https://www.youtube.com/watch?v=pVDPE4sepdY"
+    },
+    {
+      "league": "SOCCER",
+      "title": "‘The BEST FRENCH TEAM EVER!’ 😳 Frank Leboeuf on France’s 2-0 win vs. Morocco | ESPN FC",
+      "videoId": "Bdf7whnn11I",
+      "author": "ESPN FC",
+      "pubDate": "2026-07-09T22:34:04+00:00",
+      "link": "https://www.youtube.com/watch?v=Bdf7whnn11I"
+    },
+    {
+      "league": "NBA",
+      "title": "Labaron Philon gets busy for the tough bucket",
+      "videoId": "kbFeqNhbSUc",
+      "author": "NBA",
+      "pubDate": "2026-07-09T22:27:15+00:00",
+      "link": "https://www.youtube.com/watch?v=kbFeqNhbSUc"
+    },
+    {
+      "league": "NBA",
+      "title": "Kingston Flemings gets shifty and gets to the basket 😮‍💨",
+      "videoId": "xw3iBEdB14w",
+      "author": "NBA",
+      "pubDate": "2026-07-09T22:25:29+00:00",
+      "link": "https://www.youtube.com/watch?v=xw3iBEdB14w"
+    },
+    {
+      "league": "SOCCER",
+      "title": "MBAPPÉ IS INEVITABLE.",
+      "videoId": "rafCC__Jb6k",
+      "author": "ESPN FC",
+      "pubDate": "2026-07-09T22:13:11+00:00",
+      "link": "https://www.youtube.com/watch?v=rafCC__Jb6k"
+    },
+    {
+      "league": "MLB",
+      "title": "BRYCE HARPER IS COMPETING IN THE 2026 MLB HOME RUN DERBY! 😯 (His 10 longest MLB home runs EVER!)",
+      "videoId": "7QQk86UbzlI",
+      "author": "MLB",
+      "pubDate": "2026-07-09T21:50:40+00:00",
+      "link": "https://www.youtube.com/watch?v=7QQk86UbzlI"
+    },
+    {
+      "league": "NFL",
+      "title": "Kyle Hamilton on Trey Hendrickson, Lamar Jackson and the Ravens new coaching staff | NFL Live",
+      "videoId": "At_TC1OvoGo",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-07-09T21:25:41+00:00",
+      "link": "https://www.youtube.com/watch?v=At_TC1OvoGo"
+    },
+    {
+      "league": "MLB",
+      "title": "BRAVES vs. PIRATES: Official Full Game Highlights (July 9) | 2026 MLB Season",
+      "videoId": "c8-qkX9Vrqw",
+      "author": "MLB",
+      "pubDate": "2026-07-09T21:16:50+00:00",
+      "link": "https://www.youtube.com/watch?v=c8-qkX9Vrqw"
+    },
+    {
+      "league": "MLB",
+      "title": "GUARDIANS vs. TWINS: Official Full Game Highlights (July 9) | 2026 MLB Season",
+      "videoId": "doLX-KS34DY",
+      "author": "MLB",
+      "pubDate": "2026-07-09T21:08:04+00:00",
+      "link": "https://www.youtube.com/watch?v=doLX-KS34DY"
+    },
+    {
+      "league": "NHL",
+      "title": "Which NHL player is making your beer league team based on vibes ✨",
+      "videoId": "FJZvcfCiqUc",
+      "author": "NHL",
+      "pubDate": "2026-07-09T21:00:09+00:00",
+      "link": "https://www.youtube.com/watch?v=FJZvcfCiqUc"
+    },
+    {
+      "league": "MLB",
+      "title": "YANKEES vs. RAYS: Official Full Game Highlights (July 9) | 2026 MLB Season",
+      "videoId": "rbPulBxXXB0",
+      "author": "MLB",
+      "pubDate": "2026-07-09T20:58:28+00:00",
+      "link": "https://www.youtube.com/watch?v=rbPulBxXXB0"
+    },
+    {
+      "league": "SOCCER",
+      "title": "Messi just keeps defying expectations 👏",
+      "videoId": "nw5-7UOvvXw",
+      "author": "ESPN FC",
+      "pubDate": "2026-07-09T18:51:03+00:00",
+      "link": "https://www.youtube.com/watch?v=nw5-7UOvvXw"
+    },
+    {
+      "league": "SOCCER",
+      "title": "'He’s Hollywooding me' 😭 (via @IShowSpeed/TT)",
+      "videoId": "lUSWO3sQrFM",
+      "author": "ESPN FC",
+      "pubDate": "2026-07-09T18:27:54+00:00",
+      "link": "https://www.youtube.com/watch?v=lUSWO3sQrFM"
     },
     {
       "league": "SOCCER",
@@ -5692,110 +5812,6 @@
       "author": "NFL on ESPN",
       "pubDate": "2026-07-09T15:56:19+00:00",
       "link": "https://www.youtube.com/watch?v=jp7HTMb2gKI"
-    },
-    {
-      "league": "SOCCER",
-      "title": "Herc Gomez says 'VAR has RUINED this game' addressing Argentina vs. Egypt | First Take",
-      "videoId": "0f5uOTk7ELI",
-      "author": "ESPN FC",
-      "pubDate": "2026-07-09T15:40:12+00:00",
-      "link": "https://www.youtube.com/watch?v=0f5uOTk7ELI"
-    },
-    {
-      "league": "SOCCER",
-      "title": "USMNT's 'golden generation' missed their shot?",
-      "videoId": "HoD5U3-kIB4",
-      "author": "ESPN FC",
-      "pubDate": "2026-07-09T15:11:13+00:00",
-      "link": "https://www.youtube.com/watch?v=HoD5U3-kIB4"
-    },
-    {
-      "league": "SOCCER",
-      "title": "Herculez Gomez says Christian Pulisic DOESN'T HAVE 'a Kobe mentality!' | First Take",
-      "videoId": "CJ90xe2wDjk",
-      "author": "ESPN FC",
-      "pubDate": "2026-07-09T15:00:42+00:00",
-      "link": "https://www.youtube.com/watch?v=CJ90xe2wDjk"
-    },
-    {
-      "league": "SOCCER",
-      "title": "A special Man United moment 😂❤️ (via jxrdan/TT)",
-      "videoId": "RqV7hOpd0Bw",
-      "author": "ESPN FC",
-      "pubDate": "2026-07-09T14:45:27+00:00",
-      "link": "https://www.youtube.com/watch?v=RqV7hOpd0Bw"
-    },
-    {
-      "league": "NBA",
-      "title": "Kyle Lowry mic’d up as he preps for this weekend’s AC Championship on NBC!",
-      "videoId": "pyLMCHkMXcs",
-      "author": "NBA",
-      "pubDate": "2026-07-09T14:44:40+00:00",
-      "link": "https://www.youtube.com/watch?v=pyLMCHkMXcs"
-    },
-    {
-      "league": "MLB",
-      "title": "15 years ago today: Yankees' legend Derek Jeter made history!",
-      "videoId": "N429_r0O46U",
-      "author": "MLB",
-      "pubDate": "2026-07-09T14:40:42+00:00",
-      "link": "https://www.youtube.com/watch?v=N429_r0O46U"
-    },
-    {
-      "league": "SOCCER",
-      "title": "ESPN FC WORLD CUP KNOCKOUT ROUND PREDICTIONS REVEALED",
-      "videoId": "c0Q0xJJz2pM",
-      "author": "ESPN FC",
-      "pubDate": "2026-07-09T14:40:30+00:00",
-      "link": "https://www.youtube.com/watch?v=c0Q0xJJz2pM"
-    },
-    {
-      "league": "SOCCER",
-      "title": "Landon Donovan should know 'EXACTLY' how Pulisic is feeling",
-      "videoId": "xCTb3famrrg",
-      "author": "ESPN FC",
-      "pubDate": "2026-07-09T14:34:20+00:00",
-      "link": "https://www.youtube.com/watch?v=xCTb3famrrg"
-    },
-    {
-      "league": "MLB",
-      "title": "Marlins stay HOT with their 5th STRAIGHT WIN and MUCH MORE!",
-      "videoId": "RuR_fB2JCXU",
-      "author": "MLB",
-      "pubDate": "2026-07-09T13:00:16+00:00",
-      "link": "https://www.youtube.com/watch?v=RuR_fB2JCXU"
-    },
-    {
-      "league": "MLB",
-      "title": "Dylan Cease takes a NO-HITTER into the 9th &amp; the BEST MLB Highlights from 7/8/26!",
-      "videoId": "vtEjmFNTHho",
-      "author": "MLB",
-      "pubDate": "2026-07-09T11:00:26+00:00",
-      "link": "https://www.youtube.com/watch?v=vtEjmFNTHho"
-    },
-    {
-      "league": "MLB",
-      "title": "Highlights from ALL GAMES on 7/8 (Reds go BACK-to-BACK-to-BACK, Dylan Cease DOMINATES and MORE!)",
-      "videoId": "7Lyw1x0PHJE",
-      "author": "MLB",
-      "pubDate": "2026-07-09T10:00:27+00:00",
-      "link": "https://www.youtube.com/watch?v=7Lyw1x0PHJE"
-    },
-    {
-      "league": "MLB",
-      "title": "ANGELS vs. RANGERS: Official Full Game Highlights (July 8) | 2026 MLB Season",
-      "videoId": "weyrkio0j1Q",
-      "author": "MLB",
-      "pubDate": "2026-07-09T06:05:04+00:00",
-      "link": "https://www.youtube.com/watch?v=weyrkio0j1Q"
-    },
-    {
-      "league": "MLB",
-      "title": "ROCKIES vs. DODGERS: Official Full Game Highlights (July 8) | 2026 MLB Season",
-      "videoId": "u_DlMcYCrLM",
-      "author": "MLB",
-      "pubDate": "2026-07-09T05:47:06+00:00",
-      "link": "https://www.youtube.com/watch?v=u_DlMcYCrLM"
     },
     {
       "league": "WNBA",
@@ -5839,35 +5855,11 @@
     },
     {
       "league": "NBA",
-      "title": "Well that was CRAZY 😳🤯🔥",
-      "videoId": "DQd0LRVTm3E",
+      "title": "Kager Knueppel, Team Herro vs. Beckham Black, AB Elite | Nike EYBL Session 4",
+      "videoId": "twWfqqJKla0",
       "author": "NBA",
-      "pubDate": "2026-07-09T02:52:55+00:00",
-      "link": "https://www.youtube.com/watch?v=DQd0LRVTm3E"
-    },
-    {
-      "league": "NBA",
-      "title": "2023 AC champion Stephen Curry looks ahead to the weekend!",
-      "videoId": "fRNqEbrO3yw",
-      "author": "NBA",
-      "pubDate": "2026-07-09T02:52:36+00:00",
-      "link": "https://www.youtube.com/watch?v=fRNqEbrO3yw"
-    },
-    {
-      "league": "NBA",
-      "title": "The freshly retired Kyle Lowry begins retirement life prepping for this weekend’s ACC in Tahoe!",
-      "videoId": "P5XFpBlrOXw",
-      "author": "NBA",
-      "pubDate": "2026-07-09T02:51:21+00:00",
-      "link": "https://www.youtube.com/watch?v=P5XFpBlrOXw"
-    },
-    {
-      "league": "NBA",
-      "title": "Cayden Daughtry, Florida Rebels vs. Josiah Nance, Vegas Elite | Nike EYBL Session 4",
-      "videoId": "71vBDhKpI-Q",
-      "author": "NBA",
-      "pubDate": "2026-07-09T00:50:56+00:00",
-      "link": "https://www.youtube.com/watch?v=71vBDhKpI-Q"
+      "pubDate": "2026-07-09T03:08:16+00:00",
+      "link": "https://www.youtube.com/watch?v=twWfqqJKla0"
     },
     {
       "league": "NFL",
@@ -5884,14 +5876,6 @@
       "author": "NFL on ESPN",
       "pubDate": "2026-07-09T00:10:50+00:00",
       "link": "https://www.youtube.com/watch?v=2sTPkueS5wE"
-    },
-    {
-      "league": "NBA",
-      "title": "Beckham Black, AB Elite vs. Moussa Kamissoko, PSA Cardinals | Nike EYBL Session 4",
-      "videoId": "npYueV0sVLM",
-      "author": "NBA",
-      "pubDate": "2026-07-08T23:01:51+00:00",
-      "link": "https://www.youtube.com/watch?v=npYueV0sVLM"
     },
     {
       "league": "NHL",
@@ -5924,38 +5908,6 @@
       "author": "NFL on ESPN",
       "pubDate": "2026-07-08T20:46:47+00:00",
       "link": "https://www.youtube.com/watch?v=kueC5_kYhrI"
-    },
-    {
-      "league": "NFL",
-      "title": "The Saints and Giants will turn some heads this year",
-      "videoId": "98fwc_mWv28",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-07-08T19:30:04+00:00",
-      "link": "https://www.youtube.com/watch?v=98fwc_mWv28"
-    },
-    {
-      "league": "NHL",
-      "title": "Every Goal Gets LOUDER 📈🥅 15 Minutes of Ping! 💥",
-      "videoId": "Qjh2-il2k3I",
-      "author": "NHL",
-      "pubDate": "2026-07-08T18:00:26+00:00",
-      "link": "https://www.youtube.com/watch?v=Qjh2-il2k3I"
-    },
-    {
-      "league": "WNBA",
-      "title": "2026 AT&amp;T WNBA All-Star Reserves Revealed | Full Broadcast | July 7, 2026",
-      "videoId": "4o8Ke3aUOQE",
-      "author": "WNBA",
-      "pubDate": "2026-07-08T16:50:20+00:00",
-      "link": "https://www.youtube.com/watch?v=4o8Ke3aUOQE"
-    },
-    {
-      "league": "NHL",
-      "title": "Now see Gavin McKenna take on the social media challenge 🍁",
-      "videoId": "XdEc0rHMnYg",
-      "author": "NHL",
-      "pubDate": "2026-07-08T16:00:02+00:00",
-      "link": "https://www.youtube.com/watch?v=XdEc0rHMnYg"
     }
   ]
 }
