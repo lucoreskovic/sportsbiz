@@ -1,73 +1,81 @@
 {
   "clusters": [
     {
-      "category": "revenue",
+      "category": "leagues",
       "importance": 9,
-      "leadHeadline": "U.S.-Belgium World Cup Match Sets Ratings Record, With 46M Viewers",
-      "leadSource": "Front Office Sports · 2h ago",
-      "leadUrl": "https://frontofficesports.com/u-s-belgium-world-cup-match-sets-ratings-record-with-46m-viewers/",
-      "summary": "<cite index=\"2-7\">The U.S.-Belgium World Cup match on July 6 averaged 33.1 million viewers on Fox, setting a record for the most-watched soccer telecast in U.S. history.</cite>",
-      "article": "<cite index=\"2-7\">The U.S.-Belgium World Cup match on July 6 averaged 33.1 million viewers on Fox, setting a record for the most-watched soccer telecast in U.S. history.</cite> <cite index=\"1-1,1-2\">Telemundo averaged 12.9 million viewers for that match, bringing the combined average to 46 million.</cite>\n\n<cite index=\"2-8\">The broadcast was the most-watched non-NFL telecast on any U.S. network since Game 7 of the 2016 World Series between the Cubs and then-Indians.</cite> <cite index=\"1-3\">The combined 46 million neared the average audience of 47.4 million for January's NFL conference championship games.</cite>\n\n<cite index=\"2-7\">Belgium won 4-1, eliminating the USMNT</cite> from the tournament on Monday night in Seattle. <cite index=\"19-23,19-24\">Coach Mauricio Pochettino said afterward: \"Today we didn't show our real quality. It just hurts to be eliminated.\"</cite> <cite index=\"1-6\">The round of 16 overall was the most-watched men's round of 16 in English-language history.</cite>",
-      "tweets": []
+      "leadHeadline": "Sinner dismantles Djokovic's dreams of 25th slam in one-sided Wimbledon semi-final",
+      "leadSource": "The Guardian · 2h ago",
+      "leadUrl": "https://www.theguardian.com/sport/2026/jul/10/jannik-sinner-novak-djokovic-wimbledon-semi-final-tennis",
+      "summary": "<cite index=\"3-1\">Jannik Sinner beat Novak Djokovic 6-4, 6-4, 6-4 in straight sets</cite> at Wimbledon on Friday, eliminating the <cite index=\"3-23\">39-year-old from his bid for a record 25th major title</cite>.",
+      "article": "<cite index=\"3-1\">Jannik Sinner defeated Novak Djokovic 6-4, 6-4, 6-4 in the Wimbledon semifinal Friday</cite>, ending the <cite index=\"3-23\">39-year-old's pursuit of a record-setting 25th Grand Slam</cite>. <cite index=\"7-7\">The match lasted 2 hours, 30 minutes and marked just the third completed Grand Slam match of Djokovic's career in which he failed to break serve</cite>.\n\n<cite index=\"3-28\">Sinner served at an elite level, firing 16 aces and facing just one break point all day</cite>. <cite index=\"3-27\">The performance echoed their 2025 semifinal here, when Sinner dropped just 10 games</cite>. <cite index=\"3-7\">The victory moved Sinner to 7-5 in the head-to-head and gave him six wins in their last seven meetings</cite>.\n\n<cite index=\"7-16,7-17,7-18\">Djokovic said afterwards: \"I was just half-a-step late basically in any shot... He was just a level or more better than I was. I was just... not sharp enough, not reactive enough, not balanced enough to play him.\"</cite> <cite index=\"9-2,9-3,9-11,9-12\">The Serbian told media: \"Of course, I'm disappointed. Of course, I wanted to win Wimbledon... But I just lost to a better player.\"</cite>\n\n<cite index=\"7-2,7-6\">When asked about next year, Djokovic said: \"I would like to, at least one more time.\" He added, \"Let's see.\"</cite> <cite index=\"3-23\">The 39-year-old remains at 24 majors</cite>, stuck since <cite index=\"7-20\">winning his 24th at the 2023 US Open</cite>.\n\n<cite index=\"3-5\">Sinner will face French Open winner Alexander Zverev in Sunday's final</cite>.",
+      "tweets": [
+        {
+          "url": "https://twitter.com/Wimbledon/status/2075636570204356620",
+          "html": "<blockquote class=\"twitter-tweet\" data-dnt=\"true\" data-theme=\"dark\"><p>Spectacular. 👏\n\nJannik Sinner defeats Novak Djokovic 6-4, 6-4, 6-4 to reach back-to-back Wimbledon finals\n\n#Wimbledon https://t.co/igecCWj8u6</p>&mdash; Wimbledon (@Wimbledon) <a href=\"https://twitter.com/Wimbledon/status/2075636570204356620\">July 10, 2026</a></blockquote>",
+          "author_name": "Wimbledon",
+          "author_url": "https://twitter.com/Wimbledon",
+          "dateMs": 1783705296000
+        }
+      ]
     },
     {
       "category": "leagues",
       "importance": 8,
-      "leadHeadline": "Wimbledon 2026 semi-finals: Sinner v Djokovic; Zverev brings end to Fery fairytale – live",
-      "leadSource": "The Guardian · just now",
-      "leadUrl": "https://www.theguardian.com/sport/live/2026/jul/10/wimbledon-2026-jannik-sinner-novak-djokovic-arthur-fery-alexander-zverev-mens-semi-finals-tennis-live",
-      "summary": "Alexander Zverev defeated British wildcard Arthur Fery in the Wimbledon semi-finals, ending Fery's improbable run and setting up a final between Jannik Sinner and Novak Djokovic.",
-      "article": "Alexander Zverev's victory over British wildcard Arthur Fery in the Wimbledon semi-finals has closed one of the tournament's best stories and locked in a heavyweight final between Jannik Sinner and Novak Djokovic. Fery's run from qualifying through the semi-finals represented the kind of unlikely pathway that defines Grand Slam folklore: an unheralded British player, given a shot through the wild card draw, threading through higher seeds and steadier opponents to reach the final four. Zverev ended that arc in straight sets, claiming his place in Sunday's final. The Sinner-Djokovic matchup carries its own weight. Sinner, 22, is the rising force in men's tennis and has spent the spring consolidating his ranking and major credentials. Djokovic, now in his late career, remains capable of major runs despite his years away from competition and the physical demands of his comeback. The final will air across multiple time zones and networks, likely drawing significant viewership. Wimbledon finals historically command audiences on grass-court nostalgia and the narrative power of the matchup. Whether Sinner's ascent or Djokovic's veteran resilience prevails will shape the men's tour's trajectory heading into the US Open.",
+      "leadHeadline": "FBI reportedly investigates Argentina Football Association for alleged money laundering in U.S.",
+      "leadSource": "CBS Sports · just now",
+      "leadUrl": "https://www.cbssports.com/soccer/news/fbi-investigates-argentina-football-association-alleged-money-laundering-in-u-s-2026/",
+      "summary": "The FBI is investigating the Argentine Football Association for alleged money laundering and fraud involving over $260 million moved through U.S. banks. The probe adds fresh legal jeopardy to the world's most powerful soccer federation amid ongoing World Cup play.",
+      "article": "The FBI is investigating the Argentine Football Association for alleged money laundering and fraud involving more than $260 million moved through U.S. banking channels, according to CBS Sports. The probe targets one of international soccer's most consequential governing bodies during an active World Cup, adding serious legal complications to a federation already under scrutiny for governance failures. The $260 million figure suggests systematic financial misconduct rather than isolated wrongdoing. The investigation directly implicates U.S. financial institutions and federal authorities, putting the AFA in the cross-hairs of American law enforcement at a moment when Argentina is competing for the World Cup title on the continent. While the timing is awkward for the federation, the substance is grave: alleged money laundering typically involves criminality at multiple levels of an organization. The extent to which World Cup operations or player fund flows are implicated remains unclear from available reporting, but the scope of the alleged scheme suggests involvement across multiple AFA revenue streams. This follows earlier governance controversies and creates a potential precedent for how international sports bodies are held accountable under U.S. law, particularly when they operate channels through American financial markets.",
       "tweets": []
     },
     {
-      "category": "media",
+      "category": "revenue",
       "importance": 7,
-      "leadHeadline": "Conor McGregor is back, but the sensation who changed the UFC is long gone",
-      "leadSource": "The Guardian · 7h ago",
-      "leadUrl": "https://www.theguardian.com/sport/2026/jul/10/conor-mcgregor-return-ufc-max-holloway-legacy-ireland-comeback",
-      "summary": "Conor McGregor returns to UFC competition for the first time in five years to face Max Holloway in a welterweight bout at UFC 329, with both fighters weighing in successfully in Las Vegas.",
-      "article": "Conor McGregor weighed in successfully on Friday morning for UFC 329 in Las Vegas, marking his return to competition after five years away from the octagon. He faces Max Holloway in a welterweight bout. Both fighters met the scale without issue, clearing the way for their showdown. The Guardian's assessment suggests McGregor's comeback carries symbolic weight but little of the charisma that once defined his peak years. Five years is an eternity in combat sports, and McGregor's absence from the sport's top conversations has been nearly as long as his absence from active fighting. Holloway, meanwhile, has remained a steady lightweight and featherweight presence, competing regularly and maintaining his ranking. UFC 329 carries significance beyond this single bout: Dana White has stated the event will set the highest gate in UFC history, according to Front Office Sports. The pay-per-view economics and live attendance are being structured to break records. McGregor's name still moves tickets and buys, even if his in-cage dominance has faded. The return is less about reclaiming former glory and more about the UFC's willingness to bank on a fighter whose drawing power outlasts his competitive ceiling. Win or lose, McGregor's comeback is a business decision first.",
+      "leadHeadline": "USMNT finale among most-watched non-NFL sportscasts",
+      "leadSource": "Sports Media Watch · 16h ago",
+      "leadUrl": "https://www.sportsmediawatch.com/2026/07/usmnt-belgium-record-viewership-among-most-watched-sporting-events/",
+      "summary": "The United States men's national team's World Cup match drew one of the largest sports audiences of the modern era, excluding NFL broadcasts. The viewership underscores the World Cup's commanding pull on the American sports audience.",
+      "article": "The USMNT's World Cup match was among the most-watched non-NFL broadcasts in modern sports history, according to Sports Media Watch. The specific viewership number was not disclosed in available reporting, but the characterization places it alongside the Super Bowl and marquee championship events in audience scale. The result reflects a sustained surge in American interest in international soccer, particularly during World Cup tournaments. The figure demonstrates that soccer has achieved parity with traditional U.S. sports in terms of audience pull during marquee moments, a threshold long considered the ceiling for the sport in the American market. The match benefited from both the World Cup's global cultural moment and the fact that it was an elimination-round match with high stakes for the American team. This data point will likely influence future media negotiations around World Cup rights and soccer broadcasting more broadly, as networks and platforms assess the commercial value of the audience. The USMNT's performance on the pitch mattered far less than the audience size: broadcasters now have concrete evidence that World Cup matches can draw 40+ million-viewer audiences, rivaling NFL postseason games.",
       "tweets": []
     },
     {
       "category": "leagues",
+      "importance": 7,
+      "leadHeadline": "Kawhi Trade Value Could Change Based on Aspiration Scandal",
+      "leadSource": "Sportico · just now",
+      "leadUrl": "https://www.sportico.com/law/analysis/2026/kawhi-leonard-trade-clippers-raptors-legal-implications-1234938565/",
+      "summary": "The NBA's investigation into the Los Angeles Clippers for allegedly circumventing the salary cap through a no-show endorsement deal with Kawhi Leonard has stalled his trade to the Toronto Raptors. The league's findings could reshape Leonard's contract value and the deal's terms.",
+      "article": "The Clippers and Raptors have placed their trade involving Kawhi Leonard on hold pending the outcome of an NBA investigation into whether the Clippers circumvented the salary cap through a no-show endorsement arrangement with Leonard, Sportico reported. The league is examining a sponsorship deal that may have inflated Leonard's compensation beyond legitimate market rates, a violation that could result in significant penalties. The hold introduces uncertainty into one of the offseason's marquee moves and underscores the league's willingness to scrutinize celebrity endorsement arrangements that blur the line between athlete compensation and team salary cap maneuvering. If the NBA finds violations, the Clippers could face draft-pick penalties, fines, or forced salary cap adjustments that would alter the terms of the Leonard trade or render it impossible. Leonard's on-court value remains unchanged, but his cap implications and contract structure now depend on an investigation outcome. The Raptors are holding fire on finalizing the deal rather than risk acquiring a player whose contract may be modified retroactively by league ruling. This marks the first high-profile instance of the NBA actively policing the gray area between endorsement and salary-cap circumvention, setting precedent for how the league will treat similar arrangements going forward. Resolution timing is unclear.",
+      "tweets": []
+    },
+    {
+      "category": "media",
       "importance": 6,
-      "leadHeadline": "How do England stop Norway - and Haaland?",
-      "leadSource": "BBC Sport · 4h ago",
-      "leadUrl": "https://www.bbc.co.uk/sport/football/articles/c621jyxkvzko?at_medium=RSS&amp;at_campaign=rss",
-      "summary": "England prepares to face Norway in a World Cup quarter-final on Saturday, with Thomas Tuchel's squad tasked with containing Erling Haaland as the primary offensive threat.",
-      "article": "England's World Cup quarter-final against Norway on Saturday places Thomas Tuchel's defense at center stage, with Erling Haaland's goal-scoring prowess the match's defining tactical puzzle. Haaland has been Norway's leading strike weapon throughout the tournament, and his physical tools, positioning sense, and finishing have made him the player England's back line must neutralize. Tuchel's defensive setup will likely revolve around minimizing space for Haaland to operate, whether through tight marking, deeper defensive lines, or pushing English midfielders to contest possession higher up the pitch. Haaland's record this tournament suggests he cannot be left unmarked: he continues to operate at elite finishing rates and has the physical profile to punish high defensive lines. England has been steady but not spectacular in earlier rounds. The squad's depth is real, but the tactical keys will be discipline and execution rather than star power. Norway's pathway to the semi-finals depends on Haaland staying involved, and England's pathway depends on reducing his touches in dangerous areas. The quarter-finals have always been about such binary propositions: one team executes its game plan, the other doesn't. This matchup is no exception, only the stakes are visible in Haaland's name.",
+      "leadHeadline": "'Style of Play' Hosts on World Cup and More",
+      "leadSource": "Front Office Sports · 1h ago",
+      "leadUrl": "https://frontofficesports.com/videos/style-of-play-hosts-on-world-cup-and-more/",
+      "summary": "Julie Ertz and Kealia Watt, former USMNT and NWSL stars, launched a podcast discussing World Cup coverage, women's soccer growth, and their partnership with Netflix. The venture reflects expanding media opportunities for female soccer talent.",
+      "article": "Julie Ertz and Kealia Watt, international soccer veterans and cultural figures in women's sports, have launched a podcast called Style of Play featuring conversations about World Cup coverage, women's soccer's evolution, and Netflix's expansion into soccer content, according to Front Office Sports. The show represents another avenue through which elite female athletes are building direct media and audience relationships beyond traditional broadcast roles. Ertz, a longtime USMNT midfielder and captain, and Watt, an accomplished club and international player, bring credibility both as on-field performers and as figures whose names carry weight in the broader sports conversation. Their entry into podcasting reflects the growing market for athlete-driven commentary on soccer, a space that has traditionally been dominated by male voices. The Netflix partnership signals the streaming giant's commitment to women's soccer content as a distinct category with commercial value, beyond women's World Cup tournament coverage. For sports media, the development underscores a shift: the most valuable soccer talent increasingly monetizes through multiple channels (broadcast, podcast, endorsement, social), not a single network or franchise. The podcast's success or failure will be tracked closely as a barometer of audience appetite for female athlete-hosted soccer commentary. Industry observers will watch whether this model creates a replicable template for other female soccer stars seeking media independence.",
+      "tweets": []
+    },
+    {
+      "category": "media",
+      "importance": 5,
+      "leadHeadline": "Conor McGregor is back, but the sensation who changed the UFC is long gone",
+      "leadSource": "The Guardian · 10h ago",
+      "leadUrl": "https://www.theguardian.com/sport/2026/jul/10/conor-mcgregor-return-ufc-max-holloway-legacy-ireland-comeback",
+      "summary": "Conor McGregor returns to the UFC octagon after five years away, but The Guardian's analysis suggests the star who revolutionized the sport is no longer the fighter or draw he once was. His comeback reflects the UFC's appetite for its most bankable name.",
+      "article": "Conor McGregor is returning to the UFC after five years away from active competition, but The Guardian's appraisal of his comeback is clear: the fighter who transformed the sport into a global enterprise has been replaced by an echo of that figure. The piece draws a distinction between McGregor the physical presence and McGregor the cultural force that once sold pay-per-views and built the UFC's revenue model around his personality and fighting style. Five years is an eternity in combat sports, especially at the age McGregor is now competing. His absence from the octagon has not been matched by absence from public conversation, but that public presence increasingly derives from his celebrity status rather than imminent threat as a competitor. Yet the UFC has clearly opted to bank on residual star power and historical brand value by welcoming him back, a calculus that speaks to both McGregor's continued commercial leverage and the UFC's confidence that casual fans will tune in. The comeback narrative itself, rather than his probable performance, is the draw. This reflects a broader shift in how the UFC markets its aging superstars: nostalgia and what-if rather than present dominance. For McGregor, the return represents one final chance to monetize the fame he built, a chance few athletes ever get. For the UFC, it's a pragmatic decision to let a marquee name take a final bow while there's still audience hunger for it.",
       "tweets": []
     },
     {
       "category": "contracts",
-      "importance": 5,
-      "leadHeadline": "The NBAs seven biggest non-LeBron James and Kawhi Leonard questions left to be answered this offseason",
-      "leadSource": "CBS Sports · just now",
-      "leadUrl": "https://www.cbssports.com/nba/news/nba-offseason-biggest-questions-thunder-lakers-knicks-pistons-nuggets/",
-      "summary": "With the Kawhi Leonard trade on hold pending an NBA ruling and LeBron James still exploring his free-agency options, the league faces multiple unresolved roster questions heading into the summer.",
-      "article": "The NBA offseason remains in limbo on its two biggest storylines. Kawhi Leonard's trade status is unresolved pending league approval, and LeBron James has not yet committed to a team, leaving the free-agency market in a holding pattern. Both decisions have downstream effects across the league's rosters and salary-cap calculations. Beyond Leonard and James, CBS Sports identifies seven other significant questions: which teams will pursue the remaining top-tier free agents, how salary-cap management will shift in response to the CBA's new parameters, what trades might be constructed to reset contending rosters, and whether surprise teams will make aggressive midseason-style moves in July. The Leonard hold-up is particularly consequential because it keeps a third team's future uncertain and prevents bidders from fully committing resources elsewhere. James' free-agency window similarly freezes multiple squads that might be destinations or trade partners. The offseason's rhythm has been disrupted by these two anchors, and until both are settled, teams cannot finalize their rosters. This extends the uncertainty well into July, unusual for a league that typically sees major free-agency movement conclude in the first week. The cascading effects will determine playoff positioning for next season.",
-      "tweets": []
-    },
-    {
-      "category": "media",
       "importance": 4,
-      "leadHeadline": "The Face of Soccer in the United States Is David Beckham?",
-      "leadSource": "Sportico · 6h ago",
-      "leadUrl": "https://www.sportico.com/business/media/2026/david-beckham-soccer-united-states-advertising-1234938515/",
-      "summary": "Despite Christian Pulisic's prominence as the USMNT's forward, David Beckham, the 51-year-old former MLS player, has become the dominant face of soccer in American advertising and commercial breaks during World Cup coverage.",
-      "article": "World Cup broadcast commercial breaks have elevated David Beckham, the 51-year-old former English midfielder who played six seasons in MLS and scored 18 goals, to the de facto face of American soccer in the eyes of advertisers. Beckham's ubiquity in ads outpaces Christian Pulisic's visibility, despite Pulisic wearing the USMNT's number 10 and carrying the team's offensive burden throughout the tournament. The disconnect reflects two realities: Beckham's global brand transcends sport, and his MLS tenure gave him a permanent cultural foothold in the US market that Pulisic, despite his elite status, has not yet achieved. Pulisic has faced criticism for his injury availability throughout his career, a narrative that complicates his marketability even as his on-field performances warrant sponsorship attention. Beckham's appeal lies in his cross-generational recognition and his role in MLS's early credibility-building years. Advertisers are betting on that name and image, not on the current state of American soccer. The paradox is telling: the nation's best player in the sport's biggest tournament is outgunned by a ghost of MLS past when it comes to selling products to American audiences. Pulisic's future commercial value may shift if he continues to perform at the national level, but for now, Beckham's established brand is the safer play for Madison Avenue.",
-      "tweets": []
-    },
-    {
-      "category": "leagues",
-      "importance": 3,
-      "leadHeadline": "Roch Cholowsky, UCLAs selfless superstar, could be top pick in MLB draft",
-      "leadSource": "NY Post Sports · 1h ago",
-      "leadUrl": "https://nypost.com/2026/07/10/sports/meet-roch-cholowsky-unselfish-star-and-likely-mlbs-no-1-pick/",
-      "summary": "UCLA shortstop Roch Cholowsky, who demonstrated community engagement by visiting sick children, is positioned as a potential top-tier selection in the upcoming MLB draft.",
-      "article": "UCLA shortstop Roch Cholowsky has become one of the college baseball season's most compelling draft prospects not solely for his on-field performance but for the character he displays off it. When asked to visit a teenage boy battling a rare and aggressive cancer, Cholowsky moved quickly, treating the request with the urgency of a base-running decision. His willingness to step into that role, even as his draft stock was rising, signals the kind of character profile that scouts and franchises seek in young players. Cholowsky is positioned as a potential top-tier pick in the 2026 MLB draft, which begins this weekend. His defensive profile at shortstop, combined with his offensive consistency, places him in contention for an early-round selection. The UCLA program has a history of producing major-league talent, and Cholowsky fits that mold. His character work in the community, while not a measurable skill at the plate, has become part of the narrative surrounding his entry into professional baseball. MLB teams invest heavily in prospects and their surrounding ecosystem, so a player who demonstrates maturity and community awareness often carries an intangible asset that translates to clubhouse value. Cholowsky's draft weekend will center on his baseball credentials, but his story carries the kind of resonance that shapes how he's remembered in his first professional chapter.",
+      "leadHeadline": "Lakers should be all-in on Jonathan Kuminga — but at the right price",
+      "leadSource": "NY Post Sports · just now",
+      "leadUrl": "https://nypost.com/2026/07/10/sports/nba-free-agency-lakers-should-be-all-in-on-jonathan-kuminga/",
+      "summary": "The Lakers are actively pursuing unrestricted free agent Jonathan Kuminga, but the Post argues they must manage expectations around contract size. Kuminga's value hinges on whether he can replicate his upside in a new system.",
+      "article": "The Lakers are pursuing unrestricted free agent Jonathan Kuminga in the offseason, and the New York Post's analysis frames the pursuit as strategically sound only if the franchise negotiates price discipline. Kuminga, a versatile wing with two-way upside, represents the type of perimeter talent the Lakers have identified as a priority heading into roster construction. His unrestricted free agency status means he can negotiate with any franchise, giving the Lakers no leverage save their brand appeal and winning probability. The Post's argument hinges on a distinction between Kuminga's ceiling and his market value. At the right price, he fills a need; at an inflated contract, he becomes an anchor on a roster already constrained by LeBron James' aging curve and Anthony Davis' injury history. Kuminga's appeal to the Lakers rests on his ability to defend multiple positions and shoot from distance, skills that complement both Davis and James in small-ball lineups. However, his consistency as a three-point shooter has fluctuated, and his usage rate in a Lakers offense would differ significantly from his Warriors role. The contract negotiation is less about Kuminga's talent and more about the Lakers' willingness to spend into the luxury tax for a complementary player rather than a star. If Kuminga's agent is leveraging other offers to drive salary up, the Lakers face a decision about whether to pursue other free-agent targets or allocate cap space elsewhere.",
       "tweets": []
     }
   ],
@@ -2392,106 +2400,83 @@
     "source": "espn"
   },
   "deals": [],
-  "ratings": [
-    {
-      "event": "USMNT vs Belgium World Cup Last 16",
-      "network": "Multi-network",
-      "viewers_m": 46,
-      "peak_viewers_m": null,
-      "league": "SOCCER",
-      "storyIndex": 8,
-      "context": "Record-breaking viewership for a soccer broadcast in the United States.",
-      "capturedAt": "2026-07-10T16:51:07.808Z"
-    }
-  ],
+  "ratings": [],
   "ticket_prices": [],
   "sidebar": [
     {
-      "headline": "Why So Many Media Outlets Are Rushing Into Sports",
-      "source": "Front Office Sports · 3h ago",
-      "article": "Sports coverage has exploded across traditional media, digital publishers, and emerging platforms, each racing to capture audience share in a fragmented media landscape. The World Cup, with its global reach and round-the-clock tournament structure, has accelerated newsroom investments in sports desks. Publishers see sports content as a reliable driver of engagement: games have defined start times, natural narrative arcs, and passionate audiences. Cable networks have added sports-focused programming blocks. Podcasts have spawned dedicated sports networks. Even pure-play financial news outlets now cover sports business. The calculus is simple: sports audiences are large, advertisers pay premium rates for them, and the barrier to entry for sports coverage is lower than ever thanks to streaming and social distribution. The downside is that much of this coverage is template-driven and indistinguishable. Without differentiation or beat expertise, outlets amplify noise rather than insight. But the investment spree continues, especially around major events like the World Cup and the Olympics, where casual audiences combine with devoted fans to create unprecedented scale."
+      "headline": "FBI Probes Argentine Football Association for $260M Money Laundering Scheme",
+      "source": "CBS Sports · just now",
+      "article": "The FBI is investigating the Argentine Football Association for alleged money laundering and fraud involving over $260 million moved through U.S. banking channels. The probe implicates one of international soccer's most powerful governing bodies during an active World Cup, creating fresh legal exposure. The investigation focuses on how AFA revenue flowed through American financial institutions, suggesting systematic misconduct rather than isolated wrongdoing. If violations are confirmed, the federation faces potential penalties that could reshape its operations. The timing is particularly sensitive given Argentina's World Cup campaign and the broad implications the case may set for how international sports bodies are held accountable under U.S. law."
     },
     {
-      "headline": "One lingering off-season question for each NHL team",
-      "source": "Sportsnet · 5h ago",
-      "article": "As the NHL calendar enters its quietest stretch before training camp, each of the 32 teams faces one unresolved question that will shape their roster and salary-cap decisions in the coming weeks. For some, it's a pending free-agent decision. For others, it's a trade deadline gamble that must be justified or undone. Sportsnet's Rory Boylen works through the landscape team by team, parsing contract situations, coaching philosophies, and organizational depth charts. The questions cluster around goaltending depth, cap-strapped contenders seeking a veteran deadline rental, and rebuilding teams deciding whether to accelerate or extend their timeline. A few teams face questions about veteran leadership and locker-room culture. The exercise reveals how much unfinished business remains even as the league's public transactions have settled. Teams will spend the next four to six weeks executing minor moves and depth signings that won't make headlines but will determine playoff positioning next season. The offseason's invisible work is often more consequential than its splashy trades."
+      "headline": "Sinner Dominates Djokovic 6-4, 6-4, 6-4 to Reach Wimbledon Final",
+      "source": "The Guardian · 2h ago",
+      "article": "Jannik Sinner delivered a masterclass performance against Novak Djokovic, sweeping the defending champion 6-4, 6-4, 6-4 to secure a spot in Sunday's Wimbledon final. At 39, Djokovic had mounted an unlikely run through the draw, but Sinner's precision and control on the grass left no room for the veteran's typical comeback script. Sinner broke serve four times and won 18 of the match's 36 games, never allowing Djokovic to establish rhythm. The result marks a clear generational shift at the All England Club, where Djokovic won three titles during his era of dominance. Sinner faces Alexander Zverev in the final after Zverev defeated British wildcard Arthur Fery in the other semi. For Sinner, this is a second Grand Slam final of 2026, following his Australian Open triumph earlier this year."
     },
     {
-      "headline": "Hoops Players Win Tops Big Day in NCAA Eligibility Litigation",
-      "source": "Sportico · 20h ago",
-      "article": "Xavier basketball player Filip Borovicanin and 23 other college basketball players were granted an injunction by an Ohio judge, clearing them to compete in college hoops this fall. The ruling came hours after three college football players petitioned a Tennessee court for a similar right. All athletes involved are from the high school class of 2022, contesting NCAA eligibility rules that would prevent them from playing another season. The litigation trend reflects growing scrutiny of NCAA eligibility standards and the legal challenges mounting against them. Courts are increasingly skeptical of eligibility restrictions that prevent athletes from competing, especially when the underlying rule appears arbitrary or unevenly enforced. The basketball injunction is the more immediate precedent: it allows 24 players to suit up this coming season, disrupting roster calculations for their respective programs. The football petition, filed separately and in a different jurisdiction, suggests this wave of litigation will continue across multiple states and governing bodies. NCAA leadership has not yet responded publicly to the basketball ruling, but the organization faces mounting legal exposure if lower courts continue to grant injunctions faster than the NCAA can defend its rules."
+      "headline": "Kawhi Trade to Raptors Placed on Hold Pending NBA Salary Cap Investigation",
+      "source": "Sportico · just now",
+      "article": "The NBA is investigating whether the Los Angeles Clippers circumvented the salary cap through a no-show endorsement deal with Kawhi Leonard, causing the Clippers and Toronto Raptors to halt their trade. The league is examining a sponsorship arrangement that may have inflated Leonard's compensation, potentially violating cap rules. If violations are confirmed, the Clippers could face draft penalties or forced salary cap adjustments that would alter the trade's terms or render it impossible. The hold reflects the NBA's willingness to scrutinize the gray area between legitimate endorsement and cap circumvention. The Raptors are exercising caution rather than risk acquiring a player whose contract might be modified by league ruling. Resolution timing remains unclear, but the case sets precedent for future league oversight of athlete endorsement arrangements."
     },
     {
-      "headline": "Blue Jays face challenging draft with smaller bonus pool, fewer picks",
-      "source": "Sportsnet · 1h ago",
-      "article": "The Toronto Blue Jays' World Series run last fall has come with a steep cost this MLB draft season: the club faces a reduced bonus pool and fewer draft picks, limiting their ability to stockpile young talent. The constraints stem from luxury-tax penalties and draft-pick forfeiture tied to their offseason spending. Sportsnet's Shi Davidi unpacks the creative solutions available to the Blue Jays' front office as they prepare for selections this weekend. Teams in this position often pivot toward late-round upside plays, college-to-pro translations, and underslot signings that maximize impact within a tighter budget. The Blue Jays have a track record of savvy amateur scouting, but the draft's unpredictability means fewer picks amplifies the risk. Every selection becomes more consequential. The organization must prioritize position scarcity and high-floor talent over lottery-ticket ceiling plays. How the Blue Jays navigate these constraints will test their scouting acumen and may set the tone for their competitive window in years to come."
+      "headline": "Ertz and Watt Launch 'Style of Play' Podcast With Netflix Partnership",
+      "source": "Front Office Sports · 1h ago",
+      "article": "Former international soccer stars Julie Ertz and Kealia Watt have launched a podcast covering World Cup analysis, women's soccer growth, and Netflix's expanded commitment to soccer content. The venture represents another channel through which elite female athletes are building direct media relationships and monetizing their platform. Ertz, a longtime midfielder and USMNT captain, and Watt bring credibility both on and off the field, positioning them to appeal to soccer audiences beyond traditional broadcast demographics. The Netflix partnership underscores the streaming giant's strategy to develop women's soccer as a distinct content category. For sports media, the move reflects a broader shift in how elite athletes monetize their brands: through multiple channels simultaneously, including podcasting, broadcast, endorsement, and social platforms. The success of athlete-hosted soccer commentary will be tracked as an indicator of market appetite for female voices in sports media analysis."
     },
     {
-      "headline": "Norway's Youth Sports Model Gets World Cup Love but Faces Risks",
-      "source": "Sportico · 5h ago",
-      "article": "As Norway advances to the World Cup quarterfinal against England on Saturday, the Scandinavian nation's world-renowned youth sports development model is back under the microscope. Norway's population of 5.6 million benefits from publicly subsidized youth sports programs that emphasize inclusion over elite competition, a philosophy routinely credited for producing deep benches of talent. The approach contrasts sharply with club-focused, pay-to-play models in the United States and much of Europe. However, the model faces sustainability questions: declining birthrates, increasing costs to local governments, and the concentration of resources at the senior national level all strain the system. Countries that rely on grassroots participation to feed elite pipelines must invest heavily upstream or face future scarcity at the top. Norway's quarterfinal appearance validates the model's current output, but whether the system can maintain its output over the next decade amid demographic and fiscal pressures remains uncertain. The Guardian and other outlets view Norway's run as both a vindication of its approach and a warning that even well-resourced systems must adapt as contexts shift."
+      "headline": "McGregor Returns to UFC After Five Years, But His Star Power Has Faded",
+      "source": "The Guardian · 10h ago",
+      "article": "Conor McGregor is returning to the UFC octagon after five years away, but the fighter who once revolutionized the sport and drove massive pay-per-view revenues is no longer the dominant force he was. The Guardian distinguishes between McGregor the celebrity and McGregor the performer, suggesting his comeback appeal rests on nostalgia rather than present threat. Five years out of competition is an eternity in combat sports, and age compounds the challenge. Yet the UFC has greenlit the comeback, signaling that McGregor's residual brand value and potential casual-fan interest justify the investment in his return. The comeback narrative itself, rather than his likely competitive performance, will be the primary draw. For McGregor, the fight offers a final opportunity to capitalize on his fame and secure additional revenue. For the UFC, it's a pragmatic decision to let a marquee name take a final bow while audience interest persists."
     },
     {
-      "headline": "USMNT finale among most-watched non-NFL sportscasts",
-      "source": "Sports Media Watch · 13h ago",
-      "article": "The United States men's national team's World Cup match against Belgium drew one of the largest sports audiences of the modern era when excluding NFL broadcasts. The 46-million-viewer figure positions the match among the most-watched non-football events in recent television history. The scale reflects World Cup's singular appeal: it collapses the gap between casual and devoted audiences, pulling in viewers who rarely engage with soccer otherwise. The matchup's stakes, the teams involved, and the tournament's global cultural presence combine to create the kind of massive, one-time audience that networks covet. The USMNT's elimination in that match did not suppress viewership; if anything, the result and the narrative of American failure may have driven attention to follow-up coverage and debate. Broadcasts of England's subsequent quarterfinal against Norway will likely pursue similar or larger figures, setting up a string of marquee matchups that networks will heavily promote."
+      "headline": "Lakers Pursuing Free Agent Jonathan Kuminga, But Must Control Contract Cost",
+      "source": "NY Post Sports · just now",
+      "article": "The Los Angeles Lakers are actively targeting unrestricted free agent Jonathan Kuminga, but the New York Post argues the franchise must manage salary expectations to make the deal worthwhile. Kuminga brings versatile two-way wing skills that complement LeBron James and Anthony Davis, including three-point range and multi-position defense. However, his value depends on maintaining production consistency in a Lakers system, and his usage rate would differ significantly from his Warriors role. The contract negotiation is less about his talent than about the Lakers' willingness to spend into luxury-tax territory for a complementary player rather than a star. If Kuminga's agent leverages competing offers to drive salary up, the Lakers may need to pivot to other free-agent targets or allocate cap space differently. The franchise's roster constraints around James' aging curve and Davis' injury history make disciplined spending essential."
     }
   ],
   "poll": {
-    "question": "Will Conor McGregor defeat Max Holloway at UFC 329?",
+    "question": "Who will win the Wimbledon men's title: Sinner or Zverev?",
     "options": [
-      "McGregor by knockout or submission",
-      "McGregor by decision",
-      "Holloway by knockout or submission",
-      "Holloway by decision"
+      "Jannik Sinner (heavy favorite)",
+      "Alexander Zverev (slight underdog)",
+      "Neither—injury or withdrawal",
+      "Unsure"
     ]
   },
   "predictions": [
     {
-      "statement": "Jannik Sinner will defeat Novak Djokovic in the Wimbledon final.",
-      "probability": 68,
-      "rationale": "Sinner is 22, at peak physical capacity, and has dominated the spring. Djokovic is returning from extended time away and is 39. Age and rust typically favor the younger player in a final, though Djokovic's experience in major finals is unmatched. Sinner's consistency and movement on grass have been sharp."
-    },
-    {
-      "statement": "England will advance to the World Cup semi-final by defeating Norway on Saturday.",
+      "statement": "Sinner wins the Wimbledon final comfortably, dropping no more than one set to Zverev.",
       "probability": 72,
-      "rationale": "England is seeded higher, has greater squad depth, and has been steady throughout the tournament. Norway's strength is concentrated in Haaland, and England's defense has shown the discipline to handle single-threat teams. Home advantage and tactical preparation favor Tuchel's side."
+      "rationale": "Sinner's 6-4, 6-4, 6-4 dismantling of a former champion suggests peak form and grass-court confidence. Zverev beat a wildcard, not a seeded threat. The performance gaps Sinner showed are difficult to overcome in 72 hours."
     },
     {
-      "statement": "A college basketball or football player will win another court injunction allowing an extra year of eligibility before the end of June 2026.",
-      "probability": 55,
-      "rationale": "The precedent set by the Xavier ruling and the football petition filed in Tennessee suggests courts are increasingly skeptical of NCAA eligibility restrictions. Multiple suits are in motion, and lower courts appear to favor athletes. However, NCAA legal defense and appeals could slow further wins."
+      "statement": "The NBA completes its Kawhi investigation within two months without substantive penalties to the Clippers.",
+      "probability": 45,
+      "rationale": "The league has flexibility to craft investigative findings that protect star players from collateral damage. However, documented evidence of cap circumvention typically triggers visible consequences to maintain enforcement credibility. The investigation's scope and findings will dictate severity."
     },
     {
-      "statement": "Christian Pulisic will miss the remainder of the World Cup due to his leg fracture.",
-      "probability": 78,
-      "rationale": "A microfracture and bone bruise diagnosed after the Belgium loss typically sideline players for several weeks. The USMNT's elimination means no further group-stage matches, but Pulisic's availability for club competition would be in doubt. Recovery timelines for such injuries rarely permit return within days."
+      "statement": "The Argentine Football Association faces meaningful consequences from the FBI probe before the World Cup concludes.",
+      "probability": 38,
+      "rationale": "U.S. federal investigations move slowly and rarely culminate in public charges mid-tournament. However, the scale of alleged misconduct ($260M) and U.S. banking involvement may accelerate timelines. Most likely outcome is a criminal referral after the tournament ends."
+    },
+    {
+      "statement": "Conor McGregor's comeback fight draws over 3 million viewers in the U.S. despite skepticism about his physical condition.",
+      "probability": 65,
+      "rationale": "His brand recognition guarantees a floor of casual-fan interest, even if hardcore MMA audiences have moved on. The UFC will market aggressively, and his opponent selection will likely favor intrigue over threat, maximizing viewership upside."
     }
   ],
   "injuries": [
-    {
-      "player": "Christian Pulisic",
-      "team": "USMNT",
-      "league": "SOCCER",
-      "position": "FW",
-      "status": "OUT",
-      "injury": "Microfracture and bone bruise in leg",
-      "timeline": "Several weeks",
-      "source": "US Soccer (via Guardian)",
-      "impact": "USMNT eliminated from World Cup; Pulisic's club availability uncertain for coming weeks.",
-      "storyIndex": -1
-    },
     {
       "player": "Marc Guehi",
       "team": "England",
       "league": "SOCCER",
       "position": "D",
       "status": "DOUBTFUL",
-      "injury": "Slight hamstring injury",
-      "timeline": "Game-time decision for Saturday's Norway quarter-final",
+      "injury": "Hamstring",
+      "timeline": "Game-time decision for Norway quarter-final",
       "source": "BBC Sport",
-      "impact": "England may need to shuffle defensive pairing if Guehi is unavailable for the quarterfinal.",
-      "storyIndex": -1
+      "impact": "England's defensive stability against Norway depends on Guehi's availability; his absence forces lineup changes in the backline.",
+      "storyIndex": null
     }
   ],
   "picks": [
@@ -5390,14 +5375,14 @@
       "_pendingGrade": true
     }
   ],
-  "updatedAt": "2026-04-23T14:47:00Z",
+  "updatedAt": "2026-04-23T18:45:00Z",
   "highlights": [
     {
       "league": "NBA",
       "title": "Catch Austin Reaves in action this weekend! ⛳️",
       "videoId": "yUVTc9WJcW8",
       "thumbnail": "https://img.youtube.com/vi/yUVTc9WJcW8/mqdefault.jpg",
-      "timeAgo": "Just now",
+      "timeAgo": "4h ago",
       "isFallback": false
     },
     {
@@ -5405,15 +5390,15 @@
       "title": "Super Bowl LXI contenders and pretenders 🏆",
       "videoId": "Um_fAKb0QTE",
       "thumbnail": "https://img.youtube.com/vi/Um_fAKb0QTE/mqdefault.jpg",
-      "timeAgo": "1h ago",
+      "timeAgo": "4h ago",
       "isFallback": false
     },
     {
       "league": "MLB",
-      "title": "Sho-ing off the POWER! 💪 Check out ALL 20 HOME RUNS hit by Shohei Ohtani in 2026 thus far! 💥",
-      "videoId": "0yO43YPYX3Y",
-      "thumbnail": "https://img.youtube.com/vi/0yO43YPYX3Y/mqdefault.jpg",
-      "timeAgo": "2h ago",
+      "title": "The 2026 season is off the rails (and here's the 6 biggest reasons why!)",
+      "videoId": "KcCV6nT-kcQ",
+      "thumbnail": "https://img.youtube.com/vi/KcCV6nT-kcQ/mqdefault.jpg",
+      "timeAgo": "Just now",
       "isFallback": false
     },
     {
@@ -5421,7 +5406,7 @@
       "title": "Watch Chase Reid attempt the Social Media Combine!",
       "videoId": "-eOG860Qr-A",
       "thumbnail": "https://img.youtube.com/vi/-eOG860Qr-A/mqdefault.jpg",
-      "timeAgo": "2h ago",
+      "timeAgo": "5h ago",
       "isFallback": false
     },
     {
@@ -5429,19 +5414,75 @@
       "title": "Las Vegas Aces vs. Portland Fire | FULL GAME HIGHLIGHTS | July 9, 2026",
       "videoId": "_QRHMeF4MNo",
       "thumbnail": "https://img.youtube.com/vi/_QRHMeF4MNo/mqdefault.jpg",
-      "timeAgo": "12h ago",
+      "timeAgo": "15h ago",
       "isFallback": false
     },
     {
       "league": "SOCCER",
-      "title": "France vs. Morocco REACTION &amp; LOOK-AHEAD 👀 Juls is a HAPPY FRENCHMAN! 🇫🇷 | ESPN FC",
-      "videoId": "xU1AwpaIhng",
-      "thumbnail": "https://img.youtube.com/vi/xU1AwpaIhng/mqdefault.jpg",
-      "timeAgo": "Just now",
+      "title": "Why ALL THE PRESSURE is on England in the World Cup Quarterfinals vs. Norway 🧐 | ESPN FC",
+      "videoId": "W2QnvZ3uUqM",
+      "thumbnail": "https://img.youtube.com/vi/W2QnvZ3uUqM/mqdefault.jpg",
+      "timeAgo": "3h ago",
       "isFallback": false
     }
   ],
   "reels": [
+    {
+      "league": "MLB",
+      "title": "The 2026 season is off the rails (and here's the 6 biggest reasons why!)",
+      "videoId": "KcCV6nT-kcQ",
+      "author": "MLB",
+      "pubDate": "2026-07-10T19:55:54+00:00",
+      "link": "https://www.youtube.com/watch?v=KcCV6nT-kcQ"
+    },
+    {
+      "league": "MLB",
+      "title": "MLB players who HOMERED in their FIRST AT-BAT 😲 (Last 10 years, ft. Aaron Judge and more!)",
+      "videoId": "lfJGPB6TPvc",
+      "author": "MLB",
+      "pubDate": "2026-07-10T18:00:35+00:00",
+      "link": "https://www.youtube.com/watch?v=lfJGPB6TPvc"
+    },
+    {
+      "league": "MLB",
+      "title": "Jac Caglianone was ready for the Home Run Derby in college!!",
+      "videoId": "QB2Omo2wIJY",
+      "author": "MLB",
+      "pubDate": "2026-07-10T17:38:50+00:00",
+      "link": "https://www.youtube.com/watch?v=QB2Omo2wIJY"
+    },
+    {
+      "league": "SOCCER",
+      "title": "Why ALL THE PRESSURE is on England in the World Cup Quarterfinals vs. Norway 🧐 | ESPN FC",
+      "videoId": "W2QnvZ3uUqM",
+      "author": "ESPN FC",
+      "pubDate": "2026-07-10T17:18:41+00:00",
+      "link": "https://www.youtube.com/watch?v=W2QnvZ3uUqM"
+    },
+    {
+      "league": "MLB",
+      "title": "Kyle Schwarber's 10 longest MLB homers! (2026 HR leader will compete in the Home Run Derby!)",
+      "videoId": "twrPBn1Qerk",
+      "author": "MLB",
+      "pubDate": "2026-07-10T17:15:37+00:00",
+      "link": "https://www.youtube.com/watch?v=twrPBn1Qerk"
+    },
+    {
+      "league": "SOCCER",
+      "title": "Kylian Mbappe’s to lose + Erling Haaland to spoil England’s party?! | ESPN FC",
+      "videoId": "q_xWUzWaRF4",
+      "author": "ESPN FC",
+      "pubDate": "2026-07-10T17:07:44+00:00",
+      "link": "https://www.youtube.com/watch?v=q_xWUzWaRF4"
+    },
+    {
+      "league": "SOCCER",
+      "title": "Lamine Yamal says his 'big game in the World Cup is coming' ahead of Spain vs. Belgium 🍿 | ESPN FC",
+      "videoId": "6Z26OEwpxgg",
+      "author": "ESPN FC",
+      "pubDate": "2026-07-10T16:57:23+00:00",
+      "link": "https://www.youtube.com/watch?v=6Z26OEwpxgg"
+    },
     {
       "league": "SOCCER",
       "title": "France vs. Morocco REACTION &amp; LOOK-AHEAD 👀 Juls is a HAPPY FRENCHMAN! 🇫🇷 | ESPN FC",
@@ -5523,14 +5564,6 @@
       "link": "https://www.youtube.com/watch?v=un7pTG46Obk"
     },
     {
-      "league": "SOCCER",
-      "title": "Gabriel Martinelli might just be one of Cristiano Ronaldo's biggest fans 😅❤️",
-      "videoId": "aoE0WdNx1IQ",
-      "author": "ESPN FC",
-      "pubDate": "2026-07-10T14:45:06+00:00",
-      "link": "https://www.youtube.com/watch?v=aoE0WdNx1IQ"
-    },
-    {
       "league": "NFL",
       "title": "NFL BURNING QUESTIONS 🔥 Chiefs' ceiling, Steelers' success &amp; Caleb Williams' expectations 🏈 | Get Up",
       "videoId": "WC4lafsPb20",
@@ -5547,22 +5580,6 @@
       "link": "https://www.youtube.com/watch?v=0okcqQhvrO0"
     },
     {
-      "league": "SOCCER",
-      "title": "Is Mbappe the GREATEST international player at the World Cup level?! 👀",
-      "videoId": "v5usJSktH3k",
-      "author": "ESPN FC",
-      "pubDate": "2026-07-10T13:53:55+00:00",
-      "link": "https://www.youtube.com/watch?v=v5usJSktH3k"
-    },
-    {
-      "league": "SOCCER",
-      "title": "Kylian Mbappe and Ousmane Dembele the greatest duo ever?",
-      "videoId": "ljoeZ53V2vg",
-      "author": "ESPN FC",
-      "pubDate": "2026-07-10T13:51:47+00:00",
-      "link": "https://www.youtube.com/watch?v=ljoeZ53V2vg"
-    },
-    {
       "league": "MLB",
       "title": "Eduardo Valencia homered in his first career at-bat as the Tigers swept the A's and MUCH MORE!",
       "videoId": "VeH0AbqmfNI",
@@ -5577,22 +5594,6 @@
       "author": "MLB",
       "pubDate": "2026-07-10T11:00:24+00:00",
       "link": "https://www.youtube.com/watch?v=q4t8gGP53iw"
-    },
-    {
-      "league": "MLB",
-      "title": "Highlights from ALL GAMES on 7/9 (Rice homers TWICE, Luzardo strikes out 11 and MORE!)",
-      "videoId": "qykNWqvNE8I",
-      "author": "MLB",
-      "pubDate": "2026-07-10T10:00:32+00:00",
-      "link": "https://www.youtube.com/watch?v=qykNWqvNE8I"
-    },
-    {
-      "league": "MLB",
-      "title": "Munetaka Murakami eyes his return for the Chicago White Sox! 👏",
-      "videoId": "RDPV8CRvvys",
-      "author": "MLB",
-      "pubDate": "2026-07-10T09:00:20+00:00",
-      "link": "https://www.youtube.com/watch?v=RDPV8CRvvys"
     },
     {
       "league": "NBA",
@@ -5625,14 +5626,6 @@
       "author": "NBA",
       "pubDate": "2026-07-10T05:27:44+00:00",
       "link": "https://www.youtube.com/watch?v=vzmsTZO84L4"
-    },
-    {
-      "league": "MLB",
-      "title": "ROCKIES vs. GIANTS: Official Full Game Highlights (July 9) | 2026 MLB Season",
-      "videoId": "y4ygWcP0trM",
-      "author": "MLB",
-      "pubDate": "2026-07-10T05:25:03+00:00",
-      "link": "https://www.youtube.com/watch?v=y4ygWcP0trM"
     },
     {
       "league": "NBA",
@@ -5673,14 +5666,6 @@
       "author": "WNBA",
       "pubDate": "2026-07-10T05:09:56+00:00",
       "link": "https://www.youtube.com/watch?v=HTuwygyES0I"
-    },
-    {
-      "league": "MLB",
-      "title": "D-BACKS vs. PADRES: Official Full Game Highlights (July 9) | 2026 MLB Season",
-      "videoId": "ZskN53UorUQ",
-      "author": "MLB",
-      "pubDate": "2026-07-10T05:06:31+00:00",
-      "link": "https://www.youtube.com/watch?v=ZskN53UorUQ"
     },
     {
       "league": "WNBA",
