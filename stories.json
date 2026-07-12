@@ -1,81 +1,71 @@
 {
   "clusters": [
     {
-      "category": "revenue",
+      "category": "media",
       "importance": 9,
-      "leadHeadline": "Exclusive: Vinod Khosla to Buy Seattle Seahawks for $9.6Billion",
-      "leadSource": "Sportico · 17h ago",
-      "leadUrl": "https://www.sportico.com/business/team-sales/2026/seattle-seahawks-sale-vinod-khosla-owner-billions-1234938616/",
-      "summary": "Vinod Khosla's group agreed to purchase the Seahawks for a record $9.612 billion, exceeding the previous NFL record by nearly $3.6 billion.",
-      "article": "Vinod Khosla's group has agreed to purchase the Seattle Seahawks for a record $9.612 billion, the Paul Allen estate announced Saturday. The price shatters the previous NFL franchise sale record set by the Washington Commanders, purchased in 2023 for $6.05 billion.\n\nKhosla's wife Neeru will serve as the team's control owner, with their son Neal, CEO of Curai, also having a leadership role. The Khosla family will be required to relinquish its ownership stake in the San Francisco 49ers as part of the deal.\n\nThe Seahawks went up for sale after the team beat the New England Patriots in the Super Bowl this year, winning 29-13 in February. Khosla's group beat out other bidders including a group led by billionaire Aditya Mittal.\n\nKhosla said on X: \"Excited to be part of this great franchise. Also excited to see the money all go to a non-profit. No other comments till sale is final.\" Most of the $9.6 billion purchase price is expected to go to charity, as Allen's will stipulated that proceeds be donated to multiple charities, with most going to the Paul G. Allen Foundation.\n\nOwners have been given a date in late August to keep open for a special meeting to approve the deal.",
+      "leadHeadline": "Jannik Sinner powers past Alexander Zverev in four sets to retain Wimbledon title",
+      "leadSource": "The Guardian · just now",
+      "leadUrl": "https://www.theguardian.com/sport/2026/jul/12/jannik-sinner-alexander-zverev-wimbledon-2026-mens-singles-final-match-report",
+      "summary": "Jannik Sinner defeated Alexander Zverev 6-7(7), 7-6(2), 6-3, 6-4 to clinch his fifth Grand Slam, with the Italian becoming the 10th man to defend the Wimbledon title.",
+      "article": "Jannik Sinner successfully retained the Wimbledon men's singles title on Sunday, defeating Alexander Zverev 6-7(7), 7-6(2), 6-3, 6-4. The match lasted three hours, 46 minutes. Sinner clinched his fifth major trophy and first Grand Slam win of 2026. With his second consecutive Wimbledon crown, Sinner became the 10th man in Open Era history to defend the All England Club title. Zverev took the first set on a tiebreak, breaking Sinner's 14-set winning streak against the German. The second seed had just claimed his maiden major at Roland Garros last month. Sinner denied Zverev's bid to become the first man in the Open Era since 1968 to follow a maiden major with another at the very next Grand Slam.",
       "tweets": [
         {
-          "url": "https://twitter.com/AdamSchefter/status/2076073755541950654",
-          "html": "<blockquote class=\"twitter-tweet\" data-dnt=\"true\" data-theme=\"dark\"><p>A group led by San Francisco 49ers limited partner Vinod Khosla has agreed to purchase the Seattle Seahawks for $9.6 billion, a record sale price for an NFL franchise, per @SethWickersham and me. https://t.co/OfX9S788hm</p>&mdash; Adam Schefter (@AdamSchefter) <a href=\"https://twitter.com/AdamSchefter/status/2076073755541950654\">July 11, 2026</a></blockquote>",
-          "author_name": "Adam Schefter",
-          "author_url": "https://twitter.com/AdamSchefter",
-          "dateMs": 1783809529000
+          "url": "https://twitter.com/Wimbledon/status/2076381561134465403",
+          "html": "<blockquote class=\"twitter-tweet\" data-dnt=\"true\" data-theme=\"dark\"><p>Defence complete. \n\nJannik Sinner defeats Alexander Zverev 6-7(7), 7-6(2), 6-3, 6-4 to win his second Wimbledon trophy. \n\n#Wimbledon https://t.co/TejFI5DdbW</p>&mdash; Wimbledon (@Wimbledon) <a href=\"https://twitter.com/Wimbledon/status/2076381561134465403\">July 12, 2026</a></blockquote>",
+          "author_name": "Wimbledon",
+          "author_url": "https://twitter.com/Wimbledon",
+          "dateMs": 1783882916000
         }
       ]
     },
     {
-      "category": "leagues",
+      "category": "revenue",
       "importance": 8,
-      "leadHeadline": "Jannik Sinner v Alexander Zverev: Wimbledon men's singles final – live",
-      "leadSource": "The Guardian · just now",
-      "leadUrl": "https://www.theguardian.com/sport/live/2026/jul/12/wimbledon-tennis-jannik-sinner-alexander-zverev-mens-singles-final-live",
-      "summary": "Jannik Sinner faces Alexander Zverev in the Wimbledon men's singles final with live coverage from Centre Court beginning at 4pm BST, a marquee championship match at the year's third Grand Slam.",
-      "article": "Jannik Sinner and Alexander Zverev have taken Centre Court for the Wimbledon men's singles final, the match beginning at 4pm BST on Sunday. The final represents the culmination of the tournament's two-week run on grass at the All England Lawn Tennis and Croquet Club in southwest London.\n\nSinner, the 22-year-old Italian who recently claimed his first Grand Slam title at the Australian Open earlier this year, enters as the top seed and a heavy favorite. His baseline game and aggressive serve have proven especially effective on grass, a surface that typically rewards flat striking and shorter rallies. Zverev, the 27-year-old German ranked fourth globally, reaches his first Wimbledon final after multiple deep runs at other majors.\n\nThe two players have met twice before, with Sinner holding a 2-0 record in their head-to-head matchup. Zverev will attempt to become the first German man to win Wimbledon since Boris Becker in 1989. A Sinner victory would add another major to his rapidly accumulating resume at an age when most players are still establishing themselves at the tour level.",
-      "tweets": []
-    },
-    {
-      "category": "leagues",
-      "importance": 8,
-      "leadHeadline": "Conor McGregor's UFC return ends after 69 seconds with knee injury: 'I am beyond dark here'",
-      "leadSource": "The Guardian · 11h ago",
-      "leadUrl": "https://www.theguardian.com/sport/2026/jul/12/conor-mcgregors-knee-injury-ufc-max-holloway",
-      "summary": "Conor McGregor's highly anticipated UFC comeback against Max Holloway ended after 69 seconds when McGregor suffered a knee injury, with UFC chief Dana White indicating a blown ACL, marking a major setback for a fighter returning after five years away.",
-      "article": "Conor McGregor's return to the UFC ended in disaster Saturday night at UFC 329 in Las Vegas when he suffered a serious knee injury just 69 seconds into his bout against Max Holloway. The injury forced an immediate stoppage and robbed what had been billed as the event's marquee heavyweight matchup of any competitive conclusion.\n\nUFC chief Dana White told reporters after the bout that the promotion is operating under the assumption McGregor suffered a blown ACL, a diagnosis that would sideline the fighter for an extended rehabilitation period, likely lasting six to nine months. McGregor, the sport's biggest draw and two-time champion, had not competed since January 2021 when he lost to Dustin Poirier at UFC 257.\n\nThe injury capped a night that had otherwise delivered strong preliminary and mid-card action leading into the main event. McGregor's post-fight social media post read simply, 'I am beyond dark here,' signaling his emotional state immediately following the premature finish. The loss of McGregor to injury removes the event's primary draw from near-term UFC planning and raises questions about his timeline for any potential return to competition.",
-      "tweets": []
-    },
-    {
-      "category": "leagues",
-      "importance": 7,
-      "leadHeadline": "McCullum sacked as England Test head coach",
-      "leadSource": "BBC Sport · 4h ago",
-      "leadUrl": "https://www.bbc.co.uk/sport/cricket/articles/c8028vm2g9ro?at_medium=RSS&amp;at_campaign=rss",
-      "summary": "Brendon McCullum has been sacked as England's Test head coach after four years, leaving the team without both a Test coach and captain mid-World Cup cycle.",
-      "article": "Brendon McCullum has been removed as England's Test head coach after four years in the role, the England and Wales Cricket Board announced. The dismissal leaves the national team without both a Test coach and captain simultaneously during a critical period in the international calendar.\n\nMcCullum arrived with a mandate to rebuild England's Test cricket after years of underperformance, instilling a more aggressive approach aligned with the modern white-ball game. His tenure saw some tactical wins and the integration of younger players, but the team's overall Test record remained inconsistent.\n\nThe timing of McCullum's departure comes as England navigates multiple crises within its cricket structure. The Test captain vacancy compounds the coaching void, forcing the ECB to conduct a two-pronged search for both a new head coach and playing captain. International cricket schedules don't pause for administrative transitions, meaning England will need to field a team for upcoming bilateral series while management remains in flux.\n\nThe decision marks one of the highest-profile coaching changes in English cricket during a World Cup year and will likely prompt internal review of the ECB's strategic direction across all formats.",
-      "tweets": []
-    },
-    {
-      "category": "leagues",
-      "importance": 6,
-      "leadHeadline": "2026 MLB Draft tracker, results: Full list of 613 draft picks, analysis of every teams first-round selection",
-      "leadSource": "CBS Sports · just now",
-      "leadUrl": "https://www.cbssports.com/mlb/news/2026-mlb-draft-tracker-results-picks-analysis/",
-      "summary": "The 2026 MLB Draft continues into its final rounds on Sunday with Rounds 5-20, featuring 613 total picks across all 30 teams as franchises complete their selections.",
-      "article": "The 2026 MLB Draft entered its final stages on Sunday with Rounds 5 through 20 underway, wrapping up a draft that will ultimately produce 613 selections across all 30 major league teams. The draft's opening rounds had already featured first-round surprises and organizational needs shaping early decisions.\n\nThe Dodgers, notably, did not make their first selection until the second round at 40th overall, opting for high-potential third baseman Bo Lowrance. The extended wait reflects Los Angeles' relatively strong farm system and veteran roster depth, allowing the organization to pass on immediate needs in favor of long-term developmental prospects.\n\nAll 30 teams face similar calculations: balancing the immediate pitching-and-hitting demands of a competitive roster against the development timeline of amateur prospects. The final rounds of the draft typically showcase smaller-market clubs with fewer organizational resources picking developmental players and international prospects.\n\nThe draft concludes the 2026 offseason cycle, with all selections now locked into amateur free-agent signings that will flow into minor-league systems. Teams are required to sign their selections within a defined window before those players return to amateur status, creating strict financial and contractual deadlines.",
+      "leadHeadline": "Exclusive: Vinod Khosla to Buy Seattle Seahawks for $9.6Billion",
+      "leadSource": "Sportico · 21h ago",
+      "leadUrl": "https://www.sportico.com/business/team-sales/2026/seattle-seahawks-sale-vinod-khosla-owner-billions-1234938616/",
+      "summary": "Tech billionaire Vinod Khosla and his family agreed to acquire the Seattle Seahawks for $9.6 billion, one of the largest valuations in sports team control transactions. The deal nears Mark Walter's $10B NBA purchase.",
+      "article": "Vinod Khosla and his family have reached an agreement to purchase the Seattle Seahawks for $9.6 billion, according to people familiar with the transaction. The price tag ranks among the largest valuations ever paid for a sports team in a control transaction, approaching Mark Walter's reported $10 billion purchase of the NBA's Chicago Bulls and standing above Jerry Jones's 1989 Cowboys acquisition adjusted for inflation. The deal reflects the surging valuations of NFL franchises, driven by sustained media rights revenue growth and the league's unmatched status in American sports viewership. Khosla, a venture capitalist and co-founder of Sun Microsystems, brings significant capital resources and a track record in large technology and infrastructure investments. The Seahawks sale follows years of ownership under Paul Allen's estate and marks a major shift in franchise stewardship. The agreement's completion is subject to NFL approval, a formality that typically follows major ownership transfers. The transaction underscores investor appetite for premium sports assets despite broader economic uncertainty.",
       "tweets": []
     },
     {
       "category": "media",
-      "importance": 5,
-      "leadHeadline": "Audiences still warm to Fever, with and without Clark",
-      "leadSource": "Sports Media Watch · 13h ago",
-      "leadUrl": "https://www.sportsmediawatch.com/2026/07/indiana-fever-viewership-highs-with-without-caitlin-clark/",
-      "summary": "The Indiana Fever drew strong viewership numbers across their recent games, demonstrating continued audience interest whether or not Caitlin Clark appears in the lineup.",
-      "article": "The Indiana Fever delivered multiple viewership peaks over the past week, with audiences tuning in across games featuring both Caitlin Clark in the lineup and contests in which the rookie sat out. The data suggests that the Fever's ascent in national popularity extends beyond singular-player dependency.\n\nClark's arrival in Indiana elevated the franchise's media profile significantly upon her 2024 draft entry. However, recent ratings demonstrate the team has developed independent gravitational pull: games without Clark in uniform still attracted notable audiences, indicating that role players' breakout performances and team competitiveness matter alongside marquee-player availability.\n\nThe Fever's viewership trajectory reflects broader WNBA growth, with the league posting consecutive seasons of increased cable and streaming viewership. Opponents now recognize the Fever as a broadcast draw in their own right, elevating overall league profile in the process.\n\nIndiana's season continues through the regular season with playoff positioning still fluid, meaning the team's remaining games carry both competitive and ratings significance for the ESPN family of networks and ABC prime-time slots.",
+      "importance": 6,
+      "leadHeadline": "Netflix Rolls Out Revamped MLB Home Run Derby",
+      "leadSource": "Front Office Sports · 1h ago",
+      "leadUrl": "https://frontofficesports.com/netflix-rolls-out-revamped-mlb-home-run-derby/",
+      "summary": "Netflix will host its biggest baseball presence yet with expanded MLB Home Run Derby coverage. The streaming giant's investment positions it as a major player in baseball media.",
+      "article": "Netflix is expanding its baseball footprint with a revamped presentation of MLB's Home Run Derby, marking the streaming service's largest baseball commitment to date. The move signals Netflix's push to secure marquee sports content and positions the platform as a significant competitor in sports media rights. Simultaneously, MLB's Home Run Derby could deliver substantial paydays for young stars: half of the contest field stands to more than double their 2026 salaries through derby earnings. The event has historically been a showcase for developing talent, but Netflix's investment and production values may amplify its commercial appeal and attract younger, streaming-native audiences. The timing coincides with broader industry trends as streaming platforms compete aggressively for sports rights and events, seeking prestige properties to drive subscriptions.",
       "tweets": []
     },
     {
       "category": "labor",
+      "importance": 5,
+      "leadHeadline": "'We have another level we can reach' - Kane defends frustrated Tuchel",
+      "leadSource": "BBC Sport · 2h ago",
+      "leadUrl": "https://www.bbc.co.uk/sport/football/articles/cy04xjlg5p4o?at_medium=RSS&amp;at_campaign=rss",
+      "summary": "England captain Harry Kane defended manager Thomas Tuchel after the team's World Cup performance, insisting England can access another level of play. Kane and Tuchel are tasked with ending a 60-year drought.",
+      "article": "Harry Kane defended manager Thomas Tuchel following England's World Cup campaign, telling reporters that the squad \"have another level we can reach\" in their pursuit of ending a 60-year championship drought. Kane, England's captain, acknowledged frustration but signaled confidence in Tuchel's leadership and the team's trajectory. England's 1966 World Cup win remains the nation's sole global championship, a fact that has weighed on successive management regimes and squad cycles. Tuchel's appointment brought fresh momentum after a period of instability in the coach's office, and early results suggested chemistry between manager and players. Kane's public support matters politically within the locker room, where captains often serve as intermediaries between coaching staff and rank-and-file players. His willingness to defend Tuchel publicly and speak of untapped potential indicates internal confidence despite whatever frustrations may linger from recent matches.",
+      "tweets": []
+    },
+    {
+      "category": "media",
       "importance": 4,
-      "leadHeadline": "Dems Need to Pressure NCAA in States Eliminating BlackDistricts",
-      "leadSource": "Sportico · 4h ago",
-      "leadUrl": "https://www.sportico.com/business/sports/2026/democrats-ncaa-pressure-states-eliminating-black-districts-1234938461/",
-      "summary": "The Senate is prioritizing passage of the Protect College Sports Act (PCSA) before the August recess, a White House priority that would reshape college athlete compensation rules and interact with state-level NIL legislation.",
-      "article": "The U.S. Senate is advancing the Protect College Sports Act (PCSA) as a White House priority, targeting passage before the August congressional recess and the start of college football season. The legislation follows alternate proposals from the House, including the Student Compensation and Opportunity through Rights and Endorsements (SCORE) Act, reflecting divided approaches to regulating athlete compensation across college sports.\n\nThe PCSA represents federal intervention into NIL (Name, Image, Likeness) rules that have evolved unevenly across states since the NCAA's 2021 policy reversal. Some states have imposed strict guardrails on athlete compensation; others have actively encouraged it. The resulting patchwork creates competitive imbalances and legal uncertainty for athletic departments.\n\nThe timing matters: college football camps open in late July and early August, creating a congressional deadline that forces lawmakers to complete committee work and floor votes within the next six weeks. The political stakes are high, with athletes' rights advocates, university administrators, and state lawmakers all lobbying separate positions.\n\nA federal framework would preempt conflicting state laws and standardize compensation rules nationwide. However, drafting language that satisfies athletes, schools, and state governments has proven contentious, with previous iterations failing to advance.",
+      "leadHeadline": "Audiences still warm to Fever, with and without Clark",
+      "leadSource": "Sports Media Watch · 18h ago",
+      "leadUrl": "https://www.sportsmediawatch.com/2026/07/indiana-fever-viewership-highs-with-without-caitlin-clark/",
+      "summary": "The Indiana Fever recorded strong viewership numbers last week with and without Caitlin Clark in the lineup, showing sustained WNBA audience demand. Clark's absence did not significantly depress ratings.",
+      "article": "The Indiana Fever delivered viewership highs throughout the past week despite Caitlin Clark's absence from the lineup at times. The data underscores the degree to which the rookie's on-court presence has lifted WNBA ratings broadly while also suggesting the team has developed supporting talent capable of holding audience attention when Clark rests. Clark, the first overall pick in the 2024 WNBA draft, transformed Indiana into a ticket and viewership draw immediately upon arrival, a rarity for a rookie. The Fever's ability to maintain audience engagement in Clark's absence signals deeper roster improvements and growing fan investment in the team's competitive outlook. WNBA ratings have benefited from sustained media coverage and social media engagement, particularly among younger demographics traditionally underrepresented in basketball viewership.",
+      "tweets": []
+    },
+    {
+      "category": "media",
+      "importance": 3,
+      "leadHeadline": "2026 MLB Futures Game: Five players who stood out in the prospect showcase",
+      "leadSource": "CBS Sports · 1h ago",
+      "leadUrl": "https://www.cbssports.com/mlb/news/2026-mlb-futures-game-prospects-jesus-made-kade-anderson-leo-de-vries-seth-hernandez-nathan-flewelling/",
+      "summary": "The American League defeated the National League in Sunday's Futures Game, an annual prospect showcase that flags developing talent for the 2026 season. Five players earned standout recognition.",
+      "article": "The American League won the 2026 MLB Futures Game on Sunday, a mid-summer prospect exhibition that showcases developing talent across both leagues. CBS Sports identified five standout performances from the event, flagging players who project as key contributors in the coming season. The Futures Game has long served as an early indicator of prospect trajectory, offering scouts, front offices, and media an unfiltered look at young talent under game conditions. Recent iterations have seen prospects use the platform to accelerate their major-league timelines and earn faster call-ups. The AL's victory adds another layer to the ongoing talent competition between the league's farm systems.",
       "tweets": []
     }
   ],
@@ -2399,70 +2389,82 @@
     ],
     "source": "espn"
   },
-  "deals": [],
+  "deals": [
+    {
+      "type": "acquisition",
+      "parties": "Vinod Khosla ⇄ Seattle Seahawks",
+      "value_usd": 9600000000,
+      "term_years": null,
+      "league": "NFL",
+      "headline": "Vinod Khosla to acquire Seattle Seahawks for $9.6B",
+      "storyIndex": 16,
+      "blurb": "Tech billionaire Khosla and family agreed to buy Seahawks for $9.6B, one of largest sports team valuations ever.",
+      "capturedAt": "2026-07-12T20:03:14.974Z"
+    }
+  ],
   "ratings": [],
   "ticket_prices": [],
   "sidebar": [
     {
-      "headline": "Ohtani, Judge Both Out of MLB All-Star Game in Possible Ratings Blow for Fox",
-      "source": "Front Office Sports · 21h ago",
-      "article": "Shohei Ohtani and Aaron Judge, two of baseball's biggest draws, will both miss the 2026 MLB All-Star Game, a significant absence for the midseason showcase heading into the Fox broadcast window. The two superstars account for outsized viewership in their respective markets and nationally, meaning their simultaneous unavailability removes marquee talent from an exhibition that relies on star power to attract casual viewers. Judge, the Yankees captain and reigning AL MVP, and Ohtani, the Dodgers' two-way sensation, had been expected to anchor their league's rosters. Fox has already contended with declining All-Star ratings in recent years, and this dual absence represents a fresh headwind for the network's prime-time slot."
+      "headline": "Blue Jays Dylan Cease to start All-Star Game for AL",
+      "source": "Sportsnet · 2h ago",
+      "article": "Dylan Cease of the Toronto Blue Jays earned the starting pitcher assignment for the American League in the upcoming All-Star Game. The honor reflects Cease's strong performance during the 2026 season and positions the right-hander as one of baseball's elite starters heading into the midsummer classic. All-Star selections carry significant contract and free-agency implications, as selection sends a market signal about a player's value and standing among peers. Cease's assignment as a starter adds prestige to his résumé and may influence upcoming negotiations with the Blue Jays or other clubs."
     },
     {
-      "headline": "England 'got lucky' with disallowed goal",
-      "source": "BBC Sport · 14h ago",
-      "article": "England's World Cup campaign received a fortunate intervention when a Norwegian goal was ruled out in the quarter-final, with BBC pundits Wayne Rooney and Ellen White arguing the Three Lions benefited from a marginal officiating decision. Erling Haaland's contact with Elliott Anderson prompted referee Torbjorn Heggem's foul call that negated the Norwegian score, a judgment call that swung momentum back toward England when the match remained close. Rooney characterized the disallowance as fortunate rather than definitive, acknowledging that Norway had mounted genuine attacking pressure and that the contact, while minor, gave officials cover for the whistle."
-    },
-    {
-      "headline": "Rudi Garcia faces Belgian backlash for taking Courtois off in World Cup loss to Spain",
-      "source": "The Guardian · 21h ago",
-      "article": "Belgium's manager Rudi Garcia drew criticism for substituting injured first-choice goalkeeper Thibaut Courtois during the World Cup quarter-final defeat to Spain, with his replacement, Lammens, committing a crucial error that affected the outcome. Garcia justified the decision by insisting 'only players who are 100% fit can play,' a position that nonetheless left him exposed when Lammens's mistake proved costly. Courtois had been managing an injury concern but was initially deemed capable of competing, forcing Garcia into a mid-match evaluation that ultimately backfired both tactically and in the court of Belgian public opinion."
-    },
-    {
-      "headline": "McGregors early injury ends great UFC 329 card on sour note",
-      "source": "Sportsnet · 10h ago",
-      "article": "UFC 329 featured an exceptional card leading into the main event between Conor McGregor and Max Holloway, but the evening soured when McGregor's early-round knee injury forced a stoppage just 69 seconds into the fight. The preliminary and mid-card bouts had delivered the quality expected from a top-tier promotion, setting up what promised to be a competitive heavyweight showcase. Instead, the night concluded on an injury-marred note that overshadowed the work of fighters who had delivered in undercard slots, a common pattern when a main event collapses and dominates post-event narrative coverage."
-    },
-    {
-      "headline": "Canada's Henderson falls in playoff to Korea's Ryu at Evian Championship",
-      "source": "Sportsnet · 1h ago",
-      "article": "Brooke Henderson of Canada fell to Ryu So-yeon of South Korea in a playoff at the Evian Championship, a major championship contested on European soil that attracts the world's top female golfers. The playoff format determined the winner after regulation play produced a tie, with Ryu prevailing in the sudden-death elimination. Henderson has been among the tour's most consistent winners but fell short in this major championship's final pressure moment against a Korean opponent who has previously won major titles."
-    },
-    {
-      "headline": "2026 Scottish Open TV schedule: Links golf tune-up in Scotland",
+      "headline": "2026 MLB Draft tracker, results: Full list of 613 draft picks",
       "source": "CBS Sports · just now",
-      "article": "The world's best golfers are competing at the 2026 Scottish Open this week, using the links-style course in Scotland as preparation for major championship golf on similar terrain. The event serves as a traditional tune-up ahead of summer's final major competitions and draws the PGA Tour's elite field seeking rhythm and confidence on grass greens and firm fairways. Television coverage runs throughout the week, with Sunday's final round set to feature the tournament's conclusion as the field plays out the traditional format."
+      "article": "The 2026 MLB Draft wrapped up on Sunday with Rounds 5-20, completing the annual selection of 613 draft picks. CBS Sports tracked every pick and provided analysis of each team's first-round selections, offering context on prospects and organizational priorities. The draft remains baseball's principal talent acquisition mechanism and sets the tone for multi-year competitive windows. Teams' early picks signal their assessment of organizational needs and long-term building strategy. Front-office personnel spend months evaluating amateur talent, international signees, and collegiate prospects before making their selections."
+    },
+    {
+      "headline": "Dems Need to Pressure NCAA in States Eliminating BlackDistricts",
+      "source": "Sportico · 8h ago",
+      "article": "A political pressure campaign is mounting to address NCAA governance as the Senate prioritizes the Protect College Sports Act (PCSA) for passage before August recess and college football season kicks off. The legislation comes after the House considered the Student Compensation and Opportunity through Rights and Endorsements (SCORE) bill, reflecting bipartisan concern over college sports equity, player compensation, and governance. The PCSA is a White House priority and signals the Trump administration's willingness to intervene in sports policy. State-level action and federal legislation have begun to converge, creating pressure on the NCAA to pre-empt or adapt to regulatory changes. College football's economic footprint and its role in campus life make it a perennial focus for federal scrutiny."
+    },
+    {
+      "headline": "Kalshi promo code NYPMAX: Trade $10, get $15 for NBA Summer League games",
+      "source": "NY Post Sports · 1h ago",
+      "article": "The New York Post is promoting Kalshi's prediction market platform with a promo code offering $10 in trading credit for $15 in value, available for NBA Summer League games. The promotion reflects the ongoing expansion of sports betting and prediction markets into broader sports media and fan engagement. Summer League games, traditionally a lower-profile offseason event, have found new audiences through prediction markets and novel wagering formats. The integration of betting promos into sports editorial content continues to blur lines between journalism and commercial partnership."
+    },
+    {
+      "headline": "Fanatics Sportsbook promo code NYPOST26: Get up to $1k matched for World Cup semifinals",
+      "source": "NY Post Sports · 1h ago",
+      "article": "Fanatics Sportsbook is offering up to $1,000 in matched FanCash for World Cup semifinal bets via the promo code NYPOST26. The promotion highlights the commercial intensity around the World Cup, with sportsbooks and media outlets cross-promoting betting products during the tournament. World Cup matches, particularly knockout rounds, drive substantial betting volume and media engagement. The partnership between Fanatics and the New York Post exemplifies how sports betting has become woven into mainstream sports media distribution."
+    },
+    {
+      "headline": "Blue Jays on Sportsnet: Toronto vs. San Diego",
+      "source": "Sportsnet · just now",
+      "article": "Sportsnet is broadcasting a Toronto Blue Jays matchup against the San Diego Padres as part of its 2026 regular-season slate. The game continues the Blue Jays' push up the AL East standings and offers a test against a Padres roster in transition. Regular-season broadcasts remain the backbone of sports media revenue and audience engagement, particularly for Canadian content via Sportsnet's exclusive CTV partnership."
     }
   ],
   "poll": {
-    "question": "Which storyline will have the biggest impact on 2026 sports business?",
+    "question": "Which storyline will have the biggest impact on sports business through year-end 2026?",
     "options": [
-      "Khosla's $9.6B Seahawks deal and franchise valuation inflation",
-      "Federal college athlete compensation legislation (PCSA/SCORE)",
-      "McGregor's ACL injury and UFC's main-event planning",
-      "Wimbledon and major tennis broadcast relevance"
+      "Khosla's Seahawks acquisition and NFL franchise valuations",
+      "Netflix's expanded baseball presence and streaming sports wars",
+      "College sports legislation (PCSA/SCORE) and NCAA governance",
+      "World Cup broadcast and betting engagement metrics"
     ]
   },
   "predictions": [
     {
-      "statement": "The Protect College Sports Act (PCSA) will pass the Senate before the August recess but face significant House amendment negotiations.",
+      "statement": "The Khosla-Seahawks deal closes before the 2027 season with no significant concessions required from the buyer.",
+      "probability": 78,
+      "rationale": "NFL ownership transfers are routinely approved once agreed in principle. Khosla's capital and clean background present no regulatory red flags. The only delay risk is administrative or legal challenge, which is historically low-probability."
+    },
+    {
+      "statement": "Netflix's MLB Home Run Derby broadcast reaches 5M+ average viewers for the main event.",
+      "probability": 62,
+      "rationale": "Netflix has successfully converted sports events to streaming audiences (NFL, WWE), but baseball's uneven core appeal remains a constraint. The derby is catnip for baseball fans and younger audiences, but sustaining 5M requires broad casual interest."
+    },
+    {
+      "statement": "The Protect College Sports Act passes the Senate before August recess.",
+      "probability": 41,
+      "rationale": "White House priority and Republican control improve odds, but college sports legislation has repeatedly stalled on details (player compensation, Title IX, revenue sharing). August recess is tight window and NCAA lobbying will intensify."
+    },
+    {
+      "statement": "The Indiana Fever's 2026 attendance averages exceed 18,000 per home game.",
       "probability": 68,
-      "rationale": "White House backing and bipartisan college sports concern create pressure, but House Democrats prefer the SCORE Act framework, meaning passage requires compromise language. Congressional deadlines around football season favor action, but not necessarily clean bills."
-    },
-    {
-      "statement": "Sinner defeats Zverev in the Wimbledon final in straight sets, claiming his second Grand Slam title of 2026.",
-      "probability": 72,
-      "rationale": "Sinner holds a 2-0 head-to-head record, is seeded higher, won the Australian Open earlier this year, and has more experience closing out major finals. Grass favors his aggressive baseline game. Zverev hasn't won a major despite multiple attempts."
-    },
-    {
-      "statement": "McGregor will miss the remainder of 2026 and all of 2027 due to ACL reconstruction and rehabilitation.",
-      "probability": 61,
-      "rationale": "ACL injuries in combat sports typically require 9-12 months of recovery minimum, plus additional months for fighting-specific conditioning. McGregor is 35 and hasn't fought in five years, adding recovery complexity. He may not return until late 2027."
-    },
-    {
-      "statement": "A second major sports team will sell for over $8 billion within the next 18 months following Khosla's Seahawks deal.",
-      "probability": 54,
-      "rationale": "The Seahawks valuation sets a new market signal, but NFL teams are the only franchise assets commanding $8B+ prices regularly. Other NBA/MLB sales are plausible, but seller motivation and financing availability remain uncertain. Momentum exists but isn't guaranteed."
+      "rationale": "Caitlin Clark has proven a durable draw and the team's improved roster has sustained interest. Fever's home market is strong and secondary market still absorbs capacity without heavy discounting."
     }
   ],
   "injuries": [
@@ -2472,10 +2474,10 @@
       "league": "MMA",
       "position": "",
       "status": "OUT",
-      "injury": "Knee injury (presumed blown ACL)",
-      "timeline": "6-9 months minimum",
-      "source": "UFC Chief Dana White / The Guardian",
-      "impact": "McGregor sidelined from competition indefinitely; major UFC main-event draws removed from planning; significant revenue impact for UFC events.",
+      "injury": "Blown ACL (assumed)",
+      "timeline": "Out indefinitely",
+      "source": "The Guardian, UFC chief Dana White",
+      "impact": "McGregor's return to competition is indefinitely postponed after just 69 seconds; he returns to injury rehabilitation.",
       "storyIndex": 11
     },
     {
@@ -2483,69 +2485,15 @@
       "team": "Belgium",
       "league": "SOCCER",
       "position": "GK",
-      "status": "DOUBTFUL",
-      "injury": "Unspecified injury concern",
-      "timeline": "World Cup quarter-final status unclear",
-      "source": "The Guardian / Rudi Garcia",
-      "impact": "Belgium forced to use backup goalkeeper Lammens in critical World Cup match; replacement made crucial error in quarter-final loss to Spain.",
+      "status": "OUT",
+      "injury": "Injury (unspecified)",
+      "timeline": "Out for World Cup match",
+      "source": "The Guardian, Rudi Garcia",
+      "impact": "Belgium's first-choice goalkeeper was replaced in World Cup quarter-final; replacement keeper Lammens made a crucial error in defeat to Spain.",
       "storyIndex": null
     }
   ],
   "picks": [
-    {
-      "type": "moneyline",
-      "pick": "Pittsburgh Pirates ML",
-      "odds": "-118",
-      "edge": "Market fill from live lines: Pittsburgh Pirates is the books' favorite at -118 (best price @ LowVig.ag) against Milwaukee Brewers at +110, with home ice/court/field behind them. No researched edge here — this is a low-confidence market-consensus play added to round out the slate. Low confidence is honest confidence.",
-      "matchup": "Milwaukee Brewers @ Pittsburgh Pirates",
-      "league": "MLB",
-      "when": "Today 12:16 PM ET",
-      "confidence": "low",
-      "_autofill": true,
-      "_scheduledTs": 1783872960000,
-      "marketSnapshot": {
-        "capturedAt": "2026-07-12T11:51:55.500Z",
-        "markets": {
-          "h2h": {
-            "away": {
-              "price": 110,
-              "book": "Caesars"
-            },
-            "home": {
-              "price": -118,
-              "book": "LowVig.ag"
-            },
-            "draw": null
-          },
-          "spreads": {
-            "away": {
-              "point": 1.5,
-              "price": -190,
-              "book": "LowVig.ag"
-            },
-            "home": {
-              "point": -1.5,
-              "price": 175,
-              "book": "MyBookie.ag"
-            }
-          },
-          "totals": {
-            "over": {
-              "point": 7.5,
-              "price": -114,
-              "book": "LowVig.ag"
-            },
-            "under": {
-              "point": 7.5,
-              "price": 100,
-              "book": "FanDuel"
-            }
-          }
-        },
-        "awayTeam": "Milwaukee Brewers",
-        "homeTeam": "Pittsburgh Pirates"
-      }
-    },
     {
       "type": "moneyline",
       "pick": "Baltimore Orioles ML",
@@ -2598,7 +2546,8 @@
         },
         "awayTeam": "Kansas City Royals",
         "homeTeam": "Baltimore Orioles"
-      }
+      },
+      "_pendingGrade": true
     },
     {
       "type": "moneyline",
@@ -5612,16 +5561,124 @@
         "homeTeam": "Texas Rangers"
       },
       "_pendingGrade": true
+    },
+    {
+      "type": "total",
+      "pick": "Under 8.5",
+      "odds": "-103",
+      "edge": "Market fill from live lines: total posted at 8.5, taking the under at the better price (-103 @ DraftKings). No researched edge — low-confidence market-consensus play.",
+      "matchup": "New York Yankees @ Washington Nationals",
+      "league": "MLB",
+      "when": "Today 1:36 PM ET",
+      "confidence": "low",
+      "_autofill": true,
+      "_scheduledTs": 1783877760000,
+      "marketSnapshot": {
+        "capturedAt": "2026-07-12T20:03:45.855Z",
+        "markets": {
+          "h2h": {
+            "away": {
+              "price": 295,
+              "book": "MyBookie.ag"
+            },
+            "home": {
+              "price": 260,
+              "book": "Caesars"
+            },
+            "draw": null
+          },
+          "spreads": {
+            "away": {
+              "point": 1.5,
+              "price": -500,
+              "book": "MyBookie.ag"
+            },
+            "home": {
+              "point": 1.5,
+              "price": -285,
+              "book": "Bovada"
+            }
+          },
+          "totals": {
+            "over": {
+              "point": 6,
+              "price": -125,
+              "book": "MyBookie.ag"
+            },
+            "under": {
+              "point": 8.5,
+              "price": -103,
+              "book": "DraftKings"
+            }
+          }
+        },
+        "awayTeam": "New York Yankees",
+        "homeTeam": "Washington Nationals"
+      }
+    },
+    {
+      "type": "moneyline",
+      "pick": "Boston Red Sox ML",
+      "odds": "-115",
+      "edge": "Market fill from live lines: Boston Red Sox is the books' favorite at -115 (best price @ Bovada) against New York Mets at +125, favored even on the road. No researched edge here — this is a low-confidence market-consensus play added to round out the slate. Low confidence is honest confidence.",
+      "matchup": "Boston Red Sox @ New York Mets",
+      "league": "MLB",
+      "when": "Today 1:41 PM ET",
+      "confidence": "low",
+      "_autofill": true,
+      "_scheduledTs": 1783878060000,
+      "marketSnapshot": {
+        "capturedAt": "2026-07-12T20:03:45.855Z",
+        "markets": {
+          "h2h": {
+            "away": {
+              "price": -115,
+              "book": "Bovada"
+            },
+            "home": {
+              "price": 125,
+              "book": "BetMGM"
+            },
+            "draw": null
+          },
+          "spreads": {
+            "away": {
+              "point": -1.5,
+              "price": 280,
+              "book": "BetMGM"
+            },
+            "home": {
+              "point": 1.5,
+              "price": -300,
+              "book": "Bovada"
+            }
+          },
+          "totals": {
+            "over": {
+              "point": 5.5,
+              "price": -130,
+              "book": "BetMGM"
+            },
+            "under": {
+              "point": 6.5,
+              "price": 125,
+              "book": "Bovada"
+            }
+          }
+        },
+        "awayTeam": "Boston Red Sox",
+        "homeTeam": "New York Mets"
+      }
     }
   ],
-  "updatedAt": "2026-04-23T17:00:00Z",
+  "updatedAt": "2026-04-23T00:00:00Z",
   "highlights": [
     {
       "league": "NBA",
-      "title": "Players are here signing autographs at Lake Tahoe ⛳️",
-      "videoId": "40WMHKNSLSA",
-      "thumbnail": "https://img.youtube.com/vi/40WMHKNSLSA/mqdefault.jpg",
-      "timeAgo": "1h ago",
+      "title": "Recently retired NBA champion Damion Lee came through NBA Summer League 📸",
+      "videoId": "7V8QjBzZbc8",
+      "thumbnail": "https://img.youtube.com/vi/7V8QjBzZbc8/mqdefault.jpg",
+      "timeAgo": "2h ago",
       "isFallback": false
     },
     {
@@ -5629,15 +5686,15 @@
       "title": "Kurt Warner left a legacy 🔥",
       "videoId": "mkmU16r_G94",
       "thumbnail": "https://img.youtube.com/vi/mkmU16r_G94/mqdefault.jpg",
-      "timeAgo": "Just now",
+      "timeAgo": "5h ago",
       "isFallback": false
     },
     {
       "league": "MLB",
-      "title": "Shohei Ohtani reaches ANOTHER milestone heading into the All-Star Break! | This Week in Baseball",
-      "videoId": "yOrl4lyNhYs",
-      "thumbnail": "https://img.youtube.com/vi/yOrl4lyNhYs/mqdefault.jpg",
-      "timeAgo": "1h ago",
+      "title": "2026 Futures Game Full Game Highlights | MLB Highlights",
+      "videoId": "4zXUcPRtjVQ",
+      "thumbnail": "https://img.youtube.com/vi/4zXUcPRtjVQ/mqdefault.jpg",
+      "timeAgo": "Just now",
       "isFallback": false
     },
     {
@@ -5650,22 +5707,110 @@
     },
     {
       "league": "WNBA",
-      "title": "Portland Fire vs. Atlanta Dream | FULL GAME HIGHLIGHTS | July 11, 2026",
-      "videoId": "BljnCJv7TAg",
-      "thumbnail": "https://img.youtube.com/vi/BljnCJv7TAg/mqdefault.jpg",
-      "timeAgo": "14h ago",
+      "title": "Marina Mabrey vs. Paige Bueckers: Point for Point Presented by @mmschocolate ⭐",
+      "videoId": "dwep46lyWG8",
+      "thumbnail": "https://img.youtube.com/vi/dwep46lyWG8/mqdefault.jpg",
+      "timeAgo": "1h ago",
       "isFallback": false
     },
     {
       "league": "SOCCER",
-      "title": "Curse? (via @IShowSpeed/TT)",
-      "videoId": "G-DagW6B-Y8",
-      "thumbnail": "https://img.youtube.com/vi/G-DagW6B-Y8/mqdefault.jpg",
-      "timeAgo": "1h ago",
+      "title": "Why did Erling Haaland come off against England? 🤔",
+      "videoId": "y2A_m33Vu7k",
+      "thumbnail": "https://img.youtube.com/vi/y2A_m33Vu7k/mqdefault.jpg",
+      "timeAgo": "3h ago",
       "isFallback": false
     }
   ],
   "reels": [
+    {
+      "league": "MLB",
+      "title": "2026 Futures Game Full Game Highlights | MLB Highlights",
+      "videoId": "4zXUcPRtjVQ",
+      "author": "MLB",
+      "pubDate": "2026-07-12T19:53:48+00:00",
+      "link": "https://www.youtube.com/watch?v=4zXUcPRtjVQ"
+    },
+    {
+      "league": "MLB",
+      "title": "BREWERS vs. PIRATES: Official Full Game Highlights (July 12) | 2026 MLB Season",
+      "videoId": "CXNZamytxIM",
+      "author": "MLB",
+      "pubDate": "2026-07-12T19:50:07+00:00",
+      "link": "https://www.youtube.com/watch?v=CXNZamytxIM"
+    },
+    {
+      "league": "MLB",
+      "title": "Ryan Jeffers with one of the stranger foul tip outs 🤣",
+      "videoId": "K2VxaU_qTF4",
+      "author": "MLB",
+      "pubDate": "2026-07-12T19:30:03+00:00",
+      "link": "https://www.youtube.com/watch?v=K2VxaU_qTF4"
+    },
+    {
+      "league": "WNBA",
+      "title": "Marina Mabrey vs. Paige Bueckers: Point for Point Presented by @mmschocolate ⭐",
+      "videoId": "dwep46lyWG8",
+      "author": "WNBA",
+      "pubDate": "2026-07-12T19:01:30+00:00",
+      "link": "https://www.youtube.com/watch?v=dwep46lyWG8"
+    },
+    {
+      "league": "MLB",
+      "title": "Roch Cholowsky tossed the first pitch at today's White Sox game 👏",
+      "videoId": "VM8iqtiDdEM",
+      "author": "MLB",
+      "pubDate": "2026-07-12T19:00:30+00:00",
+      "link": "https://www.youtube.com/watch?v=VM8iqtiDdEM"
+    },
+    {
+      "league": "MLB",
+      "title": "10-RUN INNING! Pirates GO OFF in 4th inning (7 runs before an out!) 🏴‍☠️ | MLB Highlights",
+      "videoId": "eOkIzCTg3kc",
+      "author": "MLB",
+      "pubDate": "2026-07-12T18:44:04+00:00",
+      "link": "https://www.youtube.com/watch?v=eOkIzCTg3kc"
+    },
+    {
+      "league": "MLB",
+      "title": "No. 3 is immortalized in Rays history 💙",
+      "videoId": "hCqJMxrdZQE",
+      "author": "MLB",
+      "pubDate": "2026-07-12T18:25:58+00:00",
+      "link": "https://www.youtube.com/watch?v=hCqJMxrdZQE"
+    },
+    {
+      "league": "NBA",
+      "title": "Recently retired NBA champion Damion Lee came through NBA Summer League 📸",
+      "videoId": "7V8QjBzZbc8",
+      "author": "NBA",
+      "pubDate": "2026-07-12T17:36:50+00:00",
+      "link": "https://www.youtube.com/watch?v=7V8QjBzZbc8"
+    },
+    {
+      "league": "SOCCER",
+      "title": "Why did Erling Haaland come off against England? 🤔",
+      "videoId": "y2A_m33Vu7k",
+      "author": "ESPN FC",
+      "pubDate": "2026-07-12T16:34:24+00:00",
+      "link": "https://www.youtube.com/watch?v=y2A_m33Vu7k"
+    },
+    {
+      "league": "MLB",
+      "title": "Warming up with for the Nike Futures game with 2025 No. 1 pick Eli Willits 🤯",
+      "videoId": "e_gHp-lxUqw",
+      "author": "MLB",
+      "pubDate": "2026-07-12T16:02:10+00:00",
+      "link": "https://www.youtube.com/watch?v=e_gHp-lxUqw"
+    },
+    {
+      "league": "MLB",
+      "title": "Joe Buck's BEST MLB All-Star Game calls (2026 Ford C. Frick Award winner) 🎙️| MLB Highlights",
+      "videoId": "AhDkvwSGTSo",
+      "author": "MLB",
+      "pubDate": "2026-07-12T16:00:05+00:00",
+      "link": "https://www.youtube.com/watch?v=AhDkvwSGTSo"
+    },
     {
       "league": "NFL",
       "title": "Kurt Warner left a legacy 🔥",
@@ -5699,14 +5844,6 @@
       "link": "https://www.youtube.com/watch?v=AyhI1qWJ8WI"
     },
     {
-      "league": "MLB",
-      "title": "Shohei Ohtani reaches ANOTHER milestone heading into the All-Star Break! | This Week in Baseball",
-      "videoId": "yOrl4lyNhYs",
-      "author": "MLB",
-      "pubDate": "2026-07-12T15:00:01+00:00",
-      "link": "https://www.youtube.com/watch?v=yOrl4lyNhYs"
-    },
-    {
       "league": "SOCCER",
       "title": "World Cup Semifinals PREVIEWS 🌎 Juls Laurens says Lamine Yamal FEARS NO ONE! | SportsCenter",
       "videoId": "_tZ3x2eQjMA",
@@ -5731,36 +5868,12 @@
       "link": "https://www.youtube.com/watch?v=zj6iFRC6SkY"
     },
     {
-      "league": "MLB",
-      "title": "Top 5 MLB Plays RANKED from 7/11/26! (Where does this catch rank?)",
-      "videoId": "ytCosevfrfQ",
-      "author": "MLB",
-      "pubDate": "2026-07-12T11:00:53+00:00",
-      "link": "https://www.youtube.com/watch?v=ytCosevfrfQ"
-    },
-    {
       "league": "SOCCER",
       "title": "Stopping penalties from these legends 👀🧤",
       "videoId": "ZjkLn6P3Px0",
       "author": "ESPN FC",
       "pubDate": "2026-07-12T10:30:05+00:00",
       "link": "https://www.youtube.com/watch?v=ZjkLn6P3Px0"
-    },
-    {
-      "league": "MLB",
-      "title": "ANGELS vs. TWINS: Official Full Game Highlights (July 11) | 2026 MLB Season",
-      "videoId": "h5abR6wYzzM",
-      "author": "MLB",
-      "pubDate": "2026-07-12T10:27:45+00:00",
-      "link": "https://www.youtube.com/watch?v=h5abR6wYzzM"
-    },
-    {
-      "league": "MLB",
-      "title": "Highlights from ALL GAMES on 7/11 (CLUTCH Yankees comeback, Pirates sweep doubleheader and MORE!)",
-      "videoId": "N5Ei-6wylUo",
-      "author": "MLB",
-      "pubDate": "2026-07-12T10:00:19+00:00",
-      "link": "https://www.youtube.com/watch?v=N5Ei-6wylUo"
     },
     {
       "league": "SOCCER",
@@ -5779,14 +5892,6 @@
       "link": "https://www.youtube.com/watch?v=CVAnjbvD_So"
     },
     {
-      "league": "MLB",
-      "title": "BLUE JAYS vs. PADRES: Official Full Game Highlights (July 11) | 2026 MLB Season",
-      "videoId": "0am7fj4wGC8",
-      "author": "MLB",
-      "pubDate": "2026-07-12T05:02:35+00:00",
-      "link": "https://www.youtube.com/watch?v=0am7fj4wGC8"
-    },
-    {
       "league": "NBA",
       "title": "Labaron Philon Jr. SHINES, Arthur Kaluma Drops 34 PTS &amp; More | NBA's Nightly Recap | July 11, 2026",
       "videoId": "05Uzr43JZVs",
@@ -5801,22 +5906,6 @@
       "author": "ESPN FC",
       "pubDate": "2026-07-12T04:50:49+00:00",
       "link": "https://www.youtube.com/watch?v=meLiooKTJBc"
-    },
-    {
-      "league": "MLB",
-      "title": "D-BACKS vs. DODGERS: Official Full Game Highlights (July 11) | 2026 MLB Season",
-      "videoId": "swYP2K6749o",
-      "author": "MLB",
-      "pubDate": "2026-07-12T04:43:11+00:00",
-      "link": "https://www.youtube.com/watch?v=swYP2K6749o"
-    },
-    {
-      "league": "SOCCER",
-      "title": "‘A BAD LOOK’ 😳 REACTION to Bellingham DISAGREEING with Tuchel’s criticism of England 🍿 | ESPN FC",
-      "videoId": "EOEH3TT5rg4",
-      "author": "ESPN FC",
-      "pubDate": "2026-07-12T04:40:45+00:00",
-      "link": "https://www.youtube.com/watch?v=EOEH3TT5rg4"
     },
     {
       "league": "NBA",
@@ -5849,30 +5938,6 @@
       "author": "NBA",
       "pubDate": "2026-07-12T04:21:30+00:00",
       "link": "https://www.youtube.com/watch?v=PdV3klLcgyM"
-    },
-    {
-      "league": "NBA",
-      "title": "Kaluma knocks down the logo three for 34 PTS",
-      "videoId": "M343XiSxNgc",
-      "author": "NBA",
-      "pubDate": "2026-07-12T04:11:06+00:00",
-      "link": "https://www.youtube.com/watch?v=M343XiSxNgc"
-    },
-    {
-      "league": "MLB",
-      "title": "vladimir guerrero jr. makes it look effortless 😮‍💨",
-      "videoId": "vL1UAZcnZgc",
-      "author": "MLB",
-      "pubDate": "2026-07-12T03:33:06+00:00",
-      "link": "https://www.youtube.com/watch?v=vL1UAZcnZgc"
-    },
-    {
-      "league": "MLB",
-      "title": "CUBS vs. REDS: Official Full Game Highlights (July 11) | 2026 MLB Season",
-      "videoId": "sdn8wKYN618",
-      "author": "MLB",
-      "pubDate": "2026-07-12T03:29:45+00:00",
-      "link": "https://www.youtube.com/watch?v=sdn8wKYN618"
     },
     {
       "league": "WNBA",
@@ -5977,14 +6042,6 @@
       "author": "NHL",
       "pubDate": "2026-07-10T15:00:36+00:00",
       "link": "https://www.youtube.com/watch?v=-eOG860Qr-A"
-    },
-    {
-      "league": "NFL",
-      "title": "NFL BURNING QUESTIONS 🔥 Chiefs' ceiling, Steelers' success &amp; Caleb Williams' expectations 🏈 | Get Up",
-      "videoId": "WC4lafsPb20",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-07-10T14:09:08+00:00",
-      "link": "https://www.youtube.com/watch?v=WC4lafsPb20"
     }
   ]
 }
