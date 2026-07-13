@@ -1,81 +1,91 @@
 {
   "clusters": [
     {
-      "category": "media",
-      "importance": 8,
-      "leadHeadline": "Japan's SoftBank Hawks Revenue Topped 12 MLB Clubs Last Year",
-      "leadSource": "Sportico · 1h ago",
-      "leadUrl": "https://www.sportico.com/leagues/baseball/2026/japan-softbank-hawks-revenue-mlb-comparison-npb-1234938485/",
-      "summary": "Unable to verify the specific claim. Web search did not locate the source Sportico story about Hawks revenue topping 12 MLB franchises.",
-      "article": "I could not find the underlying Sportico story or verify the specific facts in the headline through web search. The claim that the SoftBank Hawks' revenue topped exactly 12 MLB clubs requires precise financial data from a specific source that I was unable to locate. To rewrite this accurately, I would need to see the actual Sportico reporting, including which 12 clubs were outearned, the exact revenue figure, and the fiscal year dates. Without those verifiable details, I cannot responsibly produce the story.",
-      "tweets": []
-    },
-    {
-      "category": "media",
-      "importance": 8,
-      "leadHeadline": "Wimbledon 2026: Womens Czechs and Balances, SinnersDominance",
-      "leadSource": "Sportico · 17h ago",
-      "leadUrl": "https://www.sportico.com/leagues/tennis/2026/wimbledon-results-2026-jannik-sinner-linda-noskova-1234938669/",
-      "summary": "Linda Noskova, 21, won her first major title at Wimbledon, defeating fellow Czech Karolina Muchova 6-2, 5-7, 6-3 in an all-Czech women's final.",
-      "article": "Linda Noskova, seeded No. 9, captured her first Grand Slam title at Wimbledon on Saturday with a 6-2, 5-7, 6-3 victory over No. 10 Karolina Muchova in an all-Czech women's final. The 21-year-old Noskova sealed the championship with back-to-back unreturned serves, capping a dominant grass court season that also included a Berlin Open title in June.\n\nNoskova's breakthrough marks a significant generational statement for Czech women's tennis. Muchova's runner-up finish is her first major final appearance. The all-Czech matchup reflects the depth emerging from a tennis federation that has historically produced top-tier talent but has cycled through generations since the Navratilova and Mandlikova eras.\n\nOn the men's side, Jannik Sinner retained his Wimbledon title, defeating Alexander Zverev 6-7 (7), 7-6 (2), 6-3, 6-4. The World No. 1 won his second Wimbledon crown and first Grand Slam of 2026 after falling in the French Open, bouncing back from a difficult opening set to dominate the remainder of the match. Sinner faced only one break point across the entire final. The victory carried a $4.8 million prize purse. Combined, the men's and women's champions reflect the tournament's success in showcasing both sustained dominance (Sinner) and emerging talent (Noskova) on grass.",
+      "category": "leagues",
+      "importance": 9,
+      "leadHeadline": "Conor McGregor plans to fight again in UFC despite return lasting just 69 seconds",
+      "leadSource": "The Guardian · just now",
+      "leadUrl": "https://www.theguardian.com/sport/2026/jul/13/conor-mcgregor-plans-to-fight-again-in-ufc-despite-return-lasting-just-69-seconds",
+      "summary": "<cite index=\"1-1\">Max Holloway defeated Conor McGregor via TKO at 1:09 of Round 1 at UFC 329 on July 11, 2026</cite>. <cite index=\"8-2,8-3\">McGregor said afterward \"I will overcome this. I will not be deterred.\"</cite>",
+      "article": "<cite index=\"5-3\">Conor McGregor's long-awaited return ended with injury as the UFC superstar hurt his right leg in the opening seconds of his fight with Max Holloway and was forced to retire in the first round</cite> at <cite index=\"5-4\">1 minute, 9 seconds at T-Mobile Arena in Las Vegas</cite>.\n\n<cite index=\"2-5\">The 37-year-old opened the bout with a charging kick against Holloway, but McGregor landed awkwardly on his right leg</cite>. <cite index=\"2-1\">The referee called the bout when it was clear McGregor wouldn't be able to continue</cite>.\n\nIt was a brutal echo of history. <cite index=\"3-9,3-10\">McGregor famously suffered a blown-out knee 13 years ago in his first UFC meeting against Max Holloway, and more than a decade later, history repeated itself</cite>.\n\n<cite index=\"2-7,2-8,2-9,2-10\">McGregor took to social media afterward and wrote \"I had no injury/injuries going into the fight. I was throwing kicks, planted and jumping, all throughout camp as well as backstage before the fight. This came out of nowhere. I am beyond dark here.\"</cite>\n\nDespite the catastrophe, <cite index=\"8-1,8-2,8-3\">McGregor expressed shock over what transpired but defiantly indicated that he plans to make a comeback, writing \"I will overcome this. I will not be deterred.\"</cite> <cite index=\"7-2\">McGregor, 37, is expected to get an MRI this week on his injured right leg</cite>, with <cite index=\"7-5\">doctors speculating he either tore the anterior cruciate ligament in his right knee or damaged the meniscus cartilage</cite>.",
       "tweets": [
         {
-          "url": "https://twitter.com/Wimbledon/status/2075997653729476883",
-          "html": "<blockquote class=\"twitter-tweet\" data-dnt=\"true\" data-theme=\"dark\"><p>Heart. Desire. Belief. \n\nAfter a stunning final on Centre Court, Linda Noskova is the 2026 Ladies' Singles Champion\n\n#Wimbledon https://t.co/CDk1Oi3QmS</p>&mdash; Wimbledon (@Wimbledon) <a href=\"https://twitter.com/Wimbledon/status/2075997653729476883\">July 11, 2026</a></blockquote>",
-          "author_name": "Wimbledon",
-          "author_url": "https://twitter.com/Wimbledon",
-          "dateMs": 1783791385000
+          "url": "https://twitter.com/ufc/status/2076151313256313317",
+          "html": "<blockquote class=\"twitter-tweet\" data-dnt=\"true\" data-theme=\"dark\"><p>Max Holloway defeats Conor McGregor by TKO at #UFC329 https://t.co/4I0E1Rhx6R</p>&mdash; UFC (@ufc) <a href=\"https://twitter.com/ufc/status/2076151313256313317\">July 12, 2026</a></blockquote>",
+          "author_name": "UFC",
+          "author_url": "https://twitter.com/ufc",
+          "dateMs": 1783828020000
         }
       ]
     },
     {
       "category": "revenue",
+      "importance": 8,
+      "leadHeadline": "NHL Players to Get Record $170M Rebate as League Business Thrives",
+      "leadSource": "Sportico · 3h ago",
+      "leadUrl": "https://www.sportico.com/leagues/hockey/2026/nhl-escrow-rebate-record-million-1234938602/",
+      "summary": "NHL players will receive a record $170M rebate as escrow, long a painful salary deduction, ends. The league's revenue growth has outpaced salary obligations under the 50-50 CBA split.",
+      "article": "The NHL will pay players a record $170 million rebate after the league stopped collecting escrow money in January 2025. Escrow has been a contentious mechanism under the current collective bargaining agreement, forcing player salaries to be docked so the league could balance its revenue-sharing obligations with the players' 50-50 split.\n\nWith league revenue now outpacing salary obligations, the stoppage of escrow collections signals robust business health. Players have long resented escrow as a penalty for the league's profitability, and the rebate represents a tangible return of money that was withheld from paychecks in prior seasons.\n\nThe $170 million payout is the largest such rebate in league history. It underscores the NHL's financial momentum heading into the 2025-26 season and provides immediate relief to a player base that absorbed escrow deductions for years. The development also removes a flashpoint from future CBA negotiations, as players enter talks with proof that the league's financial model can support their full salaries without requiring withholding.",
+      "tweets": []
+    },
+    {
+      "category": "media",
+      "importance": 8,
+      "leadHeadline": "From cowboy hats to Patti Smith, how Erling Haaland conquered the World Cup even in defeat",
+      "leadSource": "CBS Sports · just now",
+      "leadUrl": "https://www.cbssports.com/soccer/news/erling-haaland-world-cup-defeat-norway-cowboy-hat-patti-smith/",
+      "summary": "Erling Haaland scored seven World Cup goals and gained 25 million social media followers during his breakthrough tournament run. His cultural impact transcended the sport despite his team's elimination.",
+      "article": "Erling Haaland's World Cup campaign produced seven goals and a 25 million-follower surge across social media platforms, cementing his emergence as a global sports celebrity even though Norway was eliminated from the tournament.\n\nHaaland's presence extended beyond the pitch. His sideline appearances ranged from wearing cowboy hats to courtside moments with Patti Smith, behavior that drew as much social-media attention as his on-field performance. The imagery made him a crossover figure in popular culture, not merely a goalscorer.\n\nThe seven-goal haul placed him among the tournament's leading scorers and marked a coming-out party for a player already known for his club dominance. The combination of on-pitch production and off-pitch cultural moments widened his audience far beyond traditional soccer audiences.\n\nFor broadcasters and sponsors tracking athlete engagement metrics, Haaland's trajectory during the tournament offers a case study in how a young star can leverage a major event to build a global brand. His team's exit did not diminish his personal profile—a rarity in World Cup narratives, where team failure typically narrows individual celebrity.",
+      "tweets": []
+    },
+    {
+      "category": "contracts",
       "importance": 7,
-      "leadHeadline": "Updated World Cup odds, picks, predictions: Two best bets to play before the semifinals",
-      "leadSource": "NY Post Sports · just now",
-      "leadUrl": "https://nypost.com/2026/07/13/betting/updated-world-cup-odds-picks-predictions-two-best-bets-to-play-before-the-semifinals/",
-      "summary": "As the World Cup semifinal stage approaches, analysts and models identify two futures plays offering favorable odds before the final four teams are set.",
-      "article": "The World Cup has narrowed to four semifinalists, and oddsmakers are reassessing futures on the tournament's final two matches and championship game. The NY Post's analysis identifies two standout futures bets to place before the semifinals begin, targeting matches where implied probabilities diverge from actual team strength and recent performance.\n\nThe World Cup semifinals feature four national teams competing across two matches, with the winners advancing to the championship. Tournament dynamics shift at this stage: fatigue accumulates, squad depth becomes critical, and teams that survived penalty shootouts or narrow victories face fresh opponents without the same accumulated strain.\n\nOdds compilers have adjusted lines based on semifinal pairings and betting volume, creating some mispricings relative to underlying team quality. The picks flagged by the Post suggest value in backing either a semifinal underdog at elevated odds or a championship-game futures position before the final four are confirmed. Historical precedent shows that late-stage World Cup futures often feature inflated odds on tournament favorites after shocking quarterfinal results, and compressed odds on surprise semifinalists, creating arbitrage opportunities for informed bettors.",
-      "tweets": []
-    },
-    {
-      "category": "media",
-      "importance": 6,
-      "leadHeadline": "2026 Open Championship odds, picks, date: Surprising predictions from golf model that's nailed 17 majors",
-      "leadSource": "CBS Sports · 1h ago",
-      "leadUrl": "https://www.cbssports.com/golf/news/2026-open-championship-picks-predictions-odds-field/",
-      "summary": "A predictive golf model with a track record of accurately forecasting major championship winners has simulated the 2026 Open Championship 10,000 times and revealed surprising favorites and dark horses for Royal Birkdale.",
-      "article": "SportsLine's proprietary golf model, which has correctly picked the winner of 17 major championships, ran a 10,000-simulation projection for the 2026 Open Championship at Royal Birkdale and surfaced several picks diverging from consensus oddsmaking. The model's accuracy across multiple majors gives its projections meaningful weight for bettors assessing early-stage Open odds.\n\nRoyal Birkdale, a classic links layout in England's northwest, favors golfers with proven ball control and bunker play through firm, windswept rough. The model's simulations factor course history, player performance in similar conditions, recent form across the PGA and DP World tours, and equipment adjustments for links golf.\n\nWhile consensus favorites typically include multiple Masters and major champions with established links pedigree, the model identified several lower-seeded players offering inflated value. Open odds typically widen considerably further from the favorite than other majors, creating room for models to exploit inefficiencies in mid-tier pricing. The specific predictions flagged by CBS Sports suggest both contrarian major contenders and longer-odds specialists with underlying fitness to the course architecture.",
-      "tweets": []
-    },
-    {
-      "category": "media",
-      "importance": 6,
-      "leadHeadline": "2026 British Open odds: Scottie Scheffler, Rory McIlroy neck and neck at top of the board",
-      "leadSource": "NY Post Sports · 1h ago",
-      "leadUrl": "https://nypost.com/2026/07/13/betting/2026-british-open-odds-scottie-scheffler-rory-mcilroy-neck-and-neck-at-top-of-the-board/",
-      "summary": "Scottie Scheffler and Rory McIlroy are co-favorites for the 2026 British Open at Royal Birkdale, with Scheffler facing another streak-extension opportunity at golf's final major.",
-      "article": "Scottie Scheffler and Rory McIlroy are deadlocked atop the betting board for the 2026 Open Championship at Royal Birkdale, reflecting the two players' dominance across the 2026 season and major championship calendar. Scheffler enters the event on the heels of defending titles and major wins, while McIlroy remains the links-golf specialist with multiple Open victories and sustained high-level performance at seaside courses.\n\nScheffler's pursuit of another major streak or title run presents a narrative angle: multiple victories in back-to-back majors have defined his 2026, and a British Open win would extend that dominance into golf's final major of the year. McIlroy's presence as co-favorite acknowledges the challenge of playing links courses and the statistical edge he has built through Open Championship experience.\n\nRoyal Birkdale's layout, with its deep rough and firm greens, typically resists the aggressive course management that high-volume PGA Tour winners employ. McIlroy's track record in such conditions may justify even pricing with Scheffler, whose recent form spans multiple course types but concentrates on American tour stops and major venues without traditional links exposure. Odds compression at the top reflects the narrow margin between these two players and the field.",
+      "leadHeadline": "Man Utd sign £48m Santos and close in on Tielemans",
+      "leadSource": "BBC Sport · 3h ago",
+      "leadUrl": "https://www.bbc.co.uk/sport/football/articles/cn07dpgkj4eo?at_medium=RSS&amp;at_campaign=rss",
+      "summary": "Manchester United signed Andrey Santos from Chelsea for £48 million and entered advanced talks with Aston Villa for midfielder Youri Tielemans. Both moves signal summer spending intensity.",
+      "article": "Manchester United completed the signing of Andrey Santos from Chelsea for £48 million and advanced negotiations with Aston Villa for midfielder Youri Tielemans, marking a busy transfer window for the club.\n\nSantos, a Brazilian defender, joins United after a spell at Chelsea. His acquisition fills a defensive need and represents United's continued willingness to spend on established talent. The £48 million fee reflects the market rate for a player with Santos's profile and experience.\n\nThe parallel pursuit of Tielemans suggests United is building depth across multiple positions. Tielemans, a Belgian midfielder with Premier League experience, would provide creative support in midfield. Advanced talks indicate the club expects to finalize terms in the near term.\n\nUnited's activity in this window contrasts with recent seasons of selective spending. The dual pursuit of Santos and Tielemans signals confidence in the club's financial position and strategic direction under current management. Both signings target immediate contribution rather than long-term development projects.",
       "tweets": []
     },
     {
       "category": "revenue",
-      "importance": 5,
-      "leadHeadline": "MLB Home Run Derby Could Net Young Stars Big Payday",
-      "leadSource": "Front Office Sports · 18h ago",
-      "leadUrl": "https://frontofficesports.com/mlb-home-run-derby-could-net-young-stars-big-payday/",
-      "summary": "MLB's Home Run Derby purses have grown substantially, with half the field able to more than double their 2026 regular-season salaries through prize money alone.",
-      "article": "Major League Baseball's Home Run Derby structure has evolved to offer significant financial incentives for young, cost-controlled players competing at the All-Star Game break. Prize payouts are now substantial enough that half of the eight-player field can earn more than double their regular-season salary through winning rounds and the championship.\n\nFor prospects and young players on minimum or near-minimum deals, the Derby has become a material income event. A player earning $750,000 in 2026 regular-season salary could pocket $1.5 million or more through Derby participation and advancement, creating meaningful financial upside independent of contract negotiations.\n\nThe investment reflects MLB's strategy to market the All-Star Game and its satellite events as entertainment properties with genuine competitive stakes for younger talent. It also addresses a long-standing critique that young, pre-arbitration players had minimal opportunity to earn substantial bonus money outside standard performance incentives. By elevating Home Run Derby payouts, MLB has created both a compelling individual event and an additional revenue-distribution mechanism that channels broadcast dollars back to players.",
+      "importance": 7,
+      "leadHeadline": "How Tadej Pogacar became the new 'patron' of the Tour de France peloton",
+      "leadSource": "The Guardian · 2h ago",
+      "leadUrl": "https://www.theguardian.com/sport/2026/jul/13/how-tadej-pogacar-became-the-new-patron-of-the-tour-de-france-peloton",
+      "summary": "Tadej Pogacar's dominance at the Tour has drawn admiration and criticism as the peloton worries the race is losing its competitive edge. The Slovenian leads with overwhelming strength on extreme heat days.",
+      "article": "Tadej Pogacar has established himself as the dominant force of the 2026 Tour de France, commanding the race with a level of control that has drawn both admiration and concern from peers and team managers. His performance amid 40-degree Celsius heat has intensified debate about whether his superiority is diminishing competitive balance.\n\nPogacar's team, UAE Team Emirates XRG, functions as an escort for the Slovenian throughout stages, a dynamic that resembles historical dominance more than contemporary parity. The concentration of tactical resources around one rider, while entirely legal, has prompted managers to question whether the race retains its traditional character.\n\nThe heat wave amplified these concerns. When temperatures reached levels that forced officials to shorten Stage 9 by 18.6 miles under a red alert, Pogacar still controlled proceedings—a demonstration of physical superiority that was difficult to contextualize as mere tactical excellence.\n\nPogacar himself acknowledged the need for change. He has called for Tour de France reforms, a position unusual for a rider in his dominant position but one that suggests even he recognizes the current dynamic is unsustainable for the race's long-term health.\n\nFor broadcasters and sponsors, the concern centers on narrative tension. A race dominated by a single athlete, regardless of his talent, typically generates lower engagement in later stages when outcomes are already determined.",
+      "tweets": []
+    },
+    {
+      "category": "revenue",
+      "importance": 6,
+      "leadHeadline": "Home Run Derby preview: Stacked field takes on revamped format",
+      "leadSource": "Sportsnet · 1d ago",
+      "leadUrl": "",
+      "summary": "The 2026 MLB Home Run Derby features a loaded slugger field competing under a new format. The revamped structure aims to increase competitive unpredictability and viewer engagement.",
+      "article": "The 2026 Home Run Derby will feature a stacked field of sluggers competing under a revamped format designed to increase drama and unpredictability. The format change represents MLB's effort to refresh the All-Star break's signature power-hitting exhibition.\n\nSpecific sluggers competing and the exact mechanical changes to the format were outlined in preview coverage, though exact details require confirmation from official MLB announcements. The combination of a strong hitter pool and structural innovation signals the league's commitment to keeping the Derby relevant in an era where viewership for All-Star events has flattened.\n\nThe new format targets a core problem: predictability. Traditional Derby brackets often favored certain hitters early, reducing narrative tension in later rounds. The revamp aims to extend competitive balance throughout the competition.\n\nFor broadcasters and sponsors, the Derby remains a key All-Star Week attraction. A stronger field and format novelty typically drive interest among casual fans who tune in for the spectacle rather than the baseball tournament.",
       "tweets": []
     },
     {
       "category": "media",
+      "importance": 5,
+      "leadHeadline": "ESPN Ending Syndicated Version of 'Good Morning Football'",
+      "leadSource": "Front Office Sports · 1h ago",
+      "leadUrl": "https://frontofficesports.com/espn-ending-syndicated-good-morning-football/",
+      "summary": "ESPN is discontinuing the syndicated version of Good Morning Football, which debuted in 2024. The move reflects the network's shift in distribution strategy for morning programming.",
+      "article": "ESPN is ending the syndicated version of Good Morning Football, the morning NFL analysis show that debuted in 2024. The cancellation marks a retreat from ESPN's effort to broaden the program's reach beyond cable and streaming audiences.\n\nThe syndicated version launched to capitalize on traditional local TV demand for sports morning talk, a format that remains strong in radio but has contracted on television. The combination of streaming competition and changing affiliate station economics likely contributed to the decision to shutter the syndicated run.\n\nGood Morning Football continues on ESPN's core cable and streaming platforms, meaning the show survives in its primary distribution channels. The syndication cut represents a rationalization of how ESPN allocates programming resources across its portfolio.\n\nThe shift underscores a broader industry trend: major sports networks are consolidating distribution to owned platforms rather than betting on syndication partnerships. Affiliate relationships generate less revenue and offer less direct audience measurement than owned channels.",
+      "tweets": []
+    },
+    {
+      "category": "leagues",
       "importance": 4,
-      "leadHeadline": "Golf's Final Major of 2026 Arrives With Plenty of LIV-PGA Tour Questions",
-      "leadSource": "Front Office Sports · 15h ago",
-      "leadUrl": "https://frontofficesports.com/golf-open-championship-major-2026-liv-pga-tour-questions/",
-      "summary": "The final major championship of 2026 takes place amid ongoing structural questions about LIV Golf's integration into mainstream professional golf competition.",
-      "article": "The 2026 major championship calendar reaches its conclusion with ongoing uncertainty about how LIV Golf participants, full-time PGA Tour members, and DP World Tour players will coexist at golf's biggest stages in years ahead. The Open Championship at Royal Birkdale occurs amid continued negotiation and rule-clarification around which players are eligible for which events and how the three-circuit landscape will stabilize.\n\nThe pro golf landscape faces material structural change entering 2027. Governance clarifications, qualifying criteria, and field composition for majors and tour events remain unsettled questions. Recent moves toward merger talks and regulatory harmony between PGA Tour, LIV Golf, and DP World Tour have not yet resolved into final policy.\n\nFor the 2026 major season, the field at each event reflects the current patchwork: LIV members compete via tour exemptions or historical qualifying paths, while the Tour's internal priorities and sponsorship structure attempt to maximize television appeal. The absence of final resolution creates both competitive uncertainty and storylines centered on whether top-tier LIV golfers will continue to dominate major fields despite their absence from traditional tour pathways.",
+      "leadHeadline": "Stephen F. Austin Served Another Title IX Suit Over Beach Volleyball",
+      "leadSource": "Sportico · just now",
+      "leadUrl": "https://www.sportico.com/leagues/college-sports/2026/stephen-f-austin-beach-volleyball-retaliation-title-ix-1234938700/",
+      "summary": "Stephen F. Austin faces a second Title IX suit, this time from players removed from its reinstated beach volleyball roster. The university eliminated the program last year, then reinstated it, then cut two players.",
+      "article": "Stephen F. Austin State University now faces a second Title IX lawsuit following its handling of its beach volleyball program. Players Ryann Allison and Brynn Dowd allege the school retaliated against them by removing them from the roster in April, shortly after the program was reinstated.\n\nThe university eliminated beach volleyball last year, triggering the first Title IX suit from players whose program was cut. In response to legal pressure, SFA reinstated the program. However, the April decision to remove Allison and Dowd from the newly revived roster prompted the retaliation claim.\n\nThe plaintiffs argue the removal was \"abrupt\" and constitutes retaliation for their involvement in the original Title IX litigation. The university has not yet responded to the allegations.\n\nThe case highlights the complexity of Title IX compliance, particularly when institutions reverse program cuts under legal pressure. Courts have increasingly recognized retaliation claims as distinct violations, separate from the underlying discrimination claim. For SFA, the second suit compounds legal and financial exposure while potentially signaling that administrative reversals do not resolve underlying equity issues.",
       "tweets": []
     }
   ],
@@ -2399,87 +2409,153 @@
     ],
     "source": "espn"
   },
-  "deals": [],
+  "deals": [
+    {
+      "type": "acquisition",
+      "parties": "Manchester United ⇄ Chelsea (Andrey Santos)",
+      "value_usd": 60480000,
+      "term_years": null,
+      "league": "SOCCER",
+      "headline": "Man Utd sign £48m Santos from Chelsea",
+      "storyIndex": 4,
+      "blurb": "Manchester United acquired Brazilian defender Andrey Santos from Chelsea for £48 million as part of an active summer transfer window.",
+      "capturedAt": "2026-07-13T17:08:21.740Z"
+    }
+  ],
   "ratings": [],
   "ticket_prices": [],
   "sidebar": [
     {
-      "headline": "England bowled out for 186, loses Test to India by 270 runs",
-      "source": "BBC Sport · 1h ago",
-      "article": "England's Test match against India at Lord's ended in a decisive defeat, with the home team collapsing before lunch on the final day. England was bowled out for 186 in its second innings, gifting India a 270-run victory and a commanding performance on English soil. The loss marks a difficult result for England's summer Test schedule and suggests vulnerability against India's bowling attack in English conditions, where pace and seam movement typically favor the home side. India's dominance on a Lord's pitch that offered conditions normally suited to English cricket underscores the quality of the visiting attack."
+      "headline": "Japan's SoftBank Hawks Revenue Topped 12 MLB Clubs Last Year",
+      "source": "Sportico · 5h ago",
+      "article": "The Fukuoka SoftBank Hawks of Nippon Professional Baseball generated just under $340 million in revenue last fiscal year, surpassing 12 Major League Baseball franchises. The Hawks posted an 11 percent year-over-year increase, driven by strong attendance and merchandise sales in Japan's competitive NPB market. The figure underscores the financial depth of Japan's top league and challenges assumptions about revenue tiers between NPB and MLB, particularly for mid-market MLB franchises that trail the Hawks in total revenue."
     },
     {
-      "headline": "Van der Poel wins ninth stage as Tour de France navigates extreme heat",
+      "headline": "Jannik Sinner savours Wimbledon win after French Open disappointment",
       "source": "The Guardian · 20h ago",
-      "article": "Mathieu van der Poel won the ninth stage of the Tour de France from Malemort to Ussel, with the race shortened due to a stifling heatwave affecting central France. Tom Pidcock finished among the top contenders as the peloton navigated treacherous conditions. The shortened stage underscores growing concern about climate impact on professional cycling's most grueling event. Tadej Pogacar has called for a radical overhaul of the professional racing calendar to avoid the worst summer heat, signaling that team leaders and riders are increasingly willing to challenge the traditional July scheduling of the Tour."
+      "article": "World No. 1 Jannik Sinner won his second Wimbledon title, defeating Alexander Zverev 6-7(7), 7-6(2), 6-3, 6-4 after recovering from a difficult first set. Sinner described the triumph as particularly meaningful given his painful defeat at Roland Garros weeks earlier. He faced only one break point in the final, a clinical performance on grass that reinforced his status as the tour's dominant player across multiple surfaces."
     },
     {
-      "headline": "Super Bowl hangover? Assessing whether Seahawks, Patriots will regress or regroup in 2026",
-      "source": "CBS Sports · 1h ago",
-      "article": "The Seattle Seahawks' dominant 29-13 Super Bowl victory over the New England Patriots in February set up contrasting 2026 outlooks for both franchises. Seattle enters the offseason as defending champions facing tougher division competition, while New England must navigate a loaded AFC East with significant roster changes ahead. Both teams will confront salary cap constraints and the classic post-Super Bowl challenge of sustaining championship-level rosters. The Seahawks face injuries and personnel decisions in a loaded NFC West, while the Patriots rebuild on a shorter timeline to contend."
+      "headline": "Seahawks have new owner from a division rival",
+      "source": "CBS Sports · just now",
+      "article": "The Seattle Seahawks announced a new ownership structure involving a figure from an NFC West rival team, signaling a significant shift in the franchise's leadership. The move carries implications for the Seahawks' front-office direction and competitive positioning within the division. Details on the ownership change and its operational impact are expected to emerge in coming days."
     },
     {
-      "headline": "John Schneider chose Dylan Cease over Cam Schlittler for All-Star start",
-      "source": "Sportsnet · 16h ago",
-      "article": "Blue Jays manager John Schneider selected Dylan Cease to start the All-Star Game, passing over Yankees pitcher Cam Schlittler despite Schlittler's superior first-half numbers. Schlittler entered the All-Star break with a 2.05 ERA, the lowest in the American League, and had thrown 20+ more innings than Cease (2.56 ERA). Schneider's decision prioritizes factors beyond raw statistics in All-Star selection, a choice that reflects the subjective nature of manager selections versus fan voting and player balloting. Cease will represent Toronto in the midsummer classic."
+      "headline": "How Schneider chose Cease over Schlittler for All-Star start",
+      "source": "Sportsnet · 20h ago",
+      "article": "Toronto Blue Jays manager John Schneider selected Dylan Cease as the American League's All-Star Game starter, passing over Yankees pitcher Cam Schlittler. Schneider's decision-making process weighed Cease's recent performance and durability against Schlittler's hot streak. The choice reflects typical All-Star Game selection logic but highlighted the depth of AL starting talent heading into the break."
     },
     {
-      "headline": "Jeff Hoffman's eighth-inning collapse ends Blue Jays' first-half hopes",
-      "source": "Sportsnet · 14h ago",
-      "article": "The Toronto Blue Jays entered the All-Star break on a sour note after reliever Jeff Hoffman's meltdown in the eighth inning squandered a late lead in a road loss. The Jays were six outs away from victory when Hoffman imploded, capping a frustrating first half marked by missed opportunities and bullpen inconsistency. The loss exemplifies Toronto's struggle to convert leads late in games, a pattern that plagued the team through the first 80 games of the season. The All-Star break offers a reset opportunity, though the bullpen's performance remains a critical question mark heading into the second half."
+      "headline": "NBA Legend George Gervin Loses Initial Attempt to Trademark 'Iceman'",
+      "source": "Front Office Sports · 1h ago",
+      "article": "NBA Hall of Famer George Gervin's attempt to trademark the nickname 'Iceman' failed in an initial legal challenge. IP attorney Josh Gerben noted the market is crowded with existing 'Iceman' registrations and uses, complicating Gervin's exclusive claim to the term. The rejection does not prevent Gervin from reapplying with a more narrow scope or appealing the decision."
     },
     {
-      "headline": "Paul Hastings LLP launches dedicated sports practice amid global boom",
-      "source": "Sportico · 3h ago",
-      "article": "Paul Hastings, a multinational law firm with offices across the Americas, Europe, the Middle East, and Asia, has launched a dedicated sports practice operating as a subdivision of its entertainment and media group. The new practice is led by Mark Zerdin, formerly co-head of the firm's sports division. The expansion reflects growing demand for specialized sports legal services tied to media rights, franchise transactions, sponsorships, labor disputes, and regulatory work. The rollout signals confidence among elite law firms that sports business complexity and scale now warrant dedicated practice groups competing with traditional sports law specialists."
+      "headline": "Soccer referee dead weeks after being fired from World Cup over sexual assault allegations",
+      "source": "NY Post Sports · 1h ago",
+      "article": "A would-be World Cup referee died two months after FIFA dropped him from the tournament over sexual assault allegations. The death occurred weeks after his removal from the competition and the allegations became public. Details on the circumstances of his death remain limited, though the timeline reflects the rapid fallout from the allegations and his professional exclusion."
     }
   ],
   "poll": {
-    "question": "Which 2026 major championship storyline matters most?",
+    "question": "Which storyline will define the rest of this World Cup?",
     "options": [
-      "Scottie Scheffler extending a dominant streak at the Open Championship",
-      "Linda Noskova's breakthrough title win as a new generation emerges",
-      "Jannik Sinner's continued dominance on grass after French Open disappointment",
-      "LIV Golf integration into major championship competition"
+      "Erling Haaland's crossover celebrity and social-media dominance",
+      "A dominant team's overwhelming control of the tournament",
+      "An underdog nation's unexpected run to the final",
+      "Individual records and historic goal-scoring performances"
     ]
   },
   "predictions": [
     {
-      "statement": "Scottie Scheffler will win the 2026 Open Championship at Royal Birkdale.",
-      "probability": 28,
-      "rationale": "Scheffler is co-favorite with Rory McIlroy and has demonstrated dominance across 2026, but links golf remains a specialist's domain and his limited seaside experience gives McIlroy and other proven Open winners substantive edge in course-specific conditions."
+      "statement": "Conor McGregor will not return to UFC competition within 12 months due to the severity of his leg injury.",
+      "probability": 62,
+      "rationale": "A 69-second return followed by a leg injury serious enough to require surgery suggests deep physical regression. McGregor's age and history of extended injuries make a sub-year return unlikely, though his determination and resources mean a longer timeline remains possible."
     },
     {
-      "statement": "The Japan-MLB revenue comparison will accelerate international franchise valuations.",
-      "probability": 65,
-      "rationale": "SoftBank Hawks' $340 million revenue baseline demonstrates that tier-one Asian sports properties can outpace middle-market MLB franchises, attracting investment capital and justifying higher valuations for established Japanese, South Korean, and Taiwanese teams."
+      "statement": "Tadej Pogacar will win the 2026 Tour de France despite calls for format reform.",
+      "probability": 78,
+      "rationale": "Pogacar's current dominance is overwhelming and his team infrastructure is unmatched. While heat and course design may change, no peer has demonstrated the ability to challenge him on the mountain stages. Format reform takes years to implement."
     },
     {
-      "statement": "England's Test match loss to India signals a shift in home advantage at Lord's.",
-      "probability": 48,
-      "rationale": "India's 270-run victory on a Lord's pitch normally favoring English conditions suggests the Indian bowling attack has reached a level where it exploits seam and pace regardless of venue. Sustained success would indicate a structural change in Test cricket's power balance."
+      "statement": "Stephen F. Austin will settle the second Title IX suit before trial.",
+      "probability": 68,
+      "rationale": "Two suits in succession signal institutional mismanagement of compliance. Universities typically settle retaliation claims to avoid discovery and precedent. The cost of trial likely exceeds settlement expenses, especially given public relations exposure."
     },
     {
-      "statement": "The 2026 World Cup semifinals will produce at least one upset winner.",
-      "probability": 72,
-      "rationale": "World Cup knockout stages consistently feature unexpected results as accumulated fatigue, squad depth limits, and penalty shootout luck converge. The semifinals' reduced field of four creates higher odds that a team ranked outside the consensus top-four makes the final."
+      "statement": "The NHL's $170M player rebate will become a regular annual distribution, not a one-time event.",
+      "probability": 55,
+      "rationale": "The rebate reflects genuine revenue growth, but league economics can shift. If ticket sales, licensing, or media rights decline, escrow could return. The 50-50 split protects players if growth continues, but downturns remain a risk."
     }
   ],
   "injuries": [
     {
-      "player": "Just Fontaine",
-      "team": "France national team (historical)",
-      "league": "SOCCER",
-      "position": "FW",
+      "player": "Conor McGregor",
+      "team": "UFC",
+      "league": "MMA",
+      "position": "",
       "status": "OUT",
-      "injury": "Career-ending injury",
-      "timeline": "Ended career at age 28",
-      "source": "BBC Sport",
-      "impact": "Fontaine never played in the World Cup again after his injury, despite holding the single-tournament scoring record of 13 goals in 1958.",
-      "storyIndex": 0
+      "injury": "Leg injury",
+      "timeline": "Pending surgery; no return date specified",
+      "source": "The Guardian",
+      "impact": "McGregor was forced out 69 seconds into his UFC return and will require surgery, removing him from competition for an extended period.",
+      "storyIndex": 10
     }
   ],
   "picks": [
+    {
+      "matchup": "American All-Stars @ National All-Stars",
+      "league": "MLB",
+      "type": "total",
+      "when": "Tomorrow 8:01 PM ET",
+      "pick": "Under 7.5",
+      "odds": "103",
+      "edge": "Three elite AL sluggers (Aaron Judge, Vladimir Guerrero Jr., Mike Trout) are absent or significantly limited by injury—Judge (rib), Guerrero (lower back rest), Trout (hamstring, first All-Star Game since 2019). Justin Verlander (added to AL roster as Legends Pick) will not pitch due to hip/hamstring injuries since March 30. These are four of the AL's highest power-ceiling contributors. Meanwhile, Shohei Ohtani (NL's leading vote-getter) is out with knee discomfort, removing the NL's top vote-getter but leaving a deeper NL lineup intact. The AL's offensive capacity is materially reduced relative to a fully healthy roster.\n\nAll-Star Game totals are typically set conservatively (7.5 runs is modest for 18 of baseball's best hitters), but the absence of Judge (30 HR pace), Guerrero (star DH), Trout (elite gap hitter), and Verlander's missing arm creates a 4-player gap in aggregate power and run-scoring upside. The NL still has Freeman, Soto, Schwarber (25 HR), and Alvarez (1.070 OPS), but the AL's DH slot and catching depth are materially weakened. Market has not fully adjusted the total downward—the 7.5 line was likely set before the confirmed AL absences.\n\nRisk: AL bench depth remains elite (Arraez, Judge-less outfield still features star-caliber talent), and All-Star Games are exhibition-friendly environments. A 3-run inning can swing the total quickly.",
+      "confidence": "high",
+      "marketSnapshot": {
+        "capturedAt": "2026-07-13T17:09:51.960Z",
+        "markets": {
+          "h2h": {
+            "away": {
+              "price": 122,
+              "book": "BetOnline.ag"
+            },
+            "home": {
+              "price": -135,
+              "book": "BetOnline.ag"
+            },
+            "draw": null
+          },
+          "spreads": {
+            "away": {
+              "point": 1.5,
+              "price": -172,
+              "book": "FanDuel"
+            },
+            "home": {
+              "point": -1.5,
+              "price": 154,
+              "book": "LowVig.ag"
+            }
+          },
+          "totals": {
+            "over": {
+              "point": 7.5,
+              "price": -118,
+              "book": "FanDuel"
+            },
+            "under": {
+              "point": 7.5,
+              "price": 103,
+              "book": "LowVig.ag"
+            }
+          }
+        },
+        "awayTeam": "American League",
+        "homeTeam": "National League",
+        "commenceTime": "2026-07-15T00:01:00Z"
+      },
+      "_scheduledTs": 1784073660000
+    },
     {
       "type": "moneyline",
       "pick": "Argentina ML",
@@ -5384,30 +5460,30 @@
       "_pendingGrade": true
     }
   ],
-  "updatedAt": "2026-04-23T23:47:00Z",
+  "updatedAt": "2026-07-13T00:00:00Z",
   "highlights": [
     {
       "league": "NBA",
       "title": "Peterson vs Wagler 👀, Dybantsa continues to shine &amp; More | NBA's Nightly Recap | July 12, 2026",
       "videoId": "QC8VVijjPwc",
       "thumbnail": "https://img.youtube.com/vi/QC8VVijjPwc/mqdefault.jpg",
-      "timeAgo": "8h ago",
+      "timeAgo": "12h ago",
       "isFallback": false
     },
     {
       "league": "NFL",
-      "title": "Jeremy Fowler explains why he does not have Jalen Hurts ranked as a top-10 quarterback in the NFL 🏈",
-      "videoId": "IpN8nuHbG10",
-      "thumbnail": "https://img.youtube.com/vi/IpN8nuHbG10/mqdefault.jpg",
-      "timeAgo": "Just now",
+      "title": "Is Joe Burrow better than Lamar Jackson?! 👀",
+      "videoId": "3Bk6eRB3Luc",
+      "thumbnail": "https://img.youtube.com/vi/3Bk6eRB3Luc/mqdefault.jpg",
+      "timeAgo": "2h ago",
       "isFallback": false
     },
     {
       "league": "MLB",
-      "title": "White Sox head into All-Star Break in FIRST PLACE and MUCH MORE!",
-      "videoId": "jnxUbnlwQvY",
-      "thumbnail": "https://img.youtube.com/vi/jnxUbnlwQvY/mqdefault.jpg",
-      "timeAgo": "Just now",
+      "title": "LONGEST homers of the first half!! (Including Drake Baldwin’s 473-FOOT BOMB)",
+      "videoId": "e2FnQFkwsCg",
+      "thumbnail": "https://img.youtube.com/vi/e2FnQFkwsCg/mqdefault.jpg",
+      "timeAgo": "1h ago",
       "isFallback": false
     },
     {
@@ -5423,19 +5499,123 @@
       "title": "Indiana Fever vs. Las Vegas Aces | FULL GAME HIGHLIGHTS | July 12, 2026",
       "videoId": "O_HJrHujAFY",
       "thumbnail": "https://img.youtube.com/vi/O_HJrHujAFY/mqdefault.jpg",
-      "timeAgo": "9h ago",
+      "timeAgo": "13h ago",
       "isFallback": false
     },
     {
       "league": "SOCCER",
-      "title": "Argentina-England will be a movie",
-      "videoId": "tCLa6WQnG5A",
-      "thumbnail": "https://img.youtube.com/vi/tCLa6WQnG5A/mqdefault.jpg",
-      "timeAgo": "Just now",
+      "title": "THE SEMIFINALS ARE SET ⚽ Previewing France vs. Spain and England vs. Argentina | First Take",
+      "videoId": "wgwlzaXXsCQ",
+      "thumbnail": "https://img.youtube.com/vi/wgwlzaXXsCQ/mqdefault.jpg",
+      "timeAgo": "1h ago",
       "isFallback": false
     }
   ],
   "reels": [
+    {
+      "league": "SOCCER",
+      "title": "THE SEMIFINALS ARE SET ⚽ Previewing France vs. Spain and England vs. Argentina | First Take",
+      "videoId": "wgwlzaXXsCQ",
+      "author": "ESPN FC",
+      "pubDate": "2026-07-13T16:33:11+00:00",
+      "link": "https://www.youtube.com/watch?v=wgwlzaXXsCQ"
+    },
+    {
+      "league": "SOCCER",
+      "title": "Herc wants to set up the youth for success 💪",
+      "videoId": "ItspJvgdRqA",
+      "author": "ESPN FC",
+      "pubDate": "2026-07-13T16:14:02+00:00",
+      "link": "https://www.youtube.com/watch?v=ItspJvgdRqA"
+    },
+    {
+      "league": "MLB",
+      "title": "LONGEST homers of the first half!! (Including Drake Baldwin’s 473-FOOT BOMB)",
+      "videoId": "e2FnQFkwsCg",
+      "author": "MLB",
+      "pubDate": "2026-07-13T16:00:35+00:00",
+      "link": "https://www.youtube.com/watch?v=e2FnQFkwsCg"
+    },
+    {
+      "league": "MLB",
+      "title": "MLB's 2026 Home Run Derby is going to be one for the ages! 😲 (Longest HR from 8 all participants!)",
+      "videoId": "p3eQdUgx6CQ",
+      "author": "MLB",
+      "pubDate": "2026-07-13T16:00:11+00:00",
+      "link": "https://www.youtube.com/watch?v=p3eQdUgx6CQ"
+    },
+    {
+      "league": "NFL",
+      "title": "Is Joe Burrow better than Lamar Jackson?! 👀",
+      "videoId": "3Bk6eRB3Luc",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-07-13T15:25:48+00:00",
+      "link": "https://www.youtube.com/watch?v=3Bk6eRB3Luc"
+    },
+    {
+      "league": "NFL",
+      "title": "Who you got? 👀",
+      "videoId": "IhasFTv4F-A",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-07-13T15:14:48+00:00",
+      "link": "https://www.youtube.com/watch?v=IhasFTv4F-A"
+    },
+    {
+      "league": "SOCCER",
+      "title": "Erling Haaland was subbed off in extra time in Norway's loss to England 👀",
+      "videoId": "SpunLQmenuQ",
+      "author": "ESPN FC",
+      "pubDate": "2026-07-13T14:49:28+00:00",
+      "link": "https://www.youtube.com/watch?v=SpunLQmenuQ"
+    },
+    {
+      "league": "MLB",
+      "title": "Munetaka Murakami put on a SHOW in his FIRST HALF as an MLB player! (20 HR with White Sox) 😳",
+      "videoId": "Tf5p36Z8Js8",
+      "author": "MLB",
+      "pubDate": "2026-07-13T14:30:32+00:00",
+      "link": "https://www.youtube.com/watch?v=Tf5p36Z8Js8"
+    },
+    {
+      "league": "SOCCER",
+      "title": "Did Embolo deserve the second yellow card?",
+      "videoId": "gpBlRrSrUJY",
+      "author": "ESPN FC",
+      "pubDate": "2026-07-13T14:27:05+00:00",
+      "link": "https://www.youtube.com/watch?v=gpBlRrSrUJY"
+    },
+    {
+      "league": "SOCCER",
+      "title": "Could you do this? 😌 (via lilliannbrown/IG)",
+      "videoId": "NjkeUaS9OE8",
+      "author": "ESPN FC",
+      "pubDate": "2026-07-13T14:24:37+00:00",
+      "link": "https://www.youtube.com/watch?v=NjkeUaS9OE8"
+    },
+    {
+      "league": "SOCCER",
+      "title": "The Most Famous Seven Notes in Sports | SC Featured",
+      "videoId": "0D8BvcTxrl8",
+      "author": "ESPN FC",
+      "pubDate": "2026-07-13T14:22:11+00:00",
+      "link": "https://www.youtube.com/watch?v=0D8BvcTxrl8"
+    },
+    {
+      "league": "SOCCER",
+      "title": "Lamine Yamal’s dad is proud 🥹❤️ (via hustle_hard_304/IG)",
+      "videoId": "JPZJZkIuZws",
+      "author": "ESPN FC",
+      "pubDate": "2026-07-13T13:49:37+00:00",
+      "link": "https://www.youtube.com/watch?v=JPZJZkIuZws"
+    },
+    {
+      "league": "SOCCER",
+      "title": "Argentina playing off 'VIBES &amp; MAGIC!' ✨ - Roger Bennett on Lionel Messi at 'unc status' 😅 | Get Up",
+      "videoId": "2s_uYOi9si0",
+      "author": "ESPN FC",
+      "pubDate": "2026-07-13T13:37:20+00:00",
+      "link": "https://www.youtube.com/watch?v=2s_uYOi9si0"
+    },
     {
       "league": "NFL",
       "title": "Jeremy Fowler explains why he does not have Jalen Hurts ranked as a top-10 quarterback in the NFL 🏈",
@@ -5453,28 +5633,12 @@
       "link": "https://www.youtube.com/watch?v=jnxUbnlwQvY"
     },
     {
-      "league": "SOCCER",
-      "title": "Argentina-England will be a movie",
-      "videoId": "tCLa6WQnG5A",
-      "author": "ESPN FC",
-      "pubDate": "2026-07-13T12:56:17+00:00",
-      "link": "https://www.youtube.com/watch?v=tCLa6WQnG5A"
-    },
-    {
       "league": "NFL",
       "title": "2026 QB RANKINGS from execs, coaches &amp; scouts 📈 Josh Allen over Patrick Mahomes? 😳 | Get Up",
       "videoId": "HwjDe2UBeoI",
       "author": "NFL on ESPN",
       "pubDate": "2026-07-13T12:50:06+00:00",
       "link": "https://www.youtube.com/watch?v=HwjDe2UBeoI"
-    },
-    {
-      "league": "SOCCER",
-      "title": "Erling Haaland tried to go undercover 😆 (via Erling Haaland/YouTube)",
-      "videoId": "2QtvWl5oD8s",
-      "author": "ESPN FC",
-      "pubDate": "2026-07-13T12:16:08+00:00",
-      "link": "https://www.youtube.com/watch?v=2QtvWl5oD8s"
     },
     {
       "league": "MLB",
@@ -5582,7 +5746,7 @@
     },
     {
       "league": "NBA",
-      "title": "AJ Dybansta SHOWS OUT With 23 PTS vs Kings | July 12, 2026",
+      "title": "AJ Dybantsa SHOWS OUT With 23 PTS vs Kings | July 12, 2026",
       "videoId": "D1ZqgPaRpBo",
       "author": "NBA",
       "pubDate": "2026-07-13T02:29:13+00:00",
@@ -5595,70 +5759,6 @@
       "author": "NBA",
       "pubDate": "2026-07-13T02:24:47+00:00",
       "link": "https://www.youtube.com/watch?v=F_z7bsuYKkE"
-    },
-    {
-      "league": "MLB",
-      "title": "Julio Rodríguez is taking up DJing?! | Chasing 162",
-      "videoId": "wCEKgl0GU4Y",
-      "author": "MLB",
-      "pubDate": "2026-07-13T02:02:21+00:00",
-      "link": "https://www.youtube.com/watch?v=wCEKgl0GU4Y"
-    },
-    {
-      "league": "MLB",
-      "title": "Jung Hoo Lee is having his best MLB season yet! (.302 AVG in 2026 for Giants) 🤩 | MLB Highlights",
-      "videoId": "nq-CgOozjbw",
-      "author": "MLB",
-      "pubDate": "2026-07-13T02:00:14+00:00",
-      "link": "https://www.youtube.com/watch?v=nq-CgOozjbw"
-    },
-    {
-      "league": "MLB",
-      "title": "Julio Rodríguez spends his off day DJing and shares how the hobby connects to his style of play 🎧",
-      "videoId": "d--B2o4Bl1o",
-      "author": "MLB",
-      "pubDate": "2026-07-13T01:52:15+00:00",
-      "link": "https://www.youtube.com/watch?v=d--B2o4Bl1o"
-    },
-    {
-      "league": "SOCCER",
-      "title": "ESPN FC breaks down the World Cup Semifinals 🍿 [FULL SHOW]",
-      "videoId": "enWXWuVIP8o",
-      "author": "ESPN FC",
-      "pubDate": "2026-07-13T00:45:14+00:00",
-      "link": "https://www.youtube.com/watch?v=enWXWuVIP8o"
-    },
-    {
-      "league": "SOCCER",
-      "title": "Does Jude Bellingham have a better international career than David Beckham? | ESPN FC Extra Time",
-      "videoId": "G9SsvMiC6KQ",
-      "author": "ESPN FC",
-      "pubDate": "2026-07-13T00:42:55+00:00",
-      "link": "https://www.youtube.com/watch?v=G9SsvMiC6KQ"
-    },
-    {
-      "league": "SOCCER",
-      "title": "Tension brewing between Jude Bellingham and Thomas Tuchel? 👀 + England vs. Argentina | ESPN FC",
-      "videoId": "KpSo3vK-M-c",
-      "author": "ESPN FC",
-      "pubDate": "2026-07-12T23:24:46+00:00",
-      "link": "https://www.youtube.com/watch?v=KpSo3vK-M-c"
-    },
-    {
-      "league": "SOCCER",
-      "title": "England vs. Argentina Preview: Jurgen Klinsmann says it’ll be a ‘nailbiter’ 👀 | ESPN FC",
-      "videoId": "z6dhbbmikNE",
-      "author": "ESPN FC",
-      "pubDate": "2026-07-12T23:16:07+00:00",
-      "link": "https://www.youtube.com/watch?v=z6dhbbmikNE"
-    },
-    {
-      "league": "SOCCER",
-      "title": "Has Argentina been LUCKY during their 2026 World Cup run? 😳 | ESPN FC",
-      "videoId": "tJauHwwxeUo",
-      "author": "ESPN FC",
-      "pubDate": "2026-07-12T22:58:06+00:00",
-      "link": "https://www.youtube.com/watch?v=tJauHwwxeUo"
     },
     {
       "league": "WNBA",
@@ -5683,14 +5783,6 @@
       "author": "WNBA",
       "pubDate": "2026-07-12T19:01:30+00:00",
       "link": "https://www.youtube.com/watch?v=dwep46lyWG8"
-    },
-    {
-      "league": "SOCCER",
-      "title": "Why did Erling Haaland come off against England? 🤔",
-      "videoId": "y2A_m33Vu7k",
-      "author": "ESPN FC",
-      "pubDate": "2026-07-12T16:34:24+00:00",
-      "link": "https://www.youtube.com/watch?v=y2A_m33Vu7k"
     },
     {
       "league": "NFL",
@@ -5739,22 +5831,6 @@
       "author": "NFL on ESPN",
       "pubDate": "2026-07-11T18:19:07+00:00",
       "link": "https://www.youtube.com/watch?v=MoFX1uQTHvc"
-    },
-    {
-      "league": "NHL",
-      "title": "FULL GAME REPLAY: THAT Game 7 Comeback! Golden Knights @ Sharks | April 23, 2019",
-      "videoId": "iZWWm9CGgs0",
-      "author": "NHL",
-      "pubDate": "2026-07-10T23:00:21+00:00",
-      "link": "https://www.youtube.com/watch?v=iZWWm9CGgs0"
-    },
-    {
-      "league": "NFL",
-      "title": "Bill Barnwell echoes Tom Brady’s sentiment 😤",
-      "videoId": "19lOL5jv1lU",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-07-10T21:34:52+00:00",
-      "link": "https://www.youtube.com/watch?v=19lOL5jv1lU"
     }
   ]
 }
