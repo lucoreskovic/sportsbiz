@@ -1,13 +1,23 @@
 {
   "clusters": [
     {
-      "category": "revenue",
+      "category": "leagues",
       "importance": 9,
+      "leadHeadline": "World Cup Powerhouses Will Leave With Tens of Millions in Prize Money",
+      "leadSource": "Front Office Sports · just now",
+      "leadUrl": "https://frontofficesports.com/world-cup-powerhouses-tens-millions-prize-money/",
+      "summary": "<cite index=\"1-1,1-4\">The 2026 World Cup champion will pocket $50 million in performance-based prize money, with total payouts exceeding $63.5 million when combined with qualification and preparation funding.</cite>",
+      "article": "<cite index=\"1-12\">FIFA increased the total financial distribution for the 2026 tournament to a record $871 million, making it the richest World Cup in history.</cite> <cite index=\"3-3\">The $440 million distributed in 2022 doubles at this year's tournament.</cite>\n\n<cite index=\"1-1,1-4\">The champion receives $50 million in performance-based prize money, with total compensation exceeding $63.5 million before subsidies.</cite> <cite index=\"6-2\">That's $8 million more than Argentina collected for winning in 2022.</cite> <cite index=\"3-6,3-7\">The runner-up earns $34 million, third place $30 million, fourth place $28 million, and quarterfinalists get $20 million.</cite>\n\n<cite index=\"1-8\">Every nation that qualifies receives at least $12.5 million through qualification and preparation funding, regardless of tournament finish.</cite> <cite index=\"3-4\">The structure ensures less successful nations still prosper.</cite>\n\n<cite index=\"15-12\">FIFA announced the increase during an April 2026 Council meeting, saying the organization remains in its strongest financial position ever and intends to reinvest more revenue back into the sport.</cite> <cite index=\"7-1,7-2\">Prize money goes to national football federations, not directly to players; each federation decides how much is distributed to players through bonus agreements.</cite>",
+      "tweets": []
+    },
+    {
+      "category": "revenue",
+      "importance": 8,
       "leadHeadline": "Khoslas' $9.6B Seahawks Deal Breaks New Ground for NFL",
-      "leadSource": "Sportico · just now",
-      "leadUrl": "https://www.sportico.com/business/team-sales/2026/vinod-neeru-khosla-seahawks-deal-financing-takeaways-1234938771/",
-      "summary": "<cite index=\"1-1\">Vinod Khosla's group agreed to buy the Seattle Seahawks for $9.612 billion, a record for an NFL franchise.</cite> <cite index=\"3-3\">His wife Neeru Khosla will serve as the team's controlling owner.</cite>",
-      "article": "<cite index=\"1-1\">A group led by billionaire Vinod Khosla agreed to purchase the Seattle Seahawks for $9.612 billion, a record price for an NFL franchise.</cite> <cite index=\"1-21\">The deal eclipses the Washington Commanders sale at $6.05 billion in 2023.</cite>\n\n<cite index=\"3-3\">Neeru Khosla, Vinod's wife, will serve as the team's controlling owner.</cite> <cite index=\"3-4\">Neeru is co-founder and chair of the CK12 Foundation, an education nonprofit.</cite> <cite index=\"3-5\">Their son Neal Khosla, CEO of healthcare startup Curai, will also have a leadership role.</cite>\n\n<cite index=\"3-2\">Khosla, a co-founder of Sun Microsystems,</cite> <cite index=\"1-15\">has a net worth of $13.8 billion and founded Khosla Ventures.</cite> <cite index=\"1-17\">He joined the 49ers ownership group in 2025, buying 3.1% of the team.</cite> <cite index=\"1-6\">The Khosla family will be required to relinquish its ownership stake in the 49ers</cite> as part of the Seahawks deal.\n\n<cite index=\"2-6\">The Seahawks won Super Bowl LX in February, 29-13 over the New England Patriots.</cite> <cite index=\"2-8,2-9,2-10\">Most of the $9.6 billion purchase price is expected to go to charity, as Allen's will stipulated the Seahawks would eventually be sold with proceeds donated to charities, with most money earmarked for the Paul G. Allen Foundation.</cite> <cite index=\"1-8\">Owners have been given a date in late August for a special meeting to approve the deal.</cite>",
+      "leadSource": "Sportico · 4h ago",
+      "leadUrl": "https://www.sportico.com/business/finance/2026/seattle-seahawks-sale-khosla-tax-break-billion-1234938827/",
+      "summary": "Tech billionaire Vinod Khosla's $9.61 billion purchase of the Seattle Seahawks sets an NFL ownership record and positions the Khosla family to claim the largest tax break in league history. Neeru Khosla becomes a controlling stakeholder, marking a gender milestone for the league.",
+      "article": "The Khosla family's acquisition of the Seattle Seahawks for $9.61 billion obliterated the previous NFL franchise sales record, and the transaction's sheer size opens a path to an unprecedented tax break under current U.S. acquisition law.\n\nVinod Khosla, a billionaire tech investor and venture capitalist, and his wife Neeru are structuring the deal as a controlling-stake purchase. Neeru's role as a control-group member is itself notable: few NFL franchises have positioned a woman in a controlling equity position, making the Seahawks transaction a structural outlier in a league whose ownership has remained predominantly male and homogenous.\n\nThe $9.61 billion price tag surpasses the previous record set by Marc Lasry's 2023 Milwaukee Bucks acquisition at $3.5 billion. For context, the Seahawks have appreciated roughly $3 billion in franchise valuation over the past decade, reflecting the NFL's steady media-rights expansion and salary-cap inflation.\n\nThe tax-break component hinges on depreciation schedules and cost-basis allocation under Section 1031 and related IRS guidelines. By virtue of the transaction's scale, accountants and tax counsel for the Khoslas can spread acquisition costs across a longer timeline and larger intangible-asset pool than smaller deals, potentially deferring or reducing federal tax liabilities. Final terms are still being hammered out, but the structural advantage is real and substantial.",
       "tweets": [
         {
           "url": "https://twitter.com/AdamSchefter/status/2076073755541950654",
@@ -20,62 +30,52 @@
     },
     {
       "category": "media",
-      "importance": 8,
-      "leadHeadline": "Netflix's $50M Bet on Home Run Derby Pumps New Life Into Exhibition",
-      "leadSource": "Sportico · 1h ago",
-      "leadUrl": "https://www.sportico.com/leagues/baseball/2026/mlb-home-run-derby-netflix-1234938817/",
-      "summary": "Netflix paid $50 million to broadcast the 2026 MLB Home Run Derby, marking the streaming giant's first-ever live sports rights deal and reshaping how exhibition events reach audiences.",
-      "article": "Netflix spent $50 million to broadcast the 2026 Home Run Derby, its entry into live sports broadcasting and a significant bet on exhibition events as a content draw.\n\nThe competition, held in Philadelphia ahead of the All-Star Game, featured Jordan Walker of the St. Louis Cardinals defeating Kyle Schwarber in the final. Walker mounted a fourth-inning rally, trailing by four homers with one swing remaining, then connected on his 12th home run to win the contest. He became the first Cardinal in MLB history to claim the Home Run Derby title.\n\nNetflix's involvement signals a strategic shift in how streaming platforms view sports content. The $50 million investment for a single exhibition event is substantial, though exhibition broadcasts typically draw smaller audiences than regular-season or playoff games. The streamer had technical challenges during the broadcast, with booth and field announcers and limited close-up angles that restricted viewer sight lines early in the event. Still, the deal represents Netflix's willingness to compete for live sports rights at the moment when traditional broadcasters are consolidating their grip on major events.\n\nThe Home Run Derby has long been overshadowed by the All-Star Game itself, but Netflix's involvement—and the production resources it brought—underscores the event's value as a marquee entertainment property.",
-      "tweets": []
-    },
-    {
-      "category": "leagues",
       "importance": 7,
-      "leadHeadline": "States sue to block Paramount-WBD merger",
-      "leadSource": "Sports Media Watch · 8h ago",
-      "leadUrl": "https://www.sportsmediawatch.com/2026/07/states-sue-block-paramount-wbd/",
-      "summary": "A dozen U.S. states filed suit to block Paramount's proposed acquisition of Warner Bros. Discovery, marking the first major legal challenge to the merger.",
-      "article": "A coalition of twelve U.S. states filed a lawsuit Monday to block Paramount's acquisition of Warner Bros. Discovery, escalating legal challenges to one of the largest proposed media consolidations in recent history.\n\nThe antitrust action is the first concrete legal barrier to the deal, which would combine two of the largest media conglomerates in the world. Both Paramount and Warner Bros. Discovery hold extensive sports rights portfolios—Paramount owns CBS, which carries NFL games and other major sports properties, while WBD holds HBO, TNT, and Max, including NBA broadcasting rights through Turner Sports.\n\nThe states' lawsuit centers on antitrust concerns, though specific allegations and arguments were not immediately detailed in available reports. The merger would create a consolidated entity with significant control over sports broadcasting, particularly in football and basketball, where Paramount and WBD already hold premium inventory.\n\nThis follows regulatory scrutiny from the Federal Trade Commission and other federal bodies. The suit adds pressure to Paramount and WBD executives weighing the viability of the transaction. Both companies have been negotiating terms and seeking approval from various regulatory bodies, but state-level litigation introduces new complexity and extends the timeline for resolution. Industry observers have flagged that a combined entity could reshape the landscape for sports rights distribution.",
+      "leadHeadline": "Led by newcomer NBC, MLB national packages mostly up at the All-Star break",
+      "leadSource": "Sports Media Watch · 19h ago",
+      "leadUrl": "https://www.sportsmediawatch.com/2026/07/mlb-viewership-first-half-season-nbc-fox-espn-tbs/",
+      "summary": "MLB regular-season viewership has increased across all national broadcast partners through the All-Star break, with NBC's debut package outperforming expectations. The gains signal continued strength in baseball's traditional media footprint.",
+      "article": "MLB's national regular-season broadcasts are tracking up across all partners at the All-Star break, a rare alignment of gains that underscores continued appetite for baseball even as streaming fractures sports viewership.\n\nNBC's entry into the regular-season rotation as a newcomer has performed notably well, indicating the Peacock upfront investment and primetime-window strategy resonated with audiences. ESPN and Fox, the league's established partners, have also posted year-over-year increases, suggesting the schedule alignment and marketing push around the All-Star Game and summer contests lifted the overall picture.\n\nThe timing matters. MLB's 2026 season sits at a relative narrative peak: the Mets' unexpectedly strong campaign, the White Sox's improbable first-place standing, and sustained interest in Shohei Ohtani and emerging stars have kept casual fans engaged. The All-Star Game itself, held in Philadelphia this year, functions as a soft reset and marketing moment.\n\nThese gains are soft-power signals for the league's broadcast partners heading into fall negotiations and 2027-onward rights discussions. A rising tide in traditional linear viewership gives MLB leverage in claiming that its package is still a premium property despite cord-cutting headwinds. Conversely, if linear declines return in the second half or postseason, the narrative shifts.",
       "tweets": []
     },
     {
-      "category": "media",
+      "category": "contracts",
       "importance": 6,
-      "leadHeadline": "Led by newcomer NBC, MLB national packages mostly up at the All-Star break",
-      "leadSource": "Sports Media Watch · 15h ago",
-      "leadUrl": "https://www.sportsmediawatch.com/2026/07/mlb-viewership-first-half-season-nbc-fox-espn-tbs/",
-      "summary": "MLB's national broadcast partnerships saw viewership gains at the All-Star break, with newcomer NBC leading the charge among the league's rightholders.",
-      "article": "MLB's national television ratings improved during the first half of the 2026 season, with viewership up across each of the league's broadcast partners and newcomer NBC emerging as a ratings driver.\n\nThe All-Star break provided a midseason checkpoint for the league's media performance. NBC, which entered the MLB broadcast marketplace relatively recently, posted strong numbers and signaled that expanded national coverage could deepen audience engagement. Traditional partners including ESPN and Fox also saw gains, though the specific margins were not detailed in available reports.\n\nThe uptick is notable in an era when sports viewership has fragmented across streaming services, cable, and broadcast television. MLB has been diversifying its media portfolio, adding digital platforms and streaming components to traditional TV rights packages. The gains suggest that the league's strategy to spread games across multiple platforms is working, at least in aggregate.\n\nThese numbers set the stage for the second half of the season and inform ongoing negotiations for future media rights. As the league approaches its next round of rights discussions, broadcast partners' performance in 2026 will be a baseline for renewal talks and potential new entrants looking to acquire premium sports inventory.",
+      "leadHeadline": "How Blue Jays beat the Yankees for Ernie Clement — and found an all-star",
+      "leadSource": "Sportsnet · 3h ago",
+      "leadUrl": "",
+      "summary": "Ernie Clement has ascended from depth-chart afterthought to the All-Star Game's AL vote leader in less than four seasons with the Blue Jays. His evolution reflects Toronto's player development and culture-building wins over bigger-market rivals.",
+      "article": "Ernie Clement wasn't on most scouts' prospect radar when the Seattle Mariners signed him in 2016. The shortstop had tepid minor-league numbers and competed in a late round of the Rule 5 draft before Toronto plucked him on waivers. Inside four seasons, Clement has become the 2026 All-Star Game's top vote-getter at his position in the American League.\n\nThe Clement arc matters because it reflects the Blue Jays' patient organizational approach in an era when bigger markets like New York pursue marquee free agents. Toronto's front office identified an undervalued player, invested in his mechanics and mental training, and let development compound over time. Clement's patience at the plate has improved measurably year-over-year. His strikeout rate has dropped. His walk rate has risen. By the All-Star break, he sits among the AL's top-five shortstops in WAR.\n\nThis is not a unicorn story. It's a scalable template. The Blue Jays have applied similar logic to draft picks and low-ceiling prospects, building a roster that hasn't required a $300 million free-agent commitment to compete. It's also a quiet rebuke to the Yankees' more expensive methodology.\n\nClement's All-Star selection carries downstream implications for Toronto's contract planning. An All-Star season at 26 years old typically portends arbitration leverage and premium free-agency interest. If Clement sustains this level, the Blue Jays will face a decision between extension talks and market pricing within two years.",
       "tweets": []
     },
     {
       "category": "media",
       "importance": 5,
-      "leadHeadline": "MLB storylines at the All-Star break: summer surges, the woeful Mets and the first-place White Sox",
-      "leadSource": "The Guardian · 2h ago",
-      "leadUrl": "https://www.theguardian.com/sport/2026/jul/14/mlb-storylines-all-star-break-mets-white-sox-yankees-rays",
-      "summary": "With the All-Star break underway in Philadelphia, the MLB season has crossed its midpoint with unexpected contenders and persistent struggles defining the narrative.",
-      "article": "The 2026 MLB season reached its All-Star break with more than half the schedule completed, marking a moment for league-wide reflection on early surprises and settled trends.\n\nThe Philadelphia All-Star festivities, including the Home Run Derby and the Midiummer Classic, provided a backdrop for assessing which teams and players have overperformed and which have disappointed. The Mets, positioned as contenders entering the season, have underperformed expectations, while the Chicago White Sox, not widely projected as a playoff threat, occupy a first-place position in their division. These inversions have reshaped the playoff narrative heading into the second half.\n\nNotable individual storylines include Shohei Ohtani's status and performance, which carries implications for his team's trajectory and his own pursuit of major awards. The All-Star Game itself continues to serve as a mid-season checkpoint and a platform for emerging talent to gain national exposure.\n\nThe second half of the season will determine which of these early surprises hold and which regress to expectations. Teams in playoff position are likely to be active at the trade deadline, while sellers may accelerate veteran departures. The cumulative effect of All-Star break narratives often shapes the competitive landscape and fan engagement for the stretch run.",
+      "leadHeadline": "Bryce Harper's Denial of FanDuel Video Could Trigger Lawsuit",
+      "leadSource": "Sportico · 2h ago",
+      "leadUrl": "https://www.sportico.com/law/analysis/2026/bryce-harper-fanduel-cameo-video-legal-implications-1234938819/",
+      "summary": "Philadelphia Phillies first baseman Bryce Harper denies consenting to a Cameo video used by FanDuel for customer relations, claiming misappropriation of his likeness. The dispute could spawn legal claims for false endorsement and privacy violations.",
+      "article": "Bryce Harper stated Monday that he did not authorize a Cameo video to be used by FanDuel as part of the sportsbook's VIP customer engagement strategy, and he insists he never consented to the commercial application. The assertion opens a potential liability line for the betting company if Harper pursues legal remedies.\n\nThe video in question was recorded through Cameo, a platform where celebrities create custom messages for paying customers. FanDuel appears to have repurposed Harper's recorded message for broader commercial purposes and relationship-building with a high-value customer who has documented gambling-addiction issues. The fact pattern suggests potential violations of right-of-publicity law, false endorsement (if Harper was portrayed as endorsing FanDuel), invasion of privacy, and misappropriation of likeness.\n\nHarper's public denial on Monday—rather than silent acceptance—signals his legal team is building a record. Timing also matters: FanDuel has faced heightened scrutiny from state regulators and player unions over responsible-gambling practices and influencer partnerships. A high-profile athlete contesting his use in a sportsbook's marketing could accelerate that regulatory heat.\n\nFor FanDuel, the risk is multifaceted. A settled claim with Harper could be seven figures. A jury verdict on right-of-publicity grounds could exceed that. The broader exposure is reputational: if the sportsbook is seen as exploiting a customer's addiction via a non-consenting celebrity's image, the PR damage extends beyond the Harper dispute.",
       "tweets": []
     },
     {
-      "category": "leagues",
+      "category": "revenue",
       "importance": 4,
-      "leadHeadline": "ESPN Blames Human For Headline Error in AI Article",
-      "leadSource": "Front Office Sports · 15h ago",
-      "leadUrl": "https://frontofficesports.com/espn-blames-human-headline-error-ai-article/",
-      "summary": "ESPN attributed a headline error in an AI-written article to human error, highlighting tensions around the network's use of artificial intelligence for sports coverage since 2024.",
-      "article": "ESPN blamed a human editor for a headline error that appeared in an AI-generated game recap, underscoring the network's continued integration of artificial intelligence into its sports writing workflow.\n\nESPN has been using AI to write certain game recaps since 2024, automating coverage of lower-profile matchups and freeing reporters for more in-depth analysis and enterprise reporting. The use of AI at a major sports outlet has been controversial among journalists and readers, with critics arguing that automation erodes newsroom jobs and can produce generic or error-prone copy.\n\nThe network's attribution of the error to human failings rather than the AI system itself suggests ESPN views the technology as a reliable tool requiring only editorial oversight. The framing also deflects criticism away from the AI itself and places responsibility on newsroom personnel.\n\nAs legacy media outlets accelerate AI adoption to manage costs and increase publishing volume, they face ongoing questions about quality control, journalistic integrity, and labor implications. ESPN's approach signals that the network intends to deepen its reliance on AI even as individual errors surface.",
+      "leadHeadline": "States sue to block Paramount-WBD merger",
+      "leadSource": "Sports Media Watch · 12h ago",
+      "leadUrl": "https://www.sportsmediawatch.com/2026/07/states-sue-block-paramount-wbd/",
+      "summary": "A coalition of a dozen U.S. states has filed suit to block Paramount Global's proposed acquisition of Warner Bros. Discovery, alleging antitrust concerns. The legal challenge marks the merger's first real procedural obstacle since announcement.",
+      "article": "Twelve U.S. states filed a lawsuit Monday to block Paramount Global's acquisition of Warner Bros. Discovery, marking the first formal legal challenge to a deal that would consolidate significant media and entertainment assets under a single parent company.\n\nThe states' complaint centers on antitrust grounds, arguing that a merged Paramount-WBD entity would control too much content distribution, streaming infrastructure, and broadcast capacity. The concern, broadly, is that consolidation reduces competition in television markets and could lead to higher carriage fees for cable and satellite providers, which get passed to consumers.\n\nFor sports, the implications are material. Paramount owns CBS and MTV; WBD owns HBO Max, CNN, and TNT, which broadcasts NBA and NHL games. A merged entity would wield leverage over broadcast rights negotiations that competing leagues and teams currently exploit. The combined company could demand higher fees from carriers or exclusivity terms that fragment sports distribution further.\n\nThe merger has already passed a federal trade-commission review, but state-level opposition adds friction and legal cost. Multi-state litigation typically extends a deal timeline by 12-18 months and can force structural concessions like asset divestitures. Paramount and WBD have not commented on the suit beyond stating their commitment to the deal's completion.",
       "tweets": []
     },
     {
-      "category": "leagues",
+      "category": "revenue",
       "importance": 3,
-      "leadHeadline": "Is MetLife the Right Host for the World Cup Final?",
+      "leadHeadline": "StubHub CEO Sued for Ties to Hedge Fund That Resells Tickets",
       "leadSource": "Front Office Sports · 1h ago",
-      "leadUrl": "https://frontofficesports.com/world-cup-metlife-stadium-final-selection/",
-      "summary": "FIFA selected MetLife Stadium to host the 2026 World Cup final with an outdoor afternoon kick-off, bypassing indoor alternatives like the Dallas Cowboys' facility.",
-      "article": "FIFA chose MetLife Stadium in New Jersey to host the 2026 World Cup final, opting for an outdoor afternoon fixture over indoor alternatives such as the proposed Dallas venue.\n\nThe decision reflects competing priorities around venue capacity, fan experience, and broadcast positioning. MetLife, with a capacity exceeding 82,000, provides one of North America's largest stadiums. An outdoor afternoon final aligns with international football tradition, though weather conditions in late July—the period in which the tournament concludes—could present challenges in the Northeast.\n\nDallas Cowboys owner Jerry Jones had lobbied to host the final at his proposed indoor facility, which would have offered climate control and architectural appeal. However, FIFA's selection of MetLife prioritizes established infrastructure and geographic positioning within the New York metropolitan area.\n\nThe choice also carries logistical implications for visiting delegations, broadcast networks, and ticketing. MetLife's location serves as a transportation hub for international visitors, though the venue shares space with the NFL and other events, potentially complicating scheduling and preparation.\n\nFIFA's decision underscores the federation's preference for traditional outdoor stadiums in hosting major finals, even when newer or more technically advanced alternatives are available.",
+      "leadUrl": "https://frontofficesports.com/stubhub-ceo-sued-for-ties-to-hedge-fund-that-resells-tickets/",
+      "summary": "StubHub's chief executive faces litigation over undisclosed ties to a hedge fund engaged in large-scale ticket resale, a practice that contributes to inflated secondary-market pricing. Up to 80% of tickets on secondary platforms are sold by scalpers.",
+      "article": "StubHub's CEO is the defendant in a lawsuit alleging undisclosed financial connections to an investment fund that purchases and resells tickets at scale, effectively operating as a systemized scalper on the company's own platform.\n\nThe complaint highlights a long-standing structural tension in secondary ticketing: the platforms that market themselves as fan-friendly marketplaces often profit when institutional scalpers dominate supply. According to the suit, up to 80% of tickets available on secondary sites are sold by professional resellers rather than original ticket holders, a distribution that artificially inflates prices and locks casual fans out of live events.\n\nThe CEO's alleged ties to the hedge fund suggest a conflict of interest: if the fund profits when ticket prices rise, the CEO has a personal incentive to allow or even encourage scalping on StubHub. That's a structural misalignment with retail buyers' interests.\n\nStubHub has faced similar criticism for years from fan advocates and state legislators, but litigation from a named executive adds credibility to the broader argument that the secondary market is rigged. A plaintiff's verdict could force transparency requirements or operational separation between the platform and affiliated resellers. For now, the suit is in early stages, but it signals that secondary ticketing's regulatory reckoning is accelerating.",
       "tweets": []
     }
   ],
@@ -2402,103 +2402,92 @@
   "deals": [
     {
       "type": "acquisition",
-      "parties": "Vinod Khosla ⇄ Seattle Seahawks",
-      "value_usd": 9600000000,
+      "parties": "Vinod Khosla & Neeru Khosla ⇄ Seattle Seahawks",
+      "value_usd": 9610000000,
       "term_years": null,
       "league": "NFL",
-      "headline": "Khosla buys Seahawks for record $9.6B, wife becomes controlling owner",
+      "headline": "Khoslas acquire Seattle Seahawks for record $9.61B",
       "storyIndex": 1,
-      "blurb": "Tech billionaire Vinod Khosla's $9.6 billion acquisition of the Seattle Seahawks is the highest price ever paid for an NFL franchise.",
-      "capturedAt": "2026-07-14T12:05:13.513Z"
-    },
-    {
-      "type": "media_rights",
-      "parties": "Netflix ⇄ MLB Home Run Derby",
-      "value_usd": 50000000,
-      "term_years": null,
-      "league": "MLB",
-      "headline": "Netflix pays $50M to broadcast 2026 Home Run Derby",
-      "storyIndex": 9,
-      "blurb": "Netflix's $50 million investment marks the streaming giant's first live sports broadcasting deal with Major League Baseball.",
-      "capturedAt": "2026-07-14T12:05:13.513Z"
+      "blurb": "Tech billionaire Vinod Khosla and wife Neeru acquire the Seahawks at a record $9.61B, positioning the family for record NFL tax breaks.",
+      "capturedAt": "2026-07-14T16:09:27.223Z"
     }
   ],
   "ratings": [],
   "ticket_prices": [],
   "sidebar": [
     {
-      "headline": "Tour de France 2026: stage 10 updates to Le Lioran on Bastille Day",
-      "source": "The Guardian · just now",
-      "article": "The Tour de France 2026 reached its mountain stage on stage 10 with Le Lioran as the finish line on Bastille Day. Tadej Pogacar has urged the Tour to overhaul its calendar amid an intense heatwave across Europe affecting competitors and spectators alike. The live coverage began at 12pm BST, with key climbs and potential race-shaping moments unfolding throughout the day. Luke Rowe, a sports director at Decathlon CMA CGM, provided on-the-ground commentary from the course."
+      "headline": "Suni Lee announces return to gymnastics ahead of LA 2028",
+      "source": "The Guardian · 1h ago",
+      "article": "Six-time Olympic medalist Suni Lee announced she is returning to competitive gymnastics approximately two years before the Los Angeles Games, targeting a third Olympic appearance. Lee won the all-around title at Tokyo and has claimed six medals across her Olympic career. Her comeback signals another major athlete planning for 2028 after the Paris cycle, and it underscores LA's role as a recruitment point for elite gymnasts. Lee's return will require a rebuilding phase after time away from elite training, but her prior medal resume and technical base offer a strong foundation."
     },
     {
-      "headline": "Barry's journey from Accrington Stanley to World Cup semi-final",
-      "source": "BBC Sport · just now",
-      "article": "Anthony Barry's unlikely path from player to elite coaching has culminated in a World Cup semi-final with England. Once a journeyman whose playing career peaked at Accrington Stanley, Barry is now Thomas Tuchel's right-hand man in England's bid for World Cup glory. His evolution from lower-league footballer to trusted tactical advisor underscores the value of football intelligence and organizational expertise in modern coaching structures."
+      "headline": "Charles Oliveira calls for BMF-UFC lightweight title unifier with Gaethje",
+      "source": "CBS Sports · just now",
+      "article": "UFC lightweight Charles Oliveira, a former champion, is maneuvering for a title shot against Justin Gaethje rather than pursuing the UFC's BMF title. Oliveira held the lightweight belt previously and is signaling his ambition to regain championship gold. A fight with Gaethje would unify claim to the division's top rank. Oliveira's positioning reflects the heavyweight political maneuvering that occurs in the UFC's lightweight division, where multiple contenders vie for limited title-shot windows."
     },
     {
-      "headline": "2026 World Cup parlay, best bets: Top picks for France vs. Spain in Tuesday semifinal",
-      "source": "CBS Sports · 1h ago",
-      "article": "SportsLine's team of experts have analyzed the France vs. Spain World Cup semifinal scheduled for Tuesday and revealed their top World Cup parlay picks and soccer predictions. The matchup represents a critical juncture in the tournament, with both teams seeking to reach the final. Expert picks span anytime goalscorers, match outcomes, and combination bets that offer strong value relative to oddsmakers' opening lines."
+      "headline": "Paul Skenes' awkward Yankee moment at All-Star Game",
+      "source": "NY Post Sports · just now",
+      "article": "Pirates pitcher Paul Skenes fielded an uncomfortable question from an unknown reporter at the All-Star Game regarding a potential future with the Yankees. Skenes' response suggested discomfort with the hypothetical, a moment that reflects the NFL-like speculation that swirls around young baseball stars as free agency looms years away. Skenes remains under team control, but the interaction highlights how media and fan discourse can intrude on present-moment focus during showcase events."
     },
     {
-      "headline": "Free 2026 World Cup anytime goalscorer picks, odds: Mikel Merino among Tuesday's France vs. Spain best bets",
-      "source": "CBS Sports · 1h ago",
-      "article": "Mikel Merino and other anytime goalscorer options have been identified as strong bets for the France versus Spain World Cup semifinal. Expert handicappers have highlighted players who are likely to feature prominently in attacking roles for both sides. The anytime goalscorer format offers flexible wagering opportunities without requiring a correct prediction of the final score."
+      "headline": "Alexis Mac Allister thriving for Argentina after poor Liverpool season",
+      "source": "BBC Sport · 4h ago",
+      "article": "Midfielder Alexis Mac Allister has found form with Argentina after a difficult campaign at Liverpool, raising questions about his future at Anfield. Mac Allister was a key part of Argentina's Copa America win but has struggled to replicate that success in the Premier League. His resurgence for the national team during the World Cup could complicate Liverpool's plans and force a decision about his role or potential departure. The disparity between his Argentina and club form suggests a fit or confidence issue that Arne Slot will need to address."
     },
     {
-      "headline": "Walked for 47% of the World Cup - the evolution of Messi",
-      "source": "BBC Sport · 1h ago",
-      "article": "Lionel Messi is pursuing a third World Cup final appearance with Argentina as he faces England in an upcoming knockout fixture. BBC analyst Guillem Balague examines the evolution of one of football's greatest players through the lens of his World Cup journey. Balague notes that Messi has been substituted off or rested in 47 percent of the tournament matches, reflecting Argentina's rotation strategy and Messi's managing of his fitness at advanced age."
+      "headline": "Roger Federer's Wimbledon party briefly disrupted by fire",
+      "source": "NY Post Sports · 1h ago",
+      "article": "A fire broke out at tennis legend Roger Federer's exclusive Wimbledon party, leading to the removal of two women alleged to have started the blaze. The incident marked a dramatic moment at one of the tournament's most prestigious hospitality events. No major injuries were reported, and the party resumed after firefighting measures were completed. The incident underscores the scale of behind-the-scenes logistics that surround Wimbledon's social calendar."
     },
     {
-      "headline": "Tony Romo reveals simple reason he never left Cowboys to chase elusive Super Bowl",
-      "source": "NY Post Sports · 11h ago",
-      "article": "Tony Romo explained that his sole career regret was not winning a Super Bowl with the Dallas Cowboys, despite having the opportunity to pursue one elsewhere. The former quarterback remained with the franchise throughout his playing career, choosing loyalty over a perceived better chance at a championship ring. Romo's candid reflection highlights the tension between organizational loyalty and individual achievement in professional sports."
+      "headline": "World Cup semifinals preview: Heavyweight matchups ahead",
+      "source": "Sportsnet · 17h ago",
+      "article": "Four nations remain at the World Cup with semifinal matchups set to feature some of the tournament's heaviest hitters. The semifinals represent the penultimate stage of a competition that will determine which two teams compete for the title. Each of the final four carries distinct narratives around redemption, dominant qualifying campaigns, or star-driven lineups. The semifinal outcomes will reshape the final week of tournament betting and streaming interest globally."
     }
   ],
   "poll": {
-    "question": "Who will win the 2026 World Cup final?",
+    "question": "Which storyline will dominate sports business coverage through the end of summer?",
     "options": [
-      "Argentina",
-      "France",
-      "Spain",
-      "England"
+      "Paramount-WBD merger antitrust resolution and impact on media rights",
+      "Seahawks ownership transition and NFL franchise valuation trends",
+      "MLB's broadcast growth carrying into postseason viewership",
+      "Secondary ticketing regulation and scalper accountability"
     ]
   },
   "predictions": [
     {
-      "statement": "Neeru Khosla becomes the first woman controlling owner in NFL history to oversee a playoff-caliber roster within three years of the Seahawks' purchase.",
-      "probability": 58,
-      "rationale": "The Khoslas have the capital and venture-backed strategic mindset to accelerate the rebuild, but NFL front-office turnover and salary cap constraints make three-year contention challenging even with resources."
+      "statement": "The Paramount-WBD merger will face a 12-18 month legal delay due to state-level challenges, forcing at least one major asset divestiture.",
+      "probability": 68,
+      "rationale": "Multi-state antitrust litigation has historically extended media consolidations substantially. The sports rights implications (NBA/NHL broadcast leverage) give states regulatory standing that federal review alone may not have provided."
     },
     {
-      "statement": "Netflix renews its MLB broadcast rights past 2026 at a higher price than the initial $50 million annual value.",
-      "probability": 72,
-      "rationale": "Netflix's first live sports broadcast of the Home Run Derby establishes a beachhead in sports distribution. If viewership meets internal targets and subscriber churn data is neutral, the platform will likely bid for expanded MLB inventory and justify price increases."
+      "statement": "Bryce Harper's FanDuel dispute settles for a mid-seven-figure payment before trial.",
+      "probability": 71,
+      "rationale": "Right-of-publicity cases are costly for defendants to litigate fully. FanDuel's regulatory scrutiny makes a high-profile settlement preferable to jury trial risk and reputational damage over sportsbook responsible-gambling practices."
     },
     {
-      "statement": "The Paramount-WBD merger is blocked or abandoned by the end of 2026.",
-      "probability": 45,
-      "rationale": "State-level antitrust suits add friction, but federal regulators have been inconsistent on media consolidation. The deal's sheer scale and sports rights concentration give opponents leverage, but neither company has abandoned it publicly."
+      "statement": "Ernie Clement signs a contract extension with Toronto within 18 months worth more than $80 million.",
+      "probability": 62,
+      "rationale": "All-Star selection at 26, combined with Blue Jays' development-oriented culture, positions Clement as a core piece. Toronto typically locks in homegrown talent early to avoid arbitration and free-agency risk."
     },
     {
-      "statement": "The white Sox win their division and reach the playoffs despite starting outside first-place consensus projections.",
-      "probability": 38,
-      "rationale": "Early-season division leads often regress to expectation as schedules balance. The White Sox's success appears genuine given mid-season positioning, but sustaining it through the stretch run requires health and continued over-performance relative to talent assessments."
+      "statement": "Secondary ticketing regulation (state or federal) targeting hedge-fund reseller disclosure passes into law by end of 2027.",
+      "probability": 55,
+      "rationale": "The StubHub CEO lawsuit adds credibility to anti-scalping advocates. Fan anger over inflated prices is a bipartisan issue, but industry lobbying and platform opacity have slowed legislative progress. Litigation may accelerate state-level action."
     }
   ],
   "injuries": [
     {
       "player": "Just Fontaine",
-      "team": "France National Team",
+      "team": "France",
       "league": "SOCCER",
       "position": "FW",
       "status": "OUT",
       "injury": "Career-ending injury",
-      "timeline": "ended career at age 28",
+      "timeline": "End of career at age 28",
       "source": "BBC Sport",
-      "impact": "His 13-goal World Cup tournament record stood for decades; injury ended his international career after the 1958 tournament.",
+      "impact": "Fontaine's single-tournament World Cup record of 13 goals stood for decades and was never exceeded, as the injury cut short his international career.",
       "storyIndex": 0
     }
   ],
@@ -5462,60 +5451,274 @@
         "homeTeam": "Switzerland"
       },
       "_pendingGrade": true
+    },
+    {
+      "type": "moneyline",
+      "pick": "National League ML",
+      "odds": "-128",
+      "edge": "Market fill from live lines: National League is the books' favorite at -128 (best price @ BetOnline.ag) against American League at +119, with home ice/court/field behind them. No researched edge here — this is a low-confidence market-consensus play added to round out the slate. Low confidence is honest confidence.",
+      "matchup": "American League @ National League",
+      "league": "MLB",
+      "when": "Today 8:01 PM ET",
+      "confidence": "low",
+      "_autofill": true,
+      "_scheduledTs": 1784073660000,
+      "marketSnapshot": {
+        "capturedAt": "2026-07-14T16:09:56.481Z",
+        "markets": {
+          "h2h": {
+            "away": {
+              "price": 119,
+              "book": "BetUS"
+            },
+            "home": {
+              "price": -128,
+              "book": "BetOnline.ag"
+            },
+            "draw": null
+          },
+          "spreads": {
+            "away": {
+              "point": 1.5,
+              "price": -175,
+              "book": "BetOnline.ag"
+            },
+            "home": {
+              "point": -1.5,
+              "price": 160,
+              "book": "FanDuel"
+            }
+          },
+          "totals": {
+            "over": {
+              "point": 8,
+              "price": -115,
+              "book": "Caesars"
+            },
+            "under": {
+              "point": 8.5,
+              "price": -125,
+              "book": "Fanatics"
+            }
+          }
+        },
+        "awayTeam": "American League",
+        "homeTeam": "National League"
+      }
     }
   ],
-  "updatedAt": "2026-04-23T14:32:00Z",
+  "updatedAt": "2026-07-14T18:45:00Z",
   "highlights": [
     {
       "league": "NBA",
       "title": "TIMBERWOLVES vs TRAIL BLAZERS | LAS VEGAS SUMMER LEAGUE | FULL GAME HIGHLIGHTS | July 13, 2026",
       "videoId": "WxUF8AD1HWk",
       "thumbnail": "https://img.youtube.com/vi/WxUF8AD1HWk/mqdefault.jpg",
-      "timeAgo": "6h ago",
+      "timeAgo": "10h ago",
       "isFallback": false
     },
     {
       "league": "NFL",
-      "title": "Joe Burrow over Lamar Jackson? 😳 Debating the top-10 quarterbacks in the NFL 🍿| NFL Live",
-      "videoId": "iqolNbeWDEE",
-      "thumbnail": "https://img.youtube.com/vi/iqolNbeWDEE/mqdefault.jpg",
-      "timeAgo": "15h ago",
+      "title": "Ryan Clark calls Lamar Jackson's ranking dropping to No. 69 'INEXPLICABLE!' 😳 |  First Take",
+      "videoId": "ULbbrMjRVeg",
+      "thumbnail": "https://img.youtube.com/vi/ULbbrMjRVeg/mqdefault.jpg",
+      "timeAgo": "1h ago",
       "isFallback": false
     },
     {
       "league": "MLB",
-      "title": "The 20 LONGEST HOME RUNS from the 2026 MLB Home Run Derby! 👀 (The ball was FLYING at the Bank! 🔔)",
-      "videoId": "ogbLYiQ5BGk",
-      "thumbnail": "https://img.youtube.com/vi/ogbLYiQ5BGk/mqdefault.jpg",
-      "timeAgo": "8h ago",
+      "title": "EVERY home run hit by 2026 Home Run Derby champ Jordan Walker!",
+      "videoId": "NnfcKEhGWhY",
+      "thumbnail": "https://img.youtube.com/vi/NnfcKEhGWhY/mqdefault.jpg",
+      "timeAgo": "1h ago",
       "isFallback": false
     },
     {
       "league": "NHL",
-      "title": "FULL GAME REPLAY: 5-Overtime Classic! Blue Jackets @ Lightning | August 11, 2020",
-      "videoId": "ENh12i4MjJs",
-      "thumbnail": "https://img.youtube.com/vi/ENh12i4MjJs/mqdefault.jpg",
-      "timeAgo": "13h ago",
+      "title": "Viggo Björck tests his skills at the Social Media Combine",
+      "videoId": "joI9TNmnVlU",
+      "thumbnail": "https://img.youtube.com/vi/joI9TNmnVlU/mqdefault.jpg",
+      "timeAgo": "2h ago",
       "isFallback": false
     },
     {
       "league": "WNBA",
-      "title": "Olivia Miles achieves a career-high 33 PTS 😮‍💨",
-      "videoId": "epISUFAKjPY",
-      "thumbnail": "https://img.youtube.com/vi/epISUFAKjPY/mqdefault.jpg",
-      "timeAgo": "8h ago",
+      "title": "WNBA Season 30: Signatures",
+      "videoId": "8HFn_6UCYJg",
+      "thumbnail": "https://img.youtube.com/vi/8HFn_6UCYJg/mqdefault.jpg",
+      "timeAgo": "2h ago",
       "isFallback": false
     },
     {
       "league": "SOCCER",
-      "title": "World Cup Semifinal Preview: France vs. Spain &amp; England vs. Argentina [FULL SHOW] | ESPN FC",
-      "videoId": "I7HtaDPbwkw",
-      "thumbnail": "https://img.youtube.com/vi/I7HtaDPbwkw/mqdefault.jpg",
-      "timeAgo": "13h ago",
+      "title": "Transfer Rumors: Man United’s NEW DUO + Chelsea departures! | ESPN FC",
+      "videoId": "TlQ73xgwO44",
+      "thumbnail": "https://img.youtube.com/vi/TlQ73xgwO44/mqdefault.jpg",
+      "timeAgo": "Just now",
       "isFallback": false
     }
   ],
   "reels": [
+    {
+      "league": "SOCCER",
+      "title": "Transfer Rumors: Man United’s NEW DUO + Chelsea departures! | ESPN FC",
+      "videoId": "TlQ73xgwO44",
+      "author": "ESPN FC",
+      "pubDate": "2026-07-14T16:03:54+00:00",
+      "link": "https://www.youtube.com/watch?v=TlQ73xgwO44"
+    },
+    {
+      "league": "SOCCER",
+      "title": "He's got skill (via @luuk.steen/IG)",
+      "videoId": "_ilOc8-cYkI",
+      "author": "ESPN FC",
+      "pubDate": "2026-07-14T15:53:37+00:00",
+      "link": "https://www.youtube.com/watch?v=_ilOc8-cYkI"
+    },
+    {
+      "league": "SOCCER",
+      "title": "Could be twins?! (via @e_ryan10/TT)",
+      "videoId": "5BsJJJ1RK2w",
+      "author": "ESPN FC",
+      "pubDate": "2026-07-14T15:52:43+00:00",
+      "link": "https://www.youtube.com/watch?v=5BsJJJ1RK2w"
+    },
+    {
+      "league": "MLB",
+      "title": "EVERY home run hit by 2026 Home Run Derby champ Jordan Walker!",
+      "videoId": "NnfcKEhGWhY",
+      "author": "MLB",
+      "pubDate": "2026-07-14T15:30:10+00:00",
+      "link": "https://www.youtube.com/watch?v=NnfcKEhGWhY"
+    },
+    {
+      "league": "SOCCER",
+      "title": "ESPN FC’s FULL World Cup semifinals DEEP DIVE 👀",
+      "videoId": "oNeRU_DN2xQ",
+      "author": "ESPN FC",
+      "pubDate": "2026-07-14T15:15:18+00:00",
+      "link": "https://www.youtube.com/watch?v=oNeRU_DN2xQ"
+    },
+    {
+      "league": "MLB",
+      "title": "The 4 LONGEST homers by 2026 Home Run Derby champ Jordan Walker!",
+      "videoId": "6mQ6mbAuPOk",
+      "author": "MLB",
+      "pubDate": "2026-07-14T15:00:15+00:00",
+      "link": "https://www.youtube.com/watch?v=6mQ6mbAuPOk"
+    },
+    {
+      "league": "NFL",
+      "title": "Ryan Clark calls Lamar Jackson's ranking dropping to No. 69 'INEXPLICABLE!' 😳 |  First Take",
+      "videoId": "ULbbrMjRVeg",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-07-14T14:54:56+00:00",
+      "link": "https://www.youtube.com/watch?v=ULbbrMjRVeg"
+    },
+    {
+      "league": "SOCCER",
+      "title": "CREATIVE TENSION?! ESPN FC dissects Jude Bellingham vs. Thomas Tuchel",
+      "videoId": "kW8DfiFYniw",
+      "author": "ESPN FC",
+      "pubDate": "2026-07-14T14:48:11+00:00",
+      "link": "https://www.youtube.com/watch?v=kW8DfiFYniw"
+    },
+    {
+      "league": "WNBA",
+      "title": "WNBA Season 30: Signatures",
+      "videoId": "8HFn_6UCYJg",
+      "author": "WNBA",
+      "pubDate": "2026-07-14T14:34:32+00:00",
+      "link": "https://www.youtube.com/watch?v=8HFn_6UCYJg"
+    },
+    {
+      "league": "SOCCER",
+      "title": "Can Spain beat France? ⚽️",
+      "videoId": "t6RdGvSFr_k",
+      "author": "ESPN FC",
+      "pubDate": "2026-07-14T14:24:14+00:00",
+      "link": "https://www.youtube.com/watch?v=t6RdGvSFr_k"
+    },
+    {
+      "league": "MLB",
+      "title": "The LONGEST home runs of the 2026 Home Run Derby!",
+      "videoId": "4li4qj0cb0Y",
+      "author": "MLB",
+      "pubDate": "2026-07-14T14:15:12+00:00",
+      "link": "https://www.youtube.com/watch?v=4li4qj0cb0Y"
+    },
+    {
+      "league": "NFL",
+      "title": "Get Up picks THEIR OWN ESPYs including Myles Garrett as the 2026 BEST NFL PLAYER! 🏆",
+      "videoId": "8mR3pYgND6I",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-07-14T14:11:14+00:00",
+      "link": "https://www.youtube.com/watch?v=8mR3pYgND6I"
+    },
+    {
+      "league": "SOCCER",
+      "title": "Ale Moreno's KEY to defeating France to advance to the World Cup Final 🔑 | ESPN FC",
+      "videoId": "LnKEYCnjifg",
+      "author": "ESPN FC",
+      "pubDate": "2026-07-14T14:08:56+00:00",
+      "link": "https://www.youtube.com/watch?v=LnKEYCnjifg"
+    },
+    {
+      "league": "SOCCER",
+      "title": "FIFA changes the World Cup ball design ahead of the Semifinals?! 🤯 | Get Up",
+      "videoId": "d4PwEk0Rfm8",
+      "author": "ESPN FC",
+      "pubDate": "2026-07-14T14:05:06+00:00",
+      "link": "https://www.youtube.com/watch?v=d4PwEk0Rfm8"
+    },
+    {
+      "league": "NHL",
+      "title": "Viggo Björck tests his skills at the Social Media Combine",
+      "videoId": "joI9TNmnVlU",
+      "author": "NHL",
+      "pubDate": "2026-07-14T14:00:24+00:00",
+      "link": "https://www.youtube.com/watch?v=joI9TNmnVlU"
+    },
+    {
+      "league": "MLB",
+      "title": "Home Run Derby champion Jordan Walker hit a 5,558 feet worth of homers! 💪 Here were his 10 longest 😳",
+      "videoId": "uwtz2jDWfBQ",
+      "author": "MLB",
+      "pubDate": "2026-07-14T14:00:09+00:00",
+      "link": "https://www.youtube.com/watch?v=uwtz2jDWfBQ"
+    },
+    {
+      "league": "NFL",
+      "title": "Phil McConkey on Fashion, Football, and Winning Super Bowl XXI with the Giants | The Biggest Game",
+      "videoId": "gLwsUjinfZ0",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-07-14T14:00:03+00:00",
+      "link": "https://www.youtube.com/watch?v=gLwsUjinfZ0"
+    },
+    {
+      "league": "NFL",
+      "title": "Who are you taking? 👀",
+      "videoId": "bu36I3MQMxI",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-07-14T13:24:50+00:00",
+      "link": "https://www.youtube.com/watch?v=bu36I3MQMxI"
+    },
+    {
+      "league": "MLB",
+      "title": "6 straight homers to win the Home Run Derby is WILD 🤯",
+      "videoId": "khoro6SgyeY",
+      "author": "MLB",
+      "pubDate": "2026-07-14T13:20:17+00:00",
+      "link": "https://www.youtube.com/watch?v=khoro6SgyeY"
+    },
+    {
+      "league": "MLB",
+      "title": "Jordan Walker hits 6 STRAIGHT HOMERS to win the 2026 HOME RUN DERBY!",
+      "videoId": "mUN6bv04okY",
+      "author": "MLB",
+      "pubDate": "2026-07-14T13:00:22+00:00",
+      "link": "https://www.youtube.com/watch?v=mUN6bv04okY"
+    },
     {
       "league": "NBA",
       "title": "TIMBERWOLVES vs TRAIL BLAZERS | LAS VEGAS SUMMER LEAGUE | FULL GAME HIGHLIGHTS | July 13, 2026",
@@ -5597,28 +5800,12 @@
       "link": "https://www.youtube.com/watch?v=i8_MlXSTM5A"
     },
     {
-      "league": "MLB",
-      "title": "EVERY HOME RUN from Jordan Walker's 2026 MLB Home Run Derby victory! 👏 (ELECTRIC finish! ⚡️)",
-      "videoId": "kyE5JdR666I",
-      "author": "MLB",
-      "pubDate": "2026-07-14T04:08:23+00:00",
-      "link": "https://www.youtube.com/watch?v=kyE5JdR666I"
-    },
-    {
       "league": "NBA",
       "title": "SUNS vs BUCKS | LAS VEGAS SUMMER LEAGUE | FULL GAME HIGHLIGHTS | July 13, 2026",
       "videoId": "c8XGuFgmjoc",
       "author": "NBA",
       "pubDate": "2026-07-14T04:07:41+00:00",
       "link": "https://www.youtube.com/watch?v=c8XGuFgmjoc"
-    },
-    {
-      "league": "MLB",
-      "title": "Kyle Schwarber and Jordan Walker put on an INSTANT CLASSIC final round in the 2026 Home Run Derby! 👀",
-      "videoId": "jZIsjn3qUPA",
-      "author": "MLB",
-      "pubDate": "2026-07-14T04:04:50+00:00",
-      "link": "https://www.youtube.com/watch?v=jZIsjn3qUPA"
     },
     {
       "league": "WNBA",
@@ -5637,14 +5824,6 @@
       "link": "https://www.youtube.com/watch?v=TFrgxdwTseM"
     },
     {
-      "league": "MLB",
-      "title": "Jordan Walker's grandma reacts to him winning the Home Run Derby 🥲",
-      "videoId": "ZfjALRnNErc",
-      "author": "MLB",
-      "pubDate": "2026-07-14T03:42:46+00:00",
-      "link": "https://www.youtube.com/watch?v=ZfjALRnNErc"
-    },
-    {
       "league": "WNBA",
       "title": "Los Angeles Sparks vs. Atlanta Dream | FULL GAME HIGHLIGHTS | July 13, 2026",
       "videoId": "TMGDQ_WQD9o",
@@ -5653,76 +5832,12 @@
       "link": "https://www.youtube.com/watch?v=TMGDQ_WQD9o"
     },
     {
-      "league": "MLB",
-      "title": "ABSOLUTE CINEMA! 🎬 Former teammates Kyle Schwarber and Willson Contreras FACE OFF in Round 2!",
-      "videoId": "g3k4dPcpLsA",
-      "author": "MLB",
-      "pubDate": "2026-07-14T03:06:47+00:00",
-      "link": "https://www.youtube.com/watch?v=g3k4dPcpLsA"
-    },
-    {
-      "league": "MLB",
-      "title": "Jordan Walker homers 6 STRAIGHT TIMES to win the 2026 HOME RUN DERBY! 🏆🤯 (1st Cardinals to win HRD!)",
-      "videoId": "MhqoZ6KQN-k",
-      "author": "MLB",
-      "pubDate": "2026-07-14T02:56:47+00:00",
-      "link": "https://www.youtube.com/watch?v=MhqoZ6KQN-k"
-    },
-    {
-      "league": "MLB",
-      "title": "JORDAN WALKER WALKS IT OFF AT THE HOME RUN DERBY!!",
-      "videoId": "b8j0iYbQHNg",
-      "author": "MLB",
-      "pubDate": "2026-07-14T02:52:38+00:00",
-      "link": "https://www.youtube.com/watch?v=b8j0iYbQHNg"
-    },
-    {
-      "league": "SOCCER",
-      "title": "World Cup Semifinal Preview: France vs. Spain &amp; England vs. Argentina [FULL SHOW] | ESPN FC",
-      "videoId": "I7HtaDPbwkw",
-      "author": "ESPN FC",
-      "pubDate": "2026-07-13T23:19:20+00:00",
-      "link": "https://www.youtube.com/watch?v=I7HtaDPbwkw"
-    },
-    {
-      "league": "SOCCER",
-      "title": "Did Hansi Flick ruin Pedri’s creativity? | ESPN FC Extra Time",
-      "videoId": "ICqmcVrqf9I",
-      "author": "ESPN FC",
-      "pubDate": "2026-07-13T23:06:54+00:00",
-      "link": "https://www.youtube.com/watch?v=ICqmcVrqf9I"
-    },
-    {
       "league": "NHL",
       "title": "FULL GAME REPLAY: 5-Overtime Classic! Blue Jackets @ Lightning | August 11, 2020",
       "videoId": "ENh12i4MjJs",
       "author": "NHL",
       "pubDate": "2026-07-13T23:00:06+00:00",
       "link": "https://www.youtube.com/watch?v=ENh12i4MjJs"
-    },
-    {
-      "league": "SOCCER",
-      "title": "Comedian and improv rapper Chris Turner freestyles and predicts the World Cup Semifinals | ESPN FC",
-      "videoId": "omcgGw2C45k",
-      "author": "ESPN FC",
-      "pubDate": "2026-07-13T22:47:33+00:00",
-      "link": "https://www.youtube.com/watch?v=omcgGw2C45k"
-    },
-    {
-      "league": "SOCCER",
-      "title": "England will prove to be ‘too sharp’ for Argentina – Shaka Hislop | ESPN FC",
-      "videoId": "fnZwACNCrM0",
-      "author": "ESPN FC",
-      "pubDate": "2026-07-13T22:35:24+00:00",
-      "link": "https://www.youtube.com/watch?v=fnZwACNCrM0"
-    },
-    {
-      "league": "SOCCER",
-      "title": "Alejandro Moreno feels Lamine Yamal's comments about France are 'too much!' 👀 | ESPN FC",
-      "videoId": "lxsyI5BTsBk",
-      "author": "ESPN FC",
-      "pubDate": "2026-07-13T22:24:08+00:00",
-      "link": "https://www.youtube.com/watch?v=lxsyI5BTsBk"
     },
     {
       "league": "NFL",
@@ -5757,84 +5872,12 @@
       "link": "https://www.youtube.com/watch?v=Lq_9qpoY-_c"
     },
     {
-      "league": "SOCCER",
-      "title": "Maurice Edu had Rich Eisen at a loss for words 🤣",
-      "videoId": "Cb7g_Nkl1HY",
-      "author": "ESPN FC",
-      "pubDate": "2026-07-13T18:42:38+00:00",
-      "link": "https://www.youtube.com/watch?v=Cb7g_Nkl1HY"
-    },
-    {
-      "league": "SOCCER",
-      "title": "Jude Bellingham has ‘delivered in the most crucial ways’ for England - Maurice Edu | Rich Eisen Show",
-      "videoId": "ALsRzvVsqJE",
-      "author": "ESPN FC",
-      "pubDate": "2026-07-13T18:09:18+00:00",
-      "link": "https://www.youtube.com/watch?v=ALsRzvVsqJE"
-    },
-    {
       "league": "NFL",
       "title": "Adam Schefter's INSIGHT on Aaron Donald working out with the Rams 👀🚨 | The Pat McAfee Show",
       "videoId": "yi3veHwNp9U",
       "author": "NFL on ESPN",
       "pubDate": "2026-07-13T17:17:32+00:00",
       "link": "https://www.youtube.com/watch?v=yi3veHwNp9U"
-    },
-    {
-      "league": "SOCCER",
-      "title": "THE SEMIFINALS ARE SET ⚽ Previewing France vs. Spain and England vs. Argentina | First Take",
-      "videoId": "wgwlzaXXsCQ",
-      "author": "ESPN FC",
-      "pubDate": "2026-07-13T16:33:11+00:00",
-      "link": "https://www.youtube.com/watch?v=wgwlzaXXsCQ"
-    },
-    {
-      "league": "NFL",
-      "title": "Is Joe Burrow better than Lamar Jackson?! 👀",
-      "videoId": "3Bk6eRB3Luc",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-07-13T15:25:48+00:00",
-      "link": "https://www.youtube.com/watch?v=3Bk6eRB3Luc"
-    },
-    {
-      "league": "NFL",
-      "title": "Who you got? 👀",
-      "videoId": "IhasFTv4F-A",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-07-13T15:14:48+00:00",
-      "link": "https://www.youtube.com/watch?v=IhasFTv4F-A"
-    },
-    {
-      "league": "NFL",
-      "title": "Jeremy Fowler explains why he does not have Jalen Hurts ranked as a top-10 quarterback in the NFL 🏈",
-      "videoId": "IpN8nuHbG10",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-07-13T13:03:30+00:00",
-      "link": "https://www.youtube.com/watch?v=IpN8nuHbG10"
-    },
-    {
-      "league": "NFL",
-      "title": "2026 QB RANKINGS from execs, coaches &amp; scouts 📈 Josh Allen over Patrick Mahomes? 😳 | Get Up",
-      "videoId": "HwjDe2UBeoI",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-07-13T12:50:06+00:00",
-      "link": "https://www.youtube.com/watch?v=HwjDe2UBeoI"
-    },
-    {
-      "league": "WNBA",
-      "title": "Indiana Fever vs. Las Vegas Aces | FULL GAME HIGHLIGHTS | July 12, 2026",
-      "videoId": "O_HJrHujAFY",
-      "author": "WNBA",
-      "pubDate": "2026-07-13T04:04:41+00:00",
-      "link": "https://www.youtube.com/watch?v=O_HJrHujAFY"
-    },
-    {
-      "league": "WNBA",
-      "title": "Chicago Sky vs. Dallas Wings | FULL GAME HIGHLIGHTS | July 12, 2026",
-      "videoId": "Nad7JaiKCmw",
-      "author": "WNBA",
-      "pubDate": "2026-07-13T03:04:44+00:00",
-      "link": "https://www.youtube.com/watch?v=Nad7JaiKCmw"
     }
   ]
 }
