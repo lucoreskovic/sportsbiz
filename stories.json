@@ -1,73 +1,81 @@
 {
   "clusters": [
     {
-      "category": "media",
+      "category": "leagues",
       "importance": 9,
       "leadHeadline": "England's biggest match since 1966 as Three Lions close in on immortality",
-      "leadSource": "BBC Sport · 4h ago",
+      "leadSource": "BBC Sport · 8h ago",
       "leadUrl": "https://www.bbc.co.uk/sport/football/articles/c20y0zzdx9go?at_medium=RSS&amp;at_campaign=rss",
-      "summary": "England reaches World Cup semifinal, faces Argentina in Atlanta on Wednesday with a chance at their first final since 1966. Jude Bellingham scored twice in a 2-1 extra-time win over Norway.",
-      "article": "<cite index=\"2-1\">England faces Argentina in the second semifinal of the 2026 FIFA World Cup in Atlanta on Wednesday, seeking to reach only their second World Cup final, and their first since winning it at home in 1966.</cite> The match kicks off at 3 p.m. ET.\n\n<cite index=\"16-1\">Jude Bellingham struck twice as England came from behind to beat Norway in extra time</cite> on Saturday to set up the matchup. <cite index=\"19-1\">England's close win over Norway in the quarter finals is now the most-watched FIFA World Cup non-USMNT telecast in English-language U.S. history with nearly 22M tuning in.</cite>\n\n<cite index=\"1-1\">Argentina and England meet at the World Cup for the sixth time.</cite> <cite index=\"1-4\">Defending champions Argentina face England, renewing one of football's bitterest rivalries.</cite> <cite index=\"6-16\">Messi said: \"I have played against everyone except England, and it is special because they are a major nation, a powerhouse, and it is always nice to play against a side like that, especially in a World Cup semifinal.\"</cite> <cite index=\"1-15,1-18\">With eight goals, Messi leads the tournament while Kane and Bellingham have each scored six goals for England.</cite> <cite index=\"1-9\">The winner will proceed to Sunday's final.</cite>",
-      "tweets": []
+      "summary": "<cite index=\"8-1\">England take on Argentina in the World Cup semifinal Wednesday in Atlanta</cite>. <cite index=\"10-1\">England look to reach only their second World Cup final, and their first since winning it at home in 1966</cite>.",
+      "article": "<cite index=\"2-1\">Defending champions Argentina face England in the 2026 FIFA World Cup's second semifinal on Wednesday</cite>, <cite index=\"2-5\">as the two teams meet again on the sport's biggest stage after 24 years</cite>.\n\n<cite index=\"10-1\">The Three Lions are looking to reach only their second World Cup final, and their first since winning it at home in 1966</cite>. <cite index=\"11-2\">England defeated West Germany 4–2 after extra time to claim the Jules Rimet Trophy</cite> that year—meaning a win Wednesday ends a 60-year drought between World Cup finals.\n\n<cite index=\"2-6\">It marks the first time Argentina legend Lionel Messi will face England, who have their own heroes in Harry Kane and Jude Bellingham</cite>. <cite index=\"2-11,2-12\">Messi enters as the Golden Boot contender with eight goals, and has extended the record for the most World Cup goals to 21</cite>. <cite index=\"2-14\">Kane and Bellingham have each scored six goals</cite>.\n\n<cite index=\"26-1,26-3\">Argentina coach Lionel Scaloni said it would be \"madness\" to mix up sport and politics, telling reporters \"It's a football match; I can't mix things up, out of respect for what happened so many years ago\"</cite>. <cite index=\"23-4\">Their rivalry on the pitch has been intensified by political disputes off it, with Britain and Argentina fighting the Falklands War in 1982 - a 74-day conflict that resulted in the deaths of 649 Argentine soldiers, 255 British combatants and three civilians</cite>.\n\n<cite index=\"2-7\">The winner advances to face either France or Spain in the final</cite>.",
+      "tweets": [
+        {
+          "url": "https://twitter.com/FIFAWorldCup/status/2076096197694275728",
+          "html": "<blockquote class=\"twitter-tweet\" data-dnt=\"true\" data-theme=\"dark\"><p>🏴󠁧󠁢󠁥󠁮󠁧󠁿 England have qualified for the Semi-finals!\n\n#FIFAWorldCup</p>&mdash; FIFA World Cup (@FIFAWorldCup) <a href=\"https://twitter.com/FIFAWorldCup/status/2076096197694275728\">July 12, 2026</a></blockquote>",
+          "author_name": "FIFA World Cup",
+          "author_url": "https://twitter.com/FIFAWorldCup",
+          "dateMs": 1783814880000
+        }
+      ]
     },
     {
       "category": "media",
       "importance": 8,
-      "leadHeadline": "World Cup sets more viewership records in quarterfinals, topped by England-Norway",
-      "leadSource": "Sports Media Watch · 9h ago",
-      "leadUrl": "https://www.sportsmediawatch.com/2026/07/world-cup-viewership-record-quarterfinals-england-norway-fox-telemundo/",
-      "summary": "The World Cup quarterfinals drew record viewership despite the absence of the United States and Mexico, with England-Norway leading the charge. The tournament continues to shatter previous audience benchmarks as the field narrows toward the final.",
-      "article": "The 2026 FIFA World Cup quarterfinals have set new viewership records, according to Sports Media Watch, with the England-Norway match topping the field. The absence of both the United States and Mexico, traditionally among the tournament's most-watched teams, has not slowed global interest. England beat Norway 2-1 in extra time on Saturday at Hard Rock Stadium in Miami. The quarterfinal run represents a sharp departure from historical patterns: absent two of North America's biggest markets, the World Cup has instead driven unprecedented engagement elsewhere, suggesting the tournament's audience extends well beyond traditional American and Mexican viewership. The specific viewership numbers for the England-Norway match are not detailed in available reports, though the designation as the record-setter indicates it exceeded previous World Cup quarterfinal benchmarks. The tournament continues into the semifinal stage, with England now facing Argentina on Wednesday. The World Cup's ability to set records despite the exclusion of two major North American markets signals either deeper global appetite for the tournament or a shift in how international audiences engage with the competition.",
+      "leadHeadline": "Despite rout, Fever-Aces delivers in WNBAs Sunday Night Basketball debut",
+      "leadSource": "Sports Media Watch · just now",
+      "leadUrl": "https://www.sportsmediawatch.com/2026/07/fever-aces-viewership-nbc-sunday-night-basketball-wnba-debut/",
+      "summary": "The WNBA's inaugural Sunday Night Basketball broadcast, featuring Indiana Fever vs. Las Vegas Aces, drew one of the league's largest audiences in 25 years despite Indiana's 109-75 victory. The ratings win signals growing mainstream appetite for women's basketball.",
+      "article": "The WNBA's debut of Sunday Night Basketball delivered one of the league's largest TV audiences in 25 years, even as the Indiana Fever routed the Las Vegas Aces 109-75 in Las Vegas.\n\nThe move to prime-time Sunday slots mirrors the NBA's long-standing \"Sunday Night Basketball\" model and reflects the league's push to build a consistent, marquee broadcast window. WNBA audiences have grown measurably in recent seasons, driven partly by star power (Las Vegas's A'ja Wilson, Chelsea Gray) and partly by expanded media coverage. This Sunday slot represents the clearest institutional bet yet that women's basketball can sustain a primetime audience.\n\nThe blowout result meant Las Vegas's core stars couldn't carry the night. But the viewership numbers suggest the format itself resonated with viewers, regardless of competitive outcome. That's a crucial metric for the WNBA's long-term media strategy: even a lopsided game drew eyeballs.\n\nThe ratings come amid broader WNBA momentum. Attendance is up, merchandise sales are climbing, and media rights conversations are shifting. This debut gives the league and its broadcast partners (Sports Media Watch indicates the game aired on a major platform) a proof point for future investment in women's basketball programming.",
       "tweets": []
     },
     {
-      "category": "media",
+      "category": "leagues",
       "importance": 7,
-      "leadHeadline": "Fox Boosts Quiet MLB All-Star Game With Countless Player Voices",
-      "leadSource": "Sportico · just now",
-      "leadUrl": "https://www.sportico.com/leagues/baseball/2026/mlb-all-star-game-fox-broadcast-player-voices-1234939006/",
-      "summary": "MLB and Fox brought creative broadcasting choices to Tuesday's All-Star Game in Philadelphia, where the American League blanked the National League 4-0 with just one extra-base hit combined and 27 strikeouts. The midsummer classic was the first shutout since 2013, marking a rare offensive drought on baseball's showcase stage.",
-      "article": "The 2026 MLB All-Star Game ended 4-0 in favor of the American League on Tuesday in Philadelphia, a shutout that marked the first midsummer classic with no runs for the National League since 2013. The offensive display was historically anemic: hitters from both leagues combined for one extra-base hit against 27 strikeouts, a stark contrast to the showcase nature of the All-Star Game. To compensate, MLB and Fox deployed unconventional broadcast strategies, bringing player voices and commentary into the production to energize what was by the numbers a quiet game on the field. The details of those broadcasting enhancements are not fully spelled out in available reporting, though Sportico notes they were deployed as a corrective measure. The All-Star Game's broader context includes a simmering labor dispute between MLB and the players' union. Sportsnet reported that while the product on the field remains tremendous overall, the ongoing CBA crisis casts a shadow over the sport. Eric Fisher of Front Office Sports and others have raised questions about whether Tuesday's All-Star Game was the last under the current labor framework, given the contentious negotiations ahead. The shutout performance, coupled with labor tensions, underscores a dissonance afflicting the sport: on-field excellence and off-field turbulence coexist uneasily.",
+      "leadHeadline": "Steve Yzerman abruptly steps down as GM of Detroit Red Wings",
+      "leadSource": "Sportsnet · 3h ago",
+      "leadUrl": "",
+      "summary": "Hall of Famer Steve Yzerman is stepping down as executive vice president and GM of the Detroit Red Wings to assume a senior advisory role, marking an unexpected shift in the franchise's front office structure. No replacement has been announced.",
+      "article": "Steve Yzerman, the Detroit Red Wings' Hall of Famer and long-serving general manager, is transitioning from his role as executive vice president and GM to a senior advisory position reporting to Red Wings governor and CEO Mike Illitch. The move was announced Wednesday and caught observers off guard, as Yzerman had been in the GM role since 2019 and had been seen as the architect of the franchise's ongoing rebuild.\n\nYzerman's tenure as GM coincided with Detroit's efforts to return to contention after years outside the playoff picture. The team has made incremental progress under his watch, adding young talent through the draft and free agency. But the Red Wings remain a work in progress, having finished outside a playoff berth in recent seasons.\n\nThe timing is notable given the NHL draft and free agency period typically ramp up in late July. The Wings are now in transition at the GM level just as roster-building season accelerates. Sportsnet's reporting suggests no immediate replacement has been named.\n\nYzerman's shift to an advisory role preserves his institutional knowledge and presence within the organization while opening the door for a new GM to chart a different course—or to build on Yzerman's foundation. The move reflects either a philosophical shift from ownership or pressure to accelerate the rebuild.",
       "tweets": []
     },
     {
       "category": "revenue",
       "importance": 6,
       "leadHeadline": "Versant acquires Bundesliga in latest sign of change in media rights market",
-      "leadSource": "Sports Media Watch · 8h ago",
+      "leadSource": "Sports Media Watch · 12h ago",
       "leadUrl": "https://www.sportsmediawatch.com/2026/07/versant-bundesliga-rights-deal/",
-      "summary": "Versant has acquired media rights to the German Bundesliga and will distribute matches on USA Network and streaming platforms, signaling a broader shift in how international soccer leagues are selling broadcast packages. The deal reflects evolving strategies in the sports rights marketplace.",
-      "article": "Versant has acquired media rights to the German Bundesliga, one of Europe's highest-profile soccer leagues, and will distribute games on USA Network and via streaming, according to Sports Media Watch. The specific financial terms and length of the deal are not disclosed in available reporting. The Bundesliga rights acquisition is framed as a bellwether moment in the broader sports media landscape, suggesting that traditional broadcasters and new media buyers are recalibrating how they pursue international soccer rights. The deal represents a departure from previous Bundesliga distribution patterns and signals a market in flux. International soccer leagues are increasingly exploring alternative distribution partners beyond the traditional ESPN and traditional cable broadcast model. The Versant deal underscores that premium soccer content, once the province of major networks, is now drawing interest from newer media entities. The specifics of how Versant will promote or market the Bundesliga on USA Network are not detailed, but the move reflects pressure on traditional broadcasters to diversify their soccer portfolio or risk ceding international rights to emerging competitors. How the Bundesliga's new distribution strategy affects its American viewership, and whether USA Network and streaming will reach the same audience as prior arrangements, remains an open question.",
+      "summary": "Versant has acquired media rights to the German Bundesliga and will distribute games on USA Network and streaming platforms, signaling a shift in how international soccer leagues are monetizing their content. The deal underscores ongoing consolidation in the sports rights market.",
+      "article": "Versant, a media and distribution platform, has acquired rights to the German Bundesliga and will distribute matches on USA Network and streaming services. The deal marks the latest significant shift in how European soccer's most marketable leagues are selling their broadcast inventory.\n\nThe Bundesliga is one of the world's top five soccer leagues by attendance and global viewership, sitting behind only the Premier League, La Liga, Serie A, and Ligue 1 in traditional pecking order. Historically, Bundesliga rights have been parceled out to established broadcasters; this acquisition by Versant suggests a new model is taking hold: rights aggregators and streaming-first platforms are now competing for premium international soccer content.\n\nSports Media Watch frames the deal as part of a broader upheaval in media rights acquisition. Traditional TV networks are no longer the default buyer for marquee sports properties. Instead, platforms built around streaming and direct-to-consumer distribution are consolidating leverage, particularly for non-English-speaking markets where US viewership requires positioning distinct from domestic deals.\n\nFor the Bundesliga, the move provides new exposure via USA Network's cable footprint and Versant's digital reach. For the broader market, it's a signal: the days of legacy media holding exclusive lock on premium international sports are fading. Versant's ability to secure a top-five soccer league underscores that capital and distribution reach, not broadcast history, now drive rights deals.",
       "tweets": []
     },
     {
       "category": "contracts",
       "importance": 5,
-      "leadHeadline": "Nationals Prospect Anchors Latest Push to Securitize AthletePay",
-      "leadSource": "Sportico · just now",
+      "leadHeadline": "Nationals Prospect Anchors Latest Push to Securitize Athlete Pay",
+      "leadSource": "Sportico · 4h ago",
       "leadUrl": "https://www.sportico.com/business/finance/2026/agentiq-athlete-investing-platform-ronny-cruz-nationals-1234938937/",
-      "summary": "Ronny Cruz, a High-A infielder prospect in the Washington Nationals organization, has agreed to sell a percentage of his future baseball earnings to Agentiq, a startup building a platform for public investment in professional athletes. The deal marks the first pro athlete signed to the securitization model.",
-      "article": "Ronny Cruz, an infielder in the Washington Nationals' minor-league system with the High-A Wilmington Blue Rocks, has agreed to sell a stake in his future professional baseball earnings to Agentiq, a startup focused on securitizing athlete income. Sportico reports this is the first professional athlete to sign such a deal, though the specific percentage Cruz sold and the valuation are not disclosed. Agentiq's model allows public investors to buy shares in an athlete's future earnings, a financial engineering approach that has gained traction in recent years as athletes and startups explore alternative funding mechanisms outside traditional endorsements and salary. The appeal to minor-league prospects is clear: it provides immediate capital before reaching the majors and potentially earning significantly larger salaries. For investors, it offers exposure to athlete wealth creation and potential upside if the player reaches or exceeds MLB. The risks are equally clear: if an athlete fails to reach the majors or sustains a career-ending injury, investors lose their stake. The broader securitization trend reflects how athlete finance is evolving beyond traditional agent-negotiated deals. MLB and other leagues have not explicitly regulated this practice, though labor agreements may eventually address how such arrangements interact with union rules and salary structure. Agentiq's success with Cruz may accelerate interest from other minor-league and emerging professional athletes seeking alternative capital sources.",
+      "summary": "Washington Nationals infielder Ronny Cruz has become the first pro player to sign with Agentiq, a startup enabling athletes to sell stakes in their future earnings to public investors. The deal reflects growing fintech interest in athlete monetization beyond traditional contracts.",
+      "article": "Ronny Cruz, a Washington Nationals prospect with the High-A Wilmington Blue Rocks, has agreed to sell a percentage of his future baseball earnings to Agentiq, a startup building a platform for public investment in professional athlete income. He is the first pro player to sign such a deal.\n\nAgentiq's model is straightforward: athletes in the early stages of their careers (or those with upside but no major guaranteed deals) can monetize future earnings by selling equity stakes to accredited or retail investors. The startup handles the securitization and distribution logistics. Athletes get immediate capital; investors get a fractional claim on future income.\n\nCruz, an infielder with upside but no guaranteed MLB deal, represents exactly the profile Agentiq is targeting. He's not yet earning major league salary but has shown enough talent to warrant institutional investment. By securing capital now, he can invest in training, agent fees, and preparation for his shot at the majors.\n\nThe model sits in a gray zone between athlete sponsorship and traditional securities. The SEC and player unions are watching closely, as these deals raise questions about who owns athlete income, whether such investments constitute team-adjacent assets, and what disclosure is required.\n\nFor Sportico, this signals the broadening of athlete monetization beyond jersey sales and endorsement deals. If Agentiq's model proves viable at the minor-league level, it could scale upward, offering players a new lever for controlling their financial future independent of team salary structures.",
       "tweets": []
     },
     {
       "category": "leagues",
-      "importance": 4,
-      "leadHeadline": "Ranking the 5 best and worst QB situations for 2026: 49ers and Browns at opposite ends of spectrum",
-      "leadSource": "CBS Sports · just now",
-      "leadUrl": "https://www.cbssports.com/nfl/news/ranking-the-5-best-and-worst-qb-situations-for-2026/",
-      "summary": "CBS Sports has ranked the NFL's best and worst quarterback rooms heading into 2026, with the 49ers at one end of the spectrum and the Browns at the other. The breakdown examines QB depth, coaching, and roster support across the league.",
-      "article": "CBS Sports has ranked the NFL's quarterback situations for the 2026 season, identifying the San Francisco 49ers and Cleveland Browns as sitting at opposite ends of the spectrum. The 49ers are listed among the five best QB situations, while the Browns occupy one of the five worst. The full details of CBS's analysis are not provided in available reports, though the framework considers QB depth, coaching staff, and the quality of surrounding offensive talent. The 49ers' placement reflects continuity at the position and strong offensive infrastructure. The Browns' placement suggests ongoing turbulence at quarterback or roster volatility heading into the new season. A deeper ranking methodology and specific commentary on other top-five and bottom-five situations are not detailed in the available excerpt, leaving full league context unavailable. The exercise itself is standard preseason analysis, but the 49ers-Browns comparison underscores how wide the gap has widened between NFL teams with settled QB futures and those still navigating uncertainty or recent volatility at the position.",
+      "importance": 5,
+      "leadHeadline": "Kawhi Leonard waiting game continues for Raptors after Silvers press conference",
+      "leadSource": "Sportsnet · 12h ago",
+      "leadUrl": "",
+      "summary": "NBA Commissioner Adam Silver indicated Wednesday that an investigation into Kawhi Leonard's status with the Los Angeles Clippers will conclude sometime this summer, leaving the Toronto Raptors in limbo over their trade target. No timeline for a resolution has been specified.",
+      "article": "The Kawhi Leonard-Clippers investigation remains unresolved after NBA Commissioner Adam Silver's press conference Tuesday night, offering the Toronto Raptors scant clarity on whether the star forward will become available for trade.\n\nThe probe, which began in September, centers on Leonard's status and contractual standing with Los Angeles. Silver said only that the investigation will conclude \"at some point this summer,\" a vague window that stretches from July through August and potentially into early September.\n\nFor the Raptors, who have reportedly expressed interest in acquiring Leonard as a centerpiece to rebuild around, the waiting game is frustrating. They cannot make a formal bid or trade offer until Leonard's status is officially resolved. Toronto is in a holding pattern, unable to commit capital or roster moves that might involve Leonard until the league clears the path.\n\nThe investigation's slow pace is unusual for a matter of this magnitude. A top-10 player's contractual status normally moves swiftly through league channels. That it has stretched for months suggests either genuine complexity in Leonard's case or institutional reluctance to move quickly on a high-profile matter during a sensitive period for the league.\n\nRaptors fans and front-office executives are essentially waiting for Silver's office to issue a final ruling. Once that comes, trade negotiations can begin in earnest.",
       "tweets": []
     },
     {
-      "category": "revenue",
-      "importance": 3,
-      "leadHeadline": "Hey Jude: Bellingham Breakout a Boon to Icons Memorabilia",
-      "leadSource": "Sportico · 8h ago",
-      "leadUrl": "https://www.sportico.com/business/sponsorship/2026/jude-bellingham-england-icons-memorabilia-world-cup-1234938868/",
-      "summary": "Jude Bellingham's late-goal heroics against Norway in the World Cup quarterfinal have sparked a memorabilia surge, with Icons Memorabilia CEO Dan Jamieson reporting strong interest in the young English midfielder's collectibles. Bellingham's breakout performance is translating into merchandise momentum.",
-      "article": "Jude Bellingham scored the extra-time winner as England beat Norway 2-1 in the World Cup quarterfinal on Saturday at Hard Rock Stadium in Miami, triggering a rendition of Hey Jude by the crowd of England fans in the stadium. The moment caught the attention of Icons Memorabilia CEO Dan Jamieson, who was in attendance and observed the cultural resonance of the performance in real time. Sportico reports that Bellingham's breakout moment is fueling interest in memorabilia tied to the young midfielder, suggesting a direct translation from on-field performance to collectibles demand. The specifics of which items are seeing the surge (match-worn kits, signed photos, etc.) are not detailed, nor are sales figures or price movements provided. Bellingham's emergence as England's young star during the World Cup is a familiar pattern in global soccer: a breakout tournament performance by a young player creates a memorabilia windfall. The scale of that windfall depends on the player's subsequent career trajectory and sustained visibility. For Icons Memorabilia and other collectibles dealers, the Bellingham moment represents a short-term sales opportunity during the tournament and a potential hedge on his future value if he maintains the level of performance he's shown in the World Cup.",
+      "category": "media",
+      "importance": 4,
+      "leadHeadline": "ESPYs New Best Tunnel Fit Award Takes Athlete Styles to Next Step",
+      "leadSource": "Sportico · just now",
+      "leadUrl": "https://www.sportico.com/business/commerce/2026/espys-best-tunnel-fit-award-emphasizes-the-business-of-fashion-in-sports-1234938968/",
+      "summary": "ESPN will introduce a fan-voted Best Tunnel Fit award when the ESPYs return to New York on July 15, joining new categories including Best Celebration and Best Sports Card. The additions reflect ESPN's effort to recognize sports culture beyond traditional athletic achievement.",
+      "article": "ESPN is expanding the ESPYs when the awards return to New York on July 15, introducing a Best Tunnel Fit award alongside other social-media-first categories like Best Celebration and Best Sports Card.\n\nThe Best Tunnel Fit category is fan-voted and recognizes the pregame fashion and style players display as they walk into stadiums. It's a nod to the ascendant role of athlete personal branding, social media presence, and off-field cultural impact in modern sports. Players' entrance fits have become moments of mass viewership on social platforms, with standout outfits routinely trending on X and Instagram.\n\nThe new awards reflect ESPN's broader strategy: position the ESPYs not just as a celebration of athletic performance but as a cultural event that honors the full ecosystem of sports, including player brand, fan engagement, and the entertainment value of sports beyond competition.\n\nBest Celebration and Best Sports Card follow similar logic. Celebrations have become signature moments in broadcasts; trading cards have exploded as a collectible asset class. By elevating these categories to ESPY status, ESPN is ratifying their cultural weight.\n\nThe move is also a bid to broaden the ESPYs' appeal beyond traditional sports media consumers. Gen-Z and younger millennial audiences engage with sports through social moments and style first, outcomes second. ESPN is chasing that demographic by making the awards feel less like a stuffy athletic honors ceremony and more like a cultural moment where athlete fashion, creativity, and personality matter.",
       "tweets": []
     }
   ],
@@ -2391,96 +2399,96 @@
     ],
     "source": "espn"
   },
-  "deals": [
-    {
-      "type": "media_rights",
-      "parties": "Versant ⇄ German Bundesliga",
-      "value_usd": null,
-      "term_years": null,
-      "league": "SOCCER",
-      "headline": "Versant acquires Bundesliga rights, to air on USA Network",
-      "storyIndex": 7,
-      "blurb": "Versant has acquired media rights to the Bundesliga with distribution on USA Network and streaming platforms.",
-      "capturedAt": "2026-07-15T12:09:46.937Z"
-    }
-  ],
+  "deals": [],
   "ratings": [],
   "ticket_prices": [],
   "sidebar": [
     {
-      "headline": "Labour dispute shifts to background as product shines at All-Star Game",
-      "source": "Sportsnet · 10h ago",
-      "article": "Baseball's All-Star Game delivered on the field Tuesday night in Philadelphia, yet the broader context of an ongoing labor dispute between MLB and the players' union casts a long shadow over the sport. While the product itself has been tremendous, the path forward for the league remains immensely uncertain. The CBA crisis looms over what may be the last All-Star Game under current labor conditions. The contrast between baseball's on-field excellence and off-field turbulence creates a dissonance that's difficult to reconcile. Players are performing at elite levels, yet negotiations over contracts, revenue sharing, and working conditions continue to hang over the sport. The outcome of those negotiations will determine the sport's structure for years to come."
+      "headline": "2026 British Open picks, predictions: The best long-shot bets at Royal Birkdale",
+      "source": "NY Post Sports · just now",
+      "article": "The Open Championship at Royal Birkdale presents fresh opportunities for long-shot bets as the field assembles for one of golf's four majors. NY Post Sports has identified three undervalued plays at the course, each offering value for bettors willing to take on longer odds. Royal Birkdale's coastal setup demands precision off the tee and shrewd course management, conditions that can favor players overlooked by the market. The long-shot approach has historical precedent: major championships routinely see 50-to-1 or higher prices yield results when local knowledge or course fit aligns with a player's strengths. The full breakdown includes hole-by-hole analysis and a ranking of each pick's likelihood based on recent form and Royal Birkdale's history."
     },
     {
-      "headline": "Breaking down England-Argentina World Cup semifinal, plus a prediction",
-      "source": "NY Post Sports · 1h ago",
-      "article": "The World Cup has delivered spectacle after spectacle, and now comes the most emotional match of the tournament so far. England faces Argentina on Wednesday night with a spot in the final on the line, a semifinal that carries the weight of both nations' championship ambitions. Argentina, led by Lionel Messi, has been a dominant force throughout the tournament. England, buoyed by Jude Bellingham's heroics in the quarterfinal win over Norway, arrives with momentum and a young, hungry squad. The semifinal will test England's ability to sustain that form against one of the tournament's most experienced and battle-tested teams. Every detail of the matchup matters: midfield control, set-piece discipline, the effectiveness of England's wing play versus Argentina's central orchestration."
+      "headline": "Tour de France stage 11: Søren Wærenskjold wins fastest-ever road stage in sprint finish",
+      "source": "The Guardian · just now",
+      "article": "Søren Wærenskjold claimed victory in Tour de France stage 11 from Vichy, setting a new record for the fastest-ever road stage in a thrilling sprint finish. The Norwegian's explosive closing move fended off a field of elite sprinters in a display of speed and tactical positioning. Stage 12 departs later this week as the race enters its critical mountain phase. Tadej Pogacar continues to hold the yellow jersey, though the gap to his rivals will likely shift once the peloton hits the Alps. The Guardian's live blog captured every moment of the day's dramatic finale."
     },
     {
-      "headline": "Ranking the 5 best and worst QB situations for 2026: 49ers and Browns at opposite ends of spectrum",
-      "source": "CBS Sports · just now",
-      "article": "The NFL's quarterback landscape heading into 2026 shows stark contrasts. The 49ers have built one of the league's most formidable QB situations with depth, coaching, and surrounding talent. The Browns, by contrast, occupy one of the five worst QB rooms in the league, signaling uncertainty and roster volatility at the league's most critical position. Other teams with strong QB situations benefit from either established veteran excellence or promising young talent with strong infrastructure. Those at the bottom struggle with injury concerns, coaching instability, or the absence of a clear long-term starter. The quarterback situation ultimately determines a team's ceiling, and the gap between the 49ers and Browns encapsulates how wide that gap can be."
+      "headline": "Why England–Argentina Carries So Much Weight",
+      "source": "Front Office Sports · 4h ago",
+      "article": "England and Argentina haven't faced off in a World Cup since 2002, when Argentina's victory in the group stage served as a minor footnote in a tournament England and Germany would dominate. Now, 24 years later, they meet in the semi-final with far higher stakes: a berth in the World Cup final and a shot at immortality. For England, it's a chance to end a 60-year drought dating back to 1966. For Argentina, it's a chance to repeat as defending champions and cement Messi's second World Cup triumph. The historical weight is immense, but so is the modern reality: both sides have evolved significantly since 2002, and Wednesday's result will likely hinge on form and momentum, not historical grievance."
     },
     {
-      "headline": "MLB CBA Crisis and Trade Deadline",
-      "source": "Front Office Sports · 15h ago",
-      "article": "Eric Fisher examines MLB's ongoing CBA crisis and the extent to which labor disputes will shape the 2026 trade deadline and offseason. The union and league remain at odds over several key provisions, and whether this All-Star Game was the last under the current labor framework is now in serious question. The trade deadline operates against this uncertain backdrop. Teams must balance immediate competitive needs against the possibility of labor disruption. The timing of these negotiations, concurrent with the season itself, adds additional pressure and complexity. How the league and union resolve outstanding issues will determine not only the structure of the sport going forward but also the immediate decisions teams make in the coming weeks."
+      "headline": "Hilton fires employee who sent racist message via social media to Aces star Chelsea Gray",
+      "source": "The Guardian · 12h ago",
+      "article": "Hilton Grand Vacations has fired an employee who sent a racial slur via social media to Las Vegas Aces guard Chelsea Gray following the team's 109-75 loss to the Indiana Fever on Sunday. Gray, 33, shared the racist message on Instagram, prompting swift action from Hilton, which issued a statement that the employee violated company policy. The incident follows recent threats directed at fellow Aces forward Alyssa Thomas and underscores the ongoing problem of online abuse targeting professional athletes, particularly women in the WNBA. Hilton's immediate termination signals a willingness among corporate sponsors to distance themselves from online harassment, though advocates argue much more structural change is needed."
     },
     {
-      "headline": "Two Years From LA28, MLB's Olympic Plan Remains Unsettled",
-      "source": "Front Office Sports · 16h ago",
-      "article": "With two years remaining until the 2028 Los Angeles Olympics, MLB continues to grapple with logistical uncertainties around its participation. The league and players' union are still resolving several core issues, from scheduling and player compensation to facility use and roster eligibility. The Olympics represent a unique challenge for MLB because they interrupt the regular season and require coordination between the league, international baseball federation, and host country. Past Olympic baseball competitions have faced similar complications, though none during an active labor dispute. Settling the MLB Olympic framework requires alignment between league and union on player protection, compensation, and how Olympic participation affects individual team schedules. That work is not yet complete, creating uncertainty less than two years out."
+      "headline": "Kamaru Usman has empathy for Conor McGregor following injury at UFC 329",
+      "source": "CBS Sports · 1h ago",
+      "article": "Former welterweight champion Kamaru Usman offered empathy for Conor McGregor after McGregor suffered an injury at UFC 329, describing the psychological toll of sidelined careers. Usman, who has navigated his own injury history, told CBS Sports that \"it's a dark place to be\" when a fighter loses momentum and faces extended recovery. McGregor's injury at the event raised questions about his timeline for return and what a lengthy absence might mean for his standing in the division. Usman's comments underscore the mental and physical challenge athletes face when forced to step away from competition at a critical juncture."
     },
     {
-      "headline": "NBA Summer League Is a Sports-Photography Bootcamp for Players",
-      "source": "Front Office Sports · 1h ago",
-      "article": "The NBA Summer League has introduced a new photography program that has players taking a different kind of shot off the court. The initiative aims to deepen players' understanding of visual media and digital branding as they build their personal and professional identities. The program reflects broader trends in athlete development, where media literacy and content creation skills have become central to a player's long-term value. Young NBA players increasingly manage their own digital presence and must understand how imagery shapes their brand. Summer League, traditionally a proving ground for talent evaluation, now doubles as a creative workshop. The program allows players to explore visual storytelling, learn from professional photographers, and develop content for their own platforms."
+      "headline": "Japan Video-Game Publisher Goes Global With Nippon Baseball Game",
+      "source": "Sportico · 3h ago",
+      "article": "Konami, Japan's largest video-game publisher, is expanding its Nippon Professional Baseball game to global markets, capitalizing on two decades of momentum dating back to Hideo Nomo's 1995 debut with the Los Angeles Dodgers. Nomo's Rookie of the Year season sparked \"Nomo-mania\" in Southern California and opened doors for successive waves of NPB talent to reach MLB. Since then, NPB has consistently exported star-caliber players, from Ichiro Suzuki to recent arrivals like Shohei Ohtani. Konami's move signals growing appetite in Western markets for baseball content tied to Japanese talent and the sport's global expansion. The game's localization includes translated commentary, Western team rosters, and integration with MLB data, positioning it as a bridge between North American and Japanese baseball audiences."
     }
   ],
   "poll": {
-    "question": "Who advances to the 2026 World Cup final: England or Argentina?",
+    "question": "Which team has the better chance to win the World Cup final?",
     "options": [
-      "England (Three Lions claim first title since 1966)",
-      "Argentina (Messi carries squad to another final)",
-      "Whoever wins the other semifinal (save it for the final)",
-      "Not sure, too close to call"
+      "England (if they beat Argentina Wednesday)",
+      "Argentina (if they beat England Wednesday)",
+      "France",
+      "Spain"
     ]
   },
   "predictions": [
     {
-      "statement": "England beats Argentina in Wednesday's World Cup semifinal and advances to the final.",
+      "statement": "England defeats Argentina in the World Cup semi-final Wednesday and advances to the final.",
       "probability": 52,
-      "rationale": "England has momentum from the Bellingham extra-time winner against Norway and a younger, energized squad. However, Argentina's experience and Messi's tournament pedigree make this a coin flip. The semifinal format offers no margin for error, and both teams are capable of winning on the day."
+      "rationale": "England have momentum, home advantage in media coverage, and a clear path. Argentina are defending champs but Messi's scoring streak ended in the quarterfinal. The weight of 1966 cuts both ways—it can inspire or burden. Slight edge to England based on recent form, but this is a coin flip."
     },
     {
-      "statement": "The 2026 All-Star Game is the last played under the current MLB labor agreement.",
+      "statement": "The Kawhi Leonard investigation concludes before August 15, clearing the path for a Clippers trade.",
+      "probability": 45,
+      "rationale": "Silver said \"sometime this summer,\" a window that includes July and August. But nine months of investigation already suggests complexity. The league may take its time to avoid appearing hasty on a high-profile case. Raptors fans should brace for a longer wait."
+    },
+    {
+      "statement": "WNBA Sunday Night Basketball ratings remain above 1 million average viewers for the season.",
       "probability": 68,
-      "rationale": "The CBA crisis is actively ongoing, and multiple sources flag the possibility that this All-Star Game may be the last under present labor conditions. A new deal could reshape the game's structure significantly. However, lockouts and work stoppages, while possible, are not certain."
+      "rationale": "The debut drew one of the largest audiences in 25 years despite a blowout. That suggests strong format appeal. But sustaining those numbers across the full slate is harder than a single marquee matchup. If the WNBA can maintain playoff-level interest through regular season, it's a win for the league."
     },
     {
-      "statement": "Jude Bellingham becomes a memorabilia market breakout within the next 12 months.",
-      "probability": 71,
-      "rationale": "His World Cup performance is already driving collectibles interest. If he maintains this level of club performance and continues to feature prominently in England's matches, demand will remain strong. Young breakout stars at major tournaments have historically sustained memorabilia value."
-    },
-    {
-      "statement": "A new media rights deal for a major European soccer league follows Versant's Bundesliga acquisition by the end of 2026.",
-      "probability": 59,
-      "rationale": "Versant's Bundesliga deal signals a shift in how soccer rights are being packaged and sold. Other major leagues may follow suit, seeking new distribution partners or higher valuations. However, entrenched broadcast agreements and long-term contracts mean movement is gradual rather than immediate."
+      "statement": "Steve Yzerman's advisory role lasts less than two seasons before he either returns to an NHL GM position or exits the league entirely.",
+      "probability": 62,
+      "rationale": "Advisory roles for Hall of Famers are often transitions, not permanent positions. Yzerman is a builder, not a consultant. He'll either find a new GM gig (Detroit or elsewhere) or step away from hockey entirely. Two years is a reasonable window for his next move."
     }
   ],
   "injuries": [
     {
-      "player": "Chelsea Gray",
-      "team": "Las Vegas Aces",
-      "league": "NBA",
-      "position": "G",
-      "status": "DAY_TO_DAY",
-      "injury": "Not injury-related; subject of racial abuse on social media",
+      "player": "Conor McGregor",
+      "team": "UFC",
+      "league": "MMA",
+      "position": "",
+      "status": "OUT",
+      "injury": "Injury sustained at UFC 329",
       "timeline": null,
-      "source": "The Guardian",
-      "impact": "Gray was targeted with a racial slur via social media following the Aces' 109-75 loss to Indiana. Hilton Grand Vacations fired the employee responsible.",
-      "storyIndex": 11
+      "source": "CBS Sports",
+      "impact": "McGregor's return timeline is unclear and his momentum in the division faces a setback during a critical career juncture.",
+      "storyIndex": 13
+    },
+    {
+      "player": "Lionel Messi",
+      "team": "Argentina",
+      "league": "SOCCER",
+      "position": "FW",
+      "status": "RETURNING",
+      "injury": "Scoring drought (nine-match streak ended)",
+      "timeline": null,
+      "source": "NY Post Sports",
+      "impact": "Messi has not scored in the last nine World Cup matches, though Argentina advanced past Switzerland to reach the semi-final.",
+      "storyIndex": 10
     }
   ],
   "picks": [
@@ -5503,30 +5511,30 @@
       "_pendingGrade": true
     }
   ],
-  "updatedAt": "2026-04-23T14:30:00Z",
+  "updatedAt": "2026-07-15T14:32:00Z",
   "highlights": [
     {
       "league": "NBA",
-      "title": "Trevon Brazile Drops 32 PTS, Cameron Carr Shines &amp; More | NBA's Nightly Recap | July 14, 2026",
-      "videoId": "9RiidG7ATYM",
-      "thumbnail": "https://img.youtube.com/vi/9RiidG7ATYM/mqdefault.jpg",
-      "timeAgo": "7h ago",
+      "title": "AJ Williams, CP3 vs. Navorro Bowman Jr., Team Why Not | 2026 Nike EYBL Peach Jam",
+      "videoId": "NIvEMq7hQJc",
+      "thumbnail": "https://img.youtube.com/vi/NIvEMq7hQJc/mqdefault.jpg",
+      "timeAgo": "3h ago",
       "isFallback": false
     },
     {
       "league": "NFL",
-      "title": "Survey Reaction 🔎 Top Linebackers + Should Jalen Hurts be top 10? | NFL Live",
-      "videoId": "seUb-hp6BsI",
-      "thumbnail": "https://img.youtube.com/vi/seUb-hp6BsI/mqdefault.jpg",
-      "timeAgo": "15h ago",
+      "title": "Will the Ravens make a deep run this season?",
+      "videoId": "Uu64GGnCmSE",
+      "thumbnail": "https://img.youtube.com/vi/Uu64GGnCmSE/mqdefault.jpg",
+      "timeAgo": "3h ago",
       "isFallback": false
     },
     {
       "league": "MLB",
-      "title": "Cody Bellinger wins All-Star Game MVP &amp; the BEST MLB Highlights from 7/14/26!",
-      "videoId": "ZzRqNteX8YQ",
-      "thumbnail": "https://img.youtube.com/vi/ZzRqNteX8YQ/mqdefault.jpg",
-      "timeAgo": "1h ago",
+      "title": "These teams would be in the 2026 MLB Postseason if the season ended today!",
+      "videoId": "Zn7s_rd6Wjg",
+      "thumbnail": "https://img.youtube.com/vi/Zn7s_rd6Wjg/mqdefault.jpg",
+      "timeAgo": "Just now",
       "isFallback": false
     },
     {
@@ -5534,7 +5542,7 @@
       "title": "The Filthiest Goals of the 2025-26 NHL Season",
       "videoId": "wlEL_vBOSpQ",
       "thumbnail": "https://img.youtube.com/vi/wlEL_vBOSpQ/mqdefault.jpg",
-      "timeAgo": "20h ago",
+      "timeAgo": "1d ago",
       "isFallback": false
     },
     {
@@ -5542,19 +5550,179 @@
       "title": "Washington Mystics vs. Toronto Tempo | FULL GAME HIGHLIGHTS | July 14, 2026",
       "videoId": "BpU7sSs-k0w",
       "thumbnail": "https://img.youtube.com/vi/BpU7sSs-k0w/mqdefault.jpg",
-      "timeAgo": "11h ago",
+      "timeAgo": "15h ago",
       "isFallback": false
     },
     {
       "league": "SOCCER",
-      "title": "Spain advances to the World Cup Final!",
-      "videoId": "dF9xz0FG_NE",
-      "thumbnail": "https://img.youtube.com/vi/dF9xz0FG_NE/mqdefault.jpg",
-      "timeAgo": "2h ago",
+      "title": "🇪🇸❤️ (via @pedroporro29_/IG, @mhurtado5/IG)",
+      "videoId": "ffT3PjsCfig",
+      "thumbnail": "https://img.youtube.com/vi/ffT3PjsCfig/mqdefault.jpg",
+      "timeAgo": "Just now",
       "isFallback": false
     }
   ],
   "reels": [
+    {
+      "league": "MLB",
+      "title": "These teams would be in the 2026 MLB Postseason if the season ended today!",
+      "videoId": "Zn7s_rd6Wjg",
+      "author": "MLB",
+      "pubDate": "2026-07-15T16:00:25+00:00",
+      "link": "https://www.youtube.com/watch?v=Zn7s_rd6Wjg"
+    },
+    {
+      "league": "SOCCER",
+      "title": "🇪🇸❤️ (via @pedroporro29_/IG, @mhurtado5/IG)",
+      "videoId": "ffT3PjsCfig",
+      "author": "ESPN FC",
+      "pubDate": "2026-07-15T15:54:20+00:00",
+      "link": "https://www.youtube.com/watch?v=ffT3PjsCfig"
+    },
+    {
+      "league": "SOCCER",
+      "title": "New and intense 🙌 (via @mushkuda1/IG)",
+      "videoId": "q8mRyLcCxXY",
+      "author": "ESPN FC",
+      "pubDate": "2026-07-15T15:42:40+00:00",
+      "link": "https://www.youtube.com/watch?v=q8mRyLcCxXY"
+    },
+    {
+      "league": "MLB",
+      "title": "MIC'D UP moments from the 2026 MLB All-Star Game! 🎙️ (Ft. Verlander, Cease, Harper, PCA, MORE!)",
+      "videoId": "P8aqilTDfCs",
+      "author": "MLB",
+      "pubDate": "2026-07-15T15:24:01+00:00",
+      "link": "https://www.youtube.com/watch?v=P8aqilTDfCs"
+    },
+    {
+      "league": "SOCCER",
+      "title": "Herculez Gomez says it was 'another disappointing outing for Mbappe' 😬",
+      "videoId": "WqbTeCgZDqc",
+      "author": "ESPN FC",
+      "pubDate": "2026-07-15T15:17:12+00:00",
+      "link": "https://www.youtube.com/watch?v=WqbTeCgZDqc"
+    },
+    {
+      "league": "SOCCER",
+      "title": "England vs. Argentina! 👀",
+      "videoId": "RbOFdMPoPZ4",
+      "author": "ESPN FC",
+      "pubDate": "2026-07-15T15:15:16+00:00",
+      "link": "https://www.youtube.com/watch?v=RbOFdMPoPZ4"
+    },
+    {
+      "league": "SOCCER",
+      "title": "How France's World Cup loss vs. Spain impacts Kylian Mbappe's legacy 🧐 | First Take",
+      "videoId": "7EJV79lXXz0",
+      "author": "ESPN FC",
+      "pubDate": "2026-07-15T15:13:10+00:00",
+      "link": "https://www.youtube.com/watch?v=7EJV79lXXz0"
+    },
+    {
+      "league": "MLB",
+      "title": "Eladio Carrión came with the bars and jewelry, and Cristopher Sánchez understood the assignment 🔥",
+      "videoId": "SFgBi7izIS8",
+      "author": "MLB",
+      "pubDate": "2026-07-15T14:38:03+00:00",
+      "link": "https://www.youtube.com/watch?v=SFgBi7izIS8"
+    },
+    {
+      "league": "NBA",
+      "title": "Cayden Daughtry, Florida Rebels vs. Dylan Jones, Team Thad | 2026 Nike EYBL Peach Jam",
+      "videoId": "J-cxIf1NAIg",
+      "author": "NBA",
+      "pubDate": "2026-07-15T14:29:31+00:00",
+      "link": "https://www.youtube.com/watch?v=J-cxIf1NAIg"
+    },
+    {
+      "league": "NBA",
+      "title": "Kam Mercer &amp; Isaiah Hill, Indy Heat vs. PG Elite | 2026 Nike EYBL Peach Jam",
+      "videoId": "s-97uxQuJ1A",
+      "author": "NBA",
+      "pubDate": "2026-07-15T14:22:06+00:00",
+      "link": "https://www.youtube.com/watch?v=s-97uxQuJ1A"
+    },
+    {
+      "league": "MLB",
+      "title": "Cody Bellinger won #AllStarGame MVP last night but his daughter stole the show at his presser!",
+      "videoId": "NiGFGYjdPOQ",
+      "author": "MLB",
+      "pubDate": "2026-07-15T14:18:50+00:00",
+      "link": "https://www.youtube.com/watch?v=NiGFGYjdPOQ"
+    },
+    {
+      "league": "SOCCER",
+      "title": "HAND OF GOD + Beckham’s RED CARD among England vs. Argentina RIVALRY | ESPN FC",
+      "videoId": "lRf2wI2XhEY",
+      "author": "ESPN FC",
+      "pubDate": "2026-07-15T14:15:31+00:00",
+      "link": "https://www.youtube.com/watch?v=lRf2wI2XhEY"
+    },
+    {
+      "league": "NBA",
+      "title": "Beckham Black, AB Elite vs. Davion Thompson, MeanStreets | 2026 Nike EYBL Peach Jam",
+      "videoId": "sB0Zr-N8nGQ",
+      "author": "NBA",
+      "pubDate": "2026-07-15T14:11:16+00:00",
+      "link": "https://www.youtube.com/watch?v=sB0Zr-N8nGQ"
+    },
+    {
+      "league": "MLB",
+      "title": "Mike Trout was giving this kid tips on his swing 🥹",
+      "videoId": "eYbSjEcfo-0",
+      "author": "MLB",
+      "pubDate": "2026-07-15T14:00:25+00:00",
+      "link": "https://www.youtube.com/watch?v=eYbSjEcfo-0"
+    },
+    {
+      "league": "SOCCER",
+      "title": "Folarin Balogun ADMITS ‘MORE PRESSURE’ after red card was overturned 👀| ESPN FC",
+      "videoId": "KcUHxVmc-78",
+      "author": "ESPN FC",
+      "pubDate": "2026-07-15T13:51:59+00:00",
+      "link": "https://www.youtube.com/watch?v=KcUHxVmc-78"
+    },
+    {
+      "league": "SOCCER",
+      "title": "England vs. Argentina World Cup SEMIFINAL: Calculated pessimism?! | ESPN FC",
+      "videoId": "90y01JbG5a8",
+      "author": "ESPN FC",
+      "pubDate": "2026-07-15T13:46:41+00:00",
+      "link": "https://www.youtube.com/watch?v=90y01JbG5a8"
+    },
+    {
+      "league": "NBA",
+      "title": "AJ Williams, CP3 vs. Navorro Bowman Jr., Team Why Not | 2026 Nike EYBL Peach Jam",
+      "videoId": "NIvEMq7hQJc",
+      "author": "NBA",
+      "pubDate": "2026-07-15T13:43:39+00:00",
+      "link": "https://www.youtube.com/watch?v=NIvEMq7hQJc"
+    },
+    {
+      "league": "NFL",
+      "title": "Will the Ravens make a deep run this season?",
+      "videoId": "Uu64GGnCmSE",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-07-15T13:26:19+00:00",
+      "link": "https://www.youtube.com/watch?v=Uu64GGnCmSE"
+    },
+    {
+      "league": "MLB",
+      "title": "Yankee All-Stars and AL pitchers power a SHUTOUT WIN in the 2026 All-Star Game!",
+      "videoId": "v6svKdo_K84",
+      "author": "MLB",
+      "pubDate": "2026-07-15T13:00:24+00:00",
+      "link": "https://www.youtube.com/watch?v=v6svKdo_K84"
+    },
+    {
+      "league": "NFL",
+      "title": "Seth Wickersham Reveals Sean Payton's INSANE NFL Playoff Preparation | This is Football",
+      "videoId": "qYNIJECyLhw",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-07-15T13:00:02+00:00",
+      "link": "https://www.youtube.com/watch?v=qYNIJECyLhw"
+    },
     {
       "league": "MLB",
       "title": "Cody Bellinger wins All-Star Game MVP &amp; the BEST MLB Highlights from 7/14/26!",
@@ -5562,14 +5730,6 @@
       "author": "MLB",
       "pubDate": "2026-07-15T11:00:06+00:00",
       "link": "https://www.youtube.com/watch?v=ZzRqNteX8YQ"
-    },
-    {
-      "league": "SOCCER",
-      "title": "Spain advances to the World Cup Final!",
-      "videoId": "dF9xz0FG_NE",
-      "author": "ESPN FC",
-      "pubDate": "2026-07-15T10:36:34+00:00",
-      "link": "https://www.youtube.com/watch?v=dF9xz0FG_NE"
     },
     {
       "league": "NBA",
@@ -5588,14 +5748,6 @@
       "link": "https://www.youtube.com/watch?v=RDZhdJA4Yh0"
     },
     {
-      "league": "MLB",
-      "title": "All-Star Game SHUTOUT! American League pitchers strike out 15 BATTERS in DOMINANT performance!",
-      "videoId": "vbPHS-eY9Kk",
-      "author": "MLB",
-      "pubDate": "2026-07-15T04:43:18+00:00",
-      "link": "https://www.youtube.com/watch?v=vbPHS-eY9Kk"
-    },
-    {
       "league": "NBA",
       "title": "Trevon Brazile SHOWED OUT with 32 PTS vs Thunder | July 14, 2026",
       "videoId": "PvZnTyyeoXk",
@@ -5612,38 +5764,6 @@
       "link": "https://www.youtube.com/watch?v=B3gRWOPzYA4"
     },
     {
-      "league": "SOCCER",
-      "title": "Spain showed they are the ‘best team’ in win vs. France – Brek Shea | SportsCenter",
-      "videoId": "p3tpho8qn_o",
-      "author": "ESPN FC",
-      "pubDate": "2026-07-15T04:25:22+00:00",
-      "link": "https://www.youtube.com/watch?v=p3tpho8qn_o"
-    },
-    {
-      "league": "MLB",
-      "title": "Cody Bellinger got to share his All-Star Game moment with his two daughters ❤️",
-      "videoId": "JfW8bBZ0D6s",
-      "author": "MLB",
-      "pubDate": "2026-07-15T03:57:36+00:00",
-      "link": "https://www.youtube.com/watch?v=JfW8bBZ0D6s"
-    },
-    {
-      "league": "MLB",
-      "title": "The American League caps off the shutout in the All-Star Game 🌟",
-      "videoId": "x_du4SorMKk",
-      "author": "MLB",
-      "pubDate": "2026-07-15T03:41:21+00:00",
-      "link": "https://www.youtube.com/watch?v=x_du4SorMKk"
-    },
-    {
-      "league": "MLB",
-      "title": "Mason Miller gets Munetaka Murakami with a 102 MPH heater 🔥",
-      "videoId": "KtQNNOrMiYc",
-      "author": "MLB",
-      "pubDate": "2026-07-15T03:29:19+00:00",
-      "link": "https://www.youtube.com/watch?v=KtQNNOrMiYc"
-    },
-    {
       "league": "NBA",
       "title": "NUGGETS vs THUNDER | LAS VEGAS SUMMER LEAGUE | FULL GAME HIGHLIGHTS | July 14, 2026",
       "videoId": "we6Uauf82oA",
@@ -5652,108 +5772,12 @@
       "link": "https://www.youtube.com/watch?v=we6Uauf82oA"
     },
     {
-      "league": "MLB",
-      "title": "Munetaka Murakami and Miguel Vargas made sure to celebrate after his home run 💪",
-      "videoId": "rwUq3RCLy3k",
-      "author": "MLB",
-      "pubDate": "2026-07-15T03:21:24+00:00",
-      "link": "https://www.youtube.com/watch?v=rwUq3RCLy3k"
-    },
-    {
-      "league": "MLB",
-      "title": "FINAL 3 OUTS: Aroldis Chapman &amp; Bryan Baker complete the first MLB All-Star Game shutout since 2013",
-      "videoId": "b2XHB2MhA_0",
-      "author": "MLB",
-      "pubDate": "2026-07-15T03:18:02+00:00",
-      "link": "https://www.youtube.com/watch?v=b2XHB2MhA_0"
-    },
-    {
-      "league": "SOCCER",
-      "title": "England fans before the semifinal 😂 (via dangordonn/TT)",
-      "videoId": "HOnxO4cU9yY",
-      "author": "ESPN FC",
-      "pubDate": "2026-07-15T03:09:59+00:00",
-      "link": "https://www.youtube.com/watch?v=HOnxO4cU9yY"
-    },
-    {
-      "league": "NBA",
-      "title": "Austin Reaves here watching the Los Angeles Lakers!",
-      "videoId": "q8G8mxrJi-4",
-      "author": "NBA",
-      "pubDate": "2026-07-15T02:44:49+00:00",
-      "link": "https://www.youtube.com/watch?v=q8G8mxrJi-4"
-    },
-    {
-      "league": "NBA",
-      "title": "WIZARDS vs BULLS | LAS VEGAS SUMMER LEAGUE | FULL GAME HIGHLIGHTS | July 14, 2026",
-      "videoId": "CXbuYigDkjo",
-      "author": "NBA",
-      "pubDate": "2026-07-15T02:23:26+00:00",
-      "link": "https://www.youtube.com/watch?v=CXbuYigDkjo"
-    },
-    {
-      "league": "NBA",
-      "title": "Caleb Wilson gives an energetic shoutout to Jaylin Sellers and Donovan Atwell after the win",
-      "videoId": "mjdtwpik4jc",
-      "author": "NBA",
-      "pubDate": "2026-07-15T02:15:40+00:00",
-      "link": "https://www.youtube.com/watch?v=mjdtwpik4jc"
-    },
-    {
-      "league": "NBA",
-      "title": "Trevon Brazile banks in the WILD halfcourt shot to end the 1H",
-      "videoId": "MGmv2-5uS5I",
-      "author": "NBA",
-      "pubDate": "2026-07-15T02:05:29+00:00",
-      "link": "https://www.youtube.com/watch?v=MGmv2-5uS5I"
-    },
-    {
       "league": "WNBA",
       "title": "Washington Mystics vs. Toronto Tempo | FULL GAME HIGHLIGHTS | July 14, 2026",
       "videoId": "BpU7sSs-k0w",
       "author": "WNBA",
       "pubDate": "2026-07-15T01:40:50+00:00",
       "link": "https://www.youtube.com/watch?v=BpU7sSs-k0w"
-    },
-    {
-      "league": "SOCCER",
-      "title": "Craig Burley reacts to Spain shutting out France 2-0 👀",
-      "videoId": "HiWYM8W6tVs",
-      "author": "ESPN FC",
-      "pubDate": "2026-07-14T23:21:25+00:00",
-      "link": "https://www.youtube.com/watch?v=HiWYM8W6tVs"
-    },
-    {
-      "league": "SOCCER",
-      "title": "SPAIN REACH WORLD CUP FINAL! 🔥 Biggest takeaways + Will they face England or Argentina? 🤔 | ESPN FC",
-      "videoId": "s9tMSgX2_Bk",
-      "author": "ESPN FC",
-      "pubDate": "2026-07-14T23:14:02+00:00",
-      "link": "https://www.youtube.com/watch?v=s9tMSgX2_Bk"
-    },
-    {
-      "league": "SOCCER",
-      "title": "Madness in Madrid 🫨",
-      "videoId": "_Z8Dq8ewv4s",
-      "author": "ESPN FC",
-      "pubDate": "2026-07-14T22:54:43+00:00",
-      "link": "https://www.youtube.com/watch?v=_Z8Dq8ewv4s"
-    },
-    {
-      "league": "SOCCER",
-      "title": "David Bentley is HYPED for England's chances against Argentina 😂 | ESPN FC",
-      "videoId": "OUcxvtPf2s0",
-      "author": "ESPN FC",
-      "pubDate": "2026-07-14T22:52:07+00:00",
-      "link": "https://www.youtube.com/watch?v=OUcxvtPf2s0"
-    },
-    {
-      "league": "SOCCER",
-      "title": "Will Lamine Yamal show up for Spain in the World Cup Final? | ESPN FC Extra Time",
-      "videoId": "BGAU03YNnxE",
-      "author": "ESPN FC",
-      "pubDate": "2026-07-14T22:50:31+00:00",
-      "link": "https://www.youtube.com/watch?v=BGAU03YNnxE"
     },
     {
       "league": "NFL",
@@ -5836,12 +5860,12 @@
       "link": "https://www.youtube.com/watch?v=egRmE8_h2tY"
     },
     {
-      "league": "NFL",
-      "title": "Ryan Clark calls Lamar Jackson's ranking dropping to No. 69 'INEXPLICABLE!' 😳 |  First Take",
-      "videoId": "ULbbrMjRVeg",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-07-14T14:54:56+00:00",
-      "link": "https://www.youtube.com/watch?v=ULbbrMjRVeg"
+      "league": "NHL",
+      "title": "FULL GAME REPLAY: David Ayres EBUG Game | Hurricanes @ Maple Leafs 2/22/2020",
+      "videoId": "HL94VFb6iyA",
+      "author": "NHL",
+      "pubDate": "2026-07-14T15:55:45+00:00",
+      "link": "https://www.youtube.com/watch?v=HL94VFb6iyA"
     },
     {
       "league": "WNBA",
@@ -5852,28 +5876,12 @@
       "link": "https://www.youtube.com/watch?v=8HFn_6UCYJg"
     },
     {
-      "league": "NFL",
-      "title": "Get Up picks THEIR OWN ESPYS including Myles Garrett as the 2026 BEST NFL PLAYER! 🏆",
-      "videoId": "8mR3pYgND6I",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-07-14T14:11:14+00:00",
-      "link": "https://www.youtube.com/watch?v=8mR3pYgND6I"
-    },
-    {
       "league": "NHL",
       "title": "Viggo Björck tests his skills at the Social Media Combine",
       "videoId": "joI9TNmnVlU",
       "author": "NHL",
       "pubDate": "2026-07-14T14:00:24+00:00",
       "link": "https://www.youtube.com/watch?v=joI9TNmnVlU"
-    },
-    {
-      "league": "WNBA",
-      "title": "Olivia Miles achieves a career-high 33 PTS 😮‍💨",
-      "videoId": "epISUFAKjPY",
-      "author": "WNBA",
-      "pubDate": "2026-07-14T04:25:10+00:00",
-      "link": "https://www.youtube.com/watch?v=epISUFAKjPY"
     }
   ]
 }
