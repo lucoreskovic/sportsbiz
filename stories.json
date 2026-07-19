@@ -1,81 +1,73 @@
 {
   "clusters": [
     {
-      "category": "revenue",
+      "category": "leagues",
       "importance": 9,
-      "leadHeadline": "World Cup Final Get-In Ticket Soars to Around $10,000",
-      "leadSource": "Front Office Sports · 2h ago",
-      "leadUrl": "https://frontofficesports.com/world-cup-final-get-in-ticket-soar-to-around-10000/",
-      "summary": "Secondary market get-in prices for Argentina vs. Spain hit $9,500 on Saturday, up $2,557 in three days, making the 2026 World Cup Final the most expensive U.S. sporting event ever.",
-      "article": "<cite index=\"16-2\">Get-in prices for the 2026 World Cup Final on the secondary market reached $9,500 as of Saturday morning, according to TickPick, a significant rise from $6,943 on Wednesday when Argentina defeated England to set the matchup.</cite> <cite index=\"16-4\">The average ticket price hit $15,331, a nearly $4,000 jump from earlier in the week.</cite>\n\n<cite index=\"16-3\">The price surge cementing the final's status as the most expensive sporting event in U.S. history, surpassing the Super Bowl and NBA Finals.</cite> <cite index=\"16-6\">FIFA's official website lists its cheapest available ticket at $21,995.</cite>\n\nThe Argentina-Spain matchup will be held Sunday at MetLife Stadium in East Rutherford, New Jersey. <cite index=\"19-6\">Argentina aims to win a second consecutive World Cup with Inter Miami star Lionel Messi leading the side.</cite>\n\nBy contrast, <cite index=\"16-7\">the third-place match between England and France on Saturday carries a $598 get-in price.</cite> <cite index=\"16-9\">The 2026 World Cup overall has become the most expensive tournament in FIFA's 96-year history.</cite>",
-      "tweets": [
-        {
-          "url": "https://twitter.com/radioboing/status/2077589383176176128",
-          "html": "<blockquote class=\"twitter-tweet\" data-dnt=\"true\" data-theme=\"dark\"><p>LA FINAL DEL MUNDIAL DESATÓ UNA FIEBRE POR LAS ENTRADAS\n\n🏆 La confirmación de la final entre Argentina national football team y Spain national football team provocó una explosión en la demanda de entradas para el partido decisivo del Mundial 2026, que se jugará este domingo en https://t.co/Ou41oOOada</p>&mdash; Boing 97.3 (@radioboing) <a href=\"https://twitter.com/radioboing/status/2077589383176176128\">July 16, 2026</a></blockquote>",
-          "author_name": "Boing 97.3",
-          "author_url": "https://twitter.com/radioboing",
-          "dateMs": 1784170883000
-        }
-      ]
-    },
-    {
-      "category": "media",
-      "importance": 8,
-      "leadHeadline": "World Cup sets yet more viewership records in semifinals",
-      "leadSource": "Sports Media Watch · 22h ago",
-      "leadUrl": "https://www.sportsmediawatch.com/2026/07/world-cup-viewership-record-semifinals-messi-argentina-england-france-spain/",
-      "summary": "FIFA World Cup semifinal broadcasts delivered record viewership numbers, continuing a streak of new highs throughout the tournament's run in North America. The momentum carries into the Spain-Argentina Final.",
-      "article": "The World Cup semifinals posted record viewership figures as the tournament approached its conclusion, extending a pattern of audience growth that has defined the North American leg of the 2026 competition. The semifinals between Spain-France and Argentina-England both drew audiences that surpassed comparable knockout rounds from prior World Cup cycles, driven by prime-time U.S. kickoff slots and mainstream crossover interest in the event. Spain's semifinal victory over France, a 2-0 result, and Argentina's dramatic win over England in extra time have set the stage for a Final that networks project will break through the ceiling established by the round-of-16 and quarterfinal broadcasts. The tournament has benefited from a younger, more diverse American audience engaging with soccer at scale, combined with star-driven narratives around Messi, Mbappé, and established European club figures. Streaming and cable combined audiences have exceeded the isolated cable numbers from prior World Cups held outside North America. The Final between Spain and Argentina is expected to draw north of 25 million U.S. viewers, pending broadcast distribution and competing afternoon programming. Networks have already begun promotional pushes emphasizing the championship-match stakes and the international draw of both programs.",
+      "leadHeadline": "Mets plan to find time for Luis Robert Jr. in crowded outfield after he makes injury return",
+      "leadSource": "NY Post Sports · just now",
+      "leadUrl": "https://nypost.com/2026/07/19/sports/mets-plan-to-find-time-for-luis-robert-jr-in-crowded-outfield/",
+      "summary": "Luis Robert Jr., sidelined since April 30 with a lumbar spine disc herniation, began his Triple-A rehab assignment June 30. Manager Andy Green said the Mets will figure out his role when he's ready.",
+      "article": "<cite index=\"22-2,22-8\">Luis Robert Jr. has been on the injured list since April 30 due to a lumbar disc herniation.</cite> <cite index=\"21-1\">He began a rehab assignment with Triple-A Syracuse on June 30,</cite> marking real progress after <cite index=\"21-3\">the injury was severe enough for him to be transferred to the 60-day injured list May 27.</cite> <cite index=\"21-5\">Barring a setback, Robert could be back with the Mets following the mid-July All-Star break.</cite> When he returns, <cite index=\"28-6\">with rookies A.J. Ewing and Carson Benge playing center and right field, respectively, on a consistent basis, and Juan Soto entrenched in left,</cite> the Mets will need to sort out his playing time. <cite index=\"28-7,28-8,28-9,28-10\">Manager Andy Green said \"We'll cross that bridge when we get there\" about how the outfield would look with Robert, noting \"All of those guys will be part of the mix. We'll create the best matchup for those guys and continue to challenge A.J. and Carson to develop and be winning baseball players.\"</cite>",
       "tweets": []
     },
     {
-      "category": "contracts",
+      "category": "leagues",
+      "importance": 9,
+      "leadHeadline": "Best England team for a long time? That's a fact, says Rice",
+      "leadSource": "BBC Sport · 3h ago",
+      "leadUrl": "https://www.bbc.co.uk/sport/football/articles/c4g34gjmyl7o?at_medium=RSS&amp;at_campaign=rss",
+      "summary": "Declan Rice declared England the strongest squad in years after the Three Lions secured third place at the 2026 World Cup.",
+      "article": "Declan Rice's assessment came after England locked in a third-place finish at the 2026 World Cup, a result that carries both vindication and unfinished business. The midfielder's declaration that this is the best England group in a very long time reflects genuine depth: the squad has progressed to the knockout rounds and competed at the game's highest level. Yet the statement also masks a semifinal exit that stung. England surrendered two goals in the final 15 minutes against Argentina on Wednesday, a collapse that would have tasted differently had it come earlier in the match. The Three Lions will now play in the third-place playoff, a consolation fixture that few players prioritize but which gives them a chance to salvage something tangible from a tournament that saw them reach the penultimate round. Rice's words suggest the core of this team remains intact and hungry for their next opportunity, likely Euro 2028.",
+      "tweets": []
+    },
+    {
+      "category": "revenue",
       "importance": 8,
-      "leadHeadline": "Whats next for Connor Bedard, Blackhawks after massive five-year, $75 million contract extension",
-      "leadSource": "CBS Sports · 1h ago",
-      "leadUrl": "https://www.cbssports.com/nhl/news/connor-bedard-blackhawks-contract-extension/",
-      "summary": "Connor Bedard signed a five-year, $75 million contract extension with the Chicago Blackhawks, locking in the young franchise cornerstone at $15 million per year. The deal addresses the Blackhawks' immediate future after a rebuilding phase.",
-      "article": "Connor Bedard agreed to a five-year, $75 million extension with the Chicago Blackhawks, averaging $15 million annually and ensuring the franchise's first-overall pick from the 2023 draft remains anchored to the organization through his prime years. The extension comes after Bedard's rookie campaign and second season with the club, periods in which he established himself as a high-volume scorer and primary playmaker despite the team's middling win totals. At $15 million per year, the deal places Bedard in the upper-middle tier of NHL salary structure, below the $16.5 million ceiling occupied by players like Connor McDavid and Sidney Crosby but competitive with emerging stars like Auston Matthews. The extension removes uncertainty around whether Bedard might test restricted free agency or demand a trade if the Blackhawks failed to build a competitive roster around him. Chicago's front office has committed to using the extension as proof of intent to improve the team's depth and goaltending, with the framework of a core now in place around Bedard's scoring and Tage Thompson's projected addition via trade or free agency. The Blackhawks' next moves in the trade market and free-agent classes will signal whether they are genuinely positioned to compete in the Central Division or are still in a prolonged rebuild despite locking in their lead horse.",
+      "leadHeadline": "World Cup Final Get-In Ticket Soars to Around $10,000",
+      "leadSource": "Front Office Sports · 8h ago",
+      "leadUrl": "https://frontofficesports.com/world-cup-final-get-in-ticket-soar-to-around-10000/",
+      "summary": "Get-in prices for the Spain-Argentina World Cup final spiked to approximately $10,000 in the final 24 hours before the match.",
+      "article": "The cheapest available ticket to the 2026 FIFA World Cup final between Spain and Argentina hit around $10,000 as demand surged in the day before kickoff. This represents a severe premium over earlier rounds and reflects the scarcity of available supply combined with the global reach of the event's marquee match. Secondary market pricing for World Cup finals has historically climbed dramatically as the match approaches, but a five-figure get-in price underscores both the tournament's cultural significance and the willingness of international fans to pay entrance fees that rival or exceed Super Bowl levels. The jump illustrates the broader ticket dynamic at this World Cup: early rounds and group-stage matches saw more accessible pricing, but as the tournament narrowed to its climax, availability evaporated and prices rose accordingly. Stadium capacity and allocation to national federations, media, and official sponsors constrain the pool of tickets available to the general public, further pressuring secondary-market rates. For Argentina and Spain supporters traveling to the final, the $10,000 barrier represents a significant investment beyond airfare and accommodation.",
+      "tweets": []
+    },
+    {
+      "category": "media",
+      "importance": 7,
+      "leadHeadline": "Tempo coach Sandy Brondello suspended over 'protected species' comment about Angel Reese",
+      "leadSource": "The Guardian · 5h ago",
+      "leadUrl": "https://www.theguardian.com/sport/2026/jul/18/sandy-brondello-suspended-angel-reese-protected-species-wnba-toronto-tempo",
+      "summary": "WNBA suspended Toronto Tempo coach Sandy Brondello for one game after she made an inappropriate comment about Atlanta Dream player Angel Reese during a Friday matchup.",
+      "article": "The WNBA suspended Toronto Tempo coach Sandy Brondello for one game following a comment she made about Atlanta Dream player Angel Reese during Friday's game. Brondello will miss Monday's contest against the Las Vegas Aces as a result of the league's disciplinary action. The league cited professionalism standards in its decision, indicating the comment fell below the conduct expectations for head coaches at the professional level. Brondello issued a direct apology to Reese on Saturday morning, acknowledging the lapse and the impact of her words. The suspension represents the league's effort to enforce behavioral standards at the sideline level and sends a signal to coaches that certain remarks, regardless of intent, carry consequences. A one-game ban is a meaningful penalty that forces the Tempo to adjust their gameplan and may affect their competitive standing during a critical stretch of the season.",
       "tweets": []
     },
     {
       "category": "leagues",
       "importance": 7,
-      "leadHeadline": "England survives shootout to beat France in World Cup third-place match",
-      "leadSource": "Sportsnet · 1h ago",
-      "leadUrl": "",
-      "summary": "England defeated France on penalties in the World Cup third-place match after a goalless draw, securing the bronze medal after being knocked out of the semifinals. The shootout victory gives England a consolation prize after losing to Argentina.",
-      "article": "England advanced to the World Cup third-place match after falling to Argentina 2-0 in a painful semifinal loss, then returned to beat France on penalties after a goalless 90 minutes, salvaging a bronze medal from a tournament that had run through disappointment. The penalty shootout victory, which came after a dramatic late collapse in the semifinal, represents a minor redemption arc for Gareth Southgate's squad, which had been minutes from a final appearance before conceding twice in the match's closing moments against Argentina. France, which had lost to Spain 2-0 in the other semifinal, saw its tournament end without a medal, a result that undercuts the nation's historical pedigree in the competition. The third-place match, traditionally viewed as a consolation bracket, carried outsized emotional weight for England after the manner of its semifinal exit. Playing in a neutral venue rather than a championship setting, England nevertheless brought intensity and organization, forcing the match into penalties where shootout skill and mental resolve determine the outcome rather than 90 minutes of open play. The victory does not alter England's semifinal exit, but it provides a finish above one of Europe's primary footballing nations and gives the squad confidence heading into UEFA Euro 2028 qualifiers and friendlies.",
+      "leadHeadline": "Jalen Brunson main events, Karl-Anthony Towns chokeslams WWE superstars in return to Madison Square Garden",
+      "leadSource": "CBS Sports · 3h ago",
+      "leadUrl": "https://www.cbssports.com/nba/news/jalen-brunson-main-events-karl-anthony-towns-chokeslams-wwe-superstars-in-return-to-madison-square-garden/",
+      "summary": "Knicks stars Jalen Brunson and Karl-Anthony Towns celebrated their NBA championship at Madison Square Garden with an over-the-top WWE-style event, though Tyrese Haliburton attempted to disrupt proceedings.",
+      "article": "The Knicks' championship parade culminated in a spectacle at Madison Square Garden where Brunson and Towns took center stage in a wrestling-inspired celebration. The event blended professional wrestling theatricality with basketball pageantry, with Towns performing a choreographed chokeslam on WWE performers as part of the festivities. Brunson served as the main draw of the celebration, befitting his role as the Knicks' primary orchestrator through the postseason run. Tyrese Haliburton's appearance added an unpredictable element, with the visiting player attempting to play spoiler to what was designed as an uninterrupted celebration. The WWE-style production reflects the Knicks organization's willingness to lean into entertainment and spectacle as part of their championship recognition, a nod to New York's broader pop-culture footprint. For a fan base starved for a title in decades, the pageantry served as catharsis and celebration of a roster that delivered the franchise's first championship in the modern era.",
       "tweets": []
     },
     {
-      "category": "revenue",
-      "importance": 7,
-      "leadHeadline": "New dad Sam Burns steals march on chasing pack to lead Open",
-      "leadSource": "The Guardian · 3h ago",
-      "leadUrl": "https://www.theguardian.com/sport/2026/jul/18/new-dad-sam-burns-steals-march-on-chasing-pack-to-lead-open-after-third-day",
-      "summary": "American golfer Sam Burns holds a two-shot lead at Royal Birkdale heading into the final round of the Open Championship, playing this week after his wife gave birth earlier than expected. Burns is two clear of Ryan Fox and Kim Si-woo.",
-      "article": "Sam Burns leads the Open Championship at Royal Birkdale by two shots entering the final round, sitting atop the leaderboard in a tournament that has been marked by volatile conditions and dramatic swings in momentum over three rounds. Burns, an American competing in the 154th Open, has played this week under unusual personal circumstances: his wife gave birth earlier than expected, pushing Burns's decision to compete into the final hours before his departure to Scotland. The timing forced Burns to weigh his presence at the birth against his commitment to one of golf's four major championships, a tension that has animated his play throughout the week. Ryan Fox of New Zealand and South Korea's Kim Si-woo sit two shots behind Burns, with a wider field within striking distance. The weather at Royal Birkdale has shifted throughout the tournament, with wind and rain creating scoring conditions that have challenged the course setup and rewarded aggressive play during benign stretches. Burns's lead heading into Saturday's final round positions him as the favorite, though the Open's history is replete with collapses by front-runners and surges by pursuers who find rhythm on the course's back nine. The tournament's narrative has been complicated by controversy involving Rory McIlroy and Bryson DeChambeau over a rules violation in an earlier round, a dispute that has overshadowed some of the on-course action.",
+      "category": "leagues",
+      "importance": 6,
+      "leadHeadline": "Over to you, Messi - Mbappe leads Golden Boot race for the ages",
+      "leadSource": "BBC Sport · 6h ago",
+      "leadUrl": "https://www.bbc.co.uk/sport/football/articles/c89nl42dnpyo?at_medium=RSS&amp;at_campaign=rss",
+      "summary": "Kylian Mbappe holds a two-goal lead over Lionel Messi in the Golden Boot race heading into the World Cup final, but Messi has one final match to close the gap.",
+      "article": "Kylian Mbappe entered the World Cup final with a two-goal lead in the Golden Boot race, the competition for the tournament's top scorer. Lionel Messi, at 39, remains capable of overtaking him in the final match between Argentina and Spain. The race represents a symbolic clash between the tournament's defining narrative arcs: Mbappe as the young, explosive force of international soccer's future, and Messi as the aging master making one final run at glory. Mbappe's scoring output throughout the tournament has been clinical and abundant, befitting his status as one of the world's most lethal finishers. Messi's pursuit of the Golden Boot would add another layer to an already historic tournament performance. Whether either player wins the individual award may be secondary to the team trophy, but in a final between two historic programs, the individual accomplishments will be noted. The Golden Boot has occasionally gone to a player on the losing side, a footnote that both players and their federations will be aware of as they approach the match.",
       "tweets": []
     },
     {
-      "category": "revenue",
+      "category": "leagues",
       "importance": 5,
-      "leadHeadline": "Sean Manaea, Kodai Senga struggle in auditions before trade deadline as Mets fall to Phillies",
-      "leadSource": "NY Post Sports · 1h ago",
-      "leadUrl": "https://nypost.com/2026/07/18/sports/sean-manaea-kodai-senga-struggle-as-mets-fall-to-phillies/",
-      "summary": "Mets pitchers Sean Manaea and Kodai Senga both underperformed in outings that served as trade-deadline auditions for potential acquiring teams, as New York lost to Philadelphia. Both arms are being shopped on the market.",
-      "article": "Sean Manaea and Kodai Senga took the mound for the Mets on Saturday in what functioned as a showcase of pitching assets the club is marketing ahead of the trade deadline, and both left little for interested buyers to work with. Manaea and Senga have been identified as movable pieces in conversations with rival front offices, with the Mets seeking to recoup prospect capital and salary relief as they reassess their playoff positioning and payroll flexibility. Saturday's performance—Manaea's outing against Philadelphia and Senga's related appearance—did not inspire confidence in either pitcher's ability to stabilize a contending rotation for an acquiring team. The Phillies' bats found success against both hurlers, putting pressure on New York's ability to land quality prospects in a swap. Trade market value for starting pitchers is tied directly to recent form and health sustainability, and Saturday's struggles have complicated negotiations with clubs that were already questioning durability after Senga's prior injury history. The deadline is now less than two weeks away, forcing the Mets to either accept diminished returns or keep their pitchers and attempt a second-half turnaround with the current roster.",
-      "tweets": []
-    },
-    {
-      "category": "media",
-      "importance": 4,
-      "leadHeadline": "New York Mets reject concerns over in-game AI use after Ottavino claims",
-      "leadSource": "The Guardian · 3h ago",
-      "leadUrl": "https://www.theguardian.com/sport/2026/jul/18/mets-andy-green-ai-strategy-mlb-compliance-ottavino-report",
-      "summary": "Mets interim manager Andy Green said the club is fully compliant with MLB rules after pitcher Adam Ottavino alleged the team used artificial intelligence for in-game pitch decisions. MLB recently restricted iPad functions in dugouts.",
-      "article": "The New York Mets denied allegations of improper artificial intelligence use in game decision-making after pitcher Adam Ottavino reported that the organization had deployed AI tools to suggest pitch selections during play. Interim manager Andy Green stated the club adheres to all Major League Baseball regulations governing technology in the dugout and on-field communications. MLB recently tightened restrictions on iPad functionality, limiting what information can be displayed and accessed during games, after a broader industry scrutiny of technological advantage in real time. Ottavino's claim that the Mets used AI to recommend pitches raises questions about the line between permissible data analytics and prohibited in-game coaching conducted via technology. The commissioner's office has been monitoring technology creep in dugouts for two seasons, concerned that advanced systems could provide unfair competitive edges. The Mets' denial came swiftly, with the organization standing behind its technological practices and Green emphasizing compliance with league protocols. The incident underscores ongoing tension in baseball between clubs' desire to leverage cutting-edge tools and the league's intent to preserve the integrity of real-time decision-making by field managers and pitchers.",
+      "leadHeadline": "Blue Jays find semblance of identity in much-needed win over White Sox",
+      "leadSource": "Sportsnet · 8h ago",
+      "leadUrl": "",
+      "summary": "Toronto's victory over Chicago showcased the Blue Jays' offensive and pitching potential when Vladimir Guerrero Jr. leads the charge, the starting pitcher delivers zeros, and the bullpen holds firm.",
+      "article": "Saturday's win over the White Sox provided a rare convergence of the Blue Jays' offensive and pitching elements functioning in sync. Vladimir Guerrero Jr. drove the offense with the kind of production that defines his value, while the starting pitcher accumulated shutout innings and the bullpen closed without fracture. The victory is notable precisely because such complete performances have been scarce for Toronto this season. The organization has cycled through identity questions: whether to lean on power hitting, speed, pitching depth, or bullpen stability. Saturday answered that a combination works. The challenge ahead is consistency. One win against a White Sox team that has struggled all season doesn't resolve the Jays' structural questions, but it demonstrates that the potential still exists within the roster. Manager John Schneider will point to this game as a template: get Guerrero Jr. into early count advantages, let the starter work deep into the game, and trust the relievers. If Toronto can replicate this formula, they remain a contender in a weak AL East; if Saturday was an outlier, the problems persist.",
       "tweets": []
     }
   ],
@@ -2401,21 +2393,21 @@
   },
   "deals": [
     {
-      "type": "extension",
-      "parties": "Chicago Blackhawks ⇄ Connor Bedard",
-      "value_usd": 75000000,
-      "term_years": 5,
-      "league": "NHL",
-      "headline": "Connor Bedard signs five-year, $75M extension with Blackhawks",
-      "storyIndex": 5,
-      "blurb": "Bedard locked in at $15M per year, anchoring the franchise core through his prime after first-overall pick status in 2023.",
-      "capturedAt": "2026-07-18T23:44:39.079Z"
+      "type": "sponsorship",
+      "parties": "ESPN ⇄ Multiple Sports Rights",
+      "value_usd": null,
+      "term_years": null,
+      "league": "MULTI",
+      "headline": "ESPN chairman discusses sports rights portfolio management",
+      "storyIndex": 15,
+      "blurb": "Jimmy Pitaro addressed the give-and-take within ESPN's sports rights agreements.",
+      "capturedAt": "2026-07-19T05:43:28.104Z"
     }
   ],
   "ratings": [],
   "ticket_prices": [
     {
-      "event": "FIFA World Cup Final (Spain vs Argentina)",
+      "event": "2026 FIFA World Cup Final (Spain vs Argentina)",
       "league": "SOCCER",
       "get_in_usd": 10000,
       "avg_usd": null,
@@ -2423,142 +2415,100 @@
       "pct_change": 0,
       "timeframe": "day-of",
       "storyIndex": 0,
-      "context": "Secondary market get-in price soared to ~$10k in final 24 hours before championship match at neutral venue.",
-      "capturedAt": "2026-07-18T23:44:39.079Z"
+      "context": "Secondary market get-in price spiked to $10,000 in final 24 hours before match.",
+      "capturedAt": "2026-07-19T05:43:28.105Z"
     }
   ],
   "sidebar": [
     {
-      "headline": "49ers exec Marathe removes name from MLS commissioner search",
+      "headline": "Paraag Marathe exits MLS commissioner search",
       "source": "Sportico · 1d ago",
-      "article": "Paraag Marathe, president of 49ers Enterprises, has withdrawn from the search for the next MLS commissioner after being one of three finalists for the post. Sportico reported Friday that Marathe was among the leading candidates to replace Don Garber, but has now opted out of the running. The decision narrows the pool to two remaining finalists as MLS ownership prepares to make a final selection. Marathe's withdrawal removes a prominent Bay Area sports executive from consideration and may signal his continued focus on 49ers operations. The MLS commissioner role is one of the most visible positions in North American sports leadership, overseeing the league's expansion, broadcast rights, and international partnerships. The timeline for a final decision remains undisclosed."
+      "article": "San Francisco 49ers president Paraag Marathe has withdrawn his name from consideration for the MLS commissioner position. Marathe was one of three finalists in the search process, a competitive field that included two other qualified candidates. His exit narrows the candidate pool as the league continues its hunt for the next leader of the 30-team franchise. The 49ers executive had been viewed as a strong contender given his sports management pedigree and familiarity with building organizational structures. His decision to step back suggests either a shift in personal priorities or internal discussions about fit. The remaining finalists will now be the focus of the league's evaluation as ownership prepares for a decision on who will guide MLS through the next phase of its growth."
     },
     {
-      "headline": "Trae Young proves he's still a Knicks villain",
+      "headline": "New dad Sam Burns leads Open Championship at Royal Birkdale",
+      "source": "The Guardian · 9h ago",
+      "article": "American golfer Sam Burns holds a two-shot lead heading into the final round of the Open Championship at Royal Birkdale after an eventful 24 hours on the course and at home. Burns' wife gave birth earlier than expected, circumstances that led him to compete in the tournament against what would have been expected. His ability to maintain focus and lead the leaderboard speaks to both his preparation and his mental resilience. Burns sits two clear of Ryan Fox and Kim Si-woo, positioning himself as the favorite for the Claret Jug. The narrative of new fatherhood intersecting with major championship golf adds a personal dimension to what has been a competitive tournament. Burns' finish remains open, but he has given himself the best position to convert into a major title."
+    },
+    {
+      "headline": "Smoky, stormy weather expected to clear in time for World Cup final",
       "source": "NY Post Sports · 1h ago",
-      "article": "Trae Young continued his role as a New York Knicks antagonist in a recent game, attempting to rip off Jalen Brunson's jersey and leaning into the rivalry that dates back to 2021. Young's showmanship and competitive edge have made him a lightning rod in Madison Square Garden, a dynamic he refuses to abandon despite years of separation from the franchise. The Atlanta Hawks guard's antics resonated with both Knicks fans and neutral observers, reminding the market of the intensity that defined the playoff series when Young and the Hawks knocked New York out in the first round. Young's mentality remains unchanged: he thrives on creating confrontation and drawing reactions from opposing rosters and crowds. The Knicks-Hawks rivalry, while dormant in the standings, retains edge in individual matchups where personal history and competitive fire override regular-season stakes."
+      "article": "Mother Nature may provide one final assist before the World Cup final between Spain and Argentina. Heavy flooding and poor air quality had loomed over the match venue in the days leading up to kickoff, with Argentina training outside in rain and smoke while Spain opted to remain indoors. Weather forecasts now suggest conditions will clear in time for the match, providing both teams with what amounts to normal playing conditions. The contrast between Spain's decision to shelter their squad and Argentina's willingness to embrace adverse conditions offered a small window into contrasting preparation philosophies. Cleared skies should eliminate any weather-related excuses or tactical adjustments, placing the focus squarely on execution and personnel."
     },
     {
-      "headline": "Blue Jays find semblance of identity in win over White Sox",
-      "source": "Sportsnet · 2h ago",
-      "article": "The Toronto Blue Jays posted a victory over the Chicago White Sox on Saturday, with Vladimir Guerrero Jr. driving the offense while starting pitcher contributions and bullpen depth aligned in the kind of complete game the franchise has rarely pieced together this season. Games where Guerrero Jr. carries the hitting load, the starter delivers scoreless innings, and the bullpen executes cleanly have been sparse enough to highlight the team's inconsistency. Saturday's win signals that the potential for a coherent identity still exists within the roster, provided that starting pitching remains stable and the bullpen avoids late-inning collapses. Guerrero Jr. has shouldered offensive responsibility throughout the season, but he cannot single-handedly carry the team past contenders in the AL East. The victory provides momentum heading into a stretch of games that will define whether the Blue Jays remain relevant in the playoff conversation or fade into a rebuild cycle."
+      "headline": "Lionel Messi and Lamine Yamal: soccer's present and future collide in final",
+      "source": "NY Post Sports · 4h ago",
+      "article": "The World Cup final presents a generational moment: Lionel Messi, who has defined the sport for two decades, faces off against Lamine Yamal, the player many in soccer believe will one day inherit his throne. Messi at 39 remains Argentina's primary offensive weapon and carries the weight of a nation's championship aspirations. Yamal represents Spanish youth and the long-term vision of a program committed to technical excellence and possession-based soccer. Their potential collision on the pitch serves as a symbolic passing of the torch, whether consciously or not. For Messi, the final is a last chance at another World Cup crown; for Yamal, it is one step toward proving his immense early potential in the highest pressure environment. The narrative will follow whichever player leaves the largest mark on the match."
     },
     {
-      "headline": "Heavy flooding, poor air quality loom over World Cup Final",
-      "source": "Front Office Sports · 3h ago",
-      "article": "Weather conditions at the World Cup Final site have created logistical challenges for both teams preparing for Spain and Argentina's championship match. Argentina trained outside in rain and smoke, while Spain opted to keep its session indoors, adjusting to environmental conditions that affect player comfort and performance. Heavy flooding in the region has complicated ground operations and fan arrival patterns, while air quality concerns tied to surrounding wildfires have prompted contingency planning. The tournament's final match will proceed as scheduled, but teams and broadcasters have factored environmental variables into preparation protocols. FIFA and local organizing authorities have coordinated with venue management to ensure player safety and field conditions meet standards for a major final. The weather dynamics add an unpredictable element to what is already a high-stakes contest between two program-rich nations."
+      "headline": "Jake Paul dives into sports investment portfolio",
+      "source": "Front Office Sports · 17h ago",
+      "article": "Jake Paul has expanded his sports investments beyond entertainment boxing into a broader portfolio including stakes in Anti Fund, Poly Market, and cryptocurrency positions. Paul discussed his approach to sports investing, including his early Bitcoin purchase at age 15 and his vision for leveraging artificial intelligence in sports operations. His investment thesis reflects a cross-industry appetite for exposure to emerging platforms and technologies reshaping how sports are consumed, analyzed, and monetized. While Paul remains better known as a combat-sports performer and entertainer, his capital deployment suggests serious ambitions in sports business and technology. The portfolio reveals a younger generation of wealthy individuals viewing sports not just as entertainment but as an asset class with venture and growth potential."
     },
     {
-      "headline": "Jake Paul dives into his sports investment portfolio",
-      "source": "Front Office Sports · 11h ago",
-      "article": "Jake Paul discussed his expanding presence in the sports business and investment sector, highlighting positions in Anti Fund, Poly Market, and early Bitcoin acquisitions made at age 15. Paul's portfolio spans entertainment, sports betting infrastructure, and cryptocurrency, reflecting a broader strategy to diversify beyond his media and boxing ventures. The influencer-turned-athlete has been transparent about his approach to early-stage opportunities and high-risk assets, positioning himself as a contrarian investor in spaces where volatility is normalized. His commentary on artificial intelligence in sports and the longer-term business legacy he intends to build suggests Paul views his investment portfolio as seriously as his public persona. The scale of his financial position and appetite for risk puts him in a different category than most athlete-investors, who tend toward safer, brand-aligned opportunities."
-    },
-    {
-      "headline": "BBC Sport assesses England players' World Cup performances",
-      "source": "BBC Sport · just now",
-      "article": "BBC Sport England correspondent Alex Howell evaluated how the Three Lions' players performed across their World Cup campaign in North America, assessing individual contributions to the team's semifinal exit and third-place finish. The rating system provides detailed breakdowns of attacking, midfield, and defensive play, along with goalkeeper performance and leadership metrics. Howell's assessment accounts for the tournament's grueling schedule, changing opponent tactical approaches, and the emotional toll of England's dramatic late-match collapse in the semifinal before the restorative third-place victory over France. Player grades and written commentary offer fans granular analysis of who excelled in the competition and who underperformed relative to domestic-league form. The review serves as a reference point for Southgate's squad management and the technical assessment that will guide England's Euro 2028 qualifying campaign."
+      "headline": "Steve Bornstein joins advisory board of Scott Coker's new MMA promotion",
+      "source": "Sportico · 2d ago",
+      "article": "Steve Bornstein, a veteran sports executive, has joined the advisory board of Scott Coker's new global mixed martial arts league. Bornstein's extensive background in sports media and promotion adds credibility to the fledgling organization as it builds toward launch. Coker, former Bellator head, is assembling a team and advisory structure designed to challenge the UFC's dominance in mixed martial arts. Bornstein's presence signals serious institutional intent behind the venture. His expertise in sports rights, media partnerships, and promotion strategy will be critical as the league courts fighters, broadcasters, and sponsors. The MMA landscape has been largely settled under UFC control for nearly two decades, so any credible challenger requires experienced executives to navigate partnerships, broadcasting deals, and athlete recruitment."
     }
   ],
   "poll": {
-    "question": "Which team will win the World Cup Final: Spain or Argentina?",
+    "question": "Which team will win the 2026 FIFA World Cup final?",
     "options": [
-      "Spain (first title)",
-      "Argentina (second title)",
-      "Coin flip—too close to call",
-      "Penalties are involved"
+      "Argentina",
+      "Spain",
+      "Too close to call",
+      "Neither team deserves it"
     ]
   },
   "predictions": [
     {
-      "statement": "Spain wins the World Cup Final in 90 minutes, 2-1",
-      "probability": 42,
-      "rationale": "Spain's defensive organization and midfield control have been consistent throughout the tournament, and the team's experience managing high-pressure knockout matches favors a structured approach. Argentina's reliance on Messi at age 39 and defensive vulnerabilities in the semifinal suggest Spain's depth will prevail."
+      "statement": "Spain defeats Argentina in the World Cup final by one goal",
+      "probability": 52,
+      "rationale": "Spain's defensive structure and possession-based approach has weathered late-tournament pressure. Argentina's semifinal collapse to France and reliance on individual brilliance creates vulnerability against a technically superior opponent in open play."
     },
     {
-      "statement": "Argentina wins in extra time or penalties after a draw",
-      "probability": 38,
-      "rationale": "Argentina has shown resilience in knockout rounds and possesses the individual brilliance to unlock defenses. Messi's tournament form has been peak, and the team's mental toughness in high-stakes moments could extend the match and favor sudden-death scenarios where Argentina's experience shines."
+      "statement": "Kylian Mbappe finishes as the World Cup's Golden Boot winner",
+      "probability": 68,
+      "rationale": "Mbappe holds a two-goal lead entering the final and is the tournament's most clinical finisher. Even if Messi scores once, Mbappe's consistency through the knockout rounds suggests he'll preserve the award."
     },
     {
-      "statement": "U.S. TV viewership for the Final exceeds 25 million viewers",
-      "probability": 85,
-      "rationale": "The tournament's North American footprint has shattered prior records through every round. A Spain-Argentina final between two storied programs featuring Messi represents a cultural moment beyond soccer, driving mainstream crossover audiences similar to Messi's 2021 Copa America run."
+      "statement": "Luis Robert Jr. plays in at least three games for the Mets in their Milwaukee series",
+      "probability": 71,
+      "rationale": "The Mets would not bring back a key player mid-series without intention to integrate him quickly. The crowded outfield actually incentivizes getting him consistent at-bats to justify the roster crunch."
     },
     {
-      "statement": "Sam Burns wins the Open Championship at Royal Birkdale",
-      "probability": 28,
-      "rationale": "Burns's two-shot lead is meaningful but not insurmountable in a major championship where final-round variables—weather, pairings, momentum shifts—often overturn overnight leaders. Fox and Si-woo are within striking distance, and the back nine at Royal Birkdale has historically favored aggressive pursuers over cautious leaders."
+      "statement": "England reaches the 2028 Euro championship final",
+      "probability": 45,
+      "rationale": "Declan Rice's assertion that this is England's best squad in years is credible, but the path through Euro 2028 will be equally competitive. Core players age, injuries happen, and historically England underperforms relative to talent level."
     }
   ],
   "injuries": [
     {
-      "player": "Sam Burns",
-      "team": "PGA Tour",
-      "league": "GOLF",
-      "position": "",
+      "player": "Luis Robert Jr.",
+      "team": "New York Mets",
+      "league": "MLB",
+      "position": "OF",
       "status": "RETURNING",
-      "injury": "Paternity leave / early birth of child",
-      "timeline": "competing this week",
-      "source": "The Guardian",
-      "impact": "Burns competing at Open despite personal circumstances; decision to play added narrative weight to his performance at Royal Birkdale.",
-      "storyIndex": 3
+      "injury": "Injury (type unspecified)",
+      "timeline": "Expected for Milwaukee series this week",
+      "source": "NY Post Sports",
+      "impact": "Return to outfield creates roster logjam but bolsters offensive depth if he reaches full availability.",
+      "storyIndex": 2
+    },
+    {
+      "player": "Sandy Brondello",
+      "team": "Toronto Tempo",
+      "league": "WNBA",
+      "position": "HC",
+      "status": "OUT",
+      "injury": "Suspension (disciplinary)",
+      "timeline": "Out for Monday game vs Las Vegas Aces",
+      "source": "The Guardian / CBS Sports",
+      "impact": "Tempo must find interim coaching continuity for one game, disrupting game-planning against a strong opponent.",
+      "storyIndex": 11
     }
   ],
   "picks": [
-    {
-      "matchup": "Pittsburgh Pirates @ Cleveland Guardians",
-      "league": "MLB",
-      "type": "moneyline",
-      "when": "Today 7:10 PM ET",
-      "pick": "Pittsburgh Pirates -107",
-      "odds": "-107",
-      "edge": "Braxton Ashcraft (9-3, 3.49 ERA) has been significantly more effective than Cleveland's Joey Cantillo (sub-4.00 ERA, less established record). The Pirates' starting pitcher has a 0.51 ERA advantage and a 6-game win differential over Cantillo on the season. Pittsburgh is also 50-47 (near .500) playing a team at 51-46, with virtually identical records — the line favors Cleveland slightly despite the starter matchup advantage favoring Pittsburgh.",
-      "confidence": "low",
-      "marketSnapshot": {
-        "capturedAt": "2026-07-18T11:45:25.436Z",
-        "markets": {
-          "h2h": {
-            "away": {
-              "price": -107,
-              "book": "LowVig.ag"
-            },
-            "home": {
-              "price": 100,
-              "book": "Fanatics"
-            },
-            "draw": null
-          },
-          "spreads": {
-            "away": {
-              "point": -1.5,
-              "price": 160,
-              "book": "FanDuel"
-            },
-            "home": {
-              "point": 1.5,
-              "price": -170,
-              "book": "LowVig.ag"
-            }
-          },
-          "totals": {
-            "over": {
-              "point": 7.5,
-              "price": -110,
-              "book": "Caesars"
-            },
-            "under": {
-              "point": 8,
-              "price": -113,
-              "book": "LowVig.ag"
-            }
-          }
-        },
-        "awayTeam": "Pittsburgh Pirates",
-        "homeTeam": "Cleveland Guardians",
-        "commenceTime": "2026-07-18T23:10:00Z"
-      },
-      "_scheduledTs": 1784416200000
-    },
     {
       "type": "spread",
       "pick": "Spain -0.25",
@@ -2615,6 +2565,115 @@
         "awayTeam": "Argentina",
         "homeTeam": "Spain"
       }
+    },
+    {
+      "type": "moneyline",
+      "pick": "Chicago White Sox ML",
+      "odds": "-108",
+      "edge": "Market fill from live lines: Chicago White Sox is the books' favorite at -108 (best price @ BetOnline.ag) against Toronto Blue Jays at +100, favored even on the road. No researched edge here — this is a low-confidence market-consensus play added to round out the slate. Low confidence is honest confidence.",
+      "matchup": "Chicago White Sox @ Toronto Blue Jays",
+      "league": "MLB",
+      "when": "Tomorrow 12:16 PM ET",
+      "confidence": "low",
+      "_autofill": true,
+      "_scheduledTs": 1784477760000,
+      "marketSnapshot": {
+        "capturedAt": "2026-07-18T23:44:59.522Z",
+        "markets": {
+          "h2h": {
+            "away": {
+              "price": -108,
+              "book": "BetOnline.ag"
+            },
+            "home": {
+              "price": 100,
+              "book": "FanDuel"
+            },
+            "draw": null
+          },
+          "spreads": {
+            "away": {
+              "point": -1.5,
+              "price": 146,
+              "book": "MyBookie.ag"
+            },
+            "home": {
+              "point": 1.5,
+              "price": -165,
+              "book": "Caesars"
+            }
+          },
+          "totals": {
+            "over": {
+              "point": 8,
+              "price": -113,
+              "book": "LowVig.ag"
+            },
+            "under": {
+              "point": 8.5,
+              "price": -124,
+              "book": "FanDuel"
+            }
+          }
+        },
+        "awayTeam": "Chicago White Sox",
+        "homeTeam": "Toronto Blue Jays"
+      }
+    },
+    {
+      "matchup": "Pittsburgh Pirates @ Cleveland Guardians",
+      "league": "MLB",
+      "type": "moneyline",
+      "when": "Today 7:10 PM ET",
+      "pick": "Pittsburgh Pirates -107",
+      "odds": "-107",
+      "edge": "Braxton Ashcraft (9-3, 3.49 ERA) has been significantly more effective than Cleveland's Joey Cantillo (sub-4.00 ERA, less established record). The Pirates' starting pitcher has a 0.51 ERA advantage and a 6-game win differential over Cantillo on the season. Pittsburgh is also 50-47 (near .500) playing a team at 51-46, with virtually identical records — the line favors Cleveland slightly despite the starter matchup advantage favoring Pittsburgh.",
+      "confidence": "low",
+      "marketSnapshot": {
+        "capturedAt": "2026-07-18T11:45:25.436Z",
+        "markets": {
+          "h2h": {
+            "away": {
+              "price": -107,
+              "book": "LowVig.ag"
+            },
+            "home": {
+              "price": 100,
+              "book": "Fanatics"
+            },
+            "draw": null
+          },
+          "spreads": {
+            "away": {
+              "point": -1.5,
+              "price": 160,
+              "book": "FanDuel"
+            },
+            "home": {
+              "point": 1.5,
+              "price": -170,
+              "book": "LowVig.ag"
+            }
+          },
+          "totals": {
+            "over": {
+              "point": 7.5,
+              "price": -110,
+              "book": "Caesars"
+            },
+            "under": {
+              "point": 8,
+              "price": -113,
+              "book": "LowVig.ag"
+            }
+          }
+        },
+        "awayTeam": "Pittsburgh Pirates",
+        "homeTeam": "Cleveland Guardians",
+        "commenceTime": "2026-07-18T23:10:00Z"
+      },
+      "_scheduledTs": 1784416200000,
+      "_pendingGrade": true
     },
     {
       "matchup": "England @ France",
@@ -5869,67 +5928,67 @@
     },
     {
       "type": "moneyline",
-      "pick": "Chicago White Sox ML",
-      "odds": "-108",
-      "edge": "Market fill from live lines: Chicago White Sox is the books' favorite at -108 (best price @ BetOnline.ag) against Toronto Blue Jays at +100, favored even on the road. No researched edge here — this is a low-confidence market-consensus play added to round out the slate. Low confidence is honest confidence.",
-      "matchup": "Chicago White Sox @ Toronto Blue Jays",
+      "pick": "Texas Rangers ML",
+      "odds": "-116",
+      "edge": "Market fill from live lines: Texas Rangers is the books' favorite at -116 (best price @ LowVig.ag) against Atlanta Braves at +106, favored even on the road. No researched edge here — this is a low-confidence market-consensus play added to round out the slate. Low confidence is honest confidence.",
+      "matchup": "Texas Rangers @ Atlanta Braves",
       "league": "MLB",
-      "when": "Tomorrow 12:16 PM ET",
+      "when": "Today 1:36 PM ET",
       "confidence": "low",
       "_autofill": true,
-      "_scheduledTs": 1784477760000,
+      "_scheduledTs": 1784482560000,
       "marketSnapshot": {
-        "capturedAt": "2026-07-18T23:44:59.522Z",
+        "capturedAt": "2026-07-19T05:44:01.723Z",
         "markets": {
           "h2h": {
             "away": {
-              "price": -108,
-              "book": "BetOnline.ag"
+              "price": -116,
+              "book": "LowVig.ag"
             },
             "home": {
-              "price": 100,
-              "book": "FanDuel"
+              "price": 106,
+              "book": "BetUS"
             },
             "draw": null
           },
           "spreads": {
             "away": {
               "point": -1.5,
-              "price": 146,
-              "book": "MyBookie.ag"
+              "price": 140,
+              "book": "Bovada"
             },
             "home": {
               "point": 1.5,
-              "price": -165,
-              "book": "Caesars"
+              "price": -156,
+              "book": "FanDuel"
             }
           },
           "totals": {
             "over": {
-              "point": 8,
-              "price": -113,
-              "book": "LowVig.ag"
+              "point": 8.5,
+              "price": -118,
+              "book": "BetRivers"
             },
             "under": {
-              "point": 8.5,
-              "price": -124,
-              "book": "FanDuel"
+              "point": 9,
+              "price": -120,
+              "book": "Caesars"
             }
           }
         },
-        "awayTeam": "Chicago White Sox",
-        "homeTeam": "Toronto Blue Jays"
+        "awayTeam": "Texas Rangers",
+        "homeTeam": "Atlanta Braves"
       }
     }
   ],
-  "updatedAt": "2026-07-19T16:30:00Z",
+  "updatedAt": "2026-07-19T15:43:00Z",
   "highlights": [
     {
       "league": "NBA",
-      "title": "76ERS vs BUCKS | LAS VEGAS SUMMER LEAGUE | FULL GAME HIGHLIGHTS | July 18, 2026",
-      "videoId": "5d6q_7iKJnw",
-      "thumbnail": "https://img.youtube.com/vi/5d6q_7iKJnw/mqdefault.jpg",
-      "timeAgo": "Just now",
+      "title": "Warriors Advance, Brayden Burries Balls Out &amp; More | NBA's Nightly Recap | July 18, 2026",
+      "videoId": "6U-WeGPU984",
+      "thumbnail": "https://img.youtube.com/vi/6U-WeGPU984/mqdefault.jpg",
+      "timeAgo": "1h ago",
       "isFallback": false
     },
     {
@@ -5937,15 +5996,15 @@
       "title": "😳😳😳 (via buccaneers, tristan_wirfs74/IG)",
       "videoId": "iZ_OLY9-d44",
       "thumbnail": "https://img.youtube.com/vi/iZ_OLY9-d44/mqdefault.jpg",
-      "timeAgo": "2h ago",
+      "timeAgo": "8h ago",
       "isFallback": false
     },
     {
       "league": "MLB",
-      "title": "CARDINALS vs. D-BACKS: Official Full Game Highlights (July 18) | 2026 MLB Season",
-      "videoId": "sKYuzuprLmU",
-      "thumbnail": "https://img.youtube.com/vi/sKYuzuprLmU/mqdefault.jpg",
-      "timeAgo": "Just now",
+      "title": "TIGERS vs. ANGELS: Official Full Game Highlights (July 18) | 2026 MLB Season",
+      "videoId": "IulS1hcA__4",
+      "thumbnail": "https://img.youtube.com/vi/IulS1hcA__4/mqdefault.jpg",
+      "timeAgo": "1h ago",
       "isFallback": false
     },
     {
@@ -5953,27 +6012,227 @@
       "title": "Fanatics Games Day 3 / July 18th",
       "videoId": "5DBMGoMQRHg",
       "thumbnail": "https://img.youtube.com/vi/5DBMGoMQRHg/mqdefault.jpg",
-      "timeAgo": "4h ago",
+      "timeAgo": "10h ago",
       "isFallback": false
     },
     {
       "league": "WNBA",
-      "title": "Connecticut Sun vs. Phoenix Mercury | FULL GAME HIGHLIGHTS | July 17, 2026",
-      "videoId": "98T51H4DUPE",
-      "thumbnail": "https://img.youtube.com/vi/98T51H4DUPE/mqdefault.jpg",
-      "timeAgo": "19h ago",
+      "title": "Washington Mystics vs. Golden State Valkyries | FULL GAME HIGHLIGHTS | July 18, 2026",
+      "videoId": "Bp99HyVDCh4",
+      "thumbnail": "https://img.youtube.com/vi/Bp99HyVDCh4/mqdefault.jpg",
+      "timeAgo": "2h ago",
       "isFallback": false
     },
     {
       "league": "SOCCER",
-      "title": "‘A FANTASTIC GAME!’ 🔥 FULL REACTION to England defeating France in Third Place Playoff | ESPN FC",
-      "videoId": "68dBCIlFblw",
-      "thumbnail": "https://img.youtube.com/vi/68dBCIlFblw/mqdefault.jpg",
-      "timeAgo": "Just now",
+      "title": "Unreal 🔥",
+      "videoId": "sILQ8uF03Jk",
+      "thumbnail": "https://img.youtube.com/vi/sILQ8uF03Jk/mqdefault.jpg",
+      "timeAgo": "2h ago",
       "isFallback": false
     }
   ],
   "reels": [
+    {
+      "league": "NBA",
+      "title": "Warriors Advance, Brayden Burries Balls Out &amp; More | NBA's Nightly Recap | July 18, 2026",
+      "videoId": "6U-WeGPU984",
+      "author": "NBA",
+      "pubDate": "2026-07-19T05:11:48+00:00",
+      "link": "https://www.youtube.com/watch?v=6U-WeGPU984"
+    },
+    {
+      "league": "MLB",
+      "title": "TIGERS vs. ANGELS: Official Full Game Highlights (July 18) | 2026 MLB Season",
+      "videoId": "IulS1hcA__4",
+      "author": "MLB",
+      "pubDate": "2026-07-19T05:05:54+00:00",
+      "link": "https://www.youtube.com/watch?v=IulS1hcA__4"
+    },
+    {
+      "league": "NBA",
+      "title": "SPURS vs SUNS | LAS VEGAS SUMMER LEAGUE | FULL GAME HIGHLIGHTS | July 18, 2026",
+      "videoId": "fXn0e2n2isM",
+      "author": "NBA",
+      "pubDate": "2026-07-19T04:44:17+00:00",
+      "link": "https://www.youtube.com/watch?v=fXn0e2n2isM"
+    },
+    {
+      "league": "MLB",
+      "title": "J.P. Crawford dared Luis Arraez to beat him to the bag 😂",
+      "videoId": "Qfs1MZH-234",
+      "author": "MLB",
+      "pubDate": "2026-07-19T04:44:01+00:00",
+      "link": "https://www.youtube.com/watch?v=Qfs1MZH-234"
+    },
+    {
+      "league": "MLB",
+      "title": "PIRATES vs. GUARDIANS: Official Full Game Highlights (July 18) | 2026 MLB Season",
+      "videoId": "9PUVq3q_FgY",
+      "author": "MLB",
+      "pubDate": "2026-07-19T03:57:46+00:00",
+      "link": "https://www.youtube.com/watch?v=9PUVq3q_FgY"
+    },
+    {
+      "league": "MLB",
+      "title": "Travis Bazzana's first career walk-off home run completes the Guardians’ comeback! 😤",
+      "videoId": "6Y-MP4wvfYQ",
+      "author": "MLB",
+      "pubDate": "2026-07-19T03:54:54+00:00",
+      "link": "https://www.youtube.com/watch?v=6Y-MP4wvfYQ"
+    },
+    {
+      "league": "MLB",
+      "title": "GIANTS vs. MARINERS: Official Full Game Highlights (July 18) | 2026 MLB Season",
+      "videoId": "e4RiBJPLWhY",
+      "author": "MLB",
+      "pubDate": "2026-07-19T03:52:04+00:00",
+      "link": "https://www.youtube.com/watch?v=e4RiBJPLWhY"
+    },
+    {
+      "league": "NBA",
+      "title": "King Bacot, Team Loaded vs Avery Jones, Austin Rivers SE Elite | 2026 Adidas 3SSB 15U Championship",
+      "videoId": "K5a1qJWrmsw",
+      "author": "NBA",
+      "pubDate": "2026-07-19T03:49:00+00:00",
+      "link": "https://www.youtube.com/watch?v=K5a1qJWrmsw"
+    },
+    {
+      "league": "NBA",
+      "title": "Kamari Whyte, New Heights vs Antonio Pemberton, Mass Rivals  | Adidas 3SSB 17U Championship Game",
+      "videoId": "NHLIElZAMZk",
+      "author": "NBA",
+      "pubDate": "2026-07-19T03:46:41+00:00",
+      "link": "https://www.youtube.com/watch?v=NHLIElZAMZk"
+    },
+    {
+      "league": "WNBA",
+      "title": "Washington Mystics vs. Golden State Valkyries | FULL GAME HIGHLIGHTS | July 18, 2026",
+      "videoId": "Bp99HyVDCh4",
+      "author": "WNBA",
+      "pubDate": "2026-07-19T03:46:04+00:00",
+      "link": "https://www.youtube.com/watch?v=Bp99HyVDCh4"
+    },
+    {
+      "league": "NBA",
+      "title": "Xavier Hall, Team Loaded vs Keonte Smith, Midwest Basketball | 2026 Adidas 3SSB 16U Championship",
+      "videoId": "FOnfNJTF294",
+      "author": "NBA",
+      "pubDate": "2026-07-19T03:43:58+00:00",
+      "link": "https://www.youtube.com/watch?v=FOnfNJTF294"
+    },
+    {
+      "league": "NBA",
+      "title": "Baboucarr Ann, D1 Minnesota vs Cooper Zachary, Midwest Basketball | Adidas 3SSB 17U 3rd Place Game",
+      "videoId": "oyoVhdoyC-I",
+      "author": "NBA",
+      "pubDate": "2026-07-19T03:40:16+00:00",
+      "link": "https://www.youtube.com/watch?v=oyoVhdoyC-I"
+    },
+    {
+      "league": "WNBA",
+      "title": "Portland Fire vs. Minnesota Lynx | FULL GAME HIGHLIGHTS | July 18, 2026",
+      "videoId": "RYWvJ_L38wU",
+      "author": "WNBA",
+      "pubDate": "2026-07-19T03:37:50+00:00",
+      "link": "https://www.youtube.com/watch?v=RYWvJ_L38wU"
+    },
+    {
+      "league": "WNBA",
+      "title": "New York Liberty vs. Indiana Fever |  FULL GAME HIGHLIGHTS | July 18, 2026",
+      "videoId": "0-wZzJwOqd8",
+      "author": "WNBA",
+      "pubDate": "2026-07-19T03:33:29+00:00",
+      "link": "https://www.youtube.com/watch?v=0-wZzJwOqd8"
+    },
+    {
+      "league": "MLB",
+      "title": "Travis Bazzana WINS IT for the Guardians with a WALK-OFF HOMER 💪 | MLB Highlights",
+      "videoId": "YH6Z3pwplGE",
+      "author": "MLB",
+      "pubDate": "2026-07-19T03:33:00+00:00",
+      "link": "https://www.youtube.com/watch?v=YH6Z3pwplGE"
+    },
+    {
+      "league": "NBA",
+      "title": "That’s how you celebrate advancing to the NBA Summer League championship games 😂",
+      "videoId": "AixBeQJuKvw",
+      "author": "NBA",
+      "pubDate": "2026-07-19T03:23:05+00:00",
+      "link": "https://www.youtube.com/watch?v=AixBeQJuKvw"
+    },
+    {
+      "league": "SOCCER",
+      "title": "Unreal 🔥",
+      "videoId": "sILQ8uF03Jk",
+      "author": "ESPN FC",
+      "pubDate": "2026-07-19T03:20:39+00:00",
+      "link": "https://www.youtube.com/watch?v=sILQ8uF03Jk"
+    },
+    {
+      "league": "NBA",
+      "title": "PACERS vs PELICANS | LAS VEGAS SUMMER LEAGUE | FULL GAME HIGHLIGHTS | July 18, 2026",
+      "videoId": "HDixiEm6TiQ",
+      "author": "NBA",
+      "pubDate": "2026-07-19T03:16:24+00:00",
+      "link": "https://www.youtube.com/watch?v=HDixiEm6TiQ"
+    },
+    {
+      "league": "SOCCER",
+      "title": "Saka &amp; Mbappe highlight high-scoring World Cup 3rd-place match 🍿 + WC final PREVIEW | ESPN FC",
+      "videoId": "fhw8U9df7VI",
+      "author": "ESPN FC",
+      "pubDate": "2026-07-19T00:54:14+00:00",
+      "link": "https://www.youtube.com/watch?v=fhw8U9df7VI"
+    },
+    {
+      "league": "MLB",
+      "title": "ORIOLES vs. ASTROS: Official Full Game Highlights (July 18) | 2026 MLB Season",
+      "videoId": "qRa2Kq3VIIk",
+      "author": "MLB",
+      "pubDate": "2026-07-19T00:41:58+00:00",
+      "link": "https://www.youtube.com/watch?v=qRa2Kq3VIIk"
+    },
+    {
+      "league": "MLB",
+      "title": "Wilyer Abreu's ELECTRIC home run caps off 4-run 7th to lead the Red Sox to a 12th straight win 🔥",
+      "videoId": "tdYdoMF0nlc",
+      "author": "MLB",
+      "pubDate": "2026-07-19T00:37:05+00:00",
+      "link": "https://www.youtube.com/watch?v=tdYdoMF0nlc"
+    },
+    {
+      "league": "SOCCER",
+      "title": "How will France set up under Zinedine Zidane? 🤔 + World Cup final predictions | ESPN FC",
+      "videoId": "INyQIDe2K4k",
+      "author": "ESPN FC",
+      "pubDate": "2026-07-19T00:31:17+00:00",
+      "link": "https://www.youtube.com/watch?v=INyQIDe2K4k"
+    },
+    {
+      "league": "SOCCER",
+      "title": "Argentina's determination fueling World Cup run 🙌 PREVIEW of WC final vs. Spain | ESPN FC",
+      "videoId": "RYDVPc8MoXk",
+      "author": "ESPN FC",
+      "pubDate": "2026-07-19T00:29:16+00:00",
+      "link": "https://www.youtube.com/watch?v=RYDVPc8MoXk"
+    },
+    {
+      "league": "SOCCER",
+      "title": "Will Mauricio Pochettino STEP DOWN from coaching USMNT? 😳 | ESPN FC",
+      "videoId": "MN4DweLG25I",
+      "author": "ESPN FC",
+      "pubDate": "2026-07-19T00:07:26+00:00",
+      "link": "https://www.youtube.com/watch?v=MN4DweLG25I"
+    },
+    {
+      "league": "SOCCER",
+      "title": "Bukayo Saka scores hat-trick in England’s win over France in World Cup Third Place Playoff | ESPN FC",
+      "videoId": "fPgVlLkceDc",
+      "author": "ESPN FC",
+      "pubDate": "2026-07-18T23:39:08+00:00",
+      "link": "https://www.youtube.com/watch?v=fPgVlLkceDc"
+    },
     {
       "league": "SOCCER",
       "title": "‘A FANTASTIC GAME!’ 🔥 FULL REACTION to England defeating France in Third Place Playoff | ESPN FC",
@@ -5991,102 +6250,6 @@
       "link": "https://www.youtube.com/watch?v=2pmiVweXV0g"
     },
     {
-      "league": "NBA",
-      "title": "76ERS vs BUCKS | LAS VEGAS SUMMER LEAGUE | FULL GAME HIGHLIGHTS | July 18, 2026",
-      "videoId": "5d6q_7iKJnw",
-      "author": "NBA",
-      "pubDate": "2026-07-18T23:26:22+00:00",
-      "link": "https://www.youtube.com/watch?v=5d6q_7iKJnw"
-    },
-    {
-      "league": "MLB",
-      "title": "CARDINALS vs. D-BACKS: Official Full Game Highlights (July 18) | 2026 MLB Season",
-      "videoId": "sKYuzuprLmU",
-      "author": "MLB",
-      "pubDate": "2026-07-18T23:23:55+00:00",
-      "link": "https://www.youtube.com/watch?v=sKYuzuprLmU"
-    },
-    {
-      "league": "NBA",
-      "title": "Javon Small elevates for the big alley oop jam on the break",
-      "videoId": "LyA1QHLNz_8",
-      "author": "NBA",
-      "pubDate": "2026-07-18T23:23:31+00:00",
-      "link": "https://www.youtube.com/watch?v=LyA1QHLNz_8"
-    },
-    {
-      "league": "MLB",
-      "title": "METS vs. PHILLIES: Official Full Game Highlights (July 18) | 2026 MLB Season",
-      "videoId": "fbNgceVYHLk",
-      "author": "MLB",
-      "pubDate": "2026-07-18T23:17:57+00:00",
-      "link": "https://www.youtube.com/watch?v=fbNgceVYHLk"
-    },
-    {
-      "league": "NBA",
-      "title": "Brayden Burries lays it up in traffic to win the game in the final seconds",
-      "videoId": "OdcKhmYyfuo",
-      "author": "NBA",
-      "pubDate": "2026-07-18T23:14:08+00:00",
-      "link": "https://www.youtube.com/watch?v=OdcKhmYyfuo"
-    },
-    {
-      "league": "MLB",
-      "title": "PADRES vs. ROYALS: Official Full Game Highlights (July 18) | 2026 MLB Season",
-      "videoId": "GQ9IYbazMAQ",
-      "author": "MLB",
-      "pubDate": "2026-07-18T23:06:34+00:00",
-      "link": "https://www.youtube.com/watch?v=GQ9IYbazMAQ"
-    },
-    {
-      "league": "NBA",
-      "title": "Cedric Coward makes an impact early with an and1 bucket inside then a big swat on the other end",
-      "videoId": "ROFxpXlmtio",
-      "author": "NBA",
-      "pubDate": "2026-07-18T22:49:49+00:00",
-      "link": "https://www.youtube.com/watch?v=ROFxpXlmtio"
-    },
-    {
-      "league": "MLB",
-      "title": "WHITE SOX vs. BLUE JAYS: Official Full Game Highlights (July 18) | 2026 MLB Season",
-      "videoId": "kxBxY8ojUME",
-      "author": "MLB",
-      "pubDate": "2026-07-18T22:47:11+00:00",
-      "link": "https://www.youtube.com/watch?v=kxBxY8ojUME"
-    },
-    {
-      "league": "NBA",
-      "title": "CELTICS vs MAGIC | LAS VEGAS SUMMER LEAGUE | FULL GAME HIGHLIGHTS | July 18, 2026",
-      "videoId": "sQR9ht42xB4",
-      "author": "NBA",
-      "pubDate": "2026-07-18T22:43:17+00:00",
-      "link": "https://www.youtube.com/watch?v=sQR9ht42xB4"
-    },
-    {
-      "league": "NBA",
-      "title": "Cameron Boozer is ready for NBA Summer League action!",
-      "videoId": "MzUPimjWiTY",
-      "author": "NBA",
-      "pubDate": "2026-07-18T22:41:25+00:00",
-      "link": "https://www.youtube.com/watch?v=MzUPimjWiTY"
-    },
-    {
-      "league": "MLB",
-      "title": "Maybe they can catch a game together soon 🦝",
-      "videoId": "dCmschDzhW8",
-      "author": "MLB",
-      "pubDate": "2026-07-18T22:39:56+00:00",
-      "link": "https://www.youtube.com/watch?v=dCmschDzhW8"
-    },
-    {
-      "league": "MLB",
-      "title": "REDS vs. ROCKIES: Official Full Game Highlights (July 18) | 2026 MLB Season",
-      "videoId": "TGa1Srt3Fq4",
-      "author": "MLB",
-      "pubDate": "2026-07-18T22:15:08+00:00",
-      "link": "https://www.youtube.com/watch?v=TGa1Srt3Fq4"
-    },
-    {
       "league": "NFL",
       "title": "😳😳😳 (via buccaneers, tristan_wirfs74/IG)",
       "videoId": "iZ_OLY9-d44",
@@ -6095,44 +6258,12 @@
       "link": "https://www.youtube.com/watch?v=iZ_OLY9-d44"
     },
     {
-      "league": "NBA",
-      "title": "Phillip Wheeler wins the race down the floor for the big poster jam",
-      "videoId": "kDh-kFdL8Ic",
-      "author": "NBA",
-      "pubDate": "2026-07-18T21:50:08+00:00",
-      "link": "https://www.youtube.com/watch?v=kDh-kFdL8Ic"
-    },
-    {
-      "league": "NBA",
-      "title": "Brayden Burries gets the tough take and-1",
-      "videoId": "CQwx3wGd06g",
-      "author": "NBA",
-      "pubDate": "2026-07-18T21:41:01+00:00",
-      "link": "https://www.youtube.com/watch?v=CQwx3wGd06g"
-    },
-    {
-      "league": "MLB",
-      "title": "TWINS vs. CUBS: Official Full Game Highlights (July 18) | 2026 MLB Season",
-      "videoId": "OIkpjDCPSUQ",
-      "author": "MLB",
-      "pubDate": "2026-07-18T21:24:35+00:00",
-      "link": "https://www.youtube.com/watch?v=OIkpjDCPSUQ"
-    },
-    {
       "league": "NFL",
       "title": "The ultimate prank 😅 (via @NFL/TT)",
       "videoId": "C13TnKDI-AM",
       "author": "NFL on ESPN",
       "pubDate": "2026-07-18T20:56:14+00:00",
       "link": "https://www.youtube.com/watch?v=C13TnKDI-AM"
-    },
-    {
-      "league": "MLB",
-      "title": "Anthony Rizzo is a MAGNET 🧲 TWO homers have been hit right to him 10 months apart (And he got one!)",
-      "videoId": "COHMrZb9QqA",
-      "author": "MLB",
-      "pubDate": "2026-07-18T20:54:41+00:00",
-      "link": "https://www.youtube.com/watch?v=COHMrZb9QqA"
     },
     {
       "league": "NHL",
@@ -6151,60 +6282,12 @@
       "link": "https://www.youtube.com/watch?v=6tJ6yxBnero"
     },
     {
-      "league": "SOCCER",
-      "title": "Ronaldo is inevitable 🥶",
-      "videoId": "amM7IBrzk5w",
-      "author": "ESPN FC",
-      "pubDate": "2026-07-18T19:29:12+00:00",
-      "link": "https://www.youtube.com/watch?v=amM7IBrzk5w"
-    },
-    {
-      "league": "SOCCER",
-      "title": "BOLD PREDICTIONS for Argentina vs. Spain!? 👀 + England vs. France &amp; Tuchel's controversy | ESPN FC",
-      "videoId": "9-UAc-Aaua8",
-      "author": "ESPN FC",
-      "pubDate": "2026-07-18T17:18:29+00:00",
-      "link": "https://www.youtube.com/watch?v=9-UAc-Aaua8"
-    },
-    {
       "league": "NFL",
       "title": "Patrick Mahomes knowing almost every QB from their silhouette 😳 (via @Chiefs/X)",
       "videoId": "si7w5HeMSCo",
       "author": "NFL on ESPN",
       "pubDate": "2026-07-18T17:08:26+00:00",
       "link": "https://www.youtube.com/watch?v=si7w5HeMSCo"
-    },
-    {
-      "league": "SOCCER",
-      "title": "Good luck stopping Lamine Yamal 🔥",
-      "videoId": "xewq1jKAeqo",
-      "author": "ESPN FC",
-      "pubDate": "2026-07-18T17:06:53+00:00",
-      "link": "https://www.youtube.com/watch?v=xewq1jKAeqo"
-    },
-    {
-      "league": "SOCCER",
-      "title": "Reflecting on the best moments of the 2026 FIFA World Cup ⚽ | ESPN FC",
-      "videoId": "MOFi1DXkyog",
-      "author": "ESPN FC",
-      "pubDate": "2026-07-18T17:01:48+00:00",
-      "link": "https://www.youtube.com/watch?v=MOFi1DXkyog"
-    },
-    {
-      "league": "SOCCER",
-      "title": "World Cup Final Predictions: Animal Edition 🐶⚽🐢",
-      "videoId": "iBiEIoHgiy8",
-      "author": "ESPN FC",
-      "pubDate": "2026-07-18T16:36:19+00:00",
-      "link": "https://www.youtube.com/watch?v=iBiEIoHgiy8"
-    },
-    {
-      "league": "SOCCER",
-      "title": "Will Mauricio Pochettino return to USMNT? 🤔 He's weighing his options elsewhere - Moreno | ESPN FC",
-      "videoId": "Bwz3fPQKa8o",
-      "author": "ESPN FC",
-      "pubDate": "2026-07-18T16:19:38+00:00",
-      "link": "https://www.youtube.com/watch?v=Bwz3fPQKa8o"
     },
     {
       "league": "WNBA",
@@ -6269,30 +6352,6 @@
       "author": "NHL",
       "pubDate": "2026-07-17T23:00:06+00:00",
       "link": "https://www.youtube.com/watch?v=brW31GmX1Do"
-    },
-    {
-      "league": "NFL",
-      "title": "Fernando Mendoza is fully embracing the dark side 😈",
-      "videoId": "PAsfLYlFBYE",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-07-17T22:51:48+00:00",
-      "link": "https://www.youtube.com/watch?v=PAsfLYlFBYE"
-    },
-    {
-      "league": "NHL",
-      "title": "Fanatics Games Day 2 July 17th",
-      "videoId": "4FyF3N7YtUM",
-      "author": "NHL",
-      "pubDate": "2026-07-17T19:51:58+00:00",
-      "link": "https://www.youtube.com/watch?v=4FyF3N7YtUM"
-    },
-    {
-      "league": "NHL",
-      "title": "Check out these NHL Draft picks testing their reaction time!",
-      "videoId": "Ux57Z6FIfIk",
-      "author": "NHL",
-      "pubDate": "2026-07-17T17:00:31+00:00",
-      "link": "https://www.youtube.com/watch?v=Ux57Z6FIfIk"
     }
   ]
 }
