@@ -1,71 +1,81 @@
 {
   "clusters": [
     {
-      "category": "revenue",
-      "importance": 7,
-      "leadHeadline": "The Packers Lost Money Last Season—an NFLRarity",
-      "leadSource": "Sportico · 18h ago",
-      "leadUrl": "https://www.sportico.com/leagues/football/2026/green-bay-packers-lose-money-1234940156/",
-      "summary": "The Green Bay Packers reported a $1.1 million operating loss for the 2025 season, their first since 1989, after player costs surged $130 million to $440 million.",
-      "article": "<cite index=\"1-1\">The Green Bay Packers had an operating loss of $1.1 million during the 2025 season</cite>, marking <cite index=\"1-4\">the first loss for the team since the 1989 season, outside of the COVID-19-impacted 2020 season</cite>.\n\nIt's a stunning swing from the year prior. <cite index=\"1-2\">The figure was down from an $83.8 million profit for 2024</cite>.\n\nThe culprit: player salaries. <cite index=\"1-7\">The loss was triggered by a $130 million increase in player costs to $440 million, including more than $70 million in player benefits</cite>. <cite index=\"1-8\">The move was driven by the structure and timing of player contracts, including the trade for Micah Parsons</cite>.\n\n<cite index=\"3-10\">The Packers reported $753 million in revenues but $754.1 million in expenses</cite>. <cite index=\"3-11\">Revenues increased 4.7%, but expenses jumped 18.7%</cite>.\n\nCEO Ed Policy downplayed the damage in comments to reporters. <cite index=\"1-5\">\"The Packers are in very strong financial shape, and we're going to invest whatever it takes to field a championship-caliber team,\" he said</cite>.\n\nContext matters: <cite index=\"3-6\">The Packers are the only publicly owned team in the league and cannot sell equity stakes or tap into private investment funds the way other franchises can</cite>. That constraint will shape how they handle future losses. For now, <cite index=\"1-10,1-11\">the operating loss does include tens of millions of dollars in non-cash charges tied to depreciation, increasing due to construction projects around Lambeau</cite>.",
-      "tweets": []
-    },
-    {
-      "category": "media",
-      "importance": 6,
-      "leadHeadline": "Paramount agrees to delay closing of WBD deal until as late as next June",
-      "leadSource": "Sports Media Watch · 18h ago",
-      "leadUrl": "https://www.sportsmediawatch.com/2026/07/paramount-agrees-delay-wbd-sale-as-late-next-june-lawsuit/",
-      "summary": "Paramount's acquisition of Warner Bros. Discovery is now expected to close by June 2027 at the latest, pushing a major media consolidation back nearly a year from its original timeline. The delay underscores ongoing regulatory and integration complexity.",
-      "article": "Paramount has agreed to extend the deadline for closing its acquisition of Warner Bros. Discovery, with the deal now targeting completion as late as June 2027. The delay stretches what was originally a faster timeline and reflects the scale of regulatory review and integration planning required to merge two major media conglomerates.\n\nThe extended closing window doesn't change the deal's fundamentals—Paramount's acquisition of WBD has been announced and is proceeding through due diligence and approval processes—but it does suggest either regulators are requesting more time to assess competition implications or the companies need additional runway to structure the combination.\n\nFor sports media, the stakes are substantial. WBD owns Turner Sports properties including TNT, CNN, and HBO, while Paramount controls CBS, which holds NFL broadcasting rights. The merger would reshape the media landscape and potentially alter how sports rights are packaged, distributed, and valued across cable and streaming platforms. Any delay in closing increases uncertainty about how the combined entity will approach sports content acquisition and presentation.",
+      "category": "leagues",
+      "importance": 9,
+      "leadHeadline": "LeBron James' final act is about more than basketball. It's about time",
+      "leadSource": "The Guardian · 1h ago",
+      "leadUrl": "https://www.theguardian.com/sport/2026/jul/25/why-lebron-james-chose-philadelphia-76ers-final-career",
+      "summary": "<cite index=\"4-20\">LeBron James, 41, signed a two-year, $8 million contract with the Philadelphia 76ers</cite>, <cite index=\"1-15\">calling it his \"last decision\" after strongly considering retirement</cite>.",
+      "article": "<cite index=\"1-14\">LeBron James announced Friday he is heading to the Philadelphia 76ers</cite>, <cite index=\"4-2\">signing a two-year, $8 million deal</cite>. That's a massive pay cut: <cite index=\"4-21\">he made nearly $53 million with the Lakers last season</cite>.\n\n<cite index=\"1-6\">The NBA's all-time leading scorer informed the Lakers he plans to play elsewhere for his 24th NBA season</cite>. <cite index=\"1-15,1-16\">James said this will be his \"last decision\" and it comes after he strongly considered retirement. \"I believe I can help make the Philadelphia 76ers a championship team and I am so excited to energize a new fan base and start this incredible journey one last time,\" James said.</cite>\n\nThe timing matters here. <cite index=\"4-15\">James took time to think, saying \"I've never been able to have no clue what to do and take real time to just think.\"</cite> <cite index=\"4-4,4-5,4-6,4-7,4-8\">In his announcement, he asked: \"What am I really playing for at this point? I still want to sacrifice. I still want to work. I still want to grind. I still want to compete, to win and to have a chance at the feeling of winning another championship.\"</cite>\n\n<cite index=\"1-1\">James will join center Joel Embiid in the 76ers' frontcourt in 2026-27</cite>, alongside guard Tyrese Maxey. <cite index=\"18-12\">The 76ers have not won an NBA championship since 1983 and have not advanced out of the second round of the Eastern Conference playoffs since 2001</cite>. <cite index=\"6-5,6-6\">Philadelphia had the fourth-best 2027 title odds at +1000 as of Friday, up from +7500 longshots as recently as June 30</cite>.",
       "tweets": [
         {
-          "url": "https://twitter.com/CNBC/status/2080746630559547535",
-          "html": "<blockquote class=\"twitter-tweet\" data-dnt=\"true\" data-theme=\"dark\"><p>Paramount agrees to delay WBD acquisition to as late as June 2027 amid legal challenge https://t.co/nahuznCmVj</p>&mdash; CNBC (@CNBC) <a href=\"https://twitter.com/CNBC/status/2080746630559547535\">July 24, 2026</a></blockquote>",
-          "author_name": "CNBC",
-          "author_url": "https://twitter.com/CNBC",
-          "dateMs": 1784923629000
+          "url": "https://twitter.com/ShamsCharania/status/2080677097463312412",
+          "html": "<blockquote class=\"twitter-tweet\" data-dnt=\"true\" data-theme=\"dark\"><p>BREAKING: LeBron James is signing with the Philadelphia 76ers on a two-year, $8 million deal with a player option, Klutch Sports Group and Klutch CEO and Game Over show host Rich Paul tells ESPN. https://t.co/ALOlTkgdAV</p>&mdash; Shams Charania (@ShamsCharania) <a href=\"https://twitter.com/ShamsCharania/status/2080677097463312412\">July 24, 2026</a></blockquote>",
+          "author_name": "Shams Charania",
+          "author_url": "https://twitter.com/ShamsCharania",
+          "dateMs": 1784907051000
         }
       ]
     },
     {
-      "category": "contracts",
-      "importance": 5,
-      "leadHeadline": "Wasserman Near Deal to Sell Agency to Providence for $3.4B",
-      "leadSource": "Sportico · 23h ago",
-      "leadUrl": "https://www.sportico.com/business/finance/2026/providence-equity-wasserman-agency-sale-billion-1234940141/",
-      "summary": "Providence Equity is nearing a deal to consolidate full ownership of Wasserman (now called The Team) at a $3.4 billion valuation, building on its existing 60% stake purchased in 2022. The move would fully exit the founding partners and accelerate the agency's private-equity backing.",
-      "article": "Providence Equity Partners is nearing a deal to acquire full ownership of Wasserman, now operating as The Team, at an enterprise value of approximately $3.4 billion. Providence already controls 60 percent of the agency, acquired in a 2022 transaction, and this deal would consolidate the remaining stake held by the founding partners.\n\nThe transaction reflects the continued roll-up of sports representation into private-equity-backed platforms. Wasserman, founded in 1989 by Casey Wasserman, built a roster spanning NFL, NBA, MLB, and soccer representation. Rebranding as The Team signals Providence's intent to expand the platform beyond individual-agent identity.\n\nAt $3.4 billion, the valuation underscores how highly the market prizes diversified, multi-sport representation in an era when athletes demand integrated services spanning marketing, endorsement, financial advisory, and content production. Providence's strategy mirrors rivals like Ares and Silver Lake, who have similarly invested in bundling talent agencies under consolidated ownership.\n\nThe deal still requires completion, but signals Providence's continued capital deployment into sports services and talent representation.",
+      "category": "revenue",
+      "importance": 8,
+      "leadHeadline": "Pogacar poised to join Tour greats with fifth title in Paris finale",
+      "leadSource": "BBC Sport · 4h ago",
+      "leadUrl": "https://www.bbc.co.uk/sport/cycling/articles/c1d141dl2qro?at_medium=RSS&amp;at_campaign=rss",
+      "summary": "Tadej Pogacar is set to win a record-equalling fifth Tour de France title after dominating stage 20, putting him alongside the sport's greatest champions in a single calendar year.",
+      "article": "Tadej Pogacar is on the verge of winning his fifth Tour de France title, a result that would tie him with the sport's greatest champions and cement what has been the most dominant cycling season in recent memory. Ecuador's Richard Carapaz won a dramatic stage 20 finish at Alpe d'Huez, but Pogacar's overall lead heading into the final Paris stage is insurmountable.\n\nA fifth Tour title places Pogacar in a rarefied class: only Eddy Merckx, Bernard Hinault, and Miguel Indurain have won five Tours. At 25, Pogacar would be the youngest to reach that mark in the modern era. What makes this season extraordinary is not just the Tour victory. Pogacar also won the Giro d'Italia earlier this year, making him the first man since Marco Pantani in 1998 to win cycling's two biggest stage races in a single calendar year.\n\nThe performance erases any remaining debate about his standing. Pogacar is no longer a prospect or a rival to be overcome. He is the sport's dominant force, and the final stage to Paris is a coronation.",
       "tweets": []
     },
     {
       "category": "leagues",
-      "importance": 4,
-      "leadHeadline": "NHLPA Executive Board Appoints John Gerba as General Counsel",
-      "leadSource": "Sportico · 22h ago",
-      "leadUrl": "https://www.sportico.com/personalities/people/2026/sportico-transactions-moves-mergers-roundup-july-24-1234940013/",
-      "summary": "The NHL Players' Association has promoted John Gerba to general counsel, replacing Don Zavelo in the union's top legal role. The move signals continuity in labor leadership as the next CBA negotiation window approaches.",
-      "article": "The National Hockey League Players' Association executive board has unanimously voted to promote John Gerba as the union's general counsel, according to a Sportico report. Gerba replaces Don Zavelo, who was promoted to an unspecified senior role.\n\nThe NHLPA's general counsel handles labor negotiations, grievance proceedings, and collective bargaining strategy. Gerba's elevation comes during a period of relative labor peace in the NHL—the most recent CBA runs through 2026—but positions the union for the negotiation cycle ahead.\n\nGerba's appointment reflects confidence from player leadership in his legal and negotiating acumen as the union enters a phase where player compensation, escrow, salary-cap structure, and playoff revenue sharing will all be live issues. The timing also suggests the NHLPA is building bench strength for complex discussions with the NHL's ownership contingent.",
+      "importance": 7,
+      "leadHeadline": "Kyle Shanahan injured in car accident: 49ers coach to begin training camp in limited role",
+      "leadSource": "CBS Sports · 1h ago",
+      "leadUrl": "https://www.cbssports.com/nfl/news/kyle-shanahan-car-accident-injuries-49ers-training-camp/",
+      "summary": "San Francisco 49ers head coach Kyle Shanahan suffered multiple serious injuries in a July 14 car crash, including a broken nose, three broken ribs, a broken hand, and a concussion requiring 40+ stitches.",
+      "article": "San Francisco 49ers head coach Kyle Shanahan has been hospitalized following a car accident on July 14 that left him with multiple serious injuries. According to reports, Shanahan sustained a broken nose, three broken ribs, a broken hand, a concussion, and required more than 40 stitches to his face in the crash.\n\nShanahan is expected to begin the 49ers' training camp this week in a limited role, meaning he will oversee the team's operations but with restricted mobility and potentially reduced on-field involvement during initial sessions. The timing is significant: the 49ers are preparing for what is expected to be a Super Bowl contention season, and losing Shanahan to full-time duties during camp setup and the opening weeks of the season would be a major disruption.\n\nThe 49ers have not announced a formal interim arrangement or delegated play-calling duties, suggesting confidence that Shanahan will resume normal operations once his injuries heal. How quickly he recovers and how much pain management he requires will shape San Francisco's early-season coaching stability. For now, the team proceeds with Shanahan present but compromised.",
+      "tweets": []
+    },
+    {
+      "category": "leagues",
+      "importance": 6,
+      "leadHeadline": "Jordan Devey, former Patriots guard and Super Bowl winner, dies by suicide aged 38",
+      "leadSource": "The Guardian · 2h ago",
+      "leadUrl": "https://www.theguardian.com/sport/2026/jul/25/former-patriots-super-bowl-winner-jordan-devey-dies",
+      "summary": "Jordan Devey, an offensive lineman who won a Super Bowl with the New England Patriots, died at age 38. A GoFundMe page initiated by his family confirms he took his own life.",
+      "article": "Jordan Devey, a retired NFL offensive lineman who won a Super Bowl with the New England Patriots, has died at age 38. According to a GoFundMe page created to support his wife, Linsey, and their four young children, Devey took his own life.\n\nDevey played 44 games across eight NFL seasons, splitting time between the Patriots and other franchises. His Super Bowl win came during New England's dynasty years, though he was not a prominent starter for the team. He leaves behind a family and a legacy that extends beyond his relatively modest playing career.\n\nThe death underscores ongoing mental health challenges within professional sports and the broader population. Former athletes, particularly those whose playing careers end without significant wealth accumulation or ongoing public recognition, face heightened risks of depression, financial stress, and social isolation. Devey's passing, following years outside the spotlight, reflects patterns documented in mental health research among retired athletes.\n\nThe Patriots and NFL community have not yet issued formal statements, though such deaths typically prompt league-wide mental health awareness initiatives. Devey's family is requesting support through the GoFundMe mechanism.",
       "tweets": []
     },
     {
       "category": "media",
-      "importance": 3,
-      "leadHeadline": "Kalshi, Netflix: Controversial Bet in Trailer Was Made Before Nevada Ban",
-      "leadSource": "Front Office Sports · 18h ago",
-      "leadUrl": "https://frontofficesports.com/kalshi-bet-netflix-trailer-before-nevada-ban/",
-      "summary": "A Netflix documentary appeared to show a Kalshi sports betting transaction that would violate Nevada law, but the bet was actually placed before Nevada's ban took effect. The clarification resolves a potential regulatory violation flagged by the documentary's release.",
-      "article": "A clip from a Netflix documentary showed what appeared to be a Kalshi sports bet placed in violation of Nevada's sports betting restrictions. Front Office Sports reports the bet was actually executed before Nevada's ban became effective, resolving the apparent regulatory breach.\n\nKalshi, a prediction-market platform, offers contracts tied to sports outcomes and other events. Nevada prohibits certain forms of sports betting, and the documentary's release had raised questions about whether Kalshi had violated state law during filming or promotion.\n\nThe clarification underscores ongoing tension between prediction markets, sports betting platforms, and state regulatory frameworks. As sports betting continues to expand across jurisdictions, timing of transactions and regulatory compliance will remain scrutiny points for platforms operating in multiple states with varying rules.",
+      "importance": 5,
+      "leadHeadline": "Paramount agrees to delay closing of WBD deal until as late as next June",
+      "leadSource": "Sports Media Watch · 23h ago",
+      "leadUrl": "https://www.sportsmediawatch.com/2026/07/paramount-agrees-delay-wbd-sale-as-late-next-june-lawsuit/",
+      "summary": "Paramount's planned acquisition of Warner Bros. Discovery is being pushed back nearly a year, with closing now targeted for as late as June 2027, signaling extended regulatory or operational complexity.",
+      "article": "Paramount's acquisition of Warner Bros. Discovery, a transformational consolidation in media and sports rights, will not close for nearly a year. The companies have agreed to push the closing date to as late as June 2027, a significant extension from earlier timelines.\n\nThe delay suggests ongoing regulatory scrutiny or operational complexity in combining the two sprawling media conglomerates. Warner Bros. Discovery owns HBO, Max, and major sports rights including NBA broadcasts, while Paramount controls CBS, which holds NFL and NCAA rights. A combined entity would control enormous swaths of the sports media landscape.\n\nRegulatory bodies may be examining the competitive implications of combining these portfolios, particularly around sports broadcasting rights and subscriber leverage. The extended timeline also allows both companies to stabilize operations independently and plan integration more deliberately.\n\nFor sports leagues, the delay means current broadcasting arrangements remain intact for another year, preserving stability. However, it also defers major strategic decisions about how the combined entity will bid on future rights packages. The deal, once closed, will reshape the sports media business.",
+      "tweets": []
+    },
+    {
+      "category": "revenue",
+      "importance": 4,
+      "leadHeadline": "Packers Made Whopping $753 Million in Revenue Last Season",
+      "leadSource": "Front Office Sports · 22h ago",
+      "leadUrl": "https://frontofficesports.com/packers-earnings-nfl-revenue-media/",
+      "summary": "The Green Bay Packers generated $753 million in revenue during the 2025 season, underscoring the NFL's financial dominance despite the team recording an operating loss for only the second time since 1989.",
+      "article": "The Green Bay Packers recorded $753 million in total revenue during the 2025 season, according to financial filings, yet still posted an operating loss of $1.1 million. The result illustrates the enormous scale of NFL team economics: even a loss for the Packers represents anomalous underperformance rather than financial stress.\n\nThe loss marked only the second time since 1989 that the publicly owned franchise has reported negative operating income, the prior exception being the 2020 COVID-affected season. The $1.1 million shortfall came after a massive $83.8 million profit in 2024, suggesting that one-time factors or unusual expenses depressed the bottom line in 2025.\n\nDespite the loss, the Packers' revenue figure underscores why NFL franchises remain among the most valuable sports properties on earth. Even underperforming years generate three-quarter billion dollars in total income from ticket sales, broadcast revenue shares, sponsorships, and merchandising.\n\nThe Packers, as one of the NFL's most stable and recognizable franchises, face no financial pressure. The loss will be erased within a single good season, and the team's unique ownership structure (the only publicly held NFL franchise) means stakeholder patience is built into governance.",
       "tweets": []
     },
     {
       "category": "leagues",
-      "importance": 2,
-      "leadHeadline": "Blue Jays, Cease look to bounce back from frustrating loss to Red Sox",
-      "leadSource": "Sportsnet · 2h ago",
-      "leadUrl": "",
-      "summary": "Toronto sends its ace to the mound against Boston after falling to 10 games below .500 in a costly Friday loss. The Blue Jays are in sell-off mode ahead of the trade deadline.",
-      "article": "The Toronto Blue Jays prepare to face the Boston Red Sox with ace Dylan Cease on the mound, looking to snap a skid that has left them 10 games under .500. Friday's loss to Boston added to a run of disappointing results that has positioned the Blue Jays as potential deadline sellers.\n\nToronto's fade comes amid expectations of a contending season. Instead, the club has underperformed, creating a calculus where trading rental players for prospect capital makes financial and competitive sense ahead of the July 30 deadline.\n\nCease, acquired in an offseason trade, remains a bright spot in the rotation. His performance over the next week could influence whether the Blue Jays lean into a rebuild or attempt one final push. Either way, the team's trajectory suggests a shift in organizational direction.",
+      "importance": 3,
+      "leadHeadline": "Michigan AD Warde Manuel to Get $7M Settlement",
+      "leadSource": "Front Office Sports · 4h ago",
+      "leadUrl": "https://frontofficesports.com/michigan-ad-warde-manuel-to-get-7m-settlement/",
+      "summary": "University of Michigan athletic director Warde Manuel has negotiated a $7 million settlement and will step down at the end of 2026, concluding a tenure marked by significant NCAA violations and coaching turmoil.",
+      "article": "Warde Manuel, the University of Michigan athletic director, will step down at the end of 2026 after accepting a $7 million settlement from the university. The departure brings to a close a tumultuous tenure marked by major NCAA infractions and repeated coaching instability across multiple sports.\n\nManuel took the job in 2016 and oversaw a period of significant NCAA violations in football and other programs, resulting in substantial penalties. His tenure also saw repeated coaching changes and public relations challenges, including the highly publicized exit of head football coach Jim Harmon and subsequent transition periods.\n\nThe $7 million settlement appears to be a negotiated exit, allowing both parties to avoid further litigation or public dispute. Manuel's departure opens the search for a new athletic director to manage Michigan's recovery from NCAA penalties and to stabilize the football program heading into a new era.\n\nMichigan's next AD will inherit a school in transition: the football program is rebuilding under new leadership, NCAA restrictions are still being served, and donor confidence requires restoration. The settlement allows Manuel a dignified exit while giving the university a clean slate.",
       "tweets": []
     }
   ],
@@ -2389,96 +2399,84 @@
     ],
     "source": "espn"
   },
-  "deals": [
-    {
-      "type": "acquisition",
-      "parties": "Providence Equity ⇄ Wasserman (The Team)",
-      "value_usd": 3400000000,
-      "term_years": null,
-      "league": "MULTI",
-      "headline": "Providence nears deal to consolidate Wasserman ownership at $3.4B",
-      "storyIndex": 17,
-      "blurb": "Private equity firm seeks to acquire remaining stake in sports agency now valued at $3.4 billion.",
-      "capturedAt": "2026-07-25T15:57:58.687Z"
-    }
-  ],
+  "deals": [],
   "ratings": [],
   "ticket_prices": [],
   "sidebar": [
     {
-      "headline": "English gymnast Gabriel Langton hospitalized after horrific fall",
-      "source": "NY Post Sports · just now",
-      "article": "Gabriel Langton was hospitalized Friday following a severe fall at the Commonwealth Games. The English gymnast's injury marks a sobering moment in the competition. Details on his condition and return timeline were not immediately available."
+      "headline": "Kyle Shanahan Injured in Car Accident",
+      "source": "CBS Sports · 1h ago",
+      "article": "San Francisco 49ers head coach Kyle Shanahan will begin training camp in a limited role after a July 14 car crash left him with three broken ribs, a broken hand, a broken nose, a concussion, and more than 40 stitches to his face. The timing is critical as the 49ers prepare for a Super Bowl contention season. Shanahan is expected to oversee operations but with restricted mobility during early camp sessions."
     },
     {
-      "headline": "Unhappy Tottenham players should leave - De Zerbi",
-      "source": "BBC Sport · 6h ago",
-      "article": "Tottenham manager Roberto de Zerbi made a direct statement about squad discontent, telling players unhappy at the club they should depart. The message signals De Zerbi's intent to build a committed roster and clean out disengaged voices before the transfer window closes."
+      "headline": "Pogacar Poised for Historic Fifth Tour de France",
+      "source": "BBC Sport · 4h ago",
+      "article": "Tadej Pogacar is set to win a record-equalling fifth Tour de France title after a dominant performance through stage 20 at Alpe d'Huez. The 25-year-old Slovenian would join an elite group with only Merckx, Hinault, and Indurain. More remarkably, Pogacar is the first cyclist since Marco Pantani in 1998 to win both the Giro d'Italia and Tour de France in a single calendar year."
     },
     {
-      "headline": "Hungarian F1 GP qualifying: Lando Norris takes pole as Lewis Hamilton faces penalty",
-      "source": "The Guardian · just now",
-      "article": "Lando Norris claimed pole position for the Hungarian Grand Prix, while Lewis Hamilton faces a penalty that could shuffle the grid. McLaren's early-season pace continues to impress, with Norris leading the charge as Mercedes works through setup and strategy complexities."
-    },
-    {
-      "headline": "Howe unsure over Guimaraes amid Arsenal interest",
+      "headline": "Norris Seeks First Grand Prix Win of Season in Hungary",
       "source": "BBC Sport · 1h ago",
-      "article": "Newcastle head coach Eddie Howe said he has held positive discussions with captain Bruno Guimaraes but remains uncertain over the midfielder's long-term future. Arsenal's reported interest in the Brazilian midfielder has set up a potential deadline tug-of-war."
+      "article": "McLaren's Lando Norris has pole position for Sunday's Hungarian Grand Prix and an opportunity to secure his first win of the 2026 F1 season. However, Lewis Hamilton reported that another penalty has tested his positivity following a difficult stretch. Norris remains a championship contender heading into the second half of the season."
     },
     {
-      "headline": "'Maybe he's a racist': Donald Trump takes bizarre swipe at LeBron James",
-      "source": "The Guardian · 6h ago",
-      "article": "In a Friday White House press conference, President Trump responded to a question about Michael Jordan and LeBron James by suggesting James might be racist. The comment, made in response to a Fox News question, drew immediate scrutiny for its pattern of personal attack."
+      "headline": "Jordan Devey, Patriots Super Bowl Winner, Dies at 38",
+      "source": "The Guardian · 2h ago",
+      "article": "Jordan Devey, an offensive lineman who won a Super Bowl with the New England Patriots, has died at age 38. A GoFundMe page started by his family confirms he took his own life. Devey played 44 games across eight NFL seasons and leaves behind a wife and four young children, raising renewed focus on mental health support for retired athletes."
     },
     {
-      "headline": "Charlotte Flair opens up about the tragic death of her 8-year-old superfan",
-      "source": "NY Post Sports · just now",
-      "article": "WWE star Charlotte Flair reflected on her bond with a young superfan who lost her battle with a rare cancer. Flair credited the child's resilience and full-of-life spirit despite her terminal diagnosis with teaching her not to take anything for granted."
+      "headline": "Blue Jays Look to Build on Cy Young Campaign",
+      "source": "Sportsnet · 1h ago",
+      "article": "Dylan Cease takes the mound for the Toronto Blue Jays against Boston Red Sox pitcher Sonny Gray in a matchup between two competitive teams vying for playoff positioning. Cease has been performing at a Cy Young-worthy level this season. Coverage begins at 3:30 p.m. ET on Sportsnet and Sportsnet+."
+    },
+    {
+      "headline": "Wasserman Deal Closure Delayed Until June 2027",
+      "source": "Sports Media Watch · 23h ago",
+      "article": "Providence Equity Partners' acquisition of Wasserman (now called The Team) will not close until as late as June 2027, nearly a year later than initially expected. Providence already owns 60% of the agency, valued at approximately $3.4 billion. The extended timeline suggests ongoing regulatory or operational complexity in the consolidation."
     }
   ],
   "poll": {
-    "question": "Will the Packers' 2025 operating loss trigger broader cost-control conversations across the NFL?",
+    "question": "Which move reshapes the NBA landscape more significantly?",
     "options": [
-      "Yes, it signals margin pressure affecting all franchises",
-      "No, Green Bay is uniquely exposed due to public ownership",
-      "Partially, but only for smaller-market teams",
-      "Unlikely, profit remains strong across the league overall"
+      "LeBron James joining the Philadelphia 76ers",
+      "A new head coach overhaul across multiple teams",
+      "The Sixers' contention window with their new superstar",
+      "Off-season free agency and trade market volatility"
     ]
   },
   "predictions": [
     {
-      "statement": "The Paramount-WBD deal closes by June 2027 as extended deadline now permits.",
+      "statement": "Tadej Pogacar will finish his 2026 season with wins in at least three Grand Tours or major stage races.",
       "probability": 72,
-      "rationale": "The agreed extension suggests both parties have aligned on timeline and substantive terms. Regulatory approval remains the wild card, but the delay itself is a positive signal that negotiations are advancing rather than deteriorating. Historical precedent shows extended deadlines often precede successful closings."
+      "rationale": "He's already won the Giro and Tour in the same calendar year. His dominance is unmatched right now, and he has the Vuelta a España coming up later this fall, a race he's favored in."
     },
     {
-      "statement": "Providence's consolidation of Wasserman ownership closes within 12 months.",
+      "statement": "Kyle Shanahan will resume full coaching duties for the 49ers by the start of the regular season.",
       "probability": 68,
-      "rationale": "Providence already holds 60 percent and is negotiating with founding partners whose incentives to exit are aligned. Private equity roll-ups in sports services typically move faster than multi-party media deals. No regulatory hurdles are apparent."
+      "rationale": "His injuries are serious but not career-threatening. NFL coaches have returned from similar trauma, and the 49ers have strong incentive to get him fully operational before Week 1."
     },
     {
-      "statement": "The Toronto Blue Jays trade at least one rental player before the July 30 deadline.",
-      "probability": 81,
-      "rationale": "At 10 games under .500 with contention mathematically improbable, the front office would maximize value by converting expiring contracts into prospects. The cultural and financial math favors a sell-off, and the market for mid-July rentals remains active."
+      "statement": "LeBron James will play at least 60 games for the Philadelphia 76ers in his first season with the team.",
+      "probability": 55,
+      "rationale": "He's 39 and just made a shocking trade. Injury risk is real, but he's historically durable. The Sixers will manage his load carefully, meaning he plays a majority of games but not all."
     },
     {
-      "statement": "The Packers return to profitability in the 2026 season.",
+      "statement": "The Paramount-Warner Bros. Discovery deal will close by June 2027 as extended.",
       "probability": 62,
-      "rationale": "The $1.1 million loss may reflect one-time costs or revenue timing rather than structural decline. The NFL's overall financial health remains robust, and the Packers' $753 million revenue base is among the league's strongest. A single-year loss doesn't signal sustained margin compression, though continued monitoring is warranted."
+      "rationale": "June 2027 is a ceiling, not a guarantee. Regulatory scrutiny on sports media consolidation is intense, and either party could seek further delays if antitrust concerns mount."
     }
   ],
   "injuries": [
     {
-      "player": "Gabriel Langton",
-      "team": "England Gymnastics (Commonwealth Games)",
-      "league": "OTHER",
-      "position": "",
-      "status": "OUT",
-      "injury": "Severe fall",
-      "timeline": null,
-      "source": "NY Post Sports",
-      "impact": "Langton's participation in remaining Commonwealth Games events is uncertain following hospitalization.",
-      "storyIndex": 10
+      "player": "Kyle Shanahan",
+      "team": "San Francisco 49ers",
+      "league": "NFL",
+      "position": "HC",
+      "status": "DAY_TO_DAY",
+      "injury": "Broken nose, three broken ribs, broken hand, concussion, facial lacerations requiring 40+ stitches",
+      "timeline": "Expected to begin training camp in limited role",
+      "source": "CBS Sports",
+      "impact": "49ers head coach will oversee operations but with restricted on-field involvement during camp and early season.",
+      "storyIndex": 5
     }
   ],
   "picks": [
@@ -2594,6 +2592,60 @@
         },
         "awayTeam": "FC Cincinnati",
         "homeTeam": "Columbus Crew SC"
+      }
+    },
+    {
+      "type": "moneyline",
+      "pick": "Washington Nationals ML",
+      "odds": "-134",
+      "edge": "Market fill from live lines: Washington Nationals is the books' favorite at -134 (best price @ FanDuel) against Arizona Diamondbacks at +125, with home ice/court/field behind them. No researched edge here — this is a low-confidence market-consensus play added to round out the slate. Low confidence is honest confidence.",
+      "matchup": "Arizona Diamondbacks @ Washington Nationals",
+      "league": "MLB",
+      "when": "Today 4:06 PM ET",
+      "confidence": "low",
+      "_autofill": true,
+      "_scheduledTs": 1785009960000,
+      "marketSnapshot": {
+        "capturedAt": "2026-07-25T15:58:26.636Z",
+        "markets": {
+          "h2h": {
+            "away": {
+              "price": 125,
+              "book": "LowVig.ag"
+            },
+            "home": {
+              "price": -134,
+              "book": "FanDuel"
+            },
+            "draw": null
+          },
+          "spreads": {
+            "away": {
+              "point": 1.5,
+              "price": -165,
+              "book": "LowVig.ag"
+            },
+            "home": {
+              "point": -1.5,
+              "price": 146,
+              "book": "FanDuel"
+            }
+          },
+          "totals": {
+            "over": {
+              "point": 9,
+              "price": -104,
+              "book": "BetRivers"
+            },
+            "under": {
+              "point": 9,
+              "price": -102,
+              "book": "DraftKings"
+            }
+          }
+        },
+        "awayTeam": "Arizona Diamondbacks",
+        "homeTeam": "Washington Nationals"
       }
     },
     {
@@ -5910,145 +5962,91 @@
     },
     {
       "type": "moneyline",
-      "pick": "Detroit Tigers ML",
-      "odds": "-152",
-      "edge": "Market fill from live lines: Detroit Tigers is the books' favorite at -152 (best price @ LowVig.ag) against Kansas City Royals at +140, with home ice/court/field behind them. No researched edge here — this is a low-confidence market-consensus play added to round out the slate. Low confidence is honest confidence.",
-      "matchup": "Kansas City Royals @ Detroit Tigers",
+      "pick": "Tampa Bay Rays ML",
+      "odds": "-130",
+      "edge": "Market fill from live lines: Tampa Bay Rays is the books' favorite at -130 (best price @ BetOnline.ag) against Cleveland Guardians at +118, with home ice/court/field behind them. No researched edge here — this is a low-confidence market-consensus play added to round out the slate. Low confidence is honest confidence.",
+      "matchup": "Cleveland Guardians @ Tampa Bay Rays",
       "league": "MLB",
-      "when": "Today 1:11 PM ET",
+      "when": "Tomorrow 12:16 PM ET",
       "confidence": "low",
       "_autofill": true,
-      "_scheduledTs": 1784999460000,
+      "_scheduledTs": 1785082560000,
       "marketSnapshot": {
-        "capturedAt": "2026-07-25T15:58:26.635Z",
+        "capturedAt": "2026-07-25T20:07:38.061Z",
         "markets": {
           "h2h": {
             "away": {
-              "price": 140,
-              "book": "BetMGM"
+              "price": 118,
+              "book": "BetOnline.ag"
             },
             "home": {
-              "price": -152,
-              "book": "LowVig.ag"
+              "price": -130,
+              "book": "BetOnline.ag"
             },
             "draw": null
           },
           "spreads": {
             "away": {
               "point": 1.5,
-              "price": -145,
-              "book": "Bovada"
+              "price": -185,
+              "book": "Fanatics"
             },
             "home": {
               "point": -1.5,
-              "price": 138,
+              "price": 180,
               "book": "FanDuel"
             }
           },
           "totals": {
             "over": {
-              "point": 7.5,
-              "price": -115,
-              "book": "MyBookie.ag"
-            },
-            "under": {
-              "point": 8,
-              "price": -114,
-              "book": "BetRivers"
-            }
-          }
-        },
-        "awayTeam": "Kansas City Royals",
-        "homeTeam": "Detroit Tigers"
-      }
-    },
-    {
-      "type": "moneyline",
-      "pick": "Washington Nationals ML",
-      "odds": "-134",
-      "edge": "Market fill from live lines: Washington Nationals is the books' favorite at -134 (best price @ FanDuel) against Arizona Diamondbacks at +125, with home ice/court/field behind them. No researched edge here — this is a low-confidence market-consensus play added to round out the slate. Low confidence is honest confidence.",
-      "matchup": "Arizona Diamondbacks @ Washington Nationals",
-      "league": "MLB",
-      "when": "Today 4:06 PM ET",
-      "confidence": "low",
-      "_autofill": true,
-      "_scheduledTs": 1785009960000,
-      "marketSnapshot": {
-        "capturedAt": "2026-07-25T15:58:26.636Z",
-        "markets": {
-          "h2h": {
-            "away": {
-              "price": 125,
-              "book": "LowVig.ag"
-            },
-            "home": {
-              "price": -134,
-              "book": "FanDuel"
-            },
-            "draw": null
-          },
-          "spreads": {
-            "away": {
-              "point": 1.5,
-              "price": -165,
-              "book": "LowVig.ag"
-            },
-            "home": {
-              "point": -1.5,
-              "price": 146,
-              "book": "FanDuel"
-            }
-          },
-          "totals": {
-            "over": {
-              "point": 9,
-              "price": -104,
-              "book": "BetRivers"
-            },
-            "under": {
-              "point": 9,
+              "point": 7,
               "price": -102,
-              "book": "DraftKings"
+              "book": "FanDuel"
+            },
+            "under": {
+              "point": 7,
+              "price": -102,
+              "book": "LowVig.ag"
             }
           }
         },
-        "awayTeam": "Arizona Diamondbacks",
-        "homeTeam": "Washington Nationals"
+        "awayTeam": "Cleveland Guardians",
+        "homeTeam": "Tampa Bay Rays"
       }
     }
   ],
-  "updatedAt": "2026-07-25T14:47:00Z",
+  "updatedAt": "2026-07-24T14:32:00Z",
   "highlights": [
     {
       "league": "NBA",
-      "title": "31st Overall Pick Bruce Thornton BALLED OUT at 2026 NBA Summer League 🌟 18.6 PPG, 2.6 SPG",
-      "videoId": "5257AZ4J3Zw",
-      "thumbnail": "https://img.youtube.com/vi/5257AZ4J3Zw/mqdefault.jpg",
-      "timeAgo": "17h ago",
+      "title": "Zyon Pullin PUT ON A SHOW with 21.0 PPG, 7.8 AST &amp; 4.6 REB at 2026 NBA Summer League! 🔥",
+      "videoId": "flZAMhFQ99Q",
+      "thumbnail": "https://img.youtube.com/vi/flZAMhFQ99Q/mqdefault.jpg",
+      "timeAgo": "1h ago",
       "isFallback": false
     },
     {
       "league": "NFL",
-      "title": "NFL FLAG Football Championships LIVE | Saturday Session 1 🏈",
-      "videoId": "gnu92ezX40I",
-      "thumbnail": "https://img.youtube.com/vi/gnu92ezX40I/mqdefault.jpg",
+      "title": "NFL FLAG Football Championships LIVE | Saturday Session 2 🏈",
+      "videoId": "syNvAyEeGg4",
+      "thumbnail": "https://img.youtube.com/vi/syNvAyEeGg4/mqdefault.jpg",
       "timeAgo": "25d ago",
       "isFallback": false
     },
     {
       "league": "MLB",
-      "title": "TWO HOURS of Ford C. Frick winner Joe Buck's best MLB calls! (World Series, All-Star Games AND MORE)",
-      "videoId": "l7cVH-vI2CA",
-      "thumbnail": "https://img.youtube.com/vi/l7cVH-vI2CA/mqdefault.jpg",
+      "title": "Pick one word to describe Nolan McLean's repertoire 🤢 Presented by SageUSA",
+      "videoId": "cRYCwT-_ZD4",
+      "thumbnail": "https://img.youtube.com/vi/cRYCwT-_ZD4/mqdefault.jpg",
       "timeAgo": "1h ago",
       "isFallback": false
     },
     {
       "league": "NHL",
-      "title": "FULL REPLAY: 54 Years of Waiting Ends | Canucks vs Rangers | 1994 Stanley Cup Game 7",
-      "videoId": "c8W1JVx1OQw",
-      "thumbnail": "https://img.youtube.com/vi/c8W1JVx1OQw/mqdefault.jpg",
-      "timeAgo": "17h ago",
+      "title": "3ICE Hockey Week 1 - Philly vs. Chicago &amp; NY/NJ vs. Buffalo",
+      "videoId": "32hbc3b95U8",
+      "thumbnail": "https://img.youtube.com/vi/32hbc3b95U8/mqdefault.jpg",
+      "timeAgo": "4h ago",
       "isFallback": false
     },
     {
@@ -6056,7 +6054,7 @@
       "title": "Nike x WNBA: Ready for What’s Next",
       "videoId": "0554NwaOwb0",
       "thumbnail": "https://img.youtube.com/vi/0554NwaOwb0/mqdefault.jpg",
-      "timeAgo": "7h ago",
+      "timeAgo": "11h ago",
       "isFallback": false
     },
     {
@@ -6064,11 +6062,83 @@
       "title": "This is elite (via jedidiahmccloud/IG)",
       "videoId": "6cBRraARAJc",
       "thumbnail": "https://img.youtube.com/vi/6cBRraARAJc/mqdefault.jpg",
-      "timeAgo": "3h ago",
+      "timeAgo": "7h ago",
       "isFallback": false
     }
   ],
   "reels": [
+    {
+      "league": "MLB",
+      "title": "Pick one word to describe Nolan McLean's repertoire 🤢 Presented by SageUSA",
+      "videoId": "cRYCwT-_ZD4",
+      "author": "MLB",
+      "pubDate": "2026-07-25T19:20:53+00:00",
+      "link": "https://www.youtube.com/watch?v=cRYCwT-_ZD4"
+    },
+    {
+      "league": "NBA",
+      "title": "Zyon Pullin PUT ON A SHOW with 21.0 PPG, 7.8 AST &amp; 4.6 REB at 2026 NBA Summer League! 🔥",
+      "videoId": "flZAMhFQ99Q",
+      "author": "NBA",
+      "pubDate": "2026-07-25T19:00:05+00:00",
+      "link": "https://www.youtube.com/watch?v=flZAMhFQ99Q"
+    },
+    {
+      "league": "MLB",
+      "title": "Salvador Perez is the Royals ALL-TIME HOME RUN LEADER! 👑 | MLB Highlights",
+      "videoId": "rYxm7Rx-8ik",
+      "author": "MLB",
+      "pubDate": "2026-07-25T18:59:08+00:00",
+      "link": "https://www.youtube.com/watch?v=rYxm7Rx-8ik"
+    },
+    {
+      "league": "MLB",
+      "title": "Hao-Yu Lee goes UP to reach a pitch and gives the Tigers the lead! 😮 (6th homer of the year!)",
+      "videoId": "lVKsuYkW5qE",
+      "author": "MLB",
+      "pubDate": "2026-07-25T18:15:49+00:00",
+      "link": "https://www.youtube.com/watch?v=lVKsuYkW5qE"
+    },
+    {
+      "league": "MLB",
+      "title": "Tigers celebrate 125th season in franchise history (Including members of 2006 AL Championship team!)",
+      "videoId": "j1QayncRvrU",
+      "author": "MLB",
+      "pubDate": "2026-07-25T18:08:19+00:00",
+      "link": "https://www.youtube.com/watch?v=j1QayncRvrU"
+    },
+    {
+      "league": "NBA",
+      "title": "Liam McNeeley BALLED OUT at 2026 NBA Summer League 🗣️ 21.7 PPG, 5.0 REB",
+      "videoId": "CZ9SAc9BG5Y",
+      "author": "NBA",
+      "pubDate": "2026-07-25T17:00:12+00:00",
+      "link": "https://www.youtube.com/watch?v=CZ9SAc9BG5Y"
+    },
+    {
+      "league": "NFL",
+      "title": "Shane Steichen shares an update on Daniel Jones' recovery process | SportsCenter",
+      "videoId": "K7SXjbHRScY",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-07-25T16:09:36+00:00",
+      "link": "https://www.youtube.com/watch?v=K7SXjbHRScY"
+    },
+    {
+      "league": "MLB",
+      "title": "Is this the greatest home run robbery ever?",
+      "videoId": "ye5NYVTUlqU",
+      "author": "MLB",
+      "pubDate": "2026-07-25T16:00:10+00:00",
+      "link": "https://www.youtube.com/watch?v=ye5NYVTUlqU"
+    },
+    {
+      "league": "NHL",
+      "title": "3ICE Hockey Week 1 - Philly vs. Chicago &amp; NY/NJ vs. Buffalo",
+      "videoId": "32hbc3b95U8",
+      "author": "NHL",
+      "pubDate": "2026-07-25T16:00:06+00:00",
+      "link": "https://www.youtube.com/watch?v=32hbc3b95U8"
+    },
     {
       "league": "NFL",
       "title": "LeBron 🤝 DeJean (via @JDumasReports/X)",
@@ -6110,44 +6180,12 @@
       "link": "https://www.youtube.com/watch?v=RdzdyeSn21w"
     },
     {
-      "league": "MLB",
-      "title": "Highlights from ALL GAMES on 7/24 (Skubal, Schlittler fan 12, Okamoto's historic HR and MORE!)",
-      "videoId": "1FF-ydQJxwI",
-      "author": "MLB",
-      "pubDate": "2026-07-25T10:00:16+00:00",
-      "link": "https://www.youtube.com/watch?v=1FF-ydQJxwI"
-    },
-    {
       "league": "WNBA",
       "title": "Nike x WNBA: Ready for What’s Next",
       "videoId": "0554NwaOwb0",
       "author": "WNBA",
       "pubDate": "2026-07-25T08:43:51+00:00",
       "link": "https://www.youtube.com/watch?v=0554NwaOwb0"
-    },
-    {
-      "league": "MLB",
-      "title": "ANGELS vs. GIANTS: Official Full Game Highlights (July 24) | 2026 MLB Season",
-      "videoId": "TIFDTN1VMTY",
-      "author": "MLB",
-      "pubDate": "2026-07-25T05:50:33+00:00",
-      "link": "https://www.youtube.com/watch?v=TIFDTN1VMTY"
-    },
-    {
-      "league": "MLB",
-      "title": "BRAVES vs. ORIOLES: Official Full Game Highlights (July 24) | 2026 MLB Season",
-      "videoId": "Er9q6jgoy6I",
-      "author": "MLB",
-      "pubDate": "2026-07-25T04:56:26+00:00",
-      "link": "https://www.youtube.com/watch?v=Er9q6jgoy6I"
-    },
-    {
-      "league": "MLB",
-      "title": "ASTROS vs. WHITE SOX: Official Full Game Highlights (July 24) | 2026 MLB Season",
-      "videoId": "2A-U4RURibc",
-      "author": "MLB",
-      "pubDate": "2026-07-25T03:51:27+00:00",
-      "link": "https://www.youtube.com/watch?v=2A-U4RURibc"
     },
     {
       "league": "WNBA",
@@ -6164,14 +6202,6 @@
       "author": "WNBA",
       "pubDate": "2026-07-25T03:37:51+00:00",
       "link": "https://www.youtube.com/watch?v=oxG1i2LEuZw"
-    },
-    {
-      "league": "MLB",
-      "title": "MARINERS vs. RANGERS: Official Full Game Highlights (July 24) | 2026 MLB Season",
-      "videoId": "rHlUG8vB6cc",
-      "author": "MLB",
-      "pubDate": "2026-07-25T03:25:40+00:00",
-      "link": "https://www.youtube.com/watch?v=rHlUG8vB6cc"
     },
     {
       "league": "WNBA",
@@ -6294,14 +6324,6 @@
       "link": "https://www.youtube.com/watch?v=STsUP0A4ubY"
     },
     {
-      "league": "NFL",
-      "title": "Trevor Lawrence could be a late round STEAL this year 👀 #fantasyfootball",
-      "videoId": "kTQH0v7vgb4",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-07-24T19:00:00+00:00",
-      "link": "https://www.youtube.com/watch?v=kTQH0v7vgb4"
-    },
-    {
       "league": "NBA",
       "title": "Cameron Carr was PUT ON A SHOW with 18.0 PPG at 2026 NBA Summer League! 🔥",
       "videoId": "5JDpl9a21w0",
@@ -6334,28 +6356,12 @@
       "link": "https://www.youtube.com/watch?v=4mpsEeBYUhs"
     },
     {
-      "league": "NBA",
-      "title": "Koa Peat BALLED OUT at 2026 NBA Summer League! 🏀 16.8 PPG, 51.0 FG%",
-      "videoId": "NVouXPOdHMU",
-      "author": "NBA",
-      "pubDate": "2026-07-24T15:00:25+00:00",
-      "link": "https://www.youtube.com/watch?v=NVouXPOdHMU"
-    },
-    {
       "league": "SOCCER",
       "title": "Terry Crews lifting up Vinicius Jr. 😭 (via TerryCrew/TT)",
       "videoId": "fX8a4MVJ0aw",
       "author": "ESPN FC",
       "pubDate": "2026-07-24T14:00:37+00:00",
       "link": "https://www.youtube.com/watch?v=fX8a4MVJ0aw"
-    },
-    {
-      "league": "NBA",
-      "title": "Yuki Kawamura was HOOPING at 2026 NBA Summer League! 🔥",
-      "videoId": "SsyoiYcK4Ns",
-      "author": "NBA",
-      "pubDate": "2026-07-24T13:00:26+00:00",
-      "link": "https://www.youtube.com/watch?v=SsyoiYcK4Ns"
     },
     {
       "league": "SOCCER",
@@ -6372,14 +6378,6 @@
       "author": "WNBA",
       "pubDate": "2026-07-24T00:34:04+00:00",
       "link": "https://www.youtube.com/watch?v=7fs8iR8yndc"
-    },
-    {
-      "league": "NHL",
-      "title": "3ICE Hockey Week 1 - Philly vs. Chicago &amp; NY/NJ vs. Buffalo",
-      "videoId": "32hbc3b95U8",
-      "author": "NHL",
-      "pubDate": "2026-07-23T20:00:12+00:00",
-      "link": "https://www.youtube.com/watch?v=32hbc3b95U8"
     },
     {
       "league": "NHL",
