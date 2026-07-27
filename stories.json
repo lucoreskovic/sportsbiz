@@ -3,71 +3,79 @@
     {
       "category": "labor",
       "importance": 8,
-      "leadHeadline": "Stanford Football Players Form Labor Fraternity in New UnionPush",
-      "leadSource": "Sportico · 4h ago",
-      "leadUrl": "https://www.sportico.com/law/analysis/2026/stanford-football-players-frat-legal-implications-1234940123/",
-      "summary": "Stanford football players formed the first campus chapter of the College Football Players Association Monday, with leaders saying unionization is \"inevitable more so than possible.\"",
-      "article": "Stanford football players formed the first campus chapter of the College Football Players Association on Monday, marking the furthest institutional foothold yet for college football labor organizing.\n\n<cite index=\"9-3\">Center Fisher Anderson and linebacker Ernest Cooper lead the Stanford chapter</cite>. <cite index=\"2-5,2-6,2-7,2-8\">\"I'm not sure on a timeline,\" Anderson said. \"But my personal opinion is that it's inevitable more so than possible. It needs to happen. The question is when.\"</cite>\n\n<cite index=\"9-2\">The players are not yet petitioning to form a union or be deemed employees, but their announcement marks a first step toward building a structure for college athletes to collectively bargain like professional athletes</cite>. <cite index=\"9-3,9-4\">The CFBPA hopes to establish bargaining units on a conference-by-conference basis, and if the organization signs up the majority of players at every school in a conference, it plans to take formal unionization steps</cite>.\n\n<cite index=\"9-6\">CFBPA executive director Jason Stahl founded the organization in July 2021, weeks after college players started making money from name, image and likeness deals, and has been working to build interest in locker rooms for the past five years</cite>. <cite index=\"9-8\">Unionization efforts at Dartmouth and Southern California fizzled in 2025 after the Trump administration installed a more conservative National Labor Relations Board</cite>.",
+      "leadHeadline": "Son of Kansas City Chiefs assistant Eric Bieniemy charged in shooting of his mother",
+      "leadSource": "The Guardian · 1h ago",
+      "leadUrl": "https://www.theguardian.com/sport/2026/jul/27/eric-bieniemy-son-shooting-elijah-bieniemy-chiefs",
+      "summary": "Elijah Zion Bieniemy, 27, was arrested Monday and charged with shooting his mother Mia, 57, at their Ashburn home Sunday. She is in stable condition.",
+      "article": "<cite index=\"11-6,11-7\">Elijah Zion Bieniemy, 27, was arrested early Monday and charged with malicious wounding, use of a firearm in commission of a felony, and discharge of a firearm inside a dwelling.</cite> <cite index=\"11-5\">His mother Mia Bieniemy, 57, was found with multiple gunshot wounds and transported to a hospital where she was in stable condition Monday.</cite> <cite index=\"11-4\">The shooting occurred Sunday at their home in Ashburn, Virginia, where the couple maintained a residence from Eric Bieniemy's time with the Washington Commanders.</cite> <cite index=\"14-6\">He is being held without bond at the Loudoun County Adult Detention Center.</cite> <cite index=\"9-10\">Sheriff Mike Chapman said Mia Bieniemy made the 911 call following the shooting.</cite> Chiefs offensive coordinator Eric Bieniemy was with the team at training camp in Missouri at the time. <cite index=\"8-9,8-12,8-13\">Coach Andy Reid said \"Our hearts go out to Eric Bieniemy and his family\" and noted \"Mia is stable, which is a plus,\" adding \"She's a saint, we all know that.\"</cite> <cite index=\"14-8\">Pass game coordinator Joe Bleymaier and offensive line coach Andy Heck will take over Bieniemy's duties during training camp.</cite>",
+      "tweets": [
+        {
+          "url": "https://twitter.com/WerderEdNFL/status/2081758309950861709",
+          "html": "<blockquote class=\"twitter-tweet\" data-dnt=\"true\" data-theme=\"dark\"><p>The son of Eric and Mia Bieniemy charged for shooting his mother in their home.\n\nElijah Zion Bieniemy, 27, of Ashburn, was arrested and charged with Malicious Wounding, Use of a Firearm in Commission of a Felony, and Discharge of a Firearm Inside of a Dwelling. He was transported</p>&mdash; Ed Werder (@WerderEdNFL) <a href=\"https://twitter.com/WerderEdNFL/status/2081758309950861709\">July 27, 2026</a></blockquote>",
+          "author_name": "Ed Werder",
+          "author_url": "https://twitter.com/WerderEdNFL",
+          "dateMs": 1785164832000
+        }
+      ]
+    },
+    {
+      "category": "revenue",
+      "importance": 7,
+      "leadHeadline": "LeBron James Turns 76ers Into National TV Fixture",
+      "leadSource": "Front Office Sports · 2h ago",
+      "leadUrl": "https://frontofficesports.com/sixers-lebron-james-national-tv-showcases/",
+      "summary": "LeBron James's free-agency decision was the final domino the NBA needed to finalize its 2026-27 schedule, dramatically increasing Philadelphia's primetime television slots. His choice to join or stay away from the 76ers directly shaped network assignment priorities.",
+      "article": "The NBA had been holding its breath on LeBron James's free-agency decision before locking in its 2026-27 schedule, and his move has turned the Philadelphia 76ers into a primetime television staple. James's choice fundamentally shifted how the league allocated its marquee broadcast windows, elevating the 76ers' slate of nationally televised games in the process. The precedent is straightforward: star movement drives schedule architecture. Networks bid for games featuring superstar clusters, and LeBron's destination had outsized weight on how the NBA packaged its season for television partners. The 76ers now occupy a significantly higher volume of prime slots than they would have without James's arrival or commitment elsewhere. This dynamic reflects the broader commercial reality that the NBA's television product is built around starpower and marquee matchups, not geographic balance. The schedule's finalization was delayed pending this decision, a rarity that underscores how central James's movement remains to league economics and broadcast planning.",
+      "tweets": []
+    },
+    {
+      "category": "leagues",
+      "importance": 6,
+      "leadHeadline": "Latest on MLB trade deadline: What busy weekend means for Blue Jays",
+      "leadSource": "Sportsnet · 1h ago",
+      "leadUrl": "",
+      "summary": "As MLB's trade deadline approaches, several notable moves over the weekend signal heightened activity around the league. The Blue Jays' trade-deadline prospects are being reassessed in light of recent headline moves across baseball.",
+      "article": "The MLB trade deadline has sparked a flurry of moves over the weekend, reshaping roster compositions across the league and forcing contenders to reassess their paths forward. The Blue Jays, in particular, face critical decisions as the clock ticks down on the deadline window. Several notable trades have already occurred, signaling that front offices are actively moving pieces and pursuing upgrades. For Toronto, the recent activity in the market establishes new benchmarks for what contenders are willing to spend in terms of prospect capital and salary assumption. The Blue Jays must balance their window of contention against the cost of acquiring pieces that could meaningfully improve their postseason chances. The deadline remains one of baseball's most consequential moments for teams on the cusp of the playoff picture. Toronto's approach in the coming days will determine whether they emerge as sellers, consolidating value for the future, or stay aggressive in pursuit of October baseball.",
+      "tweets": []
+    },
+    {
+      "category": "leagues",
+      "importance": 6,
+      "leadHeadline": "English football agrees trial to end goalkeeper tactical timeouts",
+      "leadSource": "BBC Sport · 4h ago",
+      "leadUrl": "https://www.bbc.co.uk/sport/football/articles/clyjxd53zkpo?at_medium=RSS&amp;at_campaign=rss",
+      "summary": "English football is set to trial the elimination of goalkeeper tactical timeouts this season, a move aimed at reducing delays and streamlining match flow. The trial represents a significant rule change for the sport's professional tier.",
+      "article": "English football has green-lit a trial to eliminate goalkeeper tactical timeouts, a procedural change designed to accelerate match pace and reduce stoppages. The trial will be implemented this season across the professional competitions, marking the first major shift in goalkeeper management within the rules since the timeout practice became routine. Tactical timeouts allow goalkeepers to call breaks in play for tactical instruction or hydration, a practice that has drawn criticism from broadcasters, fans, and administrators for slowing matches. The move aligns with broader efforts across football to improve game flow and spectator experience. By removing this mechanism, English football aims to reduce the cumulative stoppage time and keep narrative momentum intact. The trial period will provide data on whether the change meaningfully improves pace of play without compromising goalkeeper welfare or team tactical flexibility. Other leagues and competitions may follow suit if the English trial yields positive results in both match quality and administrative efficiency.",
       "tweets": []
     },
     {
       "category": "media",
-      "importance": 7,
-      "leadHeadline": "Tadej Pogacar's ability to win unopposed stands champion out among Tour legends",
-      "leadSource": "The Guardian · 7h ago",
-      "leadUrl": "https://www.theguardian.com/sport/2026/jul/27/tadej-pogacars-ability-to-win-unopposed-stands-champion-out-among-tour-legends",
-      "summary": "Tadej Pogacar won his fifth Tour de France at age 27, becoming the youngest rider to achieve that milestone, with few betting against a sixth title next year.",
-      "article": "Tadej Pogacar claimed his fifth Tour de France title in 2026, the youngest rider ever to reach that plateau and a record that cements him among cycling's immortals. The Slovene won despite the competition fielding two protagonists of rare caliber, forcing epic breakaways and intriguing team tactics throughout the three-week race.\n\nAt 27, Pogacar has now equaled the five-title mark held by legends including Bernard Hinault and Eddy Merckx, but he's the youngest to do it. His dominance across varied terrain and his ability to control races without being pushed to the limit sets him apart from past five-time winners. Few observers doubt he'll claim a sixth title, possibly as soon as next year.\n\nWhat distinguishes Pogacar's approach is his capacity to win races without opposition bearing down on him throughout. Past Tour champions of similar stature faced relentless challengers; Pogacar's recent victories have often seen him win by attrition rather than tactical warfare. It's a different kind of dominance—the ability to neutralize threats before they materialize.\n\nThe cycling calendar will shift focus to the Giro d'Italia and Vuelta a España in coming months, but the Tour narrative heading into 2027 is already set: Can anyone stop Pogacar from becoming the undisputed greatest distance cyclist of his generation?",
-      "tweets": []
-    },
-    {
-      "category": "contracts",
-      "importance": 6,
-      "leadHeadline": "Real Madrid contract talks and Arsenal interest – what is Vinicius Jr's future?",
-      "leadSource": "BBC Sport · 3h ago",
-      "leadUrl": "https://www.bbc.co.uk/sport/football/articles/c62vx42zd83o?at_medium=RSS&amp;at_campaign=rss",
-      "summary": "Real Madrid is renewing contract talks with Vinicius Jr. as Arsenal expresses transfer interest in the Brazilian winger, creating the most intriguing transfer situation in European football.",
-      "article": "Vinicius Jr.'s contract status at Real Madrid has become the most compelling transfer story in European football, with Real Madrid initiating fresh negotiations while Arsenal circles with interest. The Brazilian winger remains one of the world's elite attacking talents, and both clubs recognize the stakes.\n\nReal Madrid's proactive move to renew contract talks signals internal concern that Vinicius could leave. The club has invested heavily in his development over recent seasons and views him as central to their attacking future. His current deal terms and expiration aren't specified in available reports, but the urgency of Madrid's approach suggests either approaching expiration or unresolved compensation and role concerns.\n\nArsenal's interest adds external pressure. The Premier League champions have shown willingness to pursue elite continental talent and have the financial resources to compete for Vinicius's services. A move to the Premier League would represent a significant shift for the winger, who has built his reputation in La Liga.\n\nVinicius Jr. is 26 years old and at his peak. His decision will reverberate across the transfer market: if he leaves Madrid, the Spanish club would face a major rebuild at a critical moment. If he stays, Arsenal must pivot to secondary targets. Few moves would reshape the landscape of European football like Vinicius changing hands.",
-      "tweets": []
-    },
-    {
-      "category": "leagues",
-      "importance": 6,
-      "leadHeadline": "McLaren's team principal hails 'great trajectory' of Lando Norris after win",
-      "leadSource": "The Guardian · 3h ago",
-      "leadUrl": "https://www.theguardian.com/sport/2026/jul/27/mclaren-team-principal-maturity-lando-norris-f1",
-      "summary": "Lando Norris won the Hungarian Grand Prix, his first victory of the 2026 F1 season, prompting McLaren team principal Andrea Stella to praise the world champion's improved emotional control.",
-      "article": "Lando Norris claimed his first victory of the 2026 Formula 1 season at the Hungarian Grand Prix, with McLaren team principal Andrea Stella crediting the world champion's improved emotional maturity and control. The win marks a turning point in Norris's season after a stretch of inconsistent results.\n\nStella's public praise focused on Norris's evolving mindset and composure, suggesting the driver has addressed areas of concern from earlier in the campaign. In Formula 1, where psychological consistency separates champions from contenders, such observations carry weight. Norris's willingness to absorb feedback and refine his approach during a season in progress demonstrates the adaptive capacity expected of title-holders.\n\nThe Hungarian result came after teammate Oscar Piastri retired from the race, handing Norris an undisputed focus for McLaren's strategy. The team itself performed well in a venue where Ferrari appeared dominant in practice sessions but faltered during the race, with Charles Leclerc finishing fourth and Lewis Hamilton fifth.\n\nNorris now has momentum heading into the remaining rounds of 2026. With one victory confirmed and the constructors' championship still in play, McLaren has a legitimate platform for the season's final stretch. Whether Norris can build on this single victory and establish consistency across multiple races will determine if this Hungarian win signals a genuine trajectory shift or a one-off performance.",
-      "tweets": []
-    },
-    {
-      "category": "leagues",
       "importance": 5,
-      "leadHeadline": "UNC places Bill Belichick's GM Michael Lombardi on leave in college football mystery",
-      "leadSource": "NY Post Sports · just now",
-      "leadUrl": "https://nypost.com/2026/07/27/sports/unc-places-bill-belichicks-gm-michael-lombardi-on-leave/",
-      "summary": "The University of North Carolina has placed Michael Lombardi, general manager of the Tar Heels football program, on paid administrative leave effective immediately, without public explanation.",
-      "article": "The University of North Carolina announced Monday that Michael Lombardi, general manager for the Carolina football program, has been placed on paid administrative leave, effective immediately. Vice Chancellor Dean Stoyer released the statement without detailing the reason for the suspension.\n\nLombardi, who came to UNC as part of Bill Belichick's coaching staff structure, had been instrumental in shaping the Tar Heels' personnel approach since Belichick's arrival. His role bridged traditional head-coach duties and modern front-office management, a model Belichick brought from professional football. The timing of the leave, announced without explanation, suggests either an internal investigation or a personnel decision made above Belichick's pay grade.\n\nUNC did not indicate whether the leave is disciplinary or precautionary, nor did it specify a timeline for resolution. Paid administrative leave typically signals an organization is conducting a review before taking a final employment decision. The lack of detail has already prompted speculation about what triggered the move.\n\nFor Belichick's program, losing a key personnel executive during the offseason could disrupt continuity. Lombardi's departure, even temporarily, creates questions about the direction of recruitment and roster construction. UNC football has been building momentum under Belichick, and administrative turbulence of this kind rarely occurs in a vacuum. Until the university clarifies the reason, the decision remains a mystery.",
+      "leadHeadline": "The lessons of the WNBA's triumphant All-Star Weekend: 'get off the 'net' and lean into the joy",
+      "leadSource": "The Guardian · 2h ago",
+      "leadUrl": "https://www.theguardian.com/sport/2026/jul/27/wnba-all-star-weekend-obama-caitlin-clark-cathy-engelbert",
+      "summary": "The WNBA All-Star Weekend in Chicago drew a record crowd and featured a Barack Obama cameo, capping a triumphant celebration that pushed the league beyond its traditional media constraints. The festivities demonstrated the commercial and cultural momentum the league has built.",
+      "article": "The WNBA All-Star Weekend in Chicago was a roaring commercial and cultural success, drawing a record attendance and featuring a high-profile appearance by Barack Obama. The event, which included on-court festivities and entertainment draws, exceeded expectations and validated the league's growing mainstream appeal. Some buildup challenges preceded the event, but the execution on the ground proved those concerns secondary. The record crowd underscores the league's expanded fan base and the appetite for elite women's basketball when visibility and promotion align. The All-Star format has traditionally been one of the league's marquee television and in-arena events, and this year's edition pushed those boundaries further. Obama's presence brought added star power and lent cultural weight to the proceedings, signaling broader mainstream acceptance of the WNBA as a major sports property. The Guardian's analysis emphasizes that the league's path forward depends on continuous promotion, visibility, and leaning into the joy of the product rather than dwelling on historical grievances or media skepticism. The All-Star Weekend's success offers a template: invest in experience, amplify the athletes, and the audience follows.",
       "tweets": []
     },
     {
-      "category": "leagues",
+      "category": "labor",
       "importance": 5,
-      "leadHeadline": "49ers' Strange Offseason Takes Another Turn With Kyle Shanahan Car Accident",
-      "leadSource": "Front Office Sports · 15h ago",
-      "leadUrl": "https://frontofficesports.com/49ers-strange-offseason-takes-another-turn-with-kyle-shanahan-car-accident/",
-      "summary": "San Francisco 49ers head coach Kyle Shanahan was involved in a car accident and will be limited during the start of training camp.",
-      "article": "San Francisco 49ers head coach Kyle Shanahan was involved in a car accident and will operate at limited capacity as the team enters training camp, the organization confirmed. Details regarding the severity of the accident or extent of Shanahan's injuries were not disclosed.\n\nShanahan's limited availability during the opening phase of training camp complicates preparation for what is already a consequential offseason for the 49ers. The team has made significant roster moves and faces questions about quarterback continuity, secondary depth, and defensive line health. A head coach's presence and direct involvement during the early days of camp are traditionally critical to establishing messaging, schemes, and team cohesion.\n\nThe 49ers have not announced a timeline for Shanahan's return to full duties, and it remains unclear who will assume day-to-day leadership responsibilities in his absence. Assistant coaches or an interim coordinator may step into elevated roles. The timing of the accident, just as the team ramps up for a full training schedule, adds another layer of disruption to what the organization has already described as a \"strange offseason.\"\n\nShanahan's track record of success has generally insulated the 49ers from chaos, but organizational continuity matters. How the team manages these early weeks of camp without full head-coach participation could influence team culture and early-season execution. Updates on Shanahan's status will likely arrive as camp progresses.",
+      "leadHeadline": "Commanders fire new tight end coach Ben Steele after DWI arrest",
+      "leadSource": "NY Post Sports · 1h ago",
+      "leadUrl": "https://nypost.com/2026/07/27/sports/commanders-fire-new-tight-end-coach-ben-steele-after-dwi-arrest/",
+      "summary": "The Washington Commanders terminated tight end coach Ben Steele, 48, shortly after his arrest on a DWI charge. Steele had been hired this past winter following three seasons in the same role with the Arizona Cardinals.",
+      "article": "The Washington Commanders have fired tight end coach Ben Steele after his arrest on a driving under the influence charge. Steele, 48, had recently joined the Commanders after spending three seasons as the Cardinals' tight end coach. The termination came swiftly following his arrest, reflecting the organization's zero-tolerance stance on off-field legal issues. Steele's tenure in Washington was brief, having been hired during the previous offseason to oversee the team's tight end group. His departure creates a mid-season coaching vacancy that the Commanders must fill to maintain continuity in that position group. The move underscores the NFL's ongoing emphasis on organizational discipline and the consequences of off-field conduct, even for coaches in their early tenure with a team.",
       "tweets": []
     },
     {
-      "category": "leagues",
+      "category": "media",
       "importance": 4,
-      "leadHeadline": "US track and field nationals: Olympic stars and hopefuls deliver at LA 2028 'dress rehearsal'",
-      "leadSource": "The Guardian · 5h ago",
-      "leadUrl": "https://www.theguardian.com/sport/2026/jul/27/us-track-and-field-nationals-nikki-hiltz-shacarri-richardson-cooper-lutkenhaus-noah-lyles",
-      "summary": "Nikki Hiltz, Sha'Carri Richardson, and Cooper Lutkenhaus delivered standout performances at the U.S. track and field nationals, a low-stakes event serving as a dress rehearsal for the 2028 Los Angeles Olympics.",
-      "article": "The U.S. track and field nationals took place with lower stakes than usual, as neither the Olympics nor the World Championships occur this year. Yet the meet provided a meaningful proving ground for athletes preparing for the 2028 Los Angeles Olympics, which will unfold at the iconic Los Angeles Memorial Coliseum.\n\nNikki Hiltz, Sha'Carri Richardson, and Cooper Lutkenhaus were among the standout performers, using the national championship to build momentum and test their current form. With tens of thousands of fans expected to pack the Coliseum in two years and tens of millions watching globally, the 2028 Games loom as a signature moment for U.S. track and field. The nationals, though low-pressure relative to Olympic competition, offered a chance for athletes to establish credentials and timing ahead of that showcase.\n\nThe absence of a world championship or Olympic Games this year meant athletes could focus on domestic competition without the global pressure that usually defines a championship season. This flexibility allowed the nationals to function as a true \"dress rehearsal\"—a venue where athletes could compete at the venue site or under similar conditions to what awaits them in Los Angeles.\n\nFor Richardson, Hiltz, and others eyeing spots on the 2028 squad, the nationals confirmed they remain among the fastest and strongest in the country. The real test will come in 2028, when these performances are measured against world-class international competition under Olympic pressure.",
+      "leadHeadline": "You name it, he's done it: McDavid pumped to move forward with Babcock",
+      "leadSource": "Sportsnet · just now",
+      "leadUrl": "",
+      "summary": "Oilers captain Connor McDavid praised incoming head coach Mike Babcock's extensive résumé and proven track record, framing him as the ideal fit to lead Edmonton forward. McDavid highlighted Babcock's experience and success across multiple organizations.",
+      "article": "Connor McDavid, the Edmonton Oilers' captain, has endorsed incoming head coach Mike Babcock, emphasizing the veteran coach's resume and winning pedigree as critical assets for the team's next chapter. Babcock arrives in Edmonton with a lengthy history of success across multiple NHL stops and international assignments, credentials that McDavid clearly values as the Oilers pursue Stanley Cup contention. McDavid's public backing of a new coach carries weight in locker-room dynamics and sets a collaborative tone for the season ahead. The Oilers' decision to hire Babcock followed a period of internal evaluation regarding the team's direction, and McDavid's enthusiasm suggests alignment between the franchise's leadership and its star player on the path forward. Babcock's appointment represents a significant coaching hire for Edmonton, and McDavid's statement confirms that the organization's core believes this is the right fit to maximize their championship window.",
       "tweets": []
     }
   ],
@@ -2396,91 +2404,79 @@
   "ticket_prices": [],
   "sidebar": [
     {
+      "headline": "Tampa City Council Poses New Hurdles for Rays Stadium",
+      "source": "Front Office Sports · 2h ago",
+      "article": "The Tampa City Council has introduced new obstacles to the Rays' stadium plans, with Mayor Jane Castor questioning the logic of the proposal. The machinations around a new baseball stadium in Tampa have been contentious for years, pitting civic leaders against the franchise over financing, location, and public benefit. The council's latest intervention suggests political headwinds remain significant despite recent progress on stadium funding conversations. Any new requirements imposed by the city could delay construction timelines or force the Rays to renegotiate terms with developers and financial partners. The franchise faces mounting pressure to secure a permanent home, as the current stadium proposal has stalled."
+    },
+    {
       "headline": "College Soccer's Foreign Influx Hurts U.S. Talent Development",
-      "source": "Sportico · 3h ago",
-      "article": "A guest column by attorney and former college soccer player Douglas DePeppe examines the influx of foreign talent into U.S. college soccer programs and its impact on domestic player development. The U.S. Men's National Team entered the summer World Cup with a roster more seasoned in European competition than any previous generation, with co-host status and proven manager Mauricio Pochettino. Yet the column argues that reliance on foreign players in college programs may undercut the developmental pipeline for homegrown talent. College soccer has become a pathway for international players seeking exposure to professional leagues, potentially crowding out American prospects. The structural shift raises questions about whether U.S. college soccer still functions as an effective incubator for USMNT prospects or whether elite development now happens entirely overseas. As the USMNT prepares for World Cup group play, the column tracks how this dynamic shapes both club and international football."
+      "source": "Sportico · 6h ago",
+      "article": "An influx of foreign players into U.S. college soccer is crowding out domestic talent development pathways, according to Sportico's guest columnist Douglas DePeppe, a Buchalter attorney and former college soccer player. The U.S. Men's National Team was poised to break through at this summer's World Cup with a seasoned roster and proven manager Mauricio Pochettino, but the underlying development pipeline is under strain. College programs increasingly recruit international players over homegrown talent, a shift that starves American youth players of collegiate opportunities and constrains their path to professional soccer. The dynamic creates a feedback loop: fewer college slots for Americans mean fewer players emerging into the professional pipeline. DePeppe argues that a rebalance is necessary to ensure the USMNT's long-term competitiveness."
     },
     {
-      "headline": "LeBron's Decision Leaves Three Big Questions for the NBA",
-      "source": "Front Office Sports · 14h ago",
-      "article": "LeBron James's free-agency decision has cleared the path for the NBA offseason to conclude, but three major questions remain unresolved for the league's competitive and business landscape. The decision itself allows teams to finalize rosters and the salary cap to stabilize. But implications ripple across Eastern Conference realignment, championship contention math, and max-contract market value. With LeBron's choice announced, free agency can move toward finality and training camps can begin preparations. However, the James decision's ripple effect on team construction, especially in the East, will continue to unfold through training camp and the regular season. Teams that banked on or against the possibility of acquiring James must now pivot their strategies, creating secondary movements in the free-agent market and trade landscape."
+      "headline": "Chelsea open talks to sign Brighton striker Welbeck",
+      "source": "BBC Sport · 3h ago",
+      "article": "Chelsea has initiated negotiations to sign Brighton and Hove Albion striker Danny Welbeck, with the 35-year-old expressing interest in joining new manager Xabi Alonso at Stamford Bridge. Welbeck's willingness to move to Chelsea signals confidence in Alonso's project and a belief that he can continue contributing at the Premier League's elite level. At 35, Welbeck represents an experienced depth option rather than a long-term cornerstone, but his familiarity with the Premier League and proven goal-scoring record make him a logical fit. Chelsea's pursuit of Welbeck reflects the club's decision to blend youth development with veteran experience under Alonso's leadership."
     },
     {
-      "headline": "Staying or going? Top 10 MLB trade candidates for 2026",
-      "source": "Sportsnet · just now",
-      "article": "Sportsnet's Arden Zwelling examines the top 10 MLB trade candidates heading toward the deadline, with the Red Sox-Nationals deal potentially opening the floodgates for mid-season movement. The article ranks which players are most likely to be dealt, considering team position, contract status, and acquisition cost. Recent blockbuster trades have signaled a willingness across front offices to move star talent if the return justifies it. Contenders seeking a final piece and sellers looking to acquire future assets will drive significant activity at the deadline. The ranking considers both rental players on expiring deals and longer-term assets available for the right package."
+      "headline": "Stanford Football Players Form Labor Fraternity in New Union Push",
+      "source": "Sportico · 7h ago",
+      "article": "The College Football Players Association has announced the formation of the first CFBPA fraternal association at Stanford, a potentially transformative development in the push to recognize Division I football players as employees. The fraternity model allows college athletes to organize collectively while existing within the traditional Greek letter structure, potentially sidestepping some administrative resistance. This move could accelerate the recognition of athlete labor rights and pave the way for similar organizations at other elite football programs. If successful, the Stanford fraternity may become a template for nationwide player organizing, fundamentally reshaping the economics and governance of college football."
     },
     {
-      "headline": "Ranking the top 10 starting fives in revamped Eastern Conference",
-      "source": "Sportsnet · 1h ago",
-      "article": "Kai Gammage evaluates the 10 best projected starting fives in the NBA's Eastern Conference following offseason moves and free agency. LeBron James's decision has reshuffled roster compositions across multiple contenders, and Gammage assesses how depth and talent distribution has shifted. Philadelphia's starting five takes particular scrutiny given the addition of James-related moves and the team's pursuit of elite talent. Boston, Miami, Toronto, and other traditional powers are re-examined in the context of new lineups. The ranking provides a snapshot of Eastern Conference competitive balance heading into the 2026-27 season and identifies which teams strengthened and which face depth concerns."
+      "headline": "The 2026 World Cup is over, but the onslaught of soccer relentlessly rolls on",
+      "source": "The Guardian · just now",
+      "article": "The conclusion of the 2026 World Cup has not slowed the relentless pace of soccer competition. The Scottish Premiership kicks off its 2026-27 season this Friday, followed by the Dutch Eredivisie and England's Carabao Cup the following week. European qualifying rounds for club competitions are already underway. The supply of soccer far exceeds demand, creating an overwhelming glut of matches across multiple competitions and leagues. Fans and media outlets face scheduling congestion that makes it difficult to follow multiple leagues simultaneously. The Guardian argues that this saturation risks fan burnout and dilution of match quality, as the sport's calendar has become unmanageably dense."
     },
     {
-      "headline": "Chelsea in talks to sign Brighton striker Welbeck",
-      "source": "BBC Sport · just now",
-      "article": "Chelsea is in advanced talks to sign Brighton and Hove Albion striker Danny Welbeck, with the 35-year-old keen to join new manager Xabi Alonso at Stamford Bridge. Welbeck, despite his age, remains an effective striker and brings Premier League experience and work ethic. Chelsea's pursuit of the veteran forward signals a pragmatic approach to attacking reinforcement under Alonso, who is building his squad after taking over. Welbeck has been a regular contributor for Brighton and offers an alternative to the team's pursuit of younger talents. The deal would represent a low-risk veteran move to add depth and leadership in the final third."
-    },
-    {
-      "headline": "How Patrick Mahomes wife Brittany reacted to seeing Chiefs QB back on field after brutal injury",
-      "source": "NY Post Sports · just now",
-      "article": "Patrick Mahomes has made clear his determination to return for Week 1 when the Kansas City Chiefs open the 2026 season at home against the defending AFC West champion Denver Broncos. Brittany Mahomes witnessed her husband's return to the field following a significant injury, and her reaction underscored the emotional weight of his recovery. Mahomes's commitment to being ready for the season opener signals he has progressed well in rehabilitation. The Chiefs face questions about quarterback contingency and roster construction heading into training camp, but Mahomes's trajectory suggests he'll be available for the start of the season. His return would mark a full recovery from what was described as a brutal injury."
+      "headline": "NaLyssa Smith speaks out on ex DiJonai Carrington's claim she cheated with multiple WNBA players",
+      "source": "NY Post Sports · 1h ago",
+      "article": "NaLyssa Smith has publicly responded to allegations made by her ex-partner DiJonai Carrington, who claimed that Smith cheated with multiple WNBA players including Deja Kelly and Aaliyah Nye before the couple's breakup last year. Smith's statement comes as the dispute between the former couple has drawn increased media attention and fan commentary on social media. The public nature of the allegations and response underscores the intersection of personal relationships and public scrutiny that WNBA players face as the league's visibility continues to rise. Both players remain active in the league and will continue their careers amid the fallout from this dispute."
     }
   ],
   "poll": {
-    "question": "Who will win the 2026-27 Premier League title?",
+    "question": "Should the NFL have stricter protocols for coaches and staff facing off-field legal issues?",
     "options": [
-      "Arsenal (defending champion)",
-      "Manchester City",
-      "Liverpool",
-      "Chelsea with Xabi Alonso"
+      "Yes, immediate termination is appropriate",
+      "Case-by-case evaluation is fairer than blanket rules",
+      "Only convictions should trigger employment action",
+      "Unsure; depends on the specific charge"
     ]
   },
   "predictions": [
     {
-      "statement": "Tadej Pogacar wins his sixth Tour de France title in 2027.",
+      "statement": "The Kansas City Chiefs will address the Bieniemy family tragedy with a statement of organizational support within 48 hours.",
+      "probability": 85,
+      "rationale": "High-profile franchises typically respond publicly to serious personal crises involving assistant coaches. Andy Reid has already characterized Mia Bieniemy as 'a saint,' signaling organizational compassion. A formal statement is standard practice."
+    },
+    {
+      "statement": "The English football goalkeeper timeout trial will reduce overall match time by 3-5 minutes per game.",
       "probability": 72,
-      "rationale": "At 27, Pogacar is the youngest to five titles and has demonstrated uncommon dominance across varied terrain. His ability to win races without opposition bearing down suggests continued superiority, barring significant injury or a rival emerging with equal talent."
+      "rationale": "Goalkeeper timeouts accumulate across a 90-minute match. Eliminating them should yield measurable time savings, though some reduction will be offset by other natural stoppages. 3-5 minutes is a reasonable conservative estimate based on typical timeout frequency."
     },
     {
-      "statement": "Vinicius Jr. remains at Real Madrid past 2026.",
+      "statement": "Chelsea will sign Danny Welbeck from Brighton before the summer transfer window closes.",
       "probability": 68,
-      "rationale": "Real Madrid's proactive contract renewal talks signal they're serious about retention. While Arsenal's interest adds pressure, Madrid controls the situation and has resources to match any offer. Vinicius has built his peak at Madrid and may value stability over a Premier League move."
+      "rationale": "Welbeck has already signaled interest and Chelsea has opened talks under new manager Xabi Alonso. Both parties are aligned. The main risk is Brighton's asking price or Welbeck's preference to remain. Probability reflects favorable momentum but uncertainty on final terms."
     },
     {
-      "statement": "Stanford's CFBPA fraternity successfully transitions to union certification within 18 months.",
-      "probability": 35,
-      "rationale": "While the fraternity represents the strongest organizing effort yet, the NCAA and universities remain strongly opposed to unionization. The NLRB has been inconsistent on college athlete classification, and legal challenges will likely extend the timeline beyond 18 months."
-    },
-    {
-      "statement": "Kyle Shanahan returns to full coaching duties with the 49ers before Week 1.",
-      "probability": 78,
-      "rationale": "Paid administrative leave following a car accident suggests a precautionary measure rather than a serious injury. Most car-accident recoveries among healthy individuals in their 50s resolve within weeks. Training camp begins in July, giving ample time for recovery."
+      "statement": "The Washington Commanders will name a new tight end coach within one week.",
+      "probability": 62,
+      "rationale": "The Commanders fired Ben Steele mid-season, creating an immediate vacancy. NFL teams typically move quickly to fill coaching positions. However, summer hiring can face delays due to candidate availability and vetting. One week is aggressive but plausible."
     }
   ],
   "injuries": [
     {
-      "player": "Patrick Mahomes",
-      "team": "Kansas City Chiefs",
-      "league": "NFL",
-      "position": "QB",
-      "status": "RETURNING",
-      "injury": "Brutal injury (specific type not disclosed)",
-      "timeline": "Expected to return for Week 1 vs. Denver Broncos",
-      "source": "NY Post Sports",
-      "impact": "Mahomes' return assures the Chiefs have their franchise QB for the season opener and eliminates QB contingency questions.",
-      "storyIndex": 9
-    },
-    {
-      "player": "Oscar Piastri",
-      "team": "McLaren",
-      "league": "F1",
+      "player": "Mia Bieniemy",
+      "team": "N/A (wife of Kansas City Chiefs assistant coach Eric Bieniemy)",
+      "league": "OTHER",
       "position": "",
-      "status": "OUT",
-      "injury": "Retired from race (cause not specified)",
-      "timeline": "Out of Hungarian Grand Prix",
-      "source": "The Guardian",
-      "impact": "Piastri's retirement handed Lando Norris undisputed team focus and strategy support for the Hungarian win.",
-      "storyIndex": 16
+      "status": "RETURNING",
+      "injury": "Multiple gunshot wounds",
+      "timeline": "Stable condition",
+      "source": "The Guardian, BBC Sport",
+      "impact": "No direct team impact; incident affects Eric Bieniemy's availability and focus as Chiefs offensive coordinator during critical season preparation.",
+      "storyIndex": 2
     }
   ],
   "picks": [
@@ -5850,58 +5846,194 @@
       "_pendingGrade": true
     }
   ],
-  "updatedAt": "2026-04-23T22:15:00Z",
+  "updatedAt": "2026-07-27T18:45:00Z",
   "highlights": [
     {
       "league": "NBA",
-      "title": "Khaman Maluach Was DOMINANT at 2026 NBA Summer League! 🔥 | 19.5 PPG &amp; 12.8 REB",
-      "videoId": "huuUK7a7Lr4",
-      "thumbnail": "https://img.youtube.com/vi/huuUK7a7Lr4/mqdefault.jpg",
-      "timeAgo": "2d ago",
+      "title": "Great Losing the Defense Handles of the 2025-26 NBA Season",
+      "videoId": "H_653nrxWIw",
+      "thumbnail": "https://img.youtube.com/vi/H_653nrxWIw/mqdefault.jpg",
+      "timeAgo": "Just now",
       "isFallback": false
     },
     {
       "league": "NFL",
-      "title": "Dan O calls for the Browns to make Shedeur Sanders QB1 👀",
-      "videoId": "Ph3tsXQIH5I",
-      "thumbnail": "https://img.youtube.com/vi/Ph3tsXQIH5I/mqdefault.jpg",
+      "title": "How far can the Lions go?",
+      "videoId": "SDWCLAfjx6o",
+      "thumbnail": "https://img.youtube.com/vi/SDWCLAfjx6o/mqdefault.jpg",
       "timeAgo": "1h ago",
       "isFallback": false
     },
     {
       "league": "MLB",
-      "title": "Baseball Hall of Fame just added EVEN MORE LEGENDS! | Morning Lineup (MLB Daily Recap)",
-      "videoId": "Pd-RJKhz0mI",
-      "thumbnail": "https://img.youtube.com/vi/Pd-RJKhz0mI/mqdefault.jpg",
+      "title": "That time Randy Johnson accidentally threw an eephus pitch after a boat sounded its horn 🤣",
+      "videoId": "eRG5Kruh324",
+      "thumbnail": "https://img.youtube.com/vi/eRG5Kruh324/mqdefault.jpg",
       "timeAgo": "1h ago",
       "isFallback": false
     },
     {
       "league": "NHL",
-      "title": "3ICE Hockey Week 1 - Philly vs. Chicago &amp; NY/NJ vs. Buffalo",
-      "videoId": "32hbc3b95U8",
-      "thumbnail": "https://img.youtube.com/vi/32hbc3b95U8/mqdefault.jpg",
-      "timeAgo": "2d ago",
+      "title": "3ICE Hockey: The Best Part of Hockey is BACK!",
+      "videoId": "F2qjqBACL3M",
+      "thumbnail": "https://img.youtube.com/vi/F2qjqBACL3M/mqdefault.jpg",
+      "timeAgo": "Just now",
       "isFallback": false
     },
     {
       "league": "WNBA",
-      "title": "2026 AT&amp;T WNBA All-Star Game Postgame Press Conference",
-      "videoId": "N-QwOzLz5CA",
-      "thumbnail": "https://img.youtube.com/vi/N-QwOzLz5CA/mqdefault.jpg",
-      "timeAgo": "22h ago",
+      "title": "President Barack Obama Takes On 2026 AT&amp;T WNBA All-Star Weekend",
+      "videoId": "e5WYX77Zt-U",
+      "thumbnail": "https://img.youtube.com/vi/e5WYX77Zt-U/mqdefault.jpg",
+      "timeAgo": "1h ago",
       "isFallback": false
     },
     {
       "league": "SOCCER",
-      "title": "Lamine is still putting in work 🏋️🏃‍♂️💨 (via @lamineyamal, @ineesgaarcia/IG)",
-      "videoId": "teK6D3EUYQc",
-      "thumbnail": "https://img.youtube.com/vi/teK6D3EUYQc/mqdefault.jpg",
-      "timeAgo": "1h ago",
+      "title": "Cold 🥶",
+      "videoId": "z2zt32buD6g",
+      "thumbnail": "https://img.youtube.com/vi/z2zt32buD6g/mqdefault.jpg",
+      "timeAgo": "2h ago",
       "isFallback": false
     }
   ],
   "reels": [
+    {
+      "league": "NBA",
+      "title": "Great Losing the Defense Handles of the 2025-26 NBA Season",
+      "videoId": "H_653nrxWIw",
+      "author": "NBA",
+      "pubDate": "2026-07-27T16:43:21+00:00",
+      "link": "https://www.youtube.com/watch?v=H_653nrxWIw"
+    },
+    {
+      "league": "NHL",
+      "title": "3ICE Hockey: The Best Part of Hockey is BACK!",
+      "videoId": "F2qjqBACL3M",
+      "author": "NHL",
+      "pubDate": "2026-07-27T16:25:42+00:00",
+      "link": "https://www.youtube.com/watch?v=F2qjqBACL3M"
+    },
+    {
+      "league": "WNBA",
+      "title": "President Barack Obama Takes On 2026 AT&amp;T WNBA All-Star Weekend",
+      "videoId": "e5WYX77Zt-U",
+      "author": "WNBA",
+      "pubDate": "2026-07-27T16:15:40+00:00",
+      "link": "https://www.youtube.com/watch?v=e5WYX77Zt-U"
+    },
+    {
+      "league": "MLB",
+      "title": "That time Randy Johnson accidentally threw an eephus pitch after a boat sounded its horn 🤣",
+      "videoId": "eRG5Kruh324",
+      "author": "MLB",
+      "pubDate": "2026-07-27T16:00:26+00:00",
+      "link": "https://www.youtube.com/watch?v=eRG5Kruh324"
+    },
+    {
+      "league": "MLB",
+      "title": "MLB's TOP PLAYS from the last week! (Ft. Red Sox, Cease, Okamoto, PCA &amp; MORE!) | MLB Highlights",
+      "videoId": "3r_XdjfU6XI",
+      "author": "MLB",
+      "pubDate": "2026-07-27T16:00:00+00:00",
+      "link": "https://www.youtube.com/watch?v=3r_XdjfU6XI"
+    },
+    {
+      "league": "NFL",
+      "title": "How far can the Lions go?",
+      "videoId": "SDWCLAfjx6o",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-07-27T15:53:49+00:00",
+      "link": "https://www.youtube.com/watch?v=SDWCLAfjx6o"
+    },
+    {
+      "league": "NFL",
+      "title": "Patrick Mahomes talking about the Chiefs adding Kenneth Walker III 🗣️",
+      "videoId": "ViLcMYxXttg",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-07-27T15:49:14+00:00",
+      "link": "https://www.youtube.com/watch?v=ViLcMYxXttg"
+    },
+    {
+      "league": "NFL",
+      "title": "The Cowboys' Outlook ➡️ Super Bowl hopes, BRUTAL schedule &amp; Dak Prescott's expectations | First Take",
+      "videoId": "NwdfKKLjn64",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-07-27T15:24:35+00:00",
+      "link": "https://www.youtube.com/watch?v=NwdfKKLjn64"
+    },
+    {
+      "league": "NBA",
+      "title": "LeBron James will officially play his historic 24th NBA season with the Philadelphia 76ers 👑",
+      "videoId": "Y3TLQmd2mq0",
+      "author": "NBA",
+      "pubDate": "2026-07-27T15:12:12+00:00",
+      "link": "https://www.youtube.com/watch?v=Y3TLQmd2mq0"
+    },
+    {
+      "league": "NBA",
+      "title": "LeBron James and Tyrese Maxey will be teammates in Philadelphia next season!",
+      "videoId": "ctE40fcB8DU",
+      "author": "NBA",
+      "pubDate": "2026-07-27T15:04:53+00:00",
+      "link": "https://www.youtube.com/watch?v=ctE40fcB8DU"
+    },
+    {
+      "league": "NFL",
+      "title": "Dan explains why he's rocking with the Packers 👀",
+      "videoId": "BFgDDj4gAmk",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-07-27T14:42:48+00:00",
+      "link": "https://www.youtube.com/watch?v=BFgDDj4gAmk"
+    },
+    {
+      "league": "NFL",
+      "title": "Greeny with a comparison for the old heads 😆",
+      "videoId": "6NajREkR-OU",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-07-27T14:40:25+00:00",
+      "link": "https://www.youtube.com/watch?v=6NajREkR-OU"
+    },
+    {
+      "league": "SOCCER",
+      "title": "Cold 🥶",
+      "videoId": "z2zt32buD6g",
+      "author": "ESPN FC",
+      "pubDate": "2026-07-27T14:30:20+00:00",
+      "link": "https://www.youtube.com/watch?v=z2zt32buD6g"
+    },
+    {
+      "league": "NFL",
+      "title": "Are the Rams UNBEATABLE if they're FULLY healthy? 🤔 | Get Up",
+      "videoId": "KyFXPUcp50o",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-07-27T14:11:29+00:00",
+      "link": "https://www.youtube.com/watch?v=KyFXPUcp50o"
+    },
+    {
+      "league": "SOCCER",
+      "title": "Protecting Messi at all costs 😂 (via danielsistiaga/IG)",
+      "videoId": "pcx81_SzfY0",
+      "author": "ESPN FC",
+      "pubDate": "2026-07-27T14:00:33+00:00",
+      "link": "https://www.youtube.com/watch?v=pcx81_SzfY0"
+    },
+    {
+      "league": "SOCCER",
+      "title": "Jose Mourinho is a ‘SOFTER MANAGER’ now - Don Hutchison | ESPN FC",
+      "videoId": "p3Cx1R95qyg",
+      "author": "ESPN FC",
+      "pubDate": "2026-07-27T14:00:05+00:00",
+      "link": "https://www.youtube.com/watch?v=p3Cx1R95qyg"
+    },
+    {
+      "league": "NFL",
+      "title": "Could anyone stop the Rams? 🤯",
+      "videoId": "HcBTdtYArQc",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-07-27T13:59:00+00:00",
+      "link": "https://www.youtube.com/watch?v=HcBTdtYArQc"
+    },
     {
       "league": "SOCCER",
       "title": "Lamine is still putting in work 🏋️🏃‍♂️💨 (via @lamineyamal, @ineesgaarcia/IG)",
@@ -5927,14 +6059,6 @@
       "link": "https://www.youtube.com/watch?v=Ph3tsXQIH5I"
     },
     {
-      "league": "NFL",
-      "title": "'Starting anybody but Shedeur Sanders is DUMB' 📣 - Dan Orlovsky on the Browns' QB situation | Get Up",
-      "videoId": "iA2R3qWyHn4",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-07-27T12:52:12+00:00",
-      "link": "https://www.youtube.com/watch?v=iA2R3qWyHn4"
-    },
-    {
       "league": "MLB",
       "title": "Jacob Misiorowski is RIDICULOUS! (Top 5 MLB Plays RANKED from 7/26/26!)",
       "videoId": "R_PahAqq6To",
@@ -5949,14 +6073,6 @@
       "author": "MLB",
       "pubDate": "2026-07-27T10:00:33+00:00",
       "link": "https://www.youtube.com/watch?v=dvepzIZot-8"
-    },
-    {
-      "league": "NFL",
-      "title": "How do we feel about Kevin Dotson's new look for the season? 😅 (via Rams/TT)",
-      "videoId": "HUwSkXRBCYs",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-07-27T03:54:46+00:00",
-      "link": "https://www.youtube.com/watch?v=HUwSkXRBCYs"
     },
     {
       "league": "SOCCER",
@@ -5975,14 +6091,6 @@
       "link": "https://www.youtube.com/watch?v=51_5keNMLtY"
     },
     {
-      "league": "NFL",
-      "title": "Indiana Jones got set up 😂",
-      "videoId": "19nVoFoMM88",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-07-27T01:20:32+00:00",
-      "link": "https://www.youtube.com/watch?v=19nVoFoMM88"
-    },
-    {
       "league": "MLB",
       "title": "FULL 2026 Hall of Fame Class speeches! (Jeff Kent, Andruw Jones, Carlos Beltrán)",
       "videoId": "YRnzupIj-po",
@@ -5997,46 +6105,6 @@
       "author": "MLB",
       "pubDate": "2026-07-26T23:18:23+00:00",
       "link": "https://www.youtube.com/watch?v=SD5XeBugcLA"
-    },
-    {
-      "league": "MLB",
-      "title": "EVERY HIT: Mike Trout has his first 4-hit game since 2021 🙌 | MLB Highlights",
-      "videoId": "yWqTx126h_o",
-      "author": "MLB",
-      "pubDate": "2026-07-26T23:16:12+00:00",
-      "link": "https://www.youtube.com/watch?v=yWqTx126h_o"
-    },
-    {
-      "league": "NFL",
-      "title": "Go Blue 👏",
-      "videoId": "BHO9j6wSac8",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-07-26T23:08:28+00:00",
-      "link": "https://www.youtube.com/watch?v=BHO9j6wSac8"
-    },
-    {
-      "league": "NFL",
-      "title": "Jump scare 😳",
-      "videoId": "1vfbszm9WFc",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-07-26T23:08:04+00:00",
-      "link": "https://www.youtube.com/watch?v=1vfbszm9WFc"
-    },
-    {
-      "league": "NFL",
-      "title": "This duo 😮‍💨",
-      "videoId": "heYQEiN6rDg",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-07-26T23:07:50+00:00",
-      "link": "https://www.youtube.com/watch?v=heYQEiN6rDg"
-    },
-    {
-      "league": "MLB",
-      "title": "Julio Rodríguez got some candy in exchange for a selfie and autographs😆",
-      "videoId": "1JP3cZ_5wZY",
-      "author": "MLB",
-      "pubDate": "2026-07-26T22:24:51+00:00",
-      "link": "https://www.youtube.com/watch?v=1JP3cZ_5wZY"
     },
     {
       "league": "SOCCER",
@@ -6063,44 +6131,12 @@
       "link": "https://www.youtube.com/watch?v=GyGFSv2yc_o"
     },
     {
-      "league": "NFL",
-      "title": "😮‍💨😮‍💨😮‍💨",
-      "videoId": "RwLMswyobz0",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-07-26T20:17:56+00:00",
-      "link": "https://www.youtube.com/watch?v=RwLMswyobz0"
-    },
-    {
-      "league": "SOCCER",
-      "title": "Avengers Doomsday's Tenoch Huerta on the magic of the WC and Mexico's run ⚽️ 🇲🇽",
-      "videoId": "HwZ0LdlchJ4",
-      "author": "ESPN FC",
-      "pubDate": "2026-07-26T19:25:30+00:00",
-      "link": "https://www.youtube.com/watch?v=HwZ0LdlchJ4"
-    },
-    {
-      "league": "SOCCER",
-      "title": "The crowd to see Messi 👀",
-      "videoId": "Fm7hRhhzic0",
-      "author": "ESPN FC",
-      "pubDate": "2026-07-26T18:00:31+00:00",
-      "link": "https://www.youtube.com/watch?v=Fm7hRhhzic0"
-    },
-    {
       "league": "WNBA",
       "title": "2026 AT&amp;T WNBA All-Star Game Postgame Press Conference",
       "videoId": "N-QwOzLz5CA",
       "author": "WNBA",
       "pubDate": "2026-07-26T15:36:01+00:00",
       "link": "https://www.youtube.com/watch?v=N-QwOzLz5CA"
-    },
-    {
-      "league": "SOCCER",
-      "title": "🔥🔥🔥 (via MLS on Apple TV)",
-      "videoId": "fcX5ZyLSvWQ",
-      "author": "ESPN FC",
-      "pubDate": "2026-07-26T14:16:05+00:00",
-      "link": "https://www.youtube.com/watch?v=fcX5ZyLSvWQ"
     },
     {
       "league": "WNBA",
@@ -6181,46 +6217,6 @@
       "author": "WNBA",
       "pubDate": "2026-07-25T03:37:51+00:00",
       "link": "https://www.youtube.com/watch?v=oxG1i2LEuZw"
-    },
-    {
-      "league": "WNBA",
-      "title": "2026 AT&amp;T WNBA All-Star Friday Night Press Conference",
-      "videoId": "pAmZhqc4wFI",
-      "author": "WNBA",
-      "pubDate": "2026-07-25T01:49:30+00:00",
-      "link": "https://www.youtube.com/watch?v=pAmZhqc4wFI"
-    },
-    {
-      "league": "NBA",
-      "title": "31st Overall Pick Bruce Thornton BALLED OUT at 2026 NBA Summer League 🌟 18.6 PPG, 2.6 SPG",
-      "videoId": "5257AZ4J3Zw",
-      "author": "NBA",
-      "pubDate": "2026-07-24T23:00:30+00:00",
-      "link": "https://www.youtube.com/watch?v=5257AZ4J3Zw"
-    },
-    {
-      "league": "NHL",
-      "title": "FULL REPLAY: 54 Years of Waiting Ends | Canucks vs Rangers | 1994 Stanley Cup Game 7",
-      "videoId": "c8W1JVx1OQw",
-      "author": "NHL",
-      "pubDate": "2026-07-24T23:00:06+00:00",
-      "link": "https://www.youtube.com/watch?v=c8W1JVx1OQw"
-    },
-    {
-      "league": "NBA",
-      "title": "17th Overall Pick Ebuka Okorie BEST MOMENTS at 2026 NBA Summer League 🔥 18.6 PPG, 4.4 APG",
-      "videoId": "Xi-xMdo6MoQ",
-      "author": "NBA",
-      "pubDate": "2026-07-24T21:00:20+00:00",
-      "link": "https://www.youtube.com/watch?v=Xi-xMdo6MoQ"
-    },
-    {
-      "league": "NBA",
-      "title": "2026 Draft Class Reacts to ‘96 Draft Class Photo. Who can you Name?",
-      "videoId": "_0EOc937wr4",
-      "author": "NBA",
-      "pubDate": "2026-07-24T19:50:34+00:00",
-      "link": "https://www.youtube.com/watch?v=_0EOc937wr4"
     }
   ]
 }
