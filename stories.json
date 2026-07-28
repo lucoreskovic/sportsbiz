@@ -1,2497 +1,170 @@
 {
   "clusters": [
     {
-      "category": "media",
-      "importance": 8,
-      "leadHeadline": "LeBrons Reverse Fresh Prince Move Makes Philly the Toast of TV",
-      "leadSource": "Sportico · 9h ago",
-      "leadUrl": "https://www.sportico.com/business/media/2026/lebron-james-philadelphia-76ers-tv-1234940236/",
-      "summary": "LeBron James signed a two-year, $8 million deal with Philadelphia, boosting the Sixers from 14 national TV games to the NBA maximum of 34, more than doubling their broadcast footprint overnight.",
-      "article": "<cite index=\"2-2,2-15\">LeBron James announced Friday he would join the Philadelphia 76ers, with the move becoming official Sunday.</cite> <cite index=\"1-2\">The deal is worth two years and $8 million with a player option for the second season and a 15 percent trade kicker.</cite>\n\nThe math is what makes this news. <cite index=\"18-2\">The Sixers finished 45-37, seventh in the East last season.</cite> They got <cite index=\"18-11\">14 national games last year.</cite> Now? <cite index=\"18-10\">They're expected to get the maximum 34 national telecasts across ABC, ESPN, NBC, Peacock, and Prime Video.</cite> That's not a bump. That's a complete reordering.\n\n<cite index=\"18-4,18-6\">NBA Commissioner Adam Silver said the league couldn't finalize its schedule until it knew where James would be playing, noting LeBron's choice would influence opening week and Christmas.</cite> <cite index=\"19-9\">James' Lakers appeared in the five most-watched regular-season telecasts of the 2025-26 campaign.</cite> Philadelphia is betting that moves to Philly.\n\n<cite index=\"2-18\">\"I believe I can help make the Philadelphia 76ers a championship team and I am so excited to energize a new fan base,\" James said.</cite> The broadcast partners are equally energized. <cite index=\"24-1,24-6\">The 34 games represent 41.5 percent of the Sixers' schedule, meaning more than two of every five games will be nationally televised.</cite>",
-      "tweets": [
-        {
-          "url": "https://twitter.com/phillysport/status/2081525403953365353",
-          "html": "<blockquote class=\"twitter-tweet\" data-dnt=\"true\" data-theme=\"dark\"><p>LeBron James signs two-year, $8 million contract to join Sixers https://t.co/boPVxcYmbC</p>&mdash; Philadelphia Inquirer Sports (@phillysport) <a href=\"https://twitter.com/phillysport/status/2081525403953365353\">July 26, 2026</a></blockquote>",
-          "author_name": "Philadelphia Inquirer Sports",
-          "author_url": "https://twitter.com/phillysport",
-          "dateMs": 1785109303000
-        }
-      ]
-    },
-    {
-      "category": "revenue",
-      "importance": 7,
-      "leadHeadline": "Max Scherzer makes successful return on 42nd birthday, Blue Jays edge Nationals",
-      "leadSource": "Sportsnet · 4h ago",
-      "leadUrl": "",
-      "summary": "Max Scherzer, reinstated from the injured list on his 42nd birthday, led the Blue Jays to a 3-2 win over the Nationals on Monday. The right-hander's return marked a rare performance by a veteran pitcher at an advanced age.",
-      "article": "Max Scherzer took the mound for the Toronto Blue Jays on Monday, his 42nd birthday, freshly reinstated from the injured list. The right-hander delivered a successful outing in familiar territory, helping the Blue Jays edge the Washington Nationals 3-2.\n\nScherzer's return is notable not for sentimentality but for sustained performance at an age when most pitchers have retired. At 42, he remains capable of competing at the major league level, a testament to durability and mechanics that have carried him through two decades of professional baseball. The fact that he took the ball on his birthday against his former team added narrative weight, but the result is what mattered: a win that keeps Toronto competitive.\n\nThe Blue Jays' bullpen also delivered a clinical performance, per broadcast accounts, which suggests the team's pitching depth remains functional despite Scherzer's prior absence. His availability as a veteran arm down the stretch could prove valuable in a tight division or playoff race.",
+      "category": "leagues",
+      "importance": 9,
+      "leadHeadline": "Zidane confirmed as new France manager",
+      "leadSource": "BBC Sport · just now",
+      "leadUrl": "https://www.bbc.co.uk/sport/football/articles/cpd741qn2y9o?at_medium=RSS&amp;at_campaign=rss",
+      "summary": "<cite index=\"4-1\">Zinédine Zidane (54) has been appointed as France's national team manager, Fédération Française de Football (FFF) has announced on Tuesday.</cite> <cite index=\"17-1\">The new manager will take up the role on 1 August and has signed a four-year contract.</cite>",
+      "article": "<cite index=\"4-1\">Zinédine Zidane has been appointed as France's national team manager, Fédération Française de Football (FFF) announced on Tuesday.</cite> <cite index=\"17-1\">He takes up the role on 1 August on a four-year deal.</cite>\n\n<cite index=\"4-3\">Zidane replaces Didier Deschamps, whose 14-year tenure concluded after the 2026 World Cup.</cite> <cite index=\"9-3\">France finished fourth at the tournament.</cite> <cite index=\"5-2\">Zidane has been out of work since leaving Real Madrid in 2021.</cite>\n\n<cite index=\"17-5,17-6,17-7,17-8\">\"I have said it many times: there is nothing more beautiful than the French national team. It is therefore a joy and, of course, a huge source of pride to become head coach,\" Zidane said. \"I turned down many offers over the past four or five years. After Real Madrid, there was only one job I wanted: to become head coach of France.\"</cite>\n\n<cite index=\"4-10\">As a manager, Zidane oversaw an unprecedented three-peat of UEFA Champions League wins with Los Merengues.</cite> <cite index=\"9-7\">His first challenge will be leading France into the Nations League before turning attention to qualifying for Euro 2028, with a squad still boasting world-class talent including Kylian Mbappé, Aurélien Tchouaméni and William Saliba.</cite>",
       "tweets": []
     },
     {
-      "category": "labor",
+      "category": "media",
+      "importance": 8,
+      "leadHeadline": "LeBrons Reverse Fresh Prince Move Makes Philly the Toast of TV",
+      "leadSource": "Sportico · 13h ago",
+      "leadUrl": "https://www.sportico.com/business/media/2026/lebron-james-philadelphia-76ers-tv-1234940236/",
+      "summary": "LeBron James's move to Philadelphia has made the 76ers a major television draw, with the 39-year-old veteran becoming the league's biggest attraction since his 2003 debut despite being the oldest active NBA player.",
+      "article": "LeBron James has turned the Philadelphia 76ers into the NBA's premier television property. At 39, the veteran is now the league's oldest active player, yet his return to the Eastern Seaboard has positioned him as its most significant draw. Since his debut in 2003, James has remained the league's marquee attraction, a status that persisted even as he aged past 35 and saw younger stars like Cooper Flagg, the league's youngest player, emerge. The 76ers organization recognized James's pulling power when engineering the trade, understanding that his gravitational effect on viewership and merchandise sales would offset aging curves. In the broader context, James's move mirrors LeBron's earlier career trajectories: his 2010 move to Miami and his 2014 return to Cleveland both reshaped those franchises' relevance. Philadelphia's television negotiations with national broadcasters now include James's presence as a primary negotiating point, a rarity for a player in his fourth decade. The move also reflects the NBA's betting that star continuity and legacy narratives drive cord-cutting audiences back to traditional broadcasts. His presence in the Eastern Conference also elevates every 76ers opponent's national-broadcast value.",
+      "tweets": []
+    },
+    {
+      "category": "revenue",
       "importance": 6,
-      "leadHeadline": "WNBA's triumphant All-Star Weekend: 'get off the 'net' and lean into the joy",
-      "leadSource": "The Guardian · 14h ago",
-      "leadUrl": "https://www.theguardian.com/sport/2026/jul/27/wnba-all-star-weekend-obama-caitlin-clark-cathy-engelbert",
-      "summary": "The WNBA All-Star festivities in Chicago drew a record crowd and featured a Barack Obama cameo. Despite buildup challenges, the league delivered a rousing high that underscored the value of in-person fan engagement.",
-      "article": "The WNBA All-Star Weekend in Chicago became the league's latest proof point that live events and high-profile moments drive growth. A record crowd showed up, and the presence of Barack Obama added institutional credibility to a celebration of women's basketball at peak popularity.\n\nWhat's instructive here isn't just the attendance number. The Guardian's framing—\"get off the 'net' and lean into the joy\"—captures a strategic shift. For years, the WNBA's digital presence dominated discourse about the league. This weekend inverted that: in-person spectacle, celebrity adjacency, and communal celebration became the story.\n\nThere were headaches in the buildup, but the league navigated them and delivered an event that felt both accessible and aspirational. For a league still fighting for media rights parity with the men's game, proof that fans will show up in force for marquee events is valuable ammunition in broadcast negotiations. The record crowd and the cultural moment Obama's attendance created both translate to leverage.",
+      "leadHeadline": "YouTube, Fox Sports, Paramount-WBD and more",
+      "leadSource": "Sports Media Watch · 9h ago",
+      "leadUrl": "https://www.sportsmediawatch.com/2026/07/youtube-peacock-production-connor-onion-fox-sports-paramount-wbd/",
+      "summary": "YouTube Premium subscribers will gain free access to ad-supported Peacock Premium next year, while Paramount remains confident its merger with WBD will close and various media entities make programming shifts.",
+      "article": "A bundle deal between YouTube and Peacock signals NBC's confidence in streaming distribution even as cord-cutting pressures mount. YouTube Premium subscribers will gain access to ad-supported Peacock Premium starting next year, effectively cross-pollinizing two of the largest subscription platforms in North America. The arrangement suggests both platforms recognize the value of stacking complementary services to reduce churn. Separately, Paramount Global reiterated confidence that its proposed merger with Warner Bros. Discovery will close, a deal that would reshape media distribution for sports properties including NFL, NBA, and college football. The company expects regulatory clearance, though the tie-up remains subject to FTC scrutiny given combined market power. In college football broadcasting, The Onion has reportedly signed an agreement to work with Griffin on FOX's coverage, a move that injects comedy-adjacent commentary into the sport's national broadcasts. The PGA TOUR and MLS have also made media announcements, though specific terms remain under negotiation. These moves underscore the industry's pivot toward bundled offerings and integrated comedy-sports programming as traditional sports media margins compress.",
       "tweets": []
     },
     {
       "category": "contracts",
       "importance": 5,
-      "leadHeadline": "Chelsea open talks to sign Henderson and Welbeck",
-      "leadSource": "BBC Sport · 11h ago",
-      "leadUrl": "https://www.bbc.co.uk/sport/football/articles/cx2d79ddvg4o?at_medium=RSS&amp;at_campaign=rss",
-      "summary": "Chelsea are negotiating to sign Brentford midfielder Jordan Henderson and Brighton striker Danny Welbeck. The moves represent Chelsea's continued investment in attacking and midfield depth.",
-      "article": "Chelsea have opened negotiations to acquire two experienced players: Jordan Henderson from Brentford and Danny Welbeck from Brighton. Neither transfer has been finalized, but the talks signal Chelsea's strategy in the January window or early-year market.\n\nHenderson, a midfielder, would bolster Chelsea's control in the middle third. Welbeck, a striker, addresses depth and versatility up front. Both are established Premier League operators, which suggests Chelsea is prioritizing proven quality over speculative youth development in this phase of their roster construction.\n\nThe specifics of fee and contract terms haven't been disclosed by either club, so the financial magnitude remains unclear. What's evident is Chelsea's willingness to engage multiple top-flight clubs in a short window, indicating either urgency in addressing a gap or opportunistic positioning ahead of a summer rebuild.",
-      "tweets": []
-    },
-    {
-      "category": "media",
-      "importance": 5,
-      "leadHeadline": "YouTube, Fox Sports, Paramount-WBD and more",
-      "leadSource": "Sports Media Watch · 5h ago",
-      "leadUrl": "https://www.sportsmediawatch.com/2026/07/youtube-peacock-production-connor-onion-fox-sports-paramount-wbd/",
-      "summary": "YouTube Premium will integrate free Peacock Premium access next year; Paramount reaffirms confidence in its WBD merger closing. A slate of media moves signals consolidation and bundling strategies across sports rights holders.",
-      "article": "Sports media distribution continues to consolidate around bundled, integrated offerings. YouTube Premium subscribers will gain free access to ad-supported Peacock Premium starting next year, expanding the reach of NBC's streaming platform without requiring a separate subscription.\n\nParamount, meanwhile, remains highly confident that its deal with Warner Bros. Discovery will close. That merger, if completed, would create another major bundled entity in the media landscape, combining Paramount's CBS and MTV assets with WBD's Turner portfolio and Max streaming service.\n\nThese moves reflect a broader industry shift: standalone sports streaming services are giving way to tier-based bundling. Subscribers gain access to multiple platforms and content libraries through single sign-on. For the sports industry, this means lower direct revenue per subscriber but broader reach and the ability to cross-promote across properties. The winners will be platforms that can absorb live sports rights into a profitable tier structure without margin compression.",
-      "tweets": []
-    },
-    {
-      "category": "leagues",
-      "importance": 4,
-      "leadHeadline": "LIV Golf's Future Faces New Questions As Finale Appears in Doubt",
-      "leadSource": "Front Office Sports · 11h ago",
-      "leadUrl": "https://frontofficesports.com/liv-golfs-future-faces-new-questions-as-finale-appears-in-doubt/",
-      "summary": "LIV Golf's schedule is in flux with three more events planned for August but the season finale facing uncertainty. The instability reflects ongoing questions about the Saudi-backed league's long-term viability.",
-      "article": "LIV Golf's 2026 schedule is hitting turbulence. The league still has three events scheduled for August, but the season finale itself is now in doubt, per reporting by Front Office Sports. This follows months of uncertainty around the league's funding and competitive model.\n\nThe broader picture remains murky. LIV has struggled to attract consistent television ratings and sponsorship momentum since its launch. PGA Tour merger talks stalled, leaving LIV in a limbo between outright legitimacy and sustained investment. The fact that a season conclusion is now uncertain suggests either financial strain or a strategic reset that hasn't been publicly articulated.\n\nFor players on LIV's roster, the instability carries real risk. Appearance fees and guaranteed prize pools depend on events actually occurring. For the Saudi Public Investment Fund, which bankrolls the league, continued questions about ROI and competitive positioning continue to mount.",
-      "tweets": []
-    },
-    {
-      "category": "revenue",
-      "importance": 3,
-      "leadHeadline": "Packers Say Other NFL Teams Have An 'ATM Machine' They Lack",
-      "leadSource": "Front Office Sports · 9h ago",
-      "leadUrl": "https://frontofficesports.com/packers-say-other-nfl-teams-have-an-atm-machine-they-lack/",
-      "summary": "The Green Bay Packers reiterated they will not sell naming rights to Lambeau Field, citing a revenue gap compared to other NFL franchises. The stance reflects a franchise operating under different financial constraints than corporate-friendly peers.",
-      "article": "The Green Bay Packers reaffirmed that Lambeau Field will not be sold for a naming rights deal, per a statement reported by Front Office Sports. The franchise's leadership characterized other NFL teams as possessing an \"ATM machine\" that the Packers lack, an implicit acknowledgment of the revenue disparity between Green Bay's community-owned structure and corporate-driven franchises elsewhere.\n\nThis is a real business constraint. Lambeau naming rights could generate $20 million to $40 million annually for a comparable NFL venue in a large market. Green Bay, as a publicly owned team, operates within different fiduciary parameters. Naming-rights revenue flows to the franchise, but the franchise itself is accountable to a broad shareholder base of fans, not private equity or a billionaire owner.\n\nThe Packers' statement also serves as a positioning move ahead of a potential stadium renovation. By taking naming rights off the table, the franchise signals to its fan base that fiscal discipline comes first. That same fan base will be asked to fund portions of any renovation via tax support or seat license sales, so the messaging matters.",
+      "leadHeadline": "Max Scherzer makes successful return on 42nd birthday, Blue Jays edge Nationals",
+      "leadSource": "Sportsnet · 8h ago",
+      "leadUrl": "",
+      "summary": "Max Scherzer, reinstated from the injured list on his 42nd birthday, pitched for the Toronto Blue Jays in a 3-2 victory over the Washington Nationals, marking a successful return to familiar territory.",
+      "article": "Max Scherzer made his return to competition on Monday at age 42, vindication for a pitcher who has spent most of his career wrestling age and durability. The Blue Jays reinstated the right-hander from the injured list on his birthday, allowing him to pitch at Nationals Park, where he spent seven seasons and won a World Series. Toronto defeated Washington 3-2, with the bullpen executing a clinical performance to preserve the lead. Scherzer's age places him among baseball's oldest active players, a category typically populated by designated hitters and backup infielders, not starting pitchers handling high-leverage innings. His successful outing suggests the Blue Jays' medical staff cleared him for a significant workload down the stretch, an endorsement of both his conditioning and the franchise's belief he can contribute to a playoff push. The matchup against the Nationals carried narrative weight: Scherzer was Washington's ace during their 2019 championship run and has deep ties to the organization. His ability to pitch effectively past 40 has become a broader story in baseball, where velocity typically deteriorates and injury rates spike in the late 30s. Whether Scherzer can sustain his effectiveness over a full second half remains the open question.",
       "tweets": []
     }
   ],
-  "draftTracker": {
-    "active": true,
-    "event": "2026 NFL Draft",
-    "picks": [
-      {
-        "pick": 1,
-        "round": 1,
-        "team": "Las Vegas Raiders",
-        "player": "Fernando Mendoza",
-        "position": "QB",
-        "school": "",
-        "note": ""
-      },
-      {
-        "pick": 2,
-        "round": 1,
-        "team": "New York Jets",
-        "player": "David Bailey",
-        "position": "EDGE",
-        "school": "",
-        "note": ""
-      },
-      {
-        "pick": 3,
-        "round": 1,
-        "team": "Arizona Cardinals",
-        "player": "Jeremiyah Love",
-        "position": "RB",
-        "school": "",
-        "note": ""
-      },
-      {
-        "pick": 4,
-        "round": 1,
-        "team": "Tennessee Titans",
-        "player": "Carnell Tate",
-        "position": "WR",
-        "school": "",
-        "note": ""
-      },
-      {
-        "pick": 5,
-        "round": 1,
-        "team": "New York Giants",
-        "player": "Arvell Reese",
-        "position": "LB",
-        "school": "",
-        "note": ""
-      },
-      {
-        "pick": 6,
-        "round": 1,
-        "team": "Kansas City Chiefs",
-        "player": "Mansoor Delane",
-        "position": "CB",
-        "school": "",
-        "note": "Trade: From CLE"
-      },
-      {
-        "pick": 7,
-        "round": 1,
-        "team": "Washington Commanders",
-        "player": "Sonny Styles",
-        "position": "LB",
-        "school": "",
-        "note": ""
-      },
-      {
-        "pick": 8,
-        "round": 1,
-        "team": "New Orleans Saints",
-        "player": "Jordyn Tyson",
-        "position": "WR",
-        "school": "",
-        "note": ""
-      },
-      {
-        "pick": 9,
-        "round": 1,
-        "team": "Cleveland Browns",
-        "player": "Spencer Fano",
-        "position": "OT",
-        "school": "",
-        "note": "Trade: From KC"
-      },
-      {
-        "pick": 10,
-        "round": 1,
-        "team": "New York Giants",
-        "player": "Francis Mauigoa",
-        "position": "OT",
-        "school": "",
-        "note": "Trade: From CIN"
-      },
-      {
-        "pick": 11,
-        "round": 1,
-        "team": "Dallas Cowboys",
-        "player": "Caleb Downs",
-        "position": "S",
-        "school": "",
-        "note": "Trade: From MIA"
-      },
-      {
-        "pick": 12,
-        "round": 1,
-        "team": "Miami Dolphins",
-        "player": "Kadyn Proctor",
-        "position": "OT",
-        "school": "",
-        "note": "Trade: From DAL"
-      },
-      {
-        "pick": 13,
-        "round": 1,
-        "team": "Los Angeles Rams",
-        "player": "Ty Simpson",
-        "position": "QB",
-        "school": "",
-        "note": "Trade: From ATL"
-      },
-      {
-        "pick": 14,
-        "round": 1,
-        "team": "Baltimore Ravens",
-        "player": "Olaivavega Ioane",
-        "position": "OG",
-        "school": "",
-        "note": ""
-      },
-      {
-        "pick": 15,
-        "round": 1,
-        "team": "Tampa Bay Buccaneers",
-        "player": "Rueben Bain Jr.",
-        "position": "EDGE",
-        "school": "",
-        "note": ""
-      },
-      {
-        "pick": 16,
-        "round": 1,
-        "team": "New York Jets",
-        "player": "Kenyon Sadiq",
-        "position": "TE",
-        "school": "",
-        "note": "Trade: From IND"
-      },
-      {
-        "pick": 17,
-        "round": 1,
-        "team": "Detroit Lions",
-        "player": "Blake Miller",
-        "position": "OT",
-        "school": "",
-        "note": ""
-      },
-      {
-        "pick": 18,
-        "round": 1,
-        "team": "Minnesota Vikings",
-        "player": "Caleb Banks",
-        "position": "DT",
-        "school": "",
-        "note": ""
-      },
-      {
-        "pick": 19,
-        "round": 1,
-        "team": "Carolina Panthers",
-        "player": "Monroe Freeling",
-        "position": "OT",
-        "school": "",
-        "note": ""
-      },
-      {
-        "pick": 20,
-        "round": 1,
-        "team": "Philadelphia Eagles",
-        "player": "Makai Lemon",
-        "position": "WR",
-        "school": "",
-        "note": "Trade: From GB via DAL"
-      },
-      {
-        "pick": 21,
-        "round": 1,
-        "team": "Pittsburgh Steelers",
-        "player": "Max Iheanachor",
-        "position": "OT",
-        "school": "",
-        "note": ""
-      },
-      {
-        "pick": 22,
-        "round": 1,
-        "team": "Los Angeles Chargers",
-        "player": "Akheem Mesidor",
-        "position": "EDGE",
-        "school": "",
-        "note": ""
-      },
-      {
-        "pick": 23,
-        "round": 1,
-        "team": "Dallas Cowboys",
-        "player": "Malachi Lawrence",
-        "position": "EDGE",
-        "school": "",
-        "note": "Trade: From PHI"
-      },
-      {
-        "pick": 24,
-        "round": 1,
-        "team": "Cleveland Browns",
-        "player": "KC Concepcion",
-        "position": "WR",
-        "school": "",
-        "note": "Trade: From JAX"
-      },
-      {
-        "pick": 25,
-        "round": 1,
-        "team": "Chicago Bears",
-        "player": "Dillon Thieneman",
-        "position": "S",
-        "school": "",
-        "note": ""
-      },
-      {
-        "pick": 26,
-        "round": 1,
-        "team": "Houston Texans",
-        "player": "Keylan Rutledge",
-        "position": "OG",
-        "school": "",
-        "note": "Trade: From BUF"
-      },
-      {
-        "pick": 27,
-        "round": 1,
-        "team": "Miami Dolphins",
-        "player": "Chris Johnson",
-        "position": "CB",
-        "school": "",
-        "note": "Trade: From SF"
-      },
-      {
-        "pick": 28,
-        "round": 1,
-        "team": "New England Patriots",
-        "player": "Caleb Lomu",
-        "position": "OT",
-        "school": "",
-        "note": "Trade: From HOU via BUF"
-      },
-      {
-        "pick": 29,
-        "round": 1,
-        "team": "Kansas City Chiefs",
-        "player": "Peter Woods",
-        "position": "DT",
-        "school": "",
-        "note": "Trade: From LAR"
-      },
-      {
-        "pick": 30,
-        "round": 1,
-        "team": "New York Jets",
-        "player": "Omar Cooper Jr.",
-        "position": "WR",
-        "school": "",
-        "note": "Trade: From DEN via MIA and SF"
-      },
-      {
-        "pick": 31,
-        "round": 1,
-        "team": "Tennessee Titans",
-        "player": "Keldric Faulk",
-        "position": "EDGE",
-        "school": "",
-        "note": "Trade: From NE via BUF"
-      },
-      {
-        "pick": 32,
-        "round": 1,
-        "team": "Seattle Seahawks",
-        "player": "Jadarian Price",
-        "position": "RB",
-        "school": "",
-        "note": ""
-      },
-      {
-        "pick": 33,
-        "round": 2,
-        "team": "San Francisco 49ers",
-        "player": "De'Zhaun Stribling",
-        "position": "WR",
-        "school": "",
-        "note": "Trade: From NYJ"
-      },
-      {
-        "pick": 34,
-        "round": 2,
-        "team": "Arizona Cardinals",
-        "player": "Chase Bisontis",
-        "position": "OG",
-        "school": "",
-        "note": ""
-      },
-      {
-        "pick": 35,
-        "round": 2,
-        "team": "Buffalo Bills",
-        "player": "T.J. Parker",
-        "position": "EDGE",
-        "school": "",
-        "note": "Trade: From TEN"
-      },
-      {
-        "pick": 36,
-        "round": 2,
-        "team": "Houston Texans",
-        "player": "Kayden McDonald",
-        "position": "DT",
-        "school": "",
-        "note": "Trade: From LV"
-      },
-      {
-        "pick": 37,
-        "round": 2,
-        "team": "New York Giants",
-        "player": "Colton Hood",
-        "position": "CB",
-        "school": "",
-        "note": ""
-      },
-      {
-        "pick": 38,
-        "round": 2,
-        "team": "Las Vegas Raiders",
-        "player": "Treydan Stukes",
-        "position": "S",
-        "school": "",
-        "note": "Trade: From WSH via HOU"
-      },
-      {
-        "pick": 39,
-        "round": 2,
-        "team": "Cleveland Browns",
-        "player": "Denzel Boston",
-        "position": "WR",
-        "school": "",
-        "note": ""
-      },
-      {
-        "pick": 40,
-        "round": 2,
-        "team": "Kansas City Chiefs",
-        "player": "R Mason Thomas",
-        "position": "EDGE",
-        "school": "",
-        "note": ""
-      },
-      {
-        "pick": 41,
-        "round": 2,
-        "team": "Cincinnati Bengals",
-        "player": "Cashius Howell",
-        "position": "EDGE",
-        "school": "",
-        "note": ""
-      },
-      {
-        "pick": 42,
-        "round": 2,
-        "team": "New Orleans Saints",
-        "player": "Christen Miller",
-        "position": "DT",
-        "school": "",
-        "note": ""
-      },
-      {
-        "pick": 43,
-        "round": 2,
-        "team": "Miami Dolphins",
-        "player": "Jacob Rodriguez",
-        "position": "LB",
-        "school": "",
-        "note": ""
-      },
-      {
-        "pick": 44,
-        "round": 2,
-        "team": "Detroit Lions",
-        "player": "Derrick Moore",
-        "position": "EDGE",
-        "school": "",
-        "note": "Trade: From DAL via NYJ"
-      },
-      {
-        "pick": 45,
-        "round": 2,
-        "team": "Baltimore Ravens",
-        "player": "Zion Young",
-        "position": "EDGE",
-        "school": "",
-        "note": ""
-      },
-      {
-        "pick": 46,
-        "round": 2,
-        "team": "Tampa Bay Buccaneers",
-        "player": "Josiah Trotter",
-        "position": "LB",
-        "school": "",
-        "note": ""
-      },
-      {
-        "pick": 47,
-        "round": 2,
-        "team": "Pittsburgh Steelers",
-        "player": "Germie Bernard",
-        "position": "WR",
-        "school": "",
-        "note": "Trade: From IND"
-      },
-      {
-        "pick": 48,
-        "round": 2,
-        "team": "Atlanta Falcons",
-        "player": "Avieon Terrell",
-        "position": "CB",
-        "school": "",
-        "note": ""
-      },
-      {
-        "pick": 49,
-        "round": 2,
-        "team": "Carolina Panthers",
-        "player": "Lee Hunter",
-        "position": "DT",
-        "school": "",
-        "note": "Trade: From MIN"
-      },
-      {
-        "pick": 50,
-        "round": 2,
-        "team": "New York Jets",
-        "player": "D'Angelo Ponds",
-        "position": "CB",
-        "school": "",
-        "note": "Trade: From DET"
-      },
-      {
-        "pick": 51,
-        "round": 2,
-        "team": "Minnesota Vikings",
-        "player": "Jake Golday",
-        "position": "LB",
-        "school": "",
-        "note": "Trade: From CAR"
-      },
-      {
-        "pick": 52,
-        "round": 2,
-        "team": "Green Bay Packers",
-        "player": "Brandon Cisse",
-        "position": "CB",
-        "school": "",
-        "note": ""
-      },
-      {
-        "pick": 53,
-        "round": 2,
-        "team": "Indianapolis Colts",
-        "player": "CJ Allen",
-        "position": "LB",
-        "school": "",
-        "note": "Trade: From PIT"
-      },
-      {
-        "pick": 54,
-        "round": 2,
-        "team": "Philadelphia Eagles",
-        "player": "Eli Stowers",
-        "position": "TE",
-        "school": "",
-        "note": ""
-      },
-      {
-        "pick": 55,
-        "round": 2,
-        "team": "New England Patriots",
-        "player": "Gabe Jacas",
-        "position": "EDGE",
-        "school": "",
-        "note": "Trade: From LAC"
-      },
-      {
-        "pick": 56,
-        "round": 2,
-        "team": "Jacksonville Jaguars",
-        "player": "Nate Boerkircher",
-        "position": "TE",
-        "school": "",
-        "note": ""
-      },
-      {
-        "pick": 57,
-        "round": 2,
-        "team": "Chicago Bears",
-        "player": "Logan Jones",
-        "position": "C",
-        "school": "",
-        "note": ""
-      },
-      {
-        "pick": 58,
-        "round": 2,
-        "team": "Cleveland Browns",
-        "player": "Emmanuel McNeil-Warren",
-        "position": "S",
-        "school": "",
-        "note": "Trade: From SF"
-      },
-      {
-        "pick": 59,
-        "round": 2,
-        "team": "Houston Texans",
-        "player": "Marlin Klein",
-        "position": "TE",
-        "school": "",
-        "note": ""
-      },
-      {
-        "pick": 60,
-        "round": 2,
-        "team": "Tennessee Titans",
-        "player": "Anthony Hill Jr.",
-        "position": "LB",
-        "school": "",
-        "note": "Trade: From BUF via CHI"
-      },
-      {
-        "pick": 61,
-        "round": 2,
-        "team": "Los Angeles Rams",
-        "player": "Max Klare",
-        "position": "TE",
-        "school": "",
-        "note": ""
-      },
-      {
-        "pick": 62,
-        "round": 2,
-        "team": "Buffalo Bills",
-        "player": "Davison Igbinosun",
-        "position": "CB",
-        "school": "",
-        "note": "Trade: From DEN"
-      },
-      {
-        "pick": 63,
-        "round": 2,
-        "team": "Los Angeles Chargers",
-        "player": "Jake Slaughter",
-        "position": "C",
-        "school": "",
-        "note": "Trade: From NE"
-      },
-      {
-        "pick": 64,
-        "round": 2,
-        "team": "Seattle Seahawks",
-        "player": "Bud Clark",
-        "position": "S",
-        "school": "",
-        "note": ""
-      },
-      {
-        "pick": 65,
-        "round": 3,
-        "team": "Arizona Cardinals",
-        "player": "Carson Beck",
-        "position": "QB",
-        "school": "",
-        "note": ""
-      },
-      {
-        "pick": 66,
-        "round": 3,
-        "team": "Denver Broncos",
-        "player": "Tyler Onyedim",
-        "position": "DT",
-        "school": "",
-        "note": "Trade: From TEN via BUF"
-      },
-      {
-        "pick": 67,
-        "round": 3,
-        "team": "Las Vegas Raiders",
-        "player": "Keyron Crawford",
-        "position": "EDGE",
-        "school": "",
-        "note": ""
-      },
-      {
-        "pick": 68,
-        "round": 3,
-        "team": "Philadelphia Eagles",
-        "player": "Markel Bell",
-        "position": "OT",
-        "school": "",
-        "note": "Trade: From NYJ"
-      },
-      {
-        "pick": 69,
-        "round": 3,
-        "team": "Chicago Bears",
-        "player": "Sam Roush",
-        "position": "TE",
-        "school": "",
-        "note": "Trade: From NYG via HOU, BUF and TEN"
-      },
-      {
-        "pick": 70,
-        "round": 3,
-        "team": "San Francisco 49ers",
-        "player": "Romello Height",
-        "position": "EDGE",
-        "school": "",
-        "note": "Trade: From CLE"
-      },
-      {
-        "pick": 71,
-        "round": 3,
-        "team": "Washington Commanders",
-        "player": "Antonio Williams",
-        "position": "WR",
-        "school": "",
-        "note": ""
-      },
-      {
-        "pick": 72,
-        "round": 3,
-        "team": "Cincinnati Bengals",
-        "player": "Tacario Davis",
-        "position": "CB",
-        "school": "",
-        "note": ""
-      },
-      {
-        "pick": 73,
-        "round": 3,
-        "team": "New Orleans Saints",
-        "player": "Oscar Delp",
-        "position": "TE",
-        "school": "",
-        "note": ""
-      },
-      {
-        "pick": 74,
-        "round": 3,
-        "team": "New York Giants",
-        "player": "Malachi Fields",
-        "position": "WR",
-        "school": "",
-        "note": "Trade: From KC via CLE"
-      },
-      {
-        "pick": 75,
-        "round": 3,
-        "team": "Miami Dolphins",
-        "player": "Caleb Douglas",
-        "position": "WR",
-        "school": "",
-        "note": ""
-      },
-      {
-        "pick": 76,
-        "round": 3,
-        "team": "Pittsburgh Steelers",
-        "player": "Drew Allar",
-        "position": "QB",
-        "school": "",
-        "note": "Trade: From DAL"
-      },
-      {
-        "pick": 77,
-        "round": 3,
-        "team": "Green Bay Packers",
-        "player": "Chris McClellan",
-        "position": "DT",
-        "school": "",
-        "note": "Trade: From TB"
-      },
-      {
-        "pick": 78,
-        "round": 3,
-        "team": "Indianapolis Colts",
-        "player": "A.J. Haulcy",
-        "position": "S",
-        "school": "",
-        "note": ""
-      },
-      {
-        "pick": 79,
-        "round": 3,
-        "team": "Atlanta Falcons",
-        "player": "Zachariah Branch",
-        "position": "WR",
-        "school": "",
-        "note": ""
-      },
-      {
-        "pick": 80,
-        "round": 3,
-        "team": "Baltimore Ravens",
-        "player": "Ja'Kobi Lane",
-        "position": "WR",
-        "school": "",
-        "note": ""
-      },
-      {
-        "pick": 81,
-        "round": 3,
-        "team": "Jacksonville Jaguars",
-        "player": "Albert Regis",
-        "position": "DT",
-        "school": "",
-        "note": "Trade: From DET"
-      },
-      {
-        "pick": 82,
-        "round": 3,
-        "team": "Minnesota Vikings",
-        "player": "Domonique Orange",
-        "position": "DT",
-        "school": "",
-        "note": ""
-      },
-      {
-        "pick": 83,
-        "round": 3,
-        "team": "Carolina Panthers",
-        "player": "Chris Brazzell II",
-        "position": "WR",
-        "school": "",
-        "note": ""
-      },
-      {
-        "pick": 84,
-        "round": 3,
-        "team": "Tampa Bay Buccaneers",
-        "player": "Ted Hurst",
-        "position": "WR",
-        "school": "",
-        "note": "Trade: From GB"
-      },
-      {
-        "pick": 85,
-        "round": 3,
-        "team": "Pittsburgh Steelers",
-        "player": "Daylen Everette",
-        "position": "CB",
-        "school": "",
-        "note": ""
-      },
-      {
-        "pick": 86,
-        "round": 3,
-        "team": "Cleveland Browns",
-        "player": "Austin Barber",
-        "position": "OT",
-        "school": "",
-        "note": "Trade: From LAC"
-      },
-      {
-        "pick": 87,
-        "round": 3,
-        "team": "Miami Dolphins",
-        "player": "Will Kacmarek",
-        "position": "TE",
-        "school": "",
-        "note": "Trade: From PHI"
-      },
-      {
-        "pick": 88,
-        "round": 3,
-        "team": "Jacksonville Jaguars",
-        "player": "Emmanuel Pregnon",
-        "position": "OG",
-        "school": "",
-        "note": ""
-      },
-      {
-        "pick": 89,
-        "round": 3,
-        "team": "Chicago Bears",
-        "player": "Zavion Thomas",
-        "position": "WR",
-        "school": "",
-        "note": ""
-      },
-      {
-        "pick": 90,
-        "round": 3,
-        "team": "San Francisco 49ers",
-        "player": "Kaelon Black",
-        "position": "RB",
-        "school": "",
-        "note": "Trade: From HOU via MIA"
-      },
-      {
-        "pick": 91,
-        "round": 3,
-        "team": "Las Vegas Raiders",
-        "player": "Trey Zuhn III",
-        "position": "C",
-        "school": "",
-        "note": "Trade: From BUF via HOU"
-      },
-      {
-        "pick": 92,
-        "round": 3,
-        "team": "Dallas Cowboys",
-        "player": "Jaishawn Barham",
-        "position": "EDGE",
-        "school": "",
-        "note": "Trade: From SF"
-      },
-      {
-        "pick": 93,
-        "round": 3,
-        "team": "Los Angeles Rams",
-        "player": "Keagen Trost",
-        "position": "OT",
-        "school": "",
-        "note": ""
-      },
-      {
-        "pick": 94,
-        "round": 3,
-        "team": "Miami Dolphins",
-        "player": "Chris Bell",
-        "position": "WR",
-        "school": "",
-        "note": "Trade: From DEN"
-      },
-      {
-        "pick": 95,
-        "round": 3,
-        "team": "New England Patriots",
-        "player": "Eli Raridon",
-        "position": "TE",
-        "school": "",
-        "note": ""
-      },
-      {
-        "pick": 96,
-        "round": 3,
-        "team": "Pittsburgh Steelers",
-        "player": "Gennings Dunker",
-        "position": "OT",
-        "school": "",
-        "note": "Trade: From SEA"
-      },
-      {
-        "pick": 97,
-        "round": 3,
-        "team": "Minnesota Vikings",
-        "player": "Caleb Tiernan",
-        "position": "OT",
-        "school": "",
-        "note": "Trade: Compensatory Pick"
-      },
-      {
-        "pick": 98,
-        "round": 3,
-        "team": "Minnesota Vikings",
-        "player": "Jakobe Thomas",
-        "position": "S",
-        "school": "",
-        "note": "Trade: Compensatory Pick (From PHI)"
-      },
-      {
-        "pick": 99,
-        "round": 3,
-        "team": "Seattle Seahawks",
-        "player": "Julian Neal",
-        "position": "CB",
-        "school": "",
-        "note": "Trade: Compensatory Pick (From PIT)"
-      },
-      {
-        "pick": 100,
-        "round": 3,
-        "team": "Jacksonville Jaguars",
-        "player": "Jalen Huskey",
-        "position": "CB",
-        "school": "",
-        "note": "Trade: Compensatory Pick (From DET)"
-      },
-      {
-        "pick": 101,
-        "round": 4,
-        "team": "Las Vegas Raiders",
-        "player": "Jermod McCoy",
-        "position": "CB",
-        "school": "",
-        "note": "Trade: From TEN via BUF"
-      },
-      {
-        "pick": 102,
-        "round": 4,
-        "team": "Buffalo Bills",
-        "player": "Jude Bowry",
-        "position": "OT",
-        "school": "",
-        "note": "Trade: From LV"
-      },
-      {
-        "pick": 103,
-        "round": 4,
-        "team": "New York Jets",
-        "player": "Darrell Jackson Jr.",
-        "position": "DT",
-        "school": "",
-        "note": ""
-      },
-      {
-        "pick": 104,
-        "round": 4,
-        "team": "Arizona Cardinals",
-        "player": "Kaleb Proctor",
-        "position": "DT",
-        "school": "",
-        "note": ""
-      },
-      {
-        "pick": 105,
-        "round": 4,
-        "team": "Los Angeles Chargers",
-        "player": "Brenen Thompson",
-        "position": "WR",
-        "school": "",
-        "note": "Trade: From NYG via CLE"
-      },
-      {
-        "pick": 106,
-        "round": 4,
-        "team": "Houston Texans",
-        "player": "Febechi Nwaiwu",
-        "position": "OG",
-        "school": "",
-        "note": "Trade: From WSH"
-      },
-      {
-        "pick": 107,
-        "round": 4,
-        "team": "San Francisco 49ers",
-        "player": "Gracen Halton",
-        "position": "DT",
-        "school": "",
-        "note": "Trade: From CLE"
-      },
-      {
-        "pick": 108,
-        "round": 4,
-        "team": "Denver Broncos",
-        "player": "Jonah Coleman",
-        "position": "RB",
-        "school": "",
-        "note": "Trade: From NO"
-      },
-      {
-        "pick": 109,
-        "round": 4,
-        "team": "Kansas City Chiefs",
-        "player": "Jadon Canady",
-        "position": "S",
-        "school": "",
-        "note": ""
-      },
-      {
-        "pick": 110,
-        "round": 4,
-        "team": "New York Jets",
-        "player": "Cade Klubnik",
-        "position": "QB",
-        "school": "",
-        "note": "Trade: From CIN"
-      },
-      {
-        "pick": 111,
-        "round": 4,
-        "team": "Denver Broncos",
-        "player": "Kage Casey",
-        "position": "OT",
-        "school": "",
-        "note": "Trade: From MIA"
-      },
-      {
-        "pick": 112,
-        "round": 4,
-        "team": "Dallas Cowboys",
-        "player": "Drew Shelton",
-        "position": "OT",
-        "school": "",
-        "note": ""
-      },
-      {
-        "pick": 113,
-        "round": 4,
-        "team": "Indianapolis Colts",
-        "player": "Jalen Farmer",
-        "position": "OG",
-        "school": "",
-        "note": ""
-      },
-      {
-        "pick": 114,
-        "round": 4,
-        "team": "Dallas Cowboys",
-        "player": "Devin Moore",
-        "position": "CB",
-        "school": "",
-        "note": "Trade: From ATL via PHI"
-      },
-      {
-        "pick": 115,
-        "round": 4,
-        "team": "Baltimore Ravens",
-        "player": "Elijah Sarratt",
-        "position": "WR",
-        "school": "",
-        "note": ""
-      },
-      {
-        "pick": 116,
-        "round": 4,
-        "team": "Tampa Bay Buccaneers",
-        "player": "Keionte Scott",
-        "position": "CB",
-        "school": "",
-        "note": ""
-      },
-      {
-        "pick": 117,
-        "round": 4,
-        "team": "Los Angeles Chargers",
-        "player": "Travis Burke",
-        "position": "OT",
-        "school": "",
-        "note": "Trade: From MIN via JAX, LV and HOU"
-      },
-      {
-        "pick": 118,
-        "round": 4,
-        "team": "Detroit Lions",
-        "player": "Jimmy Rolder",
-        "position": "LB",
-        "school": "",
-        "note": ""
-      },
-      {
-        "pick": 119,
-        "round": 4,
-        "team": "Jacksonville Jaguars",
-        "player": "Wesley Williams",
-        "position": "EDGE",
-        "school": "",
-        "note": "Trade: From CAR"
-      },
-      {
-        "pick": 120,
-        "round": 4,
-        "team": "Green Bay Packers",
-        "player": "Dani Dennis-Sutton",
-        "position": "EDGE",
-        "school": "",
-        "note": ""
-      },
-      {
-        "pick": 121,
-        "round": 4,
-        "team": "Pittsburgh Steelers",
-        "player": "Kaden Wetjen",
-        "position": "WR",
-        "school": "",
-        "note": ""
-      },
-      {
-        "pick": 122,
-        "round": 4,
-        "team": "Las Vegas Raiders",
-        "player": "Mike Washington Jr.",
-        "position": "RB",
-        "school": "",
-        "note": "Trade: From PHI via ATL"
-      },
-      {
-        "pick": 123,
-        "round": 4,
-        "team": "Houston Texans",
-        "player": "Wade Woodaz",
-        "position": "LB",
-        "school": "",
-        "note": "Trade: From LAC"
-      },
-      {
-        "pick": 124,
-        "round": 4,
-        "team": "Chicago Bears",
-        "player": "Malik Muhammad",
-        "position": "CB",
-        "school": "",
-        "note": "Trade: From JAX via CAR"
-      },
-      {
-        "pick": 125,
-        "round": 4,
-        "team": "Buffalo Bills",
-        "player": "Skyler Bell",
-        "position": "WR",
-        "school": "",
-        "note": "Trade: From CHI via KC and NE"
-      },
-      {
-        "pick": 126,
-        "round": 4,
-        "team": "Buffalo Bills",
-        "player": "Kaleb Elarms-Orr",
-        "position": "LB",
-        "school": "",
-        "note": ""
-      },
-      {
-        "pick": 127,
-        "round": 4,
-        "team": "San Francisco 49ers",
-        "player": "Carver Willis",
-        "position": "OT",
-        "school": "",
-        "note": ""
-      },
-      {
-        "pick": 128,
-        "round": 4,
-        "team": "Cincinnati Bengals",
-        "player": "Connor Lew",
-        "position": "C",
-        "school": "",
-        "note": "Trade: From HOU via DET and NYJ"
-      },
-      {
-        "pick": 129,
-        "round": 4,
-        "team": "Carolina Panthers",
-        "player": "Will Lee III",
-        "position": "CB",
-        "school": "",
-        "note": "Trade: From LAR via CHI"
-      },
-      {
-        "pick": 130,
-        "round": 4,
-        "team": "Miami Dolphins",
-        "player": "Trey Moore",
-        "position": "EDGE",
-        "school": "",
-        "note": "Trade: From DEN"
-      },
-      {
-        "pick": 131,
-        "round": 4,
-        "team": "Los Angeles Chargers",
-        "player": "Genesis Smith",
-        "position": "S",
-        "school": "",
-        "note": "Trade: From NE"
-      },
-      {
-        "pick": 132,
-        "round": 4,
-        "team": "New Orleans Saints",
-        "player": "Jeremiah Wright",
-        "position": "OG",
-        "school": "",
-        "note": "Trade: From SEA"
-      },
-      {
-        "pick": 133,
-        "round": 4,
-        "team": "Baltimore Ravens",
-        "player": "Matthew Hibner",
-        "position": "TE",
-        "school": "",
-        "note": "Trade: Compensatory Pick (From SF)"
-      },
-      {
-        "pick": 134,
-        "round": 4,
-        "team": "Atlanta Falcons",
-        "player": "Kendal Daniels",
-        "position": "LB",
-        "school": "",
-        "note": "Trade: Compensatory Pick (From LV)"
-      },
-      {
-        "pick": 135,
-        "round": 4,
-        "team": "Indianapolis Colts",
-        "player": "Bryce Boettcher",
-        "position": "LB",
-        "school": "",
-        "note": "Trade: Compensatory Pick (From PIT)"
-      },
-      {
-        "pick": 136,
-        "round": 4,
-        "team": "New Orleans Saints",
-        "player": "Bryce Lance",
-        "position": "WR",
-        "school": "",
-        "note": "Trade: Compensatory Pick"
-      },
-      {
-        "pick": 137,
-        "round": 4,
-        "team": "Dallas Cowboys",
-        "player": "LT Overton",
-        "position": "EDGE",
-        "school": "",
-        "note": "Trade: Compensatory Pick (From PHI)"
-      },
-      {
-        "pick": 138,
-        "round": 4,
-        "team": "Miami Dolphins",
-        "player": "Kyle Louis",
-        "position": "LB",
-        "school": "",
-        "note": "Trade: Compensatory Pick (From SF)"
-      },
-      {
-        "pick": 139,
-        "round": 4,
-        "team": "San Francisco 49ers",
-        "player": "Ephesians Prysock",
-        "position": "CB",
-        "school": "",
-        "note": "Trade: Compensatory Pick"
-      },
-      {
-        "pick": 140,
-        "round": 4,
-        "team": "Cincinnati Bengals",
-        "player": "Colbie Young",
-        "position": "WR",
-        "school": "",
-        "note": "Trade: Compensatory Pick (From NYJ)"
-      },
-      {
-        "pick": 141,
-        "round": 5,
-        "team": "Houston Texans",
-        "player": "Kamari Ramsey",
-        "position": "S",
-        "school": "",
-        "note": "Trade: From LV via CLE"
-      },
-      {
-        "pick": 142,
-        "round": 5,
-        "team": "Tennessee Titans",
-        "player": "Fernando Carmona",
-        "position": "OG",
-        "school": "",
-        "note": "Trade: From NYJ via BAL"
-      },
-      {
-        "pick": 143,
-        "round": 5,
-        "team": "Arizona Cardinals",
-        "player": "Reggie Virgil",
-        "position": "WR",
-        "school": "",
-        "note": ""
-      },
-      {
-        "pick": 144,
-        "round": 5,
-        "team": "Carolina Panthers",
-        "player": "Sam Hecht",
-        "position": "C",
-        "school": "",
-        "note": "Trade: From TEN via LAR, TEN and CHI"
-      },
-      {
-        "pick": 145,
-        "round": 5,
-        "team": "Los Angeles Chargers",
-        "player": "Nick Barrett",
-        "position": "DT",
-        "school": "",
-        "note": "Trade: From NYG via CLE"
-      },
-      {
-        "pick": 146,
-        "round": 5,
-        "team": "Cleveland Browns",
-        "player": "Parker Brailsford",
-        "position": "C",
-        "school": "",
-        "note": ""
-      },
-      {
-        "pick": 147,
-        "round": 5,
-        "team": "Washington Commanders",
-        "player": "Joshua Josephs",
-        "position": "EDGE",
-        "school": "",
-        "note": ""
-      },
-      {
-        "pick": 148,
-        "round": 5,
-        "team": "Seattle Seahawks",
-        "player": "Beau Stephens",
-        "position": "OG",
-        "school": "",
-        "note": "Trade: From KC via CLE"
-      },
-      {
-        "pick": 149,
-        "round": 5,
-        "team": "Cleveland Browns",
-        "player": "Justin Jefferson",
-        "position": "LB",
-        "school": "",
-        "note": "Trade: From CIN"
-      },
-      {
-        "pick": 150,
-        "round": 5,
-        "team": "Las Vegas Raiders",
-        "player": "Dalton Johnson",
-        "position": "S",
-        "school": "",
-        "note": "Trade: From NO"
-      },
-      {
-        "pick": 151,
-        "round": 5,
-        "team": "Carolina Panthers",
-        "player": "Zakee Wheatley",
-        "position": "S",
-        "school": "",
-        "note": "Trade: From MIA"
-      },
-      {
-        "pick": 152,
-        "round": 5,
-        "team": "Denver Broncos",
-        "player": "Justin Joly",
-        "position": "TE",
-        "school": "",
-        "note": "Trade: From DAL via SF and CLE"
-      },
-      {
-        "pick": 153,
-        "round": 5,
-        "team": "Green Bay Packers",
-        "player": "Jager Burton",
-        "position": "C",
-        "school": "",
-        "note": "Trade: From ATL via PHI"
-      },
-      {
-        "pick": 154,
-        "round": 5,
-        "team": "San Francisco 49ers",
-        "player": "Jaden Dugger",
-        "position": "LB",
-        "school": "",
-        "note": "Trade: From BAL"
-      },
-      {
-        "pick": 155,
-        "round": 5,
-        "team": "Tampa Bay Buccaneers",
-        "player": "DeMonte Capehart",
-        "position": "DT",
-        "school": "",
-        "note": ""
-      },
-      {
-        "pick": 156,
-        "round": 5,
-        "team": "Indianapolis Colts",
-        "player": "George Gumbs Jr.",
-        "position": "EDGE",
-        "school": "",
-        "note": ""
-      },
-      {
-        "pick": 157,
-        "round": 5,
-        "team": "Detroit Lions",
-        "player": "Keith Abney II",
-        "position": "CB",
-        "school": "",
-        "note": ""
-      },
-      {
-        "pick": 158,
-        "round": 5,
-        "team": "Miami Dolphins",
-        "player": "Michael Taaffe",
-        "position": "S",
-        "school": "",
-        "note": "Trade: From MIN via CAR"
-      },
-      {
-        "pick": 159,
-        "round": 5,
-        "team": "Minnesota Vikings",
-        "player": "Max Bredeson",
-        "position": "TE",
-        "school": "",
-        "note": "Trade: From CAR"
-      },
-      {
-        "pick": 160,
-        "round": 5,
-        "team": "Tampa Bay Buccaneers",
-        "player": "Billy Schrauth",
-        "position": "OG",
-        "school": "",
-        "note": "Trade: From GB"
-      },
-      {
-        "pick": 161,
-        "round": 5,
-        "team": "Kansas City Chiefs",
-        "player": "Emmett Johnson",
-        "position": "RB",
-        "school": "",
-        "note": "Trade: From PIT"
-      },
-      {
-        "pick": 162,
-        "round": 5,
-        "team": "Baltimore Ravens",
-        "player": "Chandler Rivers",
-        "position": "CB",
-        "school": "",
-        "note": "Trade: From LAC"
-      },
-      {
-        "pick": 163,
-        "round": 5,
-        "team": "Minnesota Vikings",
-        "player": "Charles Demmings",
-        "position": "CB",
-        "school": "",
-        "note": "Trade: From PHI"
-      },
-      {
-        "pick": 164,
-        "round": 5,
-        "team": "Jacksonville Jaguars",
-        "player": "Tanner Koziol",
-        "position": "TE",
-        "school": "",
-        "note": ""
-      },
-      {
-        "pick": 165,
-        "round": 5,
-        "team": "Tennessee Titans",
-        "player": "Nicholas Singleton",
-        "position": "RB",
-        "school": "",
-        "note": "Trade: From CHI via BUF"
-      },
-      {
-        "pick": 166,
-        "round": 5,
-        "team": "Chicago Bears",
-        "player": "Keyshaun Elliott",
-        "position": "LB",
-        "school": "",
-        "note": "Trade: From SF via PHI, JAX and CAR"
-      },
-      {
-        "pick": 167,
-        "round": 5,
-        "team": "Buffalo Bills",
-        "player": "Jalon Kilgore",
-        "position": "S",
-        "school": "",
-        "note": "Trade: From HOU via PHI and HOU"
-      },
-      {
-        "pick": 168,
-        "round": 5,
-        "team": "Detroit Lions",
-        "player": "Kendrick Law",
-        "position": "WR",
-        "school": "",
-        "note": "Trade: From BUF"
-      },
-      {
-        "pick": 169,
-        "round": 5,
-        "team": "Pittsburgh Steelers",
-        "player": "Riley Nowakowski",
-        "position": "TE",
-        "school": "",
-        "note": "Trade: From LAR via KC"
-      },
-      {
-        "pick": 170,
-        "round": 5,
-        "team": "Cleveland Browns",
-        "player": "Joe Royer",
-        "position": "TE",
-        "school": "",
-        "note": "Trade: From DEN"
-      },
-      {
-        "pick": 171,
-        "round": 5,
-        "team": "New England Patriots",
-        "player": "Karon Prunty",
-        "position": "CB",
-        "school": "",
-        "note": ""
-      },
-      {
-        "pick": 172,
-        "round": 5,
-        "team": "New Orleans Saints",
-        "player": "Lorenzo Styles Jr.",
-        "position": "S",
-        "school": "",
-        "note": "Trade: From SEA"
-      },
-      {
-        "pick": 173,
-        "round": 5,
-        "team": "Baltimore Ravens",
-        "player": "Josh Cuevas",
-        "position": "TE",
-        "school": "",
-        "note": "Trade: Compensatory Pick"
-      },
-      {
-        "pick": 174,
-        "round": 5,
-        "team": "Baltimore Ravens",
-        "player": "Adam Randall",
-        "position": "RB",
-        "school": "",
-        "note": "Trade: Compensatory Pick"
-      },
-      {
-        "pick": 175,
-        "round": 5,
-        "team": "Las Vegas Raiders",
-        "player": "Hezekiah Masses",
-        "position": "CB",
-        "school": "",
-        "note": "Trade: Compensatory Pick"
-      },
-      {
-        "pick": 176,
-        "round": 5,
-        "team": "Kansas City Chiefs",
-        "player": "Cyrus Allen",
-        "position": "WR",
-        "school": "",
-        "note": "Trade: Compensatory Pick"
-      },
-      {
-        "pick": 177,
-        "round": 5,
-        "team": "Miami Dolphins",
-        "player": "Kevin Coleman Jr.",
-        "position": "WR",
-        "school": "",
-        "note": "Trade: Compensatory Pick (From DAL)"
-      },
-      {
-        "pick": 178,
-        "round": 5,
-        "team": "Philadelphia Eagles",
-        "player": "Cole Payton",
-        "position": "QB",
-        "school": "",
-        "note": "Trade: Compensatory Pick"
-      },
-      {
-        "pick": 179,
-        "round": 5,
-        "team": "San Francisco 49ers",
-        "player": "Enrique Cruz Jr.",
-        "position": "OT",
-        "school": "",
-        "note": "Trade: Compensatory Pick (From NYJ)"
-      },
-      {
-        "pick": 180,
-        "round": 5,
-        "team": "Miami Dolphins",
-        "player": "Seydou Traore",
-        "position": "TE",
-        "school": "",
-        "note": "Trade: Compensatory Pick (From DAL)"
-      },
-      {
-        "pick": 181,
-        "round": 5,
-        "team": "Buffalo Bills",
-        "player": "Zane Durant",
-        "position": "DT",
-        "school": "",
-        "note": "Trade: Compensatory Pick (From DET)"
-      },
-      {
-        "pick": 182,
-        "round": 6,
-        "team": "Cleveland Browns",
-        "player": "Taylen Green",
-        "position": "QB",
-        "school": "",
-        "note": "Trade: From NYJ via CLE, JAX, LV, BUF and DEN"
-      },
-      {
-        "pick": 183,
-        "round": 6,
-        "team": "Arizona Cardinals",
-        "player": "Karson Sharar",
-        "position": "LB",
-        "school": "",
-        "note": ""
-      },
-      {
-        "pick": 184,
-        "round": 6,
-        "team": "Tennessee Titans",
-        "player": "Jackie Marshall",
-        "position": "DT",
-        "school": "",
-        "note": ""
-      },
-      {
-        "pick": 185,
-        "round": 6,
-        "team": "Tampa Bay Buccaneers",
-        "player": "Bauer Sharp",
-        "position": "TE",
-        "school": "",
-        "note": "Trade: From LV"
-      },
-      {
-        "pick": 186,
-        "round": 6,
-        "team": "New York Giants",
-        "player": "Bobby Jamison-Travis",
-        "position": "DT",
-        "school": "",
-        "note": ""
-      },
-      {
-        "pick": 187,
-        "round": 6,
-        "team": "Washington Commanders",
-        "player": "Kaytron Allen",
-        "position": "RB",
-        "school": "",
-        "note": ""
-      },
-      {
-        "pick": 188,
-        "round": 6,
-        "team": "New York Jets",
-        "player": "Anez Cooper",
-        "position": "OG",
-        "school": "",
-        "note": "Trade: From CLE via SEA"
-      },
-      {
-        "pick": 189,
-        "round": 6,
-        "team": "Cincinnati Bengals",
-        "player": "Brian Parker II",
-        "position": "C",
-        "school": "",
-        "note": ""
-      },
-      {
-        "pick": 190,
-        "round": 6,
-        "team": "New Orleans Saints",
-        "player": "Barion Brown",
-        "position": "WR",
-        "school": "",
-        "note": ""
-      },
-      {
-        "pick": 191,
-        "round": 6,
-        "team": "Jacksonville Jaguars",
-        "player": "Josh Cameron",
-        "position": "WR",
-        "school": "",
-        "note": "Trade: From KC via NE"
-      },
-      {
-        "pick": 192,
-        "round": 6,
-        "team": "New York Giants",
-        "player": "J.C. Davis",
-        "position": "OT",
-        "school": "",
-        "note": "Trade: From MIA"
-      },
-      {
-        "pick": 193,
-        "round": 6,
-        "team": "New York Giants",
-        "player": "Jack Kelly",
-        "position": "LB",
-        "school": "",
-        "note": "Trade: From DAL"
-      },
-      {
-        "pick": 194,
-        "round": 6,
-        "team": "Tennessee Titans",
-        "player": "Pat Coogan",
-        "position": "C",
-        "school": "",
-        "note": "Trade: From BAL via NYJ"
-      },
-      {
-        "pick": 195,
-        "round": 6,
-        "team": "Las Vegas Raiders",
-        "player": "Malik Benson",
-        "position": "WR",
-        "school": "",
-        "note": "Trade: From TB"
-      },
-      {
-        "pick": 196,
-        "round": 6,
-        "team": "New England Patriots",
-        "player": "Dametrious Crownover",
-        "position": "OT",
-        "school": "",
-        "note": "Trade: From IND via MIN, CAR and JAX"
-      },
-      {
-        "pick": 197,
-        "round": 6,
-        "team": "Los Angeles Rams",
-        "player": "CJ Daniels",
-        "position": "WR",
-        "school": "",
-        "note": "Trade: From ATL via PHI"
-      },
-      {
-        "pick": 198,
-        "round": 6,
-        "team": "Minnesota Vikings",
-        "player": "Demond Claiborne",
-        "position": "RB",
-        "school": "",
-        "note": "Trade: From MIN via HOU, MIN, SF and NE"
-      },
-      {
-        "pick": 199,
-        "round": 6,
-        "team": "Seattle Seahawks",
-        "player": "Emmanuel Henderson Jr.",
-        "position": "WR",
-        "school": "",
-        "note": "Trade: From DET via CLE, CIN and NYJ"
-      },
-      {
-        "pick": 200,
-        "round": 6,
-        "team": "Miami Dolphins",
-        "player": "DJ Campbell",
-        "position": "OG",
-        "school": "",
-        "note": "Trade: From CAR"
-      },
-      {
-        "pick": 201,
-        "round": 6,
-        "team": "Green Bay Packers",
-        "player": "Domani Jackson",
-        "position": "CB",
-        "school": "",
-        "note": ""
-      },
-      {
-        "pick": 202,
-        "round": 6,
-        "team": "Los Angeles Chargers",
-        "player": "Logan Taylor",
-        "position": "OG",
-        "school": "",
-        "note": "Trade: From PIT via NE"
-      },
-      {
-        "pick": 203,
-        "round": 6,
-        "team": "Jacksonville Jaguars",
-        "player": "CJ Williams",
-        "position": "WR",
-        "school": "",
-        "note": "Trade: From PHI via HOU and PHI"
-      },
-      {
-        "pick": 204,
-        "round": 6,
-        "team": "Houston Texans",
-        "player": "Lewis Bond",
-        "position": "WR",
-        "school": "",
-        "note": "Trade: From LAC"
-      },
-      {
-        "pick": 205,
-        "round": 6,
-        "team": "Detroit Lions",
-        "player": "Skyler Gill-Howard",
-        "position": "DT",
-        "school": "",
-        "note": "Trade: From JAX"
-      },
-      {
-        "pick": 206,
-        "round": 6,
-        "team": "Los Angeles Chargers",
-        "player": "Alex Harkey",
-        "position": "OG",
-        "school": "",
-        "note": "Trade: From CHI via CLE"
-      },
-      {
-        "pick": 207,
-        "round": 6,
-        "team": "Philadelphia Eagles",
-        "player": "Micah Morris",
-        "position": "OG",
-        "school": "",
-        "note": "Trade: From HOU via LAR, TEN and LAR"
-      },
-      {
-        "pick": 208,
-        "round": 6,
-        "team": "Atlanta Falcons",
-        "player": "Anterio Thompson",
-        "position": "DT",
-        "school": "",
-        "note": "Trade: From BUF via NYJ and LV"
-      },
-      {
-        "pick": 209,
-        "round": 6,
-        "team": "Washington Commanders",
-        "player": "Matt Gulbin",
-        "position": "C",
-        "school": "",
-        "note": "Trade: From SF"
-      },
-      {
-        "pick": 210,
-        "round": 6,
-        "team": "Pittsburgh Steelers",
-        "player": "Gabriel Rubio",
-        "position": "DT",
-        "school": "",
-        "note": "Trade: From LAR via KC"
-      },
-      {
-        "pick": 211,
-        "round": 6,
-        "team": "Baltimore Ravens",
-        "player": "Ryan Eckley",
-        "position": "P",
-        "school": "",
-        "note": "Trade: From DEN via NYJ, MIN, and PHI"
-      },
-      {
-        "pick": 212,
-        "round": 6,
-        "team": "New England Patriots",
-        "player": "Namdi Obiazor",
-        "position": "LB",
-        "school": "",
-        "note": ""
-      },
-      {
-        "pick": 213,
-        "round": 6,
-        "team": "Chicago Bears",
-        "player": "Jordan Van den Berg",
-        "position": "DT",
-        "school": "",
-        "note": "Trade: From SEA via JAX, DET and BUF"
-      },
-      {
-        "pick": 214,
-        "round": 6,
-        "team": "Indianapolis Colts",
-        "player": "Caden Curry",
-        "position": "EDGE",
-        "school": "",
-        "note": "Trade: Compensatory Pick (From PIT)"
-      },
-      {
-        "pick": 215,
-        "round": 6,
-        "team": "Atlanta Falcons",
-        "player": "Harold Perkins Jr.",
-        "position": "LB",
-        "school": "",
-        "note": "Trade: Compensatory Pick (From PHI)"
-      },
-      {
-        "pick": 216,
-        "round": 6,
-        "team": "Green Bay Packers",
-        "player": "Trey Smack",
-        "position": "PK",
-        "school": "",
-        "note": "Trade: Compensatory Pick (From PIT via SEA)"
-      },
-      {
-        "pick": 217,
-        "round": 7,
-        "team": "Arizona Cardinals",
-        "player": "Jayden Williams",
-        "position": "OT",
-        "school": "",
-        "note": ""
-      },
-      {
-        "pick": 218,
-        "round": 7,
-        "team": "Dallas Cowboys",
-        "player": "Anthony Smith",
-        "position": "WR",
-        "school": "",
-        "note": "Trade: From TEN"
-      },
-      {
-        "pick": 219,
-        "round": 7,
-        "team": "New Orleans Saints",
-        "player": "TJ Hall",
-        "position": "CB",
-        "school": "",
-        "note": "Trade: From LV"
-      },
-      {
-        "pick": 220,
-        "round": 7,
-        "team": "Buffalo Bills",
-        "player": "Toriano Pride Jr.",
-        "position": "CB",
-        "school": "",
-        "note": "Trade: From NYJ"
-      },
-      {
-        "pick": 221,
-        "round": 7,
-        "team": "Cincinnati Bengals",
-        "player": "Jack Endries",
-        "position": "TE",
-        "school": "",
-        "note": "Trade: From NYG via DAL"
-      },
-      {
-        "pick": 222,
-        "round": 7,
-        "team": "Detroit Lions",
-        "player": "Tyre West",
-        "position": "EDGE",
-        "school": "",
-        "note": "Trade: From CLE"
-      },
-      {
-        "pick": 223,
-        "round": 7,
-        "team": "Washington Commanders",
-        "player": "Athan Kaliakmanis",
-        "position": "QB",
-        "school": "",
-        "note": ""
-      },
-      {
-        "pick": 224,
-        "round": 7,
-        "team": "Pittsburgh Steelers",
-        "player": "Robert Spears-Jennings",
-        "position": "S",
-        "school": "",
-        "note": "Trade: From NO via NE"
-      },
-      {
-        "pick": 225,
-        "round": 7,
-        "team": "Tennessee Titans",
-        "player": "Jaren Kanak",
-        "position": "TE",
-        "school": "",
-        "note": "Trade: From KC via DAL"
-      },
-      {
-        "pick": 226,
-        "round": 7,
-        "team": "Cincinnati Bengals",
-        "player": "Landon Robinson",
-        "position": "DT",
-        "school": "",
-        "note": ""
-      },
-      {
-        "pick": 227,
-        "round": 7,
-        "team": "Carolina Panthers",
-        "player": "Jackson Kuwatch",
-        "position": "LB",
-        "school": "",
-        "note": "Trade: From MIA"
-      },
-      {
-        "pick": 228,
-        "round": 7,
-        "team": "New York Jets",
-        "player": "VJ Payne",
-        "position": "S",
-        "school": "",
-        "note": "Trade: From DAL via BUF and LV"
-      },
-      {
-        "pick": 229,
-        "round": 7,
-        "team": "Las Vegas Raiders",
-        "player": "Brandon Cleveland",
-        "position": "DT",
-        "school": "",
-        "note": "Trade: From TB"
-      },
-      {
-        "pick": 230,
-        "round": 7,
-        "team": "Pittsburgh Steelers",
-        "player": "Eli Heidenreich",
-        "position": "RB",
-        "school": "",
-        "note": "Trade: From IND"
-      },
-      {
-        "pick": 231,
-        "round": 7,
-        "team": "Atlanta Falcons",
-        "player": "Ethan Onianwa",
-        "position": "OT",
-        "school": "",
-        "note": ""
-      },
-      {
-        "pick": 232,
-        "round": 7,
-        "team": "Los Angeles Rams",
-        "player": "Tim Keenan III",
-        "position": "DT",
-        "school": "",
-        "note": "Trade: From BAL"
-      },
-      {
-        "pick": 233,
-        "round": 7,
-        "team": "Jacksonville Jaguars",
-        "player": "Zach Durfee",
-        "position": "EDGE",
-        "school": "",
-        "note": "Trade: From DET"
-      },
-      {
-        "pick": 234,
-        "round": 7,
-        "team": "New England Patriots",
-        "player": "Behren Morton",
-        "position": "QB",
-        "school": "",
-        "note": "Trade: From MIN"
-      },
-      {
-        "pick": 235,
-        "round": 7,
-        "team": "Minnesota Vikings",
-        "player": "Gavin Gerhardt",
-        "position": "C",
-        "school": "",
-        "note": "Trade: From CAR"
-      },
-      {
-        "pick": 236,
-        "round": 7,
-        "team": "Seattle Seahawks",
-        "player": "Andre Fuller",
-        "position": "CB",
-        "school": "",
-        "note": "Trade: From GB"
-      },
-      {
-        "pick": 237,
-        "round": 7,
-        "team": "Indianapolis Colts",
-        "player": "Seth McGowan",
-        "position": "RB",
-        "school": "",
-        "note": "Trade: From PIT"
-      },
-      {
-        "pick": 238,
-        "round": 7,
-        "team": "Miami Dolphins",
-        "player": "Max Llewellyn",
-        "position": "EDGE",
-        "school": "",
-        "note": "Trade: From LAC via TEN and NYJ"
-      },
-      {
-        "pick": 239,
-        "round": 7,
-        "team": "Buffalo Bills",
-        "player": "Tommy Doman",
-        "position": "P",
-        "school": "",
-        "note": "Trade: From PHI via JAX, CLE and CHI"
-      },
-      {
-        "pick": 240,
-        "round": 7,
-        "team": "Jacksonville Jaguars",
-        "player": "Parker Hughes",
-        "position": "LB",
-        "school": "",
-        "note": ""
-      },
-      {
-        "pick": 241,
-        "round": 7,
-        "team": "Buffalo Bills",
-        "player": "Ar'maj Reed-Adams",
-        "position": "OG",
-        "school": "",
-        "note": "Trade: From CHI"
-      },
-      {
-        "pick": 242,
-        "round": 7,
-        "team": "Seattle Seahawks",
-        "player": "Deven Eastern",
-        "position": "DT",
-        "school": "",
-        "note": "Trade: From BUF via CLE and NYJ"
-      },
-      {
-        "pick": 243,
-        "round": 7,
-        "team": "Houston Texans",
-        "player": "Aiden Fisher",
-        "position": "LB",
-        "school": "",
-        "note": "Trade: From SF"
-      },
-      {
-        "pick": 244,
-        "round": 7,
-        "team": "Philadelphia Eagles",
-        "player": "Cole Wisniewski",
-        "position": "S",
-        "school": "",
-        "note": "Trade: From HOU via MIN"
-      },
-      {
-        "pick": 245,
-        "round": 7,
-        "team": "New England Patriots",
-        "player": "Jam Miller",
-        "position": "RB",
-        "school": "",
-        "note": "Trade: From LAR via HOU and JAX"
-      },
-      {
-        "pick": 246,
-        "round": 7,
-        "team": "Denver Broncos",
-        "player": "Miles Scott",
-        "position": "S",
-        "school": "",
-        "note": ""
-      },
-      {
-        "pick": 247,
-        "round": 7,
-        "team": "New England Patriots",
-        "player": "Quintayvious Hutchins",
-        "position": "EDGE",
-        "school": "",
-        "note": ""
-      },
-      {
-        "pick": 248,
-        "round": 7,
-        "team": "Cleveland Browns",
-        "player": "Carsen Ryan",
-        "position": "TE",
-        "school": "",
-        "note": "Trade: From SEA"
-      },
-      {
-        "pick": 249,
-        "round": 7,
-        "team": "Kansas City Chiefs",
-        "player": "Garrett Nussmeier",
-        "position": "QB",
-        "school": "",
-        "note": "Trade: Compensatory Pick (From IND via PIT)"
-      },
-      {
-        "pick": 250,
-        "round": 7,
-        "team": "Baltimore Ravens",
-        "player": "Rayshaun Benny",
-        "position": "DT",
-        "school": "",
-        "note": "Trade: Compensatory Pick"
-      },
-      {
-        "pick": 251,
-        "round": 7,
-        "team": "Philadelphia Eagles",
-        "player": "Uar Bernard",
-        "position": "DT",
-        "school": "",
-        "note": "Trade: Compensatory Pick (From LAR)"
-      },
-      {
-        "pick": 252,
-        "round": 7,
-        "team": "Philadelphia Eagles",
-        "player": "Keyshawn James-Newby",
-        "position": "EDGE",
-        "school": "",
-        "note": "Trade: Compensatory Pick (From LAR)"
-      },
-      {
-        "pick": 253,
-        "round": 7,
-        "team": "Baltimore Ravens",
-        "player": "Evan Beerntsen",
-        "position": "OG",
-        "school": "",
-        "note": "Trade: Compensatory Pick"
-      },
-      {
-        "pick": 254,
-        "round": 7,
-        "team": "Indianapolis Colts",
-        "player": "Deion Burks",
-        "position": "WR",
-        "school": "",
-        "note": "Trade: Compensatory Pick"
-      },
-      {
-        "pick": 255,
-        "round": 7,
-        "team": "Seattle Seahawks",
-        "player": "Michael Dansby",
-        "position": "CB",
-        "school": "",
-        "note": "Trade: Compensatory Pick (From GB)"
-      },
-      {
-        "pick": 256,
-        "round": 7,
-        "team": "Denver Broncos",
-        "player": "Dallen Bentley",
-        "position": "TE",
-        "school": "",
-        "note": "Trade: Compensatory Pick"
-      },
-      {
-        "pick": 257,
-        "round": 7,
-        "team": "Denver Broncos",
-        "player": "Red Murdock",
-        "position": "LB",
-        "school": "",
-        "note": "Trade: Compensatory Pick"
-      }
-    ],
-    "source": "espn"
-  },
+  "sidebar": [],
   "deals": [],
   "ratings": [],
   "ticket_prices": [],
-  "sidebar": [
-    {
-      "headline": "Conor McGregor teases last dance UFC fight for potential injury return",
-      "source": "NY Post Sports · 1h ago",
-      "article": "Conor McGregor is signaling a potential return to the UFC following a knee injury that ended his last fight in 1:09. The controversial fighter suffered the injury on a jump kick, landing awkwardly and forcing the official to stop the match. McGregor's comments about a \"last dance\" fight suggest he's not ruling out a comeback, though the timeline and opponent remain undetermined. His durability record and star power mean the UFC would likely fast-track any return to the octagon, but sustained knee injuries typically demand months of rehabilitation before clearance to compete."
-    },
-    {
-      "headline": "UConn Coach Geno Auriemma Joins Sportico SportsBusiness",
-      "source": "Sportico · 13h ago",
-      "article": "Geno Auriemma, the legendary women's basketball coach at UConn, is joining Sportico's SportsBusiness platform as a contributor. Auriemma reflected on the dramatic evolution of women's college sports since he was hired in 1985, when the team lacked its own locker room, played in smaller gyms, and drove eight hours for away games. His entry into sports business commentary represents another signal of women's sports gaining institutional authority in media and analysis. For Sportico, the move adds credibility in covering women's basketball and higher education athletics."
-    },
-    {
-      "headline": "UNLV basketball program not for sale: Runnin Rebels coach Josh Pastner walks back wild claim",
-      "source": "CBS Sports · 5h ago",
-      "article": "UNLV basketball coach Josh Pastner retracted an earlier appeal for a $10-12 million buyer for the Runnin Rebels program, clarifying that the team is not, in fact, for sale. Pastner's initial comments had sparked speculation about the program's financial viability and institutional support. His walkback suggests either miscommunication about the program's status or a clarification forced by athletic department leadership. The episode highlights the precarious finances of mid-major college basketball, even at a program with significant market presence in Las Vegas."
-    },
-    {
-      "headline": "Curtis Mead set for Boston debut Monday, could be in good power spot",
-      "source": "CBS Sports · 6h ago",
-      "article": "Curtis Mead, acquired by the Red Sox in a trade, is making his Boston debut tonight against the Athletics. Analysts project Mead could find favorable power opportunities in the Red Sox lineup, depending on his positioning in the batting order. The trade acquisition signals the Red Sox's mid-season adjustments to bolster run production. Mead's performance over the next week will help determine whether the deal addresses a genuine offensive gap or represents a marginal upgrade."
-    },
-    {
-      "headline": "Son of Kansas City Chiefs assistant Eric Bieniemy charged in shooting of his mother",
-      "source": "The Guardian · 14h ago",
-      "article": "Elijah Bieniemy, 27, the son of Kansas City Chiefs offensive coordinator Eric Bieniemy, has been arrested and charged in connection with the shooting of his mother, Mia Bieniemy. Mia Bieniemy sustained multiple gunshot wounds and is reported to be in stable condition. Eric Bieniemy was at Chiefs team camp in Missouri on Sunday. The arrest represents a serious family and legal matter affecting a high-profile NFL coaching staff member during the franchise's offseason."
-    },
-    {
-      "headline": "'Nothing makes sense' - Ramsay-Peaty beaten again",
-      "source": "BBC Sport · 9h ago",
-      "article": "Adam Ramsay-Peaty again settled for bronze at the Commonwealth Games in Glasgow, prompting his frustrated comment that \"nothing makes sense.\" The repeated bronze-medal finishes underscore a competitive struggle at a marquee event, raising questions about Ramsay-Peaty's preparation or fitness. Commonwealth Games medals carry weight in British sports culture, so the result is both personal disappointment and a minor flashpoint in national swimming discourse."
-    }
-  ],
   "poll": {
-    "question": "Which move has the bigger impact on the 2026 NBA stretch run?",
+    "question": "Which sports business story will have the biggest impact this week?",
     "options": [
-      "LeBron James to Philadelphia energizes the 76ers' playoff seeding",
-      "Knicks' financial discipline in passing on LeBron preserves long-term flexibility",
-      "Neither; both teams are positioned for the East Finals regardless",
-      "LeBron's age makes either landing a gamble by April"
+      "Zidane confirmed as new France manager",
+      "LeBrons Reverse Fresh Prince Move Makes Philly the Toas",
+      "YouTube, Fox Sports, Paramount-WBD and more",
+      "Max Scherzer makes successful return on 42nd birthday, "
     ]
   },
-  "predictions": [
-    {
-      "statement": "The Packers will reverse course and sell Lambeau naming rights within three years.",
-      "probability": 28,
-      "rationale": "Community ownership limits the franchise's revenue ceiling, and a major renovation typically forces hard choices. Eventually, the financial pressure will outweigh fan sentiment, especially if other NFL venues continue to ink nine-figure deals."
-    },
-    {
-      "statement": "YouTube's Peacock bundling deal will drive measurable subscriber growth but compress per-user ad revenue.",
-      "probability": 72,
-      "rationale": "Bundling always trades unit economics for reach. YouTube's decision to bundle Peacock suggests both platforms believe scale and cross-promotion offset lower direct revenue. The bet is on ad load and higher-tier upsells to offset the margin squeeze."
-    },
-    {
-      "statement": "LIV Golf's season does not conclude in August 2026.",
-      "probability": 64,
-      "rationale": "Uncertainty around the finale is rarely a sign of operational health. The Saudi PIF's cost-benefit analysis appears to be shifting. A full cancellation or merger announcement is more likely than a clean finish to the current schedule."
-    },
-    {
-      "statement": "Max Scherzer pitches in the majors past age 44.",
-      "probability": 31,
-      "rationale": "His 42nd-birthday return is impressive, but sustainability past 44 requires both health fortune and organizational patience. The Blue Jays may keep him into 2027, but the odds of a multi-year extension or long-term role diminish sharply with each additional year."
-    }
-  ],
-  "injuries": [
-    {
-      "player": "Max Scherzer",
-      "team": "Toronto Blue Jays",
-      "league": "MLB",
-      "position": "SP",
-      "status": "RETURNING",
-      "injury": "Previously injured",
-      "timeline": "Reinstated on April 21",
-      "source": "Sportsnet",
-      "impact": "Blue Jays regain a veteran starting pitcher and can rotate the rotation depth in a tight playoff push.",
-      "storyIndex": 6
-    },
-    {
-      "player": "Conor McGregor",
-      "team": "UFC",
-      "league": "MMA",
-      "position": "",
-      "status": "OUT",
-      "injury": "Right knee injury",
-      "timeline": "Timeline undetermined",
-      "source": "NY Post Sports",
-      "impact": "McGregor is sidelined indefinitely, though he has teased a potential \"last dance\" return fight once cleared.",
-      "storyIndex": 10
-    }
-  ],
+  "predictions": [],
+  "injuries": [],
   "picks": [
+    {
+      "type": "moneyline",
+      "pick": "Detroit Tigers ML",
+      "odds": "-130",
+      "edge": "Market fill from live lines: Detroit Tigers is the books' favorite at -130 (best price @ LowVig.ag) against Baltimore Orioles at +122, with home ice/court/field behind them. No researched edge here — this is a low-confidence market-consensus play added to round out the slate. Low confidence is honest confidence.",
+      "matchup": "Baltimore Orioles @ Detroit Tigers",
+      "league": "MLB",
+      "when": "Today 6:41 PM ET",
+      "confidence": "low",
+      "_autofill": true,
+      "_scheduledTs": 1785278460000,
+      "marketSnapshot": {
+        "capturedAt": "2026-07-28T05:40:06.331Z",
+        "markets": {
+          "h2h": {
+            "away": {
+              "price": 122,
+              "book": "BetUS"
+            },
+            "home": {
+              "price": -130,
+              "book": "LowVig.ag"
+            },
+            "draw": null
+          },
+          "spreads": {
+            "away": {
+              "point": 1.5,
+              "price": -161,
+              "book": "MyBookie.ag"
+            },
+            "home": {
+              "point": -1.5,
+              "price": 150,
+              "book": "LowVig.ag"
+            }
+          },
+          "totals": {
+            "over": {
+              "point": 9,
+              "price": -113,
+              "book": "LowVig.ag"
+            },
+            "under": {
+              "point": 9.5,
+              "price": -115,
+              "book": "Bovada"
+            }
+          }
+        },
+        "awayTeam": "Baltimore Orioles",
+        "homeTeam": "Detroit Tigers"
+      }
+    },
+    {
+      "type": "moneyline",
+      "pick": "Miami Marlins ML",
+      "odds": "-110",
+      "edge": "Market fill from live lines: Miami Marlins is the books' favorite at -110 (best price @ FanDuel) against Philadelphia Phillies at +100, with home ice/court/field behind them. No researched edge here — this is a low-confidence market-consensus play added to round out the slate. Low confidence is honest confidence.",
+      "matchup": "Philadelphia Phillies @ Miami Marlins",
+      "league": "MLB",
+      "when": "Today 6:41 PM ET",
+      "confidence": "low",
+      "_autofill": true,
+      "_scheduledTs": 1785278460000,
+      "marketSnapshot": {
+        "capturedAt": "2026-07-28T05:40:06.332Z",
+        "markets": {
+          "h2h": {
+            "away": {
+              "price": 100,
+              "book": "BetOnline.ag"
+            },
+            "home": {
+              "price": -110,
+              "book": "FanDuel"
+            },
+            "draw": null
+          },
+          "spreads": {
+            "away": {
+              "point": 1.5,
+              "price": -209,
+              "book": "LowVig.ag"
+            },
+            "home": {
+              "point": 1.5,
+              "price": -182,
+              "book": "MyBookie.ag"
+            }
+          },
+          "totals": {
+            "over": {
+              "point": 8,
+              "price": -113,
+              "book": "LowVig.ag"
+            },
+            "under": {
+              "point": 8.5,
+              "price": -112,
+              "book": "FanDuel"
+            }
+          }
+        },
+        "awayTeam": "Philadelphia Phillies",
+        "homeTeam": "Miami Marlins"
+      }
+    },
     {
       "type": "moneyline",
       "pick": "Pittsburgh Pirates ML",
@@ -5858,128 +3531,2620 @@
         "homeTeam": "St. Louis Cardinals"
       },
       "_pendingGrade": true
-    },
-    {
-      "type": "moneyline",
-      "pick": "Detroit Tigers ML",
-      "odds": "-130",
-      "edge": "Market fill from live lines: Detroit Tigers is the books' favorite at -130 (best price @ LowVig.ag) against Baltimore Orioles at +122, with home ice/court/field behind them. No researched edge here — this is a low-confidence market-consensus play added to round out the slate. Low confidence is honest confidence.",
-      "matchup": "Baltimore Orioles @ Detroit Tigers",
-      "league": "MLB",
-      "when": "Today 6:41 PM ET",
-      "confidence": "low",
-      "_autofill": true,
-      "_scheduledTs": 1785278460000,
-      "marketSnapshot": {
-        "capturedAt": "2026-07-28T05:40:06.331Z",
-        "markets": {
-          "h2h": {
-            "away": {
-              "price": 122,
-              "book": "BetUS"
-            },
-            "home": {
-              "price": -130,
-              "book": "LowVig.ag"
-            },
-            "draw": null
-          },
-          "spreads": {
-            "away": {
-              "point": 1.5,
-              "price": -161,
-              "book": "MyBookie.ag"
-            },
-            "home": {
-              "point": -1.5,
-              "price": 150,
-              "book": "LowVig.ag"
-            }
-          },
-          "totals": {
-            "over": {
-              "point": 9,
-              "price": -113,
-              "book": "LowVig.ag"
-            },
-            "under": {
-              "point": 9.5,
-              "price": -115,
-              "book": "Bovada"
-            }
-          }
-        },
-        "awayTeam": "Baltimore Orioles",
-        "homeTeam": "Detroit Tigers"
-      }
-    },
-    {
-      "type": "moneyline",
-      "pick": "Miami Marlins ML",
-      "odds": "-110",
-      "edge": "Market fill from live lines: Miami Marlins is the books' favorite at -110 (best price @ FanDuel) against Philadelphia Phillies at +100, with home ice/court/field behind them. No researched edge here — this is a low-confidence market-consensus play added to round out the slate. Low confidence is honest confidence.",
-      "matchup": "Philadelphia Phillies @ Miami Marlins",
-      "league": "MLB",
-      "when": "Today 6:41 PM ET",
-      "confidence": "low",
-      "_autofill": true,
-      "_scheduledTs": 1785278460000,
-      "marketSnapshot": {
-        "capturedAt": "2026-07-28T05:40:06.332Z",
-        "markets": {
-          "h2h": {
-            "away": {
-              "price": 100,
-              "book": "BetOnline.ag"
-            },
-            "home": {
-              "price": -110,
-              "book": "FanDuel"
-            },
-            "draw": null
-          },
-          "spreads": {
-            "away": {
-              "point": 1.5,
-              "price": -209,
-              "book": "LowVig.ag"
-            },
-            "home": {
-              "point": 1.5,
-              "price": -182,
-              "book": "MyBookie.ag"
-            }
-          },
-          "totals": {
-            "over": {
-              "point": 8,
-              "price": -113,
-              "book": "LowVig.ag"
-            },
-            "under": {
-              "point": 8.5,
-              "price": -112,
-              "book": "FanDuel"
-            }
-          }
-        },
-        "awayTeam": "Philadelphia Phillies",
-        "homeTeam": "Miami Marlins"
-      }
     }
   ],
-  "updatedAt": "2026-04-23T14:32:00Z",
+  "updatedAt": "2026-07-28T09:31:19.248Z",
+  "draftTracker": {
+    "active": true,
+    "event": "2026 NFL Draft",
+    "picks": [
+      {
+        "pick": 1,
+        "round": 1,
+        "team": "Las Vegas Raiders",
+        "player": "Fernando Mendoza",
+        "position": "QB",
+        "school": "",
+        "note": ""
+      },
+      {
+        "pick": 2,
+        "round": 1,
+        "team": "New York Jets",
+        "player": "David Bailey",
+        "position": "EDGE",
+        "school": "",
+        "note": ""
+      },
+      {
+        "pick": 3,
+        "round": 1,
+        "team": "Arizona Cardinals",
+        "player": "Jeremiyah Love",
+        "position": "RB",
+        "school": "",
+        "note": ""
+      },
+      {
+        "pick": 4,
+        "round": 1,
+        "team": "Tennessee Titans",
+        "player": "Carnell Tate",
+        "position": "WR",
+        "school": "",
+        "note": ""
+      },
+      {
+        "pick": 5,
+        "round": 1,
+        "team": "New York Giants",
+        "player": "Arvell Reese",
+        "position": "LB",
+        "school": "",
+        "note": ""
+      },
+      {
+        "pick": 6,
+        "round": 1,
+        "team": "Kansas City Chiefs",
+        "player": "Mansoor Delane",
+        "position": "CB",
+        "school": "",
+        "note": "Trade: From CLE"
+      },
+      {
+        "pick": 7,
+        "round": 1,
+        "team": "Washington Commanders",
+        "player": "Sonny Styles",
+        "position": "LB",
+        "school": "",
+        "note": ""
+      },
+      {
+        "pick": 8,
+        "round": 1,
+        "team": "New Orleans Saints",
+        "player": "Jordyn Tyson",
+        "position": "WR",
+        "school": "",
+        "note": ""
+      },
+      {
+        "pick": 9,
+        "round": 1,
+        "team": "Cleveland Browns",
+        "player": "Spencer Fano",
+        "position": "OT",
+        "school": "",
+        "note": "Trade: From KC"
+      },
+      {
+        "pick": 10,
+        "round": 1,
+        "team": "New York Giants",
+        "player": "Francis Mauigoa",
+        "position": "OT",
+        "school": "",
+        "note": "Trade: From CIN"
+      },
+      {
+        "pick": 11,
+        "round": 1,
+        "team": "Dallas Cowboys",
+        "player": "Caleb Downs",
+        "position": "S",
+        "school": "",
+        "note": "Trade: From MIA"
+      },
+      {
+        "pick": 12,
+        "round": 1,
+        "team": "Miami Dolphins",
+        "player": "Kadyn Proctor",
+        "position": "OT",
+        "school": "",
+        "note": "Trade: From DAL"
+      },
+      {
+        "pick": 13,
+        "round": 1,
+        "team": "Los Angeles Rams",
+        "player": "Ty Simpson",
+        "position": "QB",
+        "school": "",
+        "note": "Trade: From ATL"
+      },
+      {
+        "pick": 14,
+        "round": 1,
+        "team": "Baltimore Ravens",
+        "player": "Olaivavega Ioane",
+        "position": "OG",
+        "school": "",
+        "note": ""
+      },
+      {
+        "pick": 15,
+        "round": 1,
+        "team": "Tampa Bay Buccaneers",
+        "player": "Rueben Bain Jr.",
+        "position": "EDGE",
+        "school": "",
+        "note": ""
+      },
+      {
+        "pick": 16,
+        "round": 1,
+        "team": "New York Jets",
+        "player": "Kenyon Sadiq",
+        "position": "TE",
+        "school": "",
+        "note": "Trade: From IND"
+      },
+      {
+        "pick": 17,
+        "round": 1,
+        "team": "Detroit Lions",
+        "player": "Blake Miller",
+        "position": "OT",
+        "school": "",
+        "note": ""
+      },
+      {
+        "pick": 18,
+        "round": 1,
+        "team": "Minnesota Vikings",
+        "player": "Caleb Banks",
+        "position": "DT",
+        "school": "",
+        "note": ""
+      },
+      {
+        "pick": 19,
+        "round": 1,
+        "team": "Carolina Panthers",
+        "player": "Monroe Freeling",
+        "position": "OT",
+        "school": "",
+        "note": ""
+      },
+      {
+        "pick": 20,
+        "round": 1,
+        "team": "Philadelphia Eagles",
+        "player": "Makai Lemon",
+        "position": "WR",
+        "school": "",
+        "note": "Trade: From GB via DAL"
+      },
+      {
+        "pick": 21,
+        "round": 1,
+        "team": "Pittsburgh Steelers",
+        "player": "Max Iheanachor",
+        "position": "OT",
+        "school": "",
+        "note": ""
+      },
+      {
+        "pick": 22,
+        "round": 1,
+        "team": "Los Angeles Chargers",
+        "player": "Akheem Mesidor",
+        "position": "EDGE",
+        "school": "",
+        "note": ""
+      },
+      {
+        "pick": 23,
+        "round": 1,
+        "team": "Dallas Cowboys",
+        "player": "Malachi Lawrence",
+        "position": "EDGE",
+        "school": "",
+        "note": "Trade: From PHI"
+      },
+      {
+        "pick": 24,
+        "round": 1,
+        "team": "Cleveland Browns",
+        "player": "KC Concepcion",
+        "position": "WR",
+        "school": "",
+        "note": "Trade: From JAX"
+      },
+      {
+        "pick": 25,
+        "round": 1,
+        "team": "Chicago Bears",
+        "player": "Dillon Thieneman",
+        "position": "S",
+        "school": "",
+        "note": ""
+      },
+      {
+        "pick": 26,
+        "round": 1,
+        "team": "Houston Texans",
+        "player": "Keylan Rutledge",
+        "position": "OG",
+        "school": "",
+        "note": "Trade: From BUF"
+      },
+      {
+        "pick": 27,
+        "round": 1,
+        "team": "Miami Dolphins",
+        "player": "Chris Johnson",
+        "position": "CB",
+        "school": "",
+        "note": "Trade: From SF"
+      },
+      {
+        "pick": 28,
+        "round": 1,
+        "team": "New England Patriots",
+        "player": "Caleb Lomu",
+        "position": "OT",
+        "school": "",
+        "note": "Trade: From HOU via BUF"
+      },
+      {
+        "pick": 29,
+        "round": 1,
+        "team": "Kansas City Chiefs",
+        "player": "Peter Woods",
+        "position": "DT",
+        "school": "",
+        "note": "Trade: From LAR"
+      },
+      {
+        "pick": 30,
+        "round": 1,
+        "team": "New York Jets",
+        "player": "Omar Cooper Jr.",
+        "position": "WR",
+        "school": "",
+        "note": "Trade: From DEN via MIA and SF"
+      },
+      {
+        "pick": 31,
+        "round": 1,
+        "team": "Tennessee Titans",
+        "player": "Keldric Faulk",
+        "position": "EDGE",
+        "school": "",
+        "note": "Trade: From NE via BUF"
+      },
+      {
+        "pick": 32,
+        "round": 1,
+        "team": "Seattle Seahawks",
+        "player": "Jadarian Price",
+        "position": "RB",
+        "school": "",
+        "note": ""
+      },
+      {
+        "pick": 33,
+        "round": 2,
+        "team": "San Francisco 49ers",
+        "player": "De'Zhaun Stribling",
+        "position": "WR",
+        "school": "",
+        "note": "Trade: From NYJ"
+      },
+      {
+        "pick": 34,
+        "round": 2,
+        "team": "Arizona Cardinals",
+        "player": "Chase Bisontis",
+        "position": "OG",
+        "school": "",
+        "note": ""
+      },
+      {
+        "pick": 35,
+        "round": 2,
+        "team": "Buffalo Bills",
+        "player": "T.J. Parker",
+        "position": "EDGE",
+        "school": "",
+        "note": "Trade: From TEN"
+      },
+      {
+        "pick": 36,
+        "round": 2,
+        "team": "Houston Texans",
+        "player": "Kayden McDonald",
+        "position": "DT",
+        "school": "",
+        "note": "Trade: From LV"
+      },
+      {
+        "pick": 37,
+        "round": 2,
+        "team": "New York Giants",
+        "player": "Colton Hood",
+        "position": "CB",
+        "school": "",
+        "note": ""
+      },
+      {
+        "pick": 38,
+        "round": 2,
+        "team": "Las Vegas Raiders",
+        "player": "Treydan Stukes",
+        "position": "S",
+        "school": "",
+        "note": "Trade: From WSH via HOU"
+      },
+      {
+        "pick": 39,
+        "round": 2,
+        "team": "Cleveland Browns",
+        "player": "Denzel Boston",
+        "position": "WR",
+        "school": "",
+        "note": ""
+      },
+      {
+        "pick": 40,
+        "round": 2,
+        "team": "Kansas City Chiefs",
+        "player": "R Mason Thomas",
+        "position": "EDGE",
+        "school": "",
+        "note": ""
+      },
+      {
+        "pick": 41,
+        "round": 2,
+        "team": "Cincinnati Bengals",
+        "player": "Cashius Howell",
+        "position": "EDGE",
+        "school": "",
+        "note": ""
+      },
+      {
+        "pick": 42,
+        "round": 2,
+        "team": "New Orleans Saints",
+        "player": "Christen Miller",
+        "position": "DT",
+        "school": "",
+        "note": ""
+      },
+      {
+        "pick": 43,
+        "round": 2,
+        "team": "Miami Dolphins",
+        "player": "Jacob Rodriguez",
+        "position": "LB",
+        "school": "",
+        "note": ""
+      },
+      {
+        "pick": 44,
+        "round": 2,
+        "team": "Detroit Lions",
+        "player": "Derrick Moore",
+        "position": "EDGE",
+        "school": "",
+        "note": "Trade: From DAL via NYJ"
+      },
+      {
+        "pick": 45,
+        "round": 2,
+        "team": "Baltimore Ravens",
+        "player": "Zion Young",
+        "position": "EDGE",
+        "school": "",
+        "note": ""
+      },
+      {
+        "pick": 46,
+        "round": 2,
+        "team": "Tampa Bay Buccaneers",
+        "player": "Josiah Trotter",
+        "position": "LB",
+        "school": "",
+        "note": ""
+      },
+      {
+        "pick": 47,
+        "round": 2,
+        "team": "Pittsburgh Steelers",
+        "player": "Germie Bernard",
+        "position": "WR",
+        "school": "",
+        "note": "Trade: From IND"
+      },
+      {
+        "pick": 48,
+        "round": 2,
+        "team": "Atlanta Falcons",
+        "player": "Avieon Terrell",
+        "position": "CB",
+        "school": "",
+        "note": ""
+      },
+      {
+        "pick": 49,
+        "round": 2,
+        "team": "Carolina Panthers",
+        "player": "Lee Hunter",
+        "position": "DT",
+        "school": "",
+        "note": "Trade: From MIN"
+      },
+      {
+        "pick": 50,
+        "round": 2,
+        "team": "New York Jets",
+        "player": "D'Angelo Ponds",
+        "position": "CB",
+        "school": "",
+        "note": "Trade: From DET"
+      },
+      {
+        "pick": 51,
+        "round": 2,
+        "team": "Minnesota Vikings",
+        "player": "Jake Golday",
+        "position": "LB",
+        "school": "",
+        "note": "Trade: From CAR"
+      },
+      {
+        "pick": 52,
+        "round": 2,
+        "team": "Green Bay Packers",
+        "player": "Brandon Cisse",
+        "position": "CB",
+        "school": "",
+        "note": ""
+      },
+      {
+        "pick": 53,
+        "round": 2,
+        "team": "Indianapolis Colts",
+        "player": "CJ Allen",
+        "position": "LB",
+        "school": "",
+        "note": "Trade: From PIT"
+      },
+      {
+        "pick": 54,
+        "round": 2,
+        "team": "Philadelphia Eagles",
+        "player": "Eli Stowers",
+        "position": "TE",
+        "school": "",
+        "note": ""
+      },
+      {
+        "pick": 55,
+        "round": 2,
+        "team": "New England Patriots",
+        "player": "Gabe Jacas",
+        "position": "EDGE",
+        "school": "",
+        "note": "Trade: From LAC"
+      },
+      {
+        "pick": 56,
+        "round": 2,
+        "team": "Jacksonville Jaguars",
+        "player": "Nate Boerkircher",
+        "position": "TE",
+        "school": "",
+        "note": ""
+      },
+      {
+        "pick": 57,
+        "round": 2,
+        "team": "Chicago Bears",
+        "player": "Logan Jones",
+        "position": "C",
+        "school": "",
+        "note": ""
+      },
+      {
+        "pick": 58,
+        "round": 2,
+        "team": "Cleveland Browns",
+        "player": "Emmanuel McNeil-Warren",
+        "position": "S",
+        "school": "",
+        "note": "Trade: From SF"
+      },
+      {
+        "pick": 59,
+        "round": 2,
+        "team": "Houston Texans",
+        "player": "Marlin Klein",
+        "position": "TE",
+        "school": "",
+        "note": ""
+      },
+      {
+        "pick": 60,
+        "round": 2,
+        "team": "Tennessee Titans",
+        "player": "Anthony Hill Jr.",
+        "position": "LB",
+        "school": "",
+        "note": "Trade: From BUF via CHI"
+      },
+      {
+        "pick": 61,
+        "round": 2,
+        "team": "Los Angeles Rams",
+        "player": "Max Klare",
+        "position": "TE",
+        "school": "",
+        "note": ""
+      },
+      {
+        "pick": 62,
+        "round": 2,
+        "team": "Buffalo Bills",
+        "player": "Davison Igbinosun",
+        "position": "CB",
+        "school": "",
+        "note": "Trade: From DEN"
+      },
+      {
+        "pick": 63,
+        "round": 2,
+        "team": "Los Angeles Chargers",
+        "player": "Jake Slaughter",
+        "position": "C",
+        "school": "",
+        "note": "Trade: From NE"
+      },
+      {
+        "pick": 64,
+        "round": 2,
+        "team": "Seattle Seahawks",
+        "player": "Bud Clark",
+        "position": "S",
+        "school": "",
+        "note": ""
+      },
+      {
+        "pick": 65,
+        "round": 3,
+        "team": "Arizona Cardinals",
+        "player": "Carson Beck",
+        "position": "QB",
+        "school": "",
+        "note": ""
+      },
+      {
+        "pick": 66,
+        "round": 3,
+        "team": "Denver Broncos",
+        "player": "Tyler Onyedim",
+        "position": "DT",
+        "school": "",
+        "note": "Trade: From TEN via BUF"
+      },
+      {
+        "pick": 67,
+        "round": 3,
+        "team": "Las Vegas Raiders",
+        "player": "Keyron Crawford",
+        "position": "EDGE",
+        "school": "",
+        "note": ""
+      },
+      {
+        "pick": 68,
+        "round": 3,
+        "team": "Philadelphia Eagles",
+        "player": "Markel Bell",
+        "position": "OT",
+        "school": "",
+        "note": "Trade: From NYJ"
+      },
+      {
+        "pick": 69,
+        "round": 3,
+        "team": "Chicago Bears",
+        "player": "Sam Roush",
+        "position": "TE",
+        "school": "",
+        "note": "Trade: From NYG via HOU, BUF and TEN"
+      },
+      {
+        "pick": 70,
+        "round": 3,
+        "team": "San Francisco 49ers",
+        "player": "Romello Height",
+        "position": "EDGE",
+        "school": "",
+        "note": "Trade: From CLE"
+      },
+      {
+        "pick": 71,
+        "round": 3,
+        "team": "Washington Commanders",
+        "player": "Antonio Williams",
+        "position": "WR",
+        "school": "",
+        "note": ""
+      },
+      {
+        "pick": 72,
+        "round": 3,
+        "team": "Cincinnati Bengals",
+        "player": "Tacario Davis",
+        "position": "CB",
+        "school": "",
+        "note": ""
+      },
+      {
+        "pick": 73,
+        "round": 3,
+        "team": "New Orleans Saints",
+        "player": "Oscar Delp",
+        "position": "TE",
+        "school": "",
+        "note": ""
+      },
+      {
+        "pick": 74,
+        "round": 3,
+        "team": "New York Giants",
+        "player": "Malachi Fields",
+        "position": "WR",
+        "school": "",
+        "note": "Trade: From KC via CLE"
+      },
+      {
+        "pick": 75,
+        "round": 3,
+        "team": "Miami Dolphins",
+        "player": "Caleb Douglas",
+        "position": "WR",
+        "school": "",
+        "note": ""
+      },
+      {
+        "pick": 76,
+        "round": 3,
+        "team": "Pittsburgh Steelers",
+        "player": "Drew Allar",
+        "position": "QB",
+        "school": "",
+        "note": "Trade: From DAL"
+      },
+      {
+        "pick": 77,
+        "round": 3,
+        "team": "Green Bay Packers",
+        "player": "Chris McClellan",
+        "position": "DT",
+        "school": "",
+        "note": "Trade: From TB"
+      },
+      {
+        "pick": 78,
+        "round": 3,
+        "team": "Indianapolis Colts",
+        "player": "A.J. Haulcy",
+        "position": "S",
+        "school": "",
+        "note": ""
+      },
+      {
+        "pick": 79,
+        "round": 3,
+        "team": "Atlanta Falcons",
+        "player": "Zachariah Branch",
+        "position": "WR",
+        "school": "",
+        "note": ""
+      },
+      {
+        "pick": 80,
+        "round": 3,
+        "team": "Baltimore Ravens",
+        "player": "Ja'Kobi Lane",
+        "position": "WR",
+        "school": "",
+        "note": ""
+      },
+      {
+        "pick": 81,
+        "round": 3,
+        "team": "Jacksonville Jaguars",
+        "player": "Albert Regis",
+        "position": "DT",
+        "school": "",
+        "note": "Trade: From DET"
+      },
+      {
+        "pick": 82,
+        "round": 3,
+        "team": "Minnesota Vikings",
+        "player": "Domonique Orange",
+        "position": "DT",
+        "school": "",
+        "note": ""
+      },
+      {
+        "pick": 83,
+        "round": 3,
+        "team": "Carolina Panthers",
+        "player": "Chris Brazzell II",
+        "position": "WR",
+        "school": "",
+        "note": ""
+      },
+      {
+        "pick": 84,
+        "round": 3,
+        "team": "Tampa Bay Buccaneers",
+        "player": "Ted Hurst",
+        "position": "WR",
+        "school": "",
+        "note": "Trade: From GB"
+      },
+      {
+        "pick": 85,
+        "round": 3,
+        "team": "Pittsburgh Steelers",
+        "player": "Daylen Everette",
+        "position": "CB",
+        "school": "",
+        "note": ""
+      },
+      {
+        "pick": 86,
+        "round": 3,
+        "team": "Cleveland Browns",
+        "player": "Austin Barber",
+        "position": "OT",
+        "school": "",
+        "note": "Trade: From LAC"
+      },
+      {
+        "pick": 87,
+        "round": 3,
+        "team": "Miami Dolphins",
+        "player": "Will Kacmarek",
+        "position": "TE",
+        "school": "",
+        "note": "Trade: From PHI"
+      },
+      {
+        "pick": 88,
+        "round": 3,
+        "team": "Jacksonville Jaguars",
+        "player": "Emmanuel Pregnon",
+        "position": "OG",
+        "school": "",
+        "note": ""
+      },
+      {
+        "pick": 89,
+        "round": 3,
+        "team": "Chicago Bears",
+        "player": "Zavion Thomas",
+        "position": "WR",
+        "school": "",
+        "note": ""
+      },
+      {
+        "pick": 90,
+        "round": 3,
+        "team": "San Francisco 49ers",
+        "player": "Kaelon Black",
+        "position": "RB",
+        "school": "",
+        "note": "Trade: From HOU via MIA"
+      },
+      {
+        "pick": 91,
+        "round": 3,
+        "team": "Las Vegas Raiders",
+        "player": "Trey Zuhn III",
+        "position": "C",
+        "school": "",
+        "note": "Trade: From BUF via HOU"
+      },
+      {
+        "pick": 92,
+        "round": 3,
+        "team": "Dallas Cowboys",
+        "player": "Jaishawn Barham",
+        "position": "EDGE",
+        "school": "",
+        "note": "Trade: From SF"
+      },
+      {
+        "pick": 93,
+        "round": 3,
+        "team": "Los Angeles Rams",
+        "player": "Keagen Trost",
+        "position": "OT",
+        "school": "",
+        "note": ""
+      },
+      {
+        "pick": 94,
+        "round": 3,
+        "team": "Miami Dolphins",
+        "player": "Chris Bell",
+        "position": "WR",
+        "school": "",
+        "note": "Trade: From DEN"
+      },
+      {
+        "pick": 95,
+        "round": 3,
+        "team": "New England Patriots",
+        "player": "Eli Raridon",
+        "position": "TE",
+        "school": "",
+        "note": ""
+      },
+      {
+        "pick": 96,
+        "round": 3,
+        "team": "Pittsburgh Steelers",
+        "player": "Gennings Dunker",
+        "position": "OT",
+        "school": "",
+        "note": "Trade: From SEA"
+      },
+      {
+        "pick": 97,
+        "round": 3,
+        "team": "Minnesota Vikings",
+        "player": "Caleb Tiernan",
+        "position": "OT",
+        "school": "",
+        "note": "Trade: Compensatory Pick"
+      },
+      {
+        "pick": 98,
+        "round": 3,
+        "team": "Minnesota Vikings",
+        "player": "Jakobe Thomas",
+        "position": "S",
+        "school": "",
+        "note": "Trade: Compensatory Pick (From PHI)"
+      },
+      {
+        "pick": 99,
+        "round": 3,
+        "team": "Seattle Seahawks",
+        "player": "Julian Neal",
+        "position": "CB",
+        "school": "",
+        "note": "Trade: Compensatory Pick (From PIT)"
+      },
+      {
+        "pick": 100,
+        "round": 3,
+        "team": "Jacksonville Jaguars",
+        "player": "Jalen Huskey",
+        "position": "CB",
+        "school": "",
+        "note": "Trade: Compensatory Pick (From DET)"
+      },
+      {
+        "pick": 101,
+        "round": 4,
+        "team": "Las Vegas Raiders",
+        "player": "Jermod McCoy",
+        "position": "CB",
+        "school": "",
+        "note": "Trade: From TEN via BUF"
+      },
+      {
+        "pick": 102,
+        "round": 4,
+        "team": "Buffalo Bills",
+        "player": "Jude Bowry",
+        "position": "OT",
+        "school": "",
+        "note": "Trade: From LV"
+      },
+      {
+        "pick": 103,
+        "round": 4,
+        "team": "New York Jets",
+        "player": "Darrell Jackson Jr.",
+        "position": "DT",
+        "school": "",
+        "note": ""
+      },
+      {
+        "pick": 104,
+        "round": 4,
+        "team": "Arizona Cardinals",
+        "player": "Kaleb Proctor",
+        "position": "DT",
+        "school": "",
+        "note": ""
+      },
+      {
+        "pick": 105,
+        "round": 4,
+        "team": "Los Angeles Chargers",
+        "player": "Brenen Thompson",
+        "position": "WR",
+        "school": "",
+        "note": "Trade: From NYG via CLE"
+      },
+      {
+        "pick": 106,
+        "round": 4,
+        "team": "Houston Texans",
+        "player": "Febechi Nwaiwu",
+        "position": "OG",
+        "school": "",
+        "note": "Trade: From WSH"
+      },
+      {
+        "pick": 107,
+        "round": 4,
+        "team": "San Francisco 49ers",
+        "player": "Gracen Halton",
+        "position": "DT",
+        "school": "",
+        "note": "Trade: From CLE"
+      },
+      {
+        "pick": 108,
+        "round": 4,
+        "team": "Denver Broncos",
+        "player": "Jonah Coleman",
+        "position": "RB",
+        "school": "",
+        "note": "Trade: From NO"
+      },
+      {
+        "pick": 109,
+        "round": 4,
+        "team": "Kansas City Chiefs",
+        "player": "Jadon Canady",
+        "position": "S",
+        "school": "",
+        "note": ""
+      },
+      {
+        "pick": 110,
+        "round": 4,
+        "team": "New York Jets",
+        "player": "Cade Klubnik",
+        "position": "QB",
+        "school": "",
+        "note": "Trade: From CIN"
+      },
+      {
+        "pick": 111,
+        "round": 4,
+        "team": "Denver Broncos",
+        "player": "Kage Casey",
+        "position": "OT",
+        "school": "",
+        "note": "Trade: From MIA"
+      },
+      {
+        "pick": 112,
+        "round": 4,
+        "team": "Dallas Cowboys",
+        "player": "Drew Shelton",
+        "position": "OT",
+        "school": "",
+        "note": ""
+      },
+      {
+        "pick": 113,
+        "round": 4,
+        "team": "Indianapolis Colts",
+        "player": "Jalen Farmer",
+        "position": "OG",
+        "school": "",
+        "note": ""
+      },
+      {
+        "pick": 114,
+        "round": 4,
+        "team": "Dallas Cowboys",
+        "player": "Devin Moore",
+        "position": "CB",
+        "school": "",
+        "note": "Trade: From ATL via PHI"
+      },
+      {
+        "pick": 115,
+        "round": 4,
+        "team": "Baltimore Ravens",
+        "player": "Elijah Sarratt",
+        "position": "WR",
+        "school": "",
+        "note": ""
+      },
+      {
+        "pick": 116,
+        "round": 4,
+        "team": "Tampa Bay Buccaneers",
+        "player": "Keionte Scott",
+        "position": "CB",
+        "school": "",
+        "note": ""
+      },
+      {
+        "pick": 117,
+        "round": 4,
+        "team": "Los Angeles Chargers",
+        "player": "Travis Burke",
+        "position": "OT",
+        "school": "",
+        "note": "Trade: From MIN via JAX, LV and HOU"
+      },
+      {
+        "pick": 118,
+        "round": 4,
+        "team": "Detroit Lions",
+        "player": "Jimmy Rolder",
+        "position": "LB",
+        "school": "",
+        "note": ""
+      },
+      {
+        "pick": 119,
+        "round": 4,
+        "team": "Jacksonville Jaguars",
+        "player": "Wesley Williams",
+        "position": "EDGE",
+        "school": "",
+        "note": "Trade: From CAR"
+      },
+      {
+        "pick": 120,
+        "round": 4,
+        "team": "Green Bay Packers",
+        "player": "Dani Dennis-Sutton",
+        "position": "EDGE",
+        "school": "",
+        "note": ""
+      },
+      {
+        "pick": 121,
+        "round": 4,
+        "team": "Pittsburgh Steelers",
+        "player": "Kaden Wetjen",
+        "position": "WR",
+        "school": "",
+        "note": ""
+      },
+      {
+        "pick": 122,
+        "round": 4,
+        "team": "Las Vegas Raiders",
+        "player": "Mike Washington Jr.",
+        "position": "RB",
+        "school": "",
+        "note": "Trade: From PHI via ATL"
+      },
+      {
+        "pick": 123,
+        "round": 4,
+        "team": "Houston Texans",
+        "player": "Wade Woodaz",
+        "position": "LB",
+        "school": "",
+        "note": "Trade: From LAC"
+      },
+      {
+        "pick": 124,
+        "round": 4,
+        "team": "Chicago Bears",
+        "player": "Malik Muhammad",
+        "position": "CB",
+        "school": "",
+        "note": "Trade: From JAX via CAR"
+      },
+      {
+        "pick": 125,
+        "round": 4,
+        "team": "Buffalo Bills",
+        "player": "Skyler Bell",
+        "position": "WR",
+        "school": "",
+        "note": "Trade: From CHI via KC and NE"
+      },
+      {
+        "pick": 126,
+        "round": 4,
+        "team": "Buffalo Bills",
+        "player": "Kaleb Elarms-Orr",
+        "position": "LB",
+        "school": "",
+        "note": ""
+      },
+      {
+        "pick": 127,
+        "round": 4,
+        "team": "San Francisco 49ers",
+        "player": "Carver Willis",
+        "position": "OT",
+        "school": "",
+        "note": ""
+      },
+      {
+        "pick": 128,
+        "round": 4,
+        "team": "Cincinnati Bengals",
+        "player": "Connor Lew",
+        "position": "C",
+        "school": "",
+        "note": "Trade: From HOU via DET and NYJ"
+      },
+      {
+        "pick": 129,
+        "round": 4,
+        "team": "Carolina Panthers",
+        "player": "Will Lee III",
+        "position": "CB",
+        "school": "",
+        "note": "Trade: From LAR via CHI"
+      },
+      {
+        "pick": 130,
+        "round": 4,
+        "team": "Miami Dolphins",
+        "player": "Trey Moore",
+        "position": "EDGE",
+        "school": "",
+        "note": "Trade: From DEN"
+      },
+      {
+        "pick": 131,
+        "round": 4,
+        "team": "Los Angeles Chargers",
+        "player": "Genesis Smith",
+        "position": "S",
+        "school": "",
+        "note": "Trade: From NE"
+      },
+      {
+        "pick": 132,
+        "round": 4,
+        "team": "New Orleans Saints",
+        "player": "Jeremiah Wright",
+        "position": "OG",
+        "school": "",
+        "note": "Trade: From SEA"
+      },
+      {
+        "pick": 133,
+        "round": 4,
+        "team": "Baltimore Ravens",
+        "player": "Matthew Hibner",
+        "position": "TE",
+        "school": "",
+        "note": "Trade: Compensatory Pick (From SF)"
+      },
+      {
+        "pick": 134,
+        "round": 4,
+        "team": "Atlanta Falcons",
+        "player": "Kendal Daniels",
+        "position": "LB",
+        "school": "",
+        "note": "Trade: Compensatory Pick (From LV)"
+      },
+      {
+        "pick": 135,
+        "round": 4,
+        "team": "Indianapolis Colts",
+        "player": "Bryce Boettcher",
+        "position": "LB",
+        "school": "",
+        "note": "Trade: Compensatory Pick (From PIT)"
+      },
+      {
+        "pick": 136,
+        "round": 4,
+        "team": "New Orleans Saints",
+        "player": "Bryce Lance",
+        "position": "WR",
+        "school": "",
+        "note": "Trade: Compensatory Pick"
+      },
+      {
+        "pick": 137,
+        "round": 4,
+        "team": "Dallas Cowboys",
+        "player": "LT Overton",
+        "position": "EDGE",
+        "school": "",
+        "note": "Trade: Compensatory Pick (From PHI)"
+      },
+      {
+        "pick": 138,
+        "round": 4,
+        "team": "Miami Dolphins",
+        "player": "Kyle Louis",
+        "position": "LB",
+        "school": "",
+        "note": "Trade: Compensatory Pick (From SF)"
+      },
+      {
+        "pick": 139,
+        "round": 4,
+        "team": "San Francisco 49ers",
+        "player": "Ephesians Prysock",
+        "position": "CB",
+        "school": "",
+        "note": "Trade: Compensatory Pick"
+      },
+      {
+        "pick": 140,
+        "round": 4,
+        "team": "Cincinnati Bengals",
+        "player": "Colbie Young",
+        "position": "WR",
+        "school": "",
+        "note": "Trade: Compensatory Pick (From NYJ)"
+      },
+      {
+        "pick": 141,
+        "round": 5,
+        "team": "Houston Texans",
+        "player": "Kamari Ramsey",
+        "position": "S",
+        "school": "",
+        "note": "Trade: From LV via CLE"
+      },
+      {
+        "pick": 142,
+        "round": 5,
+        "team": "Tennessee Titans",
+        "player": "Fernando Carmona",
+        "position": "OG",
+        "school": "",
+        "note": "Trade: From NYJ via BAL"
+      },
+      {
+        "pick": 143,
+        "round": 5,
+        "team": "Arizona Cardinals",
+        "player": "Reggie Virgil",
+        "position": "WR",
+        "school": "",
+        "note": ""
+      },
+      {
+        "pick": 144,
+        "round": 5,
+        "team": "Carolina Panthers",
+        "player": "Sam Hecht",
+        "position": "C",
+        "school": "",
+        "note": "Trade: From TEN via LAR, TEN and CHI"
+      },
+      {
+        "pick": 145,
+        "round": 5,
+        "team": "Los Angeles Chargers",
+        "player": "Nick Barrett",
+        "position": "DT",
+        "school": "",
+        "note": "Trade: From NYG via CLE"
+      },
+      {
+        "pick": 146,
+        "round": 5,
+        "team": "Cleveland Browns",
+        "player": "Parker Brailsford",
+        "position": "C",
+        "school": "",
+        "note": ""
+      },
+      {
+        "pick": 147,
+        "round": 5,
+        "team": "Washington Commanders",
+        "player": "Joshua Josephs",
+        "position": "EDGE",
+        "school": "",
+        "note": ""
+      },
+      {
+        "pick": 148,
+        "round": 5,
+        "team": "Seattle Seahawks",
+        "player": "Beau Stephens",
+        "position": "OG",
+        "school": "",
+        "note": "Trade: From KC via CLE"
+      },
+      {
+        "pick": 149,
+        "round": 5,
+        "team": "Cleveland Browns",
+        "player": "Justin Jefferson",
+        "position": "LB",
+        "school": "",
+        "note": "Trade: From CIN"
+      },
+      {
+        "pick": 150,
+        "round": 5,
+        "team": "Las Vegas Raiders",
+        "player": "Dalton Johnson",
+        "position": "S",
+        "school": "",
+        "note": "Trade: From NO"
+      },
+      {
+        "pick": 151,
+        "round": 5,
+        "team": "Carolina Panthers",
+        "player": "Zakee Wheatley",
+        "position": "S",
+        "school": "",
+        "note": "Trade: From MIA"
+      },
+      {
+        "pick": 152,
+        "round": 5,
+        "team": "Denver Broncos",
+        "player": "Justin Joly",
+        "position": "TE",
+        "school": "",
+        "note": "Trade: From DAL via SF and CLE"
+      },
+      {
+        "pick": 153,
+        "round": 5,
+        "team": "Green Bay Packers",
+        "player": "Jager Burton",
+        "position": "C",
+        "school": "",
+        "note": "Trade: From ATL via PHI"
+      },
+      {
+        "pick": 154,
+        "round": 5,
+        "team": "San Francisco 49ers",
+        "player": "Jaden Dugger",
+        "position": "LB",
+        "school": "",
+        "note": "Trade: From BAL"
+      },
+      {
+        "pick": 155,
+        "round": 5,
+        "team": "Tampa Bay Buccaneers",
+        "player": "DeMonte Capehart",
+        "position": "DT",
+        "school": "",
+        "note": ""
+      },
+      {
+        "pick": 156,
+        "round": 5,
+        "team": "Indianapolis Colts",
+        "player": "George Gumbs Jr.",
+        "position": "EDGE",
+        "school": "",
+        "note": ""
+      },
+      {
+        "pick": 157,
+        "round": 5,
+        "team": "Detroit Lions",
+        "player": "Keith Abney II",
+        "position": "CB",
+        "school": "",
+        "note": ""
+      },
+      {
+        "pick": 158,
+        "round": 5,
+        "team": "Miami Dolphins",
+        "player": "Michael Taaffe",
+        "position": "S",
+        "school": "",
+        "note": "Trade: From MIN via CAR"
+      },
+      {
+        "pick": 159,
+        "round": 5,
+        "team": "Minnesota Vikings",
+        "player": "Max Bredeson",
+        "position": "TE",
+        "school": "",
+        "note": "Trade: From CAR"
+      },
+      {
+        "pick": 160,
+        "round": 5,
+        "team": "Tampa Bay Buccaneers",
+        "player": "Billy Schrauth",
+        "position": "OG",
+        "school": "",
+        "note": "Trade: From GB"
+      },
+      {
+        "pick": 161,
+        "round": 5,
+        "team": "Kansas City Chiefs",
+        "player": "Emmett Johnson",
+        "position": "RB",
+        "school": "",
+        "note": "Trade: From PIT"
+      },
+      {
+        "pick": 162,
+        "round": 5,
+        "team": "Baltimore Ravens",
+        "player": "Chandler Rivers",
+        "position": "CB",
+        "school": "",
+        "note": "Trade: From LAC"
+      },
+      {
+        "pick": 163,
+        "round": 5,
+        "team": "Minnesota Vikings",
+        "player": "Charles Demmings",
+        "position": "CB",
+        "school": "",
+        "note": "Trade: From PHI"
+      },
+      {
+        "pick": 164,
+        "round": 5,
+        "team": "Jacksonville Jaguars",
+        "player": "Tanner Koziol",
+        "position": "TE",
+        "school": "",
+        "note": ""
+      },
+      {
+        "pick": 165,
+        "round": 5,
+        "team": "Tennessee Titans",
+        "player": "Nicholas Singleton",
+        "position": "RB",
+        "school": "",
+        "note": "Trade: From CHI via BUF"
+      },
+      {
+        "pick": 166,
+        "round": 5,
+        "team": "Chicago Bears",
+        "player": "Keyshaun Elliott",
+        "position": "LB",
+        "school": "",
+        "note": "Trade: From SF via PHI, JAX and CAR"
+      },
+      {
+        "pick": 167,
+        "round": 5,
+        "team": "Buffalo Bills",
+        "player": "Jalon Kilgore",
+        "position": "S",
+        "school": "",
+        "note": "Trade: From HOU via PHI and HOU"
+      },
+      {
+        "pick": 168,
+        "round": 5,
+        "team": "Detroit Lions",
+        "player": "Kendrick Law",
+        "position": "WR",
+        "school": "",
+        "note": "Trade: From BUF"
+      },
+      {
+        "pick": 169,
+        "round": 5,
+        "team": "Pittsburgh Steelers",
+        "player": "Riley Nowakowski",
+        "position": "TE",
+        "school": "",
+        "note": "Trade: From LAR via KC"
+      },
+      {
+        "pick": 170,
+        "round": 5,
+        "team": "Cleveland Browns",
+        "player": "Joe Royer",
+        "position": "TE",
+        "school": "",
+        "note": "Trade: From DEN"
+      },
+      {
+        "pick": 171,
+        "round": 5,
+        "team": "New England Patriots",
+        "player": "Karon Prunty",
+        "position": "CB",
+        "school": "",
+        "note": ""
+      },
+      {
+        "pick": 172,
+        "round": 5,
+        "team": "New Orleans Saints",
+        "player": "Lorenzo Styles Jr.",
+        "position": "S",
+        "school": "",
+        "note": "Trade: From SEA"
+      },
+      {
+        "pick": 173,
+        "round": 5,
+        "team": "Baltimore Ravens",
+        "player": "Josh Cuevas",
+        "position": "TE",
+        "school": "",
+        "note": "Trade: Compensatory Pick"
+      },
+      {
+        "pick": 174,
+        "round": 5,
+        "team": "Baltimore Ravens",
+        "player": "Adam Randall",
+        "position": "RB",
+        "school": "",
+        "note": "Trade: Compensatory Pick"
+      },
+      {
+        "pick": 175,
+        "round": 5,
+        "team": "Las Vegas Raiders",
+        "player": "Hezekiah Masses",
+        "position": "CB",
+        "school": "",
+        "note": "Trade: Compensatory Pick"
+      },
+      {
+        "pick": 176,
+        "round": 5,
+        "team": "Kansas City Chiefs",
+        "player": "Cyrus Allen",
+        "position": "WR",
+        "school": "",
+        "note": "Trade: Compensatory Pick"
+      },
+      {
+        "pick": 177,
+        "round": 5,
+        "team": "Miami Dolphins",
+        "player": "Kevin Coleman Jr.",
+        "position": "WR",
+        "school": "",
+        "note": "Trade: Compensatory Pick (From DAL)"
+      },
+      {
+        "pick": 178,
+        "round": 5,
+        "team": "Philadelphia Eagles",
+        "player": "Cole Payton",
+        "position": "QB",
+        "school": "",
+        "note": "Trade: Compensatory Pick"
+      },
+      {
+        "pick": 179,
+        "round": 5,
+        "team": "San Francisco 49ers",
+        "player": "Enrique Cruz Jr.",
+        "position": "OT",
+        "school": "",
+        "note": "Trade: Compensatory Pick (From NYJ)"
+      },
+      {
+        "pick": 180,
+        "round": 5,
+        "team": "Miami Dolphins",
+        "player": "Seydou Traore",
+        "position": "TE",
+        "school": "",
+        "note": "Trade: Compensatory Pick (From DAL)"
+      },
+      {
+        "pick": 181,
+        "round": 5,
+        "team": "Buffalo Bills",
+        "player": "Zane Durant",
+        "position": "DT",
+        "school": "",
+        "note": "Trade: Compensatory Pick (From DET)"
+      },
+      {
+        "pick": 182,
+        "round": 6,
+        "team": "Cleveland Browns",
+        "player": "Taylen Green",
+        "position": "QB",
+        "school": "",
+        "note": "Trade: From NYJ via CLE, JAX, LV, BUF and DEN"
+      },
+      {
+        "pick": 183,
+        "round": 6,
+        "team": "Arizona Cardinals",
+        "player": "Karson Sharar",
+        "position": "LB",
+        "school": "",
+        "note": ""
+      },
+      {
+        "pick": 184,
+        "round": 6,
+        "team": "Tennessee Titans",
+        "player": "Jackie Marshall",
+        "position": "DT",
+        "school": "",
+        "note": ""
+      },
+      {
+        "pick": 185,
+        "round": 6,
+        "team": "Tampa Bay Buccaneers",
+        "player": "Bauer Sharp",
+        "position": "TE",
+        "school": "",
+        "note": "Trade: From LV"
+      },
+      {
+        "pick": 186,
+        "round": 6,
+        "team": "New York Giants",
+        "player": "Bobby Jamison-Travis",
+        "position": "DT",
+        "school": "",
+        "note": ""
+      },
+      {
+        "pick": 187,
+        "round": 6,
+        "team": "Washington Commanders",
+        "player": "Kaytron Allen",
+        "position": "RB",
+        "school": "",
+        "note": ""
+      },
+      {
+        "pick": 188,
+        "round": 6,
+        "team": "New York Jets",
+        "player": "Anez Cooper",
+        "position": "OG",
+        "school": "",
+        "note": "Trade: From CLE via SEA"
+      },
+      {
+        "pick": 189,
+        "round": 6,
+        "team": "Cincinnati Bengals",
+        "player": "Brian Parker II",
+        "position": "C",
+        "school": "",
+        "note": ""
+      },
+      {
+        "pick": 190,
+        "round": 6,
+        "team": "New Orleans Saints",
+        "player": "Barion Brown",
+        "position": "WR",
+        "school": "",
+        "note": ""
+      },
+      {
+        "pick": 191,
+        "round": 6,
+        "team": "Jacksonville Jaguars",
+        "player": "Josh Cameron",
+        "position": "WR",
+        "school": "",
+        "note": "Trade: From KC via NE"
+      },
+      {
+        "pick": 192,
+        "round": 6,
+        "team": "New York Giants",
+        "player": "J.C. Davis",
+        "position": "OT",
+        "school": "",
+        "note": "Trade: From MIA"
+      },
+      {
+        "pick": 193,
+        "round": 6,
+        "team": "New York Giants",
+        "player": "Jack Kelly",
+        "position": "LB",
+        "school": "",
+        "note": "Trade: From DAL"
+      },
+      {
+        "pick": 194,
+        "round": 6,
+        "team": "Tennessee Titans",
+        "player": "Pat Coogan",
+        "position": "C",
+        "school": "",
+        "note": "Trade: From BAL via NYJ"
+      },
+      {
+        "pick": 195,
+        "round": 6,
+        "team": "Las Vegas Raiders",
+        "player": "Malik Benson",
+        "position": "WR",
+        "school": "",
+        "note": "Trade: From TB"
+      },
+      {
+        "pick": 196,
+        "round": 6,
+        "team": "New England Patriots",
+        "player": "Dametrious Crownover",
+        "position": "OT",
+        "school": "",
+        "note": "Trade: From IND via MIN, CAR and JAX"
+      },
+      {
+        "pick": 197,
+        "round": 6,
+        "team": "Los Angeles Rams",
+        "player": "CJ Daniels",
+        "position": "WR",
+        "school": "",
+        "note": "Trade: From ATL via PHI"
+      },
+      {
+        "pick": 198,
+        "round": 6,
+        "team": "Minnesota Vikings",
+        "player": "Demond Claiborne",
+        "position": "RB",
+        "school": "",
+        "note": "Trade: From MIN via HOU, MIN, SF and NE"
+      },
+      {
+        "pick": 199,
+        "round": 6,
+        "team": "Seattle Seahawks",
+        "player": "Emmanuel Henderson Jr.",
+        "position": "WR",
+        "school": "",
+        "note": "Trade: From DET via CLE, CIN and NYJ"
+      },
+      {
+        "pick": 200,
+        "round": 6,
+        "team": "Miami Dolphins",
+        "player": "DJ Campbell",
+        "position": "OG",
+        "school": "",
+        "note": "Trade: From CAR"
+      },
+      {
+        "pick": 201,
+        "round": 6,
+        "team": "Green Bay Packers",
+        "player": "Domani Jackson",
+        "position": "CB",
+        "school": "",
+        "note": ""
+      },
+      {
+        "pick": 202,
+        "round": 6,
+        "team": "Los Angeles Chargers",
+        "player": "Logan Taylor",
+        "position": "OG",
+        "school": "",
+        "note": "Trade: From PIT via NE"
+      },
+      {
+        "pick": 203,
+        "round": 6,
+        "team": "Jacksonville Jaguars",
+        "player": "CJ Williams",
+        "position": "WR",
+        "school": "",
+        "note": "Trade: From PHI via HOU and PHI"
+      },
+      {
+        "pick": 204,
+        "round": 6,
+        "team": "Houston Texans",
+        "player": "Lewis Bond",
+        "position": "WR",
+        "school": "",
+        "note": "Trade: From LAC"
+      },
+      {
+        "pick": 205,
+        "round": 6,
+        "team": "Detroit Lions",
+        "player": "Skyler Gill-Howard",
+        "position": "DT",
+        "school": "",
+        "note": "Trade: From JAX"
+      },
+      {
+        "pick": 206,
+        "round": 6,
+        "team": "Los Angeles Chargers",
+        "player": "Alex Harkey",
+        "position": "OG",
+        "school": "",
+        "note": "Trade: From CHI via CLE"
+      },
+      {
+        "pick": 207,
+        "round": 6,
+        "team": "Philadelphia Eagles",
+        "player": "Micah Morris",
+        "position": "OG",
+        "school": "",
+        "note": "Trade: From HOU via LAR, TEN and LAR"
+      },
+      {
+        "pick": 208,
+        "round": 6,
+        "team": "Atlanta Falcons",
+        "player": "Anterio Thompson",
+        "position": "DT",
+        "school": "",
+        "note": "Trade: From BUF via NYJ and LV"
+      },
+      {
+        "pick": 209,
+        "round": 6,
+        "team": "Washington Commanders",
+        "player": "Matt Gulbin",
+        "position": "C",
+        "school": "",
+        "note": "Trade: From SF"
+      },
+      {
+        "pick": 210,
+        "round": 6,
+        "team": "Pittsburgh Steelers",
+        "player": "Gabriel Rubio",
+        "position": "DT",
+        "school": "",
+        "note": "Trade: From LAR via KC"
+      },
+      {
+        "pick": 211,
+        "round": 6,
+        "team": "Baltimore Ravens",
+        "player": "Ryan Eckley",
+        "position": "P",
+        "school": "",
+        "note": "Trade: From DEN via NYJ, MIN, and PHI"
+      },
+      {
+        "pick": 212,
+        "round": 6,
+        "team": "New England Patriots",
+        "player": "Namdi Obiazor",
+        "position": "LB",
+        "school": "",
+        "note": ""
+      },
+      {
+        "pick": 213,
+        "round": 6,
+        "team": "Chicago Bears",
+        "player": "Jordan Van den Berg",
+        "position": "DT",
+        "school": "",
+        "note": "Trade: From SEA via JAX, DET and BUF"
+      },
+      {
+        "pick": 214,
+        "round": 6,
+        "team": "Indianapolis Colts",
+        "player": "Caden Curry",
+        "position": "EDGE",
+        "school": "",
+        "note": "Trade: Compensatory Pick (From PIT)"
+      },
+      {
+        "pick": 215,
+        "round": 6,
+        "team": "Atlanta Falcons",
+        "player": "Harold Perkins Jr.",
+        "position": "LB",
+        "school": "",
+        "note": "Trade: Compensatory Pick (From PHI)"
+      },
+      {
+        "pick": 216,
+        "round": 6,
+        "team": "Green Bay Packers",
+        "player": "Trey Smack",
+        "position": "PK",
+        "school": "",
+        "note": "Trade: Compensatory Pick (From PIT via SEA)"
+      },
+      {
+        "pick": 217,
+        "round": 7,
+        "team": "Arizona Cardinals",
+        "player": "Jayden Williams",
+        "position": "OT",
+        "school": "",
+        "note": ""
+      },
+      {
+        "pick": 218,
+        "round": 7,
+        "team": "Dallas Cowboys",
+        "player": "Anthony Smith",
+        "position": "WR",
+        "school": "",
+        "note": "Trade: From TEN"
+      },
+      {
+        "pick": 219,
+        "round": 7,
+        "team": "New Orleans Saints",
+        "player": "TJ Hall",
+        "position": "CB",
+        "school": "",
+        "note": "Trade: From LV"
+      },
+      {
+        "pick": 220,
+        "round": 7,
+        "team": "Buffalo Bills",
+        "player": "Toriano Pride Jr.",
+        "position": "CB",
+        "school": "",
+        "note": "Trade: From NYJ"
+      },
+      {
+        "pick": 221,
+        "round": 7,
+        "team": "Cincinnati Bengals",
+        "player": "Jack Endries",
+        "position": "TE",
+        "school": "",
+        "note": "Trade: From NYG via DAL"
+      },
+      {
+        "pick": 222,
+        "round": 7,
+        "team": "Detroit Lions",
+        "player": "Tyre West",
+        "position": "EDGE",
+        "school": "",
+        "note": "Trade: From CLE"
+      },
+      {
+        "pick": 223,
+        "round": 7,
+        "team": "Washington Commanders",
+        "player": "Athan Kaliakmanis",
+        "position": "QB",
+        "school": "",
+        "note": ""
+      },
+      {
+        "pick": 224,
+        "round": 7,
+        "team": "Pittsburgh Steelers",
+        "player": "Robert Spears-Jennings",
+        "position": "S",
+        "school": "",
+        "note": "Trade: From NO via NE"
+      },
+      {
+        "pick": 225,
+        "round": 7,
+        "team": "Tennessee Titans",
+        "player": "Jaren Kanak",
+        "position": "TE",
+        "school": "",
+        "note": "Trade: From KC via DAL"
+      },
+      {
+        "pick": 226,
+        "round": 7,
+        "team": "Cincinnati Bengals",
+        "player": "Landon Robinson",
+        "position": "DT",
+        "school": "",
+        "note": ""
+      },
+      {
+        "pick": 227,
+        "round": 7,
+        "team": "Carolina Panthers",
+        "player": "Jackson Kuwatch",
+        "position": "LB",
+        "school": "",
+        "note": "Trade: From MIA"
+      },
+      {
+        "pick": 228,
+        "round": 7,
+        "team": "New York Jets",
+        "player": "VJ Payne",
+        "position": "S",
+        "school": "",
+        "note": "Trade: From DAL via BUF and LV"
+      },
+      {
+        "pick": 229,
+        "round": 7,
+        "team": "Las Vegas Raiders",
+        "player": "Brandon Cleveland",
+        "position": "DT",
+        "school": "",
+        "note": "Trade: From TB"
+      },
+      {
+        "pick": 230,
+        "round": 7,
+        "team": "Pittsburgh Steelers",
+        "player": "Eli Heidenreich",
+        "position": "RB",
+        "school": "",
+        "note": "Trade: From IND"
+      },
+      {
+        "pick": 231,
+        "round": 7,
+        "team": "Atlanta Falcons",
+        "player": "Ethan Onianwa",
+        "position": "OT",
+        "school": "",
+        "note": ""
+      },
+      {
+        "pick": 232,
+        "round": 7,
+        "team": "Los Angeles Rams",
+        "player": "Tim Keenan III",
+        "position": "DT",
+        "school": "",
+        "note": "Trade: From BAL"
+      },
+      {
+        "pick": 233,
+        "round": 7,
+        "team": "Jacksonville Jaguars",
+        "player": "Zach Durfee",
+        "position": "EDGE",
+        "school": "",
+        "note": "Trade: From DET"
+      },
+      {
+        "pick": 234,
+        "round": 7,
+        "team": "New England Patriots",
+        "player": "Behren Morton",
+        "position": "QB",
+        "school": "",
+        "note": "Trade: From MIN"
+      },
+      {
+        "pick": 235,
+        "round": 7,
+        "team": "Minnesota Vikings",
+        "player": "Gavin Gerhardt",
+        "position": "C",
+        "school": "",
+        "note": "Trade: From CAR"
+      },
+      {
+        "pick": 236,
+        "round": 7,
+        "team": "Seattle Seahawks",
+        "player": "Andre Fuller",
+        "position": "CB",
+        "school": "",
+        "note": "Trade: From GB"
+      },
+      {
+        "pick": 237,
+        "round": 7,
+        "team": "Indianapolis Colts",
+        "player": "Seth McGowan",
+        "position": "RB",
+        "school": "",
+        "note": "Trade: From PIT"
+      },
+      {
+        "pick": 238,
+        "round": 7,
+        "team": "Miami Dolphins",
+        "player": "Max Llewellyn",
+        "position": "EDGE",
+        "school": "",
+        "note": "Trade: From LAC via TEN and NYJ"
+      },
+      {
+        "pick": 239,
+        "round": 7,
+        "team": "Buffalo Bills",
+        "player": "Tommy Doman",
+        "position": "P",
+        "school": "",
+        "note": "Trade: From PHI via JAX, CLE and CHI"
+      },
+      {
+        "pick": 240,
+        "round": 7,
+        "team": "Jacksonville Jaguars",
+        "player": "Parker Hughes",
+        "position": "LB",
+        "school": "",
+        "note": ""
+      },
+      {
+        "pick": 241,
+        "round": 7,
+        "team": "Buffalo Bills",
+        "player": "Ar'maj Reed-Adams",
+        "position": "OG",
+        "school": "",
+        "note": "Trade: From CHI"
+      },
+      {
+        "pick": 242,
+        "round": 7,
+        "team": "Seattle Seahawks",
+        "player": "Deven Eastern",
+        "position": "DT",
+        "school": "",
+        "note": "Trade: From BUF via CLE and NYJ"
+      },
+      {
+        "pick": 243,
+        "round": 7,
+        "team": "Houston Texans",
+        "player": "Aiden Fisher",
+        "position": "LB",
+        "school": "",
+        "note": "Trade: From SF"
+      },
+      {
+        "pick": 244,
+        "round": 7,
+        "team": "Philadelphia Eagles",
+        "player": "Cole Wisniewski",
+        "position": "S",
+        "school": "",
+        "note": "Trade: From HOU via MIN"
+      },
+      {
+        "pick": 245,
+        "round": 7,
+        "team": "New England Patriots",
+        "player": "Jam Miller",
+        "position": "RB",
+        "school": "",
+        "note": "Trade: From LAR via HOU and JAX"
+      },
+      {
+        "pick": 246,
+        "round": 7,
+        "team": "Denver Broncos",
+        "player": "Miles Scott",
+        "position": "S",
+        "school": "",
+        "note": ""
+      },
+      {
+        "pick": 247,
+        "round": 7,
+        "team": "New England Patriots",
+        "player": "Quintayvious Hutchins",
+        "position": "EDGE",
+        "school": "",
+        "note": ""
+      },
+      {
+        "pick": 248,
+        "round": 7,
+        "team": "Cleveland Browns",
+        "player": "Carsen Ryan",
+        "position": "TE",
+        "school": "",
+        "note": "Trade: From SEA"
+      },
+      {
+        "pick": 249,
+        "round": 7,
+        "team": "Kansas City Chiefs",
+        "player": "Garrett Nussmeier",
+        "position": "QB",
+        "school": "",
+        "note": "Trade: Compensatory Pick (From IND via PIT)"
+      },
+      {
+        "pick": 250,
+        "round": 7,
+        "team": "Baltimore Ravens",
+        "player": "Rayshaun Benny",
+        "position": "DT",
+        "school": "",
+        "note": "Trade: Compensatory Pick"
+      },
+      {
+        "pick": 251,
+        "round": 7,
+        "team": "Philadelphia Eagles",
+        "player": "Uar Bernard",
+        "position": "DT",
+        "school": "",
+        "note": "Trade: Compensatory Pick (From LAR)"
+      },
+      {
+        "pick": 252,
+        "round": 7,
+        "team": "Philadelphia Eagles",
+        "player": "Keyshawn James-Newby",
+        "position": "EDGE",
+        "school": "",
+        "note": "Trade: Compensatory Pick (From LAR)"
+      },
+      {
+        "pick": 253,
+        "round": 7,
+        "team": "Baltimore Ravens",
+        "player": "Evan Beerntsen",
+        "position": "OG",
+        "school": "",
+        "note": "Trade: Compensatory Pick"
+      },
+      {
+        "pick": 254,
+        "round": 7,
+        "team": "Indianapolis Colts",
+        "player": "Deion Burks",
+        "position": "WR",
+        "school": "",
+        "note": "Trade: Compensatory Pick"
+      },
+      {
+        "pick": 255,
+        "round": 7,
+        "team": "Seattle Seahawks",
+        "player": "Michael Dansby",
+        "position": "CB",
+        "school": "",
+        "note": "Trade: Compensatory Pick (From GB)"
+      },
+      {
+        "pick": 256,
+        "round": 7,
+        "team": "Denver Broncos",
+        "player": "Dallen Bentley",
+        "position": "TE",
+        "school": "",
+        "note": "Trade: Compensatory Pick"
+      },
+      {
+        "pick": 257,
+        "round": 7,
+        "team": "Denver Broncos",
+        "player": "Red Murdock",
+        "position": "LB",
+        "school": "",
+        "note": "Trade: Compensatory Pick"
+      }
+    ],
+    "source": "espn"
+  },
   "highlights": [
+    {
+      "league": "NBA",
+      "title": "What a legendary moment to open last season 🤝",
+      "videoId": "VPFv6RXPn5E",
+      "thumbnail": "https://img.youtube.com/vi/VPFv6RXPn5E/mqdefault.jpg",
+      "timeAgo": "14h ago",
+      "isFallback": false
+    },
+    {
+      "league": "NFL",
+      "title": "Can the Chargers win the AFC? + NFL QB battles | SportsCenter",
+      "videoId": "o-z12ReNHWE",
+      "thumbnail": "https://img.youtube.com/vi/o-z12ReNHWE/mqdefault.jpg",
+      "timeAgo": "5h ago",
+      "isFallback": false
+    },
+    {
+      "league": "MLB",
+      "title": "ASTROS vs. ANGELS: Official Full Game Highlights (July 27) | 2026 MLB Season",
+      "videoId": "NAJYC3qsqA0",
+      "thumbnail": "https://img.youtube.com/vi/NAJYC3qsqA0/mqdefault.jpg",
+      "timeAgo": "4h ago",
+      "isFallback": false
+    },
+    {
+      "league": "NHL",
+      "title": "FULL REPLAY: Unbelievable Game 7 Comeback! Leafs @ Bruins | 2013 Stanley Cup Playoffs",
+      "videoId": "RrlgFXcS6pk",
+      "thumbnail": "https://img.youtube.com/vi/RrlgFXcS6pk/mqdefault.jpg",
+      "timeAgo": "11h ago",
+      "isFallback": false
+    },
     {
       "league": "WNBA",
       "title": "Best of Team Spoon | FULL TEAM SPOON HIGHLIGHTS | July 25, 2026",
       "videoId": "V8Malexh8CE",
       "thumbnail": "https://img.youtube.com/vi/V8Malexh8CE/mqdefault.jpg",
-      "timeAgo": "13h ago",
+      "timeAgo": "16h ago",
+      "isFallback": false
+    },
+    {
+      "league": "SOCCER",
+      "title": "gotta protect Messi no matter what 😂 (Via yasstcheuko/TT)",
+      "videoId": "8y3uW-ZokBQ",
+      "thumbnail": "https://img.youtube.com/vi/8y3uW-ZokBQ/mqdefault.jpg",
+      "timeAgo": "6h ago",
       "isFallback": false
     }
   ],
   "reels": [
+    {
+      "league": "MLB",
+      "title": "ASTROS vs. ANGELS: Official Full Game Highlights (July 27) | 2026 MLB Season",
+      "videoId": "NAJYC3qsqA0",
+      "author": "MLB",
+      "pubDate": "2026-07-28T05:18:58+00:00",
+      "link": "https://www.youtube.com/watch?v=NAJYC3qsqA0"
+    },
+    {
+      "league": "MLB",
+      "title": "RED SOX vs. ATHLETICS: Official Full Game Highlights (July 27) | 2026 MLB Season",
+      "videoId": "QyE3ck1p0JY",
+      "author": "MLB",
+      "pubDate": "2026-07-28T04:50:47+00:00",
+      "link": "https://www.youtube.com/watch?v=QyE3ck1p0JY"
+    },
+    {
+      "league": "MLB",
+      "title": "BREWERS vs. GIANTS: Official Full Game Highlights (July 27) | 2026 MLB Season",
+      "videoId": "f_9z7vw7yOI",
+      "author": "MLB",
+      "pubDate": "2026-07-28T04:44:27+00:00",
+      "link": "https://www.youtube.com/watch?v=f_9z7vw7yOI"
+    },
+    {
+      "league": "MLB",
+      "title": "CUBS vs. CARDINALS: Official Full Game Highlights (July 27) | 2026 MLB Season",
+      "videoId": "YtBw6G1Lg6k",
+      "author": "MLB",
+      "pubDate": "2026-07-28T04:30:42+00:00",
+      "link": "https://www.youtube.com/watch?v=YtBw6G1Lg6k"
+    },
+    {
+      "league": "NFL",
+      "title": "Can the Chargers win the AFC? + NFL QB battles | SportsCenter",
+      "videoId": "o-z12ReNHWE",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-07-28T04:08:34+00:00",
+      "link": "https://www.youtube.com/watch?v=o-z12ReNHWE"
+    },
+    {
+      "league": "NFL",
+      "title": "Daniel Oyefusi with the latest surrounding the Cleveland Browns' QB competition ✍️  #espn #nfl",
+      "videoId": "2mlRD_iUUT0",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-07-28T03:59:08+00:00",
+      "link": "https://www.youtube.com/watch?v=2mlRD_iUUT0"
+    },
+    {
+      "league": "MLB",
+      "title": "YANKEES vs. WHITE SOX: Official Full Game Highlights (July 27) | 2026 MLB Season",
+      "videoId": "zq536Mkd6Mw",
+      "author": "MLB",
+      "pubDate": "2026-07-28T03:53:51+00:00",
+      "link": "https://www.youtube.com/watch?v=zq536Mkd6Mw"
+    },
+    {
+      "league": "SOCCER",
+      "title": "gotta protect Messi no matter what 😂 (Via yasstcheuko/TT)",
+      "videoId": "8y3uW-ZokBQ",
+      "author": "ESPN FC",
+      "pubDate": "2026-07-28T03:10:36+00:00",
+      "link": "https://www.youtube.com/watch?v=8y3uW-ZokBQ"
+    },
+    {
+      "league": "MLB",
+      "title": "Max Scherzer receives THUNDEROUS OVATION in return to Washington D.C. 🌟 | MLB Highlights",
+      "videoId": "721l6_Ckvys",
+      "author": "MLB",
+      "pubDate": "2026-07-28T02:50:36+00:00",
+      "link": "https://www.youtube.com/watch?v=721l6_Ckvys"
+    },
+    {
+      "league": "MLB",
+      "title": "PHILLIES vs. MARLINS: Official Full Game Highlights (July 27) | 2026 MLB Season",
+      "videoId": "zdNg1ZIbLRk",
+      "author": "MLB",
+      "pubDate": "2026-07-28T02:24:05+00:00",
+      "link": "https://www.youtube.com/watch?v=zdNg1ZIbLRk"
+    },
+    {
+      "league": "MLB",
+      "title": "D-BACKS vs. PIRATES: Official Full Game Highlights (July 27) | 2026 MLB Season",
+      "videoId": "ope9i0GnxXE",
+      "author": "MLB",
+      "pubDate": "2026-07-28T02:17:58+00:00",
+      "link": "https://www.youtube.com/watch?v=ope9i0GnxXE"
+    },
+    {
+      "league": "SOCCER",
+      "title": "Thomas Müller at MLS All-Star media day 😂",
+      "videoId": "tnHB43CtW24",
+      "author": "ESPN FC",
+      "pubDate": "2026-07-28T02:10:00+00:00",
+      "link": "https://www.youtube.com/watch?v=tnHB43CtW24"
+    },
+    {
+      "league": "SOCCER",
+      "title": "Son is hilarious 🤣",
+      "videoId": "_7R-EqjaIuQ",
+      "author": "ESPN FC",
+      "pubDate": "2026-07-28T01:37:29+00:00",
+      "link": "https://www.youtube.com/watch?v=_7R-EqjaIuQ"
+    },
+    {
+      "league": "SOCCER",
+      "title": "Thomas Müller messing with our admin at MLS All-Star media day 😂",
+      "videoId": "avQoVDGvb6A",
+      "author": "ESPN FC",
+      "pubDate": "2026-07-28T00:30:16+00:00",
+      "link": "https://www.youtube.com/watch?v=avQoVDGvb6A"
+    },
+    {
+      "league": "SOCCER",
+      "title": "A memory Son will never forget ❤️",
+      "videoId": "_HsGgykh5BQ",
+      "author": "ESPN FC",
+      "pubDate": "2026-07-28T00:15:02+00:00",
+      "link": "https://www.youtube.com/watch?v=_HsGgykh5BQ"
+    },
+    {
+      "league": "SOCCER",
+      "title": "Thomas Muller says Spain is a “great winner” 💬",
+      "videoId": "F5OxtDiRgqU",
+      "author": "ESPN FC",
+      "pubDate": "2026-07-28T00:00:22+00:00",
+      "link": "https://www.youtube.com/watch?v=F5OxtDiRgqU"
+    },
+    {
+      "league": "SOCCER",
+      "title": "It was Gianluigi Donnarumma's wedding 😂 (via dott.ssa_annapaola_manfredonia/IG)",
+      "videoId": "N77oQuU3uOw",
+      "author": "ESPN FC",
+      "pubDate": "2026-07-27T23:45:31+00:00",
+      "link": "https://www.youtube.com/watch?v=N77oQuU3uOw"
+    },
+    {
+      "league": "SOCCER",
+      "title": "Some MLS All-Star Q&amp;A with Son Heung-Min 🎥",
+      "videoId": "dhOOwQyZP5I",
+      "author": "ESPN FC",
+      "pubDate": "2026-07-27T23:45:09+00:00",
+      "link": "https://www.youtube.com/watch?v=dhOOwQyZP5I"
+    },
+    {
+      "league": "NFL",
+      "title": "🚨 Vita Via has requested a trade from the Buccaneers + Latest NFL news | SportsCenter",
+      "videoId": "U0yWAR8Tysw",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-07-27T23:04:25+00:00",
+      "link": "https://www.youtube.com/watch?v=U0yWAR8Tysw"
+    },
+    {
+      "league": "NHL",
+      "title": "FULL REPLAY: Unbelievable Game 7 Comeback! Leafs @ Bruins | 2013 Stanley Cup Playoffs",
+      "videoId": "RrlgFXcS6pk",
+      "author": "NHL",
+      "pubDate": "2026-07-27T23:00:06+00:00",
+      "link": "https://www.youtube.com/watch?v=RrlgFXcS6pk"
+    },
+    {
+      "league": "NFL",
+      "title": "Only player to ever ask to be slapped in the face? 😅 👀 (via jaguars/TT)",
+      "videoId": "bSm_XcmphHs",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-07-27T22:48:56+00:00",
+      "link": "https://www.youtube.com/watch?v=bSm_XcmphHs"
+    },
+    {
+      "league": "NFL",
+      "title": "Do you agree with Adam Thielen's perfect WR? 🤔",
+      "videoId": "dfkI7FYq_vc",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-07-27T21:50:22+00:00",
+      "link": "https://www.youtube.com/watch?v=dfkI7FYq_vc"
+    },
+    {
+      "league": "NFL",
+      "title": "How A.J. Brown creates opportunities for the Patriots + Impact of Evans leaving the Bucs | NFL Live",
+      "videoId": "-_OAgLa93mo",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-07-27T21:26:35+00:00",
+      "link": "https://www.youtube.com/watch?v=-_OAgLa93mo"
+    },
+    {
+      "league": "NFL",
+      "title": "‘It’s Kyler’s job to lose’ 👀 Who should start at QB for the Vikings? | NFL Live",
+      "videoId": "q09OsT8zVPw",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-07-27T21:14:06+00:00",
+      "link": "https://www.youtube.com/watch?v=q09OsT8zVPw"
+    },
+    {
+      "league": "NFL",
+      "title": "Adam Thielen on who should start at QB for the Vikings 👀",
+      "videoId": "XtpiRk5u0iA",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-07-27T20:51:56+00:00",
+      "link": "https://www.youtube.com/watch?v=XtpiRk5u0iA"
+    },
+    {
+      "league": "NBA",
+      "title": "What a legendary moment to open last season 🤝",
+      "videoId": "VPFv6RXPn5E",
+      "author": "NBA",
+      "pubDate": "2026-07-27T19:59:29+00:00",
+      "link": "https://www.youtube.com/watch?v=VPFv6RXPn5E"
+    },
+    {
+      "league": "NBA",
+      "title": "Sterling “The Popcorn Kid” On the Phoenix Suns Jumbotron 🍿🥹",
+      "videoId": "yq-s64aDjKI",
+      "author": "NBA",
+      "pubDate": "2026-07-27T19:56:04+00:00",
+      "link": "https://www.youtube.com/watch?v=yq-s64aDjKI"
+    },
+    {
+      "league": "NBA",
+      "title": "Shai Gilgeous-Alexander on his Crafty Scoring Moves from the 2025-26 Season",
+      "videoId": "vxT-5TXr3Lc",
+      "author": "NBA",
+      "pubDate": "2026-07-27T19:52:52+00:00",
+      "link": "https://www.youtube.com/watch?v=vxT-5TXr3Lc"
+    },
+    {
+      "league": "NBA",
+      "title": "Still trying to comprehend this Stephon Castle move 😮‍💨",
+      "videoId": "_z1kveucdDA",
+      "author": "NBA",
+      "pubDate": "2026-07-27T19:45:28+00:00",
+      "link": "https://www.youtube.com/watch?v=_z1kveucdDA"
+    },
+    {
+      "league": "NBA",
+      "title": "De'Andre Hunter delivered an ALL-TIME CROSS &amp; SLAM last November 🤯",
+      "videoId": "gGKUD5D74-s",
+      "author": "NBA",
+      "pubDate": "2026-07-27T19:40:50+00:00",
+      "link": "https://www.youtube.com/watch?v=gGKUD5D74-s"
+    },
     {
       "league": "WNBA",
       "title": "Best of Team Spoon | FULL TEAM SPOON HIGHLIGHTS | July 25, 2026",
@@ -5989,12 +6154,52 @@
       "link": "https://www.youtube.com/watch?v=V8Malexh8CE"
     },
     {
+      "league": "NBA",
+      "title": "Newest 76er, LeBron James, putting in offseason work ahead of season 24! 👑 (via: @kingjames/IG)",
+      "videoId": "zk9v2FZiGSA",
+      "author": "NBA",
+      "pubDate": "2026-07-27T17:00:53+00:00",
+      "link": "https://www.youtube.com/watch?v=zk9v2FZiGSA"
+    },
+    {
+      "league": "NHL",
+      "title": "NHLers' LEAST FAVORITE offseason workouts! 😮‍💨🙅😅",
+      "videoId": "nE7YCNuCULw",
+      "author": "NHL",
+      "pubDate": "2026-07-27T17:00:31+00:00",
+      "link": "https://www.youtube.com/watch?v=nE7YCNuCULw"
+    },
+    {
+      "league": "NBA",
+      "title": "Great Losing the Defense Handles of the 2025-26 NBA Season",
+      "videoId": "H_653nrxWIw",
+      "author": "NBA",
+      "pubDate": "2026-07-27T16:43:21+00:00",
+      "link": "https://www.youtube.com/watch?v=H_653nrxWIw"
+    },
+    {
+      "league": "NHL",
+      "title": "3ICE Hockey: The Best Part of Hockey is BACK!",
+      "videoId": "F2qjqBACL3M",
+      "author": "NHL",
+      "pubDate": "2026-07-27T16:25:42+00:00",
+      "link": "https://www.youtube.com/watch?v=F2qjqBACL3M"
+    },
+    {
       "league": "WNBA",
       "title": "President Barack Obama Takes On 2026 AT&amp;T WNBA All-Star Weekend",
       "videoId": "e5WYX77Zt-U",
       "author": "WNBA",
       "pubDate": "2026-07-27T16:15:40+00:00",
       "link": "https://www.youtube.com/watch?v=e5WYX77Zt-U"
+    },
+    {
+      "league": "NBA",
+      "title": "LeBron James will officially play his historic 24th NBA season with the Philadelphia 76ers 👑",
+      "videoId": "Y3TLQmd2mq0",
+      "author": "NBA",
+      "pubDate": "2026-07-27T15:12:12+00:00",
+      "link": "https://www.youtube.com/watch?v=Y3TLQmd2mq0"
     },
     {
       "league": "WNBA",
@@ -6019,30 +6224,6 @@
       "author": "WNBA",
       "pubDate": "2026-07-25T23:56:01+00:00",
       "link": "https://www.youtube.com/watch?v=OiZQ80fwlkA"
-    },
-    {
-      "league": "WNBA",
-      "title": "2026 AT&amp;T WNBA All-Star Game Pre-Game Press Conference",
-      "videoId": "0wbt6A77Y5Y",
-      "author": "WNBA",
-      "pubDate": "2026-07-25T22:54:29+00:00",
-      "link": "https://www.youtube.com/watch?v=0wbt6A77Y5Y"
-    },
-    {
-      "league": "WNBA",
-      "title": "Nike x WNBA: Ready for What’s Next",
-      "videoId": "0554NwaOwb0",
-      "author": "WNBA",
-      "pubDate": "2026-07-25T08:43:51+00:00",
-      "link": "https://www.youtube.com/watch?v=0554NwaOwb0"
-    },
-    {
-      "league": "WNBA",
-      "title": "2026 State Farm WNBA 3-Point Contest | FULL VIDEO",
-      "videoId": "0Tjje7ADFYQ",
-      "author": "WNBA",
-      "pubDate": "2026-07-25T03:45:52+00:00",
-      "link": "https://www.youtube.com/watch?v=0Tjje7ADFYQ"
     }
   ]
 }
