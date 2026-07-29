@@ -1,73 +1,81 @@
 {
   "clusters": [
     {
-      "category": "contracts",
-      "importance": 8,
-      "leadHeadline": "Sharks sign Macklin Celebrini to historic five-year, $94-million extension",
-      "leadSource": "Sportsnet · 1h ago",
-      "leadUrl": "",
-      "summary": "<cite index=\"1-1,1-3\">Macklin Celebrini signed a five-year, $94 million extension with San Jose on Wednesday, making him the NHL's highest-paid player at $18.8 million annually</cite>.",
-      "article": "<cite index=\"1-1\">San Jose Sharks forward Macklin Celebrini signed a five-year, $94 million extension announced Wednesday by general manager Mike Grier</cite>. <cite index=\"1-3\">The $18.8 million average annual value makes Celebrini the highest-paid player in the NHL</cite>, surpassing <cite index=\"2-3\">Leo Carlsson's $18 million deal agreed to July 3</cite>.\n\n<cite index=\"1-5\">The 2024 first overall pick set a Sharks franchise record with 115 points last season while finishing with 45 goals</cite>. <cite index=\"1-6\">He was a finalist for the Ted Lindsay Award</cite>. The 20-year-old is <cite index=\"1-7\">entering the final year of his entry-level contract</cite>, and <cite index=\"3-4\">the deal allows the Sharks to buy one year of unrestricted free agency for Celebrini, who could hit the market as a 26-year-old in summer 2032</cite>.\n\n<cite index=\"5-7,5-8,5-9\">\"I couldn't be happier to sign an extension today,\" Celebrini said in a statement. \"The faith and support that Mr. Plattner, Mike Grier and the entire staff have shown me throughout the past two seasons is proof that we are building something special here. My teammates and I are ready to take another step toward the ultimate goal of bringing a Stanley Cup to this city and its incredible fans.\"</cite>",
-      "tweets": []
-    },
-    {
       "category": "media",
-      "importance": 7,
+      "importance": 8,
       "leadHeadline": "Gotham Sports App to Wind Down as MSG, YES Network Secure DAZN Pact",
-      "leadSource": "Sportico · 4h ago",
+      "leadSource": "Sportico · 8h ago",
       "leadUrl": "https://www.sportico.com/business/media/2026/msg-yes-network-dazn-gotham-sports-app-1234940378/",
-      "summary": "Two years after launch, MSG Networks and YES Network are discontinuing their joint Gotham Sports streaming app and pivoting to a new deal making DAZN the exclusive direct-to-consumer home for both brands' content.",
-      "article": "MSG Networks and YES Network have shut down the Gotham Sports streaming app, their joint direct-to-consumer venture that launched two years ago, and secured a new deal to establish DAZN as the exclusive home for both brands' content. The decision marks a strategic pivot away from proprietary streaming infrastructure toward a third-party platform with broader distribution reach. DAZN, already a major player in sports streaming globally, now gains exclusive rights to MSG and YES programming, which includes New York Knicks and Rangers games along with Nets content. The Gotham app, which required separate investment and development, failed to gain significant subscriber traction compared to established platforms. The transition to DAZN gives MSG and YES access to a larger subscriber base without the ongoing operational burden of maintaining their own app, though it reduces their direct-to-consumer control. The move reflects the broader industry shift away from standalone team and network apps toward aggregation on third-party platforms.",
-      "tweets": []
+      "summary": "<cite index=\"5-1,5-3\">YES Network and MSG Networks are shuttering the Gotham Sports app after two years, moving to DAZN as their exclusive streaming home for the 2026-27 NBA and NHL seasons.</cite>",
+      "article": "<cite index=\"5-1,5-3\">YES Network and MSG Networks are pulling the plug on the Gotham Sports app two years after launch, establishing DAZN as their exclusive direct-to-consumer streaming home for the 2026-27 NBA and NHL seasons.</cite> <cite index=\"13-5,13-6\">The migration timeline and further details remain to be announced.</cite>\n\n<cite index=\"9-3\">The deal covers Yankees, Knicks, Nets, Rangers, Devils, Islanders, and Sabres games on DAZN.</cite> <cite index=\"13-8,13-9\">Legacy Gotham accounts transfer at no additional cost, and pay-TV subscribers retain MSG and YES content through DAZN without extra fees.</cite>\n\n<cite index=\"13-11\">Gotham launched in October 2024</cite> as a unified streaming option after <cite index=\"3-8\">both networks had separately launched apps in 2023 before combining into Gotham.</cite> <cite index=\"13-7\">Financial terms were not disclosed.</cite>\n\n<cite index=\"16-1,16-3\">Shay Segev, CEO of DAZN Group, called it \"a defining moment\" that \"underscores our commitment to expanding our footprint in the United States.\"</cite> <cite index=\"16-5,16-6\">Kevin Marotta, SVP of Content and Marketing for MSG Networks, said DAZN is a \"premier streaming platform\" and that the move comes \"off of a historic Knicks Championship season.\"</cite>",
+      "tweets": [
+        {
+          "url": "https://twitter.com/FOS/status/2082452131823382908",
+          "html": "<blockquote class=\"twitter-tweet\" data-dnt=\"true\" data-theme=\"dark\"><p>The Yankees-controlled YES Network and James Dolan-led MSG Networks are ditching the Gotham app for an exclusive streaming deal with DAZN.\n\nBeginning this fall, DAZN will stream the Yankees, Knicks, Nets, Rangers, Devils, Islanders, and Sabres in those local markets.</p>&mdash; Front Office Sports (@FOS) <a href=\"https://twitter.com/FOS/status/2082452131823382908\">July 29, 2026</a></blockquote>",
+          "author_name": "Front Office Sports",
+          "author_url": "https://twitter.com/FOS",
+          "dateMs": 1785330252000
+        }
+      ]
     },
     {
-      "category": "labor",
+      "category": "revenue",
       "importance": 7,
-      "leadHeadline": "USMNT coach Mauricio Pochettino, US Soccer in 'final stages' of agreeing on new contract",
-      "leadSource": "The Guardian · just now",
-      "leadUrl": "https://www.theguardian.com/football/2026/jul/29/mauricio-pochettino-us-soccer-contract-status",
-      "summary": "USMNT head coach Mauricio Pochettino and US Soccer are finalizing a contract extension through the 2030 World Cup, with the Argentinian set to earn significantly more under the new terms.",
-      "article": "Mauricio Pochettino and US Soccer are in the final stages of agreeing to a new contract extension that would keep the USMNT head coach through the 2030 World Cup. Multiple sources briefed on negotiations confirm the Argentinian will earn significantly more under the new deal, though exact figures have not been disclosed. Pochettino's original contract, signed when he took the job, ran through the 2026 World Cup. The extension locks in continuity for the national team program during a critical four-year cycle and signals confidence from US Soccer leadership despite mixed results under his tenure. The timing comes ahead of crucial World Cup qualifying matches and reflects the federation's commitment to maintaining coaching stability despite pressure from some corners questioning his tactical approach and personnel decisions. The new deal structure is expected to place Pochettino among the highest-paid national team coaches globally, consistent with the federation's stated ambition to compete at the highest level in 2026 and 2030.",
-      "tweets": []
-    },
-    {
-      "category": "revenue",
-      "importance": 6,
       "leadHeadline": "WNBA scores fifth-largest audience on record for All-Star Game",
-      "leadSource": "Sports Media Watch · 13h ago",
+      "leadSource": "Sports Media Watch · 17h ago",
       "leadUrl": "https://www.sportsmediawatch.com/2026/07/wnba-all-star-viewership-abc-fifth-largest-audience-on-record/",
-      "summary": "The WNBA delivered one of its five largest audiences on record for Saturday's All-Star Game, continuing a trend of strong viewership growth for the league's marquee events.",
-      "article": "The WNBA's All-Star Game on Saturday drew one of the five largest audiences in the league's history, marking another milestone in the league's recent surge in mainstream viewership. The figure underscores the momentum the WNBA has built this season, driven by expanded national media coverage, increased social media presence, and stronger star-power visibility. All-Star Games traditionally outperform regular-season broadcasts, but this year's performance suggests deeper underlying growth in the WNBA's audience base. The strong showing aligns with the league's broader media strategy to secure premium time slots and expand its broadcast footprint across multiple networks. The league has benefited from increased interest in women's sports generally and from strategic player branding and league-level marketing that has made WNBA players more recognizable to casual sports fans. This viewership performance strengthens the WNBA's position in upcoming media rights negotiations and reinforces the case for higher salary caps and increased investment from franchises.",
-      "tweets": []
-    },
-    {
-      "category": "revenue",
-      "importance": 5,
-      "leadHeadline": "San Diego FC CEO: World Cup Is MLS's 'Second Booster' After Messi",
-      "leadSource": "Front Office Sports · 1h ago",
-      "leadUrl": "https://frontofficesports.com/san-diego-fc-ceo-world-cup-is-mlss-second-booster-after-messi/",
-      "summary": "MLS ticket sales surged during the World Cup period, with San Diego FC's CEO citing the tournament as a crucial catalyst for league growth alongside Lionel Messi's arrival with Inter Miami.",
-      "article": "MLS is experiencing a significant ticket sales boost linked to the FIFA World Cup, according to San Diego FC's CEO, who framed the tournament as the league's second major growth driver after Lionel Messi's move to Inter Miami. The World Cup amplified soccer's visibility in the United States and elevated the sport's cultural prominence, translating directly into increased demand for MLS fixtures. Fans following their national teams in the World Cup have shown higher propensity to attend MLS matches, creating a virtuous cycle for league franchises. Messi's arrival at Inter Miami last year fundamentally reshaped the MLS landscape, drawing casual and international audiences. The World Cup has compounded that effect by making soccer a primary sports conversation in the US during the tournament window. MLS franchises are capitalizing on this momentum through pricing strategies and marketing campaigns that emphasize the connection between the World Cup and domestic league play. The league's ability to leverage two major events in close succession suggests momentum heading into the next media rights negotiation window, where higher valuations and broader distribution could be justified on audience and engagement metrics.",
+      "summary": "The WNBA delivered one of its five largest audiences on record for Saturday's All-Star Game, marking another strong viewership result for the league as it continues to grow fan engagement. The rating represents sustained momentum for women's professional basketball.",
+      "article": "The WNBA posted one of its five largest audiences on record for Saturday's All-Star Game, reinforcing the league's trajectory toward mainstream viewership benchmarks. The exact viewership number was not disclosed in the initial report, but the fifth-largest-all-time designation places the game among the league's most-watched events. This follows a pattern of growing All-Star engagement and reflects the increased television coverage and promotional support the WNBA has received in recent seasons. The All-Star Game serves as a barometer for league health, combining star power, competitive intrigue, and a broader cultural moment around women's sports. The result provides concrete evidence to broadcast partners and sponsors that WNBA content can deliver significant audiences, which is critical as the league approaches its next media rights negotiation cycle. The league has benefited from expanded coverage on ESPN, ABC, and other platforms, as well as crossover interest from casual fans during marquee matchups. The strong All-Star number positions the WNBA favorably in conversations about women's sports viewership trends heading into the regular season.",
       "tweets": []
     },
     {
       "category": "contracts",
-      "importance": 5,
-      "leadHeadline": "Record Salary Cap Pushes NFL Contracts to New Highs",
-      "leadSource": "Front Office Sports · 1h ago",
-      "leadUrl": "https://frontofficesports.com/record-salary-cap-pushes-nfl-contracts-to-new-highs/",
-      "summary": "The NFL's record salary cap continues to drive historic contract values across the league, as franchises deploy increased financial capacity to secure star talent and build competitive rosters.",
-      "article": "The NFL salary cap has reached record levels, enabling franchises to structure unprecedented contract values across all positions. The expanded cap reflects the league's surging media rights revenues, which have topped $100 billion across all broadcast partners through 2033. Teams are translating that financial flexibility into guaranteed money and per-year values that dwarf previous benchmarks. Star quarterbacks, pass rushers, and elite offensive weapons command top-of-market deals that now routinely exceed $50 million per year in guaranteed funds. Non-quarterback positions are also seeing inflation as franchises compete harder for limited elite talent. The high cap environment creates urgency for front offices to lock up core players before their market value escalates further, driving a wave of long-term extensions this offseason. However, the cap's expansion is outpacing revenue growth in some areas, raising questions about long-term sustainability if media deals flatten or decline in future negotiations. For now, the record cap has created a seller's market for player agents and a constraint on cap flexibility for teams that fail to manage their long-term commitments.",
+      "importance": 7,
+      "leadHeadline": "Sean Manaea aces final MLB trade deadline audition in Mets win over Braves to open doubleheader",
+      "leadSource": "NY Post Sports · just now",
+      "leadUrl": "https://nypost.com/2026/07/29/sports/sean-manaea-aces-final-mlb-trade-deadline-audition-in-mets-win-over-braves/",
+      "summary": "Left-hander Sean Manaea delivered a strong performance in a Mets win over Atlanta, using the game as a final showcase ahead of the trade deadline. His outing suggests the Mets' rotation could be a trade asset as the deadline approaches.",
+      "article": "Sean Manaea pitched effectively in the Mets' win over the Braves in the opening game of a doubleheader on Wednesday, in what appears to be a deliberate showcase before the trade deadline. The left-hander's performance is framed as a final audition to boost his value in the trade market, signaling the Mets may be willing to move him rather than extend his tenure in Queens. Manaea has been subject to trade speculation throughout the season, and the Mets appear to be positioning him for maximum exposure to contending teams. A strong outing against a division rival like Atlanta amplifies that message to potential suitors. The timing is critical, as the trade deadline typically arrives in late July, and contenders begin targeting starting pitching in the weeks leading up to it. Manaea's performance against the Braves gives the Mets fresh evidence to present to other organizations about his availability and current form. For the Mets, trading a controllable starting pitcher could free up financial flexibility and yield young prospects or major league-ready talent. For Manaea, a trade to a contender could position him for a postseason run and improve his free-agency profile heading into the offseason. The outing is the latest in a series of deadline-season games that double as job interviews.",
       "tweets": []
     },
     {
       "category": "leagues",
+      "importance": 6,
+      "leadHeadline": "2026 Big Ten Media Days takeaways: It looks like title or bust for Ohio State, Oregon",
+      "leadSource": "CBS Sports · 1h ago",
+      "leadUrl": "https://www.cbssports.com/college-football/news/2026-big-ten-media-days-ohio-state-oregon/",
+      "summary": "Ohio State and Oregon presented themselves as all-in contenders at the 2026 Big Ten Media Days, both signaling their intent to dethrone defending champion Indiana in the upcoming season. The two heavyweights have made significant roster moves and are openly prioritizing a conference title.",
+      "article": "Ohio State and Oregon have positioned themselves as title contenders at the 2026 Big Ten Media Days, with both programs telegraphing an all-or-nothing approach to the upcoming season as they attempt to unseat defending champion Indiana. The messaging from each school at the annual media gathering reflects aggressive roster construction and high internal expectations. Indiana's back-to-back Big Ten titles have raised the bar for the conference, and Ohio State and Oregon are signaling they've made the necessary investments to compete at that level. These statements at media days are carefully calibrated signals to recruits, existing players, and the broader college sports community about institutional commitment. Ohio State, as a perennial power, faces pressure to deliver a conference title and playoff contention after recent seasons fell short of those benchmarks. Oregon's aggressive moves suggest the program believes this window, with its current roster construction, is critical and may not persist. The Big Ten has consolidated power among a handful of programs, and both schools are essentially declaring themselves ready to compete at the highest level. Failure to reach a conference title game would be considered underperformance given the messaging they've sent heading into the season. The candid talk is a departure from the traditional coach-speak at media days and reflects the urgency both programs feel.",
+      "tweets": []
+    },
+    {
+      "category": "contracts",
+      "importance": 6,
+      "leadHeadline": "Agents Take: Patriots offered to make Christian Gonzalez the NFL's highest-paid CB. Why isn't a deal done?",
+      "leadSource": "CBS Sports · 1h ago",
+      "leadUrl": "https://www.cbssports.com/nfl/news/christian-gonzalez-contract-patriots-record-cb-deal/",
+      "summary": "The Patriots have reportedly offered cornerback Christian Gonzalez a record-setting contract, but negotiations remain stalled despite New England's aggressive proposal. The holdup reveals tensions between franchise valuation and player demands in a competitive cornerback market.",
+      "article": "The Patriots have offered cornerback Christian Gonzalez a record-setting deal, according to Robert Kraft, yet a contract extension remains unsigned despite New England's attempt to position him as the NFL's highest-paid corner. The impasse between franchise and player suggests the gap between what the Patriots are willing to commit and what Gonzalez's camp is demanding remains substantial, even at an elite pay level. Kraft's public assertion that the Patriots made a record offer is a negotiating tactic designed to signal the team's seriousness and place pressure on the player to accept terms. Yet Gonzalez's willingness to let negotiations drag indicates he believes his market value exceeds what New England has proposed, or that the contract's structure (length, guarantees, vesting clauses) falls short of his demands. Cornerback is among the most expensive positions in the NFL, and recent deals for elite corners have reset the market repeatedly. Gonzalez, a young defensive standout, likely has suitors who would offer comparable money with different structural advantages. The Patriots' public frustration signals they view the impasse as unreasonable, though in modern NFL negotiations, record offers often include conditions or protections that shift risk to the player. The longer negotiations extend into the offseason, the less leverage Gonzalez retains as training camp and the regular season approach. Both sides have incentive to reach a deal, but public brinkmanship suggests they remain apart on fundamentals.",
+      "tweets": []
+    },
+    {
+      "category": "media",
+      "importance": 5,
+      "leadHeadline": "NFL Flag Championship Sees Highest Rating Yet",
+      "leadSource": "Front Office Sports · 1h ago",
+      "leadUrl": "https://frontofficesports.com/nfl-flag-championship-youth-sports-espn-abc-ratings/",
+      "summary": "The NFL Flag Championships delivered record viewership in its third year of broadcast, continuing to build an audience for the non-contact youth football variant. The rating growth suggests the league's flag football initiative is resonating with families and casual viewers.",
+      "article": "The NFL Flag Championships posted its highest viewership yet in the tournament's third year, marking continued growth for the non-contact youth football format. Specific viewership numbers were not disclosed in the initial report, but the rating achievement signals that flag football is developing a sustainable television audience. Flag football appeals to younger demographics, families, and casual viewers who may not engage with traditional tackle football, making it valuable to broadcasters seeking to expand NFL brand reach beyond the core audience. The league has positioned flag football as a growth vector for the sport, particularly among youth participants who face less injury risk than tackle football. Tournament-style events like the Flag Championship provide concentrated scheduling and compelling narrative arcs that can drive ratings. The third consecutive year of increasing viewership suggests the initial audience was not a novelty spike but represents sustained interest in the format. From a media rights perspective, consistent flag football audiences could become a bargaining chip for the NFL in its next broadcast negotiations, demonstrating the league's ability to monetize variations of the sport. The growth also reflects broader trends in youth sports, where parents are seeking lower-contact alternatives to traditional tackle football. The NFL's investment in flag football could position the league favorably in that market while potentially feeding future talent pipelines into tackle football.",
+      "tweets": []
+    },
+    {
+      "category": "revenue",
       "importance": 4,
-      "leadHeadline": "Is World Cup sell-off plan a step too far by Infantino?",
-      "leadSource": "BBC Sport · 2h ago",
-      "leadUrl": "https://www.bbc.co.uk/sport/football/articles/cjejl274xx8o?at_medium=RSS&amp;at_campaign=rss",
-      "summary": "FIFA president Gianni Infantino is exploring a plan to sell stakes in the World Cup to external investors, raising questions about the long-term governance and commercial control of soccer's flagship tournament.",
-      "article": "FIFA President Gianni Infantino is considering a controversial plan to sell financial stakes in the FIFA World Cup to external investors, a move that could fundamentally alter the governance and ownership structure of soccer's most valuable tournament. The proposal would inject capital into FIFA's operations while reducing the federation's direct financial burden and risk. However, the plan has drawn scrutiny from analysts and soccer stakeholders who worry that external investment could compromise FIFA's control over tournament operations, broadcasting rights, and commercial strategy. Infantino has positioned the move as necessary to modernize FIFA's financial model and fund global soccer development, but critics argue it sets a precedent for privatizing what has historically been a federation-owned asset. The World Cup generates over $5 billion in revenue per tournament cycle, making it one of sports' most attractive assets for outside capital. Any sale of stakes would likely trigger complex negotiations with broadcast partners, sponsors, and host nations regarding rights and control. The proposal underscores Infantino's willingness to pursue aggressive revenue strategies but also highlights internal tensions within FIFA about the federation's role as both tournament operator and commercial entity.",
+      "leadHeadline": "MLBs Upside-Down Playoff Picture Undercuts Owners CBA Messaging",
+      "leadSource": "Sportico · 8h ago",
+      "leadUrl": "https://www.sportico.com/leagues/baseball/2026/mlb-salary-cap-negotiations-collective-bargaining-1234940350/",
+      "summary": "The Tampa Bay Rays' strong record despite low spending undermines MLB owners' argument that financial disparity prevents competitive balance, complicating the salary cap messaging owners have used to reshape the CBA. The Rays represent an inconvenient counterexample to owners' preferred narrative.",
+      "article": "The Tampa Bay Rays' success with one of baseball's lowest payrolls directly contradicts the central argument MLB owners have advanced in cost-structure discussions, muddying the owners' push for expanded salary-cap mechanisms in future collective bargaining agreements. Owners have long cited competitive imbalance rooted in payroll disparity as justification for cost controls, arguing that only a hard cap system could level the playing field. Yet the Rays' strong record demonstrates that smart front-office execution, player development, and efficient roster construction can compete without massive spending, which complicates the owners' case. The Rays have consistently fielded competitive teams despite operating near the league's payroll floor, a pattern that predates the current season. This upside-down playoff picture, where low-payroll teams compete for division titles and playoff spots, weakens the premise that salary restrictions are necessary to preserve competition. For the players' union, the Rays represent live evidence that the sport can function competitively without salary caps, making the owners' structural demands harder to justify at the bargaining table. The Rays' model relies on analytics, international player development, and a willingness to trade away valuable players before they reach free agency, a roster-churn strategy that limits fan investment but succeeds on wins. The timing is significant, as MLB's current CBA expires after the 2026 season, and both sides are already positioning for negotiations. The Rays' record is ammunition for players' advocates arguing that competitive balance can exist without owners' preferred cost controls.",
       "tweets": []
     }
   ],
@@ -2393,149 +2401,97 @@
   },
   "deals": [
     {
-      "type": "extension",
-      "parties": "San Jose Sharks ⇄ Macklin Celebrini",
-      "value_usd": 94000000,
-      "term_years": 5,
-      "league": "NHL",
-      "headline": "Celebrini signs historic 5-year, $94M extension with Sharks",
-      "storyIndex": 6,
-      "blurb": "Five-year, $94M deal sets new NHL salary high-water mark for a player at Celebrini's career stage.",
-      "capturedAt": "2026-07-29T16:16:41.193Z"
-    },
-    {
       "type": "media_rights",
-      "parties": "MSG Networks / YES Network ⇄ DAZN",
+      "parties": "DAZN ⇄ MSG Networks / YES Network",
       "value_usd": null,
       "term_years": null,
-      "league": "MULTI",
-      "headline": "MSG, YES Network discontinue Gotham app, move to DAZN exclusive deal",
+      "league": "NBA",
+      "headline": "MSG, YES Network establish DAZN as exclusive DTC home",
       "storyIndex": 1,
-      "blurb": "Gotham Sports streaming app shut down; DAZN becomes exclusive direct-to-consumer home for MSG and YES content.",
-      "capturedAt": "2026-07-29T16:16:41.193Z"
+      "blurb": "MSG and YES terminate Gotham Sports app and move streaming operations to DAZN partnership.",
+      "capturedAt": "2026-07-29T20:08:40.770Z"
     }
   ],
   "ratings": [],
   "ticket_prices": [],
   "sidebar": [
     {
-      "headline": "Brandon Aiyuk Mocks Kyle Shanahan After Coach's Car Accident",
-      "source": "CBS Sports · just now",
-      "article": "San Francisco 49ers wide receiver Brandon Aiyuk appeared to mock head coach Kyle Shanahan on social media after Shanahan was involved in a car accident. Aiyuk, a disgruntled player embroiled in contract negotiations with the franchise, posted content that seemed to reference Shanahan's recent incident as his contentious exit from San Francisco neared resolution. The post amplified tensions between the star receiver and the coaching staff during what is already a messy separation. Aiyuk has been in extended holdout talks with the 49ers over contract terms and his role in the offense, creating friction between player and organization. The public jab further damaged an already strained relationship and signaled Aiyuk's frustration with negotiations and team direction. Shanahan's accident did not result in significant injury, but the incident gave Aiyuk an opening to air grievances publicly, a calculated move that typically signals an imminent trade or release."
+      "headline": "Fleming expected to be named England Test coach",
+      "source": "BBC Sport · 3h ago",
+      "article": "Stephen Fleming, the former New Zealand captain, is expected to be appointed as England's Test cricket coach following the sacking of Brendon McCullum. Fleming brings significant leadership experience from his playing career and has been involved in coaching roles in various T20 leagues. His appointment would mark a major hire for the England and Wales Cricket Board as it seeks to stabilize the Test squad. Fleming's appointment would conclude a brief coaching search and signal England's intention to maintain competitive stability ahead of major Test commitments. The hire reflects the ECB's belief that Fleming can bring the tactical acumen and player management skills necessary to succeed in international cricket's longest format."
     },
     {
-      "headline": "Josh Allen Emotional About Becoming Father During Charity Event",
-      "source": "NY Post Sports · just now",
-      "article": "Bills quarterback Josh Allen paused to collect himself while delivering an emotional speech about fatherhood at a charity event. Allen, known for his competitive intensity on the field, showed a vulnerable moment discussing the arrival of his newborn daughter and the personal growth that comes with parenthood. The moment highlighted a softer side of the star quarterback and resonated with the audience at the fundraising event. Allen has been open in interviews about how becoming a father has shifted his perspective on life outside of football, though he remains intensely focused on winning a Super Bowl. The emotional pause during his speech underscored the weight he places on family alongside his professional ambitions. The moment was widely shared on social media and reinforced Allen's image as a thoughtful, grounded leader beyond his performance on Sundays."
+      "headline": "FIFA opens disciplinary proceedings against Argentina",
+      "source": "BBC Sport · 3h ago",
+      "article": "FIFA has opened disciplinary proceedings against Argentina over their behavior following the World Cup final loss to Spain and throughout the tournament. The proceedings detail alleged misconduct by players or staff that violated FIFA regulations. The exact nature of the alleged violations has not been fully disclosed, but the proceedings suggest FIFA believes Argentina's conduct crossed regulatory thresholds. Disciplinary action against national teams typically results in fines or player bans, though the severity depends on the specific charges. Argentina's conduct during major tournaments has drawn scrutiny in past competitions, and FIFA's move indicates the governing body is pursuing enforcement. The outcome could affect Argentina's squad availability for upcoming competitions."
     },
     {
-      "headline": "Netflix Names Luke Kuechly as Top NFL Game Analyst",
-      "source": "Sports Media Watch · 17h ago",
-      "article": "Netflix has appointed Luke Kuechly as its lead NFL game analyst, a move that bolsters the streaming giant's sports broadcasting infrastructure ahead of its first live NFL games. Kuechly, the legendary Carolina Panthers linebacker who retired in 2019, brings deep defensive expertise and recognizable name value to Netflix's broadcast booth. The hire signals Netflix's commitment to delivering premium-quality commentary and analysis as it enters the crowded live sports streaming market. Kuechly's perspective on defensive schemes and in-game adjustments will appeal to both casual and hardcore football fans. Netflix secured rights to broadcast select NFL games and will compete directly with traditional broadcasters and other streaming platforms for audience share. The Kuechly hire is part of Netflix's broader strategy to invest in talent and production quality to differentiate its sports offerings. His addition suggests Netflix is building a full broadcast team with multiple analyst roles and play-by-play talent to rival ESPN and network coverage standards."
+      "headline": "Sharks sign Macklin Celebrini to historic five-year, $94-million extension",
+      "source": "Sportsnet · 5h ago",
+      "article": "The San Jose Sharks have signed elite prospect Macklin Celebrini to a five-year extension worth $94 million, locking in the young forward on a historic contract. Celebrini has emerged as one of hockey's brightest prospects, and the extension secures his long-term future with the franchise. The deal represents a significant financial commitment by the Sharks and positions Celebrini as the cornerstone of the team's rebuild. The contract carries substantial average annual value and underscores Celebrini's status as a franchise centerpiece. The extension prevents Celebrini from reaching unrestricted free agency and keeps him in San Jose through his prime years."
     },
     {
-      "headline": "MLB's Upside-Down Playoff Picture Undercuts Owners' CBA Messaging",
-      "source": "Sportico · 4h ago",
-      "article": "The Tampa Bay Rays' strong performance this season contradicts MLB owners' long-standing argument that financial disparities prevent low-spending teams from competing. Owners have repeatedly cited competitive imbalance as justification for implementing stricter cost controls and a salary cap in future CBA negotiations. Yet the Rays, operating with one of baseball's lowest payrolls, currently hold the best record in the American League. This reality undermines the owners' narrative and complicates their negotiating position with the players' union. The Rays' success demonstrates that smart front-office execution, player development, and strategic trading can overcome financial limitations. The inconsistency between owners' public statements about competitive balance and the Rays' on-field performance weakens the credibility of cost-control arguments in upcoming labor talks. Players' representatives will likely cite Tampa Bay as evidence that the sport remains competitive across payroll levels, contradicting the financial-disparity argument owners plan to emphasize."
+      "headline": "Zuffa Boxing's Business Model Is Already Shifting",
+      "source": "Front Office Sports · 1h ago",
+      "article": "Shakur Stevenson, one of Zuffa Boxing's marquee talents, is seeking to fight outside the promotion, signaling growing pressure on Zuffa's business model less than a year after the company acquired the assets. Stevenson's pursuit of non-Zuffa bouts raises questions about the promotion's ability to retain its top stars and monetize exclusive relationships. Zuffa has invested heavily in boxing talent acquisition, but early roster management challenges suggest the traditional exclusive contract model may be unsustainable in modern boxing. Stevenson's leverage as a star fighter gives him negotiating power that Zuffa, as a newer entrant to professional boxing, may struggle to offset. The situation parallels tensions in other combat sports where athletes leverage their star power against promotion policies, forcing business model adjustments."
     },
     {
-      "headline": "Liverpool Preparing Opening Bid for PSG's Barcola",
-      "source": "BBC Sport · 1h ago",
-      "article": "Liverpool Football Club is preparing an opening bid for Paris St-Germain winger Bradley Barcola as the Reds step up their summer recruitment efforts. Barcola, a French international in his prime years, has attracted interest from multiple top clubs across Europe. Liverpool's move suggests the club is prioritizing attacking reinforcements ahead of the new season and believes Barcola fits manager Arne Slot's tactical system. PSG may be open to selling if the price reaches their valuation threshold, though the French club typically demands premium fees for their star players. Barcola's pace, technical ability, and recent Champions League performances make him an attractive target for clubs competing at Europe's highest level. Liverpool's interest reflects both the competitive market for elite attacking talent and the club's financial capacity to pursue world-class additions."
+      "headline": "Storm Apologize for Co-Owner's Comments to Sophie Cunningham Fans",
+      "source": "Front Office Sports · 1h ago",
+      "article": "The Seattle Storm issued a formal apology after a co-owner made comments to fans holding a sign that thanked Sophie Cunningham for speaking up for girls. The incident drew criticism on social media and highlighted tensions around player advocacy and team management communication. The apology marks the Storm's attempt to distance the franchise from the co-owner's remarks and reaffirm the organization's commitment to player voice. The sign referenced Cunningham's public stance on social or professional issues, and the co-owner's response apparently contradicted that advocacy. The incident underscores the visibility of team leadership conduct and the rapid response expectations in modern sports culture when conflicts arise between management and players."
     },
     {
-      "headline": "Where All 20 Premier League Clubs Should Strengthen Before Season",
-      "source": "The Guardian · 9h ago",
-      "article": "Analysis by Opta and The Guardian scouts transfer priorities across the Premier League ahead of the new campaign. Manchester United and Arsenal both require midfield reinforcements to balance their squads. Liverpool, despite recent investments, would benefit from a quality winger to provide creative depth on the flanks. Chelsea faces an ongoing goalkeeper challenge and must address the position to compete defensively. The assessment highlights how transfer strategy varies by club ambition and current squad composition. Some clubs are well-positioned to challenge for the title if they make targeted additions; others face rebuilding tasks that extend beyond a single transfer window. The analysis provides a roadmap for clubs' recruitment teams as they navigate an expensive transfer market where premium talents command record fees. Clubs that execute efficiently on their identified priorities are more likely to improve on last season's performance."
+      "headline": "Where all 20 Premier League clubs should strengthen before the season",
+      "source": "The Guardian · 13h ago",
+      "article": "The Guardian's Opta Analyst has identified targeted strengthening needs for all 20 Premier League clubs ahead of the new season. Arsenal is flagged as needing midfield depth after Declan Rice logged 4,456 minutes in all competitions last season, a workload that visibly affected his form during the World Cup. Manchester United similarly requires midfield reinforcement, while Liverpool should pursue a winger and Chelsea needs a goalkeeper to address depth concerns. The analysis underscores how preseason transfer strategy is driven by granular playing-time data and position-specific vulnerability. Clubs are using advanced metrics to identify where fatigue or absence of depth created liabilities. The assessment provides a roadmap for clubs' remaining transfer windows and reflects how modern recruitment uses detailed workload tracking to inform buying decisions."
     }
   ],
   "poll": {
-    "question": "Will Mauricio Pochettino lead USMNT to success at the 2026 World Cup on home soil?",
+    "question": "Which team is best positioned to dethrone Indiana as Big Ten football champion?",
     "options": [
-      "Yes, extended contract shows confidence and he'll deliver a strong result",
-      "Uncertain, depends on whether young talent develops as expected",
-      "Unlikely, his mixed tenure suggests tactical concerns remain",
-      "Too early to say, depends on qualifying performance through 2025"
+      "Ohio State",
+      "Oregon",
+      "Another program",
+      "Indiana repeats"
     ]
   },
   "predictions": [
     {
-      "statement": "Macklin Celebrini's $18.8M AAV will become the new NHL benchmark for franchise cornerstones within 12 months.",
+      "statement": "Christian Gonzalez and the Patriots will reach a contract extension before training camp begins.",
       "probability": 72,
-      "rationale": "The Sharks set a clear market precedent with Celebrini. When other young elite talent hits free agency or extension discussions, agents will point to this deal as the floor. At least one other franchise will likely match or exceed the per-year figure by next summer."
+      "rationale": "Public contract negotiations often drag longest when both sides are posturing for leverage. Kraft's public offer signals serious intent, and Gonzalez has no advantage in letting talks extend into camp when injury risk rises and his negotiating leverage declines. Both parties have strong incentive to find a resolution before the season begins."
     },
     {
-      "statement": "DAZN will successfully monetize MSG and YES content within two years without significant subscriber churn.",
+      "statement": "The Rays will maintain a winning record through the trade deadline despite continued low payroll spending.",
       "probability": 58,
-      "rationale": "DAZN has global experience but faces execution risk integrating two legacy networks' content and audiences. Knicks and Rangers fans are locked into the product, which helps retention, but the transition away from Gotham creates friction. Success depends on seamless technical integration and pricing strategy."
+      "rationale": "The Rays have proven their development and roster construction model works in the short term, but their pattern of trading away impact players for prospects creates unsustainable momentum. Maintaining a winning record through the deadline is feasible; sustaining it through October is much harder with depleted rosters from deadline deals."
     },
     {
-      "statement": "The WNBA will secure a media rights deal worth at least $100M per year by 2026 based on recent viewership momentum.",
-      "probability": 65,
-      "rationale": "All-Star viewership spikes suggest deeper audience growth. The league's next media negotiation will benefit from expanded casual interest and improved demographic reach. However, absolute audience numbers still lag major male sports, so a jump to nine-figure annual rights fees is ambitious but plausible if trends hold."
+      "statement": "The NFL Flag Championship will crack into the top 50 most-watched sporting events nationally within two years.",
+      "probability": 45,
+      "rationale": "Flag football is growing and reaches younger demographics, but the sport competes against entrenched properties with decades of cultural establishment. Tournament viewership can spike without translating to sustained mainstream status. Youth-skewed audiences are valuable but smaller than core sports viewership."
     },
     {
-      "statement": "FIFA will not proceed with the World Cup stake-sale plan as proposed by Infantino due to governance pushback.",
-      "probability": 54,
-      "rationale": "The proposal faces legitimate questions about federation control and conflicts of interest. Soccer's governance bodies and national federations will likely resist external equity investment in the tournament. Infantino may pursue alternative financing mechanisms, but a formal stake sale faces institutional headwinds despite his authority."
+      "statement": "Stephen Fleming will accept the England Test cricket coaching role within the next week.",
+      "probability": 82,
+      "rationale": "The BBC reported Fleming is 'expected to be named,' suggesting negotiations are advanced and contingent on minor details rather than fundamental disagreement. Top coaching roles in international cricket rarely remain open long, and Fleming's profile and available status make him a natural fit."
     }
   ],
-  "injuries": [],
-  "picks": [
+  "injuries": [
     {
-      "type": "moneyline",
-      "pick": "Toronto Blue Jays ML",
-      "odds": "-116",
-      "edge": "Market fill from live lines: Toronto Blue Jays is the books' favorite at -116 (best price @ BetOnline.ag) against Washington Nationals at +106, favored even on the road. No researched edge here — this is a low-confidence market-consensus play added to round out the slate. Low confidence is honest confidence.",
-      "matchup": "Toronto Blue Jays @ Washington Nationals",
-      "league": "MLB",
-      "when": "Today 1:06 PM ET",
-      "confidence": "low",
-      "_autofill": true,
-      "_scheduledTs": 1785344760000,
-      "marketSnapshot": {
-        "capturedAt": "2026-07-29T12:56:30.968Z",
-        "markets": {
-          "h2h": {
-            "away": {
-              "price": -116,
-              "book": "BetOnline.ag"
-            },
-            "home": {
-              "price": 106,
-              "book": "BetUS"
-            },
-            "draw": null
-          },
-          "spreads": {
-            "away": {
-              "point": -1.5,
-              "price": 138,
-              "book": "BetRivers"
-            },
-            "home": {
-              "point": 1.5,
-              "price": -154,
-              "book": "LowVig.ag"
-            }
-          },
-          "totals": {
-            "over": {
-              "point": 9.5,
-              "price": 105,
-              "book": "LowVig.ag"
-            },
-            "under": {
-              "point": 9.5,
-              "price": -112,
-              "book": "BetRivers"
-            }
-          }
-        },
-        "awayTeam": "Toronto Blue Jays",
-        "homeTeam": "Washington Nationals"
-      }
-    },
+      "player": "Declan Rice",
+      "team": "Arsenal",
+      "league": "SOCCER",
+      "position": "MF",
+      "status": "DAY_TO_DAY",
+      "injury": "Fatigue/workload concern",
+      "timeline": null,
+      "source": "The Guardian / Opta Analyst",
+      "impact": "Arsenal's midfield workload concerns underscore depth needs heading into the new season after Rice logged exceptional minutes last campaign.",
+      "storyIndex": 11
+    }
+  ],
+  "picks": [
     {
       "type": "moneyline",
       "pick": "Milwaukee Brewers ML",
@@ -2642,116 +2598,6 @@
         },
         "awayTeam": "Baltimore Orioles",
         "homeTeam": "Detroit Tigers"
-      },
-      "_pendingGrade": true
-    },
-    {
-      "type": "moneyline",
-      "pick": "Miami Marlins ML",
-      "odds": "-110",
-      "edge": "Market fill from live lines: Miami Marlins is the books' favorite at -110 (best price @ FanDuel) against Philadelphia Phillies at +101, with home ice/court/field behind them. No researched edge here — this is a low-confidence market-consensus play added to round out the slate. Low confidence is honest confidence.",
-      "matchup": "Philadelphia Phillies @ Miami Marlins",
-      "league": "MLB",
-      "when": "Today 6:41 PM ET",
-      "confidence": "low",
-      "_autofill": true,
-      "_scheduledTs": 1785278460000,
-      "marketSnapshot": {
-        "capturedAt": "2026-07-28T12:31:35.661Z",
-        "markets": {
-          "h2h": {
-            "away": {
-              "price": 101,
-              "book": "BetOnline.ag"
-            },
-            "home": {
-              "price": -110,
-              "book": "FanDuel"
-            },
-            "draw": null
-          },
-          "spreads": {
-            "away": {
-              "point": 1.5,
-              "price": -207,
-              "book": "LowVig.ag"
-            },
-            "home": {
-              "point": 1.5,
-              "price": -187,
-              "book": "MyBookie.ag"
-            }
-          },
-          "totals": {
-            "over": {
-              "point": 8,
-              "price": -114,
-              "book": "LowVig.ag"
-            },
-            "under": {
-              "point": 8,
-              "price": 100,
-              "book": "BetMGM"
-            }
-          }
-        },
-        "awayTeam": "Philadelphia Phillies",
-        "homeTeam": "Miami Marlins"
-      },
-      "_pendingGrade": true
-    },
-    {
-      "type": "moneyline",
-      "pick": "Pittsburgh Pirates ML",
-      "odds": "-116",
-      "edge": "Market fill from live lines: Pittsburgh Pirates is the books' favorite at -116 (best price @ LowVig.ag) against Arizona Diamondbacks at +106, with home ice/court/field behind them. No researched edge here — this is a low-confidence market-consensus play added to round out the slate. Low confidence is honest confidence.",
-      "matchup": "Arizona Diamondbacks @ Pittsburgh Pirates",
-      "league": "MLB",
-      "when": "Today 6:40 PM ET",
-      "confidence": "low",
-      "_autofill": true,
-      "_scheduledTs": 1785192000000,
-      "marketSnapshot": {
-        "capturedAt": "2026-07-27T06:20:20.636Z",
-        "markets": {
-          "h2h": {
-            "away": {
-              "price": 106,
-              "book": "BetUS"
-            },
-            "home": {
-              "price": -116,
-              "book": "LowVig.ag"
-            },
-            "draw": null
-          },
-          "spreads": {
-            "away": {
-              "point": 1.5,
-              "price": -185,
-              "book": "BetUS"
-            },
-            "home": {
-              "point": 1.5,
-              "price": -200,
-              "book": "FanDuel"
-            }
-          },
-          "totals": {
-            "over": {
-              "point": 8.5,
-              "price": -122,
-              "book": "FanDuel"
-            },
-            "under": {
-              "point": 9,
-              "price": -113,
-              "book": "LowVig.ag"
-            }
-          }
-        },
-        "awayTeam": "Arizona Diamondbacks",
-        "homeTeam": "Pittsburgh Pirates"
       },
       "_pendingGrade": true
     },
@@ -6066,32 +5912,86 @@
         "homeTeam": "St. Louis Cardinals"
       },
       "_pendingGrade": true
+    },
+    {
+      "type": "moneyline",
+      "pick": "San Diego Padres ML",
+      "odds": "-180",
+      "edge": "Market fill from live lines: San Diego Padres is the books' favorite at -180 (best price @ BetRivers) against Colorado Rockies at +165, with home ice/court/field behind them. No researched edge here — this is a low-confidence market-consensus play added to round out the slate. Low confidence is honest confidence.",
+      "matchup": "Colorado Rockies @ San Diego Padres",
+      "league": "MLB",
+      "when": "Today 4:11 PM ET",
+      "confidence": "low",
+      "_autofill": true,
+      "_scheduledTs": 1785355860000,
+      "marketSnapshot": {
+        "capturedAt": "2026-07-29T20:09:01.746Z",
+        "markets": {
+          "h2h": {
+            "away": {
+              "price": 165,
+              "book": "BetUS"
+            },
+            "home": {
+              "price": -180,
+              "book": "BetRivers"
+            },
+            "draw": null
+          },
+          "spreads": {
+            "away": {
+              "point": 1.5,
+              "price": -131,
+              "book": "LowVig.ag"
+            },
+            "home": {
+              "point": -1,
+              "price": -122,
+              "book": "BetRivers"
+            }
+          },
+          "totals": {
+            "over": {
+              "point": 8.5,
+              "price": -102,
+              "book": "BetMGM"
+            },
+            "under": {
+              "point": 8.5,
+              "price": -110,
+              "book": "FanDuel"
+            }
+          }
+        },
+        "awayTeam": "Colorado Rockies",
+        "homeTeam": "San Diego Padres"
+      }
     }
   ],
-  "updatedAt": "2026-04-23T19:47:00Z",
+  "updatedAt": "2026-04-23T20:15:00Z",
   "highlights": [
     {
       "league": "NBA",
-      "title": "It Gets SPOOKY Guarding Jalen Brunson 😳 | Top Handles of the 2025-26 Season",
-      "videoId": "xIgbELfR7lk",
-      "thumbnail": "https://img.youtube.com/vi/xIgbELfR7lk/mqdefault.jpg",
-      "timeAgo": "Just now",
+      "title": "Court side staples during the Knicks title run 🏆",
+      "videoId": "MhWrg44MLWo",
+      "thumbnail": "https://img.youtube.com/vi/MhWrg44MLWo/mqdefault.jpg",
+      "timeAgo": "2h ago",
       "isFallback": false
     },
     {
       "league": "NFL",
-      "title": "Baker Mayfield's contracts, the Vikings' QB1 battle and Kirk Cousins starting Week 1 🏈 | First Take",
-      "videoId": "d3h6BNXjZyY",
-      "thumbnail": "https://img.youtube.com/vi/d3h6BNXjZyY/mqdefault.jpg",
-      "timeAgo": "Just now",
+      "title": "Top NFL offseason storylines with Laura Rutledge! | The Pat McAfee Show",
+      "videoId": "Wz5aJEh_h4U",
+      "thumbnail": "https://img.youtube.com/vi/Wz5aJEh_h4U/mqdefault.jpg",
+      "timeAgo": "1h ago",
       "isFallback": false
     },
     {
       "league": "MLB",
-      "title": "Having a ruff day at the ballpark? Not this pup 🐾🐾",
-      "videoId": "HJ29dgtnKNk",
-      "thumbnail": "https://img.youtube.com/vi/HJ29dgtnKNk/mqdefault.jpg",
-      "timeAgo": "1h ago",
+      "title": "1,000 strikeouts for Tarik Skubal in a game where he pitched into the 7th inning! | MLB Highlights",
+      "videoId": "GDagal3iV9E",
+      "thumbnail": "https://img.youtube.com/vi/GDagal3iV9E/mqdefault.jpg",
+      "timeAgo": "Just now",
       "isFallback": false
     },
     {
@@ -6107,7 +6007,7 @@
       "title": "Portland Fire vs. Las Vegas Aces | FULL GAME HIGHLIGHTS | July 28, 2026",
       "videoId": "Oi0I89cjKRE",
       "thumbnail": "https://img.youtube.com/vi/Oi0I89cjKRE/mqdefault.jpg",
-      "timeAgo": "11h ago",
+      "timeAgo": "15h ago",
       "isFallback": false
     },
     {
@@ -6115,11 +6015,131 @@
       "title": "HE’S BACK! Zinedine Zidane being France manager is a ’special moment’ | ESPN FC",
       "videoId": "e0RufWRXmCs",
       "thumbnail": "https://img.youtube.com/vi/e0RufWRXmCs/mqdefault.jpg",
-      "timeAgo": "Just now",
+      "timeAgo": "4h ago",
       "isFallback": false
     }
   ],
   "reels": [
+    {
+      "league": "MLB",
+      "title": "1,000 strikeouts for Tarik Skubal in a game where he pitched into the 7th inning! | MLB Highlights",
+      "videoId": "GDagal3iV9E",
+      "author": "MLB",
+      "pubDate": "2026-07-29T19:48:18+00:00",
+      "link": "https://www.youtube.com/watch?v=GDagal3iV9E"
+    },
+    {
+      "league": "NFL",
+      "title": "Top NFL offseason storylines with Laura Rutledge! | The Pat McAfee Show",
+      "videoId": "Wz5aJEh_h4U",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-07-29T19:30:42+00:00",
+      "link": "https://www.youtube.com/watch?v=Wz5aJEh_h4U"
+    },
+    {
+      "league": "MLB",
+      "title": "D-BACKS vs. PIRATES: Official Full Game Highlights (July 29) | 2026 MLB Season",
+      "videoId": "cgynIgT8okY",
+      "author": "MLB",
+      "pubDate": "2026-07-29T19:25:54+00:00",
+      "link": "https://www.youtube.com/watch?v=cgynIgT8okY"
+    },
+    {
+      "league": "MLB",
+      "title": "PHILLIES vs. MARLINS: Official Full Game Highlights (July 29) | 2026 MLB Season",
+      "videoId": "DCTwuypnb7A",
+      "author": "MLB",
+      "pubDate": "2026-07-29T19:06:23+00:00",
+      "link": "https://www.youtube.com/watch?v=DCTwuypnb7A"
+    },
+    {
+      "league": "NBA",
+      "title": "Court side staples during the Knicks title run 🏆",
+      "videoId": "MhWrg44MLWo",
+      "author": "NBA",
+      "pubDate": "2026-07-29T18:01:55+00:00",
+      "link": "https://www.youtube.com/watch?v=MhWrg44MLWo"
+    },
+    {
+      "league": "NFL",
+      "title": "Why Vic Fangio is one of the GREATEST DCs EVER",
+      "videoId": "k414hk_avfk",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-07-29T18:00:35+00:00",
+      "link": "https://www.youtube.com/watch?v=k414hk_avfk"
+    },
+    {
+      "league": "NBA",
+      "title": "You Can't Guard Luka When He's Doing This 😳 | Luka Dončić's Top Handles of the 2025-26 Season",
+      "videoId": "SRenOvTMgSI",
+      "author": "NBA",
+      "pubDate": "2026-07-29T18:00:22+00:00",
+      "link": "https://www.youtube.com/watch?v=SRenOvTMgSI"
+    },
+    {
+      "league": "MLB",
+      "title": "It's National Chicken Wing Day 😍",
+      "videoId": "OG1-4fRknE4",
+      "author": "MLB",
+      "pubDate": "2026-07-29T18:00:11+00:00",
+      "link": "https://www.youtube.com/watch?v=OG1-4fRknE4"
+    },
+    {
+      "league": "NBA",
+      "title": "Donovan Mitchell was getting shifty",
+      "videoId": "TbdERKmOC_I",
+      "author": "NBA",
+      "pubDate": "2026-07-29T17:55:05+00:00",
+      "link": "https://www.youtube.com/watch?v=TbdERKmOC_I"
+    },
+    {
+      "league": "NBA",
+      "title": "Luka was putting on a show last November 🤩",
+      "videoId": "RAgzVXZsxxY",
+      "author": "NBA",
+      "pubDate": "2026-07-29T17:52:58+00:00",
+      "link": "https://www.youtube.com/watch?v=RAgzVXZsxxY"
+    },
+    {
+      "league": "NBA",
+      "title": "Wemby handles are difficult to fathom 😳",
+      "videoId": "snOpka_8D6E",
+      "author": "NBA",
+      "pubDate": "2026-07-29T17:50:09+00:00",
+      "link": "https://www.youtube.com/watch?v=snOpka_8D6E"
+    },
+    {
+      "league": "MLB",
+      "title": "TAR1K! 🤩 2x AL Cy Young award winner Tarik Skubal's 1,000th MLB strikeout! | MLB Highlights",
+      "videoId": "psJaLjzcC88",
+      "author": "MLB",
+      "pubDate": "2026-07-29T17:44:03+00:00",
+      "link": "https://www.youtube.com/watch?v=psJaLjzcC88"
+    },
+    {
+      "league": "MLB",
+      "title": "Junior Caminero cracking us up at 3rd base 🤣",
+      "videoId": "APzcPJIRbOc",
+      "author": "MLB",
+      "pubDate": "2026-07-29T17:08:06+00:00",
+      "link": "https://www.youtube.com/watch?v=APzcPJIRbOc"
+    },
+    {
+      "league": "NFL",
+      "title": "TOUGH LOOK! 😬 Evaluating C.J. Stroud's Texans training camp arrival w/ Schefty | The Pat McAfee Show",
+      "videoId": "KOoeso0Lxd0",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-07-29T17:05:42+00:00",
+      "link": "https://www.youtube.com/watch?v=KOoeso0Lxd0"
+    },
+    {
+      "league": "MLB",
+      "title": "Anthony Rizzo was always thinking on the diamond 🤔",
+      "videoId": "35WYhaL9ZSI",
+      "author": "MLB",
+      "pubDate": "2026-07-29T17:00:14+00:00",
+      "link": "https://www.youtube.com/watch?v=35WYhaL9ZSI"
+    },
     {
       "league": "SOCCER",
       "title": "HE’S BACK! Zinedine Zidane being France manager is a ’special moment’ | ESPN FC",
@@ -6185,14 +6205,6 @@
       "link": "https://www.youtube.com/watch?v=AlJEhWI5e5A"
     },
     {
-      "league": "MLB",
-      "title": "William Contreras checking on Luis Arraez right away ❤️",
-      "videoId": "3IcOkC3Oej8",
-      "author": "MLB",
-      "pubDate": "2026-07-29T15:01:47+00:00",
-      "link": "https://www.youtube.com/watch?v=3IcOkC3Oej8"
-    },
-    {
       "league": "NFL",
       "title": "Cooper DeJean can DO IT ALL",
       "videoId": "8jFk3YmYxM0",
@@ -6209,92 +6221,12 @@
       "link": "https://www.youtube.com/watch?v=XFNr6JmdKcs"
     },
     {
-      "league": "NFL",
-      "title": "Will Baker Mayfield get his bag from the Bucs? 🤔",
-      "videoId": "9_Hpp4Q8Bcg",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-07-29T14:49:05+00:00",
-      "link": "https://www.youtube.com/watch?v=9_Hpp4Q8Bcg"
-    },
-    {
-      "league": "NFL",
-      "title": "Mad Dog's had enough of the Jerry Jones commentary 😭",
-      "videoId": "O776Qqhonuc",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-07-29T14:39:53+00:00",
-      "link": "https://www.youtube.com/watch?v=O776Qqhonuc"
-    },
-    {
-      "league": "NFL",
-      "title": "Why the Lions Are Suddenly Full of Question Marks",
-      "videoId": "78Q5u35qC44",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-07-29T14:30:06+00:00",
-      "link": "https://www.youtube.com/watch?v=78Q5u35qC44"
-    },
-    {
-      "league": "NBA",
-      "title": "A 7-Footer Shouldn't Be Able to Do This 😳 | Wemby's Top Handles of the 2025-26 NBA Season",
-      "videoId": "lPWkmAzh9EA",
-      "author": "NBA",
-      "pubDate": "2026-07-29T14:23:58+00:00",
-      "link": "https://www.youtube.com/watch?v=lPWkmAzh9EA"
-    },
-    {
       "league": "SOCCER",
       "title": "Vinicius Jr. to Arsenal: ESPN FC DEBATE the possible transfer 👀",
       "videoId": "qReLtPKikDM",
       "author": "ESPN FC",
       "pubDate": "2026-07-29T14:00:11+00:00",
       "link": "https://www.youtube.com/watch?v=qReLtPKikDM"
-    },
-    {
-      "league": "MLB",
-      "title": "Dane Myers' INCREDIBLE GAME-ENDING CATCH &amp; the BEST MLB Highlights from 7/28/26!",
-      "videoId": "JbOWIn-o4pM",
-      "author": "MLB",
-      "pubDate": "2026-07-29T11:00:26+00:00",
-      "link": "https://www.youtube.com/watch?v=JbOWIn-o4pM"
-    },
-    {
-      "league": "MLB",
-      "title": "Highlights from ALL GAMES on 7/28 (Royce Lewis WALKS IT OFF, Gavin Williams' 12 Ks &amp; MORE!)",
-      "videoId": "tB3dxmYIUas",
-      "author": "MLB",
-      "pubDate": "2026-07-29T10:00:20+00:00",
-      "link": "https://www.youtube.com/watch?v=tB3dxmYIUas"
-    },
-    {
-      "league": "MLB",
-      "title": "Andrés Muñoz faces the HEART of the Dodgers' order in a DRAMATIC 9th INNING! 🤯🔥",
-      "videoId": "wA9X1XIqpHA",
-      "author": "MLB",
-      "pubDate": "2026-07-29T06:11:44+00:00",
-      "link": "https://www.youtube.com/watch?v=wA9X1XIqpHA"
-    },
-    {
-      "league": "MLB",
-      "title": "ROCKIES vs. PADRES: Official Full Game Highlights (July 28) | 2026 MLB Season",
-      "videoId": "9v2_oZU4j9U",
-      "author": "MLB",
-      "pubDate": "2026-07-29T05:47:39+00:00",
-      "link": "https://www.youtube.com/watch?v=9v2_oZU4j9U"
-    },
-    {
-      "league": "MLB",
-      "title": "BREWERS vs. GIANTS: Official Full Game Highlights (July 28) | 2026 MLB Season",
-      "videoId": "VBMSV9r-APU",
-      "author": "MLB",
-      "pubDate": "2026-07-29T05:18:42+00:00",
-      "link": "https://www.youtube.com/watch?v=VBMSV9r-APU"
-    },
-    {
-      "league": "MLB",
-      "title": "Fernando Tatis Jr. records the first FIVE-HIT GAME of his career! 💪🔥",
-      "videoId": "Qq0F8oDno6A",
-      "author": "MLB",
-      "pubDate": "2026-07-29T05:17:30+00:00",
-      "link": "https://www.youtube.com/watch?v=Qq0F8oDno6A"
     },
     {
       "league": "WNBA",
@@ -6353,14 +6285,6 @@
       "link": "https://www.youtube.com/watch?v=_KLma_oA4qs"
     },
     {
-      "league": "NBA",
-      "title": "Anywhere there’s a hoop, Jimmy will get buckets…this one in France (via JimmyButler/IG)",
-      "videoId": "F42Akm_Z9UE",
-      "author": "NBA",
-      "pubDate": "2026-07-28T22:29:50+00:00",
-      "link": "https://www.youtube.com/watch?v=F42Akm_Z9UE"
-    },
-    {
       "league": "SOCCER",
       "title": "Zidane mixing padel and footy 🔥 (via @z5official)",
       "videoId": "6JfWCQZNH8M",
@@ -6375,30 +6299,6 @@
       "author": "ESPN FC",
       "pubDate": "2026-07-28T21:45:21+00:00",
       "link": "https://www.youtube.com/watch?v=8PuXbGO3axQ"
-    },
-    {
-      "league": "NBA",
-      "title": "Steph Curry’s range is special 🤯",
-      "videoId": "s1vaxsw7U68",
-      "author": "NBA",
-      "pubDate": "2026-07-28T21:45:11+00:00",
-      "link": "https://www.youtube.com/watch?v=s1vaxsw7U68"
-    },
-    {
-      "league": "NBA",
-      "title": "Don’t embarrass them like that champ 😅",
-      "videoId": "d9GWwpi5TLM",
-      "author": "NBA",
-      "pubDate": "2026-07-28T21:43:07+00:00",
-      "link": "https://www.youtube.com/watch?v=d9GWwpi5TLM"
-    },
-    {
-      "league": "NBA",
-      "title": "Watching Tyrese Maxey dance never gets old 😮‍💨",
-      "videoId": "9xkATkvSYqw",
-      "author": "NBA",
-      "pubDate": "2026-07-28T21:41:57+00:00",
-      "link": "https://www.youtube.com/watch?v=9xkATkvSYqw"
     },
     {
       "league": "SOCCER",
