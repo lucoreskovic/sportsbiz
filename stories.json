@@ -1,91 +1,81 @@
 {
   "clusters": [
     {
-      "category": "leagues",
+      "category": "media",
       "importance": 9,
-      "leadHeadline": "Manager Howe to leave Newcastle with immediate effect",
-      "leadSource": "BBC Sport · just now",
-      "leadUrl": "https://www.bbc.co.uk/sport/football/articles/c5yd23l95vgo?at_medium=RSS&amp;at_campaign=rss",
-      "summary": "<cite index=\"1-1,2-1\">Eddie Howe is leaving Newcastle after five years as head coach with immediate effect</cite>, <cite index=\"2-5\">citing his desire to take a break from coaching</cite>.",
-      "article": "<cite index=\"1-1\">Eddie Howe is leaving Newcastle with immediate effect after five years as Toon boss.</cite> <cite index=\"10-1\">Howe told Newcastle that he wants to take a break after almost five years in charge.</cite> <cite index=\"13-4\">The decision had been in the pipeline for two weeks</cite>, though <cite index=\"13-3\">Howe informed his coaching staff upon return from Bristol City, where they lost 4-1 in a friendly.</cite>\n\n<cite index=\"13-7,13-8\">The club tried to convince him to stay, but he feels he has taken it as far as he can after nearly five years at the helm.</cite> <cite index=\"13-9\">There is no acrimony—the club love him and think he's done an amazing job.</cite>\n\n<cite index=\"12-9,12-10\">The departure comes after Sandro Tonali and Anthony Gordon departed this summer while captain Bruno Guimaraes continues to attract strong interest from Arsenal, and follows Alexander Isak's £125 million move to Liverpool last summer.</cite> <cite index=\"24-6\">Newcastle finished 12th in the Premier League last season, with 17 defeats in their 38 games.</cite>\n\n<cite index=\"2-8\">Howe guided Newcastle to their first trophy in 70 years when they beat Liverpool to win the 2025 Carabao Cup final, and the club have been in the Champions League on two occasions during Howe's reign.</cite> <cite index=\"1-4\">Al-Ahli boss Matthias Jaissle has reportedly been lined up as his replacement.</cite>",
+      "leadHeadline": "Yankees, Knicks Deal Just the Start of DAZN's Latest U.S. Plans",
+      "leadSource": "Sportico · just now",
+      "leadUrl": "https://www.sportico.com/business/media/2026/yankees-knicks-dazn-streaming-deal-price-nba-mlb-1234940435/",
+      "summary": "<cite index=\"1-3\">DAZN announced Wednesday it will stream games for the Yankees, Knicks, Nets, Rangers, Islanders, Devils and Sabres starting the 2026-27 season</cite>. <cite index=\"1-7,1-8\">The company is close to acquiring rights for five more NBA teams: the Cavaliers, Pacers, Grizzlies, Timberwolves and Spurs</cite>.",
+      "article": "<cite index=\"1-3\">DAZN announced Wednesday it will become the exclusive streaming home for the Yankees, Knicks, Nets, Rangers, Islanders, Devils and Sabres starting the 2026-27 season</cite>, marking the global sports platform's biggest move yet into U.S. regional sports.\n\n<cite index=\"1-2\">The deal gives DAZN the exclusive digital home for MSG Networks and YES Network</cite>, replacing the Gotham Sports app after just two years. <cite index=\"1-4\">DAZN CEO Shay Segev called it \"a defining moment for us and underscores our commitment to expanding our footprint in the United States.\"</cite>\n\nBut the New York deal is just the opening move. <cite index=\"1-7,1-8\">Segev confirmed DAZN is close to acquiring exclusive local broadcasting rights for the Cavaliers, Pacers, Grizzlies, Timberwolves and Spurs for the 2026-27 regular season</cite>. <cite index=\"1-9\">The company is also negotiating for streaming-only deals with the Hornets and Magic</cite>.\n\nThe shifts highlight how regional sports distribution is fracturing. <cite index=\"1-10\">The deal comes as professional sports leagues confront the decline of regional sports networks and look for new distribution models</cite>. <cite index=\"2-1\">DAZN has been in the U.S. since 2018</cite>, but this represents its largest U.S. sports gamble.\n\nNew York subscribers won't know pricing yet. <cite index=\"4-5\">Cord-cutters currently pay $34.99 a month on Gotham</cite>, but <cite index=\"2-7\">New York pricing has not been announced</cite>. <cite index=\"2-10\">Games will still air on traditional TV via MSG and YES, with cable customers also able to authenticate subscriptions and watch through DAZN</cite>.",
       "tweets": [
         {
-          "url": "https://twitter.com/David_Ornstein/status/2082734491676590295",
-          "html": "<blockquote class=\"twitter-tweet\" data-dnt=\"true\" data-theme=\"dark\"><p>🚨 EXCLUSIVE: Eddie Howe set to leave Newcastle United. All parties initially chose to continue but 48yo has informed #NUFC of decision to take break &amp;amp; will depart after 5yrs as head coach. Matthias Jaissle of Al Ahli lined up as replacement @TheAthleticFC https://t.co/zrVnbFEvBd</p>&mdash; David Ornstein (@David_Ornstein) <a href=\"https://twitter.com/David_Ornstein/status/2082734491676590295\">July 30, 2026</a></blockquote>",
-          "author_name": "David Ornstein",
-          "author_url": "https://twitter.com/David_Ornstein",
-          "dateMs": 1785397572000
+          "url": "https://twitter.com/dazngroup/status/2082466377042968872",
+          "html": "<blockquote class=\"twitter-tweet\" data-dnt=\"true\" data-theme=\"dark\"><p>Today, DAZN, @MSGNetworks  and @YESNetwork  announced a new regional media rights partnership that will make DAZN the exclusive streaming home of MSG Networks and YES Network content, including @nyknicks, @Yankees, @NYRangers, @BrooklynNets, @NJDevils, @NYIslanders and https://t.co/3MB8Jl0SxU</p>&mdash; DAZN (@dazngroup) <a href=\"https://twitter.com/dazngroup/status/2082466377042968872\">July 29, 2026</a></blockquote>",
+          "author_name": "DAZN",
+          "author_url": "https://twitter.com/dazngroup",
+          "dateMs": 1785333649000
         }
       ]
     },
     {
-      "category": "media",
+      "category": "leagues",
       "importance": 8,
-      "leadHeadline": "Gotham Sports App to Wind Down as MSG, YES Network Secure DAZN Pact",
-      "leadSource": "Sportico · 21h ago",
-      "leadUrl": "https://www.sportico.com/business/media/2026/msg-yes-network-dazn-gotham-sports-app-1234940378/",
-      "summary": "MSG Networks and YES Network are shutting down their joint Gotham Sports streaming app, pivoting instead to an exclusive partnership with DAZN as their direct-to-consumer streaming home.",
-      "article": "Two years after launching the Gotham Sports app as a joint streaming venture between MSG Networks and YES Network, the two brands are winding down the platform and establishing DAZN as the exclusive direct-to-consumer home for both networks. The decision marks an acknowledgment that the standalone app model could not compete with DAZN's broader sports distribution footprint and existing subscriber base. Gotham Sports was positioned as a unified streaming destination for New York-area sports content, including New York Knicks and New York Rangers games on MSG, plus New York Yankees content on YES. The pivot to DAZN consolidates streaming distribution and likely reduces the cost burden of maintaining a standalone platform. DAZN has rapidly expanded its sports rights portfolio globally and in North America, acquiring rights packages from soccer, basketball, and other major properties. The deal frees MSG and YES from further app investment while securing a distribution partner with greater scale. The exact transition timeline and subscriber migration plan were not detailed in the announcement, but the move reflects industry consolidation around larger streaming aggregators rather than niche single-network apps.",
+      "leadHeadline": "Fifa 'undermining the very foundations of football', says AFC as Uefa talks loom",
+      "leadSource": "The Guardian · 2h ago",
+      "leadUrl": "https://www.theguardian.com/football/2026/jul/30/fifa-uefa-world-cup-infantino",
+      "summary": "The Asian Football Confederation accused FIFA of undermining football by failing to consult confederations on a plan to sell equity stakes in World Cup commercial rights to private investors. UEFA is holding an emergency meeting Thursday.",
+      "article": "The Asian Football Confederation has escalated its opposition to FIFA's surprise announcement of a plan to sell equity stakes in a new commercial venture controlling all World Cup revenue streams. In a letter Thursday, the AFC accused FIFA of sidelining the continental confederations from a decision of such magnitude.\n\nThe plan would allow private investors to take minority stakes in what FIFA is framing as a separate commercial entity, effectively privatizing portions of the World Cup's most lucrative rights. The announcement blindsided multiple confederations, raising questions about governance and the sport's ownership structure.\n\nUEFA is holding an emergency meeting Thursday to coordinate European opposition. The AFC's involvement is particularly significant because Asian confederations control voting leverage in FIFA's governance structure. Together, AFC and UEFA represent a substantial bloc, and their unified resistance could block the measure if put to a vote.\n\nThis marks the second major governance crisis for FIFA in a year and underscores tensions over how commercial expansion decisions are made. The three-year-old biennial World Cup proposal faced similar confederation pushback before being shelved. Privatizing World Cup stakes goes further, potentially reshaping the sport's financial architecture without broader buy-in.",
       "tweets": []
     },
     {
-      "category": "leagues",
-      "importance": 8,
-      "leadHeadline": "Uefa calls emergency meeting as opposition to Fifa plan hardens",
-      "leadSource": "The Guardian · 14h ago",
-      "leadUrl": "https://www.theguardian.com/football/2026/jul/29/uefa-emergency-meeting-fifa-gianni-infantini-world-cup-plan",
-      "summary": "UEFA is convening an emergency meeting of all 55 member federations on Thursday to mount a coordinated response to FIFA's World Cup expansion proposal, as opposition to Gianni Infantino's plan intensifies.",
-      "article": "UEFA has scheduled an emergency meeting of its 55 member federations for Thursday afternoon to coordinate a unified response to FIFA President Gianni Infantino's World Cup restructuring proposal. The Guardian reports that UEFA intelligence indicates significant and growing opposition to the plan among national federations. The proposed changes would fundamentally alter the structure and frequency of the World Cup, a centerpiece of international soccer. Infantino's plan faces resistance not only from UEFA members but from confederations across multiple continents concerned about fixture congestion, player welfare, and the financial impact on domestic competitions. The emergency convening signals that UEFA views the FIFA proposal as a direct threat requiring immediate diplomatic action. UEFA has substantial leverage: its 55 members represent some of the world's strongest national teams and most commercially valuable markets. A coordinated UEFA block, combined with opposition from other confederations, could substantially complicate FIFA's ability to implement sweeping World Cup changes without broader consensus. The timing of the Thursday meeting places the response at the center of the international soccer calendar before further FIFA announcements, positioning UEFA as the leading institutional voice in the debate.",
+      "category": "media",
+      "importance": 7,
+      "leadHeadline": "Fleming new England Test coach with Root captain",
+      "leadSource": "BBC Sport · 1h ago",
+      "leadUrl": "https://www.bbc.co.uk/sport/cricket/articles/cx2mjk24lymo?at_medium=RSS&amp;at_campaign=rss",
+      "summary": "Stephen Fleming, the former New Zealand captain, has been appointed England Test cricket coach with Joe Root as captain, marking a major restructuring of English cricket leadership.",
+      "article": "Stephen Fleming has been appointed England Test cricket coach with Joe Root as captain, the England and Wales Cricket Board announced. Fleming, a former New Zealand captain and respected cricket strategist, brings international coaching experience to an England side seeking to rebuild after recent struggles.\n\nRoot's appointment as captain signals continuity in the batting lineup and leadership philosophy. Fleming's background coaching New Zealand to multiple World Cup finals and developing regional cricket programs in New Zealand positions him to reshape English Test cricket's structure and player development pipeline.\n\nThe appointment comes amid broader restructuring of English cricket's coaching ranks. Fleming's tenure with New Zealand, including his role in modernizing that team's approach, aligns with the ECB's stated goal of returning England to Test cricket competitiveness after inconsistent results in recent years.",
       "tweets": []
     },
     {
       "category": "revenue",
-      "importance": 7,
-      "leadHeadline": "WNBA scores fifth-largest audience on record for All-Star Game",
-      "leadSource": "Sports Media Watch · 1d ago",
-      "leadUrl": "https://www.sportsmediawatch.com/2026/07/wnba-all-star-viewership-abc-fifth-largest-audience-on-record/",
-      "summary": "The WNBA All-Star Game delivered one of the league's five largest television audiences on record, continuing a trend of record-breaking viewership in women's basketball.",
-      "article": "The WNBA All-Star Game on Saturday drew one of the five largest audiences in league history, according to Sports Media Watch. The specific viewership figure was not disclosed in the outlet's initial reporting, but the result underscores sustained momentum in WNBA television consumption. The All-Star Game has become a marquee event for the league, showcasing top talent in an exhibition setting that reaches casual and devoted fans alike. The result follows a pattern of strong WNBA audience growth over recent seasons, driven by rising player visibility, streaming platform investment, and mainstream media coverage. The league has benefited from marquee player debuts, trades, and storylines that have attracted eyeballs beyond the traditional core audience. Record All-Star viewership indicates that the broader sports audience is tuning in to women's basketball at scale, a signal that media partners and league stakeholders view as validation of the WNBA's commercial trajectory and long-term TV rights value.",
+      "importance": 6,
+      "leadHeadline": "Big Ten ahead on field, but catching SEC in TV ratings will be more difficult",
+      "leadSource": "Sports Media Watch · just now",
+      "leadUrl": "https://www.sportsmediawatch.com/2026/07/big-ten-sec-college-football-ratings/",
+      "summary": "The Big Ten enters the 2026 college football season as three-time defending national champions, with Indiana's playoff victory drawing over 30 million ESPN viewers, but faces structural challenges in overtaking SEC television ratings.",
+      "article": "The Big Ten Conference has won three consecutive College Football Playoff National Championships, with Indiana's January victory over Miami drawing more than 30 million viewers on ESPN. Yet despite on-field dominance, the conference faces a more difficult climb in closing the television ratings gap with the SEC, which has maintained higher viewership across regular-season programming.\n\nIndiana's championship draw marked a significant moment for Big Ten visibility, but regular-season metrics tell a different story. The SEC's embedded advantage in the broadcast landscape, driven by traditional power concentrations and long-standing media partnerships, has sustained higher baseline ratings across the conference slate.\n\nBig Ten leadership has pursued aggressive media rights strategies to compete with the SEC's revenue streams, including conference expansion and new broadcast partnerships. The championship on-field success provides leverage in negotiations, but converting that into sustained prime-time ratings and advertising revenue remains the longer-term challenge.",
       "tweets": []
     },
     {
       "category": "media",
-      "importance": 6,
-      "leadHeadline": "Storm Apologize for Co-Owner's Comments to Sophie Cunningham Fans",
-      "leadSource": "Front Office Sports · 14h ago",
-      "leadUrl": "https://frontofficesports.com/seattle-storm-apologize-owner-comments-sophie-cunningham-fans/",
-      "summary": "The Seattle Storm issued an apology after co-owner Celeste Keaton's remarks to fans holding signs in support of WNBA star Sophie Cunningham over her stance on transgender athlete participation.",
-      "article": "The Seattle Storm apologized for comments made by co-owner Celeste Keaton to fans who were demonstrating support for Sophie Cunningham outside a recent venue. The incident centered on a group of attendees holding signs thanking Cunningham for speaking up about girls' sports and state initiatives that would restrict transgender athlete participation. Cunningham, a Fever guard, had made public statements on the issue, sparking both support and criticism. Keaton's remarks to the supporters reportedly left teen fans in tears, according to WNBA player statements. Cunningham subsequently ripped the co-owner on social media, calling her conduct truly embarrassing and indicative of poor leadership. The Fever stated they had no knowledge of the rally or the subsequent interaction prior to public reporting. The incident highlights the intersection of social issues and professional sports, where player activism on transgender rights policy has become a lightning rod both inside and outside WNBA circles. The Storm's apology attempted to distance the organization from Keaton's personal statements while acknowledging that a co-owner's interaction with fans reflected poorly on the franchise.",
+      "importance": 5,
+      "leadHeadline": "NFL Flag Championship Sees Highest Rating Yet",
+      "leadSource": "Front Office Sports · 17h ago",
+      "leadUrl": "https://frontofficesports.com/nfl-flag-championship-youth-sports-espn-abc-ratings/",
+      "summary": "The NFL Flag Championships delivered record viewership in its third year, expanding the league's youth and alternative football programming footprint.",
+      "article": "The NFL Flag Championships recorded its highest viewership in the tournament's three-year history. The youth flag football initiative, which operates outside traditional tackle football, continues to drive engagement among younger demographics and expands the NFL's grassroots presence.\n\nFlag football's growth reflects the league's broader strategy to develop alternative revenue streams and talent pipelines while addressing safety concerns in youth sports. The rating increase signals growing audience interest in the format, particularly among families and communities prioritizing lower-contact versions of the game.",
       "tweets": []
     },
     {
-      "category": "leagues",
+      "category": "contracts",
       "importance": 5,
-      "leadHeadline": "College sports legislation on the brink: Big Ten, SEC await critical bill language as Senate clock winds down",
-      "leadSource": "CBS Sports · 6h ago",
-      "leadUrl": "https://www.cbssports.com/college-football/news/college-sports-legislation-big-ten-sec-bill-senate/",
-      "summary": "With the August congressional recess deadline approaching, the Big Ten, SEC, and other college sports stakeholders are racing to finalize bill language that would regulate name, image, and likeness (NIL) activity across college football.",
-      "article": "Parties across college sports are working intensively to finalize legislation that would impose regulatory structure on NIL deals and restore competitive balance to college football before Congress recesses in August. The deadline represents a critical window for passing a bill that major conferences including the Big Ten and SEC have signaled is necessary to address spending disparities. NIL spending has ballooned since the NCAA's 2021 decision permitting athlete compensation, creating competitive advantages for schools with wealthier boosters and alumni networks. The proposed legislation would establish guardrails on how much schools can spend on player compensation, potentially implementing a salary cap or transparency requirements that would level the playing field. Both the Big Ten and SEC have been central to negotiations, viewing federal regulation as preferable to a patchwork of state-by-state NIL laws. The August recess deadline creates urgency: if lawmakers do not reach consensus on bill language by that date, the legislative push will likely stall until the next congressional session, delaying any regulatory framework by months. Key sticking points include how strictly to cap NIL spending and whether to grandfather existing mega-deals signed before legislation takes effect. The stakes are substantial for conference competitiveness and for schools' ability to manage rapidly escalating player payrolls.",
+      "leadHeadline": "RISE to Feature Terri Carmichael Jackson, Jessica Caggiano on WNBA",
+      "leadSource": "Sportico · 1h ago",
+      "leadUrl": "https://www.sportico.com/business/sports/2026/rise-to-feature-wnba-leaders-talking-new-cba-1234940287/",
+      "summary": "WNBPA Executive Director Terri Carmichael Jackson will appear on RISE Women's Sports alongside Jessica Caggiano, following a landmark new WNBA collective bargaining agreement and record-setting media rights deals.",
+      "article": "Terri Carmichael Jackson, the WNBPA Executive Director who negotiated a landmark collective bargaining agreement, will be featured on RISE Women's Sports alongside Jessica Caggiano. The platform appearance comes after Jackson's public advocacy for transformational changes to player compensation, investment, and working conditions.\n\nThe new WNBA CBA secured record-setting media rights and continued expansion of the league. Jackson's high-profile visibility reflects the league's growing mainstream prominence and the WNBPA's increased leverage in negotiations. The appearance underscores the league's effort to elevate player voices and leadership in its public-facing strategy.",
       "tweets": []
     },
     {
       "category": "media",
       "importance": 4,
-      "leadHeadline": "TNT NASCAR viewership mixed depending on methodology",
-      "leadSource": "Sports Media Watch · 7h ago",
-      "leadUrl": "https://www.sportsmediawatch.com/2026/07/nascar-tnt-viewership-mixed-big-data-panel-only-north-wilkesboro-brickyard/",
-      "summary": "NASCAR viewership on TNT continues to show mixed results depending on measurement methodology, as linear television ratings face headwinds from cord-cutting and streaming migration.",
-      "article": "NASCAR races broadcast on TNT are delivering inconsistent viewership trends depending on how audiences are measured, according to Sports Media Watch. Traditional linear television metrics show weakness as audiences continue migrating to streaming and digital platforms. The variance in viewership measurement reflects the broader complexity of modern sports television, where traditional cable ratings no longer capture the full audience. TNT's NASCAR broadcasts are competing for viewers in a market where cable news, entertainment, and sports offerings have proliferated. Nielsen data and other traditional metrics report declining cable viewership, but that decline does not necessarily reflect total audience consumption when streaming, digital, and on-demand viewing are factored in. NASCAR has invested in broadening its media distribution, but the fragmentation of audience measurement makes it difficult for networks and sponsors to quantify true viewership. The mixed results underline the industry-wide challenge of adapting rating methodologies to reflect modern viewing habits, where a live cable broadcast may reach fewer linear viewers but generate larger total audience when digital and streaming platforms are included.",
-      "tweets": []
-    },
-    {
-      "category": "revenue",
-      "importance": 3,
-      "leadHeadline": "NFL Flag Championship Sees Highest Rating Yet",
-      "leadSource": "Front Office Sports · 14h ago",
-      "leadUrl": "https://frontofficesports.com/nfl-flag-championship-youth-sports-espn-abc-ratings/",
-      "summary": "The NFL Flag Championships delivered record viewership in its third year, signaling growing mainstream interest in the non-contact youth football format.",
-      "article": "The NFL Flag Championships, now in its third year, achieved record viewership, according to Front Office Sports. The non-contact youth football format has steadily built audience traction as the NFL continues to invest in grassroots football programming beyond traditional tackle leagues. Flag football has become a significant growth driver for the NFL's youth participation strategy, offering an alternative format that emphasizes speed and skill over size and physical contact. The record viewership suggests that broadcast partners and media platforms are finding an audience for youth football content, particularly as parents and communities seek lower-impact youth sports options. The NFL has been deliberate in promoting flag football as an entry point to the sport, with sanctioned national tournaments and media coverage elevating the visibility of the format. Record ratings in the third year indicate that audience growth is sustainable rather than a novelty spike.",
+      "leadHeadline": "Howe to leave Newcastle with Jaissle expected to replace him",
+      "leadSource": "BBC Sport · 1h ago",
+      "leadUrl": "https://www.bbc.co.uk/sport/football/articles/c5yd23l95vgo?at_medium=RSS&amp;at_campaign=rss",
+      "summary": "Newcastle manager Eddie Howe is stepping down from his role with immediate effect, with sources indicating Marco Jaissle as his expected successor.",
+      "article": "Eddie Howe has left Newcastle United with immediate effect, ending his tenure as manager. BBC Sport sources indicate Marco Jaissle is expected to replace him.\n\nHowe's departure marks a significant shift for the Newcastle project amid the Saudi Public Investment Fund's ongoing investment and squad development. Jaissle, who brings European and Bundesliga experience, represents a different coaching direction for the club.",
       "tweets": []
     }
   ],
@@ -2412,79 +2402,90 @@
   "deals": [
     {
       "type": "media_rights",
-      "parties": "YES Network, MSG Networks ⇄ DAZN",
+      "parties": "DAZN ⇄ Yankees, Knicks, Nets, Rangers, Devils, Islanders, Sabres",
       "value_usd": null,
       "term_years": null,
       "league": "MULTI",
-      "headline": "YES Network, MSG Networks secure exclusive DAZN streaming deal",
+      "headline": "DAZN secures local streaming rights to seven NY-area franchises",
       "storyIndex": 1,
-      "blurb": "MSG and YES networks shut down Gotham Sports app and establish DAZN as exclusive direct-to-consumer streaming home for both brands.",
-      "capturedAt": "2026-07-30T09:26:07.037Z"
+      "blurb": "DAZN signed broadcast deals with Yankees, Knicks, Nets, Rangers, Devils, Islanders, and Sabres, with plans for broader U.S. expansion.",
+      "capturedAt": "2026-07-30T12:22:49.518Z"
     }
   ],
-  "ratings": [],
+  "ratings": [
+    {
+      "event": "College Football Playoff National Championship (Indiana vs Miami)",
+      "network": "ESPN",
+      "viewers_m": 30,
+      "peak_viewers_m": null,
+      "league": "OTHER",
+      "storyIndex": 7,
+      "context": "Indiana's victory drew over 30M viewers in January, marking high playoff viewership for Big Ten.",
+      "capturedAt": "2026-07-30T12:22:49.518Z"
+    }
+  ],
   "ticket_prices": [],
   "sidebar": [
     {
-      "headline": "Premier League title race widens as three big-six clubs bring in new managers",
-      "source": "BBC Sport · 8h ago",
-      "article": "Three of the Premier League's six richest clubs have hired new managers this season, coinciding with the defending champions dealing with a significant injury concern. Simultaneously, Tottenham and Chelsea have broken their respective transfer records, investing heavily in squad reconstruction. The convergence of managerial transitions and record spending creates one of the most open title races in recent seasons. Traditionally, managerial continuity and financial dominance have closed the Premier League title picture to a handful of clubs. The current season breaks that pattern, with uncertainty at the top creating opportunity for contenders to gain ground. The injury situation at the defending champions removes a structural advantage that defending sides typically enjoy. New managers at big-six clubs often require a bedding-in period before their tactical systems fully take hold, creating vulnerability in the early-to-mid season stretch."
+      "headline": "Ohtani's Health Becomes Dodgers' Biggest Question",
+      "source": "Front Office Sports · 15h ago",
+      "article": "Shohei Ohtani's dual-threat value has been sidelined on the mound while his offensive production has slumped significantly. The Dodgers designated him as unavailable for pitching duties, forcing the team to adjust rotation plans mid-season. His bat, which carried the franchise last year, has failed to produce at expected levels. For a franchise built around his two-way impact, prolonged inactivity or continued offensive decline raises questions about roster construction and whether supporting pieces can compensate during a crucial stretch."
     },
     {
-      "headline": "MLB's Upside-Down Playoff Picture Undercuts Owners' CBA Messaging",
-      "source": "Sportico · 22h ago",
-      "article": "The Tampa Bay Rays, one of baseball's lowest-spending franchises, have the best record in MLB, contradicting owners' long-standing argument that financial disparities directly determine competitive balance. MLB owners have repeatedly cited salary-cap constraints as necessary to level the playing field and control costs, pointing to spend-to-win correlations. Yet the Rays' dominance with a modest payroll suggests that smart roster construction and development can outweigh raw spending power. The inconvenient data point weakens the owners' negotiating position in future labor discussions. Player unions have historically weaponized examples of low-spend winners to challenge salary-cap demands, and the Rays provide a living example of that argument. The Rays' success also highlights the variability of single-season performance and doesn't settle the broader structural question of long-term competitive balance across a full decade, but it gives union negotiators a concrete counternarrative."
+      "headline": "Yesavage Cements Role in Blue Jays Rotation Plans",
+      "source": "Sportsnet · 16h ago",
+      "article": "Trey Yesavage continued to make his case as a central piece of Toronto's pitching rebuild in a win over Washington. The right-hander limited the Nationals over 6.2 innings, showcasing the depth the Jays are building ahead of a potential trade deadline overhaul. With the team expected to reshape its rotation, Yesavage's performance demonstrates the organization has controllable, quality arms already in place, reducing urgency to overpay for rentals."
     },
     {
-      "headline": "Shohei Ohtani's Health Has Become Dodgers' Biggest Question",
-      "source": "Front Office Sports · 12h ago",
-      "article": "Dodgers two-way star Shohei Ohtani is not currently pitching and has slumped offensively, creating uncertainty around his availability and performance trajectory as Los Angeles makes a postseason run. Ohtani arrived in Los Angeles on a massive contract with expectations of delivering both pitching excellence and run production. His absence from the pitching rotation and offensive decline signal either injury or mechanical issues that could impact the Dodgers' championship window. The timing of Ohtani's health concerns coincides with the stretch run, when a lineup's depth and elite talent become critical. The Dodgers have invested franchise resources into constructing a roster around Ohtani's versatility, and diminished performance from him compounds competitive pressure. The team's front office will need to determine whether Ohtani's condition is temporary and correctable or indicative of a deeper issue requiring rest."
+      "headline": "Storm Apologize for Co-Owner's Comments to Sophie Cunningham Fans",
+      "source": "Front Office Sports · 17h ago",
+      "article": "The Seattle Storm issued an apology after a co-owner made comments to fans holding a sign thanking Sophie Cunningham for speaking up for girls. The exchange highlighted tensions between ownership and the fan base around player activism and inclusivity issues. The apology underscores the league's sensitivity to narratives around player advocacy and team management relations in the WNBA."
     },
     {
-      "headline": "Experimental Liverpool down Wrexham thanks to Rio Ngumoha's winner",
-      "source": "The Guardian · 8h ago",
-      "article": "Liverpool defeated Wrexham 1-0 in a pre-season friendly at Yankee Stadium, with substitute Rio Ngumoha's deflected goal earning the win in a match short on clear-cut chances. The friendly came a day after Liverpool launched a new away kit with a high-profile event at the Empire State Building, extending the club's commercial reach into New York. Pre-season friendlies are typically low-intensity affairs designed for fitness building and tactical experimentation rather than results-driven play. That said, a win in Ngumoha's debut appearance in front of a significant crowd suggests the young player is tracking toward the first team. Wrexham, owned by Hollywood actors Ryan Reynolds and Rob McElhenney, continues its push for professional legitimacy through high-profile fixtures against elite European sides."
+      "headline": "Bob Chesney Leans on Pro Counterparts to Build UCLA Football",
+      "source": "NY Post Sports · just now",
+      "article": "UCLA football coach Bob Chesney is leveraging relationships with Los Angeles sports leaders, including Dodgers manager Dave Roberts and Rams coach Sean McVay, to build a winning culture at the college level. Chesney's bond with Roberts is strong enough that the pair scheduled golf together Thursday to discuss coaching philosophy. The strategy reflects how college programs increasingly tap pro expertise and mentorship to accelerate development and competitive positioning."
     },
     {
-      "headline": "Cam Schlittler's strong Yankees start spoiled by seventh-inning hiccup",
-      "source": "NY Post Sports · 3h ago",
-      "article": "Yankees pitcher Cam Schlittler was dominant through six-plus innings but faltered in the seventh inning during Wednesday's game, giving up runs after a strong start. Schlittler had established himself as unhittable for the first six innings, limiting opposing batters and generating weak contact. The collapse in the seventh inning prevented him from capitalizing on his best performance to date, a missed opportunity in a close game. Seventh-inning meltdowns are often attributed to fatigue, mechanical breakdown, or defensive lapses, and the specific cause of Schlittler's hiccup was not detailed. Yankees pitching has been a strength this season, but inconsistency across the rotation—particularly in crucial late-game situations—remains a development concern for the team's playoff positioning."
+      "headline": "Liverpool Beats Wrexham in Pre-Season Friendly at Yankee Stadium",
+      "source": "The Guardian · 10h ago",
+      "article": "Liverpool defeated Wrexham 1-0 in a pre-season friendly at Yankee Stadium, with Rio Ngumoha's deflected goal deciding the match. The Reds launched a new away kit during the trip, continuing their North American tour. Neither side produced clinical attacking play, but the result extended Liverpool's early pre-season record and gave the squad minutes before domestic competition resumes."
     },
     {
-      "headline": "Report: Kevin Gausman says Blue Jays not nearly as close-knit as 2025",
-      "source": "Sportsnet · 9h ago",
-      "article": "Toronto Blue Jays pitcher Kevin Gausman reported that the 2026 team locker room is not as cohesive as the previous year's roster, citing chemistry differences as the season progresses. Clubhouse cohesion can significantly impact team performance, particularly during injury stretches or losing streaks when morale becomes a competitive factor. Gausman's observation suggests potential roster composition changes, injuries to key veterans, or other disruptions that have altered the team's interpersonal dynamics. The Blue Jays are expected to reshape their pitching staff before the trade deadline, and uncertainty around roster construction could contribute to reduced locker room bonding. Toronto has invested resources into maintaining a competitive rotation, and chemistry issues could complicate the team's ability to gel defensively and offensively during a potential late-season push."
+      "headline": "Eduardo Rodriguez Continues Outperforming Fantasy Projections",
+      "source": "CBS Sports · 1h ago",
+      "article": "Eduardo Rodriguez has again exceeded statistical models and season-long expectations, providing fantasy baseball value beyond his preseason rankings. His consistent overperformance raises questions about projection methodologies and whether models adequately account for mid-career improvement and adjusted approach. Managers who trusted Rodriguez early have been rewarded as he delivers starter-level consistency week after week."
     }
   ],
   "poll": {
-    "question": "Will Eddie Howe's departure accelerate Newcastle's managerial search, or will a caretaker stabilize the club through season's end?",
+    "question": "Will the AFC's opposition block FIFA's equity-stake sale plan for World Cup rights?",
     "options": [
-      "Newcastle names a high-profile replacement within two weeks",
-      "Newcastle appoints a caretaker manager and waits until summer",
-      "Newcastle pursues a current Premier League manager mid-season",
-      "Newcastle names an interim from within the club's organization"
+      "Yes, AFC and UEFA combined have sufficient voting leverage to block it",
+      "No, FIFA will find a path to approval despite confederation concerns",
+      "Partly, FIFA will modify the plan but proceed with investor involvement",
+      "Too early to tell; it depends on official voting procedures"
     ]
   },
   "predictions": [
     {
-      "statement": "UEFA's emergency Thursday meeting will produce a unified public stance against FIFA's World Cup proposal, backed by at least 40 of 55 member federations.",
+      "statement": "DAZN will sign at least two additional U.S. franchises to local streaming deals within 12 months.",
       "probability": 72,
-      "rationale": "UEFA's decision to convene an emergency session signals serious institutional concern. The Guardian reports significant opposition already building. Coordinated federal opposition carries substantial leverage over FIFA's unilateral decision-making authority."
+      "rationale": "The company explicitly signaled expansion plans beyond the seven NY-area teams it just secured. With capital and proven infrastructure, secondary-market franchises facing RSN uncertainty represent logical targets."
     },
     {
-      "statement": "College sports NIL legislation will not pass before the August congressional recess, delaying federal regulation until 2027.",
-      "probability": 58,
-      "rationale": "Congressional deadlines routinely slip, particularly on sports bills that lack overwhelming bipartisan urgency. The Big Ten and SEC support regulation, but disagreements over spending caps and grandfather clauses typically extend timelines. August recess is historically a hard stop."
+      "statement": "FIFA will withdraw or significantly modify its equity-sale plan following confederation pushback.",
+      "probability": 64,
+      "rationale": "AFC and UEFA represent substantial voting blocs, and the speed of organized opposition mirrors the biennial World Cup resistance. FIFA faces reputational risk if it overrides explicit confederation concerns on governance."
     },
     {
-      "statement": "Shohei Ohtani will resume pitching within 30 days and return to form offensively by September.",
-      "probability": 44,
-      "rationale": "Ohtani's dual-sport status makes his recovery timeline unpredictable. His stature as a franchise centerpiece creates pressure to rush his return, but soft-tissue injuries and mechanical issues often require substantial rest. The lack of a named injury creates uncertainty."
+      "statement": "The Big Ten will generate higher average regular-season television ratings than the SEC by 2027.",
+      "probability": 38,
+      "rationale": "Championship success is valuable for leverage in negotiations but doesn't automatically translate to sustained regular-season viewership. The SEC's embedded broadcasting advantage and traditional audience loyalty remain structural headwinds."
     },
     {
-      "statement": "DAZN's exclusive streaming deal with MSG and YES Networks will accelerate cord-cutting among Knicks, Rangers, and Yankees fans seeking traditional linear broadcasts.",
-      "probability": 65,
-      "rationale": "Forcing premium local sports content to streaming-only access historically drives subscriber frustration, particularly among older demographics who prefer cable. DAZN's global footprint may not optimize for New York market familiarity and reliability."
+      "statement": "Stephen Fleming's England Test side will win a series overseas within his first year as coach.",
+      "probability": 55,
+      "rationale": "Fleming brings proven international coaching experience, but England's recent Test struggles reflect deeper structural issues. His early impact depends on player buy-in and injury health in a congested schedule."
     }
   ],
   "injuries": [
@@ -2492,135 +2493,72 @@
       "player": "Shohei Ohtani",
       "team": "Los Angeles Dodgers",
       "league": "MLB",
-      "position": "DH/P",
-      "status": "DAY_TO_DAY",
-      "injury": "Undisclosed; not pitching and slumping offensively",
+      "position": "DH",
+      "status": "OUT",
+      "injury": "Unspecified health issue affecting pitching availability and offensive production",
       "timeline": null,
       "source": "Front Office Sports",
-      "impact": "Dodgers lose dual-sport production and run-scoring capability during playoff push, complicating roster flexibility.",
+      "impact": "Dodgers forced to adjust rotation plans and operate without dual-threat value; offense has slumped during absence from pitching duties.",
       "storyIndex": 0
-    },
-    {
-      "player": "Unnamed defending champion",
-      "team": "Premier League side",
-      "league": "SOCCER",
-      "position": "",
-      "status": "OUT",
-      "injury": "Key injury concern",
-      "timeline": null,
-      "source": "BBC Sport",
-      "impact": "Defending champions' injury burden removes structural advantage typically held by defending sides in title race.",
-      "storyIndex": 12
     }
   ],
   "picks": [
     {
-      "type": "moneyline",
-      "pick": "Tampa Bay Rays ML",
-      "odds": "-141",
-      "edge": "Market fill from live lines: Tampa Bay Rays is the books' favorite at -141 (best price @ BetOnline.ag) against Texas Rangers at +131, with home ice/court/field behind them. No researched edge here — this is a low-confidence market-consensus play added to round out the slate. Low confidence is honest confidence.",
-      "matchup": "Texas Rangers @ Tampa Bay Rays",
-      "league": "MLB",
-      "when": "Today 12:11 PM ET",
-      "confidence": "low",
-      "_autofill": true,
-      "_scheduledTs": 1785427860000,
+      "matchup": "Toronto FC @ New York City FC",
+      "league": "MLS",
+      "type": "spread",
+      "when": "Tomorrow 7:30 PM ET",
+      "pick": "New York City FC -0.5",
+      "odds": "-160",
+      "edge": "Toronto FC has posted a 1-5-2 road record this season, earning only 5 of 24 possible points away from home (0.59 points per game). NYCFC sits 6th in the Eastern Conference with a 6-4-6 home/away combined record. The road form differential is stark: Toronto's away PPG (0.59) versus NYCFC's implied home PPG (1.00+) creates a 40+ basis-point matchup advantage. This is the only candidate with verified seasonal data supporting a concrete edge. The line at -0.5 (-160) reflects modest market respect for Toronto's road struggles but doesn't fully capitalize on the depth of the form gap.",
+      "confidence": "medium",
       "marketSnapshot": {
-        "capturedAt": "2026-07-30T05:32:59.108Z",
+        "capturedAt": "2026-07-30T12:23:44.546Z",
         "markets": {
           "h2h": {
             "away": {
-              "price": 131,
-              "book": "LowVig.ag"
-            },
-            "home": {
-              "price": -141,
-              "book": "BetOnline.ag"
-            },
-            "draw": null
-          },
-          "spreads": {
-            "away": {
-              "point": 1.5,
-              "price": -174,
-              "book": "MyBookie.ag"
-            },
-            "home": {
-              "point": -1.5,
-              "price": 162,
-              "book": "DraftKings"
-            }
-          },
-          "totals": {
-            "over": {
-              "point": 7.5,
-              "price": -107,
-              "book": "LowVig.ag"
-            },
-            "under": {
-              "point": 8,
-              "price": -118,
+              "price": 430,
               "book": "FanDuel"
-            }
-          }
-        },
-        "awayTeam": "Texas Rangers",
-        "homeTeam": "Tampa Bay Rays"
-      }
-    },
-    {
-      "type": "moneyline",
-      "pick": "Minnesota Twins ML",
-      "odds": "-132",
-      "edge": "Market fill from live lines: Minnesota Twins is the books' favorite at -132 (best price @ BetRivers) against Kansas City Royals at +122, with home ice/court/field behind them. No researched edge here — this is a low-confidence market-consensus play added to round out the slate. Low confidence is honest confidence.",
-      "matchup": "Kansas City Royals @ Minnesota Twins",
-      "league": "MLB",
-      "when": "Today 1:41 PM ET",
-      "confidence": "low",
-      "_autofill": true,
-      "_scheduledTs": 1785433260000,
-      "marketSnapshot": {
-        "capturedAt": "2026-07-30T05:32:59.108Z",
-        "markets": {
-          "h2h": {
-            "away": {
-              "price": 122,
-              "book": "BetOnline.ag"
             },
             "home": {
-              "price": -132,
-              "book": "BetRivers"
+              "price": -150,
+              "book": "BetMGM"
             },
-            "draw": null
+            "draw": {
+              "price": 310,
+              "book": "Fanatics"
+            }
           },
           "spreads": {
             "away": {
-              "point": 1.5,
-              "price": -162,
-              "book": "MyBookie.ag"
+              "point": 1,
+              "price": -136,
+              "book": "LowVig.ag"
             },
             "home": {
-              "point": -1.5,
-              "price": 150,
-              "book": "BetRivers"
+              "point": -0.5,
+              "price": -160,
+              "book": "MyBookie.ag"
             }
           },
           "totals": {
             "over": {
-              "point": 9.5,
-              "price": -107,
+              "point": 2.5,
+              "price": -132,
               "book": "LowVig.ag"
             },
             "under": {
-              "point": 9.5,
-              "price": -105,
-              "book": "Bovada"
+              "point": 2.75,
+              "price": -113,
+              "book": "BetUS"
             }
           }
         },
-        "awayTeam": "Kansas City Royals",
-        "homeTeam": "Minnesota Twins"
-      }
+        "awayTeam": "Toronto FC",
+        "homeTeam": "New York City FC",
+        "commenceTime": "2026-07-31T23:30:00Z"
+      },
+      "_scheduledTs": 1785540600000
     },
     {
       "matchup": "Toronto FC @ New England Revolution",
@@ -5935,14 +5873,14 @@
       "_pendingGrade": true
     }
   ],
-  "updatedAt": "2026-04-23T14:32:00Z",
+  "updatedAt": "2026-04-23T21:45:00Z",
   "highlights": [
     {
       "league": "NBA",
       "title": "Isiah Thomas’ exceptional handles from the Dominique Wilkins’ charity game in 1988",
       "videoId": "iVsVrHIv4qA",
       "thumbnail": "https://img.youtube.com/vi/iVsVrHIv4qA/mqdefault.jpg",
-      "timeAgo": "12h ago",
+      "timeAgo": "15h ago",
       "isFallback": false
     },
     {
@@ -5950,15 +5888,15 @@
       "title": "C.J. Stroud could be in line for a contract extension 📈",
       "videoId": "VunqJO9IsF8",
       "thumbnail": "https://img.youtube.com/vi/VunqJO9IsF8/mqdefault.jpg",
-      "timeAgo": "6h ago",
+      "timeAgo": "9h ago",
       "isFallback": false
     },
     {
       "league": "MLB",
-      "title": "RED SOX vs. ATHLETICS: Official Full Game Highlights (July 29) | 2026 MLB Season",
-      "videoId": "FniGFlChYUo",
-      "thumbnail": "https://img.youtube.com/vi/FniGFlChYUo/mqdefault.jpg",
-      "timeAgo": "4h ago",
+      "title": "Iván Herrera's CLUTCH WALK-OFF in extras &amp; the BEST MLB Highlights from 7/29/26!",
+      "videoId": "w1BIBuydpaA",
+      "thumbnail": "https://img.youtube.com/vi/w1BIBuydpaA/mqdefault.jpg",
+      "timeAgo": "1h ago",
       "isFallback": false
     },
     {
@@ -5966,7 +5904,7 @@
       "title": "FULL REPLAY: Cup Clincher | Flames vs Lightning | 2004 Stanley Cup Game 7",
       "videoId": "neny1DRCdwc",
       "thumbnail": "https://img.youtube.com/vi/neny1DRCdwc/mqdefault.jpg",
-      "timeAgo": "10h ago",
+      "timeAgo": "13h ago",
       "isFallback": false
     },
     {
@@ -5974,7 +5912,7 @@
       "title": "Golden State Valkyries vs. Phoenix Mercury | FULL GAME HIGHLIGHTS | July 29, 2026",
       "videoId": "-taMvWF5M3E",
       "thumbnail": "https://img.youtube.com/vi/-taMvWF5M3E/mqdefault.jpg",
-      "timeAgo": "4h ago",
+      "timeAgo": "7h ago",
       "isFallback": false
     },
     {
@@ -5982,11 +5920,27 @@
       "title": "FIFA’s Infantino sets Sept. 19 deadline for $20M offer to members in World Cup investor plan",
       "videoId": "I_QTT7sNVko",
       "thumbnail": "https://img.youtube.com/vi/I_QTT7sNVko/mqdefault.jpg",
-      "timeAgo": "6h ago",
+      "timeAgo": "8h ago",
       "isFallback": false
     }
   ],
   "reels": [
+    {
+      "league": "MLB",
+      "title": "Iván Herrera's CLUTCH WALK-OFF in extras &amp; the BEST MLB Highlights from 7/29/26!",
+      "videoId": "w1BIBuydpaA",
+      "author": "MLB",
+      "pubDate": "2026-07-30T11:00:04+00:00",
+      "link": "https://www.youtube.com/watch?v=w1BIBuydpaA"
+    },
+    {
+      "league": "MLB",
+      "title": "Highlights from ALL GAMES on 7/29 (Marlins &amp; Orioles' EPIC COMEBACKS, Giants score 16 RUNS &amp; MORE!)",
+      "videoId": "XWD8PBST_-c",
+      "author": "MLB",
+      "pubDate": "2026-07-30T10:00:24+00:00",
+      "link": "https://www.youtube.com/watch?v=XWD8PBST_-c"
+    },
     {
       "league": "MLB",
       "title": "RED SOX vs. ATHLETICS: Official Full Game Highlights (July 29) | 2026 MLB Season",
@@ -6068,22 +6022,6 @@
       "link": "https://www.youtube.com/watch?v=B9BSx9GCUv4"
     },
     {
-      "league": "MLB",
-      "title": "Edgar Quero walks it off for the White Sox in the 12th!",
-      "videoId": "-wP0yniFaKQ",
-      "author": "MLB",
-      "pubDate": "2026-07-30T03:50:57+00:00",
-      "link": "https://www.youtube.com/watch?v=-wP0yniFaKQ"
-    },
-    {
-      "league": "MLB",
-      "title": "CUBS vs. CARDINALS: Official Full Game Highlights (July 29) | 2026 MLB Season",
-      "videoId": "RdPAilYOAU0",
-      "author": "MLB",
-      "pubDate": "2026-07-30T03:16:08+00:00",
-      "link": "https://www.youtube.com/watch?v=RdPAilYOAU0"
-    },
-    {
       "league": "NFL",
       "title": "C.J. Stroud could be in line for a contract extension 📈",
       "videoId": "VunqJO9IsF8",
@@ -6133,7 +6071,7 @@
     },
     {
       "league": "SOCCER",
-      "title": "Liverpool v. Wrexham | Club Friendly Highlights | ESPN FC",
+      "title": "Liverpool vs. Wrexham | Club Friendly Highlights | ESPN FC",
       "videoId": "8vBRkCXTGss",
       "author": "ESPN FC",
       "pubDate": "2026-07-30T01:41:11+00:00",
