@@ -1,81 +1,71 @@
 {
   "clusters": [
     {
-      "category": "media",
+      "category": "leagues",
       "importance": 9,
-      "leadHeadline": "Yankees, Knicks Deal Just the Start of DAZN's Latest U.S. Plans",
-      "leadSource": "Sportico · just now",
-      "leadUrl": "https://www.sportico.com/business/media/2026/yankees-knicks-dazn-streaming-deal-price-nba-mlb-1234940435/",
-      "summary": "<cite index=\"1-3\">DAZN announced Wednesday it will stream games for the Yankees, Knicks, Nets, Rangers, Islanders, Devils and Sabres starting the 2026-27 season</cite>. <cite index=\"1-7,1-8\">The company is close to acquiring rights for five more NBA teams: the Cavaliers, Pacers, Grizzlies, Timberwolves and Spurs</cite>.",
-      "article": "<cite index=\"1-3\">DAZN announced Wednesday it will become the exclusive streaming home for the Yankees, Knicks, Nets, Rangers, Islanders, Devils and Sabres starting the 2026-27 season</cite>, marking the global sports platform's biggest move yet into U.S. regional sports.\n\n<cite index=\"1-2\">The deal gives DAZN the exclusive digital home for MSG Networks and YES Network</cite>, replacing the Gotham Sports app after just two years. <cite index=\"1-4\">DAZN CEO Shay Segev called it \"a defining moment for us and underscores our commitment to expanding our footprint in the United States.\"</cite>\n\nBut the New York deal is just the opening move. <cite index=\"1-7,1-8\">Segev confirmed DAZN is close to acquiring exclusive local broadcasting rights for the Cavaliers, Pacers, Grizzlies, Timberwolves and Spurs for the 2026-27 regular season</cite>. <cite index=\"1-9\">The company is also negotiating for streaming-only deals with the Hornets and Magic</cite>.\n\nThe shifts highlight how regional sports distribution is fracturing. <cite index=\"1-10\">The deal comes as professional sports leagues confront the decline of regional sports networks and look for new distribution models</cite>. <cite index=\"2-1\">DAZN has been in the U.S. since 2018</cite>, but this represents its largest U.S. sports gamble.\n\nNew York subscribers won't know pricing yet. <cite index=\"4-5\">Cord-cutters currently pay $34.99 a month on Gotham</cite>, but <cite index=\"2-7\">New York pricing has not been announced</cite>. <cite index=\"2-10\">Games will still air on traditional TV via MSG and YES, with cable customers also able to authenticate subscriptions and watch through DAZN</cite>.",
+      "leadHeadline": "Uefa to boycott World Cups if Fifa plans approved",
+      "leadSource": "BBC Sport · just now",
+      "leadUrl": "https://www.bbc.co.uk/sport/football/articles/c5y67zrrdddo?at_medium=RSS&amp;at_campaign=rss",
+      "summary": "<cite index=\"5-12\">UEFA's 55 members voted unanimously Thursday</cite> to <cite index=\"1-1\">boycott the 2030 World Cup</cite> unless <cite index=\"4-3\">FIFA abandons plans to raise $4.2 billion by selling a 20% stake valued at $20 billion</cite> to private investors.",
+      "article": "<cite index=\"5-10\">UEFA announced Thursday it would boycott future men's and women's World Cups in response to FIFA President Gianni Infantino's plan to allow private investment</cite>.\n\n<cite index=\"5-12\">In an emergency meeting of its 55 member associations, UEFA \"unanimously and unequivocally\" rejected FIFA's proposal</cite>. <cite index=\"1-1\">The boycott would mean teams like current World Cup champion Spain plus semifinalists France and England would not play in the 2030 World Cup</cite>.\n\n<cite index=\"2-4\">\"No UEFA national teams will participate in any FIFA competition for so long as these proposals remain alive, unless this proposal has been abandoned in its entirety,\" UEFA said in a statement</cite>.\n\n<cite index=\"10-1\">FIFA announced plans Tuesday to set up a separate subsidiary involving private equity investment that would control commercial and operational rights</cite>. <cite index=\"4-3\">The plan calls for raising $4.2 billion by selling a 20% stake in a new entity at a $20 billion equity valuation</cite>. <cite index=\"12-1\">Thrive Capital, founded by Joshua Kushner, is leading the investor group, with J.P. Morgan overseeing fundraising</cite>.\n\n<cite index=\"2-7\">Infantino called the initiative a \"golden opportunity to turbocharge the development of the game globally\"</cite>. <cite index=\"4-2\">FIFA will ask its 211 member associations to vote on the plan in September</cite>.\n\n<cite index=\"11-3,11-4\">Europe controls only 55 of FIFA's 211 votes, so unless other confederations unite in opposition, Infantino likely has the numbers to prevail</cite>.",
       "tweets": [
         {
-          "url": "https://twitter.com/dazngroup/status/2082466377042968872",
-          "html": "<blockquote class=\"twitter-tweet\" data-dnt=\"true\" data-theme=\"dark\"><p>Today, DAZN, @MSGNetworks  and @YESNetwork  announced a new regional media rights partnership that will make DAZN the exclusive streaming home of MSG Networks and YES Network content, including @nyknicks, @Yankees, @NYRangers, @BrooklynNets, @NJDevils, @NYIslanders and https://t.co/3MB8Jl0SxU</p>&mdash; DAZN (@dazngroup) <a href=\"https://twitter.com/dazngroup/status/2082466377042968872\">July 29, 2026</a></blockquote>",
-          "author_name": "DAZN",
-          "author_url": "https://twitter.com/dazngroup",
-          "dateMs": 1785333649000
+          "url": "https://twitter.com/UEFA/status/2082462510339236090",
+          "html": "<blockquote class=\"twitter-tweet\" data-dnt=\"true\" data-theme=\"dark\"><p>Further UEFA statement on FIFA plans: ⬇️ https://t.co/EgQSUob9B5</p>&mdash; UEFA (@UEFA) <a href=\"https://twitter.com/UEFA/status/2082462510339236090\">July 29, 2026</a></blockquote>",
+          "author_name": "UEFA",
+          "author_url": "https://twitter.com/UEFA",
+          "dateMs": 1785332727000
         }
       ]
     },
     {
-      "category": "leagues",
-      "importance": 8,
-      "leadHeadline": "Fifa 'undermining the very foundations of football', says AFC as Uefa talks loom",
-      "leadSource": "The Guardian · 2h ago",
-      "leadUrl": "https://www.theguardian.com/football/2026/jul/30/fifa-uefa-world-cup-infantino",
-      "summary": "The Asian Football Confederation accused FIFA of undermining football by failing to consult confederations on a plan to sell equity stakes in World Cup commercial rights to private investors. UEFA is holding an emergency meeting Thursday.",
-      "article": "The Asian Football Confederation has escalated its opposition to FIFA's surprise announcement of a plan to sell equity stakes in a new commercial venture controlling all World Cup revenue streams. In a letter Thursday, the AFC accused FIFA of sidelining the continental confederations from a decision of such magnitude.\n\nThe plan would allow private investors to take minority stakes in what FIFA is framing as a separate commercial entity, effectively privatizing portions of the World Cup's most lucrative rights. The announcement blindsided multiple confederations, raising questions about governance and the sport's ownership structure.\n\nUEFA is holding an emergency meeting Thursday to coordinate European opposition. The AFC's involvement is particularly significant because Asian confederations control voting leverage in FIFA's governance structure. Together, AFC and UEFA represent a substantial bloc, and their unified resistance could block the measure if put to a vote.\n\nThis marks the second major governance crisis for FIFA in a year and underscores tensions over how commercial expansion decisions are made. The three-year-old biennial World Cup proposal faced similar confederation pushback before being shelved. Privatizing World Cup stakes goes further, potentially reshaping the sport's financial architecture without broader buy-in.",
-      "tweets": []
-    },
-    {
-      "category": "media",
-      "importance": 7,
-      "leadHeadline": "Fleming new England Test coach with Root captain",
-      "leadSource": "BBC Sport · 1h ago",
-      "leadUrl": "https://www.bbc.co.uk/sport/cricket/articles/cx2mjk24lymo?at_medium=RSS&amp;at_campaign=rss",
-      "summary": "Stephen Fleming, the former New Zealand captain, has been appointed England Test cricket coach with Joe Root as captain, marking a major restructuring of English cricket leadership.",
-      "article": "Stephen Fleming has been appointed England Test cricket coach with Joe Root as captain, the England and Wales Cricket Board announced. Fleming, a former New Zealand captain and respected cricket strategist, brings international coaching experience to an England side seeking to rebuild after recent struggles.\n\nRoot's appointment as captain signals continuity in the batting lineup and leadership philosophy. Fleming's background coaching New Zealand to multiple World Cup finals and developing regional cricket programs in New Zealand positions him to reshape English Test cricket's structure and player development pipeline.\n\nThe appointment comes amid broader restructuring of English cricket's coaching ranks. Fleming's tenure with New Zealand, including his role in modernizing that team's approach, aligns with the ECB's stated goal of returning England to Test cricket competitiveness after inconsistent results in recent years.",
-      "tweets": []
-    },
-    {
       "category": "revenue",
       "importance": 6,
-      "leadHeadline": "Big Ten ahead on field, but catching SEC in TV ratings will be more difficult",
-      "leadSource": "Sports Media Watch · just now",
-      "leadUrl": "https://www.sportsmediawatch.com/2026/07/big-ten-sec-college-football-ratings/",
-      "summary": "The Big Ten enters the 2026 college football season as three-time defending national champions, with Indiana's playoff victory drawing over 30 million ESPN viewers, but faces structural challenges in overtaking SEC television ratings.",
-      "article": "The Big Ten Conference has won three consecutive College Football Playoff National Championships, with Indiana's January victory over Miami drawing more than 30 million viewers on ESPN. Yet despite on-field dominance, the conference faces a more difficult climb in closing the television ratings gap with the SEC, which has maintained higher viewership across regular-season programming.\n\nIndiana's championship draw marked a significant moment for Big Ten visibility, but regular-season metrics tell a different story. The SEC's embedded advantage in the broadcast landscape, driven by traditional power concentrations and long-standing media partnerships, has sustained higher baseline ratings across the conference slate.\n\nBig Ten leadership has pursued aggressive media rights strategies to compete with the SEC's revenue streams, including conference expansion and new broadcast partnerships. The championship on-field success provides leverage in negotiations, but converting that into sustained prime-time ratings and advertising revenue remains the longer-term challenge.",
+      "leadHeadline": "Banks Are Rushing to Grab College Sports' Newest AdSpace",
+      "leadSource": "Sportico · just now",
+      "leadUrl": "https://www.sportico.com/leagues/college-sports/2026/college-sports-jersey-patches-banks-sofi-chase-1234940551/",
+      "summary": "SoFi became the first jersey patch sponsor of Notre Dame athletics in a deal the CEO called \"truly unique,\" expanding the bank's sports portfolio into college sports naming rights and athlete partnerships. The move signals banks' aggressive pursuit of college sports sponsorship inventory.",
+      "article": "SoFi, the financial services company that already holds the NFL's richest naming-rights deal and sponsors teams and athletes across the NBA, WNBA, and professional golf, has signed Notre Dame athletics as the first jersey patch partner of the university.\n\nCEO Anthony Noto said the deal \"brings something truly unique\" to the company's sports portfolio. The move marks SoFi's entry into college sports sponsorship at the marquee level, following years of institutional sponsorships across professional leagues.\n\nThe Notre Dame patch deal reflects a broader trend: banks and fintech firms are aggressively bidding for limited sponsorship inventory in college sports, an asset class that was largely unavailable to corporate sponsors until recent years. University athletic departments have begun selling jersey patches, stadium signage, and uniform partnerships to offset rising operational costs and revenue pressures from the transfer portal era.\n\nSoFi's portfolio now spans the full sports ecosystem. The company's NFL commitment includes naming rights to the Las Vegas Raiders' stadium, a historically expensive category. The Notre Dame patch represents a different but equally valuable position: direct placement on one of college football's most-watched uniforms and a partnership with a $2 billion athletic program. Other financial services companies and banks are expected to follow SoFi's lead into college sports sponsorship in coming months.",
       "tweets": []
     },
     {
       "category": "media",
       "importance": 5,
-      "leadHeadline": "NFL Flag Championship Sees Highest Rating Yet",
-      "leadSource": "Front Office Sports · 17h ago",
-      "leadUrl": "https://frontofficesports.com/nfl-flag-championship-youth-sports-espn-abc-ratings/",
-      "summary": "The NFL Flag Championships delivered record viewership in its third year, expanding the league's youth and alternative football programming footprint.",
-      "article": "The NFL Flag Championships recorded its highest viewership in the tournament's three-year history. The youth flag football initiative, which operates outside traditional tackle football, continues to drive engagement among younger demographics and expands the NFL's grassroots presence.\n\nFlag football's growth reflects the league's broader strategy to develop alternative revenue streams and talent pipelines while addressing safety concerns in youth sports. The rating increase signals growing audience interest in the format, particularly among families and communities prioritizing lower-contact versions of the game.",
+      "leadHeadline": "Timberwolves strike DAZN deal in first of several to come for streamer",
+      "leadSource": "Sports Media Watch · 2h ago",
+      "leadUrl": "https://www.sportsmediawatch.com/2026/07/dazn-nba-streaming-deals-timberwolves-yes-msg-gotham-sports/",
+      "summary": "The Minnesota Timberwolves signed a local streaming rights deal with DAZN, marking the streamer's official entry into the local sports rights market after months of negotiations. Several more deals are expected to follow.",
+      "article": "After months of being mentioned as a contender, DAZN officially entered the local sports rights market by signing the Minnesota Timberwolves to a streaming deal.\n\nThe agreement gives DAZN exclusive or partial local broadcast rights to Timberwolves games, a significant milestone for the streamer. DAZN has long pursued U.S. sports content rights but has faced competition from traditional cable networks and established digital platforms. The Timberwolves deal breaks that logjam.\n\nSports Media Watch reported that additional DAZN local deals are expected to follow, suggesting the streamer is in active negotiations with other NBA teams and potentially franchises in other leagues. The Timberwolves partnership positions DAZN as a serious player in the fragmented local broadcasting landscape, where teams increasingly seek direct-to-consumer revenue streams.\n\nThe deal also reflects broader shifts in sports rights distribution. Local broadcasts, historically anchored to regional cable networks like Fox Sports North and Bally Sports, have migrated to streaming as cord-cutting accelerates and teams seek higher margins on local inventory. DAZN's entry into the U.S. local market follows its success with international soccer rights and European sports content.",
       "tweets": []
     },
     {
-      "category": "contracts",
-      "importance": 5,
-      "leadHeadline": "RISE to Feature Terri Carmichael Jackson, Jessica Caggiano on WNBA",
-      "leadSource": "Sportico · 1h ago",
-      "leadUrl": "https://www.sportico.com/business/sports/2026/rise-to-feature-wnba-leaders-talking-new-cba-1234940287/",
-      "summary": "WNBPA Executive Director Terri Carmichael Jackson will appear on RISE Women's Sports alongside Jessica Caggiano, following a landmark new WNBA collective bargaining agreement and record-setting media rights deals.",
-      "article": "Terri Carmichael Jackson, the WNBPA Executive Director who negotiated a landmark collective bargaining agreement, will be featured on RISE Women's Sports alongside Jessica Caggiano. The platform appearance comes after Jackson's public advocacy for transformational changes to player compensation, investment, and working conditions.\n\nThe new WNBA CBA secured record-setting media rights and continued expansion of the league. Jackson's high-profile visibility reflects the league's growing mainstream prominence and the WNBPA's increased leverage in negotiations. The appearance underscores the league's effort to elevate player voices and leadership in its public-facing strategy.",
+      "category": "labor",
+      "importance": 4,
+      "leadHeadline": "WNBA Posts, Deletes Video of Apparent Bueckers–Reese Bet on Game",
+      "leadSource": "Front Office Sports · 1h ago",
+      "leadUrl": "https://frontofficesports.com/wnba-reese-bueckers-bet/",
+      "summary": "The WNBA posted and then deleted a video showing Angel Reese boasting about a $400 bet with fellow player Paige Bueckers during All-Star weekend, violating the league's strict anti-gambling rules for players. The incident is now under league review.",
+      "article": "The WNBA posted a social media video during All-Star weekend that showed Angel Reese of the Chicago Sky discussing a $400 bet she made with Indiana Fever guard Paige Bueckers. The league quickly deleted the clip after realizing it documented a clear violation of the WNBA's collective bargaining agreement.\n\nThe CBA includes strict prohibitions against players wagering on games. Reese's apparent bet with Bueckers, captured and amplified by the league's own social media account, created an immediate compliance problem. The WNBA removed the video, but Reese later acknowledged the wager in separate media appearances, saying she \"didn't forget about\" the $400 bet.\n\nThe incident has drawn scrutiny from league executives and may trigger a formal investigation. Unlike NBA and NFL policies, which allow players to gamble on sports in which they don't compete, the WNBA maintains an absolute prohibition. Any documented wager on a game, even a non-competitive bet during an exhibition, violates the terms.\n\nThe league's decision to initially post the video raises questions about content review processes within the WNBA's social media operation. The deletion and Reese's public acknowledgment now put the onus on the league to investigate and determine whether disciplinary action is warranted. This marks the first high-profile gambling violation to surface in the WNBA in recent years.",
       "tweets": []
     },
     {
       "category": "media",
       "importance": 4,
-      "leadHeadline": "Howe to leave Newcastle with Jaissle expected to replace him",
-      "leadSource": "BBC Sport · 1h ago",
-      "leadUrl": "https://www.bbc.co.uk/sport/football/articles/c5yd23l95vgo?at_medium=RSS&amp;at_campaign=rss",
-      "summary": "Newcastle manager Eddie Howe is stepping down from his role with immediate effect, with sources indicating Marco Jaissle as his expected successor.",
-      "article": "Eddie Howe has left Newcastle United with immediate effect, ending his tenure as manager. BBC Sport sources indicate Marco Jaissle is expected to replace him.\n\nHowe's departure marks a significant shift for the Newcastle project amid the Saudi Public Investment Fund's ongoing investment and squad development. Jaissle, who brings European and Bundesliga experience, represents a different coaching direction for the club.",
+      "leadHeadline": "Mike Monaco and Jordan Rodgers to Call ESPN Friday College Football",
+      "leadSource": "Front Office Sports · 1h ago",
+      "leadUrl": "https://frontofficesports.com/mike-monaco-jordan-rodgers-espn-friday-cfb/",
+      "summary": "ESPN tapped Mike Monaco and Jordan Rodgers as the broadcast duo for Friday college football coverage, with Dana Boyle handling sideline reporting. The pairing continues ESPN's reshuffling of college sports broadcast talent.",
+      "article": "ESPN named Mike Monaco and Jordan Rodgers as the broadcast team for Friday college football games, with Dana Boyle assigned as sideline reporter.\n\nMonaco, a veteran play-by-play announcer, brings experience across college and professional sports. Rodgers, the former NFL quarterback and current media personality, adds star power and analysis. Boyle rounds out the crew on the sideline.\n\nThe announcement reflects ESPN's ongoing effort to refresh its college football broadcast lineup heading into the 2026 season. The network has made several talent moves in recent months, partly in response to the continued fragmentation of college sports media rights and the need to differentiate coverage across multiple platforms and time slots.\n\nFriday college football has emerged as a key scheduling block for ESPN, allowing the network to capture games that don't fit traditional Saturday prime-time slots. The Monaco-Rodgers pairing is positioned to anchor that coverage throughout the season.",
+      "tweets": []
+    },
+    {
+      "category": "media",
+      "importance": 3,
+      "leadHeadline": "Big Ten ahead on field, but catching SEC in TV ratings will be more difficult",
+      "leadSource": "Sports Media Watch · 4h ago",
+      "leadUrl": "https://www.sportsmediawatch.com/2026/07/big-ten-sec-college-football-ratings/",
+      "summary": "The Big Ten enters the 2026 college football season as the defending national champion conference with three consecutive playoff winners, but Sports Media Watch reports the conference trails the SEC in TV ratings and faces structural challenges to close the gap. Indiana's College Football Playoff National Championship drew over 30 million viewers on ESPN in January.",
+      "article": "The Big Ten enters the 2026 college football season as the nation's dominant on-field conference, with three straight College Football Playoff National Championship winners. Indiana's victory over Miami in the January championship game drew over 30 million viewers on ESPN.\n\nBut raw winning hasn't translated to ratings dominance. Sports Media Watch reports that the Big Ten lags the SEC in television viewership across the regular season, a gap driven by several structural factors: the SEC's stronger brand in the South and Southeast, traditional scheduling advantages in prime time, and deeper media revenue relationships with cable and streaming partners.\n\nThe Big Ten's ratings challenge persists despite championship success, suggesting that conference prestige and playoff pedigree alone don't guarantee audience reach. The SEC's embedded position in regional sports culture and its long-standing media partnerships have created a durable viewership advantage that on-field performance has not yet erased.\n\nFor the Big Ten, closing this ratings gap will require not just winning but sustained prime-time visibility and marketing investment beyond what the conference has mounted to date.",
       "tweets": []
     }
   ],
@@ -2401,105 +2391,116 @@
   },
   "deals": [
     {
-      "type": "media_rights",
-      "parties": "DAZN ⇄ Yankees, Knicks, Nets, Rangers, Devils, Islanders, Sabres",
+      "type": "sponsorship",
+      "parties": "SoFi ⇄ Notre Dame Athletics",
       "value_usd": null,
       "term_years": null,
-      "league": "MULTI",
-      "headline": "DAZN secures local streaming rights to seven NY-area franchises",
+      "league": "OTHER",
+      "headline": "SoFi becomes first jersey patch partner of Notre Dame athletics",
       "storyIndex": 1,
-      "blurb": "DAZN signed broadcast deals with Yankees, Knicks, Nets, Rangers, Devils, Islanders, and Sabres, with plans for broader U.S. expansion.",
-      "capturedAt": "2026-07-30T12:22:49.518Z"
+      "blurb": "SoFi CEO Anthony Noto called the deal \"truly unique\" as the fintech firm expands into college sports sponsorship.",
+      "capturedAt": "2026-07-30T16:21:32.790Z"
+    },
+    {
+      "type": "media_rights",
+      "parties": "DAZN ⇄ Minnesota Timberwolves",
+      "value_usd": null,
+      "term_years": null,
+      "league": "NBA",
+      "headline": "Timberwolves strike DAZN deal in first of several to come for streamer",
+      "storyIndex": 7,
+      "blurb": "DAZN officially entered the local sports rights market with a Timberwolves streaming deal; several more expected.",
+      "capturedAt": "2026-07-30T16:21:32.790Z"
     }
   ],
   "ratings": [
     {
-      "event": "College Football Playoff National Championship (Indiana vs Miami)",
+      "event": "College Football Playoff National Championship: Indiana vs Miami",
       "network": "ESPN",
       "viewers_m": 30,
       "peak_viewers_m": null,
       "league": "OTHER",
-      "storyIndex": 7,
-      "context": "Indiana's victory drew over 30M viewers in January, marking high playoff viewership for Big Ten.",
-      "capturedAt": "2026-07-30T12:22:49.518Z"
+      "storyIndex": 15,
+      "context": "Indiana's January championship victory drew over 30M viewers, highest-rated college football broadcast.",
+      "capturedAt": "2026-07-30T16:21:32.790Z"
     }
   ],
   "ticket_prices": [],
   "sidebar": [
     {
-      "headline": "Ohtani's Health Becomes Dodgers' Biggest Question",
-      "source": "Front Office Sports · 15h ago",
-      "article": "Shohei Ohtani's dual-threat value has been sidelined on the mound while his offensive production has slumped significantly. The Dodgers designated him as unavailable for pitching duties, forcing the team to adjust rotation plans mid-season. His bat, which carried the franchise last year, has failed to produce at expected levels. For a franchise built around his two-way impact, prolonged inactivity or continued offensive decline raises questions about roster construction and whether supporting pieces can compensate during a crucial stretch."
+      "headline": "Adidas Stock Plunges Record 19% Despite World Cup Revenue Boost",
+      "source": "Sportico · 2h ago",
+      "article": "Adidas dominated the 2026 World Cup as the sponsor of both finalists (Spain and Argentina), the match-day ball, and the referees' kits, pushing revenue to a quarterly record of €6.7 billion ($7.7 billion). Despite the World Cup win and raised year-end revenue guidance, Adidas shares fell 19% in a single trading session. The stock collapse suggests investor concerns about broader profitability, supply chain issues, or expectations for post-World Cup sales normalization. CEO commentary on earnings calls indicates the World Cup boost masks underlying headwinds in North American wholesale and direct-to-consumer channels."
     },
     {
-      "headline": "Yesavage Cements Role in Blue Jays Rotation Plans",
-      "source": "Sportsnet · 16h ago",
-      "article": "Trey Yesavage continued to make his case as a central piece of Toronto's pitching rebuild in a win over Washington. The right-hander limited the Nationals over 6.2 innings, showcasing the depth the Jays are building ahead of a potential trade deadline overhaul. With the team expected to reshape its rotation, Yesavage's performance demonstrates the organization has controllable, quality arms already in place, reducing urgency to overpay for rentals."
+      "headline": "Mayweather Needn't Reveal Records in Tyson, Pacquiao Case",
+      "source": "Sportico · 1h ago",
+      "article": "U.S. District Judge Vernon Broderick ruled on July 24 that Floyd Mayweather Jr. is not required to disclose financial account statements and contracts related to a proposed fight against Mike Zambidis in Greece, despite CSI Entertainment's claims of his \"functional bankruptcy.\" The ruling came in a civil lawsuit and upholds Mayweather's right to shield proprietary business records. The decision is a win for Mayweather's legal team and complicates CSI's efforts to prove he lacks assets to satisfy potential judgments related to the Zambidis fight negotiations."
     },
     {
-      "headline": "Storm Apologize for Co-Owner's Comments to Sophie Cunningham Fans",
-      "source": "Front Office Sports · 17h ago",
-      "article": "The Seattle Storm issued an apology after a co-owner made comments to fans holding a sign thanking Sophie Cunningham for speaking up for girls. The exchange highlighted tensions between ownership and the fan base around player activism and inclusivity issues. The apology underscores the league's sensitivity to narratives around player advocacy and team management relations in the WNBA."
+      "headline": "What does deadline market look like for Blue Jays Springer, Varsho?",
+      "source": "Sportsnet · 1h ago",
+      "article": "Baseball journalist Kaitlyn McGrath discussed the trade deadline outlook for Toronto Blue Jays veterans George Springer and Daulton Varsho on Jays Talk Plus, exploring potential landing spots and the complications of trading divisional rivals. Springer remains a premium outfielder despite aging, while Varsho brings catcher depth and offensive upside. The Blue Jays face a decision on whether to sell ahead of the deadline or commit to a contention window, a choice complicated by division-within-trade restrictions and limited buyer appetite for veteran positional players."
     },
     {
-      "headline": "Bob Chesney Leans on Pro Counterparts to Build UCLA Football",
+      "headline": "Challenging times ahead for Newcastle - Shearer",
+      "source": "BBC Sport · 1h ago",
+      "article": "Alan Shearer, Newcastle United legend and Match of the Day pundit, expressed concern about the club's future after manager Eddie Howe's departure. Shearer cited uncertainty around the club's strategic direction, transfer planning, and continuity of performance standards. Newcastle enters a transitional period with the need to identify a new manager and maintain competitiveness in the Premier League's increasingly expensive arms race."
+    },
+    {
+      "headline": "Cade Klubnik impresses Aaron Glenn at Jets training camp",
       "source": "NY Post Sports · just now",
-      "article": "UCLA football coach Bob Chesney is leveraging relationships with Los Angeles sports leaders, including Dodgers manager Dave Roberts and Rams coach Sean McVay, to build a winning culture at the college level. Chesney's bond with Roberts is strong enough that the pair scheduled golf together Thursday to discuss coaching philosophy. The strategy reflects how college programs increasingly tap pro expertise and mentorship to accelerate development and competitive positioning."
+      "article": "Jets offensive coordinator Aaron Glenn praised quarterback Cade Klubnik's performance at training camp, noting his accuracy and decision-making. Glenn said, \"He made some throws today, didn't he?\" Klubnik, competing for reps in a crowded QB room, is working to prove he can execute the Jets' offensive system and earn playing time in preseason. The quarterback's camp performance comes amid a broader Jets evaluation period as the team prepares for the 2026 season."
     },
     {
-      "headline": "Liverpool Beats Wrexham in Pre-Season Friendly at Yankee Stadium",
-      "source": "The Guardian · 10h ago",
-      "article": "Liverpool defeated Wrexham 1-0 in a pre-season friendly at Yankee Stadium, with Rio Ngumoha's deflected goal deciding the match. The Reds launched a new away kit during the trip, continuing their North American tour. Neither side produced clinical attacking play, but the result extended Liverpool's early pre-season record and gave the squad minutes before domestic competition resumes."
-    },
-    {
-      "headline": "Eduardo Rodriguez Continues Outperforming Fantasy Projections",
-      "source": "CBS Sports · 1h ago",
-      "article": "Eduardo Rodriguez has again exceeded statistical models and season-long expectations, providing fantasy baseball value beyond his preseason rankings. His consistent overperformance raises questions about projection methodologies and whether models adequately account for mid-career improvement and adjusted approach. Managers who trusted Rodriguez early have been rewarded as he delivers starter-level consistency week after week."
+      "headline": "Fifa's sales pitch revealed: more tournaments, more debt … but no mention of women's game",
+      "source": "The Guardian · 2h ago",
+      "article": "FIFA's 25-page sales pitch, produced by JP Morgan, outlines plans to double global tournaments and restructure competition financing to justify selling commercial stakes to private investors. The proposal notably omits any expansion or investment in women's soccer, despite growing advocacy for equal investment across men's and women's competitions. The deck positions the sale as necessary for financial sustainability but offers no mechanism to channel proceeds toward women's development or tournament growth."
     }
   ],
   "poll": {
-    "question": "Will the AFC's opposition block FIFA's equity-stake sale plan for World Cup rights?",
+    "question": "Will UEFA's boycott threat force FIFA to shelve the World Cup commercial rights sale?",
     "options": [
-      "Yes, AFC and UEFA combined have sufficient voting leverage to block it",
-      "No, FIFA will find a path to approval despite confederation concerns",
-      "Partly, FIFA will modify the plan but proceed with investor involvement",
-      "Too early to tell; it depends on official voting procedures"
+      "Yes, the unified 55-0 vote makes the sale politically impossible",
+      "No, FIFA will push forward and call UEFA's bluff",
+      "Partially, a scaled-down version will be approved with UEFA concessions",
+      "Uncertain, FIFA and UEFA will negotiate a compromise within 6 months"
     ]
   },
   "predictions": [
     {
-      "statement": "DAZN will sign at least two additional U.S. franchises to local streaming deals within 12 months.",
-      "probability": 72,
-      "rationale": "The company explicitly signaled expansion plans beyond the seven NY-area teams it just secured. With capital and proven infrastructure, secondary-market franchises facing RSN uncertainty represent logical targets."
+      "statement": "UEFA will formally withdraw from World Cup participation if FIFA approves the sale without major modifications.",
+      "probability": 25,
+      "rationale": "A complete UEFA boycott would be economically ruinous for all parties and unprecedented in modern soccer governance. More likely is a negotiated compromise where FIFA retains control but offers UEFA seats on a new oversight board and commits to women's soccer funding."
     },
     {
-      "statement": "FIFA will withdraw or significantly modify its equity-sale plan following confederation pushback.",
-      "probability": 64,
-      "rationale": "AFC and UEFA represent substantial voting blocs, and the speed of organized opposition mirrors the biennial World Cup resistance. FIFA faces reputational risk if it overrides explicit confederation concerns on governance."
+      "statement": "Joshua Kushner's investor group will close a deal to acquire a stake in World Cup commercial rights by end of 2026.",
+      "probability": 40,
+      "rationale": "Political and governance obstacles are substantial, but Kushner family connections and the promised financial upside create investor momentum. UEFA's boycott vote complicates but doesn't eliminate the path if FIFA finds alternative financing or restructures the terms."
     },
     {
-      "statement": "The Big Ten will generate higher average regular-season television ratings than the SEC by 2027.",
-      "probability": 38,
-      "rationale": "Championship success is valuable for leverage in negotiations but doesn't automatically translate to sustained regular-season viewership. The SEC's embedded broadcasting advantage and traditional audience loyalty remain structural headwinds."
+      "statement": "DAZN will sign at least three more U.S. sports rights deals (local or league-level) by the end of the 2026-27 season.",
+      "probability": 65,
+      "rationale": "The Timberwolves deal is a proof of concept. DAZN has capital and urgency to build a U.S. footprint. Regional networks are weakening, creating supply. At least three deals is realistic; could be more if DAZN targets smaller-market franchises or lower-tier league packages."
     },
     {
-      "statement": "Stephen Fleming's England Test side will win a series overseas within his first year as coach.",
+      "statement": "The WNBA will formally suspend Angel Reese for violating the gambling prohibition by mid-August.",
       "probability": 55,
-      "rationale": "Fleming brings proven international coaching experience, but England's recent Test struggles reflect deeper structural issues. His early impact depends on player buy-in and injury health in a congested schedule."
+      "rationale": "Reese's public acknowledgment of the bet and the league's own video evidence create a clear documentation burden the WNBA can't avoid. A token suspension (1-5 games) is more likely than a full season ban, but discipline is now virtually certain."
     }
   ],
   "injuries": [
     {
-      "player": "Shohei Ohtani",
-      "team": "Los Angeles Dodgers",
-      "league": "MLB",
-      "position": "DH",
-      "status": "OUT",
-      "injury": "Unspecified health issue affecting pitching availability and offensive production",
+      "player": "Eddie Howe",
+      "team": "Newcastle United",
+      "league": "SOCCER",
+      "position": "Manager",
+      "status": "RETURNING",
+      "injury": "Departure from club (managerial transition)",
       "timeline": null,
-      "source": "Front Office Sports",
-      "impact": "Dodgers forced to adjust rotation plans and operate without dual-threat value; offense has slumped during absence from pitching duties.",
-      "storyIndex": 0
+      "source": "BBC Sport",
+      "impact": "Newcastle enters managerial transition with immediate need to identify replacement and maintain squad continuity during critical preseason.",
+      "storyIndex": 12
     }
   ],
   "picks": [
@@ -5871,32 +5872,140 @@
         "homeTeam": "St. Louis Cardinals"
       },
       "_pendingGrade": true
+    },
+    {
+      "type": "moneyline",
+      "pick": "Tampa Bay Rays ML",
+      "odds": "-177",
+      "edge": "Market fill from live lines: Tampa Bay Rays is the books' favorite at -177 (best price @ LowVig.ag) against Texas Rangers at +230, with home ice/court/field behind them. No researched edge here — this is a low-confidence market-consensus play added to round out the slate. Low confidence is honest confidence.",
+      "matchup": "Texas Rangers @ Tampa Bay Rays",
+      "league": "MLB",
+      "when": "Today 12:11 PM ET",
+      "confidence": "low",
+      "_autofill": true,
+      "_scheduledTs": 1785427860000,
+      "marketSnapshot": {
+        "capturedAt": "2026-07-30T16:21:57.669Z",
+        "markets": {
+          "h2h": {
+            "away": {
+              "price": 230,
+              "book": "FanDuel"
+            },
+            "home": {
+              "price": -177,
+              "book": "LowVig.ag"
+            },
+            "draw": null
+          },
+          "spreads": {
+            "away": {
+              "point": 1.5,
+              "price": 105,
+              "book": "BetMGM"
+            },
+            "home": {
+              "point": -1.5,
+              "price": 115,
+              "book": "LowVig.ag"
+            }
+          },
+          "totals": {
+            "over": {
+              "point": 7.5,
+              "price": -105,
+              "book": "Caesars"
+            },
+            "under": {
+              "point": 8,
+              "price": -115,
+              "book": "BetUS"
+            }
+          }
+        },
+        "awayTeam": "Texas Rangers",
+        "homeTeam": "Tampa Bay Rays"
+      }
+    },
+    {
+      "type": "moneyline",
+      "pick": "Minnesota Twins ML",
+      "odds": "-132",
+      "edge": "Market fill from live lines: Minnesota Twins is the books' favorite at -132 (best price @ BetOnline.ag) against Kansas City Royals at +123, with home ice/court/field behind them. No researched edge here — this is a low-confidence market-consensus play added to round out the slate. Low confidence is honest confidence.",
+      "matchup": "Kansas City Royals @ Minnesota Twins",
+      "league": "MLB",
+      "when": "Today 1:41 PM ET",
+      "confidence": "low",
+      "_autofill": true,
+      "_scheduledTs": 1785433260000,
+      "marketSnapshot": {
+        "capturedAt": "2026-07-30T16:21:57.669Z",
+        "markets": {
+          "h2h": {
+            "away": {
+              "price": 123,
+              "book": "BetRivers"
+            },
+            "home": {
+              "price": -132,
+              "book": "BetOnline.ag"
+            },
+            "draw": null
+          },
+          "spreads": {
+            "away": {
+              "point": 1.5,
+              "price": -165,
+              "book": "Caesars"
+            },
+            "home": {
+              "point": -1.5,
+              "price": 147,
+              "book": "MyBookie.ag"
+            }
+          },
+          "totals": {
+            "over": {
+              "point": 9,
+              "price": -113,
+              "book": "BetRivers"
+            },
+            "under": {
+              "point": 9.5,
+              "price": -124,
+              "book": "FanDuel"
+            }
+          }
+        },
+        "awayTeam": "Kansas City Royals",
+        "homeTeam": "Minnesota Twins"
+      }
     }
   ],
-  "updatedAt": "2026-04-23T21:45:00Z",
+  "updatedAt": "2026-07-29T23:59:59Z",
   "highlights": [
     {
       "league": "NBA",
-      "title": "Isiah Thomas’ exceptional handles from the Dominique Wilkins’ charity game in 1988",
-      "videoId": "iVsVrHIv4qA",
-      "thumbnail": "https://img.youtube.com/vi/iVsVrHIv4qA/mqdefault.jpg",
-      "timeAgo": "15h ago",
+      "title": "LaMelo Ball's Handles Are PURE MAGIC 😳 | Top Handles of the 2025-26 Season",
+      "videoId": "f_p-DTnfjgk",
+      "thumbnail": "https://img.youtube.com/vi/f_p-DTnfjgk/mqdefault.jpg",
+      "timeAgo": "Just now",
       "isFallback": false
     },
     {
       "league": "NFL",
-      "title": "C.J. Stroud could be in line for a contract extension 📈",
-      "videoId": "VunqJO9IsF8",
-      "thumbnail": "https://img.youtube.com/vi/VunqJO9IsF8/mqdefault.jpg",
-      "timeAgo": "9h ago",
+      "title": "What a Christian Parker led defense looks like",
+      "videoId": "86uqAhnSvnY",
+      "thumbnail": "https://img.youtube.com/vi/86uqAhnSvnY/mqdefault.jpg",
+      "timeAgo": "Just now",
       "isFallback": false
     },
     {
       "league": "MLB",
-      "title": "Iván Herrera's CLUTCH WALK-OFF in extras &amp; the BEST MLB Highlights from 7/29/26!",
-      "videoId": "w1BIBuydpaA",
-      "thumbnail": "https://img.youtube.com/vi/w1BIBuydpaA/mqdefault.jpg",
-      "timeAgo": "1h ago",
+      "title": "Peter Moylan lost the ball after hitting him but still got the out somehow!!",
+      "videoId": "mD-7VqIWTp0",
+      "thumbnail": "https://img.youtube.com/vi/mD-7VqIWTp0/mqdefault.jpg",
+      "timeAgo": "Just now",
       "isFallback": false
     },
     {
@@ -5904,7 +6013,7 @@
       "title": "FULL REPLAY: Cup Clincher | Flames vs Lightning | 2004 Stanley Cup Game 7",
       "videoId": "neny1DRCdwc",
       "thumbnail": "https://img.youtube.com/vi/neny1DRCdwc/mqdefault.jpg",
-      "timeAgo": "13h ago",
+      "timeAgo": "17h ago",
       "isFallback": false
     },
     {
@@ -5912,19 +6021,171 @@
       "title": "Golden State Valkyries vs. Phoenix Mercury | FULL GAME HIGHLIGHTS | July 29, 2026",
       "videoId": "-taMvWF5M3E",
       "thumbnail": "https://img.youtube.com/vi/-taMvWF5M3E/mqdefault.jpg",
-      "timeAgo": "7h ago",
+      "timeAgo": "11h ago",
       "isFallback": false
     },
     {
       "league": "SOCCER",
-      "title": "FIFA’s Infantino sets Sept. 19 deadline for $20M offer to members in World Cup investor plan",
-      "videoId": "I_QTT7sNVko",
-      "thumbnail": "https://img.youtube.com/vi/I_QTT7sNVko/mqdefault.jpg",
-      "timeAgo": "8h ago",
+      "title": "Liverpool vs. Wrexham EXTENDED HIGHLIGHTS [July 29, 2026] | ESPN FC",
+      "videoId": "8o0SYDP5L0s",
+      "thumbnail": "https://img.youtube.com/vi/8o0SYDP5L0s/mqdefault.jpg",
+      "timeAgo": "1h ago",
       "isFallback": false
     }
   ],
   "reels": [
+    {
+      "league": "MLB",
+      "title": "Peter Moylan lost the ball after hitting him but still got the out somehow!!",
+      "videoId": "mD-7VqIWTp0",
+      "author": "MLB",
+      "pubDate": "2026-07-30T16:00:28+00:00",
+      "link": "https://www.youtube.com/watch?v=mD-7VqIWTp0"
+    },
+    {
+      "league": "NFL",
+      "title": "What a Christian Parker led defense looks like",
+      "videoId": "86uqAhnSvnY",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-07-30T16:00:24+00:00",
+      "link": "https://www.youtube.com/watch?v=86uqAhnSvnY"
+    },
+    {
+      "league": "NBA",
+      "title": "LaMelo Ball's Handles Are PURE MAGIC 😳 | Top Handles of the 2025-26 Season",
+      "videoId": "f_p-DTnfjgk",
+      "author": "NBA",
+      "pubDate": "2026-07-30T16:00:02+00:00",
+      "link": "https://www.youtube.com/watch?v=f_p-DTnfjgk"
+    },
+    {
+      "league": "NFL",
+      "title": "Chris Canty's A-List: QBs with the MOST on the line 🏈 | First Take",
+      "videoId": "hYmQpnm5tt0",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-07-30T15:47:09+00:00",
+      "link": "https://www.youtube.com/watch?v=hYmQpnm5tt0"
+    },
+    {
+      "league": "MLB",
+      "title": "Epic catch, even better celebration 😤 These kids are going to be friends for life ❤️",
+      "videoId": "4fTtXNClFZ0",
+      "author": "MLB",
+      "pubDate": "2026-07-30T15:44:14+00:00",
+      "link": "https://www.youtube.com/watch?v=4fTtXNClFZ0"
+    },
+    {
+      "league": "NBA",
+      "title": "Which Scoot Henderson dunk is best? 🤔(Via: thereal0_/IG)",
+      "videoId": "Dky5X142TqA",
+      "author": "NBA",
+      "pubDate": "2026-07-30T15:40:18+00:00",
+      "link": "https://www.youtube.com/watch?v=Dky5X142TqA"
+    },
+    {
+      "league": "NBA",
+      "title": "VJ Edgecombe Mic'd Up: &quot;Am I still handsome?&quot;",
+      "videoId": "jfZHXDGSHfs",
+      "author": "NBA",
+      "pubDate": "2026-07-30T15:35:31+00:00",
+      "link": "https://www.youtube.com/watch?v=jfZHXDGSHfs"
+    },
+    {
+      "league": "NBA",
+      "title": "Happy 21st birthday to VJ Edgecombe",
+      "videoId": "h0m-KlHVvvU",
+      "author": "NBA",
+      "pubDate": "2026-07-30T15:30:26+00:00",
+      "link": "https://www.youtube.com/watch?v=h0m-KlHVvvU"
+    },
+    {
+      "league": "NFL",
+      "title": "Will this be the year the Cowboys win it all? 👀",
+      "videoId": "3Bhg326PquQ",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-07-30T15:25:17+00:00",
+      "link": "https://www.youtube.com/watch?v=3Bhg326PquQ"
+    },
+    {
+      "league": "NFL",
+      "title": "No one is happy at training camp 🤣",
+      "videoId": "PJJlFScpsIU",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-07-30T15:13:54+00:00",
+      "link": "https://www.youtube.com/watch?v=PJJlFScpsIU"
+    },
+    {
+      "league": "NFL",
+      "title": "Love did MORE with LESS 😤",
+      "videoId": "8xiloTnGdZs",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-07-30T15:12:57+00:00",
+      "link": "https://www.youtube.com/watch?v=8xiloTnGdZs"
+    },
+    {
+      "league": "NBA",
+      "title": "Steph Curry's Handles Are STILL UNFAIR 😳 | Top Handles of the 2025-26 NBA Season",
+      "videoId": "NEsxFdXmZ7A",
+      "author": "NBA",
+      "pubDate": "2026-07-30T15:05:16+00:00",
+      "link": "https://www.youtube.com/watch?v=NEsxFdXmZ7A"
+    },
+    {
+      "league": "SOCCER",
+      "title": "Liverpool vs. Wrexham EXTENDED HIGHLIGHTS [July 29, 2026] | ESPN FC",
+      "videoId": "8o0SYDP5L0s",
+      "author": "ESPN FC",
+      "pubDate": "2026-07-30T15:00:13+00:00",
+      "link": "https://www.youtube.com/watch?v=8o0SYDP5L0s"
+    },
+    {
+      "league": "NFL",
+      "title": "Did Jalen Hurts throw SHADE at A.J. Brown with comments on the Eagles’ chemistry 👀 | First Take",
+      "videoId": "LpDZMPgBrGg",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-07-30T14:51:09+00:00",
+      "link": "https://www.youtube.com/watch?v=LpDZMPgBrGg"
+    },
+    {
+      "league": "NFL",
+      "title": "Jalen Hurts 'sending a message' to A.J. Brown? 😳",
+      "videoId": "OrHKkaGNPbQ",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-07-30T14:50:53+00:00",
+      "link": "https://www.youtube.com/watch?v=OrHKkaGNPbQ"
+    },
+    {
+      "league": "NFL",
+      "title": "2 + 2 = 5 in Philly?",
+      "videoId": "UYX3jbrQVII",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-07-30T14:30:42+00:00",
+      "link": "https://www.youtube.com/watch?v=UYX3jbrQVII"
+    },
+    {
+      "league": "MLB",
+      "title": "The latest rumors and speculation on 2x AL Cy Young winner Tarik Skubal",
+      "videoId": "05IZsk0RY88",
+      "author": "MLB",
+      "pubDate": "2026-07-30T14:06:35+00:00",
+      "link": "https://www.youtube.com/watch?v=05IZsk0RY88"
+    },
+    {
+      "league": "MLB",
+      "title": "Was this WILD game Tarik Skubal's final home start in Detroit?",
+      "videoId": "B6aeBjDWl_s",
+      "author": "MLB",
+      "pubDate": "2026-07-30T13:00:04+00:00",
+      "link": "https://www.youtube.com/watch?v=B6aeBjDWl_s"
+    },
+    {
+      "league": "SOCCER",
+      "title": "Joško Gvardiol extended his contract until 2031 ✍️👏 (via mancity/TT)",
+      "videoId": "PL-s7rkcRIs",
+      "author": "ESPN FC",
+      "pubDate": "2026-07-30T12:22:11+00:00",
+      "link": "https://www.youtube.com/watch?v=PL-s7rkcRIs"
+    },
     {
       "league": "MLB",
       "title": "Iván Herrera's CLUTCH WALK-OFF in extras &amp; the BEST MLB Highlights from 7/29/26!",
@@ -5974,38 +6235,6 @@
       "link": "https://www.youtube.com/watch?v=bnNQNqD30RY"
     },
     {
-      "league": "MLB",
-      "title": "Andruw Monasterio DEMOLISHES a 428-foot GO-AHEAD HOME RUN! 🤯💪 | MLB Highlights",
-      "videoId": "QL19KokgmjU",
-      "author": "MLB",
-      "pubDate": "2026-07-30T05:05:02+00:00",
-      "link": "https://www.youtube.com/watch?v=QL19KokgmjU"
-    },
-    {
-      "league": "MLB",
-      "title": "Edwin Díaz SECURES THE SAVE in his return from the IL! 🎺🔥(First appearance since April 19!)",
-      "videoId": "RaC6M1SiP84",
-      "author": "MLB",
-      "pubDate": "2026-07-30T04:57:24+00:00",
-      "link": "https://www.youtube.com/watch?v=RaC6M1SiP84"
-    },
-    {
-      "league": "MLB",
-      "title": "ASTROS vs. ANGELS: Official Full Game Highlights (July 29) | 2026 MLB Season",
-      "videoId": "KK5MkhvKTbQ",
-      "author": "MLB",
-      "pubDate": "2026-07-30T04:55:23+00:00",
-      "link": "https://www.youtube.com/watch?v=KK5MkhvKTbQ"
-    },
-    {
-      "league": "MLB",
-      "title": "YANKEES vs. WHITE SOX: Official Full Game Highlights (July 29) | 2026 MLB Season",
-      "videoId": "rgW4cdPFRQs",
-      "author": "MLB",
-      "pubDate": "2026-07-30T04:06:08+00:00",
-      "link": "https://www.youtube.com/watch?v=rgW4cdPFRQs"
-    },
-    {
       "league": "SOCCER",
       "title": "FIFA’s Infantino sets Sept. 19 deadline for $20M offer to members in World Cup investor plan",
       "videoId": "I_QTT7sNVko",
@@ -6020,14 +6249,6 @@
       "author": "ESPN FC",
       "pubDate": "2026-07-30T03:51:20+00:00",
       "link": "https://www.youtube.com/watch?v=B9BSx9GCUv4"
-    },
-    {
-      "league": "NFL",
-      "title": "C.J. Stroud could be in line for a contract extension 📈",
-      "videoId": "VunqJO9IsF8",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-07-30T03:07:55+00:00",
-      "link": "https://www.youtube.com/watch?v=VunqJO9IsF8"
     },
     {
       "league": "SOCCER",
@@ -6062,30 +6283,6 @@
       "link": "https://www.youtube.com/watch?v=hnRCs34EUKU"
     },
     {
-      "league": "SOCCER",
-      "title": "Liverpool vs. Wrexham Reaction + Season preview under Andoni Iraola | ESPN FC",
-      "videoId": "UGjuac8XoP4",
-      "author": "ESPN FC",
-      "pubDate": "2026-07-30T02:32:31+00:00",
-      "link": "https://www.youtube.com/watch?v=UGjuac8XoP4"
-    },
-    {
-      "league": "SOCCER",
-      "title": "Liverpool vs. Wrexham | Club Friendly Highlights | ESPN FC",
-      "videoId": "8vBRkCXTGss",
-      "author": "ESPN FC",
-      "pubDate": "2026-07-30T01:41:11+00:00",
-      "link": "https://www.youtube.com/watch?v=8vBRkCXTGss"
-    },
-    {
-      "league": "NFL",
-      "title": "What makes Sean Payton special",
-      "videoId": "oem8KUP0d8I",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-07-30T00:00:34+00:00",
-      "link": "https://www.youtube.com/watch?v=oem8KUP0d8I"
-    },
-    {
       "league": "NHL",
       "title": "FULL REPLAY: Cup Clincher | Flames vs Lightning | 2004 Stanley Cup Game 7",
       "videoId": "neny1DRCdwc",
@@ -6094,36 +6291,12 @@
       "link": "https://www.youtube.com/watch?v=neny1DRCdwc"
     },
     {
-      "league": "NFL",
-      "title": "Nate Scheelhaase talks taking over as Rams offensive coordinator | NFL Live",
-      "videoId": "zCQzku_ctrg",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-07-29T21:36:39+00:00",
-      "link": "https://www.youtube.com/watch?v=zCQzku_ctrg"
-    },
-    {
-      "league": "NFL",
-      "title": "Aaron Rodgers' leadership qualities 👏",
-      "videoId": "M4aHYG-Vcgc",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-07-29T21:00:08+00:00",
-      "link": "https://www.youtube.com/watch?v=M4aHYG-Vcgc"
-    },
-    {
       "league": "NBA",
       "title": "Isiah Thomas’ exceptional handles from the Dominique Wilkins’ charity game in 1988",
       "videoId": "iVsVrHIv4qA",
       "author": "NBA",
       "pubDate": "2026-07-29T21:00:04+00:00",
       "link": "https://www.youtube.com/watch?v=iVsVrHIv4qA"
-    },
-    {
-      "league": "NFL",
-      "title": "Adam Schefter details the extent of Tua Tagovailoa's injury | NFL Live",
-      "videoId": "CZi6P0uAufU",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-07-29T20:59:45+00:00",
-      "link": "https://www.youtube.com/watch?v=CZi6P0uAufU"
     },
     {
       "league": "NBA",
@@ -6140,70 +6313,6 @@
       "author": "NBA",
       "pubDate": "2026-07-29T20:00:18+00:00",
       "link": "https://www.youtube.com/watch?v=SsFw7JVYq7M"
-    },
-    {
-      "league": "NFL",
-      "title": "Top NFL offseason storylines with Laura Rutledge! | The Pat McAfee Show",
-      "videoId": "Wz5aJEh_h4U",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-07-29T19:30:42+00:00",
-      "link": "https://www.youtube.com/watch?v=Wz5aJEh_h4U"
-    },
-    {
-      "league": "NBA",
-      "title": "Court side staples during the Knicks title run 🏆",
-      "videoId": "MhWrg44MLWo",
-      "author": "NBA",
-      "pubDate": "2026-07-29T18:01:55+00:00",
-      "link": "https://www.youtube.com/watch?v=MhWrg44MLWo"
-    },
-    {
-      "league": "NFL",
-      "title": "Why Vic Fangio is one of the GREATEST DCs EVER",
-      "videoId": "k414hk_avfk",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-07-29T18:00:35+00:00",
-      "link": "https://www.youtube.com/watch?v=k414hk_avfk"
-    },
-    {
-      "league": "NBA",
-      "title": "You Can't Guard Luka When He's Doing This 😳 | Luka Dončić's Top Handles of the 2025-26 Season",
-      "videoId": "SRenOvTMgSI",
-      "author": "NBA",
-      "pubDate": "2026-07-29T18:00:22+00:00",
-      "link": "https://www.youtube.com/watch?v=SRenOvTMgSI"
-    },
-    {
-      "league": "NBA",
-      "title": "Donovan Mitchell was getting shifty",
-      "videoId": "TbdERKmOC_I",
-      "author": "NBA",
-      "pubDate": "2026-07-29T17:55:05+00:00",
-      "link": "https://www.youtube.com/watch?v=TbdERKmOC_I"
-    },
-    {
-      "league": "NBA",
-      "title": "Luka was putting on a show last November 🤩",
-      "videoId": "RAgzVXZsxxY",
-      "author": "NBA",
-      "pubDate": "2026-07-29T17:52:58+00:00",
-      "link": "https://www.youtube.com/watch?v=RAgzVXZsxxY"
-    },
-    {
-      "league": "NBA",
-      "title": "Wemby handles are difficult to fathom 😳",
-      "videoId": "snOpka_8D6E",
-      "author": "NBA",
-      "pubDate": "2026-07-29T17:50:09+00:00",
-      "link": "https://www.youtube.com/watch?v=snOpka_8D6E"
-    },
-    {
-      "league": "NFL",
-      "title": "TOUGH LOOK! 😬 Evaluating C.J. Stroud's Texans training camp arrival w/ Schefty | The Pat McAfee Show",
-      "videoId": "KOoeso0Lxd0",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-07-29T17:05:42+00:00",
-      "link": "https://www.youtube.com/watch?v=KOoeso0Lxd0"
     },
     {
       "league": "WNBA",
