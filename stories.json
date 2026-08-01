@@ -1,81 +1,73 @@
 {
   "clusters": [
     {
-      "category": "leagues",
-      "importance": 8,
-      "leadHeadline": "Gold family agree to sell West Ham stake to Staveley",
-      "leadSource": "BBC Sport · just now",
-      "leadUrl": "https://www.bbc.co.uk/sport/football/articles/cwyle0nl810o?at_medium=RSS&amp;at_campaign=rss",
-      "summary": "Amanda Staveley's consortium has bid £160m for Vanessa Gold's 25% West Ham stake, with a deal reportedly hours from completion. West Ham are in the Championship following 2025/26 relegation.",
-      "article": "<cite index=\"1-1\">Amanda Staveley has tabled a £160m bid for the Gold family's 25% stake in West Ham United, with a deal said to be hours away.</cite> <cite index=\"1-3\">The former Newcastle United co-owner, backed by a consortium including Mehrdad Ghodoussi, could soon join major shareholders David Sullivan and Daniel Kretinsky.</cite>\n\n<cite index=\"1-12\">If Staveley is able to buy the 25.1 per cent owned by Vanessa Gold on behalf of the Family Trust, it would make her and her business partners the majority owners of the club.</cite> <cite index=\"3-7\">The consortium led by Staveley is reportedly open to purchasing a larger share than the initial 25% to become majority shareholders.</cite>\n\n<cite index=\"3-2\">Staveley, who orchestrated the Saudi Arabian-backed takeover of Newcastle, is in talks to acquire Vanessa Gold's 25% stake in the 2023 UEFA Conference League winners.</cite> <cite index=\"3-3\">Staveley is leading the consortium alongside her husband, Mehrdad Ghodoussi, with the pair selling their shares in the Magpies in July 2024 after just under three years of overseeing the club's transformation on Tyneside.</cite>\n\n<cite index=\"4-9,4-10,4-11\">It has been a busy summer for West Ham after their relegation from the Premier League. There were questions over whether Nuno Espirito Santo would continue as head coach—and it was soon confirmed that he would. Joint-chairman David Sullivan also stepped down after \"serious historic allegations\" emerged regarding his conduct, which he denies.</cite>",
-      "tweets": [
-        {
-          "url": "https://twitter.com/thetimes/status/2082885471693062573",
-          "html": "<blockquote class=\"twitter-tweet\" data-dnt=\"true\" data-theme=\"dark\"><p>Amanda Staveley’s consortium close to buying 25% stake in West Ham United https://t.co/9egKB43MfN</p>&mdash; The Times and Sunday Times (@thetimes) <a href=\"https://twitter.com/thetimes/status/2082885471693062573\">July 30, 2026</a></blockquote>",
-          "author_name": "The Times and Sunday Times",
-          "author_url": "https://twitter.com/thetimes",
-          "dateMs": 1785433569000
-        }
-      ]
-    },
-    {
-      "category": "leagues",
-      "importance": 7,
-      "leadHeadline": "Gianni Infantino 'has lost Uefa's confidence' after Fifa chief scraps World Cup sell-off plan",
-      "leadSource": "The Guardian · 6h ago",
-      "leadUrl": "https://www.theguardian.com/football/2026/aug/01/gianni-infantino-fifa-world-cup-sell-off-plans-scrapped-reaction-uefa-football",
-      "summary": "UEFA issued a strongly worded statement demanding governance review after Infantino withdrew his proposal to sell stakes in FIFA competitions. The warning signals fracture between global football's power structure and FIFA leadership.",
-      "article": "UEFA has publicly demanded a fundamental review of FIFA's governance structure, accusing Gianni Infantino of operating through \"secret schemes\" and \"shabby backroom deals\" after he scrapped his plan to sell stakes in World Cup and other FIFA competitions. The statement, released Friday, represents an unusually blunt rebuke from football's continental confederation to the FIFA chief who has held the post since 2016. Infantino had floated the equity-sale proposal earlier in the week, aiming to inject capital into FIFA's balance sheet by divesting portions of competition ownership. The plan triggered immediate backlash from confederations worldwide, forcing a retreat within days. BBC Sport's analysis notes the five-day collapse exposed fractures in Infantino's leadership credibility, particularly his pattern of advancing major governance shifts without consensus. UEFA's language went beyond typical diplomatic critique, explicitly calling for transparency and an end to unilateral decision-making. The statement does not call for Infantino's removal but signals he no longer holds the confederation's trust on governance matters. His ability to push further reforms without buy-in from regional bodies has been materially weakened. The episode underscores the vulnerability of FIFA leadership when continental federations unite in opposition.",
+      "category": "labor",
+      "importance": 9,
+      "leadHeadline": "Colorado judge immediately grants extra year of eligibility to NCAA athletes who just graduated",
+      "leadSource": "CBS Sports · 1h ago",
+      "leadUrl": "https://www.cbssports.com/college-basketball/news/colorado-judge-ruling-ncaa-five-for-five-seniors/",
+      "summary": "Federal judge Charlotte Sweeney ruled Friday that all Division I athletes from the high school class of 2022 can play a fifth season after exhausting eligibility this spring, upending NCAA rules days before fall sports begin.",
+      "article": "<cite index=\"1-1\">A federal judge ruled Friday that all high school class of 2022 athletes who exhausted their fourth season of college eligibility this spring are eligible for a fifth season in 2026-27.</cite> <cite index=\"4-3\">The class-wide preliminary injunction from U.S. District Judge Charlotte Sweeney applies to all Division I athletes who entered college in 2022 and completed their four-year playing careers this past spring.</cite> <cite index=\"1-2\">The ruling undercuts the NCAA's plan to have the \"five-for-five\" rule go into play starting with athletes who enroll in college in fall 2027.</cite> <cite index=\"1-3\">It has potential to wreak havoc on rosters across the country, opening the possibility that an undrafted player in an NFL training camp could try to head back to college for a fifth year.</cite> <cite index=\"22-4\">The ruling opens the transfer portal starting on Aug. 3, with it closing one week later.</cite> <cite index=\"1-5\">In granting the preliminary injunction, Sweeney said the players \"will suffer irreparable harm without\" it.</cite> <cite index=\"1-6\">She did not sign on to the NCAA's argument that applying the new rule retroactively would create \"roster chaos.\"</cite> <cite index=\"21-7,21-8\">NCAA President Charlie Baker responded by saying \"Today's rulings and the chaos they bring to college sports are exactly why it's time to pass this bill,\" referencing legislation designed to provide the NCAA antitrust protection on eligibility issues.</cite> <cite index=\"4-7\">The NCAA is expected to immediately appeal Sweeney's preliminary injunction to the U.S. Court of Appeals for the Tenth Circuit.</cite>",
       "tweets": []
     },
     {
-      "category": "labor",
+      "category": "media",
+      "importance": 8,
+      "leadHeadline": "There can be no letup. Humiliated Infantino must stand down at Fifa or be removed",
+      "leadSource": "The Guardian · 5h ago",
+      "leadUrl": "https://www.theguardian.com/football/2026/aug/01/humiliated-gianni-infantino-must-stand-down-fifa-or-be-removed-uefa-football-politics",
+      "summary": "FIFA president Gianni Infantino scrapped his plan to sell stakes in World Cup competitions after UEFA and other soccer bodies demanded his removal, marking a dramatic collapse of his power and forcing an existential reckoning for football's governance.",
+      "article": "Gianni Infantino's attempt to sell off FIFA stakes in World Cup competitions unraveled in five dramatic days, culminating in his withdrawal of the proposal Friday night and an unprecedented push from UEFA and continental confederations for his removal as FIFA president.\n\nInfantino conceded the selloff plan had \"created divisions of a nature that, regardless of the level of support, are no longer in the interest of the objective.\" The capitulation came after UEFA issued a formal call for a boycott and a declaration of no-confidence in Infantino's leadership, signaling the deepest institutional fracture in FIFA's recent history.\n\nThe Guardian's Nick Ames framed the moment as an opening salvo, not a conclusion: Infantino \"must stand down as Fifa president or otherwise be legally removed.\" His authority, already eroded by the failed sale, now faces sustained pressure from the sport's most powerful regional body and allied confederations.\n\nThe selloff had proposed converting portions of FIFA's World Cup stake into equity available to external investors, a move Infantino pitched as a way to generate capital and modernize governance. Instead, it triggered a backlash that exposed rifts within FIFA's own structures and member federations' loss of confidence in his stewardship.\n\nFor world football, the collapse leaves Infantino weakened and facing mounting calls to resign or face removal proceedings. His political standing, built on expansion projects like the 48-team World Cup format, has deteriorated rapidly.",
+      "tweets": []
+    },
+    {
+      "category": "revenue",
       "importance": 6,
-      "leadHeadline": "Oregon State WBB Players Seek Union Status in Historic Move",
-      "leadSource": "Sportico · 20h ago",
-      "leadUrl": "https://www.sportico.com/law/analysis/2026/oregon-state-womens-basketball-players-union-employment-1234940731/",
-      "summary": "Oregon State women's basketball players filed a petition Friday to unionize with the state's Employment Relations Board, marking the first formal bid by female college athletes to form a union. The move follows years of legal campaigns to establish athlete employment rights.",
-      "article": "Oregon State women's basketball players have filed a petition for union representation with Oregon's Employment Relations Board, the first formal unionization effort by female college athletes on record. The filing, announced Friday, escalates the legal battle over athlete employment status that has simmered since the NCAA began allowing name, image and likeness compensation in 2021. The petition targets Oregon State specifically, seeking to establish the basketball players as employees entitled to collective-bargaining rights. Unlike prior class-action litigation seeking to expand NIL rights or challenge eligibility rules, this approach attempts to secure union recognition under state labor law. The strategy mirrors tactics used in professional sports but represents untested legal ground in collegiate athletics. A successful petition would force the university to negotiate with players on compensation, benefits, and working conditions. Oregon State athletics declined immediate comment. The filing coincides with broader momentum in athlete advocacy: a federal ruling this week granted NCAA athletes from the class of 2022 eligibility extensions, acknowledging systemic rule changes that benefited later recruits. Legal experts view the Oregon State petition as a pressure test on whether state labor boards will classify college athletes as employees rather than students. A favorable ruling could prompt similar actions at other universities.",
+      "leadHeadline": "SEC, Big Ten Support PCSA as Judge Issues NCAA EligibilityInjunction",
+      "leadSource": "Sportico · 2h ago",
+      "leadUrl": "https://www.sportico.com/law/analysis/2026/ncaa-eligibility-nationwide-injunction-protect-college-1234940783/",
+      "summary": "The SEC and Big Ten publicly backed athlete compensation rights (PCSA) as a federal judge certified a nationwide class of 2022-cohort athletes, signaling major conferences' shift toward accepting name-image-likeness rights over NCAA control.",
+      "article": "Alongside the eligibility injunction, U.S. District Judge Charlotte N. Sweeney's Friday orders included certification of a nationwide class action, establishing that the NCAA's eligibility denial affected thousands of athletes across Division I.\n\nCritically, the SEC and Big Ten have now publicly supported PCSA (personal compensation and sponsorship arrangements) rights, a stance that shifts power away from the NCAA's centralizing authority toward conferences and individual athlete bargaining. This marks a strategic realignment: the two largest and most powerful conferences are positioning themselves as advocates for athlete rights rather than enforcers of NCAA rules.\n\nThe move reflects a broader trend in college sports governance. Rather than defend the NCAA's restrictive eligibility policies, the major conferences are signaling they view athlete compensation and longer career windows as compatible with their business models. For the NCAA, the effect is compounding: a federal court has blocked a key policy, and its own member conferences have withdrawn institutional support.\n\nThe PCSA backing is not trivial. It suggests future negotiations over athlete rights, transfer rules, and eligibility will involve conferences directly, potentially circumventing the NCAA's traditional gatekeeping role. Athletes now have credible institutional allies arguing on their behalf in policy forums.",
       "tweets": []
     },
     {
       "category": "contracts",
       "importance": 5,
-      "leadHeadline": "NCAA Athletes From Class of 2022 Can Get 5th Year of Eligibility: Federal Ruling",
-      "leadSource": "Front Office Sports · 14h ago",
-      "leadUrl": "https://frontofficesports.com/ncaa-athletes-from-class-of-2022-can-get-5th-year-of-eligibility-federal-ruling/",
-      "summary": "A federal ruling confirmed that NCAA athletes from the class of 2022 are eligible for an extra year of eligibility, stemming from a class-action lawsuit over eligibility policy changes. The decision applies to thousands of student-athletes across multiple sports.",
-      "article": "A federal ruling Friday granted NCAA athletes from the class of 2022 an additional year of eligibility, affirming a class-action settlement that compensates athletes disadvantaged by NCAA policy shifts during the pandemic and NIL era. The decision, which emerged from proposed class-action litigation, addresses a systemic inequity: athletes who entered college under one set of eligibility rules saw those rules change after their enrollment, benefiting subsequent classes without retroactive relief. Athletes in the class of 2022 now have the right to claim a fifth year of eligibility at their current schools or via transfer portal movement. The ruling affects thousands of student-athletes across football, basketball, baseball, and other NCAA sports. The decision underscores ongoing friction between NCAA governance and athlete legal challenges. Rather than litigating the merits, the NCAA settled via the proposed class-action framework, providing the remedy without admitting systemic wrongdoing. This follows the pattern established by recent NCAA concessions on NIL policy and transfer portal openings: faced with legal exposure, the organization opts for settlement over precedent-setting litigation. The fifth-year ruling coincides with the Oregon State unionization petition and broader momentum in athlete employment advocacy. Together, the developments signal that NCAA athletes are increasingly able to challenge governance decisions through legal channels rather than accepting unilateral rule changes.",
+      "leadHeadline": "Blue Jays John Schneider dismisses idea of Gausman scratch",
+      "leadSource": "Sportsnet · 3h ago",
+      "leadUrl": "",
+      "summary": "Toronto Blue Jays GM John Schneider quashed speculation that ace Kevin Gausman might be held back before the Monday, Aug. 3 trade deadline, confirming Gausman remains a centerpiece trade candidate in his final contract year.",
+      "article": "With the 2026 MLB trade deadline set for Monday, Aug. 3, the Blue Jays are actively shopping Kevin Gausman despite reports questioning whether they might rest him to avoid injury before a potential trade.\n\nSchneider dismissed the idea directly. Gausman, in the final season of a five-year deal with Toronto, is one of the team's most valuable trade assets. A front-line starter in an ace-short market, he represents the kind of controllable, proven talent contending teams will bid for at the deadline.\n\nGausman was scheduled to take the mound for Toronto on Friday against St. Louis with the game broadcast on Sportsnet. The reassurance from Schneider signals the Blue Jays' intent to keep Gausman active and available through the weekend, maximizing leverage in trade talks with interested clubs.\n\nThe calculus is straightforward: a healthy, working Gausman on tape commands higher return than one held out of games. Contenders need arms for playoff pushes, and Gausman, a two-time All-Star, fits the profile. Toronto's confidence in fielding offers through the final hours of the deadline appears intact.",
       "tweets": []
     },
     {
       "category": "media",
-      "importance": 4,
+      "importance": 5,
       "leadHeadline": "Tony Romo on indefinite leave from CBS, JJ Watt to replace him",
       "leadSource": "Sports Media Watch · 1d ago",
-      "leadUrl": "https://www.sportsmediawatch.com/2026/07/on-the-air-tony-romo-future-cbs-karl-ravech-espn-exit/",
-      "summary": "CBS NFL analyst Tony Romo is on indefinite leave following his arrest last week, with ex-linebacker JJ Watt taking over his broadcast duties. The departure marks a significant shift in CBS's prime broadcast booth.",
-      "article": "Tony Romo has been placed on indefinite leave from CBS Sports following his arrest last week, with former NFL linebacker JJ Watt stepping in to handle Romo's broadcast duties. Romo, who has been the network's lead NFL analyst since 2017, was arrested and charged in connection with an OWI incident in Wisconsin. CBS has not provided a timeline for his potential return. JJ Watt, a three-time NFL Defensive Player of the Year and former Arizona Cardinals defensive end, brings premium name recognition to the booth but minimal broadcasting experience. His appointment appears temporary, designed to maintain continuity through the upcoming NFL season. Sports Media Watch analysis notes that Romo's indefinite status leaves open the possibility of a return once legal matters are resolved, but his immediate removal signals CBS's cautious approach to on-air talent facing legal jeopardy. The move echoes similar decisions by networks managing talent through off-field incidents. Watt's presence in the booth will draw casual viewers, though his lack of broadcast reps could create early friction with play-by-play partner Jim Nantz. CBS declined to specify whether Watt is permanent or bridging until Romo's situation clarifies. The reshuffling also highlights ESPN's decision to part ways with veteran play-by-play man Karl Ravech, which Sports Media Watch characterized as \"sloppy handling\" of a long-tenured broadcaster.",
+      "leadUrl": "https://www.sportsmediawatch.com/2026/07/tony-romo-indefinite-leave-cbs-arrest/",
+      "summary": "CBS NFL analyst Tony Romo is on indefinite leave from the network after his arrest last week, with former defensive end JJ Watt stepping in as his replacement during the leave.",
+      "article": "Tony Romo's tenure as CBS's lead NFL analyst has been suspended indefinitely following his arrest last week. JJ Watt, the three-time NFL Defensive Player of the Year and future Hall of Famer, is replacing him during the leave.\n\nRomo joined CBS in 2017 and quickly became one of the network's marquee voices, known for his on-air color commentary and quarterback analysis. His sudden absence marks a significant disruption to CBS's fall broadcasting lineup and raises questions about his future with the network.\n\nWatt brings Super Bowl and Pro Bowl credentials to the role, though his broadcasting experience is limited compared to Romo's tenure. The move allows CBS to maintain analyst continuity without committing to a permanent replacement while Romo's situation develops.\n\nSports Media Watch reported that the circumstances around Romo's arrest and the network's response remain sparse on detail. The indefinite designation suggests uncertainty about both timeline and potential return.",
       "tweets": []
     },
     {
       "category": "revenue",
-      "importance": 3,
+      "importance": 4,
       "leadHeadline": "Adam Schefter Among Early Investors to Cash In on Underdog Sale",
-      "leadSource": "Front Office Sports · 20h ago",
+      "leadSource": "Front Office Sports · 1d ago",
       "leadUrl": "https://frontofficesports.com/adam-schefter-investors-cash-in-underdog-sale/",
-      "summary": "ESPN reporter Adam Schefter is cashing out his stake in daily fantasy sports platform Underdog, which he first invested in during 2021. The sale marks a liquidity event for early shareholders in the gaming company.",
-      "article": "Adam Schefter, ESPN's senior NFL reporter, has sold shares in Underdog, the daily fantasy sports platform, in what Front Office Sports reports is a liquidity event for early investors. Schefter initially invested in Underdog in 2021, before the company's expansion into a major DFS operator. The sale terms were not disclosed, but Schefter's exit suggests Underdog is seeking to monetize early shareholder stakes as the company matures. Underdog has grown into a competitive player in the daily fantasy space, offering NFL, NBA, MLB, and NHL contests alongside prop betting offerings. The platform has attracted significant venture capital and operates in an increasingly crowded market alongside FanDuel, DraftKings, and ESPN's own betting platforms. Schefter's profile as the league's most connected reporter makes his investment history worth noting: ESPN's employment agreement likely includes constraints on his external stakes, and the sale may reflect either portfolio rebalancing or network compliance. Front Office Sports did not provide valuation details for the Underdog transaction or Schefter's original stake size. The move underscores how sports media personalities and insiders have leveraged early access to betting and gaming startups, though Schefter's case involves a public company employee with disclosure obligations.",
+      "summary": "ESPN's Adam Schefter, an early investor in sports betting platform Underdog, is cashing out stakes as the company explores or completes a sale, capitalizing on a bet he made in 2021.",
+      "article": "Adam Schefter, ESPN's senior NFL insider, is among a group of early investors realizing gains from an Underdog platform sale or exit event. Schefter first invested in the sports betting and DFS company in 2021, positioning himself ahead of the retail explosion in online sports wagering.\n\nUnderdog has become a competitive player in the crowded daily fantasy and sports betting space, competing directly with DraftKings, FanDuel, and other established platforms. Schefter's early backing, and now his cash-out moment, reflects both his individual investment acumen and the broader venture-capital cycle in sports betting.\n\nThe exact terms of the sale were not disclosed, but the move signals investor confidence in the asset's value and suggests Underdog has achieved either a liquidity event or a strategic acquisition that allows early backers to exit. For Schefter, the transaction blurs the line between his ESPN editorial role and his business interests, a dynamic that has drawn scrutiny from media observers before.",
       "tweets": []
     },
     {
-      "category": "contracts",
-      "importance": 2,
-      "leadHeadline": "Tsais: Pending Divorce Won't Impact Nets, Liberty Ownership",
-      "leadSource": "Sportico · 21h ago",
-      "leadUrl": "https://www.sportico.com/business/team-sales/2026/joe-clara-tsai-divorce-nets-liberty-ownership-1234940715/",
-      "summary": "Joe Tsai and Clara Wu Tsai announced Friday that their pending divorce will not disrupt ownership of the NBA Nets, WNBA Liberty, or other Brooklyn Sports Entertainment assets. The statement aims to reassure stakeholders amid personal legal proceedings.",
-      "article": "Joe Tsai and Clara Wu Tsai issued a joint statement Friday clarifying that their pending divorce will not affect ownership or operations of Brooklyn Sports Entertainment, the parent holding the NBA's Brooklyn Nets, WNBA's New York Liberty, their G League affiliate, and the Barclays Center. The announcement preempts speculation that marital dissolution could trigger ownership upheaval or create operational uncertainty. Tsai acquired the Nets majority stake in 2019 for approximately $2.35 billion and has since expanded Brooklyn Sports Entertainment into a diversified portfolio spanning multiple leagues and the arena itself. The Tsais control one of the most valuable franchises in professional sports. While the joint statement suggests amicable separation with respect to sports assets, divorce proceedings can introduce complexity into institutional ownership, particularly when spouses hold equal stakes or dispute control. The couple's public commitment to maintaining the current ownership structure signals intent to preserve operational continuity. The move also protects brand value: the Nets and Liberty are in competitive windows, and ownership uncertainty could unsettle players, staff, and sponsors. Sportico notes this is a significant statement in light of the Nets' recent investment in All-Star caliber talent and the Liberty's growing WNBA relevance. The Tsais' statement does not specify how personal assets will be divided outside the sports holdings.",
+      "category": "media",
+      "importance": 3,
+      "leadHeadline": "On the Air: Can Romo recover at CBS?",
+      "leadSource": "Sports Media Watch · 21h ago",
+      "leadUrl": "https://www.sportsmediawatch.com/2026/07/on-the-air-tony-romo-future-cbs-karl-ravech-espn-exit/",
+      "summary": "Sports Media Watch examines whether Tony Romo retains a future at CBS after his arrest and indefinite leave, while also scrutinizing ESPN's handling of Karl Ravech's exit from the network.",
+      "article": "Sports Media Watch's Armand Broady raised hard questions about Tony Romo's viability at CBS following his arrest and indefinite suspension. The piece weighs Romo's track record as a talent against the reputational and legal complications his absence creates for the network.\n\nRomo's years at CBS have established him as a credible, recognizable voice in NFL broadcasting. Yet an indefinite leave following an arrest introduces uncertainty about his return timeline and the network's appetite for reinstating him after the incident resolves.\n\nIn parallel, the column examined ESPN's \"sloppy handling\" of Karl Ravech's exit. Ravech, a veteran baseball play-by-play announcer, departed amid circumstances that the outlet suggested ESPN mismanaged or failed to communicate clearly to the public. The dual focus underscores broader questions about network accountability and how major sports media companies handle talent crises and transitions.",
       "tweets": []
     }
   ],
@@ -2404,79 +2396,79 @@
   "ticket_prices": [],
   "sidebar": [
     {
-      "headline": "Tremaine Edmunds on joining Giants: 'This will reveal everything'",
-      "source": "NY Post Sports · just now",
-      "article": "New Giants linebacker Tremaine Edmunds, signed in free agency this offseason, addressed the expectations and pressure of moving to a new system during training camp. Edmunds emphasized that the transition will test his versatility and football intelligence. The addition of a Pro Bowl linebacker signals the Giants' commitment to defensive overhaul after a disappointing 2025 season. Edmunds' ability to cover receivers, shed blocks, and communicate pre-snap schemes makes him a cornerstone piece of the defense under new coordinator arrangements. The linebacker spoke candidly about the challenge: uncomfortable transitions in football tend to clarify who belongs in winning systems and who doesn't. Edmunds' confidence suggests he views the Giants opportunity as a chance to reestablish himself as an elite-tier defender after years with the Bills' defense. His arrival strengthens the run-stopping unit and gives the secondary more flexibility in coverage calls. Training camp reps will determine how quickly he gels with the secondary."
+      "headline": "SEC, Big Ten Support PCSA as Judge Issues NCAA EligibilityInjunction",
+      "source": "Sportico · 2h ago",
+      "article": "Two major Power Four conferences signaled their support for athlete compensation rights (PCSA) as a federal judge certified a nationwide class of 2022-cohort athletes eligible for a fifth year of play. The SEC and Big Ten's public backing marks a strategic shift: the conferences are positioning themselves as advocates for athlete rights rather than enforcers of NCAA policy. This move weakens the NCAA's centralizing authority and suggests future negotiations over eligibility, transfer rules, and compensation will involve conferences directly."
     },
     {
-      "headline": "Blue Jays holding firm on trade deadline sell despite back-to-back wins",
-      "source": "Sportsnet · 14h ago",
-      "article": "Two consecutive victories this week will not alter the Toronto Blue Jays' trajectory toward deadline trading, despite the late-season momentum. The organization remains focused on 2026 and beyond rather than chasing a playoff push in July. Sportsnet reports the wins produced some on-field and off-field moments but don't change the structural reality: the team sits too far out of contention to justify holding core assets. The sell approach suggests the front office is divesting veterans to collect prospects. This aligns with broader industry trends where teams making early deadline decisions have more leverage in trade markets. The Jays can move position players or rotation depth and fetch higher-caliber prospects than teams forced to deal last-minute. Two wins in a 162-game season represent routine variance, not a shift in direction. The franchise's willingness to absorb short-term losing in service of restocking the farm suggests confidence in next year's prospect haul."
+      "headline": "There can be no letup. Humiliated Infantino must stand down at Fifa or be removed",
+      "source": "The Guardian · 5h ago",
+      "article": "UEFA's no-confidence declaration and call for boycott after FIFA president Gianni Infantino scrapped his World Cup stake-sale plan signals the deepest institutional fracture in FIFA's recent history. Infantino's concession that the proposal had created unsustainable divisions leaves him weakened and facing sustained pressure to resign or face removal proceedings. His political standing, built on expansion projects and revenue schemes, has deteriorated rapidly."
     },
     {
-      "headline": "Sophie Cunningham: Transgender sports protests not distracting Fever",
-      "source": "The Guardian · 1h ago",
-      "article": "Indiana Fever forward Sophie Cunningham pushed back Friday on suggestions that ongoing protests outside team venues are a distraction from basketball. The rallies, which have accompanied the Fever's recent games, focus on transgender participation in women's sports. Cunningham said the team's focus remains squarely on performance and winning games. White, Fever management, wants public attention on basketball rather than off-court activism. The organization has not addressed protesters directly but has indicated internal messaging prioritizes team cohesion. Cunningham's public statement signals the Fever's intent to separate on-court excellence from broader cultural conversations. The WNBA franchise is in a competitive window with rising stars and playoff aspirations. Whether external protest sustained over multiple games affects roster mood remains an open question, but Cunningham's confidence suggests the team is compartmentalizing."
+      "headline": "Never brought up: Blue Jays John Schneider dismisses idea of Gausman scratch",
+      "source": "Sportsnet · 3h ago",
+      "article": "Toronto GM John Schneider quashed speculation that ace Kevin Gausman might be held back before the Monday, Aug. 3 trade deadline. Gausman, in the final season of his five-year contract, remains one of the team's most valuable trade assets. Schneider's reassurance signals the Blue Jays' intent to keep him active and available through the weekend, maximizing leverage in what figures to be a competitive deadline market for starting pitchers."
     },
     {
-      "headline": "National Bank Open storylines: Auger-Aliassime eyes redemption arc",
-      "source": "Sportsnet · 2h ago",
-      "article": "The National Bank Open is bringing world-class tennis to Canada, with six key storylines unfolding in the lead-up to the tournament. Felix Auger-Aliassime, a Canadian favorite, faces familiar mental and performance demons that have haunted his career at home. The tournament, split between Toronto and Montreal, draws the sport's elite players competing for ranking points before the US Open. Auger-Aliassime's local status adds weight to his matches. Sportsnet's analysis identifies his ability to sustain focus and execution under pressure as the critical test. Other storylines involve seeding implications, breakthrough opportunities for rising Canadian talent, and the interplay between hard-court specialists heading into New York. The tournament is a crucial tune-up for the final Grand Slam of the calendar year."
+      "headline": "Tony Romo on indefinite leave from CBS, JJ Watt to replace him",
+      "source": "Sports Media Watch · 1d ago",
+      "article": "CBS NFL analyst Tony Romo is on indefinite leave from the network following his arrest last week. JJ Watt, the three-time NFL Defensive Player of the Year, is stepping in during the leave. The move maintains CBS's analyst continuity but raises questions about Romo's long-term future with the network and his broadcasting career."
     },
     {
-      "headline": "DraftKings, BetMGM offer $150-$1,500 bonus bets for Phillies-Orioles, Dodgers-Red Sox",
-      "source": "CBS Sports · 1h ago",
-      "article": "Major sportsbooks are competing for market share with elevated promotional offers on Saturday MLB action. DraftKings offers $150 in bonus bets after a first $5 wager on Phillies-Orioles or Dodgers-Red Sox matchups. BetMGM's CBSSPORTS code provides $1,500 in bonus bets if your first bet loses. These promotions signal strong handle expectations for weekend baseball and reflect the competitive intensity of the legal-betting market. Summer weekends represent peak volume for sportsbooks, and bonuses drive new account sign-ups. CBS Sports aggregates promotional data, making it easy for bettors to compare offers across platforms."
+      "headline": "Adam Schefter Among Early Investors to Cash In on Underdog Sale",
+      "source": "Front Office Sports · 1d ago",
+      "article": "ESPN's Adam Schefter is among early investors realizing gains from a sports betting platform Underdog sale or exit event. Schefter first invested in the company in 2021, positioning himself ahead of the retail explosion in online sports wagering. The transaction reflects broader venture-capital activity in sports betting and highlights Schefter's dual roles as both ESPN journalist and private investor."
     },
     {
-      "headline": "OG Anunoby's history-making Finals tip-in gets over-the-top cake tribute",
-      "source": "NY Post Sports · just now",
-      "article": "A baker created a viral Instagram-worthy cake commemorating OG Anunoby's crucial tip-in during Game 4 of the NBA Finals. The cake went viral this week as social media users celebrated the playful tribute. Anunoby's Finals performance has generated significant fan engagement, and the cake creator detailed the design process and technique behind the confection. The post exemplifies the intersection of sports moments and pop culture, where breakout plays inspire creative fan responses beyond traditional commentary. The cake received thousands of shares and underscores how modern athletes' on-court excellence translates into broader cultural currency. Anunoby's tip-in has become an iconic moment for the winning team's fan base."
+      "headline": "On the Air: Can Romo recover at CBS?",
+      "source": "Sports Media Watch · 21h ago",
+      "article": "Sports Media Watch's Armand Broady examined whether Tony Romo retains a future at CBS following his arrest and indefinite suspension. The piece weighed Romo's established credibility as an analyst against reputational and legal complications his absence creates. The column also scrutinized ESPN's handling of Karl Ravech's exit, underscoring broader questions about network accountability in talent crises."
     }
   ],
   "poll": {
-    "question": "Will Gianni Infantino remain as FIFA president through 2027, or will governance pressure force an early exit?",
+    "question": "Will Gianni Infantino resign from FIFA, or will removal proceedings force him out?",
     "options": [
-      "He completes his term and runs for reelection in 2027",
-      "He steps down voluntarily within 12 months under pressure",
-      "He is forced out by confederation vote before 2027",
-      "UEFA and other bodies accept his leadership despite Friday's rebuke"
+      "Infantino resigns within 30 days",
+      "He survives through procedural delays and political maneuvering",
+      "A formal removal process is initiated and succeeds",
+      "UEFA's pressure fades and the status quo holds"
     ]
   },
   "predictions": [
     {
-      "statement": "Amanda Staveley's West Ham acquisition closes by end of Q3 2026.",
+      "statement": "The NCAA eligibility injunction will survive appeal and unlock a chaotic transfer portal window in August 2026.",
       "probability": 72,
-      "rationale": "Staveley has experience orchestrating major soccer deals (Newcastle 2021). Gold family agreement signals serious intent. Regulatory approval in English football is routine for qualified buyers. Expect 60-90 day completion timeline."
+      "rationale": "The federal judge's injunction and class certification are grounded in a narrow procedural ruling specific to the 2022 cohort. The NCAA's arguments (that it has authority over eligibility rules) are weak in light of sustained conference pushback. Even if the NCAA appeals, the injunction will likely hold pending trial, forcing the August portal window forward."
     },
     {
-      "statement": "Oregon State women's basketball players win union recognition in their petition.",
+      "statement": "Tony Romo returns to CBS within the 2026 NFL season.",
       "probability": 38,
-      "rationale": "First-ever effort by female athletes to unionize college sports. Legal precedent is thin; NLRB and state boards have been cautious on athlete employment status. NCAA will defend vigorously. Favorable ruling would reshape college sports labor law, but success is not favored initially."
+      "rationale": "Indefinite leaves often become permanent. The arrest creates reputational risk for CBS, and JJ Watt is a credible replacement. Networks typically use extended leaves as a graceful off-ramp. Romo's return depends on the legal outcome and network appetite for associated PR, both uncertain."
     },
     {
-      "statement": "JJ Watt remains CBS's lead NFL analyst for at least the 2026 season.",
-      "probability": 61,
-      "rationale": "CBS appointed him as interim replacement, signaling comfort with his profile. Network benefits from celebrity name value. Romo's indefinite leave language suggests CBS is hedging, but Watt's appointment implies confidence in his durability through the season. Romo's return seems unlikely before 2027."
+      "statement": "Kevin Gausman is traded before the Aug. 3 deadline.",
+      "probability": 65,
+      "rationale": "Gausman is a front-line starter in an ace-short market and is in his final contract year. His trade value is highest now. The Blue Jays GM's dismissal of Gausman-scratch rumors signals active shopping. Contenders' desperation for playoff pitching arms typically drives deals by deadline close."
     },
     {
-      "statement": "Infantino announces new governance reforms within 30 days to rebuild UEFA confidence.",
-      "probability": 55,
-      "rationale": "Friday's rebuke was explicit. Infantino historically responds to public pressure with structural proposals. UEFA's language ('fundamental review') invites him to propose changes. A proactive move could regain credibility. Silence would signal deeper fracture."
+      "statement": "Infantino is removed or forced to resign from FIFA by March 2027.",
+      "probability": 44,
+      "rationale": "UEFA's no-confidence and boycott call are historically rare and carry weight, but FIFA's governance structure offers Infantino procedural defenses. Removal requires a formal confederation vote, which Infantino may block via allies in other regions. His exit is plausible but faces institutional headwinds."
     }
   ],
   "injuries": [
     {
-      "player": "Emily Sonnett",
-      "team": "Gotham FC",
-      "league": "SOCCER",
-      "position": "D",
+      "player": "C.J. Gardner-Johnson",
+      "team": "Buffalo Bills",
+      "league": "NFL",
+      "position": "S",
       "status": "OUT",
-      "injury": "Season-ending knee injury",
-      "timeline": "Out for season",
+      "injury": "Lower right leg/foot injury",
+      "timeline": null,
       "source": "NY Post Sports",
-      "impact": "Gotham FC's backline loses a star center-back, creating depth problems in a critical World Cup window for Sonnett's international availability.",
-      "storyIndex": -1
+      "impact": "Gardner-Johnson was signed in the offseason to start and provide defensive intensity; his absence depletes the Bills' safety rotation and defensive communication.",
+      "storyIndex": 10
     }
   ],
   "picks": [
@@ -2593,6 +2585,114 @@
         "commenceTime": "2026-08-01T23:30:00Z"
       },
       "_scheduledTs": 1785627000000
+    },
+    {
+      "type": "moneyline",
+      "pick": "Toronto Blue Jays ML",
+      "odds": "-146",
+      "edge": "Market fill from live lines: Toronto Blue Jays is the books' favorite at -146 (best price @ BetUS) against St. Louis Cardinals at +138, with home ice/court/field behind them. No researched edge here — this is a low-confidence market-consensus play added to round out the slate. Low confidence is honest confidence.",
+      "matchup": "St. Louis Cardinals @ Toronto Blue Jays",
+      "league": "MLB",
+      "when": "Today 3:08 PM ET",
+      "confidence": "low",
+      "_autofill": true,
+      "_scheduledTs": 1785611280000,
+      "marketSnapshot": {
+        "capturedAt": "2026-08-01T15:54:58.661Z",
+        "markets": {
+          "h2h": {
+            "away": {
+              "price": 138,
+              "book": "FanDuel"
+            },
+            "home": {
+              "price": -146,
+              "book": "BetUS"
+            },
+            "draw": null
+          },
+          "spreads": {
+            "away": {
+              "point": 1.5,
+              "price": -157,
+              "book": "LowVig.ag"
+            },
+            "home": {
+              "point": -1.5,
+              "price": 148,
+              "book": "BetRivers"
+            }
+          },
+          "totals": {
+            "over": {
+              "point": 8.5,
+              "price": 100,
+              "book": "Bovada"
+            },
+            "under": {
+              "point": 8.5,
+              "price": -107,
+              "book": "LowVig.ag"
+            }
+          }
+        },
+        "awayTeam": "St. Louis Cardinals",
+        "homeTeam": "Toronto Blue Jays"
+      }
+    },
+    {
+      "type": "moneyline",
+      "pick": "Tampa Bay Rays ML",
+      "odds": "-166",
+      "edge": "Market fill from live lines: Tampa Bay Rays is the books' favorite at -166 (best price @ FanDuel) against Chicago White Sox at +152, with home ice/court/field behind them. No researched edge here — this is a low-confidence market-consensus play added to round out the slate. Low confidence is honest confidence.",
+      "matchup": "Chicago White Sox @ Tampa Bay Rays",
+      "league": "MLB",
+      "when": "Today 4:11 PM ET",
+      "confidence": "low",
+      "_autofill": true,
+      "_scheduledTs": 1785615060000,
+      "marketSnapshot": {
+        "capturedAt": "2026-08-01T15:54:58.661Z",
+        "markets": {
+          "h2h": {
+            "away": {
+              "price": 152,
+              "book": "FanDuel"
+            },
+            "home": {
+              "price": -166,
+              "book": "FanDuel"
+            },
+            "draw": null
+          },
+          "spreads": {
+            "away": {
+              "point": 1.5,
+              "price": -135,
+              "book": "LowVig.ag"
+            },
+            "home": {
+              "point": -1.5,
+              "price": 130,
+              "book": "FanDuel"
+            }
+          },
+          "totals": {
+            "over": {
+              "point": 7.5,
+              "price": -113,
+              "book": "LowVig.ag"
+            },
+            "under": {
+              "point": 7.5,
+              "price": -102,
+              "book": "LowVig.ag"
+            }
+          }
+        },
+        "awayTeam": "Chicago White Sox",
+        "homeTeam": "Tampa Bay Rays"
+      }
     },
     {
       "matchup": "Toronto FC @ New York City FC",
@@ -6018,124 +6118,16 @@
         "homeTeam": "San Diego Padres"
       },
       "_pendingGrade": true
-    },
-    {
-      "type": "moneyline",
-      "pick": "Toronto Blue Jays ML",
-      "odds": "-146",
-      "edge": "Market fill from live lines: Toronto Blue Jays is the books' favorite at -146 (best price @ BetUS) against St. Louis Cardinals at +138, with home ice/court/field behind them. No researched edge here — this is a low-confidence market-consensus play added to round out the slate. Low confidence is honest confidence.",
-      "matchup": "St. Louis Cardinals @ Toronto Blue Jays",
-      "league": "MLB",
-      "when": "Today 3:08 PM ET",
-      "confidence": "low",
-      "_autofill": true,
-      "_scheduledTs": 1785611280000,
-      "marketSnapshot": {
-        "capturedAt": "2026-08-01T15:54:58.661Z",
-        "markets": {
-          "h2h": {
-            "away": {
-              "price": 138,
-              "book": "FanDuel"
-            },
-            "home": {
-              "price": -146,
-              "book": "BetUS"
-            },
-            "draw": null
-          },
-          "spreads": {
-            "away": {
-              "point": 1.5,
-              "price": -157,
-              "book": "LowVig.ag"
-            },
-            "home": {
-              "point": -1.5,
-              "price": 148,
-              "book": "BetRivers"
-            }
-          },
-          "totals": {
-            "over": {
-              "point": 8.5,
-              "price": 100,
-              "book": "Bovada"
-            },
-            "under": {
-              "point": 8.5,
-              "price": -107,
-              "book": "LowVig.ag"
-            }
-          }
-        },
-        "awayTeam": "St. Louis Cardinals",
-        "homeTeam": "Toronto Blue Jays"
-      }
-    },
-    {
-      "type": "moneyline",
-      "pick": "Tampa Bay Rays ML",
-      "odds": "-166",
-      "edge": "Market fill from live lines: Tampa Bay Rays is the books' favorite at -166 (best price @ FanDuel) against Chicago White Sox at +152, with home ice/court/field behind them. No researched edge here — this is a low-confidence market-consensus play added to round out the slate. Low confidence is honest confidence.",
-      "matchup": "Chicago White Sox @ Tampa Bay Rays",
-      "league": "MLB",
-      "when": "Today 4:11 PM ET",
-      "confidence": "low",
-      "_autofill": true,
-      "_scheduledTs": 1785615060000,
-      "marketSnapshot": {
-        "capturedAt": "2026-08-01T15:54:58.661Z",
-        "markets": {
-          "h2h": {
-            "away": {
-              "price": 152,
-              "book": "FanDuel"
-            },
-            "home": {
-              "price": -166,
-              "book": "FanDuel"
-            },
-            "draw": null
-          },
-          "spreads": {
-            "away": {
-              "point": 1.5,
-              "price": -135,
-              "book": "LowVig.ag"
-            },
-            "home": {
-              "point": -1.5,
-              "price": 130,
-              "book": "FanDuel"
-            }
-          },
-          "totals": {
-            "over": {
-              "point": 7.5,
-              "price": -113,
-              "book": "LowVig.ag"
-            },
-            "under": {
-              "point": 7.5,
-              "price": -102,
-              "book": "LowVig.ag"
-            }
-          }
-        },
-        "awayTeam": "Chicago White Sox",
-        "homeTeam": "Tampa Bay Rays"
-      }
     }
   ],
-  "updatedAt": "2026-04-23T17:45:00Z",
+  "updatedAt": "2026-04-23T20:15:00Z",
   "highlights": [
     {
       "league": "NBA",
-      "title": "Adidas ABCD Camp Day 1 | NETS (Lewis Uvwo, Jalen Davis) vs 76ERS (Darrius Wabbington, King Gibson)",
-      "videoId": "SxD_1hBh8ag",
-      "thumbnail": "https://img.youtube.com/vi/SxD_1hBh8ag/mqdefault.jpg",
-      "timeAgo": "15h ago",
+      "title": "Adidas ABCD Camp | GRIZZLIES (RJ Evans, Micah Gordon) vs CAVS (DeMarcus Henry,  Marceles Duncan)",
+      "videoId": "v0vz9NYxKEk",
+      "thumbnail": "https://img.youtube.com/vi/v0vz9NYxKEk/mqdefault.jpg",
+      "timeAgo": "2h ago",
       "isFallback": false
     },
     {
@@ -6143,23 +6135,23 @@
       "title": "Sirianni on the Eagles' changes on offense 🏈",
       "videoId": "0u-jM1UQ4DY",
       "thumbnail": "https://img.youtube.com/vi/0u-jM1UQ4DY/mqdefault.jpg",
-      "timeAgo": "1h ago",
+      "timeAgo": "5h ago",
       "isFallback": false
     },
     {
       "league": "MLB",
-      "title": "Shohei Ohtani hit the 😛 when he realized the baseball left the yard 大谷翔平",
-      "videoId": "xY4O4x_fb_c",
-      "thumbnail": "https://img.youtube.com/vi/xY4O4x_fb_c/mqdefault.jpg",
-      "timeAgo": "1h ago",
+      "title": "The LONGEST home runs in July! 💪 (Alvarez, Tatis Jr., Devers and MORE) | MLB Highlights",
+      "videoId": "N0S2UQBySrU",
+      "thumbnail": "https://img.youtube.com/vi/N0S2UQBySrU/mqdefault.jpg",
+      "timeAgo": "2h ago",
       "isFallback": false
     },
     {
       "league": "NHL",
-      "title": "Every Goal Scored Last Season by the 2026-27 Anaheim Ducks Roster",
-      "videoId": "yoDZTfQlb2M",
-      "thumbnail": "https://img.youtube.com/vi/yoDZTfQlb2M/mqdefault.jpg",
-      "timeAgo": "2h ago",
+      "title": "3ICE Hockey Week 2 - Pittsburgh vs. Minnesota &amp; Iowa vs. Boston",
+      "videoId": "63Ry986NQhg",
+      "thumbnail": "https://img.youtube.com/vi/63Ry986NQhg/mqdefault.jpg",
+      "timeAgo": "3h ago",
       "isFallback": false
     },
     {
@@ -6167,19 +6159,91 @@
       "title": "Indiana Fever vs. Portland Fire | FULL GAME HIGHLIGHTS | July 31, 2026",
       "videoId": "O67thOWwNtU",
       "thumbnail": "https://img.youtube.com/vi/O67thOWwNtU/mqdefault.jpg",
-      "timeAgo": "11h ago",
+      "timeAgo": "15h ago",
       "isFallback": false
     },
     {
       "league": "SOCCER",
-      "title": "This will make you as good as Berbatov ⚽️ (via berbo9/IG)",
-      "videoId": "qkrni28n9AE",
-      "thumbnail": "https://img.youtube.com/vi/qkrni28n9AE/mqdefault.jpg",
+      "title": "Emma Hayes says there are no more friendlies 😬",
+      "videoId": "qyeHCvOBzQ0",
+      "thumbnail": "https://img.youtube.com/vi/qyeHCvOBzQ0/mqdefault.jpg",
       "timeAgo": "1h ago",
       "isFallback": false
     }
   ],
   "reels": [
+    {
+      "league": "SOCCER",
+      "title": "Emma Hayes says there are no more friendlies 😬",
+      "videoId": "qyeHCvOBzQ0",
+      "author": "ESPN FC",
+      "pubDate": "2026-08-01T19:30:04+00:00",
+      "link": "https://www.youtube.com/watch?v=qyeHCvOBzQ0"
+    },
+    {
+      "league": "SOCCER",
+      "title": "🏀🏀🏀 (via @liverpoolfc/TT)",
+      "videoId": "gxLa7UHVpuk",
+      "author": "ESPN FC",
+      "pubDate": "2026-08-01T18:41:47+00:00",
+      "link": "https://www.youtube.com/watch?v=gxLa7UHVpuk"
+    },
+    {
+      "league": "NBA",
+      "title": "Adidas ABCD Camp | GRIZZLIES (RJ Evans, Micah Gordon) vs CAVS (DeMarcus Henry,  Marceles Duncan)",
+      "videoId": "v0vz9NYxKEk",
+      "author": "NBA",
+      "pubDate": "2026-08-01T18:17:17+00:00",
+      "link": "https://www.youtube.com/watch?v=v0vz9NYxKEk"
+    },
+    {
+      "league": "MLB",
+      "title": "The LONGEST home runs in July! 💪 (Alvarez, Tatis Jr., Devers and MORE) | MLB Highlights",
+      "videoId": "N0S2UQBySrU",
+      "author": "MLB",
+      "pubDate": "2026-08-01T18:00:02+00:00",
+      "link": "https://www.youtube.com/watch?v=N0S2UQBySrU"
+    },
+    {
+      "league": "SOCCER",
+      "title": "James Tyler and Mark Ogden explain what's next for Gianni Infantino after the World Cup plan failed.",
+      "videoId": "5otCSenbLGQ",
+      "author": "ESPN FC",
+      "pubDate": "2026-08-01T17:10:01+00:00",
+      "link": "https://www.youtube.com/watch?v=5otCSenbLGQ"
+    },
+    {
+      "league": "MLB",
+      "title": "NASTIEST pitches of July 2026! 😮‍💨 (Skubal, Miller, Misiorowski and MORE) | MLB Highlights",
+      "videoId": "ajuKRalZm0c",
+      "author": "MLB",
+      "pubDate": "2026-08-01T17:00:31+00:00",
+      "link": "https://www.youtube.com/watch?v=ajuKRalZm0c"
+    },
+    {
+      "league": "NHL",
+      "title": "3ICE Hockey Week 2 - Pittsburgh vs. Minnesota &amp; Iowa vs. Boston",
+      "videoId": "63Ry986NQhg",
+      "author": "NHL",
+      "pubDate": "2026-08-01T17:00:06+00:00",
+      "link": "https://www.youtube.com/watch?v=63Ry986NQhg"
+    },
+    {
+      "league": "MLB",
+      "title": "When in doubt, throw everything you got at it 🤣",
+      "videoId": "8914_0glBOs",
+      "author": "MLB",
+      "pubDate": "2026-08-01T16:30:06+00:00",
+      "link": "https://www.youtube.com/watch?v=8914_0glBOs"
+    },
+    {
+      "league": "SOCCER",
+      "title": "Lindsey Heaps and Janine Sonis really do go way back 💚",
+      "videoId": "kfWcLzcUXWk",
+      "author": "ESPN FC",
+      "pubDate": "2026-08-01T16:13:51+00:00",
+      "link": "https://www.youtube.com/watch?v=kfWcLzcUXWk"
+    },
     {
       "league": "NFL",
       "title": "Sirianni on the Eagles' changes on offense 🏈",
@@ -6277,30 +6341,6 @@
       "link": "https://www.youtube.com/watch?v=D1nRpgRAWIs"
     },
     {
-      "league": "MLB",
-      "title": "Yoshinobu Yamamoto DAZZLED ơn the mound for the Dodgers in July 2026! 🤩 | MLB Highlights",
-      "videoId": "BCACpbFvC2E",
-      "author": "MLB",
-      "pubDate": "2026-08-01T06:00:03+00:00",
-      "link": "https://www.youtube.com/watch?v=BCACpbFvC2E"
-    },
-    {
-      "league": "MLB",
-      "title": "TIGERS vs. ATHLETICS: Official Full Game Highlights (July 31) | 2026 MLB Season",
-      "videoId": "Q4SjaatJEtY",
-      "author": "MLB",
-      "pubDate": "2026-08-01T05:42:17+00:00",
-      "link": "https://www.youtube.com/watch?v=Q4SjaatJEtY"
-    },
-    {
-      "league": "MLB",
-      "title": "RED SOX vs. DODGERS: Official Full Game Highlights (July 31) | 2026 MLB Season",
-      "videoId": "hF7Im4G4oFg",
-      "author": "MLB",
-      "pubDate": "2026-08-01T05:32:54+00:00",
-      "link": "https://www.youtube.com/watch?v=hF7Im4G4oFg"
-    },
-    {
       "league": "WNBA",
       "title": "Indiana Fever vs. Portland Fire | FULL GAME HIGHLIGHTS | July 31, 2026",
       "videoId": "O67thOWwNtU",
@@ -6363,14 +6403,6 @@
       "author": "NFL on ESPN",
       "pubDate": "2026-07-31T22:08:20+00:00",
       "link": "https://www.youtube.com/watch?v=cepVoab049A"
-    },
-    {
-      "league": "NBA",
-      "title": "Adidas ABCD Camp | GRIZZLIES (RJ Evans, Micah Gordon) vs CAVS (DeMarcus Henry,  Marceles Duncan)",
-      "videoId": "v0vz9NYxKEk",
-      "author": "NBA",
-      "pubDate": "2026-07-31T22:05:40+00:00",
-      "link": "https://www.youtube.com/watch?v=v0vz9NYxKEk"
     },
     {
       "league": "NBA",
@@ -6459,46 +6491,6 @@
       "author": "ESPN FC",
       "pubDate": "2026-07-31T03:30:09+00:00",
       "link": "https://www.youtube.com/watch?v=HcxAYVS3G2M"
-    },
-    {
-      "league": "WNBA",
-      "title": "Connecticut Sun vs. Chicago Sky | FULL GAME HIGHLIGHTS | July 30, 2026",
-      "videoId": "BEA7-sGVh5A",
-      "author": "WNBA",
-      "pubDate": "2026-07-31T03:14:50+00:00",
-      "link": "https://www.youtube.com/watch?v=BEA7-sGVh5A"
-    },
-    {
-      "league": "SOCCER",
-      "title": "What a shot 🔥 (via fisctsubbuteo/IG)",
-      "videoId": "mMzL-kZkSB4",
-      "author": "ESPN FC",
-      "pubDate": "2026-07-31T03:10:11+00:00",
-      "link": "https://www.youtube.com/watch?v=mMzL-kZkSB4"
-    },
-    {
-      "league": "WNBA",
-      "title": "Minnesota Lynx vs. Toronto Tempo | FULL GAME HIGHLIGHTS | July 30, 2026",
-      "videoId": "phU72Vo_kjo",
-      "author": "WNBA",
-      "pubDate": "2026-07-31T02:24:53+00:00",
-      "link": "https://www.youtube.com/watch?v=phU72Vo_kjo"
-    },
-    {
-      "league": "SOCCER",
-      "title": "Leeds United vs. Sunderland | Club Friendly Highlights | ESPN FC",
-      "videoId": "sCuHgzN88tE",
-      "author": "ESPN FC",
-      "pubDate": "2026-07-31T01:54:27+00:00",
-      "link": "https://www.youtube.com/watch?v=sCuHgzN88tE"
-    },
-    {
-      "league": "SOCCER",
-      "title": "Lamine Yamal was trying to hide in the corner 😂 (via msk_sampath/TT)",
-      "videoId": "_pb0WP9llRA",
-      "author": "ESPN FC",
-      "pubDate": "2026-07-30T23:30:38+00:00",
-      "link": "https://www.youtube.com/watch?v=_pb0WP9llRA"
     }
   ]
 }
