@@ -1,81 +1,71 @@
 {
   "clusters": [
     {
-      "category": "leagues",
+      "category": "contracts",
       "importance": 9,
-      "leadHeadline": "Robert Lewandowski strikes twice for Chicago Fire in MLS win over Charlotte",
-      "leadSource": "The Guardian · 1h ago",
-      "leadUrl": "https://www.theguardian.com/football/2026/aug/02/mls-robert-lewandowski-chicago-fire-charlotte-messi-inter-miami-columbus",
-      "summary": "<cite index=\"1-1\">Robert Lewandowski scored two goals in his home debut for the Fire, helping Chicago beat Charlotte FC 2-1 on Saturday.</cite>",
-      "article": "<cite index=\"1-1\">Robert Lewandowski scored two goals, including the winner, in his home debut for the Fire, helping Chicago beat Charlotte FC 2-1 on Saturday.</cite> <cite index=\"1-3\">Lewandowski, who made the move from FC Barcelona in a two-year deal with Chicago, equalized in the 20th minute off a screamer from outside the box that tied the game at 1.</cite> <cite index=\"1-4\">He connected on his second goal of the night in the 68th minute with a go-ahead shot to the bottom left corner to seal the win for the Fire (9-6-2), who played their first home match in over two months.</cite>\n\n<cite index=\"1-5\">Pep Biel gave Charlotte (7-7-4) an early lead with a shot from the right side of the box on an assist from Idan Toklomati.</cite> <cite index=\"3-6,3-7\">Winger Jonathan Bamba's ball found the head of two-time MLS All-Star Philip Zinckernagel, who redirected to the feet of Lewandowski. The Polish striker took two touches and converted a strike from just outside the box, notching his first career MLS goal.</cite>\n\n<cite index=\"9-4,9-5,9-6\">\"Every time I go to a new club, I'm waiting for the first goal,\" Lewandowski said. \"It's important for me to show that I'm here, to score the goal and for us to win the game. I think it makes the next step a little bit easier – for the team and also for me.\"</cite> <cite index=\"9-12,9-13\">Head coach Gregg Berhalter said postgame: \"When you look at the two goals he scored and some of the other plays he made in the game, it's just very high quality.\"</cite>\n\n<cite index=\"3-14\">The Polish forward is the fourth player in Fire history to score multiple goals in his home debut, joining Frank Klopas in 1998, Andy Herron in 2008 and Tomasz Frankowski in 2008.</cite>",
+      "leadHeadline": "The Los Angeles Dodgers have acquired the biggest prize on the trade deadline market, getting two-time reigning AL Cy Young Award winner Tarik Skubal from the Detroit Tigers on Saturday night.",
+      "leadSource": "The Guardian · 2h ago",
+      "leadUrl": "https://www.theguardian.com/sport/2026/aug/02/tarik-skubal-trade-dodgers-tigers-mlb",
+      "summary": "<cite index=\"1-1\">The Los Angeles Dodgers acquired two-time AL Cy Young winner Tarik Skubal from Detroit on Saturday, sending outfielder Zyhir Hope and right-handers River Ryan and Brady Smith to the Tigers</cite>.",
+      "article": "<cite index=\"1-1\">The Los Angeles Dodgers acquired ace left-hander Tarik Skubal from the Detroit Tigers on Saturday for outfielder Zyhir Hope and right-handers River Ryan and Brady Smith</cite>. <cite index=\"2-3\">Skubal will be the top talent moved before the Aug. 3 deadline</cite>, <cite index=\"1-11\">giving the back-to-back AL Cy Young winner to baseball's richest franchise</cite>.\n\n<cite index=\"3-16\">\"I'm excited to be a Dodger,\" Skubal said to reporters after the Tigers' game</cite>, before adding he was <cite index=\"22-20\">\"excited to get down there and meet all those guys and chase three championships in a row\"</cite>. <cite index=\"21-3\">The 29-year-old pending free agent will headline what was arguably already the best rotation in the sport</cite>, <cite index=\"21-4\">alongside Yoshinobu Yamamoto, Blake Snell, Shohei Ohtani and Tyler Glasnow</cite>.\n\n<cite index=\"22-11\">The Dodgers acquired the biggest star available without parting with any players from their active roster</cite>. <cite index=\"22-15,22-16,22-17\">Two of the three prospects rank on MLB Pipeline's Top 100: Hope at No. 25 and Ryan at No. 68</cite>. <cite index=\"21-9\">The Braves, Cubs, Brewers, Yankees and Rays pursued Skubal, with the Brewers favored among that group</cite>, but <cite index=\"21-10\">the Dodgers were the clear front-runners</cite>.",
       "tweets": [
         {
-          "url": "https://twitter.com/MLS/status/2083737777129017693",
-          "html": "<blockquote class=\"twitter-tweet\" data-dnt=\"true\" data-theme=\"dark\"><p>Lewandowski brace in his home debut! 😤\n\nChicago leads 2-1. https://t.co/CBEV7skTYT</p>&mdash; Major League Soccer (@MLS) <a href=\"https://twitter.com/MLS/status/2083737777129017693\">August 2, 2026</a></blockquote>",
-          "author_name": "Major League Soccer",
-          "author_url": "https://twitter.com/MLS",
-          "dateMs": 1785636774000
+          "url": "https://twitter.com/MLB/status/2083758773328306458",
+          "html": "<blockquote class=\"twitter-tweet\" data-dnt=\"true\" data-theme=\"dark\"><p>Dodgers reportedly acquire LHP Tarik Skubal from the Tigers, per multiple reports including MLB's @Feinsand.\n\n(MLB x @CohnReznick) https://t.co/esAuahME8x</p>&mdash; MLB (@MLB) <a href=\"https://twitter.com/MLB/status/2083758773328306458\">August 2, 2026</a></blockquote>",
+          "author_name": "MLB",
+          "author_url": "https://twitter.com/MLB",
+          "dateMs": 1785641780000
         }
       ]
     },
     {
-      "category": "contracts",
-      "importance": 8,
-      "leadHeadline": "Dodgers to acquire Tigers ace Tarik Skubal in blockbuster deal",
-      "leadSource": "Sportsnet · 8h ago",
-      "leadUrl": "",
-      "summary": "The Los Angeles Dodgers acquired two-time Cy Young Award winner Tarik Skubal from the Detroit Tigers in a trade headlined by three minor-league prospects. The move reshapes the Dodgers' rotation and gives Skubal a clear path to October baseball.",
-      "article": "The Los Angeles Dodgers pulled off the trade deadline's marquee acquisition Saturday, sending three minor-league prospects to Detroit for Tarik Skubal, a two-time Cy Young Award winner and the kind of starting pitcher who moves needle races.\n\nSkubal, 28, has been the Tigers' ace and one of baseball's more volatile talents: dominant stuff, occasional lapses, and the kind of strikeout-to-walk profile that keeps him in Cy Young conversations when he stays healthy. For the Dodgers, acquiring him removes a significant question mark for October. Dodgers president Andrew Friedman had bet that prospect economics had inflated Detroit's asking price, and apparently he was right. The three prospects headed to Detroit were framed across the industry as good depth but not stars—the kind of deal that looks light in hindsight if Skubal delivers in the playoffs.\n\nSkubal, in his first comments after the trade, described the emotional weight of leaving Detroit. \"It's very tough,\" he said Saturday night, acknowledging he felt the Tigers organization had unfinished business. But a two-time Cy Young winner doesn't often get a clean shot at a World Series with a payroll like Los Angeles's. The math was too simple to refuse.\n\nThe trade also signals that the Dodgers believe their roster, already equipped with star talent, needed one more vault upgrade to be the favorite in October. That bet will be tested in roughly six weeks.",
-      "tweets": []
-    },
-    {
       "category": "leagues",
-      "importance": 7,
+      "importance": 8,
       "leadHeadline": "Gianni Infantino could face leadership challenge as Fifa council members rebel",
-      "leadSource": "The Guardian · 3h ago",
+      "leadSource": "The Guardian · 9h ago",
       "leadUrl": "https://www.theguardian.com/football/2026/aug/02/gianni-infantino-could-face-leadership-challenge-as-fifa-council-members-rebel",
-      "summary": "FIFA Council members are attempting to force an extraordinary general meeting that could escalate into a full leadership challenge against Gianni Infantino following the controversial collapse of the World Cup investment plan. The rebellion marks mounting pressure on the FIFA president.",
-      "article": "Gianni Infantino is facing a coordinated push from FIFA Council members attempting to trigger an extraordinary general meeting that could develop into a leadership challenge, The Guardian reported Saturday. The move follows the implosion of FIFA's World Cup investment strategy, a controversial initiative that unraveled under internal and external pressure.\n\nThe Council's move to call an EGM represents escalation beyond the usual governance friction. FIFA operates in cycles of routine meetings and crisis moments; an emergency convening is the latter, a signal that members view the current leadership as requiring immediate accountability.\n\nInfantino, 54, has been FIFA president since 2016 and has remade the organization's commercial footprint, expanded tournament formats, and consolidated power in ways his predecessors did not. But he's also weathered accusations ranging from alleged conflicts of interest to governance questions about women's football investment priorities. The World Cup investment plan's failure has crystallized previously fragmented criticism into an organized effort.\n\nWhat's notable is that this isn't fringe rebellion. These are Council members, the organization's power brokers. If they succeed in forcing an EGM, they'll have created a forum where any member can move to remove or challenge Infantino. He survives such votes by default if no serious opponent emerges, but the very convening signals that patience for his tenure is fraying.\n\nThe next 72 hours will determine whether the Council can meet the procedural thresholds to call an EGM and whether any named challenger is already organizing behind the scenes.",
+      "summary": "FIFA council members are attempting to force an extraordinary general meeting that could develop into a full leadership challenge against Gianni Infantino. The rebellion centers on demands for a review of the Balogun decision and fallout from the collapsed World Cup investment plan.",
+      "article": "Gianni Infantino is facing a rebellion from members of the FIFA council who are attempting to force an extraordinary general meeting (EGM) that could escalate into a full-blown leadership challenge. The Guardian has learned that moves to call an EGM are already underway, with council members demanding a review of the controversial Balogun decision.\n\nThe pressure on Infantino has intensified over a bruising 24 hours that saw the implosion of his flagship World Cup investment plan. Multiple council members are coordinating to trigger the EGM mechanism, a move that signals serious fracture within FIFA's governance structure. The specific demands center on reversing or reconsidering the Balogun decision, which has become a focal point of internal dissent.\n\nInfantino's position as FIFA president is now materially weakened. An EGM would allow council members to formally challenge his leadership and potentially vote on his removal, marking the first serious institutional threat to his tenure since his election. The collapse of the investment initiative—which Infantino had championed—has given his opponents both justification and political momentum. The next 72 hours will clarify whether the EGM motion gains the necessary support to proceed.",
       "tweets": []
     },
     {
       "category": "labor",
-      "importance": 6,
+      "importance": 7,
       "leadHeadline": "SEC, Big Ten Support PCSA as Judge Issues NCAA Eligibility Injunction",
-      "leadSource": "Sportico · 17h ago",
+      "leadSource": "Sportico · 21h ago",
       "leadUrl": "https://www.sportico.com/law/analysis/2026/ncaa-eligibility-nationwide-injunction-protect-college-1234940783/",
-      "summary": "U.S. District Judge Charlotte N. Sweeney certified a nationwide class of Division I athletes who started college in 2022-2023 and completed four years of eligibility, issuing a preliminary injunction that bars the NCAA from blocking a fifth season. The SEC and Big Ten have pledged support for the ruling.",
-      "article": "A federal judge issued a pair of landmark orders Friday that effectively grant a fifth year of college eligibility to an entire class of Division I athletes, certifying them as a nationwide class and barring the NCAA from preventing their use.\n\nU.S. District Judge Charlotte N. Sweeney's preliminary injunction targets athletes who entered college play in 2022-2023, completed four years of eligibility by spring of this year, and would otherwise be ineligible for a fifth season under NCAA rules. The ruling applies nationwide, not to individual plaintiffs.\n\nThe SEC and Big Ten, the two most powerful conferences, have signaled support for the decision, a shift that constrains the NCAA's ability to fight the order on appeal. When conferences of that scale align with athlete interests against the NCAA, the association loses leverage in negotiations and courtrooms alike.\n\nThe ruling stems from a proposed class action filed after the NCAA introduced a new eligibility policy earlier this year. The litigation has exposed tensions between athlete advocates, conferences that benefit from veteran talent, and the NCAA's desire to maintain enrollment predictability. The injunction doesn't automatically expand the pool for multiple seasons or create permanent new eligibility windows; it addresses this specific cohort of 2022-2023 entrants.\n\nWhat happens next depends on whether the NCAA appeals and whether the conferences choose to use the expanded eligibility window. Some teams will load rosters with fifth-year players; others may limit it to fill needs. The class action will continue through the courts.",
+      "summary": "A federal judge certified a nationwide class of Division I athletes eligible for a fifth season and issued a preliminary injunction barring the NCAA from preventing them from competing. The SEC and Big Ten have both backed the PCSA organization challenging NCAA rules.",
+      "article": "U.S. District Judge Charlotte N. Sweeney issued two stunning orders late Friday that reshape NCAA eligibility rules and empower athletes to challenge the five-year limit on competition. The judge certified a nationwide class of Division I college athletes who began college play in the 2022-2023 season, completed four years of eligibility by last spring, and are currently barred from a fifth season. She simultaneously issued a preliminary injunction preventing the NCAA from enforcing that five-year cap against this class of athletes.\n\nThe SEC and Big Ten have both publicly supported the PCSA, the athletes' advocacy organization bringing the challenge, signaling that major conferences are willing to break ranks with the NCAA on eligibility policy. This alignment of elite athletic departments with athlete interests marks a significant shift in the power dynamics surrounding college sports governance.\n\nThe injunction is preliminary but its implications are immediate: athletes in the certified class can now compete in a fifth year unless the NCAA successfully appeals and obtains a stay. This ruling accelerates the fragmentation of NCAA authority that has been underway since the Supreme Court's Alston decision. The next phase will likely involve the NCAA's appeal and a full trial on the merits, but the judge's preliminary finding strongly suggests the five-year rule is vulnerable to legal challenge.",
       "tweets": []
     },
     {
-      "category": "revenue",
+      "category": "media",
+      "importance": 6,
+      "leadHeadline": "DC Open's Bet on Breakout Tennis Phenom Alex Eala Pays Off",
+      "leadSource": "Sportico · 4h ago",
+      "leadUrl": "https://www.sportico.com/business/sports/2026/dc-opens-bet-on-tennis-phenom-alex-eala-pays-off-1234940797/",
+      "summary": "Alex Eala, 21, defeated four-time Grand Slam champion Naomi Osaka 6-4, 6-2 in the DC Open semifinals to reach her second career tour-level final and first at a WTA 500 event. The Philippine star is emerging as the most popular up-and-coming star in professional tennis.",
+      "article": "Alex Eala, 21, advanced to the DC Open final on Saturday with a dominant 6-4, 6-2 victory over four-time Grand Slam champion Naomi Osaka in the semifinals. The Philippine-born player reached her second career tour-level final and first at the WTA 500 level, cementing her status as one of tennis's most compelling young talents.\n\nEala has become the most popular up-and-coming star in professional tennis. Her advancement past Osaka, a former World No. 1 and four-time major champion, signals a generational shift in the sport's power structure. The victory was straight-set and emphatic: Eala controlled both the first and second sets from the baseline, breaking serve multiple times and forcing Osaka into unforced errors.\n\nFor the DC Open, the tournament's investment in promoting Eala as its centerpiece has already paid dividends in visibility and fan engagement. Her run to the final has generated international media attention and reinforces the event's positioning as a proving ground for rising stars. Eala will face the winner of the other semifinal in Sunday's championship match, a stage that, regardless of outcome, will further elevate her profile heading into the fall season and Australian Open qualifying.",
+      "tweets": []
+    },
+    {
+      "category": "contracts",
       "importance": 5,
-      "leadHeadline": "Emotional Kerr delivers moment Glasgow 2026 has waited for",
-      "leadSource": "BBC Sport · 13h ago",
-      "leadUrl": "https://www.bbc.co.uk/sport/athletics/articles/ckge35ywjvyo?at_medium=RSS&amp;at_campaign=rss",
-      "summary": "Josh Kerr won the 1500 meters at Glasgow's Prefontaine Classic-style track meet, delivering a home victory in a high-intensity race without pageantry. The Scottish runner's win marks a significant moment for the city's 2026 Commonwealth Games preparations.",
-      "article": "Josh Kerr won the 1500 meters Saturday night in Glasgow in a raw, competitive race that carried weight beyond the standard track result. This was a home win, the kind that matters when a city is building toward hosting the 2026 Commonwealth Games.\n\nKerr's victory came in what the BBC described as a \"Saturday night scrap,\" a no-frills display of pure racing without the wave lights and pacers that often accompany major invitational meets. The Glasgow crowd responded with the kind of energy that makes home-field advantage real in track and field, where the noise from stands genuinely affects pace and psychology.\n\nFor Glasgow 2026, this is a test event: proof that the city can generate the kind of local enthusiasm that justifies Commonwealth Games investment. A Scottish runner winning at home in a compelling race does exactly that. It's not a marquee international final, but it's the infrastructure and energy that feeds those moments.\n\nKerr has been a top 1500-meter runner on the world stage, and his consistent presence in major championships means his home win carries some weight internationally. But the real significance is local. Glasgow needed a moment that belonged to Glasgow runners in front of Glasgow fans, and Kerr delivered.",
+      "leadHeadline": "Robert Lewandowski strikes twice for Chicago Fire in MLS win over Charlotte",
+      "leadSource": "The Guardian · 5h ago",
+      "leadUrl": "https://www.theguardian.com/football/2026/aug/02/mls-robert-lewandowski-chicago-fire-charlotte-messi-inter-miami-columbus",
+      "summary": "Robert Lewandowski scored twice on his home MLS debut as the Chicago Fire defeated Charlotte FC 2-1 on Saturday. Messi also returned for Inter Miami in a 2-2 draw with Columbus.",
+      "article": "Robert Lewandowski scored two goals on his home debut Saturday as the Chicago Fire eked out a 2-1 victory over Charlotte FC, the franchise's first win since the international break. The Polish striker, signed in late August from Barcelona, opened his home account and immediately justified the investment Chicago made to bring him to MLS.\n\nIn parallel MLS action, Lionel Messi returned for Inter Miami in a 2-2 draw against Columbus. Messi's presence back in the lineup signals that Miami's star is fit and available as the franchise enters the final stretch of the regular season.\n\nLewandowski's two-goal outing on home soil provides Chicago with early evidence that the marquee signing will produce at the required level for an MLS franchise. The Fire had struggled in recent weeks and needed a win to stay competitive in their playoff race. Lewandowski's performance, combined with the team structure around him, suggests the investment is beginning to pay dividends. His next opportunity comes in midweek as Chicago continues to build momentum heading into the final regular-season weeks.",
       "tweets": []
     },
     {
       "category": "media",
       "importance": 4,
-      "leadHeadline": "Sophie Cunningham says protests over transgender sports stance are not distracting Fever",
-      "leadSource": "The Guardian · 21h ago",
-      "leadUrl": "https://www.theguardian.com/sport/2026/aug/01/sophie-cunningham-transgender-sports-protests-fever-wnba-portland",
-      "summary": "Indiana Fever guard Sophie Cunningham said the ongoing protests outside the team's games over transgender participation in women's sports are not a distraction, as supporters rallied for a second consecutive game. The team leadership is focused on basketball.",
-      "article": "Sophie Cunningham dismissed concerns that the protests gathering outside Indiana Fever games over transgender participation in women's sports are affecting the team's focus, per the The Guardian Saturday.\n\nSupporters have now gathered outside the Fever for a second consecutive game, a sustained effort that marks broader cultural noise around the WNBA and women's sports policy. These are not one-off demonstrations; they suggest organized groups are making the Fever a focal point of that conversation.\n\nCunningham's statement—that the protests aren't distracting the team—is the standard response from players in these situations. It's rarely false in the literal sense; most players can tune out exterior noise during competition. But it's also a messaging choice: a team responding by saying \"yes, this is a huge distraction\" feeds the story and gives the protests more oxygen.\n\nWhat's notable is that the Fever organization and its players felt the need to address the protests at all. That suggests the rallies are large or vocal enough that silence would be read as evasion. By stating plainly that basketball is the focus, the Fever is trying to reclaim narrative control, even if the protests will continue.\n\nThe underlying issue—what policies around transgender athletes make sense in elite women's sports—is not something a WNBA team can actually resolve. But they can manage how much they let the debate consume their season.",
-      "tweets": []
-    },
-    {
-      "category": "revenue",
-      "importance": 3,
-      "leadHeadline": "Gotta See It: Gausman gets standing ovation in potential Toronto farewell",
-      "leadSource": "Sportsnet · 15h ago",
-      "leadUrl": "",
-      "summary": "Kevin Gausman received a standing ovation from Blue Jays fans as he potentially pitched his final game for Toronto, allowing one earned run over 5.2 innings while striking out four. The right-hander's tenure with the team could be ending at the trade deadline.",
-      "article": "Kevin Gausman got the farewell moment a veteran pitcher deserves Saturday, earning a standing ovation from Toronto Blue Jays fans as he exited what may have been his final appearance for the club. The right-hander pitched 5.2 innings, allowed one earned run, and struck out four in a strong performance that underscored why the Jays acquired him in the first place.\n\nGausman has been a mid-rotation stabilizer for Toronto, the kind of reliable starter who doesn't necessarily make highlight reels but prevents disaster. His outing Saturday—efficient, low-error, clean—is exactly what he's offered the Jays. The standing ovation reflected respect from the crowd; this wasn't a star player receiving rock-star treatment, it was a professional getting his due.\n\nWhat's significant is the \"potential final\" framing. If Gausman is available at the deadline, the Jays face the math that most contenders face: is he more valuable to us in the next six weeks or to someone else who might give us an asset in return? If Toronto is outside a serious playoff window, trading him makes sense. If they're within shouting distance, keeping a pitcher who pitched like that Saturday might matter in October.\n\nThe Jays will make that call over the next week. The standing ovation suggests the fanbase has already made theirs.",
+      "leadHeadline": "Finucane creates Games history with fourth gold",
+      "leadSource": "BBC Sport · just now",
+      "leadUrl": "https://www.bbc.co.uk/sport/cycling/articles/cy8mrkpd27lo?at_medium=RSS&amp;at_campaign=rss",
+      "summary": "Welsh star Emma Finucane made history by becoming the first sprint cyclist to win four track gold medals at the same Commonwealth Games. Finucane's feat underscores the dominance of British cycling at the current Games.",
+      "article": "Emma Finucane of Wales created Commonwealth Games history by winning her fourth gold medal in track cycling, becoming the first sprint cyclist ever to achieve four golds at a single Games. Finucane's feat reflects the exceptional preparation and sustained performance required to excel across multiple sprint disciplines on the track.\n\nThe Welsh star's accomplishment places her among the most decorated athletes at this Games and reinforces British cycling's dominance in the sport on the world stage. Track cycling remains one of the Commonwealth's marquee events, and Finucane's performances have provided some of the Games' most memorable moments.\n\nHer achievement will likely draw increased sponsorship interest and media attention in the lead-up to the Olympic Games, where sprint cycling is equally prestigious. Finucane's trajectory and track record suggest she will be a central figure in British cycling's medal push at the next Olympics.",
       "tweets": []
     }
   ],
@@ -2399,99 +2389,182 @@
     ],
     "source": "espn"
   },
-  "deals": [
-    {
-      "type": "acquisition",
-      "parties": "Los Angeles Dodgers ⇄ Detroit Tigers (Tarik Skubal trade)",
-      "value_usd": null,
-      "term_years": null,
-      "league": "MLB",
-      "headline": "Dodgers acquire two-time Cy Young winner Skubal from Tigers",
-      "storyIndex": 6,
-      "blurb": "Dodgers sent three minor-league prospects to Tigers for ace Tarik Skubal in trade-deadline blockbuster.",
-      "capturedAt": "2026-08-02T11:53:43.529Z"
-    }
-  ],
+  "deals": [],
   "ratings": [],
   "ticket_prices": [],
   "sidebar": [
     {
-      "headline": "Ray Knight drops F-bomb during Mets broadcast while praising 1986 World Series teammates",
-      "source": "NY Post Sports · 5h ago",
-      "article": "Former Mets hero Ray Knight apparently forgot he was on live television Saturday when he let loose a colorful expression while praising his 1986 World Series championship teammates during a broadcast. Knight's slip is the kind of unscripted moment that live sports television has to manage; the audio leaves no room for editing after the fact. The 1986 Mets remain the franchise's only recent championship, and Knight was a key contributor in that run. His enthusiasm for that era is clearly unfiltered."
+      "headline": "Why Dodgers' Tarik Skubal trade package was modest best-case scenario",
+      "source": "NY Post Sports · just now",
+      "article": "What had felt inevitable has now become reality. Tarik Skubal is the Dodgers' latest superstar acquisition. As the dust settles, Los Angeles celebrates and the rest of the baseball world processes the club's latest blockbuster move. The trade package the Dodgers sent to Detroit was modest by the standards of acquiring a two-time Cy Young winner, reflecting Los Angeles' leverage and prospect depth. The Tigers made the choice to accept futures in exchange for immediate salary relief and a fresh start for their rebuild. For other contenders still circling the deadline, the Skubal trade resets expectations about what a star pitcher should cost."
     },
     {
-      "headline": "Tyrone Taylor adds to scorching tear with another home run as his Mets value keeps climbing",
-      "source": "NY Post Sports · 5h ago",
-      "article": "Tyrone Taylor's hot streak continued Saturday with another home run, steadily boosting his trade value as the Mets face the reality that their season is effectively over. The Mets are sellers at the deadline, and Taylor represents one of the few tradeable assets with genuine production. His recent power surge makes him a more attractive piece for contenders in need of outfield depth or a right-handed bat for the stretch run."
+      "headline": "How Skubal trade to Dodgers impacts Blue Jays, pitching market",
+      "source": "Sportsnet · 3h ago",
+      "article": "The Dodgers blockbuster acquisition of Tarik Skubal doesn't just strengthen their World Series hopes—it reshapes the trade market with less than two days until the deadline. For the Blue Jays, it means new opportunities as Ross Atkins weighs offers on Kevin Gausman, Max Scherzer, and other pending free agents. The trade demonstrates that star pitching still commands premium value, even as the deadline approaches. Toronto now holds the leverage to extract maximum return from teams desperate for rotation depth. Other sellers will study the Skubal package and calibrate their asking prices accordingly."
     },
     {
-      "headline": "Its very tough: Emotional Tarik Skubal discusses trade to Dodgers",
-      "source": "Sportsnet · 6h ago",
-      "article": "Tarik Skubal detailed the emotional weight of leaving Detroit in his first comments after the trade to Los Angeles Saturday, acknowledging that the Tigers organization felt like unfinished business. The two-time Cy Young Award winner recognized that his chances of winning a World Series improved dramatically with the move, but the leaving itself carried real cost. Skubal's candor about the trade reflects the genuine conflict between personal ambition and organizational loyalty that defines deadline moves."
+      "headline": "Desperate Padres eye Mets Kodai Senga as unique rotation solution",
+      "source": "NY Post Sports · just now",
+      "article": "If you were having a pool on the most untradeable Met, Kodai Senga very well could be the frontrunner considering the dastardly duo of bad health and performance that has plagued him. The Padres, searching for rotation depth, are exploring whether Senga's talent might translate in a change of scenery. Senga's injury history and inconsistent results have made him a sunk cost in New York's eyes. San Diego's willingness to consider him reflects both their desperation and their belief that a fresh start could unlock the pitcher the Mets invested in. The asking price would need to be minimal."
     },
     {
-      "headline": "Stembridge to 'reassess' future after England miss out on medal",
-      "source": "BBC Sport · 2h ago",
-      "article": "England's netballers were outclassed 68-50 by Australia in their quest for bronze at the Commonwealth Games, prompting coach Stembridge to signal that a reassessment of the program's direction may be coming. The loss represents a significant underperformance for a team that has historically been competitive at Commonwealth level. Whether Stembridge's comments presage a coaching change or simply acknowledgment of a gap between England and the top powers remains unclear."
+      "headline": "A bruising 24 hours - what next for Fifa and under-pressure Infantino?",
+      "source": "BBC Sport · 18h ago",
+      "article": "Pressure is building on Gianni Infantino. The FIFA president faces mounting institutional challenge after the implosion of his flagship World Cup investment plan and a rebellion from council members demanding governance reform. Multiple senior figures within FIFA are coordinating to force an extraordinary general meeting that could develop into a formal leadership challenge. Infantino's position has shifted from unassailable to materially weakened in a matter of days. His next moves—whether to fight, negotiate, or resign—will define FIFA's governance trajectory for years to come."
     },
     {
-      "headline": "Tarik Skubal to Dodgers nothing to complain about in Fantasy Baseball, but real baseball is another matter",
-      "source": "CBS Sports · 6h ago",
-      "article": "The Skubal trade to the Dodgers is fantastic news for fantasy baseball players looking for ace-level production down the stretch, but it signals a broader concern about baseball's deadline acquisitions: star pitchers acquired late in the season often underperform in October because of innings limitations and rest protocols. For fantasy purposes, stock up on Skubal. For the actual Dodgers, the real test is whether he can stay healthy and sharp through the postseason."
+      "headline": "2,000km, eight countries, 29 days - the fastest runner to cross the Alps",
+      "source": "BBC Sport · 3h ago",
+      "article": "Ultra-runner Sophie Woods ran 2,000km across eight countries in only 29 days to break the record for completing the Via Alpina, one of the world's toughest endurance challenges. Woods' feat required sustained physical and mental performance over nearly a month of continuous running through mountainous terrain. Her achievement ranks among the most impressive feats in modern ultrarunning and attracts significant media attention to the sport. The Via Alpina spans 8 countries and includes over 370,000 meters of elevation gain, making it one of the planet's most demanding long-distance running courses."
     },
     {
-      "headline": "Andrew Friedman worked his magic again with Tarik Skubal steal — and now Dodgers have no excuses",
-      "source": "NY Post Sports · 6h ago",
-      "article": "Andrew Friedman once again managed to extract maximum value in a deadline trade, convincing Detroit to part with Tarik Skubal, a two-time Cy Young winner, for three minor-league prospects that industry observers quickly labeled as good-but-not-great depth. The baseball industry has routinely overvalued prospect pools in recent years, and Friedman's front office bet that Detroit was falling into that trap. If Skubal pitches well down the stretch and into October, the Dodgers got a bargain. Now their roster has no remaining excuses for falling short."
+      "headline": "WWE SummerSlam 2026 card: Complete list of matches for Night 2 on Sunday",
+      "source": "CBS Sports · just now",
+      "article": "SummerSlam, WWE's second-biggest annual event, enters its second night Sunday in Minneapolis with four championships on the line. The card features multiple world-title matches and main-event caliber bouts across both nights. SummerSlam remains one of WWE's marquee revenue drivers, with both live attendance and pay-per-view viewership critical to the company's annual financial performance. The event's positioning in late summer makes it a key marker for WWE's second half of the year."
     }
   ],
   "poll": {
-    "question": "Who will have the bigger impact on their team's playoff chances: Tarik Skubal with the Dodgers or the NCAA's fifth-year eligibility ruling on college sports?",
+    "question": "Will Gianni Infantino survive the FIFA council rebellion and remain president?",
     "options": [
-      "Skubal's veteran ace arm in October baseball",
-      "The fifth-year eligibility class action reshaping college rosters",
-      "They're equally significant to their respective spheres",
-      "Neither will matter nearly as much as expected"
+      "Yes, he retains enough support to block the EGM",
+      "No, the EGM will proceed and he'll be forced out",
+      "He negotiates a deal and steps down voluntarily",
+      "The situation stays unresolved through year-end"
     ]
   },
   "predictions": [
     {
-      "statement": "The FIFA Council will successfully force an extraordinary general meeting to challenge Gianni Infantino's leadership within 60 days.",
-      "probability": 68,
-      "rationale": "The SEC and Big Ten have shown they can move votes when aligned; FIFA Council members have now publicly signaled intent. Procedural thresholds exist, but organized opposition from this level usually achieves what it wants. Infantino's authority has fractured."
+      "statement": "Tarik Skubal wins his third consecutive Cy Young Award in 2026.",
+      "probability": 28,
+      "rationale": "Skubal has already won the award twice and is moving to a superior team. His supporting cast improves materially, but the Cy Young typically rewards pitchers on strong teams; Skubal will face stiffer competition from newly acquired arms on other contenders."
     },
     {
-      "statement": "Tarik Skubal will post a sub-3.50 ERA for the Dodgers through the end of the regular season and playoffs.",
-      "probability": 55,
-      "rationale": "He's a two-time Cy Young winner, but deadline acquisitions often struggle with late-season innings limits and rest protocols. The Dodgers will manage his workload carefully, which could help or hurt. His track record is elite; the variable is health and team usage."
-    },
-    {
-      "statement": "The NCAA will successfully block the federal ruling on the fifth-year eligibility class in appeals court.",
-      "probability": 22,
-      "rationale": "Judge Sweeney's preliminary injunction is grounded in likely class-certification merit. The SEC and Big Ten actively supporting the athletes' position severely weakens the NCAA's appellate argument. The NCAA almost always loses when two power conferences side with plaintiffs."
-    },
-    {
-      "statement": "Robert Lewandowski will score at least 12 MLS goals in his 2026 regular season.",
+      "statement": "The NCAA five-year eligibility rule is fully struck down by summer 2027.",
       "probability": 72,
-      "rationale": "His home debut brace suggests he's immediately comfortable with the league's pace and spacing. Lewandowski is 38 but still among the world's most clinical finishers. MLS defenses will struggle to account for him. Chicago's creation has improved since acquiring him."
-    }
-  ],
-  "injuries": [
+      "rationale": "Judge Sweeney's preliminary injunction and the SEC/Big Ten backing suggest the NCAA's position is legally indefensible. Once the first certified class competes in a fifth season without sanction, the NCAA's leverage evaporates and a full reversal becomes inevitable."
+    },
     {
-      "player": "Kevin Gausman",
-      "team": "Toronto Blue Jays",
-      "league": "MLB",
-      "position": "SP",
-      "status": "DAY_TO_DAY",
-      "injury": "No injury mentioned (potential final appearance due to trade deadline considerations)",
-      "timeline": null,
-      "source": "Sportsnet",
-      "impact": "Gausman is a stable mid-rotation starter; if traded at deadline, Blue Jays lose innings reliability down the stretch.",
-      "storyIndex": 16
+      "statement": "Alex Eala wins the DC Open title on Sunday.",
+      "probability": 55,
+      "rationale": "Eala defeated a four-time Grand Slam champion in straight sets, showing elite form. Her semifinal performance was dominant, but the final opponent is unknown and she's still early in her career with inconsistency possible in high-pressure matches."
+    },
+    {
+      "statement": "An EGM is called and Infantino faces a formal no-confidence vote before 2027.",
+      "probability": 64,
+      "rationale": "The SEC and Big Ten's public backing of a rival authority, combined with visible council rebellion, suggests serious institutional fracture. However, Infantino retains substantial support in regions outside Europe and among federations reliant on FIFA funding."
     }
   ],
+  "injuries": [],
   "picks": [
+    {
+      "type": "moneyline",
+      "pick": "Atlanta Braves ML",
+      "odds": "-118",
+      "edge": "Market fill from live lines: Atlanta Braves is the books' favorite at -118 (best price @ FanDuel) against Washington Nationals at +110, with home ice/court/field behind them. No researched edge here — this is a low-confidence market-consensus play added to round out the slate. Low confidence is honest confidence.",
+      "matchup": "Washington Nationals @ Atlanta Braves",
+      "league": "MLB",
+      "when": "Today 1:36 PM ET",
+      "confidence": "low",
+      "_autofill": true,
+      "_scheduledTs": 1785692160000,
+      "marketSnapshot": {
+        "capturedAt": "2026-08-02T11:54:59.878Z",
+        "markets": {
+          "h2h": {
+            "away": {
+              "price": 110,
+              "book": "FanDuel"
+            },
+            "home": {
+              "price": -118,
+              "book": "FanDuel"
+            },
+            "draw": null
+          },
+          "spreads": {
+            "away": {
+              "point": 1.5,
+              "price": -186,
+              "book": "MyBookie.ag"
+            },
+            "home": {
+              "point": 1.5,
+              "price": -210,
+              "book": "FanDuel"
+            }
+          },
+          "totals": {
+            "over": {
+              "point": 8.5,
+              "price": -117,
+              "book": "BetRivers"
+            },
+            "under": {
+              "point": 9,
+              "price": -115,
+              "book": "MyBookie.ag"
+            }
+          }
+        },
+        "awayTeam": "Washington Nationals",
+        "homeTeam": "Atlanta Braves"
+      }
+    },
+    {
+      "type": "moneyline",
+      "pick": "Philadelphia Phillies ML",
+      "odds": "-132",
+      "edge": "Market fill from live lines: Philadelphia Phillies is the books' favorite at -132 (best price @ FanDuel) against Baltimore Orioles at +128, favored even on the road. No researched edge here — this is a low-confidence market-consensus play added to round out the slate. Low confidence is honest confidence.",
+      "matchup": "Philadelphia Phillies @ Baltimore Orioles",
+      "league": "MLB",
+      "when": "Today 1:36 PM ET",
+      "confidence": "low",
+      "_autofill": true,
+      "_scheduledTs": 1785692160000,
+      "marketSnapshot": {
+        "capturedAt": "2026-08-02T11:54:59.879Z",
+        "markets": {
+          "h2h": {
+            "away": {
+              "price": -132,
+              "book": "FanDuel"
+            },
+            "home": {
+              "price": 128,
+              "book": "BetOnline.ag"
+            },
+            "draw": null
+          },
+          "spreads": {
+            "away": {
+              "point": -1.5,
+              "price": 130,
+              "book": "Fanatics"
+            },
+            "home": {
+              "point": 1.5,
+              "price": -141,
+              "book": "LowVig.ag"
+            }
+          },
+          "totals": {
+            "over": {
+              "point": 7.5,
+              "price": -116,
+              "book": "MyBookie.ag"
+            },
+            "under": {
+              "point": 8,
+              "price": -110,
+              "book": "BetRivers"
+            }
+          }
+        },
+        "awayTeam": "Philadelphia Phillies",
+        "homeTeam": "Baltimore Orioles"
+      }
+    },
     {
       "matchup": "Nashville SC @ D.C. United",
       "league": "MLS",
@@ -5916,148 +5989,40 @@
         "homeTeam": "San Diego Padres"
       },
       "_pendingGrade": true
-    },
-    {
-      "type": "moneyline",
-      "pick": "Atlanta Braves ML",
-      "odds": "-118",
-      "edge": "Market fill from live lines: Atlanta Braves is the books' favorite at -118 (best price @ FanDuel) against Washington Nationals at +110, with home ice/court/field behind them. No researched edge here — this is a low-confidence market-consensus play added to round out the slate. Low confidence is honest confidence.",
-      "matchup": "Washington Nationals @ Atlanta Braves",
-      "league": "MLB",
-      "when": "Today 1:36 PM ET",
-      "confidence": "low",
-      "_autofill": true,
-      "_scheduledTs": 1785692160000,
-      "marketSnapshot": {
-        "capturedAt": "2026-08-02T11:54:59.878Z",
-        "markets": {
-          "h2h": {
-            "away": {
-              "price": 110,
-              "book": "FanDuel"
-            },
-            "home": {
-              "price": -118,
-              "book": "FanDuel"
-            },
-            "draw": null
-          },
-          "spreads": {
-            "away": {
-              "point": 1.5,
-              "price": -186,
-              "book": "MyBookie.ag"
-            },
-            "home": {
-              "point": 1.5,
-              "price": -210,
-              "book": "FanDuel"
-            }
-          },
-          "totals": {
-            "over": {
-              "point": 8.5,
-              "price": -117,
-              "book": "BetRivers"
-            },
-            "under": {
-              "point": 9,
-              "price": -115,
-              "book": "MyBookie.ag"
-            }
-          }
-        },
-        "awayTeam": "Washington Nationals",
-        "homeTeam": "Atlanta Braves"
-      }
-    },
-    {
-      "type": "moneyline",
-      "pick": "Philadelphia Phillies ML",
-      "odds": "-132",
-      "edge": "Market fill from live lines: Philadelphia Phillies is the books' favorite at -132 (best price @ FanDuel) against Baltimore Orioles at +128, favored even on the road. No researched edge here — this is a low-confidence market-consensus play added to round out the slate. Low confidence is honest confidence.",
-      "matchup": "Philadelphia Phillies @ Baltimore Orioles",
-      "league": "MLB",
-      "when": "Today 1:36 PM ET",
-      "confidence": "low",
-      "_autofill": true,
-      "_scheduledTs": 1785692160000,
-      "marketSnapshot": {
-        "capturedAt": "2026-08-02T11:54:59.879Z",
-        "markets": {
-          "h2h": {
-            "away": {
-              "price": -132,
-              "book": "FanDuel"
-            },
-            "home": {
-              "price": 128,
-              "book": "BetOnline.ag"
-            },
-            "draw": null
-          },
-          "spreads": {
-            "away": {
-              "point": -1.5,
-              "price": 130,
-              "book": "Fanatics"
-            },
-            "home": {
-              "point": 1.5,
-              "price": -141,
-              "book": "LowVig.ag"
-            }
-          },
-          "totals": {
-            "over": {
-              "point": 7.5,
-              "price": -116,
-              "book": "MyBookie.ag"
-            },
-            "under": {
-              "point": 8,
-              "price": -110,
-              "book": "BetRivers"
-            }
-          }
-        },
-        "awayTeam": "Philadelphia Phillies",
-        "homeTeam": "Baltimore Orioles"
-      }
     }
   ],
-  "updatedAt": "2026-04-23T23:00:00Z",
+  "updatedAt": "2026-04-23T23:47:00Z",
   "highlights": [
     {
       "league": "NBA",
-      "title": "ABCD Championship Game",
-      "videoId": "ob48BTQX9bk",
-      "thumbnail": "https://img.youtube.com/vi/ob48BTQX9bk/mqdefault.jpg",
-      "timeAgo": "9h ago",
+      "title": "Why the NBA MVP was so tough to guard all season long",
+      "videoId": "AwVwMQ2rTw8",
+      "thumbnail": "https://img.youtube.com/vi/AwVwMQ2rTw8/mqdefault.jpg",
+      "timeAgo": "1h ago",
       "isFallback": false
     },
     {
       "league": "NFL",
-      "title": "Aaron Rodgers says life is coming full circle ahead of final season | NFL on ESPN",
-      "videoId": "7bZ8OgHfJMg",
-      "thumbnail": "https://img.youtube.com/vi/7bZ8OgHfJMg/mqdefault.jpg",
-      "timeAgo": "13h ago",
+      "title": "Adam Vinatieri broke Ricky Proehl's heart a few times, but he's such a good dude 😅🍿",
+      "videoId": "nj1RKfQApsA",
+      "thumbnail": "https://img.youtube.com/vi/nj1RKfQApsA/mqdefault.jpg",
+      "timeAgo": "1h ago",
       "isFallback": false
     },
     {
       "league": "MLB",
-      "title": "Max Clark CRUSHES his FIRST MLB HOME RUN &amp; the BEST MLB Highlights from 8/1/26!",
-      "videoId": "TNqQxA9Zz74",
-      "thumbnail": "https://img.youtube.com/vi/TNqQxA9Zz74/mqdefault.jpg",
+      "title": "MLB's BEST bloopers of July 2026! 🤣 (Black squirrels, raccoons &amp; more ballpark oddities)",
+      "videoId": "TrtDgmhUBMY",
+      "thumbnail": "https://img.youtube.com/vi/TrtDgmhUBMY/mqdefault.jpg",
       "timeAgo": "1h ago",
       "isFallback": false
     },
     {
       "league": "NHL",
-      "title": "Shoulder Check Snipe!",
-      "videoId": "Q7p1lJRE6mg",
-      "thumbnail": "https://img.youtube.com/vi/Q7p1lJRE6mg/mqdefault.jpg",
-      "timeAgo": "14h ago",
+      "title": "EVERY GOAL Scored Last Season by the 2026-27 Boston Bruins Roster",
+      "videoId": "eR_qRZ4B3Ns",
+      "thumbnail": "https://img.youtube.com/vi/eR_qRZ4B3Ns/mqdefault.jpg",
+      "timeAgo": "2h ago",
       "isFallback": false
     },
     {
@@ -6065,19 +6030,99 @@
       "title": "New York Liberty vs. Phoenix Mercury | FULL GAME HIGHLIGHTS | August 1, 2026",
       "videoId": "sCcvHps4I54",
       "thumbnail": "https://img.youtube.com/vi/sCcvHps4I54/mqdefault.jpg",
-      "timeAgo": "13h ago",
+      "timeAgo": "17h ago",
       "isFallback": false
     },
     {
       "league": "SOCCER",
-      "title": "Messi almost scored seconds after being subbed in 😅",
-      "videoId": "USIkn6M1J8I",
-      "thumbnail": "https://img.youtube.com/vi/USIkn6M1J8I/mqdefault.jpg",
-      "timeAgo": "9h ago",
+      "title": "If anyone can do it, it’s Messi 😎🐐 (via @intermiamicf/TT)",
+      "videoId": "uMFatuHomK0",
+      "thumbnail": "https://img.youtube.com/vi/uMFatuHomK0/mqdefault.jpg",
+      "timeAgo": "1h ago",
       "isFallback": false
     }
   ],
   "reels": [
+    {
+      "league": "SOCCER",
+      "title": "If anyone can do it, it’s Messi 😎🐐 (via @intermiamicf/TT)",
+      "videoId": "uMFatuHomK0",
+      "author": "ESPN FC",
+      "pubDate": "2026-08-02T15:20:19+00:00",
+      "link": "https://www.youtube.com/watch?v=uMFatuHomK0"
+    },
+    {
+      "league": "MLB",
+      "title": "MLB's BEST bloopers of July 2026! 🤣 (Black squirrels, raccoons &amp; more ballpark oddities)",
+      "videoId": "TrtDgmhUBMY",
+      "author": "MLB",
+      "pubDate": "2026-08-02T15:17:59+00:00",
+      "link": "https://www.youtube.com/watch?v=TrtDgmhUBMY"
+    },
+    {
+      "league": "NBA",
+      "title": "Why the NBA MVP was so tough to guard all season long",
+      "videoId": "AwVwMQ2rTw8",
+      "author": "NBA",
+      "pubDate": "2026-08-02T15:16:58+00:00",
+      "link": "https://www.youtube.com/watch?v=AwVwMQ2rTw8"
+    },
+    {
+      "league": "NBA",
+      "title": "Stephen Curry Reacts to Spencer Brothers Going 1-on-1",
+      "videoId": "VFHtBI12XI8",
+      "author": "NBA",
+      "pubDate": "2026-08-02T15:04:20+00:00",
+      "link": "https://www.youtube.com/watch?v=VFHtBI12XI8"
+    },
+    {
+      "league": "MLB",
+      "title": "Take Meowt to the Ballgame!",
+      "videoId": "mBzJwo9uYgc",
+      "author": "MLB",
+      "pubDate": "2026-08-02T15:00:09+00:00",
+      "link": "https://www.youtube.com/watch?v=mBzJwo9uYgc"
+    },
+    {
+      "league": "NFL",
+      "title": "Adam Vinatieri broke Ricky Proehl's heart a few times, but he's such a good dude 😅🍿",
+      "videoId": "nj1RKfQApsA",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-08-02T14:53:21+00:00",
+      "link": "https://www.youtube.com/watch?v=nj1RKfQApsA"
+    },
+    {
+      "league": "MLB",
+      "title": "Jeff Kent, Andruw Jones and Carlos Beltrán are inducted to the Hall of Fame! | This Week in Baseball",
+      "videoId": "N6kws1JtuTk",
+      "author": "MLB",
+      "pubDate": "2026-08-02T14:00:37+00:00",
+      "link": "https://www.youtube.com/watch?v=N6kws1JtuTk"
+    },
+    {
+      "league": "NHL",
+      "title": "EVERY GOAL Scored Last Season by the 2026-27 Boston Bruins Roster",
+      "videoId": "eR_qRZ4B3Ns",
+      "author": "NHL",
+      "pubDate": "2026-08-02T14:00:01+00:00",
+      "link": "https://www.youtube.com/watch?v=eR_qRZ4B3Ns"
+    },
+    {
+      "league": "NFL",
+      "title": "I Scored a Touchdown: Ricky Proehl's Super Bowl XXXVIII Story | NFL on ESPN",
+      "videoId": "qW8S9Z4zSP4",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-08-02T13:00:13+00:00",
+      "link": "https://www.youtube.com/watch?v=qW8S9Z4zSP4"
+    },
+    {
+      "league": "SOCCER",
+      "title": "Looks familiar 😓 (via @mosduckrell/TT)",
+      "videoId": "vdwwR7F6j14",
+      "author": "ESPN FC",
+      "pubDate": "2026-08-02T12:45:30+00:00",
+      "link": "https://www.youtube.com/watch?v=vdwwR7F6j14"
+    },
     {
       "league": "MLB",
       "title": "Max Clark CRUSHES his FIRST MLB HOME RUN &amp; the BEST MLB Highlights from 8/1/26!",
@@ -6117,30 +6162,6 @@
       "author": "MLB",
       "pubDate": "2026-08-02T04:24:27+00:00",
       "link": "https://www.youtube.com/watch?v=YObEBoLj9_A"
-    },
-    {
-      "league": "MLB",
-      "title": "GIANTS vs. PADRES: Official Full Game Highlights (August 1) | 2026 MLB Season",
-      "videoId": "PbxqQO527_w",
-      "author": "MLB",
-      "pubDate": "2026-08-02T04:10:27+00:00",
-      "link": "https://www.youtube.com/watch?v=PbxqQO527_w"
-    },
-    {
-      "league": "MLB",
-      "title": "MAX CLARK 😤 The 21-year-old rookie has his first Major League home run in his second MLB game!",
-      "videoId": "iXejMM_rsZA",
-      "author": "MLB",
-      "pubDate": "2026-08-02T04:03:02+00:00",
-      "link": "https://www.youtube.com/watch?v=iXejMM_rsZA"
-    },
-    {
-      "league": "MLB",
-      "title": "RED SOX vs. DODGERS: Official Full Game Highlights (August 1) | 2026 MLB Season",
-      "videoId": "K71iT7Jmbxk",
-      "author": "MLB",
-      "pubDate": "2026-08-02T03:57:54+00:00",
-      "link": "https://www.youtube.com/watch?v=K71iT7Jmbxk"
     },
     {
       "league": "SOCCER",
@@ -6197,14 +6218,6 @@
       "author": "ESPN FC",
       "pubDate": "2026-08-02T01:54:37+00:00",
       "link": "https://www.youtube.com/watch?v=QiVVZKOx-0E"
-    },
-    {
-      "league": "SOCCER",
-      "title": "Vancouver Whitecaps vs. LAFC | MLS Highlights | ESPN FC",
-      "videoId": "5AI01GamgqA",
-      "author": "ESPN FC",
-      "pubDate": "2026-08-02T01:47:43+00:00",
-      "link": "https://www.youtube.com/watch?v=5AI01GamgqA"
     },
     {
       "league": "WNBA",
@@ -6295,22 +6308,6 @@
       "link": "https://www.youtube.com/watch?v=m2oekUZCQsE"
     },
     {
-      "league": "SOCCER",
-      "title": "Emma Hayes says there are no more friendlies 😬",
-      "videoId": "qyeHCvOBzQ0",
-      "author": "ESPN FC",
-      "pubDate": "2026-08-01T19:30:04+00:00",
-      "link": "https://www.youtube.com/watch?v=qyeHCvOBzQ0"
-    },
-    {
-      "league": "NBA",
-      "title": "Adidas ABCD Camp | GRIZZLIES (RJ Evans, Micah Gordon) vs CAVS (DeMarcus Henry,  Marceles Duncan)",
-      "videoId": "v0vz9NYxKEk",
-      "author": "NBA",
-      "pubDate": "2026-08-01T18:17:17+00:00",
-      "link": "https://www.youtube.com/watch?v=v0vz9NYxKEk"
-    },
-    {
       "league": "NHL",
       "title": "3ICE Hockey Week 2 - Pittsburgh vs. Minnesota &amp; Iowa vs. Boston",
       "videoId": "63Ry986NQhg",
@@ -6351,14 +6348,6 @@
       "link": "https://www.youtube.com/watch?v=yoDZTfQlb2M"
     },
     {
-      "league": "NFL",
-      "title": "🤣🤣🤣 (via aunyealachelle/IG, ezyff/IG)",
-      "videoId": "O0xGYN0wVN4",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-08-01T12:47:18+00:00",
-      "link": "https://www.youtube.com/watch?v=O0xGYN0wVN4"
-    },
-    {
       "league": "WNBA",
       "title": "Indiana Fever vs. Portland Fire | FULL GAME HIGHLIGHTS | July 31, 2026",
       "videoId": "O67thOWwNtU",
@@ -6373,30 +6362,6 @@
       "author": "WNBA",
       "pubDate": "2026-08-01T03:49:27+00:00",
       "link": "https://www.youtube.com/watch?v=kBVioxhRjAc"
-    },
-    {
-      "league": "WNBA",
-      "title": "Seattle Storm vs. Atlanta Dream | FULL GAME HIGHLIGHTS | July 31, 2026",
-      "videoId": "f01SNbIygFc",
-      "author": "WNBA",
-      "pubDate": "2026-08-01T02:53:47+00:00",
-      "link": "https://www.youtube.com/watch?v=f01SNbIygFc"
-    },
-    {
-      "league": "NBA",
-      "title": "Adidas ABCD Camp Day 1 | NETS (Lewis Uvwo, Jalen Davis) vs 76ERS (Darrius Wabbington, King Gibson)",
-      "videoId": "SxD_1hBh8ag",
-      "author": "NBA",
-      "pubDate": "2026-08-01T01:16:21+00:00",
-      "link": "https://www.youtube.com/watch?v=SxD_1hBh8ag"
-    },
-    {
-      "league": "NFL",
-      "title": "Wedding of the century 😅",
-      "videoId": "Y-ScjI5cFYw",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-07-31T23:00:32+00:00",
-      "link": "https://www.youtube.com/watch?v=Y-ScjI5cFYw"
     }
   ]
 }
