@@ -1,81 +1,89 @@
 {
   "clusters": [
     {
-      "category": "contracts",
-      "importance": 8,
-      "leadHeadline": "Falcons make Bijan Robinson highest-paid running back in NFL history with deal worth up to $75m",
-      "leadSource": "The Guardian · 1h ago",
-      "leadUrl": "https://www.theguardian.com/sport/2026/aug/04/bijan-robinson-atlanta-falcons-contract-nfl",
-      "summary": "<cite index=\"5-1\">Bijan Robinson and the Falcons agreed to a three-year extension worth up to $75 million</cite>, making <cite index=\"5-4,5-5\">him the highest-paid running back at $22.25 million APY with $51 million guaranteed</cite>.",
-      "article": "<cite index=\"5-1\">The Atlanta Falcons and star running back Bijan Robinson agreed to a three-year extension worth up to $75 million</cite> on Tuesday, <cite index=\"5-4,5-5\">giving the two-time Pro Bowler $22.25 million APY and $51 million guaranteed—both position records</cite>.\n\n<cite index=\"5-4\">Robinson's deal surpasses Philadelphia Eagles back Saquon Barkley's $20.6 million annual value</cite>. <cite index=\"5-5\">The $51 million guaranteed is the most money guaranteed to a running back on a non-rookie deal in NFL history</cite>, with <cite index=\"5-5\">$37 million due at signing</cite>.\n\n<cite index=\"2-6\">The deal's base value is $66.75 million</cite>, with <cite index=\"2-2\">Robinson needing to hit multiple incentives to reach the full $75 million</cite>. <cite index=\"2-16\">The extension keeps him under contract through 2030</cite>.\n\n<cite index=\"5-9\">Robinson had been holding out as the sides worked toward a new contract</cite>. <cite index=\"22-12,22-13\">\"I am pretty excited, even just with how I feel,\" Robinson said. \"They always say, like, (these are) your prime years, but I really feel like this is the best I have felt my whole time being here.\"</cite>\n\n<cite index=\"5-10,5-11,5-12\">Coach Kevin Stefanski called the hold-in \"very amicable\" and said the sides \"just knew throughout this whole process that it would be a process.\" \"Everybody understands how we feel about Bijan the person, Bijan the player,\" Stefanski added</cite>.\n\n<cite index=\"4-9\">Robinson led the NFL with 2,298 yards from scrimmage in 2025</cite>. <cite index=\"4-11\">The Falcons have also extended Drake London, Kyle Pitts, and Matthew Bergeron this offseason</cite>.",
+      "category": "media",
+      "importance": 7,
+      "leadHeadline": "UFC's White House spectacle led to losses of around $30m, company reveals",
+      "leadSource": "The Guardian · 4h ago",
+      "leadUrl": "https://www.theguardian.com/sport/2026/aug/04/ufc-freedom-250-white-house-losses-trump",
+      "summary": "TKO Group's UFC Freedom 250 on the White House lawn June 14 cost $60M to produce but lost $30M after partial sponsorship offset. Justin Gaethje won the lightweight title.",
+      "article": "<cite index=\"1-1\">TKO Group Holdings lost $30 million on UFC Freedom 250, held at the White House on June 14.</cite> <cite index=\"2-7\">The event cost an estimated $60 million to execute, which the UFC was unable to recoup via sponsorships.</cite>\n\n<cite index=\"2-10\">Justin Gaethje produced a stunning upset to dethrone Spain's Ilia Topuria</cite>, capturing the lightweight title in the main event. <cite index=\"4-6\">UFC Freedom 250 marked the first time in UFC history where each fight ended with a knockout or technical knockout.</cite>\n\nThe event was invitation-only. <cite index=\"2-5,2-6\">A purpose-built structure held about 4,300 seats, with tickets reserved for political allies, financial sponsors and members of the military.</cite> <cite index=\"4-3\">The UFC did not sell tickets and therefore did not record any live events revenue.</cite>\n\n<cite index=\"4-2\">TKO CFO Andrew Schleimer told investors the company \"incurred significantly higher-than-normal costs, which we partially offset with sold out global partnerships inventory.\"</cite> <cite index=\"5-9\">CEO Ari Emanuel countered that \"This event was a roaring success for our company, the UFC brand and the sport of mixed martial arts.\"</cite> <cite index=\"2-9\">The card garnered 8.2 million viewers domestically and around 34 million views worldwide, making it one of the most watched mixed martial events of all-time.</cite>",
       "tweets": [
         {
-          "url": "https://twitter.com/RapSheet/status/2084608902616825869",
-          "html": "<blockquote class=\"twitter-tweet\" data-dnt=\"true\" data-theme=\"dark\"><p>Bijan to the bank: The #Falcons and star RB Bijan Robinson agreed to terms on a massive 3-year deal worth a max value $75M, sources say. $25M per year. \n\nThe highest-paid RB gets a whopping $51M guaranteed, highest ever for a RB. Deal done by @AgentNicoleLynn of @KlutchSports. https://t.co/9hvJ5wAxPh</p>&mdash; Ian Rapoport (@RapSheet) <a href=\"https://twitter.com/RapSheet/status/2084608902616825869\">August 4, 2026</a></blockquote>",
-          "author_name": "Ian Rapoport",
-          "author_url": "https://twitter.com/RapSheet",
-          "dateMs": 1785844467000
+          "url": "https://twitter.com/BBCNews/status/2084611073651462527",
+          "html": "<blockquote class=\"twitter-tweet\" data-dnt=\"true\" data-theme=\"dark\"><p>UFC loses $30m on Freedom 250 event at White House https://t.co/ibImTSNPwy</p>&mdash; BBC News (UK) (@BBCNews) <a href=\"https://twitter.com/BBCNews/status/2084611073651462527\">August 4, 2026</a></blockquote>",
+          "author_name": "BBC News (UK)",
+          "author_url": "https://twitter.com/BBCNews",
+          "dateMs": 1785844984000
+        }
+      ]
+    },
+    {
+      "category": "media",
+      "importance": 6,
+      "leadHeadline": "Netflix officially adds Kuechly as game analyst; Foles set to debut in studio",
+      "leadSource": "Sports Media Watch · 1d ago",
+      "leadUrl": "https://www.sportsmediawatch.com/2026/08/netflix-nfl-week-1-broadcasting-team-melbourne/",
+      "summary": "Netflix has announced Luke Kuechly as an analyst alongside play-by-play announcer Noah Eagle for its Week 1 NFL broadcast of the 49ers-Rams game from Melbourne, Australia. Carson Foles is set to make his studio debut.",
+      "article": "Netflix has formalized its NFL broadcasting roster with play-by-play announcer Noah Eagle and analyst Luke Kuechly assigned to the Week 1 matchup between the San Francisco 49ers and Los Angeles Rams, to be broadcast from Melbourne, Australia next month.\n\nKuechly, the former Carolina Panthers linebacker and defensive leader, joins Netflix's core announcing team alongside Eagle. Carson Foles, the veteran quarterback, is set to debut in a studio role for the platform.\n\nThe booking represents Netflix's continued investment in live sports broadcasting and its positioning for next season's NFL slate. By routing a prime Week 1 game through an international venue and stacking the broadcast with recognizable names from the sport, Netflix is signaling confidence in its ability to attract viewers to its paid sports content.\n\nKuechly's presence as an analyst adds credibility on the defensive side of the ball, while the Melbourne location underscores the NFL's broader international expansion strategy. Foles' studio debut suggests Netflix is building out both broadcast and studio talent across multiple roles, following the pattern of legacy networks like ESPN and Fox.",
+      "tweets": [
+        {
+          "url": "https://twitter.com/netflixsports/status/2084263014123925637",
+          "html": "<blockquote class=\"twitter-tweet\" data-dnt=\"true\" data-theme=\"dark\"><p>Introducing the on-air team for the first-ever regular season NFL game in Australia 🇦🇺🏈  \n\n49ers vs. Rams. LIVE on Netflix September 10 at 8:35 PM ET / 5:35 PM PT. https://t.co/P0T0LO79ds</p>&mdash; Netflix Sports (@netflixsports) <a href=\"https://twitter.com/netflixsports/status/2084263014123925637\">August 3, 2026</a></blockquote>",
+          "author_name": "Netflix Sports",
+          "author_url": "https://twitter.com/netflixsports",
+          "dateMs": 1785762000000
         }
       ]
     },
     {
       "category": "leagues",
-      "importance": 7,
-      "leadHeadline": "Fifa accused of using 'blackmail' to force support for Infantino's re-election bid",
-      "leadSource": "The Guardian · 2h ago",
-      "leadUrl": "https://www.theguardian.com/football/2026/aug/04/arsene-wenger-gianni-infantino-grafstrom-criticise-world-cup-plan-fifa",
-      "summary": "FIFA faces accusations from Jordan FA president Prince Ali bin al-Hussein that it used threats of withholding financial assistance to coerce support for Gianni Infantino's re-election campaign.",
-      "article": "FIFA came under fresh fire Tuesday after the Jordan Football Association president, Prince Ali bin al-Hussein, accused Gianni Infantino's administration of using financial coercion to secure backing for his re-election. Prince Ali alleged that FIFA threatened to block funds from his federation if it refused to endorse Infantino's candidacy, tactics he characterized as blackmail. The accusation intensifies a broader controversy surrounding Infantino's push to overhaul FIFA's commercial structure through a controversial selloff of the organization's event and sponsorship operations. U.S. Soccer CEO Gregg Berhalter declined to answer questions about FIFA's leadership during his own press engagement, deferring broader governance questions to a September board meeting. Infantino has called an executive meeting for Wednesday as criticism mounts. The allegations highlight the political pressure underlying FIFA's governance and raise questions about the legitimacy of the re-election process should such coercion be substantiated.",
-      "tweets": []
-    },
-    {
-      "category": "media",
       "importance": 6,
-      "leadHeadline": "New MLS Commish Berg to Sort Out Roster Rules Before Media Rights",
-      "leadSource": "Sportico · 1h ago",
-      "leadUrl": "https://www.sportico.com/business/media/2026/mls-commish-berg-media-rights-roster-rules-1234941011/",
-      "summary": "Incoming MLS Commissioner Larry Berg said roster-rule clarification will precede the league's next media rights negotiation, deferring specifics to outgoing commissioner Don Garber.",
-      "article": "Larry Berg, the MLS's incoming commissioner, signaled that clarifying the league's roster rules will be a priority before pursuing its next media rights deal. During his introductory press conference Tuesday, Berg acknowledged that addressing structural questions around salary caps, roster construction, and competitive balance matters for any media negotiation. He deferred detailed questions about the upcoming rights sale to Don Garber, the current commissioner, but made clear that foundational clarity on league operations comes first. The move suggests Berg intends to stabilize internal governance before entering what figures to be a high-stakes negotiation with broadcasters. MLS has grown substantially in media value and visibility, and the league's next rights package will command significantly more than the current agreement. The timing of Berg's tenure means he'll inherit an active marketplace and the task of positioning MLS competitively as a broadcast property.",
-      "tweets": []
-    },
-    {
-      "category": "revenue",
-      "importance": 5,
-      "leadHeadline": "WNBA Season-Ticket Holders Grapple With Soaring Prices",
-      "leadSource": "Front Office Sports · 1h ago",
-      "leadUrl": "https://frontofficesports.com/wnba-season-tickets-soaring-prices-cba/",
-      "summary": "WNBA teams are raising season-ticket prices as the league's fan base and revenue grow, creating affordability concerns for existing holders.",
-      "article": "WNBA teams are pushing ticket prices higher as the league experiences a surge in attendance and media interest, putting pressure on long-time season-ticket holders. Multiple franchises have announced increases for the upcoming season, capitalizing on elevated demand driven by star rookie classes, expanded national broadcasts, and broader cultural momentum around women's basketball. Teams are banking on sustained growth to offset price sensitivity, particularly among core fans who have supported the league through leaner years. The pricing moves reflect a league inflection point: higher engagement and sponsorship interest are translating directly to consumer-facing costs. Season-ticket holders interviewed for the report expressed frustration with rapid escalation, though team executives argue prices remain modest compared to NBA and other major sports. The WNBA's challenge will be maintaining grassroots support while capitalizing on its breakout moment.",
+      "leadHeadline": "Fifa accused of using 'blackmail' to force support for Infantino's re-election bid",
+      "leadSource": "The Guardian · 5h ago",
+      "leadUrl": "https://www.theguardian.com/football/2026/aug/04/arsene-wenger-gianni-infantino-grafstrom-criticise-world-cup-plan-fifa",
+      "summary": "Jordan Football Association president Prince Ali bin al-Hussein has accused FIFA of blackmail, claiming the organization threatened to withhold financial assistance if his federation refused to back Gianni Infantino's re-election. FIFA's secretary general has called the plan to sell off commercial operations 'sad and reproachable.'",
+      "article": "Prince Ali bin al-Hussein, president of the Jordan Football Association, has accused FIFA's Gianni Infantino administration of using \"blackmail\" to secure support for Infantino's re-election bid, claiming FIFA threatened to withhold financial assistance from his federation if it refused to back the leadership.\n\nThe accusation centers on Infantino's controversial plan to sell off FIFA's commercial and event operations, a proposal that has drawn fierce criticism from multiple federation leaders. FIFA's own secretary general has characterized the selloff plan as \"sad and reproachable.\"\n\nInfantino responded by summoning senior leaders to a meeting on Wednesday, as mounting criticism of the proposal intensifies. The episode highlights the internal power struggles within international football governance and the leverage FIFA leadership attempts to wield over smaller federations dependent on central funding.\n\nThe blackmail allegation, if substantiated, would represent a significant breach of FIFA governance norms and could complicate Infantino's re-election efforts. The timing of these accusations, emerging ahead of the executive meeting, suggests dissent is organized and public, rather than contained behind closed doors.",
       "tweets": []
     },
     {
       "category": "leagues",
       "importance": 5,
       "leadHeadline": "Western Settlers: Pac-12, MWC Resolve Poaching Penalty Lawsuit",
-      "leadSource": "Sportico · 1h ago",
+      "leadSource": "Sportico · 5h ago",
       "leadUrl": "https://www.sportico.com/leagues/college-sports/2026/pac-12-mountain-west-lawsuit-settlement-poaching-1234941001/",
-      "summary": "The Pac-12 and Mountain West Conference have settled their nearly two-year litigation over conference-realignment penalties, ending a major point of contention in college sports.",
-      "article": "The Pac-12 and Mountain West Conference announced a settlement Tuesday, ending nearly two years of litigation over so-called poaching penalties the Mountain West had sought to impose on schools that departed for other conferences. The Mountain West had attempted to levy financial and competitive penalties on five of its members who left for other leagues, citing contractual obligations and conference stability concerns. The settlement removes a significant impediment to smooth realignment in college sports, which has been roiled by conference shifts, consolidation, and disputes over exit terms and media rights. By resolving the lawsuit, both conferences can focus on competitive matters and media negotiations rather than legal entanglement. The resolution signals a stabilization of the realignment era, at least in the western region of college athletics, and may encourage similar settlements elsewhere in the sport.",
-      "tweets": []
-    },
-    {
-      "category": "revenue",
-      "importance": 4,
-      "leadHeadline": "Colleges Are Avoiding Transparency on Jersey Patch Deals",
-      "leadSource": "Front Office Sports · 1h ago",
-      "leadUrl": "https://frontofficesports.com/colleges-are-avoiding-transparency-on-jersey-patch-deals/",
-      "summary": "Ohio State's handling of its Chase jersey patch sponsorship exemplifies how colleges obscure the financial terms of emerging commercial partnerships through intermediaries.",
-      "article": "Ohio State's recent disclosure that its Chase jersey patch deal was negotiated through apparel partner Learfield rather than directly with the university highlights a pattern of opacity in college sports' emerging sponsorship category. The arrangement allows schools to claim limited knowledge of commercial terms while still monetizing their uniforms, a gray area between full transparency and outright concealment. As jersey patch deals proliferate across Division I, athletic directors and compliance offices face pressure to disclose commercial partnerships that may compete with or complement existing apparel and equipment contracts. The lack of standardized disclosure raises questions about whether athletes themselves fully understand the sponsorships attached to their uniforms, and whether fans and boosters can assess the true commercial value of college sports properties. Expect increasing pressure from media and conference offices for clearer disclosure of all jersey and uniform partnerships.",
+      "summary": "The Pac-12 Conference and Mountain West Conference announced a settlement Tuesday, ending nearly two years of litigation over poaching penalties the Mountain West had sought to impose after five of its members departed. The agreement resolves a major legal dispute from the college sports realignment wave.",
+      "article": "The Pac-12 Conference and Mountain West Conference announced a settlement on Tuesday, concluding a nearly two-year legal battle over so-called \"poaching penalties\" that the Mountain West had attempted to levy after five of its members left for the rebuilt Pac-12.\n\nThe litigation emerged as a byproduct of the seismic realignment that reshaped the college sports landscape in 2023 and 2024, when multiple Mountain West members departed for other conferences. The Mountain West sought to impose financial penalties on departing schools, a mechanism the Pac-12 challenged.\n\nThe settlement marks a notable resolution in a chaotic period for western college sports conferences. Rather than litigating the penalty structure, both conferences negotiated terms that apparently satisfied both sides' interests, allowing each to move forward without protracted court proceedings.\n\nThe deal removes a major legal overhang from the western college sports landscape and may signal broader acceptance that realignment penalties, while contractually permissible, are increasingly difficult to enforce in practice. Both conferences can now focus on media rights negotiations and on-field competition rather than lingering court disputes from the previous realignment cycle.",
       "tweets": []
     },
     {
       "category": "media",
-      "importance": 3,
-      "leadHeadline": "Netflix officially adds Kuechly as game analyst; Foles set to debut in studio",
-      "leadSource": "Sports Media Watch · 1d ago",
-      "leadUrl": "https://www.sportsmediawatch.com/2026/08/netflix-nfl-week-1-broadcasting-team-melbourne/",
-      "summary": "Netflix confirmed Luke Kuechly as play-by-play analyst for its Week 1 NFL game between the 49ers and Rams from Melbourne, Australia, with Noah Eagle handling play-by-play duties.",
-      "article": "Netflix confirmed that Luke Kuechly will join play-by-play announcer Noah Eagle in the broadcast booth for the NFL's Week 1 game between the San Francisco 49ers and Los Angeles Rams, being held in Melbourne, Australia. Kuechly, a former Carolina Panthers linebacker and one of the league's most decorated defensive players, brings significant credibility to Netflix's sports broadcasting operation. Eagle has anchored college football broadcasts and will handle play-by-play for the international matchup, while Kuechly will provide analysis. The pairing represents Netflix's continued push to establish itself as a credible home for live sports, building on its earlier success with sports documentaries and live events. The Melbourne setting offers a global platform for Netflix's first major NFL broadcast, underscoring the league's international expansion strategy and Netflix's willingness to invest in live sports infrastructure.",
+      "importance": 5,
+      "leadHeadline": "NBC to Retain Media Rights to Preakness Stakes",
+      "leadSource": "Front Office Sports · 2h ago",
+      "leadUrl": "https://frontofficesports.com/nbc-retains-media-rights-preakness-stakes/",
+      "summary": "NBC has retained the media rights to the Preakness Stakes, continuing a partnership that dates back to 2001. The deal extends NBC's coverage of one of horse racing's Triple Crown events.",
+      "article": "NBC has retained the media rights to the Preakness Stakes, extending a broadcast relationship that has spanned over two decades since 2001.\n\nThe renewal underscores NBC's continued commitment to horse racing coverage, particularly the marquee events of the Triple Crown. The Preakness, contested annually at Pimlico Race Course in Baltimore, represents a significant property within horse racing's calendar and attracts substantial viewership each May.\n\nBy securing the rights, NBC maintains its portfolio of equestrian events and avoids a competitive bidding war that could have reshaped coverage of one of America's oldest sports. The deal also provides stability for horse racing stakeholders, who benefit from consistent broadcast exposure on a major network.\n\nThe renewal comes amid broader questions about sports media fragmentation, as league rights increasingly scatter across cable, streaming, and digital platforms. NBC's ability to retain a legacy sports property suggests the network's value in delivering traditional audiences remains competitive, at least in niche sports categories where its long-term stewardship matters.",
+      "tweets": []
+    },
+    {
+      "category": "leagues",
+      "importance": 4,
+      "leadHeadline": "New MLS Commish Berg to Sort Out Roster Rules Before Media Rights",
+      "leadSource": "Sportico · 4h ago",
+      "leadUrl": "https://www.sportico.com/business/media/2026/mls-commish-berg-media-rights-roster-rules-1234941011/",
+      "summary": "Incoming MLS Commissioner Larry Berg said during his introductory press conference Tuesday that he will address roster rule changes before pursuing the league's next media rights deal, deferring questions about the latter to current commissioner Don Garber. The first major task signals Berg's focus on structural league governance.",
+      "article": "Larry Berg, MLS's incoming commissioner, signaled during his introductory press conference Tuesday that roster rules and league structure will take priority over immediate pursuit of new media rights deals.\n\nWhen asked about his vision for the MLS's next media rights negotiation, Berg deferred the question to current commissioner Don Garber, redirecting focus to internal governance matters. \"As the incoming commissioner I'm allowed to kick it to the current commissioner to answer that question,\" Berg said.\n\nThe pivot reflects a deliberate sequencing: Berg intends to stabilize and clarify the league's roster regulations before entering the media marketplace, a strategy that mirrors how commissioner transitions often work in sports. Clean internal rules strengthen the league's negotiating position with broadcasters.\n\nMLS's media landscape has remained relatively fragmented, with Apple TV+ holding a significant package, while ESPN and other cable outlets retain various rights. Berg's delay in addressing new media rights publicly suggests either that negotiations are already advanced or that the league prefers to settle internal matters first. Either way, the message is organizational: governance before broadcast.",
+      "tweets": []
+    },
+    {
+      "category": "leagues",
+      "importance": 4,
+      "leadHeadline": "Why the WNBA's New Cleveland Sirens Won't Face a Trademark Fight",
+      "leadSource": "Front Office Sports · just now",
+      "leadUrl": "https://frontofficesports.com/why-the-wnbas-new-cleveland-sirens-wont-face-a-trademark-fight/",
+      "summary": "The WNBA's new Cleveland Sirens franchise, set to debut in 2028, will not encounter trademark disputes over its name, according to Front Office Sports. The club's brand identity is protected and ready for launch.",
+      "article": "The WNBA's newest franchise, the Cleveland Sirens, will not face a trademark fight as it prepares for a 2028 debut, clearing a potential brand-identity obstacle that often complicates expansion team launches.\n\nExpansion franchises typically navigate complex trademark vetting to ensure their chosen names and logos don't conflict with existing intellectual property holders. The Sirens cleared that hurdle, allowing the organization to move forward with brand development, merchandise, and marketing without legal entanglements.\n\nThe Cleveland market had been without a major women's professional basketball team, making the Sirens an addition to the city's sports portfolio. The team name and branding reflect a new-era WNBA approach to franchise identity: distinctive, memorable names that differentiate from the legacies of NBA counterparts while building independent brand equity.\n\nWith trademark clearance confirmed, the Sirens can focus on the remaining pre-launch milestones: arena negotiations, front office hires, and the 2028 expansion draft. The clarity also gives potential sponsors and partners confidence in the team's brand stability as Cleveland enters WNBA ownership.",
       "tweets": []
     }
   ],
@@ -2399,96 +2407,96 @@
     ],
     "source": "espn"
   },
-  "deals": [
-    {
-      "type": "extension",
-      "parties": "Atlanta Falcons ⇄ Bijan Robinson",
-      "value_usd": 75000000,
-      "term_years": 3,
-      "league": "NFL",
-      "headline": "Falcons extend Bijan Robinson through 2030, $75M deal",
-      "storyIndex": 11,
-      "blurb": "Robinson, a four-year pro and two-time Pro Bowler, now the highest-paid running back in NFL history with $51M guaranteed.",
-      "capturedAt": "2026-08-04T20:19:23.158Z"
-    }
-  ],
+  "deals": [],
   "ratings": [],
   "ticket_prices": [],
   "sidebar": [
     {
-      "headline": "Ben Stokes on Cricket's Drinking Culture",
-      "source": "BBC Sport · 8h ago",
-      "article": "England cricket captain Ben Stokes addressed the sport's embedded drinking culture, pushing back against perceptions that his team has an alcohol problem. Stokes acknowledged that recreational drinking has long been part of cricket's social fabric, particularly during international tours and down time between matches. He distinguished between cultural acceptance and team dysfunction, saying the current England squad manages its behavior responsibly. The comments come amid broader scrutiny of elite sports' relationship with substance use and player wellness. Stokes' candor reflects cricket's traditional tolerance of off-field recreation, a stance increasingly questioned as other sports tighten monitoring and education around athlete health."
+      "headline": "Aaron Rodgers primed for final run with Steelers",
+      "source": "CBS Sports · just now",
+      "article": "Aaron Rodgers' walk-off season with the Pittsburgh Steelers is positioning itself as one of his finest statistical campaigns. The veteran quarterback arrives in the Steel City with unfinished business and a chance to secure that elusive second Super Bowl ring. Rodgers spent two decades establishing himself as an elite passer, and his final year offers vindication after years of injuries and organizational frustration in Green Bay. The Steelers' defense and running game provide complementary pieces around his arm talent, setting up what could be a memorable playoff run if the regular season produces the expected results."
     },
     {
-      "headline": "Dodgers' Dominant Trade Deadline Run",
-      "source": "Sportsnet · 8h ago",
-      "article": "The Los Angeles Dodgers emerged as clear winners of MLB's trade deadline, acquiring the crown jewel of the market and reinforcing their roster for a playoff push. The Dodgers' front office outmaneuvered competitors and secured high-impact talent without sacrificing core prospects, a balance many contenders struggle to achieve. The acquisitions position Los Angeles as the favorite in the National League heading into the stretch run. Their ability to strike aggressively while protecting future assets underscores the organization's sustained operational excellence. Other contenders made moves but none matched the Dodgers' haul in terms of immediate impact and long-term flexibility."
+      "headline": "Braelon Allen focused on crucial Jets season after knee injury",
+      "source": "NY Post Sports · 1h ago",
+      "article": "Running back Braelon Allen didn't mince words about the importance of the upcoming Jets season after playing in only four games last year due to a major knee injury. Allen's return represents a critical piece of New York's offensive backfield puzzle as the team seeks consistency in the ground game. The injury sidelined him for most of 2025, but he has spent the offseason rehabbing and preparing for what he views as a redemptive campaign. His availability and health will directly impact the Jets' ability to establish a balanced offensive identity and protect quarterback Geno Smith."
     },
     {
-      "headline": "NHL Off-Season Grades: Atlantic Division",
-      "source": "Sportsnet · 7h ago",
-      "article": "The Atlantic Division underwent significant roster shuffling this off-season, with a former champion reloading for contention while another franchise attempts to reclaim relevance. Ryan Dixon's divisional grades reflect the strategic divergence among the Atlantic's six teams, from aggressive spending to rebuilding patience. One team that won recently is adding significant pieces, signaling confidence in their window. Meanwhile, a second-tier contender is making calculated moves to bridge the gap to playoff consistency. The Atlantic figures to be competitive and unpredictable heading into the new season, with playoffs likely decided by execution rather than talent gaps alone."
+      "headline": "Adonai Mitchell working with fourth Jets starting QB",
+      "source": "NY Post Sports · 1h ago",
+      "article": "Wide receiver Adonai Mitchell is set to work with his fourth starting quarterback in green and white despite playing in only eight games with the Jets during the 2025 season. The revolving door at the position has made it difficult for pass catchers to develop continuity and timing with a single signal-caller. Mitchell's ability to learn new systems and adapt to different quarterbacking styles will be tested once again as the Jets cycle through their latest iteration at the position. His experience managing multiple QB transitions could prove valuable for organizational stability if the current starter remains in place."
     },
     {
-      "headline": "ESPN Hires McCourty to Replace Clark on Countdown",
+      "headline": "ESPN adds McCourty as apparent Ryan Clark replacement",
       "source": "Sports Media Watch · 1d ago",
-      "article": "ESPN has apparently selected Devin McCourty as the replacement for Ryan Clark on Monday Night Countdown, bringing the former New England Patriots safety and ESPN analyst into a more prominent studio role. McCourty has built a strong reputation as a thoughtful television analyst with deep football knowledge and communication skills. The move reflects ESPN's confidence in McCourty's ability to contribute to the network's flagship pregame show and his appeal to viewers. McCourty's addition strengthens Countdown's bench and provides ESPN with flexibility across its studio programming. The hiring continues ESPN's pattern of elevating trusted internal talent rather than conducting external searches for on-air positions."
+      "article": "ESPN has tapped Devin McCourty as the apparent replacement for Ryan Clark on \"Monday Night Countdown,\" adding the former New England Patriots safety to the network's NFL studio lineup. McCourty brings credibility from his decorated playing career and offers fresh perspective on the league. The transition reflects ESPN's ongoing effort to refresh its talent roster and maintain viewership of the flagship pregame show. McCourty's appointment continues the network's pattern of hiring recently retired players with strong on-field résumés to bridge the gap between professional experience and media analysis."
     },
     {
-      "headline": "European Summer Friendlies on CBS Sports Network",
-      "source": "CBS Sports · 1h ago",
-      "article": "CBS Sports Network and CBS Sports Golazo Network are broadcasting a slate of European soccer summer friendlies as top clubs prepare for the upcoming season. The marquee matchups feature traditional powerhouses and emerging talents, offering fans high-quality soccer during the typically quieter off-season period. The broadcasting arrangement underscores CBS Sports' commitment to soccer coverage and its position as a destination for international club competitions. Summer friendlies serve as preparation and scouting opportunities for European clubs, with games often drawing significant viewership among diaspora audiences and soccer enthusiasts in the U.S. The coverage complements CBS Sports' established strength in European soccer properties."
+      "headline": "Salah in talks with Turkish club Trabzonspor",
+      "source": "BBC Sport · 2h ago",
+      "article": "Turkish club Trabzonspor has begun negotiations to sign Mohamed Salah, signaling a potential summer transfer move for the Liverpool winger. Salah, one of the Premier League's most prolific scorers, would represent a marquee arrival for the Turkish Super Lig club. The talks suggest either a planned departure from Liverpool or exploratory discussions about the possibility. Trabzonspor's interest underscores Salah's global marketability and the Turkish club's financial capacity to pursue elite talent. Any move would reshape both the Turkish league's global profile and Liverpool's attacking contingent."
     },
     {
-      "headline": "Mets Promote Reliever Jefry Yan",
-      "source": "NY Post Sports · just now",
-      "article": "The New York Mets promoted reliever Jefry Yan, a pitcher known for his celebratory enthusiasm and striking ability. In a season short on victories and postgame celebrations, the Mets are bringing in one of baseball's most exuberant personalities. Yan's strikeout celebration has become his trademark, drawing attention and energy whenever he records a big out. The promotion offers the Mets a new weapon in the bullpen and an injection of personality at a time when the team has struggled. Yan's arrival provides a spark that extends beyond pure pitching metrics, adding an element of swagger and fun to the clubhouse."
+      "headline": "DeChambeau leads player meeting at LIV Golf New York",
+      "source": "Front Office Sports · 2h ago",
+      "article": "Bryson DeChambeau has organized a player-only meeting ahead of the LIV Golf New York event, which begins Thursday. The gathering signals internal discussion within the league about strategic direction, financial terms, or competitive structure. DeChambeau's leadership in calling the meeting reflects his standing within the Saudi-backed circuit. The timing, just days before a major event, suggests the issues under discussion carry immediate relevance to the tournament or broader LIV operations. Details of the meeting's agenda and outcomes remain undisclosed, though such gatherings typically address player concerns about compensation or competitive formats."
     }
   ],
   "poll": {
-    "question": "Which sports business story will dominate next week?",
+    "question": "Which development will have the biggest long-term impact on sports governance?",
     "options": [
-      "FIFA's Infantino facing re-election pressure, Prince Ali blackmail accusations",
-      "MLS media rights negotiations under new Commissioner Berg",
-      "WNBA expansion and pricing strategy amid league growth",
-      "College sports governance battles over transparency and realignment"
+      "FIFA's commercial selloff plan and Infantino's re-election",
+      "MLS commissioner Berg's focus on roster rules before media rights",
+      "Pac-12/Mountain West settlement ending realignment litigation",
+      "WNBA expansion with Cleveland Sirens clearing trademark issues"
     ]
   },
   "predictions": [
     {
-      "statement": "Prince Ali's blackmail allegations against FIFA will force Infantino to address the accusation publicly within 48 hours.",
-      "probability": 72,
-      "rationale": "The allegations are serious, on-the-record, and from a senior federation official. FIFA typically responds quickly to governance crises to manage narrative. Infantino's Wednesday executive meeting may serve as the venue for his response."
+      "statement": "The UFC returns to the White House for a combat sports event within three years, with reduced production costs and a clearer revenue model.",
+      "probability": 28,
+      "rationale": "The $30 million loss is a significant financial setback, and the novelty of the venue wears quickly. Unless sponsorship or ticket value structures change dramatically, the White House remains an invitation-only prestige play rather than a profit driver. Combat sports media rights deals have shifted to streamers, limiting traditional broadcast upside."
     },
     {
-      "statement": "MLS's next media rights deal will exceed $500 million annually, a 30 percent increase over the current package.",
-      "probability": 61,
-      "rationale": "The league's viewership and cultural profile have grown substantially; new commissioners typically inherit upward-trending markets. However, broadcaster appetite for soccer remains uneven, and the market is fragmented across multiple platforms, which could limit growth."
+      "statement": "Netflix's NFL broadcasts average 15+ million concurrent viewers by Week 3, validating the platform's sports strategy.",
+      "probability": 62,
+      "rationale": "The Australia time slot presents challenges, but a 49ers-Rams Week 1 game has high star power. Netflix's global subscriber base, bundled NFL content, and strong advertiser interest in live sports make the numbers likely, though viewership will skew West Coast and international."
     },
     {
-      "statement": "WNBA teams will implement price caps or hold ticket increases to single digits next season due to fan backlash.",
-      "probability": 44,
-      "rationale": "The league is in a growth phase and needs to protect its grassroots. Aggressive pricing could alienate the core base that built the league. However, teams are also capitalizing on demand, and commissioners rarely police pricing decisions."
+      "statement": "Mohamed Salah completes a transfer to Trabzonspor before September 2026.",
+      "probability": 18,
+      "rationale": "Salah remains one of Liverpool's core assets and has shown no public desire to leave. Trabzonspor's interest is real but exploratory. Liverpool's valuation would be astronomical, and Salah's contract situation suggests continuity. A move would surprise the entire market."
     },
     {
-      "statement": "At least one major college will face NCAA sanctions related to undisclosed jersey patch sponsorship deals by year-end.",
-      "probability": 38,
-      "rationale": "The transparency problem is real and growing, but NCAA enforcement is slow and inconsistent. Without a clear compliance rule breach, sanctions are unlikely unless a patch deal violates specific endorsement or representation policies."
+      "statement": "Aaron Rodgers finishes the 2026 season healthy and plays in the Super Bowl LI.",
+      "probability": 45,
+      "rationale": "Rodgers has a strong supporting cast in Pittsburgh, but he is 40 years old with a recent injury history. The Steelers are competitive but not favorites in their conference. Health through 16 games and a playoff run is possible but not highly probable given age and injury wear."
     }
   ],
   "injuries": [
     {
+      "player": "Braelon Allen",
+      "team": "New York Jets",
+      "league": "NFL",
+      "position": "RB",
+      "status": "RETURNING",
+      "injury": "Major knee injury",
+      "timeline": "2026 season",
+      "source": "NY Post Sports",
+      "impact": "Allen appeared in only four games in 2025 due to the injury; his return is critical for Jets' offensive continuity and ground-game balance.",
+      "storyIndex": 10
+    },
+    {
       "player": "Ayeisha McFerran",
-      "team": "Ireland National Team",
+      "team": "Ireland national team",
       "league": "SOCCER",
       "position": "GK",
       "status": "OUT",
       "injury": "Unspecified injury",
       "timeline": "Out for World Cup",
       "source": "BBC Sport",
-      "impact": "Ireland loses its established goalkeeper heading into the Hockey World Cup, requiring deployment of a backup goaltender.",
-      "storyIndex": 0
+      "impact": "Distinguished goalkeeper ruled out of the Hockey World Cup, forcing Ireland to deploy backup goalkeeper for the tournament.",
+      "storyIndex": null
     }
   ],
   "picks": [
@@ -6026,30 +6034,30 @@
       "_pendingGrade": true
     }
   ],
-  "updatedAt": "2026-04-23T18:45:00Z",
+  "updatedAt": "2026-04-23T18:47:00Z",
   "highlights": [
     {
       "league": "NBA",
-      "title": "Throwback to when Taylor Swift and Travis Kelce were courtside in Cleveland",
-      "videoId": "ac2N02OU5qM",
-      "thumbnail": "https://img.youtube.com/vi/ac2N02OU5qM/mqdefault.jpg",
-      "timeAgo": "Just now",
+      "title": "Jalen Johnson Best Dunks Of The Season LF v2",
+      "videoId": "ebqPdSEzqxA",
+      "thumbnail": "https://img.youtube.com/vi/ebqPdSEzqxA/mqdefault.jpg",
+      "timeAgo": "3h ago",
       "isFallback": false
     },
     {
       "league": "NFL",
-      "title": "Don't Let This WR Fall Past You in Your Draft 🚨 #fantasyfootball #nflshorts",
-      "videoId": "demkacbKSzc",
-      "thumbnail": "https://img.youtube.com/vi/demkacbKSzc/mqdefault.jpg",
-      "timeAgo": "1h ago",
+      "title": "Ladd McConkey on what the LA Chargers are planning to do this season 👀 | The Rich Eisen Show",
+      "videoId": "tYsKyaQG8Ic",
+      "thumbnail": "https://img.youtube.com/vi/tYsKyaQG8Ic/mqdefault.jpg",
+      "timeAgo": "2h ago",
       "isFallback": false
     },
     {
       "league": "MLB",
-      "title": "Yankees No. 1 prospect George Lombard Jr. gets called up to MLB! (Get to know Yankees top prospect!)",
-      "videoId": "sTkPRgHJaEM",
-      "thumbnail": "https://img.youtube.com/vi/sTkPRgHJaEM/mqdefault.jpg",
-      "timeAgo": "Just now",
+      "title": "Bryce Harper makes his 1st RF appearance since 2022 &amp; caught a fly out on the 1st pitch of the game!",
+      "videoId": "W_9wuXiZb-I",
+      "thumbnail": "https://img.youtube.com/vi/W_9wuXiZb-I/mqdefault.jpg",
+      "timeAgo": "1h ago",
       "isFallback": false
     },
     {
@@ -6057,7 +6065,7 @@
       "title": "Every Goal Scored Last Season by the 2026-27 Calgary Flames Roster",
       "videoId": "AP26dANu_1o",
       "thumbnail": "https://img.youtube.com/vi/AP26dANu_1o/mqdefault.jpg",
-      "timeAgo": "4h ago",
+      "timeAgo": "8h ago",
       "isFallback": false
     },
     {
@@ -6065,19 +6073,131 @@
       "title": "Week 10: Western Conference Player of the Week - A'ja Wilson",
       "videoId": "tnfoZM7QFRI",
       "thumbnail": "https://img.youtube.com/vi/tnfoZM7QFRI/mqdefault.jpg",
-      "timeAgo": "3h ago",
+      "timeAgo": "7h ago",
       "isFallback": false
     },
     {
       "league": "SOCCER",
-      "title": "Larry Berg reflects on ‘whirlwind’ 48 hours in becoming MLS commissioner | SportsCenter",
-      "videoId": "kjuUFz0tA84",
-      "thumbnail": "https://img.youtube.com/vi/kjuUFz0tA84/mqdefault.jpg",
+      "title": "Transfer Talk ⚽ Could Vinicius Junior leave Real Madrid? | ESPN FC",
+      "videoId": "xgFrwA5Uj94",
+      "thumbnail": "https://img.youtube.com/vi/xgFrwA5Uj94/mqdefault.jpg",
       "timeAgo": "1h ago",
       "isFallback": false
     }
   ],
   "reels": [
+    {
+      "league": "MLB",
+      "title": "Bryce Harper makes his 1st RF appearance since 2022 &amp; caught a fly out on the 1st pitch of the game!",
+      "videoId": "W_9wuXiZb-I",
+      "author": "MLB",
+      "pubDate": "2026-08-04T23:20:32+00:00",
+      "link": "https://www.youtube.com/watch?v=W_9wuXiZb-I"
+    },
+    {
+      "league": "SOCCER",
+      "title": "Transfer Talk ⚽ Could Vinicius Junior leave Real Madrid? | ESPN FC",
+      "videoId": "xgFrwA5Uj94",
+      "author": "ESPN FC",
+      "pubDate": "2026-08-04T23:04:19+00:00",
+      "link": "https://www.youtube.com/watch?v=xgFrwA5Uj94"
+    },
+    {
+      "league": "SOCCER",
+      "title": "Have transfer talk rumors, social media changed football for the BETTER? 🤔 | ESPN FC",
+      "videoId": "GxEDJVeX_P4",
+      "author": "ESPN FC",
+      "pubDate": "2026-08-04T23:03:31+00:00",
+      "link": "https://www.youtube.com/watch?v=GxEDJVeX_P4"
+    },
+    {
+      "league": "MLB",
+      "title": "Luis Arraez singles and drives in a run in his first Phillies at-bat! | MLB Highlights",
+      "videoId": "v28rF8FEIUo",
+      "author": "MLB",
+      "pubDate": "2026-08-04T22:59:50+00:00",
+      "link": "https://www.youtube.com/watch?v=v28rF8FEIUo"
+    },
+    {
+      "league": "SOCCER",
+      "title": "Gianni Infantino jeopardized FIFA's INTEGRITY!? + Erling Haaland has become a GLOBAL BRAND | ESPN FC",
+      "videoId": "ToANS2o26I0",
+      "author": "ESPN FC",
+      "pubDate": "2026-08-04T22:34:33+00:00",
+      "link": "https://www.youtube.com/watch?v=ToANS2o26I0"
+    },
+    {
+      "league": "SOCCER",
+      "title": "FC Bayern's depth 'is quite not there' compared to PSG and Arsenal 🗣️ - Ale Moreno | ESPN FC",
+      "videoId": "oYoOE7Z55cQ",
+      "author": "ESPN FC",
+      "pubDate": "2026-08-04T22:16:44+00:00",
+      "link": "https://www.youtube.com/watch?v=oYoOE7Z55cQ"
+    },
+    {
+      "league": "MLB",
+      "title": "The Yankees No. 1 prospect will take the field at Yankee Stadium tonight! 👏",
+      "videoId": "cpu4AoWF_oA",
+      "author": "MLB",
+      "pubDate": "2026-08-04T22:16:32+00:00",
+      "link": "https://www.youtube.com/watch?v=cpu4AoWF_oA"
+    },
+    {
+      "league": "SOCCER",
+      "title": "Rodri linked with move to Real Madrid ⚽ Can Man City keep him? | ESPN FC",
+      "videoId": "9WFuftuXHow",
+      "author": "ESPN FC",
+      "pubDate": "2026-08-04T22:03:54+00:00",
+      "link": "https://www.youtube.com/watch?v=9WFuftuXHow"
+    },
+    {
+      "league": "SOCCER",
+      "title": "It’s not about money, it’s about ego and status! 👀 Nicol on Vini Jr.’s Real Madrid future | ESPN FC",
+      "videoId": "lz8WodoMusE",
+      "author": "ESPN FC",
+      "pubDate": "2026-08-04T22:01:53+00:00",
+      "link": "https://www.youtube.com/watch?v=lz8WodoMusE"
+    },
+    {
+      "league": "MLB",
+      "title": "⁨@shelbanddyl got the full Cape Cod League experience, where stars like Aaron Judge once played.",
+      "videoId": "UPsgmF97mMk",
+      "author": "MLB",
+      "pubDate": "2026-08-04T21:30:00+00:00",
+      "link": "https://www.youtube.com/watch?v=UPsgmF97mMk"
+    },
+    {
+      "league": "NFL",
+      "title": "Ladd McConkey on what the LA Chargers are planning to do this season 👀 | The Rich Eisen Show",
+      "videoId": "tYsKyaQG8Ic",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-08-04T21:27:06+00:00",
+      "link": "https://www.youtube.com/watch?v=tYsKyaQG8Ic"
+    },
+    {
+      "league": "NFL",
+      "title": "Falcons News: Bijan Robinson signs historic extension, Jalon Walker suffers injury | NFL Live",
+      "videoId": "sfD0VUJ5cd8",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-08-04T21:11:09+00:00",
+      "link": "https://www.youtube.com/watch?v=sfD0VUJ5cd8"
+    },
+    {
+      "league": "NBA",
+      "title": "Jalen Johnson Best Dunks Of The Season LF v2",
+      "videoId": "ebqPdSEzqxA",
+      "author": "NBA",
+      "pubDate": "2026-08-04T21:00:01+00:00",
+      "link": "https://www.youtube.com/watch?v=ebqPdSEzqxA"
+    },
+    {
+      "league": "SOCCER",
+      "title": "Vinicius Jr. is back amid Arsenal rumors (via realmadridcf/TT)",
+      "videoId": "B2cwsmsPuq0",
+      "author": "ESPN FC",
+      "pubDate": "2026-08-04T20:45:26+00:00",
+      "link": "https://www.youtube.com/watch?v=B2cwsmsPuq0"
+    },
     {
       "league": "NBA",
       "title": "Throwback to when Taylor Swift and Travis Kelce were courtside in Cleveland",
@@ -6151,14 +6271,6 @@
       "link": "https://www.youtube.com/watch?v=04k-gsqyCmg"
     },
     {
-      "league": "MLB",
-      "title": "BREAKING DOWN the Adley Rutschman trade to the Red Sox! (Reactions, analysis and more!)",
-      "videoId": "Zw12b7CFSbE",
-      "author": "MLB",
-      "pubDate": "2026-08-04T18:48:25+00:00",
-      "link": "https://www.youtube.com/watch?v=Zw12b7CFSbE"
-    },
-    {
       "league": "NFL",
       "title": "Adam Schefter's INSIGHT on Zay Flowers' deal, Vikings' QB battle and more! 🧠 | The Pat McAfee Show",
       "videoId": "kNCj07Ci7pQ",
@@ -6173,14 +6285,6 @@
       "author": "NFL on ESPN",
       "pubDate": "2026-08-04T18:00:24+00:00",
       "link": "https://www.youtube.com/watch?v=QuU-wjmX0hA"
-    },
-    {
-      "league": "MLB",
-      "title": "Kicking off #250for250 with 10 Mammoth Home Runs that define baseball",
-      "videoId": "58mZ92sTS9g",
-      "author": "MLB",
-      "pubDate": "2026-08-04T18:00:05+00:00",
-      "link": "https://www.youtube.com/watch?v=58mZ92sTS9g"
     },
     {
       "league": "NBA",
@@ -6239,14 +6343,6 @@
       "link": "https://www.youtube.com/watch?v=EpQ9A9FdNb0"
     },
     {
-      "league": "MLB",
-      "title": "Vermont Expos GM said he'd sleep in the dugout until the team won a game …Then they lost 12 games 😭",
-      "videoId": "2QYUKsQToCs",
-      "author": "MLB",
-      "pubDate": "2026-08-04T16:39:31+00:00",
-      "link": "https://www.youtube.com/watch?v=2QYUKsQToCs"
-    },
-    {
       "league": "NFL",
       "title": "Zay Flowers agrees to 4-year/$140M extension with the Ravens 🤑 | First Take",
       "videoId": "-cHmVMARHqU",
@@ -6263,76 +6359,12 @@
       "link": "https://www.youtube.com/watch?v=7v5UqgrKSGA"
     },
     {
-      "league": "NBA",
-      "title": "These handles at his age are not normals 🤯 (via: aj_lovetoball/IG)",
-      "videoId": "PBUuJMSmyOs",
-      "author": "NBA",
-      "pubDate": "2026-08-04T16:13:13+00:00",
-      "link": "https://www.youtube.com/watch?v=PBUuJMSmyOs"
-    },
-    {
-      "league": "NFL",
-      "title": "How to CRUSH a 12-Team PPR Draft in 2026 Fantasy Football | Fantasy Focus",
-      "videoId": "I5S_3PpRHhM",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-08-04T16:07:00+00:00",
-      "link": "https://www.youtube.com/watch?v=I5S_3PpRHhM"
-    },
-    {
-      "league": "NFL",
-      "title": "Bijan gets a bag 💰 + why the Crosby situation Bears watching | The Adam Schefter Podcast",
-      "videoId": "7rEfuNGOVd0",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-08-04T16:02:29+00:00",
-      "link": "https://www.youtube.com/watch?v=7rEfuNGOVd0"
-    },
-    {
-      "league": "SOCCER",
-      "title": "He went WILD 😭 (via @juventus/TT)",
-      "videoId": "gBu6HFrLMzM",
-      "author": "ESPN FC",
-      "pubDate": "2026-08-04T16:00:35+00:00",
-      "link": "https://www.youtube.com/watch?v=gBu6HFrLMzM"
-    },
-    {
-      "league": "MLB",
-      "title": "Evan Longoria accidently knocks his helmet over his eyes 🤣",
-      "videoId": "8Ad9noM4Vv4",
-      "author": "MLB",
-      "pubDate": "2026-08-04T16:00:10+00:00",
-      "link": "https://www.youtube.com/watch?v=8Ad9noM4Vv4"
-    },
-    {
       "league": "NHL",
       "title": "Every Goal Scored Last Season by the 2026-27 Calgary Flames Roster",
       "videoId": "AP26dANu_1o",
       "author": "NHL",
       "pubDate": "2026-08-04T16:00:01+00:00",
       "link": "https://www.youtube.com/watch?v=AP26dANu_1o"
-    },
-    {
-      "league": "SOCCER",
-      "title": "Running into Messi as he’s leaving a store 😂 (via @robertocampoo/TT)",
-      "videoId": "PExFY_cEFF4",
-      "author": "ESPN FC",
-      "pubDate": "2026-08-04T14:33:02+00:00",
-      "link": "https://www.youtube.com/watch?v=PExFY_cEFF4"
-    },
-    {
-      "league": "SOCCER",
-      "title": "Carlo Ancelotti admits the tactical changes he made… 😮‍💨🇧🇷",
-      "videoId": "4sC9eA9k4tQ",
-      "author": "ESPN FC",
-      "pubDate": "2026-08-04T12:19:20+00:00",
-      "link": "https://www.youtube.com/watch?v=4sC9eA9k4tQ"
-    },
-    {
-      "league": "SOCCER",
-      "title": "Is there anything Zizou can’t do? 😰 (via z5aix/TT)",
-      "videoId": "F3JbjcPcs0A",
-      "author": "ESPN FC",
-      "pubDate": "2026-08-04T10:45:03+00:00",
-      "link": "https://www.youtube.com/watch?v=F3JbjcPcs0A"
     },
     {
       "league": "WNBA",
@@ -6373,30 +6405,6 @@
       "author": "NHL",
       "pubDate": "2026-08-03T23:00:06+00:00",
       "link": "https://www.youtube.com/watch?v=Z96MQEpTkQ0"
-    },
-    {
-      "league": "SOCCER",
-      "title": "Is Vini Jr. the MISSING PIECE for Arsenal to win the Champions League? + Infantino &amp; FIFA | ESPN FC",
-      "videoId": "es8MMIX45Mw",
-      "author": "ESPN FC",
-      "pubDate": "2026-08-03T22:57:33+00:00",
-      "link": "https://www.youtube.com/watch?v=es8MMIX45Mw"
-    },
-    {
-      "league": "SOCCER",
-      "title": "Will Newcastle be battling against relegation this season? | ESPN FC Extra Time",
-      "videoId": "aZVa90wPmYs",
-      "author": "ESPN FC",
-      "pubDate": "2026-08-03T22:50:38+00:00",
-      "link": "https://www.youtube.com/watch?v=aZVa90wPmYs"
-    },
-    {
-      "league": "SOCCER",
-      "title": "Gianni Infantino thought he was ‘untouchable’ as FIFA President – Julien Laurens | ESPN FC",
-      "videoId": "vWR5XVF_ig8",
-      "author": "ESPN FC",
-      "pubDate": "2026-08-03T22:19:19+00:00",
-      "link": "https://www.youtube.com/watch?v=vWR5XVF_ig8"
     }
   ]
 }
