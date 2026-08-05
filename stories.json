@@ -1,73 +1,81 @@
 {
   "clusters": [
     {
-      "category": "revenue",
-      "importance": 8,
-      "leadHeadline": "Disney Sells Out 2027 Super Bowl Ad Units at Record Rates, Record Pace",
-      "leadSource": "Sportico · 1h ago",
-      "leadUrl": "https://www.sportico.com/business/media/2026/disney-sells-out-super-bowl-ads-record-rates-record-pace-1234941102/",
-      "summary": "<cite index=\"1-3\">Disney CFO Hugh Johnston announced Wednesday that the company sold out Super Bowl LXI ad inventory</cite>, with <cite index=\"1-4\">58 brands across 34 distinct categories</cite>. <cite index=\"14-2,14-6\">The sellout comes earlier than NBC (September) and Fox (November) managed with their recent broadcasts</cite>.",
-      "article": "<cite index=\"1-3\">Disney CFO Hugh Johnston announced the Super Bowl LXI ad inventory sellout Wednesday during the company's earnings call</cite>. The move caught many observers off guard given early stumbles: <cite index=\"1-7\">just weeks ago, advertisers complained Disney was too aggressive in pricing, seeking as much as $10 million per 30-second spot</cite>. In the end, <cite index=\"1-1\">the bulk of inventory sold for $7 million to $8 million</cite>.\n\n<cite index=\"1-4,1-5\">The deal includes 58 brands across 34 distinct categories—financial services, candy, personal care, software—with nine first-time advertisers</cite>. <cite index=\"13-7\">Johnston told Wall Street that total ad volume commitments rose double digits year-over-year, with sports volume up low teens</cite>.\n\nDisney's completion date ranks earlier than prior broadcasters. <cite index=\"14-2,14-6\">NBC sold out in September, Fox in November</cite>. <cite index=\"12-3,12-4\">The game airs February 14 from SoFi Stadium in Inglewood, marking the Super Bowl's first-ever simulcast on ESPN alongside ABC</cite>.",
-      "tweets": []
-    },
-    {
-      "category": "revenue",
+      "category": "contracts",
       "importance": 7,
-      "leadHeadline": "Tequila Billionaire, LA Investor Part of $1.25B LAFC Sale",
-      "leadSource": "Sportico · 3h ago",
-      "leadUrl": "https://www.sportico.com/business/team-sales/2026/lafc-sale-beckmann-becle-cha-spring-oak-partners-1234941046/",
-      "summary": "Juan Domingo Beckmann Legorreta, CEO and chairman of Becle (owner of Jose Cuervo, 1800 Tequila), has joined LAFC's ownership group as part of a $1.25 billion transaction agreed in 2025, expanding the MLS franchise's investor base.",
-      "article": "Juan Domingo Beckmann Legorreta, the billionaire chairman and CEO of Becle, has acquired a stake in LAFC as part of a $1.25 billion ownership transaction finalized this week, according to sources familiar with the matter. The deal was negotiated and agreed upon in 2025 but completed in the current period.\n\nBecle, a multinational spirits company headquartered in Mexico, manufactures and distributes major tequila brands including Jose Cuervo, 1800, and Maestro Dobel. Legorreta's entry into LAFC ownership marks a continued diversification of MLS franchise capital sources, as billionaire investors from outside traditional North American sports circles increasingly seek stakes in top-tier franchises.\n\nLAFC, owned since 2017 by Chinese conglomerate Wanda Group and U.S.-based investment groups, has become one of MLS's most valuable franchises, valued near $1 billion at its last independent appraisal. The franchise has attracted marquee players and hosted international matches, positioning itself as a gateway for global investment into American soccer.\n\nThe $1.25 billion valuation reflects MLS's evolving economics. Recent expansion franchises have valued entry fees at $500 million or higher, while secondary-market stakes in established clubs like LAFC command eight-figure sums. Legorreta's involvement signals confidence in MLS's long-term media rights and sponsorship trajectory.",
-      "tweets": []
+      "leadHeadline": "Washington Commanders to sign four-time Pro Bowl receiver Stefon Diggs",
+      "leadSource": "The Guardian · 1h ago",
+      "leadUrl": "https://www.theguardian.com/sport/2026/aug/05/stefon-diggs-washington-commanders-contract-nfl-news",
+      "summary": "<cite index=\"2-4\">The Washington Commanders signed Stefon Diggs to a one-year deal worth more than $10 million and up to $12 million</cite>, pairing the four-time Pro Bowl receiver with <cite index=\"2-7\">Terry McLaurin</cite> and quarterback <cite index=\"2-10\">Jayden Daniels</cite>.",
+      "article": "<cite index=\"4-15\">The Washington Commanders signed wide receiver Stefon Diggs to a one-year deal worth up to $12 million</cite>, bolstering a receiving corps that had lacked depth beyond <cite index=\"2-7\">Terry McLaurin</cite>. <cite index=\"2-3\">The Gaithersburg, Maryland native</cite> is <cite index=\"4-1\">joining the Commanders</cite> after <cite index=\"2-5\">playing a key role in New England's turnaround and run to Super Bowl LX last season, catching 85 passes for 1,013 yards and four touchdowns</cite>. <cite index=\"2-6\">The Patriots released him in a cost-saving move at the start of the new league year</cite>. <cite index=\"25-3\">Diggs was intrigued by the chance to play with quarterback Jayden Daniels in Washington</cite>. <cite index=\"25-7,25-8\">Diggs said this offseason that there is no No. 2 wide receiver in the league better than him</cite>. <cite index=\"2-8\">Outside of McLaurin, the next three options on Washington's depth chart entering camp were former first-round pick Treylon Burks, Luke McCaffrey and rookie Antonio Williams</cite>, a gap Diggs immediately fills. <cite index=\"2-10\">Diggs proved in 2025 that the torn ACL that ended his one-year Houston stint would not hold him back</cite>, and <cite index=\"5-11\">after a Boston jury acquitted Diggs in May, the NFL announced in June that it did not have enough evidence to hand down punishment</cite> regarding prior legal matters.",
+      "tweets": [
+        {
+          "url": "https://twitter.com/NFL/status/2085062825748353102",
+          "html": "<blockquote class=\"twitter-tweet\" data-dnt=\"true\" data-theme=\"dark\"><p>Commanders signing WR Stefon Diggs. (via @RapSheet) https://t.co/08NuzCFG8p</p>&mdash; NFL (@NFL) <a href=\"https://twitter.com/NFL/status/2085062825748353102\">August 5, 2026</a></blockquote>",
+          "author_name": "NFL",
+          "author_url": "https://twitter.com/NFL",
+          "dateMs": 1785952690000
+        }
+      ]
     },
     {
-      "category": "revenue",
-      "importance": 7,
-      "leadHeadline": "LIV Golf Announces Deal With Unnamed Lead Investor",
-      "leadSource": "Sportico · 2h ago",
-      "leadUrl": "https://www.sportico.com/leagues/golf/2026/liv-golf-deal-unnamed-lead-investor-1234941084/",
-      "summary": "LIV Golf has secured a deal with a lead investor plus interest from more than a dozen minority partners, addressing the league's capital needs after months of seeking up to $350 million in funding.",
-      "article": "LIV Golf announced Wednesday that it has secured a capital commitment from a lead investor and received interest from more than a dozen minority partners, resolving the league's most pressing financial constraint. The identity of the lead investor and the specific investment amount were not disclosed at announcement.\n\nThe league had been openly seeking capital raises of up to $350 million as it faced mounting operational costs, player payroll obligations, and questions about long-term viability. LIV's brief history has been marked by aggressive spending to recruit PGA Tour stars and compete for viewership, with Saudi Arabia's Public Investment Fund providing initial backing but facing scrutiny in U.S. markets.\n\nThe lead-investor announcement comes as LIV navigates complicated dynamics with the PGA Tour. The two entities have discussed potential mergers or restructuring, but negotiations have stalled on governance and media-rights frameworks. A secured capital base strengthens LIV's negotiating position by demonstrating runway and reducing pressure to accept unfavorable merger terms.\n\nThe league did not specify whether the lead investor is a sovereign fund, private-equity firm, or individual billionaire. Minority partner interest from more than a dozen sources suggests the deal structure may involve a consortium of investors, each taking smaller stakes rather than a single majority owner.\n\nLIV has hosted 14 events across its 2024 and 2025 seasons, with plans to expand to 16 total events by 2026.",
-      "tweets": []
-    },
-    {
-      "category": "media",
+      "category": "leagues",
       "importance": 6,
-      "leadHeadline": "On the Air: How Luke Kuechly can become NFL TV's newest star",
-      "leadSource": "Sports Media Watch · 1h ago",
-      "leadUrl": "https://www.sportsmediawatch.com/2026/08/on-the-air-how-luke-kuechly-can-become-nfl-tvs-newest-star/",
-      "summary": "Luke Kuechly, the former Carolina Panthers linebacker, is joining Netflix as an NFL analyst, positioning himself to establish a media career with the streaming giant's growing sports portfolio.",
-      "article": "Luke Kuechly, a nine-time Pro Bowl linebacker and two-time NFL Defensive Player of the Year, is joining Netflix as an NFL analyst, according to Sports Media Watch. The move marks Netflix's expansion of its sports commentary talent roster as the streaming service prepares to broadcast NFL games under a multi-year rights agreement.\n\nKuechly, 38, retired from the Panthers in 2020 with 1,091 tackles and 21 sacks over 13 seasons. His Hall of Fame resume and reputation for film study position him as credible in the booth, addressing a common skepticism about retired athletes transitioning to broadcast.\n\nNetflix has aggressively invested in live sports content over the past two years, securing NFL playoff games, NBA games, and international soccer matches. Each deal requires broadcast talent, and the company has recruited established names alongside emerging broadcasters. Kuechly's addition fills a defensive analyst role and taps his popularity among younger viewers familiar with his Panthers tenure.\n\nThe hire reflects a broader media trend: star athletes with strong analytical instincts and on-camera comfort command premium slots. Netflix's willingness to deploy former players on major broadcasts signals confidence in their drawing power among casual audiences and deepens the company's ability to compete with traditional ESPN, Fox, and CBS for live-sports viewership.\n\nNetflix's NFL broadcast schedule includes regular-season playoff slots and select regular-season contests beginning in 2026.",
+      "leadHeadline": "Incoming MLS Commissioner Sees 'Uncapped Upside' in Media Rights",
+      "leadSource": "Front Office Sports · 3h ago",
+      "leadUrl": "https://frontofficesports.com/larry-berg-uncapped-upside-mls-media-rights/",
+      "summary": "Incoming MLS Commissioner Larry Berg identified broadcast revenue as the league's biggest weakness, signaling a major push to renegotiate media rights. Berg is also stepping down from his advisory role at Josh Harris' 26North private equity fund as part of the transition.",
+      "article": "Larry Berg, the incoming MLS commissioner, has identified media rights as the league's primary area for growth, calling broadcast revenue the sport's biggest weakness in North America.\n\nBerg's comments come as he formally transitions into the league's top executive role. As part of the appointment, he is vacating his advisory position with 26North, the private equity fund led by Philadelphia 76ers owner Josh Harris, to avoid conflicts of interest. The move underscores how seriously the league views the media-rights negotiations ahead.\n\nMLS is currently midway through its media rights cycle and faces pressure to grow its television footprint and streaming presence. Berg's identification of this as the league's top priority signals that renegotiating deals with current partners and attracting new bidders will be central to his tenure. The league generated roughly $90 million annually from media rights as of last year, a figure well below comparable sports properties.\n\nBerg's background in private equity and sports business gives him leverage in those negotiations, though the MLS media market remains fragmented across ESPN, Apple TV+, and regional broadcasters. His appointment marks a strategic pivot toward making media rights a signature issue for the league's next growth phase.",
       "tweets": []
     },
     {
       "category": "media",
       "importance": 5,
-      "leadHeadline": "Ellison: Paramount should be looked at as a buyer of sports rights",
-      "leadSource": "Sports Media Watch · 1h ago",
-      "leadUrl": "https://www.sportsmediawatch.com/2026/08/ellison-paramount-buyer-sports-rights/",
-      "summary": "Paramount chairman and CEO David Ellison signaled the company intends to be a buyer of sports media rights, positioning Paramount as a key player in the evolving sports broadcasting marketplace alongside Netflix, Amazon, and Apple.",
-      "article": "David Ellison, chairman and CEO of Paramount Global, stated Tuesday that investors should regard the company as an active buyer of sports media rights, signaling strategic intent to compete for live-sports content as traditional broadcasters and streaming platforms battle for inventory.\n\nEllison's remarks come amid industry consolidation and fragmentation. Disney, Fox, and Warner Bros. Discovery have long-standing sports rights across the NFL, NBA, MLB, and NHL. Netflix, Amazon Prime Video, and Apple TV+ have each acquired sports packages in the past 18 months, targeting younger audiences and streaming subscribers.\n\nParamount owns CBS, which holds NFL regular-season and playoff rights, and has a vested interest in sports as core programming. However, the company has faced subscriber losses and needs growth avenues. Ellison's public statement signals that Paramount is prepared to deploy capital for additional sports franchises, whether in soccer, college athletics, international leagues, or premium event programming.\n\nThe sports-rights market is highly competitive and fragmented. Individual leagues now split packages across multiple networks and platforms, allowing buyers to cherry-pick attractive slots rather than committing to exclusive, multi-year bundles. For Paramount, acquiring targeted rights could restore subscriber momentum and stabilize advertising revenue.\n\nNo specific sports acquisitions were announced. Ellison's statement was part of Paramount's earnings call and represented forward guidance rather than a transactional announcement.",
+      "leadHeadline": "Preakness staying with NBC, will move back a week into Sunday slot",
+      "leadSource": "Sports Media Watch · 3h ago",
+      "leadUrl": "https://www.sportsmediawatch.com/2026/08/preakness-nbc-media-rights-extension-moved-back-week-sunday/",
+      "summary": "The Preakness Stakes is shifting its date and moving to Sunday while remaining with NBC as its broadcast partner. The schedule change reflects shifting viewer preferences and race-day logistics.",
+      "article": "The Preakness Stakes will remain with NBC but shift its traditional timing, moving back a week and to a Sunday slot under the new arrangement.\n\nThe change marks a scheduling adjustment for one of horse racing's three jewels, held annually at Pimlico Race Course in Baltimore. By moving to Sunday and pushing the date back a week, the race aims to align with broader television viewing patterns and accommodate NBC's programming schedule.\n\nThe shift keeps the relationship between the Preakness and its longtime broadcast home intact, avoiding the disruption of a media-rights change. NBC has carried the race for decades and continues as the exclusive U.S. television partner. The new timing opens the race to Sunday afternoon viewership, potentially broadening its reach beyond traditional racing audiences.\n\nFor NBC, the Preakness remains a signature sports property that anchors its sports division calendar. The Kentucky Derby (also NBC) and Belmont Stakes complete racing's Triple Crown, and the Preakness' repositioned slot should slot smoothly into network scheduling across the spring.",
       "tweets": []
     },
     {
-      "category": "contracts",
+      "category": "labor",
+      "importance": 5,
+      "leadHeadline": "Feds Say Rozier Friend Threatening Witnesses in NBA Gambling Case",
+      "leadSource": "Front Office Sports · 3h ago",
+      "leadUrl": "https://frontofficesports.com/terry-rozier-deniro-laster-tampering/",
+      "summary": "Federal prosecutors are seeking to revoke the bond of De'Niro Laster, Terry Rozier's alleged co-conspirator, accusing him of witness tampering via social media. Laster faces charges related to an ongoing NBA gambling investigation.",
+      "article": "Federal prosecutors are seeking to revoke the bond of De'Niro Laster, a co-defendant in the Terry Rozier NBA gambling case, after accusing him of repeatedly attempting to intimidate witnesses on social media.\n\nThe witness-tampering allegations represent a significant development in the case against Rozier, the NBA player facing charges in connection with an illegal gambling operation. Laster, identified as a close associate of Rozier, has allegedly used social media to threaten and discourage witnesses from cooperating with federal investigators.\n\nProsecutors filed a motion to revoke Laster's bond, arguing his conduct violates the conditions of his release and poses an ongoing threat to the integrity of the investigation. The specific instances of intimidation and the platforms used were detailed in court filings reviewed by multiple outlets.\n\nThe escalation pressures Rozier's legal situation as well. The case has drawn scrutiny from the NBA, which cleared Rozier to play pending trial but has signaled it will monitor the matter closely. Witness tampering adds obstruction charges that could lengthen Laster's exposure and complicate plea negotiations. The case remains one of the most serious gambling-related investigations involving an active NBA player in recent years.",
+      "tweets": []
+    },
+    {
+      "category": "media",
       "importance": 4,
-      "leadHeadline": "Nike unveils Kobe 5 Protro and Air Force 1 Protro Dodgers collaboration with August release dates",
+      "leadHeadline": "Chiefs coach Andy Reid responds to Travis Kelce dad body worries",
       "leadSource": "NY Post Sports · just now",
-      "leadUrl": "https://nypost.com/2026/08/05/sports/nike-officially-unveils-kobe-5-protro-and-air-force-1-protro-dodgers-collaboration-with-august-release-dates/",
-      "summary": "Nike has released the Kobe 5 Protro and Air Force 1 Protro in Dodgers-inspired colorways featuring baseball stitching, with an August launch tied to the Mamba Invitational.",
-      "article": "Nike unveiled new colorways of the Kobe 5 Protro and Air Force 1 Protro inspired by Kobe Bryant's connection to the Los Angeles Dodgers, the company announced Wednesday. Both shoes feature Dodgers-inspired colorways and baseball stitching details, reflecting Bryant's lifelong passion for baseball and the franchise.\n\nThe Kobe 5 Protro is a re-engineered version of the signature sneaker Bryant wore during his final MVP seasons. The Air Force 1 Protro represents Nike's modernization of its classic silhouette. Both releases will debut in August, timed with the Mamba Invitational, an annual basketball tournament hosted in Los Angeles in Bryant's honor.\n\nNike has extended Bryant's commercial footprint well beyond his 2020 death through strategic seasonal releases of retro and modernized Kobe silhouettes. The Dodgers collaboration taps dual fanbases: basketball sneaker collectors and Los Angeles sports enthusiasts. Bryant was a passionate Dodgers fan who attended games frequently and maintained friendships with players and front-office staff.\n\nPricing and specific release dates within August were not announced. The Mamba Invitational, which draws elite high school and college talent, provides a high-profile venue for the shoe launches and aligns product timing with basketball's offseason attention.",
+      "leadUrl": "https://nypost.com/2026/08/05/sports/andy-reid-responds-to-travis-kelce-dad-body-worries/",
+      "summary": "Andy Reid denied that Travis Kelce has lost conditioning, responding to an AI-generated viral video that showed the tight end appearing overweight. Kelce is heading into training camp with the Chiefs.",
+      "article": "Andy Reid addressed concerns about Travis Kelce's conditioning after a viral AI-generated video suggested the tight end had gained weight during the offseason.\n\nThe video, which circulated on social media, depicted Kelce with a noticeably heavier frame, prompting some fan speculation about his readiness for the 2026 season. Reid's response was direct: Kelce does not have a conditioning issue and the video was not reflective of the player's actual physical state.\n\nKelce, 36, has finished his first offseason after marrying Taylor Swift in 2025 and remains one of the NFL's premier tight ends despite his advancing age. Reid's comment came as the Chiefs prepared to begin training camp activities.\n\nThe incident highlights how viral content, particularly AI-generated imagery, can fuel ungrounded narratives around star players during the offseason. Kelce's conditioning has never been a significant concern during his career, and Reid's public reassurance was likely meant to quell the chatter before camp officially opens. The tight end remains a cornerstone of Kansas City's offense.",
       "tweets": []
     },
     {
       "category": "leagues",
       "importance": 3,
-      "leadHeadline": "India Is Stealing Cricket's Throne From England and Australia",
-      "leadSource": "Front Office Sports · 6h ago",
-      "leadUrl": "https://frontofficesports.com/india-is-usurping-crickets-throne-from-england-and-australia/",
-      "summary": "India's growing appetite for cricket and commercial dominance is shifting global power away from traditional cricket strongholds in England and Australia, reshaping the sport's economic landscape.",
-      "article": "India's economic and cultural dominance in cricket is reshaping the sport's global hierarchy, according to Front Office Sports analysis. Historically, England and Australia set cricket's tone and controlled its commercial levers. Today, the Indian Premier League, the Board of Control for Cricket in India's sponsorship portfolio, and Indian broadcast audiences collectively outweigh established cricket powers.\n\nThe Indian Premier League generates more revenue per game than any other domestic cricket league. Sponsorship rates for Indian national-team broadcasts command premiums reflecting India's 1.4 billion population and cricket's status as the sport's primary entertainment. Media-rights packages in India fetch higher per-year fees than equivalent English or Australian rights.\n\nThis shift accelerates due to digital penetration. Young Indian audiences consume cricket via streaming apps at rates far exceeding traditional broadcast in Australia or England. That audience density makes India the primary target for ICC tournament broadcasts and sponsorship sales, fundamentally altering league and tournament scheduling.\n\nFor England and Australia, cricket remains culturally significant but commercially secondary. Their national teams play fewer matches than India and cannot command equivalent sponsorship rates. The counties and Australian state competitions operate on tighter budgets, dependent on broadcast revenue from India-centric tournaments.\n\nThe structural change has implications for international cricket governance. The ICC and bilateral tour schedules increasingly accommodate Indian preferences rather than English or Australian cricket calendars.",
+      "leadHeadline": "Seattle Sounders, Reign Exec Weber Named Edmonton Oilers CEO",
+      "leadSource": "Sportico · 2h ago",
+      "leadUrl": "https://www.sportico.com/personalities/executives/2026/edmonton-oilers-ceo-hugh-weber-1234941119/",
+      "summary": "Hugh Weber, president of business operations for Seattle's MLS and NWSL teams, is leaving to become CEO of the Edmonton Oilers. Weber brings 25+ years of sports industry experience across the NBA and NHL.",
+      "article": "Hugh Weber, the president of business operations for both the Seattle Sounders and Seattle Reign, is departing to become the new CEO of the Edmonton Oilers in the NHL.\n\nWeber, a 25-year veteran of the sports industry, has held executive roles across multiple leagues and organizations, including prior positions in the NBA. His appointment to the Oilers represents a significant hire for the Alberta-based franchise, which is searching for leadership as the organization continues its rebuild around young core players like Connor McDavid.\n\nWeber's tenure with Seattle's sports properties has included oversight of revenue generation, sponsorship, and operational strategy for both the MLS club and the NWSL team. His departure opens leadership gaps at two of MLS's most prominent franchises in the Pacific Northwest.\n\nThe hire underscores Edmonton's intent to strengthen its front-office infrastructure after a challenging stretch. Weber's background in both MLS and NBA operations positions him to bring best practices from multiple leagues to the Oilers' business side. His start date and the scope of his mandate over hockey operations versus business operations remained unclear as of the announcement.",
+      "tweets": []
+    },
+    {
+      "category": "media",
+      "importance": 2,
+      "leadHeadline": "Disney Sells Out 2027 Super Bowl Ad Units at Record Rates, Record Pace",
+      "leadSource": "Sports Media Watch · 4h ago",
+      "leadUrl": "https://www.sportico.com/business/media/2026/disney-sells-out-super-bowl-ads-record-rates-record-pace-1234941102/",
+      "summary": "Disney has sold all available commercial inventory for Super Bowl LXI on ABC/ESPN by the midway point of Q3, the earliest lockdown of ad units by any network in Super Bowl history. The early sell-out reflects strong advertiser demand.",
+      "article": "The Walt Disney Company announced it has sold out all remaining commercial inventory for Super Bowl LXI, scheduled for February 2027 on ABC and ESPN, the earliest point in a broadcast cycle at which a network has locked down its complete ad slate.\n\nDisney CFO Hugh Glassman disclosed the development during the company's third-quarter earnings call, highlighting robust advertiser appetite for the sport's most premium media property. Super Bowl ads command rates typically exceeding $7 million per 30-second spot, and the full sell-out at this stage suggests confidence from major brands in their 2027 marketing budgets.\n\nThe record pace reflects ongoing strength in the Super Bowl's advertising market despite broader economic uncertainty. Networks have historically reserved inventory until closer to game day to maximize pricing power; Disney's willingness to lock in early indicates both strong demand and a strategic confidence in maintaining premium rates.\n\nSuper Bowl LXI will be the second Super Bowl under Disney's broadcast tenure. The network's early sell-out also mirrors advertiser behavior in recent years as brands compete harder for the finite number of spots available on the sport's single largest television event.",
       "tweets": []
     }
   ],
@@ -2393,83 +2401,96 @@
   },
   "deals": [
     {
-      "type": "acquisition",
-      "parties": "LAFC ⇄ Becle (Juan Domingo Beckmann Legorreta)",
-      "value_usd": 1250000000,
+      "type": "extension",
+      "parties": "Washington Commanders ⇄ Stefon Diggs",
+      "value_usd": 12000000,
       "term_years": null,
-      "league": "MLS",
-      "headline": "Tequila billionaire acquires stake in LAFC as part of $1.25B transaction",
-      "storyIndex": 17,
-      "blurb": "Becle CEO and chairman Juan Domingo Beckmann Legorreta joins LAFC ownership in $1.25B deal agreed in 2025.",
-      "capturedAt": "2026-08-05T16:27:35.540Z"
+      "league": "NFL",
+      "headline": "Commanders sign Stefon Diggs to deal worth up to $12M",
+      "storyIndex": 11,
+      "blurb": "Diggs joins Washington on veteran deal, pairing with Jayden Daniels and Terry McLaurin.",
+      "capturedAt": "2026-08-05T20:21:30.010Z"
     }
   ],
   "ratings": [],
   "ticket_prices": [],
   "sidebar": [
     {
-      "headline": "How the ABA changed basketball forever: Dr J, George Gervin and the league that dared to be different",
-      "source": "The Guardian · 7h ago",
-      "article": "Fifty years after the ABA-NBA merger, The Guardian revisits how the defunct American Basketball Association revolutionized professional basketball through swagger, innovation, and unorthodox style. George Gervin, Ralph Simpson, and other ABA alumni reflect on a league that introduced the three-point line, the slam-dunk contest, and a fast-paced, high-scoring aesthetic that ultimately forced the NBA to adapt.\n\nThe ABA's influence extends beyond on-court innovation. The merger itself reshaped franchise economics, player compensation, and the league's commercial strategy. Stars like Julius Erving brought crossover appeal to basketball and proved the sport could thrive on flamboyance and artistry alongside fundamental play.\n\nThe documentary-style piece serves as both nostalgia and historical corrective, positioning the ABA not as a failed competitor but as the sport's most important developmental league, one whose cultural DNA remains embedded in how basketball is played and marketed today."
-    },
-    {
-      "headline": "Key questions as Infantino faces Fifa executives",
-      "source": "BBC Sport · 6h ago",
-      "article": "Gianni Infantino will face senior leaders of FIFA's executive committee on Wednesday as the organization grapples with governance challenges and leadership questions. The BBC outlines key issues likely to surface: Infantino's re-election prospects, accusations of improper influence in World Cup hosting decisions, and ongoing criticism of FIFA's financial transparency.\n\nInfantino has led FIFA since 2016 and overseen the 2022 Qatar World Cup, which became the most expensive and most-scrutinized championship in tournament history. Recent investigations have questioned how hosting decisions were made and whether proper governance protocols were followed.\n\nThe executive session represents a critical moment for FIFA's institutional health. Infantino's leadership faces pressure from national federations, sponsors, and media scrutiny over how the organization allocates revenue and manages competitive integrity."
-    },
-    {
       "headline": "Game, set, Chat: how tennis players use AI to scout opponents and run their lives",
-      "source": "The Guardian · 4h ago",
-      "article": "Elite tennis players are increasingly relying on generative AI tools, particularly ChatGPT, to handle routine administrative tasks, analyze opponent data, and optimize training regimens. Emma Raducanu, among other top players, has embraced AI for granular life management, from dietary planning to match preparation.\n\nThe Guardian explores a generational divide in how players view AI's impact on the sport. Younger athletes often see AI as a performance multiplier; older players worry about whether outsourcing strategic thinking to algorithms diminishes the human element that has historically defined tennis.\n\nAI's role in scouting and opponent analysis is particularly contentious. Detailed video and statistical analysis, once the domain of expensive coaching staffs, is now accessible to any player with a subscription, potentially leveling the field between well-funded and under-resourced academies."
+      "source": "The Guardian · 8h ago",
+      "article": "Emma Raducanu finds herself reaching for ChatGPT for nearly every decision, from match prep to daily logistics, and she's far from alone among professional tennis players. The emergence of generative AI has sparked a generational divide in the sport, with stars conflicted about its long-term impact on competition and skill development.\n\nRaducanu uses ChatGPT extensively for opponent analysis, training regimen tweaks, and personal scheduling, reflecting a broader trend across the WTA and ATP Tours. Younger players have embraced AI scouting tools that aggregate opponent data, serve patterns, and court tendencies in ways that were previously available only through dedicated coaching staffs.\n\nBut the technology raises questions about competitive equity. Players with access to premium AI services and dedicated tech infrastructure gain analytical edges that lower-ranked or less-resourced players cannot match. Some veteran players have expressed concern that AI-generated tactical insights diminish the intuitive, creative elements that have long defined tennis strategy.\n\nThe ATP and WTA have not yet imposed restrictions on AI use during matches or in preparation, leaving adoption to individual discretion. As AI integration deepens, expect pushback from traditionalists and calls for league-wide guidelines."
     },
     {
-      "headline": "Celtic boss O'Neill in hospital after 'small procedure'",
+      "headline": "Newcastle appoint Jaissle – what should fans expect?",
+      "source": "BBC Sport · 2h ago",
+      "article": "Newcastle United has appointed 38-year-old German manager Matthias Jaissle to replace departing coach Eddie Howe, signaling a shift in tactical philosophy and club direction. Jaissle arrives with a reputation for high-intensity, possession-heavy football and strong recruitment acumen developed during stints in the Austrian and German leagues.\n\nThe appointment comes after months of speculation about Howe's future and represents Newcastle's most significant managerial change since their Saudi Public Investment Fund takeover reshaped the club's ambitions. Jaissle's track record suggests Newcastle will prioritize buildup play and midfield control over the direct, counter-attacking style Howe favored.\n\nNewcastle fans should expect a transition period as the squad adapts to new systems and pressing triggers. Jaissle's defensive organization is considered among the league's most disciplined, though early-season results may dip as players internalize his methods. His proven ability to develop young talent also signals that the club's investment in academy prospects will accelerate."
+    },
+    {
+      "headline": "How Buttler became T20 cricket's run-scoring GOAT",
       "source": "BBC Sport · 1h ago",
-      "article": "Celtic manager Martin O'Neill remains hospitalized after undergoing a \"small procedure\" Wednesday, the Scottish Premiership club confirmed. The nature and timing of the procedure were not disclosed, though the club characterized it as minor and routine.\n\nO'Neill, 76, has managed Celtic since 2023 and has guided the franchise to domestic cup finals and European qualification. The club did not provide a timeline for his return to training or match-day duties. Assistant manager John Kennedy will assume temporary responsibilities during O'Neill's recovery.\n\nNo further details were released, and Celtic requested privacy regarding O'Neill's medical status."
+      "article": "Jos Buttler has become men's T20 cricket's all-time leading run-scorer, cementing a legacy that combines explosive batting power with rare consistency across a decade-plus of international and franchise competition. Buttler's ascent to the top of the all-time T20 charts reflects both personal excellence and his willingness to evolve as the format's boundaries have shifted.\n\nThe England wicketkeeper-batter surpassed previous record-holders through relentless accumulation: every match, every series, incremental progress that few others have matched in a format designed to reward explosive one-day performances. Buttler's career average across T20 Internationals remains among the league's best, a rare combination of volume and efficiency.\n\nHis path to the record was contested by rivals like Aaron Finch and Virat Kohli, but Buttler's longevity in the format and his role as an anchor for England's T20 side gave him more opportunities than peers. The achievement underscores how T20 cricket, despite its reputation as anarchic entertainment, rewards patience and tactical intelligence as much as raw power."
     },
     {
-      "headline": "The new kid at school: Deadline adds getting settled with Blue Jays",
-      "source": "Sportsnet · 12h ago",
-      "article": "The Toronto Blue Jays acquired four players at the deadline, and all are now in the midst of integration into the roster and clubhouse. Sportsnet's Shi Davidi profiled each newcomer: their background, why Toronto targeted them, and how they're adjusting to their new team.\n\nDeadline acquisitions often face a compressed onboarding period. Players join mid-season, having spent months with different organizations, and must immediately contribute while learning new teammates' habits and coaching staff expectations. The Blue Jays' four new arrivals are working through this typical transition.\n\nFor the Blue Jays' front office, deadline additions represent a bet on fit and performance chemistry. Each player was evaluated not just for individual talent but for how they complement Toronto's existing core and contribute to a late-season push toward playoff positioning."
+      "headline": "WNBA Rookie Rankings: Sydney Taylor climbs to No. 2 after game-winner over Aces, Olivia Miles widens the gap",
+      "source": "CBS Sports · just now",
+      "article": "Sydney Taylor's game-winning shot against the Aces catapulted her into No. 2 in the 2026 WNBA rookie rankings, narrowing the gap between her and the leading contender. The clutch moment underscored Taylor's readiness for playoff-level pressure and elevated her profile within a tight rookie class.\n\nOlivia Miles continues to widen her lead at the top, though the margin has narrowed as other rookies gain traction. Taylor's ascent reflects both her shooting ability and her game management in high-leverage situations, a rare combination at the professional level this early in a career.\n\nPauline Astier is making her triumphant return from injury, adding depth to a rookie class that has supplied consistent contributions across multiple franchises. The WNBA's 2026 draft class is already on pace to match the impact of previous generations, with multiple lottery picks delivering immediate value and postseason viability for their teams."
     },
     {
-      "headline": "Keith Hernandez calls traded Mets players garbage — immediately regrets it",
-      "source": "NY Post Sports · just now",
-      "article": "Hall of Famer Keith Hernandez, now a Mets broadcaster, spoke critically of Mets players traded away at the deadline Tuesday night, calling them \"garbage,\" then immediately expressed regret for the inflammatory language.\n\nHernandez's candid reaction reflects the Mets' difficult offseason dynamics. The franchise made significant roster moves, trading away players some fans and analysts believe were undervalued or prematurely disposed of. Hernandez, a Mets icon who played for the franchise in the 1980s, carries weight when he criticizes the organization's direction.\n\nPublic statements by broadcasters and analysts often walk a thin line between honest criticism and loyalty to the organization paying them. Hernandez's immediate regret suggests he recognized the comment crossed that line, illustrating the tension between candid analysis and professional relationships in sports media."
+      "headline": "NHL off-season grades: Central Division",
+      "source": "Sportsnet · 4h ago",
+      "article": "The NHL's Central Division teams are receiving early report card grades as the league evaluates offseason moves ahead of training camp. Teams like Dallas, Colorado, and St. Louis have made notable acquisitions and extensions that reshape their competitive windows.\n\nGraders have emphasized the trades and free-agent signings that either bolster playoff rosters or signal long-term rebuild commitments. The Central remains one of the league's deepest and most unpredictable divisions, with no clear favorite despite the presence of perennial contenders.\n\nEvaluators will focus on how young talent integrates into veteran lineups and whether depth pieces acquired in trades produce sufficient playoff differentiation. The division's offseason activity suggests most teams believe they remain viable playoff contenders, creating potential logjams in the final playoff race."
+    },
+    {
+      "headline": "On the Air: How Luke Kuechly can become NFL TV's newest star",
+      "source": "Sports Media Watch · 4h ago",
+      "article": "Luke Kuechly's addition to Netflix's NFL broadcast booth signals the streaming giant's intent to pair legendary on-field talent with next-generation production values. The former Panthers linebacker brings instant credibility and a reputation for tactical clarity that resonates with both hardcore fans and casual viewers.\n\nKuechly's path to broadcasting differs from traditional network analysts, who typically spend years in radio or cable before major platforms grant primetime roles. Netflix's approach, by contrast, emphasizes fresh personalities and multimedia integration that traditional broadcasts have been slower to adopt.\n\nFor Kuechly, the Netflix role offers creative freedom and the opportunity to build an audience from scratch rather than inherit an established analyst slot. His challenge will be translating his on-field intelligence into commentary that educates viewers without overwhelming them. Early indications suggest he's ready for the platform and the audience is receptive to his voice."
     }
   ],
   "poll": {
-    "question": "Which storyline will have the biggest impact on U.S. sports by year-end?",
+    "question": "Will the Commanders' addition of Stefon Diggs elevate them to Super Bowl contenders in 2026?",
     "options": [
-      "LIV Golf's new capital secures long-term viability and accelerates PGA Tour merger talks",
-      "Netflix and streaming platforms shift the balance of sports media rights pricing and packaging",
-      "MLS franchises like LAFC attract billionaire international investors and reshape league economics",
-      "Indian cricket's commercial dominance reshapes ICC tournament scheduling and international cricket"
+      "Yes, the receiver trio is elite and will carry them deep",
+      "Maybe, but they need more O-line and pass-rush help",
+      "No, one receiver doesn't solve systemic issues",
+      "Too early to tell without training camp and preseason"
     ]
   },
   "predictions": [
     {
-      "statement": "Disney's Super Bowl LXI ad inventory sellout will yield record 30-second spot rates exceeding $8 million.",
-      "probability": 72,
-      "rationale": "Record-pace sellouts historically correlate with premium pricing, and advertiser demand for Super Bowl inventory remains inelastic. Disney's earnings-call tone suggests confidence in pricing power. Risk: economic slowdown or advertiser budget constraints."
+      "statement": "MLS media rights will increase by at least 50% in the next negotiation cycle under Larry Berg's leadership.",
+      "probability": 62,
+      "rationale": "Berg's explicit focus on media rights as the league's biggest weakness and his private equity background suggest aggressive strategy. However, the fragmented nature of the current broadcast landscape and modest viewership numbers relative to other major leagues temper upside. A 50% increase would still leave MLS below parity with comparable properties."
     },
     {
-      "statement": "LIV Golf will announce the identity of its lead investor within 90 days and secure additional minority capital.",
-      "probability": 58,
-      "rationale": "The league disclosed partner interest but withheld names, a common sequencing when NDAs govern announcement timing. Lead investors often request brief windows before public disclosure. Risk: deal mechanics or regulatory issues may delay announcement."
+      "statement": "Hugh Weber's departure will lead to significant front-office turnover in Seattle's sports operations.",
+      "probability": 38,
+      "rationale": "Weber's role was influential but not universally visible to fans. Turnover depends more on MLS and NWSL ownership decisions and market dynamics. Seattle's ownership has generally maintained stability in key roles, suggesting his replacement will be hired without major reshuffling."
     },
     {
-      "statement": "Paramount will acquire at least one significant sports media package (soccer, college, or international) before Q4 2026.",
+      "statement": "De'Niro Laster's bond will be revoked before the Rozier case reaches trial.",
+      "probability": 71,
+      "rationale": "Witness tampering via social media is comparatively straightforward to prove, and prosecutors have made documented claims of intimidation. Courts typically take witness tampering seriously and Laster's alleged conduct while released represents a clear violation of bond conditions."
+    },
+    {
+      "statement": "The Preakness' Sunday move will increase viewership by double digits compared to its prior May date.",
       "probability": 45,
-      "rationale": "Ellison's public commitment signals capital readiness, but Paramount's recent subscriber losses and debt levels constrain deployment capacity. Sports rights command premium prices, and competition from Netflix, Amazon, and Apple remains intense. Risk: Paramount prioritizes debt reduction over new spending."
-    },
-    {
-      "statement": "Luke Kuechly becomes a recurring Netflix analyst and a recognizable voice in NFL broadcast commentary within two seasons.",
-      "probability": 68,
-      "rationale": "Kuechly's Hall of Fame resume, analytical credibility, and comfort on camera position him well. Netflix's investment in sports talent suggests long-term commitment to his development. Risk: off-camera awkwardness or low audience engagement could limit his role."
+      "rationale": "Sunday racing reaches broader audiences than weekday slots, but horse racing's overall audience has declined for years. While the move is strategically sound, capturing net new viewers rather than shifting existing ones is uncertain."
     }
   ],
-  "injuries": [],
+  "injuries": [
+    {
+      "player": "Pauline Astier",
+      "team": "WNBA",
+      "league": "WNBA",
+      "position": "",
+      "status": "RETURNING",
+      "injury": "Unspecified injury",
+      "timeline": null,
+      "source": "CBS Sports",
+      "impact": "Astier's return from injury adds depth and reliability to her team's roster as the season progresses.",
+      "storyIndex": 13
+    }
+  ],
   "picks": [
     {
       "type": "moneyline",
@@ -2523,7 +2544,8 @@
         },
         "awayTeam": "Toronto Blue Jays",
         "homeTeam": "Houston Astros"
-      }
+      },
+      "_pendingGrade": true
     },
     {
       "type": "moneyline",
@@ -2577,7 +2599,8 @@
         },
         "awayTeam": "Los Angeles Dodgers",
         "homeTeam": "Chicago Cubs"
-      }
+      },
+      "_pendingGrade": true
     },
     {
       "type": "moneyline",
@@ -6113,48 +6136,156 @@
         "homeTeam": "Switzerland"
       },
       "_pendingGrade": true
+    },
+    {
+      "type": "spread",
+      "pick": "Texas Rangers -5",
+      "odds": "-143",
+      "edge": "Market fill from live lines: the books lay -5 with Texas Rangers at -143 (best @ BetRivers). No researched edge — a low-confidence market-consensus play so this sport isn't empty today.",
+      "matchup": "San Francisco Giants @ Texas Rangers",
+      "league": "MLB",
+      "when": "Today 2:36 PM ET",
+      "confidence": "low",
+      "_autofill": true,
+      "_scheduledTs": 1785954960000,
+      "marketSnapshot": {
+        "capturedAt": "2026-08-05T20:21:57.638Z",
+        "markets": {
+          "h2h": {
+            "away": {
+              "price": 3600,
+              "book": "FanDuel"
+            },
+            "home": {
+              "price": -6000,
+              "book": "FanDuel"
+            },
+            "draw": null
+          },
+          "spreads": {
+            "away": {
+              "point": 5.5,
+              "price": -166,
+              "book": "DraftKings"
+            },
+            "home": {
+              "point": -5,
+              "price": -143,
+              "book": "BetRivers"
+            }
+          },
+          "totals": {
+            "over": {
+              "point": 7.5,
+              "price": 102,
+              "book": "DraftKings"
+            },
+            "under": {
+              "point": 7.5,
+              "price": -120,
+              "book": "Bovada"
+            }
+          }
+        },
+        "awayTeam": "San Francisco Giants",
+        "homeTeam": "Texas Rangers"
+      }
+    },
+    {
+      "type": "spread",
+      "pick": "Tampa Bay Rays -2.5",
+      "odds": "102",
+      "edge": "Market fill from live lines: the books lay -2.5 with Tampa Bay Rays at 102 (best @ FanDuel). No researched edge — a low-confidence market-consensus play so this sport isn't empty today.",
+      "matchup": "Tampa Bay Rays @ Colorado Rockies",
+      "league": "MLB",
+      "when": "Today 3:11 PM ET",
+      "confidence": "low",
+      "_autofill": true,
+      "_scheduledTs": 1785957060000,
+      "marketSnapshot": {
+        "capturedAt": "2026-08-05T20:21:57.639Z",
+        "markets": {
+          "h2h": {
+            "away": {
+              "price": -260,
+              "book": "FanDuel"
+            },
+            "home": {
+              "price": 315,
+              "book": "MyBookie.ag"
+            },
+            "draw": null
+          },
+          "spreads": {
+            "away": {
+              "point": -2.5,
+              "price": 102,
+              "book": "FanDuel"
+            },
+            "home": {
+              "point": 3.5,
+              "price": -143,
+              "book": "MyBookie.ag"
+            }
+          },
+          "totals": {
+            "over": {
+              "point": 10,
+              "price": -111,
+              "book": "MyBookie.ag"
+            },
+            "under": {
+              "point": 10.5,
+              "price": -105,
+              "book": "Bovada"
+            }
+          }
+        },
+        "awayTeam": "Tampa Bay Rays",
+        "homeTeam": "Colorado Rockies"
+      }
     }
   ],
-  "updatedAt": "2026-04-23T18:45:00Z",
+  "updatedAt": "2026-04-23T12:47:00Z",
   "highlights": [
     {
       "league": "NBA",
-      "title": "Anthony Edwards Giving Out his Jersey to Fans Throughout the Season",
-      "videoId": "EMmC9XMN7TY",
-      "thumbnail": "https://img.youtube.com/vi/EMmC9XMN7TY/mqdefault.jpg",
-      "timeAgo": "1h ago",
+      "title": "Dylan Harper and his Facial Expressions/Reactions throughout his rookie season",
+      "videoId": "8OzphG5LGFM",
+      "thumbnail": "https://img.youtube.com/vi/8OzphG5LGFM/mqdefault.jpg",
+      "timeAgo": "2h ago",
       "isFallback": false
     },
     {
       "league": "NFL",
-      "title": "Do the Chiefs have something to prove next season? 👀",
-      "videoId": "2ESdh4YdMS8",
-      "thumbnail": "https://img.youtube.com/vi/2ESdh4YdMS8/mqdefault.jpg",
-      "timeAgo": "Just now",
+      "title": "Stefon Diggs is set to sign a one-year deal worth up to $12 million with the Commanders 🏈",
+      "videoId": "y3h8kACuwcM",
+      "thumbnail": "https://img.youtube.com/vi/y3h8kACuwcM/mqdefault.jpg",
+      "timeAgo": "2h ago",
       "isFallback": false
     },
     {
       "league": "MLB",
-      "title": "The Red Sox are RED HOT 🔥 Best moments from their 24-3 RUN! | MLB Highlights",
-      "videoId": "XvpDOL2soGE",
-      "thumbnail": "https://img.youtube.com/vi/XvpDOL2soGE/mqdefault.jpg",
+      "title": "Junior Caminero sends one 449 FEET to extend the Rays lead 😱 | MLB Highlights",
+      "videoId": "eg2Pmm8jK_Q",
+      "thumbnail": "https://img.youtube.com/vi/eg2Pmm8jK_Q/mqdefault.jpg",
       "timeAgo": "Just now",
       "isFallback": false
     },
     {
       "league": "NHL",
-      "title": "EVERY GOAL Scored Last Season by the 2026-27 Carolina Hurricanes Roster",
-      "videoId": "QVKorAJkwRc",
-      "thumbnail": "https://img.youtube.com/vi/QVKorAJkwRc/mqdefault.jpg",
+      "title": "Harvard ➡️ BC Connection",
+      "videoId": "xBtAScZliVg",
+      "thumbnail": "https://img.youtube.com/vi/xBtAScZliVg/mqdefault.jpg",
       "timeAgo": "2h ago",
       "isFallback": false
     },
     {
       "league": "WNBA",
-      "title": "Toronto Tempo vs. Golden State Valkyries | August 4, 2026",
-      "videoId": "GuBBEFjoDw8",
-      "thumbnail": "https://img.youtube.com/vi/GuBBEFjoDw8/mqdefault.jpg",
-      "timeAgo": "12h ago",
+      "title": "July Rookie of the Month: Olivia Miles",
+      "videoId": "CxlYoV5cTcQ",
+      "thumbnail": "https://img.youtube.com/vi/CxlYoV5cTcQ/mqdefault.jpg",
+      "timeAgo": "3h ago",
       "isFallback": false
     },
     {
@@ -6162,18 +6293,210 @@
       "title": "Footie at a wedding 👰‍♀️ 🤷‍♀️(via razzaroberts/IG)",
       "videoId": "nOM4n8Loogs",
       "thumbnail": "https://img.youtube.com/vi/nOM4n8Loogs/mqdefault.jpg",
-      "timeAgo": "1h ago",
+      "timeAgo": "5h ago",
       "isFallback": false
     }
   ],
   "reels": [
     {
       "league": "MLB",
-      "title": "The Red Sox are RED HOT 🔥 Best moments from their 24-3 RUN! | MLB Highlights",
-      "videoId": "XvpDOL2soGE",
+      "title": "Junior Caminero sends one 449 FEET to extend the Rays lead 😱 | MLB Highlights",
+      "videoId": "eg2Pmm8jK_Q",
       "author": "MLB",
-      "pubDate": "2026-08-05T16:22:17+00:00",
-      "link": "https://www.youtube.com/watch?v=XvpDOL2soGE"
+      "pubDate": "2026-08-05T20:07:16+00:00",
+      "link": "https://www.youtube.com/watch?v=eg2Pmm8jK_Q"
+    },
+    {
+      "league": "MLB",
+      "title": "The potential pump-up speech to Shohei before he went deep 🤣",
+      "videoId": "a1xy5TBsgoM",
+      "author": "MLB",
+      "pubDate": "2026-08-05T19:55:10+00:00",
+      "link": "https://www.youtube.com/watch?v=a1xy5TBsgoM"
+    },
+    {
+      "league": "MLB",
+      "title": "Pete Crow-Armstrong goes deep AGAIN 🤯 (This time off the scoreboard!) | MLB Highlights",
+      "videoId": "p_MZGbFiRF4",
+      "author": "MLB",
+      "pubDate": "2026-08-05T19:47:44+00:00",
+      "link": "https://www.youtube.com/watch?v=p_MZGbFiRF4"
+    },
+    {
+      "league": "MLB",
+      "title": "Shohei Ohtani gives Shota Imanaga a look after the first pitch 🤣",
+      "videoId": "rWGs-u_MwM8",
+      "author": "MLB",
+      "pubDate": "2026-08-05T19:02:22+00:00",
+      "link": "https://www.youtube.com/watch?v=rWGs-u_MwM8"
+    },
+    {
+      "league": "MLB",
+      "title": "Shohei Ohtani rockets a leadoff homer for the Dodgers at Wrigley 🚀",
+      "videoId": "uEljIZwxMDo",
+      "author": "MLB",
+      "pubDate": "2026-08-05T18:47:58+00:00",
+      "link": "https://www.youtube.com/watch?v=uEljIZwxMDo"
+    },
+    {
+      "league": "NFL",
+      "title": "Stefon Diggs is set to sign a one-year deal worth up to $12 million with the Commanders 🏈",
+      "videoId": "y3h8kACuwcM",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-08-05T18:44:24+00:00",
+      "link": "https://www.youtube.com/watch?v=y3h8kACuwcM"
+    },
+    {
+      "league": "NBA",
+      "title": "Dylan Harper and his Facial Expressions/Reactions throughout his rookie season",
+      "videoId": "8OzphG5LGFM",
+      "author": "NBA",
+      "pubDate": "2026-08-05T18:44:15+00:00",
+      "link": "https://www.youtube.com/watch?v=8OzphG5LGFM"
+    },
+    {
+      "league": "MLB",
+      "title": "Pete Crow Armstrong matches Shohei Ohtani with a leadoff homer of his own in Dodgers-Cubs! 💪",
+      "videoId": "DgtKFlwhZzY",
+      "author": "MLB",
+      "pubDate": "2026-08-05T18:41:18+00:00",
+      "link": "https://www.youtube.com/watch?v=DgtKFlwhZzY"
+    },
+    {
+      "league": "NBA",
+      "title": "Some Great Anthony Edwards Dunks Throughout his Career",
+      "videoId": "WMS196k5B58",
+      "author": "NBA",
+      "pubDate": "2026-08-05T18:38:27+00:00",
+      "link": "https://www.youtube.com/watch?v=WMS196k5B58"
+    },
+    {
+      "league": "MLB",
+      "title": "Napoleon Dynamite bought a … baseball team? 👀",
+      "videoId": "B4AauEKKEok",
+      "author": "MLB",
+      "pubDate": "2026-08-05T18:30:24+00:00",
+      "link": "https://www.youtube.com/watch?v=B4AauEKKEok"
+    },
+    {
+      "league": "MLB",
+      "title": "Shohei Ohtani hits a LEADOFF HOMER to give the Dodgers an early lead 🤩 | MLB Highlights",
+      "videoId": "2KCYjl3c48c",
+      "author": "MLB",
+      "pubDate": "2026-08-05T18:29:06+00:00",
+      "link": "https://www.youtube.com/watch?v=2KCYjl3c48c"
+    },
+    {
+      "league": "NFL",
+      "title": "Tank Dell is back 👏 (via @houstontexans/TT)",
+      "videoId": "yOa0hopy2_I",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-08-05T18:23:24+00:00",
+      "link": "https://www.youtube.com/watch?v=yOa0hopy2_I"
+    },
+    {
+      "league": "NFL",
+      "title": "'Jayden Daniels is looking AWESOME’ - London Fletcher on talks Commanders camp | The Rich Eisen Show",
+      "videoId": "0qIT9xJE2Po",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-08-05T18:17:49+00:00",
+      "link": "https://www.youtube.com/watch?v=0qIT9xJE2Po"
+    },
+    {
+      "league": "NFL",
+      "title": "Kyler Murray 🆚 J.J. McCarthy ➡️ Inside the Vikings' day-to-day QB competition | The Pat McAfee Show",
+      "videoId": "U8hLeozh1js",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-08-05T18:07:32+00:00",
+      "link": "https://www.youtube.com/watch?v=U8hLeozh1js"
+    },
+    {
+      "league": "NFL",
+      "title": "Will Jaxson Dart be the REAL DEAL?",
+      "videoId": "sX0MZxFiUNI",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-08-05T18:00:33+00:00",
+      "link": "https://www.youtube.com/watch?v=sX0MZxFiUNI"
+    },
+    {
+      "league": "NHL",
+      "title": "Harvard ➡️ BC Connection",
+      "videoId": "xBtAScZliVg",
+      "author": "NHL",
+      "pubDate": "2026-08-05T18:00:33+00:00",
+      "link": "https://www.youtube.com/watch?v=xBtAScZliVg"
+    },
+    {
+      "league": "NBA",
+      "title": "When Anthony Edwards called game vs. OKC last December! 😮‍💨",
+      "videoId": "hWCuHRxoYbA",
+      "author": "NBA",
+      "pubDate": "2026-08-05T17:56:41+00:00",
+      "link": "https://www.youtube.com/watch?v=hWCuHRxoYbA"
+    },
+    {
+      "league": "NFL",
+      "title": "Chris Olave speaks on Saints’ expectations under Kellen Moore | The Pat McAfee Show",
+      "videoId": "Xp3iL9zKUuw",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-08-05T17:50:18+00:00",
+      "link": "https://www.youtube.com/watch?v=Xp3iL9zKUuw"
+    },
+    {
+      "league": "WNBA",
+      "title": "July Rookie of the Month: Olivia Miles",
+      "videoId": "CxlYoV5cTcQ",
+      "author": "WNBA",
+      "pubDate": "2026-08-05T17:38:22+00:00",
+      "link": "https://www.youtube.com/watch?v=CxlYoV5cTcQ"
+    },
+    {
+      "league": "NFL",
+      "title": "Ed McCaffrey's legendary Lawrence Taylor story | The Rich Eisen Show",
+      "videoId": "WMFRPoHAA48",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-08-05T17:28:30+00:00",
+      "link": "https://www.youtube.com/watch?v=WMFRPoHAA48"
+    },
+    {
+      "league": "NBA",
+      "title": "Air Time Presents: Road to Peach Jam | Episode 3",
+      "videoId": "7ACxjRNqA98",
+      "author": "NBA",
+      "pubDate": "2026-08-05T17:23:40+00:00",
+      "link": "https://www.youtube.com/watch?v=7ACxjRNqA98"
+    },
+    {
+      "league": "WNBA",
+      "title": "July Western Conference Player of the Month: A'ja Wilson",
+      "videoId": "p9BNZoiEwVc",
+      "author": "WNBA",
+      "pubDate": "2026-08-05T17:08:43+00:00",
+      "link": "https://www.youtube.com/watch?v=p9BNZoiEwVc"
+    },
+    {
+      "league": "WNBA",
+      "title": "July Eastern Conference Player of the Month: Kelsey Mitchell",
+      "videoId": "zBf_6twVrxE",
+      "author": "WNBA",
+      "pubDate": "2026-08-05T17:08:33+00:00",
+      "link": "https://www.youtube.com/watch?v=zBf_6twVrxE"
+    },
+    {
+      "league": "NBA",
+      "title": "Air Time Presents: Road to Peach Jam | Episode 3",
+      "videoId": "1hYCjq5YNTg",
+      "author": "NBA",
+      "pubDate": "2026-08-05T17:04:42+00:00",
+      "link": "https://www.youtube.com/watch?v=1hYCjq5YNTg"
+    },
+    {
+      "league": "NBA",
+      "title": "Dylan Harper Made Defenders Regret Jumping 😤 | Best Dunks of the 2025-26 Season",
+      "videoId": "L1ag_6WI_Q0",
+      "author": "NBA",
+      "pubDate": "2026-08-05T17:00:12+00:00",
+      "link": "https://www.youtube.com/watch?v=L1ag_6WI_Q0"
     },
     {
       "league": "NFL",
@@ -6184,68 +6507,12 @@
       "link": "https://www.youtube.com/watch?v=2ESdh4YdMS8"
     },
     {
-      "league": "NFL",
-      "title": "David Blough's SUPERPOWER",
-      "videoId": "baDkoZJLMec",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-08-05T16:03:38+00:00",
-      "link": "https://www.youtube.com/watch?v=baDkoZJLMec"
-    },
-    {
-      "league": "MLB",
-      "title": "Daulton Varsho faced off against his former Blue Jays teammates right after being traded 🥲🥲",
-      "videoId": "lIX97OMbSLY",
-      "author": "MLB",
-      "pubDate": "2026-08-05T15:56:34+00:00",
-      "link": "https://www.youtube.com/watch?v=lIX97OMbSLY"
-    },
-    {
-      "league": "NFL",
-      "title": "Look out for the Bills’ defense 👀",
-      "videoId": "JB-X176ADJ4",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-08-05T15:43:38+00:00",
-      "link": "https://www.youtube.com/watch?v=JB-X176ADJ4"
-    },
-    {
-      "league": "NFL",
-      "title": "Field Yates Reveals the WRs He's Watching Closely in 2026: Puka, CeeDee &amp; More 👀 | Fantasy Focus",
-      "videoId": "57dHC1UZ4og",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-08-05T15:37:42+00:00",
-      "link": "https://www.youtube.com/watch?v=57dHC1UZ4og"
-    },
-    {
-      "league": "NFL",
-      "title": "Mad Dog is NOT IMPRESSED by Justin Herbert 😳 | First Take",
-      "videoId": "8ujY2nl9-ew",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-08-05T15:35:36+00:00",
-      "link": "https://www.youtube.com/watch?v=8ujY2nl9-ew"
-    },
-    {
       "league": "NBA",
       "title": "Anthony Edwards Giving Out his Jersey to Fans Throughout the Season",
       "videoId": "EMmC9XMN7TY",
       "author": "NBA",
       "pubDate": "2026-08-05T15:30:36+00:00",
       "link": "https://www.youtube.com/watch?v=EMmC9XMN7TY"
-    },
-    {
-      "league": "NFL",
-      "title": "Andrew Berry on the Browns' QB Competition, Analytics &amp; Todd Monken",
-      "videoId": "oxRxPUdz-2c",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-08-05T15:30:11+00:00",
-      "link": "https://www.youtube.com/watch?v=oxRxPUdz-2c"
-    },
-    {
-      "league": "MLB",
-      "title": "Top 10 Perfect Games &amp; No-Hitters in Baseball History! | MLB 250 For 250",
-      "videoId": "DlQOKh_1ONg",
-      "author": "MLB",
-      "pubDate": "2026-08-05T15:30:07+00:00",
-      "link": "https://www.youtube.com/watch?v=DlQOKh_1ONg"
     },
     {
       "league": "NBA",
@@ -6264,46 +6531,6 @@
       "link": "https://www.youtube.com/watch?v=nOM4n8Loogs"
     },
     {
-      "league": "NFL",
-      "title": "Todd Monken Loves This One Thing About Shedeur Sanders",
-      "videoId": "RPBjE6g4bb8",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-08-05T15:00:13+00:00",
-      "link": "https://www.youtube.com/watch?v=RPBjE6g4bb8"
-    },
-    {
-      "league": "NBA",
-      "title": "Nobody Wanted to Jump with VJ Edgecombe 😳 | Top Dunks of the 2025-26 Season",
-      "videoId": "PAF7we8HS6o",
-      "author": "NBA",
-      "pubDate": "2026-08-05T15:00:04+00:00",
-      "link": "https://www.youtube.com/watch?v=PAF7we8HS6o"
-    },
-    {
-      "league": "NBA",
-      "title": "CELEBRATE NBA DUNK WEEK ON ANTHONY EDWARDS BIRTHDAY 🔥",
-      "videoId": "ZY7DVHM3uyQ",
-      "author": "NBA",
-      "pubDate": "2026-08-05T14:59:07+00:00",
-      "link": "https://www.youtube.com/watch?v=ZY7DVHM3uyQ"
-    },
-    {
-      "league": "NFL",
-      "title": "Wild prediction from Mad Dog?",
-      "videoId": "vf7Z6GgwDXE",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-08-05T14:55:51+00:00",
-      "link": "https://www.youtube.com/watch?v=vf7Z6GgwDXE"
-    },
-    {
-      "league": "MLB",
-      "title": "Tarik Skubal, Luis García Jr., Luis Arraez, Liam Hicks and MORE debuts after the MLB Trade Deadline!",
-      "videoId": "6rp9882S-A8",
-      "author": "MLB",
-      "pubDate": "2026-08-05T14:00:36+00:00",
-      "link": "https://www.youtube.com/watch?v=6rp9882S-A8"
-    },
-    {
       "league": "NHL",
       "title": "EVERY GOAL Scored Last Season by the 2026-27 Carolina Hurricanes Roster",
       "videoId": "QVKorAJkwRc",
@@ -6318,46 +6545,6 @@
       "author": "ESPN FC",
       "pubDate": "2026-08-05T13:30:22+00:00",
       "link": "https://www.youtube.com/watch?v=a6cBtQRdAY4"
-    },
-    {
-      "league": "NBA",
-      "title": "Matas Buzelis Made Every Dunk Count 😤 | Top Dunks of the 2025-26 NBA Season",
-      "videoId": "_OOb9z00L-U",
-      "author": "NBA",
-      "pubDate": "2026-08-05T13:00:21+00:00",
-      "link": "https://www.youtube.com/watch?v=_OOb9z00L-U"
-    },
-    {
-      "league": "MLB",
-      "title": "Recapping George Lombard Jr.'s special MLB debut &amp; Tarik Skubal's Dodgers debut | Morning Lineup",
-      "videoId": "1HeBM0Tm4AE",
-      "author": "MLB",
-      "pubDate": "2026-08-05T13:00:19+00:00",
-      "link": "https://www.youtube.com/watch?v=1HeBM0Tm4AE"
-    },
-    {
-      "league": "MLB",
-      "title": "Top 5 MLB Plays RANKED from 8/4/26! (Arraez, Skubal &amp; Hicks debut with new teams, and MORE!)",
-      "videoId": "mXPiVhgk2Jw",
-      "author": "MLB",
-      "pubDate": "2026-08-05T11:00:01+00:00",
-      "link": "https://www.youtube.com/watch?v=mXPiVhgk2Jw"
-    },
-    {
-      "league": "MLB",
-      "title": "Highlights from ALL GAMES on 8/4 (George Lombard Jr.'s debut, Tarik Skubal's Dodgers debut &amp; MORE!)",
-      "videoId": "WRr4TAEl0n8",
-      "author": "MLB",
-      "pubDate": "2026-08-05T10:00:04+00:00",
-      "link": "https://www.youtube.com/watch?v=WRr4TAEl0n8"
-    },
-    {
-      "league": "MLB",
-      "title": "PADRES vs. D-BACKS: Official Full Game Highlights (August 4) | 2026 MLB Season",
-      "videoId": "oFT4vanADSg",
-      "author": "MLB",
-      "pubDate": "2026-08-05T05:17:06+00:00",
-      "link": "https://www.youtube.com/watch?v=oFT4vanADSg"
     },
     {
       "league": "WNBA",
@@ -6416,30 +6603,6 @@
       "link": "https://www.youtube.com/watch?v=xgFrwA5Uj94"
     },
     {
-      "league": "NBA",
-      "title": "Throwback to when Taylor Swift and Travis Kelce were courtside in Cleveland",
-      "videoId": "ac2N02OU5qM",
-      "author": "NBA",
-      "pubDate": "2026-08-04T20:00:12+00:00",
-      "link": "https://www.youtube.com/watch?v=ac2N02OU5qM"
-    },
-    {
-      "league": "NBA",
-      "title": "It wouldn’t be dunk week without Shaedon Sharpe",
-      "videoId": "r_QmyrHA8iA",
-      "author": "NBA",
-      "pubDate": "2026-08-04T19:00:16+00:00",
-      "link": "https://www.youtube.com/watch?v=r_QmyrHA8iA"
-    },
-    {
-      "league": "NBA",
-      "title": "Amen Thompson Was Built for Highlights 🚀 | Top Dunks of the 2025-26 NBA Season",
-      "videoId": "04k-gsqyCmg",
-      "author": "NBA",
-      "pubDate": "2026-08-04T19:00:10+00:00",
-      "link": "https://www.youtube.com/watch?v=04k-gsqyCmg"
-    },
-    {
       "league": "WNBA",
       "title": "Week 10: Western Conference Player of the Week - A'ja Wilson",
       "videoId": "tnfoZM7QFRI",
@@ -6454,38 +6617,6 @@
       "author": "WNBA",
       "pubDate": "2026-08-04T17:15:57+00:00",
       "link": "https://www.youtube.com/watch?v=r45d9yezNG0"
-    },
-    {
-      "league": "NHL",
-      "title": "Every Goal Scored Last Season by the 2026-27 Calgary Flames Roster",
-      "videoId": "AP26dANu_1o",
-      "author": "NHL",
-      "pubDate": "2026-08-04T16:00:01+00:00",
-      "link": "https://www.youtube.com/watch?v=AP26dANu_1o"
-    },
-    {
-      "league": "WNBA",
-      "title": "Phoenix Mercury vs. Chicago Sky | FULL GAME HIGHLIGHTS | August 3, 2026",
-      "videoId": "loPv1l9106c",
-      "author": "WNBA",
-      "pubDate": "2026-08-04T04:55:57+00:00",
-      "link": "https://www.youtube.com/watch?v=loPv1l9106c"
-    },
-    {
-      "league": "WNBA",
-      "title": "Seattle Storm vs. New York Liberty | FULL GAME HIGHLIGHTS | August 3, 2026",
-      "videoId": "VJUXekpeNHM",
-      "author": "WNBA",
-      "pubDate": "2026-08-04T04:42:59+00:00",
-      "link": "https://www.youtube.com/watch?v=VJUXekpeNHM"
-    },
-    {
-      "league": "WNBA",
-      "title": "Las Vegas Aces vs. Atlanta Dream | FULL GAME HIGHLIGHTS | August 3, 2026",
-      "videoId": "bgXtvOvXaKc",
-      "author": "WNBA",
-      "pubDate": "2026-08-04T04:40:57+00:00",
-      "link": "https://www.youtube.com/watch?v=bgXtvOvXaKc"
     }
   ]
 }
