@@ -1,63 +1,73 @@
 {
   "clusters": [
     {
-      "category": "revenue",
+      "category": "media",
+      "importance": 8,
+      "leadHeadline": "In latest blow to early negotiations, NFL talks with Paramount on pause",
+      "leadSource": "Sports Media Watch · 3h ago",
+      "leadUrl": "https://www.sportsmediawatch.com/2026/08/nfl-paramount-negotiations-pause-chance-early-renewals-fading/",
+      "summary": "<cite index=\"1-1\">Paramount and the NFL paused negotiations over broadcast rights fees amid antitrust legal challenges to Paramount's $110 billion merger with Warner Bros. Discovery.</cite> <cite index=\"10-4\">Fox CEO Lachlan Murdoch said the company \"will not be making any amendments\" to its existing contract through 2029.</cite>",
+      "article": "<cite index=\"1-1\">The NFL and Paramount agreed to pause negotiations over higher broadcast rights fees while the company deals with legal challenges to its planned $110 billion merger with Warner Bros. Discovery.</cite>\n\n<cite index=\"1-4\">The league sought a price increase of at least 50% more than Paramount's current $2.1 billion-a-year deal after triggering a change-of-control provision when Skydance acquired the company last year.</cite> That gave the NFL rare leverage. Most networks don't face such a clause.\n\n<cite index=\"10-4\">Fox CEO Lachlan Murdoch said Thursday the company \"will not be making any amendments to our existing contractual relationship, which extends to the completion of the 2029 season.\"</cite> He signaled no talks would resume until closer to 2030, the formal opt-out date. <cite index=\"11-9\">Murdoch called Fox's relationship with the NFL \"incredibly positive.\"</cite>\n\nThe twin setbacks effectively end the NFL's push for early renegotiations. <cite index=\"19-9\">The league had hoped to finalize deals by September's start of the season, moving partner by partner starting with Paramount.</cite> <cite index=\"19-10\">Networks would have faced rights fee increases in the triple-digits in return.</cite>\n\n<cite index=\"19-6\">Executives at NBCUniversal and Disney said they were not in active negotiations.</cite> Without partner cooperation, the NFL faces a compressed window in 2029 when all major deals expire simultaneously, erasing any negotiating advantage.",
+      "tweets": []
+    },
+    {
+      "category": "contracts",
+      "importance": 7,
+      "leadHeadline": "Vinicius Jr and Real Madrid agree new six-year deal",
+      "leadSource": "BBC Sport · 7h ago",
+      "leadUrl": "https://www.bbc.co.uk/sport/football/articles/c1517j1q129o?at_medium=RSS&amp;at_campaign=rss",
+      "summary": "Vinicius Jr signed a new six-year contract with Real Madrid, rejecting Arsenal's advances. The Brazil winger has committed to the Spanish club on improved terms.",
+      "article": "Vinicius Jr agreed to a new six-year deal with Real Madrid on Thursday, ending speculation about a potential move to Arsenal. The Brazil winger's extension comes on improved terms, per BBC Sport, keeping him at the club through the 2030-31 season.\n\nThe decision closes the door on Arsenal's recruitment efforts and anchors Real Madrid's attack around one of Europe's most dynamic wingers. Vinicius Jr, 24, has been central to Real Madrid's recent success, combining explosive pace with creativity and an elite scoring rate in La Liga and the Champions League.\n\nArsenal had targeted the winger as part of an ambitious summer overhaul, but Madrid's willingness to raise his contract value proved decisive. The new deal also signals Real Madrid's intent to compete aggressively in the transfer market and retain its star players amid competitive pressure from English and other European clubs.\n\nVinicius Jr's commitment reduces the likelihood of major upheaval in Madrid's front line ahead of the 2024-25 season, allowing the club to focus resources elsewhere in its squad.",
+      "tweets": []
+    },
+    {
+      "category": "leagues",
       "importance": 6,
-      "leadHeadline": "Strange Bet Fellows: FanDuel and CMEs Latest Joint-VentureTwist",
-      "leadSource": "Sportico · 2h ago",
-      "leadUrl": "https://www.sportico.com/business/sports-betting/2026/fanduel-cme-prediction-market-crypto-nadex-1234941188/",
-      "summary": "FanDuel is dropping CME as its sports betting execution venue and shifting all sports event contracts to Crypto.com's Nadex exchange, marking a major retreat from their December 2025 joint venture after failing to gain traction against nimble prediction-market startups.",
-      "article": "<cite index=\"21-3,21-4\">CME Group and FanDuel are scaling back their joint effort after failing to gain traction in a booming industry. FanDuel will no longer use CME's venue for event-betting contracts tied to sports games, and will instead route them to Crypto.com.</cite>\n\n<cite index=\"21-3\">The move comes as prediction markets have become a threat to both Wall Street exchanges and traditional sportsbooks.</cite> FanDuel's rival DraftKings has been more successful by offering contracts from Crypto.com alongside CME contracts, with annualized May volume reaching $3.1 billion.\n\n<cite index=\"19-3,19-4\">FanDuel Predicts grew to over 100 million contracts traded by February 2026, still dwarfed by CME's 30+ million daily contracts.</cite> The shift underscores regulatory complexity: <cite index=\"11-4\">CME CEO Terry Duffy said some sportsbook-style prediction markets amount to gambling, distinguishing between the exchange's own sports-event contracts and products like small parlays that he argued do not belong in regulated financial markets.</cite>\n\n<cite index=\"1-7\">CME Group remains FanDuel's joint-venture partner; Crypto.com is now the primary venue for sports contracts.</cite>",
+      "leadHeadline": "Congressional Black Caucus Opposes Protect College Sports Act",
+      "leadSource": "Sportico · 3h ago",
+      "leadUrl": "https://www.sportico.com/law/analysis/2026/congressional-black-caucus-protect-college-sports-act-1234941279/",
+      "summary": "The Congressional Black Caucus, representing over 60 House members, issued a statement opposing the Protect College Sports Act, significantly reducing its odds of passing. CBC Chair Rep. Yvette D. Clarke framed the opposition around concerns about Black political representation.",
+      "article": "The Congressional Black Caucus issued a formal statement Thursday opposing the Protect College Sports Act, a major legislative setback for the bill's supporters. The CBC, which counts more than 60 members, has enough voting power to block passage in a closely divided House.\n\nCBC Chair Rep. Yvette D. Clarke signaled the caucus's reasoning in a statement: \"At the very moment that Black political representation is under attack across the country, we will...\" The phrasing suggests the caucus views the PCSA as conflicting with broader priorities around representation and equity.\n\nThe Protect College Sports Act was designed to regulate name, image, and likeness compensation and clarify the athlete-versus-employee classification for college players. Supporters argued it would create uniform rules across state lines and reduce litigation risk. Opponents, including the NCAA and some athletes' advocates, raised concerns about unintended consequences for student athlete compensation and Title IX compliance.\n\nThe CBC's opposition complicates the legislative math considerably. Losing that bloc's support narrows the bill's path to passage and may force sponsors to renegotiate key provisions or abandon the effort entirely.",
       "tweets": []
     },
     {
       "category": "revenue",
       "importance": 5,
-      "leadHeadline": "New Prediction Market Consumer Group DemandsReforms",
+      "leadHeadline": "New Corporate Filing Hints at LIV Golf's Post-PIF Strategy",
       "leadSource": "Sportico · 3h ago",
-      "leadUrl": "https://www.sportico.com/business/sports-betting/2026/prediction-market-consumer-advocacy-sports-traders-union-1234940976/",
-      "summary": "The Sports Traders Union, a new advocacy group of professional bettors and social media figures, is launching to represent consumer interests in prediction market policy and resist portrayal as an industry lobbying proxy.",
-      "article": "A new consumer advocacy organization called the Sports Traders Union unveiled Thursday with an explicit mandate to inject an independent voice into prediction market regulation and public discourse. The group is primarily composed of professional bettors with significant social media presence who actively trade on leading prediction platforms. Its formation signals tension within the prediction market ecosystem: as leagues, exchanges, and regulators intensify scrutiny of the sector, established operators and industry groups have faced criticism for speaking as if they represent retail participants. The Sports Traders Union aims to counter that by explicitly positioning itself as a grassroots counterweight, focused on advocating for consumer-friendly rules and transparency. The timing coincides with ongoing regulatory uncertainty around crypto-backed exchanges, questions about market manipulation protections, and league efforts to monetize or control prediction market access. By organizing traders themselves rather than allowing platforms or trade associations to speak for them, the group seeks legitimacy in emerging policy discussions around prediction market licensing, custody, and disclosure standards.",
+      "leadUrl": "https://www.sportico.com/leagues/golf/2026/liv-golf-bedminster-llc-1234941274/",
+      "summary": "LIV Golf incorporated a new corporate entity in New Jersey in mid-July, signaling a structural pivot in how the league operates post-Saudi separation. The filing suggests the circuit is seeking outside investment and restructuring its ownership model.",
+      "article": "LIV Golf created a new corporate entity, LIV Golf Bedminster LLC, on July 15, offering a rare glimpse into how the circuit is reorganizing following its split from Saudi Public Investment Fund backing. The new Jersey incorporation arrived about three weeks before news of the circuit's recalibration became public.\n\nThe timing and structure suggest LIV Golf is repositioning itself to attract outside investment partners. By establishing a distinct legal entity, the league may be insulating certain assets or creating cleaner terms for new investors exploring partnerships. This move aligns with earlier reporting that private equity firm BC Partners is exploring a deal with LIV.\n\nLIV Golf faces financial pressure following the Saudi PIF's strategic shift away from direct ownership of the circuit. The league has burned through billions in capital since its 2021 launch and remains unprofitable. New ownership or investment is critical to long-term viability.\n\nThe corporate filing also suggests LIV Golf may be pursuing a hybrid model: continued Saudi funding in some form (the PIF remains involved) alongside conventional private equity capital. Such a structure could improve governance optics and broaden the investor base. Whether BC Partners or another PE firm ultimately invests, LIV's willingness to legally restructure signals a fundamental reset.",
       "tweets": []
     },
     {
       "category": "media",
-      "importance": 4,
-      "leadHeadline": "Preakness staying with NBC, will move back a week into Sunday slot",
-      "leadSource": "Sports Media Watch · 20h ago",
-      "leadUrl": "https://www.sportsmediawatch.com/2026/08/preakness-nbc-media-rights-extension-moved-back-week-sunday/",
-      "summary": "The Preakness Stakes is shifting back one week and moving from Saturday to Sunday while remaining on NBC, altering its longtime broadcast window and proximity to the Kentucky Derby.",
-      "article": "The Preakness Stakes will maintain its broadcast home at NBC but shift its schedule backward by a week and forward a day to Sunday. The change alters the historical spacing of the Triple Crown: the Derby runs first in May, followed by the Preakness in early June under the new calendar, then the Belmont Stakes to complete the series. Moving to Sunday rather than Saturday positions the Preakness in a less congested weekend sports landscape, potentially improving broadcast viewership and audience concentration. NBC has held broadcasting rights to the Preakness for decades, cementing its place as the network's premium horse racing tentpole alongside its Triple Crown coverage. The Sunday slot opens a clearer promotional window and reduces conflict with other marquee weekend events. The shift reflects ongoing efforts by racing stakeholders to optimize the Triple Crown's media footprint as mainstream sports audiences have fragmented across platforms and live events.",
+      "importance": 5,
+      "leadHeadline": "2026 Hall of Fame Game where to watch: Carson Beck to start at QB for Cardinals",
+      "leadSource": "CBS Sports · 1h ago",
+      "leadUrl": "https://www.cbssports.com/nfl/news/2026-hall-of-fame-game-where-to-watch-carson-beck-cardinals/",
+      "summary": "The Panthers and Cardinals opened the preseason Thursday in Canton, Ohio, with Carson Beck starting at quarterback for Arizona. The Hall of Fame Game marks the official kickoff of NFL preseason play.",
+      "article": "Football returned Thursday night as the Panthers and Cardinals kicked off the 2026 preseason in Canton, Ohio, at the Pro Football Hall of Fame Game. Carson Beck took the starting QB snaps for Arizona, giving the Cardinals' new offseason acquisitions an early showcase.\n\nThe Hall of Fame Game has become the traditional preseason opener, offering both teams a chance to evaluate depth charts, new schemes, and young players competing for roster spots. For the Cardinals and Panthers, both clubs made notable changes in the offseason and used the game to test early combinations.\n\nThe event doubles as a prime-time television draw, with fans eager to see how offseasons have played out and which rookies and overlooked roster hopefuls can make an impression. CBS broadcast the game, carrying the preseason slate through the evening.\n\nBeck's start for Arizona represents his first game action in the new uniform, providing early feedback on his fit within the Cardinals' system. For the Panthers, the game offered similar opportunities to field new pieces and begin chemistry-building before the regular season begins in September.",
       "tweets": []
     },
     {
       "category": "leagues",
       "importance": 4,
-      "leadHeadline": "Sporticast: Meet Larry Berg, the Next MLSCommissioner",
-      "leadSource": "Sportico · 3h ago",
-      "leadUrl": "https://www.sportico.com/podcasts/sporticast/2026/larry-berg-mls-commissioner-podcast-sporticast-1234941100/",
-      "summary": "Larry Berg, co-owner of LAFC, has been appointed the next MLS commissioner following four rounds of voting by league owners, succeeding the outgoing commissioner.",
-      "article": "Larry Berg, co-owner of Los Angeles FC, has been appointed as the next commissioner of Major League Soccer following four rounds of voting among MLS ownership groups. Berg's election represents a continuity hire: he comes from within the ownership structure rather than an external sports business executive, signaling the league's preference for familiarity with its franchise model and investor base. As LAFC co-owner, Berg has been embedded in MLS governance structures and is familiar with the league's media rights negotiations, expansion strategy, and labor relations landscape. His appointment comes at a critical moment for MLS as the league pursues its 2026 World Cup partnership, manages the incoming summer break tied to the 2027 Women's World Cup in North America, and navigates ongoing media-rights discussions with broadcasters. The commissioner role traditionally involves managing relations with teams, broadcast partners, sponsors, and the players union, alongside oversight of competitive rules and disciplinary matters. Berg's selection by the broad ownership group suggests alignment around the league's existing strategic direction rather than a mandate for dramatic operational change.",
+      "leadHeadline": "Sixers Players Led LeBron Recruitment",
+      "leadSource": "Front Office Sports · 4h ago",
+      "leadUrl": "https://frontofficesports.com/mike-gansey-sixers-lebron-james-recruitment/",
+      "summary": "Philadelphia 76ers players spearheaded the recruitment effort for LeBron James, according to reporting by Mike Gansey. Gansey's relationship with James dates back to high school, offering insight into the personal dynamics behind the pitch.",
+      "article": "The Philadelphia 76ers' players took the lead in recruiting LeBron James, per reporting from Mike Gansey at Front Office Sports. Gansey's own relationship with James stretches back to their high school years, providing perspective on the personal networks that shape free-agent decisions.\n\nPlayer-led recruitment has become a standard feature of NBA free agency, with star players often making direct appeals to targets. For the 76ers, relying on current roster members to pitch James underscores the club's confidence in its roster and its willingness to let veterans shape the franchise's direction.\n\nThe specifics of the recruitment pitch remain largely private. However, the involvement of Sixers players suggests they framed a core argument around winning now and competing in the Eastern Conference with existing stars and recent acquisitions.\n\nWhether James ultimately joins Philadelphia remains unclear based on available reporting. The fact that players took ownership of the effort signals how modern NBA free agency blends front-office strategy with peer networks and personal relationships. Gansey's long history with James may also provide reporters additional insight into James's decision-making process as the free-agency period unfolds.",
       "tweets": []
     },
     {
-      "category": "revenue",
+      "category": "leagues",
       "importance": 3,
-      "leadHeadline": "Yankees Are Polymarket's Latest Big Sports Swing",
-      "leadSource": "Front Office Sports · 1h ago",
-      "leadUrl": "https://frontofficesports.com/yankees-are-polymarkets-latest-big-sports-swing/",
-      "summary": "Polymarket has become the exclusive prediction-market partner of MLB as of March, integrating speculative betting into the league's official ecosystem and data infrastructure.",
-      "article": "Polymarket, a leading crypto-backed prediction market platform, secured exclusive partnership rights with MLB beginning in March, positioning it as the league's official prediction market. The deal integrates Polymarket's trading interface into MLB's digital ecosystem and grants the platform official status in promoting sports betting speculation around games, playoff odds, and award voting. Prediction markets operate differently from traditional sportsbooks: traders buy and sell shares linked to specific outcomes rather than placing directional bets, creating a transparent price discovery mechanism that often outperforms expert forecasts. MLB's exclusive partnership with Polymarket signals the league's willingness to embrace this asset class and monetize its data and fan engagement properties. The Yankees' involvement as a marquee franchise deepens that integration at the franchise level. Such deals represent a strategic pivot by sports leagues to capture value from speculative trading, which historically operated in unregulated forums or crypto platforms outside their direct purview. By making prediction markets official, leagues gain visibility into betting flows, promotional leverage, and a new revenue stream from platform fees or sponsorship arrangements.",
-      "tweets": []
-    },
-    {
-      "category": "media",
-      "importance": 2,
-      "leadHeadline": "Disney+ to add more college football simulcasts",
-      "leadSource": "Sports Media Watch · 13h ago",
-      "leadUrl": "https://www.sportsmediawatch.com/2026/08/disney-plus-college-football-liv-golf-funding-espn-cfb/",
-      "summary": "Disney+ is expanding its college football simulcast offerings this season, supplementing ESPN's flagship broadcasts with additional streaming capacity.",
-      "article": "Disney+ is adding more college football simulcasts to its 2026 schedule, deepening Disney's multiplatform distribution strategy for the sport. The move expands streaming availability beyond ESPN's linear broadcasts, allowing subscribers access to additional games and broader coverage. ESPN has also announced changes to its college football broadcasting teams as part of the 2026 media overhaul. These adjustments reflect the broader media industry shift toward portfolio-based sports distribution, where a single league or event spreads across linear cable, flagship streaming services, and secondary platforms to maximize reach and subscriber retention. College football remains one of the most valuable sports media assets available, commanding premium advertising rates and strong audience engagement across all demographics. LIV Golf, separately, has secured continued funding to maintain operations and competitive event programming, signaling investor confidence in the Saudi-backed breakaway golf league's long-term viability despite ongoing PGA Tour merger discussions.",
+      "leadHeadline": "Saints rookie Brock Rechsteiner, son of WWE Hall of Famer Scott Steiner, suspended six games by NFL",
+      "leadSource": "NY Post Sports · 1h ago",
+      "leadUrl": "https://nypost.com/2026/08/06/sports/saints-rookie-brock-rechsteiner-suspended-six-games-by-nfl/",
+      "summary": "Saints rookie Brock Rechsteiner, son of WWE Hall of Famer Scott Steiner, has been suspended six games by the NFL. The suspension arrives before his first season begins.",
+      "article": "New Orleans Saints rookie Brock Rechsteiner received a six-game suspension from the NFL before his first professional season even began. Rechsteiner, son of WWE Hall of Famer Scott Steiner, faces an early setback in his career as a result of the penalty.\n\nThe NFL did not initially disclose the specific violation leading to the suspension. Such early-career suspensions typically stem from substance-abuse policy violations or other conduct-code infractions.\n\nFor the Saints, the suspension removes a depth piece from the roster for the first month-plus of the regular season. Rechsteiner's pre-draft profile and family background generated interest around his potential, but the immediate absence constrains the team's ability to evaluate him in live games and forces a reshuffle of the depth chart in his position.\n\nThe timing is particularly difficult for a rookie trying to establish himself and prove his draft selection was justified. Missing six games substantially reduces opportunities to show he belongs at the NFL level.",
       "tweets": []
     }
   ],
@@ -2381,129 +2391,99 @@
     ],
     "source": "espn"
   },
-  "deals": [],
+  "deals": [
+    {
+      "type": "extension",
+      "parties": "Vinicius Jr ⇄ Real Madrid",
+      "value_usd": null,
+      "term_years": 6,
+      "league": "SOCCER",
+      "headline": "Vinicius Jr signs six-year contract extension with Real Madrid",
+      "storyIndex": 4,
+      "blurb": "Brazil winger extends commitment to Real Madrid through 2030-31 season on improved terms, rejecting Arsenal interest.",
+      "capturedAt": "2026-08-07T00:36:37.938Z"
+    }
+  ],
   "ratings": [],
   "ticket_prices": [],
   "sidebar": [
     {
-      "headline": "Game, set, Chat: how tennis players use AI to scout opponents and run their lives",
-      "source": "The Guardian · 1d ago",
-      "article": "Emma Raducanu and other professional tennis players are leaning heavily on generative AI tools like ChatGPT for everything from tactical scouting to personal schedule management. Raducanu openly uses Chat 'for every small thing,' reflecting a generational shift in how elite athletes integrate technology into their daily routines and match preparation. The emergence of GenAI has sparked debate within professional tennis about its impact on competitive equity: some players worry that uneven access to premium AI tools creates an unfair advantage, while others see it as inevitable evolution. Coaches and sports scientists have traditionally handled this analytical work, but AI now allows individual players to generate scouting reports, analyze opponent patterns, and manage logistics independently. The sport has not yet established formal rules restricting or governing AI use in training or match preparation, leaving it to individual player and federation discretion. As AI capabilities continue to advance, tennis will likely face regulatory questions similar to those in other sports around technology access and competitive fairness."
-    },
-    {
-      "headline": "Barcelona? Real Madrid? Man City's Rodri has a decision to make",
-      "source": "BBC Sport · 1h ago",
-      "article": "Manchester City midfielder Rodri faces a potential decision this summer on whether to depart for La Liga rivals Real Madrid or Barcelona, should he opt to leave the English champions. Rodri has become one of the world's most complete midfielders during his time at City, combining defensive durability with creative playmaking and goal-scoring threat. A move to Real Madrid or Barcelona would represent a marquee transfer in European football, as both clubs possess financial firepower and competitive ambition to attract elite talent. Rodri's contract status and release clause, if any, remain under negotiation between City and the player's representatives. His potential departure would reshape City's midfield architecture and force the club into the transfer market for a replacement, a search complicated by the scarcity of truly elite No. 8s in world football. Barcelona and Madrid both have the tactical systems and financial capacity to integrate Rodri at the highest level, making either move plausible if City opts not to offer terms that retain him."
-    },
-    {
-      "headline": "England recall Pope & Lawrence for Pakistan Tests but Bethell out",
-      "source": "BBC Sport · 3h ago",
-      "article": "England has recalled Surrey pair Ollie Pope and Dan Lawrence to the squad for the first two Tests against Pakistan, signaling a return to the Test frame for both batsmen after periods outside selection. Pope and Lawrence represent established Test players with international experience and domestic form strong enough to merit recall. Their inclusion suggests England is building a squad capable of competing in Pakistan's challenging playing conditions, where spinners typically dominate and batting requires technique against turning deliveries. The absence of Bethell from the squad indicates the selectors have opted for experience over youth in these fixtures. England's approach to Test cricket continues to balance development of emerging talent with deployment of proven performers in foreign conditions where stability and match-reading become paramount."
-    },
-    {
-      "headline": "Three up, three down: Kyle Harrison dominates in his return and looks like a must-start again",
-      "source": "CBS Sports · 2h ago",
-      "article": "Kyle Harrison headlines the latest Fantasy Baseball risers and fallers after a dominant return to action. Harrison's performance marks a significant turnaround, positioning him as a must-start pitcher moving forward in fantasy lineups. His velocity and command appear intact following whatever absence preceded his recent outing, and opponents have struggled to generate quality contact. In the risers category, Harrison's addition signals that scouts and fantasy analysts view his health status and performance ceiling positively enough to recommend him ahead of less certain arms. The risers and fallers column tracks week-to-week changes in fantasy value driven by recent performance, health status, matchup quality, and competitive context. Fantasy baseball participants use these analyses to optimize roster construction and waiver-wire moves in head-to-head and rotisserie formats."
-    },
-    {
-      "headline": "Tom Brady Explains His Aggressive Push Into Trading Cards",
+      "headline": "Netflix Wants to Not 'Do Too Much' With Field of Dreams Game",
       "source": "Front Office Sports · 4h ago",
-      "article": "Tom Brady discussed his strategic entry into the trading card space, explaining the business rationale behind his card company's aggressive market positioning. Brady's foray into cards reflects broader monetization of athlete personal brands and recognition that collectibles represent a growth vector for retired players seeking revenue streams beyond endorsements and broadcast commentary. The card market experienced explosive growth during the pandemic as retail collectors and speculators sought tangible assets and nostalgia-driven products. Brady's involvement lends celebrity weight and authenticity to his card line, likely driving collector interest and secondary-market premiums. His explanation to Front Office Sports provides insight into how elite athletes view alternative revenue opportunities and brand extension strategies in an evolving sports business landscape."
+      "article": "Netflix is taking a measured approach to its inaugural Field of Dreams broadcast, aiming to strike a balance between celebration of baseball's history and entertainment spectacle. The streaming giant acquired rights to the annual MLB game at the Iowa complex, which now features a permanent stadium.\n\nNetflix's decision to avoid over-producing the event signals respect for the game's emotional weight and its cult following. The Field of Dreams site carries profound cultural resonance, and excessive production flourishes could alienate fans who prize authenticity and tradition.\n\nBy constraining its creative footprint, Netflix protects the event's integrity while still delivering quality broadcast production. This approach also reflects Netflix's broader sports strategy: build credibility with core audiences before innovating heavily.\n\nThe Field of Dreams game has evolved into one of MLB's marquee regular-season events, drawing prime viewership and generating substantial media interest. Netflix's understated handling of the production suggests the company understands that the event's power comes from its setting and participants, not from layered graphics or narrative devices."
     },
     {
-      "headline": "How Eye Black Became 'War Paint' on the Field",
-      "source": "Front Office Sports · 3h ago",
-      "article": "Eye black has evolved from practical sun and glare reduction into psychological 'war paint' that signals competitive intensity and game-day focus. Athletes describe applying eye black as a ritual that marks the transition from practice to competition, creating a mental and physical demarcation between ordinary training and high-stakes performance. The practice carries cultural weight in football and baseball, where it has become deeply embedded in pre-game preparation routines. Eye black's functional purpose remains valid—reducing glare and improving contrast—but its psychological dimension has arguably become equally important to players seeking mental priming strategies. The practice illustrates how sports ritual and performance psychology intertwine, with uniform elements and preparation routines serving dual purposes of function and mental state management."
+      "headline": "Gausmans Cubs hand Blue Jays heart-breaking extra-innings loss",
+      "source": "Sportsnet · 3h ago",
+      "article": "The Toronto Blue Jays suffered a gut-punch loss to the Chicago Cubs in extra innings, deepening uncertainty about the direction of their season. The defeat came at a peculiar moment: the Blue Jays had both bought and sold at the trade deadline, positioning themselves in a strange middle ground.\n\nSportsnet's Shi Davidi argues the loss exemplifies the team's broader identity crisis. By trading away pieces without fully committing to a rebuild, the Blue Jays lack clarity on their target outcome. They're neither all-in competitors nor systematic developers of future talent.\n\nKevin Gausman's performance against Toronto underscores the Cubs' growing pitching depth, particularly their deadline acquisitions. For the Blue Jays, Vladimir Guerrero Jr.'s form remains the critical variable. The club's 47 remaining regular-season games will reveal whether Guerrero can find his stride down the stretch and whether the team's ambiguous roster construction can cohere into something competitive."
+    },
+    {
+      "headline": "Questions for Blue Jays to answer over rest of season",
+      "source": "Sportsnet · 9h ago",
+      "article": "Toronto enters the final stretch of the regular season facing hard questions about its viability as a contender. With 47 games remaining, the Blue Jays must determine whether their roster construction supports a playoff push or signals a need for deeper structural change.\n\nVladimir Guerrero Jr.'s performance is the bellwether. If the franchise star cannot elevate his production in the season's final month-plus, the club's hopes fade significantly. Guerrero has the talent to carry stretches of games, but inconsistency at the plate has plagued Toronto's ability to string together winning streaks.\n\nBeyond Guerrero, the Blue Jays must evaluate whether their deadline acquisitions integrate quickly and whether their bullpen holds up under September pressure. The team's identity—neither committed to youth nor fully mortgaged for a push—creates urgency around these answers."
+    },
+    {
+      "headline": "Tour de France Femmes: Reusser stays ahead as Le Court savours stage win",
+      "source": "The Guardian · 7h ago",
+      "article": "Marlen Reusser maintained her overall lead in the Tour de France Femmes after a grueling stage through central France saw Mauritian rider Kim Le Court claim her second career stage victory. Le Court outsprinted Anna Kerbaol and Piet Pieterse in Tournon-sur-Rhone, adding to her résumé in one of women's cycling's marquee events.\n\nReusser's hold on the general classification remains solid despite constant pressure from rival Demi Vollering, who continues to shadow the Swiss rider. The race's mountainous terrain in coming stages will test both riders' climbing credentials and mental fortitude.\n\nLe Court's stage win underscores the depth of talent in women's professional cycling. Riders outside the traditional contender pool can seize opportunities in intermediate stages, creating narrative complexity across the race. Her second Tour stage victory reflects growing consistency at the sport's highest level."
+    },
+    {
+      "headline": "Uefa says boycott may still go ahead as FA withdraws Infantino support",
+      "source": "BBC Sport · 8h ago",
+      "article": "UEFA signaled Thursday that a potential boycott of Fifa meetings over President Gianni Infantino's leadership could still proceed, despite the FA withdrawing its public backing of the effort. The European governing body stated that Infantino's continued tenure 'changes nothing' in its calculus.\n\nThe FA's reversal complicates the boycott's leverage, potentially weakening unified opposition to Infantino. However, UEFA's statement indicates it remains committed to holding the Fifa president accountable, regardless of English football's positioning.\n\nThe dispute centers on governance questions and Infantino's conduct during his tenure. A successful boycott by major confederations would create significant pressure on Fifa's structure and potentially force Infantino's resignation. The loss of England's explicit support, however, reduces the boycott's immediate political force."
+    },
+    {
+      "headline": "2026 Wyndham Championship leaderboard: Sahith Theegala starts hot as final playoff push begins",
+      "source": "CBS Sports · 1h ago",
+      "article": "Sahith Theegala made a strong early impression at the Wyndham Championship, the PGA Tour's regular-season finale, while Beau Hossler set the pace in opening rounds. The event determines which players secure playoff berths and seeding as the tour heads toward its postseason crescendo.\n\nTheegala's hot start keeps him in contention for a high seed, critical for players on the bubble of the playoff cut. With limited opportunities remaining in the regular season, every shot carries weight. The Wyndham Championship's field includes both established stars protecting their positions and hungry competitors fighting for inclusion.\n\nHossler's early lead positions him as the day's pace-setter, though the tournament stretches multiple rounds. As always at the season finale, jostling for position, playoff seeding, and validation of summer form will dominate the narrative through the weekend."
     }
   ],
   "poll": {
-    "question": "Which prediction market platform will capture the most U.S. sports trading volume by end of 2026?",
+    "question": "Will the NFL successfully renegotiate media rights before the 2029 opt-out clause?",
     "options": [
-      "Polymarket (MLB exclusive partner)",
-      "FanDuel Predicts (via Nadex/CME restructure)",
-      "Crypto.com Nadex (direct access)",
-      "Unregulated offshore platforms"
+      "Yes, with at least two partners re-upping early",
+      "Partial deal: one or two partners negotiate, others wait",
+      "No, all partners will wait until the 2029 opt-out window",
+      "The landscape changes so much by 2029 that new negotiations will look entirely different"
     ]
   },
   "predictions": [
     {
-      "statement": "MLB prediction market exclusive deals generate under $50M annual revenue by 2027.",
-      "probability": 68,
-      "rationale": "Prediction markets remain niche compared to traditional sportsbooks. Polymarket's exclusive MLB deal signals league interest but retail participation remains limited. Revenue depends on trading volume and platform take rates, both nascent at scale."
-    },
-    {
-      "statement": "Larry Berg's MLS tenure spans at least four full seasons without forced departure.",
+      "statement": "The Congressional Black Caucus opposition will kill the Protect College Sports Act in its current form, forcing legislative sponsors to redesign or abandon the bill.",
       "probability": 72,
-      "rationale": "Berg is an insider pick from the ownership group, suggesting alignment and political support. MLS commissioners typically serve multiple terms absent major crisis or conflict. No signals of internal opposition emerged in the voting process."
+      "rationale": "The CBC's 60+ House members provide blocking power in a closely divided chamber. The caucus has explicitly signaled opposition on representation grounds, a concern unlikely to be easily resolved through minor amendments. Legislative momentum stalls without broad coalition support."
     },
     {
-      "statement": "Rodri departs Manchester City for a La Liga club within 18 months.",
+      "statement": "Private equity investment in LIV Golf will close by end of 2026, with BC Partners or a comparable PE firm taking a significant minority stake.",
+      "probability": 58,
+      "rationale": "The new Jersey corporate entity filing and reports of active BC Partners exploration suggest real deal momentum. However, LIV's continued operating losses and Saudi entanglement create complexity. PE firms typically move fast once due diligence accelerates, but valuation disputes and governance questions could extend talks."
+    },
+    {
+      "statement": "Fox's decision to punt NFL renegotiations until 2029 will force the league to accept lower renewal rates than it seeks, costing the NFL at least $500M annually in average rights fees.",
       "probability": 44,
-      "rationale": "Rodri is elite but City has resources and willingness to pay premium wages. However, La Liga's appeal and Rodri's Spain ties create departure pressure. Release clauses and contract terms unknown; speculative absent confirmed reporting."
+      "rationale": "Fox's patience strategy reduces the NFL's negotiating leverage. However, competing bidders and streaming platforms' hunger for sports content provide upside. The eventual price depends on market demand in 2029, which is too uncertain to forecast confidently. The NFL may still extract value from concurrent tech growth."
     },
     {
-      "statement": "Disney+ college football simulcasts drive measurable subscriber net addition by October 2026.",
-      "probability": 55,
-      "rationale": "College football draws passionate fanbases who may subscribe specifically for expanded access. However, cord-cutting trends and content fragmentation complicate attribution. Incremental subs depend on simulcast availability and marketing spend, both unstated."
+      "statement": "Vinicius Jr will win the Ballon d'Or within the next two seasons on the strength of his Real Madrid performances.",
+      "probability": 51,
+      "rationale": "Vinicius Jr is among Europe's elite wingers in terms of output and consistency. However, Ballon d'Or voting remains volatile and subject to narrative bias toward midfielders and strikers. His commitment to Real Madrid improves his odds by guaranteeing Champions League and La Liga platform, but other elite competitors will push for recognition."
     }
   ],
-  "injuries": [],
-  "picks": [
+  "injuries": [
     {
-      "type": "moneyline",
-      "pick": "Baltimore Orioles ML",
-      "odds": "-148",
-      "edge": "Market fill from live lines: Baltimore Orioles is the books' favorite at -148 (best price @ FanDuel) against Los Angeles Angels at +138, with home ice/court/field behind them. No researched edge here — this is a low-confidence market-consensus play added to round out the slate. Low confidence is honest confidence.",
-      "matchup": "Los Angeles Angels @ Baltimore Orioles",
-      "league": "MLB",
-      "when": "Today 6:36 PM ET",
-      "confidence": "low",
-      "_autofill": true,
-      "_scheduledTs": 1785882960000,
-      "marketSnapshot": {
-        "capturedAt": "2026-08-04T12:54:30.694Z",
-        "markets": {
-          "h2h": {
-            "away": {
-              "price": 138,
-              "book": "FanDuel"
-            },
-            "home": {
-              "price": -148,
-              "book": "FanDuel"
-            },
-            "draw": null
-          },
-          "spreads": {
-            "away": {
-              "point": 1.5,
-              "price": -160,
-              "book": "Bovada"
-            },
-            "home": {
-              "point": -1.5,
-              "price": 141,
-              "book": "LowVig.ag"
-            }
-          },
-          "totals": {
-            "over": {
-              "point": 8.5,
-              "price": -117,
-              "book": "BetRivers"
-            },
-            "under": {
-              "point": 9,
-              "price": -120,
-              "book": "Bovada"
-            }
-          }
-        },
-        "awayTeam": "Los Angeles Angels",
-        "homeTeam": "Baltimore Orioles"
-      },
-      "_pendingGrade": true
-    },
+      "player": "Brock Rechsteiner",
+      "team": "New Orleans Saints",
+      "league": "NFL",
+      "position": "",
+      "status": "OUT",
+      "injury": "NFL suspension (cause unspecified)",
+      "timeline": "Six games",
+      "source": "NY Post Sports",
+      "impact": "Saints lose a depth piece for the first six weeks of the regular season, forcing roster shuffling and reduced evaluation opportunities for the rookie.",
+      "storyIndex": 10
+    }
+  ],
+  "picks": [
     {
       "type": "moneyline",
       "pick": "Cincinnati Reds ML",
@@ -5931,145 +5911,145 @@
     },
     {
       "type": "moneyline",
-      "pick": "Cleveland Guardians ML",
-      "odds": "-109",
-      "edge": "Market fill from live lines: Cleveland Guardians is the books' favorite at -109 (best price @ BetRivers) against New York Mets at +107, with home ice/court/field behind them. No researched edge here — this is a low-confidence market-consensus play added to round out the slate. Low confidence is honest confidence.",
-      "matchup": "New York Mets @ Cleveland Guardians",
+      "pick": "Chicago White Sox ML",
+      "odds": "-130",
+      "edge": "Market fill from live lines: Chicago White Sox is the books' favorite at -130 (best price @ Fanatics) against Boston Red Sox at +340, favored even on the road. No researched edge here — this is a low-confidence market-consensus play added to round out the slate. Low confidence is honest confidence.",
+      "matchup": "Chicago White Sox @ Boston Red Sox",
       "league": "MLB",
-      "when": "Today 1:11 PM ET",
+      "when": "Today 7:11 PM ET",
       "confidence": "low",
       "_autofill": true,
-      "_scheduledTs": 1786036260000,
+      "_scheduledTs": 1786057860000,
       "marketSnapshot": {
-        "capturedAt": "2026-08-06T12:52:01.018Z",
+        "capturedAt": "2026-08-07T00:37:04.389Z",
         "markets": {
           "h2h": {
             "away": {
-              "price": 107,
-              "book": "DraftKings"
+              "price": -130,
+              "book": "Fanatics"
             },
             "home": {
-              "price": -109,
-              "book": "BetRivers"
+              "price": 340,
+              "book": "BetMGM"
             },
             "draw": null
           },
           "spreads": {
             "away": {
-              "point": 1.5,
-              "price": -212,
-              "book": "LowVig.ag"
+              "point": -1.5,
+              "price": 145,
+              "book": "Fanatics"
             },
             "home": {
-              "point": 1.5,
-              "price": -195,
-              "book": "BetRivers"
+              "point": 2.5,
+              "price": -115,
+              "book": "BetMGM"
             }
           },
           "totals": {
             "over": {
-              "point": 7.5,
-              "price": -104,
-              "book": "LowVig.ag"
+              "point": 11.5,
+              "price": -125,
+              "book": "BetMGM"
             },
             "under": {
-              "point": 7.5,
-              "price": -106,
-              "book": "BetRivers"
+              "point": 13.5,
+              "price": 105,
+              "book": "Fanatics"
             }
           }
         },
-        "awayTeam": "New York Mets",
-        "homeTeam": "Cleveland Guardians"
+        "awayTeam": "Chicago White Sox",
+        "homeTeam": "Boston Red Sox"
       }
     },
     {
-      "type": "moneyline",
-      "pick": "Milwaukee Brewers ML",
-      "odds": "-124",
-      "edge": "Market fill from live lines: Milwaukee Brewers is the books' favorite at -124 (best price @ DraftKings) against Pittsburgh Pirates at +123, with home ice/court/field behind them. No researched edge here — this is a low-confidence market-consensus play added to round out the slate. Low confidence is honest confidence.",
-      "matchup": "Pittsburgh Pirates @ Milwaukee Brewers",
+      "type": "spread",
+      "pick": "Atlanta Braves -2.5",
+      "odds": "-104",
+      "edge": "Market fill from live lines: the books lay -2.5 with Atlanta Braves at -104 (best @ BetRivers). No researched edge — a low-confidence market-consensus play so this sport isn't empty today.",
+      "matchup": "Miami Marlins @ Atlanta Braves",
       "league": "MLB",
-      "when": "Today 2:11 PM ET",
+      "when": "Today 7:16 PM ET",
       "confidence": "low",
       "_autofill": true,
-      "_scheduledTs": 1786039860000,
+      "_scheduledTs": 1786058173000,
       "marketSnapshot": {
-        "capturedAt": "2026-08-06T12:52:01.018Z",
+        "capturedAt": "2026-08-07T00:37:04.390Z",
         "markets": {
           "h2h": {
             "away": {
-              "price": 123,
-              "book": "BetRivers"
+              "price": 477,
+              "book": "DraftKings"
             },
             "home": {
-              "price": -124,
-              "book": "DraftKings"
+              "price": -500,
+              "book": "Caesars"
             },
             "draw": null
           },
           "spreads": {
             "away": {
-              "point": 1.5,
-              "price": -185,
-              "book": "BetUS"
+              "point": 2.5,
+              "price": 108,
+              "book": "DraftKings"
             },
             "home": {
-              "point": -1.5,
-              "price": 168,
-              "book": "FanDuel"
+              "point": -2.5,
+              "price": -104,
+              "book": "BetRivers"
             }
           },
           "totals": {
             "over": {
               "point": 7.5,
-              "price": -107,
+              "price": -103,
               "book": "BetRivers"
             },
             "under": {
-              "point": 7.5,
-              "price": -102,
-              "book": "LowVig.ag"
+              "point": 8.5,
+              "price": -129,
+              "book": "DraftKings"
             }
           }
         },
-        "awayTeam": "Pittsburgh Pirates",
-        "homeTeam": "Milwaukee Brewers"
+        "awayTeam": "Miami Marlins",
+        "homeTeam": "Atlanta Braves"
       }
     }
   ],
-  "updatedAt": "2026-04-23T00:45:00Z",
+  "updatedAt": "2026-04-23T14:30:00Z",
   "highlights": [
     {
       "league": "NBA",
-      "title": "Some Great Vertical Jumps of the 2025-26 NBA Season",
-      "videoId": "Fk8al1RZiSs",
-      "thumbnail": "https://img.youtube.com/vi/Fk8al1RZiSs/mqdefault.jpg",
-      "timeAgo": "15h ago",
+      "title": "Jaylen Brown had a warm welcome for his 76ers introductory presser",
+      "videoId": "lDliyezxmQs",
+      "thumbnail": "https://img.youtube.com/vi/lDliyezxmQs/mqdefault.jpg",
+      "timeAgo": "3h ago",
       "isFallback": false
     },
     {
       "league": "NFL",
-      "title": "Jonathan Taylor agrees to a 2-yr/$44M extension with the Colts 💰",
-      "videoId": "9zc5L7EMIEc",
-      "thumbnail": "https://img.youtube.com/vi/9zc5L7EMIEc/mqdefault.jpg",
-      "timeAgo": "Just now",
-      "isFallback": false
-    },
-    {
-      "league": "MLB",
-      "title": "Angel Genao collects FOUR hits in historic MLB debut and the BEST Highlights from 8/5/26!",
-      "videoId": "DD0U_mWwHeM",
-      "thumbnail": "https://img.youtube.com/vi/DD0U_mWwHeM/mqdefault.jpg",
+      "title": "Will Broncos break the SACK RECORD? 🤔 Kirk Cousins on Mendoza + Stefon Diggs' new role | NFL Live",
+      "videoId": "R-SNiDQEV34",
+      "thumbnail": "https://img.youtube.com/vi/R-SNiDQEV34/mqdefault.jpg",
       "timeAgo": "2h ago",
       "isFallback": false
     },
     {
+      "league": "MLB",
+      "title": "Ronald Acũna Jr. sends one over the wall with a little bit of help 😲",
+      "videoId": "DDEmdaqOYUI",
+      "thumbnail": "https://img.youtube.com/vi/DDEmdaqOYUI/mqdefault.jpg",
+      "timeAgo": "Just now",
+      "isFallback": false
+    },
+    {
       "league": "NHL",
-      "title": "FULL REPLAY: Game 5 Cup Clincher | Capitals vs Golden Knights | 2018 Stanley Cup Final",
-      "videoId": "hDlqSBT4eZQ",
-      "thumbnail": "https://img.youtube.com/vi/hDlqSBT4eZQ/mqdefault.jpg",
-      "timeAgo": "14h ago",
+      "title": "Skaters Making Insane Saves (They Keep Getting Better)",
+      "videoId": "Ms3lnTuxMqc",
+      "thumbnail": "https://img.youtube.com/vi/Ms3lnTuxMqc/mqdefault.jpg",
+      "timeAgo": "4h ago",
       "isFallback": false
     },
     {
@@ -6077,66 +6057,290 @@
       "title": "Los Angeles Sparks vs. Chicago Sky | FULL GAME HIGHLIGHTS | August 5, 2026",
       "videoId": "qUhOD1ztX0w",
       "thumbnail": "https://img.youtube.com/vi/qUhOD1ztX0w/mqdefault.jpg",
-      "timeAgo": "8h ago",
+      "timeAgo": "20h ago",
       "isFallback": false
     },
     {
       "league": "SOCCER",
-      "title": "Still confused about this 💀 (via @laliga/IG)",
-      "videoId": "Z96rwZ5YNAc",
-      "thumbnail": "https://img.youtube.com/vi/Z96rwZ5YNAc/mqdefault.jpg",
+      "title": "Breaking down Real Madrid and Barcelona’s transfer windows + Vini Jr’s new contract | ESPN FC",
+      "videoId": "PmVkzJxRFDg",
+      "thumbnail": "https://img.youtube.com/vi/PmVkzJxRFDg/mqdefault.jpg",
       "timeAgo": "1h ago",
       "isFallback": false
     }
   ],
   "reels": [
     {
-      "league": "NFL",
-      "title": "Jonathan Taylor agrees to a 2-yr/$44M extension with the Colts 💰",
-      "videoId": "9zc5L7EMIEc",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-08-06T12:39:03+00:00",
-      "link": "https://www.youtube.com/watch?v=9zc5L7EMIEc"
+      "league": "MLB",
+      "title": "Ronald Acũna Jr. sends one over the wall with a little bit of help 😲",
+      "videoId": "DDEmdaqOYUI",
+      "author": "MLB",
+      "pubDate": "2026-08-07T00:12:42+00:00",
+      "link": "https://www.youtube.com/watch?v=DDEmdaqOYUI"
     },
     {
-      "league": "NFL",
-      "title": "🚨BREAKING NEWS🚨 Jonathan Taylor and the Colts reach an AGREEMENT! 💰 | Get Up",
-      "videoId": "JaGUBTm6-5M",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-08-06T12:20:19+00:00",
-      "link": "https://www.youtube.com/watch?v=JaGUBTm6-5M"
+      "league": "MLB",
+      "title": "WHAT JUST HAPPENED?! Ronald Acuña Jr. hits a home run you need to SEE TO BELIEVE! 🤯 MLB Highlights",
+      "videoId": "D_R8STXUdTY",
+      "author": "MLB",
+      "pubDate": "2026-08-07T00:01:49+00:00",
+      "link": "https://www.youtube.com/watch?v=D_R8STXUdTY"
+    },
+    {
+      "league": "MLB",
+      "title": "Luis Arraez leaped over the tag at home plate … But decided to just go back to the dugout 🤣",
+      "videoId": "F8GHpTt3GT4",
+      "author": "MLB",
+      "pubDate": "2026-08-06T23:49:33+00:00",
+      "link": "https://www.youtube.com/watch?v=F8GHpTt3GT4"
     },
     {
       "league": "SOCCER",
-      "title": "Still confused about this 💀 (via @laliga/IG)",
-      "videoId": "Z96rwZ5YNAc",
+      "title": "Breaking down Real Madrid and Barcelona’s transfer windows + Vini Jr’s new contract | ESPN FC",
+      "videoId": "PmVkzJxRFDg",
       "author": "ESPN FC",
-      "pubDate": "2026-08-06T12:00:25+00:00",
-      "link": "https://www.youtube.com/watch?v=Z96rwZ5YNAc"
+      "pubDate": "2026-08-06T23:29:20+00:00",
+      "link": "https://www.youtube.com/watch?v=PmVkzJxRFDg"
+    },
+    {
+      "league": "MLB",
+      "title": "TIGERS vs. MARINERS: Official Full Game Highlights (August 6) | 2026 MLB Season",
+      "videoId": "aJtk4vJX8Iw",
+      "author": "MLB",
+      "pubDate": "2026-08-06T23:27:27+00:00",
+      "link": "https://www.youtube.com/watch?v=aJtk4vJX8Iw"
+    },
+    {
+      "league": "SOCCER",
+      "title": "Who will be Manchester City's next captain? | ESPN FC Extra Time",
+      "videoId": "kEKyus11m1Q",
+      "author": "ESPN FC",
+      "pubDate": "2026-08-06T23:25:10+00:00",
+      "link": "https://www.youtube.com/watch?v=kEKyus11m1Q"
+    },
+    {
+      "league": "MLB",
+      "title": "Philadelphia 76ers star Jaylen Brown threw out the first pitch at Citizens Bank Park!",
+      "videoId": "350jNp-K038",
+      "author": "MLB",
+      "pubDate": "2026-08-06T23:17:31+00:00",
+      "link": "https://www.youtube.com/watch?v=350jNp-K038"
+    },
+    {
+      "league": "SOCCER",
+      "title": "Craig Burley hits out at FIFA's support of Gianni Infantino 👀 'HE CAN'T SAIL THROUGH THIS' | ESPN FC",
+      "videoId": "aei3f0H3ulc",
+      "author": "ESPN FC",
+      "pubDate": "2026-08-06T23:08:55+00:00",
+      "link": "https://www.youtube.com/watch?v=aei3f0H3ulc"
+    },
+    {
+      "league": "MLB",
+      "title": "Pete Crow-Armstrong races home to complete a comeback W for the Cubs!",
+      "videoId": "yLPpR50CLOI",
+      "author": "MLB",
+      "pubDate": "2026-08-06T22:30:40+00:00",
+      "link": "https://www.youtube.com/watch?v=yLPpR50CLOI"
     },
     {
       "league": "NFL",
-      "title": "What to expect from the Commanders offense 🤔",
-      "videoId": "DfAUNRjc6T8",
+      "title": "Will Broncos break the SACK RECORD? 🤔 Kirk Cousins on Mendoza + Stefon Diggs' new role | NFL Live",
+      "videoId": "R-SNiDQEV34",
       "author": "NFL on ESPN",
-      "pubDate": "2026-08-06T12:00:13+00:00",
-      "link": "https://www.youtube.com/watch?v=DfAUNRjc6T8"
+      "pubDate": "2026-08-06T22:25:42+00:00",
+      "link": "https://www.youtube.com/watch?v=R-SNiDQEV34"
     },
     {
       "league": "MLB",
-      "title": "Angel Genao collects FOUR hits in historic MLB debut and the BEST Highlights from 8/5/26!",
-      "videoId": "DD0U_mWwHeM",
+      "title": "BLUE JAYS vs. CUBS: Official Full Game Highlights (August 6) | 2026 MLB Season",
+      "videoId": "nMuSEjaaZCA",
       "author": "MLB",
-      "pubDate": "2026-08-06T11:00:28+00:00",
-      "link": "https://www.youtube.com/watch?v=DD0U_mWwHeM"
+      "pubDate": "2026-08-06T22:19:58+00:00",
+      "link": "https://www.youtube.com/watch?v=nMuSEjaaZCA"
+    },
+    {
+      "league": "SOCCER",
+      "title": "Bruno Guimarães to Arsenal REACTION 👀 Will they REPEAT as Premier League Champions? 😳 | ESPN FC",
+      "videoId": "RW-LBaRKPPs",
+      "author": "ESPN FC",
+      "pubDate": "2026-08-06T22:12:40+00:00",
+      "link": "https://www.youtube.com/watch?v=RW-LBaRKPPs"
     },
     {
       "league": "MLB",
-      "title": "Highlights from ALL GAMES on 8/5 (PCA, Ohtani each homer TWICE, Arraez's 1st Phillies HR and MORE!)",
-      "videoId": "R14D5hQgc7w",
+      "title": "WALK-OFF WINNERS ⚡ Pete Crow-Armstrong uses his speed to win it for the Cubs! | MLB Highlights",
+      "videoId": "-qL7uvN9Vvk",
       "author": "MLB",
-      "pubDate": "2026-08-06T10:00:30+00:00",
-      "link": "https://www.youtube.com/watch?v=R14D5hQgc7w"
+      "pubDate": "2026-08-06T22:09:54+00:00",
+      "link": "https://www.youtube.com/watch?v=-qL7uvN9Vvk"
+    },
+    {
+      "league": "SOCCER",
+      "title": "Rodri to Barcelona? 😳 + REACTION to Ferran Torres' comments on his future | ESPN FC",
+      "videoId": "olvAF_l42Fs",
+      "author": "ESPN FC",
+      "pubDate": "2026-08-06T22:05:50+00:00",
+      "link": "https://www.youtube.com/watch?v=olvAF_l42Fs"
+    },
+    {
+      "league": "SOCCER",
+      "title": "REACTION to Vinicius Jr. signing a new contract with Real Madrid + Yan Diomande transfer | ESPN FC",
+      "videoId": "h0DjEFBMVO8",
+      "author": "ESPN FC",
+      "pubDate": "2026-08-06T21:54:11+00:00",
+      "link": "https://www.youtube.com/watch?v=h0DjEFBMVO8"
+    },
+    {
+      "league": "NFL",
+      "title": "Panthers vs. Cardinals Hall of Fame Game PREVIEW 🍿 + Expectations for the season | NFL Live",
+      "videoId": "45OCnMuyYpE",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-08-06T21:28:43+00:00",
+      "link": "https://www.youtube.com/watch?v=45OCnMuyYpE"
+    },
+    {
+      "league": "NBA",
+      "title": "Jaylen Brown had a warm welcome for his 76ers introductory presser",
+      "videoId": "lDliyezxmQs",
+      "author": "NBA",
+      "pubDate": "2026-08-06T21:19:07+00:00",
+      "link": "https://www.youtube.com/watch?v=lDliyezxmQs"
+    },
+    {
+      "league": "NHL",
+      "title": "Skaters Making Insane Saves (They Keep Getting Better)",
+      "videoId": "Ms3lnTuxMqc",
+      "author": "NHL",
+      "pubDate": "2026-08-06T21:00:24+00:00",
+      "link": "https://www.youtube.com/watch?v=Ms3lnTuxMqc"
+    },
+    {
+      "league": "NFL",
+      "title": "Turtle soup and gator bites 👀 (via The Rich Eisen Show)",
+      "videoId": "cWpyPfYM1nI",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-08-06T20:39:35+00:00",
+      "link": "https://www.youtube.com/watch?v=cWpyPfYM1nI"
+    },
+    {
+      "league": "NBA",
+      "title": "Jaylen Brown is hyped to be a 76er!",
+      "videoId": "ZpboOa8WR-8",
+      "author": "NBA",
+      "pubDate": "2026-08-06T19:47:23+00:00",
+      "link": "https://www.youtube.com/watch?v=ZpboOa8WR-8"
+    },
+    {
+      "league": "NBA",
+      "title": "Jaylen Brown holds up his #7 Sixers jersey for the first time",
+      "videoId": "V7R2e4uXHE0",
+      "author": "NBA",
+      "pubDate": "2026-08-06T19:46:11+00:00",
+      "link": "https://www.youtube.com/watch?v=V7R2e4uXHE0"
+    },
+    {
+      "league": "NBA",
+      "title": "Jaylen Brown's FULL 76ers Introductory Press Conference",
+      "videoId": "0ZULyy_ax6M",
+      "author": "NBA",
+      "pubDate": "2026-08-06T19:44:09+00:00",
+      "link": "https://www.youtube.com/watch?v=0ZULyy_ax6M"
+    },
+    {
+      "league": "NBA",
+      "title": "Jaylen Brown says he knows they are good on paper but it will take a lot of work",
+      "videoId": "5HIqE8ytKgs",
+      "author": "NBA",
+      "pubDate": "2026-08-06T19:43:45+00:00",
+      "link": "https://www.youtube.com/watch?v=5HIqE8ytKgs"
+    },
+    {
+      "league": "NBA",
+      "title": "Planting his Flagg 🏁",
+      "videoId": "8JyU-b58PA8",
+      "author": "NBA",
+      "pubDate": "2026-08-06T19:14:07+00:00",
+      "link": "https://www.youtube.com/watch?v=8JyU-b58PA8"
+    },
+    {
+      "league": "NFL",
+      "title": "Tony Gonzalez said NO to unretiring for Brady, Gronk, Belichick &amp; the Pats 😮 | The Rich Eisen Show",
+      "videoId": "vx09Shn5DOg",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-08-06T19:04:23+00:00",
+      "link": "https://www.youtube.com/watch?v=vx09Shn5DOg"
+    },
+    {
+      "league": "NBA",
+      "title": "Jaylen Brown talks about the leadership dynamic in Philadelphia",
+      "videoId": "mMcvBUKLlew",
+      "author": "NBA",
+      "pubDate": "2026-08-06T19:03:16+00:00",
+      "link": "https://www.youtube.com/watch?v=mMcvBUKLlew"
+    },
+    {
+      "league": "NFL",
+      "title": "The Aaron Donald saga continues 😅",
+      "videoId": "fP9o81SLhvg",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-08-06T18:34:55+00:00",
+      "link": "https://www.youtube.com/watch?v=fP9o81SLhvg"
+    },
+    {
+      "league": "NBA",
+      "title": "Jaden McDaniels Had No Mercy at the Rim 😳 | Top Dunks of the 2025-26 Season",
+      "videoId": "SeE2x7vEBns",
+      "author": "NBA",
+      "pubDate": "2026-08-06T18:00:25+00:00",
+      "link": "https://www.youtube.com/watch?v=SeE2x7vEBns"
+    },
+    {
+      "league": "NFL",
+      "title": "Drew Petzing Reveals His Vision for the Lions Offense",
+      "videoId": "4wc4-c0wGN4",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-08-06T18:00:23+00:00",
+      "link": "https://www.youtube.com/watch?v=4wc4-c0wGN4"
+    },
+    {
+      "league": "NFL",
+      "title": "Shane Steichen says Jonathan Taylor's new deal is HUGE for the Colts! 👏 | The Rich Eisen Show",
+      "videoId": "69Bgf8_WEZ0",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-08-06T17:55:10+00:00",
+      "link": "https://www.youtube.com/watch?v=69Bgf8_WEZ0"
+    },
+    {
+      "league": "NFL",
+      "title": "Will the Texans pay C.J. Stroud to be franchise QB? GM Nick Caserio ANSWERS 👀 | The Rich Eisen Show",
+      "videoId": "8j2FNX3C5hc",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-08-06T17:13:12+00:00",
+      "link": "https://www.youtube.com/watch?v=8j2FNX3C5hc"
+    },
+    {
+      "league": "SOCCER",
+      "title": "😮‍💨😮‍💨😮‍💨 (via @ron.brki/TT)",
+      "videoId": "EE-cUAA95RM",
+      "author": "ESPN FC",
+      "pubDate": "2026-08-06T16:50:03+00:00",
+      "link": "https://www.youtube.com/watch?v=EE-cUAA95RM"
+    },
+    {
+      "league": "SOCCER",
+      "title": "Noni Madueke staying sharp 😮‍💨 (via @Tagoe121/TT)",
+      "videoId": "ynysCuxj99w",
+      "author": "ESPN FC",
+      "pubDate": "2026-08-06T15:45:14+00:00",
+      "link": "https://www.youtube.com/watch?v=ynysCuxj99w"
+    },
+    {
+      "league": "NHL",
+      "title": "EVERY GOAL Scored Last Season by the 2026-27 Chicago Blackhawks Roster",
+      "videoId": "WA0pYruTXHI",
+      "author": "NHL",
+      "pubDate": "2026-08-06T15:00:29+00:00",
+      "link": "https://www.youtube.com/watch?v=WA0pYruTXHI"
     },
     {
       "league": "WNBA",
@@ -6145,38 +6349,6 @@
       "author": "WNBA",
       "pubDate": "2026-08-06T04:56:02+00:00",
       "link": "https://www.youtube.com/watch?v=qUhOD1ztX0w"
-    },
-    {
-      "league": "MLB",
-      "title": "PADRES vs. D-BACKS: Official Full Game Highlights (August 5) | 2026 MLB Season",
-      "videoId": "c6me7KeNTVY",
-      "author": "MLB",
-      "pubDate": "2026-08-06T04:53:34+00:00",
-      "link": "https://www.youtube.com/watch?v=c6me7KeNTVY"
-    },
-    {
-      "league": "MLB",
-      "title": "TIGERS vs. MARINERS: Official Full Game Highlights (August 5) | 2026 MLB Season",
-      "videoId": "4TM_wK28LaI",
-      "author": "MLB",
-      "pubDate": "2026-08-06T04:51:42+00:00",
-      "link": "https://www.youtube.com/watch?v=4TM_wK28LaI"
-    },
-    {
-      "league": "SOCCER",
-      "title": "Antoine Griezmann in front of the home fans 🇫🇷🇺🇸🔥",
-      "videoId": "VfBq3OKOzbk",
-      "author": "ESPN FC",
-      "pubDate": "2026-08-06T04:03:01+00:00",
-      "link": "https://www.youtube.com/watch?v=VfBq3OKOzbk"
-    },
-    {
-      "league": "MLB",
-      "title": "CARDINALS vs. YANKEES: Official Full Game Highlights (August 5) | 2026 MLB Season",
-      "videoId": "FBGIRXgtggc",
-      "author": "MLB",
-      "pubDate": "2026-08-06T04:00:03+00:00",
-      "link": "https://www.youtube.com/watch?v=FBGIRXgtggc"
     },
     {
       "league": "WNBA",
@@ -6195,92 +6367,12 @@
       "link": "https://www.youtube.com/watch?v=rtvMHTOzPyQ"
     },
     {
-      "league": "MLB",
-      "title": "NATIONALS vs. PHILLIES: Official Full Game Highlights (August 5) | 2026 MLB Season",
-      "videoId": "yjXU1B9cQ8w",
-      "author": "MLB",
-      "pubDate": "2026-08-06T03:21:39+00:00",
-      "link": "https://www.youtube.com/watch?v=yjXU1B9cQ8w"
-    },
-    {
-      "league": "SOCCER",
-      "title": "Monterrey vs. Orlando City SC | Leagues Cup Highlights | ESPN FC",
-      "videoId": "Ie8SatDogB4",
-      "author": "ESPN FC",
-      "pubDate": "2026-08-06T03:16:36+00:00",
-      "link": "https://www.youtube.com/watch?v=Ie8SatDogB4"
-    },
-    {
-      "league": "SOCCER",
-      "title": "Just a couple days after Fede Valverde caught Vini Jr. in action 😅 (via @vinijr/TT)",
-      "videoId": "5yxxSzXDKu4",
-      "author": "ESPN FC",
-      "pubDate": "2026-08-06T03:00:00+00:00",
-      "link": "https://www.youtube.com/watch?v=5yxxSzXDKu4"
-    },
-    {
-      "league": "MLB",
-      "title": "TWINS vs. ROYALS: Official Full Game Highlights (August 5) | 2026 MLB Season",
-      "videoId": "Nx6DcKwnJBo",
-      "author": "MLB",
-      "pubDate": "2026-08-06T02:53:27+00:00",
-      "link": "https://www.youtube.com/watch?v=Nx6DcKwnJBo"
-    },
-    {
-      "league": "MLB",
-      "title": "PIRATES vs. BREWERS: Official Full Game Highlights (August 5) | 2026 MLB Season",
-      "videoId": "Ndn29TTkpr0",
-      "author": "MLB",
-      "pubDate": "2026-08-06T02:44:44+00:00",
-      "link": "https://www.youtube.com/watch?v=Ndn29TTkpr0"
-    },
-    {
-      "league": "SOCCER",
-      "title": "Unreal 😱",
-      "videoId": "mZV63Wt5Yy0",
-      "author": "ESPN FC",
-      "pubDate": "2026-08-06T02:38:09+00:00",
-      "link": "https://www.youtube.com/watch?v=mZV63Wt5Yy0"
-    },
-    {
-      "league": "SOCCER",
-      "title": "Messi defensive work 🔒",
-      "videoId": "d7CtHXotiIw",
-      "author": "ESPN FC",
-      "pubDate": "2026-08-06T02:37:06+00:00",
-      "link": "https://www.youtube.com/watch?v=d7CtHXotiIw"
-    },
-    {
-      "league": "SOCCER",
-      "title": "MESSI SCORES A BRACE IN MIAMI'S FIRST LEAGUES CUP MATCH 🔥",
-      "videoId": "zLmjvmj4TCo",
-      "author": "ESPN FC",
-      "pubDate": "2026-08-06T02:36:02+00:00",
-      "link": "https://www.youtube.com/watch?v=zLmjvmj4TCo"
-    },
-    {
-      "league": "SOCCER",
-      "title": "Messi makes it look too easy 😩",
-      "videoId": "Kl1O_ZMMN9c",
-      "author": "ESPN FC",
-      "pubDate": "2026-08-06T02:34:52+00:00",
-      "link": "https://www.youtube.com/watch?v=Kl1O_ZMMN9c"
-    },
-    {
       "league": "WNBA",
       "title": "Phoenix Mercury vs. Atlanta Dream | FULL GAME HIGHLIGHTS | August 5, 2026",
       "videoId": "9foIyLMuwqQ",
       "author": "WNBA",
       "pubDate": "2026-08-06T01:31:24+00:00",
       "link": "https://www.youtube.com/watch?v=9foIyLMuwqQ"
-    },
-    {
-      "league": "NFL",
-      "title": "NFL QB Tiers (Lamar falls to Tier 2 + Some harsh truth for Herbert) | The Bill Barnwell Show",
-      "videoId": "dFSSNNM4k5g",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-08-06T00:00:29+00:00",
-      "link": "https://www.youtube.com/watch?v=dFSSNNM4k5g"
     },
     {
       "league": "NHL",
@@ -6291,124 +6383,12 @@
       "link": "https://www.youtube.com/watch?v=hDlqSBT4eZQ"
     },
     {
-      "league": "NBA",
-      "title": "Some Great Vertical Jumps of the 2025-26 NBA Season",
-      "videoId": "Fk8al1RZiSs",
-      "author": "NBA",
-      "pubDate": "2026-08-05T21:53:32+00:00",
-      "link": "https://www.youtube.com/watch?v=Fk8al1RZiSs"
-    },
-    {
-      "league": "NFL",
-      "title": "Aaron Rodgers is LETTING IT FLY in 'scaled back' training camp + Browns' QB battle update | NFL Live",
-      "videoId": "j7Uhb16Mc-g",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-08-05T21:19:52+00:00",
-      "link": "https://www.youtube.com/watch?v=j7Uhb16Mc-g"
-    },
-    {
-      "league": "NFL",
-      "title": "How will Stefon Diggs impact the Commanders' offense? 🤨 | NFL Live",
-      "videoId": "Y-jwPGH8ets",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-08-05T21:02:13+00:00",
-      "link": "https://www.youtube.com/watch?v=Y-jwPGH8ets"
-    },
-    {
-      "league": "NFL",
-      "title": "This Christian Gonzalez connection 🤯",
-      "videoId": "-Q3MPvGNVe4",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-08-05T21:00:05+00:00",
-      "link": "https://www.youtube.com/watch?v=-Q3MPvGNVe4"
-    },
-    {
-      "league": "NFL",
-      "title": "Stefon Diggs is set to sign a one-year deal worth up to $12 million with the Commanders 🏈",
-      "videoId": "y3h8kACuwcM",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-08-05T18:44:24+00:00",
-      "link": "https://www.youtube.com/watch?v=y3h8kACuwcM"
-    },
-    {
-      "league": "NBA",
-      "title": "Dylan Harper and his Facial Expressions/Reactions throughout his rookie season",
-      "videoId": "8OzphG5LGFM",
-      "author": "NBA",
-      "pubDate": "2026-08-05T18:44:15+00:00",
-      "link": "https://www.youtube.com/watch?v=8OzphG5LGFM"
-    },
-    {
-      "league": "NBA",
-      "title": "Some Great Anthony Edwards Dunks Throughout his Career",
-      "videoId": "WMS196k5B58",
-      "author": "NBA",
-      "pubDate": "2026-08-05T18:38:27+00:00",
-      "link": "https://www.youtube.com/watch?v=WMS196k5B58"
-    },
-    {
       "league": "NHL",
       "title": "Harvard ➡️ BC Connection",
       "videoId": "xBtAScZliVg",
       "author": "NHL",
       "pubDate": "2026-08-05T18:00:33+00:00",
       "link": "https://www.youtube.com/watch?v=xBtAScZliVg"
-    },
-    {
-      "league": "NBA",
-      "title": "When Anthony Edwards called game vs. OKC last December! 😮‍💨",
-      "videoId": "hWCuHRxoYbA",
-      "author": "NBA",
-      "pubDate": "2026-08-05T17:56:41+00:00",
-      "link": "https://www.youtube.com/watch?v=hWCuHRxoYbA"
-    },
-    {
-      "league": "WNBA",
-      "title": "July Rookie of the Month: Olivia Miles",
-      "videoId": "CxlYoV5cTcQ",
-      "author": "WNBA",
-      "pubDate": "2026-08-05T17:38:22+00:00",
-      "link": "https://www.youtube.com/watch?v=CxlYoV5cTcQ"
-    },
-    {
-      "league": "NBA",
-      "title": "Air Time Presents: Road to Peach Jam | Episode 3",
-      "videoId": "7ACxjRNqA98",
-      "author": "NBA",
-      "pubDate": "2026-08-05T17:23:40+00:00",
-      "link": "https://www.youtube.com/watch?v=7ACxjRNqA98"
-    },
-    {
-      "league": "WNBA",
-      "title": "July Western Conference Player of the Month: A'ja Wilson",
-      "videoId": "p9BNZoiEwVc",
-      "author": "WNBA",
-      "pubDate": "2026-08-05T17:08:43+00:00",
-      "link": "https://www.youtube.com/watch?v=p9BNZoiEwVc"
-    },
-    {
-      "league": "WNBA",
-      "title": "July Eastern Conference Player of the Month: Kelsey Mitchell",
-      "videoId": "zBf_6twVrxE",
-      "author": "WNBA",
-      "pubDate": "2026-08-05T17:08:33+00:00",
-      "link": "https://www.youtube.com/watch?v=zBf_6twVrxE"
-    },
-    {
-      "league": "NBA",
-      "title": "Air Time Presents: Road to Peach Jam | Episode 3",
-      "videoId": "1hYCjq5YNTg",
-      "author": "NBA",
-      "pubDate": "2026-08-05T17:04:42+00:00",
-      "link": "https://www.youtube.com/watch?v=1hYCjq5YNTg"
-    },
-    {
-      "league": "NBA",
-      "title": "Dylan Harper Made Defenders Regret Jumping 😤 | Best Dunks of the 2025-26 Season",
-      "videoId": "L1ag_6WI_Q0",
-      "author": "NBA",
-      "pubDate": "2026-08-05T17:00:12+00:00",
-      "link": "https://www.youtube.com/watch?v=L1ag_6WI_Q0"
     }
   ]
 }
