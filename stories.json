@@ -1,81 +1,73 @@
 {
   "clusters": [
     {
-      "category": "leagues",
+      "category": "labor",
       "importance": 7,
-      "leadHeadline": "WNBA viewership continues to rise heading into stretch run",
-      "leadSource": "Sports Media Watch · 3h ago",
-      "leadUrl": "https://www.sportsmediawatch.com/2026/08/wnba-viewership-increase-fever-lynx-ratings-abc/",
-      "summary": "WNBA viewership continues climbing into the stretch run, with league-wide averaging up 12% year-over-year at 742,000 viewers per game through late July.",
-      "article": "<cite index=\"13-1,13-2\">League-wide viewership has risen 12 percent year over year, averaging 742,000 viewers per game across all partners. More than 73 million people have watched WNBA games this season, a record at the All-Star break.</cite>\n\nThe gains build on sustained momentum from earlier in the summer. <cite index=\"11-1\">The Indiana Fever-Minnesota Lynx matchup on ABC averaged 2.5 million viewers on August 2, up 77 percent year-over-year.</cite> <cite index=\"11-5\">Through 19 games, the WNBA on ESPN networks is averaging 1.2 million viewers, up five percent from the 2025 WNBA regular season average.</cite>\n\n<cite index=\"13-5\">Caitlin Clark remains the biggest draw on the schedule.</cite> <cite index=\"13-8\">Fever games account for the seven most-watched broadcasts of the year.</cite> As the regular season enters its final weeks, the league heads toward the playoffs with a larger national audience than a year ago, a shift that could bolster media-rights negotiations and sponsorship discussions heading into next season.",
-      "tweets": [
-        {
-          "url": "https://twitter.com/ESPNPR/status/2084761953918972131",
-          "html": "<blockquote class=\"twitter-tweet\" data-dnt=\"true\" data-theme=\"dark\"><p>This past Sunday, ESPN delivered its 2nd most-watched regular-season @WNBA game ever! 👏\n\n🏀 Indiana Fever vs Minnesota Lynx averaged 2.5M viewers on ABC, up 77% YoY\n\nDetails: https://t.co/MRyOg8gHEU https://t.co/sUy8xLFa4Q</p>&mdash; ESPN PR (@ESPNPR) <a href=\"https://twitter.com/ESPNPR/status/2084761953918972131\">August 4, 2026</a></blockquote>",
-          "author_name": "ESPN PR",
-          "author_url": "https://twitter.com/ESPNPR",
-          "dateMs": 1785880957000
-        }
-      ]
+      "leadHeadline": "Infantino denies claims Uefa paid off alleged 'lover'",
+      "leadSource": "BBC Sport · 9h ago",
+      "leadUrl": "https://www.bbc.co.uk/sport/football/articles/cx2vw5z0q7no?at_medium=RSS&amp;at_campaign=rss",
+      "summary": "<cite index=\"1-3,2-11\">UEFA paid a six-figure severance and MBA fees to a woman alleged to have had a relationship with Gianni Infantino while he was UEFA general secretary</cite>. <cite index=\"1-1\">Infantino denies the allegations, calling them \"categorically false and defamatory.\"</cite>",
+      "article": "<cite index=\"1-6\">FIFA president Gianni Infantino arranged for his alleged mistress to be paid off by UEFA with a six-figure severance package while he served as the organization's general secretary</cite>, The Daily Telegraph reported Friday.\n\n<cite index=\"2-9\">The unnamed female employee allegedly had a relationship with Infantino during his tenure as UEFA General Secretary from 2009 until 2016</cite>. <cite index=\"2-11,2-12\">UEFA provided the six-figure sum and also covered the costs for her to pursue an MBA at a local business school, with MBA fees alone potentially amounting to approximately £45,000 per year</cite>.\n\n<cite index=\"1-1\">Infantino's spokesperson stated that \"the president strongly denies all allegations\", describing the claims as \"categorically false and defamatory.\"</cite> <cite index=\"2-7\">The spokesperson added: \"No employee at UEFA and FIFA has ever raised a complaint regarding Mr Infantino's behaviour because there never was an incident where he was involved.\"</cite>\n\n<cite index=\"2-3\">UEFA clarified that \"the payment was in line with the regulations that existed for departing staff at the time,\" while also acknowledging that \"such regulations have been tightened since 2016.\"</cite>\n\nThe allegation arrives as <cite index=\"3-11\">Infantino apologized for \"errors\" in his controversial World Cup private investment proposal but did not step down after receiving backing from senior executives</cite>.",
+      "tweets": []
     },
     {
-      "category": "revenue",
+      "category": "media",
+      "importance": 6,
+      "leadHeadline": "CFTC Eyes Prediction-Market Conflicts of Interest: KeyPoints",
+      "leadSource": "Sportico · 13h ago",
+      "leadUrl": "https://www.sportico.com/business/sports-betting/2026/prediction-market-affiliate-rule-cftc-conflicts-trading-1234941260/",
+      "summary": "The Commodity Futures Trading Commission has identified at least six prediction-market exchanges with structural conflicts of interest via affiliate relationships, proposing new regulatory rules to address the trend. The move signals tightening federal oversight of the rapidly scaling prediction-betting sector.",
+      "article": "The Commodity Futures Trading Commission has proposed rules targeting what it identifies as systemic conflicts of interest across at least six prediction-market exchanges that operate both the trading venue itself and a principal trading desk within the same corporate structure.\n\nThe proposed regulations follow a surge in prediction-market growth and adoption by major sportsbook operators like DraftKings and FanDuel, which have downplayed concerns that prediction markets will cannibalize their traditional betting products. DraftKings CEO Jason Robins told analysts Friday that prediction markets represent a fundamentally different economics model, positioning them as \"peer-to-wall-street\" rather than peer-to-peer products.\n\nThe CFTC's intervention signals federal regulators view prediction markets as distinct enough from sports betting to warrant separate oversight. The affiliate-relationship issue centers on whether companies profiting from both the exchange and proprietary trading desks have incentive to manipulate prices or restrict retail access.\n\nFor sportsbooks, the regulatory clarity could accelerate adoption or slow it, depending on how stringent final rules become. For prediction-market operators, the CFTC move suggests a regulatory environment stricter than the hands-off approach prediction markets have enjoyed so far. Expect lobbying intensity to increase as the proposed rules move toward finalization.",
+      "tweets": []
+    },
+    {
+      "category": "media",
       "importance": 6,
       "leadHeadline": "WBD quarterly advertising revenue plummets 22% YoY",
-      "leadSource": "Sports Media Watch · 7h ago",
+      "leadSource": "Sports Media Watch · 10h ago",
       "leadUrl": "https://www.sportsmediawatch.com/2026/08/wbd-advertising-revenue-netflix-costner-mlb-field-of-dreams-versant-guidance/",
-      "summary": "Warner Bros. Discovery's advertising revenue fell 22 percent year-over-year in Q2, continuing a steep decline for a media giant pivoting away from sports rights while Kevin Costner will anchor MLB's Field of Dreams broadcast.",
-      "article": "Warner Bros. Discovery reported a 22 percent year-over-year drop in quarterly advertising revenue, per Sports Media Watch, marking an ongoing struggle for the media conglomerate as it reckons with legacy linear TV erosion and sports-rights divestment. The decline mirrors broader ad-market softness but carries outsized weight for WBD given its prior heavy reliance on sports inventory. The company's pivot away from costly live-sports packages (NBA rights disputes, golf fragmentation) was meant to stabilize margins, but the advertising revenue miss suggests the strategy hasn't yet arrested the bleeding. Meanwhile, WBD is doubling down on content differentiation: Kevin Costner will anchor MLB's Field of Dreams broadcast, a premium event package that the company hopes drives prestige and ad pricing. The Costner tie-up is part of WBD's attempt to mint signature moments in sports media even as it retreats from full league packages. Separately, Paramount-WBD coordination continues to shape sports distribution. For investors and sports-rights holders, WBD's Q2 ad collapse is a warning signal: linear sports broadcasting can no longer subsidize legacy media balance sheets alone.",
+      "summary": "Warner Bros. Discovery reported a 22% year-over-year drop in quarterly advertising revenue, a sharp decline that signals continued weakness in traditional media ad markets even as the company pushes sports rights expansion. The figure reflects broader industry headwinds affecting legacy broadcasters.",
+      "article": "Warner Bros. Discovery's Q2 advertising revenue fell 22 percent year-over-year, a steep decline that underscores the structural challenge facing legacy media companies even as they compete aggressively for sports rights.\n\nThe company has invested heavily in sports content, including holdings in NBA, NHL, and golf broadcasting through its Turner Sports division. Despite that portfolio, WBD's advertising business is contracting at a pace that outpaces competitor declines, suggesting either higher churn in its advertiser base or reduced pricing power versus rivals.\n\nThe timing compounds pressure on WBD's strategy: sports rights costs continue to escalate, driven by streaming competition from Amazon Prime, Apple TV+, and Netflix, while traditional TV ad inventory loses value. The math is tightening. Advertising-supported models worked when WBD had captive audiences; cord-cutting and streaming fragmentation have eroded that advantage.\n\nWBD has signaled it may pivot toward partnership with Paramount, a fellow struggling legacy broadcaster, though details remain unclear. Sports remain a defensive anchor—live events still command premium ad rates—but a 22% year-over-year drop suggests that anchor is slipping. Expect the company to accelerate cost cuts or seek M&A relief in coming quarters.",
       "tweets": []
     },
     {
       "category": "contracts",
-      "importance": 6,
-      "leadHeadline": "The Rams Juggernaut Is More Than 'F Them Picks'",
-      "leadSource": "Front Office Sports · 8h ago",
-      "leadUrl": "https://frontofficesports.com/rams-picks-salary-cap-super-bowl/",
-      "summary": "The Los Angeles Rams, positioned as Super Bowl favorites, built their roster through aggressive trades and selective free agency, not through draft capital hoarding, challenging the NFL's conventional wisdom on team construction.",
-      "article": "The Rams, widely considered Super Bowl favorites heading into this season, constructed their roster through a strategy that flies against NFL orthodoxy: aggressive trading of future draft picks combined with high-priced free-agent signings. Front Office Sports digs into how the Rams' front office under general manager Les Snead has doubled down on win-now acquisitions rather than accumulating draft capital. The approach reverses the league's recent trend toward \"asset management,\" where teams stockpile picks and young talent. Instead, the Rams have consistently mortgaged future picks to acquire established stars and retain key contributors. This year's roster reflects that philosophy: expensive veterans in their prime years, proven starters at nearly every position, and minimal youth development. The gamble works only if the team wins soon, because the draft cupboard grows barren. If injury strikes a key player or the offense stalls, the Rams lack the young depth that picks would have provided. Yet if they reach February healthy, the construction thesis vindicates itself: immediate contention matters more than optionality. The strategy also signals confidence in the coaching staff and player evaluation. By refusing to rebuild or trade stars for picks, Snead is betting on his ability to identify late-round contributors and undrafted free agents. It's a high-wire act, but the Rams' current roster composition suggests they've earned the latitude to attempt it.",
+      "importance": 5,
+      "leadHeadline": "Grange: Clues suggest Kawhi Leonard will end up with Raptors",
+      "leadSource": "Sportsnet · 13h ago",
+      "leadUrl": "",
+      "summary": "Sportsnet's Michael Grange reports available evidence points toward Kawhi Leonard joining the Toronto Raptors, resolving a trade standoff with the Clippers ahead of the 2026-27 season. The 2019 Finals MVP would give Toronto a major star acquisition.",
+      "article": "The Kawhi Leonard situation between the Los Angeles Clippers and Toronto Raptors appears headed toward resolution, with Sportsnet's analysis suggesting the two-time All-NBA forward will ultimately land in Toronto for the coming season.\n\nThe exact framework the NBA will impose to complete the deal remains unclear, per reporting, but the path toward Leonard in a Raptors uniform on opening night is the most probable outcome of the standoff.\n\nLeonard, 34, remains an elite two-way wing: a legitimate All-Star candidate and one of the league's premier perimeter defenders. Toronto acquired the 2019 Finals MVP in a trade that won the championship that year, and bringing him back would represent a significant star acquisition in a league where such moves are scarce.\n\nFor the Raptors, Leonard fills a hole created by the team's recent roster churn. For the Clippers, moving Leonard would be a reversal from their stated stance earlier in the offseason but could accelerate a retool or reset.\n\nThe NBA's involvement suggests the league mediated the trade framework itself, a sign of how complex the logistics became. Expect formal announcement within days or after the draft concludes.",
       "tweets": []
     },
     {
       "category": "media",
       "importance": 5,
-      "leadHeadline": "DraftKings CEO: Prediction Markets Are Peer-to-Wall Street",
-      "leadSource": "Sportico · 9h ago",
-      "leadUrl": "https://www.sportico.com/business/sports-betting/2026/draftkings-ceo-robins-prediction-markets-peer-peer-wall-st-1234941367/",
-      "summary": "DraftKings CEO Jason Robins is positioning the company's prediction-market product as an alternative to Wall Street financial instruments, not as a casual peer-to-peer betting game, marking a strategic pivot in how prediction markets are marketed.",
-      "article": "DraftKings CEO Jason Robins told analysts Friday that the company is repositioning its prediction-market product not as peer-to-peer casual betting, but as a legitimate financial product that competes with institutional Wall Street tools. Unlike competitors who have marketed prediction markets as opinionated casuals wagering against each other, DraftKings is leaning into the legitimacy angle: retail traders pricing real-world events, the underlying economics of prediction-market liquidity, and implicit financial hedging. Robins' framing matters for regulatory optics and institutional adoption. If prediction markets are casual gambling, regulators can apply sports-betting frameworks. If they're financial instruments, the regulatory path shifts toward commodity futures and SEC oversight. This positioning also addresses a brewing conflict-of-interest problem flagged by the CFTC. At least six prediction-market exchanges own both the exchange itself and affiliated principal trading desks, creating the exact structure that generated regulatory backlash in crypto and options markets. DraftKings and FanDuel have both downplayed the idea that prediction markets cannibalize their traditional sportsbooks. But Robins' Wall Street framing suggests the company sees prediction markets as an entirely separate revenue stream with fundamentally different customers: sophisticated traders, not bettors. The move is a high-stakes gamble on regulatory tolerance and institutional money flow.",
+      "leadHeadline": "How WNBA Teams Are Responding to the League's Latest Culture War",
+      "leadSource": "Front Office Sports · 10h ago",
+      "leadUrl": "https://frontofficesports.com/wnba-media-transgender-outkick/",
+      "summary": "The WNBA issued a new media policy this year, and teams are navigating how to respond to league directives on player speech and team communications. The policy touches on broader culture issues facing women's basketball.",
+      "article": "The WNBA's new media policy has created friction at the franchise level as teams decide how aggressively to enforce league directives affecting player statements and team communications.\n\nThe sources do not specify the exact policy language, but Front Office Sports frames the issue as a \"culture war,\" suggesting the directive touches on politically sensitive or socially charged topics that teams must navigate with their rosters and fan bases.\n\nWNBA teams have historically operated with more latitude on social-issue messaging than their NBA counterparts, a byproduct of the league's smaller footprint and closer connection to fan communities. A league-wide policy shift would represent a tightening of that autonomy.\n\nFor franchises, the tension is acute: enforce league policy and risk alienating players and progressive fan bases, or resist and face league discipline. Neither path is costless.\n\nThe WNBA has grown its viewership notably heading into the season's final stretch, per concurrent reporting, suggesting the league is in a strong competitive position. A policy controversy at this moment, when momentum is building, could fracture that goodwill if teams publicly break ranks or players openly challenge the directive.\n\nExpect continued quiet compliance with selective testing of boundaries, a pattern common in leagues trying to manage ideology and business interests simultaneously.",
       "tweets": []
     },
     {
-      "category": "leagues",
-      "importance": 5,
-      "leadHeadline": "CFTC Eyes Prediction-Market Conflicts of Interest: KeyPoints",
-      "leadSource": "Sportico · 9h ago",
-      "leadUrl": "https://www.sportico.com/business/sports-betting/2026/prediction-market-affiliate-rule-cftc-conflicts-trading-1234941260/",
-      "summary": "The Commodity Futures Trading Commission has identified structural conflicts of interest in at least six prediction-market exchanges that own both the exchange and affiliated trading desks, setting up potential regulatory action.",
-      "article": "The Commodity Futures Trading Commission identified conflicts of interest embedded in the corporate structures of at least six prediction-market exchanges, per Sportico. The issue: these companies operate both the market exchange itself and a principal trading desk that profits from the other side of customer trades. That structure is identical to conflicts the SEC and CFTC have scrutinized in crypto exchanges and options brokers. The CFTC last week proposed rules aimed at addressing the trend, signaling that the regulator views prediction markets as securities-adjacent instruments subject to commodity-futures oversight. The conflict is acute: if an exchange owns a trading desk, the exchange has a financial incentive to set prices and liquidity flows in ways that benefit its own desk, not the public market. Prediction-market companies have built these structures partly because the regulatory landscape was unclear until now. DraftKings and FanDuel, the dominant players, downplay cannibalization concerns between prediction markets and their core sportsbooks. But the CFTC's focus on structure suggests the regulator is more concerned with fairness and market integrity than with betting-market competition. The proposed rules will likely require exchanges to divest or silo their trading operations. For prediction-market companies, this is the first real moment of regulatory friction.",
-      "tweets": []
-    },
-    {
-      "category": "leagues",
+      "category": "revenue",
       "importance": 4,
-      "leadHeadline": "Embattled FIFA boss Gianni Infantino linked to alleged paid-off mistress as pressure to resign grows",
-      "leadSource": "NY Post Sports · 3h ago",
-      "leadUrl": "https://nypost.com/2026/08/07/sports/fifa-boss-gianni-infantino-linked-to-alleged-paid-off-mistress/",
-      "summary": "FIFA president Gianni Infantino is facing renewed pressure over allegations that UEFA paid off a severance to an alleged intimate partner while he served as UEFA general secretary, with Infantino denying the claims.",
-      "article": "FIFA president Gianni Infantino denied allegations that UEFA paid a severance to an alleged intimate partner while he held the position of UEFA general secretary, per reporting from the NY Post and BBC Sport. A Daily Telegraph investigation alleged that the payment occurred, fueling fresh calls for Infantino to resign. Infantino rejected the characterization and said he intends to continue in his FIFA role. The scandal arrives as Infantino already faces scrutiny over a failed World Cup private investment scheme and ongoing governance questions. BBC Sport frames the controversy within a broader pattern of Infantino's presidency: the accumulation of personal authority, dependence on private travel, and resistance to institutional oversight. The pressure is intensifying but remains primarily media and political, not institutional. FIFA's executive council has not moved to force a resignation, and Infantino retains backing from several continental federations. However, the combination of the severance allegation, the failed investment pitch, and mounting governance criticism narrows his political runway. The timeline for potential removal is unclear, but each new allegation raises the costs of his continuation.",
+      "leadHeadline": "WNBA viewership continues to rise heading into stretch run",
+      "leadSource": "Sports Media Watch · 7h ago",
+      "leadUrl": "https://www.sportsmediawatch.com/2026/08/wnba-viewership-increase-fever-lynx-ratings-abc/",
+      "summary": "WNBA viewership is tracking ahead of last year's pace as the league enters the final weeks of the regular season, a sign of sustained growth momentum. The metric reinforces the league's upward trajectory in audience and commercial relevance.",
+      "article": "WNBA viewership is comfortably exceeding last year's pace entering the final weeks of the regular season, a continuation of the league's growth trajectory across the 2026 campaign.\n\nThe specifics of the viewership figures are not detailed in the source, but the framing indicates the league is tracking ahead of prior-year comparable periods, not flat or down. For a league still building its mainstream footprint, outpacing prior-year numbers in a non-championship season is a material data point.\n\nThe timing is significant: viewership growth in the regular season's stretch run suggests audiences are investing in playoff races, not just marquee individual performances. That indicates a broader engagement with team narratives and outcomes, not single-star consumption.\n\nFor league stakeholders, the data supports arguments for higher media-rights fees in the next rights negotiation, which is a leverage point in talks with potential new partners or incumbent broadcasters. The growth also validates the league's content investments and player-development pipeline.\n\nThe counterpoint: one season of growth doesn't establish a trend, and viewership can be volatile across smaller media markets. But if the trajectory holds into the playoffs and off-season, the WNBA has a story to sell to partners.",
       "tweets": []
     },
     {
       "category": "leagues",
       "importance": 3,
-      "leadHeadline": "Will Lankshear starts off in style to see Middlesbrough past Wrexham",
-      "leadSource": "The Guardian · 7h ago",
-      "leadUrl": "https://www.theguardian.com/football/2026/aug/07/middlesbrough-wrexham-carabao-cup-match-report",
-      "summary": "Will Lankshear, a £10 million summer signing from Tottenham, scored on his competitive debut as Middlesbrough beat Wrexham 1-0 in the Carabao Cup first round.",
-      "article": "Will Lankshear scored his first competitive goal for Middlesbrough in a 1-0 Carabao Cup victory over Wrexham, finishing a £10 million move from Tottenham with an immediate impact. The young forward hooked home a first-time volley in the 61st minute to secure the win. Lankshear's debut goal eases pressure on a summer signing that carried expectation. For Middlesbrough, an early cup win provides squad rhythm heading into the league campaign. For Wrexham, the loss ends their opening-match run in the competition, though they remain in playoff contention in the EFL Championship.",
+      "leadHeadline": "The Rams Juggernaut Is More Than 'F Them Picks'",
+      "leadSource": "Front Office Sports · 10h ago",
+      "leadUrl": "https://frontofficesports.com/rams-picks-salary-cap-super-bowl/",
+      "summary": "Front Office Sports examines how the Rams built their Super Bowl favorite roster beyond draft-pick trading, the narrative strategy that frames Sean McVay's roster construction. The piece dissects the depth of asset assembly.",
+      "article": "The Los Angeles Rams' Super Bowl-contending roster has been shorthand-labeled around the \"F Them Picks\" narrative, referring to the franchise's willingness to trade future draft capital for immediate win-now players. The deeper breakdown shows a more complex asset-assembly strategy.\n\nFront Office Sports reports the Rams have layered draft acquisition, free agency, and trade activity across multiple years to build redundancy and depth rather than relying on any single acquisition. The framing counters the reductive view that Sean McVay simply mortgaged the future for stars.\n\nThe specifics of the roster construction—which players were acquired via which mechanism, the salary-cap architecture, the age profile of the roster—are referenced but not detailed in the source snippet. The analytical angle is that sustainability matters as much as star power in a championship race.\n\nFor the Rams, the reporting validates their approach heading into a season where contention-window pressure is acute. For other teams, it offers a counterargument to the \"tanking is smarter\" narrative that dominates cap-constrained sports coverage.\n\nThe piece lands as the NFL Draft approaches, making it a timely reminder that draft capital is one lever, not the only one, in franchise building.",
       "tweets": []
     }
   ],
@@ -2404,81 +2396,68 @@
   "ticket_prices": [],
   "sidebar": [
     {
-      "headline": "Katelyn Ohashi chases LA 2028 Olympics spot on her own terms",
-      "source": "The Guardian · 18h ago",
-      "article": "Katelyn Ohashi, the viral UCLA gymnast who stepped away from elite competition a decade ago, is training to make the 2028 Los Angeles Olympics roster. She trains four days a week alongside gymnasts half her age, beginning each session with gratitude rather than driven by redemption. The comeback is framed around joy and control, not recapturing past glory. At her age, the pursuit itself matters more than the outcome, and she's inspiring a new generation of gymnasts by competing on her own terms without the pressure that led her to leave the sport initially."
-    },
-    {
-      "headline": "Carson Benge exits after crashing into wall to make catch in potential Mets scare",
+      "headline": "Max Fried delivers latest Yankees gem as he dominates against ex-Braves teammates",
       "source": "NY Post Sports · 3h ago",
-      "article": "Mets outfielder Carson Benge left Friday's game after crashing into the outfield wall while making a catch, a play that showcased his effort but raised injury concerns. Benge went all out for the grab, demonstrating the kind of fearless defense that defines good corner outfielders but that also carries the risk of collision. The team's initial statement suggested precautionary evaluation, though extended absence was not immediately ruled in or out. For the Mets, a Benge injury would dent outfield depth entering the stretch run."
+      "article": "Max Fried pitched through limitations Friday, dominating against the Braves in a performance that underscores his value to the Yankees' rotation despite restrictions on his workload. Fried is not yet free to pitch deep into games as he desires, a product of his recent return from injury management. The performance validates the investment in the veteran left-hander even within constraints that keep him from his full capacity. The Yankees' pitching depth is bearing fruit early in the season."
     },
     {
-      "headline": "José Soriano delivers solid Blue Jays debut against Phillies",
-      "source": "Sportsnet · 2h ago",
-      "article": "José Soriano made his Toronto Blue Jays debut Friday, allowing one earned run over his outing against the Philadelphia Phillies. The right-hander strung together a solid performance in a low-scoring game, signaling that the acquisition could pay dividends in the stretch run. For a Blue Jays rotation that has struggled with consistency, a dependable new arm provides both immediate relief and psychological lift. Soriano's control and stuff were sound; the team will need that steadiness as October approaches."
+      "headline": "George Lombard Jr. and Luis Garcia Jr. save the day for Yankees with dazzling plays",
+      "source": "NY Post Sports · 2h ago",
+      "article": "George Lombard Jr. and Luis Garcia Jr. made highlight-reel defensive plays Friday in the 10th inning to secure a Yankees victory, validating the team's late-inning depth and resilience. The defensive sparkle provided an offensive backup when hitting came up short, a pattern that has defined the Yankees through the early season. Both players are contributors rather than household names, a sign of the franchise's ability to create winning moments across the roster. The win extends New York's winning streak."
     },
     {
-      "headline": "UFC Fight Night: Mateusz Gamrot vs. Quillan Salkilld set for Saturday in Las Vegas",
-      "source": "CBS Sports · 4h ago",
-      "article": "A pivotal lightweight main event takes place Saturday night in Las Vegas as Mateusz Gamrot faces Quillan Salkilld on the UFC Fight Night card. Gamrot is chasing a title-shot path in a stacked division; a win solidifies his stock. The fight card includes supporting matchups across multiple weight classes. UFC continues to build midweek programming to maximize broadcast leverage and fan engagement outside of premium PPV weekends."
+      "headline": "Blue Jays vision for Soriano begins with narrow victory over Phillies",
+      "source": "Sportsnet · 3h ago",
+      "article": "Jose Soriano delivered a solid debut for Toronto Friday, the first chapter in the Blue Jays' plan to build a rotation around the recently acquired right-hander. Toronto has a track record with rotation acquisition, having invested in Dylan Cease in a similar trade framework. Soriano's performance validated the vision, though the 1-run margin over Philadelphia keeps the bar high for consistency. The Jays are betting on sustained excellence from their recent acquisition."
     },
     {
-      "headline": "Beau Hossler retains lead heading into Wyndham Championship final round",
-      "source": "CBS Sports · 4h ago",
-      "article": "Beau Hossler holds the lead entering the final round of the Wyndham Championship, with the FedEx Cup Playoffs looming. For Hossler and many others in contention, a win this week is essential to lock in playoff positioning. The Wyndham is one of the last automatic qualifying events before the field narrows. Playoff seeding determines earnings, momentum, and matchups entering the Tour Championship, making this week a high-stakes proving ground."
+      "headline": "Katelyn Ohashi's Olympic comeback is fueled by joy, not redemption",
+      "source": "The Guardian · 22h ago",
+      "article": "Katelyn Ohashi, the viral UCLA gymnast who left elite sport a decade ago, is chasing a spot at the LA 2028 Olympics on her own terms. She trains four days a week around her personal life, beginning each session with gratitude rather than pressure. The comeback is rooted in joy, not redemption or lost-years regret, marking a fundamentally different relationship with the sport than she carried as a younger gymnast. She is inspiring a new generation of athletes to view elite sport as a choice rather than an obligation."
     },
     {
-      "headline": "Ex-Colorado youth hockey chief sued for evading fraud judgment",
-      "source": "Sportico · 8h ago",
-      "article": "The Colorado Amateur Hockey Association has filed a lawsuit against its former president, Randy Kanai, alleging he is evading a six-figure judgment for misappropriating funds. Kanai allegedly transferred ownership of a property to an investment entity he controls as part of the evasion. The lawsuit is a continuation of a yearslong dispute over governance and financial accountability in youth sports. The case underscores how governance failures at the grassroots level can metastasize into expensive litigation."
+      "headline": "2026 Wyndham Championship: Beau Hossler retains lead as playoff picture gets clearer",
+      "source": "CBS Sports · 8h ago",
+      "article": "Beau Hossler holds the lead at the Wyndham Championship heading into the weekend, with the tournament serving as a crucial points-and-ranking inflection point before the FedEx Cup Playoffs begin. Multiple contenders need wins this week to secure playoff positioning, raising stakes across the field. The event is one of the final regular-season opportunities to move needle before the postseason bubble forms."
+    },
+    {
+      "headline": "Life as a Wag in the transfer window",
+      "source": "BBC Sport · 2h ago",
+      "article": "BBC Sport examines the often-overlooked experience of footballers' families during the transfer window, when a last-minute deal can uproot entire households and require relocation across hundreds of miles on short notice. The piece humanizes the logistics and emotional toll of player movement, shifting focus from pure commerce to the personal disruption that accompanies roster churn. Family stability and children's schooling become collateral damage in market fluidity."
     }
   ],
   "poll": {
-    "question": "Which regulatory headwind will most impact the prediction-market boom?",
+    "question": "What's the bigger threat to legacy broadcasters like WBD: streaming competition or advertising-market collapse?",
     "options": [
-      "CFTC enforcement on exchange-trading-desk conflicts",
-      "SEC classification as securities-adjacent products",
-      "State-by-state sports-betting law creep",
-      "Institutional-investor skepticism over fairness"
+      "Streaming competition for content rights and audience",
+      "Advertising-market collapse and loss of pricing power",
+      "Both are equally destructive",
+      "Neither; legacy broadcasters will adapt and survive"
     ]
   },
   "predictions": [
     {
-      "statement": "WNBA viewership growth accelerates into the 2024 playoffs, averaging 2+ million concurrent viewers for a marquee Finals matchup.",
+      "statement": "Kawhi Leonard plays for the Toronto Raptors on opening night 2026-27.",
       "probability": 72,
-      "rationale": "The league has sustained YoY growth through the regular season despite culture-war noise. Star power (Reese, Ionescu, Parker), new markets (Golden State), and improved media distribution (Peacock) suggest the upward trajectory holds into postseason. A Las Vegas or New York Finals matchup would likely breach 2 million."
+      "rationale": "Sportsnet reporting suggests the trade is the most probable outcome, and the NBA's involvement indicates a framework is solidifying. Expect formal announcement within days."
     },
     {
-      "statement": "Gianni Infantino remains FIFA president through the 2026 World Cup without forced resignation.",
-      "probability": 68,
-      "rationale": "The severance allegation is damaging but not institutional. FIFA's executive council has not moved to remove him, and several continental federations retain allegiance. Without a criminal referral or unanimous leadership push, his political runway extends. The pressure is real but not yet existential."
+      "statement": "CFTC prediction-market regulations, once finalized, slow growth in the sector over the next 12 months.",
+      "probability": 58,
+      "rationale": "Proposed rules targeting affiliate conflicts will add compliance costs and potential operational restrictions. DraftKings and FanDuel's public downplaying of cannibalization suggests they expect some friction in the rulemaking process."
     },
     {
-      "statement": "DraftKings prediction markets surpass sportsbook revenue within 24 months as institutional traders flood the platform.",
-      "probability": 31,
-      "rationale": "The CEO's Wall Street pivot is ambitious, but prediction markets remain niche relative to sports betting's 50-year head start. Institutional adoption is real but gradual. Regulatory clarity helps, but prediction markets will likely remain a secondary revenue stream for another few years."
+      "statement": "WBD explores strategic merger or partnership with Paramount within 6 months.",
+      "probability": 65,
+      "rationale": "A 22% YoY ad revenue drop is unsustainable for a company competing on sports rights costs. Merger discussions were already rumored; the Q2 miss accelerates urgency."
     },
     {
-      "statement": "The Los Angeles Rams suffer a season-derailing injury to a premium asset and miss the playoffs despite preseason Super Bowl odds.",
-      "probability": 42,
-      "rationale": "The Rams' win-now roster has no depth safety valve. One star-caliber injury (QB, top-tier edge, lead receiver) creates cascading failures. The odds of that injury are real but not inevitable. A healthy season rewards their aggressive approach; an unlucky one exposes it."
+      "statement": "FIFA launches independent governance audit in response to Infantino allegations by end of September 2026.",
+      "probability": 51,
+      "rationale": "The confluence of corruption allegations and World Cup media-rights scandal creates political pressure on member federations. Independent audit is a low-cost confidence signal; full accountability remains unlikely."
     }
   ],
-  "injuries": [
-    {
-      "player": "Carson Benge",
-      "team": "New York Mets",
-      "league": "MLB",
-      "position": "OF",
-      "status": "QUESTIONABLE",
-      "injury": "Wall collision during outfield catch",
-      "timeline": null,
-      "source": "NY Post Sports",
-      "impact": "Mets outfield depth tested; precautionary evaluation underway with extended absence not yet ruled in or out.",
-      "storyIndex": 2
-    }
-  ],
+  "injuries": [],
   "picks": [
     {
       "matchup": "Houston Dynamo FC @ New England Revolution",
@@ -2536,6 +2515,114 @@
         "commenceTime": "2026-08-08T20:30:00Z"
       },
       "_scheduledTs": 1786221000000
+    },
+    {
+      "type": "moneyline",
+      "pick": "Atlanta Braves ML",
+      "odds": "-128",
+      "edge": "Market fill from live lines: Atlanta Braves is the books' favorite at -128 (best price @ LowVig.ag) against New York Yankees at +120, favored even on the road. No researched edge here — this is a low-confidence market-consensus play added to round out the slate. Low confidence is honest confidence.",
+      "matchup": "Atlanta Braves @ New York Yankees",
+      "league": "MLB",
+      "when": "Today 3:05 PM ET",
+      "confidence": "low",
+      "_autofill": true,
+      "_scheduledTs": 1786215900000,
+      "marketSnapshot": {
+        "capturedAt": "2026-08-08T04:06:28.725Z",
+        "markets": {
+          "h2h": {
+            "away": {
+              "price": -128,
+              "book": "LowVig.ag"
+            },
+            "home": {
+              "price": 120,
+              "book": "Caesars"
+            },
+            "draw": null
+          },
+          "spreads": {
+            "away": {
+              "point": -1.5,
+              "price": 136,
+              "book": "LowVig.ag"
+            },
+            "home": {
+              "point": 1.5,
+              "price": -150,
+              "book": "MyBookie.ag"
+            }
+          },
+          "totals": {
+            "over": {
+              "point": 7.5,
+              "price": -110,
+              "book": "BetRivers"
+            },
+            "under": {
+              "point": 7.5,
+              "price": 105,
+              "book": "Bovada"
+            }
+          }
+        },
+        "awayTeam": "Atlanta Braves",
+        "homeTeam": "New York Yankees"
+      }
+    },
+    {
+      "type": "moneyline",
+      "pick": "Boston Red Sox ML",
+      "odds": "-216",
+      "edge": "Market fill from live lines: Boston Red Sox is the books' favorite at -216 (best price @ Caesars) against Athletics at +197, with home ice/court/field behind them. No researched edge here — this is a low-confidence market-consensus play added to round out the slate. Low confidence is honest confidence.",
+      "matchup": "Athletics @ Boston Red Sox",
+      "league": "MLB",
+      "when": "Today 4:11 PM ET",
+      "confidence": "low",
+      "_autofill": true,
+      "_scheduledTs": 1786219860000,
+      "marketSnapshot": {
+        "capturedAt": "2026-08-08T04:06:28.725Z",
+        "markets": {
+          "h2h": {
+            "away": {
+              "price": 197,
+              "book": "BetOnline.ag"
+            },
+            "home": {
+              "price": -216,
+              "book": "Caesars"
+            },
+            "draw": null
+          },
+          "spreads": {
+            "away": {
+              "point": 1.5,
+              "price": 100,
+              "book": "Bovada"
+            },
+            "home": {
+              "point": -1.5,
+              "price": -110,
+              "book": "MyBookie.ag"
+            }
+          },
+          "totals": {
+            "over": {
+              "point": 9,
+              "price": -118,
+              "book": "LowVig.ag"
+            },
+            "under": {
+              "point": 9.5,
+              "price": -120,
+              "book": "Fanatics"
+            }
+          }
+        },
+        "awayTeam": "Athletics",
+        "homeTeam": "Boston Red Sox"
+      }
     },
     {
       "type": "moneyline",
@@ -6016,124 +6103,16 @@
         "homeTeam": "Switzerland"
       },
       "_pendingGrade": true
-    },
-    {
-      "type": "moneyline",
-      "pick": "Atlanta Braves ML",
-      "odds": "-128",
-      "edge": "Market fill from live lines: Atlanta Braves is the books' favorite at -128 (best price @ LowVig.ag) against New York Yankees at +120, favored even on the road. No researched edge here — this is a low-confidence market-consensus play added to round out the slate. Low confidence is honest confidence.",
-      "matchup": "Atlanta Braves @ New York Yankees",
-      "league": "MLB",
-      "when": "Today 3:05 PM ET",
-      "confidence": "low",
-      "_autofill": true,
-      "_scheduledTs": 1786215900000,
-      "marketSnapshot": {
-        "capturedAt": "2026-08-08T04:06:28.725Z",
-        "markets": {
-          "h2h": {
-            "away": {
-              "price": -128,
-              "book": "LowVig.ag"
-            },
-            "home": {
-              "price": 120,
-              "book": "Caesars"
-            },
-            "draw": null
-          },
-          "spreads": {
-            "away": {
-              "point": -1.5,
-              "price": 136,
-              "book": "LowVig.ag"
-            },
-            "home": {
-              "point": 1.5,
-              "price": -150,
-              "book": "MyBookie.ag"
-            }
-          },
-          "totals": {
-            "over": {
-              "point": 7.5,
-              "price": -110,
-              "book": "BetRivers"
-            },
-            "under": {
-              "point": 7.5,
-              "price": 105,
-              "book": "Bovada"
-            }
-          }
-        },
-        "awayTeam": "Atlanta Braves",
-        "homeTeam": "New York Yankees"
-      }
-    },
-    {
-      "type": "moneyline",
-      "pick": "Boston Red Sox ML",
-      "odds": "-216",
-      "edge": "Market fill from live lines: Boston Red Sox is the books' favorite at -216 (best price @ Caesars) against Athletics at +197, with home ice/court/field behind them. No researched edge here — this is a low-confidence market-consensus play added to round out the slate. Low confidence is honest confidence.",
-      "matchup": "Athletics @ Boston Red Sox",
-      "league": "MLB",
-      "when": "Today 4:11 PM ET",
-      "confidence": "low",
-      "_autofill": true,
-      "_scheduledTs": 1786219860000,
-      "marketSnapshot": {
-        "capturedAt": "2026-08-08T04:06:28.725Z",
-        "markets": {
-          "h2h": {
-            "away": {
-              "price": 197,
-              "book": "BetOnline.ag"
-            },
-            "home": {
-              "price": -216,
-              "book": "Caesars"
-            },
-            "draw": null
-          },
-          "spreads": {
-            "away": {
-              "point": 1.5,
-              "price": 100,
-              "book": "Bovada"
-            },
-            "home": {
-              "point": -1.5,
-              "price": -110,
-              "book": "MyBookie.ag"
-            }
-          },
-          "totals": {
-            "over": {
-              "point": 9,
-              "price": -118,
-              "book": "LowVig.ag"
-            },
-            "under": {
-              "point": 9.5,
-              "price": -120,
-              "book": "Fanatics"
-            }
-          }
-        },
-        "awayTeam": "Athletics",
-        "homeTeam": "Boston Red Sox"
-      }
     }
   ],
-  "updatedAt": "2025-04-23T22:15:00Z",
+  "updatedAt": "2026-04-23T18:45:00Z",
   "highlights": [
     {
       "league": "NBA",
       "title": "San Antonio ➡️ Paris Wemby takes in the sights (via @wemby/IG)",
       "videoId": "vrk9cMChoHE",
       "thumbnail": "https://img.youtube.com/vi/vrk9cMChoHE/mqdefault.jpg",
-      "timeAgo": "7h ago",
+      "timeAgo": "11h ago",
       "isFallback": false
     },
     {
@@ -6141,15 +6120,15 @@
       "title": "Sam Darnold details Seahawks training camp coming off of Super Bowl victory | NFL on ESPN",
       "videoId": "qS5zmbYm_os",
       "thumbnail": "https://img.youtube.com/vi/qS5zmbYm_os/mqdefault.jpg",
-      "timeAgo": "2h ago",
+      "timeAgo": "6h ago",
       "isFallback": false
     },
     {
       "league": "MLB",
-      "title": "REDS vs. NATIONALS: Official Full Game Highlights (August 7) | 2026 MLB Season",
-      "videoId": "cMX16ZyAfdQ",
-      "thumbnail": "https://img.youtube.com/vi/cMX16ZyAfdQ/mqdefault.jpg",
-      "timeAgo": "1h ago",
+      "title": "FULL UNCUT FINISH: Yankees score 2 runs with 2 outs in the 9th to tie, walk it off in the 10th! 😳",
+      "videoId": "TwFn-1SEmdA",
+      "thumbnail": "https://img.youtube.com/vi/TwFn-1SEmdA/mqdefault.jpg",
+      "timeAgo": "2h ago",
       "isFallback": false
     },
     {
@@ -6157,7 +6136,7 @@
       "title": "3ICE Hockey Week 3 - NY/NJ vs. Minnesota &amp; Chicago vs. Buffalo",
       "videoId": "X1LgaGqtzvs",
       "thumbnail": "https://img.youtube.com/vi/X1LgaGqtzvs/mqdefault.jpg",
-      "timeAgo": "3h ago",
+      "timeAgo": "6h ago",
       "isFallback": false
     },
     {
@@ -6165,7 +6144,7 @@
       "title": "Golden State Valkyries vs. Dallas Wings | FULL GAME HIGHLIGHTS | August 7, 2026",
       "videoId": "JQfauy2KMlc",
       "thumbnail": "https://img.youtube.com/vi/JQfauy2KMlc/mqdefault.jpg",
-      "timeAgo": "Just now",
+      "timeAgo": "4h ago",
       "isFallback": false
     },
     {
@@ -6173,11 +6152,75 @@
       "title": "Premier League Previews 👀 How will Manchester City and Tottenham do this season? | ESPN FC",
       "videoId": "c74v5CABCK0",
       "thumbnail": "https://img.youtube.com/vi/c74v5CABCK0/mqdefault.jpg",
-      "timeAgo": "4h ago",
+      "timeAgo": "8h ago",
       "isFallback": false
     }
   ],
   "reels": [
+    {
+      "league": "MLB",
+      "title": "FULL UNCUT FINISH: Yankees score 2 runs with 2 outs in the 9th to tie, walk it off in the 10th! 😳",
+      "videoId": "TwFn-1SEmdA",
+      "author": "MLB",
+      "pubDate": "2026-08-08T05:59:45+00:00",
+      "link": "https://www.youtube.com/watch?v=TwFn-1SEmdA"
+    },
+    {
+      "league": "MLB",
+      "title": "ASTROS vs. PADRES: Official Full Game Highlights (August 7) | 2026 MLB Season",
+      "videoId": "BooVWLWVrPc",
+      "author": "MLB",
+      "pubDate": "2026-08-08T05:05:29+00:00",
+      "link": "https://www.youtube.com/watch?v=BooVWLWVrPc"
+    },
+    {
+      "league": "MLB",
+      "title": "Ryan Waldschmidt walks it off against the Dodgers 🐍",
+      "videoId": "AF_W0WUIV5g",
+      "author": "MLB",
+      "pubDate": "2026-08-08T05:00:32+00:00",
+      "link": "https://www.youtube.com/watch?v=AF_W0WUIV5g"
+    },
+    {
+      "league": "MLB",
+      "title": "TIGERS vs. GIANTS: Official Full Game Highlights (August 7) | 2026 MLB Season",
+      "videoId": "6gNdcfmjl1I",
+      "author": "MLB",
+      "pubDate": "2026-08-08T04:56:50+00:00",
+      "link": "https://www.youtube.com/watch?v=6gNdcfmjl1I"
+    },
+    {
+      "league": "MLB",
+      "title": "BLUE JAYS vs. PHILLIES: Official Full Game Highlights (August 7) | 2026 MLB Season",
+      "videoId": "rd02nm8PGBc",
+      "author": "MLB",
+      "pubDate": "2026-08-08T04:50:13+00:00",
+      "link": "https://www.youtube.com/watch?v=rd02nm8PGBc"
+    },
+    {
+      "league": "MLB",
+      "title": "DODGERS vs. D-BACKS: Official Full Game Highlights (August 7) | 2026 MLB Season",
+      "videoId": "RX2NB5e1bQk",
+      "author": "MLB",
+      "pubDate": "2026-08-08T04:48:59+00:00",
+      "link": "https://www.youtube.com/watch?v=RX2NB5e1bQk"
+    },
+    {
+      "league": "MLB",
+      "title": "Ryan McMahon wins it for the Yankees in the 10th!",
+      "videoId": "d5yMw2YzmSw",
+      "author": "MLB",
+      "pubDate": "2026-08-08T04:45:14+00:00",
+      "link": "https://www.youtube.com/watch?v=d5yMw2YzmSw"
+    },
+    {
+      "league": "MLB",
+      "title": "BRAVES vs. YANKEES: Official Full Game Highlights (August 7) | 2026 MLB Season",
+      "videoId": "vdeqqs2C4xI",
+      "author": "MLB",
+      "pubDate": "2026-08-08T04:40:01+00:00",
+      "link": "https://www.youtube.com/watch?v=vdeqqs2C4xI"
+    },
     {
       "league": "WNBA",
       "title": "Golden State Valkyries vs. Dallas Wings | FULL GAME HIGHLIGHTS | August 7, 2026",
@@ -6185,14 +6228,6 @@
       "author": "WNBA",
       "pubDate": "2026-08-08T04:04:12+00:00",
       "link": "https://www.youtube.com/watch?v=JQfauy2KMlc"
-    },
-    {
-      "league": "MLB",
-      "title": "REDS vs. NATIONALS: Official Full Game Highlights (August 7) | 2026 MLB Season",
-      "videoId": "cMX16ZyAfdQ",
-      "author": "MLB",
-      "pubDate": "2026-08-08T03:23:36+00:00",
-      "link": "https://www.youtube.com/watch?v=cMX16ZyAfdQ"
     },
     {
       "league": "WNBA",
@@ -6203,68 +6238,12 @@
       "link": "https://www.youtube.com/watch?v=B8gUE8o6S2c"
     },
     {
-      "league": "MLB",
-      "title": "The Boston Red Sox put up 13 runs as they win their NINTH-STRAIGHT GAME! 🤯 | MLB Highlights",
-      "videoId": "jFXqbWaJ46s",
-      "author": "MLB",
-      "pubDate": "2026-08-08T03:12:04+00:00",
-      "link": "https://www.youtube.com/watch?v=jFXqbWaJ46s"
-    },
-    {
       "league": "WNBA",
       "title": "Atlanta Dream vs. Washington Mystics | FULL GAME HIGHLIGHTS | August 7, 2026",
       "videoId": "LSERFXZ805U",
       "author": "WNBA",
       "pubDate": "2026-08-08T03:10:39+00:00",
       "link": "https://www.youtube.com/watch?v=LSERFXZ805U"
-    },
-    {
-      "league": "MLB",
-      "title": "CUBS vs. ROYALS: Official Full Game Highlights (August 7) | 2026 MLB Season",
-      "videoId": "0xFxg5o7Qs8",
-      "author": "MLB",
-      "pubDate": "2026-08-08T03:10:08+00:00",
-      "link": "https://www.youtube.com/watch?v=0xFxg5o7Qs8"
-    },
-    {
-      "league": "MLB",
-      "title": "ROCKIES vs. CARDINALS: Official Full Game Highlights (August 7) | 2026 MLB Season",
-      "videoId": "0ddKwsykvX0",
-      "author": "MLB",
-      "pubDate": "2026-08-08T03:07:35+00:00",
-      "link": "https://www.youtube.com/watch?v=0ddKwsykvX0"
-    },
-    {
-      "league": "MLB",
-      "title": "ORIOLES vs. RANGERS: Official Full Game Highlights (August 7) | 2026 MLB Season",
-      "videoId": "WFMW7fTsnLc",
-      "author": "MLB",
-      "pubDate": "2026-08-08T03:07:23+00:00",
-      "link": "https://www.youtube.com/watch?v=WFMW7fTsnLc"
-    },
-    {
-      "league": "MLB",
-      "title": "Masyn Winn with a slick swim move 🏊",
-      "videoId": "vbA_wHFIdvI",
-      "author": "MLB",
-      "pubDate": "2026-08-08T03:00:07+00:00",
-      "link": "https://www.youtube.com/watch?v=vbA_wHFIdvI"
-    },
-    {
-      "league": "MLB",
-      "title": "GUARDIANS vs. WHITE SOX: Official Full Game Highlights (August 7) | 2026 MLB Season",
-      "videoId": "6EqhrHewk8A",
-      "author": "MLB",
-      "pubDate": "2026-08-08T02:50:33+00:00",
-      "link": "https://www.youtube.com/watch?v=6EqhrHewk8A"
-    },
-    {
-      "league": "MLB",
-      "title": "Payton Tolle strikes out a CAREER-HIGH 14 for the Boston Red Sox! 😤 (2 H, 0 BB, 1 ER in the win 🔥)",
-      "videoId": "36QiQm_-QIs",
-      "author": "MLB",
-      "pubDate": "2026-08-08T02:47:19+00:00",
-      "link": "https://www.youtube.com/watch?v=36QiQm_-QIs"
     },
     {
       "league": "NFL",
