@@ -1,63 +1,73 @@
 {
   "clusters": [
     {
-      "category": "media",
+      "category": "leagues",
       "importance": 7,
-      "leadHeadline": "WBD quarterly advertising revenue is down 22% YoY",
+      "leadHeadline": "WNBA commissioner says league will continue discussing issue of transgender eligibility",
+      "leadSource": "The Guardian · 2h ago",
+      "leadUrl": "https://www.theguardian.com/sport/2026/aug/08/wnba-transgender-eligibility-cathy-engelbert-sophie-cunningham",
+      "summary": "WNBA Commissioner Cathy Engelbert sent a memo to teams Friday saying the league will continue discussing transgender athlete participation, with a task force meeting set for next week.",
+      "article": "<cite index=\"4-2\">WNBA Commissioner Cathy Engelbert sent a memo to teams Friday addressing transgender athletes in women's basketball.</cite> The move came after Indiana Fever guard Sophie Cunningham voiced support for barring transgender girls and women from sports last month, sparking <cite index=\"12-8\">rallies and protests in Seattle and Portland.</cite>\n\n<cite index=\"2-3\">Engelbert said the topic will be discussed by a task force of team presidents and general managers at a meeting next week.</cite> <cite index=\"4-10,4-11\">\"We recognize that this is a complex and nuanced topic, and we will continue to have important conversations with all of you and the Players Association in the weeks and months ahead,\" Engelbert wrote. \"We also plan to convene additional discussions and offer listening sessions for any team leaders who would like to participate.\"</cite>\n\n<cite index=\"4-1\">The league's collective bargaining agreement states \"only players who are women are eligible to play in the WNBA,\" but it does not include specific language about gender identity.</cite> <cite index=\"2-8\">The WNBA players' association released a statement Friday that said the group \"will not be used as political pawns.\"</cite> Meanwhile, <cite index=\"17-8,17-9\">some WNBA players and coaches have come out in support of transgender athletes, with Minnesota Lynx coach Cheryl Reeve saying \"We need to protect trans kids.\"</cite>",
+      "tweets": []
+    },
+    {
+      "category": "media",
+      "importance": 6,
+      "leadHeadline": "WNBA viewership continues to rise heading into stretch run",
       "leadSource": "Sports Media Watch · 18h ago",
-      "leadUrl": "https://www.sportsmediawatch.com/2026/08/wbd-advertising-revenue-netflix-costner-mlb-field-of-dreams-versant-guidance/",
-      "summary": "Warner Bros. Discovery's ad revenue plummeted 22% to $1.72 billion in Q2, a collapse driven almost entirely by losing live NBA broadcasts after nearly 40 years.",
-      "article": "Warner Bros. Discovery reported second-quarter advertising revenue of $1.72 billion, down 22 percent year-over-year, as the company absorbed the full financial blow of losing NBA broadcast rights.\n\nThe NBA accounted for roughly 20 percentage points of that decline, according to WBD's earnings disclosures. During the prior-year quarter, TNT had televised around 40 NBA playoff games, including a full conference final. Now those slots sit empty.\n\nThe damage cuts deep into Turner Sports, which operated as an NBA rights holder since 1984. WBD settled its lawsuit against the NBA last November, formally ending any pursuit of live-game packages for 2025-26 and beyond. Instead, the company shifted to a limited content play: highlights and extended clips for its platforms, international game rights in select markets, and continued production of Inside the NBA for ESPN and ABC.\n\nWBD's total quarterly revenue fell 11 percent to $8.72 billion, missing analyst expectations by roughly 5 percent. The company generated $149 million in net income, down 91 percent from $1.6 billion a year earlier.\n\nLinear networks advertising specifically tanked 27 percent, reflecting not just the NBA void but also 17 percent domestic audience declines across TNT, TBS, and other cable channels. Streaming advertising proved a rare bright spot, up 9 percent.",
+      "leadUrl": "https://www.sportsmediawatch.com/2026/08/wnba-viewership-increase-fever-lynx-ratings-abc/",
+      "summary": "WNBA viewership is running ahead of last year's pace as the regular season enters its final weeks, per Sports Media Watch.",
+      "article": "WNBA viewership is comfortably ahead of last year's pace entering the final weeks of the regular season, according to Sports Media Watch, signaling sustained growth in the league's television audience heading into the playoff stretch.\n\nThe timing is significant: the viewership gains coincide with the league's ongoing policy discussions around transgender eligibility and come as the WNBA continues to expand its media footprint and reach. The year-over-year increase suggests the league's visibility and appeal remain on an upward trajectory despite external controversies.\n\nThis follows a broader trend of growing WNBA engagement across multiple metrics. The league has worked to secure expanded media coverage and has seen increased interest from sponsors and broadcasters.\n\nThe final weeks of the regular season will be a critical test of whether the viewership momentum can carry into the playoffs, where the league typically sees its highest ratings.",
       "tweets": []
     },
     {
       "category": "leagues",
-      "importance": 6,
-      "leadHeadline": "Four-time Olympic champion Michael Johnson speaks publicly for the first time since Grand Slam Track went bankrupt",
-      "leadSource": "BBC Sport · 3h ago",
-      "leadUrl": "https://www.bbc.co.uk/sport/athletics/articles/c9q9p9n2xqgo?at_medium=RSS&amp;at_campaign=rss",
-      "summary": "Michael Johnson confirmed for the first time that athletes in the defunct Grand Slam Track league have been paid after the circuit's sudden collapse, clarifying the settlement of financial obligations to competitors.",
-      "article": "Michael Johnson, a four-time Olympic gold medalist, spoke publicly for the first time since Grand Slam Track's bankruptcy and confirmed that athletes have been paid out from the defunct track league. The specifics of how much Johnson himself received and the full scope of athlete reimbursement remain unclear from the available reporting, but his statement marks a shift from the silence that followed the circuit's abrupt implosion.\n\nGrand Slam Track, a short-lived franchise league backed by billionaire Avi Mehta, shut down in the spring after burning through capital without building the domestic or international audience required to sustain it. The league had promised prize money and appearance fees that looked ambitious on paper but collapsed in practice when sponsorship and broadcast deals failed to materialize.\n\nJohnson's confirmation that payments have gone out is a public relations win for Mehta's team after months of uncertainty. Track athletes at that level depend on appearance fees and prize purses to fund training and travel. A league that vanishes without paying leaves competitors stranded. The fact that restitution happened suggests either that Mehta's group retained enough liquidity to honor commitments or that a settlement was brokered. Either way, it unwinds one thread of a very public failure. Whether Grand Slam Track's collapse influences future attempts to launch track franchises or shift how track is funded remains open.",
+      "importance": 5,
+      "leadHeadline": "Adam Vinatieris zinger-filled Hall of Fame speech delivers brutal Bill Belichick-Jordon Hudson jab",
+      "leadSource": "NY Post Sports · just now",
+      "leadUrl": "https://nypost.com/2026/08/08/sports/adam-vinatieri-delivers-brutal-bill-belichick-jab-in-hall-of-fame-speech/",
+      "summary": "Adam Vinatieri delivered a stand-up comedy-style Hall of Fame induction speech that included sharp jabs at Bill Belichick and Jordon Hudson.",
+      "article": "Adam Vinatieri transformed his Pro Football Hall of Fame induction ceremony into a comedy routine, landing pointed zingers at high-profile figures in his career.\n\nThe legendary kicker turned the moment into an entertainment showcase, directing barbs at Bill Belichick and Jordon Hudson among others. Vinatieri's approach broke from the traditional solemn tone of Hall of Fame speeches, using humor to reflect on his 24-year NFL career and the various personalities and relationships that defined it.\n\nThe speech drew attention for its comedic timing and willingness to needle former colleagues and coaches, a sharp contrast to the diplomatic, gratitude-heavy remarks typical of Hall of Fame inductions. Vinatieri's roast-style delivery resonated with the audience and generated immediate social media reaction.\n\nThe kicker, who won four Super Bowls across his career with the Patriots and Colts, used the platform to humanize his legacy beyond his on-field record, revealing a personality often kept private during his playing days.",
       "tweets": []
     },
     {
-      "category": "revenue",
+      "category": "leagues",
       "importance": 5,
-      "leadHeadline": "DraftKings CEO: Prediction Markets Are Peer-to-Wall Street",
-      "leadSource": "Sportico · 20h ago",
-      "leadUrl": "https://www.sportico.com/business/sports-betting/2026/draftkings-ceo-robins-prediction-markets-peer-peer-wall-st-1234941367/",
-      "summary": "DraftKings CEO Jason Robins positioned the company's prediction-market product as competing directly against institutional traders, not casual bettors, signaling a shift in how prediction platforms view their addressable market.",
-      "article": "DraftKings CEO Jason Robins told analysts Friday that the company's prediction-market product is not primarily a peer-to-peer consumer bet, but rather a direct competitor to institutional trading desks on Wall Street. The framing matters because it expands the addressable market far beyond hobbyist predictors.\n\nPrediction-market platforms have long marketed themselves as democratizing forecasting, allowing retail users to bet against each other on outcomes from elections to sports. Robins is charting a different course: position DraftKings' offering as an institutional-grade product that can pull flow from professional traders. That reframing suggests confidence in the underlying economics and liquidity of prediction markets as a whole.\n\nThe Commodity Futures Trading Commission proposed new rules last week aimed at addressing conflicts of interest in prediction markets. At least six exchanges operate affiliate relationships in which the same company owns both the prediction exchange and a principal trading desk, an inherent conflict that the CFTC flagged as problematic. DraftKings' infrastructure would need to withstand scrutiny if it operates such a relationship.\n\nRobins' Wall Street positioning also sidesteps the retail-consumer-protection questions that have dogged prediction markets as they scale. If the primary customer is an institutional trader making informed bets with their own capital, the optics improve. Whether the CFTC sees it the same way will determine how much room DraftKings has to grow in this space.",
+      "leadHeadline": "Fifa president Gianni Infantino denies claims Uefa paid off alleged 'lover'",
+      "leadSource": "The Guardian · 10h ago",
+      "leadUrl": "https://www.theguardian.com/football/2026/aug/08/fifa-gianni-infantino-uefa-employee-departure-payment-allegations-denial",
+      "summary": "FIFA dismissed allegations that UEFA made a 'departure payment' to a female employee allegedly in a relationship with Gianni Infantino during his tenure as UEFA general secretary from 2009-2016.",
+      "article": "FIFA has categorically denied allegations that UEFA made a departure payment to a female employee who is alleged to have been in a relationship with Gianni Infantino while he served as UEFA's general secretary.\n\nThe Guardian reported that UEFA confirmed a departure payment was made to the employee, but Infantino and FIFA characterized the allegations as \"categorically untrue.\" Infantino held the UEFA general secretary position from 2009 to 2016 before moving to FIFA's top role.\n\nThe dispute centers on the characterization of the payment and the circumstances surrounding it. UEFA's confirmation of the payment combined with FIFA's categorical denial creates a contradiction in the official record that raises questions about what exactly transpired and why the organizations are offering conflicting accounts.\n\nThis marks another controversy for Infantino, who has faced multiple scandals during his FIFA presidency, including prior investigations into financial conduct and governance. The timing of the revelation and the conflicting narratives from the two organizations suggest ongoing tensions between FIFA and UEFA despite their historical alliance.",
       "tweets": []
     },
     {
       "category": "contracts",
       "importance": 5,
-      "leadHeadline": "Premier League champions Arsenal sign Brazil midfielder Bruno Guimaraes from Newcastle United for £75m",
-      "leadSource": "BBC Sport · 4h ago",
-      "leadUrl": "https://www.bbc.co.uk/sport/football/articles/c1719r079rjo?at_medium=RSS&amp;at_campaign=rss",
-      "summary": "Arsenal completed the acquisition of Newcastle midfielder Bruno Guimaraes for £75 million, bolstering the Premier League champions' midfield depth with a Brazilian international.",
-      "article": "Arsenal have signed Bruno Guimaraes from Newcastle United for £75 million, the club confirmed. Guimaraes, a 27-year-old Brazilian midfielder, joins the defending Premier League champions on a long-term contract.\n\nThe transfer closes a saga that began weeks earlier when Arsenal entered the market for a midfielder to support their title defense. Newcastle, facing Financial Fair Play constraints, ultimately agreed to the sale despite Guimaraes' status as one of their key players. The fee of £75 million positions it as a major midseason investment for Arsenal, reflecting both the player's market value and the premium required to pry him away from a fellow top-six club.\n\nGuimaraes brings 47 appearances and five goals in the Premier League since Newcastle signed him from Lyon in January 2023. His work rate, technical ability, and experience in European competition have made him integral to Newcastle's recent resurgence. Arsenal's midfield has been thin with injuries and departures, and Guimaraes addresses an immediate need.\n\nThe move represents Arsenal's third major addition of the transfer window and signals confidence in their title-defense prospects. Newcastle, by contrast, lose a foundational midfielder but gain funds to invest elsewhere and alleviate Financial Fair Play pressure. For Guimaraes, it is a chance to compete for a second consecutive Premier League title.",
+      "leadHeadline": "Mavs Owner Patrick Dumont Hits Back at Mark Cuban in Arena Fight",
+      "leadSource": "Front Office Sports · 7h ago",
+      "leadUrl": "https://frontofficesports.com/mavericks-owner-patrick-dumont-hits-back-mark-cuban-arena-fight/",
+      "summary": "Dallas Mavericks owner Patrick Dumont claims Mark Cuban must arbitrate their dispute privately, escalating the ownership battle over the team's arena.",
+      "article": "Dallas Mavericks owner Patrick Dumont has escalated his dispute with Mark Cuban, asserting that Cuban is required to arbitrate the disagreement privately rather than pursue it through public channels.\n\nDumont's move signals a hardening of positions in what has become a high-profile ownership battle. The assertion that Cuban must submit to private arbitration, if upheld, would shield the dispute from public disclosure and limit Cuban's ability to air grievances in the media.\n\nThe conflict touches on governance and control of the franchise and its arena, issues that have broader implications for how Mavericks operations will be structured going forward. Dumont's legal maneuver suggests he believes the arbitration clause favors his position.\n\nThis continues a pattern of escalating legal and public maneuvering between the two men over control and direction of the Mavericks. The outcome could set precedent for how ownership disputes in the NBA are handled and could influence how future franchise governance questions are resolved.",
       "tweets": []
     },
     {
       "category": "leagues",
       "importance": 4,
-      "leadHeadline": "Blakely and Pease share lead at US gymnastics championships",
-      "leadSource": "The Guardian · 3h ago",
-      "leadUrl": "https://www.theguardian.com/sport/2026/aug/08/us-gymnastics-championships-skye-blakely-claire-pease-day-one",
-      "summary": "Skye Blakely and Claire Pease tied for the all-around lead after the first day of women's competition at the US gymnastics championships in Phoenix, with Pease, 17, emerging as a breakthrough contender.",
-      "article": "Skye Blakely of the University of Florida and 17-year-old Claire Pease of Honolulu are tied for the women's all-around lead at the US gymnastics championships in Phoenix, each posting 55.6 points after the opening day of competition.\n\nPease's tie for the lead represents a significant breakthrough. As a teenager competing at the senior national level, she has positioned herself among the medal contenders heading into Sunday's all-around final. Blakely, a standout for Florida's NCAA program, matched that performance and entered the second day level with Pease.\n\nBullock sits in third place, while defending champion Rivera has slipped to fourth. The margin between the top competitors is narrow, making Sunday's final apparatus rounds decisive. Traditionally, the US championships serve as a selection event for international teams, so strong performances here can influence roster decisions for world competitions.\n\nPease's emergence as a co-leader at 17 suggests depth in the next generation of American gymnastics. Blakely's continued contention at the elite level reflects the strength of the Florida program under its coaching staff.",
+      "leadHeadline": "Senate Punts College Sports Bill to September",
+      "leadSource": "Front Office Sports · 3h ago",
+      "leadUrl": "https://frontofficesports.com/senate-college-sports-act-vote/",
+      "summary": "The Senate has delayed a college sports regulatory bill to September, prolonging uncertainty around NCAA governance and athlete compensation rules.",
+      "article": "The Senate has postponed action on a college sports bill to September, pushing back a key regulatory moment for collegiate athletics.\n\nThe delay extends uncertainty around how college sports will be governed going forward, including athlete compensation, transfer rules, and NCAA authority. The bill faces a long road to becoming law even after September's scheduled consideration, per Front Office Sports.\n\nThis pushback reflects the complexity of crafting federal legislation that satisfies competing interests: institutional autonomy, athlete welfare, conference stability, and competitive balance. The September timeline gives stakeholders additional months to lobby and negotiate, though it also prolongs the period of regulatory limbo that has characterized college sports since the NCAA's losses in antitrust litigation.\n\nThe delay likely means that individual conferences and schools will continue operating under evolving interim policies rather than a unified federal framework.",
       "tweets": []
     },
     {
       "category": "leagues",
       "importance": 3,
-      "leadHeadline": "Blue Jays vision for Soriano begins with narrow victory over Phillies",
-      "leadSource": "Sportsnet · 11h ago",
-      "leadUrl": "",
-      "summary": "Jose Soriano made his debut for the Blue Jays and delivered a solid start as Toronto narrowly defeated Philadelphia, beginning what the organization hopes will be a strong addition to its rotation.",
-      "article": "Jose Soriano took the mound in his Blue Jays debut against the Phillies on Friday night and produced a solid outing in a tight victory for Toronto. The specifics of Soriano's line, innings pitched, and exact performance numbers are not detailed in the available report, but the Blue Jays' front office views him through the same developmental lens it applied to pitcher Dylan Cease.\n\nThe Blue Jays acquired Soriano in a trade earlier this offseason, betting that a change of scenery and the organization's pitching infrastructure would unlock further growth. Toronto has invested in rotation depth and quality coaching, and Soriano is intended to be a beneficiary of that system. A solid debut is an encouraging start.\n\nThe Phillies remained competitive in the contest, underscoring the tightness of the matchup. Philadelphia is a direct division rival, so any edge Toronto gains in pitching matchups carries weight in the AL East race. Soriano will face regular rotation assignments going forward, giving the Blue Jays multiple opportunities to evaluate whether the investment is working.",
+      "leadHeadline": "Tommy John pens goodbye to Yankees for Old-Timers Day during health fight",
+      "leadSource": "NY Post Sports · 1h ago",
+      "leadUrl": "https://nypost.com/2026/08/08/sports/tommy-john-pens-goodbye-to-yankees-during-health-fight/",
+      "summary": "Tommy John, the legendary pitcher and namesake of the elbow surgery, wrote a farewell message to the Yankees while managing a serious health battle.",
+      "article": "Tommy John, the Hall of Famer whose name became synonymous with the revolutionary elbow surgery he pioneered, has written a goodbye letter to the Yankees as he faces a significant health challenge.\n\nThe 81-year-old took the opportunity of Old-Timers Day to pen a message to the organization, offering reflections on his career and his ongoing medical situation. John's letter comes as he manages what the Post describes as a health fight, though specific details were not disclosed.\n\nJohn's career with the Yankees spanned the late 1970s and early 1980s, and he remains a central figure in baseball history both for his on-field accomplishments and for the medical breakthrough that transformed orthopedic surgery in sports.\n\nThe letter marks a poignant moment for both John and the Yankees organization, crystallizing the passage of time and the realities of aging for one of baseball's most enduring figures.",
       "tweets": []
     }
   ],
@@ -2381,82 +2391,70 @@
     ],
     "source": "espn"
   },
-  "deals": [
-    {
-      "type": "acquisition",
-      "parties": "Arsenal ⇄ Newcastle United (Bruno Guimaraes)",
-      "value_usd": 94000000,
-      "term_years": null,
-      "league": "SOCCER",
-      "headline": "Arsenal sign Guimaraes from Newcastle for £75m",
-      "storyIndex": 12,
-      "blurb": "Defending Premier League champions Arsenal paid £75m to acquire Brazilian midfielder Bruno Guimaraes from Newcastle.",
-      "capturedAt": "2026-08-08T15:21:12.205Z"
-    }
-  ],
+  "deals": [],
   "ratings": [],
   "ticket_prices": [],
   "sidebar": [
     {
-      "headline": "Fifa president denies claims Uefa paid off alleged 'lover'",
-      "source": "The Guardian · 6h ago",
-      "article": "Gianni Infantino dismissed allegations that Uefa made a \"departure payment\" to a female employee with whom he was allegedly in a relationship while serving as the organization's general secretary from 2009 to 2016. Fifa issued a statement calling the claims \"categorically untrue,\" but Uefa confirmed that a payment was made to the employee in question. Infantino's tenure at Uefa predates his current role as Fifa president, but the allegations raise fresh questions about his governance record and personal conduct during that period. The specifics of the payment amount and the circumstances surrounding the employee's departure remain opaque."
+      "headline": "Ex-Colorado Youth Hockey Boss Sued for Evading Fraud Judgment",
+      "source": "Sportico · 23h ago",
+      "article": "The Colorado Amateur Hockey Association has filed a new lawsuit against its former president, Randy Kanai, alleging he is evading a six-figure judgment for misappropriating funds by fraudulently transferring ownership of a property to an investment entity he controls. The allegations represent a new chapter in a yearslong dispute over governance and financial management of the youth sports organization. The case underscores ongoing tensions in amateur sports governance and accountability for organizational leaders."
     },
     {
-      "headline": "Mavs Owner Patrick Dumont Hits Back at Mark Cuban in Arena Fight",
-      "source": "Front Office Sports · 3h ago",
-      "article": "Dallas Mavericks owner Patrick Dumont claims that Mark Cuban is required to arbitrate a dispute between them privately, not in public. The statement appears to be part of a broader ownership and control conflict within the franchise. Dumont is asserting that any disagreements must proceed through private arbitration rather than through media channels or legal proceedings. The nature of the underlying dispute is not fully detailed in the available reporting, but it reflects tension at the ownership level of one of the NBA's marquee franchises."
+      "headline": "Garcia hopes long-term friend Alonso's Chelsea finish second to Liverpool",
+      "source": "BBC Sport · 3h ago",
+      "article": "As two Liverpool legends meet in pre-season, Luis Garcia says he hopes Xabi Alonso's Chelsea finish behind their former club in the Premier League. The friendly rivalry highlights the ongoing connection between players who defined Liverpool's recent era and their investment in the club's success, even as they work with competing organizations in the English top flight."
     },
     {
-      "headline": "Champion transgender cyclist Veronica Ivy now beating biological women for titles in second sport",
-      "source": "NY Post Sports · just now",
-      "article": "Veronica Ivy, a transgender athlete who competed in cycling, is now dominating competitors in a second sport. The athlete is continuing to compete at a level that positions her as a leading contender in the new discipline, following a pattern of elite-level performance. The story draws attention to ongoing debates over transgender inclusion in sports competitions and the categories in which different athletes compete. Specific details about the sport, the competition, and the margin of victories are not elaborated in the available headline."
+      "headline": "Blue Jays vision for Soriano begins with narrow victory over Phillies",
+      "source": "Sportsnet · 15h ago",
+      "article": "The Blue Jays have a vision for newly acquired Jose Soriano, much like they did with Dylan Cease, and that vision began on Friday as Soriano had a solid debut in a tight victory over the Phillies. The win signals early promise for the trade acquisition as Toronto looks to bolster its rotation depth heading into the stretch run."
     },
     {
-      "headline": "2026 Pro Football Hall of Fame ceremony: Where to watch, TV, live stream",
-      "source": "CBS Sports · just now",
-      "article": "Five players are set to be inducted into the Pro Football Hall of Fame, joining one of professional football's most exclusive fraternities. The ceremony will be broadcast across multiple platforms including television and streaming options. The specific identities of the five inductees are not detailed in the available headline, but their selection represents the sport's recognition of their career achievements and on-field legacy. The ceremony is one of the year's marquee events for professional football."
+      "headline": "UFC Fight Night: Gamrot vs. Skilldid from Las Vegas",
+      "source": "CBS Sports · 1h ago",
+      "article": "Lightweights collide in the main event of UFC Fight Night from Las Vegas, with Mateusz Gamrot facing Quillan Skilldid. The bout streams live on Paramount+, offering fight fans a midweek card as the promotion continues its packed schedule. The lightweight division remains one of the UFC's deepest and most competitive weight classes."
     },
     {
-      "headline": "Red Sox can thank the Yankees for stunning about-face in more ways than one",
-      "source": "NY Post Sports · just now",
-      "article": "The Boston Red Sox sit a half-game back of the New York Yankees for the top wild-card spot and five games behind the Tampa Bay Rays for the best record in the AL East and league. The Yankees' recent performance has had indirect effects on the Red Sox's postseason positioning. The specific nature of the Yankees' \"about-face\" and how it has benefited Boston is not fully detailed, but the standings position itself reflects a tightening race in the American League's Eastern division during the final stretch of the season."
+      "headline": "Michael Johnson on Grand Slam Track Payments: Athletes Have Been Paid",
+      "source": "BBC Sport · 7h ago",
+      "article": "Four-time Olympic champion Michael Johnson has spoken publicly for the first time since Grand Slam Track went bankrupt, clarifying details of payments to himself and other athletes. Johnson's statement provides transparency on how the league resolved its obligations to talent despite the financial collapse, addressing questions about athlete security in emerging track leagues."
     },
     {
-      "headline": "WNBA viewership continues to rise heading into stretch run",
-      "source": "Sports Media Watch · 14h ago",
-      "article": "WNBA viewership is comfortably ahead of last year's pace as the league enters the final weeks of its regular season. The league has built momentum throughout the year, with increases in audience size across the broadcast slate. Rising viewership heading into the playoff stretch suggests that fan engagement with the league has strengthened. The specific percentage increases and network-by-network breakdowns are not detailed in the available headline, but the overall trend is positive for league economics and stakeholder confidence."
+      "headline": "CFTC Eyes Prediction-Market Conflicts of Interest",
+      "source": "Sportico · 1d ago",
+      "article": "At least six prediction market exchanges have conflicts of interest baked into their corporate structures via affiliate relationships, according to the Commodity Futures Trading Commission. The CFTC proposed rules last week meant to address a trend of companies owning both a prediction market exchange and a principal trading desk. The regulatory push reflects growing scrutiny of prediction markets as they expand in prominence and financial scale."
     }
   ],
   "poll": {
-    "question": "Which factor is most likely to reshape sports media economics in 2026?",
+    "question": "How should the WNBA handle transgender athlete eligibility?",
     "options": [
-      "Streaming platforms winning NBA/NFL rights at lower valuations than legacy broadcasters",
-      "Prediction markets and gambling integration becoming a major revenue stream",
-      "Advertising market stabilization reversing WBD and legacy-media declines",
-      "International soccer leagues capturing more US broadcast dollars than domestic US sports"
+      "Continue internal league discussions without external political pressure",
+      "Defer to a unified governing body or independent committee",
+      "Adopt the strictest eligibility standards in professional sports",
+      "Allow individual teams to set their own eligibility policies"
     ]
   },
   "predictions": [
     {
-      "statement": "WBD will walk away from NBA rights negotiations for 2025-26 season and beyond within 12 months.",
-      "probability": 35,
-      "rationale": "The 22% ad-revenue collapse severely undermines WBD's ability to justify the premium prices the NBA is seeking. However, losing all NBA rights would be a reputational catastrophe for Turner Sports, so a renegotiated lower-rate deal is more likely than a complete exit. The threat is credible; the follow-through is not."
+      "statement": "The WNBA reaches a formal transgender eligibility policy by end of 2025",
+      "probability": 68,
+      "rationale": "Engelbert's memo signals the league is serious about resolving the issue internally. The next-week discussion indicates momentum, and ongoing pressure from multiple stakeholders will likely force a decision rather than indefinite delay."
     },
     {
-      "statement": "A prediction-market exchange will face CFTC enforcement action for conflicts of interest within 18 months.",
-      "probability": 62,
-      "rationale": "The CFTC has already flagged affiliate relationships as problematic and proposed new rules. At least six exchanges operate these conflicts. Regulatory agencies typically follow proposed rules with enforcement, and a test case against a mid-sized player (not DraftKings yet) would establish precedent without the political heat of going after the largest name first."
+      "statement": "WNBA viewership remains year-over-year up through the playoffs",
+      "probability": 72,
+      "rationale": "The league is tracking ahead of last year's pace entering the stretch run, a strong indicator of sustained momentum. Playoff basketball historically sees viewership spikes, and the WNBA's growing media presence and younger demographic engagement support continued gains."
     },
     {
-      "statement": "Arsenal will not win the Premier League in 2025-26 despite the Guimaraes signing.",
-      "probability": 58,
-      "rationale": "A midseason £75m midfielder addition shows ambition but also suggests Arsenal's summer prep was incomplete. The depth at midfield remains a vulnerability. Manchester City and Liverpool continue to field deeper squads. A second-place finish or domestic cup exit, not a title, is the likeliest outcome."
+      "statement": "The Mavericks-Cuban arena dispute goes to formal arbitration within 90 days",
+      "probability": 55,
+      "rationale": "Dumont's assertion that arbitration is required suggests both parties will invoke contractual clauses. However, Cuban's public profile and tendency to engage in media battles could delay formal proceedings or prompt settlement negotiations."
     },
     {
-      "statement": "DraftKings will achieve profitability in its prediction-markets vertical by end of 2026.",
-      "probability": 41,
-      "rationale": "CEO confidence and Wall Street positioning are bullish signals, but prediction markets remain nascent and regulatory risk is real. Transaction volumes need to scale substantially to cover infrastructure and compliance costs. The unit is too young to predict profitability with certainty."
+      "statement": "A federal college sports bill passes by end of 2025",
+      "probability": 38,
+      "rationale": "The September delay and the long road ahead suggest legislative gridlock around competing interests. While NCAA governance reform has bipartisan support in principle, translating that into law faces complexity on athlete compensation, institutional autonomy, and conference structure."
     }
   ],
   "injuries": [],
@@ -2517,6 +2515,114 @@
         "commenceTime": "2026-08-08T20:30:00Z"
       },
       "_scheduledTs": 1786221000000
+    },
+    {
+      "type": "moneyline",
+      "pick": "Atlanta Braves ML",
+      "odds": "-134",
+      "edge": "Market fill from live lines: Atlanta Braves is the books' favorite at -134 (best price @ FanDuel) against New York Yankees at +128, favored even on the road. No researched edge here — this is a low-confidence market-consensus play added to round out the slate. Low confidence is honest confidence.",
+      "matchup": "Atlanta Braves @ New York Yankees",
+      "league": "MLB",
+      "when": "Today 3:05 PM ET",
+      "confidence": "low",
+      "_autofill": true,
+      "_scheduledTs": 1786215900000,
+      "marketSnapshot": {
+        "capturedAt": "2026-08-08T15:21:43.769Z",
+        "markets": {
+          "h2h": {
+            "away": {
+              "price": -134,
+              "book": "FanDuel"
+            },
+            "home": {
+              "price": 128,
+              "book": "BetRivers"
+            },
+            "draw": null
+          },
+          "spreads": {
+            "away": {
+              "point": -1.5,
+              "price": 128,
+              "book": "FanDuel"
+            },
+            "home": {
+              "point": 1.5,
+              "price": -142,
+              "book": "LowVig.ag"
+            }
+          },
+          "totals": {
+            "over": {
+              "point": 7.5,
+              "price": 100,
+              "book": "FanDuel"
+            },
+            "under": {
+              "point": 7.5,
+              "price": -112,
+              "book": "LowVig.ag"
+            }
+          }
+        },
+        "awayTeam": "Atlanta Braves",
+        "homeTeam": "New York Yankees"
+      }
+    },
+    {
+      "type": "spread",
+      "pick": "Boston Red Sox -1.5",
+      "odds": "-125",
+      "edge": "Market fill from live lines: the books lay -1.5 with Boston Red Sox at -125 (best @ MyBookie.ag). No researched edge — a low-confidence market-consensus play so this sport isn't empty today.",
+      "matchup": "Athletics @ Boston Red Sox",
+      "league": "MLB",
+      "when": "Today 4:11 PM ET",
+      "confidence": "low",
+      "_autofill": true,
+      "_scheduledTs": 1786219860000,
+      "marketSnapshot": {
+        "capturedAt": "2026-08-08T15:21:43.770Z",
+        "markets": {
+          "h2h": {
+            "away": {
+              "price": 227,
+              "book": "BetOnline.ag"
+            },
+            "home": {
+              "price": -237,
+              "book": "DraftKings"
+            },
+            "draw": null
+          },
+          "spreads": {
+            "away": {
+              "point": 1.5,
+              "price": 115,
+              "book": "LowVig.ag"
+            },
+            "home": {
+              "point": -1.5,
+              "price": -125,
+              "book": "MyBookie.ag"
+            }
+          },
+          "totals": {
+            "over": {
+              "point": 9,
+              "price": -113,
+              "book": "LowVig.ag"
+            },
+            "under": {
+              "point": 9,
+              "price": 102,
+              "book": "BetRivers"
+            }
+          }
+        },
+        "awayTeam": "Athletics",
+        "homeTeam": "Boston Red Sox"
+      }
     },
     {
       "type": "moneyline",
@@ -5997,147 +6103,39 @@
         "homeTeam": "Switzerland"
       },
       "_pendingGrade": true
-    },
-    {
-      "type": "moneyline",
-      "pick": "Atlanta Braves ML",
-      "odds": "-134",
-      "edge": "Market fill from live lines: Atlanta Braves is the books' favorite at -134 (best price @ FanDuel) against New York Yankees at +128, favored even on the road. No researched edge here — this is a low-confidence market-consensus play added to round out the slate. Low confidence is honest confidence.",
-      "matchup": "Atlanta Braves @ New York Yankees",
-      "league": "MLB",
-      "when": "Today 3:05 PM ET",
-      "confidence": "low",
-      "_autofill": true,
-      "_scheduledTs": 1786215900000,
-      "marketSnapshot": {
-        "capturedAt": "2026-08-08T15:21:43.769Z",
-        "markets": {
-          "h2h": {
-            "away": {
-              "price": -134,
-              "book": "FanDuel"
-            },
-            "home": {
-              "price": 128,
-              "book": "BetRivers"
-            },
-            "draw": null
-          },
-          "spreads": {
-            "away": {
-              "point": -1.5,
-              "price": 128,
-              "book": "FanDuel"
-            },
-            "home": {
-              "point": 1.5,
-              "price": -142,
-              "book": "LowVig.ag"
-            }
-          },
-          "totals": {
-            "over": {
-              "point": 7.5,
-              "price": 100,
-              "book": "FanDuel"
-            },
-            "under": {
-              "point": 7.5,
-              "price": -112,
-              "book": "LowVig.ag"
-            }
-          }
-        },
-        "awayTeam": "Atlanta Braves",
-        "homeTeam": "New York Yankees"
-      }
-    },
-    {
-      "type": "spread",
-      "pick": "Boston Red Sox -1.5",
-      "odds": "-125",
-      "edge": "Market fill from live lines: the books lay -1.5 with Boston Red Sox at -125 (best @ MyBookie.ag). No researched edge — a low-confidence market-consensus play so this sport isn't empty today.",
-      "matchup": "Athletics @ Boston Red Sox",
-      "league": "MLB",
-      "when": "Today 4:11 PM ET",
-      "confidence": "low",
-      "_autofill": true,
-      "_scheduledTs": 1786219860000,
-      "marketSnapshot": {
-        "capturedAt": "2026-08-08T15:21:43.770Z",
-        "markets": {
-          "h2h": {
-            "away": {
-              "price": 227,
-              "book": "BetOnline.ag"
-            },
-            "home": {
-              "price": -237,
-              "book": "DraftKings"
-            },
-            "draw": null
-          },
-          "spreads": {
-            "away": {
-              "point": 1.5,
-              "price": 115,
-              "book": "LowVig.ag"
-            },
-            "home": {
-              "point": -1.5,
-              "price": -125,
-              "book": "MyBookie.ag"
-            }
-          },
-          "totals": {
-            "over": {
-              "point": 9,
-              "price": -113,
-              "book": "LowVig.ag"
-            },
-            "under": {
-              "point": 9,
-              "price": 102,
-              "book": "BetRivers"
-            }
-          }
-        },
-        "awayTeam": "Athletics",
-        "homeTeam": "Boston Red Sox"
-      }
     }
   ],
-  "updatedAt": "2026-04-23T16:45:00Z",
+  "updatedAt": "2025-04-23T14:15:00Z",
   "highlights": [
     {
       "league": "NBA",
-      "title": "Eric Collins almost lost his voice calling the Tre Mann Poster Slam vs the Milwaukee Bucks",
-      "videoId": "YHSV41VTcsg",
-      "thumbnail": "https://img.youtube.com/vi/YHSV41VTcsg/mqdefault.jpg",
+      "title": "Even on his honeymoon... Donovan Mitchell still putting in work 😤 (via spidadmitchell/IG)",
+      "videoId": "bBpHIAPPVRY",
+      "thumbnail": "https://img.youtube.com/vi/bBpHIAPPVRY/mqdefault.jpg",
       "timeAgo": "1h ago",
       "isFallback": false
     },
     {
       "league": "NFL",
-      "title": "Kevin Greene got in his head 😂",
-      "videoId": "RM8RFVpX84E",
-      "thumbnail": "https://img.youtube.com/vi/RM8RFVpX84E/mqdefault.jpg",
-      "timeAgo": "1h ago",
-      "isFallback": false
-    },
-    {
-      "league": "MLB",
-      "title": "All Aroldis Chapman could do was smile at Manny Machado when he got him on a painted fastball 😁",
-      "videoId": "QxzH1GEHhwc",
-      "thumbnail": "https://img.youtube.com/vi/QxzH1GEHhwc/mqdefault.jpg",
+      "title": "Roger Craig reveals vascular dementia diagnosis during HOF speech | NFL on ESPN",
+      "videoId": "vIGyrKH5qDw",
+      "thumbnail": "https://img.youtube.com/vi/vIGyrKH5qDw/mqdefault.jpg",
       "timeAgo": "Just now",
       "isFallback": false
     },
     {
+      "league": "MLB",
+      "title": "Celebrate like Mike! Mike Trout has SIX BIRTHDAY HOMERS in his career! 🥳👏",
+      "videoId": "oLd5PqTwZoQ",
+      "thumbnail": "https://img.youtube.com/vi/oLd5PqTwZoQ/mqdefault.jpg",
+      "timeAgo": "2h ago",
+      "isFallback": false
+    },
+    {
       "league": "NHL",
-      "title": "EVERY GOAL Scored Last Season by the 2026-27 Columbus Blue Jackets Roster",
-      "videoId": "GjcPQq8bDsc",
-      "thumbnail": "https://img.youtube.com/vi/GjcPQq8bDsc/mqdefault.jpg",
+      "title": "3ICE Hockey Week 3 - NY/NJ vs. Minnesota &amp; Chicago vs. Buffalo",
+      "videoId": "olGrCbvUPCo",
+      "thumbnail": "https://img.youtube.com/vi/olGrCbvUPCo/mqdefault.jpg",
       "timeAgo": "1h ago",
       "isFallback": false
     },
@@ -6146,19 +6144,179 @@
       "title": "Golden State Valkyries vs. Dallas Wings | FULL GAME HIGHLIGHTS | August 7, 2026",
       "videoId": "JQfauy2KMlc",
       "thumbnail": "https://img.youtube.com/vi/JQfauy2KMlc/mqdefault.jpg",
-      "timeAgo": "11h ago",
+      "timeAgo": "15h ago",
       "isFallback": false
     },
     {
       "league": "SOCCER",
-      "title": "Raphinha made that look easy (via @fcbarcelona/TT)",
-      "videoId": "hlRyU4FAkCg",
-      "thumbnail": "https://img.youtube.com/vi/hlRyU4FAkCg/mqdefault.jpg",
-      "timeAgo": "Just now",
+      "title": "Wait for the dance 😂 (via @Erling/TT)",
+      "videoId": "RuLvK3dNgs8",
+      "thumbnail": "https://img.youtube.com/vi/RuLvK3dNgs8/mqdefault.jpg",
+      "timeAgo": "3h ago",
       "isFallback": false
     }
   ],
   "reels": [
+    {
+      "league": "NFL",
+      "title": "Roger Craig reveals vascular dementia diagnosis during HOF speech | NFL on ESPN",
+      "videoId": "vIGyrKH5qDw",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-08-08T19:03:47+00:00",
+      "link": "https://www.youtube.com/watch?v=vIGyrKH5qDw"
+    },
+    {
+      "league": "NFL",
+      "title": "What a wholesome moment ❤️",
+      "videoId": "DofA-fYKt5c",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-08-08T19:01:18+00:00",
+      "link": "https://www.youtube.com/watch?v=DofA-fYKt5c"
+    },
+    {
+      "league": "NBA",
+      "title": "Even on his honeymoon... Donovan Mitchell still putting in work 😤 (via spidadmitchell/IG)",
+      "videoId": "bBpHIAPPVRY",
+      "author": "NBA",
+      "pubDate": "2026-08-08T18:26:40+00:00",
+      "link": "https://www.youtube.com/watch?v=bBpHIAPPVRY"
+    },
+    {
+      "league": "NHL",
+      "title": "3ICE Hockey Week 3 - NY/NJ vs. Minnesota &amp; Chicago vs. Buffalo",
+      "videoId": "olGrCbvUPCo",
+      "author": "NHL",
+      "pubDate": "2026-08-08T18:00:06+00:00",
+      "link": "https://www.youtube.com/watch?v=olGrCbvUPCo"
+    },
+    {
+      "league": "NBA",
+      "title": "Victor Wembanyama and Dylan Harper on Christmas Day Lob Connection",
+      "videoId": "DZXBSPvM3p4",
+      "author": "NBA",
+      "pubDate": "2026-08-08T17:36:55+00:00",
+      "link": "https://www.youtube.com/watch?v=DZXBSPvM3p4"
+    },
+    {
+      "league": "MLB",
+      "title": "Celebrate like Mike! Mike Trout has SIX BIRTHDAY HOMERS in his career! 🥳👏",
+      "videoId": "oLd5PqTwZoQ",
+      "author": "MLB",
+      "pubDate": "2026-08-08T17:36:35+00:00",
+      "link": "https://www.youtube.com/watch?v=oLd5PqTwZoQ"
+    },
+    {
+      "league": "NFL",
+      "title": "Adam Vinatieri Jr. reflects on journey to becoming a Hall of Famer | NFL on ESPN",
+      "videoId": "6yAPBXBAiqQ",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-08-08T17:32:26+00:00",
+      "link": "https://www.youtube.com/watch?v=6yAPBXBAiqQ"
+    },
+    {
+      "league": "MLB",
+      "title": "Bubble delay at the Dodgers game is crazy 🤣🫧",
+      "videoId": "UtaUo6VEYM8",
+      "author": "MLB",
+      "pubDate": "2026-08-08T17:00:26+00:00",
+      "link": "https://www.youtube.com/watch?v=UtaUo6VEYM8"
+    },
+    {
+      "league": "NFL",
+      "title": "Larry Fitzgerald Jr. reflects on Hall of Fame journey in heartfelt speech | NFL on ESPN",
+      "videoId": "z2Hib90HND8",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-08-08T16:50:58+00:00",
+      "link": "https://www.youtube.com/watch?v=z2Hib90HND8"
+    },
+    {
+      "league": "NFL",
+      "title": "Larry Fitzgerald is officially a Hall of Famer 👏",
+      "videoId": "BuqKIJmyFKU",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-08-08T16:36:31+00:00",
+      "link": "https://www.youtube.com/watch?v=BuqKIJmyFKU"
+    },
+    {
+      "league": "NBA",
+      "title": "How Old were Members of USAB when They First Dunked?",
+      "videoId": "P4kQZZg6O6k",
+      "author": "NBA",
+      "pubDate": "2026-08-08T16:35:05+00:00",
+      "link": "https://www.youtube.com/watch?v=P4kQZZg6O6k"
+    },
+    {
+      "league": "MLB",
+      "title": "Ichiro Suzuki &amp; MORE Mariners legends face off in their FIRST-EVER Alumni Home Run Derby! 💪💥",
+      "videoId": "C0rfoeWloKo",
+      "author": "MLB",
+      "pubDate": "2026-08-08T16:26:54+00:00",
+      "link": "https://www.youtube.com/watch?v=C0rfoeWloKo"
+    },
+    {
+      "league": "SOCCER",
+      "title": "Wait for the dance 😂 (via @Erling/TT)",
+      "videoId": "RuLvK3dNgs8",
+      "author": "ESPN FC",
+      "pubDate": "2026-08-08T16:17:45+00:00",
+      "link": "https://www.youtube.com/watch?v=RuLvK3dNgs8"
+    },
+    {
+      "league": "SOCCER",
+      "title": "'Come have a look at where Erling Haaland stays' 😂 (via @Erling/TT)",
+      "videoId": "PwJHwN37tRk",
+      "author": "ESPN FC",
+      "pubDate": "2026-08-08T16:15:43+00:00",
+      "link": "https://www.youtube.com/watch?v=PwJHwN37tRk"
+    },
+    {
+      "league": "SOCCER",
+      "title": "John Cena joins the Haaland-mania 🤩⚽️ (via @mancity/IG)",
+      "videoId": "snMI-W7PWNA",
+      "author": "ESPN FC",
+      "pubDate": "2026-08-08T16:15:03+00:00",
+      "link": "https://www.youtube.com/watch?v=snMI-W7PWNA"
+    },
+    {
+      "league": "NBA",
+      "title": "Josh Hart and Family Take Photos after the Knicks win the NBA Finals",
+      "videoId": "HiC8I7iu1j0",
+      "author": "NBA",
+      "pubDate": "2026-08-08T16:13:04+00:00",
+      "link": "https://www.youtube.com/watch?v=HiC8I7iu1j0"
+    },
+    {
+      "league": "MLB",
+      "title": "Adrian Beltré didn't like where the batting circle was 😮",
+      "videoId": "NiWMP6n7Mtg",
+      "author": "MLB",
+      "pubDate": "2026-08-08T16:00:09+00:00",
+      "link": "https://www.youtube.com/watch?v=NiWMP6n7Mtg"
+    },
+    {
+      "league": "MLB",
+      "title": "The Top 10 Animal Moments that define baseball #250for250",
+      "videoId": "EwLvqk6m9iA",
+      "author": "MLB",
+      "pubDate": "2026-08-08T15:42:45+00:00",
+      "link": "https://www.youtube.com/watch?v=EwLvqk6m9iA"
+    },
+    {
+      "league": "MLB",
+      "title": "Top 10 Animal Moments In Baseball History! | MLB 250 For 250",
+      "videoId": "9lqgEBwzZbY",
+      "author": "MLB",
+      "pubDate": "2026-08-08T15:30:28+00:00",
+      "link": "https://www.youtube.com/watch?v=9lqgEBwzZbY"
+    },
+    {
+      "league": "NBA",
+      "title": "Shaedon Sharpe lives above the rim 🔨",
+      "videoId": "iJgOLWNmfqg",
+      "author": "NBA",
+      "pubDate": "2026-08-08T15:13:09+00:00",
+      "link": "https://www.youtube.com/watch?v=iJgOLWNmfqg"
+    },
     {
       "league": "SOCCER",
       "title": "Raphinha made that look easy (via @fcbarcelona/TT)",
@@ -6216,54 +6374,6 @@
       "link": "https://www.youtube.com/watch?v=TYLaV_ZdNGo"
     },
     {
-      "league": "MLB",
-      "title": "Highlights from ALL GAMES on 8/7 (Yankees, D-backs walk it off, Red Sox win 9th straight and MORE!)",
-      "videoId": "7Yy6TVFYcQo",
-      "author": "MLB",
-      "pubDate": "2026-08-08T10:00:02+00:00",
-      "link": "https://www.youtube.com/watch?v=7Yy6TVFYcQo"
-    },
-    {
-      "league": "MLB",
-      "title": "FULL UNCUT FINISH: Yankees score 2 runs with 2 outs in the 9th to tie, walk it off in the 10th! 😳",
-      "videoId": "TwFn-1SEmdA",
-      "author": "MLB",
-      "pubDate": "2026-08-08T05:59:45+00:00",
-      "link": "https://www.youtube.com/watch?v=TwFn-1SEmdA"
-    },
-    {
-      "league": "MLB",
-      "title": "ASTROS vs. PADRES: Official Full Game Highlights (August 7) | 2026 MLB Season",
-      "videoId": "BooVWLWVrPc",
-      "author": "MLB",
-      "pubDate": "2026-08-08T05:05:29+00:00",
-      "link": "https://www.youtube.com/watch?v=BooVWLWVrPc"
-    },
-    {
-      "league": "MLB",
-      "title": "Ryan Waldschmidt walks it off against the Dodgers 🐍",
-      "videoId": "AF_W0WUIV5g",
-      "author": "MLB",
-      "pubDate": "2026-08-08T05:00:32+00:00",
-      "link": "https://www.youtube.com/watch?v=AF_W0WUIV5g"
-    },
-    {
-      "league": "MLB",
-      "title": "TIGERS vs. GIANTS: Official Full Game Highlights (August 7) | 2026 MLB Season",
-      "videoId": "6gNdcfmjl1I",
-      "author": "MLB",
-      "pubDate": "2026-08-08T04:56:50+00:00",
-      "link": "https://www.youtube.com/watch?v=6gNdcfmjl1I"
-    },
-    {
-      "league": "MLB",
-      "title": "BLUE JAYS vs. PHILLIES: Official Full Game Highlights (August 7) | 2026 MLB Season",
-      "videoId": "rd02nm8PGBc",
-      "author": "MLB",
-      "pubDate": "2026-08-08T04:50:13+00:00",
-      "link": "https://www.youtube.com/watch?v=rd02nm8PGBc"
-    },
-    {
       "league": "WNBA",
       "title": "Golden State Valkyries vs. Dallas Wings | FULL GAME HIGHLIGHTS | August 7, 2026",
       "videoId": "JQfauy2KMlc",
@@ -6294,14 +6404,6 @@
       "author": "NFL on ESPN",
       "pubDate": "2026-08-08T01:59:13+00:00",
       "link": "https://www.youtube.com/watch?v=qS5zmbYm_os"
-    },
-    {
-      "league": "NHL",
-      "title": "3ICE Hockey Week 3 - NY/NJ vs. Minnesota &amp; Chicago vs. Buffalo",
-      "videoId": "X1LgaGqtzvs",
-      "author": "NHL",
-      "pubDate": "2026-08-08T01:22:45+00:00",
-      "link": "https://www.youtube.com/watch?v=X1LgaGqtzvs"
     },
     {
       "league": "NFL",
@@ -6352,92 +6454,12 @@
       "link": "https://www.youtube.com/watch?v=7gfl87sW2AA"
     },
     {
-      "league": "SOCCER",
-      "title": "‘They can be in the top 6!’ 😳 Steve Nicol on Spurs' transfer window &amp; Premier League hopes | ESPN FC",
-      "videoId": "HgmJ_0EaJ_g",
-      "author": "ESPN FC",
-      "pubDate": "2026-08-07T22:14:15+00:00",
-      "link": "https://www.youtube.com/watch?v=HgmJ_0EaJ_g"
-    },
-    {
-      "league": "SOCCER",
-      "title": "Did Mo Salah prove Arne Slot right by leaving Liverpool for Trabzonspor? 👀 | ESPN FC",
-      "videoId": "imTsLCw0sD8",
-      "author": "ESPN FC",
-      "pubDate": "2026-08-07T22:02:38+00:00",
-      "link": "https://www.youtube.com/watch?v=imTsLCw0sD8"
-    },
-    {
       "league": "NBA",
-      "title": "San Antonio ➡️ Paris Wemby takes in the sights (via @wemby/IG)",
-      "videoId": "vrk9cMChoHE",
+      "title": "Nike Mamba League Invitational: Boys Game 2 - Team Fearless vs. Team Resilience",
+      "videoId": "BfT3BB9wn_Q",
       "author": "NBA",
-      "pubDate": "2026-08-07T21:08:33+00:00",
-      "link": "https://www.youtube.com/watch?v=vrk9cMChoHE"
-    },
-    {
-      "league": "NFL",
-      "title": "Share this with someone who is going to hear these on fantasy draft day 😂 (via mitchellfranxman/TT)",
-      "videoId": "HN9ox87Xcb4",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-08-07T21:05:27+00:00",
-      "link": "https://www.youtube.com/watch?v=HN9ox87Xcb4"
-    },
-    {
-      "league": "NFL",
-      "title": "Luke Kuechly reflects on moments that led to becoming a Hall of Famer 🏈 | The Rich Eisen Show",
-      "videoId": "r5ITXSwBFHU",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-08-07T19:20:37+00:00",
-      "link": "https://www.youtube.com/watch?v=r5ITXSwBFHU"
-    },
-    {
-      "league": "NFL",
-      "title": "How Willie Roaf would stop Aaron Donald and Myles Garrett 👀",
-      "videoId": "CJBI9BApnC8",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-08-07T18:48:43+00:00",
-      "link": "https://www.youtube.com/watch?v=CJBI9BApnC8"
-    },
-    {
-      "league": "NFL",
-      "title": "Why George Kittle is still a top TE in fantasy #shorts #nfl",
-      "videoId": "SDlKUo9hehw",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-08-07T18:00:05+00:00",
-      "link": "https://www.youtube.com/watch?v=SDlKUo9hehw"
-    },
-    {
-      "league": "NFL",
-      "title": "Dan Orlovsky compares Haynes King to an 'early Brock Purdy' 👀 | The Pat McAfee Show",
-      "videoId": "N9yO8BZAe-Y",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-08-07T17:38:15+00:00",
-      "link": "https://www.youtube.com/watch?v=N9yO8BZAe-Y"
-    },
-    {
-      "league": "SOCCER",
-      "title": "Trabzonspor supporters showed up for Mohamed Salah 🥹❤️ (via trabzonspor/TT)",
-      "videoId": "6Gqbyuoi5uo",
-      "author": "ESPN FC",
-      "pubDate": "2026-08-07T17:15:33+00:00",
-      "link": "https://www.youtube.com/watch?v=6Gqbyuoi5uo"
-    },
-    {
-      "league": "NBA",
-      "title": "Air Time Presents: Road to Peach Jam | Episode 5",
-      "videoId": "-7t84NuSMf0",
-      "author": "NBA",
-      "pubDate": "2026-08-07T17:14:29+00:00",
-      "link": "https://www.youtube.com/watch?v=-7t84NuSMf0"
-    },
-    {
-      "league": "NBA",
-      "title": "Air Time Presents: Road to Peach Jam | Episode 5",
-      "videoId": "soN2bHptbPA",
-      "author": "NBA",
-      "pubDate": "2026-08-07T16:50:32+00:00",
-      "link": "https://www.youtube.com/watch?v=soN2bHptbPA"
+      "pubDate": "2026-08-07T21:57:33+00:00",
+      "link": "https://www.youtube.com/watch?v=BfT3BB9wn_Q"
     },
     {
       "league": "NHL",
@@ -6448,36 +6470,12 @@
       "link": "https://www.youtube.com/watch?v=29HWT3YYTaE"
     },
     {
-      "league": "NBA",
-      "title": "The future is on the floor at Summer League 🌟",
-      "videoId": "IgdOhF0LL7Y",
-      "author": "NBA",
-      "pubDate": "2026-08-07T14:03:40+00:00",
-      "link": "https://www.youtube.com/watch?v=IgdOhF0LL7Y"
-    },
-    {
-      "league": "NBA",
-      "title": "Alley &amp; Oop Visit the Draft! Learn about Dybantsa, Peterson, Boozer &amp; More | NBA Kids Show",
-      "videoId": "RiKZaC3KETs",
-      "author": "NBA",
-      "pubDate": "2026-08-07T14:00:25+00:00",
-      "link": "https://www.youtube.com/watch?v=RiKZaC3KETs"
-    },
-    {
       "league": "WNBA",
       "title": "Toronto Tempo vs. Portland Fire | FULL GAME HIGHLIGHTS | August 6, 2026",
       "videoId": "BdaGgULV73E",
       "author": "WNBA",
       "pubDate": "2026-08-07T04:40:37+00:00",
       "link": "https://www.youtube.com/watch?v=BdaGgULV73E"
-    },
-    {
-      "league": "WNBA",
-      "title": "Los Angeles Sparks vs. Minnesota Lynx | FULL GAME HIGHLIGHTS | August 6, 2026",
-      "videoId": "gjuItzwLUWc",
-      "author": "WNBA",
-      "pubDate": "2026-08-07T04:37:29+00:00",
-      "link": "https://www.youtube.com/watch?v=gjuItzwLUWc"
     }
   ]
 }
