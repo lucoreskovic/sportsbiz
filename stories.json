@@ -1,73 +1,81 @@
 {
   "clusters": [
     {
+      "category": "labor",
+      "importance": 8,
+      "leadHeadline": "Commanders Laremy Tunsil diagnosed with torn triceps, reportedly will miss most of the 2026 season",
+      "leadSource": "CBS Sports · 3h ago",
+      "leadUrl": "https://www.cbssports.com/nfl/news/commanders-laremy-tunsil-torn-triceps-will-miss-most-of-2026-season/",
+      "summary": "<cite index=\"1-1\">Laremy Tunsil suffered a torn triceps in Saturday's practice and will miss at least a significant portion of the regular season.</cite> <cite index=\"1-4\">Tunsil signed a two-year, $60.2 million extension in March.</cite>",
+      "article": "<cite index=\"1-1\">Laremy Tunsil suffered a torn triceps in Saturday's practice and will miss at least a significant portion of the regular season, NFL Network reported.</cite> <cite index=\"3-4\">The injury occurred during a one-on-one pass rush drill against Odafe Oweh.</cite> <cite index=\"1-3\">Tunsil is likely to require surgery.</cite>\n\n<cite index=\"3-3\">Recovery time for such an injury typically runs at least four months and as long as six or seven.</cite> <cite index=\"1-4\">Tunsil, a five-time Pro Bowler, was preparing for his second season with Washington after signing a two-year, $60.2 million extension in March.</cite> <cite index=\"16-8\">He became the first offensive lineman to receive a contract averaging $30 million per season.</cite>\n\n<cite index=\"1-5\">Tunsil was arguably Washington's second-most important piece of the offense behind Jayden Daniels, considering he was entrusted with protecting the quarterback's blindside and is one of the premier left tackles in the NFL.</cite> <cite index=\"3-13\">The Commanders are trying to regain the positive trajectory from a 2024 season in which they reached the NFC Championship Game.</cite> <cite index=\"4-10\">Veteran Andrew Wylie figures to be the next man up on Washington's depth chart.</cite>",
+      "tweets": [
+        {
+          "url": "https://twitter.com/MikeGarafolo/status/2086244775552815487",
+          "html": "<blockquote class=\"twitter-tweet\" data-dnt=\"true\" data-theme=\"dark\"><p>A terrible blow for the Commanders.</p>&mdash; John Keim (@john_keim) <a href=\"https://twitter.com/MikeGarafolo/status/2086244775552815487\">August 9, 2026</a></blockquote>",
+          "author_name": "John Keim",
+          "author_url": "https://twitter.com/john_keim",
+          "dateMs": 1786234489000
+        }
+      ]
+    },
+    {
+      "category": "media",
+      "importance": 7,
+      "leadHeadline": "Sky's DiJonai Carrington posts 'white privilege' after ejection for hard foul on Sophie Cunningham",
+      "leadSource": "The Guardian · 7h ago",
+      "leadUrl": "https://www.theguardian.com/sport/2026/aug/08/sophie-cunningham-foul-dijonai-carrington-ejected-wnba",
+      "summary": "Chicago Sky forward DiJonai Carrington was ejected for a Flagrant 2 foul on Indiana Fever's Sophie Cunningham and posted racial commentary on social media, igniting a broader WNBA eligibility debate.",
+      "article": "DiJonai Carrington of the Chicago Sky was ejected Saturday for a Flagrant 2 foul on Sophie Cunningham of the Indiana Fever. Minutes after the ejection, Carrington posted on social media the phrase \"white privilege,\" a comment that has reignited broader conversation around player conduct, officiating, and the sport's cultural moment.\n\nThe incident occurred during a heated Sky-Fever matchup and immediately drew scrutiny from league officials and media observers. Carrington's post, while brief, accelerated an already-simmering discourse about player expression, racial dynamics in women's sports, and what the WNBA's code of conduct permits.\n\nThe fallout also triggered separate news: Indiana's Caitlin Clark was hit with a technical foul that triggered an automatic one-game suspension under league rules, a penalty that has drawn criticism from some quarters as disproportionate. The Carrington ejection and her social media response have now prompted WNBA President Cathy Engelbert and team governors to schedule discussions on transgender eligibility rules, a policy question that has been dormant but is now front-and-center as the league navigates identity and inclusion questions in real time.",
+      "tweets": []
+    },
+    {
+      "category": "media",
+      "importance": 6,
+      "leadHeadline": "WNBA viewership continues to rise heading into stretch run",
+      "leadSource": "Sports Media Watch · 1d ago",
+      "leadUrl": "https://www.sportsmediawatch.com/2026/08/wnba-viewership-increase-fever-lynx-ratings-abc/",
+      "summary": "The WNBA is tracking well ahead of last year's pace as the regular season enters its final stretch, with viewership gains driven by marquee matchups and rising star power.",
+      "article": "WNBA viewership is running comfortably ahead of last year's pace heading into the final weeks of the regular season, per Sports Media Watch. The league has capitalized on increased media investment, prime-time slot placement, and the drawing power of stars like Caitlin Clark and Breanna Stewart to drive consistent viewership gains across broadcast and streaming platforms.\n\nThe timing is significant: as the WNBA heads toward playoffs, elevated viewership translates directly into leverage for the league's ongoing media-rights negotiations and sponsorship renewals. Broadcasters are seeing the value of women's basketball in late-window slots, and advertisers are taking notice of the demographic reach.\n\nThe upward trajectory also comes amid the Carrington-Cunningham incident and broader cultural conversations around the league. Despite controversy, or perhaps partly because of the engagement it has driven, the WNBA's core business metrics are strengthening as it approaches the postseason.",
+      "tweets": []
+    },
+    {
       "category": "leagues",
       "importance": 6,
-      "leadHeadline": "Sky's Carrington posts 'white privilege' after ejection for hard foul on Sophie Cunningham",
-      "leadSource": "The Guardian · 1h ago",
-      "leadUrl": "https://www.theguardian.com/sport/2026/aug/08/sophie-cunningham-foul-dijonai-carrington-ejected-wnba",
-      "summary": "<cite index=\"1-2\">DiJonai Carrington of the Chicago Sky was ejected Saturday after a Flagrant 2 foul on Sophie Cunningham of the Indiana Fever.</cite> <cite index=\"1-3\">Carrington posted on social media the words \"WHITE PRIVILEGE\" and tagged the Fever</cite> moments later.",
-      "article": "<cite index=\"1-2,1-4\">DiJonai Carrington of the Chicago Sky was ejected Saturday after a Flagrant 2 foul on Sophie Cunningham, who is white. Cunningham was shooting a fast-break layup in the first quarter when Carrington, who is Black, came from behind and hit her in the head and neck, knocking her to the court.</cite>\n\n<cite index=\"3-3,3-4\">With about two minutes left in the first quarter and the Sky leading 18-17, Cunningham broke free on a fast break with a clear path to the rim. Carrington caught up to her and struck her in the side of the head with her left arm.</cite> <cite index=\"3-5\">The bucket counted, and Cunningham hit the ensuing free throw after officials upgraded the foul to a flagrant 2 upon review.</cite> <cite index=\"3-6\">Cunningham got back to her feet quickly and got in Carrington's face, prompting a brief shoving match.</cite>\n\n<cite index=\"3-8\">Minutes after her ejection, Carrington posted \"WHITE PRIVILEGE\" in all capital letters on Threads and tagged the Fever.</cite> <cite index=\"5-11\">Carrington did not elaborate on the post, leaving unclear whether it referred to Cunningham, the officiating decision or the Fever organization.</cite>\n\n<cite index=\"3-9\">Carrington had been red-hot up to that point, scoring eight points on 3-of-3 shooting in four minutes off the bench.</cite> <cite index=\"2-7\">Indiana beat Chicago 90-86.</cite>\n\n<cite index=\"19-2\">Caitlin Clark received her eighth technical foul of the 2026 WNBA season during the matchup.</cite> <cite index=\"19-4\">She was called for the technical after making contact with an official once she stepped out of bounds following a pass.</cite> <cite index=\"20-3\">Under WNBA rules, she will serve an automatic one-game suspension.</cite>",
-      "tweets": []
-    },
-    {
-      "category": "media",
-      "importance": 5,
       "leadHeadline": "Fifa launches new attack on media over alleged 'concerted effort' to undermine Gianni Infantino",
-      "leadSource": "The Guardian · 1h ago",
+      "leadSource": "The Guardian · 6h ago",
       "leadUrl": "https://www.theguardian.com/football/2026/aug/08/fifa-launches-new-attack-on-media-over-alleged-concerted-effort-to-undermine-gianni-infantino",
-      "summary": "FIFA issued a statement alleging a coordinated campaign to undermine President Gianni Infantino, defending him against recent media scrutiny. The organization denied 'insinuations' presented as fact.",
-      "article": "FIFA has escalated its defense of President Gianni Infantino by issuing a fresh statement alleging a 'concerted and ongoing effort by some to undermine Fifa and its president.' The governing body issued the statement in response to recent media coverage, arguing that 'insinuation should not be presented as fact.'\n\nThe statement marks FIFA's second public pushback in two days, signaling that pressure on Infantino remains significant despite the organization's attempts to contain the narrative. The language used—accusing media of a coordinated campaign—reflects how defensive FIFA has become as questions about governance and leadership intensify.\n\nInfantino has led FIFA since 2016 and faced recurring criticism over spending, tournament organization, and administrative structure. The timing of these statements suggests internal concern that momentum against his leadership is building, even as FIFA insists the media narrative is manufactured rather than substantive.",
+      "summary": "FIFA issued a statement accusing media of a 'concerted and ongoing effort' to undermine president Gianni Infantino, defending him against mounting pressure from critics worldwide.",
+      "article": "FIFA has issued a new statement alleging there is a \"concerted and ongoing effort by some to undermine FIFA and its president\" in response to escalating pressure on Gianni Infantino. The governing body's defensive posture underscores the intensity of scrutiny the president faces on issues including World Cup expansion, corruption allegations, and governance transparency.\n\nThe statement, per The Guardian, frames media coverage as unfair insinuation masquerading as fact. FIFA's messaging suggests the organization views criticism as coordinated rather than organic, a framing that has drawn skepticism from transparency advocates and independent journalists covering the sport.\n\nInfantino has faced calls for his removal from various quarters, including some national federations and UEFA leadership. His re-election as president in 2023 was contentious, and his tenure has been marked by proposals to expand the World Cup format and increase FIFA's revenue streams, moves that have generated both enthusiasm and criticism across member nations.\n\nFIFA's public attack on media criticism is a rare escalation and signals that internal pressure on Infantino is mounting as the organization heads toward major governance decisions.",
+      "tweets": []
+    },
+    {
+      "category": "contracts",
+      "importance": 5,
+      "leadHeadline": "Vintage Scherzer, Guerrero help Blue Jays rally past Phillies",
+      "leadSource": "Sportsnet · 2h ago",
+      "leadUrl": "",
+      "summary": "Max Scherzer recorded his 3,516th career strikeout, tenth all-time, and Vladimir Guerrero Jr. delivered a key two-run homer in the tenth inning as Toronto rallied to beat Philadelphia on Saturday.",
+      "article": "Max Scherzer reached a career milestone Saturday, striking out his 3,516th batter, which ranks tenth all-time in Major League Baseball history. The veteran right-hander's continued production at 41 years old has been one of baseball's quieter stories of excellence as the 2026 season enters its final months.\n\nVladimir Guerrero Jr. provided the offensive spark Toronto needed, blasting a two-run homer in the tenth inning to lift the Blue Jays past the Phillies. Guerrero has been returning to form after an injury-plagued stretch earlier in the season, and his clutch hit signals the Blue Jays may have their offensive engine back online as they make a playoff push.\n\nThe win keeps Toronto in contention in a crowded AL East race. Scherzer's strikeout milestone is a footnote to a larger narrative: the Blue Jays are betting on veteran depth and returning health to make a run in October.",
       "tweets": []
     },
     {
       "category": "media",
       "importance": 4,
-      "leadHeadline": "WBD quarterly advertising revenue is down 22% YoY",
-      "leadSource": "Sports Media Watch · 1d ago",
-      "leadUrl": "https://www.sportsmediawatch.com/2026/08/wbd-advertising-revenue-netflix-costner-mlb-field-of-dreams-versant-guidance/",
-      "summary": "Warner Bros. Discovery saw Q2 advertising revenue plummet 22 percent year-over-year, signaling ongoing headwinds for traditional media in sports broadcasting. The decline reflects cord-cutting and advertiser pullback.",
-      "article": "Warner Bros. Discovery reported a 22 percent year-over-year decline in Q2 advertising revenue, a sharp drop that underscores the structural challenge legacy media companies face in sports broadcasting. The company, which holds rights to NBA, MLB, and NCAA content across cable and streaming platforms, is caught between declining linear viewership and the high cost of maintaining premium sports rights.\n\nThe decline mirrors broader industry trends: advertisers are increasingly skeptical of traditional cable reach, and streaming alternatives are fragmenting audience attention. For WBD specifically, the timing is critical. The company is in active negotiations with Paramount over potential distribution partnerships, and these numbers will likely factor into those conversations.\n\nMeanwhile, other sports media outlets are exploring alternative revenue models. Kevin Costner will appear on the MLB at Field of Dreams broadcast, signaling baseball's continued bet on premium event programming. The contrast illustrates the diverging fortunes: niche, event-driven content is holding value, while routine programming advertising dollars continue to erode.",
-      "tweets": []
-    },
-    {
-      "category": "revenue",
-      "importance": 4,
-      "leadHeadline": "Mavs Owner Patrick Dumont Hits Back at Mark Cuban in Arena Fight",
-      "leadSource": "Front Office Sports · 11h ago",
-      "leadUrl": "https://frontofficesports.com/mavericks-owner-patrick-dumont-hits-back-mark-cuban-arena-fight/",
-      "summary": "Dallas Mavericks owner Patrick Dumont filed a claim that Mark Cuban must submit the arena dispute to private arbitration rather than public litigation. The move marks the latest escalation in the ownership clash.",
-      "article": "Patrick Dumont, the controlling owner of the Dallas Mavericks, has struck back at Mark Cuban by asserting that their arena-related dispute must be settled through private arbitration, not open court proceedings. Dumont's claim, if upheld, would keep the internal fight out of the public record.\n\nThe dispute centers on the team's arena strategy and governance authority. Cuban, who sold his majority stake to Dumont's group but retained a significant minority position, has sought to contest decisions about the facility's future. Dumont's arbitration demand is a tactical maneuver to contain the conflict and limit Cuban's ability to wage his case in public filings.\n\nThe move reflects deeper questions about post-sale control at the franchise. When Cuban exited his majority position, the terms of his remaining stake presumably included dispute-resolution language. If arbitration is enforced, the two parties will settle the arena question behind closed doors, likely accelerating a resolution but also removing the transparency that public litigation would provide.",
+      "leadHeadline": "Tielemans cameo against PSG hints at Man Utd future",
+      "leadSource": "BBC Sport · 9h ago",
+      "leadUrl": "https://www.bbc.co.uk/sport/football/articles/ce34k3qve4no?at_medium=RSS&amp;at_campaign=rss",
+      "summary": "Manchester United's £35 million signing Youri Tielemans made an impressive debut in a 1-1 friendly draw against Paris St-Germain, signaling the midfielder's integration into Erik ten Hag's system.",
+      "article": "Youri Tielemans, acquired by Manchester United for £35 million, made his competitive debut Saturday in a 1-1 friendly draw against Paris St-Germain in Gothenburg. The Belgian midfielder showed flashes of the technical skill and work rate that attracted United to his profile, operating in midfield against a top-tier opponent.\n\nTielemans was signed to add depth and competition in the center of the park, an area United has prioritized in the transfer window. His performance in the friendly, though limited in scope, provided Erik ten Hag with early data on how Tielemans fits tactically alongside the club's existing midfield options.\n\nThe friendly's 1-1 draw leaves both teams with mixed results ahead of the 2026-27 season launch. For United, the Tielemans audition is just beginning; a full Premier League campaign will be the real test of whether his form translates to the English top flight.",
       "tweets": []
     },
     {
       "category": "leagues",
       "importance": 3,
       "leadHeadline": "Senate Punts College Sports Bill to September",
-      "leadSource": "Front Office Sports · 7h ago",
+      "leadSource": "Front Office Sports · 11h ago",
       "leadUrl": "https://frontofficesports.com/senate-college-sports-act-vote/",
-      "summary": "Senate leadership delayed a college sports bill, pushing deliberation to September and leaving the future of athlete compensation and portal rules uncertain. The delay signals continued disagreement among lawmakers.",
-      "article": "The Senate has postponed action on a college sports bill that would address athlete compensation, the transfer portal, and governance structures, kicking the matter to September. The deferral indicates that negotiations between proponents of different regulatory approaches remain unresolved.\n\nThe bill faced resistance from competing constituencies: schools seeking stricter portal limits, athletes' advocates pushing for broader compensation rights, and conference leadership divided on national versus state-level authority. By punting to the fall, Senate leadership avoided a floor vote that could have exposed these fissures or forced a compromise neither side fully endorsed.\n\nThe delay prolongs uncertainty for recruiting cycles and next season's roster management. Schools will continue operating under disparate state laws and negotiated conference deals, and the NCAA's ability to enforce any uniform standard remains in limbo. September action could produce a bill, or the matter could slip further into the new congressional session.",
-      "tweets": []
-    },
-    {
-      "category": "media",
-      "importance": 2,
-      "leadHeadline": "Giants' Mike Krukow retirement tribute leaves Oracle Park full of tears",
-      "leadSource": "NY Post Sports · 1h ago",
-      "leadUrl": "https://nypost.com/2026/08/08/sports/mike-krukow-retirement-tribute-leaves-oracle-park-full-of-tears/",
-      "summary": "The San Francisco Giants held a tribute to color commentator Mike Krukow during Friday's game as he announced his retirement from broadcasting after a long tenure with the team. The ceremony marked an emotional moment at Oracle Park.",
-      "article": "The San Francisco Giants hosted a special tribute to longtime color commentator Mike Krukow during Friday's game against Detroit, honoring his retirement from the broadcast booth. The ceremony drew a strong emotional response from fans at Oracle Park, underscoring Krukow's standing in the franchise's recent history.\n\nKrukow had been a fixture on Giants broadcasts, bringing a former player's perspective and deep institutional knowledge to the role. His retirement represents a significant turnover in a broadcast team and signals a transition period for the organization's media presence.\n\nThe Giants won the game 5-2, though the performance took secondary importance to the ceremonial recognition of Krukow's career. The moment reflects how intertwined broadcasters become with regional fan bases and team identity, particularly in a market where the same commentator voices multiple seasons and builds rapport over years.",
-      "tweets": []
-    },
-    {
-      "category": "contracts",
-      "importance": 2,
-      "leadHeadline": "Manchester United's £35m signing Youri Tielemans makes an impressive debut in the 1-1 friendly draw against Paris St-Germain",
-      "leadSource": "BBC Sport · 4h ago",
-      "leadUrl": "https://www.bbc.co.uk/sport/football/articles/ce34k3qve4no?at_medium=RSS&amp;at_campaign=rss",
-      "summary": "Youri Tielemans made his Manchester United debut in a 1-1 friendly against PSG in Gothenburg, showing promising form in his first outing for the club. The £35 million midfielder was brought in to strengthen midfield depth.",
-      "article": "Youri Tielemans made a solid debut for Manchester United in a 1-1 friendly draw against Paris St-Germain in Gothenburg, providing an early look at how the club's £35 million summer signing will fit into Erik ten Hag's midfield plans.\n\nTielemans, acquired from Leicester City, was brought in to add depth and technical ability to United's engine room. The friendly stage gave him a chance to integrate with teammates without the pressure of league fixtures, and his performance suggested the transfer could pay dividends.\n\nUnited drew 1-1 with PSG, a respectable result against a fellow heavyweight, though preseason outcomes carry limited predictive value for regular-season performance. Tielemans' next significant test will come when domestic competition begins, where he'll need to compete for minutes in a midfield that includes Bruno Fernandes and other established options.",
+      "summary": "The Senate delayed a comprehensive college sports reform bill to September, pushing key decisions on Name, Image and Likeness (NIL) regulation and athlete compensation further down the legislative calendar.",
+      "article": "The Senate postponed action on a college sports bill that would establish uniform NIL rules and athlete compensation frameworks, kicking the matter to September. The delay reflects continued disagreement among lawmakers over how much authority should rest with the NCAA versus the federal government, and whether athletes should be classified as employees or remain in an amateurism model.\n\nThe bill faced a long legislative road even before the delay. Competing interests from universities, state legislatures, the NCAA, and athlete advocates have made consensus difficult. Some senators favor a lighter regulatory touch, while others push for stronger federal oversight of how schools compensate athletes.\n\nThe September timeline means college sports will head into the 2026-27 season without new federal NIL rules in place, leaving schools to navigate the current patchwork of state laws and NCAA guidelines. Another delay could push action into 2027, further extending the uncertainty that has dogged the sport since the Supreme Court's 2021 Alston decision opened the door to athlete compensation.",
       "tweets": []
     }
   ],
@@ -2396,68 +2404,93 @@
   "ticket_prices": [],
   "sidebar": [
     {
-      "headline": "WNBA viewership continues to rise heading into stretch run",
-      "source": "Sports Media Watch · 1d ago",
-      "article": "The WNBA is tracking ahead of last year's pace as the regular season enters its final stretch, continuing an upward trend that has defined the 2024 season. Rising viewership reflects sustained interest in star players and competitive playoff races, particularly around marquee matchups. The league's focus on marquee matchups and star-driven marketing appears to be paying off. Caitlin Clark's rookie season and the broader star power across franchises have kept casual and devoted fans engaged through the middle of the campaign, a notable shift from prior years when September viewership typically dipped. Networks carrying WNBA games are capitalizing on the momentum heading into the postseason."
+      "headline": "Mavs Owner Patrick Dumont Hits Back at Mark Cuban in Arena Fight",
+      "source": "Front Office Sports · 16h ago",
+      "article": "Patrick Dumont, the majority owner of the Dallas Mavericks, claims he has the right to demand private arbitration in his ongoing dispute with Mark Cuban over control of the team and its proposed new arena. The conflict has escalated into a legal battle over governance, with Dumont arguing that arbitration clauses in the partnership agreement override Cuban's public campaign to block the arena deal. Cuban, who founded the franchise and remains a minority stakeholder, has been vocal about his opposition to the project and the direction Dumont is taking the organization. The legal positioning signals this fight will play out in private proceedings rather than in court filings accessible to the public."
     },
     {
-      "headline": "CFTC Eyes Prediction-Market Conflicts of Interest: Key Points",
+      "headline": "Fred Hoaglin, two-time Super Bowl-winning assistant with Giants, dead at 82",
+      "source": "NY Post Sports · 1h ago",
+      "article": "Fred Hoaglin, the offensive line coach who helped the New York Giants win two Super Bowls during his tenure from 1985 to 1992, died at age 82. Hoaglin was a key figure in the Giants' dynasty years, coaching the offensive line through the 1986-87 championship season and the 1990-91 title run. His work in the trenches was foundational to the Giants' success in that era. Hoaglin's legacy in New York remains tied to one of the franchise's most successful periods, and his influence on the development of NFL coaching for offensive line play extended well beyond his time in East Rutherford."
+    },
+    {
+      "headline": "DraftKings CEO: Prediction Markets Are Peer-to-Wall Street",
       "source": "Sportico · 1d ago",
-      "article": "The Commodity Futures Trading Commission has flagged potential conflicts of interest in the prediction-market industry, identifying at least six exchanges with ties to principal trading desks. The move signals regulatory scrutiny of an emerging industry that has grown rapidly over the past two years. DraftKings and other major operators have positioned their prediction products as peer-to-peer betting, but the CFTC's focus on affiliate relationships suggests oversight agencies are concerned about market integrity. Proposed rules aimed at addressing these structural conflicts could reshape how prediction markets operate and who can participate in them."
+      "article": "DraftKings CEO Jason Robins is positioning the company's prediction market products as a counterweight to institutional Wall Street trading, not merely a peer-to-peer betting platform for casual bettors. Robins told analysts Friday that the underlying economics of prediction markets represent a major revenue opportunity, and that his company's edge lies in connecting average consumers directly to price discovery that was historically dominated by financial institutions. The approach differs from competitors who frame prediction markets as entertainment for casual bettors matching wits against each other. Robins sees the business model as one that disrupts traditional financial markets."
     },
     {
       "headline": "Ex-Colorado Youth Hockey Boss Sued for Evading Fraud Judgment",
       "source": "Sportico · 1d ago",
-      "article": "The Colorado Amateur Hockey Association has filed a new lawsuit against its former president, Randy Kanai, alleging he is evading a six-figure judgment for misappropriating funds from the youth sports organization. According to the suit, Kanai fraudulently transferred property ownership to an investment entity he controls, an attempt to shield assets from the judgment. The case reflects ongoing governance issues within youth hockey administration and highlights how embezzlement disputes can persist through years of litigation and asset-concealment maneuvers."
+      "article": "The Colorado Amateur Hockey Association has filed a new lawsuit against its former president, Randy Kanai, alleging he is dodging a six-figure fraud judgment by fraudulently transferring property ownership to an investment entity he controls. Kanai was previously found liable for misappropriating funds from the youth sports organization. The new legal action signals CAHA's determination to recover damages and prevent asset-stripping tactics. The case underscores ongoing challenges in youth sports governance and financial oversight."
     },
     {
-      "headline": "2026 Fantasy football draft prep: NFL experts reveal rankings, top 150, rookie picks",
-      "source": "CBS Sports · 1h ago",
-      "article": "SportsLine's 2026 fantasy football draft guide is now live, offering comprehensive rankings, auction values, keeper advice, and rookie-pick analysis for the upcoming season. The guide consolidates expert consensus and provides early reference material for leagues preparing their draft boards. With the 2026 NFL Draft set to begin tonight, fantasy analysts are beginning to factor actual draft outcomes into their projections and value assessments for rookies entering the league."
+      "headline": "Luke Weaver is a post trade deadline fantasy baseball waiver wire target to consider",
+      "source": "NY Post Sports · 2h ago",
+      "article": "As the fantasy baseball stretch run unfolds, tracking bullpen turnover and relief pitcher deployments in the post-deadline period is essential for fantasy teams seeking saves and ERA gains. Luke Weaver's potential usage in his new bullpen situation after a trade deadline move represents the kind of targeted waiver-wire value that can swing a fantasy season. Post-deadline bullpen upheaval creates both risks and opportunities, and savvy fantasy managers monitor closer roles and high-leverage situations closely as teams jockey for playoff position."
     },
     {
-      "headline": "UFC Fight Night odds, predictions, time: Mateusz Gamrot vs. Quillan Salkilld",
-      "source": "CBS Sports · 1h ago",
-      "article": "SportsLine's Kyle Marley provides expert picks and predictions for the UFC Fight Night card headlined by Mateusz Gamrot versus Quillan Salkilld, set for Saturday on Paramount+. The card features competitive matchups across multiple weight classes, with picks designed to help bettors identify value and upsets. Marley breaks down fight dynamics and picks winners across the card, offering both favorite and underdog angles for the main event and undercard bouts."
-    },
-    {
-      "headline": "Blue Jays on Sportsnet: Toronto vs. Philadelphia",
-      "source": "Sportsnet · 1h ago",
-      "article": "The Toronto Blue Jays face the Philadelphia Phillies on Saturday in the second game of a three-game series, following Friday's dramatic victory. The matchup will be broadcast on Sportsnet and Sportsnet+, with live play-by-play coverage. Vladimir Guerrero Jr., recently returned to the lineup, contributed a solo home run in his first at-bat back, signaling the team is regaining offensive depth heading into the stretch run."
+      "headline": "CFTC Eyes Prediction-Market Conflicts of Interest: Key Points",
+      "source": "Sportico · 1d ago",
+      "article": "The Commodity Futures Trading Commission has identified conflicts of interest embedded in at least six prediction market exchanges via affiliate relationships between the exchange operator and a principal trading desk. The CFTC proposed rules last week meant to address the trend of companies owning both sides of the market, potentially allowing them to trade against their own customers. The regulatory scrutiny signals that prediction markets are moving from the fringe into mainstream financial regulatory oversight, a shift that could reshape how the industry operates as it scales."
     }
   ],
   "poll": {
-    "question": "Will the WNBA's rising viewership trend continue into the playoffs?",
+    "question": "How should the WNBA handle the Carrington ejection and social media post controversy?",
     "options": [
-      "Yes, the momentum is real and playoffs will see even higher numbers",
-      "It will plateau, settling at levels higher than last year but not growing",
-      "It will dip in early rounds, then spike for Finals matchups",
-      "No, regular season bump won't translate to playoff interest"
+      "Enforce conduct policy strictly; social media posts reflect on league image",
+      "Treat the post as protected expression; focus on improving ejection criteria",
+      "Require diversity training for players and officials on communication",
+      "Separate the on-court foul from off-court speech; address each independently"
     ]
   },
   "predictions": [
     {
-      "statement": "The Senate college sports bill will not pass by end of 2026 calendar year.",
-      "probability": 72,
-      "rationale": "The deferral to September signals unresolved disagreements between schools, athlete advocates, and conferences. Even with September action, legislative schedules rarely produce votes on contentious bills in the lame-duck period. Inertia and competing lobbying interests typically win."
+      "statement": "The Commanders will place Laremy Tunsil on injured reserve before Week 1 of the 2026 season.",
+      "probability": 92,
+      "rationale": "A torn triceps with a report of missing 'most of the 2026 season' almost certainly triggers IR placement within days. The team has no incentive to keep him on active roster while sidelined long-term."
     },
     {
-      "statement": "WNBA regular season viewership will finish above 2024 levels.",
-      "probability": 78,
-      "rationale": "The league is already tracking ahead of last year's pace with two weeks left in the regular season. Unless there's a sudden collapse in viewership, the math suggests year-over-year gains. Star power and playoff stakes should sustain interest."
-    },
-    {
-      "statement": "Patrick Dumont will succeed in forcing Mark Cuban's arena dispute into arbitration.",
-      "probability": 65,
-      "rationale": "Arbitration clauses are standard in ownership stakes, and Dumont's legal position as controlling owner is stronger than Cuban's minority interest. Cuban retains leverage through public pressure, but the contractual framework likely favors Dumont's move."
-    },
-    {
-      "statement": "The CFTC will propose formal rules restricting prediction-market affiliate structures by Q1 2027.",
+      "statement": "The WNBA will adopt formal transgender eligibility guidelines by the end of Q3 2026.",
       "probability": 58,
-      "rationale": "The agency has already flagged conflicts of interest and proposed rules last week. The regulatory appetite is clear, but federal rulemaking timelines are unpredictable. Lobbying from DraftKings and peers could slow or soften proposed restrictions."
+      "rationale": "Engelbert and team governors are now forced to address the issue after the Carrington incident and Cunningham comments sparked direct pressure. A policy decision is likely, though drafting and vetting language takes time; full adoption by year-end is plausible but not certain."
+    },
+    {
+      "statement": "Gianni Infantino will remain FIFA president through the 2026 World Cup.",
+      "probability": 78,
+      "rationale": "FIFA's public defense of Infantino signals the organization is circling wagons. While internal pressure exists, removing a sitting president mid-World Cup cycle would be unprecedented chaos; most federations will defer action until after the tournament concludes."
+    },
+    {
+      "statement": "Max Scherzer will pitch into the 2027 season.",
+      "probability": 45,
+      "rationale": "At 41 with a Hall of Fame resume, Scherzer has no obligation to continue. His performance remains strong, but durability and desire are unknowns. Teams may value his veteran presence, but retirement is a realistic outcome this offseason."
     }
   ],
-  "injuries": [],
+  "injuries": [
+    {
+      "player": "Laremy Tunsil",
+      "team": "Washington Commanders",
+      "league": "NFL",
+      "position": "LT",
+      "status": "OUT",
+      "injury": "Torn triceps",
+      "timeline": "Out for most of 2026 season",
+      "source": "CBS Sports",
+      "impact": "All-Pro left tackle sidelined indefinitely; Commanders must find emergency replacement at premium position.",
+      "storyIndex": 5
+    },
+    {
+      "player": "Caitlin Clark",
+      "team": "Indiana Fever",
+      "league": "WNBA",
+      "position": "G",
+      "status": "OUT",
+      "injury": "One-game suspension (technical foul)",
+      "timeline": "Out for one game",
+      "source": "The Guardian",
+      "impact": "Fever loses star guard for upcoming game due to automatic suspension triggered by technical foul accumulation.",
+      "storyIndex": 3
+    }
+  ],
   "picks": [
     {
       "type": "moneyline",
@@ -5991,7 +6024,8 @@
         },
         "awayTeam": "Houston Astros",
         "homeTeam": "San Diego Padres"
-      }
+      },
+      "_pendingGrade": true
     },
     {
       "type": "moneyline",
@@ -6045,32 +6079,141 @@
         },
         "awayTeam": "Tampa Bay Rays",
         "homeTeam": "Seattle Mariners"
+      },
+      "_pendingGrade": true
+    },
+    {
+      "type": "spread",
+      "pick": "Cincinnati Reds -1.5",
+      "odds": "154",
+      "edge": "Market fill from live lines: the books lay -1.5 with Cincinnati Reds at 154 (best @ LowVig.ag). No researched edge — a low-confidence market-consensus play so this sport isn't empty today.",
+      "matchup": "Cincinnati Reds @ Washington Nationals",
+      "league": "MLB",
+      "when": "Today 12:16 PM ET",
+      "confidence": "low",
+      "_autofill": true,
+      "_scheduledTs": 1786292160000,
+      "marketSnapshot": {
+        "capturedAt": "2026-08-09T04:12:04.711Z",
+        "markets": {
+          "h2h": {
+            "away": {
+              "price": -104,
+              "book": "BetOnline.ag"
+            },
+            "home": {
+              "price": 100,
+              "book": "BetRivers"
+            },
+            "draw": null
+          },
+          "spreads": {
+            "away": {
+              "point": -1.5,
+              "price": 154,
+              "book": "LowVig.ag"
+            },
+            "home": {
+              "point": 1.5,
+              "price": -165,
+              "book": "BetRivers"
+            }
+          },
+          "totals": {
+            "over": {
+              "point": 9,
+              "price": -119,
+              "book": "DraftKings"
+            },
+            "under": {
+              "point": 9.5,
+              "price": -120,
+              "book": "Bovada"
+            }
+          }
+        },
+        "awayTeam": "Cincinnati Reds",
+        "homeTeam": "Washington Nationals"
+      }
+    },
+    {
+      "type": "spread",
+      "pick": "Boston Red Sox -1.5",
+      "odds": "-130",
+      "edge": "Market fill from live lines: the books lay -1.5 with Boston Red Sox at -130 (best @ Caesars). No researched edge — a low-confidence market-consensus play so this sport isn't empty today.",
+      "matchup": "Athletics @ Boston Red Sox",
+      "league": "MLB",
+      "when": "Today 1:35 PM ET",
+      "confidence": "low",
+      "_autofill": true,
+      "_scheduledTs": 1786296900000,
+      "marketSnapshot": {
+        "capturedAt": "2026-08-09T04:12:04.712Z",
+        "markets": {
+          "h2h": {
+            "away": {
+              "price": 215,
+              "book": "Caesars"
+            },
+            "home": {
+              "price": -245,
+              "book": "Caesars"
+            },
+            "draw": null
+          },
+          "spreads": {
+            "away": {
+              "point": 2.5,
+              "price": -126,
+              "book": "MyBookie.ag"
+            },
+            "home": {
+              "point": -1.5,
+              "price": -130,
+              "book": "Caesars"
+            }
+          },
+          "totals": {
+            "over": {
+              "point": 10.5,
+              "price": -120,
+              "book": "DraftKings"
+            },
+            "under": {
+              "point": 10.5,
+              "price": 100,
+              "book": "DraftKings"
+            }
+          }
+        },
+        "awayTeam": "Athletics",
+        "homeTeam": "Boston Red Sox"
       }
     }
   ],
-  "updatedAt": "2026-04-23T18:45:00Z",
+  "updatedAt": "2026-04-23T16:45:00Z",
   "highlights": [
     {
       "league": "NBA",
-      "title": "Tatum out getting sprints in with coach Mazzulla today 🔥 (via: jaytatum0/IG)",
-      "videoId": "lPHUcUOEu-g",
-      "thumbnail": "https://img.youtube.com/vi/lPHUcUOEu-g/mqdefault.jpg",
-      "timeAgo": "4h ago",
+      "title": "Nike Mamba Invitational: Boys Game 2 - Team Fearless vs. Team Resilience",
+      "videoId": "BfT3BB9wn_Q",
+      "thumbnail": "https://img.youtube.com/vi/BfT3BB9wn_Q/mqdefault.jpg",
+      "timeAgo": "1d ago",
       "isFallback": false
     },
     {
       "league": "NFL",
-      "title": "Drew Brees with a powerful message to the city of New Orleans.",
-      "videoId": "x12R_t5ZFzU",
-      "thumbnail": "https://img.youtube.com/vi/x12R_t5ZFzU/mqdefault.jpg",
-      "timeAgo": "3h ago",
+      "title": "Josh Allen and the Bills rocking the new alternates at Highmark Stadium 😮‍💨 (via buffalobills/TT)",
+      "videoId": "JRWLliz0ons",
+      "thumbnail": "https://img.youtube.com/vi/JRWLliz0ons/mqdefault.jpg",
+      "timeAgo": "4h ago",
       "isFallback": false
     },
     {
       "league": "MLB",
-      "title": "ANGELS vs. MARLINS: Official Full Game Highlights (August 8) | 2026 MLB Season",
-      "videoId": "R9Zu5TibaNA",
-      "thumbnail": "https://img.youtube.com/vi/R9Zu5TibaNA/mqdefault.jpg",
+      "title": "DODGERS vs. D-BACKS: Official Full Game Highlights (August 8) | 2026 MLB Season",
+      "videoId": "MY9IRE1aZi8",
+      "thumbnail": "https://img.youtube.com/vi/MY9IRE1aZi8/mqdefault.jpg",
       "timeAgo": "Just now",
       "isFallback": false
     },
@@ -6079,42 +6222,146 @@
       "title": "3ICE Hockey Week 3 - NY/NJ vs. Minnesota &amp; Chicago vs. Buffalo",
       "videoId": "olGrCbvUPCo",
       "thumbnail": "https://img.youtube.com/vi/olGrCbvUPCo/mqdefault.jpg",
-      "timeAgo": "5h ago",
+      "timeAgo": "10h ago",
       "isFallback": false
     },
     {
       "league": "WNBA",
-      "title": "Las Vegas Aces vs. Minnesota Lynx | FULL GAME HIGHLIGHTS | August 8, 2026",
-      "videoId": "UnZ_WX6oBxs",
-      "thumbnail": "https://img.youtube.com/vi/UnZ_WX6oBxs/mqdefault.jpg",
-      "timeAgo": "3h ago",
+      "title": "Seattle Storm vs. Portland Fire | FULL GAME HIGHLIGHTS | August 8, 2026",
+      "videoId": "05C3RB6kQgU",
+      "thumbnail": "https://img.youtube.com/vi/05C3RB6kQgU/mqdefault.jpg",
+      "timeAgo": "1h ago",
       "isFallback": false
     },
     {
       "league": "SOCCER",
-      "title": "Is Ferran Torres to PSG a questionable move? 🤔 + Marcus Rashford rejoining Man United | ESPN FC",
-      "videoId": "FGIPmpv08Rw",
-      "thumbnail": "https://img.youtube.com/vi/FGIPmpv08Rw/mqdefault.jpg",
-      "timeAgo": "1h ago",
+      "title": "Inter Miami vs. C.F. Monterrey | Leagues Cup Highlights | ESPN FC",
+      "videoId": "kw7Itj4CxLo",
+      "thumbnail": "https://img.youtube.com/vi/kw7Itj4CxLo/mqdefault.jpg",
+      "timeAgo": "2h ago",
       "isFallback": false
     }
   ],
   "reels": [
     {
       "league": "MLB",
-      "title": "ANGELS vs. MARLINS: Official Full Game Highlights (August 8) | 2026 MLB Season",
-      "videoId": "R9Zu5TibaNA",
+      "title": "DODGERS vs. D-BACKS: Official Full Game Highlights (August 8) | 2026 MLB Season",
+      "videoId": "MY9IRE1aZi8",
       "author": "MLB",
-      "pubDate": "2026-08-08T23:07:11+00:00",
-      "link": "https://www.youtube.com/watch?v=R9Zu5TibaNA"
+      "pubDate": "2026-08-09T04:03:41+00:00",
+      "link": "https://www.youtube.com/watch?v=MY9IRE1aZi8"
+    },
+    {
+      "league": "WNBA",
+      "title": "Seattle Storm vs. Portland Fire | FULL GAME HIGHLIGHTS | August 8, 2026",
+      "videoId": "05C3RB6kQgU",
+      "author": "WNBA",
+      "pubDate": "2026-08-09T03:15:38+00:00",
+      "link": "https://www.youtube.com/watch?v=05C3RB6kQgU"
     },
     {
       "league": "MLB",
-      "title": "Aaron Nola notches his 2,000th career strikeout!",
-      "videoId": "QLmAebhhRT4",
+      "title": "FULL CELEBRATION: 50 Years of Mariners Baseball (44 M’s legends appear!) 🔱",
+      "videoId": "5Gk8-eTRpyo",
       "author": "MLB",
-      "pubDate": "2026-08-08T23:01:42+00:00",
-      "link": "https://www.youtube.com/watch?v=QLmAebhhRT4"
+      "pubDate": "2026-08-09T03:01:06+00:00",
+      "link": "https://www.youtube.com/watch?v=5Gk8-eTRpyo"
+    },
+    {
+      "league": "MLB",
+      "title": "GUARDIANS vs. WHITE SOX: Official Full Game Highlights (August 8) | 2026 MLB Season",
+      "videoId": "rxKtzFb40i0",
+      "author": "MLB",
+      "pubDate": "2026-08-09T02:54:53+00:00",
+      "link": "https://www.youtube.com/watch?v=rxKtzFb40i0"
+    },
+    {
+      "league": "MLB",
+      "title": "SCORELESS NO MORE! Kyle Tucker's home run gives the Dodgers a late lead! | MLB Highlights",
+      "videoId": "-1lxv8HxUtI",
+      "author": "MLB",
+      "pubDate": "2026-08-09T02:52:21+00:00",
+      "link": "https://www.youtube.com/watch?v=-1lxv8HxUtI"
+    },
+    {
+      "league": "MLB",
+      "title": "ROCKIES vs. CARDINALS: Official Full Game Highlights (August 8) | 2026 MLB Season",
+      "videoId": "UNJOGWVBcbE",
+      "author": "MLB",
+      "pubDate": "2026-08-09T02:41:18+00:00",
+      "link": "https://www.youtube.com/watch?v=UNJOGWVBcbE"
+    },
+    {
+      "league": "NBA",
+      "title": "Nike Mamba Invitational: Girls Game 2 - Team Fearless vs. Team Resilience",
+      "videoId": "_Sk8eET6WGs",
+      "author": "NBA",
+      "pubDate": "2026-08-09T02:30:51+00:00",
+      "link": "https://www.youtube.com/watch?v=_Sk8eET6WGs"
+    },
+    {
+      "league": "MLB",
+      "title": "TIGERS vs. GIANTS: Official Full Game Highlights (August 8) | 2026 MLB Season",
+      "videoId": "hG6P9c_OoDM",
+      "author": "MLB",
+      "pubDate": "2026-08-09T02:30:06+00:00",
+      "link": "https://www.youtube.com/watch?v=hG6P9c_OoDM"
+    },
+    {
+      "league": "MLB",
+      "title": "Did Yoshinobu Yamamoto make the NL Cy Young race more interesting? (All 6 strikeouts)",
+      "videoId": "dW4xiARJcl0",
+      "author": "MLB",
+      "pubDate": "2026-08-09T02:22:22+00:00",
+      "link": "https://www.youtube.com/watch?v=dW4xiARJcl0"
+    },
+    {
+      "league": "MLB",
+      "title": "BLUE JAYS vs. PHILLIES: Official Full Game Highlights (August 8) | 2026 MLB Season",
+      "videoId": "IK9wBXoCTQ0",
+      "author": "MLB",
+      "pubDate": "2026-08-09T02:22:19+00:00",
+      "link": "https://www.youtube.com/watch?v=IK9wBXoCTQ0"
+    },
+    {
+      "league": "SOCCER",
+      "title": "Inter Miami vs. C.F. Monterrey | Leagues Cup Highlights | ESPN FC",
+      "videoId": "kw7Itj4CxLo",
+      "author": "ESPN FC",
+      "pubDate": "2026-08-09T02:17:31+00:00",
+      "link": "https://www.youtube.com/watch?v=kw7Itj4CxLo"
+    },
+    {
+      "league": "SOCCER",
+      "title": "Rodrigo de Paul scores and dedicates his goal to Messi and his family❤️",
+      "videoId": "o6r1iUMzgfQ",
+      "author": "ESPN FC",
+      "pubDate": "2026-08-09T01:18:52+00:00",
+      "link": "https://www.youtube.com/watch?v=o6r1iUMzgfQ"
+    },
+    {
+      "league": "NBA",
+      "title": "Nike Mamba Invitational: Boys Game 1 - Team Relentless vs. Team Obsession",
+      "videoId": "OePOfhhuyGM",
+      "author": "NBA",
+      "pubDate": "2026-08-09T01:17:01+00:00",
+      "link": "https://www.youtube.com/watch?v=OePOfhhuyGM"
+    },
+    {
+      "league": "NFL",
+      "title": "Josh Allen and the Bills rocking the new alternates at Highmark Stadium 😮‍💨 (via buffalobills/TT)",
+      "videoId": "JRWLliz0ons",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-08-08T23:45:01+00:00",
+      "link": "https://www.youtube.com/watch?v=JRWLliz0ons"
+    },
+    {
+      "league": "WNBA",
+      "title": "Indiana Fever vs. Chicago Sky | FULL GAME HIGHLIGHTS | August 8, 2026",
+      "videoId": "6Q5wmpq_La8",
+      "author": "WNBA",
+      "pubDate": "2026-08-08T23:18:16+00:00",
+      "link": "https://www.youtube.com/watch?v=6Q5wmpq_La8"
     },
     {
       "league": "SOCCER",
@@ -6123,22 +6370,6 @@
       "author": "ESPN FC",
       "pubDate": "2026-08-08T22:31:48+00:00",
       "link": "https://www.youtube.com/watch?v=FGIPmpv08Rw"
-    },
-    {
-      "league": "MLB",
-      "title": "Vladimir Guerrero Jr. RIPS a home run for the Blue Jays! 😱🤯 | MLB Highlights",
-      "videoId": "AOfJUqMhphs",
-      "author": "MLB",
-      "pubDate": "2026-08-08T22:27:27+00:00",
-      "link": "https://www.youtube.com/watch?v=AOfJUqMhphs"
-    },
-    {
-      "league": "MLB",
-      "title": "BRAVES vs. YANKEES: Official Full Game Highlights (August 8) | 2026 MLB Season",
-      "videoId": "8TAV8qknhOI",
-      "author": "MLB",
-      "pubDate": "2026-08-08T22:16:58+00:00",
-      "link": "https://www.youtube.com/watch?v=8TAV8qknhOI"
     },
     {
       "league": "SOCCER",
@@ -6155,14 +6386,6 @@
       "author": "ESPN FC",
       "pubDate": "2026-08-08T21:55:27+00:00",
       "link": "https://www.youtube.com/watch?v=WohQuM3lTlU"
-    },
-    {
-      "league": "MLB",
-      "title": "Ben Rice crushes a 431-FOOT HOMER to MONUMENT PARK for his 32nd homer of the season! 💪💥",
-      "videoId": "H0hPtjHBzyA",
-      "author": "MLB",
-      "pubDate": "2026-08-08T21:48:36+00:00",
-      "link": "https://www.youtube.com/watch?v=H0hPtjHBzyA"
     },
     {
       "league": "SOCCER",
@@ -6187,14 +6410,6 @@
       "author": "ESPN FC",
       "pubDate": "2026-08-08T21:31:02+00:00",
       "link": "https://www.youtube.com/watch?v=s-KtS5Z-pKw"
-    },
-    {
-      "league": "MLB",
-      "title": "George Lombard Jr. goes OPPOSITE FIELD for his 2nd CAREER HOME RUN! 😤😱 | MLB Highlights",
-      "videoId": "4TxiNlLYcNY",
-      "author": "MLB",
-      "pubDate": "2026-08-08T21:18:10+00:00",
-      "link": "https://www.youtube.com/watch?v=4TxiNlLYcNY"
     },
     {
       "league": "NFL",
@@ -6245,30 +6460,6 @@
       "link": "https://www.youtube.com/watch?v=SACcJbf3pPY"
     },
     {
-      "league": "SOCCER",
-      "title": "Erling Haaland keeping it real 👏😂 (via Erling Haaland/TT)",
-      "videoId": "zwyO17rs41o",
-      "author": "ESPN FC",
-      "pubDate": "2026-08-08T20:20:31+00:00",
-      "link": "https://www.youtube.com/watch?v=zwyO17rs41o"
-    },
-    {
-      "league": "SOCCER",
-      "title": "Erling Haaland thought he was in the United States for a second 😂 (via Erling Haaland/TT)",
-      "videoId": "uGbcukcH0H4",
-      "author": "ESPN FC",
-      "pubDate": "2026-08-08T20:20:07+00:00",
-      "link": "https://www.youtube.com/watch?v=uGbcukcH0H4"
-    },
-    {
-      "league": "MLB",
-      "title": "FULL CEREMONY: Yankees honor stars of the past with the 2026 Old-Timers' Day!",
-      "videoId": "PZkTBpdJML0",
-      "author": "MLB",
-      "pubDate": "2026-08-08T19:44:07+00:00",
-      "link": "https://www.youtube.com/watch?v=PZkTBpdJML0"
-    },
-    {
       "league": "NBA",
       "title": "Tatum out getting sprints in with coach Mazzulla today 🔥 (via: jaytatum0/IG)",
       "videoId": "lPHUcUOEu-g",
@@ -6317,22 +6508,6 @@
       "link": "https://www.youtube.com/watch?v=DZXBSPvM3p4"
     },
     {
-      "league": "MLB",
-      "title": "Celebrate like Mike! Mike Trout has SIX BIRTHDAY HOMERS in his career! 🥳👏",
-      "videoId": "oLd5PqTwZoQ",
-      "author": "MLB",
-      "pubDate": "2026-08-08T17:36:35+00:00",
-      "link": "https://www.youtube.com/watch?v=oLd5PqTwZoQ"
-    },
-    {
-      "league": "NFL",
-      "title": "Adam Vinatieri Jr. reflects on journey to becoming a Hall of Famer | NFL on ESPN",
-      "videoId": "6yAPBXBAiqQ",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-08-08T17:32:26+00:00",
-      "link": "https://www.youtube.com/watch?v=6yAPBXBAiqQ"
-    },
-    {
       "league": "NBA",
       "title": "How Old were Members of USAB when They First Dunked?",
       "videoId": "P4kQZZg6O6k",
@@ -6349,36 +6524,12 @@
       "link": "https://www.youtube.com/watch?v=HiC8I7iu1j0"
     },
     {
-      "league": "NBA",
-      "title": "Shaedon Sharpe lives above the rim 🔨",
-      "videoId": "iJgOLWNmfqg",
-      "author": "NBA",
-      "pubDate": "2026-08-08T15:13:09+00:00",
-      "link": "https://www.youtube.com/watch?v=iJgOLWNmfqg"
-    },
-    {
-      "league": "NBA",
-      "title": "Eric Collins almost lost his voice calling the Tre Mann Poster Slam vs the Milwaukee Bucks",
-      "videoId": "YHSV41VTcsg",
-      "author": "NBA",
-      "pubDate": "2026-08-08T14:39:44+00:00",
-      "link": "https://www.youtube.com/watch?v=YHSV41VTcsg"
-    },
-    {
       "league": "NHL",
       "title": "EVERY GOAL Scored Last Season by the 2026-27 Columbus Blue Jackets Roster",
       "videoId": "GjcPQq8bDsc",
       "author": "NHL",
       "pubDate": "2026-08-08T14:00:33+00:00",
       "link": "https://www.youtube.com/watch?v=GjcPQq8bDsc"
-    },
-    {
-      "league": "NBA",
-      "title": "Top 100 Dunks of the 2025-26 NBA Season!",
-      "videoId": "x61bnVyn2bI",
-      "author": "NBA",
-      "pubDate": "2026-08-08T14:00:24+00:00",
-      "link": "https://www.youtube.com/watch?v=x61bnVyn2bI"
     },
     {
       "league": "WNBA",
@@ -6411,14 +6562,6 @@
       "author": "NHL",
       "pubDate": "2026-08-07T23:00:06+00:00",
       "link": "https://www.youtube.com/watch?v=xu_y4dpjmTU"
-    },
-    {
-      "league": "NHL",
-      "title": "Meet the 2026-27 Avalanche - Every Goal From Last Season",
-      "videoId": "29HWT3YYTaE",
-      "author": "NHL",
-      "pubDate": "2026-08-07T16:00:04+00:00",
-      "link": "https://www.youtube.com/watch?v=29HWT3YYTaE"
     }
   ]
 }
