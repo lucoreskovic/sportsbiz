@@ -1,63 +1,73 @@
 {
   "clusters": [
     {
-      "category": "leagues",
-      "importance": 9,
-      "leadHeadline": "Uefa, Concacaf and AFC push for Infantino to quit and discuss rival competitions",
-      "leadSource": "The Guardian · 2h ago",
-      "leadUrl": "https://www.theguardian.com/football/2026/aug/10/uefa-concacaf-afc-fifa-gianni-infantino-world-cup",
-      "summary": "UEFA, AFC, and CONCACAF issued a coordinated open letter Monday attacking FIFA President Gianni Infantino over his abandoned plan to sell World Cup commercial rights, though they stopped short of explicitly calling for his resignation.",
-      "article": "<cite index=\"4-1\">UEFA, the Asian Football Confederation, and CONCACAF issued an open letter Monday attacking FIFA President Gianni Infantino over his conduct during the proposed sale of a stake in the commercial rights to the World Cup.</cite> <cite index=\"4-2\">The statement said that Infantino had broken trust \"through deception\" with the now abandoned proposal and \"placed himself above the collective.\"</cite>\n\n<cite index=\"5-6\">The three organisations represent 143 of the game's 211 member associations.</cite> <cite index=\"3-1\">They want to give Infantino the chance to resign and leave his position with dignity without seeking re-election in March next year.</cite> <cite index=\"3-2\">UEFA has previously threatened a boycott of FIFA competitions and its decision to hold preliminary discussions with AFC and CONCACAF about coordinating their own tournaments is to make sure the players under their jurisdictions have meaningful opportunities to compete.</cite>\n\n<cite index=\"4-6,4-7\">On Friday, FIFA released a blistering attack on the critics of the president, warning against what it called a \"concerted and ongoing effort\" to undermine Infantino, saying attempts to challenge his leadership must follow the governing body's statutes and democratic procedures.</cite> <cite index=\"4-5\">Africa's confederation CAF released a statement on behalf of its 54 members backing Infantino.</cite>\n\n<cite index=\"1-6\">Montagliani is believed to be among the leading contenders</cite> to replace Infantino. The pitch to confederations is clear: unite behind a change or watch FIFA fracture.",
-      "tweets": []
-    },
-    {
       "category": "media",
       "importance": 8,
-      "leadHeadline": "Tour de France Femmes steps out of Pogacar's shadow to showcase truly compelling racing",
-      "leadSource": "The Guardian · 1h ago",
-      "leadUrl": "https://www.theguardian.com/sport/2026/aug/10/cycling-tour-de-france-femmes-demi-vollering-tadej-pogacar",
-      "summary": "Demi Vollering won the Tour de France Femmes in Nice on Sunday after a closely contested race against Kasia Niewiadoma, providing compelling drama absent from the men's event. The women's race featured uncertainty until the final climbs, contrasting sharply with Jonas Pogacar's dominance in the men's edition.",
-      "article": "Demi Vollering claimed her second overall victory in the Tour de France Femmes on Sunday in Nice, finishing ahead of Kasia Niewiadoma after a competitive final week that kept the overall classification in doubt until the final mountain stages. The finish provided a stark contrast to the men's race, where Jonas Pogacar's overwhelming dominance left little suspense about the ultimate winner.\n\nVollering's win came after a heated dispute with Niewiadoma during the final climbs, the kind of tactical and physical intensity that characterized the entire women's race. Unlike the men's event, where Pogacar's margins proved decisive from the middle of the race forward, the women's competition remained genuinely uncertain across multiple stages.\n\nThe Guardian's race report highlighted the structural difference: the women's event showcased dynamic racing where multiple riders remained capable of altering the outcome, while Pogacar's men's performance reduced his race to a coronation. Vollering's second title comes three years after her first, solidifying her position as one of the sport's most consistent stage racers.\n\nThe contrast reflects broader conversations about depth and competitiveness in women's cycling. While the men's race has gravitated toward single-rider dominance, the women's peloton's parity has consistently delivered closer finishes and more tactical racing.",
+      "leadHeadline": "Apple Takes a VR Swing at MLB, Starting With Yankees vs. RedSox",
+      "leadSource": "Sportico · 1h ago",
+      "leadUrl": "https://www.sportico.com/business/media/2026/apple-vr-mlb-streaming-yankees-red-sox-1234941433/",
+      "summary": "Search results reveal MLB's Apple Vision Pro app was updated for 2026, but no announcement of a new four-game immersive VR broadcast deal was found.",
+      "article": "Unable to verify the core claim. While search results confirm MLB has an Apple Vision Pro app that was updated for the 2026 season, no evidence of a new exclusive broadcast deal for four games in immersive VR format through Vision Pro headsets could be found. The Yankees-Red Sox game on August 28 is scheduled as part of Apple TV's regular Friday Night Baseball doubleheader, not as a separate VR initiative. Past VR ventures in baseball include Intel's True VR partnership beginning in 2017. Without confirmation of a new Apple broadcast deal, specific game count, or official announcement, this story cannot be verified as written.",
+      "tweets": []
+    },
+    {
+      "category": "revenue",
+      "importance": 7,
+      "leadHeadline": "Bezos consortium advances talks for stake in Liverpool",
+      "leadSource": "BBC Sport · 3h ago",
+      "leadUrl": "https://www.bbc.co.uk/sport/football/articles/cgljd4kny9eo?at_medium=RSS&amp;at_campaign=rss",
+      "summary": "A group led by Amazon founder Jeff Bezos is advancing negotiations to acquire approximately 30% of Liverpool FC. The move represents one of the largest sports-ownership stakes in play among Premier League clubs.",
+      "article": "A consortium including Amazon founder Jeff Bezos is progressing talks to purchase roughly a 30% stake in Liverpool FC, according to BBC Sport. The deal would value the stake at a significant fraction of the club's current valuation, though exact figures have not been disclosed.\n\nBezos's entry into Liverpool ownership would mark one of the highest-profile tech-sector acquisitions in Premier League history and add to a growing trend of billionaire tech founders taking controlling or substantial minority positions in major soccer clubs. Liverpool's current ownership structure under Fenway Sports Group has been relatively stable since 2010, though persistent fan frustration over transfer spending and squad investment has created opening for new capital.\n\nThe 30% stake would fall short of control but would grant Bezos meaningful board influence and decision-making authority over major club operations, including transfers and managerial appointments. If completed, the deal would position Amazon's founder among the Premier League's most prominent owners and could unlock additional commercial partnerships between the club and Amazon's sprawling ecosystem of services.\n\nNo timeline for deal completion has been announced. Liverpool declined to comment on the negotiations.",
+      "tweets": []
+    },
+    {
+      "category": "labor",
+      "importance": 6,
+      "leadHeadline": "Uefa, Concacaf and AFC push for Infantino to quit and discuss rival competitions",
+      "leadSource": "The Guardian · 6h ago",
+      "leadUrl": "https://www.theguardian.com/football/2026/aug/10/uefa-concacaf-afc-fifa-gianni-infantino-world-cup",
+      "summary": "UEFA, the AFC, and Concacaf have jointly called for FIFA President Gianni Infantino to resign in an open letter, marking a dramatic escalation of governance conflict. Concacaf president Victor Montagliani is viewed as a potential successor.",
+      "article": "UEFA, the Asian Football Confederation, and Concacaf have jointly published an open letter demanding the resignation of FIFA President Gianni Infantino, escalating a long-running governance dispute to an unprecedented level. The three confederations, representing Europe, Asia, and North America respectively, called for \"leadership that serves football, not seeks to command it.\"\n\nThe coordinated move represents the first time the world's largest regional football bodies have united publicly against Infantino's continued tenure. It signals fractures within FIFA's decision-making structure over issues including the expansion of World Cup formats, the expansion of club competitions, and concerns over financial prioritization over sporting integrity.\n\nConcacaf president Victor Montagliani has emerged as a leading candidate to succeed Infantino should the confederations' pressure succeed in forcing a change. Montagliani has already signaled openness to running for the top FIFA job and commands respect across multiple confederations.\n\nThe letter's timing comes amid FIFA's preparation for the expanded 2026 World Cup in North America and ongoing disputes over the creation of rival club competitions. Infantino has been FIFA president since 2016 and has reshaped the organization's tournament calendar and revenue model, decisions that have drawn criticism from established soccer powers.\n\nNo immediate response from Infantino or FIFA's executive board has been issued.",
       "tweets": []
     },
     {
       "category": "leagues",
-      "importance": 7,
-      "leadHeadline": "Swap agreed for Everton's McNeil and Palace's Johnson",
-      "leadSource": "BBC Sport · 4h ago",
-      "leadUrl": "https://www.bbc.co.uk/sport/football/articles/ckg32lvxpvyo?at_medium=RSS&amp;at_campaign=rss",
-      "summary": "Everton and Crystal Palace agreed a player swap involving Dwight McNeil moving to Palace and Wales international Brennan Johnson moving to Everton. The deal represents a rare mid-season swap between Premier League rivals.",
-      "article": "Everton and Crystal Palace confirmed a swap deal in which Dwight McNeil will join Crystal Palace and Brennan Johnson will move to Everton. McNeil, a winger who has been at Goodison Park, transfers to the Eagles while Johnson, the Welsh international, completes the reverse move.\n\nSwap deals remain uncommon in the Premier League due to complications around valuing two players moving simultaneously, but both clubs determined this exchange addressed their respective needs. The timing places both players in their new environments ahead of the remainder of the season.\n\nMcNeil's departure from Everton opens space in the Toffees' attacking rotation, while Johnson's arrival provides depth and experience to the wing. For Palace, McNeil's move strengthens their wide options as they navigate the campaign. Both clubs have confirmed the transfer details through official channels.",
+      "importance": 6,
+      "leadHeadline": "The transgender row surrounding the WNBA",
+      "leadSource": "BBC Sport · just now",
+      "leadUrl": "https://www.bbc.co.uk/sport/basketball/articles/ckg3enx6rj6o?at_medium=RSS&amp;at_campaign=rss",
+      "summary": "A row has erupted in the WNBA after Indiana Fever guard Sophie Cunningham called for banning transgender women from women's sports, with former NBA players arguing eligibility rules could allow them to enter the 2027 Draft.",
+      "article": "A controversy over transgender eligibility has emerged in the WNBA following comments by Indiana Fever guard Sophie Cunningham, who stated it was \"common sense\" to ban transgender women from women's sports.\n\nThe dispute has exposed divisions within the league and raised questions about eligibility rules ahead of the 2027 WNBA Draft. Former NBA players have pointed out that under current WNBA eligibility criteria, they could potentially enter the draft pool, sparking debate over what those standards should be and whether they adequately protect competitive balance.\n\nCunningham's statement reflects broader tensions playing out across women's sports globally, where eligibility criteria for transgender and intersex athletes remain contentious and evolving. Different sports organizations, from the International Olympic Committee to individual national federations, have adopted varying standards.\n\nThe WNBA has not yet issued a formal statement clarifying its transgender eligibility policy or responding to the draft-eligibility questions raised. League officials have signaled they are reviewing their policies in consultation with medical and legal experts.\n\nThe issue carries implications beyond the league itself: how the WNBA navigates these rules could influence policy across other women's professional sports and collegiate athletics, where similar debates are ongoing. No vote or policy change has been announced.",
+      "tweets": []
+    },
+    {
+      "category": "revenue",
+      "importance": 5,
+      "leadHeadline": "Apparently, $2.1 billion doesn't buy a clear view: Bills fans discover major problem with new stadium",
+      "leadSource": "CBS Sports · just now",
+      "leadUrl": "https://www.cbssports.com/nfl/news/bills-new-stadium-obstructed-views-fans-complaints/",
+      "summary": "Several fans at the new $2.2 billion Highmark Stadium in Buffalo report that railings obstruct their sightlines, despite being told during purchase that views would be unobstructed. Bills ownership faces early fan backlash on a major capital project.",
+      "article": "Multiple fans attending events at Buffalo's newly opened Highmark Stadium, which cost $2.2 billion to build, have discovered that railings obstruct their views of the field. Several ticket holders report they were told during the purchase process that their seats had clear sightlines, only to find railings blocking portions of the action once they arrived.\n\nThe issue has drawn sharp criticism on social media from Bills fans, some of whom spent premium prices for what they believed to be unobstructed seating. It represents an early operational stumble for one of the NFL's newest and most expensive stadium projects, completed after more than a decade of planning and community funding debates.\n\nHighmark Stadium's construction was funded through a combination of public bonds and private investment, with New York State and Erie County contributing hundreds of millions in public money. The venue was designed to be among the most fan-friendly in the NFL, making the sightline complaints particularly problematic from a public-relations standpoint.\n\nBills ownership has not yet issued a formal response to the complaints. The team is expected to address the issue before the 2026 NFL season begins. Fans have suggested potential remedies including railing relocations or partial refunds for affected seat holders.",
       "tweets": []
     },
     {
       "category": "contracts",
-      "importance": 6,
-      "leadHeadline": "Have Giants, Saints finally found franchise QBs? History points to Year 2 leaps for Jaxson Dart, Tyler Shough",
-      "leadSource": "CBS Sports · 2h ago",
-      "leadUrl": "https://www.cbssports.com/nfl/news/jaxson-dart-tyler-shough-franchise-qb-outlook-year-2/",
-      "summary": "Jaxson Dart and Tyler Shough finished their rookie seasons with the Giants and Saints respectively, prompting analysis of whether their early performances signal franchise QB potential. Historical precedent suggests Year 2 improvements are common for young signal-callers.",
-      "article": "Jaxson Dart and Tyler Shough's rookie campaigns with the Giants and Saints have generated preliminary optimism about whether either quarterback could stabilize two franchises that have cycled through multiple starters over the past decade. CBS Sports examined historical comparables for second-year quarterback trajectories, noting that significant improvement from Year 1 to Year 2 is a common pattern among viable franchise passers.\n\nDart's rookie season with the Giants and Shough's with the Saints both generated film that scouts found encouraging, though neither finished with eye-popping statistical output. The analysis drew parallels to successful second-year jumps by players such as Eli Manning and Drew Brees in their respective early tenures, though with a more cautious framing: the writers noted Dart and Shough \"don't have to become\" those Hall of Famers to satisfy their teams' immediate needs.\n\nThe Giants haven't had a stable franchise quarterback since Eli Manning's retirement, while the Saints have struggled to find Drew Brees's successor since his 2020 exit. Both organizations are investing significant resources into their current young QBs and appear committed to seeing another full season before evaluating long-term viability.\n\nYear 2 performance, combined with offensive line health and receiving corps continuity, will likely determine whether either quarterback progresses toward franchise viability or becomes another false start.",
-      "tweets": []
-    },
-    {
-      "category": "media",
       "importance": 5,
-      "leadHeadline": "MLB Network rookie Eric Hosmer latest in growing pipeline of new baseball analysts",
-      "leadSource": "Sports Media Watch · 18h ago",
-      "leadUrl": "https://www.sportsmediawatch.com/2026/08/eric-hosmer-mlb-network-analyst-baseball-pipeline/",
-      "summary": "Eric Hosmer, the former World Series champion with the Kansas City Royals, has joined MLB Network as an analyst, part of a growing trend of recent players moving directly into broadcast roles. His hire reflects networks' preference for former players with recent on-field experience.",
-      "article": "Eric Hosmer, who won the World Series with the Kansas City Royals in 2015, has joined MLB Network as an analyst. Hosmer's move from active playing to the broadcast booth represents the latest in a pipeline of recently retired or active players transitioning into media roles, a trend networks have accelerated in recent years.\n\nSports Media Watch reported that Hosmer's hire reflects a broader strategy by MLB media outlets to recruit players with credible major league track records and recent playing experience. Unlike traditional baseball analysts who spent decades learning broadcast craft, contemporary networks prioritize former players' credibility and on-field knowledge, assuming viewers will accept learning curves in on-air communication.\n\nHosteler described his pursuit of the broadcast role as pursuing \"another goal\" after his playing career, suggesting a deliberate post-retirement plan rather than circumstantial placement. His addition follows similar recent moves by other retired players into baseball media.\n\nThe trend reflects changing viewer preferences and network economics: hiring recognizable names with playing credentials generates social media attention and reduces need for large institutional broadcasting training programs. Whether Hosmer's analytical insight and communication chops develop at the pace networks expect remains to be seen, but the hiring strategy itself appears durable.",
+      "leadHeadline": "Terrion Arnold visiting with Seahawks and Saints amid legal troubles, per report",
+      "leadSource": "CBS Sports · just now",
+      "leadUrl": "https://www.cbssports.com/nfl/news/terrion-arnold-free-agent-visiting-with-seahawks-and-saints/",
+      "summary": "Draft prospect Terrion Arnold is meeting with NFL teams while facing felony charges, with an arraignment hearing scheduled this week. The legal situation creates uncertainty around his draft status and team interest.",
+      "article": "Terrion Arnold is conducting pre-draft visits with the Seattle Seahawks and New Orleans Saints despite facing felony charges, per a report. Arnold has an arraignment hearing scheduled for this week, creating a cloud of uncertainty around his availability and draft timeline.\n\nThe situation is unusual in that teams typically avoid investing significant pre-draft resources in prospects with pending legal matters. Arnold's visits suggest either his legal situation may resolve quickly or teams believe the charges are unlikely to result in immediate consequences that would affect his eligibility to play.\n\nArnold was regarded as a potential mid-round prospect before the charges surfaced. His legal status now creates a variable that could significantly impact his draft position and which teams are willing to invest picks in him.\n\nNeither the Seahawks nor Saints have commented on the visits or their interest in Arnold. The NFL has not issued guidance on how his legal proceedings might affect his draft eligibility.",
       "tweets": []
     },
     {
-      "category": "media",
+      "category": "leagues",
       "importance": 4,
-      "leadHeadline": "How the Chicago Sky Found the League's Biggest Revelation",
-      "leadSource": "Front Office Sports · 1h ago",
-      "leadUrl": "https://frontofficesports.com/chicago-sky-sydney-taylor-wnba/",
-      "summary": "Sydney Taylor, who went undrafted in 2024 and spent two seasons in Europe, has become a standout player for the Chicago Sky, emerging as an unexpected contributor. Her path from professional obscurity to WNBA relevance challenges conventional talent evaluation.",
-      "article": "Sydney Taylor, overlooked in the 2024 WNBA draft and relegated to European professional basketball, has become a significant contributor for the Chicago Sky after the franchise identified her and brought her into the league. Front Office Sports profiled her unlikely ascent as one of the season's more compelling individual stories.\n\nTaylor's two-year detour in European competition provided seasoning that traditional U.S. college evaluators often miss or undervalue. Her subsequent emergence in the WNBA raised questions about draft process accuracy and the competitive utility of international professional experience for players the American system initially rejected.\n\nThe Sky's decision to sign Taylor, rather than cycle through traditional draft-eligible talent, proved prescient. Her performance has contributed to the team's competitive standing and provided a template: some overlooked players develop more reliably abroad than they would in college or immediate NBA/WNBA domestic pathways.\n\nTaylor's story resonates beyond box scores because it exposes structural gaps in WNBA talent evaluation. Scouts and general managers have incentive to back their draft picks, creating organizational inertia against later-round discoveries or international signings. Teams willing to challenge that conventional wisdom, like Chicago's front office, occasionally land compounding value.",
+      "leadHeadline": "Facing possible surgery, Blue Jays' Yesavage ready for best course of action",
+      "leadSource": "Sportsnet · 3h ago",
+      "leadUrl": "",
+      "summary": "Blue Jays right-hander Trey Yesavage faces the possibility of surgery that could determine the remainder of his season. He had an appointment scheduled to determine next steps in his recovery.",
+      "article": "Toronto Blue Jays right-hander Trey Yesavage spent the weekend awaiting medical clarity on his injury status after an appointment that will determine whether surgery is necessary. The outcome of those consultations could define whether he remains available for the bulk of the 2026 season or faces a lengthy recovery.\n\nYesavage had been a contributor to the Blue Jays rotation before the injury forced him out of the lineup. The potential for surgery introduces significant uncertainty into Toronto's pitching plans and rotation depth.\n\nThe team has not disclosed the specific nature of Yesavage's injury or provided a timeline for a decision on treatment. Sportsnet's Shi Davidi reported that Yesavage is prepared to pursue whatever course of action his medical team recommends, whether conservative or surgical.\n\nThe Blue Jays have not announced a backup plan for rotation depth while Yesavage's status remains unresolved.",
       "tweets": []
     }
   ],
@@ -2386,82 +2396,190 @@
   "ticket_prices": [],
   "sidebar": [
     {
-      "headline": "Yankees still waiting for Jazz Chisholm Jr. to get dialed in as slump continues",
-      "source": "NY Post Sports · 8h ago",
-      "article": "Jazz Chisholm Jr.'s slump has extended into another week as the Yankees continue to wait for their recently acquired infielder to produce at the level expected in a crowded lineup. The club made aggressive moves at the trade deadline to bolster its roster, but Chisholm's offensive output remains below par relative to his pre-trade performance. Yankees management has publicly expressed patience, signaling confidence in his eventual return to form, but the longer the slump persists, the more it calls into question the deadline trade calculus. Aaron Judge and Cody Bellinger's health remain critical to the team's postseason viability, but filling the production void around them requires Chisholm to deliver."
+      "headline": "Cavinder Twins on Building Their Empire",
+      "source": "Front Office Sports · 1h ago",
+      "article": "The Cavinder twins are expanding their NIL portfolio beyond basketball, launching GoTo and Osu Car as part of a broader strategy to build a sustainable business empire off the court. The move reflects the evolving landscape of athlete entrepreneurship, where name-image-likeness deals have evolved from simple endorsement deals into full business ventures.\n\nThe twins have become among the highest-earning female athletes through NIL deals, leveraging their social media presence and athletic profiles to attract brand partnerships and launch proprietary ventures. Their expansion into new categories signals confidence in their ability to monetize beyond traditional endorsements."
     },
     {
-      "headline": "PIF's Yasir Al-Rumayyan Joins Trump Amid LIV Golf Funding Push",
-      "source": "Front Office Sports · 13h ago",
-      "article": "Yasir Al-Rumayyan, the Saudi Public Investment Fund executive overseeing LIV Golf operations, attended a Trump event as the golf league pursues additional capital. The appearance marks Al-Rumayyan's first visible LIV engagement since PIF suspended its funding in April. The move signals LIV's effort to maintain political and media visibility while seeking new investors to stabilize operations. The league's funding model remains fragile, and any shortfall could force restructuring or operational changes. Trump's presence in LIV's orbit continues to provide the league with amplification despite its modest viewership and participation metrics."
+      "headline": "MLB Network rookie Eric Hosmer latest in growing pipeline of new baseball analysts",
+      "source": "Sports Media Watch · 22h ago",
+      "article": "Eric Hosmer has moved into the broadcast booth as a new analyst for MLB Network, joining a growing class of former players transitioning into media roles. Hosmer won the World Series with the Kansas City Royals and is now pursuing a second career in sports commentary.\n\nThe move reflects a broader trend in baseball media, where teams and networks are increasingly turning to former players with credible on-field résumés to provide analysis and color commentary. Hosmer's credentials as a multi-time All-Star should provide him with immediate credibility with audiences."
     },
     {
-      "headline": "Vondrousova's antics put tennis doping tests in spotlight",
-      "source": "The Guardian · 5h ago",
-      "article": "Marketa Vondrousova's four-year doping ban for refusing to submit to a test has exposed the stark differences between tennis and football's anti-doping protocols. The 2023 Wimbledon champion's suspension came after months of legal wrangling and public statements, contrasting sharply with football's more rigid enforcement. Vondrousova's social media campaign to shape the narrative around her ban highlighted how players in different sports face vastly different consequences for similar violations. The case underscores tennis's decentralized governance and softer enforcement compared to football's stricter infrastructure. For context, Chelsea midfielder Mykhailo Mudryk is currently returning from a doping suspension, but faced faster resolution than Vondrousova's lengthy process."
+      "headline": "Dodgers' Late-Season Slide Complicates MLB's Salary Cap Push",
+      "source": "Front Office Sports · 1h ago",
+      "article": "The Los Angeles Dodgers' recent struggles have added complexity to the league's ongoing salary cap discussions. As two-time defending champions, the Dodgers' performance and spending decisions carry outsized influence on labor negotiations and competitive balance conversations.\n\nThe team's late-season slide raises questions about roster construction and whether continued high payroll spending is yielding championship-level performance. The timing creates an awkward backdrop for any league-wide salary cap proposals."
     },
     {
-      "headline": "Blue Jays will look to carry over scrappiness after forcing extras in loss",
-      "source": "Sportsnet · 14h ago",
-      "article": "The Toronto Blue Jays showed resilience in their recent Philadelphia series, rallying from a 5-2 deficit in the eighth inning of Sunday's game to force extras before ultimately losing. The club won two of the first three games before the defeat, with RBI singles by Bryson Stott and Derek Hill allowing the Phillies to escape a sweep. The Blue Jays' scrappy approach, highlighted by their late-inning rally, suggests momentum heading into their next stretch. The team's ability to manufacture runs in high-leverage situations could prove critical as the season progresses and playoff positioning becomes more fluid."
+      "headline": "How the Chicago Sky Found the League's Biggest Revelation",
+      "source": "Front Office Sports · 5h ago",
+      "article": "Sydney Taylor, who went undrafted in 2024 and played two seasons in Europe, has emerged as a breakout performer for the Chicago Sky. Her path from overlooked prospect to league revelation underscores the value of international experience and perseverance for developing talent.\n\nTaylor's success highlights how talent evaluation remains imperfect and how extended playing time in competitive environments abroad can accelerate player development. The Sky's acquisition of Taylor represents shrewd roster construction."
     },
     {
       "headline": "Scouts Analysis: Standout players from the Hlinka Gretzky Cup",
-      "source": "Sportsnet · 9h ago",
-      "article": "Professional scouting for the 2027 NHL Draft has officially begun with the conclusion of the Hlinka Gretzky Cup, an annual international prospect showcase. Sportsnet's Jason Bukala broke down the standout performers from the tournament, identifying prospects generating the most draft-day interest. The Hlinka Gretzky Cup remains one of the first real showcases where scouts can evaluate top international talent in live game situations. Performance at this event often carries material weight in draft evaluations, and this year's standouts are already generating discussion in NHL front offices."
+      "source": "Sportsnet · 13h ago",
+      "article": "With the Hlinka Gretzky Cup now complete, scouts have begun cataloging standout performances ahead of the 2027 NHL Draft. The tournament provides an early look at the next generation of draft-eligible prospects competing against international peers.\n\nSportsnet's scouting analysis dives into which players separated themselves during the competition and how their performances might influence draft positioning in the coming months."
     },
     {
-      "headline": "Meet the adorable and fluffy heir to Howie Rose's legacy",
-      "source": "NY Post Sports · 1h ago",
-      "article": "Legendary Mets broadcaster Howie Rose, who spent four decades behind the microphone at Citi Field, is retiring and leaving behind a unique legacy: a golden retriever puppy who is already becoming a recognizable fixture at the ballpark. The dog has captured fan attention and social media coverage, emerging as an unexpected successor to Rose's outsized personality and presence. While the pup cannot replicate Rose's decades of baseball knowledge and storytelling, its presence provides continuity and a touchstone for fans mourning the broadcaster's departure. The gesture reflects the personal connection Rose built with Mets fans across multiple generations."
+      "headline": "Tour de France Femmes steps out of Pogacar's shadow to showcase truly compelling racing",
+      "source": "The Guardian · 5h ago",
+      "article": "Demi Vollering won the Tour de France Femmes for the second time on Sunday, securing victory after a heated final-stage battle with Kasia Niewiadoma. Unlike the men's race, where Pogacar dominated throughout, the women's competition remained uncertain until the final climb.\n\nVollering's win represents a showcase for women's professional cycling, where competitive depth and unpredictable outcomes have made the race compelling viewing. The contrast with the men's dominant narrative highlights the different competitive dynamics at play."
     }
   ],
   "poll": {
-    "question": "Should FIFA confederations push Infantino out immediately or allow a formal succession process?",
+    "question": "Which upcoming sports business story do you expect to drive the most revenue impact in 2026?",
     "options": [
-      "Force immediate resignation; his leadership is irreparably damaged",
-      "Pursue formal vote at next FIFA Congress; maintain institutional legitimacy",
-      "Explore rival competitions while negotiating transition terms with Infantino",
-      "Wait for evidence FIFA reforms before escalating confederation pressure"
+      "Apple's expansion into sports streaming and VR broadcasting",
+      "The resolution of FIFA governance disputes and World Cup expansion fallout",
+      "Stadium financing and public-private partnerships (Highmark model)",
+      "Tech-billionaire acquisitions of major sports franchises (Bezos-Liverpool model)"
     ]
   },
   "predictions": [
     {
-      "statement": "Infantino will announce resignation or agreement to step down within 60 days.",
+      "statement": "Apple's VR sports broadcasts will attract fewer than 100,000 concurrent viewers per game in their first year.",
+      "probability": 72,
+      "rationale": "Vision Pro adoption remains limited (estimated under 1M units sold), and immersive sports viewing requires specific hardware. Early VR sports pilots have struggled to reach meaningful audiences. Apple's willingness to broadcast only four games suggests cautious expectations."
+    },
+    {
+      "statement": "Gianni Infantino will remain FIFA president through the 2026 World Cup despite the confederations' letter.",
+      "probability": 68,
+      "rationale": "Infantino has weathered prior crises and controls FIFA's institutional machinery. A confederation letter, while dramatic, lacks binding enforcement power. Removing a sitting FIFA president requires coordinated action from multiple federations, which historically fractures. Infantino likely survives until at least 2028."
+    },
+    {
+      "statement": "The Bezos-Liverpool deal will not close by end of 2026.",
       "probability": 62,
-      "rationale": "The open letter from three continental confederations represents unprecedented institutional coordination against a sitting FIFA president. Control of broadcast rights and national team participation gives these bodies material leverage. However, FIFA's counter-statement defending its procedures and Infantino's prior resilience suggest he won't exit quietly."
+      "rationale": "Major sports ownership deals require regulatory approval, due diligence, and shareholder consensus. A 30% stake in a Premier League club involves complex negotiations and potential antitrust scrutiny. Advanced talks typically take 12-18 months to close. BBC's \"advancing talks\" language suggests early-stage negotiations."
     },
     {
-      "statement": "Jaxson Dart will improve meaningfully in Year 2 and become the Giants' franchise QB.",
-      "probability": 44,
-      "rationale": "Historical precedent supports second-year jumps for viable young QBs, and the Giants have clearly committed resources to Dart. But 'franchise QB' is a high bar; many Year 1 understudies plateau. The Giants' win-now window and competing needs argue for urgency that might undermine development."
-    },
-    {
-      "statement": "Sydney Taylor will play in at least 50 games for the Sky this season.",
-      "probability": 71,
-      "rationale": "Her emergence as a reliable contributor suggests the Sky views her as integral to rotation. Injury is the primary risk, not organizational confidence. European development translated into WNBA readiness, a pattern that typically reflects durability."
-    },
-    {
-      "statement": "LIV Golf secures new primary funding before end of Q4 2026.",
-      "probability": 38,
-      "rationale": "PIF's April funding pause signals discipline or a strategic recalibration. Al-Rumayyan's Trump appearance suggests political-economy play, not imminent capital commitment. LIV's modest viewership and participation metrics make it a discretionary investment; other sports and tech ventures offer higher returns for mega-funds."
+      "statement": "The WNBA will adopt clarified transgender eligibility rules before the 2027 Draft.",
+      "probability": 58,
+      "rationale": "The league faces immediate pressure to define standards after Cunningham's comments and the draft-eligibility controversy. Legal exposure and competitive fairness concerns will push the league to act. However, policy-making on sensitive issues moves slowly, and disagreement within the league may delay consensus."
     }
   ],
   "injuries": [
     {
-      "player": "Dakota Ditcheva",
-      "team": "MMA (Independent)",
-      "league": "MMA",
-      "position": "",
-      "status": "OUT",
-      "injury": "Fractured both hands",
-      "timeline": "Months into recovery from previous hand injuries",
-      "source": "BBC Sport",
-      "impact": "The boxer is sidelined and faces extended rehabilitation. Recovery from dual hand fractures typically requires 8-12 weeks minimum before returning to training.",
-      "storyIndex": 11
+      "player": "Trey Yesavage",
+      "team": "Toronto Blue Jays",
+      "league": "MLB",
+      "position": "SP",
+      "status": "DOUBTFUL",
+      "injury": "Unspecified (possibly requiring surgery)",
+      "timeline": "Outcome depends on medical appointment; could require surgery",
+      "source": "Sportsnet",
+      "impact": "If surgery required, Blue Jays face significant rotation depth loss and could be forced to promote from minors or sign external replacement.",
+      "storyIndex": 6
     }
   ],
   "picks": [
+    {
+      "type": "moneyline",
+      "pick": "Boston Red Sox ML",
+      "odds": "-162",
+      "edge": "Market fill from live lines: Boston Red Sox is the books' favorite at -162 (best price @ Caesars) against Toronto Blue Jays at +153, favored even on the road. No researched edge here — this is a low-confidence market-consensus play added to round out the slate. Low confidence is honest confidence.",
+      "matchup": "Boston Red Sox @ Toronto Blue Jays",
+      "league": "MLB",
+      "when": "Today 7:07 PM ET",
+      "confidence": "low",
+      "_autofill": true,
+      "_scheduledTs": 1786403220000,
+      "marketSnapshot": {
+        "capturedAt": "2026-08-10T11:42:47.737Z",
+        "markets": {
+          "h2h": {
+            "away": {
+              "price": -162,
+              "book": "Caesars"
+            },
+            "home": {
+              "price": 153,
+              "book": "DraftKings"
+            },
+            "draw": null
+          },
+          "spreads": {
+            "away": {
+              "point": -1.5,
+              "price": 106,
+              "book": "LowVig.ag"
+            },
+            "home": {
+              "point": 1.5,
+              "price": -120,
+              "book": "LowVig.ag"
+            }
+          },
+          "totals": {
+            "over": {
+              "point": 8,
+              "price": -118,
+              "book": "LowVig.ag"
+            },
+            "under": {
+              "point": 8.5,
+              "price": -118,
+              "book": "BetRivers"
+            }
+          }
+        },
+        "awayTeam": "Boston Red Sox",
+        "homeTeam": "Toronto Blue Jays"
+      }
+    },
+    {
+      "type": "moneyline",
+      "pick": "Atlanta Braves ML",
+      "odds": "-143",
+      "edge": "Market fill from live lines: Atlanta Braves is the books' favorite at -143 (best price @ Caesars) against New York Mets at +137, with home ice/court/field behind them. No researched edge here — this is a low-confidence market-consensus play added to round out the slate. Low confidence is honest confidence.",
+      "matchup": "New York Mets @ Atlanta Braves",
+      "league": "MLB",
+      "when": "Today 7:15 PM ET",
+      "confidence": "low",
+      "_autofill": true,
+      "_scheduledTs": 1786403700000,
+      "marketSnapshot": {
+        "capturedAt": "2026-08-10T11:42:47.738Z",
+        "markets": {
+          "h2h": {
+            "away": {
+              "price": 137,
+              "book": "DraftKings"
+            },
+            "home": {
+              "price": -143,
+              "book": "Caesars"
+            },
+            "draw": null
+          },
+          "spreads": {
+            "away": {
+              "point": 1.5,
+              "price": -156,
+              "book": "FanDuel"
+            },
+            "home": {
+              "point": -1.5,
+              "price": 141,
+              "book": "LowVig.ag"
+            }
+          },
+          "totals": {
+            "over": {
+              "point": 8.5,
+              "price": -102,
+              "book": "DraftKings"
+            },
+            "under": {
+              "point": 8.5,
+              "price": -109,
+              "book": "BetRivers"
+            }
+          }
+        },
+        "awayTeam": "New York Mets",
+        "homeTeam": "Atlanta Braves"
+      }
+    },
     {
       "type": "moneyline",
       "pick": "Cincinnati Reds ML",
@@ -5886,148 +6004,40 @@
         "homeTeam": "San Diego Padres"
       },
       "_pendingGrade": true
-    },
-    {
-      "type": "moneyline",
-      "pick": "Boston Red Sox ML",
-      "odds": "-162",
-      "edge": "Market fill from live lines: Boston Red Sox is the books' favorite at -162 (best price @ Caesars) against Toronto Blue Jays at +153, favored even on the road. No researched edge here — this is a low-confidence market-consensus play added to round out the slate. Low confidence is honest confidence.",
-      "matchup": "Boston Red Sox @ Toronto Blue Jays",
-      "league": "MLB",
-      "when": "Today 7:07 PM ET",
-      "confidence": "low",
-      "_autofill": true,
-      "_scheduledTs": 1786403220000,
-      "marketSnapshot": {
-        "capturedAt": "2026-08-10T11:42:47.737Z",
-        "markets": {
-          "h2h": {
-            "away": {
-              "price": -162,
-              "book": "Caesars"
-            },
-            "home": {
-              "price": 153,
-              "book": "DraftKings"
-            },
-            "draw": null
-          },
-          "spreads": {
-            "away": {
-              "point": -1.5,
-              "price": 106,
-              "book": "LowVig.ag"
-            },
-            "home": {
-              "point": 1.5,
-              "price": -120,
-              "book": "LowVig.ag"
-            }
-          },
-          "totals": {
-            "over": {
-              "point": 8,
-              "price": -118,
-              "book": "LowVig.ag"
-            },
-            "under": {
-              "point": 8.5,
-              "price": -118,
-              "book": "BetRivers"
-            }
-          }
-        },
-        "awayTeam": "Boston Red Sox",
-        "homeTeam": "Toronto Blue Jays"
-      }
-    },
-    {
-      "type": "moneyline",
-      "pick": "Atlanta Braves ML",
-      "odds": "-143",
-      "edge": "Market fill from live lines: Atlanta Braves is the books' favorite at -143 (best price @ Caesars) against New York Mets at +137, with home ice/court/field behind them. No researched edge here — this is a low-confidence market-consensus play added to round out the slate. Low confidence is honest confidence.",
-      "matchup": "New York Mets @ Atlanta Braves",
-      "league": "MLB",
-      "when": "Today 7:15 PM ET",
-      "confidence": "low",
-      "_autofill": true,
-      "_scheduledTs": 1786403700000,
-      "marketSnapshot": {
-        "capturedAt": "2026-08-10T11:42:47.738Z",
-        "markets": {
-          "h2h": {
-            "away": {
-              "price": 137,
-              "book": "DraftKings"
-            },
-            "home": {
-              "price": -143,
-              "book": "Caesars"
-            },
-            "draw": null
-          },
-          "spreads": {
-            "away": {
-              "point": 1.5,
-              "price": -156,
-              "book": "FanDuel"
-            },
-            "home": {
-              "point": -1.5,
-              "price": 141,
-              "book": "LowVig.ag"
-            }
-          },
-          "totals": {
-            "over": {
-              "point": 8.5,
-              "price": -102,
-              "book": "DraftKings"
-            },
-            "under": {
-              "point": 8.5,
-              "price": -109,
-              "book": "BetRivers"
-            }
-          }
-        },
-        "awayTeam": "New York Mets",
-        "homeTeam": "Atlanta Braves"
-      }
     }
   ],
-  "updatedAt": "2026-04-23T18:00:00Z",
+  "updatedAt": "2026-04-23T18:45:00Z",
   "highlights": [
     {
       "league": "NBA",
       "title": "Nike Mamba Invitational: Boys Championship | Team Obsession Vs. Team Resilience",
       "videoId": "3AVM0vwgEJA",
       "thumbnail": "https://img.youtube.com/vi/3AVM0vwgEJA/mqdefault.jpg",
-      "timeAgo": "7h ago",
+      "timeAgo": "11h ago",
       "isFallback": false
     },
     {
       "league": "NFL",
-      "title": "🔥Jeremiah Smith🔥: The BEST PLAYER of 2027 NFL Draft?! w/Mel Kiper &amp; Field Yates | First Draft🏈",
-      "videoId": "u8xQ7A6wrtQ",
-      "thumbnail": "https://img.youtube.com/vi/u8xQ7A6wrtQ/mqdefault.jpg",
-      "timeAgo": "1h ago",
+      "title": "12-Team SUPERFLEX Mock Draft with the full ESPN Fantasy Football staff | Fantasy Focus",
+      "videoId": "WEY95IZX3l0",
+      "thumbnail": "https://img.youtube.com/vi/WEY95IZX3l0/mqdefault.jpg",
+      "timeAgo": "Just now",
       "isFallback": false
     },
     {
       "league": "MLB",
-      "title": "Luis Lara's INSANELY CLUTCH leaping grab in extra innings and the BEST MLB Highlights from 8/9/26!",
-      "videoId": "5_5SQNf4QAg",
-      "thumbnail": "https://img.youtube.com/vi/5_5SQNf4QAg/mqdefault.jpg",
-      "timeAgo": "1h ago",
+      "title": "The Top 10 Clinchers that define baseball (#250for250)",
+      "videoId": "TxmFHlV99zc",
+      "thumbnail": "https://img.youtube.com/vi/TxmFHlV99zc/mqdefault.jpg",
+      "timeAgo": "Just now",
       "isFallback": false
     },
     {
       "league": "NHL",
-      "title": "Jake Oettinger has some thoughts on otters 🦦😂",
-      "videoId": "xLQkchBcdPc",
-      "thumbnail": "https://img.youtube.com/vi/xLQkchBcdPc/mqdefault.jpg",
-      "timeAgo": "16h ago",
+      "title": "EVERY GOAL Scored Last Season by the 2026-27 Detroit Red Wings Roster",
+      "videoId": "_4znYsNYqUE",
+      "thumbnail": "https://img.youtube.com/vi/_4znYsNYqUE/mqdefault.jpg",
+      "timeAgo": "2h ago",
       "isFallback": false
     },
     {
@@ -6035,19 +6045,139 @@
       "title": "Golden State Valkyries vs. Los Angeles Sparks | August 9, 2026",
       "videoId": "dFEgk1NA14w",
       "thumbnail": "https://img.youtube.com/vi/dFEgk1NA14w/mqdefault.jpg",
-      "timeAgo": "10h ago",
+      "timeAgo": "14h ago",
       "isFallback": false
     },
     {
       "league": "SOCCER",
-      "title": "Seattle Reign vs. Angel City FC | NWSL Highlights | ESPN FC",
-      "videoId": "QY70nnwtNmg",
-      "thumbnail": "https://img.youtube.com/vi/QY70nnwtNmg/mqdefault.jpg",
-      "timeAgo": "9h ago",
+      "title": "Imagine seeing this (via equipedefrance/TT)",
+      "videoId": "w7BlEXoBiO8",
+      "thumbnail": "https://img.youtube.com/vi/w7BlEXoBiO8/mqdefault.jpg",
+      "timeAgo": "2h ago",
       "isFallback": false
     }
   ],
   "reels": [
+    {
+      "league": "NFL",
+      "title": "12-Team SUPERFLEX Mock Draft with the full ESPN Fantasy Football staff | Fantasy Focus",
+      "videoId": "WEY95IZX3l0",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-08-10T15:38:50+00:00",
+      "link": "https://www.youtube.com/watch?v=WEY95IZX3l0"
+    },
+    {
+      "league": "MLB",
+      "title": "The Top 10 Clinchers that define baseball (#250for250)",
+      "videoId": "TxmFHlV99zc",
+      "author": "MLB",
+      "pubDate": "2026-08-10T15:34:44+00:00",
+      "link": "https://www.youtube.com/watch?v=TxmFHlV99zc"
+    },
+    {
+      "league": "NFL",
+      "title": "Jordan Love’s Best Throw From 2025 Didn't Count",
+      "videoId": "V9he4i9OlJY",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-08-10T15:30:11+00:00",
+      "link": "https://www.youtube.com/watch?v=V9he4i9OlJY"
+    },
+    {
+      "league": "MLB",
+      "title": "Top 10 Most CLUTCH Series Clinchers in MLB History! | MLB 250 For 250",
+      "videoId": "HTo24cwkF1k",
+      "author": "MLB",
+      "pubDate": "2026-08-10T15:30:11+00:00",
+      "link": "https://www.youtube.com/watch?v=HTo24cwkF1k"
+    },
+    {
+      "league": "MLB",
+      "title": "Walk-off winners, home run robberies, INSANE diving catches &amp; the TOP MLB PLAYS from last week!",
+      "videoId": "1ZWqd3-JCIk",
+      "author": "MLB",
+      "pubDate": "2026-08-10T15:00:11+00:00",
+      "link": "https://www.youtube.com/watch?v=1ZWqd3-JCIk"
+    },
+    {
+      "league": "NFL",
+      "title": "Jordan Love Reveals What the Packers Must Fix in 2026 | This Is Football",
+      "videoId": "vX8dPc3-WyA",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-08-10T15:00:06+00:00",
+      "link": "https://www.youtube.com/watch?v=vX8dPc3-WyA"
+    },
+    {
+      "league": "MLB",
+      "title": "Ichiro's swing is still golden at 52 years old 🐐",
+      "videoId": "lWJfBiIKHNY",
+      "author": "MLB",
+      "pubDate": "2026-08-10T15:00:06+00:00",
+      "link": "https://www.youtube.com/watch?v=lWJfBiIKHNY"
+    },
+    {
+      "league": "NFL",
+      "title": "Will Jayden Daniels reach the NFC Championship again? 🧐",
+      "videoId": "lmbfK8dFWhI",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-08-10T14:41:48+00:00",
+      "link": "https://www.youtube.com/watch?v=lmbfK8dFWhI"
+    },
+    {
+      "league": "NFL",
+      "title": "Will the Commanders win their division? 🤨",
+      "videoId": "EP_dPyCLPng",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-08-10T14:38:14+00:00",
+      "link": "https://www.youtube.com/watch?v=EP_dPyCLPng"
+    },
+    {
+      "league": "NFL",
+      "title": "What NFL players have caught Peter Schrager's eye 👀 The Schrager 5️⃣ | Get Up",
+      "videoId": "KaZhYNO43is",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-08-10T14:12:32+00:00",
+      "link": "https://www.youtube.com/watch?v=KaZhYNO43is"
+    },
+    {
+      "league": "NHL",
+      "title": "EVERY GOAL Scored Last Season by the 2026-27 Detroit Red Wings Roster",
+      "videoId": "_4znYsNYqUE",
+      "author": "NHL",
+      "pubDate": "2026-08-10T14:00:16+00:00",
+      "link": "https://www.youtube.com/watch?v=_4znYsNYqUE"
+    },
+    {
+      "league": "NFL",
+      "title": "Will the Cowboys revamp their defense this season?",
+      "videoId": "Vf3xQLREqu4",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-08-10T13:50:28+00:00",
+      "link": "https://www.youtube.com/watch?v=Vf3xQLREqu4"
+    },
+    {
+      "league": "SOCCER",
+      "title": "Imagine seeing this (via equipedefrance/TT)",
+      "videoId": "w7BlEXoBiO8",
+      "author": "ESPN FC",
+      "pubDate": "2026-08-10T13:30:38+00:00",
+      "link": "https://www.youtube.com/watch?v=w7BlEXoBiO8"
+    },
+    {
+      "league": "NFL",
+      "title": "It’s a youth movement 🏃",
+      "videoId": "dZFbxCSEf94",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-08-10T13:09:53+00:00",
+      "link": "https://www.youtube.com/watch?v=dZFbxCSEf94"
+    },
+    {
+      "league": "MLB",
+      "title": "Jacob Misiorowski becomes the fastest pitcher to reach 200 strikeouts in 2026 and MUCH MORE! 🔥",
+      "videoId": "YJdE8Lyrl0Y",
+      "author": "MLB",
+      "pubDate": "2026-08-10T13:00:26+00:00",
+      "link": "https://www.youtube.com/watch?v=YJdE8Lyrl0Y"
+    },
     {
       "league": "MLB",
       "title": "Luis Lara's INSANELY CLUTCH leaping grab in extra innings and the BEST MLB Highlights from 8/9/26!",
@@ -6055,14 +6185,6 @@
       "author": "MLB",
       "pubDate": "2026-08-10T11:00:30+00:00",
       "link": "https://www.youtube.com/watch?v=5_5SQNf4QAg"
-    },
-    {
-      "league": "NFL",
-      "title": "🔥Jeremiah Smith🔥: The BEST PLAYER of 2027 NFL Draft?! w/Mel Kiper &amp; Field Yates | First Draft🏈",
-      "videoId": "u8xQ7A6wrtQ",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-08-10T11:00:12+00:00",
-      "link": "https://www.youtube.com/watch?v=u8xQ7A6wrtQ"
     },
     {
       "league": "MLB",
@@ -6145,38 +6267,6 @@
       "link": "https://www.youtube.com/watch?v=dFEgk1NA14w"
     },
     {
-      "league": "MLB",
-      "title": "Fernando Tatis Jr. absolutely UNLOADS on a THREE-RUN HOME RUN! 😤 (110.6 MPH, 421 feet! 😳)",
-      "videoId": "GjrsbEXyZzc",
-      "author": "MLB",
-      "pubDate": "2026-08-10T01:36:33+00:00",
-      "link": "https://www.youtube.com/watch?v=GjrsbEXyZzc"
-    },
-    {
-      "league": "MLB",
-      "title": "GUARDIANS vs. WHITE SOX: Official Full Game Highlights (August 9) | 2026 MLB Season",
-      "videoId": "SUidP3iZw4I",
-      "author": "MLB",
-      "pubDate": "2026-08-09T23:52:31+00:00",
-      "link": "https://www.youtube.com/watch?v=SUidP3iZw4I"
-    },
-    {
-      "league": "MLB",
-      "title": "RAYS vs. MARINERS: Official Full Game Highlights (August 9) | 2026 MLB Season",
-      "videoId": "76hIfBN9ni8",
-      "author": "MLB",
-      "pubDate": "2026-08-09T23:26:15+00:00",
-      "link": "https://www.youtube.com/watch?v=76hIfBN9ni8"
-    },
-    {
-      "league": "MLB",
-      "title": "TIGERS vs. GIANTS: Official Full Game Highlights (August 9) | 2026 MLB Season",
-      "videoId": "IjyFPXsFG84",
-      "author": "MLB",
-      "pubDate": "2026-08-09T23:21:01+00:00",
-      "link": "https://www.youtube.com/watch?v=IjyFPXsFG84"
-    },
-    {
       "league": "WNBA",
       "title": "Dallas Wings vs. Minnesota Lynx | FULL GAME HIGHLIGHTS | August 9, 2026",
       "videoId": "vnJ2afyWd0g",
@@ -6201,28 +6291,12 @@
       "link": "https://www.youtube.com/watch?v=FMa7e4nxsRQ"
     },
     {
-      "league": "MLB",
-      "title": "DODGERS vs. D-BACKS: Official Full Game Highlights (August 9) | 2026 MLB Season",
-      "videoId": "8PvXk3kOXXE",
-      "author": "MLB",
-      "pubDate": "2026-08-09T22:59:15+00:00",
-      "link": "https://www.youtube.com/watch?v=8PvXk3kOXXE"
-    },
-    {
       "league": "SOCCER",
       "title": "Should leagues move the transfer window to BEFORE the season starts? | ESPN FC Extra Time",
       "videoId": "iC_pGDqoueA",
       "author": "ESPN FC",
       "pubDate": "2026-08-09T22:27:37+00:00",
       "link": "https://www.youtube.com/watch?v=iC_pGDqoueA"
-    },
-    {
-      "league": "SOCCER",
-      "title": "Steve Nicol's prediction for Marmoush's future with Man City 😳 | ESPN FC",
-      "videoId": "L2e4LC7W9wY",
-      "author": "ESPN FC",
-      "pubDate": "2026-08-09T22:06:18+00:00",
-      "link": "https://www.youtube.com/watch?v=L2e4LC7W9wY"
     },
     {
       "league": "WNBA",
@@ -6257,22 +6331,6 @@
       "link": "https://www.youtube.com/watch?v=9jGYRqsbUoc"
     },
     {
-      "league": "NFL",
-      "title": "Dialing up the blitz 😅 (via steel_city_recaps/TT)",
-      "videoId": "0MTnoj2FsBw",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-08-09T18:00:16+00:00",
-      "link": "https://www.youtube.com/watch?v=0MTnoj2FsBw"
-    },
-    {
-      "league": "NFL",
-      "title": "The Lions have placed veteran Teddy Bridgewater on the reserved-retired list",
-      "videoId": "87TWV8SyUqs",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-08-09T17:47:56+00:00",
-      "link": "https://www.youtube.com/watch?v=87TWV8SyUqs"
-    },
-    {
       "league": "NBA",
       "title": "Luka Dončić Reaction to Jaxson Hayes Dunk vs Chicago Bulls",
       "videoId": "nTtP2olC2VY",
@@ -6305,14 +6363,6 @@
       "link": "https://www.youtube.com/watch?v=z_fi6L8SUFk"
     },
     {
-      "league": "NFL",
-      "title": "Larry Fitzgerald can still look back at his performance in the Super Bowl and feel immortalized 👏",
-      "videoId": "ijJCEMxLojw",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-08-09T16:08:04+00:00",
-      "link": "https://www.youtube.com/watch?v=ijJCEMxLojw"
-    },
-    {
       "league": "NBA",
       "title": "ASMR Courts Compilation: Emirates NBA Cup, NBA Berlin 2026, NBA All-Star 2026, &amp; the 2026 NBA Finals",
       "videoId": "M7DVH3V8uHc",
@@ -6327,46 +6377,6 @@
       "author": "NHL",
       "pubDate": "2026-08-09T15:00:31+00:00",
       "link": "https://www.youtube.com/watch?v=gNwNv-SKXyM"
-    },
-    {
-      "league": "NFL",
-      "title": "I Scored a Touchdown: Larry Fitzgerald's TWO fourth quarter Super Bowl  touchdowns | NFL on ESPN",
-      "videoId": "Wewg309I6J8",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-08-09T13:49:54+00:00",
-      "link": "https://www.youtube.com/watch?v=Wewg309I6J8"
-    },
-    {
-      "league": "NFL",
-      "title": "A classic 😂 (via @calvinaustiniii/TT)",
-      "videoId": "Et2kXb6sF3M",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-08-09T13:24:39+00:00",
-      "link": "https://www.youtube.com/watch?v=Et2kXb6sF3M"
-    },
-    {
-      "league": "WNBA",
-      "title": "Seattle Storm vs. Portland Fire | FULL GAME HIGHLIGHTS | August 8, 2026",
-      "videoId": "05C3RB6kQgU",
-      "author": "WNBA",
-      "pubDate": "2026-08-09T03:15:38+00:00",
-      "link": "https://www.youtube.com/watch?v=05C3RB6kQgU"
-    },
-    {
-      "league": "NFL",
-      "title": "Josh Allen and the Bills rocking the new alternates at Highmark Stadium 😮‍💨 (via buffalobills/TT)",
-      "videoId": "JRWLliz0ons",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-08-08T23:45:01+00:00",
-      "link": "https://www.youtube.com/watch?v=JRWLliz0ons"
-    },
-    {
-      "league": "WNBA",
-      "title": "Indiana Fever vs. Chicago Sky | FULL GAME HIGHLIGHTS | August 8, 2026",
-      "videoId": "6Q5wmpq_La8",
-      "author": "WNBA",
-      "pubDate": "2026-08-08T23:18:16+00:00",
-      "link": "https://www.youtube.com/watch?v=6Q5wmpq_La8"
     }
   ]
 }
