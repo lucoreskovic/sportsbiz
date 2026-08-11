@@ -1,73 +1,81 @@
 {
   "clusters": [
     {
-      "category": "media",
+      "category": "labor",
       "importance": 7,
+      "leadHeadline": "Infantino's opponents developing new framework for running world football",
+      "leadSource": "The Guardian · 6h ago",
+      "leadUrl": "https://www.theguardian.com/football/2026/aug/11/gianni-infantino-opponents-world-football-fifa-uefa",
+      "summary": "UEFA, Concacaf and the AFC are in preliminary talks to organize rival competitions and develop governance frameworks, pressuring Infantino ahead of March 2027 FIFA elections. The standoff stems from FIFA's failed attempt to sell World Cup stakes to private investors.",
+      "article": "<cite index=\"21-3\">Following FIFA's controversial proposal to sell commercial shares of the World Cup</cite>, three continental confederations have begun preliminary work on an alternative governance structure for world football. <cite index=\"4-6\">UEFA, alongside AFC and CONCACAF, wrote that the failed process represented a \"profound failure of judgment\" and accused Infantino of acting like someone who \"believes the game is answerable to him.\"</cite> <cite index=\"4-7\">The three confederations have started initial talks to organize competitions without FIFA</cite>, though <cite index=\"20-1\">those involved have been empowered to ask existential questions such as what FIFA's precise role should be, how it should be structured and what governance model should be adopted.</cite> <cite index=\"20-2\">Financial distribution among member associations is also a key consideration, particularly with an eye on how best to deploy funds from FIFA's estimated $5bn reserves.</cite> <cite index=\"4-8\">The three confederations will give Infantino the option to step down \"with dignity\" without seeking re-election in March 2027.</cite> CAF and South American confederation CONMEBOL have backed Infantino, widening football's split. <cite index=\"20-3\">If Infantino refuses to engage then the new framework is likely to be adopted by a challenger at the presidential election next year, or could even serve as a template for a breakaway organisation.</cite>",
+      "tweets": [
+        {
+          "url": "https://twitter.com/FutboolFichajes/status/2086742822535733542",
+          "html": "<blockquote class=\"twitter-tweet\" data-dnt=\"true\" data-theme=\"dark\"><p>🚨 AHORA | Dura carta abierta de UEFA, AFC y CONCACAF contra la FIFA y su presidente, Gianni Infantino. \n\n❌ Denuncian los manejos de FIFA por \"apropiarse del fútbol\" y reclaman transparencia. https://t.co/NMX9EtYwmr</p>&mdash; Fútbol Fichajes (@FutboolFichajes) <a href=\"https://twitter.com/FutboolFichajes/status/2086742822535733542\">August 10, 2026</a></blockquote>",
+          "author_name": "Fútbol Fichajes",
+          "author_url": "https://twitter.com/FutboolFichajes",
+          "dateMs": 1786353233000
+        }
+      ]
+    },
+    {
+      "category": "revenue",
+      "importance": 6,
       "leadHeadline": "Formula E Races to Stream on Disney+Worldwide",
-      "leadSource": "Sportico · 5h ago",
+      "leadSource": "Sportico · 8h ago",
       "leadUrl": "https://www.sportico.com/leagues/motorsports/2026/formula-e-disney-espn-streaming-cbs-1234941567/",
-      "summary": "<cite index=\"1-1\">Formula E announced Tuesday a multi-year global streaming deal across 144 countries with Disney+ and ESPN starting December 2026</cite>, launching alongside the new GEN4 cars.",
-      "article": "<cite index=\"1-1\">Formula E announced Tuesday a multi-year global streaming deal across 144 countries with Disney+ and ESPN from the start of the 2026-27 season in December.</cite> <cite index=\"1-5\">Disney+ subscribers worldwide will get live coverage of every session at race weekends as well as behind-the-scenes programming and race replays on demand.</cite> <cite index=\"3-3\">In the U.S., races will stream on Disney+ alongside ESPN+.</cite>\n\n<cite index=\"1-3,1-6\">Formula E Chief Executive Jeff Dodds called it a \"landmark moment,\" saying \"Disney's unrivalled global reach and storytelling will introduce Formula E to millions of new fans.\"</cite> <cite index=\"1-4\">The deal will complement Formula E's existing portfolio of free-to-air and linear broadcast partners, preserving broad accessibility.</cite>\n\n<cite index=\"3-8,3-9\">The 2026/27 calendar expands to 21 races across 13 cities, opening in Jeddah, Saudi Arabia, on December 18 and concluding in Tokyo on July 25, 2027.</cite> <cite index=\"4-5\">The new GEN4 cars generate 600kW of power—equivalent to more than 815 horsepower—and accelerate from 0–60 mph in approximately 1.8 seconds, roughly 30% faster than an F1 car.</cite> <cite index=\"24-1\">No financial details were given.</cite>",
+      "summary": "Disney+ will carry Formula E racing in over 140 territories globally, with ESPN+ handling U.S. streaming under its ESPN Select and ESPN Unlimited tiers. Financial terms were not disclosed.",
+      "article": "Formula E has secured a global streaming home with Disney, expanding the all-electric racing series' distribution across more than 140 territories worldwide.\n\nDisney+ will carry FE events globally, while U.S. viewers can access races through ESPN+ as part of both the ESPN Select and ESPN Unlimited subscription packages. The deal represents a significant reach expansion for a racing series seeking to build audiences beyond traditional motor-sport markets.\n\nThe timing matters: streaming-only or streaming-first sports deals have become the default for emerging leagues and niche categories in the media-rights marketplace. Formula E, founded in 2014, has struggled for consistent mainstream TV carriage in the U.S. This Disney partnership solves that immediate problem and validates the series to sponsors and venues.\n\nFinancial terms were not disclosed, a common practice for streaming deals where rights holders and platforms negotiate multi-year packages with escalators tied to viewership thresholds or subscriber growth. For Formula E, landing Disney's global infrastructure is as valuable as the upfront money: it means racing content reaches potential fans during promotional windows tied to Disney's broader sports and entertainment push.",
       "tweets": []
     },
     {
       "category": "revenue",
-      "importance": 7,
+      "importance": 6,
       "leadHeadline": "New York Yankees, Apollo Agree on $2.6B Capital Injection, Investment",
-      "leadSource": "Sportico · 5h ago",
+      "leadSource": "Sportico · 9h ago",
       "leadUrl": "https://www.sportico.com/business/finance/2026/new-york-yankees-apollo-capital-injection-1234941556/",
-      "summary": "Apollo Global Management will inject $2.6 billion into the Yankees parent company through debt and equity financing, refinancing existing debt and taking a minority stake. The deal caps a three-month capital-raise cycle for the franchise.",
-      "article": "The New York Yankees secured a $2.6 billion financing injection from Apollo Global Management on Tuesday, combining debt and equity in the storied franchise's parent company. Apollo will refinance existing debt obligations and assume a minority stake of undisclosed percentage in Yankees Global Enterprises.\n\nThe capital infusion closes a three-month fundraising window that began in May and reflects the Yankees' need to shore up balance-sheet flexibility as Major League Baseball continues to navigate post-pandemic revenue recovery and rising operating costs. The deal values the enterprise at a level consistent with recent comparable franchise transactions, though the exact valuation was not disclosed.\n\nApollo's entry signals confidence in the Yankees' ability to service debt while maintaining competitive payroll under the MLB luxury-tax threshold. The private-equity firm gains minority equity upside without operational control, a structure that keeps the Steinbrenner family's control intact. The refinancing component reduces debt service obligations in the near term, freeing capital for potential roster upgrades or stadium capital projects. The Yankees have not committed significant stadium investment since their 2009 renovation of the Bronx facility, leaving deferred maintenance concerns that could benefit from the infusion.",
+      "summary": "The Yankees received a $2.6 billion financing package from Apollo Global Management combining debt refinance and equity in the parent company. Apollo's minority stake size was not disclosed.",
+      "article": "The Yankees closed a $2.6 billion capital injection from Apollo Global Management, mixing debt refinancing and an undisclosed equity stake in Yankee Global Enterprises, the parent holding company.\n\nThe structure: Apollo will refinance existing Yankees debt while taking a minority ownership position. This is the second major outside capital infusion in recent years (Goldman Sachs invested in 2023) and signals the Steinbrenner family's continued appetite for leveraging the franchise's balance sheet without ceding control.\n\nWhy now: MLB franchises have pursued growth capital to fund payroll competition and stadium infrastructure. The Yankees, despite record revenues, operate with significant debt from past acquisitions and stadium renovations. Apollo's deal lets them service that debt while maintaining operational flexibility.\n\nWhat changes: Little immediately. A minority equity partner at Yankee Global doesn't alter baseball operations or spending caps. Apollo gains board visibility and participates in future liquidity events, but the Steinbrenners retain voting control. The deal is validation that even the sport's marquee franchises need outside capital to compete at the spending levels modern free agency demands.",
+      "tweets": []
+    },
+    {
+      "category": "media",
+      "importance": 5,
+      "leadHeadline": "CBS Sports Has a Lot to Live Up to After Banner Year",
+      "leadSource": "Front Office Sports · 2h ago",
+      "leadUrl": "https://frontofficesports.com/cbs-sports-has-a-lot-to-live-up-to-after-banner-year/",
+      "summary": "CBS Sports will lean harder on NFC coverage this season after a strong 2025, facing pressure to maintain ratings and advertising momentum. The Paramount-owned network's NFL slate skews more toward NFC matchups.",
+      "article": "CBS Sports enters a new NFL season with raised expectations after posting strong viewership and ad revenue in 2025. The network has adjusted its slate to carry more NFC games, doubling down on a strategy that resonated with audiences last year.\n\nThe strategic shift: CBS has long held NFC Sunday afternoon rights, but this year's emphasis signals confidence in specific NFC markets and matchups. Paramount's sports division is under pressure to justify its media-rights investments and prove the NFL remains a reliable primetime and daytime draw as streaming budgets compete for sports content dollars.\n\nContext: CBS's NFL ratings last season benefited from high-profile NFC storylines, including playoff runs and division races that drove casual viewership. The network's bet is that doubling down on those markets—likely including Cowboys, Eagles, and 49ers heavy scheduling—will sustain momentum.\n\nThe challenge: Tony Romo's status remains unresolved (per separate CBS reporting), and any on-air talent instability could disrupt the network's broadcast consistency heading into the season.",
+      "tweets": []
+    },
+    {
+      "category": "media",
+      "importance": 5,
+      "leadHeadline": "No Mo Romo? Not So Fast, Says CBSSports",
+      "leadSource": "Sportico · 2h ago",
+      "leadUrl": "https://www.sportico.com/business/media/2026/tony-romo-fate-remains-uncertain-cbs-sports-nfl-tv-1234941620/",
+      "summary": "Tony Romo will remain sidelined pending CBS Sports leadership assessment, with network president David Berson addressing uncertainty about the NFL analyst's status during the company's annual media kickoff. No timeline for a return decision was stated.",
+      "article": "CBS Sports president and CEO David Berson announced at the network's annual NFL media kickoff that Tony Romo will stay sidelined while leadership continues assessing his status with the Tiffany network.\n\nWhat we know: Romo's absence is real, his return is not imminent, and CBS is still deliberating internally. Berson's public remarks suggest the network wanted to get ahead of speculation rather than let rumors dominate preseason coverage.\n\nWhat's unclear: Why Romo is sidelined, what triggered the assessment, and on what timeline CBS will make a final call. The vague language is intentional—networks rarely telegraph talent decisions before they're finalized.\n\nThe stakes: Romo is one of CBS's marquee NFL voices, known for sharp analysis and chemistry with James Brown. His prolonged absence creates a hole in the broadcast booth for a network that just spent heavily on NFL rights. If the sidelining is temporary, the network's public equivocation suggests it's negotiating something—contract, role, or terms. If it's permanent, CBS faces a talent reshuffling heading into a heavy NFL calendar.",
       "tweets": []
     },
     {
       "category": "leagues",
-      "importance": 6,
-      "leadHeadline": "Infantino's opponents developing new framework for running world football",
-      "leadSource": "The Guardian · 2h ago",
-      "leadUrl": "https://www.theguardian.com/football/2026/aug/11/gianni-infantino-opponents-world-football-fifa-uefa",
-      "summary": "UEFA, Concacaf, and AFC are jointly developing a new governance framework for world football to replace Infantino's current system, which they view as patronage-driven. FIFA has ignored calls for an independent review of its operations.",
-      "article": "UEFA, Concacaf, and the AFC are collaborating to produce an alternative governance framework for international football, positioning themselves against what they characterize as a patronage system established under Gianni Infantino's 10-year tenure as FIFA president.\n\nInfantino replaced Sepp Blatter in 2015 and has since consolidated control over FIFA's decision-making apparatus, drawing criticism from regional confederations over centralized authority and opaque governance. The three confederations have repeatedly called for an independent review of FIFA's operations and internal controls, requests that the governing body has declined.\n\nThe emerging framework would redistribute authority to regional confederations, establish independent oversight mechanisms, and create transparent accountability structures for competitive and commercial decisions. The move reflects long-standing tensions between FIFA and its continental bodies over distribution of World Cup revenues, sponsorship allocation, and control over the international match calendar.\n\nThis coalition represents a significant challenge to Infantino's re-election bid, which will be voted on at the next FIFA Congress. The effort is not a rebellion but a structural counterproposal, positioning the confederations as reform advocates rather than opponents. Success depends on mobilizing support from national associations and building momentum before the electoral vote. If the framework gains traction, it could force FIFA to negotiate governance changes or face a credibility crisis.",
-      "tweets": []
-    },
-    {
-      "category": "media",
-      "importance": 6,
-      "leadHeadline": "NBA sets Opening Day tripleheader; James returns to LA on Christmas",
-      "leadSource": "Sports Media Watch · 7h ago",
-      "leadUrl": "https://www.sportsmediawatch.com/2026/08/nba-schedule-opening-day-tripleheader-christmas-finals-rematch-lebron-la-return/",
-      "summary": "The NBA expanded its Opening Day schedule to a tripleheader in year two of its new media rights deal, and scheduled LeBron James to return to Los Angeles on Christmas Day. The moves reflect the league's intent to maximize primetime visibility under the new broadcast arrangement.",
-      "article": "The NBA announced an expanded Opening Day slate featuring a tripleheader as part of its second season under its new media rights agreement. The three-game window marks an escalation from prior Opening Day presentations and signals the league's strategy to maximize broadcast exposure and advertising inventory under the new deal structure.\n\nThe league also scheduled a Christmas Day game featuring LeBron James returning to Los Angeles, a marquee matchup designed to draw peak holiday viewership. Christmas Day games have historically been among the NBA's highest-rated broadcasts, and pairing James with a homecoming narrative targets both casual and hardcore audiences.\n\nThe moves align with the NBA's broader media strategy under its recent rights packages, which include expanded coverage on NBA TV, ESPN, ABC, and other partners. Opening Day has become a critical revenue event: primetime slots on opening night command premium advertising rates and set the tone for the season's broadcast narrative.\n\nThe tripleheader approach mirrors NFL strategy, which has long used multi-game opening windows to drive engagement and leverage competing networks' promotional power. By stacking three games in one night, the NBA maximizes total viewership while forcing viewers to choose between live streams and same-day recordings, increasing overall media consumption metrics.",
-      "tweets": []
-    },
-    {
-      "category": "contracts",
-      "importance": 5,
-      "leadHeadline": "Future of FedEx's PGA Tour Deal in Question As Playoffs Begin",
-      "leadSource": "Front Office Sports · 1h ago",
-      "leadUrl": "https://frontofficesports.com/future-of-fedexs-pga-tour-deal-in-question-as-playoffs-begin/",
-      "summary": "The PGA Tour's existing FedEx Cup sponsorship enters uncertain territory as the tour prepares to overhaul its competitive model in 2028. The current partnership may not align with the revamped format.",
-      "article": "The PGA Tour's partnership with FedEx as title sponsor of the FedEx Cup faces questions about continuity as the tour implements a major competitive restructuring set for 2028. FedEx has held the sponsorship since 2007, making it one of golf's longest-standing corporate partnerships at nearly two decades.\n\nThe tour's new competitive model, details of which are still being finalized, will alter the playoff structure, point allocations, and qualifying criteria that have defined the current system. Sponsorship agreements are typically tied to specific format elements, qualifying windows, and broadcast windows, meaning a structural overhaul often triggers renewal negotiations.\n\nFedEx has not publicly commented on its intentions beyond 2027. Sponsorship renewal discussions typically begin 18-24 months before expiration, placing the window squarely in the present moment as the current playoffs commence.\n\nThe FedEx Cup sponsorship has been valuable to both parties: FedEx gains year-round brand integration across the PGA Tour's broadcast footprint, while the tour receives eight-figure annual fees. However, the 2028 format change creates leverage for both sides. If the new structure delivers better ratings or sponsorship engagement, FedEx may renegotiate terms upward. Conversely, a weaker format could invite competitive bidding from new sponsors seeking to reset the partnership from its foundation.",
-      "tweets": []
-    },
-    {
-      "category": "media",
       "importance": 4,
-      "leadHeadline": "NFL Network, RedZone return to Xfinity",
-      "leadSource": "Sports Media Watch · 22h ago",
-      "leadUrl": "https://www.sportsmediawatch.com/2026/08/nfl-network-redzone-carriage-deal-comcast-xfinity-disney/",
-      "summary": "NFL Network and NFL RedZone returned to Comcast Xfinity subscribers after a three-month carriage dispute ended. The pact follows Disney's acquisition of both entities as part of ESPN's 10% equity stake deal with the league.",
-      "article": "NFL Network and NFL RedZone resumed availability on Comcast Xfinity after a three-month carriage lapse that began when the previous agreement expired. The return marks the end of a protracted negotiation between Comcast and Disney, which acquired ownership of both channels as part of a broader arrangement granting the NFL a 10% equity stake in ESPN.\n\nComcast had leveraged the expired agreement to negotiate revised carriage terms. The dispute highlighted ongoing friction between major cable distributors and sports media companies over channel packaging, per-subscriber fees, and carriage bundles. Comcast, the nation's largest cable provider, serves millions of NFL fans and represents a critical distribution point for the league's out-of-market content.\n\nThe resolution restores access for Xfinity customers during the preseason and into the regular season, eliminating a potential revenue pressure on Disney. Carriage disputes in sports broadcasting have become more frequent as linear TV subscribers decline and streaming gains share: distributors see sports content as essential but seek to limit per-subscriber fees, while media companies depend on carriage fees to offset declining advertising revenue.\n\nThe deal terms were not disclosed, but the fact that negotiations extended beyond the initial expiration suggests Comcast extracted concessions, potentially in the form of reduced fees or expanded digital rights packages for streaming platforms.",
+      "leadHeadline": "49ers ban 2 players after fistful of fights at Titans joint practice",
+      "leadSource": "NY Post Sports · 1h ago",
+      "leadUrl": "https://nypost.com/2026/08/11/sports/49ers-furiously-brawl-with-titans-several-times-in-joint-practice/",
+      "summary": "The 49ers suspended two players after a joint practice with Tennessee yielded four separate fights within the first six snaps, marking an unusual level of training-camp hostility. Both teams were involved in the escalations.",
+      "article": "A 49ers-Titans joint practice in Santa Clara on Tuesday spiraled into chaos early, with four separate altercations erupting in the opening six snaps. The 49ers responded by suspending two of their own players from practice.\n\nThe severity: Four fights in six snaps is unusual even for competitive joint sessions. These practices are designed to build competitive intensity, but that intensity typically stays within bounds. Multiple eruptions suggest either a breakdown in coaching communication or deliberate provocation from one or both teams.\n\nThe response: The 49ers took swift action by banning two players, signaling the team prioritized discipline over letting the incident slide. This is a public statement to the Titans, to the league, and to their own locker room that training-camp antics won't be tolerated.\n\nContext: Joint practices have become more common as teams seek live competition reps in preseason, but they're also flashpoints for injuries and ejections. The 49ers' hard line on their own players suggests they view the incidents as a coaching or character issue, not just rough play.",
       "tweets": []
     },
     {
       "category": "media",
       "importance": 3,
-      "leadHeadline": "NBA Takes a Page From NFL With Schedule Unveiling",
-      "leadSource": "Front Office Sports · 2h ago",
-      "leadUrl": "https://frontofficesports.com/nba-takes-a-page-from-nfl-with-schedule-unveiling/",
-      "summary": "The NBA launched a three-day schedule reveal event, borrowing from the NFL's multi-day strategy to maximize media coverage and fan engagement. The staggered approach allows the league to control the narrative arc across multiple broadcast windows.",
-      "article": "The NBA began a three-day schedule reveal cycle, mirroring the NFL's strategy of extending the announcement window to maximize broadcast inventory and media coverage. Rather than releasing the full schedule in a single event, the NBA is unveiling matchups in phases, keeping fans and media engaged across multiple days.\n\nThe strategy serves multiple purposes: it extends promotion of schedule announcements across primetime windows on ESPN and other partners, ensures repeated news cycles in sports media, and allows the league to highlight marquee matchups and historic rivalries with individual spotlights rather than burying them in a bulk release.\n\nThe NFL pioneered this approach in recent years, treating the draft and schedule announcement as extended media events rather than single-day affairs. The NFL's three-day draft window has become one of the sports calendar's most-watched events, regularly drawing millions of viewers across nights.\n\nThe NBA's adoption of the model reflects the league's intent to treat administrative announcements as content opportunities. A three-day schedule reveal generates more total broadcast minutes, more social-media moments, and more repeat viewership than a single two-hour announcement would.\n\nThis also allows the league to respond in real time to fan reaction: controversial scheduling decisions can be addressed or reframed during the reveal window, and surprising matchups can be re-promoted as additional details emerge across the three days.",
+      "leadHeadline": "NBA sets Opening Day tripleheader; James returns to LA on Christmas",
+      "leadSource": "Sports Media Watch · 11h ago",
+      "leadUrl": "https://www.sportsmediawatch.com/2026/08/nba-schedule-opening-day-tripleheader-christmas-finals-rematch-lebron-la-return/",
+      "summary": "The NBA is expanding its Opening Day slate with a tripleheader in the second year of its new media-rights deal, including a marquee Christmas matchup featuring LeBron James returning to face the Lakers.",
+      "article": "The NBA has built out its Opening Day schedule with a three-game slate, kicking off the second season under its newly restructured media-rights framework with Disney, Amazon Prime, and TNT.\n\nThe expansion reflects confidence in both the new distribution model and demand for premium basketball content early in the season. Opening Day triples are a tool to drive early-season viewership and demonstrate to broadcast partners that the investment in rights fees is paying off.\n\nThe Christmas fixture with LeBron James facing LA adds a layer of marquee appeal: whether James is with the Lakers or elsewhere, a holiday matchup builds narrative around his homecoming or rivalry. Christmas basketball has become a reliable draw for the NBA, with the league treating the day as a quasi-playoff showcase.\n\nContext: The NBA's media-rights ecosystem is still stabilizing after the 2023 mega-deals. Opening-day slates and holiday programming are the league's chance to prove the new model drives ratings and justifies the billion-dollar annual commitments from Disney, Amazon, and TNT.",
       "tweets": []
     }
   ],
@@ -2394,116 +2402,128 @@
   "deals": [
     {
       "type": "media_rights",
-      "parties": "Formula E ⇄ Disney / ESPN+",
+      "parties": "Formula E ⇄ Disney",
       "value_usd": null,
       "term_years": null,
       "league": "OTHER",
-      "headline": "Disney, Formula E strike global streaming deal across 140+ territories",
-      "storyIndex": 1,
-      "blurb": "Formula E content arrives on Disney+ and ESPN+ with global distribution, financial terms undisclosed.",
-      "capturedAt": "2026-08-11T19:55:53.278Z"
+      "headline": "Formula E Races to Stream on Disney+ Worldwide",
+      "storyIndex": 9,
+      "blurb": "Disney+ will carry Formula E races in 140+ territories; ESPN+ handles U.S. streaming via ESPN Select and Unlimited tiers.",
+      "capturedAt": "2026-08-11T23:31:18.420Z"
     },
     {
       "type": "acquisition",
-      "parties": "Apollo Global Management ⇄ New York Yankees",
+      "parties": "New York Yankees ⇄ Apollo Global Management",
       "value_usd": 2600000000,
       "term_years": null,
       "league": "MLB",
-      "headline": "Apollo injects $2.6B into Yankees, refinancing debt and taking minority stake",
-      "storyIndex": 9,
-      "blurb": "Apollo Global Management provides $2.6B in debt and equity to Yankees Global Enterprises, refinancing existing obligations.",
-      "capturedAt": "2026-08-11T19:55:53.279Z"
+      "headline": "New York Yankees, Apollo Agree on $2.6B Capital Injection",
+      "storyIndex": 17,
+      "blurb": "Apollo refinances Yankees debt and takes undisclosed minority equity stake in Yankee Global parent company.",
+      "capturedAt": "2026-08-11T23:31:18.420Z"
     }
   ],
   "ratings": [],
   "ticket_prices": [],
   "sidebar": [
     {
-      "headline": "Puka Nacua leaves Rams practice early, reason unclear",
-      "source": "NY Post Sports · just now",
-      "article": "Puka Nacua abruptly departed Los Angeles Rams practice on Tuesday, forcing the coaching staff to monitor the star receiver's status heading into the preseason. Sean McVay indicated that the team had not been briefed on the reason for the early exit, suggesting either a minor precautionary measure or a communication gap within the organization. Nacua is critical to the Rams' passing offense and has been slotted as a primary target in McVay's scheme. Any injury or availability concern creates immediate ripple effects for a depth chart already managing multiple veteran absences. The team will likely provide an update before the next practice window."
+      "headline": "Caitlin Clark's Suspension Lifted for Fever-Liberty WNBA Battle",
+      "source": "CBS Sports · 1h ago",
+      "article": "Caitlin Clark will suit up for Indiana's matchup against New York after her suspension for accumulated technicals was rescinded. The move clears the star guard to play in a clash between two high-powered offenses fighting for playoff position. Clark's return is significant for viewership and betting markets, as the Fever-Liberty game figures to attract casual and serious audiences. The WNBA has been more aggressive about technical-foul management this season, so the reversal suggests either a league review of the accumulation system or a determination that Clark's flagged technical was marginal. Either way, it's a boost for the Fever's title hopes."
     },
     {
-      "headline": "A.J. Brown dominates Sauce Gardner in training camp battle",
-      "source": "CBS Sports · just now",
-      "article": "Philadelphia Eagles receiver A.J. Brown won a contested one-on-one rep against Indianapolis Colts cornerback Sauce Gardner during joint training camp sessions, drawing a reaction that sparked a fiery response from Gardner. The cornerback later clarified the defensive mishap on social media, maintaining that isolated reps don't define matchup quality over a full season. Both players are among the elite at their respective positions and will face off multiple times during the regular season. Training camp battles between star receivers and cornerbacks often generate outsized attention but rarely predict game-day results."
+      "headline": "Dylan Cease Takes Mound as Blue Jays Face Boston Red Sox",
+      "source": "Sportsnet · 1h ago",
+      "article": "Toronto's ace Dylan Cease is scheduled to pitch as the Blue Jays pursue a second straight win against Boston. The matchup airs live on Sportsnet and Sportsnet+ starting at 7 p.m. ET / 4 p.m. PT. Cease has been a bright spot in Toronto's rotation this season, and the Red Sox represent a divisional test case for the Jays' playoff aspirations. A win extends momentum; a loss reopens questions about consistency against AL East rivals. The game carries standard late-April weight, with both teams still climbing out of early-season narratives."
     },
     {
-      "headline": "Blue Jays place Taillon on injured list as Okamoto returns",
-      "source": "Sportsnet · just now",
-      "article": "The Toronto Blue Jays placed starting pitcher Sonny Gray on the injured list before a contest against the Boston Red Sox, while infielder Cody Okamoto returned to the active roster. The transaction reflects ongoing roster management as the team navigates the stretch run. Gray's absence creates immediate pressure on the rotation to fill the void, potentially accelerating a call-up or expanded role for a depth starter. Okamoto's return provides infield depth and additional positional flexibility, addressing utility depth concerns that have plagued the roster in recent weeks."
+      "headline": "GB Claims European 100m One-Two in Birmingham",
+      "source": "BBC Sport · 1h ago",
+      "article": "Romell Glave and Jeremiah Azu delivered a historic result for British track and field, claiming the top two spots in the European 100-meter championship on home soil in Birmingham. The one-two finish is a rare achievement for a single nation and validates the depth in the British sprinting program. Both runners posted times competitive with global standards, signaling potential for Olympic qualification cycles ahead. The victory is also a domestic marketing win for British athletics, showcasing talent to a home crowd and attracting casual sports viewers to a discipline that often struggles for mainstream attention outside major championships."
     },
     {
-      "headline": "Infantino faces confederations' governance challenge",
-      "source": "The Guardian · 2h ago",
-      "article": "UEFA, Concacaf, and the AFC are jointly developing an alternative governance framework for international football, signaling a coordinated challenge to Gianni Infantino's administrative approach. The three confederations have long complained about centralized authority and opaque decision-making at FIFA headquarters. Their emerging framework would redistribute power to regional bodies and establish independent oversight mechanisms. The effort represents a structural counterproposal ahead of Infantino's next re-election cycle and could force significant FIFA reforms or trigger a credibility crisis if it gains traction among national associations."
+      "headline": "Desmond Bane on NIL, NBA Expansion, and Magic's Outlook",
+      "source": "Front Office Sports · 2h ago",
+      "article": "Memphis Grizzlies guard Desmond Bane weighed in on his new role at TCU, his beverage launch, and Orlando's championship window during an exclusive interview. Bane's comments touch on the evolving intersection of athlete business portfolios and on-court focus. His drink venture places him in a growing category of player-entrepreneurs who leverage personal brands alongside playing careers. On the Magic specifically, Bane offered perspective on a team still considered a rising contender despite injury questions and early-season inconsistency. The interview underscores how modern NBA stars juggle multiple revenue streams while maintaining elite performance."
     },
     {
-      "headline": "Jaissle brings 'emotional' touchline style to Newcastle",
-      "source": "BBC Sport · 2h ago",
-      "article": "Newcastle United's new head coach Matthias Jaissle acknowledged his emotionally expressive touchline demeanor in his unveiling news conference, suggesting that Premier League referees may have different tolerance thresholds for his animated coaching style. Jaissle has a reputation for passionate technical direction but maintained that his approach reflects commitment rather than poor conduct. Newcastle's recent managerial transitions have emphasized stability and professionalism, making Jaissle's style a notable cultural marker for a club trying to establish consistent identity under new ownership."
+      "headline": "Cooper Flagg 1-of-1 Rookie Card Could Fetch Over $1M",
+      "source": "NY Post Sports · 1h ago",
+      "article": "A one-of-one Cooper Flagg Topps rookie debut patch autograph card signed during Fanatics Fest in July is valued at potentially exceeding $1 million. The card's rarity and Flagg's trajectory as a freshman phenom have driven collector interest to historic levels. Sports card markets for emerging stars have exploded as institutional buyers and high-net-worth individuals treat rare cards as alternative assets. Flagg's card represents the intersection of nostalgia collecting, athlete celebrity, and speculative investment. If it sells at estimated value, it would rank among the priciest modern basketball cards ever transacted."
     },
     {
-      "headline": "NASCAR tracking fuel costs as teams feel petroleum price pressure",
-      "source": "Sportico · 6h ago",
-      "article": "NASCAR COO Ben Kennedy revealed that the sport is monitoring elevated petroleum prices on a weekly basis, acknowledging that fuel costs create significant impact on team operations. The biggest expense pressure isn't race fuel consumption, which teams manage through strategic pit stops and tank design, but rather the logistical fuel required to transport equipment, crews, and hospitality across multiple racing weekends. Fuel surcharges at hospitality vendors and transportation companies have compressed team margins, particularly for mid-tier organizations with tighter operating budgets. Kennedy indicated that NASCAR is tracking the issue but has not announced cost-mitigation measures."
+      "headline": "Zverev and Fritz Lament Tight North American Tennis Calendar",
+      "source": "Front Office Sports · just now",
+      "article": "ATP stars Alexander Zverev and Taylor Fritz raised concerns about the compressed North American hard-court schedule, with Zverev proposing a return to one-week tournaments instead of the current back-to-back format. The tight calendar leaves players vulnerable to injury and fatigue heading into the US Open. Zverev's suggestion would require ATP governance changes and sponsor coordination, but it reflects growing player sentiment about scheduling density. One-week tournaments would reduce revenue concentration but improve player health and on-court quality. The debate mirrors broader tennis governance tensions between player welfare and tour economics."
     }
   ],
   "poll": {
-    "question": "Who should govern world football if FIFA's confederations successfully implement a new framework?",
+    "question": "Will Tony Romo return to CBS this NFL season?",
     "options": [
-      "A distributed model with strong regional confederation power",
-      "FIFA with mandatory independent oversight and transparency",
-      "A hybrid system balancing confederation autonomy and FIFA authority",
-      "A new global body replacing FIFA entirely"
+      "Yes, within the next month",
+      "Yes, but not until midseason",
+      "No, CBS will move on permanently",
+      "Unclear—CBS hasn't decided yet"
     ]
   },
   "predictions": [
     {
-      "statement": "Formula E's Disney+ deal will generate at least one primetime broadcast on ABC or ESPN within 18 months, capitalizing on Disney's ability to promote the series across owned-and-operated media.",
-      "probability": 72,
-      "rationale": "Disney rarely acquires global sports rights without planning broadcast visibility on its linear channels. Formula E's appeal to younger, tech-focused audiences aligns with ESPN's demographic targeting. The deal's silence on financial terms suggests potentially significant Disney confidence in the property's revenue potential."
+      "statement": "Infantino faces a formal no-confidence vote or governance challenge from UEFA/Concacaf/AFC within 18 months.",
+      "probability": 62,
+      "rationale": "Three continental confederations coordinating on an alternative framework is not a negotiating tactic. It's a power play. Infantino has survived isolated criticism, but unified bloc action at this level usually escalates into formal structural challenges or ultimatums. The Vatican statement was the warning; this is the mobilization."
     },
     {
-      "statement": "Apollo's $2.6B Yankees investment will enable the franchise to exceed the MLB luxury-tax threshold by at least $50M in 2027, signaling aggressive roster-building intent.",
-      "probability": 58,
-      "rationale": "The capital injection provides balance-sheet flexibility that historically prompts ownership to invest in competitive upgrades. However, the Steinbrenner family's historical restraint and the league's tax structure may prevent aggressive spending despite new liquidity."
+      "statement": "Formula E's Disney+ deal drives measurable U.S. viewership growth year-over-year, helping justify the series' sustainability claims.",
+      "probability": 71,
+      "rationale": "Disney's promotional machine and ESPN+ integration gives FE access to audiences it never had on cable. Even modest upticks (say, 20-30% viewer increases) would be a win for a series that's struggled for mainstream U.S. carriage. The barriers to finding FE content on Disney are now near-zero."
     },
     {
-      "statement": "FedEx will extend its PGA Tour sponsorship beyond 2027, but at revised terms reflecting the 2028 competitive restructuring.",
-      "probability": 65,
-      "rationale": "FedEx has invested heavily in the partnership's equity and benefits from consistent brand integration. However, format changes create renegotiation opportunities, and competitive bidding could emerge if the new structure proves attractive to alternative sponsors."
+      "statement": "Olivia Moultrie's season-ending ACL injury costs USMNT/USWNT a meaningful number of midfielder appearances in 2025 tournaments.",
+      "probability": 84,
+      "rationale": "Moultrie is one of the youngest, highest-ceiling USMNT midfielders and had posted five goals, five assists this season for Portland. Season-ending injuries at age 20 almost always reshape national team depth charts for the calendar year. The Concacaf W Championship is the next major USMNT tournament and Moultrie is likely to miss it."
     },
     {
-      "statement": "UEFA, Concacaf, and AFC will formally present their alternative FIFA governance framework to FIFA Congress delegates before Infantino's next election, forcing FIFA to either negotiate reforms or defend current structures publicly.",
-      "probability": 76,
-      "rationale": "The three confederations represent the majority of world football's national associations and commercial value. A formal presentation would amplify pressure on delegates and shift the election narrative from re-election to referendum on governance. FIFA's refusal to commission independent reviews has created political vulnerability."
+      "statement": "CBS and Tony Romo resolve his status (return or replacement) before the first NFL Sunday game airs.",
+      "probability": 54,
+      "rationale": "Berson's public comment suggests a decision is near. Networks hate broadcast booth uncertainty heading into the season. However, if Romo and CBS are negotiating terms or a severance, the announcement could slip past preseason and into Week 1 coverage. Expect clarity within 2-3 weeks."
     }
   ],
   "injuries": [
     {
-      "player": "Puka Nacua",
-      "team": "Los Angeles Rams",
-      "league": "NFL",
-      "position": "WR",
-      "status": "DAY_TO_DAY",
-      "injury": "Unknown (left practice early)",
-      "timeline": null,
-      "source": "NY Post Sports",
-      "impact": "Rams WR1 availability uncertain; impacts passing-game efficiency and red-zone targeting heading into preseason contests.",
-      "storyIndex": 10
+      "player": "Olivia Moultrie",
+      "team": "Portland Thorns",
+      "league": "SOCCER",
+      "position": "MF",
+      "status": "OUT",
+      "injury": "ACL injury, right knee",
+      "timeline": "Season-ending",
+      "source": "The Guardian",
+      "impact": "20-year-old midfielder with five goals and five assists this season out for remainder of campaign; likely to miss Concacaf W Championship.",
+      "storyIndex": 999
     },
     {
-      "player": "Sonny Gray",
+      "player": "Trey Yesavage",
       "team": "Toronto Blue Jays",
       "league": "MLB",
-      "position": "SP",
-      "status": "IR",
-      "injury": "Unknown",
-      "timeline": null,
+      "position": "C",
+      "status": "RETURNING",
+      "injury": "Knee surgery",
+      "timeline": "Could return this season",
       "source": "Sportsnet",
-      "impact": "Starting rotation loses a core member; Blue Jays forced to accelerate depth-starter call-up or extend bullpen usage during stretch-run contests.",
-      "storyIndex": 6
+      "impact": "Catcher underwent procedure but rehabilitation timeline suggests potential mid-season availability for playoff push.",
+      "storyIndex": 14
+    },
+    {
+      "player": "Belinda Bencic",
+      "team": "N/A",
+      "league": "TENNIS",
+      "position": "",
+      "status": "OUT",
+      "injury": "Undisclosed injury",
+      "timeline": "Withdrew from NBO semifinals",
+      "source": "Sportsnet",
+      "impact": "Withdrew from Coco Gauff match, advancing opponent to semifinals; severity and nature of injury not specified.",
+      "storyIndex": 999
     }
   ],
   "picks": [
@@ -6151,29 +6171,29 @@
       "_pendingGrade": true
     }
   ],
-  "updatedAt": "2026-08-11T14:32:00Z",
+  "updatedAt": "2025-04-23T14:32:00Z",
   "highlights": [
     {
       "league": "NBA",
       "title": "Opening night Western Conference Finals rematch!",
       "videoId": "VGHm5rkpXII",
       "thumbnail": "https://img.youtube.com/vi/VGHm5rkpXII/mqdefault.jpg",
-      "timeAgo": "3h ago",
+      "timeAgo": "7h ago",
       "isFallback": false
     },
     {
       "league": "NFL",
-      "title": "Draft Justin Jefferson. Period. 🔥 #fantasyfootball #nfl",
-      "videoId": "MUlkDyZud_o",
-      "thumbnail": "https://img.youtube.com/vi/MUlkDyZud_o/mqdefault.jpg",
-      "timeAgo": "1h ago",
+      "title": "Alec Pierce &amp; Daniel Jones staying healthy could shape a FASCINATING season for Colts | NFL Live",
+      "videoId": "YztsriWk8r0",
+      "thumbnail": "https://img.youtube.com/vi/YztsriWk8r0/mqdefault.jpg",
+      "timeAgo": "2h ago",
       "isFallback": false
     },
     {
       "league": "MLB",
-      "title": "This kid showed up to the ballpark in his Ninja Turtle costume ready to cause CHAOS 🤣",
-      "videoId": "8w5jqCkr4-U",
-      "thumbnail": "https://img.youtube.com/vi/8w5jqCkr4-U/mqdefault.jpg",
+      "title": "Luis Arraez hits the ground and makes sure to get some push-ups in 😆",
+      "videoId": "rRC2rkOAomw",
+      "thumbnail": "https://img.youtube.com/vi/rRC2rkOAomw/mqdefault.jpg",
       "timeAgo": "1h ago",
       "isFallback": false
     },
@@ -6182,7 +6202,7 @@
       "title": "Meet the 2026-27 Edmonton Oilers - Every Goal From Last Season",
       "videoId": "t450bKqr4U0",
       "thumbnail": "https://img.youtube.com/vi/t450bKqr4U0/mqdefault.jpg",
-      "timeAgo": "4h ago",
+      "timeAgo": "8h ago",
       "isFallback": false
     },
     {
@@ -6190,19 +6210,83 @@
       "title": "Western Conference Player of the Week- Kayla McBride",
       "videoId": "Ndl6KM_2AtA",
       "thumbnail": "https://img.youtube.com/vi/Ndl6KM_2AtA/mqdefault.jpg",
-      "timeAgo": "3h ago",
+      "timeAgo": "7h ago",
       "isFallback": false
     },
     {
       "league": "SOCCER",
-      "title": "Neymar’s prank may have went too far 😂 (via neymarjr/IG)",
-      "videoId": "qqfeVSCv9v4",
-      "thumbnail": "https://img.youtube.com/vi/qqfeVSCv9v4/mqdefault.jpg",
-      "timeAgo": "2h ago",
+      "title": "Start, Bench or Drop featuring legendary French forwards 👀 | ESPN FC Extra Time",
+      "videoId": "Qb9MUJZ3bPE",
+      "thumbnail": "https://img.youtube.com/vi/Qb9MUJZ3bPE/mqdefault.jpg",
+      "timeAgo": "1h ago",
       "isFallback": false
     }
   ],
   "reels": [
+    {
+      "league": "SOCCER",
+      "title": "Start, Bench or Drop featuring legendary French forwards 👀 | ESPN FC Extra Time",
+      "videoId": "Qb9MUJZ3bPE",
+      "author": "ESPN FC",
+      "pubDate": "2026-08-11T22:40:22+00:00",
+      "link": "https://www.youtube.com/watch?v=Qb9MUJZ3bPE"
+    },
+    {
+      "league": "MLB",
+      "title": "Luis Arraez hits the ground and makes sure to get some push-ups in 😆",
+      "videoId": "rRC2rkOAomw",
+      "author": "MLB",
+      "pubDate": "2026-08-11T22:27:58+00:00",
+      "link": "https://www.youtube.com/watch?v=rRC2rkOAomw"
+    },
+    {
+      "league": "SOCCER",
+      "title": "Reaction to Iraola's comments on Liverpool's energy 🗣️ Where will they finish this season? | ESPN FC",
+      "videoId": "DMJ4lZpZYVc",
+      "author": "ESPN FC",
+      "pubDate": "2026-08-11T22:16:22+00:00",
+      "link": "https://www.youtube.com/watch?v=DMJ4lZpZYVc"
+    },
+    {
+      "league": "SOCCER",
+      "title": "Barcelona REJECTS PSG's offer for Ferran Torres ❌ + Their pursuit of signing Rodri 👀 | ESPN FC",
+      "videoId": "9NzyqWMCeew",
+      "author": "ESPN FC",
+      "pubDate": "2026-08-11T21:51:53+00:00",
+      "link": "https://www.youtube.com/watch?v=9NzyqWMCeew"
+    },
+    {
+      "league": "NFL",
+      "title": "Alec Pierce &amp; Daniel Jones staying healthy could shape a FASCINATING season for Colts | NFL Live",
+      "videoId": "YztsriWk8r0",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-08-11T21:50:44+00:00",
+      "link": "https://www.youtube.com/watch?v=YztsriWk8r0"
+    },
+    {
+      "league": "NFL",
+      "title": "Nick Caley's WILD path to the Patriots",
+      "videoId": "aq2aHX-t1ws",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-08-11T21:00:35+00:00",
+      "link": "https://www.youtube.com/watch?v=aq2aHX-t1ws"
+    },
+    {
+      "league": "NFL",
+      "title": "Christian McCaffrey's Fantasy Outlook: Pros and Cons 🤔",
+      "videoId": "yiP9YDR57VI",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-08-11T21:00:19+00:00",
+      "link": "https://www.youtube.com/watch?v=yiP9YDR57VI"
+    },
+    {
+      "league": "MLB",
+      "title": "Jose Cuas fools Max Muncy and the crowd with the pump fake 😅",
+      "videoId": "-gmheN4a-cw",
+      "author": "MLB",
+      "pubDate": "2026-08-11T20:00:34+00:00",
+      "link": "https://www.youtube.com/watch?v=-gmheN4a-cw"
+    },
     {
       "league": "NFL",
       "title": "Draft Justin Jefferson. Period. 🔥 #fantasyfootball #nfl",
@@ -6237,7 +6321,7 @@
     },
     {
       "league": "MLB",
-      "title": "Top 10 MASTERPIECE Pitching Performances in Baseball History! | MLB 250 For 250",
+      "title": "Top 10 Most DOMINANT Pitching Performances in Baseball History! | MLB 250 For 250",
       "videoId": "cOdE4G7XGHE",
       "author": "MLB",
       "pubDate": "2026-08-11T18:44:18+00:00",
@@ -6268,36 +6352,12 @@
       "link": "https://www.youtube.com/watch?v=xmqviGrs21g"
     },
     {
-      "league": "NFL",
-      "title": "Trent McDuffie on if Aaron Donald returns: Cheesin’ just thinking about it | The Rich Eisen Show",
-      "videoId": "y-TLarsTsXA",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-08-11T17:59:41+00:00",
-      "link": "https://www.youtube.com/watch?v=y-TLarsTsXA"
-    },
-    {
       "league": "SOCCER",
       "title": "Neymar’s prank may have went too far 😂 (via neymarjr/IG)",
       "videoId": "qqfeVSCv9v4",
       "author": "ESPN FC",
       "pubDate": "2026-08-11T17:45:19+00:00",
       "link": "https://www.youtube.com/watch?v=qqfeVSCv9v4"
-    },
-    {
-      "league": "NFL",
-      "title": "What does Kyler Murray being named Vikings QB1 mean for J.J. McCarthy? 🤔 | The Pat McAfee Show",
-      "videoId": "7I6VdzqyWFs",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-08-11T17:26:14+00:00",
-      "link": "https://www.youtube.com/watch?v=7I6VdzqyWFs"
-    },
-    {
-      "league": "NFL",
-      "title": "All Access, Limited Platform: The Super Bowl Pool Reporter | The Biggest Game",
-      "videoId": "RFxJo6yNnXE",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-08-11T17:03:39+00:00",
-      "link": "https://www.youtube.com/watch?v=RFxJo6yNnXE"
     },
     {
       "league": "SOCCER",
@@ -6396,36 +6456,12 @@
       "link": "https://www.youtube.com/watch?v=DVJ9Jvbh1q4"
     },
     {
-      "league": "SOCCER",
-      "title": "Gianni Infantino got TOO GREEDY! - Herculez Gomez on push for FIFA president's resignation | Get Up",
-      "videoId": "jFQ_ZvF3UUg",
-      "author": "ESPN FC",
-      "pubDate": "2026-08-11T14:17:35+00:00",
-      "link": "https://www.youtube.com/watch?v=jFQ_ZvF3UUg"
-    },
-    {
       "league": "MLB",
       "title": "2026 Nike RBI World Series: Softball",
       "videoId": "gDv5xF2AA2E",
       "author": "MLB",
       "pubDate": "2026-08-11T14:01:49+00:00",
       "link": "https://www.youtube.com/watch?v=gDv5xF2AA2E"
-    },
-    {
-      "league": "MLB",
-      "title": "Breaking down an EPIC night of action in the NL Wild Card race! | MLB Daily Recap (Morning Lineup)",
-      "videoId": "jtyYmqUpkkg",
-      "author": "MLB",
-      "pubDate": "2026-08-11T13:00:35+00:00",
-      "link": "https://www.youtube.com/watch?v=jtyYmqUpkkg"
-    },
-    {
-      "league": "MLB",
-      "title": "Jackson Merrill, Derek Hill, and MORE! (Who had the Top MLB Play of 8/10/26?)",
-      "videoId": "oU0TY4n69LU",
-      "author": "MLB",
-      "pubDate": "2026-08-11T11:00:16+00:00",
-      "link": "https://www.youtube.com/watch?v=oU0TY4n69LU"
     },
     {
       "league": "WNBA",
@@ -6442,22 +6478,6 @@
       "author": "WNBA",
       "pubDate": "2026-08-11T03:12:13+00:00",
       "link": "https://www.youtube.com/watch?v=XEfIxrmyzgk"
-    },
-    {
-      "league": "SOCCER",
-      "title": "Scary hours for the league 😈 (via k.mbappe/IG)",
-      "videoId": "QomuIaqScro",
-      "author": "ESPN FC",
-      "pubDate": "2026-08-11T01:35:40+00:00",
-      "link": "https://www.youtube.com/watch?v=QomuIaqScro"
-    },
-    {
-      "league": "SOCCER",
-      "title": "🔥🔥 (via mancity/TT)",
-      "videoId": "7XbVGn5mjTs",
-      "author": "ESPN FC",
-      "pubDate": "2026-08-11T01:15:09+00:00",
-      "link": "https://www.youtube.com/watch?v=7XbVGn5mjTs"
     },
     {
       "league": "NHL",
