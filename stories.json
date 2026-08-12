@@ -1,81 +1,73 @@
 {
   "clusters": [
     {
-      "category": "labor",
+      "category": "media",
+      "importance": 8,
+      "leadHeadline": "CBS elevates Ross Tucker to #2 NFL team during Romo absence",
+      "leadSource": "Sports Media Watch · 1h ago",
+      "leadUrl": "https://www.sportsmediawatch.com/2026/08/cbs-promotes-ross-tucker-fill-in-nfl-jj-watt-after-tony-romo-arrest/",
+      "summary": "CBS elevated Ross Tucker from its sixth booth to the No. 2 team with Ian Eagle, a cascade effect from J.J. Watt replacing Tony Romo atop the lead broadcast team following Romo's July 23 OWI arrest in Wisconsin.",
+      "article": "<cite index=\"1-1\">CBS announced Tuesday that former NFL lineman Ross Tucker will take the spot alongside Ian Eagle on the network's No. 2 booth</cite>, jumping him <cite index=\"1-3,1-4\">from the No. 6 broadcast team</cite>. The move reshuffles the network's booth lineup after <cite index=\"3-10,3-11\">J.J. Watt, who had been working as the color analyst on the No. 2 crew with Ian Eagle, has been elevated to the lead booth alongside Jim Nantz and Tracy Wolfson</cite>.\n\nThe catalyst: <cite index=\"6-7\">Tony Romo, the network's lead NFL analyst, is on leave following his arrest last month in Wisconsin on suspicion of operating a vehicle while under the influence</cite>. <cite index=\"6-19\">Romo was arrested July 23</cite>. \n\n<cite index=\"6-6,6-8\">CBS Sports president David Berson said Tuesday he does not have a timeline for a decision about Romo's future, stating \"It's an evolving situation, and therefore we're still assessing.\"</cite>\n\n<cite index=\"1-2\">Tucker, who played pro football for the better part of a decade, has been calling college and pro games for CBS since 2018</cite>. <cite index=\"2-1\">Eagle and Tucker have done many Thursday Night Football broadcasts together on Westwood One</cite>. <cite index=\"2-10\">Former Seattle Seahawks and Indianapolis Colts running back Robert Turbin has been promoted to the sixth broadcast booth, replacing Tucker</cite>.",
+      "tweets": []
+    },
+    {
+      "category": "revenue",
       "importance": 7,
-      "leadHeadline": "Infantino's opponents developing new framework for running world football",
-      "leadSource": "The Guardian · 6h ago",
-      "leadUrl": "https://www.theguardian.com/football/2026/aug/11/gianni-infantino-opponents-world-football-fifa-uefa",
-      "summary": "UEFA, Concacaf and the AFC are in preliminary talks to organize rival competitions and develop governance frameworks, pressuring Infantino ahead of March 2027 FIFA elections. The standoff stems from FIFA's failed attempt to sell World Cup stakes to private investors.",
-      "article": "<cite index=\"21-3\">Following FIFA's controversial proposal to sell commercial shares of the World Cup</cite>, three continental confederations have begun preliminary work on an alternative governance structure for world football. <cite index=\"4-6\">UEFA, alongside AFC and CONCACAF, wrote that the failed process represented a \"profound failure of judgment\" and accused Infantino of acting like someone who \"believes the game is answerable to him.\"</cite> <cite index=\"4-7\">The three confederations have started initial talks to organize competitions without FIFA</cite>, though <cite index=\"20-1\">those involved have been empowered to ask existential questions such as what FIFA's precise role should be, how it should be structured and what governance model should be adopted.</cite> <cite index=\"20-2\">Financial distribution among member associations is also a key consideration, particularly with an eye on how best to deploy funds from FIFA's estimated $5bn reserves.</cite> <cite index=\"4-8\">The three confederations will give Infantino the option to step down \"with dignity\" without seeking re-election in March 2027.</cite> CAF and South American confederation CONMEBOL have backed Infantino, widening football's split. <cite index=\"20-3\">If Infantino refuses to engage then the new framework is likely to be adopted by a challenger at the presidential election next year, or could even serve as a template for a breakaway organisation.</cite>",
-      "tweets": [
-        {
-          "url": "https://twitter.com/FutboolFichajes/status/2086742822535733542",
-          "html": "<blockquote class=\"twitter-tweet\" data-dnt=\"true\" data-theme=\"dark\"><p>🚨 AHORA | Dura carta abierta de UEFA, AFC y CONCACAF contra la FIFA y su presidente, Gianni Infantino. \n\n❌ Denuncian los manejos de FIFA por \"apropiarse del fútbol\" y reclaman transparencia. https://t.co/NMX9EtYwmr</p>&mdash; Fútbol Fichajes (@FutboolFichajes) <a href=\"https://twitter.com/FutboolFichajes/status/2086742822535733542\">August 10, 2026</a></blockquote>",
-          "author_name": "Fútbol Fichajes",
-          "author_url": "https://twitter.com/FutboolFichajes",
-          "dateMs": 1786353233000
-        }
-      ]
-    },
-    {
-      "category": "revenue",
-      "importance": 6,
-      "leadHeadline": "Formula E Races to Stream on Disney+Worldwide",
-      "leadSource": "Sportico · 8h ago",
-      "leadUrl": "https://www.sportico.com/leagues/motorsports/2026/formula-e-disney-espn-streaming-cbs-1234941567/",
-      "summary": "Disney+ will carry Formula E racing in over 140 territories globally, with ESPN+ handling U.S. streaming under its ESPN Select and ESPN Unlimited tiers. Financial terms were not disclosed.",
-      "article": "Formula E has secured a global streaming home with Disney, expanding the all-electric racing series' distribution across more than 140 territories worldwide.\n\nDisney+ will carry FE events globally, while U.S. viewers can access races through ESPN+ as part of both the ESPN Select and ESPN Unlimited subscription packages. The deal represents a significant reach expansion for a racing series seeking to build audiences beyond traditional motor-sport markets.\n\nThe timing matters: streaming-only or streaming-first sports deals have become the default for emerging leagues and niche categories in the media-rights marketplace. Formula E, founded in 2014, has struggled for consistent mainstream TV carriage in the U.S. This Disney partnership solves that immediate problem and validates the series to sponsors and venues.\n\nFinancial terms were not disclosed, a common practice for streaming deals where rights holders and platforms negotiate multi-year packages with escalators tied to viewership thresholds or subscriber growth. For Formula E, landing Disney's global infrastructure is as valuable as the upfront money: it means racing content reaches potential fans during promotional windows tied to Disney's broader sports and entertainment push.",
-      "tweets": []
-    },
-    {
-      "category": "revenue",
-      "importance": 6,
       "leadHeadline": "New York Yankees, Apollo Agree on $2.6B Capital Injection, Investment",
-      "leadSource": "Sportico · 9h ago",
+      "leadSource": "Sportico · 14h ago",
       "leadUrl": "https://www.sportico.com/business/finance/2026/new-york-yankees-apollo-capital-injection-1234941556/",
-      "summary": "The Yankees received a $2.6 billion financing package from Apollo Global Management combining debt refinance and equity in the parent company. Apollo's minority stake size was not disclosed.",
-      "article": "The Yankees closed a $2.6 billion capital injection from Apollo Global Management, mixing debt refinancing and an undisclosed equity stake in Yankee Global Enterprises, the parent holding company.\n\nThe structure: Apollo will refinance existing Yankees debt while taking a minority ownership position. This is the second major outside capital infusion in recent years (Goldman Sachs invested in 2023) and signals the Steinbrenner family's continued appetite for leveraging the franchise's balance sheet without ceding control.\n\nWhy now: MLB franchises have pursued growth capital to fund payroll competition and stadium infrastructure. The Yankees, despite record revenues, operate with significant debt from past acquisitions and stadium renovations. Apollo's deal lets them service that debt while maintaining operational flexibility.\n\nWhat changes: Little immediately. A minority equity partner at Yankee Global doesn't alter baseball operations or spending caps. Apollo gains board visibility and participates in future liquidity events, but the Steinbrenners retain voting control. The deal is validation that even the sport's marquee franchises need outside capital to compete at the spending levels modern free agency demands.",
+      "summary": "The New York Yankees secured a $2.6 billion financing deal from Apollo Global Management, combining debt refinancing and a minority equity stake in the franchise parent company.",
+      "article": "The New York Yankees announced a $2.6 billion capital injection from Apollo Global Management on Tuesday, restructuring the franchise's financing with a combination of debt refinancing and minority equity.\n\nApollo will refinance existing debt while taking an undisclosed minority stake in Yankee Global Enterprises, the parent company of the storied MLB franchise. The deal marks a significant move in the Yankees' ownership structure, though the exact equity percentage Apollo will hold was not disclosed.\n\nThe timing coincides with the Yankees sitting six games back of first-place Tampa Bay in the AL East as of Tuesday. Ryan Weathers delivered a fourth straight strong start for the rotation, allowing the team to mount a comeback comeback in the bottom of the seventh against the Mariners, scoring four runs to narrow the deficit.\n\nAppollo's investment provides the Yankees with financial flexibility heading into what figures to be an active offseason. The deal reflects broader trends in sports financing, where institutional investment firms increasingly take positions in major sports franchises. For the Yankees, the capital infusion offers runway for roster additions and operational investments while maintaining primary ownership control. The agreement underscores New York's continued appeal to institutional capital despite the franchise's recent October exits.",
       "tweets": []
     },
     {
       "category": "media",
-      "importance": 5,
-      "leadHeadline": "CBS Sports Has a Lot to Live Up to After Banner Year",
-      "leadSource": "Front Office Sports · 2h ago",
-      "leadUrl": "https://frontofficesports.com/cbs-sports-has-a-lot-to-live-up-to-after-banner-year/",
-      "summary": "CBS Sports will lean harder on NFC coverage this season after a strong 2025, facing pressure to maintain ratings and advertising momentum. The Paramount-owned network's NFL slate skews more toward NFC matchups.",
-      "article": "CBS Sports enters a new NFL season with raised expectations after posting strong viewership and ad revenue in 2025. The network has adjusted its slate to carry more NFC games, doubling down on a strategy that resonated with audiences last year.\n\nThe strategic shift: CBS has long held NFC Sunday afternoon rights, but this year's emphasis signals confidence in specific NFC markets and matchups. Paramount's sports division is under pressure to justify its media-rights investments and prove the NFL remains a reliable primetime and daytime draw as streaming budgets compete for sports content dollars.\n\nContext: CBS's NFL ratings last season benefited from high-profile NFC storylines, including playoff runs and division races that drove casual viewership. The network's bet is that doubling down on those markets—likely including Cowboys, Eagles, and 49ers heavy scheduling—will sustain momentum.\n\nThe challenge: Tony Romo's status remains unresolved (per separate CBS reporting), and any on-air talent instability could disrupt the network's broadcast consistency heading into the season.",
-      "tweets": []
-    },
-    {
-      "category": "media",
-      "importance": 5,
-      "leadHeadline": "No Mo Romo? Not So Fast, Says CBSSports",
-      "leadSource": "Sportico · 2h ago",
-      "leadUrl": "https://www.sportico.com/business/media/2026/tony-romo-fate-remains-uncertain-cbs-sports-nfl-tv-1234941620/",
-      "summary": "Tony Romo will remain sidelined pending CBS Sports leadership assessment, with network president David Berson addressing uncertainty about the NFL analyst's status during the company's annual media kickoff. No timeline for a return decision was stated.",
-      "article": "CBS Sports president and CEO David Berson announced at the network's annual NFL media kickoff that Tony Romo will stay sidelined while leadership continues assessing his status with the Tiffany network.\n\nWhat we know: Romo's absence is real, his return is not imminent, and CBS is still deliberating internally. Berson's public remarks suggest the network wanted to get ahead of speculation rather than let rumors dominate preseason coverage.\n\nWhat's unclear: Why Romo is sidelined, what triggered the assessment, and on what timeline CBS will make a final call. The vague language is intentional—networks rarely telegraph talent decisions before they're finalized.\n\nThe stakes: Romo is one of CBS's marquee NFL voices, known for sharp analysis and chemistry with James Brown. His prolonged absence creates a hole in the broadcast booth for a network that just spent heavily on NFL rights. If the sidelining is temporary, the network's public equivocation suggests it's negotiating something—contract, role, or terms. If it's permanent, CBS faces a talent reshuffling heading into a heavy NFL calendar.",
+      "importance": 7,
+      "leadHeadline": "Formula E Races to Stream on Disney+ Worldwide",
+      "leadSource": "Sportico · 13h ago",
+      "leadUrl": "https://www.sportico.com/leagues/motorsports/2026/formula-e-disney-espn-streaming-cbs-1234941567/",
+      "summary": "Disney and Formula E inked a global streaming deal bringing all-electric racing to Disney+ in over 140 territories plus ESPN+ in the U.S., with financial terms undisclosed.",
+      "article": "Disney and Formula E announced a worldwide streaming partnership Tuesday that will distribute all-electric racing content to Disney+ in more than 140 territories, including the United States, with additional domestic availability on ESPN+ through ESPN Select and ESPN Unlimited subscriptions.\n\nThe deal represents a significant expansion of Formula E's media footprint, pairing the sport with Disney's vast streaming infrastructure. Formula E events will reach Disney's global subscriber base, marking the racing series' entry into one of the world's largest streaming platforms.\n\nFinancial terms of the agreement were not disclosed, though the scope of the distribution (140-plus territories globally) suggests a substantial commitment from Disney to the series. The partnership also reinforces ESPN's role as a key aggregator of premium sports content across Disney's portfolio.\n\nFor Formula E, the Disney+ deal follows a period of strategic media repositioning aimed at broadening mainstream audience reach. The sport has been working to expand beyond traditional racing enthusiast demographics. This placement on Disney's family-oriented streaming service, alongside the ESPN+ option for deeper engagement, creates multiple entry points for viewers at different commitment levels.\n\nThe timing places Formula E content directly into Disney's sports-and-entertainment ecosystem during a period when the company has been actively bidding for premium sports rights packages. The undisclosed economics make the true value of the deal difficult to assess, but the territorial scope indicates Disney sees Formula E as a content asset worth distributing globally.",
       "tweets": []
     },
     {
       "category": "leagues",
-      "importance": 4,
-      "leadHeadline": "49ers ban 2 players after fistful of fights at Titans joint practice",
-      "leadSource": "NY Post Sports · 1h ago",
-      "leadUrl": "https://nypost.com/2026/08/11/sports/49ers-furiously-brawl-with-titans-several-times-in-joint-practice/",
-      "summary": "The 49ers suspended two players after a joint practice with Tennessee yielded four separate fights within the first six snaps, marking an unusual level of training-camp hostility. Both teams were involved in the escalations.",
-      "article": "A 49ers-Titans joint practice in Santa Clara on Tuesday spiraled into chaos early, with four separate altercations erupting in the opening six snaps. The 49ers responded by suspending two of their own players from practice.\n\nThe severity: Four fights in six snaps is unusual even for competitive joint sessions. These practices are designed to build competitive intensity, but that intensity typically stays within bounds. Multiple eruptions suggest either a breakdown in coaching communication or deliberate provocation from one or both teams.\n\nThe response: The 49ers took swift action by banning two players, signaling the team prioritized discipline over letting the incident slide. This is a public statement to the Titans, to the league, and to their own locker room that training-camp antics won't be tolerated.\n\nContext: Joint practices have become more common as teams seek live competition reps in preseason, but they're also flashpoints for injuries and ejections. The 49ers' hard line on their own players suggests they view the incidents as a coaching or character issue, not just rough play.",
+      "importance": 6,
+      "leadHeadline": "Infantino's opponents developing new framework for running world football",
+      "leadSource": "The Guardian · 11h ago",
+      "leadUrl": "https://www.theguardian.com/football/2026/aug/11/gianni-infantino-opponents-world-football-fifa-uefa",
+      "summary": "UEFA, Concacaf, and AFC are collaborating on a new governance framework for world football to replace what they view as Infantino's patronage system that has defined FIFA leadership over the past decade.",
+      "article": "Gianni Infantino's opponents within world football are developing a new governance framework to replace what they regard as FIFA's patronage-based system established during his 10-year tenure as president.\n\nUEFA, Concacaf, and the AFC (Asian Football Confederation) are working together on the alternative structure. The effort represents the most coordinated push yet by regional federations to challenge FIFA's current leadership model.\n\nThe group has repeatedly called for an independent review of FIFA's operations under Infantino, who took over from Sepp Blatter a decade ago. FIFA has not responded to those calls with a formal independent examination.\n\nThe alliance between three major continental confederations signals deepening fractures in world football's governance. UEFA controls European football and commands significant commercial power; Concacaf governs North and Central America plus the Caribbean; the AFC oversees Asian federation. Together, they represent a substantial portion of FIFA's member base and commercial influence.\n\nInfantino's critics argue his administration has concentrated power and relied on personal relationships rather than institutional checks. The proposed framework appears designed to introduce structural reforms that would limit executive discretion and embed independent oversight.\n\nThe initiative occurs against the backdrop of FIFA's expanded Club World Cup format beginning next year, a signature Infantino initiative that has drawn mixed reactions from continental bodies. Whether the governance challenge gains traction may depend on whether these confederations can build broader coalition support at FIFA's Congress.",
       "tweets": []
     },
     {
       "category": "media",
-      "importance": 3,
-      "leadHeadline": "NBA sets Opening Day tripleheader; James returns to LA on Christmas",
-      "leadSource": "Sports Media Watch · 11h ago",
-      "leadUrl": "https://www.sportsmediawatch.com/2026/08/nba-schedule-opening-day-tripleheader-christmas-finals-rematch-lebron-la-return/",
-      "summary": "The NBA is expanding its Opening Day slate with a tripleheader in the second year of its new media-rights deal, including a marquee Christmas matchup featuring LeBron James returning to face the Lakers.",
-      "article": "The NBA has built out its Opening Day schedule with a three-game slate, kicking off the second season under its newly restructured media-rights framework with Disney, Amazon Prime, and TNT.\n\nThe expansion reflects confidence in both the new distribution model and demand for premium basketball content early in the season. Opening Day triples are a tool to drive early-season viewership and demonstrate to broadcast partners that the investment in rights fees is paying off.\n\nThe Christmas fixture with LeBron James facing LA adds a layer of marquee appeal: whether James is with the Lakers or elsewhere, a holiday matchup builds narrative around his homecoming or rivalry. Christmas basketball has become a reliable draw for the NBA, with the league treating the day as a quasi-playoff showcase.\n\nContext: The NBA's media-rights ecosystem is still stabilizing after the 2023 mega-deals. Opening-day slates and holiday programming are the league's chance to prove the new model drives ratings and justifies the billion-dollar annual commitments from Disney, Amazon, and TNT.",
+      "importance": 6,
+      "leadHeadline": "Fever coach Stephanie White fires back at critics, receives backing from Caitlin Clark, Sophie Cunningham",
+      "leadSource": "CBS Sports · 1h ago",
+      "leadUrl": "https://www.cbssports.com/wnba/news/stephanie-white-fever-coach-sophie-cunningham-dijonai-carrington-foul-caitlin-clark/",
+      "summary": "Indiana Fever coach Stephanie White delivered an impassioned defense before Tuesday's game, publicly telling critics to \"go to hell,\" with stars Caitlin Clark and Sophie Cunningham voicing public support.",
+      "article": "Indiana Fever coach Stephanie White delivered an impassioned statement before Tuesday night's game, firing back at critics while receiving vocal backing from star players Caitlin Clark and Sophie Cunningham.\n\nWhite's forceful response came on the heels of mounting external criticism regarding the team's direction and performance. The coach made clear she was not backing down from her vision for the franchise, telling detractors to go to hell during a pregame address.\n\nThe public support from Clark and Cunningham carries significant weight. Clark, the rookie sensation and consensus top-tier talent who has driven much of the Fever's recent visibility, joined Cunningham in publicly endorsing White's approach. Such player-led backing provides critical institutional cover for a coach navigating a scrutinized role.\n\nWhite's willingness to confront criticism directly signals confidence in her plan and her relationship with the locker room. In professional basketball, where coaching scrutiny can escalate quickly, player endorsements often define whether external pressure translates into actual instability. The fact that the team's franchise player and another key contributor publicly aligned with White suggests internal cohesion despite whatever external noise exists.\n\nThe timing underscores how sharply WNBA coaching seats have become contested ground, particularly for Black women coaches in the league. White's assertion and the players' response reflect broader conversations about whose voices carry authority in professional basketball decision-making.",
+      "tweets": []
+    },
+    {
+      "category": "leagues",
+      "importance": 5,
+      "leadHeadline": "Depleted Blue Jays finding ways to win after comeback over Red Sox",
+      "leadSource": "Sportsnet · 2h ago",
+      "leadUrl": "",
+      "summary": "The Toronto Blue Jays beat the Boston Red Sox 5-3 in a comeback win despite significant roster depletion and a bullpen near exhaustion, continuing an improbable winning stretch.",
+      "article": "The Toronto Blue Jays kept winning Tuesday despite mounting physical depletion, mounting a fourth-inning comeback to beat the Boston Red Sox 5-3.\n\nThe margins are thin for Toronto. Bullpens are nearing a breaking point after repeated games requiring deep relief usage. The offense still hasn't found consistent stride. Yet the Jays persist in finding ways to win anyway.\n\nBrett Bateman and Charles McAdoo played key roles in the victory, with both players earning increased trust from manager John Schneider through quality at-bats. The win came despite the team operating well below full strength across multiple roster positions.\n\nToronto's willingness to grind through games with depleted lineups and exhausted bullpens suggests resilience if not pure talent advantage. The team is winning through secondary contributors stepping up and timely hitting rather than dominant pitching or star power carrying the load.\n\nThe Red Sox, expected to be competitive in the AL East, couldn't hold a lead against Toronto's scrappy approach. For the Jays, every win in this condition matters: they're operating on thinner margins than most contenders, and injuries or extended slumps could quickly reverse their trajectory. The fact that Schneider's club is finding victories with reserve-level contributors performing is the most positive signal the team can send about its depth and culture.",
+      "tweets": []
+    },
+    {
+      "category": "media",
+      "importance": 4,
+      "leadHeadline": "CBS Sports Has a Lot to Live Up to After Banner Year",
+      "leadSource": "Front Office Sports · 8h ago",
+      "leadUrl": "https://frontofficesports.com/cbs-sports-has-a-lot-to-live-up-to-after-banner-year/",
+      "summary": "CBS Sports heads into the new NFL season with high expectations following a strong prior year, relying more heavily on NFC team coverage as it manages its media rights portfolio.",
+      "article": "CBS Sports enters the new NFL season under pressure to repeat its recent strong performance, with the network leaning more heavily on NFC matchups to drive its broadcast slate.\n\nThe Paramount-owned network will allocate more secondary coverage to NFC teams as it balances its media rights distribution. The shift reflects strategic scheduling decisions made under the new media rights agreement the network signed.\n\nAfter a banner year in viewership and engagement metrics, CBS faces elevated expectations heading into a season where competitive balance could shift and marquee matchups may not align with the network's schedule. The network has elevated younger talent like Ross Tucker while maintaining established partnerships like Jim Nantz and J.J. Watt on its top broadcast team.\n\nFor CBS, the challenge is sustaining audience growth on the back of consistent quality production and smart scheduling choices. The emphasis on NFC coverage gives the network stable access to teams that typically generate strong regional viewership, a hedge against unpredictable playoff races.",
       "tweets": []
     }
   ],
@@ -2401,6 +2393,17 @@
   },
   "deals": [
     {
+      "type": "acquisition",
+      "parties": "New York Yankees ⇄ Apollo Global Management",
+      "value_usd": 2600000000,
+      "term_years": null,
+      "league": "MLB",
+      "headline": "Yankees secure $2.6B capital injection from Apollo Global Management",
+      "storyIndex": 17,
+      "blurb": "Apollo provides debt refinancing and takes minority equity stake in Yankee Global Enterprises parent company.",
+      "capturedAt": "2026-08-12T04:42:20.131Z"
+    },
+    {
       "type": "media_rights",
       "parties": "Formula E ⇄ Disney",
       "value_usd": null,
@@ -2408,84 +2411,73 @@
       "league": "OTHER",
       "headline": "Formula E Races to Stream on Disney+ Worldwide",
       "storyIndex": 9,
-      "blurb": "Disney+ will carry Formula E races in 140+ territories; ESPN+ handles U.S. streaming via ESPN Select and Unlimited tiers.",
-      "capturedAt": "2026-08-11T23:31:18.420Z"
-    },
-    {
-      "type": "acquisition",
-      "parties": "New York Yankees ⇄ Apollo Global Management",
-      "value_usd": 2600000000,
-      "term_years": null,
-      "league": "MLB",
-      "headline": "New York Yankees, Apollo Agree on $2.6B Capital Injection",
-      "storyIndex": 17,
-      "blurb": "Apollo refinances Yankees debt and takes undisclosed minority equity stake in Yankee Global parent company.",
-      "capturedAt": "2026-08-11T23:31:18.420Z"
+      "blurb": "Formula E events stream on Disney+ in 140+ territories, plus ESPN+ in the U.S.; financial terms undisclosed.",
+      "capturedAt": "2026-08-12T04:42:20.131Z"
     }
   ],
   "ratings": [],
   "ticket_prices": [],
   "sidebar": [
     {
-      "headline": "Caitlin Clark's Suspension Lifted for Fever-Liberty WNBA Battle",
-      "source": "CBS Sports · 1h ago",
-      "article": "Caitlin Clark will suit up for Indiana's matchup against New York after her suspension for accumulated technicals was rescinded. The move clears the star guard to play in a clash between two high-powered offenses fighting for playoff position. Clark's return is significant for viewership and betting markets, as the Fever-Liberty game figures to attract casual and serious audiences. The WNBA has been more aggressive about technical-foul management this season, so the reversal suggests either a league review of the accumulation system or a determination that Clark's flagged technical was marginal. Either way, it's a boost for the Fever's title hopes."
+      "headline": "GB's Glave and Azu claim European 100m one-two",
+      "source": "BBC Sport · 7h ago",
+      "article": "Great Britain's Romell Glave and Jeremiah Azu delivered a stunning upset at the European Athletics Championships in Birmingham on Tuesday, claiming the gold and silver medals in the men's 100 meters for the host nation. The one-two finish marks a rare British sweep in a sprint event at this level, with both sprinters executing flawlessly in favorable conditions. Glave's victory caps a resurgent season for British sprinting and raises questions about depth in the wider European sprint landscape heading into next year's Olympic trials."
     },
     {
-      "headline": "Dylan Cease Takes Mound as Blue Jays Face Boston Red Sox",
-      "source": "Sportsnet · 1h ago",
-      "article": "Toronto's ace Dylan Cease is scheduled to pitch as the Blue Jays pursue a second straight win against Boston. The matchup airs live on Sportsnet and Sportsnet+ starting at 7 p.m. ET / 4 p.m. PT. Cease has been a bright spot in Toronto's rotation this season, and the Red Sox represent a divisional test case for the Jays' playoff aspirations. A win extends momentum; a loss reopens questions about consistency against AL East rivals. The game carries standard late-April weight, with both teams still climbing out of early-season narratives."
+      "headline": "Dana White's Contender Series 2026 Week 1 results: Anthony Wint, Bilal Hasan earn UFC contracts",
+      "source": "CBS Sports · 3h ago",
+      "article": "Anthony Wint and Bilal Hasan earned UFC contracts Tuesday night after strong finishes at the Meta Apex during week one of Dana White's Contender Series 2026. The pair headlined a card that delivered multiple decisive finishes, catching the attention of White and the promotion's scouting team. The Contender Series continues its tradition of identifying rising talent from the regional circuit and providing direct pathways into the UFC roster."
     },
     {
-      "headline": "GB Claims European 100m One-Two in Birmingham",
-      "source": "BBC Sport · 1h ago",
-      "article": "Romell Glave and Jeremiah Azu delivered a historic result for British track and field, claiming the top two spots in the European 100-meter championship on home soil in Birmingham. The one-two finish is a rare achievement for a single nation and validates the depth in the British sprinting program. Both runners posted times competitive with global standards, signaling potential for Olympic qualification cycles ahead. The victory is also a domestic marketing win for British athletics, showcasing talent to a home crowd and attracting casual sports viewers to a discipline that often struggles for mainstream attention outside major championships."
+      "headline": "Desmond Bane on NIL and NBA Expansion",
+      "source": "Front Office Sports · 8h ago",
+      "article": "Memphis Grizzlies forward Desmond Bane discussed his new role at TCU, his drink brand launch, and the outlook for an NBA expansion that could reshape the league's geography and revenue streams. Bane's diversified approach to business ventures off the court reflects how today's top NBA talent balances playing careers with entrepreneurial opportunity. His perspectives on expansion highlight player-side thinking about how the league's growth could affect existing franchises and salary cap dynamics."
     },
     {
-      "headline": "Desmond Bane on NIL, NBA Expansion, and Magic's Outlook",
-      "source": "Front Office Sports · 2h ago",
-      "article": "Memphis Grizzlies guard Desmond Bane weighed in on his new role at TCU, his beverage launch, and Orlando's championship window during an exclusive interview. Bane's comments touch on the evolving intersection of athlete business portfolios and on-court focus. His drink venture places him in a growing category of player-entrepreneurs who leverage personal brands alongside playing careers. On the Magic specifically, Bane offered perspective on a team still considered a rising contender despite injury questions and early-season inconsistency. The interview underscores how modern NBA stars juggle multiple revenue streams while maintaining elite performance."
+      "headline": "Toronto FC set for BMO Field return after long World Cup absence",
+      "source": "Sportsnet · 7h ago",
+      "article": "Toronto FC is preparing to return to BMO Field after FIFA's takeover of the stadium in May ahead of the World Cup tournament. The club and the CFL's Toronto Argonauts were displaced for months while the venue underwent FIFA modifications and hosted international soccer fixtures. The homecoming carries symbolic weight for the MLS franchise and its fans, marking the end of a long absence from their home stadium."
     },
     {
-      "headline": "Cooper Flagg 1-of-1 Rookie Card Could Fetch Over $1M",
-      "source": "NY Post Sports · 1h ago",
-      "article": "A one-of-one Cooper Flagg Topps rookie debut patch autograph card signed during Fanatics Fest in July is valued at potentially exceeding $1 million. The card's rarity and Flagg's trajectory as a freshman phenom have driven collector interest to historic levels. Sports card markets for emerging stars have exploded as institutional buyers and high-net-worth individuals treat rare cards as alternative assets. Flagg's card represents the intersection of nostalgia collecting, athlete celebrity, and speculative investment. If it sells at estimated value, it would rank among the priciest modern basketball cards ever transacted."
+      "headline": "Zverev, Fritz Lament Tight North American Tennis Calendar",
+      "source": "Front Office Sports · 5h ago",
+      "article": "ATP stars Alexander Zverev and Taylor Fritz expressed frustration Tuesday about the compressed North American tennis schedule, with Zverev suggesting a return to one-week tournament formats instead of the current back-to-back arrangement. The packed calendar forces players to make difficult choices about which events to prioritize and how much recovery time they can afford between major tournaments. Zverev's proposal reflects wider player concerns about injury risk and scheduling sustainability in an already demanding tour calendar."
     },
     {
-      "headline": "Zverev and Fritz Lament Tight North American Tennis Calendar",
-      "source": "Front Office Sports · just now",
-      "article": "ATP stars Alexander Zverev and Taylor Fritz raised concerns about the compressed North American hard-court schedule, with Zverev proposing a return to one-week tournaments instead of the current back-to-back format. The tight calendar leaves players vulnerable to injury and fatigue heading into the US Open. Zverev's suggestion would require ATP governance changes and sponsor coordination, but it reflects growing player sentiment about scheduling density. One-week tournaments would reduce revenue concentration but improve player health and on-court quality. The debate mirrors broader tennis governance tensions between player welfare and tour economics."
+      "headline": "NBA sets Opening Day tripleheader; James returns to LA on Christmas",
+      "source": "Sports Media Watch · 16h ago",
+      "article": "The NBA announced an expanded Opening Day slate featuring a tripleheader under its new media rights deal, with LeBron James returning to Los Angeles on Christmas in a primetime matchup. The schedule represents the league's strategy to front-load marquee matchups and star power into its opening week and key national broadcast windows. NBA Christmas games have long been a signature television tradition, and the league is using those slots to maximize reach as it enters a new media rights era."
     }
   ],
   "poll": {
-    "question": "Will Tony Romo return to CBS this NFL season?",
+    "question": "Which move has the bigger short-term impact on NFL coverage: Tony Romo's absence forcing CBS to elevate younger talent, or the complexity of managing two broadcast teams with uneven star power?",
     "options": [
-      "Yes, within the next month",
-      "Yes, but not until midseason",
-      "No, CBS will move on permanently",
-      "Unclear—CBS hasn't decided yet"
+      "Romo's absence; it forces CBS to develop and showcase new voices",
+      "The two-team imbalance; Jim Nantz and J.J. Watt get the prestige matchups",
+      "Both equally; the disruption is significant either way",
+      "Neither; CBS has sufficient depth across the booth"
     ]
   },
   "predictions": [
     {
-      "statement": "Infantino faces a formal no-confidence vote or governance challenge from UEFA/Concacaf/AFC within 18 months.",
-      "probability": 62,
-      "rationale": "Three continental confederations coordinating on an alternative framework is not a negotiating tactic. It's a power play. Infantino has survived isolated criticism, but unified bloc action at this level usually escalates into formal structural challenges or ultimatums. The Vatican statement was the warning; this is the mobilization."
+      "statement": "Tony Romo will not return to CBS this season; the network will finalize his departure within 60 days.",
+      "probability": 68,
+      "rationale": "Berson's repeated language about \"no timetable\" and \"still assessing\" signals the network is building a exit timeline rather than exploring reinstatement. CBS has already promoted Tucker and elevated Watt, structural moves that reduce urgency to rush Romo back. The legal and reputational complexity of an OWI arrest usually leads networks toward closure."
     },
     {
-      "statement": "Formula E's Disney+ deal drives measurable U.S. viewership growth year-over-year, helping justify the series' sustainability claims.",
-      "probability": 71,
-      "rationale": "Disney's promotional machine and ESPN+ integration gives FE access to audiences it never had on cable. Even modest upticks (say, 20-30% viewer increases) would be a win for a series that's struggled for mainstream U.S. carriage. The barriers to finding FE content on Disney are now near-zero."
+      "statement": "The Yankees will make at least one significant offensive addition before Opening Day using Apollo's capital infusion.",
+      "probability": 72,
+      "rationale": "Six games back in the AL East with Ryan Weathers posting strong starts but the offense still not finding stride signals a franchise willing to spend. Apollo's $2.6B injection removes financial constraint, and the Jays' recent resurgence despite depletion shows the AL East is competitive. The Yankees historically chase talent aggressively in this spot."
     },
     {
-      "statement": "Olivia Moultrie's season-ending ACL injury costs USMNT/USWNT a meaningful number of midfielder appearances in 2025 tournaments.",
-      "probability": 84,
-      "rationale": "Moultrie is one of the youngest, highest-ceiling USMNT midfielders and had posted five goals, five assists this season for Portland. Season-ending injuries at age 20 almost always reshape national team depth charts for the calendar year. The Concacaf W Championship is the next major USMNT tournament and Moultrie is likely to miss it."
+      "statement": "Formula E's Disney+ distribution will drive measurable viewership growth in the U.S. within the first 12 months.",
+      "probability": 59,
+      "rationale": "Disney's 140-territory footprint and family-friendly positioning expose Formula E to audiences outside traditional motorsports enthusiasts. However, electric racing remains a niche sport with lower mainstream appeal than traditional series. ESPN+ adds committed fans, but Disney+ requires casual discovery to move the needle significantly."
     },
     {
-      "statement": "CBS and Tony Romo resolve his status (return or replacement) before the first NFL Sunday game airs.",
-      "probability": 54,
-      "rationale": "Berson's public comment suggests a decision is near. Networks hate broadcast booth uncertainty heading into the season. However, if Romo and CBS are negotiating terms or a severance, the announcement could slip past preseason and into Week 1 coverage. Expect clarity within 2-3 weeks."
+      "statement": "The UEFA, Concacaf, and AFC governance coalition will force Infantino to accept independent review within 18 months.",
+      "probability": 44,
+      "rationale": "Three major confederations represent serious leverage, but Infantino has consolidated FIFA institutional power during his tenure. World football governance moves slowly, and he controls the apparatus that would vote on such changes. Regional pressure is real but historically insufficient to unseat an incumbent FIFA president without broader membership coalition."
     }
   ],
   "injuries": [
@@ -2493,37 +2485,25 @@
       "player": "Olivia Moultrie",
       "team": "Portland Thorns",
       "league": "SOCCER",
-      "position": "MF",
+      "position": "M",
       "status": "OUT",
-      "injury": "ACL injury, right knee",
-      "timeline": "Season-ending",
+      "injury": "ACL injury (right knee)",
+      "timeline": "Out for season",
       "source": "The Guardian",
-      "impact": "20-year-old midfielder with five goals and five assists this season out for remainder of campaign; likely to miss Concacaf W Championship.",
-      "storyIndex": 999
-    },
-    {
-      "player": "Trey Yesavage",
-      "team": "Toronto Blue Jays",
-      "league": "MLB",
-      "position": "C",
-      "status": "RETURNING",
-      "injury": "Knee surgery",
-      "timeline": "Could return this season",
-      "source": "Sportsnet",
-      "impact": "Catcher underwent procedure but rehabilitation timeline suggests potential mid-season availability for playoff push.",
-      "storyIndex": 14
+      "impact": "The 20-year-old midfielder, who had five goals and five assists this season, is sidelined for the remainder of the campaign and likely to miss the Concacaf W Championship.",
+      "storyIndex": 0
     },
     {
       "player": "Belinda Bencic",
-      "team": "N/A",
+      "team": "National Bank Open",
       "league": "TENNIS",
       "position": "",
       "status": "OUT",
-      "injury": "Undisclosed injury",
-      "timeline": "Withdrew from NBO semifinals",
+      "injury": "Hip injury",
+      "timeline": "Withdrew from tournament",
       "source": "Sportsnet",
-      "impact": "Withdrew from Coco Gauff match, advancing opponent to semifinals; severity and nature of injury not specified.",
-      "storyIndex": 999
+      "impact": "Bencic's withdrawal from the National Bank Open presented by Rogers cost her a potential semifinal appearance, as Coco Gauff advanced via walkover.",
+      "storyIndex": 1
     }
   ],
   "picks": [
@@ -2579,7 +2559,8 @@
         },
         "awayTeam": "Cleveland Guardians",
         "homeTeam": "Detroit Tigers"
-      }
+      },
+      "_pendingGrade": true
     },
     {
       "type": "moneyline",
@@ -2633,7 +2614,8 @@
         },
         "awayTeam": "Pittsburgh Pirates",
         "homeTeam": "Miami Marlins"
-      }
+      },
+      "_pendingGrade": true
     },
     {
       "type": "moneyline",
@@ -6169,379 +6151,117 @@
         "homeTeam": "San Diego Padres"
       },
       "_pendingGrade": true
+    },
+    {
+      "type": "moneyline",
+      "pick": "Minnesota Twins ML",
+      "odds": "-110",
+      "edge": "Market fill from live lines: Minnesota Twins is the books' favorite at -110 (best price @ LowVig.ag) against Baltimore Orioles at +101, with home ice/court/field behind them. No researched edge here — this is a low-confidence market-consensus play added to round out the slate. Low confidence is honest confidence.",
+      "matchup": "Baltimore Orioles @ Minnesota Twins",
+      "league": "MLB",
+      "when": "Today 1:40 PM ET",
+      "confidence": "low",
+      "_autofill": true,
+      "_scheduledTs": 1786556400000,
+      "marketSnapshot": {
+        "capturedAt": "2026-08-12T04:42:49.362Z",
+        "markets": {
+          "h2h": {
+            "away": {
+              "price": 101,
+              "book": "Caesars"
+            },
+            "home": {
+              "price": -110,
+              "book": "LowVig.ag"
+            },
+            "draw": null
+          },
+          "spreads": {
+            "away": {
+              "point": 1.5,
+              "price": -209,
+              "book": "LowVig.ag"
+            },
+            "home": {
+              "point": 1.5,
+              "price": -182,
+              "book": "MyBookie.ag"
+            }
+          },
+          "totals": {
+            "over": {
+              "point": 8.5,
+              "price": -116,
+              "book": "LowVig.ag"
+            },
+            "under": {
+              "point": 9,
+              "price": -120,
+              "book": "Bovada"
+            }
+          }
+        },
+        "awayTeam": "Baltimore Orioles",
+        "homeTeam": "Minnesota Twins"
+      }
+    },
+    {
+      "type": "moneyline",
+      "pick": "Philadelphia Phillies ML",
+      "odds": "-154",
+      "edge": "Market fill from live lines: Philadelphia Phillies is the books' favorite at -154 (best price @ BetUS) against St. Louis Cardinals at +147, favored even on the road. No researched edge here — this is a low-confidence market-consensus play added to round out the slate. Low confidence is honest confidence.",
+      "matchup": "Philadelphia Phillies @ St. Louis Cardinals",
+      "league": "MLB",
+      "when": "Today 2:15 PM ET",
+      "confidence": "low",
+      "_autofill": true,
+      "_scheduledTs": 1786558500000,
+      "marketSnapshot": {
+        "capturedAt": "2026-08-12T04:42:49.362Z",
+        "markets": {
+          "h2h": {
+            "away": {
+              "price": -154,
+              "book": "BetUS"
+            },
+            "home": {
+              "price": 147,
+              "book": "Caesars"
+            },
+            "draw": null
+          },
+          "spreads": {
+            "away": {
+              "point": -1.5,
+              "price": 113,
+              "book": "LowVig.ag"
+            },
+            "home": {
+              "point": 1.5,
+              "price": -120,
+              "book": "FanDuel"
+            }
+          },
+          "totals": {
+            "over": {
+              "point": 8,
+              "price": -117,
+              "book": "MyBookie.ag"
+            },
+            "under": {
+              "point": 8.5,
+              "price": -115,
+              "book": "BetRivers"
+            }
+          }
+        },
+        "awayTeam": "Philadelphia Phillies",
+        "homeTeam": "St. Louis Cardinals"
+      }
     }
   ],
-  "updatedAt": "2025-04-23T14:32:00Z",
-  "highlights": [
-    {
-      "league": "NBA",
-      "title": "Opening night Western Conference Finals rematch!",
-      "videoId": "VGHm5rkpXII",
-      "thumbnail": "https://img.youtube.com/vi/VGHm5rkpXII/mqdefault.jpg",
-      "timeAgo": "7h ago",
-      "isFallback": false
-    },
-    {
-      "league": "NFL",
-      "title": "Alec Pierce &amp; Daniel Jones staying healthy could shape a FASCINATING season for Colts | NFL Live",
-      "videoId": "YztsriWk8r0",
-      "thumbnail": "https://img.youtube.com/vi/YztsriWk8r0/mqdefault.jpg",
-      "timeAgo": "2h ago",
-      "isFallback": false
-    },
-    {
-      "league": "MLB",
-      "title": "Luis Arraez hits the ground and makes sure to get some push-ups in 😆",
-      "videoId": "rRC2rkOAomw",
-      "thumbnail": "https://img.youtube.com/vi/rRC2rkOAomw/mqdefault.jpg",
-      "timeAgo": "1h ago",
-      "isFallback": false
-    },
-    {
-      "league": "NHL",
-      "title": "Meet the 2026-27 Edmonton Oilers - Every Goal From Last Season",
-      "videoId": "t450bKqr4U0",
-      "thumbnail": "https://img.youtube.com/vi/t450bKqr4U0/mqdefault.jpg",
-      "timeAgo": "8h ago",
-      "isFallback": false
-    },
-    {
-      "league": "WNBA",
-      "title": "Western Conference Player of the Week- Kayla McBride",
-      "videoId": "Ndl6KM_2AtA",
-      "thumbnail": "https://img.youtube.com/vi/Ndl6KM_2AtA/mqdefault.jpg",
-      "timeAgo": "7h ago",
-      "isFallback": false
-    },
-    {
-      "league": "SOCCER",
-      "title": "Start, Bench or Drop featuring legendary French forwards 👀 | ESPN FC Extra Time",
-      "videoId": "Qb9MUJZ3bPE",
-      "thumbnail": "https://img.youtube.com/vi/Qb9MUJZ3bPE/mqdefault.jpg",
-      "timeAgo": "1h ago",
-      "isFallback": false
-    }
-  ],
-  "reels": [
-    {
-      "league": "SOCCER",
-      "title": "Start, Bench or Drop featuring legendary French forwards 👀 | ESPN FC Extra Time",
-      "videoId": "Qb9MUJZ3bPE",
-      "author": "ESPN FC",
-      "pubDate": "2026-08-11T22:40:22+00:00",
-      "link": "https://www.youtube.com/watch?v=Qb9MUJZ3bPE"
-    },
-    {
-      "league": "MLB",
-      "title": "Luis Arraez hits the ground and makes sure to get some push-ups in 😆",
-      "videoId": "rRC2rkOAomw",
-      "author": "MLB",
-      "pubDate": "2026-08-11T22:27:58+00:00",
-      "link": "https://www.youtube.com/watch?v=rRC2rkOAomw"
-    },
-    {
-      "league": "SOCCER",
-      "title": "Reaction to Iraola's comments on Liverpool's energy 🗣️ Where will they finish this season? | ESPN FC",
-      "videoId": "DMJ4lZpZYVc",
-      "author": "ESPN FC",
-      "pubDate": "2026-08-11T22:16:22+00:00",
-      "link": "https://www.youtube.com/watch?v=DMJ4lZpZYVc"
-    },
-    {
-      "league": "SOCCER",
-      "title": "Barcelona REJECTS PSG's offer for Ferran Torres ❌ + Their pursuit of signing Rodri 👀 | ESPN FC",
-      "videoId": "9NzyqWMCeew",
-      "author": "ESPN FC",
-      "pubDate": "2026-08-11T21:51:53+00:00",
-      "link": "https://www.youtube.com/watch?v=9NzyqWMCeew"
-    },
-    {
-      "league": "NFL",
-      "title": "Alec Pierce &amp; Daniel Jones staying healthy could shape a FASCINATING season for Colts | NFL Live",
-      "videoId": "YztsriWk8r0",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-08-11T21:50:44+00:00",
-      "link": "https://www.youtube.com/watch?v=YztsriWk8r0"
-    },
-    {
-      "league": "NFL",
-      "title": "Nick Caley's WILD path to the Patriots",
-      "videoId": "aq2aHX-t1ws",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-08-11T21:00:35+00:00",
-      "link": "https://www.youtube.com/watch?v=aq2aHX-t1ws"
-    },
-    {
-      "league": "NFL",
-      "title": "Christian McCaffrey's Fantasy Outlook: Pros and Cons 🤔",
-      "videoId": "yiP9YDR57VI",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-08-11T21:00:19+00:00",
-      "link": "https://www.youtube.com/watch?v=yiP9YDR57VI"
-    },
-    {
-      "league": "MLB",
-      "title": "Jose Cuas fools Max Muncy and the crowd with the pump fake 😅",
-      "videoId": "-gmheN4a-cw",
-      "author": "MLB",
-      "pubDate": "2026-08-11T20:00:34+00:00",
-      "link": "https://www.youtube.com/watch?v=-gmheN4a-cw"
-    },
-    {
-      "league": "NFL",
-      "title": "Draft Justin Jefferson. Period. 🔥 #fantasyfootball #nfl",
-      "videoId": "MUlkDyZud_o",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-08-11T19:10:56+00:00",
-      "link": "https://www.youtube.com/watch?v=MUlkDyZud_o"
-    },
-    {
-      "league": "NFL",
-      "title": "De'Von Achane is STILL a TOP FIVE Fantasy RB",
-      "videoId": "HAaR8ltWo4E",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-08-11T19:00:30+00:00",
-      "link": "https://www.youtube.com/watch?v=HAaR8ltWo4E"
-    },
-    {
-      "league": "MLB",
-      "title": "This kid showed up to the ballpark in his Ninja Turtle costume ready to cause CHAOS 🤣",
-      "videoId": "8w5jqCkr4-U",
-      "author": "MLB",
-      "pubDate": "2026-08-11T19:00:27+00:00",
-      "link": "https://www.youtube.com/watch?v=8w5jqCkr4-U"
-    },
-    {
-      "league": "NFL",
-      "title": "Is Puka Going to Miss Week 1? Did the Cowboys win the Parsons Trade? | The Adam Schefter Podcast",
-      "videoId": "tqLiE5jgd6U",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-08-11T19:00:01+00:00",
-      "link": "https://www.youtube.com/watch?v=tqLiE5jgd6U"
-    },
-    {
-      "league": "MLB",
-      "title": "Top 10 Most DOMINANT Pitching Performances in Baseball History! | MLB 250 For 250",
-      "videoId": "cOdE4G7XGHE",
-      "author": "MLB",
-      "pubDate": "2026-08-11T18:44:18+00:00",
-      "link": "https://www.youtube.com/watch?v=cOdE4G7XGHE"
-    },
-    {
-      "league": "NFL",
-      "title": "Why did the Vikings go with Kyler Murray over J.J. McCarthy? Schrager tells… | The Pat McAfee Show",
-      "videoId": "89h9qPH6idk",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-08-11T18:34:41+00:00",
-      "link": "https://www.youtube.com/watch?v=89h9qPH6idk"
-    },
-    {
-      "league": "NFL",
-      "title": "Sean McVay's impact is like no other",
-      "videoId": "vELFBlhQ3Ms",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-08-11T18:00:39+00:00",
-      "link": "https://www.youtube.com/watch?v=vELFBlhQ3Ms"
-    },
-    {
-      "league": "MLB",
-      "title": "Shohei made himself a 'reely' great catch 🎣 (📹: j3nnsw0rld/TikTok)",
-      "videoId": "xmqviGrs21g",
-      "author": "MLB",
-      "pubDate": "2026-08-11T18:00:19+00:00",
-      "link": "https://www.youtube.com/watch?v=xmqviGrs21g"
-    },
-    {
-      "league": "SOCCER",
-      "title": "Neymar’s prank may have went too far 😂 (via neymarjr/IG)",
-      "videoId": "qqfeVSCv9v4",
-      "author": "ESPN FC",
-      "pubDate": "2026-08-11T17:45:19+00:00",
-      "link": "https://www.youtube.com/watch?v=qqfeVSCv9v4"
-    },
-    {
-      "league": "SOCCER",
-      "title": "Hakimi practicing his boxing skills 🥊🤩 (via @dcrucilla/IG)",
-      "videoId": "mrNzGuXcD8g",
-      "author": "ESPN FC",
-      "pubDate": "2026-08-11T17:00:32+00:00",
-      "link": "https://www.youtube.com/watch?v=mrNzGuXcD8g"
-    },
-    {
-      "league": "WNBA",
-      "title": "Western Conference Player of the Week- Kayla McBride",
-      "videoId": "Ndl6KM_2AtA",
-      "author": "WNBA",
-      "pubDate": "2026-08-11T17:00:11+00:00",
-      "link": "https://www.youtube.com/watch?v=Ndl6KM_2AtA"
-    },
-    {
-      "league": "WNBA",
-      "title": "Week 11: Eastern Conference Player of the Week- Shakira Austin",
-      "videoId": "bEqYuOwgGds",
-      "author": "WNBA",
-      "pubDate": "2026-08-11T17:00:09+00:00",
-      "link": "https://www.youtube.com/watch?v=bEqYuOwgGds"
-    },
-    {
-      "league": "NBA",
-      "title": "Opening night Western Conference Finals rematch!",
-      "videoId": "VGHm5rkpXII",
-      "author": "NBA",
-      "pubDate": "2026-08-11T17:00:06+00:00",
-      "link": "https://www.youtube.com/watch?v=VGHm5rkpXII"
-    },
-    {
-      "league": "MLB",
-      "title": "10 pitching masterclasses that define baseball (#250for250)",
-      "videoId": "oz5-k1ov3WU",
-      "author": "MLB",
-      "pubDate": "2026-08-11T17:00:06+00:00",
-      "link": "https://www.youtube.com/watch?v=oz5-k1ov3WU"
-    },
-    {
-      "league": "SOCCER",
-      "title": "What a hit 😮 (via catarino_oficial/IG)",
-      "videoId": "H_IdqMQo-qg",
-      "author": "ESPN FC",
-      "pubDate": "2026-08-11T16:20:43+00:00",
-      "link": "https://www.youtube.com/watch?v=H_IdqMQo-qg"
-    },
-    {
-      "league": "NHL",
-      "title": "Meet the 2026-27 Edmonton Oilers - Every Goal From Last Season",
-      "videoId": "t450bKqr4U0",
-      "author": "NHL",
-      "pubDate": "2026-08-11T16:00:35+00:00",
-      "link": "https://www.youtube.com/watch?v=t450bKqr4U0"
-    },
-    {
-      "league": "MLB",
-      "title": "Umpires are athletes too!",
-      "videoId": "DGfNseVH42g",
-      "author": "MLB",
-      "pubDate": "2026-08-11T16:00:00+00:00",
-      "link": "https://www.youtube.com/watch?v=DGfNseVH42g"
-    },
-    {
-      "league": "SOCCER",
-      "title": "Herculez Gomez weighs in on the controversy regarding Gianni Infantino ✍️",
-      "videoId": "LJzZ0dzJ0dU",
-      "author": "ESPN FC",
-      "pubDate": "2026-08-11T15:09:07+00:00",
-      "link": "https://www.youtube.com/watch?v=LJzZ0dzJ0dU"
-    },
-    {
-      "league": "NBA",
-      "title": "Season 24 for LeBron opens in MSG 🔥🗽",
-      "videoId": "MZKt7L_wnKE",
-      "author": "NBA",
-      "pubDate": "2026-08-11T14:46:59+00:00",
-      "link": "https://www.youtube.com/watch?v=MZKt7L_wnKE"
-    },
-    {
-      "league": "NBA",
-      "title": "OG Anunoby’s Game-Winning tip in will never get old 🗽",
-      "videoId": "XDz5pFmdPDc",
-      "author": "NBA",
-      "pubDate": "2026-08-11T14:45:16+00:00",
-      "link": "https://www.youtube.com/watch?v=XDz5pFmdPDc"
-    },
-    {
-      "league": "SOCCER",
-      "title": "When Liverpool's new loan signing Ronald Araújo told us the last thing he Googled 😅🇺🇾",
-      "videoId": "DVJ9Jvbh1q4",
-      "author": "ESPN FC",
-      "pubDate": "2026-08-11T14:27:10+00:00",
-      "link": "https://www.youtube.com/watch?v=DVJ9Jvbh1q4"
-    },
-    {
-      "league": "MLB",
-      "title": "2026 Nike RBI World Series: Softball",
-      "videoId": "gDv5xF2AA2E",
-      "author": "MLB",
-      "pubDate": "2026-08-11T14:01:49+00:00",
-      "link": "https://www.youtube.com/watch?v=gDv5xF2AA2E"
-    },
-    {
-      "league": "WNBA",
-      "title": "Chicago Sky vs. Seattle Storm | FULL GAME HIGHLIGHTS | August 10, 2026",
-      "videoId": "GvT30Rq8nEQ",
-      "author": "WNBA",
-      "pubDate": "2026-08-11T04:55:49+00:00",
-      "link": "https://www.youtube.com/watch?v=GvT30Rq8nEQ"
-    },
-    {
-      "league": "WNBA",
-      "title": "Toronto Tempo vs. Atlanta Dream | FULL GAME HIGHLIGHTS | August 10, 2026",
-      "videoId": "XEfIxrmyzgk",
-      "author": "WNBA",
-      "pubDate": "2026-08-11T03:12:13+00:00",
-      "link": "https://www.youtube.com/watch?v=XEfIxrmyzgk"
-    },
-    {
-      "league": "NHL",
-      "title": "FULL REPLAY: BATTLE of Alberta | Oilers vs Flames | 2020 Regular Season",
-      "videoId": "60-5C9m7lZo",
-      "author": "NHL",
-      "pubDate": "2026-08-10T23:00:07+00:00",
-      "link": "https://www.youtube.com/watch?v=60-5C9m7lZo"
-    },
-    {
-      "league": "NBA",
-      "title": "Tyrese Maxey got into the swing of things at his 3rd Annual Friends &amp; Family Golf Tournament! ⛳",
-      "videoId": "id63ZvPx844",
-      "author": "NBA",
-      "pubDate": "2026-08-10T21:56:18+00:00",
-      "link": "https://www.youtube.com/watch?v=id63ZvPx844"
-    },
-    {
-      "league": "NBA",
-      "title": "When Amar’e got the soccer assist from Steve Nash in the 2005 dunk contest ⚽️",
-      "videoId": "I_QAcQEEaGE",
-      "author": "NBA",
-      "pubDate": "2026-08-10T19:30:34+00:00",
-      "link": "https://www.youtube.com/watch?v=I_QAcQEEaGE"
-    },
-    {
-      "league": "NBA",
-      "title": "What a journey it’s been for Doc Rivers 🥹",
-      "videoId": "HFXACUOY9JU",
-      "author": "NBA",
-      "pubDate": "2026-08-10T19:15:26+00:00",
-      "link": "https://www.youtube.com/watch?v=HFXACUOY9JU"
-    },
-    {
-      "league": "NBA",
-      "title": "Mike D’Antoni knows what it takes to be a coach of the year in the NBA 🏆",
-      "videoId": "P3ghsuMsbqI",
-      "author": "NBA",
-      "pubDate": "2026-08-10T19:00:04+00:00",
-      "link": "https://www.youtube.com/watch?v=P3ghsuMsbqI"
-    },
-    {
-      "league": "NBA",
-      "title": "Doc Rivers enters the Hall of Fame Saturday",
-      "videoId": "e-pZuGmI-E8",
-      "author": "NBA",
-      "pubDate": "2026-08-10T17:13:20+00:00",
-      "link": "https://www.youtube.com/watch?v=e-pZuGmI-E8"
-    },
-    {
-      "league": "NHL",
-      "title": "EVERY GOAL Scored Last Season by the 2026-27 Detroit Red Wings Roster",
-      "videoId": "_4znYsNYqUE",
-      "author": "NHL",
-      "pubDate": "2026-08-10T14:00:16+00:00",
-      "link": "https://www.youtube.com/watch?v=_4znYsNYqUE"
-    },
-    {
-      "league": "WNBA",
-      "title": "Golden State Valkyries vs. Los Angeles Sparks | August 9, 2026",
-      "videoId": "dFEgk1NA14w",
-      "author": "WNBA",
-      "pubDate": "2026-08-10T01:44:55+00:00",
-      "link": "https://www.youtube.com/watch?v=dFEgk1NA14w"
-    }
-  ]
+  "updatedAt": "2025-04-23T18:45:00Z",
+  "highlights": [],
+  "reels": []
 }
