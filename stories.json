@@ -2,72 +2,80 @@
   "clusters": [
     {
       "category": "leagues",
-      "importance": 8,
-      "leadHeadline": "Arsenal v Manchester City: Community Shield – live",
-      "leadSource": "The Guardian · just now",
-      "leadUrl": "https://www.theguardian.com/football/live/2026/aug/16/arsenal-v-manchester-city-community-shield-live",
-      "summary": "<cite index=\"11-1,11-2\">Arsenal leads Manchester City 2-0 at halftime in the Community Shield at Cardiff, Calafiori scoring after 24 seconds and Havertz doubling the lead.</cite>",
-      "article": "Arsenal took on Manchester City at 3pm BST Sunday at the Principality Stadium in Cardiff in the Community Shield. Arsenal leads 2-0 at halftime. Calafiori opened the scoring after just 24 seconds following a pass from Myles Lewis-Skelly, before Kai Havertz doubled the advantage. Calafiori's strike marks the fastest goal in FA Community Shield history. <cite index=\"11-12\">City enjoyed spells of pressure but struggled to break through Arsenal's compact defense.</cite> <cite index=\"22-5\">The match marks Enzo Maresca's first competitive game as Manchester City boss since replacing Pep Guardiola.</cite> <cite index=\"22-9\">Arsenal played without William Saliba, Declan Rice, Jurrien Timber, and Bukayo Saka.</cite> <cite index=\"6-9,6-10\">Manchester City won the FA Cup for the eighth time, while this is the first meeting between the sides since City's 2-1 Premier League win over Arsenal in April.</cite>",
-      "tweets": []
+      "importance": 9,
+      "leadHeadline": "Calafiori's fast start inspires Arsenal to big Community Shield win over Manchester City",
+      "leadSource": "The Guardian · 3h ago",
+      "leadUrl": "https://www.theguardian.com/football/2026/aug/16/arsenal-manchester-city-community-shield-match-report",
+      "summary": "<cite index=\"2-2\">Arsenal cruised past Manchester City 3-0 in the Community Shield</cite>, with <cite index=\"9-4\">Calafiori scoring inside 26 seconds</cite> in <cite index=\"3-4\">Enzo Maresca's first competitive game as City manager</cite>.",
+      "article": "<cite index=\"2-2\">Arsenal defeated Manchester City 3-0 in the Community Shield</cite>, handing new City manager <cite index=\"9-5\">Enzo Maresca a nightmare opening</cite>. <cite index=\"9-4\">Riccardo Calafiori scored after 26 seconds following a clever pass from Myles Lewis-Skelly</cite>, setting the tone for a lopsided match at Cardiff's Principality Stadium on Sunday. <cite index=\"1-8\">Kai Havertz and Martin Odegaard added second-half goals</cite> as Arsenal controlled play. <cite index=\"21-7,21-8\">Maresca said in his postmatch conference that a big part of the game was the first goal conceded after 30 seconds</cite>, and acknowledged <cite index=\"21-9\">his side had three or four chances to score before Arsenal went up 2-0</cite>. The loss marked <cite index=\"3-4\">Maresca's debut as City manager since replacing Pep Guardiola</cite>. Arsenal, <cite index=\"3-10\">having lost to City 2-0 in the EFL Cup final earlier in 2026</cite>, used the Community Shield to reverse that narrative while claiming the traditional season-opener trophy.",
+      "tweets": [
+        {
+          "url": "https://twitter.com/Footballtweet/status/2088994296577896899",
+          "html": "<blockquote class=\"twitter-tweet\" data-dnt=\"true\" data-theme=\"dark\"><p>🚨 𝗛𝗜𝗦𝗧𝗢𝗥𝗬 𝗠𝗔𝗗𝗘: Riccardo Calafiori scored for Arsenal after just 23 seconds against Manchester City in the Community Shield. 🤯🔴\n\nIt’s officially the fastest goal in the competition’s history, smashing the previous record set by Man City’s Bobby Owen against West https://t.co/oL1E3fDmG8</p>&mdash; Football Tweet ⚽ (@Footballtweet) <a href=\"https://twitter.com/Footballtweet/status/2088994296577896899\">August 16, 2026</a></blockquote>",
+          "author_name": "Football Tweet ⚽",
+          "author_url": "https://twitter.com/Footballtweet",
+          "dateMs": 1786890026000
+        }
+      ]
     },
     {
       "category": "media",
       "importance": 7,
-      "leadHeadline": "Australia's Lani Pallister topples 800m freestyle queen Katie Ledecky at Pan Pacs",
-      "leadSource": "The Guardian · 10h ago",
-      "leadUrl": "https://www.theguardian.com/sport/2026/aug/16/lani-pallister-katie-ledecky-pan-pacs-800m-freestyle-record-swimming",
-      "summary": "Lani Pallister of Australia defeated Katie Ledecky in the 800m freestyle at the Pan Pacific Championships in Irvine, California, ending Ledecky's streak of 13 consecutive international gold medals in the event. Pallister's winning time was 8:06.10, a new Pan Pacs championship record.",
-      "article": "Lani Pallister delivered one of swimming's signature upsets on Sunday, defeating Katie Ledecky in the 800m freestyle at the Pan Pacific Championships in Irvine, California. Pallister led wire-to-wire and clocked 8:06.10, setting a new championship record for the meet. The result ended Ledecky's remarkable run of 13 consecutive international 800m freestyle gold medals, a streak that had defined one of the sport's clearest dominances across a single event. Ledecky remains one of the greatest distance swimmers ever, but Pallister's victory signals a genuine changing of the guard in this discipline. The Australian's win carries weight beyond the immediate result: it marks the first time Ledecky has been beaten at a major international championship in the 800m, a distance where she'd compiled an almost untouchable record. Pallister's time and tactical execution demonstrated she is not merely competitive but capable of outswimming the standard-bearer. The Pan Pacs are the second-tier international meet after the Olympics, and Pallister's breakthrough here positions her as a major threat heading into Olympic qualification.",
+      "leadHeadline": "Tommy John, pitcher whose surgery changed baseball, dies at age of 83",
+      "leadSource": "The Guardian · 1h ago",
+      "leadUrl": "https://www.theguardian.com/sport/2026/aug/16/tommy-john-pitcher-whose-surgery-changed-baseball-dies-at-age-of-83",
+      "summary": "Tommy John, the Hall of Famer whose pioneering ligament-replacement surgery revolutionized injury recovery in baseball, died at 83. A four-time All-Star with the Yankees and other clubs, John underwent the first successful ulnar collateral ligament reconstruction in 1974.",
+      "article": "Tommy John, the pitcher whose name became synonymous with the surgical procedure that saved countless baseball careers, died at 83. John was the first player to undergo the ulnar collateral ligament reconstruction that bears his name, a 1974 operation performed by Dr. Frank Jobe that transformed how baseball handles arm injuries. The surgery enabled John to pitch seven more seasons after what would have ended most careers, throwing 760 additional innings and winning 164 more games. John won four All-Star selections and was a four-time World Series champion, but his legacy extends far beyond his own accomplishments. The Tommy John surgery, now routine orthopedic practice, has allowed thousands of pitchers to return from injuries that previously forced retirement. The New York Yankees, where John pitched for 11 seasons and became a franchise favorite, released a statement memorializing him. Before Tommy John surgery existed, a torn UCL meant the end of a throwing career. After it, it meant a pathway back. That shift in baseball medicine redefined what was possible for injured pitchers across the sport.",
       "tweets": []
     },
     {
       "category": "media",
       "importance": 6,
-      "leadHeadline": "Claressa Shields eyes Britain's Price after stopping Kaye Scott to reclaim titles",
-      "leadSource": "The Guardian · 9h ago",
-      "leadUrl": "https://www.theguardian.com/sport/2026/aug/16/claressa-shields-kaye-scott-middleweight-titles-boxing-atlanta",
-      "summary": "Claressa Shields stopped Australia's Kaye Scott in the sixth round on Sunday to reclaim the WBA and WBC middleweight titles after a dramatic 38-pound weight cut. Shields has already identified Lauren Price of Britain as her preferred next opponent.",
-      "article": "Claressa Shields completed an extraordinary weight-class drop on Sunday, stopping Kaye Scott of Australia in the sixth round to capture the WBA and WBC middleweight titles. Shields cut 38 pounds to make the middleweight limit, an aggressive move that underscores her willingness to chase marquee matchups and belts at multiple weight classes. The stoppage came at 1:38 of the sixth round, demonstrating both Shields' durability and Scott's inability to sustain her offense against a fundamentally superior boxer. Shields has already signaled her next target: Lauren Price of Britain, a known rival in the women's boxing space and a matchup that would carry significant intrigue on both sides of the Atlantic. This victory marks Shields' return to title status after her recent run at heavyweight, where she'd pursued the baddest-dudes angle but found fewer natural opponents. By dropping back to middleweight, Shields reclaims clearer adversaries and title belts. Her willingness to undertake extreme weight cuts speaks to her comfort in her own skill set and her belief that technique travels across divisions more readily than size.",
+      "leadHeadline": "Belgian Pocognoli confirmed as Scotland boss",
+      "leadSource": "BBC Sport · 1h ago",
+      "leadUrl": "https://www.bbc.co.uk/sport/football/articles/cwyrre1qzwlo?at_medium=RSS&amp;at_campaign=rss",
+      "summary": "Sebastien Pocognoli, a Belgian coach described by the Scottish FA as one of Europe's brightest emerging talents, signed a two-year deal as Scotland men's head coach. The appointment marks a significant shift in direction for the national team.",
+      "article": "The Scottish Football Association confirmed Sebastien Pocognoli as Scotland's new men's head coach on a two-year contract. The Belgian is characterized by the SFA as one of Europe's brightest emerging coaching talents, a notable endorsement for a figure still building his resume at the international level. Pocognoli's appointment represents a fresh direction after the previous regime's tenure and reflects the SFA's ambition to bring in a coach with a modern tactical approach and a track record of development. The two-year deal provides a window to establish systems and work toward competitive goals in European qualification. Pocognoli now inherits a squad tasked with rebuilding confidence and competing in one of football's most demanding regional competitions. The coaching market for national teams rewards both tactical innovation and an ability to unite disparate talent into a cohesive unit. Whether Pocognoli can deliver both remains the central question for Scotland's supporters and administrators alike.",
       "tweets": []
     },
     {
-      "category": "revenue",
+      "category": "contracts",
       "importance": 5,
-      "leadHeadline": "Donnelly wins GB's first women's marathon medal at Europeans",
-      "leadSource": "BBC Sport · 4h ago",
-      "leadUrl": "https://www.bbc.co.uk/sport/athletics/articles/cjejjzg4vqwo?at_medium=RSS&amp;at_campaign=rss",
-      "summary": "Abbie Donnelly became the first British woman to win a marathon medal at the European Championships, claiming bronze in Birmingham on Sunday. The result marks a historic breakthrough for GB distance running at the continental championships.",
-      "article": "Abbie Donnelly made history on Sunday in Birmingham, capturing bronze in the women's marathon at the European Athletics Championships. Her finish marks the first time a British woman has won a medal in the marathon event at the European Championships, breaking a gap that had persisted despite the strength of distance running within the home nations. Donnelly's bronze reflects both her own execution and the broader development of women's distance running in Britain, a pipeline that has produced stronger marathoners in recent years. The European Championships carry prestige as a second-tier continental meet, below the World Championships and Olympics but above most other competitions. For Donnelly, the medal validates her marathon career and positions her as a contender for major selections heading into Olympic qualification windows. British distance running has historically struggled relative to continental rivals in the women's marathon, making Donnelly's medal a visible shift in that dynamic.",
+      "leadHeadline": "Nick Bosa takes big step toward return",
+      "leadSource": "NY Post Sports · just now",
+      "leadUrl": "https://nypost.com/2026/08/16/sports/49ers-get-good-nick-bosa-news-amid-acl-tendinitis-issue/",
+      "summary": "49ers defensive end Nick Bosa returned to practice after missing more than two weeks with tendinitis, a positive sign as San Francisco prepares for its second preseason game against the Chargers. His comeback eases concerns heading into the regular season.",
+      "article": "Nick Bosa returned to the San Francisco 49ers practice field for the first time in over two weeks, shedding his injured status and taking a major step toward full availability for the regular season. Bosa had been sidelined by tendinitis, a condition that threatened to cast doubt on his readiness for the team's second preseason contest against the Chargers. The 49ers' defensive anchor back on the field is significant news for a franchise dependent on elite pass rush production. Boba's return comes as multiple 49ers players work through various injuries during training camp, a typical preseason reality for teams managing depth charts and conditioning. His presence on Sunday's practice field signals his trajectory toward game availability and reduces the risk of opening-week roster complications. For a Super Bowl contender, keeping Boba healthy and available is non-negotiable. The positive injury update represents one of the few clear wins San Francisco can claim heading into what shapes as a critical preseason stretch.",
       "tweets": []
     },
     {
       "category": "media",
       "importance": 4,
-      "leadHeadline": "Elvedi set for Leeds move as £8.5m fee agreed",
-      "leadSource": "BBC Sport · 2h ago",
-      "leadUrl": "https://www.bbc.co.uk/sport/football/articles/c2lqqr15p2yo?at_medium=RSS&amp;at_campaign=rss",
-      "summary": "Leeds United have agreed an £8.5 million fee to sign defender Nico Elvedi from Borussia Monchengladbach, with the player set to undergo a medical on Monday. The transfer represents a mid-window defensive reinforcement for the Championship club.",
-      "article": "Leeds United and Borussia Monchengladbach have agreed an £8.5 million fee for defender Nico Elvedi, per BBC Sport. Elvedi is scheduled to have his medical on Monday, a routine final step before the deal closes. The fee places this transfer at the lower to mid-range of Leeds' summer spending, suggesting it was neither a marquee acquisition nor a desperation move. Elvedi brings Championship experience and defensive reliability to Leeds as they pursue promotion back to the Premier League. The move comes as part of Leeds' broader squad construction and represents a chance to add depth to their backline before the transfer window closes.",
-      "tweets": []
-    },
-    {
-      "category": "media",
-      "importance": 4,
-      "leadHeadline": "Villa close in on Suzuki with Martinez future in doubt",
-      "leadSource": "BBC Sport · 2h ago",
-      "leadUrl": "https://www.bbc.co.uk/sport/football/articles/ckg44n858qvo?at_medium=RSS&amp;at_campaign=rss",
-      "summary": "Aston Villa are closing in on a deal to sign Parma goalkeeper Zion Suzuki, with Emi Martinez's future at the club increasingly uncertain. The potential acquisition signals Villa's openness to changing their goalkeeper position despite Martinez's recent good form.",
-      "article": "Aston Villa are in advanced negotiations to sign Parma goalkeeper Zion Suzuki, per BBC Sport, while the future of established starter Emi Martinez grows murkier. The pursuit of Suzuki suggests Villa either believe he is an upgrade or are preparing for the possibility of Martinez's departure, whether through sale or internal competition. Suzuki represents a different profile from Martinez and signals Villa's thinking about the position heading into the final weeks of the transfer window. The exact fee and timing of a potential deal remain unclear, but the interest is concrete enough that the club is actively pursuing the move.",
+      "leadHeadline": "MSG Defeats Charles Oakley Lawsuit, but Case Still Not Over",
+      "leadSource": "Sportico · 1d ago",
+      "leadUrl": "https://www.sportico.com/law/analysis/2026/charles-oakley-loses-msg-lawsuit-john-mcenroe-appeal-1234942042/",
+      "summary": "A federal judge granted Madison Square Garden summary judgment in Charles Oakley's assault-and-battery lawsuit over his 2017 removal from the arena, dismissing the case for the third time. The former Knicks star's legal battle persists despite the setback.",
+      "article": "U.S. Circuit Judge Richard J. Sullivan granted Madison Square Garden summary judgment in Charles Oakley's ongoing assault-and-battery lawsuit stemming from his removal from the arena during a 2017 Knicks-Clippers game. This is the third dismissal in the case, though Oakley's legal team continues to pursue avenues to keep the lawsuit alive. The 62-year-old former Knicks star was forcibly removed from the arena without consent, an incident that drew significant public attention and raised questions about MSG's security protocols and liability. MSG has successfully defended against multiple iterations of Oakley's claims, but the case's persistence suggests ongoing legal maneuvering and appeals. For MSG, three summary judgments is a substantial victory but not yet a final resolution if Oakley's attorneys find additional grounds to refile or appeal. The case has dragged on for years, accumulating legal costs and reputational friction for both parties. Each dismissal strengthens MSG's position, yet the mere fact that courts keep allowing refiling indicates the case retains some legal viability in certain jurisdictions or claim structures.",
       "tweets": []
     },
     {
       "category": "media",
       "importance": 3,
-      "leadHeadline": "MSG Defeats Charles Oakley Lawsuit, but Case Still Not Over",
-      "leadSource": "Sportico · 20h ago",
-      "leadUrl": "https://www.sportico.com/law/analysis/2026/charles-oakley-loses-msg-lawsuit-john-mcenroe-appeal-1234942042/",
-      "summary": "A federal judge has granted Madison Square Garden summary judgment in Charles Oakley's assault-and-battery lawsuit over his 2017 removal from a Knicks-Clippers game, marking the third dismissal in the case. Oakley, 62, still has potential avenues to appeal or refile.",
-      "article": "U.S. Circuit Judge Richard J. Sullivan on Friday granted Madison Square Garden summary judgment in the assault-and-battery lawsuit filed by Charles Oakley, the former Knicks star removed from Madison Square Garden during a 2017 Knicks-Clippers game. This marks the third time a federal judge has dismissed Oakley's claims, per Sportico. MSG Networks expressed hope that this dismissal would prove final, though Oakley retains the right to appeal or pursue other legal strategies. The case has consumed years of litigation and legal expense on both sides. Oakley's removal from the arena was contentious at the time and generated significant media attention, but the courts have repeatedly sided with MSG's summary judgment motions, suggesting the legal evidence does not support Oakley's claims of unlawful assault and battery. The judgment does not preclude Oakley from filing a new suit or appealing to a higher court, though the repeated dismissals suggest the legal bar for his claims remains high.",
+      "leadHeadline": "Probably my last year' - Ronaldo hints at retirement",
+      "leadSource": "BBC Sport · 3h ago",
+      "leadUrl": "https://www.bbc.co.uk/sport/football/articles/c3300lxjz7lo?at_medium=RSS&amp;at_campaign=rss",
+      "summary": "Cristiano Ronaldo suggested his current season will probably be his last as a professional player, hinting at an imminent retirement after a career spanning multiple decades and record-breaking achievements. The announcement comes as Ronaldo enters his late 30s.",
+      "article": "Cristiano Ronaldo indicated that the current season will likely be his final year as a professional footballer, offering what amounts to a retirement timeline after a career spanning multiple continents and dozens of records. The statement comes as Ronaldo, now in his late 30s, continues to perform at elite levels while competing in Saudi football. Ronaldo's potential exit would mark the end of an era that began in Manchester, extended through Spain and Italy, and concluded in Portugal and the Middle East. His impact on global football transcends goals and trophies. Ronaldo transformed athlete branding, commercial value, and the infrastructure of modern footballer endorsements. His retirement would remove one of sport's towering figures from active competition and shift the narrative toward legacy and post-career ventures. The timing allows Ronaldo to manage his own narrative around retirement rather than being forced out by declining performance or club decisions. Whether this season truly is his last or represents another in a series of hints remains uncertain, but the directness of his statement suggests finality is approaching.",
+      "tweets": []
+    },
+    {
+      "category": "media",
+      "importance": 2,
+      "leadHeadline": "Caitlyn Jenner says Enes Kanter Freedom, Royce White exposing WNBAs trans hypocrisy",
+      "leadSource": "NY Post Sports · just now",
+      "leadUrl": "https://nypost.com/2026/08/16/sports/caitlyn-jenner-says-enes-kanter-freedom-royce-white-exposing-wnbas-trans-hypocrisy/",
+      "summary": "Caitlyn Jenner weighed in on ongoing transgender athlete discussions in the WNBA, citing athletes Enes Kanter Freedom and Royce White as exposing what she characterizes as hypocrisy. The comment contributes to heated conversations already dominating league discourse.",
+      "article": "Caitlyn Jenner entered the ongoing transgender athlete debate in professional basketball, specifically addressing discussions unfolding within the WNBA. Jenner referenced athletes Enes Kanter Freedom and Royce White as figures exposing what she frames as institutional inconsistency on the issue. The WNBA has faced sustained scrutiny and internal debate over transgender athletes' participation, with multiple players and figures staking positions across the spectrum. Jenner's involvement adds a high-profile voice to a conversation that has fractured the league's messaging and unity. The debate itself reflects broader cultural and legal disputes playing out across all professional sports regarding athlete eligibility, fairness, and inclusion. Without direct access to Jenner's specific critiques or detailed arguments from the story, the broader point is clear: the WNBA remains in the center of a contentious policy discussion with no consensus in sight.",
       "tweets": []
     }
   ],
@@ -2396,196 +2404,82 @@
   "ticket_prices": [],
   "sidebar": [
     {
-      "headline": "The Business of WWE's Global Expansion with Chad Gable: SummerSlam Behind-the-Scenes",
-      "source": "Front Office Sports · 3h ago",
-      "article": "WWE took fans behind the curtain at SummerSlam, offering a glimpse into how the company approaches its global expansion strategy through one of its biggest annual events. Chad Gable provided an insider's view of how SummerSlam operates as both a revenue driver and a platform for international growth. WWE's business model relies on these signature events to build brands in new markets and deepen fan engagement across existing territories. SummerSlam's production scale and roster depth make it an ideal launching pad for global strategy, with WWE using the event to test new international stars and markets. The company's expansion efforts extend beyond North America, with SummerSlam serving as a visible window into how WWE balances live attendance, television rights, and merchandise revenue across different regions."
-    },
-    {
-      "headline": "Travis Kelce flashes wedding band ahead of Chiefs preseason opener after Taylor Swift wedding",
-      "source": "NY Post Sports · just now",
-      "article": "Chiefs tight end Travis Kelce wore a wedding band on Saturday as Kansas City prepared for its preseason opener, signaling news about his marital status. The accessory drew immediate attention given Kelce's high-profile dating history and recent public visibility. Kelce's appearance at the preseason event marked his return to team activities following the off-season period. The Chiefs will use their preseason schedule to evaluate depth at tight end and across the roster before final cuts and the regular season. Kelce remains one of the NFL's elite pass-catchers and a critical part of Kansas City's offensive scheme heading into the new season."
-    },
-    {
-      "headline": "Blue Jays aim to sweep Yankees, move into wild-card spot",
-      "source": "Sportsnet · just now",
-      "article": "The Toronto Blue Jays are positioned to sweep the New York Yankees and climb into a wild-card position with a win on Sunday. Toronto's recent trade deadline additions have bolstered their roster and created a path back into playoff contention. The Blue Jays acquired several pieces at the deadline specifically to address roster gaps down the stretch. A sweep of the Yankees would represent a meaningful statement and provide tangible evidence that the acquisitions are working. Toronto's wild-card hopes depend on continued strong play down the final weeks of the regular season."
-    },
-    {
-      "headline": "2026 Fantasy football draft prep: Experts unveil rankings, top 150, optimal rookie picks",
-      "source": "CBS Sports · just now",
-      "article": "SportsLine's 2026 fantasy football draft guide provides comprehensive preparation resources including player rankings, top 150 prospects, and guidance on rookie selections. The platform ran 10,000 season simulations to inform its draft strategy recommendations and identify breakout candidates. The guide includes auction values, keeper advice, mock drafts, and analysis of positional depth. CBS Sports' simulation model identified several rookie prospects as optimal value plays, players who could deliver outsized return relative to their draft position. Fantasy football preparation is intensifying as the 2026 NFL season approaches, with serious leagues beginning draft preparation."
-    },
-    {
-      "headline": "Jayden Daniels LSU Number Feud Raises NIL, IP Law Questions",
+      "headline": "Jayden Daniels Cease-and-Desist to LSU Raises NIL Legal Questions",
       "source": "Sportico · 1d ago",
-      "article": "Jayden Daniels sent a cease-and-desist letter to LSU on August 5, demanding the university stop using his NIL or face potential legal action. The move could inspire similar leverage plays from other former college stars seeking control of their name, image, and likeness after leaving campus. Daniels' legal action highlights the murky intersection of athlete rights, university brand ownership, and NIL policy. If Daniels prevails, other former players may pursue similar claims against their alma maters. The case could reshape how universities handle athlete NIL after players depart, establishing precedent for compensating athletes or surrendering claimed usage rights."
+      "article": "Jayden Daniels sent a cease-and-desist letter to LSU demanding the university stop using his name, image, and likeness, threatening legal action if the school continued. The move signals a potential escalation in disputes between former college stars and their alma maters over NIL rights and control. Daniels' legal action could set a precedent for other former players seeking similar leverage with universities. The incident highlights ambiguities in NIL law and university obligations to former athletes. As NIL deals become more valuable and visible, questions about who owns rights to a player's identity after they leave campus will only intensify. Sportico reported the cease-and-desist arrived on August 5, marking an unusually aggressive move by a recent college departure."
     },
     {
-      "headline": "No change to NASCAR linear viewership trend as season shifts to USA",
-      "source": "Sports Media Watch · 12h ago",
-      "article": "NASCAR's shift to USA Network has not altered the sport's linear television viewership trends, continuing the patterns established during the TNT portion of the season. The network change represents a mid-season adjustment in broadcast rights and scheduling. NASCAR's viewership challenges persist regardless of broadcast home, suggesting broader audience engagement issues that transcend individual network distribution. USA Network's NASCAR coverage maintains parity with TNT in terms of audience reach, indicating that audience drift is tied to factors beyond the specific cable destination. The remainder of the NASCAR season on USA will test whether a later-stage network shift can stabilize or improve trending viewership."
+      "headline": "Australia's Lani Pallister Topples Katie Ledecky's 800m Freestyle Streak",
+      "source": "The Guardian · 14h ago",
+      "article": "Lani Pallister of Australia defeated Katie Ledecky in the 800m freestyle at the Pan Pacific Championships, ending Ledecky's streak of 13 consecutive international gold medals in the event. Pallister set a new championship record with a time of 8:06.10, a dominant performance against the sport's reigning standard-bearer. The result marks a significant moment in women's distance freestyle, where Ledecky had established near-total dominance. Pallister's victory suggests a changing generational dynamic in the event and opens the door for new competition at the world's highest levels. Ledecky remains one of swimming's all-time greats despite the loss, but the streak's end forces a recalibration of expectations heading into Olympic trials and world championships."
+    },
+    {
+      "headline": "Scherzer, Blue Jays Play Fantasy Football League Competition",
+      "source": "Sportsnet · 1h ago",
+      "article": "Toronto Blue Jays pitcher Max Scherzer joined broadcasters Dan Shulamn and Joe Siddall during an in-game interview to discuss the team's fantasy football league and an internal draft-order competition. The segment offered insight into how modern baseball teams build camaraderie through off-field competition. Fantasy football remains ubiquitous across North American sports locker rooms, and Scherzer's participation underscores how deeply embedded the sport's culture is within professional baseball. The Blue Jays' willingness to showcase this activity on broadcast reflects how baseball teams now integrate fan-facing entertainment with player relationships."
+    },
+    {
+      "headline": "Stephen A. Smith Vows to Fire Back After NABJ Thumbs Down Award",
+      "source": "Front Office Sports · just now",
+      "article": "Stephen A. Smith responded to the National Association of Black Journalists declining to present him an award, writing on social media that his turn to respond is coming. The exchange reflects ongoing tensions between Smith and media organizations over his commentary and public positions. Smith's defiant tone suggests the dispute extends beyond a single award decision and touches on broader disagreements about representation and editorial autonomy in sports media. The back-and-forth adds another chapter to Smith's contentious relationship with various media organizations and advocacy groups."
+    },
+    {
+      "headline": "Leicestershire Reach One-Day Cup Final with Win Over Notts Outlaws",
+      "source": "BBC Sport · just now",
+      "article": "Leicestershire overcame Notts Outlaws by 23 runs in their One-Day Cup semi-final at Grace Road to reach the final. The victory marks Leicestershire's second cup final appearance in four years, suggesting a sustained period of competitive cricket at the domestic level. The result came in a format that continues to draw strong participation and fan interest across English domestic cricket. Leicestershire's path to the final reflects consistent squad building and tactical acumen under pressure."
+    },
+    {
+      "headline": "NASCAR Viewership Remains Flat as Season Shifts to USA Network",
+      "source": "Sports Media Watch · 16h ago",
+      "article": "NASCAR's linear viewership showed no meaningful change as the season shifted from TNT to USA Network coverage, continuing a trend that has defined the current viewing landscape. The stability of audience numbers, whether on TNT or USA, suggests that network affiliation has less impact on viewership than other factors like race timing and competitive interest. NASCAR faces ongoing challenges in growing its television audience despite investments in new broadcast partners and programming strategies. The persistence of flat viewership underscores structural challenges in motorsports media that transcend individual network decisions."
     }
   ],
   "poll": {
-    "question": "Which story will dominate sports headlines tomorrow?",
+    "question": "Which retirement announcement will actually stick?",
     "options": [
-      "Arsenal-Manchester City Community Shield result and tactical takeaways",
-      "Lani Pallister's upset of Katie Ledecky and the state of women's distance swimming",
-      "MLB wild-card race developments across the final weeks of the season",
-      "2026 NFL preseason and early fantasy football draft strategy"
+      "Cristiano Ronaldo plays at least two more seasons",
+      "Ronaldo retires this season as stated",
+      "Ronaldo's announcement means nothing and he'll play indefinitely",
+      "Too early to say; wait for preseason performance"
     ]
   },
   "predictions": [
     {
-      "statement": "Arsenal will defeat Manchester City in the Community Shield, setting a positive tone for their season.",
-      "probability": 45,
-      "rationale": "Both sides are strong, but Arsenal's perceived tactical hunger and the home-crowd advantage in Cardiff give them a slight edge. Community Shield matches are often tight, and penalties are a genuine possibility."
+      "statement": "Arsenal finishes top-four in the Premier League this season.",
+      "probability": 74,
+      "rationale": "The Community Shield demolition of Manchester City reveals offensive cohesion and defensive organization under Arteta. Calafiori's early impact in the backline and the pace of Havertz suggest Arsenal has the pieces to compete. City's vulnerability in the opener matters: if Maresca's tactical adjustments fail early, the title race fragments."
     },
     {
-      "statement": "Claressa Shields will secure a fight with Lauren Price within the next 12 months.",
-      "probability": 72,
-      "rationale": "Shields has named Price as her preferred opponent and holds three belts. Both fighters have the profile and promotional backing to make the matchup happen. Women's boxing has momentum, and this fight makes commercial sense."
+      "statement": "Jayden Daniels' cease-and-desist to LSU settles without court proceedings.",
+      "probability": 61,
+      "rationale": "Universities have budgets and exposure incentives to resolve NIL disputes quietly. Courts have not yet established clear precedent on NIL ownership post-departure, making litigation risky for both sides. A negotiated settlement allowing limited LSU use of Daniels' name in historical contexts while restricting new commercial deployment is the path of least resistance."
     },
     {
-      "statement": "Travis Kelce's 2026 season will see a notable decline in production relative to his career average.",
-      "probability": 28,
-      "rationale": "Kelce remains elite and the Chiefs' system favors him. Personal life changes rarely derail Hall of Fame-trajectory players mid-career. Kansas City will continue to scheme for him."
+      "statement": "Nick Boba plays in the 49ers' first regular-season game.",
+      "probability": 82,
+      "rationale": "His return to practice after two weeks of tendinitis suggests the injury was not structural. Tendinitis typically resolves with load management and doesn't threaten long-term availability. The 49ers have every incentive to bring him back healthy and will not rush him into action if conditioning lags."
     },
     {
-      "statement": "Jayden Daniels will prevail in his legal dispute with LSU over NIL rights.",
-      "probability": 58,
-      "rationale": "Daniels has a strong case that his NIL is his personal property post-departure. Universities' blanket claims to athlete likenesses are increasingly vulnerable legally. However, litigation is unpredictable and settlements may occur before judgment."
+      "statement": "Scottish football improves measurably under Pocognoli within his first 18 months.",
+      "probability": 55,
+      "rationale": "Two-year contracts provide limited runway for systemic change. Pocognoli is an emerging talent, not a proven international operator. If he struggles early, the SFA faces pressure to make a change. Success hinges on squad buy-in and early competitive results, neither guaranteed in a tough qualification group."
     }
   ],
   "injuries": [
     {
-      "player": "Emi Martinez",
-      "team": "Aston Villa",
-      "league": "SOCCER",
-      "position": "GK",
-      "status": "DOUBTFUL",
-      "injury": "Future at club in doubt",
-      "timeline": null,
-      "source": "BBC Sport",
-      "impact": "Villa are actively pursuing replacement goalkeeper Zion Suzuki, signaling potential shift at the position.",
-      "storyIndex": 4
+      "player": "Nick Boba",
+      "team": "San Francisco 49ers",
+      "league": "NFL",
+      "position": "DE",
+      "status": "RETURNING",
+      "injury": "Tendinitis",
+      "timeline": "On track for regular season",
+      "source": "NY Post Sports",
+      "impact": "Pass rush production restored if Boba remains healthy; critical for defensive line depth and edge pressure.",
+      "storyIndex": 10
     }
   ],
   "picks": [
-    {
-      "type": "spread",
-      "pick": "Villarreal -0.5",
-      "odds": "110",
-      "edge": "Market fill from live lines: the books lay -0.5 with Villarreal at 110 (best @ BetUS). No researched edge — a low-confidence market-consensus play so this sport isn't empty today.",
-      "matchup": "Villarreal @ Real Racing Club de Santander",
-      "league": "LA LIGA",
-      "when": "Today 11:00 AM ET",
-      "confidence": "low",
-      "_autofill": true,
-      "_scheduledTs": 1786892400000,
-      "marketSnapshot": {
-        "capturedAt": "2026-08-16T11:12:05.018Z",
-        "markets": {
-          "h2h": {
-            "away": {
-              "price": 105,
-              "book": "FanDuel"
-            },
-            "home": {
-              "price": 274,
-              "book": "LowVig.ag"
-            },
-            "draw": {
-              "price": 266,
-              "book": "LowVig.ag"
-            }
-          },
-          "spreads": {
-            "away": {
-              "point": -0.5,
-              "price": 110,
-              "book": "BetUS"
-            },
-            "home": {
-              "point": 0.5,
-              "price": -122,
-              "book": "LowVig.ag"
-            }
-          },
-          "totals": {
-            "over": {
-              "point": 2.5,
-              "price": -138,
-              "book": "LowVig.ag"
-            },
-            "under": {
-              "point": 2.75,
-              "price": -105,
-              "book": "Bovada"
-            }
-          }
-        },
-        "awayTeam": "Villarreal",
-        "homeTeam": "Real Racing Club de Santander"
-      }
-    },
-    {
-      "type": "spread",
-      "pick": "Espanyol -0.25",
-      "odds": "-125",
-      "edge": "Market fill from live lines: the books lay -0.25 with Espanyol at -125 (best @ Bovada). No researched edge — a low-confidence market-consensus play so this sport isn't empty today.",
-      "matchup": "Levante @ Espanyol",
-      "league": "LA LIGA",
-      "when": "Today 1:00 PM ET",
-      "confidence": "low",
-      "_autofill": true,
-      "_scheduledTs": 1786899600000,
-      "marketSnapshot": {
-        "capturedAt": "2026-08-16T11:12:05.018Z",
-        "markets": {
-          "h2h": {
-            "away": {
-              "price": 285,
-              "book": "BetRivers"
-            },
-            "home": {
-              "price": 113,
-              "book": "LowVig.ag"
-            },
-            "draw": {
-              "price": 230,
-              "book": "BetRivers"
-            }
-          },
-          "spreads": {
-            "away": {
-              "point": 0.5,
-              "price": -130,
-              "book": "BetUS"
-            },
-            "home": {
-              "point": -0.25,
-              "price": -125,
-              "book": "Bovada"
-            }
-          },
-          "totals": {
-            "over": {
-              "point": 2.25,
-              "price": -110,
-              "book": "Bovada"
-            },
-            "under": {
-              "point": 2.5,
-              "price": -135,
-              "book": "BetUS"
-            }
-          }
-        },
-        "awayTeam": "Levante",
-        "homeTeam": "Espanyol"
-      }
-    },
     {
       "type": "moneyline",
       "pick": "Chicago Fire ML",
@@ -2698,6 +2592,60 @@
         },
         "awayTeam": "Philadelphia Union",
         "homeTeam": "New York City FC"
+      }
+    },
+    {
+      "type": "moneyline",
+      "pick": "Atlanta Braves ML",
+      "odds": "-122",
+      "edge": "Market fill from live lines: Atlanta Braves is the books' favorite at -122 (best price @ FanDuel) against Arizona Diamondbacks at +115, with home ice/court/field behind them. No researched edge here — this is a low-confidence market-consensus play added to round out the slate. Low confidence is honest confidence.",
+      "matchup": "Arizona Diamondbacks @ Atlanta Braves",
+      "league": "MLB",
+      "when": "Today 1:36 PM ET",
+      "confidence": "low",
+      "_autofill": true,
+      "_scheduledTs": 1786901760000,
+      "marketSnapshot": {
+        "capturedAt": "2026-08-16T15:13:29.367Z",
+        "markets": {
+          "h2h": {
+            "away": {
+              "price": 115,
+              "book": "DraftKings"
+            },
+            "home": {
+              "price": -122,
+              "book": "FanDuel"
+            },
+            "draw": null
+          },
+          "spreads": {
+            "away": {
+              "point": 1.5,
+              "price": -185,
+              "book": "Bovada"
+            },
+            "home": {
+              "point": -1.5,
+              "price": 165,
+              "book": "LowVig.ag"
+            }
+          },
+          "totals": {
+            "over": {
+              "point": 9,
+              "price": 102,
+              "book": "BetRivers"
+            },
+            "under": {
+              "point": 9,
+              "price": -113,
+              "book": "LowVig.ag"
+            }
+          }
+        },
+        "awayTeam": "Arizona Diamondbacks",
+        "homeTeam": "Atlanta Braves"
       }
     },
     {
@@ -6123,10 +6071,10 @@
       "_pendingGrade": true
     },
     {
-      "type": "moneyline",
-      "pick": "Tampa Bay Rays ML",
-      "odds": "-137",
-      "edge": "Market fill from live lines: Tampa Bay Rays is the books' favorite at -137 (best price @ Caesars) against Baltimore Orioles at +133, with home ice/court/field behind them. No researched edge here — this is a low-confidence market-consensus play added to round out the slate. Low confidence is honest confidence.",
+      "type": "spread",
+      "pick": "Baltimore Orioles -7.5",
+      "odds": "-910",
+      "edge": "Market fill from live lines: the books lay -7.5 with Baltimore Orioles at -910 (best @ BetRivers). No researched edge — a low-confidence market-consensus play so this sport isn't empty today.",
       "matchup": "Baltimore Orioles @ Tampa Bay Rays",
       "league": "MLB",
       "when": "Today 12:16 PM ET",
@@ -6134,126 +6082,66 @@
       "_autofill": true,
       "_scheduledTs": 1786896960000,
       "marketSnapshot": {
-        "capturedAt": "2026-08-16T15:13:29.367Z",
+        "capturedAt": "2026-08-16T19:15:36.769Z",
         "markets": {
           "h2h": {
-            "away": {
-              "price": 133,
-              "book": "BetRivers"
-            },
-            "home": {
-              "price": -137,
-              "book": "Caesars"
-            },
+            "away": null,
+            "home": null,
             "draw": null
           },
           "spreads": {
             "away": {
-              "point": 1.5,
-              "price": -173,
-              "book": "BetOnline.ag"
+              "point": -7.5,
+              "price": -910,
+              "book": "BetRivers"
             },
             "home": {
-              "point": -1.5,
-              "price": 153,
-              "book": "LowVig.ag"
+              "point": 7.5,
+              "price": 800,
+              "book": "Caesars"
             }
           },
           "totals": {
             "over": {
-              "point": 7,
-              "price": -125,
-              "book": "Bovada"
+              "point": 12.5,
+              "price": 800,
+              "book": "Caesars"
             },
             "under": {
-              "point": 7.5,
-              "price": -119,
-              "book": "LowVig.ag"
+              "point": 12.5,
+              "price": -1100,
+              "book": "FanDuel"
             }
           }
         },
         "awayTeam": "Baltimore Orioles",
         "homeTeam": "Tampa Bay Rays"
       }
-    },
-    {
-      "type": "moneyline",
-      "pick": "Atlanta Braves ML",
-      "odds": "-122",
-      "edge": "Market fill from live lines: Atlanta Braves is the books' favorite at -122 (best price @ FanDuel) against Arizona Diamondbacks at +115, with home ice/court/field behind them. No researched edge here — this is a low-confidence market-consensus play added to round out the slate. Low confidence is honest confidence.",
-      "matchup": "Arizona Diamondbacks @ Atlanta Braves",
-      "league": "MLB",
-      "when": "Today 1:36 PM ET",
-      "confidence": "low",
-      "_autofill": true,
-      "_scheduledTs": 1786901760000,
-      "marketSnapshot": {
-        "capturedAt": "2026-08-16T15:13:29.367Z",
-        "markets": {
-          "h2h": {
-            "away": {
-              "price": 115,
-              "book": "DraftKings"
-            },
-            "home": {
-              "price": -122,
-              "book": "FanDuel"
-            },
-            "draw": null
-          },
-          "spreads": {
-            "away": {
-              "point": 1.5,
-              "price": -185,
-              "book": "Bovada"
-            },
-            "home": {
-              "point": -1.5,
-              "price": 165,
-              "book": "LowVig.ag"
-            }
-          },
-          "totals": {
-            "over": {
-              "point": 9,
-              "price": 102,
-              "book": "BetRivers"
-            },
-            "under": {
-              "point": 9,
-              "price": -113,
-              "book": "LowVig.ag"
-            }
-          }
-        },
-        "awayTeam": "Arizona Diamondbacks",
-        "homeTeam": "Atlanta Braves"
-      }
     }
   ],
-  "updatedAt": "2026-08-16T15:47:00Z",
+  "updatedAt": "2024-04-23T18:45:00Z",
   "highlights": [
     {
       "league": "NBA",
       "title": "Every Basketball Hall of Fame Enshrinement Speech from the Class of 2026",
       "videoId": "3ghAG0wsjdQ",
       "thumbnail": "https://img.youtube.com/vi/3ghAG0wsjdQ/mqdefault.jpg",
-      "timeAgo": "13h ago",
+      "timeAgo": "17h ago",
       "isFallback": false
     },
     {
       "league": "NFL",
-      "title": "'Tonight's performance helps [Watson]' - Herm Edwards on Browns' QB competition | SportsCenter",
-      "videoId": "Mm4efn9nYO4",
-      "thumbnail": "https://img.youtube.com/vi/Mm4efn9nYO4/mqdefault.jpg",
-      "timeAgo": "11h ago",
+      "title": "I Scored a Touchdown: Dave Casper's Super Bowl XI Story | NFL on ESPN",
+      "videoId": "KpExBjjwYko",
+      "thumbnail": "https://img.youtube.com/vi/KpExBjjwYko/mqdefault.jpg",
+      "timeAgo": "3h ago",
       "isFallback": false
     },
     {
       "league": "MLB",
-      "title": "This kid put on a SHOW when he realized he was on the scoreboard 🤣",
-      "videoId": "Vhx-TcQUwWw",
-      "thumbnail": "https://img.youtube.com/vi/Vhx-TcQUwWw/mqdefault.jpg",
+      "title": "Brett Callahan hit a 2-run triple on the first pitch he saw in his MLB debut😲",
+      "videoId": "iyfoKzOYM8s",
+      "thumbnail": "https://img.youtube.com/vi/iyfoKzOYM8s/mqdefault.jpg",
       "timeAgo": "1h ago",
       "isFallback": false
     },
@@ -6262,27 +6150,147 @@
       "title": "EVERY GOAL Scored Last Season by the 2026-27 Nashville Predators Roster",
       "videoId": "s9Q6ZMFQF9Q",
       "thumbnail": "https://img.youtube.com/vi/s9Q6ZMFQF9Q/mqdefault.jpg",
-      "timeAgo": "Just now",
+      "timeAgo": "4h ago",
       "isFallback": false
     },
     {
       "league": "WNBA",
-      "title": "Candace Parker: FULL Hall of Fame Speech",
-      "videoId": "m9MuIFrQYL8",
-      "thumbnail": "https://img.youtube.com/vi/m9MuIFrQYL8/mqdefault.jpg",
-      "timeAgo": "11h ago",
+      "title": "Diana Taurasi’s Legacy | A Look Back Ahead of Her Jersey Retirement",
+      "videoId": "x89XeZK-l3c",
+      "thumbnail": "https://img.youtube.com/vi/x89XeZK-l3c/mqdefault.jpg",
+      "timeAgo": "Just now",
       "isFallback": false
     },
     {
       "league": "SOCCER",
-      "title": "Kai Havertz makes it two for the Premier League Champions‼️",
-      "videoId": "a4jiBxFDQAU",
-      "thumbnail": "https://img.youtube.com/vi/a4jiBxFDQAU/mqdefault.jpg",
-      "timeAgo": "Just now",
+      "title": "Arsenal THRASES Manchester City in FA Community Shield 🏆 + Ronaldo hints at retirement?! 👀 | ESPN FC",
+      "videoId": "CIu5IZ-csr0",
+      "thumbnail": "https://img.youtube.com/vi/CIu5IZ-csr0/mqdefault.jpg",
+      "timeAgo": "1h ago",
       "isFallback": false
     }
   ],
   "reels": [
+    {
+      "league": "WNBA",
+      "title": "Diana Taurasi’s Legacy | A Look Back Ahead of Her Jersey Retirement",
+      "videoId": "x89XeZK-l3c",
+      "author": "WNBA",
+      "pubDate": "2026-08-16T19:05:06+00:00",
+      "link": "https://www.youtube.com/watch?v=x89XeZK-l3c"
+    },
+    {
+      "league": "MLB",
+      "title": "Brett Callahan hit a 2-run triple on the first pitch he saw in his MLB debut😲",
+      "videoId": "iyfoKzOYM8s",
+      "author": "MLB",
+      "pubDate": "2026-08-16T18:41:34+00:00",
+      "link": "https://www.youtube.com/watch?v=iyfoKzOYM8s"
+    },
+    {
+      "league": "SOCCER",
+      "title": "Arsenal THRASES Manchester City in FA Community Shield 🏆 + Ronaldo hints at retirement?! 👀 | ESPN FC",
+      "videoId": "CIu5IZ-csr0",
+      "author": "ESPN FC",
+      "pubDate": "2026-08-16T18:14:14+00:00",
+      "link": "https://www.youtube.com/watch?v=CIu5IZ-csr0"
+    },
+    {
+      "league": "SOCCER",
+      "title": "How far will Arsenal go in the Premier League? | ESPN FC Extra Time",
+      "videoId": "GcaL2Df8Lhk",
+      "author": "ESPN FC",
+      "pubDate": "2026-08-16T18:12:11+00:00",
+      "link": "https://www.youtube.com/watch?v=GcaL2Df8Lhk"
+    },
+    {
+      "league": "MLB",
+      "title": "nothing you see here is easy 😮‍💨",
+      "videoId": "Kv6Gtl1kUjs",
+      "author": "MLB",
+      "pubDate": "2026-08-16T18:00:27+00:00",
+      "link": "https://www.youtube.com/watch?v=Kv6Gtl1kUjs"
+    },
+    {
+      "league": "SOCCER",
+      "title": "The shield accidentally hit Declan Rice in the face 😂",
+      "videoId": "QDQ6fypYODs",
+      "author": "ESPN FC",
+      "pubDate": "2026-08-16T17:54:46+00:00",
+      "link": "https://www.youtube.com/watch?v=QDQ6fypYODs"
+    },
+    {
+      "league": "SOCCER",
+      "title": "First piece of silverware for the season!",
+      "videoId": "Syytwjq0yWU",
+      "author": "ESPN FC",
+      "pubDate": "2026-08-16T17:54:44+00:00",
+      "link": "https://www.youtube.com/watch?v=Syytwjq0yWU"
+    },
+    {
+      "league": "SOCCER",
+      "title": "👏",
+      "videoId": "a7Y4uaU1Yr4",
+      "author": "ESPN FC",
+      "pubDate": "2026-08-16T17:52:41+00:00",
+      "link": "https://www.youtube.com/watch?v=a7Y4uaU1Yr4"
+    },
+    {
+      "league": "SOCCER",
+      "title": "Vibes 😭",
+      "videoId": "uMw1cHdVito",
+      "author": "ESPN FC",
+      "pubDate": "2026-08-16T17:52:39+00:00",
+      "link": "https://www.youtube.com/watch?v=uMw1cHdVito"
+    },
+    {
+      "league": "SOCCER",
+      "title": "😔😔😔",
+      "videoId": "cZYPFk0BaRw",
+      "author": "ESPN FC",
+      "pubDate": "2026-08-16T17:52:37+00:00",
+      "link": "https://www.youtube.com/watch?v=cZYPFk0BaRw"
+    },
+    {
+      "league": "SOCCER",
+      "title": "🤝",
+      "videoId": "BE91Qm4hXUA",
+      "author": "ESPN FC",
+      "pubDate": "2026-08-16T17:52:35+00:00",
+      "link": "https://www.youtube.com/watch?v=BE91Qm4hXUA"
+    },
+    {
+      "league": "MLB",
+      "title": "When Carlos Santana hit the insane walk-off celebration for the Pirates 🤣🤣",
+      "videoId": "e3GAiX-J6lM",
+      "author": "MLB",
+      "pubDate": "2026-08-16T17:00:15+00:00",
+      "link": "https://www.youtube.com/watch?v=e3GAiX-J6lM"
+    },
+    {
+      "league": "MLB",
+      "title": "The Wrigley Field fans knew they were witnessing history yesterday 👏",
+      "videoId": "kuSYux_v5eU",
+      "author": "MLB",
+      "pubDate": "2026-08-16T16:00:10+00:00",
+      "link": "https://www.youtube.com/watch?v=kuSYux_v5eU"
+    },
+    {
+      "league": "NFL",
+      "title": "I Scored a Touchdown: Dave Casper's Super Bowl XI Story | NFL on ESPN",
+      "videoId": "KpExBjjwYko",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-08-16T16:00:05+00:00",
+      "link": "https://www.youtube.com/watch?v=KpExBjjwYko"
+    },
+    {
+      "league": "MLB",
+      "title": "That ... will ... stay ... fair?!",
+      "videoId": "RSDkWjqtJco",
+      "author": "MLB",
+      "pubDate": "2026-08-16T15:15:31+00:00",
+      "link": "https://www.youtube.com/watch?v=RSDkWjqtJco"
+    },
     {
       "league": "NHL",
       "title": "EVERY GOAL Scored Last Season by the 2026-27 Nashville Predators Roster",
@@ -6292,52 +6300,12 @@
       "link": "https://www.youtube.com/watch?v=s9Q6ZMFQF9Q"
     },
     {
-      "league": "SOCCER",
-      "title": "Kai Havertz makes it two for the Premier League Champions‼️",
-      "videoId": "a4jiBxFDQAU",
-      "author": "ESPN FC",
-      "pubDate": "2026-08-16T14:48:55+00:00",
-      "link": "https://www.youtube.com/watch?v=a4jiBxFDQAU"
-    },
-    {
-      "league": "SOCCER",
-      "title": "STRIKE 23 SECONDS INTO THE MATCH AGAINST MAN CITY 😱",
-      "videoId": "gy4hnWuhaFw",
-      "author": "ESPN FC",
-      "pubDate": "2026-08-16T14:38:48+00:00",
-      "link": "https://www.youtube.com/watch?v=gy4hnWuhaFw"
-    },
-    {
       "league": "MLB",
       "title": "This kid put on a SHOW when he realized he was on the scoreboard 🤣",
       "videoId": "Vhx-TcQUwWw",
       "author": "MLB",
       "pubDate": "2026-08-16T14:30:17+00:00",
       "link": "https://www.youtube.com/watch?v=Vhx-TcQUwWw"
-    },
-    {
-      "league": "SOCCER",
-      "title": "Rough night for Messi and Inter Miami in Nashville 😬 (via @mls on Apple TV)",
-      "videoId": "WOPy4yhvEb0",
-      "author": "ESPN FC",
-      "pubDate": "2026-08-16T14:24:05+00:00",
-      "link": "https://www.youtube.com/watch?v=WOPy4yhvEb0"
-    },
-    {
-      "league": "SOCCER",
-      "title": "😮 (via @mls on Apple TV)",
-      "videoId": "wCiok_IpZuE",
-      "author": "ESPN FC",
-      "pubDate": "2026-08-16T14:23:10+00:00",
-      "link": "https://www.youtube.com/watch?v=wCiok_IpZuE"
-    },
-    {
-      "league": "SOCCER",
-      "title": "ARSENAL STRIKE IN THE FIRST MINUTE OF THE MATCH AGAINST MAN CITY 😱",
-      "videoId": "VvmQ7Sjyuco",
-      "author": "ESPN FC",
-      "pubDate": "2026-08-16T14:18:31+00:00",
-      "link": "https://www.youtube.com/watch?v=VvmQ7Sjyuco"
     },
     {
       "league": "MLB",
@@ -6354,38 +6322,6 @@
       "author": "MLB",
       "pubDate": "2026-08-16T13:00:12+00:00",
       "link": "https://www.youtube.com/watch?v=anMft7exJmY"
-    },
-    {
-      "league": "MLB",
-      "title": "The GREATEST debut in MLB HISTORY? (Top MLB Plays of 8/15/26)",
-      "videoId": "S7-3mWu1qiM",
-      "author": "MLB",
-      "pubDate": "2026-08-16T11:00:34+00:00",
-      "link": "https://www.youtube.com/watch?v=S7-3mWu1qiM"
-    },
-    {
-      "league": "MLB",
-      "title": "Highlights from ALL GAMES on 8/15 (Joshua Báez's HISTORIC debut, Miz vs. Dodgers, and MORE!)",
-      "videoId": "gWf79UmJyLE",
-      "author": "MLB",
-      "pubDate": "2026-08-16T10:00:23+00:00",
-      "link": "https://www.youtube.com/watch?v=gWf79UmJyLE"
-    },
-    {
-      "league": "MLB",
-      "title": "RANGERS vs. ATHLETICS: Official Full Game Highlights (August 15) | 2026 MLB Season",
-      "videoId": "yiBCFJVV6jg",
-      "author": "MLB",
-      "pubDate": "2026-08-16T04:45:53+00:00",
-      "link": "https://www.youtube.com/watch?v=yiBCFJVV6jg"
-    },
-    {
-      "league": "MLB",
-      "title": "ROYALS vs. ANGELS: Official Full Game Highlights (August 15) | 2026 MLB Season",
-      "videoId": "jyBKfMR_Vd8",
-      "author": "MLB",
-      "pubDate": "2026-08-16T04:12:13+00:00",
-      "link": "https://www.youtube.com/watch?v=jyBKfMR_Vd8"
     },
     {
       "league": "WNBA",
@@ -6426,22 +6362,6 @@
       "author": "WNBA",
       "pubDate": "2026-08-16T03:34:42+00:00",
       "link": "https://www.youtube.com/watch?v=z4YjE4q7G68"
-    },
-    {
-      "league": "SOCCER",
-      "title": "Nashville SC vs. Inter Miami | MLS Highlights | ESPN FC",
-      "videoId": "HifZ0JJUXSo",
-      "author": "ESPN FC",
-      "pubDate": "2026-08-16T03:01:49+00:00",
-      "link": "https://www.youtube.com/watch?v=HifZ0JJUXSo"
-    },
-    {
-      "league": "MLB",
-      "title": "Jacob Misiorowski strikes out Shohei Ohtani on three pitches 😤",
-      "videoId": "QTjSgHulwwI",
-      "author": "MLB",
-      "pubDate": "2026-08-16T03:00:20+00:00",
-      "link": "https://www.youtube.com/watch?v=QTjSgHulwwI"
     },
     {
       "league": "WNBA",
@@ -6524,22 +6444,6 @@
       "link": "https://www.youtube.com/watch?v=hj_sAbvuqvo"
     },
     {
-      "league": "SOCCER",
-      "title": "Expectations for Community Shield matchup 🍿 + Transfer news in the Premier League 👀 | ESPN FC",
-      "videoId": "E7XSypaMCKU",
-      "author": "ESPN FC",
-      "pubDate": "2026-08-15T23:53:01+00:00",
-      "link": "https://www.youtube.com/watch?v=E7XSypaMCKU"
-    },
-    {
-      "league": "SOCCER",
-      "title": "Can Arsenal replicate last year’s run of avoiding any red cards or penalties? | ESPN FC Extra Time",
-      "videoId": "CtLTCC9mf4A",
-      "author": "ESPN FC",
-      "pubDate": "2026-08-15T23:11:18+00:00",
-      "link": "https://www.youtube.com/watch?v=CtLTCC9mf4A"
-    },
-    {
       "league": "NFL",
       "title": "She was in shock after seeing Patrick Mahomes 😮",
       "videoId": "1oqG-Zu-7OM",
@@ -6564,14 +6468,6 @@
       "link": "https://www.youtube.com/watch?v=yl7uIOf2clM"
     },
     {
-      "league": "WNBA",
-      "title": "New York Liberty vs. Connecticut Sun | FULL GAME HIGHLIGHTS | August 15, 2026",
-      "videoId": "Lz1Ay2C6tMU",
-      "author": "WNBA",
-      "pubDate": "2026-08-15T19:38:01+00:00",
-      "link": "https://www.youtube.com/watch?v=Lz1Ay2C6tMU"
-    },
-    {
       "league": "NFL",
       "title": "Vea has requested a trade from the Bucs while on the last year of his contract (via MikeGarafolo/X)",
       "videoId": "OOz7WdWFpaY",
@@ -6594,14 +6490,6 @@
       "author": "NHL",
       "pubDate": "2026-08-15T17:00:06+00:00",
       "link": "https://www.youtube.com/watch?v=_Qn3Ute_tt8"
-    },
-    {
-      "league": "NFL",
-      "title": "Devon Witherspoon and the Seahawks have agreed to a four-year, $132 million extension",
-      "videoId": "h0TE98uWULI",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-08-15T16:48:37+00:00",
-      "link": "https://www.youtube.com/watch?v=h0TE98uWULI"
     }
   ]
 }
