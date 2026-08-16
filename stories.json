@@ -1,81 +1,73 @@
 {
   "clusters": [
     {
-      "category": "leagues",
+      "category": "revenue",
       "importance": 9,
-      "leadHeadline": "Calafiori's fast start inspires Arsenal to big Community Shield win over Manchester City",
-      "leadSource": "The Guardian · 3h ago",
-      "leadUrl": "https://www.theguardian.com/football/2026/aug/16/arsenal-manchester-city-community-shield-match-report",
-      "summary": "<cite index=\"2-2\">Arsenal cruised past Manchester City 3-0 in the Community Shield</cite>, with <cite index=\"9-4\">Calafiori scoring inside 26 seconds</cite> in <cite index=\"3-4\">Enzo Maresca's first competitive game as City manager</cite>.",
-      "article": "<cite index=\"2-2\">Arsenal defeated Manchester City 3-0 in the Community Shield</cite>, handing new City manager <cite index=\"9-5\">Enzo Maresca a nightmare opening</cite>. <cite index=\"9-4\">Riccardo Calafiori scored after 26 seconds following a clever pass from Myles Lewis-Skelly</cite>, setting the tone for a lopsided match at Cardiff's Principality Stadium on Sunday. <cite index=\"1-8\">Kai Havertz and Martin Odegaard added second-half goals</cite> as Arsenal controlled play. <cite index=\"21-7,21-8\">Maresca said in his postmatch conference that a big part of the game was the first goal conceded after 30 seconds</cite>, and acknowledged <cite index=\"21-9\">his side had three or four chances to score before Arsenal went up 2-0</cite>. The loss marked <cite index=\"3-4\">Maresca's debut as City manager since replacing Pep Guardiola</cite>. Arsenal, <cite index=\"3-10\">having lost to City 2-0 in the EFL Cup final earlier in 2026</cite>, used the Community Shield to reverse that narrative while claiming the traditional season-opener trophy.",
-      "tweets": [
-        {
-          "url": "https://twitter.com/Footballtweet/status/2088994296577896899",
-          "html": "<blockquote class=\"twitter-tweet\" data-dnt=\"true\" data-theme=\"dark\"><p>🚨 𝗛𝗜𝗦𝗧𝗢𝗥𝗬 𝗠𝗔𝗗𝗘: Riccardo Calafiori scored for Arsenal after just 23 seconds against Manchester City in the Community Shield. 🤯🔴\n\nIt’s officially the fastest goal in the competition’s history, smashing the previous record set by Man City’s Bobby Owen against West https://t.co/oL1E3fDmG8</p>&mdash; Football Tweet ⚽ (@Footballtweet) <a href=\"https://twitter.com/Footballtweet/status/2088994296577896899\">August 16, 2026</a></blockquote>",
-          "author_name": "Football Tweet ⚽",
-          "author_url": "https://twitter.com/Footballtweet",
-          "dateMs": 1786890026000
-        }
-      ]
+      "leadHeadline": "Scottie Scheffler runs away with FedEx St. Jude Championship to end nearly seven-month title drought",
+      "leadSource": "NY Post Sports · just now",
+      "leadUrl": "https://nypost.com/2026/08/16/sports/scottie-scheffler-runs-away-with-fedex-st-jude-championship/",
+      "summary": "Scottie Scheffler dominated the FedEx St. Jude Championship on Sunday, winning by eight strokes to end a seven-month title drought. His $3.6 million prize moves him within striking distance of Tiger Woods' PGA Tour career earnings record.",
+      "article": "<cite index=\"1-1,1-3\">Scottie Scheffler won the 2026 FedEx St. Jude Championship at TPC Southwind, his 21st PGA Tour career win.</cite> <cite index=\"6-4\">He finished at 17-under 263, an eight-stroke advantage over Si Woo Kim.</cite> <cite index=\"6-2,6-3\">This marked his first victory since January, his second triumph of 2026.</cite>\n\n<cite index=\"1-9\">His putting was statistically the best performance of his career.</cite> <cite index=\"1-6\">He had come up short repeatedly this year, including five second-place finishes and finishing one stroke back at The Masters.</cite> <cite index=\"1-5\">The win marked only his second victory this year, a disappointment by his standards.</cite>\n\n<cite index=\"1-4\">Scheffler collected $3.6 million for the victory.</cite> <cite index=\"12-15\">Coming into the week, he had $116.4 million in career earnings, with Tiger Woods commanding the all-time record at $120.9 million.</cite> <cite index=\"12-14,12-15,12-16\">The gap between Scheffler and Woods is now less than $5 million as the FedEx Cup Playoffs continue.</cite>",
+      "tweets": []
+    },
+    {
+      "category": "leagues",
+      "importance": 8,
+      "leadHeadline": "Rodri set to complete Barcelona move after Manchester City accept £65.4m bid",
+      "leadSource": "The Guardian · 2h ago",
+      "leadUrl": "https://www.theguardian.com/football/2026/aug/16/rodri-set-to-complete-barcelona-move-after-manchester-city-accept-654m-bid",
+      "summary": "Manchester City accepted Barcelona's £65.4 million bid for Spain captain Rodri, a 30-year-old World Cup winner entering the final year of his contract. Rodri favours the move back to Spain; City are pursuing Lille's Bouaddi as a replacement.",
+      "article": "Manchester City have accepted Barcelona's offer of £65.4 million for midfielder Rodri, clearing the path for the 30-year-old World Cup winner to return to Spain. Rodri entered the final year of his contract at the Etihad and had made clear his preference to move back to La Liga, where Barcelona moved quickly to secure him.\n\nThe departure marks a significant loss for Pep Guardiola's midfield. Rodri has been a cornerstone of City's recent success, a ball-dominant playmaker who controls tempo and sequences. His exit forces City into the transfer market to fill that role; the club is chasing Lille midfielder Bouaddi as a potential replacement, though reports have not confirmed the progress of those negotiations.\n\nFor Barcelona, the acquisition of Rodri represents a statement of intent in their midfield rebuild. At 30, he remains in his prime and arrives with European pedigree and proven consistency at the highest level. The fee of £65.4 million is substantial but reasonable for a player of his profile and contract situation. The deal is conditional on Rodri passing a medical and finalizing personal terms, though his stated preference to join Barcelona suggests those formalities are likely to proceed without complication.",
+      "tweets": []
     },
     {
       "category": "media",
       "importance": 7,
-      "leadHeadline": "Tommy John, pitcher whose surgery changed baseball, dies at age of 83",
-      "leadSource": "The Guardian · 1h ago",
-      "leadUrl": "https://www.theguardian.com/sport/2026/aug/16/tommy-john-pitcher-whose-surgery-changed-baseball-dies-at-age-of-83",
-      "summary": "Tommy John, the Hall of Famer whose pioneering ligament-replacement surgery revolutionized injury recovery in baseball, died at 83. A four-time All-Star with the Yankees and other clubs, John underwent the first successful ulnar collateral ligament reconstruction in 1974.",
-      "article": "Tommy John, the pitcher whose name became synonymous with the surgical procedure that saved countless baseball careers, died at 83. John was the first player to undergo the ulnar collateral ligament reconstruction that bears his name, a 1974 operation performed by Dr. Frank Jobe that transformed how baseball handles arm injuries. The surgery enabled John to pitch seven more seasons after what would have ended most careers, throwing 760 additional innings and winning 164 more games. John won four All-Star selections and was a four-time World Series champion, but his legacy extends far beyond his own accomplishments. The Tommy John surgery, now routine orthopedic practice, has allowed thousands of pitchers to return from injuries that previously forced retirement. The New York Yankees, where John pitched for 11 seasons and became a franchise favorite, released a statement memorializing him. Before Tommy John surgery existed, a torn UCL meant the end of a throwing career. After it, it meant a pathway back. That shift in baseball medicine redefined what was possible for injured pitchers across the sport.",
-      "tweets": []
-    },
-    {
-      "category": "media",
-      "importance": 6,
-      "leadHeadline": "Belgian Pocognoli confirmed as Scotland boss",
-      "leadSource": "BBC Sport · 1h ago",
-      "leadUrl": "https://www.bbc.co.uk/sport/football/articles/cwyrre1qzwlo?at_medium=RSS&amp;at_campaign=rss",
-      "summary": "Sebastien Pocognoli, a Belgian coach described by the Scottish FA as one of Europe's brightest emerging talents, signed a two-year deal as Scotland men's head coach. The appointment marks a significant shift in direction for the national team.",
-      "article": "The Scottish Football Association confirmed Sebastien Pocognoli as Scotland's new men's head coach on a two-year contract. The Belgian is characterized by the SFA as one of Europe's brightest emerging coaching talents, a notable endorsement for a figure still building his resume at the international level. Pocognoli's appointment represents a fresh direction after the previous regime's tenure and reflects the SFA's ambition to bring in a coach with a modern tactical approach and a track record of development. The two-year deal provides a window to establish systems and work toward competitive goals in European qualification. Pocognoli now inherits a squad tasked with rebuilding confidence and competing in one of football's most demanding regional competitions. The coaching market for national teams rewards both tactical innovation and an ability to unite disparate talent into a cohesive unit. Whether Pocognoli can deliver both remains the central question for Scotland's supporters and administrators alike.",
+      "leadHeadline": "History for Hunt and Asher-Smith in golden finish for GB",
+      "leadSource": "BBC Sport · 3h ago",
+      "leadUrl": "https://www.bbc.co.uk/sport/athletics/articles/c30444dmqe0o?at_medium=RSS&amp;at_campaign=rss",
+      "summary": "Amy Hunt and Dina Asher-Smith made history while Georgia Hunter Bell claimed a commanding 1500m gold as Great Britain finished strongly at the European Championships. Hunt's performance marked a significant breakthrough for British track and field.",
+      "article": "Great Britain produced a strong finish at the European Championships, with Amy Hunt and Dina Asher-Smith making history and Georgia Hunter Bell claiming a commanding gold in the 1500m.\n\nHunt's performance was historic in scope. Asher-Smith, a long-established British medal winner at international competitions, contributed to the team's medal haul. Hunter Bell's 1500m gold represented a dominant individual victory in a middle-distance event where British women have historically struggled to secure top finishes at major championships.\n\nThe trio's combined success underscores a period of resurgence in British track and field, particularly among female athletes. The European Championships remain a secondary competition to the Olympics and World Championships, but medal performances here serve as preparation for those bigger stages and demonstrate the depth of the British program heading into the next Olympic cycle. These results come at a time when track and field is working to rebuild its viewership and sponsorship footprint after the Paris Olympics.",
       "tweets": []
     },
     {
       "category": "contracts",
+      "importance": 6,
+      "leadHeadline": "Cody Bellinger could return from injury as soon as next weekend amid Yankees desperate need for offense",
+      "leadSource": "CBS Sports · 1h ago",
+      "leadUrl": "https://www.cbssports.com/mlb/news/cody-bellinger-injury-timeline-yankees-offense/",
+      "summary": "Cody Bellinger is nearing a return to the Yankees lineup after going down in late July, with the team batting .204/.281/.354 since his injury. His availability could address New York's critical offensive slump.",
+      "article": "Cody Bellinger could return to the Yankees lineup as soon as next weekend, offering relief to a team in an offensive crisis. Since Bellinger went down in late July, the Yankees have batted .204/.281/.354 as a team, a collapse that has cost them ground in the AL East race and forced manager Aaron Boone to shuffle lineups constantly in search of production.\n\nBellinger's return, if medically cleared, addresses the most glaring roster need heading into the final two months of the season. The former MVP and World Series champion has been a dependable right-handed bat in the middle order; his absence from the everyday lineup has exposed the lack of offensive depth in the current Yankees construction.\n\nThe injury timeline and recovery have not been fully detailed in available reports, but Bellinger's clearance to play next weekend suggests the medical staff is confident in his readiness. The Yankees have just over 50 games remaining in the regular season. Whether Bellinger's return provides the offensive spark the team needs or merely masks deeper structural holes in the lineup remains to be seen, but his availability changes the calculus for the final stretch.",
+      "tweets": []
+    },
+    {
+      "category": "media",
       "importance": 5,
-      "leadHeadline": "Nick Bosa takes big step toward return",
-      "leadSource": "NY Post Sports · just now",
-      "leadUrl": "https://nypost.com/2026/08/16/sports/49ers-get-good-nick-bosa-news-amid-acl-tendinitis-issue/",
-      "summary": "49ers defensive end Nick Bosa returned to practice after missing more than two weeks with tendinitis, a positive sign as San Francisco prepares for its second preseason game against the Chargers. His comeback eases concerns heading into the regular season.",
-      "article": "Nick Bosa returned to the San Francisco 49ers practice field for the first time in over two weeks, shedding his injured status and taking a major step toward full availability for the regular season. Bosa had been sidelined by tendinitis, a condition that threatened to cast doubt on his readiness for the team's second preseason contest against the Chargers. The 49ers' defensive anchor back on the field is significant news for a franchise dependent on elite pass rush production. Boba's return comes as multiple 49ers players work through various injuries during training camp, a typical preseason reality for teams managing depth charts and conditioning. His presence on Sunday's practice field signals his trajectory toward game availability and reduces the risk of opening-week roster complications. For a Super Bowl contender, keeping Boba healthy and available is non-negotiable. The positive injury update represents one of the few clear wins San Francisco can claim heading into what shapes as a critical preseason stretch.",
+      "leadHeadline": "On the Air: How Ian Eagle makes his teammates better like few others",
+      "leadSource": "Sports Media Watch · 3h ago",
+      "leadUrl": "https://www.sportsmediawatch.com/2026/08/on-the-air-ian-eagle-partners-broadcast-booth-analysis/",
+      "summary": "CBS broadcaster Ian Eagle elevates his broadcast partners through collaborative booth work, a focus of Sports Media Watch's latest analysis. Eagle's approach has become a model for modern sports commentary teamwork.",
+      "article": "Ian Eagle, the longtime CBS voice, has established himself as a broadcast partner who elevates those around him in the booth, according to Sports Media Watch's analysis. The article examines how Eagle's professionalism, preparation, and willingness to share airtime with analysts creates a collaborative dynamic that benefits the overall broadcast quality.\n\nEagle's approach contrasts with play-by-play voices who dominate booth conversations or fail to properly set up their analysts for meaningful contributions. By asking substantive questions, giving space for expert analysis, and building chemistry over multiple games, Eagle creates an environment where his partners can showcase expertise rather than merely fill dead air.\n\nThis kind of booth work often goes unnoticed by casual viewers but is closely studied within the broadcast industry. Networks evaluate talent partly on their technical skills as commentators but also on their ability to work within a team structure. Eagle's model, refined over decades at CBS, has become something of a gold standard for how major broadcasters approach their roles. The analysis underscores how broadcast quality depends not just on individual talent but on the interpersonal dynamics between the main voices on a game.",
       "tweets": []
     },
     {
       "category": "media",
       "importance": 4,
-      "leadHeadline": "MSG Defeats Charles Oakley Lawsuit, but Case Still Not Over",
+      "leadHeadline": "MSG Defeats Charles Oakley Lawsuit, but Case Still NotOver",
       "leadSource": "Sportico · 1d ago",
       "leadUrl": "https://www.sportico.com/law/analysis/2026/charles-oakley-loses-msg-lawsuit-john-mcenroe-appeal-1234942042/",
-      "summary": "A federal judge granted Madison Square Garden summary judgment in Charles Oakley's assault-and-battery lawsuit over his 2017 removal from the arena, dismissing the case for the third time. The former Knicks star's legal battle persists despite the setback.",
-      "article": "U.S. Circuit Judge Richard J. Sullivan granted Madison Square Garden summary judgment in Charles Oakley's ongoing assault-and-battery lawsuit stemming from his removal from the arena during a 2017 Knicks-Clippers game. This is the third dismissal in the case, though Oakley's legal team continues to pursue avenues to keep the lawsuit alive. The 62-year-old former Knicks star was forcibly removed from the arena without consent, an incident that drew significant public attention and raised questions about MSG's security protocols and liability. MSG has successfully defended against multiple iterations of Oakley's claims, but the case's persistence suggests ongoing legal maneuvering and appeals. For MSG, three summary judgments is a substantial victory but not yet a final resolution if Oakley's attorneys find additional grounds to refile or appeal. The case has dragged on for years, accumulating legal costs and reputational friction for both parties. Each dismissal strengthens MSG's position, yet the mere fact that courts keep allowing refiling indicates the case retains some legal viability in certain jurisdictions or claim structures.",
+      "summary": "U.S. Circuit Judge Richard J. Sullivan granted Madison Square Garden summary judgment in Charles Oakley's assault-and-battery lawsuit for his 2017 removal from a Knicks-Clippers game. This marks the third dismissal of the case, though legal options may remain for the 62-year-old former Knicks star.",
+      "article": "Madison Square Garden won another legal battle against Charles Oakley on Friday when U.S. Circuit Judge Richard J. Sullivan granted MSG summary judgment in the former Knicks star's assault-and-battery lawsuit stemming from his forcible removal from a game in 2017.\n\nOakley, 62, was ejected during a Knicks-Clippers game at MSG and alleged that security personnel used excessive force in removing him from the arena. The incident became a flashpoint in discussions about how venues treat longtime fans and franchise alumni. Oakley sued MSG Networks and others involved in the removal.\n\nSullivan's decision represents the third dismissal of the case, according to Sportico. However, Sportico notes the case \"still not over,\" suggesting Oakley may have additional legal avenues available, potentially an appeal or a refiling on different grounds. The judge's reasoning in granting summary judgment was not fully detailed in available excerpts, but the dismissal indicates the court found insufficient evidence of wrongdoing by MSG or its security team under the applicable standard.\n\nThe case has been a long-running legal dispute with no clear resolution despite multiple judicial setbacks for Oakley's side. Whether this judgment truly ends the matter or merely closes one chapter in a protracted legal saga remains to be seen.",
       "tweets": []
     },
     {
       "category": "media",
       "importance": 3,
-      "leadHeadline": "Probably my last year' - Ronaldo hints at retirement",
-      "leadSource": "BBC Sport · 3h ago",
-      "leadUrl": "https://www.bbc.co.uk/sport/football/articles/c3300lxjz7lo?at_medium=RSS&amp;at_campaign=rss",
-      "summary": "Cristiano Ronaldo suggested his current season will probably be his last as a professional player, hinting at an imminent retirement after a career spanning multiple decades and record-breaking achievements. The announcement comes as Ronaldo enters his late 30s.",
-      "article": "Cristiano Ronaldo indicated that the current season will likely be his final year as a professional footballer, offering what amounts to a retirement timeline after a career spanning multiple continents and dozens of records. The statement comes as Ronaldo, now in his late 30s, continues to perform at elite levels while competing in Saudi football. Ronaldo's potential exit would mark the end of an era that began in Manchester, extended through Spain and Italy, and concluded in Portugal and the Middle East. His impact on global football transcends goals and trophies. Ronaldo transformed athlete branding, commercial value, and the infrastructure of modern footballer endorsements. His retirement would remove one of sport's towering figures from active competition and shift the narrative toward legacy and post-career ventures. The timing allows Ronaldo to manage his own narrative around retirement rather than being forced out by declining performance or club decisions. Whether this season truly is his last or represents another in a series of hints remains uncertain, but the directness of his statement suggests finality is approaching.",
-      "tweets": []
-    },
-    {
-      "category": "media",
-      "importance": 2,
-      "leadHeadline": "Caitlyn Jenner says Enes Kanter Freedom, Royce White exposing WNBAs trans hypocrisy",
+      "leadHeadline": "George Kittle hitting top speeds but trying to not be a dumbass",
       "leadSource": "NY Post Sports · just now",
-      "leadUrl": "https://nypost.com/2026/08/16/sports/caitlyn-jenner-says-enes-kanter-freedom-royce-white-exposing-wnbas-trans-hypocrisy/",
-      "summary": "Caitlyn Jenner weighed in on ongoing transgender athlete discussions in the WNBA, citing athletes Enes Kanter Freedom and Royce White as exposing what she characterizes as hypocrisy. The comment contributes to heated conversations already dominating league discourse.",
-      "article": "Caitlyn Jenner entered the ongoing transgender athlete debate in professional basketball, specifically addressing discussions unfolding within the WNBA. Jenner referenced athletes Enes Kanter Freedom and Royce White as figures exposing what she frames as institutional inconsistency on the issue. The WNBA has faced sustained scrutiny and internal debate over transgender athletes' participation, with multiple players and figures staking positions across the spectrum. Jenner's involvement adds a high-profile voice to a conversation that has fractured the league's messaging and unity. The debate itself reflects broader cultural and legal disputes playing out across all professional sports regarding athlete eligibility, fairness, and inclusion. Without direct access to Jenner's specific critiques or detailed arguments from the story, the broader point is clear: the WNBA remains in the center of a contentious policy discussion with no consensus in sight.",
+      "leadUrl": "https://nypost.com/2026/08/16/sports/49ers-all-pro-tight-end-george-kittle-hitting-top-speeds/",
+      "summary": "San Francisco 49ers TE George Kittle is ramping up his recovery from an August Achilles tear with the season opener in Melbourne, Australia just over two weeks away. Kittle remains confident in his availability despite the tight timeline for full return-to-sport readiness.",
+      "article": "George Kittle is progressing through his recovery from an Achilles tear sustained in August, hitting top speeds in practice drills and positioning himself for the 49ers' season opener in Melbourne, Australia, just over two weeks away.\n\nKittle's medical clearance to perform at near-game speed is a positive sign for the 49ers' offensive planning. The tight end is a foundational piece of San Francisco's passing game and a primary target for quarterback Brock Purdy. His availability for the season opener would be a significant boost, though the timetable for an Achilles repair is typically 4-6 months for full competitive readiness, and Kittle's eight-month mark from the initial injury suggests he is within a reasonable window.\n\nThe player himself expressed optimism about his participation. \"I still believe that,\" he said of the possibility of being on the plane to Australia. \"My team still believes that. My surgeon...\" The quote trails off in available reporting, but the overall tone suggests confidence from both Kittle and the medical staff in his trajectory.\n\nThe 49ers face a decision point: rushing Kittle back for the season opener to maximize early-season offensive firepower, or holding him out for another week or two to ensure he is fully conditioned for the demands of an NFL season. Given the Achilles's critical role in explosive movement and cutting, the team will likely monitor his practice performance closely over the next 14 days.",
       "tweets": []
     }
   ],
@@ -2399,84 +2391,120 @@
     ],
     "source": "espn"
   },
-  "deals": [],
+  "deals": [
+    {
+      "type": "acquisition",
+      "parties": "Barcelona ⇄ Manchester City (Rodri)",
+      "value_usd": 79900000,
+      "term_years": null,
+      "league": "SOCCER",
+      "headline": "Barcelona agree £65.4M deal for Man City's Rodri",
+      "storyIndex": 17,
+      "blurb": "Barcelona accepted City's bid for Spanish midfielder Rodri, 30, a World Cup winner entering the final year of his contract.",
+      "capturedAt": "2026-08-16T23:12:14.144Z"
+    }
+  ],
   "ratings": [],
   "ticket_prices": [],
   "sidebar": [
     {
-      "headline": "Jayden Daniels Cease-and-Desist to LSU Raises NIL Legal Questions",
-      "source": "Sportico · 1d ago",
-      "article": "Jayden Daniels sent a cease-and-desist letter to LSU demanding the university stop using his name, image, and likeness, threatening legal action if the school continued. The move signals a potential escalation in disputes between former college stars and their alma maters over NIL rights and control. Daniels' legal action could set a precedent for other former players seeking similar leverage with universities. The incident highlights ambiguities in NIL law and university obligations to former athletes. As NIL deals become more valuable and visible, questions about who owns rights to a player's identity after they leave campus will only intensify. Sportico reported the cease-and-desist arrived on August 5, marking an unusually aggressive move by a recent college departure."
+      "headline": "Blue Jays finish strong homestand with extra-inning loss to Yankees",
+      "source": "Sportsnet · 2h ago",
+      "article": "The Toronto Blue Jays capped a productive homestand with an extra-inning loss to the Yankees, finishing 5-2 against AL East rivals. The loss was emblematic of a team that has found its rhythm in recent weeks despite early-August struggles that could have derailed their season. The Jays compiled a 13-20 record in August, a run that kept them competitive in a crowded division race heading into the final stretch of the season. The loss to New York prevented a sweep but did not erase the momentum built over the past month."
     },
     {
-      "headline": "Australia's Lani Pallister Topples Katie Ledecky's 800m Freestyle Streak",
-      "source": "The Guardian · 14h ago",
-      "article": "Lani Pallister of Australia defeated Katie Ledecky in the 800m freestyle at the Pan Pacific Championships, ending Ledecky's streak of 13 consecutive international gold medals in the event. Pallister set a new championship record with a time of 8:06.10, a dominant performance against the sport's reigning standard-bearer. The result marks a significant moment in women's distance freestyle, where Ledecky had established near-total dominance. Pallister's victory suggests a changing generational dynamic in the event and opens the door for new competition at the world's highest levels. Ledecky remains one of swimming's all-time greats despite the loss, but the streak's end forces a recalibration of expectations heading into Olympic trials and world championships."
+      "headline": "Spencer Arrighetti makes progress in rehab outing with Bisons",
+      "source": "Sportsnet · 4h ago",
+      "article": "Blue Jays pitcher Spencer Arrighetti advanced his return from injury with a rehab appearance for the Triple-A Bisons. The outing was designed to build arm strength and assess readiness for a potential return to the major-league roster. Arrighetti has been sidelined for several weeks and his progress in minor-league action is a positive indicator for Toronto's pitching depth down the stretch. The team will monitor his workload carefully over the next week or two before making a decision on activation."
     },
     {
-      "headline": "Scherzer, Blue Jays Play Fantasy Football League Competition",
-      "source": "Sportsnet · 1h ago",
-      "article": "Toronto Blue Jays pitcher Max Scherzer joined broadcasters Dan Shulamn and Joe Siddall during an in-game interview to discuss the team's fantasy football league and an internal draft-order competition. The segment offered insight into how modern baseball teams build camaraderie through off-field competition. Fantasy football remains ubiquitous across North American sports locker rooms, and Scherzer's participation underscores how deeply embedded the sport's culture is within professional baseball. The Blue Jays' willingness to showcase this activity on broadcast reflects how baseball teams now integrate fan-facing entertainment with player relationships."
+      "headline": "Stephen A. Smith Vows to Fire Back After NABJ Thumbs Down 'Award'",
+      "source": "Front Office Sports · 4h ago",
+      "article": "ESPN's Stephen A. Smith responded to criticism from the National Association of Black Journalists with a combative social media post. \"You had your turn, now mine is coming,\" he wrote, escalating a dispute over an award or recognition. Smith has been a lightning rod for industry criticism over his commentary style and public statements, and the NABJ's skepticism of his credentials sparked an immediate counterattack. The exchange highlights ongoing tensions within sports media over representation, credibility, and the boundaries of on-air commentary."
     },
     {
-      "headline": "Stephen A. Smith Vows to Fire Back After NABJ Thumbs Down Award",
-      "source": "Front Office Sports · just now",
-      "article": "Stephen A. Smith responded to the National Association of Black Journalists declining to present him an award, writing on social media that his turn to respond is coming. The exchange reflects ongoing tensions between Smith and media organizations over his commentary and public positions. Smith's defiant tone suggests the dispute extends beyond a single award decision and touches on broader disagreements about representation and editorial autonomy in sports media. The back-and-forth adds another chapter to Smith's contentious relationship with various media organizations and advocacy groups."
+      "headline": "Iowa's Little League World Series team accused of sign stealing in wild drama",
+      "source": "NY Post Sports · just now",
+      "article": "Davenport Northwest, Iowa's Little League World Series team, has been accused of stealing signs during its 7-6 regional final victory over Wisconsin. The allegation emerged after the team's advancement, adding a layer of controversy to what was already a tightly contested matchup. Little League officials have not yet ruled on the matter. If substantiated, the sign-stealing could lead to disqualification or other sanctions, though the Little League's enforcement process and precedent for such infractions remain unclear. The drama underscores the intensity around youth baseball's marquee tournament."
     },
     {
-      "headline": "Leicestershire Reach One-Day Cup Final with Win Over Notts Outlaws",
-      "source": "BBC Sport · just now",
-      "article": "Leicestershire overcame Notts Outlaws by 23 runs in their One-Day Cup semi-final at Grace Road to reach the final. The victory marks Leicestershire's second cup final appearance in four years, suggesting a sustained period of competitive cricket at the domestic level. The result came in a format that continues to draw strong participation and fan interest across English domestic cricket. Leicestershire's path to the final reflects consistent squad building and tactical acumen under pressure."
+      "headline": "Arsenal's midfield depth signals ominous warning to title rivals",
+      "source": "The Guardian · 5h ago",
+      "article": "Arsenal's additions of Bruno Guimarães and Christos Tzolis, combined with the re-emergence of Martin Ødegaard, have positioned the defending champions as overwhelming favorites heading into the new Premier League season. The Guardian's Ed Aarons analyzed the team's Community Shield win over Manchester City as a potential preview of the league's new power structure. Arsenal's midfield depth now surpasses that of rivals City and Manchester United, with multiple elite creators and ball-carriers available for rotation and depth. If this balance holds, Arsenal should be the team to beat in the title race."
     },
     {
-      "headline": "NASCAR Viewership Remains Flat as Season Shifts to USA Network",
-      "source": "Sports Media Watch · 16h ago",
-      "article": "NASCAR's linear viewership showed no meaningful change as the season shifted from TNT to USA Network coverage, continuing a trend that has defined the current viewing landscape. The stability of audience numbers, whether on TNT or USA, suggests that network affiliation has less impact on viewership than other factors like race timing and competitive interest. NASCAR faces ongoing challenges in growing its television audience despite investments in new broadcast partners and programming strategies. The persistence of flat viewership underscores structural challenges in motorsports media that transcend individual network decisions."
+      "headline": "No change to NASCAR linear viewership trend as season shifts to USA",
+      "source": "Sports Media Watch · 20h ago",
+      "article": "NASCAR's viewership on USA Network has maintained the same trajectory as its prior TNT broadcasts, showing no significant uptick or decline as the series transitioned networks. Sports Media Watch's analysis suggests the network change did not materially affect the audience size or composition. The stability is notable given that network transitions can sometimes disrupt viewing habits, but NASCAR's audience appears to have followed the broadcast seamlessly. The data provides a baseline for comparison as the season progresses and USA Network settles into its coverage role."
     }
   ],
   "poll": {
-    "question": "Which retirement announcement will actually stick?",
+    "question": "Will George Kittle play in the 49ers' season opener in Melbourne in two weeks?",
     "options": [
-      "Cristiano Ronaldo plays at least two more seasons",
-      "Ronaldo retires this season as stated",
-      "Ronaldo's announcement means nothing and he'll play indefinitely",
-      "Too early to say; wait for preseason performance"
+      "Yes, he'll be cleared and active",
+      "No, the team will be cautious with his recovery",
+      "Game-time decision pending final testing",
+      "Likely to return but for limited snaps only"
     ]
   },
   "predictions": [
     {
-      "statement": "Arsenal finishes top-four in the Premier League this season.",
-      "probability": 74,
-      "rationale": "The Community Shield demolition of Manchester City reveals offensive cohesion and defensive organization under Arteta. Calafiori's early impact in the backline and the pace of Havertz suggest Arsenal has the pieces to compete. City's vulnerability in the opener matters: if Maresca's tactical adjustments fail early, the title race fragments."
+      "statement": "Scottie Scheffler breaks Tiger Woods's career earnings record before the end of 2026.",
+      "probability": 72,
+      "rationale": "Scheffler is already nearing the record and has two major events (BMW Championship and year-end playoffs) to surpass it. His dominance and prize money availability at the top level make it likely he clears Woods's total within weeks, not months."
     },
     {
-      "statement": "Jayden Daniels' cease-and-desist to LSU settles without court proceedings.",
-      "probability": 61,
-      "rationale": "Universities have budgets and exposure incentives to resolve NIL disputes quietly. Courts have not yet established clear precedent on NIL ownership post-departure, making litigation risky for both sides. A negotiated settlement allowing limited LSU use of Daniels' name in historical contexts while restricting new commercial deployment is the path of least resistance."
+      "statement": "Rodri makes his Barcelona debut before the end of September 2026.",
+      "probability": 68,
+      "rationale": "Barcelona accepted the bid and Rodri expressed his preference for the move. Medical clearance is typically swift for a player of his profile. La Liga's schedule and Barcelona's September matches provide sufficient runway for integration."
     },
     {
-      "statement": "Nick Boba plays in the 49ers' first regular-season game.",
-      "probability": 82,
-      "rationale": "His return to practice after two weeks of tendinitis suggests the injury was not structural. Tendinitis typically resolves with load management and doesn't threaten long-term availability. The 49ers have every incentive to bring him back healthy and will not rush him into action if conditioning lags."
-    },
-    {
-      "statement": "Scottish football improves measurably under Pocognoli within his first 18 months.",
+      "statement": "Manchester City signs Lille's Bouaddi as Rodri's replacement before October.",
       "probability": 55,
-      "rationale": "Two-year contracts provide limited runway for systemic change. Pocognoli is an emerging talent, not a proven international operator. If he struggles early, the SFA faces pressure to make a change. Success hinges on squad buy-in and early competitive results, neither guaranteed in a tough qualification group."
+      "rationale": "City is actively pursuing Bouaddi per reports, but French clubs often demand premium fees and prolonged negotiations. The transfer window timing and Lille's valuation create uncertainty, though City's resources and urgency increase the odds of a deal."
+    },
+    {
+      "statement": "Charles Oakley's lawsuit against MSG is finally resolved (no further appeals) by end of 2026.",
+      "probability": 45,
+      "rationale": "Three prior dismissals suggest the legal path is narrowing, but Oakley's legal team may pursue additional appeals or new filings. The case has already dragged on for years; a full resolution by year-end is possible but not assured given the prior pattern."
     }
   ],
   "injuries": [
     {
-      "player": "Nick Boba",
+      "player": "George Kittle",
       "team": "San Francisco 49ers",
       "league": "NFL",
-      "position": "DE",
+      "position": "TE",
       "status": "RETURNING",
-      "injury": "Tendinitis",
-      "timeline": "On track for regular season",
+      "injury": "Achilles tear",
+      "timeline": "Expected to return for season opener in 2+ weeks",
       "source": "NY Post Sports",
-      "impact": "Pass rush production restored if Boba remains healthy; critical for defensive line depth and edge pressure.",
-      "storyIndex": 10
+      "impact": "Kittle ramping up to full speed; his presence would restore primary passing target and explosive receiving threat for Brock Purdy.",
+      "storyIndex": 9
+    },
+    {
+      "player": "Cody Bellinger",
+      "team": "New York Yankees",
+      "league": "MLB",
+      "position": "OF",
+      "status": "RETURNING",
+      "injury": "Lower-body injury (late July)",
+      "timeline": "Could return as soon as next weekend",
+      "source": "CBS Sports",
+      "impact": "Yankees have batted .204/.281/.354 without him since late July; his return would address critical offensive slump heading into final two months.",
+      "storyIndex": 12
+    },
+    {
+      "player": "Spencer Arrighetti",
+      "team": "Toronto Blue Jays",
+      "league": "MLB",
+      "position": "SP",
+      "status": "RETURNING",
+      "injury": "Not specified",
+      "timeline": "Progressing through rehab, return timeline TBD",
+      "source": "Sportsnet",
+      "impact": "Pitcher advancing through minor-league rehab; cleared return would bolster Jays' pitching depth for playoff stretch.",
+      "storyIndex": 13
     }
   ],
   "picks": [
@@ -2593,115 +2621,6 @@
         "awayTeam": "Philadelphia Union",
         "homeTeam": "New York City FC"
       }
-    },
-    {
-      "type": "moneyline",
-      "pick": "Atlanta Braves ML",
-      "odds": "-122",
-      "edge": "Market fill from live lines: Atlanta Braves is the books' favorite at -122 (best price @ FanDuel) against Arizona Diamondbacks at +115, with home ice/court/field behind them. No researched edge here — this is a low-confidence market-consensus play added to round out the slate. Low confidence is honest confidence.",
-      "matchup": "Arizona Diamondbacks @ Atlanta Braves",
-      "league": "MLB",
-      "when": "Today 1:36 PM ET",
-      "confidence": "low",
-      "_autofill": true,
-      "_scheduledTs": 1786901760000,
-      "marketSnapshot": {
-        "capturedAt": "2026-08-16T15:13:29.367Z",
-        "markets": {
-          "h2h": {
-            "away": {
-              "price": 115,
-              "book": "DraftKings"
-            },
-            "home": {
-              "price": -122,
-              "book": "FanDuel"
-            },
-            "draw": null
-          },
-          "spreads": {
-            "away": {
-              "point": 1.5,
-              "price": -185,
-              "book": "Bovada"
-            },
-            "home": {
-              "point": -1.5,
-              "price": 165,
-              "book": "LowVig.ag"
-            }
-          },
-          "totals": {
-            "over": {
-              "point": 9,
-              "price": 102,
-              "book": "BetRivers"
-            },
-            "under": {
-              "point": 9,
-              "price": -113,
-              "book": "LowVig.ag"
-            }
-          }
-        },
-        "awayTeam": "Arizona Diamondbacks",
-        "homeTeam": "Atlanta Braves"
-      }
-    },
-    {
-      "type": "moneyline",
-      "pick": "Cincinnati Reds ML",
-      "odds": "-110",
-      "edge": "Market fill from live lines: Cincinnati Reds is the books' favorite at -110 (best price @ BetOnline.ag) against Miami Marlins at +103, with home ice/court/field behind them. No researched edge here — this is a low-confidence market-consensus play added to round out the slate. Low confidence is honest confidence.",
-      "matchup": "Miami Marlins @ Cincinnati Reds",
-      "league": "MLB",
-      "when": "Today 6:11 PM ET",
-      "confidence": "low",
-      "_autofill": true,
-      "_scheduledTs": 1786745460000,
-      "marketSnapshot": {
-        "capturedAt": "2026-08-14T11:37:33.014Z",
-        "markets": {
-          "h2h": {
-            "away": {
-              "price": 103,
-              "book": "DraftKings"
-            },
-            "home": {
-              "price": -110,
-              "book": "BetOnline.ag"
-            },
-            "draw": null
-          },
-          "spreads": {
-            "away": {
-              "point": 1.5,
-              "price": -213,
-              "book": "LowVig.ag"
-            },
-            "home": {
-              "point": 1.5,
-              "price": -190,
-              "book": "Fanatics"
-            }
-          },
-          "totals": {
-            "over": {
-              "point": 7.5,
-              "price": -118,
-              "book": "MyBookie.ag"
-            },
-            "under": {
-              "point": 8,
-              "price": -109,
-              "book": "BetRivers"
-            }
-          }
-        },
-        "awayTeam": "Miami Marlins",
-        "homeTeam": "Cincinnati Reds"
-      },
-      "_pendingGrade": true
     },
     {
       "type": "moneyline",
@@ -6071,46 +5990,106 @@
       "_pendingGrade": true
     },
     {
-      "type": "spread",
-      "pick": "Baltimore Orioles -7.5",
-      "odds": "-910",
-      "edge": "Market fill from live lines: the books lay -7.5 with Baltimore Orioles at -910 (best @ BetRivers). No researched edge — a low-confidence market-consensus play so this sport isn't empty today.",
-      "matchup": "Baltimore Orioles @ Tampa Bay Rays",
+      "type": "moneyline",
+      "pick": "Houston Astros ML",
+      "odds": "-120",
+      "edge": "Market fill from live lines: Houston Astros is the books' favorite at -120 (best price @ DraftKings) against Seattle Mariners at +115, with home ice/court/field behind them. No researched edge here — this is a low-confidence market-consensus play added to round out the slate. Low confidence is honest confidence.",
+      "matchup": "Seattle Mariners @ Houston Astros",
       "league": "MLB",
-      "when": "Today 12:16 PM ET",
+      "when": "Today 7:20 PM ET",
       "confidence": "low",
       "_autofill": true,
-      "_scheduledTs": 1786896960000,
+      "_scheduledTs": 1786922400000,
       "marketSnapshot": {
-        "capturedAt": "2026-08-16T19:15:36.769Z",
+        "capturedAt": "2026-08-16T23:12:43.862Z",
         "markets": {
           "h2h": {
-            "away": null,
-            "home": null,
+            "away": {
+              "price": 115,
+              "book": "Caesars"
+            },
+            "home": {
+              "price": -120,
+              "book": "DraftKings"
+            },
             "draw": null
           },
           "spreads": {
             "away": {
-              "point": -7.5,
-              "price": -910,
-              "book": "BetRivers"
+              "point": 1.5,
+              "price": -195,
+              "book": "Caesars"
             },
             "home": {
-              "point": 7.5,
-              "price": 800,
-              "book": "Caesars"
+              "point": -1.5,
+              "price": 179,
+              "book": "LowVig.ag"
             }
           },
           "totals": {
             "over": {
-              "point": 12.5,
-              "price": 800,
-              "book": "Caesars"
+              "point": 7.5,
+              "price": -114,
+              "book": "MyBookie.ag"
             },
             "under": {
-              "point": 12.5,
-              "price": -1100,
+              "point": 8,
+              "price": -117,
+              "book": "BetOnline.ag"
+            }
+          }
+        },
+        "awayTeam": "Seattle Mariners",
+        "homeTeam": "Houston Astros"
+      }
+    },
+    {
+      "type": "moneyline",
+      "pick": "Tampa Bay Rays ML",
+      "odds": "-153",
+      "edge": "Market fill from live lines: Tampa Bay Rays is the books' favorite at -153 (best price @ Caesars) against Baltimore Orioles at +143, with home ice/court/field behind them. No researched edge here — this is a low-confidence market-consensus play added to round out the slate. Low confidence is honest confidence.",
+      "matchup": "Baltimore Orioles @ Tampa Bay Rays",
+      "league": "MLB",
+      "when": "Tomorrow 6:05 PM ET",
+      "confidence": "low",
+      "_autofill": true,
+      "_scheduledTs": 1787004300000,
+      "marketSnapshot": {
+        "capturedAt": "2026-08-16T23:12:43.863Z",
+        "markets": {
+          "h2h": {
+            "away": {
+              "price": 143,
+              "book": "Caesars"
+            },
+            "home": {
+              "price": -153,
+              "book": "Caesars"
+            },
+            "draw": null
+          },
+          "spreads": {
+            "away": {
+              "point": 1.5,
+              "price": -165,
+              "book": "Bovada"
+            },
+            "home": {
+              "point": -1.5,
+              "price": 140,
               "book": "FanDuel"
+            }
+          },
+          "totals": {
+            "over": {
+              "point": 7.5,
+              "price": -117,
+              "book": "DraftKings"
+            },
+            "under": {
+              "point": 8,
+              "price": -118,
+              "book": "LowVig.ag"
             }
           }
         },
@@ -6119,29 +6098,29 @@
       }
     }
   ],
-  "updatedAt": "2024-04-23T18:45:00Z",
+  "updatedAt": "2026-08-23T18:45:00Z",
   "highlights": [
     {
       "league": "NBA",
       "title": "Every Basketball Hall of Fame Enshrinement Speech from the Class of 2026",
       "videoId": "3ghAG0wsjdQ",
       "thumbnail": "https://img.youtube.com/vi/3ghAG0wsjdQ/mqdefault.jpg",
-      "timeAgo": "17h ago",
+      "timeAgo": "21h ago",
       "isFallback": false
     },
     {
       "league": "NFL",
-      "title": "I Scored a Touchdown: Dave Casper's Super Bowl XI Story | NFL on ESPN",
-      "videoId": "KpExBjjwYko",
-      "thumbnail": "https://img.youtube.com/vi/KpExBjjwYko/mqdefault.jpg",
-      "timeAgo": "3h ago",
+      "title": "Could Aaron Donald be coming out of retirement? 👀",
+      "videoId": "Ggh3hSc3IBY",
+      "thumbnail": "https://img.youtube.com/vi/Ggh3hSc3IBY/mqdefault.jpg",
+      "timeAgo": "2h ago",
       "isFallback": false
     },
     {
       "league": "MLB",
-      "title": "Brett Callahan hit a 2-run triple on the first pitch he saw in his MLB debut😲",
-      "videoId": "iyfoKzOYM8s",
-      "thumbnail": "https://img.youtube.com/vi/iyfoKzOYM8s/mqdefault.jpg",
+      "title": "CARDINALS vs. CUBS: Official Full Game Highlights (August 16) | 2026 MLB Season",
+      "videoId": "r6Fx2Muq194",
+      "thumbnail": "https://img.youtube.com/vi/r6Fx2Muq194/mqdefault.jpg",
       "timeAgo": "1h ago",
       "isFallback": false
     },
@@ -6150,7 +6129,7 @@
       "title": "EVERY GOAL Scored Last Season by the 2026-27 Nashville Predators Roster",
       "videoId": "s9Q6ZMFQF9Q",
       "thumbnail": "https://img.youtube.com/vi/s9Q6ZMFQF9Q/mqdefault.jpg",
-      "timeAgo": "4h ago",
+      "timeAgo": "8h ago",
       "isFallback": false
     },
     {
@@ -6158,19 +6137,91 @@
       "title": "Diana Taurasi’s Legacy | A Look Back Ahead of Her Jersey Retirement",
       "videoId": "x89XeZK-l3c",
       "thumbnail": "https://img.youtube.com/vi/x89XeZK-l3c/mqdefault.jpg",
-      "timeAgo": "Just now",
+      "timeAgo": "4h ago",
       "isFallback": false
     },
     {
       "league": "SOCCER",
-      "title": "Arsenal THRASES Manchester City in FA Community Shield 🏆 + Ronaldo hints at retirement?! 👀 | ESPN FC",
+      "title": "Arsenal THRASHES Manchester City in Community Shield 🏆 + Ronaldo hints at retirement?! 👀 | ESPN FC",
       "videoId": "CIu5IZ-csr0",
       "thumbnail": "https://img.youtube.com/vi/CIu5IZ-csr0/mqdefault.jpg",
-      "timeAgo": "1h ago",
+      "timeAgo": "5h ago",
       "isFallback": false
     }
   ],
   "reels": [
+    {
+      "league": "MLB",
+      "title": "CARDINALS vs. CUBS: Official Full Game Highlights (August 16) | 2026 MLB Season",
+      "videoId": "r6Fx2Muq194",
+      "author": "MLB",
+      "pubDate": "2026-08-16T22:40:46+00:00",
+      "link": "https://www.youtube.com/watch?v=r6Fx2Muq194"
+    },
+    {
+      "league": "MLB",
+      "title": "How did Rafael Devers hit this homer??",
+      "videoId": "QJIYeoXD4rY",
+      "author": "MLB",
+      "pubDate": "2026-08-16T21:49:44+00:00",
+      "link": "https://www.youtube.com/watch?v=QJIYeoXD4rY"
+    },
+    {
+      "league": "MLB",
+      "title": "PHILLIES vs. TWINS: Official Full Game Highlights (August 16) | 2026 MLB Season",
+      "videoId": "MdvYHBPdS1I",
+      "author": "MLB",
+      "pubDate": "2026-08-16T21:40:50+00:00",
+      "link": "https://www.youtube.com/watch?v=MdvYHBPdS1I"
+    },
+    {
+      "league": "MLB",
+      "title": "Max Muncy stays HOT with a GAME-TYING HOME RUN for the Dodgers! 😤🔥 (7 HR since All-Star break!)",
+      "videoId": "KUcd5eZw2Xg",
+      "author": "MLB",
+      "pubDate": "2026-08-16T21:31:29+00:00",
+      "link": "https://www.youtube.com/watch?v=KUcd5eZw2Xg"
+    },
+    {
+      "league": "MLB",
+      "title": "YANKEES vs. BLUE JAYS: Official Full Game Highlights (August 16) | 2026 MLB Season",
+      "videoId": "Qst0JpIurTY",
+      "author": "MLB",
+      "pubDate": "2026-08-16T21:16:51+00:00",
+      "link": "https://www.youtube.com/watch?v=Qst0JpIurTY"
+    },
+    {
+      "league": "MLB",
+      "title": "WHITE SOX vs. TIGERS: Official Full Game Highlights (August 16) | 2026 MLB Season",
+      "videoId": "TlThOFzwH2M",
+      "author": "MLB",
+      "pubDate": "2026-08-16T21:01:33+00:00",
+      "link": "https://www.youtube.com/watch?v=TlThOFzwH2M"
+    },
+    {
+      "league": "MLB",
+      "title": "Yohel Pozo made it safely just in time 🤏",
+      "videoId": "rAaRWVWr-o4",
+      "author": "MLB",
+      "pubDate": "2026-08-16T21:00:27+00:00",
+      "link": "https://www.youtube.com/watch?v=rAaRWVWr-o4"
+    },
+    {
+      "league": "MLB",
+      "title": "MARLINS vs. REDS: Official Full Game Highlights (August 16) | 2026 MLB Season",
+      "videoId": "cX9RrycF2d8",
+      "author": "MLB",
+      "pubDate": "2026-08-16T20:56:34+00:00",
+      "link": "https://www.youtube.com/watch?v=cX9RrycF2d8"
+    },
+    {
+      "league": "NFL",
+      "title": "Could Aaron Donald be coming out of retirement? 👀",
+      "videoId": "Ggh3hSc3IBY",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-08-16T20:44:42+00:00",
+      "link": "https://www.youtube.com/watch?v=Ggh3hSc3IBY"
+    },
     {
       "league": "WNBA",
       "title": "Diana Taurasi’s Legacy | A Look Back Ahead of Her Jersey Retirement",
@@ -6180,16 +6231,8 @@
       "link": "https://www.youtube.com/watch?v=x89XeZK-l3c"
     },
     {
-      "league": "MLB",
-      "title": "Brett Callahan hit a 2-run triple on the first pitch he saw in his MLB debut😲",
-      "videoId": "iyfoKzOYM8s",
-      "author": "MLB",
-      "pubDate": "2026-08-16T18:41:34+00:00",
-      "link": "https://www.youtube.com/watch?v=iyfoKzOYM8s"
-    },
-    {
       "league": "SOCCER",
-      "title": "Arsenal THRASES Manchester City in FA Community Shield 🏆 + Ronaldo hints at retirement?! 👀 | ESPN FC",
+      "title": "Arsenal THRASHES Manchester City in Community Shield 🏆 + Ronaldo hints at retirement?! 👀 | ESPN FC",
       "videoId": "CIu5IZ-csr0",
       "author": "ESPN FC",
       "pubDate": "2026-08-16T18:14:14+00:00",
@@ -6202,14 +6245,6 @@
       "author": "ESPN FC",
       "pubDate": "2026-08-16T18:12:11+00:00",
       "link": "https://www.youtube.com/watch?v=GcaL2Df8Lhk"
-    },
-    {
-      "league": "MLB",
-      "title": "nothing you see here is easy 😮‍💨",
-      "videoId": "Kv6Gtl1kUjs",
-      "author": "MLB",
-      "pubDate": "2026-08-16T18:00:27+00:00",
-      "link": "https://www.youtube.com/watch?v=Kv6Gtl1kUjs"
     },
     {
       "league": "SOCCER",
@@ -6260,22 +6295,6 @@
       "link": "https://www.youtube.com/watch?v=BE91Qm4hXUA"
     },
     {
-      "league": "MLB",
-      "title": "When Carlos Santana hit the insane walk-off celebration for the Pirates 🤣🤣",
-      "videoId": "e3GAiX-J6lM",
-      "author": "MLB",
-      "pubDate": "2026-08-16T17:00:15+00:00",
-      "link": "https://www.youtube.com/watch?v=e3GAiX-J6lM"
-    },
-    {
-      "league": "MLB",
-      "title": "The Wrigley Field fans knew they were witnessing history yesterday 👏",
-      "videoId": "kuSYux_v5eU",
-      "author": "MLB",
-      "pubDate": "2026-08-16T16:00:10+00:00",
-      "link": "https://www.youtube.com/watch?v=kuSYux_v5eU"
-    },
-    {
       "league": "NFL",
       "title": "I Scored a Touchdown: Dave Casper's Super Bowl XI Story | NFL on ESPN",
       "videoId": "KpExBjjwYko",
@@ -6284,44 +6303,12 @@
       "link": "https://www.youtube.com/watch?v=KpExBjjwYko"
     },
     {
-      "league": "MLB",
-      "title": "That ... will ... stay ... fair?!",
-      "videoId": "RSDkWjqtJco",
-      "author": "MLB",
-      "pubDate": "2026-08-16T15:15:31+00:00",
-      "link": "https://www.youtube.com/watch?v=RSDkWjqtJco"
-    },
-    {
       "league": "NHL",
       "title": "EVERY GOAL Scored Last Season by the 2026-27 Nashville Predators Roster",
       "videoId": "s9Q6ZMFQF9Q",
       "author": "NHL",
       "pubDate": "2026-08-16T15:00:10+00:00",
       "link": "https://www.youtube.com/watch?v=s9Q6ZMFQF9Q"
-    },
-    {
-      "league": "MLB",
-      "title": "This kid put on a SHOW when he realized he was on the scoreboard 🤣",
-      "videoId": "Vhx-TcQUwWw",
-      "author": "MLB",
-      "pubDate": "2026-08-16T14:30:17+00:00",
-      "link": "https://www.youtube.com/watch?v=Vhx-TcQUwWw"
-    },
-    {
-      "league": "MLB",
-      "title": "FOUR OUTS IN AN INNING? 😲 Have you ever seen that before?! | This Week in Baseball",
-      "videoId": "N287FeSpLow",
-      "author": "MLB",
-      "pubDate": "2026-08-16T14:00:25+00:00",
-      "link": "https://www.youtube.com/watch?v=N287FeSpLow"
-    },
-    {
-      "league": "MLB",
-      "title": "You've seen countless ceremonial first pitches ... but KISS legend Gene Simmons threw FOUR 😳",
-      "videoId": "anMft7exJmY",
-      "author": "MLB",
-      "pubDate": "2026-08-16T13:00:12+00:00",
-      "link": "https://www.youtube.com/watch?v=anMft7exJmY"
     },
     {
       "league": "WNBA",
@@ -6482,14 +6469,6 @@
       "author": "NFL on ESPN",
       "pubDate": "2026-08-15T17:15:30+00:00",
       "link": "https://www.youtube.com/watch?v=m-fnIRu-sCs"
-    },
-    {
-      "league": "NHL",
-      "title": "3ICE Hockey Week 4 - Pittsburgh vs. Boston &amp; Philly vs. Iowa",
-      "videoId": "_Qn3Ute_tt8",
-      "author": "NHL",
-      "pubDate": "2026-08-15T17:00:06+00:00",
-      "link": "https://www.youtube.com/watch?v=_Qn3Ute_tt8"
     }
   ]
 }
