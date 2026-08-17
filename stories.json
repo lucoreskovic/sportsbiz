@@ -1,63 +1,81 @@
 {
   "clusters": [
     {
-      "category": "media",
+      "category": "leagues",
       "importance": 9,
-      "leadHeadline": "'Are you not entertained?' - Hunt enters stardom with iconic quadruple",
-      "leadSource": "BBC Sport · 1h ago",
-      "leadUrl": "https://www.bbc.co.uk/sport/athletics/articles/clyqqxgrdqqo?at_medium=RSS&amp;at_campaign=rss",
-      "summary": "Amy Hunt became the first athlete to win four gold medals at a single European championships, sweeping 100m, 200m, women's 4x100m relay, and the inaugural mixed 4x100m relay in Birmingham.",
-      "article": "Amy Hunt became the first athlete to win four gold medals at a single European athletics championships after Great Britain crossed the finish in the mixed 4x100m relay in a European record 39.97 seconds, beating Germany's 40.11. Hunt is the first athlete to achieve four titles in a single championship, surpassing the previous record of three. The British sprinter had already claimed gold in the 100m and 200m before winning with the women's 4x100m relay on Saturday. Hunt told the BBC: \"Oh my gosh, I'm over the moon. And I think to finish it off with some of my best friends in the sport.\" Dina Asher-Smith moved to the top of the European Athletics Championships all-time medal list with her 11th medal, surpassing Polish sprinter Irena Szewinska's previous record of 10. Hunt, the 2025 world 200m silver medallist, now stands among Europe's most decorated sprinters after a week in Birmingham that rewrote the continental record books.",
+      "leadHeadline": "Tommy John, pitcher whose surgery changed baseball, dies at age of 83",
+      "leadSource": "The Guardian · 17h ago",
+      "leadUrl": "https://www.theguardian.com/sport/2026/aug/16/tommy-john-pitcher-whose-surgery-changed-baseball-dies-at-age-of-83",
+      "summary": "Tommy John, a 288-game winner whose 1974 elbow surgery revolutionized baseball, died at 83. The procedure that bears his name has since saved thousands of pitchers' careers.",
+      "article": "<cite index=\"1-8\">Tommy John, a four-time All-Star who won 288 career games and was the namesake behind the pioneering elbow surgery that prolonged his career for 14 more years, died Saturday at the age of 83.</cite> <cite index=\"1-9\">John died at his home in Bradenton, Florida, the New York Yankees said in a statement Sunday.</cite>\n\n<cite index=\"10-7,10-8\">On July 17, 1974, pitching for the Dodgers, John threw a fastball to the Montreal Expos' Hal Breeden and felt what he described as a \"crash\" in his left elbow, later revealed to be a career-threatening complete tear of his left ulnar collateral ligament.</cite> <cite index=\"12-1\">On September 25, 1974, Frank Jobe, an orthopedist for the Los Angeles Dodgers, replaced John's torn ligament in his pitching arm with a tendon from his wrist.</cite> <cite index=\"18-4\">Jobe said in 2013 that he gave the procedure \"about a one in 100 chance\" of working at the time.</cite>\n\n<cite index=\"11-16\">John returned to the Dodgers in 1976, going 10-10 with a 3.09 ERA that year, then 20-7 with a 2.78 ERA the year after that.</cite> <cite index=\"2-8\">He won 20 games in a season on three occasions, going 20-7 with the Dodgers in 1977, 21-9 with the Yankees in 1979 and 22-9 with the Yankees in 1980.</cite> <cite index=\"11-17\">John won more games after surgery (164) than before (124).</cite>\n\n<cite index=\"1-2\">In 2024, the American Medical Association estimated that roughly 35% of active major league pitchers had Tommy John surgery at some point in their career.</cite> <cite index=\"4-5\">More than 2,600 big leaguers and thousands more amateurs have since had UCL reconstructions.</cite> <cite index=\"1-11\">\"The New York Yankees mourn the passing of Tommy John, who was a bedrock of our rotation during his time in pinstripes and a longtime favorite of Yankees fans,\" the team said in its statement.</cite>",
+      "tweets": [
+        {
+          "url": "https://twitter.com/Dodgers/status/2089051306262692140",
+          "html": "<blockquote class=\"twitter-tweet\" data-dnt=\"true\" data-theme=\"dark\"><p>The Los Angeles Dodgers would like to express our sadness over the passing of Tommy John, who died Saturday at the age of 83. Thanks in no small part to the pioneering surgery that bears his name, Tommy’s extraordinary career encompassed 26 seasons and 288 career victories. We https://t.co/gRr4JpWaVj</p>&mdash; Los Angeles Dodgers (@Dodgers) <a href=\"https://twitter.com/Dodgers/status/2089051306262692140\">August 16, 2026</a></blockquote>",
+          "author_name": "Los Angeles Dodgers",
+          "author_url": "https://twitter.com/Dodgers",
+          "dateMs": 1786903618000
+        }
+      ]
+    },
+    {
+      "category": "media",
+      "importance": 8,
+      "leadHeadline": "NFL preseason Week 1 overreactions: Do Titans have Cam Ward problem? Niners have OROY candidate at WR",
+      "leadSource": "CBS Sports · 1h ago",
+      "leadUrl": "https://www.cbssports.com/nfl/news/nfl-preseason-week-1-overreactions-titans-cam-ward-problem-niners-oroy-candidate/",
+      "summary": "The NFL preseason's opening week produced eye-catching performances and troubling questions, with the Titans' offense and a San Francisco receiver already commanding narrative focus. CBS Sports examines which storylines hold water and which are noise.",
+      "article": "Week 1 of the 2026 NFL preseason delivered the expected blend of revelation and theater. The Titans' struggles with Cam Ward drew immediate scrutiny, raising questions about the franchise's $80-million-plus investment at quarterback. Conversely, a San Francisco receiver's performance prompted early Offensive Rookie of the Year speculation—the kind of overstatement preseason invites.\n\nPreseason carries inherent distortion. Starters play limited snaps, defensive schemes aren't fully deployed, and performance metrics against third-string competition inflate easily. Yet the preseason also surfaces real issues: missing training time, injury concerns, scheme fit, or a player's ceiling higher or lower than expected.\n\nThe Titans case illustrates the tension. Ward's Week 1 accuracy and decision-making matter if it reflects ongoing problems in protection schemes or play-calling. If it reflects vanilla play design and a limited work sample, it's noise. The Niners receiver case depends on opponent quality and snaps taken; a standout performance in garbage time against a backup secondary is not a Rookie of the Year audition.\n\nCBS Sports sorts the durable storylines from the overreactions, a necessary filter before the regular season begins in September.",
       "tweets": []
     },
     {
       "category": "contracts",
       "importance": 7,
       "leadHeadline": "Scottie Scheffler Nears Tiger Woods's Career Earnings As He Laps FedEx Field",
-      "leadSource": "Front Office Sports · 9h ago",
+      "leadSource": "Front Office Sports · 13h ago",
       "leadUrl": "https://frontofficesports.com/scottie-scheffler-nears-tiger-woods-career-earnings-laps-fedex-field/",
-      "summary": "Scottie Scheffler is closing in on Tiger Woods's career earnings record and can break it at the BMW Championship in St. Louis. The 28-year-old has already won multiple majors and is on pace for a historic earnings year.",
-      "article": "Scottie Scheffler stands on the verge of surpassing Tiger Woods's career earnings record, with the BMW Championship in St. Louis offering a chance to cross that threshold. The 28-year-old golfer has accumulated winnings at a pace that outstrips Woods's trajectory at the same stage of his career, driven by elevated purses across the PGA Tour and major championships.\n\nScheffler's earnings run includes multiple major titles, FedEx Cup victories, and consistent performances in no-cut events with multimillion-dollar purses. At his current rate, he's lapping the FedEx Cup standings and adding to a career total that already ranks among the sport's all-time earners.\n\nWoods held the career earnings record for years, but the modern tour's financial structure—with guaranteed purses and bonus pools—has accelerated the pace at which current players accumulate money. Scheffler's pursuit of that record underscores both his dominance on course and the economic shift in professional golf over the past two decades.",
+      "summary": "Scottie Scheffler is closing in on Tiger Woods's all-time PGA Tour earnings record and can break it at the BMW Championship in St. Louis. The world No. 1 continues a historic run in 2026.",
+      "article": "Scottie Scheffler's 2026 season has moved him within striking distance of Tiger Woods's career PGA Tour earnings record. Scheffler can surpass Woods at the BMW Championship in St. Louis, the penultimate event of the FedEx Cup playoffs.\n\nScheffler's trajectory has been extraordinary. He claimed his second major at the Masters earlier this year and has accumulated multiple victories across the season, reinforcing his hold on the world No. 1 ranking. His prize-money accumulation reflects both the elevated purses of modern golf and his dominance in elite fields.\n\nWoods's career earnings total represents the benchmark of a 27-year PGA Tour career that produced 82 victories and 15 majors. Scheffler, at 28, is on pace to rewrite the earnings ledger in far fewer seasons, a shift driven partly by the sport's expanding prize pools and partly by his consistent performance against the world's best players.\n\nThe BMW Championship in St. Louis represents the next opportunity. A strong finish there would move Scheffler past Woods and position him for another FedEx Cup run, cementing his place in golf's upper echelon during an era of rapidly escalating player compensation.",
+      "tweets": []
+    },
+    {
+      "category": "revenue",
+      "importance": 6,
+      "leadHeadline": "Man City in advanced talks for £85m Bouaddi, 18",
+      "leadSource": "BBC Sport · 2h ago",
+      "leadUrl": "https://www.bbc.co.uk/sport/football/articles/cd7l9n4qnlno?at_medium=RSS&amp;at_campaign=rss",
+      "summary": "Manchester City are pursuing Morocco midfielder Ayyoub Bouaddi from Lille in an advanced negotiation worth approximately £85 million. The 18-year-old represents the club's continued investment in young European talent.",
+      "article": "Manchester City have entered advanced negotiations with Lille for Morocco midfielder Ayyoub Bouaddi, with the deal valued at roughly £85 million. The 18-year-old represents City's ongoing strategy of acquiring young European talent and developing it within the club's system or deploying it in the Cityzens' sprawling global network.\n\nBouaddi's profile fits City's recruitment model: a teenager with demonstrable quality in a top-five league, available at a price point that reflects potential rather than established superstardom. Lille has long served as a source of young midfield talent in European football, and City's interest signals confidence in the player's trajectory.\n\nThe club's pursuit of Bouaddi follows their earlier transfer activity and reflects ongoing investment in depth. At 18, Bouaddi would likely enter City's development pipeline rather than immediately compete for starting minutes in the Premier League. The deal, if completed, would add to City's youth cohort and maintain their presence in elite academy networks across Europe.",
       "tweets": []
     },
     {
       "category": "media",
-      "importance": 6,
+      "importance": 5,
       "leadHeadline": "On the Air: How Ian Eagle makes his teammates better like few others",
-      "leadSource": "Sports Media Watch · 12h ago",
+      "leadSource": "Sports Media Watch · 15h ago",
       "leadUrl": "https://www.sportsmediawatch.com/2026/08/on-the-air-ian-eagle-partners-broadcast-booth-analysis/",
-      "summary": "CBS broadcaster Ian Eagle elevates his broadcast partners through preparation and collaborative storytelling. The veteran play-by-play voice is profiled for his ability to make analysts and fellow commentators more effective on air.",
-      "article": "Ian Eagle, CBS's lead play-by-play announcer, stands out for his capacity to elevate the performance of his broadcast partners. The veteran voice works across multiple sports and partnership configurations, yet consistently brings out the best in analysts and fellow commentators seated alongside him.\n\nEagle's approach centers on meticulous preparation and genuine curiosity. He enters broadcasts with extensive notes, but deploys them in service of his partners' storytelling rather than as a platform for his own authority. That collaborative stance allows analysts to expand on their insights without fighting for air or clarifying basic context.\n\nIn an era when broadcast quality hinges on chemistry, Eagle's reputation for making partners better has made him one of the most sought-after play-by-play voices in sports television. CBS values him not just for his own delivery but for his ability to carry lesser-known analysts and make them seem like veterans. For networks building broadcast teams, that multiplier effect is invaluable.",
+      "summary": "CBS voice Ian Eagle elevates his broadcast partners through preparation, clarity, and chemistry. A Sports Media Watch feature examines how the veteran anchor has become one of the league's most effective booth anchors.",
+      "article": "Ian Eagle, CBS's primary play-by-play voice, has become one of broadcasting's most reliable elevators of talent. His broadcast partners—whether color commentators, sideline reporters, or guest analysts—consistently perform at their best when Eagle anchors the booth.\n\nThe mechanics are partly invisible. Eagle arrives prepared, knows his material cold, and asks questions that allow analysts to showcase knowledge rather than fill silence. He avoids the trap of overpowering the booth with his own expertise, a discipline many veteran announcers struggle with. Instead, he creates space for voices around him.\n\nChemistry matters too. Eagle's rhythm and pacing set the tone; partners sync to his tempo rather than fighting it. He reads the game accurately and flags moments before they become obvious, giving analysts time to develop a thought rather than reactive time to scramble. Sideline reporters know they'll get clean handoffs and won't be talked over.\n\nSports Media Watch's latest analysis finds that Eagle's partners register higher audience approval ratings, more consistent speaking time, and fewer \"dead air\" stretches than peers working with other anchors. It's a small edge, compounded across a season, that separates good broadcasts from forgettable ones.",
       "tweets": []
     },
     {
       "category": "labor",
-      "importance": 5,
-      "leadHeadline": "DePaul Athletics Health Staffer Sues Over Mid-Pregnancy Termination",
-      "leadSource": "Sportico · 4h ago",
-      "leadUrl": "https://www.sportico.com/leagues/college-sports/2026/depaul-lawsuit-staffer-pregnancy-termination-1234942057/",
-      "summary": "DePaul University's former associate athletics director for health and wellness filed a federal lawsuit alleging she was illegally terminated while seven months pregnant. The suit marks the second such legal action against DePaul in six years.",
-      "article": "DePaul University faces a federal lawsuit from its former associate athletics director for health and wellness, who alleges the school violated her civil rights by terminating her employment while she was seven months pregnant. The plaintiff named both the university and Athletics Director DeWayne Peevy as defendants.\n\nThe suit is the second pregnancy-related employment case brought against DePaul in a six-year span, suggesting a pattern that extends beyond a single personnel decision. Federal employment law prohibits termination based on pregnancy status, and universities are held to the same standard as private employers.\n\nFor DePaul athletics, the filing adds legal and reputational risk while the department operates under scrutiny. Pregnancy discrimination lawsuits are often expensive to defend and can result in substantial damages if the plaintiff prevails. The university's recurrence of such allegations raises questions about hiring, retention, and oversight practices within the athletics division.",
-      "tweets": []
-    },
-    {
-      "category": "media",
-      "importance": 5,
-      "leadHeadline": "Caitlyn Jenner Reacts to Kanter/White WNBA Transgender Controversy",
-      "leadSource": "Front Office Sports · 11h ago",
-      "leadUrl": "https://frontofficesports.com/caitlyn-jenner-reacts-kanter-white-wnba-transgender-controversy/",
-      "summary": "Two former NBA players have declared for the WNBA draft, prompting reaction from Caitlyn Jenner. The announcement centers on transgender athlete eligibility and representation in professional women's basketball.",
-      "article": "Two former NBA players have announced they are declaring for the WNBA draft, drawing commentary from Caitlyn Jenner on the topic of transgender athletes competing in women's professional basketball. The development marks the latest flashpoint in an ongoing national conversation about eligibility, fairness, and inclusion in elite sports.\n\nJenner's reaction adds a high-profile voice to the debate, bringing her experience as a former Olympic athlete and public figure to bear on the question of how leagues structure eligibility criteria. The WNBA has existing policies governing who can compete, as does every professional league, but those rules are subject to evolving legal standards and player advocate positions.\n\nFor the WNBA, the draft declarations highlight the league's visibility and attractiveness to athletes from other backgrounds, while also placing a spotlight on eligibility frameworks. League leadership will likely face calls from multiple stakeholders to clarify or defend its current policies before draft night.",
-      "tweets": []
-    },
-    {
-      "category": "media",
       "importance": 4,
+      "leadHeadline": "DePaul Athletics Health Staffer Sues Over Mid-Pregnancy Termination",
+      "leadSource": "Sportico · 7h ago",
+      "leadUrl": "https://www.sportico.com/leagues/college-sports/2026/depaul-lawsuit-staffer-pregnancy-termination-1234942057/",
+      "summary": "DePaul University's former associate athletics director for health and wellness has filed a federal lawsuit alleging she was illegally terminated while seven months pregnant. The suit marks the second time in six years DePaul has faced such a charge.",
+      "article": "DePaul University faces federal litigation from a former athletics staffer who alleges she was wrongfully terminated while seven months pregnant, in violation of Title VII and the Pregnancy Discrimination Act. The lawsuit names the school and AD DeWayne Peevy as defendants.\n\nThe complainant held the title of associate athletics director for health and wellness, a position within DePaul's athletic department structure. The timing of her termination during a protected pregnancy period and the manner of the separation form the basis of her discrimination claim.\n\nThis marks the second significant employment-related lawsuit DePaul athletics has faced in the past six years, a pattern suggesting potential systemic issues in departmental oversight or compliance. The university had not issued a public response to the filing at the time of this report.\n\nPregnancy discrimination suits in collegiate athletics have become increasingly visible as Title IX scrutiny has expanded. Universities face dual obligations: Title IX compliance in athletic opportunity, and Title VII compliance in employment practices. DePaul's legal exposure depends on the strength of its defense regarding the termination's timing and documented justification. The case will likely extend through discovery and settlement negotiation.",
+      "tweets": []
+    },
+    {
+      "category": "media",
+      "importance": 3,
       "leadHeadline": "Stephen A. Smith Vows to Fire Back After NABJ Thumbs Down 'Award'",
-      "leadSource": "Front Office Sports · 13h ago",
+      "leadSource": "Front Office Sports · 16h ago",
       "leadUrl": "https://frontofficesports.com/stephen-a-smith-vows-fire-back-nabj-thumbs-down-award/",
-      "summary": "Stephen A. Smith declared he will respond after the National Association of Black Journalists rejected an award recognizing him. Smith posted on social media that his rebuttal is forthcoming.",
-      "article": "Stephen A. Smith said he intends to fire back after the National Association of Black Journalists rejected an award that was set to recognize him, writing on social media, \"You had your turn, now mine is coming.\"\n\nThe specific nature of the NABJ's decision and the award in question wasn't detailed in Smith's brief statement, but his declaration signals he plans a public response to the organization's action. Smith is one of ESPN's highest-profile personalities and a frequent voice on race, media, and professional sports.\n\nThe exchange between a major broadcast personality and a prominent professional organization reflects the ongoing tension in American sports media around representation, recognition, and the gatekeeping role of institutions. Smith's vow to respond will likely generate significant attention when he outlines his position.",
+      "summary": "Stephen A. Smith said he will respond after NABJ rejected recognition of what he called an award. Smith wrote on social media that his turn to respond is coming.",
+      "article": "Stephen A. Smith signaled he intends to address a recent decision by the National Association of Black Journalists (NABJ) regarding recognition he mentioned receiving. In a social media post, Smith wrote, \"You had your turn, now mine is coming,\" suggesting a forthcoming public response.\n\nDetails of the specific award or NABJ action were limited in immediate reporting. Smith's tone indicated frustration with the organization's handling of the matter, though the substance of his planned response remained unspecified at the time of publication.",
       "tweets": []
     }
   ],
@@ -2386,65 +2404,65 @@
   "ticket_prices": [],
   "sidebar": [
     {
-      "headline": "Yankees Gerrit Cole remembers Tommy John as trailblazer for venturing into the unknown with surgery",
-      "source": "NY Post Sports · 4h ago",
-      "article": "Gerrit Cole, one of baseball's highest-paid pitchers, joined tributes to Tommy John following the legendary lefty's death at 83. Cole is himself a recent beneficiary of the surgery that bears John's name, having undergone the ulnar collateral ligament reconstruction procedure. The Yankees ace credits John with pioneering a path that allowed countless pitchers to return from career-threatening injuries. John's willingness to undergo an experimental surgery in 1974 transformed baseball medicine and extended the careers of thousands of arms who might otherwise have retired. Cole's acknowledgment underscores John's outsized impact on the sport, a legacy that extends far beyond his own Hall of Fame resume."
+      "headline": "Giants John Harbaugh suspects history informed Jaxson Darts latest medical tent visit",
+      "source": "NY Post Sports · 7h ago",
+      "article": "Giants head coach John Harbaugh has a theory about why receiver Jaxson Dart keeps finding his way to the medical tent. Harbaugh suggested that Dart's medical history may be informing trainers' conservative approach to on-field issues. The specifics of Dart's past injury or concern weren't detailed in reporting, but Harbaugh's comment suggests the team is monitoring a recurring or chronic issue closely. For a receiver expected to contribute significantly in the offense, availability remains a central conversation."
     },
     {
       "headline": "Blue Jays finish strong homestand with extra-inning loss to Yankees",
-      "source": "Sportsnet · 11h ago",
-      "article": "The Toronto Blue Jays closed their homestand with a loss to the New York Yankees in extra innings, capping a 5-2 stretch against AL East rivals that could have derailed their season. Instead of folding during an August slump, the Jays produced a run of 13 wins in 20 games that keeps them competitive in the division. The homestand included series wins over the Yankees and another AL East opponent, repositioning Toronto as a factor in the pennant race. The loss in the final game stung, but the overall homestand result left the Jays in position to pursue the wild card if they fall short in the division."
-    },
-    {
-      "headline": "Arsenal's midfield depth signals ominous warning to title rivals – and Maresca's City",
-      "source": "The Guardian · 13h ago",
-      "article": "Arsenal's preseason display in the Community Shield victory over Manchester City showcased the depth the champions accumulated in the transfer window. The addition of midfielders Guimarães and Tzolis, combined with the reemergence of Martin Ødegaard, gave new manager or incoming leadership a glimpse of a roster prepared to challenge for the title. Ødegaard's return to form, paired with fresh attacking options, suggests Arsenal intends to maintain its championship level without core departures. The performance signaled that the champions are clear favorites heading into the new season and that Manchester City, despite its own quality, faces a formidable barrier in the title race."
-    },
-    {
-      "headline": "Fantasy Baseball Week 22 Preview: Top 10 sleeper hitters include Steven Kwan, Zack Gelof",
-      "source": "CBS Sports · 4h ago",
-      "article": "Week 22 fantasy baseball matchups favor teams with bats hitting in ballparks or against pitchers showing vulnerability in the summer stretch. Steven Kwan of the Guardians and Zack Gelof of the Reds headline a sleeper list targeting secondary hitters in favorable spots. The Guardians and Reds both carry matchups conducive to high run production, while the Red Sox also present upside opportunities. Fantasy managers looking to gain advantage in season-long or playoff contests should target position players benefiting from low ownership and favorable week-to-week matchups rather than relying solely on big names."
+      "source": "Sportsnet · 14h ago",
+      "article": "The Toronto Blue Jays capped a productive homestand with an extra-inning defeat to the Yankees, dropping the series finale after a 5-2 run at home against AL East rivals. The loss stung after the Jays had produced momentum, winning 13 games in their previous 20 as August opened. The team's ability to generate a winning stretch despite early-season turbulence suggests roster depth and coaching adjustments are taking hold, though consistency remains the challenge heading into September."
     },
     {
       "headline": "Luis Torrens homers again as his increased Mets usage keeps paying off",
-      "source": "NY Post Sports · 4h ago",
-      "article": "Luis Torrens, signed to a two-year extension earlier in the season, continues to deliver power in increased playing time for the Mets. The catcher belted another home run, validating the organization's investment in expanded usage. Torrens was initially valued for his elite defensive skills, but his recent offensive output has made him a plus contributor on both sides of the ball. The Mets' commitment to playing him more frequently reflects confidence in his ability to impact games and suggests they see him as part of their offensive future beyond his traditional framing and pitch-calling strengths."
+      "source": "NY Post Sports · 8h ago",
+      "article": "Luis Torrens connected for another home run as the Mets continued to deploy the catcher at elevated frequency, validating the front office's two-year extension signed earlier this season. Torrens was signed primarily for his defense, but his offensive production—particularly late-season power—has become an unexpected dividend. The increased playing time has accelerated his chemistry with the pitching staff and opened avenues for offensive contribution."
+    },
+    {
+      "headline": "Fantasy Baseball Week 22 Preview: Top 10 sleeper hitters include Steven Kwan, Zack Gelof",
+      "source": "CBS Sports · 7h ago",
+      "article": "As Week 22 approaches, CBS Sports identified Steven Kwan and Zack Gelof among the top sleeper hitter matchups, with favorable schedules emerging for the Guardians, Reds, and Red Sox. The hitters to target this week include players facing weaker pitching staffs or bullpens entering high-leverage situations. Streaming and waiver-wire strategy will separate contenders from the field in the final stretch."
     },
     {
       "headline": "Djokovic's medical malaise in Cincinnati exposes fraying edges of ageing great's game",
-      "source": "The Guardian · 13h ago",
-      "article": "Novak Djokovic's first-round exit at Cincinnati, while handling his body cautiously at 39, revealed patterns in how the 24-time Grand Slam winner now allocates energy across the calendar. The loss was difficult to watch and suggests his game's vulnerability outside major occasions. Djokovic has increasingly become a player who saves his peak form for the biggest tournaments, managing his body and intensity through regular-season events. Cincinnati's loss underscores that the aging great's dominance is no longer consistent across every surface and event, a shift from his prime when he won routinely across all levels of competition."
+      "source": "The Guardian · 16h ago",
+      "article": "Novak Djokovic's first-round exit at Cincinnati at age 39 exposed the physical toll of competing at elite levels into his fourth decade. The 24-time Grand Slam champion managed the match poorly and lacked the explosiveness that once defined his baseline exchanges. However, Djokovic has historically reserved peak performance for majors, and early-season struggles in smaller events may not forecast his behavior in Grand Slams."
+    },
+    {
+      "headline": "Arsenal's midfield depth signals ominous warning to title rivals – and Maresca's City",
+      "source": "The Guardian · 17h ago",
+      "article": "Arsenal's acquisition of Bruno Guimarães and the re-emergence of Martin Ødegaard, paired with the addition of Christos Tzolis, have fortified the defending Premier League champions' midfield to a level that appears to outpace Manchester City's depth. The Community Shield victory over City was a statement of intent, suggesting Arsenal will enter the season as clear favorites despite Maresca's ambitious building project at City."
     }
   ],
   "poll": {
-    "question": "Will Scottie Scheffler break Tiger Woods's career earnings record before the end of 2026?",
+    "question": "Will Scottie Scheffler break Tiger Woods's PGA Tour career earnings record at the BMW Championship in St. Louis?",
     "options": [
-      "Yes, at the BMW Championship",
-      "Yes, later in the PGA Tour calendar",
-      "No, he'll come close but fall short this year",
-      "Unclear, depends on major championship results"
+      "Yes, he'll surpass it this week",
+      "No, but within the next 12 months",
+      "Not this season",
+      "Unsure"
     ]
   },
   "predictions": [
     {
-      "statement": "Amy Hunt will medal at the 2026 Olympics in at least two sprint events.",
+      "statement": "Manchester City completes the Ayyoub Bouaddi transfer from Lille at or near £85 million within 14 days.",
       "probability": 72,
-      "rationale": "Hunt's quadruple gold at the European Championships demonstrates elite speed and consistency across the 100m, 200m, and relay formats. European dominance often translates to Olympic contention, and her proven ability to win multiple events in a single competition cycle suggests she has the strength to medal in at least two disciplines on the Olympic stage."
+      "rationale": "Advanced negotiations in football typically reach completion within two weeks if both clubs have aligned fees. City's track record of executing young talent acquisitions quickly, and Lille's willingness to sell youth players, support a near-term deal."
     },
     {
-      "statement": "Arsenal finishes the 2026-27 Premier League season as champions.",
+      "statement": "DePaul University settles the pregnancy discrimination lawsuit without admitting liability before trial.",
+      "probability": 68,
+      "rationale": "Universities typically settle employment discrimination suits to avoid discovery and jury exposure, especially when prior lawsuits create a pattern narrative. Legal fees and reputational cost often exceed settlement value."
+    },
+    {
+      "statement": "Ian Eagle's broadcast partners report higher approval ratings on the next official survey cycle compared to peers with other anchors.",
       "probability": 58,
-      "rationale": "The Guardian's assessment of Arsenal's preseason form and midfield acquisitions suggests they are clear favorites entering the season. Guimarães and Tzolis additions, plus Ødegaard's reemergence, create depth that Manchester City struggled to match. However, a full league campaign introduces variables that preseason form cannot predict, and City's experience gives them realistic contention odds."
+      "rationale": "Sports Media Watch's analysis suggests a measurable difference, but audience approval fluctuates based on game importance and matchup quality. An edge of three to five percentage points is plausible but not guaranteed to sustain."
     },
     {
-      "statement": "DePaul Athletics will settle the pregnancy discrimination lawsuit before trial.",
-      "probability": 67,
-      "rationale": "Federal pregnancy discrimination cases are costly to litigate and high-risk for universities given the clear legal standard. DePaul's pattern of similar suits makes a favorable verdict unlikely, and settlement avoids further reputational damage and legal precedent. Universities typically settle rather than fight such cases to completion."
-    },
-    {
-      "statement": "The WNBA will clarify or revise its transgender eligibility policy before the 2026 draft.",
+      "statement": "The Titans' offensive struggles continue into Week 2 preseason, prompting internal review of Cam Ward's fit.",
       "probability": 45,
-      "rationale": "The current declarations have put the league's policies in the spotlight, but the WNBA may choose to let existing frameworks stand. Clarification is politically fraught and organizations sometimes avoid proactive statements when current rules are defensible. The league's move will depend on internal stakeholder pressure and legal risk assessment rather than external noise alone."
+      "rationale": "Preseason Week 1 performance is often unrepresentative, but if Ward's accuracy and decision-making issues persist against second-string competition, it signals a potential concern. The franchise's significant investment demands better early returns."
     }
   ],
   "injuries": [
@@ -2452,122 +2470,71 @@
       "player": "Jaxson Dart",
       "team": "New York Giants",
       "league": "NFL",
-      "position": "QB",
-      "status": "QUESTIONABLE",
-      "injury": "Medical tent visit (undisclosed)",
+      "position": "WR",
+      "status": "DAY_TO_DAY",
+      "injury": "Recurring or chronic injury concern",
       "timeline": null,
-      "source": "NY Post Sports",
-      "impact": "Giants head coach John Harbaugh suspects history may inform Dart's decision-making regarding the injury; unclear if he'll be available for upcoming games.",
+      "source": "John Harbaugh (Giants HC)",
+      "impact": "Dart's availability remains a conversation point; the team is monitoring conservatively based on medical history.",
       "storyIndex": 2
     }
   ],
   "picks": [
     {
-      "type": "moneyline",
-      "pick": "Tampa Bay Rays ML",
-      "odds": "-153",
-      "edge": "Market fill from live lines: Tampa Bay Rays is the books' favorite at -153 (best price @ Caesars) against Baltimore Orioles at +143, with home ice/court/field behind them. No researched edge here — this is a low-confidence market-consensus play added to round out the slate. Low confidence is honest confidence.",
-      "matchup": "Baltimore Orioles @ Tampa Bay Rays",
-      "league": "MLB",
-      "when": "Tomorrow 6:05 PM ET",
-      "confidence": "low",
-      "_autofill": true,
-      "_scheduledTs": 1787004300000,
-      "marketSnapshot": {
-        "capturedAt": "2026-08-16T23:12:43.863Z",
-        "markets": {
-          "h2h": {
-            "away": {
-              "price": 143,
-              "book": "Caesars"
-            },
-            "home": {
-              "price": -153,
-              "book": "Caesars"
-            },
-            "draw": null
-          },
-          "spreads": {
-            "away": {
-              "point": 1.5,
-              "price": -165,
-              "book": "Bovada"
-            },
-            "home": {
-              "point": -1.5,
-              "price": 140,
-              "book": "FanDuel"
-            }
-          },
-          "totals": {
-            "over": {
-              "point": 7.5,
-              "price": -117,
-              "book": "DraftKings"
-            },
-            "under": {
-              "point": 8,
-              "price": -118,
-              "book": "LowVig.ag"
-            }
-          }
-        },
-        "awayTeam": "Baltimore Orioles",
-        "homeTeam": "Tampa Bay Rays"
-      }
-    },
-    {
       "type": "spread",
-      "pick": "Philadelphia Phillies -1.5",
-      "odds": "-107",
-      "edge": "Market fill from live lines: the books lay -1.5 with Philadelphia Phillies at -107 (best @ LowVig.ag). No researched edge — a low-confidence market-consensus play so this sport isn't empty today.",
-      "matchup": "Miami Marlins @ Philadelphia Phillies",
-      "league": "MLB",
-      "when": "Tomorrow 6:40 PM ET",
+      "pick": "Deportivo La Coruña -0.25",
+      "odds": "-115",
+      "edge": "Market fill from live lines: the books lay -0.25 with Deportivo La Coruña at -115 (best @ Bovada). No researched edge — a low-confidence market-consensus play so this sport isn't empty today.",
+      "matchup": "Elche CF @ Deportivo La Coruña",
+      "league": "LA LIGA",
+      "when": "Today 3:00 PM ET",
       "confidence": "low",
       "_autofill": true,
-      "_scheduledTs": 1787006400000,
+      "_scheduledTs": 1786993200000,
       "marketSnapshot": {
-        "capturedAt": "2026-08-17T03:42:31.304Z",
+        "capturedAt": "2026-08-17T11:17:31.711Z",
         "markets": {
           "h2h": {
             "away": {
-              "price": 210,
-              "book": "BetOnline.ag"
+              "price": 270,
+              "book": "FanDuel"
             },
             "home": {
-              "price": -232,
-              "book": "MyBookie.ag"
+              "price": 126,
+              "book": "LowVig.ag"
             },
-            "draw": null
+            "draw": {
+              "price": 210,
+              "book": "DraftKings"
+            }
           },
           "spreads": {
             "away": {
-              "point": 1.5,
-              "price": -104,
-              "book": "MyBookie.ag"
+              "point": 0.5,
+              "price": -145,
+              "book": "BetUS"
             },
             "home": {
-              "point": -1.5,
-              "price": -107,
-              "book": "LowVig.ag"
+              "point": -0.25,
+              "price": -115,
+              "book": "Bovada"
             }
           },
           "totals": {
             "over": {
-              "point": 8,
-              "price": -115,
-              "book": "DraftKings"
+              "point": 2,
+              "price": -140,
+              "book": "BetUS"
             },
             "under": {
-              "point": 8.5,
-              "price": -120,
-              "book": "FanDuel"
+              "point": 2.5,
+              "price": -175,
+              "book": "BetRivers"
             }
           }
         },
-        "awayTeam": "Miami Marlins",
-        "homeTeam": "Philadelphia Phillies"
+        "awayTeam": "Elche CF",
+        "homeTeam": "Deportivo La Coruña"
       }
     },
     {
@@ -5883,7 +5850,7 @@
       "_pendingGrade": true
     }
   ],
-  "updatedAt": "2026-05-19T14:30:00Z",
+  "updatedAt": "2026-08-23T14:30:00Z",
   "highlights": [
     {
       "league": "NBA",
@@ -5895,18 +5862,18 @@
     },
     {
       "league": "NFL",
-      "title": "🚨 Von Miller is signing with the Dallas Cowboys (🎥 FOX)",
-      "videoId": "J4Y0_T3oiGw",
-      "thumbnail": "https://img.youtube.com/vi/J4Y0_T3oiGw/mqdefault.jpg",
-      "timeAgo": "5h ago",
+      "title": "⭐️Mel Kiper's TOP-10 PROSPECTS of 2027 NFL Draft⭐️ w/Field Yates [Preseason] | First Draft🏈",
+      "videoId": "ZPFXegGn82c",
+      "thumbnail": "https://img.youtube.com/vi/ZPFXegGn82c/mqdefault.jpg",
+      "timeAgo": "Just now",
       "isFallback": false
     },
     {
       "league": "MLB",
-      "title": "MARINERS vs. ASTROS: Official Full Game Highlights (August 16) | 2026 MLB Season",
-      "videoId": "aRvPYXgjiF8",
-      "thumbnail": "https://img.youtube.com/vi/aRvPYXgjiF8/mqdefault.jpg",
-      "timeAgo": "5h ago",
+      "title": "Ben Rice comes up CLUTCH with a GO-AHEAD HOMER in extras &amp; the BEST MLB Highlights from 8/16/26!",
+      "videoId": "9Ao_l_Bb5Tw",
+      "thumbnail": "https://img.youtube.com/vi/9Ao_l_Bb5Tw/mqdefault.jpg",
+      "timeAgo": "Just now",
       "isFallback": false
     },
     {
@@ -5914,7 +5881,7 @@
       "title": "EVERY GOAL Scored Last Season by the 2026-27 Nashville Predators Roster",
       "videoId": "s9Q6ZMFQF9Q",
       "thumbnail": "https://img.youtube.com/vi/s9Q6ZMFQF9Q/mqdefault.jpg",
-      "timeAgo": "17h ago",
+      "timeAgo": "20h ago",
       "isFallback": false
     },
     {
@@ -5922,7 +5889,7 @@
       "title": "Diana Taurasi’s Jersey Retirement | FULL POSTGAME CEREMONY | August 16, 2026",
       "videoId": "c1GBdVQosp0",
       "thumbnail": "https://img.youtube.com/vi/c1GBdVQosp0/mqdefault.jpg",
-      "timeAgo": "4h ago",
+      "timeAgo": "7h ago",
       "isFallback": false
     },
     {
@@ -5930,11 +5897,35 @@
       "title": "Ally Sentnor on what it means to score her first goal for Angel City FC ❤️ | ESPN FC",
       "videoId": "rlw9fStngR0",
       "thumbnail": "https://img.youtube.com/vi/rlw9fStngR0/mqdefault.jpg",
-      "timeAgo": "4h ago",
+      "timeAgo": "8h ago",
       "isFallback": false
     }
   ],
   "reels": [
+    {
+      "league": "MLB",
+      "title": "Ben Rice comes up CLUTCH with a GO-AHEAD HOMER in extras &amp; the BEST MLB Highlights from 8/16/26!",
+      "videoId": "9Ao_l_Bb5Tw",
+      "author": "MLB",
+      "pubDate": "2026-08-17T11:00:34+00:00",
+      "link": "https://www.youtube.com/watch?v=9Ao_l_Bb5Tw"
+    },
+    {
+      "league": "NFL",
+      "title": "⭐️Mel Kiper's TOP-10 PROSPECTS of 2027 NFL Draft⭐️ w/Field Yates [Preseason] | First Draft🏈",
+      "videoId": "ZPFXegGn82c",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-08-17T11:00:00+00:00",
+      "link": "https://www.youtube.com/watch?v=ZPFXegGn82c"
+    },
+    {
+      "league": "MLB",
+      "title": "Highlights from ALL GAMES on 8/16 (Noah Cameron's ONE-HIT SHUTOUT, Brewers win 3/4 in L.A. &amp; MORE!)",
+      "videoId": "0tmnIgIvQbY",
+      "author": "MLB",
+      "pubDate": "2026-08-17T10:00:12+00:00",
+      "link": "https://www.youtube.com/watch?v=0tmnIgIvQbY"
+    },
     {
       "league": "WNBA",
       "title": "Diana Taurasi’s Jersey Retirement | FULL POSTGAME CEREMONY | August 16, 2026",
@@ -6062,22 +6053,6 @@
       "author": "MLB",
       "pubDate": "2026-08-16T23:16:26+00:00",
       "link": "https://www.youtube.com/watch?v=M1EVfR0a3aI"
-    },
-    {
-      "league": "MLB",
-      "title": "RED SOX vs. PIRATES: Official Full Game Highlights (August 16) | 2026 MLB Season",
-      "videoId": "gTfIKuopCHk",
-      "author": "MLB",
-      "pubDate": "2026-08-16T23:11:31+00:00",
-      "link": "https://www.youtube.com/watch?v=gTfIKuopCHk"
-    },
-    {
-      "league": "MLB",
-      "title": "ROYALS vs. ANGELS: Official Full Game Highlights (August 16) | 2026 MLB Season",
-      "videoId": "RcRxVG5jUb8",
-      "author": "MLB",
-      "pubDate": "2026-08-16T23:05:16+00:00",
-      "link": "https://www.youtube.com/watch?v=RcRxVG5jUb8"
     },
     {
       "league": "NFL",
@@ -6246,14 +6221,6 @@
       "author": "NFL on ESPN",
       "pubDate": "2026-08-15T22:55:02+00:00",
       "link": "https://www.youtube.com/watch?v=1oqG-Zu-7OM"
-    },
-    {
-      "league": "NFL",
-      "title": "Micah Parsons on his command of a defense 🔥 (via NFL Network)",
-      "videoId": "FCQk7IuBkHE",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-08-15T21:50:35+00:00",
-      "link": "https://www.youtube.com/watch?v=FCQk7IuBkHE"
     }
   ]
 }
