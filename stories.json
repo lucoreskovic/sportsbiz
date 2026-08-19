@@ -1,73 +1,81 @@
 {
   "clusters": [
     {
-      "category": "media",
+      "category": "leagues",
       "importance": 9,
-      "leadHeadline": "WNBA Fever Dream continues with new cable viewership record on ESPN",
-      "leadSource": "Sports Media Watch · just now",
-      "leadUrl": "https://www.sportsmediawatch.com/2026/08/wnba-fever-dream-most-watched-ever-cable-espn/",
-      "summary": "<cite index=\"20-1\">Atlanta Dream-Indiana Fever averaged 2.6 million viewers on ESPN August 16</cite>, setting cable record. <cite index=\"20-3\">Audience up 178% compared to last year's ESPN regular season average.</cite>",
-      "article": "<cite index=\"20-1,20-2\">The Atlanta Dream-Indiana Fever game on ESPN August 16 averaged 2.6 million viewers, the most-watched WNBA game ever on cable.</cite> <cite index=\"20-4\">The game peaked at 4 million viewers from 7:15-7:29 p.m. ET.</cite>\n\n<cite index=\"20-3\">Viewership jumped 178 percent compared to last year's ESPN regular season average.</cite> <cite index=\"26-3,26-4\">Indiana erased an eight-point second-half deficit and forced overtime before defeating Atlanta, 95-91. Clark led the Fever with 26 points and nine assists.</cite>\n\nThe cable record surpasses <cite index=\"26-7\">the previous cable record of 2.3 million viewers, set by a Caitlin Clark game.</cite> The August 16 matchup reflects sustained momentum from <cite index=\"12-7\">Clark's arrival in 2024, credited with producing record-breaking television ratings, sold-out arenas, and soaring merchandise sales.</cite> <cite index=\"15-7\">The league negotiated a new 11-year, $2.2 billion media deal</cite>, positioning prime-time WNBA windows as network priorities. Cable records now consistently run in the 2-plus-million range, a threshold the league did not approach before 2024.",
+      "leadHeadline": "Brewers shell Mariners 22-0, tied for largest shutout win in 139 years",
+      "leadSource": "The Guardian · 4h ago",
+      "leadUrl": "https://www.theguardian.com/sport/2026/aug/18/brewers-mariners-22-0-modern-era-shutout-record",
+      "summary": "The Milwaukee Brewers matched baseball's largest shutout win since 1887, demolishing Seattle 22-0 on Tuesday night. The 78-48 Brewers matched a franchise record for runs in a game behind homers from Yelich, Hamilton, and Lara.",
+      "article": "The Milwaukee Brewers matched baseball's largest shutout win since June 1887, demolishing the Seattle Mariners 22-0 on Tuesday night at American Family Field.\n\nChristian Yelich, David Hamilton, and Luis Lara each hit three-run home runs, while Jake Bauers added a two-run shot. The Brewers' 22 runs matched a franchise record. Kyle Harrison allowed two hits in five innings while the bullpen—Shane Drohan, Grant Anderson, and position player Gary Sánchez—completed the shutout.\n\nThe last 22-0 shutout victory came from Cleveland in 2004, and Pittsburgh in 1975. Only the Philadelphia Quakers' 24-0 win on June 28, 1887, surpassed this margin in baseball history.\n\n\"It was kind of crazy, and it happened fast,\" Yelich said.\n\nBrewers manager Pat Murphy was more direct: \"I'd like to order that every night.\" Mariners manager Dan Wilson called it \"a tough one to even think about.\"\n\nMilwaukee improved to 78-48 with the win, maintaining the best record in Major League Baseball. The Mariners scored just once in the first four innings—on an error—before the Brewers erupted for 21 runs in their final four at-bats.",
+      "tweets": [
+        {
+          "url": "https://twitter.com/MLBONFOX/status/2089905041062941014",
+          "html": "<blockquote class=\"twitter-tweet\" data-dnt=\"true\" data-theme=\"dark\"><p>A dominant performance as the @Brewers secure the 22–0 victory over the Mariners! https://t.co/bQghn5JlM1</p>&mdash; FOX Sports: MLB (@MLBONFOX) <a href=\"https://twitter.com/MLBONFOX/status/2089905041062941014\">August 19, 2026</a></blockquote>",
+          "author_name": "FOX Sports: MLB",
+          "author_url": "https://twitter.com/MLBONFOX",
+          "dateMs": 1787107165000
+        }
+      ]
+    },
+    {
+      "category": "revenue",
+      "importance": 8,
+      "leadHeadline": "Lakers Sale Complicated by Jeanie Buss Spat With Siblings",
+      "leadSource": "Sportico · 11h ago",
+      "leadUrl": "https://www.sportico.com/law/analysis/2026/lakers-sale-jeanie-buss-potential-lawsuit-1234942270/",
+      "summary": "The $12.5 billion sale of Mark Walter's Lakers majority stake to Joshua Kushner and Bob Iger faces a new obstacle: minority owner Jeanie Buss has no intention of selling her family's controlling stake or surrendering her leadership role. The dispute could trigger litigation if unresolved.",
+      "article": "A significant complication has emerged in the $12.5 billion sale of Mark Walter's controlling interest in the Los Angeles Lakers to Joshua Kushner and Bob Iger. Jeanie Buss, the team's minority but controlling owner and the daughter of founder Jerry Buss, has made clear she will not sell her family's stake nor relinquish her executive role with the franchise.\n\nThe Buss family's holding creates a structural conflict within the transaction. While Walter's majority interest is being transferred, Jeanie Buss retains decision-making authority over basketball operations and strategy. Her refusal to participate in the sale means the new ownership group would inherit a subordinate position to her operational control, a dynamic that contradicts the typical acquisition structure where incoming ownership assumes full governance.\n\nUnless the parties reach a resolution, legal action is possible. The dispute centers on whether Kushner and Iger's investment buys them full control or merely a majority stake subject to Buss family veto rights on major decisions. NBA bylaws and the Lakers' ownership structure will determine whether the sale can proceed without Jeanie Buss's consent. The deal has drawn federal scrutiny into Walter's broader business operations, adding another layer of complexity to closing what was announced as a landmark transaction for the league's flagship franchise.",
+      "tweets": []
+    },
+    {
+      "category": "media",
+      "importance": 8,
+      "leadHeadline": "ESPN founder Bill Rasmussen passes away at 93",
+      "leadSource": "Sports Media Watch · 13h ago",
+      "leadUrl": "https://www.sportsmediawatch.com/2026/08/espn-bill-rasmussen-founder-passes-away/",
+      "summary": "Bill Rasmussen, the visionary who founded ESPN and revolutionized sports media, died Tuesday at 93 after battling Parkinson's disease. He conceived and launched the first network devoted entirely to sports programming.",
+      "article": "Bill Rasmussen, the founder of ESPN and the architect of modern sports television, passed away on Tuesday at age 93. He had been suffering from Parkinson's disease.\n\nRasmussen's vision fundamentally altered the media landscape. In an era when sports content was scattered across local broadcasts and weekend packages, he conceived and built the first television network dedicated entirely to sports programming. That concept, which seemed implausible in the late 1970s, became one of the most valuable media franchises in history.\n\nESPN's creation democratized sports access, making live games, highlights, and analysis available 24 hours a day. The network's growth from a cable novelty to a cultural institution changed how leagues structured broadcasting rights, how athletes built personal brands, and how fans consumed the games they loved.\n\nRasmussen's legacy extends beyond the network itself. He demonstrated that audience demand for sports content was virtually unlimited, a insight that reshaped television economics and led to the massive media rights packages that now define professional sports. His early bet on sports as a dedicated content category proved prescient across every platform and generation of technology that followed.\n\nThe sports media industry he invented mourned his loss as one of its foundational figures.",
       "tweets": []
     },
     {
       "category": "leagues",
-      "importance": 8,
-      "leadHeadline": "Israel withdraws support for embattled Fifa president Gianni Infantino",
-      "leadSource": "The Guardian · 10h ago",
-      "leadUrl": "https://www.theguardian.com/football/2026/aug/18/israel-withdraws-support-for-embattled-fifa-president-gianni-infantino",
-      "summary": "Israel's football federation has withdrawn its backing of FIFA president Gianni Infantino, citing an 'unprecedented crisis of confidence' stemming from the World Cup sell-off plan. The withdrawal marks a significant blow to Infantino's re-election bid as opposition hardens.",
-      "article": "Israel's football federation has joined a growing list of nations withdrawing support for FIFA president Gianni Infantino, pointing to what it characterized as an 'unprecedented crisis of confidence' in his leadership. The move comes after Infantino's decision to sack FIFA chief operating officer Kevin Lamour, who had publicly criticized the proposed World Cup restructuring plan.\n\nThe Guardian reported that Infantino's handling of the World Cup sell-off has crystallized opposition among multiple federations, with efforts to force him out expected to intensify. Premier League chief executive Richard Masters intensified the pressure, telling BBC Sport that Infantino had 'pressed the self-destruct button' and delivered 'a self-inflicted wound' to FIFA's credibility.\n\nInfantino's reelection timeline remains unclear, but the cascade of withdrawals from major football nations signals that his path to a clean mandate has narrowed considerably. The World Cup restructuring plan, which apparently involves selling future tournament hosting rights or broadcast packages in unprecedented ways, has become the fulcrum of his downfall. Without support from Israel, Europe, and potentially other confederations, even a ceremonial reelection becomes untenable.",
+      "importance": 7,
+      "leadHeadline": "Infantino Election Tracker: Who Is Voting Against Embattled FIFA President",
+      "leadSource": "Front Office Sports · 10h ago",
+      "leadUrl": "https://frontofficesports.com/infantino-election-tracker-voting-embattled-fifa-president/",
+      "summary": "Federations continue withdrawing support from Gianni Infantino as opposition to his FIFA presidency hardens, with Israel the latest to withdraw backing and Premier League officials stating he 'hit self-destruct.' The escalating withdrawals signal intensifying efforts to force him out.",
+      "article": "Support for FIFA President Gianni Infantino is fragmenting. Israel has withdrawn its backing, citing an 'unprecedented crisis of confidence,' while Britain's Premier League chief publicly stated that Infantino 'hit self-destruct.' The coordinated erosion of support signals an acceleration in efforts to remove him from office.\n\nThe collapse accelerated after Infantino dismissed Kevin Lamour, the chief operating officer, following Lamour's public criticism of the FIFA World Cup commercialization plan. The firing hardened opposition among federations already skeptical of Infantino's direction and governance style. Multiple national associations have now publicly reversed earlier endorsements.\n\nInfantino's contested actions on the World Cup expansion and his handling of internal dissent have become lightning rods. The Israeli withdrawal represents a significant shift, as did the Premier League's unvarnished language about his leadership. These public rejections differ markedly from the quiet diplomacy typical of FIFA elections, suggesting the opposition has moved beyond backroom negotiation into open political campaign mode.\n\nThe next election remains on the calendar, but the velocity of withdrawals indicates confederation leadership has decided the cost of retaining Infantino exceeds the cost of a contested transition. Additional withdrawals are expected in coming weeks.",
       "tweets": []
     },
     {
-      "category": "contracts",
-      "importance": 7,
-      "leadHeadline": "Rodri ready for 'excitement again' after Barca complete £65m deal",
-      "leadSource": "BBC Sport · 9h ago",
-      "leadUrl": "https://www.bbc.co.uk/sport/football/articles/c2k7w3vwv5yo?at_medium=RSS&amp;at_campaign=rss",
-      "summary": "Barcelona signed 2026 World Cup player of the tournament Rodri from Manchester City for £65 million after seven seasons with the Premier League club. The Spanish midfielder reunites with his home country's top club following a trophy-laden spell in England.",
-      "article": "Barcelona completed the signing of Rodri from Manchester City for £65 million, bringing the Spanish midfielder back to his home country after seven seasons in the Premier League. The deal marks a significant acquisition for Barcelona, which paid a substantial fee for a midfielder coming off a World Cup award as the tournament's best player.\n\nRodri's departure from Manchester City ends a long tenure in England during which he won multiple Premier League titles and established himself as one of Europe's most consistent midfielders. At Barcelona, he joins a midfield that has been reconstructed under manager Hansi Flick following the club's struggles in recent seasons.\n\nThe £65 million fee represents Barcelona's confidence in using the midfielder as a centerpiece of their rebuild, especially given his World Cup credentials. Whether the transfer will move the needle in La Liga or European competition depends on how quickly Rodri integrates and whether Barcelona can construct a competitive squad around him. The deal also signals Barcelona's willingness to spend on established talent rather than purely youth-driven development.",
+      "category": "media",
+      "importance": 6,
+      "leadHeadline": "WNBA Fever Dream continues with new cable viewership record on ESPN",
+      "leadSource": "Sports Media Watch · 4h ago",
+      "leadUrl": "https://www.sportsmediawatch.com/2026/08/wnba-fever-dream-most-watched-ever-cable-espn/",
+      "summary": "The WNBA set another viewership milestone this weekend on ESPN cable, continuing the league's sustained ratings surge. The Fever's continued prominence drove the record performance.",
+      "article": "The WNBA posted a new cable viewership record on ESPN this past weekend, extending a streak of strong ratings performances. The milestone reflects the league's growing audience reach and ESPN's expanded investment in women's basketball programming.\n\nThe Fever remained central to the ratings story, their continued prominence a major factor in driving viewership gains. The league's success in converting casual audiences into regular viewers has outpaced earlier industry projections. Sponsors and media partners have taken notice, with investment in WNBA content rising accordingly.\n\nThe record came amid a broader weekend of strong sports television performance. The cable benchmark underscores that women's professional basketball has moved from niche programming into mainstream audience expectations. Multiple games across the weekend drew measurable audiences, indicating depth rather than reliance on a single marquee matchup.\n\nThe sustained viewership gains give the WNBA leverage in approaching its next media rights cycle. Networks view the audience as proven and growing, a significant shift from five years prior when league viewership struggled to register on measurement systems.",
       "tweets": []
     },
     {
       "category": "revenue",
-      "importance": 6,
-      "leadHeadline": "Lakers Sale Complicated by Jeanie Buss Spat With Siblings",
-      "leadSource": "Sportico · 7h ago",
-      "leadUrl": "https://www.sportico.com/law/analysis/2026/lakers-sale-jeanie-buss-potential-lawsuit-1234942270/",
-      "summary": "The $12.5 billion sale of Mark Walter's controlling stake in the Lakers to Joshua Kushner and Bob Iger faces complications from minority owner Jeanie Buss, who has signaled she will not sell her family's stake or relinquish leadership. The dispute could trigger litigation if parties cannot negotiate a resolution.",
-      "article": "A family dispute has emerged in the pending $12.5 billion sale of Mark Walter's majority interest in the Los Angeles Lakers to Joshua Kushner and Bob Iger. Jeanie Buss, the minority but controlling family owner, has indicated she will not sell her stake or step away from her leadership role, creating a structural problem for the incoming ownership group.\n\nSportico reported that the situation could escalate into litigation unless the parties find common ground on Buss's role and ownership position. The tension reflects a broader question about control at the franchise: whether Kushner and Iger will assume full operational authority or whether Buss retains veto power and decision-making authority on key matters.\n\nThe sale was announced as a straightforward majority transfer, but the involvement of the Buss family's controlling shares creates a layer of complexity that may require restructuring the deal's terms. If Buss refuses to sell and litigation ensues, the closing of the transaction could be delayed or fundamentally altered. The outcome will determine whether the new ownership group inherits a united front or an ongoing family governance battle at the NBA's most valuable franchise.",
-      "tweets": []
-    },
-    {
-      "category": "media",
       "importance": 5,
-      "leadHeadline": "ESPN founder Bill Rasmussen passes away at 93",
-      "leadSource": "Sports Media Watch · 15h ago",
-      "leadUrl": "https://www.sportsmediawatch.com/2026/08/espn-bill-rasmussen-founder-passes-away/",
-      "summary": "Bill Rasmussen, the visionary founder of ESPN who pioneered the concept of a 24-hour sports television network, died Tuesday at age 93 after battling Parkinson's disease. His founding of ESPN in 1979 fundamentally reshaped the sports media landscape.",
-      "article": "Bill Rasmussen, the founder of ESPN and architect of the modern sports media industry, has died at 93. He had been suffering from Parkinson's disease.\n\nRasmussen conceived and built ESPN from its inception, launching a network entirely devoted to sports at a time when such a concept was considered commercially unviable. His innovation created a template that sports leagues, athletes, and media companies have built upon for nearly five decades.\n\nThe impact of ESPN's founding extends far beyond television ratings or advertising revenue. Rasmussen's bet on 24-hour sports coverage fundamentally altered how leagues schedule games, how athletes build personal brands, and how fans consume sports. The network became the primary distribution mechanism for marquee events and the incubator for sports commentary as entertainment.\n\nHis legacy includes not just the network itself but the entire ecosystem of sports media that followed: cable sports channels, digital platforms, streaming services. Almost every sports media innovation of the past 40 years exists in conversation with the template Rasmussen built. His death marks the end of an era in sports media leadership and removes one of the few remaining figures who witnessed the transition from print and radio dominance to the modern era.",
+      "leadHeadline": "Enhanced Games Parent Company Posts $62M Loss After Debut Event",
+      "leadSource": "Front Office Sports · 11h ago",
+      "leadUrl": "https://frontofficesports.com/enhanced-games-q2-loss/",
+      "summary": "Enhanced Group reported a $62 million loss after its inaugural Enhanced Games event and is now pivoting toward supplements and smaller competitions. The initial venture fell short of financial expectations.",
+      "article": "Enhanced Group, the parent company behind the Enhanced Games, reported a $62 million loss following its debut event. The ambitious venture to create a new Olympic-style competition with looser doping rules failed to generate sufficient revenue to offset operational costs.\n\nThe company is now shifting strategy, moving away from large-scale sports events toward supplements and smaller competitions. The pivot signals acknowledgment that the original vision exceeded both market demand and realistic financing models.\n\nThe Enhanced Games concept attracted significant initial investment and media attention but faced sustained criticism from mainstream sports bodies and athlete advocates. The financial loss and strategic retreat suggest that neither broadcast rights nor sponsorship commitments materialized at the levels needed to sustain the original event scale.\n\nThe supplement pivot places the company in a lower-barrier-to-entry market, though with substantially reduced ambitions compared to the global sports platform the company initially proposed. Smaller, niche competitions may prove more viable within a reduced budget framework.",
       "tweets": []
     },
     {
-      "category": "leagues",
+      "category": "labor",
       "importance": 4,
       "leadHeadline": "Appeals Court Weighs Nationwide NCAA Eligibility Injunction",
-      "leadSource": "Sportico · 16h ago",
+      "leadSource": "Sportico · 20h ago",
       "leadUrl": "https://www.sportico.com/law/analysis/2026/nationwide-ncaa-eligibility-injunction-appeal-court-1234942158/",
-      "summary": "The U.S. Court of Appeals for the 10th Circuit is considering whether to uphold a nationwide injunction permitting formerly ineligible athletes who completed four years of college play to compete for an additional season. The decision will affect thousands of athletes from the 2022-2023 cohort.",
-      "article": "The U.S. Court of Appeals for the 10th Circuit has received competing briefs from the NCAA and a dozen athletes who are seeking to overturn a ruling that blocks thousands of formerly ineligible players from competing in an additional season. The athletes completed their standard four-year eligibility window and are now arguing that they should be permitted to play a fifth year under the injunction.\n\nSportico reported that the briefs debate the merits of upholding a nationwide injunction that would extend eligibility beyond the traditional four-year limit. The case centers on whether the NCAA's eligibility rules, as applied to this specific cohort from 2022-2023, violated athletes' rights or NCAA bylaws.\n\nThe outcome will determine whether thousands of former college athletes across multiple sports gain the right to compete for one additional season, potentially delaying their entry into professional leagues or professional competition. A ruling in favor of the athletes would represent a significant erosion of NCAA eligibility enforcement. A ruling upholding the NCAA's position would affirm the traditional four-year window but may face criticism from athlete-advocacy groups. The case underscores ongoing tension between the NCAA's authority to set eligibility rules and challenges from athletes seeking more flexibility.",
-      "tweets": []
-    },
-    {
-      "category": "media",
-      "importance": 3,
-      "leadHeadline": "Enhanced Games Parent Company Posts $62M Loss After Debut Event",
-      "leadSource": "Front Office Sports · 7h ago",
-      "leadUrl": "https://frontofficesports.com/enhanced-games-q2-loss/",
-      "summary": "Enhanced Group reported a $62 million loss following its inaugural Enhanced Games event and is now redirecting focus toward supplements and smaller events. The loss underscores financial challenges in launching a new multi-sport competition.",
-      "article": "Enhanced Group, the parent company of the Enhanced Games, posted a $62 million loss after its debut event, according to Front Office Sports. The company has responded by pivoting away from mega-event ambitions and concentrating on supplements and smaller-scale competitions.\n\nThe Enhanced Games positioned itself as a high-tech alternative to traditional Olympic competition, featuring performance-enhancement flexibility and futuristic production. However, the financial reality of staging such an event, combined with limited sponsorship and broadcasting revenue, created a significant shortfall.\n\nThe shift toward supplements and smaller events suggests the company is retreating from the capital-intensive model required to compete with established multi-sport competitions. It also signals that the concept of a fully doped, technologically augmented Games lacks the commercial viability that its founders anticipated. The loss is notable not because Enhanced Group is unknown (it isn't a major player), but because it demonstrates how difficult it remains to launch credible alternatives to the Olympics or established league structures. Market barriers, governance, and athlete recruitment all present obstacles that capital alone cannot overcome.",
+      "summary": "The U.S. Court of Appeals for the 10th Circuit is now reviewing dueling briefs in a case where a dozen athletes who completed four years of eligibility are seeking to play an additional season. The decision could affect thousands of formerly ineligible athletes.",
+      "article": "The U.S. Court of Appeals for the 10th Circuit is considering whether to stay a nationwide injunction that would permit athletes to compete beyond the NCAA's traditional four-year eligibility window. The case involves a dozen athletes who began college play in the 2022-2023 season, completed four years, and are now seeking an additional year of competition.\n\nDueling briefs from the NCAA and the athlete plaintiffs debate the scope and enforceability of the injunction. The NCAA argues that granting a nationwide order would disrupt competitive balance and create administrative chaos across Division I, II, and III programs. The athletes' legal team contends that the NCAA's eligibility rules lack rational basis and violate due process.\n\nThe potential impact extends far beyond the twelve named plaintiffs. If the injunction stands and is not stayed on appeal, it could affect thousands of athletes who completed their traditional eligibility window. Programs would face questions about roster limits, scholarship distribution, and competitive parity if former four-year players can petition for fifth-year status.\n\nThe 10th Circuit's decision will likely determine whether similar cases proceed in other circuits or whether the NCAA's eligibility framework receives appellate protection. A ruling favoring the athletes could accelerate broader legal challenges to NCAA eligibility rules and athlete compensation restrictions.",
       "tweets": []
     }
   ],
@@ -2396,82 +2404,214 @@
   "ticket_prices": [],
   "sidebar": [
     {
-      "headline": "Liberty have no answers for ex-teammate Natasha Cloud's monster night in loss to Sky",
-      "source": "NY Post Sports · just now",
-      "article": "Natasha Cloud turned a reunion with her former team into a showcase performance as she led the Sky past the Liberty in a game that underscored the competitive depth of the 2026 WNBA season. Cloud, who spent time with New York earlier in her career, found herself opposite some familiar faces on Tuesday night and made the most of the matchup.\n\nThe loss drops the Liberty's record and marks another test in a season where depth and guard play have become more critical than ever. Cloud's individual performance wasn't just a stat line; it represented the league's ability to develop multiple scoring weapons at multiple positions. The Liberty's inability to match her output or execution highlights a gap in their rotational depth that may need addressing before playoff positioning becomes critical."
-    },
-    {
-      "headline": "Fantasy Baseball Injury Rankings: Top 50 IL stashes with Konnor Griffin, Roman Anthony gearing up to return",
-      "source": "CBS Sports · 2h ago",
-      "article": "The injured list continues to thin as players like Konnor Griffin and Roman Anthony prepare for returns, reshaping the landscape of available fantasy assets for mid-season roster construction. CBS Sports ranked the top 50 IL stashes, identifying which injured players represent the best value bets for fantasy teams looking to add upside.\n\nGriffin and Anthony represent the cohort of prospects and young players whose return could swing a playoff race or a fantasy manager's championship hopes. The timing of these returns matters enormously in fantasy baseball, where a week or two of availability can swing a manager's trajectory. For real teams, the returns of young offensive talent could help struggling lineups, especially for teams fighting in tight divisional races or playoff positioning."
+      "headline": "LeBron James Quickly Ascending Golf Content-Creator Ranks",
+      "source": "Front Office Sports · 10h ago",
+      "article": "LeBron James has moved aggressively into golf content creation despite having picked up the sport only last year. The NBA star is leveraging his massive social media following and existing production infrastructure to establish himself as a significant player in the golf media space. His early foray into golf broadcasting and content deals suggests he is treating the sport as a long-term media business, not merely a hobby. For golf, the influx of mainstream sports figures with audience reach represents both opportunity and potential fragmentation, as traditional golf media competes with celebrity-backed channels for viewer attention."
     },
     {
       "headline": "Blue Jays find power in romping of Rays",
-      "source": "Sportsnet · 2h ago",
-      "article": "The Toronto Blue Jays stayed hot on Tuesday with a 10-5 rout of the Tampa Bay Rays at Tropicana Field, a ballpark that has historically been unkind to visiting offenses. The Blue Jays' power display kept them in the wild-card hunt as the season enters its latter stretch.\n\nThe offensive explosion, analyzed by Sportsnet's Jamie Campbell and Caleb Joseph, flipped a historical script: the Jays' ability to generate runs at a place where runs are typically hard to come by suggests their lineup is hitting a stride at a critical moment. The win maintains pressure in a competitive American League wild-card race and shows the Blue Jays' capacity to win in difficult environments."
+      "source": "Sportsnet · 6h ago",
+      "article": "The Toronto Blue Jays stayed hot on Tuesday, finding offensive rhythm in a dominant win over Tampa Bay that keeps them alive in the wild-card race. The victory showcased the kind of power display the team needs to sustain as the season enters its critical stretch. Jamie Campbell and Caleb Joseph broke down how the Blue Jays' offense came alive at Tropicana Field, a ballpark historically unfriendly to visiting teams. The win positioned Toronto favorably with multiple games remaining in the playoff push."
     },
     {
-      "headline": "Carlos Rodon has NSFW reaction to George Lombard's highlight-reel defensive play",
-      "source": "NY Post Sports · just now",
-      "article": "Yankees rookie George Lombard Jr. made a highlight-reel defensive play in a 3-1 win over the Baltimore Orioles, earning an NSFW reaction from starting pitcher Carlos Rodon. The play epitomized the kind of electric rookie-year performance that can change the momentum of a pitching-dependent victory.\n\nLombard's defensive gem on a day when the Yankees' offense managed only three runs illustrated a principle of modern baseball: elite defense can be as valuable as run production, especially in close games. For the Yankees, the rookie's development as a two-way contributor matters as much as the win itself. Rodon's reaction, though colorful, spoke to relief: a starter giving up minimal runs gets a reprieve when his defense turns a would-be hit into an out."
+      "headline": "Tigers vs. Pirates MLB picks: Could Wednesday matinee be final start of season for scuffling Paul Skenes?",
+      "source": "CBS Sports · 4h ago",
+      "article": "Paul Skenes faces the possibility of being shut down before the season concludes, with a Wednesday start against Detroit potentially marking his final outing of 2026. The pitcher has struggled recently, prompting Pittsburgh to consider conservation strategies for the remainder of the campaign. Skenes' early-season dominance has given way to inconsistent performance, creating questions about his workload management and availability down the stretch. A Wednesday matinee could serve as the end point for his season if the Pirates choose a cautious approach going forward."
     },
     {
-      "headline": "Multiple brawls overshadow Saints-Cowboys joint practice session",
-      "source": "The Guardian · 1h ago",
-      "article": "At least six fights broke out during a joint practice between the New Orleans Saints and Dallas Cowboys at training camp, with Saints wide receiver Ronnie Bell carted off after being affected by Southern California heat during one of the skirmishes. The practice degenerated into a series of chippy moments that ejected Saints player Donovan Ezeiruaku for throwing punches.\n\nJoint practices are designed to create competitive work environments for both teams, but Tuesday's session crossed from intensity into chaos. Bell's removal via cart raised immediate concern about his health and availability for the upcoming preseason. The frequency and severity of the altercations suggest that coaching staff on both sides lost control of the practice's tone. The NFL typically discourages such chaos during joint practices and may monitor whether disciplinary action is warranted."
+      "headline": "How will your club fare? Phil McNulty's Premier League predictions",
+      "source": "BBC Sport · 2h ago",
+      "article": "BBC chief football writer Phil McNulty has released his annual Premier League predictions for the 2026-27 season, assessing how each club will fare across the upcoming campaign. McNulty's forecasts draw on preseason form, transfer activity, managerial stability, and injury concerns to project final standings. The predictions offer a baseline against which to measure actual performance as the season unfolds. Readers can compare their own expectations against McNulty's assessments as the league year progresses."
     },
     {
-      "headline": "LeBron James Quickly Ascending Golf Content-Creator Ranks",
-      "source": "Front Office Sports · 6h ago",
-      "article": "LeBron James, who began playing golf seriously only last year, has already begun generating significant content around the sport, positioning himself alongside other NBA stars building secondary brands in golf. His rapid ascent in the golf-content space reflects the broader trend of NBA players diversifying their income and personal-brand building beyond basketball.\n\nJames' entry into golf content differs from typical athlete side pursuits: he's competing in recognizable tournaments and events, not just appearing in marketing partnerships. The visibility he brings to golf, combined with his existing fan base, allows him to monetize the sport at a level most recreational golfers could never achieve. His golf content also serves as off-court lifestyle branding that humanizes him beyond basketball competition and feeds his broader media ecosystem."
+      "headline": "Fantasy Baseball Injury Rankings: Top 50 IL stashes with Konnor Griffin, Roman Anthony gearing up to return",
+      "source": "CBS Sports · 6h ago",
+      "article": "The injured list remains a key asset for fantasy baseball players as the season enters its home stretch. Konnor Griffin and Roman Anthony are among the notable prospects expected to return soon, presenting acquisition opportunities for managers seeking depth. The IL is thinning but still offers value for those willing to stash players and wait for their recovery windows. Smart management of returning players can shift playoff positioning for fantasy teams entering the final weeks of the regular season."
+    },
+    {
+      "headline": "Musiala collapses in match for second time in four days",
+      "source": "BBC Sport · 12h ago",
+      "article": "Bayern Munich midfielder Jamal Musiala collapsed on the pitch for the second time in four days and is undergoing treatment for a 'neurological dysfunction.' The repeated incidents have raised immediate concern about his health and availability. Musiala says he is receiving medical attention to identify and address the underlying cause. Bayern and club medical staff are taking the matter seriously, with further testing likely to follow before his return to competitive play."
     }
   ],
   "poll": {
-    "question": "Will Jeanie Buss's refusal to sell her Lakers stake delay or derail the $12.5B Kushner-Iger deal?",
+    "question": "Will Gianni Infantino survive his FIFA presidency or be forced out by federation opposition?",
     "options": [
-      "Deal closes on schedule; Buss retains limited ownership stake with reduced authority",
-      "Deal delayed 6+ months while parties negotiate Buss's role and equity stake",
-      "Litigation ensues; deal is restructured or collapsed entirely",
-      "New ownership assumes control; Buss exits both ownership and operations"
+      "He survives and seeks reelection",
+      "He is forced out through federation votes or political pressure",
+      "He resigns voluntarily before a formal challenge",
+      "Legal challenges derail him before any federation vote"
     ]
   },
   "predictions": [
     {
-      "statement": "The 10th Circuit upholds the NCAA's four-year eligibility rule and overturns the nationwide injunction.",
+      "statement": "The Lakers sale closes without Jeanie Buss relinquishing operational control, resulting in a hybrid ownership structure where Kushner and Iger hold majority equity but Buss retains basketball decisions.",
       "probability": 62,
-      "rationale": "The NCAA's core enforcement power depends on eligibility limits. Courts are typically reluctant to second-guess governing-body rules absent clear statutory violation. The athletes' argument requires judges to reinterpret NCAA bylaws, which courts have historically deferred to."
+      "rationale": "The Buss family has proven willingness to litigate and defend its control. A compromise that keeps them in place while new capital enters is likelier than Jeanie Buss capitulating entirely. NBA precedent shows minority operators with operational control can coexist with majority owners."
     },
     {
-      "statement": "Infantino loses his re-election bid or withdraws before a vote is held within the next 12 months.",
-      "probability": 58,
-      "rationale": "Israel's withdrawal joins Europe, England, and other major federations in opposing him. The World Cup sell-off plan remains broadly unpopular. A contested reelection would be unprecedented and embarrassing for FIFA; Infantino may choose to resign rather than face it."
-    },
-    {
-      "statement": "The Lakers deal closes by end of 2026 with a modified ownership structure giving Jeanie Buss a meaningful minority stake and operational role.",
+      "statement": "Infantino is out as FIFA president within 18 months through either election loss, resignation, or formal removal procedure as federations continue withdrawing support.",
       "probability": 71,
-      "rationale": "Full litigation is costly and reputationally damaging for all parties. Kushner and Iger likely prefer a negotiated resolution that keeps Buss invested and quiets the family dispute. The precedent of family involvement in NBA ownership (Buss family legacy) supports a compromise."
+      "rationale": "The public defections from Israel and the Premier League signal a coordinated campaign, not isolated complaints. COO Kevin Lamour's firing backfired, hardening rather than crushing opposition. Election calendars suggest a formal challenge will materialize."
     },
     {
-      "statement": "WNBA cable viewership continues to exceed 1.5M average viewers for marquee games through the 2026 season.",
-      "probability": 77,
-      "rationale": "The 2024 Clark effect was real and sustained into 2026. The league has better media distribution now and more primetime inventory. Barring a catastrophic drop in the team's competitiveness or a major league crisis, momentum is on the upside."
+      "statement": "Paul Skenes is shut down before the end of the 2026 regular season due to performance concerns and workload management.",
+      "probability": 58,
+      "rationale": "The recent decline in his numbers and the matinee start language suggest Pirates leadership is already considering shutdown scenarios. Prospect development favors caution late in a non-contending season."
+    },
+    {
+      "statement": "WNBA media rights deal in next negotiation cycle exceeds $300 million annually, doubling the current rate, driven by viewership records and investor demand.",
+      "probability": 54,
+      "rationale": "Sustained cable records and mainstream audience adoption give the league genuine leverage. Networks that bid competitively for NBA/NFL rights are now bidding on WNBA. Doubling is ambitious but supported by audience growth trajectory."
     }
   ],
   "injuries": [
     {
-      "player": "Ronnie Bell",
-      "team": "New Orleans Saints",
-      "league": "NFL",
-      "position": "WR",
-      "status": "QUESTIONABLE",
-      "injury": "Heat-related condition",
-      "timeline": "Game-time decision",
-      "source": "The Guardian",
-      "impact": "Carted off during joint practice; affected by Southern California heat. Availability for preseason unclear pending medical evaluation.",
-      "storyIndex": 11
+      "player": "Jonquel Jones",
+      "team": "New York Liberty",
+      "league": "WNBA",
+      "position": "C",
+      "status": "OUT",
+      "injury": "ankle injury",
+      "timeline": null,
+      "source": "NY Post Sports",
+      "impact": "Jones was aware of the injury immediately upon falling; the Liberty lose a key frontcourt presence and defensive anchor.",
+      "storyIndex": 10
+    },
+    {
+      "player": "Hunter Feduccia",
+      "team": "Los Angeles Dodgers",
+      "league": "MLB",
+      "position": "C",
+      "status": "DAY_TO_DAY",
+      "injury": "stomach bug",
+      "timeline": null,
+      "source": "NY Post Sports",
+      "impact": "Feduccia exited early Tuesday night; the Dodgers temporarily lose catcher depth and must adjust behind the plate.",
+      "storyIndex": 2
+    },
+    {
+      "player": "Jamal Musiala",
+      "team": "Bayern Munich",
+      "league": "SOCCER",
+      "position": "MF",
+      "status": "DOUBTFUL",
+      "injury": "neurological dysfunction",
+      "timeline": null,
+      "source": "BBC Sport",
+      "impact": "Musiala collapsed on pitch twice in four days and is undergoing treatment; Bayern's attacking midfield depth is tested pending medical clearance.",
+      "storyIndex": 12
     }
   ],
   "picks": [
+    {
+      "type": "moneyline",
+      "pick": "Pittsburgh Pirates ML",
+      "odds": "-143",
+      "edge": "Market fill from live lines: Pittsburgh Pirates is the books' favorite at -143 (best price @ BetRivers) against Detroit Tigers at +135, with home ice/court/field behind them. No researched edge here — this is a low-confidence market-consensus play added to round out the slate. Low confidence is honest confidence.",
+      "matchup": "Detroit Tigers @ Pittsburgh Pirates",
+      "league": "MLB",
+      "when": "Tomorrow 12:36 PM ET",
+      "confidence": "low",
+      "_autofill": true,
+      "_scheduledTs": 1787157360000,
+      "marketSnapshot": {
+        "capturedAt": "2026-08-19T03:39:43.765Z",
+        "markets": {
+          "h2h": {
+            "away": {
+              "price": 135,
+              "book": "Caesars"
+            },
+            "home": {
+              "price": -143,
+              "book": "BetRivers"
+            },
+            "draw": null
+          },
+          "spreads": {
+            "away": {
+              "point": 1.5,
+              "price": -165,
+              "book": "LowVig.ag"
+            },
+            "home": {
+              "point": -1.5,
+              "price": 150,
+              "book": "Bovada"
+            }
+          },
+          "totals": {
+            "over": {
+              "point": 8,
+              "price": -109,
+              "book": "LowVig.ag"
+            },
+            "under": {
+              "point": 8,
+              "price": -105,
+              "book": "LowVig.ag"
+            }
+          }
+        },
+        "awayTeam": "Detroit Tigers",
+        "homeTeam": "Pittsburgh Pirates"
+      }
+    },
+    {
+      "type": "moneyline",
+      "pick": "San Diego Padres ML",
+      "odds": "-130",
+      "edge": "Market fill from live lines: San Diego Padres is the books' favorite at -130 (best price @ LowVig.ag) against New York Mets at +125, favored even on the road. No researched edge here — this is a low-confidence market-consensus play added to round out the slate. Low confidence is honest confidence.",
+      "matchup": "San Diego Padres @ New York Mets",
+      "league": "MLB",
+      "when": "Tomorrow 1:11 PM ET",
+      "confidence": "low",
+      "_autofill": true,
+      "_scheduledTs": 1787159460000,
+      "marketSnapshot": {
+        "capturedAt": "2026-08-19T03:39:43.765Z",
+        "markets": {
+          "h2h": {
+            "away": {
+              "price": -130,
+              "book": "LowVig.ag"
+            },
+            "home": {
+              "price": 125,
+              "book": "BetRivers"
+            },
+            "draw": null
+          },
+          "spreads": {
+            "away": {
+              "point": -1.5,
+              "price": 133,
+              "book": "LowVig.ag"
+            },
+            "home": {
+              "point": 1.5,
+              "price": -139,
+              "book": "BetRivers"
+            }
+          },
+          "totals": {
+            "over": {
+              "point": 8.5,
+              "price": -113,
+              "book": "LowVig.ag"
+            },
+            "under": {
+              "point": 8.5,
+              "price": -102,
+              "book": "LowVig.ag"
+            }
+          }
+        },
+        "awayTeam": "San Diego Padres",
+        "homeTeam": "New York Mets"
+      }
+    },
     {
       "type": "moneyline",
       "pick": "New York Yankees ML",
@@ -5948,132 +6088,48 @@
         "homeTeam": "Switzerland"
       },
       "_pendingGrade": true
-    },
-    {
-      "type": "moneyline",
-      "pick": "Pittsburgh Pirates ML",
-      "odds": "-143",
-      "edge": "Market fill from live lines: Pittsburgh Pirates is the books' favorite at -143 (best price @ BetRivers) against Detroit Tigers at +135, with home ice/court/field behind them. No researched edge here — this is a low-confidence market-consensus play added to round out the slate. Low confidence is honest confidence.",
-      "matchup": "Detroit Tigers @ Pittsburgh Pirates",
-      "league": "MLB",
-      "when": "Tomorrow 12:36 PM ET",
-      "confidence": "low",
-      "_autofill": true,
-      "_scheduledTs": 1787157360000,
-      "marketSnapshot": {
-        "capturedAt": "2026-08-19T03:39:43.765Z",
-        "markets": {
-          "h2h": {
-            "away": {
-              "price": 135,
-              "book": "Caesars"
-            },
-            "home": {
-              "price": -143,
-              "book": "BetRivers"
-            },
-            "draw": null
-          },
-          "spreads": {
-            "away": {
-              "point": 1.5,
-              "price": -165,
-              "book": "LowVig.ag"
-            },
-            "home": {
-              "point": -1.5,
-              "price": 150,
-              "book": "Bovada"
-            }
-          },
-          "totals": {
-            "over": {
-              "point": 8,
-              "price": -109,
-              "book": "LowVig.ag"
-            },
-            "under": {
-              "point": 8,
-              "price": -105,
-              "book": "LowVig.ag"
-            }
-          }
-        },
-        "awayTeam": "Detroit Tigers",
-        "homeTeam": "Pittsburgh Pirates"
-      }
-    },
-    {
-      "type": "moneyline",
-      "pick": "San Diego Padres ML",
-      "odds": "-130",
-      "edge": "Market fill from live lines: San Diego Padres is the books' favorite at -130 (best price @ LowVig.ag) against New York Mets at +125, favored even on the road. No researched edge here — this is a low-confidence market-consensus play added to round out the slate. Low confidence is honest confidence.",
-      "matchup": "San Diego Padres @ New York Mets",
-      "league": "MLB",
-      "when": "Tomorrow 1:11 PM ET",
-      "confidence": "low",
-      "_autofill": true,
-      "_scheduledTs": 1787159460000,
-      "marketSnapshot": {
-        "capturedAt": "2026-08-19T03:39:43.765Z",
-        "markets": {
-          "h2h": {
-            "away": {
-              "price": -130,
-              "book": "LowVig.ag"
-            },
-            "home": {
-              "price": 125,
-              "book": "BetRivers"
-            },
-            "draw": null
-          },
-          "spreads": {
-            "away": {
-              "point": -1.5,
-              "price": 133,
-              "book": "LowVig.ag"
-            },
-            "home": {
-              "point": 1.5,
-              "price": -139,
-              "book": "BetRivers"
-            }
-          },
-          "totals": {
-            "over": {
-              "point": 8.5,
-              "price": -113,
-              "book": "LowVig.ag"
-            },
-            "under": {
-              "point": 8.5,
-              "price": -102,
-              "book": "LowVig.ag"
-            }
-          }
-        },
-        "awayTeam": "San Diego Padres",
-        "homeTeam": "New York Mets"
-      }
     }
   ],
-  "updatedAt": "2026-04-23T19:47:00Z",
+  "updatedAt": "2026-04-23T14:32:00Z",
   "highlights": [
     {
       "league": "NBA",
       "title": "Russell Westbrook always came up clutch on defense when it mattered most 😤",
       "videoId": "4bA6eoATtug",
       "thumbnail": "https://img.youtube.com/vi/4bA6eoATtug/mqdefault.jpg",
-      "timeAgo": "9h ago",
+      "timeAgo": "13h ago",
+      "isFallback": false
+    },
+    {
+      "league": "NFL",
+      "title": "Iron Man 🤝 Cam Heyward (via camhey97/IG)",
+      "videoId": "n4x-qlJ4dNE",
+      "thumbnail": "https://img.youtube.com/vi/n4x-qlJ4dNE/mqdefault.jpg",
+      "timeAgo": "6h ago",
       "isFallback": false
     },
     {
       "league": "MLB",
-      "title": "MARINERS vs. BREWERS: Official Full Game Highlights (August 18) | 2026 MLB Season",
-      "videoId": "OqbDTZmY154",
-      "thumbnail": "https://img.youtube.com/vi/OqbDTZmY154/mqdefault.jpg",
-      "timeAgo": "Just now",
+      "title": "WHITE SOX vs. CUBS: Official Full Game Highlights (August 18) | 2026 MLB Season",
+      "videoId": "bbM6s1bVbZc",
+      "thumbnail": "https://img.youtube.com/vi/bbM6s1bVbZc/mqdefault.jpg",
+      "timeAgo": "3h ago",
+      "isFallback": false
+    },
+    {
+      "league": "NHL",
+      "title": "EVERY GOAL Scored Last Season by the 2026-27 New York Islanders Roster",
+      "videoId": "koy43p3JGgw",
+      "thumbnail": "https://img.youtube.com/vi/koy43p3JGgw/mqdefault.jpg",
+      "timeAgo": "16h ago",
+      "isFallback": false
+    },
+    {
+      "league": "WNBA",
+      "title": "Natasha Cloud Drops CAREER-HIGH 35 PTS &amp; Makes SKY HISTORY | August 18, 2026",
+      "videoId": "T_2Eb4OkSdg",
+      "thumbnail": "https://img.youtube.com/vi/T_2Eb4OkSdg/mqdefault.jpg",
+      "timeAgo": "3h ago",
       "isFallback": false
     },
     {
@@ -6081,11 +6137,75 @@
       "title": "Who is your top center forward? 🤔",
       "videoId": "Z-kLRCLqcHg",
       "thumbnail": "https://img.youtube.com/vi/Z-kLRCLqcHg/mqdefault.jpg",
-      "timeAgo": "4h ago",
+      "timeAgo": "8h ago",
       "isFallback": false
     }
   ],
   "reels": [
+    {
+      "league": "MLB",
+      "title": "WHITE SOX vs. CUBS: Official Full Game Highlights (August 18) | 2026 MLB Season",
+      "videoId": "bbM6s1bVbZc",
+      "author": "MLB",
+      "pubDate": "2026-08-19T04:57:54+00:00",
+      "link": "https://www.youtube.com/watch?v=bbM6s1bVbZc"
+    },
+    {
+      "league": "MLB",
+      "title": "CUBS WIN, CUBS WIN! (Their 13th walk-off victory in 2026) | MLB Highlights",
+      "videoId": "PQwot-LdFOM",
+      "author": "MLB",
+      "pubDate": "2026-08-19T04:50:07+00:00",
+      "link": "https://www.youtube.com/watch?v=PQwot-LdFOM"
+    },
+    {
+      "league": "WNBA",
+      "title": "Natasha Cloud Drops CAREER-HIGH 35 PTS &amp; Makes SKY HISTORY | August 18, 2026",
+      "videoId": "T_2Eb4OkSdg",
+      "author": "WNBA",
+      "pubDate": "2026-08-19T04:49:31+00:00",
+      "link": "https://www.youtube.com/watch?v=T_2Eb4OkSdg"
+    },
+    {
+      "league": "WNBA",
+      "title": "Atlanta Dream vs. Las Vegas Aces | FULL GAME HIGHLIGHTS | August 18, 2026",
+      "videoId": "Cx3Uy770ARI",
+      "author": "WNBA",
+      "pubDate": "2026-08-19T04:02:20+00:00",
+      "link": "https://www.youtube.com/watch?v=Cx3Uy770ARI"
+    },
+    {
+      "league": "MLB",
+      "title": "DODGERS vs. ROCKIES: Official Full Game Highlights (August 18) | 2026 MLB Season",
+      "videoId": "ZSsc9X5iZu8",
+      "author": "MLB",
+      "pubDate": "2026-08-19T03:56:11+00:00",
+      "link": "https://www.youtube.com/watch?v=ZSsc9X5iZu8"
+    },
+    {
+      "league": "WNBA",
+      "title": "New York Liberty vs. Chicago Sky | FULL GAME HIGHLIGHTS | August 18, 2026",
+      "videoId": "mnTCNrqjdHk",
+      "author": "WNBA",
+      "pubDate": "2026-08-19T03:55:03+00:00",
+      "link": "https://www.youtube.com/watch?v=mnTCNrqjdHk"
+    },
+    {
+      "league": "WNBA",
+      "title": "Indiana Fever vs. Toronto Tempo | FULL GAME HIGHLIGHTS | August 18, 2026",
+      "videoId": "Wx6ODB9rCU4",
+      "author": "WNBA",
+      "pubDate": "2026-08-19T03:47:05+00:00",
+      "link": "https://www.youtube.com/watch?v=Wx6ODB9rCU4"
+    },
+    {
+      "league": "WNBA",
+      "title": "Los Angeles Sparks vs. Connecticut Sun | FULL GAME HIGHLIGHTS | August 18, 2026",
+      "videoId": "lDrlY10k4hA",
+      "author": "WNBA",
+      "pubDate": "2026-08-19T03:38:12+00:00",
+      "link": "https://www.youtube.com/watch?v=lDrlY10k4hA"
+    },
     {
       "league": "MLB",
       "title": "MARINERS vs. BREWERS: Official Full Game Highlights (August 18) | 2026 MLB Season",
@@ -6127,28 +6247,12 @@
       "link": "https://www.youtube.com/watch?v=dzv5_dWgPnI"
     },
     {
-      "league": "MLB",
-      "title": "PADRES vs. METS: Official Full Game Highlights (August 18) | 2026 MLB Season",
-      "videoId": "CK_o1s7ILaw",
-      "author": "MLB",
-      "pubDate": "2026-08-19T02:34:31+00:00",
-      "link": "https://www.youtube.com/watch?v=CK_o1s7ILaw"
-    },
-    {
-      "league": "MLB",
-      "title": "D-BACKS vs. RED SOX: Official Full Game Highlights (August 18) | 2026 MLB Season",
-      "videoId": "I8iXHOUPguU",
-      "author": "MLB",
-      "pubDate": "2026-08-19T02:31:20+00:00",
-      "link": "https://www.youtube.com/watch?v=I8iXHOUPguU"
-    },
-    {
-      "league": "MLB",
-      "title": "Fernando Tatis Jr. belted 2 home runs and ROBBED A GRAND SLAM! (His most UNBELIEVABLE catch yet?! 😱)",
-      "videoId": "eTnpsO2qGIY",
-      "author": "MLB",
-      "pubDate": "2026-08-19T02:17:58+00:00",
-      "link": "https://www.youtube.com/watch?v=eTnpsO2qGIY"
+      "league": "NFL",
+      "title": "Iron Man 🤝 Cam Heyward (via camhey97/IG)",
+      "videoId": "n4x-qlJ4dNE",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-08-19T01:30:00+00:00",
+      "link": "https://www.youtube.com/watch?v=n4x-qlJ4dNE"
     },
     {
       "league": "SOCCER",
@@ -6207,12 +6311,28 @@
       "link": "https://www.youtube.com/watch?v=zs9yuylpcmM"
     },
     {
+      "league": "NFL",
+      "title": "Adam Schefter details injuries that took place during 49ers-Chargers joint practice | NFL Live",
+      "videoId": "O3HffgqzVrc",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-08-18T20:54:04+00:00",
+      "link": "https://www.youtube.com/watch?v=O3HffgqzVrc"
+    },
+    {
       "league": "SOCCER",
       "title": "Rodri says he had another option but #Barcelona was his first 👀 (via @fcbarcelona/TT)",
       "videoId": "eHlklUWM56s",
       "author": "ESPN FC",
       "pubDate": "2026-08-18T19:07:08+00:00",
       "link": "https://www.youtube.com/watch?v=eHlklUWM56s"
+    },
+    {
+      "league": "NFL",
+      "title": "Will OBJ make the Giants’ 53-man roster? 👀",
+      "videoId": "yXIPicfe_iU",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-08-18T18:55:39+00:00",
+      "link": "https://www.youtube.com/watch?v=yXIPicfe_iU"
     },
     {
       "league": "NBA",
@@ -6231,12 +6351,36 @@
       "link": "https://www.youtube.com/watch?v=8H-SXAe6o2Q"
     },
     {
+      "league": "NFL",
+      "title": "Who is the GOAT? 🤔",
+      "videoId": "6DA0hiAwFIE",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-08-18T17:58:07+00:00",
+      "link": "https://www.youtube.com/watch?v=6DA0hiAwFIE"
+    },
+    {
       "league": "NBA",
       "title": "NBA 2K27 | Preseason Breakdown: Game Reveal",
       "videoId": "R9cc_PUg-e0",
       "author": "NBA",
       "pubDate": "2026-08-18T17:48:26+00:00",
       "link": "https://www.youtube.com/watch?v=R9cc_PUg-e0"
+    },
+    {
+      "league": "WNBA",
+      "title": "📍We're on the way to the Golden State.",
+      "videoId": "8qjjBK9afI0",
+      "author": "WNBA",
+      "pubDate": "2026-08-18T17:42:07+00:00",
+      "link": "https://www.youtube.com/watch?v=8qjjBK9afI0"
+    },
+    {
+      "league": "NFL",
+      "title": "Roger Goodell has 'NO DOUBT' we'll see NFL teams outside the USA 😯 | The Pat McAfee Show",
+      "videoId": "VxoRqRYABgw",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-08-18T17:39:56+00:00",
+      "link": "https://www.youtube.com/watch?v=VxoRqRYABgw"
     },
     {
       "league": "NBA",
@@ -6247,12 +6391,60 @@
       "link": "https://www.youtube.com/watch?v=IEcGfzSZ1ro"
     },
     {
+      "league": "NFL",
+      "title": "Legends being named after legends 🤣",
+      "videoId": "mWmEPcbloRI",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-08-18T16:51:10+00:00",
+      "link": "https://www.youtube.com/watch?v=mWmEPcbloRI"
+    },
+    {
       "league": "NBA",
       "title": "Celebrating OKC’s anchor for NBA’s defense week!",
       "videoId": "KgdtgFIH1YM",
       "author": "NBA",
       "pubDate": "2026-08-18T16:48:13+00:00",
       "link": "https://www.youtube.com/watch?v=KgdtgFIH1YM"
+    },
+    {
+      "league": "NFL",
+      "title": "Dynamic Rookie Debuts + Can Caleb Downs have a Ronnie Lott-esque impact? | The Adam Schefter Podcast",
+      "videoId": "JIeYn194cO4",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-08-18T16:47:43+00:00",
+      "link": "https://www.youtube.com/watch?v=JIeYn194cO4"
+    },
+    {
+      "league": "WNBA",
+      "title": "Week 12: Eastern Conference Player of the Week- Caitlin Clark",
+      "videoId": "ACLBnKgUY1Y",
+      "author": "WNBA",
+      "pubDate": "2026-08-18T16:34:59+00:00",
+      "link": "https://www.youtube.com/watch?v=ACLBnKgUY1Y"
+    },
+    {
+      "league": "WNBA",
+      "title": "Week 12: Western Conference Player of the Week- Olivia Miles",
+      "videoId": "8aPD27JzxlQ",
+      "author": "WNBA",
+      "pubDate": "2026-08-18T16:34:54+00:00",
+      "link": "https://www.youtube.com/watch?v=8aPD27JzxlQ"
+    },
+    {
+      "league": "NFL",
+      "title": "Maxx Crosby ➡️ Cowboys?! 👀 What should Jerry Jones do to put Dallas over the top? | First Take",
+      "videoId": "7f-cxoragUY",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-08-18T15:52:42+00:00",
+      "link": "https://www.youtube.com/watch?v=7f-cxoragUY"
+    },
+    {
+      "league": "NHL",
+      "title": "EVERY GOAL Scored Last Season by the 2026-27 New York Islanders Roster",
+      "videoId": "koy43p3JGgw",
+      "author": "NHL",
+      "pubDate": "2026-08-18T15:14:23+00:00",
+      "link": "https://www.youtube.com/watch?v=koy43p3JGgw"
     },
     {
       "league": "NBA",
@@ -6269,14 +6461,6 @@
       "author": "NBA",
       "pubDate": "2026-08-18T00:03:49+00:00",
       "link": "https://www.youtube.com/watch?v=uac5hg-_IP8"
-    },
-    {
-      "league": "NBA",
-      "title": "SLAM SUMMER CLASSIC VOL 8. | GIRLS GAME",
-      "videoId": "KsMdlueNcEk",
-      "author": "NBA",
-      "pubDate": "2026-08-17T23:37:06+00:00",
-      "link": "https://www.youtube.com/watch?v=KsMdlueNcEk"
     }
   ]
 }
