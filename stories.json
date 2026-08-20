@@ -1,81 +1,73 @@
 {
   "clusters": [
     {
-      "category": "leagues",
-      "importance": 7,
+      "category": "contracts",
+      "importance": 9,
+      "leadHeadline": "Verstappen extends Red Bull deal to 2030",
+      "leadSource": "BBC Sport · just now",
+      "leadUrl": "https://www.bbc.co.uk/sport/formula1/articles/c20j3j2mnpxo?at_medium=RSS&amp;at_campaign=rss",
+      "summary": "<cite index=\"10-1\">Max Verstappen will remain at Red Bull until the end of the 2030 season</cite>, extending his commitment by two years from his previous 2028 deal.",
+      "article": "<cite index=\"21-3\">On the eve of his home grand prix at Zandvoort, Verstappen confirmed he will remain at Red Bull until the end of the 2030 season.</cite> <cite index=\"21-4\">His previous deal was set to expire at the end of 2028, with performance-related clauses that had placed his future with the team in doubt.</cite>\n\n<cite index=\"21-1,21-2\">\"I am really pleased with the contract extension,\" Verstappen said. \"We have the best people and I'm excited to keep working together with everyone to get back to the top again.\"</cite> <cite index=\"21-13,21-14\">On team principal Laurent Mekies, he added: \"Getting to work with Laurent now for over a year has been great. I see a clear vision he has for the team and I'm looking forward to the next chapter, fighting for more victories and competing for championships.\"</cite>\n\n<cite index=\"21-11\">The move comes despite recent exits from senior figures including Christian Horner, Helmut Marko, Adrian Newey, and race engineer Gianpiero Lambiase, who will join McLaren in 2028.</cite> Red Bull had faced months of uncertainty over whether the four-time world champion would honor his remaining time with the team.",
+      "tweets": []
+    },
+    {
+      "category": "labor",
+      "importance": 8,
       "leadHeadline": "Fifth Fifa vice-president turns against Infantino, saying he has 'lost confidence' in him",
-      "leadSource": "The Guardian · 9h ago",
+      "leadSource": "The Guardian · 12h ago",
       "leadUrl": "https://www.theguardian.com/football/2026/aug/19/fifth-fifa-vice-president-turns-against-infantino-saying-he-has-lost-confidence-in-him",
-      "summary": "Hungarian football chief Sandor Csanyi became the fifth FIFA vice-president to oppose Infantino, citing the dismissal of chief operating officer Kevin Lamour—who had criticized a $4.2 billion World Cup privatization plan—as the final trigger.",
-      "article": "<cite index=\"5-2\">Sandor Csanyi, the Hungarian Football Federation chief, sent an explosive letter to Infantino on Tuesday stating he has \"lost the confidence I previously placed in you.\"</cite> <cite index=\"1-4\">Csanyi cited the \"final straw was the unexpected dismissal of Kevin Lamour,\" adding it \"points to serious shortcomings in professional judgement, ethical standards and leadership.\"</cite>\n\n<cite index=\"19-1\">Lamour's employment ended on 17 August 2026</cite> days after <cite index=\"19-5,19-6\">he called the investment plan \"the project of one person\" and said \"the time has now come for football political leaders to ask themselves the right questions and make the right decisions.\"</cite> The <cite index=\"18-1\">controversial plan involved a $4.2 billion World Cup investment proposal.</cite>\n\n<cite index=\"5-4\">Csanyi is the fifth of FIFA's eight vice-presidents to call for Infantino to stand down.</cite> <cite index=\"9-1\">Only Alejandro Domínguez of Conmebol, Patrick Motsepe of the African confederation, and Lambert Maltock of Oceania remain supporting Infantino.</cite> <cite index=\"1-3\">The letter also cited \"a number of controversial decisions\" around this year's World Cup, including Infantino's plans to \"outsource FIFA competitions and place them in the hands of external parties.\"</cite>",
+      "summary": "Hungary's Sandor Csanyi, a FIFA vice-president, publicly criticized Gianni Infantino's leadership, citing the dismissal of COO Kevin Lamour as the 'final straw' and attacking his professional judgment and ethical standards. The move marks another high-level fracture in Infantino's leadership coalition.",
+      "article": "Sandor Csanyi, Hungary's football federation chief and a FIFA vice-president, publicly denounced Gianni Infantino on Wednesday, saying he has lost confidence in the FIFA president's professional judgment, ethical standards, and leadership.\n\nCsanyi cited Infantino's dismissal of COO Kevin Lamour as the decisive break. The firing, Csanyi wrote, was the final straw in a pattern he characterized as poor judgment at the executive level. The statement carries weight because Csanyi sits on FIFA's governing council and has historically been an Infantino ally in European football politics.\n\nThe public rebuke deepens a growing rift within FIFA's leadership. Infantino has consolidated power through his first two terms, but recent governance decisions and personnel moves have drawn criticism from regional federations and board members. Lamour's departure, announced earlier this year, triggered questions about Infantino's operational judgment and whether the president is managing dissent rather than building consensus.\n\nCsanyi's statement signals that at least one major federation leader is willing to break ranks and challenge Infantino in print. Whether this emboldens other vice-presidents or federation chiefs to voice similar concerns could reshape the internal politics ahead of FIFA's next presidential election cycle.",
       "tweets": []
     },
     {
       "category": "revenue",
       "importance": 7,
-      "leadHeadline": "Dallas Wings' No 1 overall pick Azzi Fudd ruled out for remainder of season",
-      "leadSource": "The Guardian · 7h ago",
-      "leadUrl": "https://www.theguardian.com/sport/2026/aug/19/azzi-fudd-knee-injury-dallas-wings-wnba-season",
-      "summary": "Azzi Fudd, the Dallas Wings' No. 1 draft pick, will miss the rest of the WNBA season after undergoing an arthroscopic procedure on her right knee. The rookie guard, who averaged 13.1 points in 30 games, has not played since August 5.",
-      "article": "Azzi Fudd, the Dallas Wings' top overall pick in the 2025 WNBA draft, has been ruled out for the remainder of the season due to right knee soreness. The guard will undergo arthroscopic surgery and will not return to the lineup for the remainder of the campaign.\n\nFudd's rookie season has been marked by early promise and then injury complications. In 30 games before going inactive, the guard averaged 13.1 points, indicating immediate scoring impact. Her absence since August 5 already represented a three-month absence from the roster. The surgical route signals the front office and medical staff determined that rest alone would not resolve the issue and that intervention is necessary.\n\nThe loss of Fudd removes a top-tier scoring option from Dallas's rotation down the stretch and into the playoffs. The Wings' offensive lineup will need to redistribute scoring responsibilities among remaining wings and guards. Fudd's draft capital and early production made her a centerpiece of the franchise's 2025 rebuild trajectory, so losing her for the entire season represents both an immediate competitive cost and a setback to the long-term development plan.",
+      "leadHeadline": "Buss Family Drama Won't Stop Lakers Sale to Iger and Kushner",
+      "leadSource": "Front Office Sports · 10h ago",
+      "leadUrl": "https://frontofficesports.com/lakers-sale-walter-buss-family-stake-sale-dispute-jeanie-governor/",
+      "summary": "Sources told Front Office Sports that the Buss family internal dispute will not derail the Lakers' sale to Bob Iger and Jared Kushner, which remains on track to close. The deal is one of the largest sports franchises sales in history.",
+      "article": "The Lakers sale to Bob Iger and Jared Kushner remains on track despite internal turmoil within the Buss family, sources confirmed to Front Office Sports. The framework and financial commitments are secure, and the dispute between family members will not reshape the deal's structure or timeline.\n\nThe sale values the franchise at roughly $5 billion, making it one of the largest individual sports team transactions ever. Iger, former Disney CEO, and Kushner, a real-estate investor and Trump administration alumnus, were chosen by controlling stakeholder Jeanie Buss last year after an open bidding process. The deal has cleared most regulatory and NBA approval milestones.\n\nThe Buss family disagreement centers on control and legacy decisions, not the sale itself. Multiple family members have questioned the pace and terms of the transition, but those objections have not gained enough traction to block the transaction. The sale is expected to finalize by mid-2026.\n\nFor the NBA, the sale opens a path to a technical refresh at one of basketball's flagship franchises. Iger's media expertise and Kushner's capital resources suggest a willingness to modernize the franchise's business operations. The deal also sets a new comp for NBA valuations heading into the next media-rights cycle.",
+      "tweets": []
+    },
+    {
+      "category": "revenue",
+      "importance": 6,
+      "leadHeadline": "AC Milan season preview: Club surpasses €500 million in brand value, sets sight on UCL return",
+      "leadSource": "CBS Sports · 3h ago",
+      "leadUrl": "https://www.cbssports.com/soccer/news/ac-milan-season-preview-serie-a-europa-league-champions-league-hopes/",
+      "summary": "AC Milan's brand value has exceeded €500 million as the club enters the 2026-27 season under new Portuguese coach Ruben Amorim, signaling commercial growth even as the team chases a return to the Champions League. The club made significant roster changes to support UCL ambitions.",
+      "article": "AC Milan's brand value has surpassed €500 million, a milestone that reflects the Italian club's commercial resurgence and on-field momentum heading into the 2026-27 campaign. The valuation increase comes as the club, now coached by Portuguese manager Ruben Amorim, pursues a return to the Champions League after falling short in recent seasons.\n\nAmorim, appointed in the offseason, brings proven success from his time in Portugal and Europe's top leagues. His arrival signals Milan's intent to rebuild around a coherent tactical system rather than relying on individual star power or rotating managers. The club has made deliberate roster additions to fit his profile, balancing youth development with experienced depth.\n\nMilan's brand value growth reflects several factors: growing global fanbase engagement, improved Serie A performance, and strengthened sponsorship relationships. The €500 million threshold positions Milan competitively within European soccer's financial hierarchy, though it remains behind clubs like Manchester United, Barcelona, and Real Madrid.\n\nThe season's narrative centers on whether Amorim can deliver Champions League qualification. Milan finished fourth in Serie A last year, missing the group stage by a point. UCL revenue alone could add tens of millions annually to the club's coffers, making the competition essential to long-term financial planning and player recruitment.",
       "tweets": []
     },
     {
       "category": "media",
-      "importance": 6,
-      "leadHeadline": "NFL Isn't Happy With Nielsen's Latest Methodology Changes",
-      "leadSource": "Front Office Sports · 2h ago",
-      "leadUrl": "https://frontofficesports.com/nfl-isnt-happy-nielsen-latest-methodology-changes/",
-      "summary": "The NFL is amplifying efforts to work with alternative audience-measurement firms as Nielsen rolls out new measurement enhancements for the 2026-27 broadcast season. The league has concerns about Nielsen's latest methodology adjustments.",
-      "article": "The NFL is expanding its partnership portfolio beyond Nielsen as the measurement giant introduces new technical enhancements ahead of the official 2026-27 broadcast season launch. Nielsen's latest refinements include passive measurement of co-viewing and other data-collection modifications intended to paint a more complete picture of U.S. video consumption across platforms.\n\nThe league's dissatisfaction centers on how these changes may alter the baseline metrics used to calculate rights fees, advertising pricing, and broadcast performance scorecards. Nielsen's tweaks are designed to capture audiences across traditional linear, streaming, and mobile viewing that previous methodologies missed or underweighted. While more comprehensive measurement should theoretically benefit all parties, the NFL worries that sudden shifts in how impressions are counted could obscure year-over-year comparisons and destabilize rate cards for the 2026-27 season onward.\n\nBy pursuing relationships with competing measurement firms, the NFL is hedging against over-reliance on a single standard. The move reflects broader industry skepticism about Nielsen's monopoly on currency and the potential for methodology changes to introduce volatility into major contract negotiations. Other leagues are likely monitoring the NFL's strategy closely.",
+      "importance": 5,
+      "leadHeadline": "Nielsen introducing passive co-viewing, other changes to data measurement",
+      "leadSource": "Sports Media Watch · 16h ago",
+      "leadUrl": "https://www.sportsmediawatch.com/2026/08/nielsen-passive-co-viewing-data-measurement/",
+      "summary": "Nielsen is rolling out passive co-viewing measurement as part of its 2026-27 TV season overhaul, though the NFL and other leagues remain skeptical about the methodology's impact on ratings reporting. The changes aim to capture more accurate consumption data but have drawn pushback from major broadcasters and sports properties.",
+      "article": "Nielsen is introducing passive co-viewing measurement and refining its data methodology ahead of the 2026-27 broadcast season, a move intended to capture more granular television consumption patterns. However, the NFL and other major sports properties have expressed concern that the changes could distort ratings comparisons and undercut the accuracy of audience measurement.\n\nThe overhaul includes automated detection of co-viewers in a household, not just primary viewers, and adjustments to how Nielsen classifies streaming and traditional broadcast viewing. Nielsen CEO Karthik Rao framed the changes as essential refinements to reflect how Americans actually consume video content across devices and platforms.\n\nBut the NFL's hesitation reflects a broader worry: if new methodology produces lower headline numbers than the prior year's standard, it could spook advertisers and complicate negotiations for broadcast packages. Sports leagues depend on stable, comparable ratings data to justify long-term rights fees to broadcasters. A sudden methodological shift can create the appearance of audience decline even if consumption hasn't changed.\n\nMultiple leagues are working with alternative measurement firms to run parallel reporting during the transition. This dual-tracking approach allows properties to validate whether Nielsen's changes produce anomalous results. The 2026-27 season will be critical: if passive co-viewing and other tweaks drive down reported viewership without a corresponding drop in actual engagement, the credibility of Nielsen's currency could erode further.",
       "tweets": []
-    },
-    {
-      "category": "contracts",
-      "importance": 6,
-      "leadHeadline": "Peyton Watson trade grades: Cavaliers grab breakout wing, Nuggets have serious questions around Nikola Jokić",
-      "leadSource": "CBS Sports · 1h ago",
-      "leadUrl": "https://www.cbssports.com/nba/news/peyton-watson-trade-grades-cavaliers-nuggets-nikola-jokic/",
-      "summary": "The Cavaliers acquired Peyton Watson from the Denver Nuggets in a trade that marks a significant roster move for Cleveland. The deal raises questions about Denver's commitment to contending around franchise cornerstone Nikola Jokic.",
-      "article": "The Cleveland Cavaliers have acquired wing Peyton Watson from the Denver Nuggets, a trade that signals competing roster philosophies between the two franchises. Watson, a breakout contributor for Denver, provides the Cavaliers with a perimeter defender and secondary scorer as the team continues to build around its core.\n\nFor Denver, the deal represents another subtraction from a championship roster that has faced mounting roster attrition over the past two seasons. Trading away a young, productive wing while Nikola Jokic remains in his prime years raises fundamental questions about the Nuggets' competitive window and their ability to retain complementary talent around their franchise player. The Nuggets' championship window, already narrowed by prior trades and free-agent departures, shrinks further with Watson's exit.\n\nWatson becomes a complementary piece for Cleveland in what has been an aggressive roster-building phase for the Cavaliers. The team is attempting to construct a multi-positional, defensive-oriented roster capable of contending in the Eastern Conference. Denver, meanwhile, appears to be entering a transitional phase after two years of attempting to reload around Jokic without the depth that supported the 2023 championship run.",
-      "tweets": [
-        {
-          "url": "https://twitter.com/ShamsCharania/status/2090226803969257512",
-          "html": "<blockquote class=\"twitter-tweet\" data-dnt=\"true\" data-theme=\"dark\"><p>BREAKING: Cleveland, Denver and the Clippers have agreed on a trade sending Peyton Watson to the Cavaliers, Max Strus to LA, and an unprotected 2031 Cavs first-round pick and a 2032 Kings second-rounder to the Nuggets, sources tell ESPN. \n\nWatson will sign a new four-year, $88 https://t.co/hXqL3JvsU4</p>&mdash; Shams Charania (@ShamsCharania) <a href=\"https://twitter.com/ShamsCharania/status/2090226803969257512\">August 19, 2026</a></blockquote>",
-          "author_name": "Shams Charania",
-          "author_url": "https://twitter.com/ShamsCharania",
-          "dateMs": 1787183879000
-        }
-      ]
     },
     {
       "category": "revenue",
       "importance": 5,
       "leadHeadline": "Players Era's Kansas Term Sheet Includes Big Cash and Caveats",
-      "leadSource": "Sportico · 10h ago",
+      "leadSource": "Sportico · 13h ago",
       "leadUrl": "https://www.sportico.com/leagues/college-sports/2026/players-era-kansas-basketball-term-sheet-1234942339/",
-      "summary": "Players Era Championship has committed at least $3.1 million to the University of Kansas in NIL opportunities, travel support, and other expenses in exchange for the men's basketball team competing in three games at its November tournament. The deal represents a substantial but conditional investment in college basketball.",
-      "article": "Players Era Championship has agreed to provide the University of Kansas men's basketball program a minimum of $3.1 million in NIL opportunities, travel support, and ancillary expenses in exchange for three games played at the franchise's Las Vegas-based November tournament. The term sheet follows Players Era's announced five-year extension with Kansas from the previous month.\n\nThe $3.1 million figure represents significant per-game value for a college basketball program, though the structure carries conditions. The deal bundles direct NIL payments with travel costs and operational support, differing from simple cash commitments. Players Era is attempting to establish itself as a primary source of basketball-adjacent revenue for major college programs, leveraging its league infrastructure and media platform to negotiate multiyear relationships.\n\nKansas, one of college basketball's marquee programs, gains guaranteed tournament participation and revenue diversification beyond traditional conference distributions. Players Era gains a recognizable brand for its nascent league and an opportunity to test its business model with a Power Four program. The Jayhawks' participation in three tournament games provides the startup league with credible content and a pathway to larger television or streaming carriage deals in future seasons.",
+      "summary": "Players Era Championship committed to provide the University of Kansas at least $3.1 million in NIL opportunities, travel support, and other expenses for the Jayhawks men's basketball team to compete in three games during its November Las Vegas tournament. The deal represents significant NIL commitment but includes conditions tied to participation and performance.",
+      "article": "Players Era Championship agreed to provide the University of Kansas with at least $3.1 million in NIL opportunities, travel costs, and other support in exchange for the Jayhawks men's basketball team competing in three games during the championship's November Las Vegas-based tournament.\n\nThe term sheet, reported by Sportico, represents one of the largest single-event NIL commitments in college basketball. However, the deal includes caveats tied to player eligibility, roster compliance, and tournament participation. Not all players receive equal distributions, and some compensation is contingent on games being played and televised.\n\nPlayers Era Championship, a new tournament vehicle backed by private investment, positions itself as a creator of premium basketball content and a vehicle for NIL disbursement to college programs. The Kansas deal follows Players Era's announced five-year extension with the university, signaling a long-term partnership beyond this season's tournament.\n\nFor Kansas, the $3.1 million injection into the basketball program offers immediate resources for roster building and player retention through NIL payments. For Players Era, Kansas' brand and basketball profile help legitimize the new championship as a destination event. The structure, however, reveals tensions in college basketball's NIL ecosystem: large sums exist, but they're often tied to specific events and contingencies rather than pure player compensation, leaving programs to navigate complex compliance and distribution questions.",
       "tweets": []
     },
     {
       "category": "media",
-      "importance": 5,
-      "leadHeadline": "LIV Golf CEO: 'I Hope We Can' Pay Unpaid Vendors",
-      "leadSource": "Front Office Sports · 8h ago",
-      "leadUrl": "https://frontofficesports.com/liv-golf-ceo-i-hope-we-can-pay-unpaid-vendors/",
-      "summary": "LIV Golf's CEO acknowledged outstanding vendor payments and mounting lawsuits over missed invoices. The statement indicates financial strain on the Saudi-backed league as it continues operations.",
-      "article": "LIV Golf's chief executive has publicly acknowledged the league's unpaid vendor obligations and the litigation that has followed, stating that the organization hopes to settle outstanding accounts. Multiple lawsuits have been filed by vendors alleging nonpayment for services rendered during LIV Golf events over the past two seasons.\n\nThe vendor payment crisis reflects LIV Golf's ongoing cash-flow challenges despite reported Saudi Public Investment Fund backing. Event operators, hospitality providers, and service contractors have filed claims seeking payment for work completed at tournaments across the U.S. and international venues. The accumulation of legal actions suggests the issue is systemic rather than isolated to a single event or vendor category.\n\nThe CEO's cautious framing—\"I hope we can\" rather than a commitment to immediate payment—signals uncertainty about the timeline and scope of resolution. For LIV Golf, unpaid vendor obligations damage operational relationships and market reputation ahead of events. Vendors have leverage in withholding services until payment arrives, creating operational risk. The situation underscores the fragility of LIV Golf's financial model even with PIF capital backing, as operational expenses continue to exceed available liquidity.",
-      "tweets": []
-    },
-    {
-      "category": "revenue",
       "importance": 4,
-      "leadHeadline": "Buss Family Drama Won't Stop Lakers Sale to Iger and Kushner",
-      "leadSource": "Front Office Sports · 6h ago",
-      "leadUrl": "https://frontofficesports.com/lakers-sale-walter-buss-family-stake-sale-dispute-jeanie-governor/",
-      "summary": "The Lakers sale to Disney CEO Robert Iger and Jared Kushner remains on track despite ongoing internal disputes within the Buss family. Sources indicate the deal structure is unaffected by family litigation.",
-      "article": "The proposed sale of the Los Angeles Lakers to Disney CEO Robert Iger and Kushner Companies has not been derailed by Buss family infighting, according to sources familiar with the transaction. The deal progresses toward closing despite public disputes between Jeanie Buss and her brother Johnny Buss over family governance and the sale's terms.\n\nThe Buss family conflicts, while noteworthy for the franchise's public image, have not fundamentally altered Iger and Kushner's acquisition timeline or deal structure. The two buyers have continued due diligence and are prepared to move forward with the purchase regardless of internal family resolution.\n\nThe sale price and franchise valuation remain substantial enough to justify the buyers' commitment despite organizational turbulence. Iger brings operational and media expertise; Kushner brings development capital and real-estate credentials. The Lakers' market position and media profile in Los Angeles remain intact even as family ownership transitions. The deal is expected to close within defined contractual windows.",
+      "leadHeadline": "Peacock raises its prices for monthly, annual subscriptions",
+      "leadSource": "Sports Media Watch · 8h ago",
+      "leadUrl": "https://www.sportsmediawatch.com/2026/08/peacock-subscription-prices-espn-disney-nbc-sports-cfb/",
+      "summary": "Peacock announced price increases for both monthly and annual subscription tiers, a move that affects the streaming service's sports content strategy, particularly as NBC Sports prepares for the 2026-27 season. Disney maintained it remains uninterested in spinning off ESPN despite investor speculation.",
+      "article": "Peacock raised subscription prices across both monthly and annual tiers, a cost increase that underscores NBCUniversal's push for profitability from its streaming platform. The price hike comes as NBC Sports gears up for the 2026-27 broadcast season, which will include prominent college football coverage and other marquee events.\n\nPeacock has emerged as a significant distribution platform for live sports, including Premier League soccer, select NBA games, and college athletics. The price increase may test viewer elasticity, particularly among sports fans who maintain multiple streaming subscriptions. However, Sports Media Watch reported that NBC Sports is adding broadcasters for college football coverage, suggesting the company is betting on sports as a lever for subscriber acquisition despite the higher price point.\n\nSeparately, Disney CEO Josh D'Amaro confirmed the company is not pursuing an ESPN spinoff, contrary to recent speculation from Wall Street analysts. D'Amaro's statement closes the door on one potential strategic pivot, indicating Disney intends to keep ESPN integrated within its broader streaming and cable portfolio.\n\nPeacock's price increase, while modest in dollar terms, signals the streaming wars' maturation: platforms are moving from subscriber-acquisition mode to profit optimization. For sports properties, the tradeoff is clearer: streaming platforms will pay premium rights fees but will also raise consumer prices, which could dampen per-sport subscription adoption.",
       "tweets": []
     }
   ],
@@ -2402,90 +2394,101 @@
   "deals": [
     {
       "type": "extension",
-      "parties": "Players Era Championship ⇄ University of Kansas",
-      "value_usd": 3100000,
-      "term_years": 5,
+      "parties": "Max Verstappen ⇄ Red Bull Racing",
+      "value_usd": null,
+      "term_years": 4,
       "league": "OTHER",
-      "headline": "Players Era extends Kansas basketball deal with $3.1M NIL commitment",
-      "storyIndex": 9,
-      "blurb": "Players Era committed at least $3.1M in NIL opportunities, travel support, and expenses to Kansas men's basketball for three tournament games.",
-      "capturedAt": "2026-08-20T03:39:17.293Z"
+      "headline": "Verstappen extends Red Bull deal to 2030",
+      "storyIndex": 12,
+      "blurb": "Four-time F1 world champion Max Verstappen committed to Red Bull through 2030, extending his deal by two years beyond prior agreement.",
+      "capturedAt": "2026-08-20T07:33:34.431Z"
     },
     {
       "type": "acquisition",
-      "parties": "Disney/Iger ⇄ Los Angeles Lakers",
-      "value_usd": null,
+      "parties": "Bob Iger / Jared Kushner ⇄ Los Angeles Lakers",
+      "value_usd": 5000000000,
       "term_years": null,
       "league": "NBA",
-      "headline": "Lakers sale to Iger and Kushner remains on track amid Buss family disputes",
+      "headline": "Buss Family Drama Won't Stop Lakers Sale to Iger and Kushner",
       "storyIndex": 8,
-      "blurb": "The Lakers acquisition by Disney CEO Robert Iger and Jared Kushner continues progressing despite internal Buss family litigation over governance and sale terms.",
-      "capturedAt": "2026-08-20T03:39:17.293Z"
+      "blurb": "Lakers sale to Bob Iger and Jared Kushner valued at approximately $5 billion remains on track despite internal Buss family dispute.",
+      "capturedAt": "2026-08-20T07:33:34.431Z"
+    },
+    {
+      "type": "sponsorship",
+      "parties": "Players Era Championship ⇄ University of Kansas",
+      "value_usd": 3100000,
+      "term_years": null,
+      "league": "OTHER",
+      "headline": "Players Era's Kansas Term Sheet Includes Big Cash and Caveats",
+      "storyIndex": 9,
+      "blurb": "Players Era committed at least $3.1 million in NIL opportunities and support for Kansas men's basketball team to compete in November tournament.",
+      "capturedAt": "2026-08-20T07:33:34.431Z"
     }
   ],
   "ratings": [],
   "ticket_prices": [],
   "sidebar": [
     {
-      "headline": "Joe Root's measured hand on England's leash",
-      "source": "BBC Sport · 8h ago",
-      "article": "Joe Root returned to the England Test captaincy and immediately adopted a hands-off approach with his bowling attack, taking advice from fellow batter Harry Brook. Root's tenure at the helm had ended in 2022 after fatigue from the role set in, but his second stint shows a captain learning from past experience. The delegation and trust in his bowlers reflect a more mature leadership philosophy than his first run. England's bowling group, familiar with the format and the conditions, responds to autonomy. Root's calm presence provides tactical stability without micromanagement, a contrast to some predecessor styles."
+      "headline": "Orioles rip MLB technology after Pete Alonso blast ruled foul",
+      "source": "NY Post Sports · 3h ago",
+      "article": "Major League Baseball's expanded use of technology to review balls and strikes has drawn criticism from the Baltimore Orioles after Pete Alonso's hit was ruled foul in a recent game. The team questioned whether similar technology should be deployed around the foul poles to prevent future missed calls. The Orioles' complaint highlights growing pains in MLB's deployment of automated tools and suggests pressure may build for more comprehensive technology integration across all boundary calls, not just strikes and balls."
     },
     {
-      "headline": "SafeSport's new CEO shines light on institutional problems",
-      "source": "Sportico · 16h ago",
-      "article": "The U.S. Center for SafeSport, created by Congress in 2017 to police athlete abuse and harassment in Olympic sports, has appointed a new CEO committed to public transparency about misconduct allegations. Traditionally, sports organizations bury allegations to avoid scandal. SafeSport is reversing that approach, believing that public accountability and visibility deter future violations and provide protection to athletes through informed communities. The nonprofit's new leadership signals a structural shift in how Olympic sports handle abuse reporting and institutional accountability."
+      "headline": "Peyton Watson trade grades: Cavaliers grab breakout wing, Nuggets have serious questions around Nikola Jokić",
+      "source": "CBS Sports · 5h ago",
+      "article": "The Cavaliers acquired wing Peyton Watson in a trade with the Denver Nuggets, picking up a breakout player who showed promise in Denver's rotation. The deal raises significant questions about the Nuggets' championship window with Nikola Jokić, signaling the team may be moving into a retooling phase. For Cleveland, Watson's arrival bolsters wing depth and adds defensive versatility alongside its core. The trade underscores how Denver's roster construction struggles around Jokić have forced cost-cutting measures."
     },
     {
-      "headline": "Peacock raises streaming subscription prices",
-      "source": "Sports Media Watch · 4h ago",
-      "article": "Peacock has raised prices for both monthly and annual subscriptions in advance of the official launch of the 2026-27 broadcast season. The increase reflects NBCUniversal's strategy to boost streaming revenue as the company allocates premium sports content to Peacock. NBC Sports is adding broadcasters for college football and expanding sports coverage on the platform, justifying higher pricing tiers to subscribers."
+      "headline": "Blue Jays cant afford to have Sanchez in outfield down stretch",
+      "source": "Sportsnet · 6h ago",
+      "article": "Toronto's Jesus Sanchez has become a defensive liability in the outfield as the Blue Jays chase late-season wins, with multiple games where his fielding mistakes directly resulted in runs. Analysts Jamie Campbell and Caleb Joseph broke down how the team cannot afford further defensive lapses during the stretch run. Moving Sanchez or finding him a position that better suits his range could become necessary if Toronto's outfield continues to struggle. The defensive issues have compounded Toronto's inability to beat sub-.500 teams consistently."
     },
     {
-      "headline": "Arsenal signs Konsa from Villa to cover injured defenders",
-      "source": "The Guardian · 12h ago",
-      "article": "Arsenal have agreed a £51 million deal to sign defender Ezri Konsa from Aston Villa, providing defensive cover for injured players William Saliba and Jurrien Timber. The deal underscores Arsenal's commitment to depth at center-back as the Premier League champions prepare for the second half of the season. Villa, meanwhile, is braced for fresh bids from Saudi Arabia's Al-Hilal for winger Ollie Watkins as the transfer window opens."
+      "headline": "LIV Golf CEO: 'I Hope We Can' Pay Unpaid Vendors",
+      "source": "Front Office Sports · 12h ago",
+      "article": "LIV Golf's CEO acknowledged the tour's unpaid vendor obligations and expressed hope the company can clear the backlog, though he stopped short of committing a timeline. Multiple lawsuits alleging missed payments from various vendors and contractors have piled up against the Saudi-backed tour. The vendor disputes underscore broader questions about LIV Golf's operational and financial discipline as it navigates a potential merger with the PGA Tour. The inability to pay service providers on time is a red flag for a professional sports property."
     },
     {
-      "headline": "Blue Jays' defensive lapses doom them against Rays",
-      "source": "Sportsnet · 2h ago",
-      "article": "The Toronto Blue Jays suffered a loss to the Tampa Bay Rays on Wednesday as defensive mistakes led to six runs across the game. Drew Rasmussen and the Rays' bullpen capitalized on Blue Jays errors in the field. The loss highlights a concerning trend: Toronto's defense has become a recurring liability down the stretch, with outfield positioning and decision-making in critical moments becoming costly. The team must tighten fundamentals to compete for playoff positioning."
+      "headline": "SafeSports New CEO Looks to Shine a Light on Problems",
+      "source": "Sportico · 20h ago",
+      "article": "The U.S. Center for SafeSport appointed a new CEO who is shifting the organization's approach to athlete misconduct allegations, moving away from behind-the-scenes handling toward greater public transparency. Created by Congress in 2017, SafeSport is tasked with policing athlete sex abuse and harassment across Olympic sports. The new leadership philosophy reflects recognition that sunlight can be a more effective deterrent than confidentiality. The shift carries implications for Olympic federations and sports organizations navigating their own compliance obligations."
     },
     {
-      "headline": "Bayonne Little League edges past Bridgewater in dramatic LLWS opener",
-      "source": "NY Post Sports · 1h ago",
-      "article": "Bayonne Little League defeated Bridgewater Little League in a walk-off home run to open Little League World Series play. Mason Rincon delivered the decisive blow against Bridgewater pitcher Jude DeSimone, who had no response but to tip his cap toward the opposing dugout. The dramatic finish set the tone for the rest of the tournament and highlighted the pressure and resilience inherent in youth baseball's highest stage."
+      "headline": "2 Milligan University students dead, 7 injured after driver crashes into school's cycling team",
+      "source": "NY Post Sports · 2h ago",
+      "article": "Two Tennessee college athletes were killed and seven others injured Wednesday morning when a reckless driver struck their cycling team during a training ride near Milligan University. The fatal crash underscores ongoing safety concerns for cyclists training on public roads. The two victims were members of the university's cycling program; names and details about the incident are still emerging. The crash has prompted renewed calls for improved road safety measures and driver accountability."
     }
   ],
   "poll": {
-    "question": "Will Nielsen's new measurement methodology significantly change how the NFL negotiates broadcast rights?",
+    "question": "Will Nielsen's new co-viewing measurement methodology lead the NFL to seek alternative ratings currency?",
     "options": [
-      "Yes, the methodology shifts will trigger major contract renegotiations",
-      "No, the NFL will hedge with alternative measurement firms to stabilize pricing",
-      "Somewhat, minor adjustments to baseline metrics but not wholesale changes",
-      "Unlikely—leagues will phase Nielsen out entirely over two years"
+      "Yes, the NFL will formally contract with competing firms within 18 months",
+      "Partially, the NFL will run parallel measurement but stay with Nielsen as primary",
+      "No, the NFL will accept Nielsen's methodology after the 2026-27 season proves comparable",
+      "No, but other leagues will break away before the NFL does"
     ]
   },
   "predictions": [
     {
-      "statement": "Infantino resigns or loses a confidence vote within FIFA governance by Q3 2026",
-      "probability": 42,
-      "rationale": "Five vice-presidents withdrawing support is critical institutional erosion, but FIFA's electoral cycle and Infantino's entrenched power base make forced removal difficult. He may choose to step down rather than face a formal no-confidence vote, but the timeline is uncertain."
+      "statement": "Max Verstappen will win the 2026 F1 World Championship and extend his streak to five consecutive titles.",
+      "probability": 72,
+      "rationale": "Verstappen's contract extension signals Red Bull's confidence in the current technical direction. His consistency over four consecutive titles demonstrates sustained excellence. However, regulatory changes and competitive balance from other manufacturers could narrow the gap by season's end."
     },
     {
-      "statement": "LIV Golf files for Chapter 11 bankruptcy protection within 18 months",
-      "probability": 31,
-      "rationale": "Unpaid vendor litigation and cash-flow strain are real, but PIF's capital cushion is substantial. The league is likely to restructure operations or reduce event footprint rather than collapse formally. Bankruptcy is a downside scenario if PIF withdraws backing unexpectedly."
+      "statement": "The Lakers sale to Iger and Kushner will close by end of Q2 2026 without family litigation blocking the transaction.",
+      "probability": 78,
+      "rationale": "Sources confirm the deal structure is solid and the family dispute won't reshape the sale. NBA approval processes and regulatory clearance are advanced. Timeline risk exists but appears manageable given current momentum."
     },
     {
-      "statement": "The Lakers sale to Iger and Kushner closes at originally agreed valuation with no material renegotiation",
-      "probability": 68,
-      "rationale": "Buss family disputes are distracting but don't alter the underlying deal mechanics or franchise value. Both buyers have demonstrated commitment and sufficient capital to withstand delay. A clean close at original terms is the base case."
+      "statement": "Gianni Infantino will announce his resignation as FIFA president within 12 months.",
+      "probability": 28,
+      "rationale": "Csanyi's public rebuke is significant but isolated. Infantino retains control of FIFA's administrative apparatus and federation majorities. However, mounting dissent from vice-presidents and governance criticism could accelerate if more leaders join Csanyi publicly."
     },
     {
-      "statement": "The NFL signs a media measurement alternative to Nielsen within 12 months",
-      "probability": 55,
-      "rationale": "The league's public hedging against Nielsen's monopoly suggests serious interest in backup currency partners. At least one alternative firm will gain official or quasi-official status to provide competitive measurement data alongside Nielsen by mid-2027."
+      "statement": "Peacock will reach 50 million subscribers by end of 2026 on the back of sports content and price increases.",
+      "probability": 45,
+      "rationale": "Peacock's sports lineup is strong and price increases signal confidence, but subscriber growth typically slows after hikes. Competitive pressure from other platforms and sports' niche appeal within broader streaming mean the threshold is challenging but not impossible."
     }
   ],
   "injuries": [
@@ -2496,34 +2499,10 @@
       "position": "G",
       "status": "OUT",
       "injury": "Right knee soreness",
-      "timeline": "Out for remainder of season",
+      "timeline": "out for season",
       "source": "The Guardian",
-      "impact": "Loss of the No. 1 draft pick removes a primary scoring option (13.1 PPG) from Dallas's rotation and delays the development of the rookie wing through the rest of the campaign.",
+      "impact": "The No. 1 overall pick's absence removes the rookie guard from the lineup after she averaged 13.1 points in 30 games before the injury.",
       "storyIndex": 11
-    },
-    {
-      "player": "William Saliba",
-      "team": "Arsenal",
-      "league": "SOCCER",
-      "position": "D",
-      "status": "OUT",
-      "injury": "Unknown injury",
-      "timeline": null,
-      "source": "The Guardian",
-      "impact": "Arsenal signed Ezri Konsa to cover for Saliba's absence as the Premier League champions seek defensive depth during his recovery period.",
-      "storyIndex": "S0"
-    },
-    {
-      "player": "Jurrien Timber",
-      "team": "Arsenal",
-      "league": "SOCCER",
-      "position": "D",
-      "status": "OUT",
-      "injury": "Unknown injury",
-      "timeline": null,
-      "source": "The Guardian",
-      "impact": "Arsenal's defensive lineup is stretched with both Timber and Saliba unavailable, necessitating the purchase of reinforcement at center-back to maintain depth.",
-      "storyIndex": "S0"
     }
   ],
   "picks": [
@@ -2579,6 +2558,60 @@
         },
         "awayTeam": "Toronto Blue Jays",
         "homeTeam": "Tampa Bay Rays"
+      }
+    },
+    {
+      "type": "moneyline",
+      "pick": "Cleveland Guardians ML",
+      "odds": "-180",
+      "edge": "Market fill from live lines: Cleveland Guardians is the books' favorite at -180 (best price @ LowVig.ag) against San Francisco Giants at +165, with home ice/court/field behind them. No researched edge here — this is a low-confidence market-consensus play added to round out the slate. Low confidence is honest confidence.",
+      "matchup": "San Francisco Giants @ Cleveland Guardians",
+      "league": "MLB",
+      "when": "Tomorrow 1:11 PM ET",
+      "confidence": "low",
+      "_autofill": true,
+      "_scheduledTs": 1787245860000,
+      "marketSnapshot": {
+        "capturedAt": "2026-08-20T03:39:44.336Z",
+        "markets": {
+          "h2h": {
+            "away": {
+              "price": 165,
+              "book": "Caesars"
+            },
+            "home": {
+              "price": -180,
+              "book": "LowVig.ag"
+            },
+            "draw": null
+          },
+          "spreads": {
+            "away": {
+              "point": 1.5,
+              "price": -128,
+              "book": "MyBookie.ag"
+            },
+            "home": {
+              "point": -1.5,
+              "price": 127,
+              "book": "LowVig.ag"
+            }
+          },
+          "totals": {
+            "over": {
+              "point": 7.5,
+              "price": -105,
+              "book": "BetMGM"
+            },
+            "under": {
+              "point": 7.5,
+              "price": -107,
+              "book": "LowVig.ag"
+            }
+          }
+        },
+        "awayTeam": "San Francisco Giants",
+        "homeTeam": "Cleveland Guardians"
       }
     },
     {
@@ -6002,118 +6035,379 @@
         "homeTeam": "Switzerland"
       },
       "_pendingGrade": true
-    },
-    {
-      "type": "moneyline",
-      "pick": "Los Angeles Dodgers ML",
-      "odds": "-190",
-      "edge": "Market fill from live lines: Los Angeles Dodgers is the books' favorite at -190 (best price @ FanDuel) against Colorado Rockies at +179, favored even on the road. No researched edge here — this is a low-confidence market-consensus play added to round out the slate. Low confidence is honest confidence.",
-      "matchup": "Los Angeles Dodgers @ Colorado Rockies",
-      "league": "MLB",
-      "when": "Today 8:40 PM ET",
-      "confidence": "low",
-      "_autofill": true,
-      "_scheduledTs": 1787186400000,
-      "marketSnapshot": {
-        "capturedAt": "2026-08-19T23:15:56.998Z",
-        "markets": {
-          "h2h": {
-            "away": {
-              "price": -190,
-              "book": "FanDuel"
-            },
-            "home": {
-              "price": 179,
-              "book": "DraftKings"
-            },
-            "draw": null
-          },
-          "spreads": {
-            "away": {
-              "point": -1.5,
-              "price": -127,
-              "book": "BetRivers"
-            },
-            "home": {
-              "point": 1.5,
-              "price": 115,
-              "book": "LowVig.ag"
-            }
-          },
-          "totals": {
-            "over": {
-              "point": 11,
-              "price": -117,
-              "book": "MyBookie.ag"
-            },
-            "under": {
-              "point": 11.5,
-              "price": -118,
-              "book": "LowVig.ag"
-            }
-          }
-        },
-        "awayTeam": "Los Angeles Dodgers",
-        "homeTeam": "Colorado Rockies"
-      },
-      "_pendingGrade": true
-    },
-    {
-      "type": "moneyline",
-      "pick": "Cleveland Guardians ML",
-      "odds": "-180",
-      "edge": "Market fill from live lines: Cleveland Guardians is the books' favorite at -180 (best price @ LowVig.ag) against San Francisco Giants at +165, with home ice/court/field behind them. No researched edge here — this is a low-confidence market-consensus play added to round out the slate. Low confidence is honest confidence.",
-      "matchup": "San Francisco Giants @ Cleveland Guardians",
-      "league": "MLB",
-      "when": "Tomorrow 1:11 PM ET",
-      "confidence": "low",
-      "_autofill": true,
-      "_scheduledTs": 1787245860000,
-      "marketSnapshot": {
-        "capturedAt": "2026-08-20T03:39:44.336Z",
-        "markets": {
-          "h2h": {
-            "away": {
-              "price": 165,
-              "book": "Caesars"
-            },
-            "home": {
-              "price": -180,
-              "book": "LowVig.ag"
-            },
-            "draw": null
-          },
-          "spreads": {
-            "away": {
-              "point": 1.5,
-              "price": -128,
-              "book": "MyBookie.ag"
-            },
-            "home": {
-              "point": -1.5,
-              "price": 127,
-              "book": "LowVig.ag"
-            }
-          },
-          "totals": {
-            "over": {
-              "point": 7.5,
-              "price": -105,
-              "book": "BetMGM"
-            },
-            "under": {
-              "point": 7.5,
-              "price": -107,
-              "book": "LowVig.ag"
-            }
-          }
-        },
-        "awayTeam": "San Francisco Giants",
-        "homeTeam": "Cleveland Guardians"
-      }
     }
   ],
-  "updatedAt": "2026-04-23T18:00:00Z",
-  "highlights": [],
-  "reels": []
+  "updatedAt": "2026-04-23T02:45:00Z",
+  "highlights": [
+    {
+      "league": "NBA",
+      "title": "Fan Favorites for Photo of the Year📸",
+      "videoId": "FbC1zZptJNA",
+      "thumbnail": "https://img.youtube.com/vi/FbC1zZptJNA/mqdefault.jpg",
+      "timeAgo": "12h ago",
+      "isFallback": false
+    },
+    {
+      "league": "NFL",
+      "title": "Impact of Texans WR Jayden Higgins' torn ACL + The Raiders' Fernando Mendoza project | NFL Live",
+      "videoId": "WZM8mo7T4eQ",
+      "thumbnail": "https://img.youtube.com/vi/WZM8mo7T4eQ/mqdefault.jpg",
+      "timeAgo": "11h ago",
+      "isFallback": false
+    },
+    {
+      "league": "MLB",
+      "title": "DODGERS vs. ROCKIES: Official Full Game Highlights (August 19) | 2026 MLB Season",
+      "videoId": "qHIA62TBj78",
+      "thumbnail": "https://img.youtube.com/vi/qHIA62TBj78/mqdefault.jpg",
+      "timeAgo": "3h ago",
+      "isFallback": false
+    },
+    {
+      "league": "NHL",
+      "title": "FULL REPLAY: 17-Goal Insanity! Jets vs. Flyers | 2011 Regular Season",
+      "videoId": "kiS27k6zmKo",
+      "thumbnail": "https://img.youtube.com/vi/kiS27k6zmKo/mqdefault.jpg",
+      "timeAgo": "9h ago",
+      "isFallback": false
+    },
+    {
+      "league": "WNBA",
+      "title": "Minnesota Lynx vs. Golden State Valkyries | FULL GAME HIGHLIGHTS | August 19, 2026",
+      "videoId": "MRz2c6Kj6wQ",
+      "thumbnail": "https://img.youtube.com/vi/MRz2c6Kj6wQ/mqdefault.jpg",
+      "timeAgo": "3h ago",
+      "isFallback": false
+    },
+    {
+      "league": "SOCCER",
+      "title": "DEFENSIVE SHOWDOWN ⚔️ LAFC vs. Colorado Rapids | MLS Highlights | ESPN FC",
+      "videoId": "BjDjNIrv1No",
+      "thumbnail": "https://img.youtube.com/vi/BjDjNIrv1No/mqdefault.jpg",
+      "timeAgo": "4h ago",
+      "isFallback": false
+    }
+  ],
+  "reels": [
+    {
+      "league": "WNBA",
+      "title": "Minnesota Lynx vs. Golden State Valkyries | FULL GAME HIGHLIGHTS | August 19, 2026",
+      "videoId": "MRz2c6Kj6wQ",
+      "author": "WNBA",
+      "pubDate": "2026-08-20T04:43:27+00:00",
+      "link": "https://www.youtube.com/watch?v=MRz2c6Kj6wQ"
+    },
+    {
+      "league": "WNBA",
+      "title": "Toronto Tempo vs. Washington Mystics | FULL GAME HIGHLIGHTS | August 19, 2026",
+      "videoId": "q_03bIdRimQ",
+      "author": "WNBA",
+      "pubDate": "2026-08-20T04:38:42+00:00",
+      "link": "https://www.youtube.com/watch?v=q_03bIdRimQ"
+    },
+    {
+      "league": "MLB",
+      "title": "DODGERS vs. ROCKIES: Official Full Game Highlights (August 19) | 2026 MLB Season",
+      "videoId": "qHIA62TBj78",
+      "author": "MLB",
+      "pubDate": "2026-08-20T04:24:30+00:00",
+      "link": "https://www.youtube.com/watch?v=qHIA62TBj78"
+    },
+    {
+      "league": "SOCCER",
+      "title": "DEFENSIVE SHOWDOWN ⚔️ LAFC vs. Colorado Rapids | MLS Highlights | ESPN FC",
+      "videoId": "BjDjNIrv1No",
+      "author": "ESPN FC",
+      "pubDate": "2026-08-20T03:51:05+00:00",
+      "link": "https://www.youtube.com/watch?v=BjDjNIrv1No"
+    },
+    {
+      "league": "MLB",
+      "title": "Roki Sasaki reaches TRIPLE DIGITS in 7-strikeout performance ⛽ | MLB Highlights",
+      "videoId": "A5QUoB_VWh4",
+      "author": "MLB",
+      "pubDate": "2026-08-20T03:36:09+00:00",
+      "link": "https://www.youtube.com/watch?v=A5QUoB_VWh4"
+    },
+    {
+      "league": "MLB",
+      "title": "ANGELS vs. ASTROS: Official Full Game Highlights (August 19) | 2026 MLB Season",
+      "videoId": "31D8q_tAbVQ",
+      "author": "MLB",
+      "pubDate": "2026-08-20T03:26:32+00:00",
+      "link": "https://www.youtube.com/watch?v=31D8q_tAbVQ"
+    },
+    {
+      "league": "SOCCER",
+      "title": "Griezmann vs. Lewandowski 👀 Orlando City SC vs. Chicago Fire FC | MLS Highlights | ESPN FC",
+      "videoId": "6iNtAhfdsrU",
+      "author": "ESPN FC",
+      "pubDate": "2026-08-20T03:18:55+00:00",
+      "link": "https://www.youtube.com/watch?v=6iNtAhfdsrU"
+    },
+    {
+      "league": "MLB",
+      "title": "NATIONALS vs. RANGERS: Official Full Game Highlights (August 19) | 2026 MLB Season",
+      "videoId": "U6A19yBaey0",
+      "author": "MLB",
+      "pubDate": "2026-08-20T03:17:44+00:00",
+      "link": "https://www.youtube.com/watch?v=U6A19yBaey0"
+    },
+    {
+      "league": "SOCCER",
+      "title": "This goal from Messi 🔥",
+      "videoId": "tAOtFZj7GS4",
+      "author": "ESPN FC",
+      "pubDate": "2026-08-20T03:07:31+00:00",
+      "link": "https://www.youtube.com/watch?v=tAOtFZj7GS4"
+    },
+    {
+      "league": "SOCCER",
+      "title": "Cavan Sullivan and Yannick Bright were both sent off with reds at the end of the draw.",
+      "videoId": "6wOiD5qzNcU",
+      "author": "ESPN FC",
+      "pubDate": "2026-08-20T03:07:04+00:00",
+      "link": "https://www.youtube.com/watch?v=6wOiD5qzNcU"
+    },
+    {
+      "league": "MLB",
+      "title": "ATHLETICS vs. ROYALS: Official Full Game Highlights (August 19) | 2026 MLB Season",
+      "videoId": "2zZmWAfwgFI",
+      "author": "MLB",
+      "pubDate": "2026-08-20T03:07:01+00:00",
+      "link": "https://www.youtube.com/watch?v=2zZmWAfwgFI"
+    },
+    {
+      "league": "MLB",
+      "title": "MARINERS vs. BREWERS: Official Full Game Highlights (August 19) | 2026 MLB Season",
+      "videoId": "gWoj_79gj_o",
+      "author": "MLB",
+      "pubDate": "2026-08-20T03:00:36+00:00",
+      "link": "https://www.youtube.com/watch?v=gWoj_79gj_o"
+    },
+    {
+      "league": "MLB",
+      "title": "YANKEES vs. ORIOLES: Official Full Game Highlights (August 19) | 2026 MLB Season",
+      "videoId": "QqlXix7KSHY",
+      "author": "MLB",
+      "pubDate": "2026-08-20T02:18:49+00:00",
+      "link": "https://www.youtube.com/watch?v=QqlXix7KSHY"
+    },
+    {
+      "league": "MLB",
+      "title": "Christian Vázquez homered right at the Astros’ broadcasters in the Crawford Boxes! 🤣",
+      "videoId": "rmCy_LnUW-o",
+      "author": "MLB",
+      "pubDate": "2026-08-20T02:13:40+00:00",
+      "link": "https://www.youtube.com/watch?v=rmCy_LnUW-o"
+    },
+    {
+      "league": "SOCCER",
+      "title": "Philadelphia Union vs. Inter Miami | MLS Highlights | ESPN FC",
+      "videoId": "ULbVnQooUjU",
+      "author": "ESPN FC",
+      "pubDate": "2026-08-20T02:06:51+00:00",
+      "link": "https://www.youtube.com/watch?v=ULbVnQooUjU"
+    },
+    {
+      "league": "SOCCER",
+      "title": "The latest transfer talk in Premier League and LALIGA [FULL SHOW] | ESPN FC",
+      "videoId": "CWRDGADhCTc",
+      "author": "ESPN FC",
+      "pubDate": "2026-08-19T23:35:24+00:00",
+      "link": "https://www.youtube.com/watch?v=CWRDGADhCTc"
+    },
+    {
+      "league": "NHL",
+      "title": "FULL REPLAY: 17-Goal Insanity! Jets vs. Flyers | 2011 Regular Season",
+      "videoId": "kiS27k6zmKo",
+      "author": "NHL",
+      "pubDate": "2026-08-19T23:00:07+00:00",
+      "link": "https://www.youtube.com/watch?v=kiS27k6zmKo"
+    },
+    {
+      "league": "SOCCER",
+      "title": "Premier League predictions 🔮 Arsenal to go back-to-back? Florian Wirtz for POTY!? | ESPN FC",
+      "videoId": "xxViKdaMc2Q",
+      "author": "ESPN FC",
+      "pubDate": "2026-08-19T22:54:33+00:00",
+      "link": "https://www.youtube.com/watch?v=xxViKdaMc2Q"
+    },
+    {
+      "league": "SOCCER",
+      "title": "Is there any European club that has as much depth as Arsenal? | ESPN FC Extra Time",
+      "videoId": "RMnNh9P3Bgk",
+      "author": "ESPN FC",
+      "pubDate": "2026-08-19T22:49:59+00:00",
+      "link": "https://www.youtube.com/watch?v=RMnNh9P3Bgk"
+    },
+    {
+      "league": "NFL",
+      "title": "Impact of Texans WR Jayden Higgins' torn ACL + The Raiders' Fernando Mendoza project | NFL Live",
+      "videoId": "WZM8mo7T4eQ",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-08-19T21:01:51+00:00",
+      "link": "https://www.youtube.com/watch?v=WZM8mo7T4eQ"
+    },
+    {
+      "league": "NFL",
+      "title": "Why Everyone Is Sleeping on the Eagles",
+      "videoId": "1fyKqnMHhHc",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-08-19T21:00:39+00:00",
+      "link": "https://www.youtube.com/watch?v=1fyKqnMHhHc"
+    },
+    {
+      "league": "NFL",
+      "title": "Remember The Titans with new HC Robert Saleh | The Schrager Hour",
+      "videoId": "WZ95o_hl9nI",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-08-19T20:37:01+00:00",
+      "link": "https://www.youtube.com/watch?v=WZ95o_hl9nI"
+    },
+    {
+      "league": "NFL",
+      "title": "Coach Jim Harbaugh explains Mike McDaniel and Justin Herbert’s relationship ⚡️",
+      "videoId": "UaM4zkax_iI",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-08-19T19:32:16+00:00",
+      "link": "https://www.youtube.com/watch?v=UaM4zkax_iI"
+    },
+    {
+      "league": "NBA",
+      "title": "Fan Favorites for Photo of the Year📸",
+      "videoId": "FbC1zZptJNA",
+      "author": "NBA",
+      "pubDate": "2026-08-19T19:30:11+00:00",
+      "link": "https://www.youtube.com/watch?v=FbC1zZptJNA"
+    },
+    {
+      "league": "NFL",
+      "title": "Jordan Love speaks on what it was like learning from Aaron Rodgers early in his career 🏈",
+      "videoId": "lDlaXq4rZVo",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-08-19T19:29:08+00:00",
+      "link": "https://www.youtube.com/watch?v=lDlaXq4rZVo"
+    },
+    {
+      "league": "NBA",
+      "title": "Show-stopping slams throughout the 2025-26 NBA Season 🤯",
+      "videoId": "Nd3ict9mO8w",
+      "author": "NBA",
+      "pubDate": "2026-08-19T19:24:55+00:00",
+      "link": "https://www.youtube.com/watch?v=Nd3ict9mO8w"
+    },
+    {
+      "league": "NBA",
+      "title": "Derik Queen was ready for tip-off 😅",
+      "videoId": "VsmFL9WQ37k",
+      "author": "NBA",
+      "pubDate": "2026-08-19T19:19:27+00:00",
+      "link": "https://www.youtube.com/watch?v=VsmFL9WQ37k"
+    },
+    {
+      "league": "NBA",
+      "title": "When Ausar Thompson had a series for the AGES 🔒",
+      "videoId": "L4rlwat8qIk",
+      "author": "NBA",
+      "pubDate": "2026-08-19T19:09:54+00:00",
+      "link": "https://www.youtube.com/watch?v=L4rlwat8qIk"
+    },
+    {
+      "league": "NFL",
+      "title": "Jordan Love on learning from Aaron Rodgers 🤝 + Packers' season expectations 🏈 | The Rich Eisen Show",
+      "videoId": "OZ6eVT--em8",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-08-19T19:01:11+00:00",
+      "link": "https://www.youtube.com/watch?v=OZ6eVT--em8"
+    },
+    {
+      "league": "NFL",
+      "title": "Who is the BEST coach in the NFL?",
+      "videoId": "ctS9UAldpUs",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-08-19T18:55:09+00:00",
+      "link": "https://www.youtube.com/watch?v=ctS9UAldpUs"
+    },
+    {
+      "league": "NFL",
+      "title": "Jim Harbaugh speaks on coaching alongside Mike McDaniel | The Pat McAfee Show",
+      "videoId": "icQq1fiqHTI",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-08-19T18:00:36+00:00",
+      "link": "https://www.youtube.com/watch?v=icQq1fiqHTI"
+    },
+    {
+      "league": "NBA",
+      "title": "Great Full Court Defensive Moments from the 2025-26 season",
+      "videoId": "tNT5cyikFjY",
+      "author": "NBA",
+      "pubDate": "2026-08-19T16:03:21+00:00",
+      "link": "https://www.youtube.com/watch?v=tNT5cyikFjY"
+    },
+    {
+      "league": "NBA",
+      "title": "Some Great Steals/”Cookies” from the 2025-26 NBA Season",
+      "videoId": "eN-M8XRIsaI",
+      "author": "NBA",
+      "pubDate": "2026-08-19T15:42:21+00:00",
+      "link": "https://www.youtube.com/watch?v=eN-M8XRIsaI"
+    },
+    {
+      "league": "NHL",
+      "title": "EVERY GOAL Scored Last Season by the 2026-27 New York Rangers Roster",
+      "videoId": "ssCVaMrzh14",
+      "author": "NHL",
+      "pubDate": "2026-08-19T15:00:22+00:00",
+      "link": "https://www.youtube.com/watch?v=ssCVaMrzh14"
+    },
+    {
+      "league": "NBA",
+      "title": "The MOST INSANE Hustle Plays of the 2025-26 NBA Season",
+      "videoId": "ESA8nzDtZt8",
+      "author": "NBA",
+      "pubDate": "2026-08-19T15:00:05+00:00",
+      "link": "https://www.youtube.com/watch?v=ESA8nzDtZt8"
+    },
+    {
+      "league": "NBA",
+      "title": "👀 A star-studded lineup in LA for NBA 2K27 Community Day! 🎮 @nba2k",
+      "videoId": "TT2D6XuUoPU",
+      "author": "NBA",
+      "pubDate": "2026-08-19T14:57:45+00:00",
+      "link": "https://www.youtube.com/watch?v=TT2D6XuUoPU"
+    },
+    {
+      "league": "WNBA",
+      "title": "Natasha Cloud Drops CAREER-HIGH 35 PTS &amp; Makes SKY HISTORY | August 18, 2026",
+      "videoId": "T_2Eb4OkSdg",
+      "author": "WNBA",
+      "pubDate": "2026-08-19T04:49:31+00:00",
+      "link": "https://www.youtube.com/watch?v=T_2Eb4OkSdg"
+    },
+    {
+      "league": "WNBA",
+      "title": "Atlanta Dream vs. Las Vegas Aces | FULL GAME HIGHLIGHTS | August 18, 2026",
+      "videoId": "Cx3Uy770ARI",
+      "author": "WNBA",
+      "pubDate": "2026-08-19T04:02:20+00:00",
+      "link": "https://www.youtube.com/watch?v=Cx3Uy770ARI"
+    },
+    {
+      "league": "WNBA",
+      "title": "New York Liberty vs. Chicago Sky | FULL GAME HIGHLIGHTS | August 18, 2026",
+      "videoId": "mnTCNrqjdHk",
+      "author": "WNBA",
+      "pubDate": "2026-08-19T03:55:03+00:00",
+      "link": "https://www.youtube.com/watch?v=mnTCNrqjdHk"
+    },
+    {
+      "league": "WNBA",
+      "title": "Indiana Fever vs. Toronto Tempo | FULL GAME HIGHLIGHTS | August 18, 2026",
+      "videoId": "Wx6ODB9rCU4",
+      "author": "WNBA",
+      "pubDate": "2026-08-19T03:47:05+00:00",
+      "link": "https://www.youtube.com/watch?v=Wx6ODB9rCU4"
+    }
+  ]
 }
