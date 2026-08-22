@@ -1,73 +1,81 @@
 {
   "clusters": [
     {
+      "category": "leagues",
+      "importance": 7,
+      "leadHeadline": "NCAA Wins Stay of Nationwide Eligibility Injunction",
+      "leadSource": "Sportico · 15h ago",
+      "leadUrl": "https://www.sportico.com/law/analysis/2026/nationwide-eligibility-injunction-stay-explain-ncaa-1234942603/",
+      "summary": "<cite index=\"6-4\">A 2-1 decision by the Tenth Circuit granted the NCAA a stay Friday of a nationwide injunction allowing Class of 2022 athletes to play in 2026-27.</cite> <cite index=\"18-1\">NCAA chief legal officer Scott Bearby said affected athletes \"are no longer eligible to compete.\"</cite>",
+      "article": "<cite index=\"10-1\">A divided three-judge panel on the U.S. Court of Appeals for the 10th Circuit on Friday granted the NCAA a stay of a nationwide injunction that had permitted thousands of formerly ineligible athletes to return to college sports at the start of the 2026–27 campaign.</cite> <cite index=\"6-4\">The 2-1 decision</cite> followed <cite index=\"10-2\">U.S. District Judge Charlotte N. Sweeney's July 31 ruling in Wisne v. NCAA, which certified a nationwide class of former Division I athletes who began college play in 2022–23, completed four years of eligibility and now seek to play an additional season.</cite>\n\n<cite index=\"18-1\">NCAA chief legal officer Scott Bearby said in a statement to member schools Friday that athletes who were \"allowed to compete because of the injunction granted by the Colorado judge are no longer eligible to compete.\"</cite> <cite index=\"18-7\">Bearby added that the stay \"permits Division I to return to the status quo before the district court intervened.\"</cite> He also signaled that <cite index=\"18-7\">the NCAA will \"continue to defend other similar putative class action lawsuits and the state court cases that have been filed.\"</cite>\n\n<cite index=\"10-4\">The stay has enormous practical importance for athletes and their families, especially with the fall 2026 semester about to start at universities across the country.</cite> <cite index=\"10-2\">The ruling doesn't mean the NCAA has won its appeal;</cite> <cite index=\"10-3\">although the granting of the stay signals the 10th Circuit panel is likely to rule for the NCAA, it's possible the player plaintiffs can better convince the panel as the appellate process plays out.</cite>",
+      "tweets": [
+        {
+          "url": "https://twitter.com/austinmasseySBI/status/2090815038260981887",
+          "html": "<blockquote class=\"twitter-tweet\" data-dnt=\"true\" data-theme=\"dark\"><p>BREAKING: The Tenth Circuit has GRANTED the NCAA’s stay request in Wisne v. NCAA.\n\nJudge Sweeney’s nationwide injunction is now stayed pending appeal, meaning qualifying Class of 2022 athletes lose its federal fifth-season protection for now. https://t.co/i3ASE2TmHi</p>&mdash; Austin Massey (@austinmasseySBI) <a href=\"https://twitter.com/austinmasseySBI/status/2090815038260981887\">August 21, 2026</a></blockquote>",
+          "author_name": "Austin Massey",
+          "author_url": "https://twitter.com/austinmasseySBI",
+          "dateMs": 1787324125000
+        }
+      ]
+    },
+    {
       "category": "media",
-      "importance": 8,
-      "leadHeadline": "EPL Ratings Will Test Whether World Cup Made U.S. a Soccer Nation",
-      "leadSource": "Sportico · 12h ago",
-      "leadUrl": "https://www.sportico.com/business/media/2026/premier-league-ratings-america-soccer-fandom-halaand-1234942596/",
-      "summary": "The Premier League's 2026-27 season opens this weekend, testing whether U.S. audiences who tuned in for the World Cup will stick with English soccer. The EPL sent 169 players to North America during the offseason transfer window.",
-      "article": "<cite index=\"2-6\">A new Premier League season gets underway this weekend, when soccer converts can reunite with their summer heroes</cite>. <cite index=\"13-1\">Arsenal host Coventry City on August 21</cite> to kick off the campaign.\n\nThe timing tests a real question: did the World Cup create lasting soccer fans in the U.S., or a temporary spike?\n\n<cite index=\"2-7\">Having shipped off 169 of its players to North America in June, the EPL was the most-represented league in the World Cup</cite>. <cite index=\"4-14,4-15\">The Premier League will host an activation called \"Coast to Coast\" on opening weekend of the 2026-2027 season from Friday, Aug. 21 to Monday, Aug. 24, with free watch parties across the United States in partnership with NBC</cite>.\n\n<cite index=\"2-1\">The England-Norway quarterfinal match drew 27.1 million U.S. TV viewers</cite>. <cite index=\"4-18,4-19\">Premier League U.S. Managing Director Akash Jain said: \"We think now is an opportunity to be able to say, 'Hey, if you enjoyed (the World Cup), come and watch the best of the best competing every week in our league'\"</cite>.",
+      "importance": 6,
+      "leadHeadline": "Game of DAZNs: Pacers latest team to join streamer",
+      "leadSource": "Sports Media Watch · 1d ago",
+      "leadUrl": "https://www.sportsmediawatch.com/2026/08/pacers-dazn-deal-nba-local-media-rights/",
+      "summary": "The Indiana Pacers have reached an exclusive media rights deal with DAZN, making them the second NBA team whose local broadcasts will stream solely on the platform. The Timberwolves were the first to make such an exclusive move.",
+      "article": "The Indiana Pacers have become the second NBA franchise to hand its local broadcast rights exclusively to DAZN, the global streaming platform announced Thursday. The deal marks an accelerating trend in the league toward direct-to-consumer distribution and away from traditional cable.\n\nThe Timberwolves preceded the Pacers down this path, making DAZN their exclusive local partner. Both moves signal a fundamental shift in how NBA teams distribute games to regional audiences. Rather than splitting rights between cable and streaming, or favoring cable with streaming as a secondary option, these franchises are betting the streaming-only model reaches enough fans to justify the transition.\n\nDAZN has aggressively pursued NBA rights, positioning itself as a challenger to established regional sports networks. For teams like Indiana, exclusivity on DAZN provides a financial guarantee and simplifies their media strategy. For the platform, each NBA team it secures strengthens its sports portfolio and locks in subscribers who want live local basketball.\n\nThe deal also reflects changing consumption habits: younger fans increasingly expect on-demand streaming, and cord-cutting continues to erode cable's audience. By going exclusive, the Pacers accept the short-term risk of alienating cable-only viewers in exchange for the long-term bet that DAZN's accessibility will grow the local audience over time.\n\nNo financial terms were disclosed, but the exclusivity structure suggests a significant commitment from DAZN.",
       "tweets": []
     },
     {
       "category": "revenue",
-      "importance": 8,
-      "leadHeadline": "From Showtime to Insurance Time: how the LA Lakers became a $12.5bn hedge fund play",
-      "leadSource": "The Guardian · 22h ago",
-      "leadUrl": "https://www.theguardian.com/sport/2026/aug/21/los-angeles-lakers-12-5bn-sale-bob-iger-josh-kushner-private-equity-nba",
-      "summary": "Bob Iger and Josh Kushner's $12.5 billion bid to buy the Lakers signals a fundamental shift: NBA franchises are now private-equity flips, not family legacies or long-term marketing platforms.",
-      "article": "The Lakers sale marks a watershed in how billionaires treat NBA franchises. Bob Iger and Josh Kushner's $12.5 billion offer transforms an icon of patient capital and celebrity glamour into a spreadsheet asset.\n\nThe Guardian's reporting cuts past the noise: this isn't about basketball anymore. For decades, the Lakers were a family concern, a playground for patient dynasties that built brands across generations. Jerry Buss purchased the team in 1979 and shepherded it through Magic and Showtime, Shaq and Kobe. The Jeanie Buss era extended that model into the LeBron era, messy and human.\n\nEiger and Kushner represent a different breed entirely. This is private-equity thinking applied to sports. The asset isn't primarily a team; it's a real-estate play, a media platform, a hedge against inflation, a portfolio diversifier. The $12.5 billion price tag reflects not the Lakers' competitive prospects but the franchise's balance-sheet value: arena, real estate, media rights, brand equity.\n\nThat shift has ripples across the league. When the top franchise changes hands, valuations reset upward. The Pacers, Timberwolves, and others follow suit. Investors stop asking 'Can we win?' and start asking 'What's the exit multiple?'\n\nFor the NBA, that's a feature and a bug. Massive valuations signal league health. But franchises run by financial engineers optimizing for resale rarely build dynasties.",
-      "tweets": []
-    },
-    {
-      "category": "contracts",
-      "importance": 7,
-      "leadHeadline": "Why Flood of NBA Team Sales Isn't Slowing",
-      "leadSource": "Front Office Sports · 10h ago",
-      "leadUrl": "https://frontofficesports.com/why-flood-of-nba-team-sales-isnt-slowing/",
-      "summary": "NBA team sales are accelerating, driven less by ownership pride than by return-on-investment calculations as franchises trade hands at record valuations.",
-      "article": "The NBA's franchise turnover has become a market signal, not an aberration. Front Office Sports reports that the current wave of team sales isn't a cyclical blip; it's structural. Ownership groups that treated franchises as century-spanning dynasties now treat them as portfolio assets with exit windows.\n\nThe math is straightforward. An owner who purchased a franchise for $500 million in 2010 can flip it for $2+ billion today. That's a four-bagger in 15 years, a return rate that beats most hedge funds. Compare that to the uncertainty of winning championships or building sustained competitive advantage, and the choice becomes obvious: sell high.\n\nThis reshapes team operations. When ownership is short-term, front offices optimize for near-term revenue and brand value rather than sustained championship contention. It's not that these new owners don't care about winning; it's that winning takes five to seven years and patience, and patient money is becoming scarce in the NBA.\n\nThe Iger-Kushner Lakers bid at $12.5 billion accelerates this pattern across the league. Every franchise owner now knows their property is worth significantly more than they paid. That knowledge has a way of loosening fingers on the trigger.\n\nFor the league itself, higher valuations generate tax revenue and broadcast leverage. But the psychological shift is real: franchises are no longer baronies passed down through generations. They're financial instruments.",
+      "importance": 6,
+      "leadHeadline": "NFL, ESPN, Charter and more",
+      "leadSource": "Sports Media Watch · 12h ago",
+      "leadUrl": "https://www.sportsmediawatch.com/2026/08/nfl-renegotiation-espn-dtc-charter-cox/",
+      "summary": "The NFL is in early-stage media rights negotiations; ESPN's direct-to-consumer service hit one year of operation with roughly 80% of subscribers accessing it through a bundle with Hulu and Disney Plus; Charter completed its merger with Cox Communications.",
+      "article": "The sports media landscape shifted on several fronts Thursday as the NFL began preliminary discussions on its next round of media rights deals, ESPN celebrated a milestone for its streaming service, and a major cable consolidation closed.\n\nNFL executives have started early negotiations with broadcasters and streamers on rights packages beyond the current agreements. No major announcements are imminent, but the league is signaling its readiness to test the market as existing deals run down. This includes exploration of how streaming will factor into future packages, whether exclusive games will expand, and what rates the market will bear for premium Thursday and Monday night slots.\n\nESPN's direct-to-consumer offering marked one year of operation with approximately 80% of its subscribers accessing the service through a bundle that includes Hulu and Disney Plus. The bundling strategy has proven crucial to adoption, bundling premium sports content with entertainment and general streaming to justify subscriber cost.\n\nCharter Communications and Cox Communications completed their long-pending merger, creating a larger broadband and video footprint across the country. The combined entity will influence how cable-distributed sports content reaches consumers and negotiating power with networks over retransmission fees and carriage rights.\n\nThese developments—NFL rights exploration, streaming bundle success, and cable consolidation—all reinforce a market in transition, where traditional pay-TV faces pressure from streaming but remains a significant distributor of live sports.",
       "tweets": []
     },
     {
       "category": "media",
-      "importance": 7,
-      "leadHeadline": "Game of DAZNs: Pacers latest team to join streamer",
-      "leadSource": "Sports Media Watch · 1d ago",
-      "leadUrl": "https://www.sportsmediawatch.com/2026/08/pacers-dazn-deal-nba-local-media-rights/",
-      "summary": "The Indiana Pacers signed an exclusive local broadcast deal with DAZN, becoming the second NBA team whose home games stream only on the platform, following the Timberwolves.",
-      "article": "The Indiana Pacers have become the second NBA franchise to surrender local broadcast exclusivity to a single streaming platform. The deal with DAZN ends cable and local television distribution for Pacers games, marking an accelerating shift in how NBA teams monetize media rights.\n\nSports Media Watch reports the Pacers join the Minnesota Timberwolves in this exclusive streaming arrangement. The timing signals that DAZN, the sports-focused streaming service owned by Len Blavatnik, is willing to pay premium rates for NBA content and that smaller-market franchises see streaming-only as a path to higher rights valuations.\n\nThe logic for the Pacers is clear: a streaming-exclusive deal concentrates viewership data, eliminates cannibalization from cable broadcasts, and can command higher per-game rates from DAZN than a split traditional-plus-streaming arrangement would. For DAZN, NBA content drives subscriber acquisition and retention, making the Pacers a defensible investment despite Indiana's mid-market status.\n\nThe trend raises questions for cable partners and regional sports networks, which have already been squeezed by cord-cutting. As more franchises test exclusive streaming deals, traditional local broadcast infrastructure weakens. The Pacers deal may look like a local story, but it's part of a league-wide renegotiation of how basketball reaches American homes.\n\nThe NBA's next media-rights negotiation cycle will test whether this model scales or remains niche.",
+      "importance": 5,
+      "leadHeadline": "EPL Ratings Will Test Whether World Cup Made U.S. a Soccer Nation",
+      "leadSource": "Sportico · 16h ago",
+      "leadUrl": "https://www.sportico.com/business/media/2026/premier-league-ratings-america-soccer-fandom-halaand-1234942596/",
+      "summary": "The Premier League season opens this weekend and will provide the first ratings test of whether American interest in soccer, sparked by World Cup coverage, has translated into sustained viewership. The EPL exported 169 of its players to North America in the summer transfer window.",
+      "article": "The Premier League's return this weekend serves as a critical measure of whether the World Cup fundamentally altered American sports consumption or created only a temporary spike.\n\nThe thesis is simple: the World Cup drew millions of American viewers during the summer, converting casual fans into invested followers of international soccer. Those viewers should, the theory goes, carry that interest into club-season viewership and follow their summer heroes into domestic league action.\n\nThe EPL is the ideal testing ground. The league sent 169 players to North America in the June transfer window—a historically large exodus—meaning American audiences have specific reasons to tune in: they're following players and teammates they watched during World Cup summer.\n\nBut ratings data from the season's first matches will reveal whether those World Cup conversions held. If viewership cratered compared to last season's opening weekend, it signals the tournament bump was fleeting and driven by casual interest rather than deep engagement. If ratings held or grew, it suggests real migration of viewers from international to domestic soccer.\n\nStreaming availability, kickoff times, and market saturation all affect the numbers. But the underlying story the ratings will tell is whether American sports audiences viewed the World Cup as a one-time event or as an entry point to following soccer year-round. The Premier League's first weekend will provide early evidence.",
       "tweets": []
     },
     {
       "category": "leagues",
-      "importance": 6,
-      "leadHeadline": "Arsenal sweep Coventry aside to start Premier League title defence in style",
-      "leadSource": "The Guardian · 10h ago",
-      "leadUrl": "https://www.theguardian.com/football/2026/aug/21/arsenal-coventry-premier-league-match-report",
-      "summary": "Arsenal opened their Premier League title defense with a decisive win over Coventry, showing the confidence that comes from ending their championship drought after 20 years.",
-      "article": "Arsenal's return to the Premier League felt different this time. The Guardian's reporting captures the shift: 95 days separated their final match of last season, a 1-0 squeaker over relegated Burnley, from the opening night against Coventry. In that interval, Manchester City stumbled to Bournemouth, and Arsenal won their first league title since 2004.\n\nThe nervous tension that defined their previous home match dissolved. Mikel Arteta's side came out with swagger, dismantling a Coventry side that had been competitive in the Championship. The performance wasn't just about talent or tactics; it was psychological. A team that had been hunting for years suddenly had the weight of winners behind them.\n\nArsenal's title win ended one of English football's longest droughts for a traditional heavyweight. The relief and confidence that follows such a breakthrough typically carries into the next season, at least through September. Teams that have learned to win over a grinding 38-match season enter Year Two with habits and self-belief that promote consistency.\n\nFor the Premier League, Arsenal's return to genuine contention alongside Manchester City, Liverpool, and Chelsea reshuffles the hierarchy. The Coventry match was the opener; the season-long battle will define whether last year's title win was the start of a dynasty or a one-off breakout.",
-      "tweets": []
-    },
-    {
-      "category": "contracts",
       "importance": 5,
-      "leadHeadline": "Cody Bellinger's return to Yankees lineup may come as soon as Sunday",
-      "leadSource": "NY Post Sports · just now",
-      "leadUrl": "https://nypost.com/2026/08/22/sports/cody-bellingers-return-to-yankees-lineup-may-come-sunday/",
-      "summary": "Cody Bellinger is on track to return to the Yankees lineup as early as Sunday, pending final fitness clearance after a recent injury absence.",
-      "article": "Cody Bellinger's recovery is tracking ahead of early expectations. The NY Post reports the Yankees outfielder could rejoin the lineup as soon as Sunday, a signal that his injury is less severe than initially feared.\n\nBellinger has been a key piece of the Yankees' 2026 season. His return timing matters for lineup construction and depth, particularly if the team is managing absences at other positions. A Sunday return would keep the veteran in the lineup for the weekend push, historically a ratings driver for baseball.\n\nThe uncertainty around Bellinger's status is typical of baseball injury reports: optimistic timelines often slip by a few days as players go through full-scale practice and live competition prep. But 'may come as soon as Sunday' suggests the team feels confident enough to project his availability within 48 hours.\n\nFor the Yankees, depth and availability are ongoing conversations. Bellinger provides left-handed pop and outfield versatility, both valuable for a team navigating the grueling 162-game schedule.",
+      "leadHeadline": "WNBA Tanking Season Is Officially Underway for Several Teams",
+      "leadSource": "Front Office Sports · 15h ago",
+      "leadUrl": "https://frontofficesports.com/wnba-tanking-season-underway-2026/",
+      "summary": "Multiple WNBA franchises are visibly avoiding wins as the season progresses, with the Toronto Tempo having lost 12 consecutive games. The tanking strategy aims to secure high draft picks in an expanding league.",
+      "article": "Tanking has arrived in the WNBA. The Toronto Tempo have lost 12 straight games—a sustained stretch of defeat that goes beyond bad luck or roster construction struggles. Multiple franchises across the league are signaling through their rosters and moves that they are prioritizing future draft capital over current-season wins.\n\nThe Tempo are the most visible example, but they are not alone. Several teams have made trades that weakened their immediate competitive position, sat key players, or made roster moves that prioritize lottery odds over playoff positioning. This is classic tanking behavior, long endemic to the NBA and increasingly visible in women's professional basketball.\n\nThe incentive structure is clear: with the WNBA expanding and adding new rosters that will require talented players in a draft, teams at the bottom of the standings are effectively competing for high picks. A franchise that finishes last gets priority access to young talent that could reshape its trajectory for years.\n\nFor the WNBA, the tanking trend raises questions about competitive integrity and fan investment. Unlike established leagues where tanking is expected and budgeted into the media narrative, the WNBA is still building its fan base and relies heavily on the perception that teams are competing hard every night. Visible tanking risks alienating the growing but still-fragile viewership the league has cultivated.\n\nThe league office has not announced any penalty or investigation into tanking behavior, but the trend will likely accelerate as draft day approaches and the value of high picks becomes concrete.",
       "tweets": []
     },
     {
       "category": "leagues",
       "importance": 4,
-      "leadHeadline": "NCAA Wins Stay of Nationwide Eligibility Injunction",
-      "leadSource": "Sportico · 11h ago",
-      "leadUrl": "https://www.sportico.com/law/analysis/2026/nationwide-eligibility-injunction-stay-explain-ncaa-1234942603/",
-      "summary": "A U.S. Court of Appeals panel granted the NCAA a stay on a nationwide eligibility injunction that had allowed thousands of formerly ineligible athletes to return to competition in 2026-27, halting the immediate implementation of the ruling.",
-      "article": "The NCAA won a tactical reprieve on Friday when a divided three-judge panel on the U.S. Court of Appeals for the 10th Circuit granted a stay of a nationwide injunction. The ruling doesn't resolve the underlying case but suspends the injunction's immediate effect, pausing the return of thousands of formerly ineligible athletes to college sports.\n\nSportico's reporting emphasizes the stay's significance: it pushes implementation past the 2026-27 season opener, buying the NCAA time to continue its appeal on the merits. The panel was divided, indicating this issue will likely reach higher courts.\n\nThe NCAA's core argument in its appeal centers on competitive fairness and rule-making authority. The injunction had permitted athletes deemed ineligible under NCAA rules to compete immediately, a change that would have altered rosters and recruitment for the new season. By staying the injunction, the court preserved the status quo ante while the legal process continues.\n\nThis is a holding action, not a final win. The NCAA still must defend its eligibility rules on appeal. But the stay gives administrators and compliance offices breathing room to prepare for whatever comes next, whether that's a reversal of the injunction or a final ruling that forces broader eligibility changes.\n\nThe case reflects a broader reckoning over NCAA power and the legal basis for athlete restrictions.",
+      "leadHeadline": "Why Flood of NBA Team Sales Isn't Slowing",
+      "leadSource": "Front Office Sports · 14h ago",
+      "leadUrl": "https://frontofficesports.com/why-flood-of-nba-team-sales-isnt-slowing/",
+      "summary": "NBA franchise valuations continue to rise, driving repeated ownership transfers as buyers see teams as financial assets rather than sports franchises. Capital gains and long-term equity appreciation, not operating revenue, are the primary motivations.",
+      "article": "NBA team sales show no sign of abating because ownership stakes have become financial instruments first and basketball franchises second.\n\nWhen teams sell year after year, it is rarely about a lack of passion for the sport or a desire to exit sports altogether. More often, it reflects a simple calculus: the franchise's net worth has grown faster than the owner could generate returns elsewhere. Selling at a profit and reinvesting in a new franchise or another asset class makes financial sense.\n\nRecent sales have fetched record prices. The Celtics, Warriors, and other marquee franchises have changed hands at valuations that would have seemed impossible a decade ago. The gap between purchase price and resale price has widened, creating a powerful incentive for ownership groups to flip stakes or exit entirely.\n\nThis is compounded by the NBA's salary-cap rules, which allow profitable teams to operate at a loss from a basketball operations standpoint. Some franchises generate robust revenue but face luxury-tax penalties that reduce discretionary profit. In that environment, the real return on ownership comes from appreciation of the team's equity, not from maximizing annual earnings.\n\nAs long as valuations keep rising and teams appreciate faster than alternative investments, the sale cycle will continue. New ownership groups with fresh capital and ambition will keep lining up to buy in, and current owners will keep finding the price too good to refuse.\n\nThe trend also suggests that institutional capital—private equity, family offices, corporate investors—will continue to dominate ownership. These groups are less sentimental and more attuned to financial returns, accelerating the pace of turnover.",
+      "tweets": []
+    },
+    {
+      "category": "leagues",
+      "importance": 3,
+      "leadHeadline": "US soccer wants excitement after the World Cup – the Open Cup provides it",
+      "leadSource": "The Guardian · 2h ago",
+      "leadUrl": "https://www.theguardian.com/football/2026/aug/22/us-soccer-wants-excitement-after-the-world-cup-the-open-cup-provides-it",
+      "summary": "MLS under new commissioner Larry Berg is positioning the U.S. Open Cup as a vehicle to build on World Cup momentum. The domestic cup competition offers the unpredictability and stakes that the league views as essential to growing soccer's foothold in America.",
+      "article": "Major League Soccer's new commissioner, Larry Berg, is betting on jeopardy. With the World Cup summer fading, MLS must convert fleeting interest into sustained engagement. The Open Cup, America's domestic knockout tournament, is an obvious lever.\n\nBerg has signaled he is not interested in promotion and relegation, a perennial request from soccer's purist wing. But he is enthusiastic about the kind of chaos and stakes that promotion and relegation create: the idea that any match matters, that a draw has consequences, that a small club can topple a giant.\n\nThe Open Cup delivers exactly that. Lower-division teams compete alongside MLS franchises. Any match can go to extra time and penalties. The tournament's structure inherently creates upsets and storylines that regular-season league play cannot match.\n\nFor MLS, using the Open Cup to build on World Cup momentum is a strategic choice. The league has spent years developing audiences for regular-season matches, but tournaments with clear stakes and elimination drama have proven to drive engagement across global soccer. The World Cup's success created a cohort of new American soccer viewers who now expect the sport's drama and unpredictability.\n\nBerg's remarks suggest MLS will invest in elevating the Open Cup's profile: larger platforms, prime scheduling, marketing that frames it as the tournament where anything can happen. If the league can sustain that narrative and translate it into viewership, the Open Cup could become a year-round engagement tool rather than a secondary competition.",
       "tweets": []
     }
   ],
@@ -2398,75 +2406,75 @@
       "value_usd": null,
       "term_years": null,
       "league": "NBA",
-      "headline": "Pacers sign exclusive local broadcast deal with DAZN",
+      "headline": "Pacers reach exclusive local broadcast deal with DAZN",
       "storyIndex": 15,
-      "blurb": "Pacers become second NBA team to move local broadcasts exclusively to DAZN, following Timberwolves.",
-      "capturedAt": "2026-08-22T07:25:01.014Z"
+      "blurb": "Indiana becomes second NBA team with exclusive local broadcasts on DAZN; Timberwolves were first.",
+      "capturedAt": "2026-08-22T11:11:54.515Z"
     }
   ],
   "ratings": [],
   "ticket_prices": [],
   "sidebar": [
     {
-      "headline": "NFL preseason Week 2 winners and losers: Bo Nix shines in Broncos return, Fernando Mendoza struggles",
-      "source": "CBS Sports · 3h ago",
-      "article": "The NFL preseason moved into Week 2 with several standout performances and notable struggles. Bo Nix impressed in his return to action with Denver, while rookie wideout DeZhaun Stribling extended his historic preseason run for San Francisco with another strong showing. Geno Smith shined in his return to New York. On the flip side, Fernando Mendoza struggled for a team that seemed to have high expectations heading into the exhibition slate. The preseason remains a proving ground for backup quarterbacks and fringe roster players fighting for roster spots as training camp enters its latter stages."
+      "headline": "Russell wins Dutch GP sprint from pole position",
+      "source": "BBC Sport · just now",
+      "article": "George Russell led Mercedes to a sprint-race victory at the Dutch Grand Prix Friday, converting pole position into a clean run to the checkered flag. The sprint format has become a fixture on the F1 calendar, breaking up the traditional single-race weekend and offering teams and drivers additional high-pressure racing. Russell's pole-to-win performance underscores Mercedes' pace heading into the main Grand Prix event. The sprint races serve as a preview of full-distance speed and give broadcasters a second race day, boosting weekend viewership and engagement."
     },
     {
-      "headline": "Arrighetti shows promise in Blue Jays debut but bats falter in loss to Yankees",
-      "source": "Sportsnet · 5h ago",
-      "article": "Spencer Arrighetti made his Blue Jays debut on a night when Toronto's offense went quiet in the Bronx. The right-hander showed flashes of promise in his first outing for his new team, though the Blue Jays' bats couldn't back him up. Cam Schlittler was decidedly less than his best self on the mound, and Toronto's lineup sputtered through stretches of the game. The series loss opens a critical stretch for the team as it attempts to climb back into contention down the stretch."
+      "headline": "Arsenal sweep Coventry aside on Premier League's opening night",
+      "source": "BBC Sport · 12h ago",
+      "article": "Arsenal started their title defense with a convincing win over Coventry City on Friday, the opening night of the Premier League season. The victory was built on the swagger that comes from winning the prior season's championship. Arsenal are not defending; they are attacking. Coventry had no answer for the pace and precision, and the gap between a champion's side and a mid-table challenger became apparent quickly. Arsenal's start signals intent to repeat and sets a benchmark for challengers to chase."
     },
     {
-      "headline": "Mets reliever excited to be pitching again after Tommy John surgery scare",
-      "source": "NY Post Sports · 1h ago",
-      "article": "Austin Warren thought his season might be finished last month when he faced the prospect of Tommy John surgery. The Mets reliever was bracing for a lengthy absence and a lengthy rehabilitation period. But a second opinion and additional medical consultation led to a more optimistic prognosis, and Warren avoided the operating table. He's now back in the bullpen with genuine enthusiasm, having stared down the possibility of missing the remainder of the season and much of next year."
+      "headline": "Jacob Misiorowski shuts down Braves with six scoreless innings",
+      "source": "CBS Sports · 9h ago",
+      "article": "Brewers sensation Jacob Misiorowski, widely considered baseball's best pitcher in 2026, dominated the Braves on Friday with six shutout innings. His arsenal remains virtually unhittable: fastball velocity, breaking-ball movement, and precision command make him the most dominant starter in the game. Misiorowski has emerged as a generational talent, and every outing reinforces why teams fear facing him. His performances drive playoff narratives because his arm can swing series outcomes single-handedly."
     },
     {
-      "headline": "WNBA Tanking Season Is Officially Underway for Several Teams",
-      "source": "Front Office Sports · 11h ago",
-      "article": "The WNBA's tank season has begun in earnest. The Toronto Tempo have now lost 12 games in a row, a streak that raises questions about competitive integrity and the league's ability to maintain consistent play across all franchises. When multiple teams appear to be prioritizing draft position over wins, it signals either a structural problem with roster construction or a deeper issue around coaching and organizational focus. The long losing streaks invite scrutiny of how the league manages competitive balance."
+      "headline": "Bo Nix shines in Broncos return while Fernando Mendoza struggles",
+      "source": "CBS Sports · 7h ago",
+      "article": "Bo Nix delivered a strong performance in his return to the field for Denver, but rookie quarterback Fernando Mendoza faltered for his team in NFL preseason Week 2. Nix's efficiency and decision-making suggest he is progressing toward readiness for the regular season, while Mendoza's struggles raise questions about whether he is fully acclimated to the professional game. Preseason performances do not always predict regular-season success, but they provide critical early reads on development and confidence."
     },
     {
-      "headline": "Deion Sanders Facing Fraud Lawsuit Over 'Prime' Logo",
-      "source": "Front Office Sports · 8h ago",
-      "article": "Deion Sanders is facing a fraud lawsuit from a graphic designer who alleges false promises regarding the 'Prime' logo and associated branding. The suit names Sanders and multiple companies in connection with the dispute. While details remain limited, the case highlights ongoing tensions around intellectual property rights, creator compensation, and the use of personal brands by high-profile athletes. The outcome could have implications for how athlete-founded ventures manage early creative partnerships."
+      "headline": "DeZhaun Stribling continues historic preseason run for 49ers",
+      "source": "CBS Sports · 7h ago",
+      "article": "Rookie wideout DeZhaun Stribling is putting together a preseason for the ages with the San Francisco 49ers. His output and consistency have drawn comparisons to elite rookie receiving seasons, and he is emerging as a potential impact contributor for the defending NFC West champions. Stribling's trajectory suggests he could earn snaps in the regular-season rotation much faster than typical rookies, accelerating his path from prospect to producer."
     },
     {
-      "headline": "Tottenham midfielder James Maddison says twins distracted him from ACL injury",
-      "source": "BBC Sport · 2h ago",
-      "article": "Tottenham's James Maddison offered a candid reflection on his ACL recovery, crediting a second set of twins born during his rehabilitation with providing much-needed mental distraction. Maddison now has five children aged four and under, a circumstance that pulled his focus away from the grueling process of rehabbing a serious knee injury. The midfielder is back in training as Tottenham enters the new season, ready to contribute to the club's title push after missing critical matches last term."
+      "headline": "Geno Smith shines in return to New York with Jets",
+      "source": "CBS Sports · 7h ago",
+      "article": "Geno Smith had a strong preseason outing in his return to the New York market with the Jets, showcasing the arm talent that has made him a reliable starter. His performance against a familiar division rival suggests he is ready for the regular season and confident in the Jets' system. Smith's stability at quarterback provides New York a veteran presence and removes a layer of uncertainty heading into the campaign."
     }
   ],
   "poll": {
-    "question": "Will Premier League U.S. ratings sustain post-World Cup, or fade back to pre-summer levels?",
+    "question": "Which league saw the biggest shift in viewership or distribution this week?",
     "options": [
-      "Sustain: American viewership has permanently shifted upward",
-      "Fade: The World Cup boost proves temporary, ratings drop by fall",
-      "Modest growth: Slight uptick vs. previous seasons, but short of World Cup peaks",
-      "Unclear: Too early to judge until we see 3-4 weeks of data"
+      "NBA moving teams to exclusive streaming (DAZN, Pacers)",
+      "Premier League's test of post-World Cup American interest",
+      "MLS leveraging the Open Cup for sustained engagement",
+      "NFL's early media rights negotiations"
     ]
   },
   "predictions": [
     {
-      "statement": "The Iger-Kushner Lakers purchase closes by end of 2026, setting a new NBA valuation floor and spurring at least two more franchise sales within 12 months.",
-      "probability": 72,
-      "rationale": "The $12.5 billion bid signals investor confidence in NBA franchises as hedge assets. Once that price anchors the market, other owners holding franchises valued lower will see immediate arbitrage opportunities. Private equity has patient capital and recent track records with sports acquisitions; momentum typically accelerates once a marquee deal closes."
+      "statement": "Premier League opening weekend ratings will exceed last season's comparable weekend, signaling sustained World Cup-to-club conversion.",
+      "probability": 62,
+      "rationale": "The World Cup drew unprecedented American audiences, and 169 EPL players moved to North America, giving U.S. viewers direct investment in returning stars. However, casual viewership frequently fades post-tournament, and U.S. kickoff times remain unfavorable for peak live viewing. The bundle matters."
     },
     {
-      "statement": "DAZN announces a third exclusive NBA local-broadcast deal with a market larger than Indianapolis by Q4 2026.",
-      "probability": 58,
-      "rationale": "The Pacers deal proves the model works for DAZN and mid-market teams. Larger markets offer higher subscriber upside and more negotiating leverage. DAZN has demonstrated willingness to pay premium rates for NBA content; the question is whether a top-20 market owner will take the exclusive plunge. The risk is cable partners pushing back on traditional teams, limiting DAZN's growth."
+      "statement": "WNBA tanking will become visible enough to prompt a league-office competitive-integrity investigation by mid-season.",
+      "probability": 55,
+      "rationale": "Tanking is standard in established leagues but risks alienating the WNBA's still-developing fan base and media partners. The league office will face pressure to respond if multiple teams tank simultaneously. The expansion draft structure makes tanking rational, but the optics are untenable for a growing league."
     },
     {
-      "statement": "Arsenal finishes the Premier League season with a higher points total than last year, establishing their title defense as the start of a dynasty, not a one-off.",
-      "probability": 45,
-      "rationale": "Winning breeds confidence, and Arteta's squad showed real control against Coventry. But repeating a league title in the modern Premier League is hard; City, Liverpool, and Chelsea remain fierce. Arsenal's improvement last year was real but benefited from City's dip. Sustaining that level is plausible but not probable."
+      "statement": "The NCAA will ultimately lose its appeal and the nationwide eligibility injunction will be reinstated or upheld.",
+      "probability": 48,
+      "rationale": "The stay is a procedural win, not a substantive one. The lower court's reasoning—that the NCAA's eligibility restrictions likely violated antitrust law—remains compelling. A stay suggests the panel is divided, and the full appeal could reverse course. But the NCAA's historical legal success in antitrust cases provides some headwind."
     },
     {
-      "statement": "The World Cup boost in U.S. soccer viewership holds through at least October 2026, but ratings fall 20%+ by spring 2027.",
-      "probability": 68,
-      "rationale": "World Cup conversions typically sustain through the immediate aftermath and into the fall, riding momentum and habit formation. But casual audiences drift when there's no marquee event on the horizon. The EPL's 2024-25 season should show strength through fall; spring will tell the real story of whether the conversion stuck."
+      "statement": "At least one additional NBA team will announce an exclusive streaming-only broadcast deal with DAZN or a competitor within 12 months.",
+      "probability": 71,
+      "rationale": "The Pacers and Timberwolves moves signal a viable model. As more franchises experiment with DAZN exclusivity and report subscriber growth, the risk premium for other teams declines. Expect mid-market and smaller-market teams to follow, especially those seeking differentiation or facing cable negotiating difficulties."
     }
   ],
   "injuries": [
@@ -2476,156 +2484,639 @@
       "league": "SOCCER",
       "position": "MF",
       "status": "RETURNING",
-      "injury": "ACL/injury",
+      "injury": "injury-related condition",
       "timeline": null,
       "source": "The Guardian",
-      "impact": "Arsenal captain and primary playmaker returning to action after injury-wrecked campaign; scoring goal despite visible signs of recovery process.",
-      "storyIndex": 9
-    },
-    {
-      "player": "James Maddison",
-      "team": "Tottenham Hotspur",
-      "league": "SOCCER",
-      "position": "MF",
-      "status": "RETURNING",
-      "injury": "ACL",
-      "timeline": null,
-      "source": "BBC Sport",
-      "impact": "Midfielder has completed rehabilitation and is back in training after missing critical matches last season; returns to midfield creativity for Tottenham's title push.",
-      "storyIndex": 12
-    },
-    {
-      "player": "Austin Warren",
-      "team": "New York Mets",
-      "league": "MLB",
-      "position": "RP",
-      "status": "RETURNING",
-      "injury": "Elbow (Tommy John surgery scare avoided)",
-      "timeline": null,
-      "source": "NY Post Sports",
-      "impact": "Relief pitcher avoided season-ending Tommy John surgery and has returned to pitching; availability in bullpen after recent medical scare.",
-      "storyIndex": 10
-    },
-    {
-      "player": "Cody Bellinger",
-      "team": "New York Yankees",
-      "league": "MLB",
-      "position": "OF",
-      "status": "RETURNING",
-      "injury": "Not specified",
-      "timeline": "Sunday, pending clearance",
-      "source": "NY Post Sports",
-      "impact": "Outfielder tracking toward return to lineup as soon as Sunday; provides left-handed pop and depth for Yankees' offensive lineup.",
-      "storyIndex": 2
+      "impact": "Arsenal captain showing signs of recovery after an injury-wrecked campaign; expected to resume his role as smoothing agent and pass master in midfield.",
+      "storyIndex": null
     }
   ],
   "picks": [
     {
+      "matchup": "Toronto FC @ Inter Miami CF",
+      "league": "MLS",
       "type": "moneyline",
-      "pick": "New York Yankees ML",
-      "odds": "-107",
-      "edge": "Market fill from live lines: New York Yankees is the books' favorite at -107 (best price @ LowVig.ag) against Toronto Blue Jays at +101, with home ice/court/field behind them. No researched edge here — this is a low-confidence market-consensus play added to round out the slate. Low confidence is honest confidence.",
-      "matchup": "Toronto Blue Jays @ New York Yankees",
-      "league": "MLB",
-      "when": "Tomorrow 1:36 PM ET",
+      "when": "Today 7:30 PM ET",
+      "pick": "Inter Miami CF ML",
+      "odds": "-280",
+      "edge": "Inter Miami (11-6-3) has secured the Supporters' Shield lead with a +18 goal differential, while Toronto (4-9-7) ranks among the league's weakest with -11 GD. The -280 moneyline reflects Inter Miami's dominance, but this represents a home match where the talent gap is 15+ points of separation in expected points. At -280, you're getting appropriate odds for the league's best team facing a basement-dweller at home.",
       "confidence": "low",
-      "_autofill": true,
-      "_scheduledTs": 1787420160000,
       "marketSnapshot": {
-        "capturedAt": "2026-08-22T03:35:56.547Z",
+        "capturedAt": "2026-08-22T11:13:13.449Z",
         "markets": {
           "h2h": {
             "away": {
-              "price": 101,
-              "book": "MyBookie.ag"
+              "price": 650,
+              "book": "FanDuel"
             },
             "home": {
-              "price": -107,
+              "price": -280,
               "book": "LowVig.ag"
             },
-            "draw": null
+            "draw": {
+              "price": 518,
+              "book": "LowVig.ag"
+            }
           },
           "spreads": {
             "away": {
               "point": 1.5,
-              "price": -207,
-              "book": "DraftKings"
+              "price": -102,
+              "book": "Bovada"
             },
             "home": {
-              "point": 1.5,
-              "price": -205,
-              "book": "Fanatics"
+              "point": -1.5,
+              "price": -117,
+              "book": "LowVig.ag"
             }
           },
           "totals": {
             "over": {
-              "point": 6.5,
-              "price": -120,
-              "book": "FanDuel"
+              "point": 3.5,
+              "price": -159,
+              "book": "BetRivers"
             },
             "under": {
-              "point": 7,
-              "price": -113,
-              "book": "LowVig.ag"
+              "point": 4,
+              "price": -109,
+              "book": "BetUS"
             }
           }
         },
-        "awayTeam": "Toronto Blue Jays",
-        "homeTeam": "New York Yankees"
-      }
+        "awayTeam": "Toronto FC",
+        "homeTeam": "Inter Miami CF",
+        "commenceTime": "2026-08-22T23:30:00Z"
+      },
+      "_scheduledTs": 1787441400000
     },
     {
-      "type": "moneyline",
-      "pick": "Milwaukee Brewers ML",
-      "odds": "-157",
-      "edge": "Market fill from live lines: Milwaukee Brewers is the books' favorite at -157 (best price @ Caesars) against Atlanta Braves at +147, with home ice/court/field behind them. No researched edge here — this is a low-confidence market-consensus play added to round out the slate. Low confidence is honest confidence.",
-      "matchup": "Atlanta Braves @ Milwaukee Brewers",
-      "league": "MLB",
-      "when": "Tomorrow 2:11 PM ET",
+      "matchup": "Seattle Sounders FC @ FC Cincinnati",
+      "league": "MLS",
+      "type": "total",
+      "when": "Today 7:30 PM ET",
+      "pick": "Over 3.5",
+      "odds": "-108",
+      "edge": "Cincinnati (8-6-6) ranks in the top half for goal-scoring efficiency and pace; Seattle (7-3-9) has the third-best GF in MLS. Both teams play open attacking systems with moderate defensive organization, and the Over 3.5 at -108 offers near-even value in a matchup where both sides have clear scoring upside. This is a fair-line play in an end-of-season fixture without playoff-positioning stakes that typically tighten defensive focus.",
       "confidence": "low",
-      "_autofill": true,
-      "_scheduledTs": 1787422260000,
       "marketSnapshot": {
-        "capturedAt": "2026-08-22T03:35:56.548Z",
+        "capturedAt": "2026-08-22T11:13:13.452Z",
         "markets": {
           "h2h": {
             "away": {
-              "price": 147,
-              "book": "Caesars"
+              "price": 385,
+              "book": "LowVig.ag"
             },
             "home": {
-              "price": -157,
-              "book": "Caesars"
+              "price": -164,
+              "book": "LowVig.ag"
             },
-            "draw": null
+            "draw": {
+              "price": 381,
+              "book": "LowVig.ag"
+            }
           },
           "spreads": {
             "away": {
-              "point": 1.5,
-              "price": -146,
-              "book": "MyBookie.ag"
+              "point": 1,
+              "price": -114,
+              "book": "LowVig.ag"
             },
             "home": {
-              "point": -1.5,
-              "price": 135,
+              "point": -1,
+              "price": -105,
               "book": "Bovada"
             }
           },
           "totals": {
             "over": {
-              "point": 8,
-              "price": -102,
+              "point": 3.5,
+              "price": -108,
               "book": "LowVig.ag"
             },
             "under": {
-              "point": 8,
-              "price": -113,
+              "point": 3.5,
+              "price": -108,
+              "book": "BetUS"
+            }
+          }
+        },
+        "awayTeam": "Seattle Sounders FC",
+        "homeTeam": "FC Cincinnati",
+        "commenceTime": "2026-08-22T23:30:00Z"
+      },
+      "_scheduledTs": 1787441400000
+    },
+    {
+      "matchup": "DC United @ Charlotte FC",
+      "league": "MLS",
+      "type": "spread",
+      "when": "Today 7:30 PM ET",
+      "pick": "Charlotte FC -0.5",
+      "odds": "-125",
+      "edge": "Charlotte (8-5-7) has posted a +3 goal differential at home, while DC United (5-9-6) is 2-4-4 on the road with a -8 road GD. The -0.5 spread at -125 is a slight home lean that aligns with Charlotte's structural home advantage; DC's road vulnerability makes this a reasonable short-priced play where the home team's advantage is real.",
+      "confidence": "low",
+      "marketSnapshot": {
+        "capturedAt": "2026-08-22T11:13:13.453Z",
+        "markets": {
+          "h2h": {
+            "away": {
+              "price": 335,
+              "book": "Bovada"
+            },
+            "home": {
+              "price": -120,
+              "book": "BetMGM"
+            },
+            "draw": {
+              "price": 295,
+              "book": "LowVig.ag"
+            }
+          },
+          "spreads": {
+            "away": {
+              "point": 0.75,
+              "price": -115,
+              "book": "Bovada"
+            },
+            "home": {
+              "point": -0.5,
+              "price": -125,
+              "book": "LowVig.ag"
+            }
+          },
+          "totals": {
+            "over": {
+              "point": 2.5,
+              "price": -160,
+              "book": "BetMGM"
+            },
+            "under": {
+              "point": 3,
+              "price": -130,
               "book": "LowVig.ag"
             }
           }
         },
-        "awayTeam": "Atlanta Braves",
-        "homeTeam": "Milwaukee Brewers"
+        "awayTeam": "D.C. United",
+        "homeTeam": "Charlotte FC",
+        "commenceTime": "2026-08-22T23:30:00Z"
+      },
+      "_scheduledTs": 1787441400000
+    },
+    {
+      "matchup": "Real Madrid @ Espanyol",
+      "league": "La Liga",
+      "type": "spread",
+      "when": "Today 3:30 PM ET",
+      "pick": "Real Madrid -1",
+      "odds": "-140",
+      "edge": "Real Madrid is the tournament favorite with a 0.8 xG-per-game advantage historically, while Espanyol (1-0-0) has barely begun play. The -1 spread at -140 reflects Real Madrid's pedigree and attacking quality; Espanyol's single win is not indicative of true underlying strength. This is a matchup where Madrid's talent gap should produce a clean sheet or narrow 1-goal win with high frequency.",
+      "confidence": "low",
+      "marketSnapshot": {
+        "capturedAt": "2026-08-22T11:13:13.454Z",
+        "markets": {
+          "h2h": {
+            "away": {
+              "price": -215,
+              "book": "LowVig.ag"
+            },
+            "home": {
+              "price": 650,
+              "book": "BetRivers"
+            },
+            "draw": {
+              "price": 370,
+              "book": "FanDuel"
+            }
+          },
+          "spreads": {
+            "away": {
+              "point": -1,
+              "price": -140,
+              "book": "LowVig.ag"
+            },
+            "home": {
+              "point": 1.25,
+              "price": -112,
+              "book": "Bovada"
+            }
+          },
+          "totals": {
+            "over": {
+              "point": 2.5,
+              "price": -143,
+              "book": "BetRivers"
+            },
+            "under": {
+              "point": 3,
+              "price": -125,
+              "book": "LowVig.ag"
+            }
+          }
+        },
+        "awayTeam": "Real Madrid",
+        "homeTeam": "Espanyol",
+        "commenceTime": "2026-08-22T19:30:00Z"
+      },
+      "_scheduledTs": 1787427000000
+    },
+    {
+      "matchup": "Napoli @ Genoa",
+      "league": "Serie A",
+      "type": "moneyline",
+      "when": "Today 2:45 PM ET",
+      "pick": "Napoli ML",
+      "odds": "105",
+      "edge": "Napoli enters Serie A as one of Italy's top offensive units with a +0.5 xG differential, while Genoa (0-0-0) is a rebuilding side. At +105 moneyline odds, Napoli offers value as the clear favorite; the line reflects slight public uncertainty in season openers, but the talent gap is material. This is a fair-line lean on the stronger team at reasonable plus odds.",
+      "confidence": "low",
+      "marketSnapshot": {
+        "capturedAt": "2026-08-22T11:13:13.455Z",
+        "markets": {
+          "h2h": {
+            "away": {
+              "price": 105,
+              "book": "BetOnline.ag"
+            },
+            "home": {
+              "price": 340,
+              "book": "FanDuel"
+            },
+            "draw": {
+              "price": 220,
+              "book": "BetUS"
+            }
+          },
+          "spreads": {
+            "away": {
+              "point": -0.5,
+              "price": 105,
+              "book": "BetOnline.ag"
+            },
+            "home": {
+              "point": 0.5,
+              "price": -120,
+              "book": "Bovada"
+            }
+          },
+          "totals": {
+            "over": {
+              "point": 2,
+              "price": -125,
+              "book": "BetUS"
+            },
+            "under": {
+              "point": 2.5,
+              "price": -180,
+              "book": "Bovada"
+            }
+          }
+        },
+        "awayTeam": "Napoli",
+        "homeTeam": "Genoa",
+        "commenceTime": "2026-08-22T18:45:00Z"
+      },
+      "_scheduledTs": 1787424300000
+    },
+    {
+      "matchup": "Celta Vigo @ Valencia",
+      "league": "La Liga",
+      "type": "moneyline",
+      "when": "Today 1:30 PM ET",
+      "pick": "Valencia ML",
+      "odds": "157",
+      "edge": "Valencia has historically outperformed Celta Vigo in head-to-head matchups and possess superior home-field metrics in La Liga. At +157 moneyline odds, Valencia offers value as the underlying favorite in a pick-'em matchup. The line pricing reflects public uncertainty, but Valencia's institutional strength makes the plus odds attractive.",
+      "confidence": "low",
+      "marketSnapshot": {
+        "capturedAt": "2026-08-22T11:13:13.457Z",
+        "markets": {
+          "h2h": {
+            "away": {
+              "price": 205,
+              "book": "BetRivers"
+            },
+            "home": {
+              "price": 157,
+              "book": "LowVig.ag"
+            },
+            "draw": {
+              "price": 220,
+              "book": "BetMGM"
+            }
+          },
+          "spreads": {
+            "away": {
+              "point": 0,
+              "price": 110,
+              "book": "Bovada"
+            },
+            "home": {
+              "point": 0,
+              "price": -129,
+              "book": "LowVig.ag"
+            }
+          },
+          "totals": {
+            "over": {
+              "point": 2,
+              "price": -145,
+              "book": "LowVig.ag"
+            },
+            "under": {
+              "point": 2.5,
+              "price": -160,
+              "book": "BetMGM"
+            }
+          }
+        },
+        "awayTeam": "Celta Vigo",
+        "homeTeam": "Valencia",
+        "commenceTime": "2026-08-22T17:30:00Z"
+      },
+      "_scheduledTs": 1787419800000
+    },
+    {
+      "matchup": "Como @ Udinese",
+      "league": "Serie A",
+      "type": "spread",
+      "when": "Today 12:30 PM ET",
+      "pick": "Udinese +0.5",
+      "odds": "105",
+      "edge": "Como is -120 favorite to win the match, but is playing away and Udinese typically competes well at home in Serie A. The +0.5 spread at +105 offers value on Udinese as a home team getting points; Como's slight favorite status hasn't fully accounted for the home-field advantage Udinese possesses.",
+      "confidence": "low",
+      "marketSnapshot": {
+        "capturedAt": "2026-08-22T11:13:13.458Z",
+        "markets": {
+          "h2h": {
+            "away": {
+              "price": -120,
+              "book": "BetMGM"
+            },
+            "home": {
+              "price": 380,
+              "book": "BetRivers"
+            },
+            "draw": {
+              "price": 255,
+              "book": "BetUS"
+            }
+          },
+          "spreads": {
+            "away": {
+              "point": -0.5,
+              "price": -120,
+              "book": "BetUS"
+            },
+            "home": {
+              "point": 0.5,
+              "price": 105,
+              "book": "Bovada"
+            }
+          },
+          "totals": {
+            "over": {
+              "point": 2.5,
+              "price": 113,
+              "book": "Bovada"
+            },
+            "under": {
+              "point": 2.5,
+              "price": -128,
+              "book": "BetOnline.ag"
+            }
+          }
+        },
+        "awayTeam": "Como",
+        "homeTeam": "Udinese",
+        "commenceTime": "2026-08-22T16:30:00Z"
+      },
+      "_scheduledTs": 1787416200000
+    },
+    {
+      "type": "spread",
+      "pick": "Manchester United -1.5",
+      "odds": "-101",
+      "edge": "Market fill from live lines: the books lay -1.5 with Manchester United at -101 (best @ BetOnline.ag). No researched edge — a low-confidence market-consensus play so this sport isn't empty today.",
+      "matchup": "Manchester United @ Hull City",
+      "league": "EPL",
+      "when": "Today 7:30 AM ET",
+      "confidence": "low",
+      "_autofill": true,
+      "_scheduledTs": 1787398200000,
+      "marketSnapshot": {
+        "capturedAt": "2026-08-22T11:13:13.460Z",
+        "markets": {
+          "h2h": {
+            "away": {
+              "price": -270,
+              "book": "DraftKings"
+            },
+            "home": {
+              "price": 815,
+              "book": "BetOnline.ag"
+            },
+            "draw": {
+              "price": 450,
+              "book": "BetRivers"
+            }
+          },
+          "spreads": {
+            "away": {
+              "point": -1.5,
+              "price": -101,
+              "book": "BetOnline.ag"
+            },
+            "home": {
+              "point": 1.5,
+              "price": -110,
+              "book": "Bovada"
+            }
+          },
+          "totals": {
+            "over": {
+              "point": 2.5,
+              "price": -175,
+              "book": "BetRivers"
+            },
+            "under": {
+              "point": 3,
+              "price": -110,
+              "book": "BetUS"
+            }
+          }
+        },
+        "awayTeam": "Manchester United",
+        "homeTeam": "Hull City"
+      }
+    },
+    {
+      "type": "spread",
+      "pick": "Everton -0.25",
+      "odds": "-108",
+      "edge": "Market fill from live lines: the books lay -0.25 with Everton at -108 (best @ Bovada). No researched edge — a low-confidence market-consensus play so this sport isn't empty today.",
+      "matchup": "Crystal Palace @ Everton",
+      "league": "EPL",
+      "when": "Today 10:00 AM ET",
+      "confidence": "low",
+      "_autofill": true,
+      "_scheduledTs": 1787407200000,
+      "marketSnapshot": {
+        "capturedAt": "2026-08-22T11:13:13.461Z",
+        "markets": {
+          "h2h": {
+            "away": {
+              "price": 235,
+              "book": "BetOnline.ag"
+            },
+            "home": {
+              "price": 125,
+              "book": "DraftKings"
+            },
+            "draw": {
+              "price": 245,
+              "book": "BetOnline.ag"
+            }
+          },
+          "spreads": {
+            "away": {
+              "point": 0.5,
+              "price": -141,
+              "book": "BetOnline.ag"
+            },
+            "home": {
+              "point": -0.25,
+              "price": -108,
+              "book": "Bovada"
+            }
+          },
+          "totals": {
+            "over": {
+              "point": 2.5,
+              "price": -102,
+              "book": "BetOnline.ag"
+            },
+            "under": {
+              "point": 2.5,
+              "price": -114,
+              "book": "BetRivers"
+            }
+          }
+        },
+        "awayTeam": "Crystal Palace",
+        "homeTeam": "Everton"
+      }
+    },
+    {
+      "type": "moneyline",
+      "pick": "RC Lens ML",
+      "odds": "-195",
+      "edge": "Market fill from live lines: RC Lens is the books' favorite at -195 (best price @ DraftKings) against Auxerre at +552, with home ice/court/field behind them. No researched edge here — this is a low-confidence market-consensus play added to round out the slate. Low confidence is honest confidence.",
+      "matchup": "Auxerre @ RC Lens",
+      "league": "LIGUE 1",
+      "when": "Today 11:15 AM ET",
+      "confidence": "low",
+      "_autofill": true,
+      "_scheduledTs": 1787411700000,
+      "marketSnapshot": {
+        "capturedAt": "2026-08-22T11:13:13.461Z",
+        "markets": {
+          "h2h": {
+            "away": {
+              "price": 552,
+              "book": "LowVig.ag"
+            },
+            "home": {
+              "price": -195,
+              "book": "DraftKings"
+            },
+            "draw": {
+              "price": 365,
+              "book": "LowVig.ag"
+            }
+          },
+          "spreads": {
+            "away": {
+              "point": 1.25,
+              "price": -128,
+              "book": "Bovada"
+            },
+            "home": {
+              "point": -1,
+              "price": -125,
+              "book": "LowVig.ag"
+            }
+          },
+          "totals": {
+            "over": {
+              "point": 2.5,
+              "price": -175,
+              "book": "BetMGM"
+            },
+            "under": {
+              "point": 3,
+              "price": -118,
+              "book": "LowVig.ag"
+            }
+          }
+        },
+        "awayTeam": "Auxerre",
+        "homeTeam": "RC Lens"
+      }
+    },
+    {
+      "type": "total",
+      "pick": "Under 2.5",
+      "odds": "-107",
+      "edge": "Market fill from live lines: total posted at 2.5, taking the under at the better price (-107 @ BetRivers). No researched edge — low-confidence market-consensus play.",
+      "matchup": "Brest @ Le Mans FC",
+      "league": "LIGUE 1",
+      "when": "Today 2:45 PM ET",
+      "confidence": "low",
+      "_autofill": true,
+      "_scheduledTs": 1787424300000,
+      "marketSnapshot": {
+        "capturedAt": "2026-08-22T11:13:13.462Z",
+        "markets": {
+          "h2h": {
+            "away": {
+              "price": 187,
+              "book": "LowVig.ag"
+            },
+            "home": {
+              "price": 155,
+              "book": "DraftKings"
+            },
+            "draw": {
+              "price": 242,
+              "book": "LowVig.ag"
+            }
+          },
+          "spreads": {
+            "away": {
+              "point": 0,
+              "price": 103,
+              "book": "LowVig.ag"
+            },
+            "home": {
+              "point": 0,
+              "price": -122,
+              "book": "Bovada"
+            }
+          },
+          "totals": {
+            "over": {
+              "point": 2.5,
+              "price": -108,
+              "book": "LowVig.ag"
+            },
+            "under": {
+              "point": 2.5,
+              "price": -107,
+              "book": "BetRivers"
+            }
+          }
+        },
+        "awayTeam": "Brest",
+        "homeTeam": "Le Mans FC"
       }
     },
     {
@@ -6054,14 +6545,14 @@
       "_pendingGrade": true
     }
   ],
-  "updatedAt": "2026-04-23T14:32:00Z",
+  "updatedAt": "2026-08-21T18:45:00Z",
   "highlights": [
     {
       "league": "NBA",
       "title": "Arriving in style all season long! 📸",
       "videoId": "kMYgy0-GZ5o",
       "thumbnail": "https://img.youtube.com/vi/kMYgy0-GZ5o/mqdefault.jpg",
-      "timeAgo": "12h ago",
+      "timeAgo": "16h ago",
       "isFallback": false
     },
     {
@@ -6069,15 +6560,15 @@
       "title": "Nick Chubb is officially retired from the NFL after 8 seasons (via zach.chubb/IG)",
       "videoId": "a3gsm1dk_IM",
       "thumbnail": "https://img.youtube.com/vi/a3gsm1dk_IM/mqdefault.jpg",
-      "timeAgo": "4h ago",
+      "timeAgo": "8h ago",
       "isFallback": false
     },
     {
       "league": "MLB",
-      "title": "Dinesh Patel: The Million Dollar Story | MLB India Special",
-      "videoId": "1D9x58ITJvI",
-      "thumbnail": "https://img.youtube.com/vi/1D9x58ITJvI/mqdefault.jpg",
-      "timeAgo": "1h ago",
+      "title": "White Sox mash FOUR HOMERS to come back and WALK IT OFF &amp; the BEST MLB Highlights from 8/21/26!",
+      "videoId": "MLEJ1DKwpAc",
+      "thumbnail": "https://img.youtube.com/vi/MLEJ1DKwpAc/mqdefault.jpg",
+      "timeAgo": "Just now",
       "isFallback": false
     },
     {
@@ -6085,7 +6576,7 @@
       "title": "3ICE Hockey Championship - Philadelphia vs. Boston &amp; Iowa vs. Buffalo",
       "videoId": "3HGq2gDr3Qc",
       "thumbnail": "https://img.youtube.com/vi/3HGq2gDr3Qc/mqdefault.jpg",
-      "timeAgo": "3h ago",
+      "timeAgo": "7h ago",
       "isFallback": false
     },
     {
@@ -6093,7 +6584,7 @@
       "title": "Portland Fire vs. Toronto Tempo | FULL GAME HIGHLIGHTS | August 21, 2026",
       "videoId": "ABjkDMZhoCw",
       "thumbnail": "https://img.youtube.com/vi/ABjkDMZhoCw/mqdefault.jpg",
-      "timeAgo": "3h ago",
+      "timeAgo": "6h ago",
       "isFallback": false
     },
     {
@@ -6101,11 +6592,27 @@
       "title": "Arsenal's title defense BEGINS 👀 Updates in EPL, LALIGA + Argentina's FIFA bans announced | ESPN FC",
       "videoId": "M7w-APIhutA",
       "thumbnail": "https://img.youtube.com/vi/M7w-APIhutA/mqdefault.jpg",
-      "timeAgo": "7h ago",
+      "timeAgo": "11h ago",
       "isFallback": false
     }
   ],
   "reels": [
+    {
+      "league": "MLB",
+      "title": "White Sox mash FOUR HOMERS to come back and WALK IT OFF &amp; the BEST MLB Highlights from 8/21/26!",
+      "videoId": "MLEJ1DKwpAc",
+      "author": "MLB",
+      "pubDate": "2026-08-22T11:00:40+00:00",
+      "link": "https://www.youtube.com/watch?v=MLEJ1DKwpAc"
+    },
+    {
+      "league": "MLB",
+      "title": "Highlights from ALL GAMES on 8/21 (Jacob Misiorowski &amp; Chris Sale deal, SIX walk-off wins &amp; MORE!)",
+      "videoId": "bFqZsW2cDSM",
+      "author": "MLB",
+      "pubDate": "2026-08-22T10:00:10+00:00",
+      "link": "https://www.youtube.com/watch?v=bFqZsW2cDSM"
+    },
     {
       "league": "MLB",
       "title": "Dinesh Patel: The Million Dollar Story | MLB India Special",
@@ -6155,28 +6662,12 @@
       "link": "https://www.youtube.com/watch?v=SFyUQt9a6yQ"
     },
     {
-      "league": "MLB",
-      "title": "Yoshinobu Yamamoto strikes out 9 BATTERS during a QUALITY START for the Dodgers! 🔥😮‍💨",
-      "videoId": "ZAphjCMDxyU",
-      "author": "MLB",
-      "pubDate": "2026-08-22T04:47:29+00:00",
-      "link": "https://www.youtube.com/watch?v=ZAphjCMDxyU"
-    },
-    {
       "league": "WNBA",
       "title": "Portland Fire vs. Toronto Tempo | FULL GAME HIGHLIGHTS | August 21, 2026",
       "videoId": "ABjkDMZhoCw",
       "author": "WNBA",
       "pubDate": "2026-08-22T04:43:53+00:00",
       "link": "https://www.youtube.com/watch?v=ABjkDMZhoCw"
-    },
-    {
-      "league": "MLB",
-      "title": "Yoshinobu Yamamoto strikes out 9 at Dodger Stadium 🔥",
-      "videoId": "z2S4c7RnuvI",
-      "author": "MLB",
-      "pubDate": "2026-08-22T04:40:08+00:00",
-      "link": "https://www.youtube.com/watch?v=z2S4c7RnuvI"
     },
     {
       "league": "NHL",
