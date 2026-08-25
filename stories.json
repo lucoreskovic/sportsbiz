@@ -1,73 +1,81 @@
 {
   "clusters": [
     {
-      "category": "leagues",
-      "importance": 9,
-      "leadHeadline": "Angel Reese breaks two WNBA rebounding records in one night during Dream win",
-      "leadSource": "The Guardian · 4h ago",
-      "leadUrl": "https://www.theguardian.com/sport/2026/aug/25/angel-reese-breaks-two-wnba-rebounding-records-in-one-night-during-dream-win",
-      "summary": "<cite index=\"1-5\">Angel Reese broke the WNBA single-game rebounding record with 26 while also breaking the league's season record for rebounds as the Atlanta Dream beat the Los Angeles Sparks 78-71 on Monday night.</cite>",
-      "article": "<cite index=\"1-5\">Angel Reese broke the WNBA single-game rebounding record with 26 rebounds while also breaking the league's season record as the Atlanta Dream beat the Los Angeles Sparks 78-71 on Monday night.</cite>\n\n<cite index=\"1-6\">Reese surpassed Chamique Holdsclaw's record of 24 rebounds, set on May 23, 2003 for Washington.</cite> <cite index=\"1-8\">The Dream star has 458 rebounds this season, seven more than A'ja Wilson's mark set in 2024.</cite>\n\n<cite index=\"1-9\">Reese finished with 11 points.</cite> <cite index=\"1-10\">She secured her WNBA-leading 27th double-double of the season on a basket with 13.9 seconds left in the game.</cite> <cite index=\"5-7\">The record night came on the heels of Reese scoring a career-high 31 points in Atlanta's win at Phoenix on Saturday.</cite>\n\n<cite index=\"5-3,5-4\">\"Last time I was here, I didn't miss any shots. Tonight, I couldn't hit s---, so I knew I was going be able to get them on the rebounding side,\" Reese said on the postgame show on Peacock.</cite> <cite index=\"5-5,5-6\">\"I just want to be consistent for my team. Offensively, defensively, whatever it takes to win.\"</cite>\n\n<cite index=\"5-8\">With their win Monday, the playoff-bound Dream completed a 4-0 West Coast trip and are 25-13.</cite>",
-      "tweets": []
-    },
-    {
-      "category": "contracts",
-      "importance": 8,
-      "leadHeadline": "Big Ten to pass rule barring NFL players from returning to conference: Could this decision backfire?",
-      "leadSource": "CBS Sports · just now",
-      "leadUrl": "https://www.cbssports.com/college-football/news/big-ten-eligibility-nfl-players/",
-      "summary": "The Big Ten is enacting a rule to prevent NFL players from returning to conference rosters, a hard-line stance that could reshape eligibility rules and complicate player development pathways.",
-      "article": "The Big Ten is moving to bar NFL players from returning to its conference, a rule change that marks a dramatic hardening of eligibility standards. The decision comes as college football increasingly blurs with the professional game, following recent instances like tight end Dae'Quan Wright's coordinated waiver from the Cleveland Browns and subsequent signing with LSU, executed with input from both the NFL team and his agents. Wright's transaction, which occurred over the weekend, represented a milestone in what observers have called the fading line between college and pro football. The Big Ten's new rule attempts to reassert that boundary. The measure could backfire by limiting player development flexibility and complicating the NIL-era landscape where athletes have pursued multiple revenue streams and competitive opportunities. It also raises legal questions about athlete mobility and compensation structures. The rule stands to affect how conferences manage rosters and how NFL teams view college programs as talent pipelines.",
-      "tweets": []
-    },
-    {
-      "category": "contracts",
+      "category": "labor",
       "importance": 7,
-      "leadHeadline": "2026 college football predictions: James Franklin, Virginia Tech will stun the ACC",
-      "leadSource": "NY Post Sports · 1h ago",
-      "leadUrl": "https://nypost.com/2026/08/25/betting/2026-college-football-predictions-james-franklin-virginia-tech-will-stun-the-acc/",
-      "summary": "Oddsmakers are viewing Miami as the ACC favorite heading into the 2026 season, with bookies setting up a scenario where one team stands apart from the field.",
-      "article": "The betting market is painting Miami as the ACC's clear favorite heading into the 2026 college football season, a setup that positions all other conference programs as underdogs competing for a spot in the playoff conversation. The odds reflect a widening separation between the Hurricanes and the rest of the ACC field, creating a scenario where teams like Virginia Tech and James Franklin's program at Penn State (if the latter were in the conference, which it isn't, though prognosticators may be weighing similar upstart narratives) are positioned to surprise. The prediction market signals confidence in Miami's roster construction and coaching stability, while opening the door for value plays in the conference. This positioning matters for media rights holders and sportsbook operators tracking betting trends as conferences negotiate their next media deals. The Big Ten's rule changes regarding returning NFL players could also reshape how ACC rosters develop over the coming seasons, particularly if defections or eligibility complications arise.",
+      "leadHeadline": "Power Conference Bans of Former Pros Would Likely Spark Lawsuits",
+      "leadSource": "Sportico · 1h ago",
+      "leadUrl": "https://www.sportico.com/law/analysis/2026/power-conferences-eligiblity-legal-implications-1234942853/",
+      "summary": "Big Ten became first Power Four conference to ban former NFL players from returning to college. Ban followed cases like Browns tight end Dae'Quan Wright attempting to rejoin LSU.",
+      "article": "The Big Ten approved a ban Tuesday barring any player who declared for the NFL Draft, appeared on an NFL roster, or signed a pro contract from competing in the conference. The move comes after high-profile cases threatened roster stability late in the offseason. Cleveland Browns tight end Dae'Quan Wright and Saints defensive lineman Zxavian Harris both pursued NCAA eligibility waivers to play for LSU just two weeks before the 2026 season. Ohio State coach Ryan Day said Monday the late roster movement was \"frustrating at the very least.\" The ACC and Big 12 are considering similar rules, potentially aligning all Power Four conferences on the issue. The SEC issued a statement Monday arguing that \"individuals who choose to leave college athletics, sign professional playing contracts, and compete professionally should not then be permitted to return to college competition.\" A Louisiana court earlier this month granted 16 former players eligibility to return, spurring the conference actions. Legal scholars anticipate antitrust challenges. NCAA antitrust litigation has accelerated since the 2021 Supreme Court decision in NCAA v. Alston, which struck down restrictions on education-related benefits. No lawsuits targeting the pro-player ban have been filed yet, but the novel restraint on player eligibility may face Sherman Act scrutiny.",
+      "tweets": [
+        {
+          "url": "https://twitter.com/PeteThamel/status/2092243505640767948",
+          "html": "<blockquote class=\"twitter-tweet\" data-dnt=\"true\" data-theme=\"dark\"><p>Sources: The Big Ten is set to pass a rule today that doesn’t allow players to return from the NFL and play for a Big Ten school. Anyone who has declared for the NFL Draft and did not withdraw, appeared on an NFL roster or signed a contract with a pro league cannot be on a Big</p>&mdash; Pete Thamel (@PeteThamel) <a href=\"https://twitter.com/PeteThamel/status/2092243505640767948\">August 25, 2026</a></blockquote>",
+          "author_name": "Pete Thamel",
+          "author_url": "https://twitter.com/PeteThamel",
+          "dateMs": 1787664698000
+        }
+      ]
+    },
+    {
+      "category": "labor",
+      "importance": 6,
+      "leadHeadline": "College Football Morphing Into the NFL Has Big Legal Implications",
+      "leadSource": "Sportico · 7h ago",
+      "leadUrl": "https://www.sportico.com/law/analysis/2026/daequan-wright-lsu-cleveland-browns-nfl-1234942774/",
+      "summary": "The Cleveland Browns coordinated with LSU to waive tight end Dae'Quan Wright so he could sign with the Tigers, a transaction that blurs the line between pro and college football and carries legal implications for how athletes are classified. The move signals a shift in how NFL and college teams now operate.",
+      "article": "A milestone in the erosion of barriers between college and professional football occurred over the weekend when the Cleveland Browns and LSU jointly managed the waiver and signing of tight end Dae'Quan Wright. The Browns released Wright specifically so he could join the Tigers, a transaction coordinated between the NFL team, the college program, and Wright's agents.\n\nThe move exemplifies the ongoing collapse of the amateur-professional divide in college football. It raises fresh legal questions about athlete classification, NCAA authority, and whether such coordination creates new regulatory obligations. If the NFL and college programs are now openly managing player transfers between the professional and amateur levels, regulators may argue that college athletes should receive labor protections afforded to pro players, or that the NCAA's amateurism rules no longer hold legal water.\n\nLegal scholars have flagged this trend as potentially significant for future antitrust and labor litigation. Courts examining whether college athletes qualify as employees or independent contractors may cite transactions like Wright's as evidence that the college game now functions as a minor league. The coordination also raises questions about whether such arrangements should trigger disclosure or bargaining requirements under state or federal law. As college programs increasingly behave like professional organizations, the legal framework governing them may follow suit.",
       "tweets": []
     },
     {
-      "category": "media",
+      "category": "leagues",
       "importance": 6,
-      "leadHeadline": "LeBron James continues to go all-in on golf with PGA Tour partnership to launch event for aspiring pro golfers",
-      "leadSource": "CBS Sports · just now",
-      "leadUrl": "https://www.cbssports.com/golf/news/lebron-james-pga-tour-partnership-event-aspiring-pro-golfers/",
-      "summary": "LeBron James is expanding his sports business portfolio with the LeBron James Family Foundation Invitational, a new PGA Tour event debuting July 6-7, 2027, targeting aspiring professional golfers.",
-      "article": "LeBron James is deepening his involvement in professional golf through a new partnership with the PGA Tour. The LeBron James Family Foundation Invitational will launch on July 6 and 7, 2027, providing a competitive platform for aspiring professional golfers while adding another revenue and philanthropic vehicle to James's growing sports business portfolio. The event reflects a broader trend among star athletes leveraging their brands and foundations to create sanctioning opportunities within professional leagues. James's move into golf sponsorship and event creation follows years of visibility in the sport, and it positions his foundation as a direct stakeholder in professional golf development. The tournament will operate under PGA Tour sanction, ensuring it meets professional standards and carries weight in the competitive circuit. For the PGA Tour, the partnership with one of basketball's biggest names represents continued celebrity alignment and media reach expansion. The event will air and stream across PGA Tour platforms and James's own media channels.",
+      "leadHeadline": "Ukrainian star leaves LSU women's basketball team after signing of Russian recruit",
+      "leadSource": "The Guardian · 4h ago",
+      "leadUrl": "https://www.theguardian.com/sport/2026/aug/25/lsu-kate-koval-kim-mulkey-ukraine-russia",
+      "summary": "LSU center Kate Koval, a Ukrainian, departed the Tigers less than two weeks after coach Kim Mulkey brought Russian player Anna Minaeva onto the roster. Mulkey had hoped the two could serve as ambassadors for peace.",
+      "article": "Ukrainian basketball center Kate Koval has left LSU after one season with the Tigers, departing just days after the program signed Russian player Anna Minaeva. Coach Kim Mulkey announced Koval's departure Monday night.\n\nMultikey had publicly stated that she hoped Koval and Minaeva could function as \"ambassadors for peace,\" framing the recruitment of a Russian player during an ongoing war as an opportunity for dialogue and reconciliation. Minaeva joined the team earlier this month.\n\nKoval's exit raises questions about whether Mulkey's diplomatic vision was realistic given the geopolitical tensions between Ukraine and Russia. Koval's departure after less than two weeks suggests that the two-player peace initiative did not materialize as conceived. The situation highlights the complexities of international recruitment in college sports, especially when players hail from nations in active conflict.\n\nLSU did not release a detailed statement on Koval's reasons for leaving, but the timing and circumstances signal that coexistence was untenable for the Ukrainian player. Mulkey's approach to bridge-building through athletics, though well-intentioned, did not survive contact with the realities of war and national allegiance.",
+      "tweets": []
+    },
+    {
+      "category": "contracts",
+      "importance": 5,
+      "leadHeadline": "NHL Moving Closer to Expansion in Thriving Sun Belt Market",
+      "leadSource": "Front Office Sports · 3h ago",
+      "leadUrl": "https://frontofficesports.com/nhl-moving-closer-to-expansion-in-thriving-sun-belt-market/",
+      "summary": "The NHL continues pursuing expansion in the Sun Belt, signaling a 33rd team and possibly a 34th franchise as the league targets growth markets. This represents the league's ongoing geographic diversification strategy.",
+      "article": "The NHL is advancing expansion plans targeting the Sun Belt, with officials working toward securing a 33rd franchise and exploring the viability of a 34th. The league has identified thriving markets in the region that meet expansion criteria: sufficient arena capacity, local ownership interest, and demonstrated hockey appetite.\n\nExpansion represents a major revenue play for the league. Each new franchise typically pays an expansion fee exceeding $600 million, and teams generate immediate media-rights value and merchandise revenue. The Sun Belt focus reflects the NHL's long-standing strategy to move into non-traditional hockey markets and capture growing population centers in the American South and Southwest.\n\nPrior expansion into Las Vegas and Seattle proved successful both on-ice and financially. A Sun Belt push would extend that model further. The league remains bullish on growth despite existing challenges in some legacy markets. Expansion franchises also receive favorable draft positioning and player allocation rules designed to help them compete quickly, reducing the risk of early mediocrity.\n\nNo formal announcement has been made and no specific market has been named. League officials are likely conducting due diligence with potential ownership groups and local governments. Expansion could be announced within the next two to three years.",
       "tweets": []
     },
     {
       "category": "revenue",
-      "importance": 6,
-      "leadHeadline": "Padres Will 'Live Within Our Means,' New Owners Say",
-      "leadSource": "Front Office Sports · 1h ago",
-      "leadUrl": "https://frontofficesports.com/padres-will-live-within-our-means-new-owners-say/",
-      "summary": "New Padres ownership is signaling fiscal discipline, with the club ranking seventh in luxury tax payroll as they communicate a measured spending philosophy.",
-      "article": "The Padres' new ownership group is staking out a position of financial restraint, signaling to the market that franchise spending will be calibrated against revenue capacity. The club currently ranks seventh in the National League in luxury tax payroll, a standing that reflects either existing constraints or a deliberate choice to operate below maximum competitive thresholds. The public messaging around living within means matters for player recruitment, as free agents and trade candidates assess organizational stability and long-term payroll commitment. For Padres fans expecting aggressive offseason moves, the new ownership's rhetoric suggests that era may have concluded. The franchise operates in a mid-market context competing against better-capitalized teams like the Dodgers and Giants. This discipline could position the club for sustainable long-term operations but may also limit short-window competitive windows.",
-      "tweets": []
-    },
-    {
-      "category": "leagues",
       "importance": 5,
-      "leadHeadline": "Chicago Stars Will Return to Northwestern Lakeside Stadium Next Year",
-      "leadSource": "Front Office Sports · just now",
-      "leadUrl": "https://frontofficesports.com/nwsl-chicago-stars-northwestern-lakeside/",
-      "summary": "The NWSL's Chicago Stars will play at Northwestern's Lakeside Stadium in 2027 after initially pursuing the new Ryan Field for their home venue.",
-      "article": "The Chicago Stars will play home matches at Northwestern's Lakeside Stadium beginning next season, concluding a venue search that had targeted the university's newly renovated Ryan Field. The move provides the NWSL expansion club with a confirmed home ground while allowing Northwestern to generate additional revenue through the partnership. The stadium solution matters for the league's effort to establish stable, professional-grade venues across its expanding footprint. Chicago's women's soccer market remains underpenetrated compared to its professional basketball and football presence, and a university partnership offers immediate infrastructure while the Stars build fan base and commercial relationships. Lakeside Stadium operates at college capacity, which will constrain revenue until the club develops sufficient demand to explore larger venues or dedicated facilities. The choice reflects a pragmatic compromise between the Stars' need for immediate availability and Northwestern's willingness to host a professional tenant.",
+      "leadHeadline": "Sneaker Industry Faces 'Hangover' as Dick's Shares Drop 27%",
+      "leadSource": "Sportico · 2h ago",
+      "leadUrl": "https://www.sportico.com/business/commerce/2026/sneaker-industry-hangover-dicks-nike-adidas-1234942838/",
+      "summary": "Dick's Sporting Goods stock plunged 27% as the sneaker industry faces a retail crisis, with Nike, Adidas, Under Armour, and On all reporting consumer hesitancy over full-price shoe purchases. The downturn signals broader weakness in athletic footwear demand.",
+      "article": "The sneaker industry is in sharp decline. Dick's Sporting Goods, one of the largest U.S. athletic retailers, saw its stock drop 27% as the chairman acknowledged a retail environment in crisis. Major shoe brands including Nike, Adidas, Under Armour, and On have all signaled skittishness about consumer demand for premium footwear.\n\nThe common thread: consumers are unwilling or unable to pay full price for athletic shoes. Foot traffic at retail locations remains soft, and brands are increasingly reliant on discounting to move inventory. This marks a sharp reversal from the pandemic-era sneaker boom, when demand outpaced supply and brands commanded premium pricing.\n\nNike, the category leader, has faced particular pressure as consumers trade down to lower-priced alternatives or delay purchases. Under Armour and On, which both pursued aggressive growth strategies in the sneaker category, are now pulling back. Adidas is managing inventory levels after years of overproduction.\n\nRetailers like Dick's are caught in the middle, holding excess inventory from brands expecting higher velocity. The inventory glut is forcing deeper markdowns, compressing margins across the board. Industry analysts expect the hangover to persist through 2026 unless brands successfully launch compelling new products or tap into emerging consumer segments like Gen Z casual wear. For now, the era of $150-plus sneaker pricing is in retreat.",
       "tweets": []
     },
     {
       "category": "media",
       "importance": 4,
-      "leadHeadline": "All the best Savinho - welcome Savio... new club, new name for Spurs signing",
-      "leadSource": "BBC Sport · 2h ago",
-      "leadUrl": "https://www.bbc.co.uk/sport/football/articles/cy7z637nj8jo?at_medium=RSS&amp;at_campaign=rss",
-      "summary": "Tottenham signed Brazil winger Savinho from Manchester City for an initial £75 million, with the player reverting to his given name Savio at the club.",
-      "article": "Tottenham completed the signing of Brazil winger Savinho from Manchester City for an initial £75 million, adding to the club's attacking depth while obtaining a player with established Premier League experience. The deal includes the player reverting to his given name, Savio, marking a fresh chapter at Spurs. Savinho's acquisition represents one of the summer's larger outfield transfers in the Premier League and signals Tottenham's commitment to strengthening their attacking options. Manchester City's willingness to move the player suggests squad rotation priorities at the reigning champions, while Spurs view him as an upgrade on their existing winger pool. The transfer illustrates how elite clubs continue to cycle talent within the league, generating commission revenue for agents and contributing to inflated wage structures. Savinho arrives with Champions League experience and familiarity with top-tier tactical systems, reducing his on-pitch adaptation period.",
+      "leadHeadline": "Kalshi Lands 5 MLB Teams as Prediction-Market Boom Continues",
+      "leadSource": "Front Office Sports · 3h ago",
+      "leadUrl": "https://frontofficesports.com/kalshi-lands-5-mlb-teams-prediction-market-boom-continues/",
+      "summary": "Prediction-market platform Kalshi has signed five MLB teams as the sports betting and prediction market industry expands. Other franchises are maintaining distance from the sector.",
+      "article": "Kalshi, a prediction-market platform, has secured partnerships with five MLB teams, accelerating mainstream adoption of prediction markets in professional sports. The deals represent a milestone for an industry that has operated in regulatory gray areas for years and is now gaining institutional acceptance.\n\nPrediction markets allow users to bet on outcomes using a market mechanism rather than traditional sportsbook odds. They differ from conventional sports betting in that prices are set by supply and demand, creating real-time probability signals. Kalshi's deals with five MLB franchises suggest growing interest in monetizing fan engagement through prediction instruments.\n\nOther MLB teams are maintaining distance, citing regulatory uncertainty and concerns about market integrity. The SEC and CFTC continue to debate which regulator has authority over prediction markets, and what exemptions or licenses apply. Some teams worry that heavy promotion of prediction markets could alienate casual fans or invite regulatory scrutiny.\n\nKalshi's momentum reflects a broader trend: major leagues are experimenting with new revenue streams tied to fan betting and prediction. The five team deals are non-exclusive, meaning Kalshi can pursue similar partnerships across other sports and franchises. Success here could accelerate adoption across the NFL, NBA, and NHL, or regulatory action could slow the trend if federal authorities determine that prediction markets cross into illegal gambling.",
+      "tweets": []
+    },
+    {
+      "category": "media",
+      "importance": 3,
+      "leadHeadline": "ESPN Using RedZone Branding for US Open Coverage",
+      "leadSource": "Front Office Sports · 2h ago",
+      "leadUrl": "https://frontofficesports.com/espn-redzone-us-open-coverage/",
+      "summary": "ESPN is adopting RedZone branding for its US Open tennis coverage, though details on the host broadcaster remain unclear. The strategy extends the RedZone model beyond NFL coverage.",
+      "article": "ESPN has announced plans to use RedZone branding for US Open tennis coverage, extending the popular NFL brand into a new sport. RedZone became a flagship product for ESPN during the NFL season, offering quick-cut highlights and live scoring across multiple games. The US Open extension signals ESPN's intent to leverage the RedZone brand as a marquee offering across sports.\n\nIt remains unclear which broadcaster will actually produce and host the RedZone-style tennis coverage. ESPN could produce it internally, partner with a cable sports network, or license the concept to another media company. The ambiguity suggests negotiations are still ongoing or that multiple distribution models are under consideration.\n\nRedZone's success in football has made it a valuable intellectual property. A tennis version would attempt to replicate that model by cutting between multiple matches simultaneously, highlighting key moments and scores in real time. The challenge in tennis is that matches run on different schedules and require sustained watching to appreciate rallies, unlike football's discrete plays.\n\nThe move reflects ESPN's broader strategy of franchising proven on-air concepts and extending them into adjacent sports and programming blocks. Success would require securing broadcast rights to multiple simultaneous US Open matches and developing editorial workflows to manage the highlight-cutting in real time.",
       "tweets": []
     }
   ],
@@ -2391,107 +2399,132 @@
     ],
     "source": "espn"
   },
-  "deals": [
-    {
-      "type": "apparel",
-      "parties": "LeBron James Family Foundation ⇄ PGA Tour",
-      "value_usd": null,
-      "term_years": null,
-      "league": "OTHER",
-      "headline": "LeBron James Foundation launches PGA Tour invitational event July 2027",
-      "storyIndex": 5,
-      "blurb": "The LeBron James Family Foundation Invitational debuts July 6-7, 2027, on the PGA Tour calendar.",
-      "capturedAt": "2026-08-25T15:34:33.289Z"
-    },
-    {
-      "type": "acquisition",
-      "parties": "Tottenham Hotspur ⇄ Manchester City (Savinho transfer)",
-      "value_usd": 93750000,
-      "term_years": null,
-      "league": "SOCCER",
-      "headline": "Tottenham sign Savinho from Manchester City for £75m initial fee",
-      "storyIndex": 12,
-      "blurb": "Brazil winger Savinho transferred to Spurs for initial £75 million, reverting to given name Savio.",
-      "capturedAt": "2026-08-25T15:34:33.289Z"
-    }
-  ],
+  "deals": [],
   "ratings": [],
   "ticket_prices": [],
   "sidebar": [
     {
+      "headline": "Latest NFL injury updates: Ashton Jeanty avoids major injury, other running backs uncertain for Week 1",
+      "source": "CBS Sports · just now",
+      "article": "Running back Ashton Jeanty avoided a major injury in recent days, a significant relief for his team's backfield depth. However, multiple other running backs remain uncertain for Week 1 as teams continue evaluating injuries sustained in training camp and preseason action. The uncertainty extends across the league, with several teams still assessing whether key contributors will be available for season openers. Teams are managing workloads carefully over the final preseason games to avoid further setbacks. Full clarity on availability should emerge by the end of the week as final injury reports are filed."
+    },
+    {
+      "headline": "Blue Jays place Shane Bieber on 15-day injured list, recall Chad Dallas",
+      "source": "Sportsnet · 1h ago",
+      "article": "The Toronto Blue Jays placed pitcher Shane Bieber on the 15-day injured list and recalled Chad Dallas in a move that signals ongoing pitching instability for the franchise. Bieber's absence creates a significant hole in the rotation at a critical juncture of the season. Dallas, recalled to fill the void, brings limited track record at the major-league level. The Blue Jays' pitching plans have been in flux all season, with multiple roster moves reflecting injury management and performance concerns. Dallas will need to prove he can handle major-league hitters in a high-pressure situation. The team's ability to stay competitive depends heavily on whether Bieber can return healthy and whether Dallas can contribute meaningfully in the interim."
+    },
+    {
+      "headline": "Calvin Austin carted off with potentially major knee injury that brought Giants practice to a halt",
+      "source": "NY Post Sports · just now",
+      "article": "Wide receiver Calvin Austin was carted off the field during New York Giants practice after suffering what appeared to be a potentially serious knee injury. The incident halted all drills as players and coaches recognized the severity of the moment. Austin was evaluated on the sideline before being transported from the field. The injury brings immediate concern to the Giants' receiving corps, which was already navigating depth questions heading into the season. Austin's status for Week 1 remains unclear pending further medical evaluation. The Giants will provide an update once imaging is completed. The locker room responded with visible concern, signaling that teammates recognize Austin as a key contributor to the offense."
+    },
+    {
       "headline": "Root 'hacked off' and 'disappointed' at Carse incident",
-      "source": "BBC Sport · 2h ago",
-      "article": "England captain Joe Root expressed frustration over fast bowler Brydon Carse's involvement in an incident at a Derby nightclub, using direct language to signal the team's displeasure. Root's public criticism underscores the England and Wales Cricket Board's zero-tolerance stance on off-field conduct that could damage the team's reputation or distract from performance. Carse remains a key part of England's bowling attack for upcoming international matches. The incident adds pressure on the player to demonstrate professionalism and commitment to team standards. Root's willingness to speak publicly suggests the matter warranted clear messaging from leadership."
+      "source": "BBC Sport · 6h ago",
+      "article": "England captain Joe Root expressed frustration and disappointment regarding an incident involving fast bowler Brydon Carse at a Derby nightclub. Root's comments suggest team leadership is taking the matter seriously despite the minimal details released publicly. Carse's status for upcoming England matches remains under review pending a formal investigation. The incident comes at a sensitive time for the England team, which has emphasized player conduct and professionalism. Root's willingness to publicly address the issue signals that the cricket board and squad leadership will not tolerate off-field misconduct. Further action could follow depending on the investigation's findings and ECB guidelines around player conduct."
     },
     {
-      "headline": "Luka Dončić looks like a superstar adrift at the Lakers",
-      "source": "The Guardian · 7h ago",
-      "article": "Luka Dončić has been navigating personal and professional turmoil in recent months. The Slovenian star announced his separation from his fiancee in March and has since been reported to be involved in a prolonged custody battle over their two daughters. On the court, these off-floor distractions have coincided with the Lakers' own inconsistencies, creating a scenario where one of the planet's best players finds himself trapped in a slog. His individual brilliance remains, but context has clouded the narrative around his season."
+      "headline": "Man Utd's midfield spending is done, now for a left-back?",
+      "source": "BBC Sport · 3h ago",
+      "article": "Manchester United has committed 155 million pounds to three midfield signings this transfer window and is now evaluating whether to pursue a left-back addition. The club has been linked with multiple defensive targets as Erik ten Hag seeks to address depth concerns. United's midfield overhaul has consumed a significant portion of the summer budget, potentially limiting what remains available for defensive reinforcements. A left-back signing would signal a shift in priority as the window enters its final weeks. The club must balance attacking midfield quality against defensive solidity if it hopes to compete for the Premier League title. Negotiations with potential targets are reportedly ongoing, though no deal is imminent."
     },
     {
-      "headline": "How Blue Jays Okamoto can find more consistency at the dish going forward",
-      "source": "Sportsnet · just now",
-      "article": "Kazuma Okamoto's first MLB season has been marked by inconsistency at the plate, a pattern that reflects the difficulty of adjusting to elite pitching in the majors. Blue Jays commentator Joe Siddall examined the young player's struggles and the lifestyle adaptation required to compete in professional baseball at the highest level. Okamoto has shown flashes of competence but lacks the consistency needed to establish himself as a reliable everyday presence. The challenge now is mechanical refinement and pitch recognition against the league's most accomplished arms."
-    },
-    {
-      "headline": "X-factors Blue Jays are relying on for wild-card push",
-      "source": "Sportsnet · 2h ago",
-      "article": "As Toronto pushes toward the postseason, several role players and situational contributors will determine whether the Blue Jays secure a wild-card spot or fall short. Ian Finlayson identified the team's key dependencies on bench depth, bullpen availability, and timely hitting from non-core players. The Blue Jays' path to October runs through injuries to star players and the performance of secondary contributors. Middle-relief arms and pinch-hitting options will carry disproportionate weight down the final weeks."
-    },
-    {
-      "headline": "Coalition for Prediction Markets Seeks California Influence",
-      "source": "Sportico · 12h ago",
-      "article": "Prediction market companies are facing mounting regulatory pressure across the U.S., prompting a newly formed trade coalition to invest in state and federal lobbying. The Coalition for Prediction Markets, founded in December 2025, has begun spending on lobbyists to counter opposition from rival trade groups and regulatory agencies. California is a primary battleground, given its outsized influence on tech and financial regulation. The industry's ability to establish favorable regulatory frameworks will determine its long-term viability in the U.S."
-    },
-    {
-      "headline": "Andy Reid not ready for Patrick Mahomes Week 1 decision",
-      "source": "NY Post Sports · 1h ago",
-      "article": "Patrick Mahomes tore his ACL on December 14 and remains in rehabilitation as the Kansas City Chiefs approach the 2026 season. Coach Andy Reid has not committed to a timeline for the quarterback's return, leaving Week 1 status uncertain. The absence of Mahomes for any portion of the season would force the Chiefs into contingency planning at the most critical position. Reid's caution reflects both the severity of ACL recovery and the importance of full health before deploying the league's most valuable player."
+      "headline": "NHL Rumour Roundup: Where do contract talks stand for Hughes, Makar?",
+      "source": "Sportsnet · 1h ago",
+      "article": "Contract extension negotiations between the Minnesota Wild and Quinn Hughes, as well as talks between the Colorado Avalanche and Cale Makar, remain unresolved heading into the final stretch of the offseason. Both players represent elite talent commanding top-dollar compensation, and teams must balance long-term salary-cap implications against the risk of losing franchise cornerstones. Friedman's reporting on the 32 Thoughts podcast indicated no imminent breakthroughs in either case. Hughes and Makar are among the league's most coveted defensemen, and their next deals will likely set market benchmarks for their position. Teams appear willing to let talks extend into the season if necessary rather than overpay to close the gap quickly. Resolution of these negotiations could reshape the competitive landscape if either player is traded or if extensions finally materialize."
     }
   ],
   "poll": {
-    "question": "Which team will represent the ACC in the 2026 College Football Playoff?",
+    "question": "Which represents the bigger threat to college football's traditional model?",
     "options": [
-      "Miami Hurricanes",
-      "Virginia Tech",
-      "Clemson Tigers",
-      "Another ACC team or none"
+      "Power conferences banning former NFL players from returning",
+      "NFL teams coordinating with college programs to manage player movement",
+      "The blurring of professional and amateur athlete classifications",
+      "State legal challenges to conference transfer rules"
     ]
   },
   "predictions": [
     {
-      "statement": "The Big Ten's rule barring NFL players from returning will face a legal challenge within 18 months on grounds of player mobility and antitrust law.",
-      "probability": 72,
-      "rationale": "The precedent set by Dae'Quan Wright's lawsuit, which allowed him to return to college, established that blanket restrictions on player movement face constitutional scrutiny. A conference-wide ban is broader and more defensible than individual team action, but likely still vulnerable."
+      "statement": "The Power Four conference ban on former professional players will be blocked by federal court within 18 months.",
+      "probability": 68,
+      "rationale": "Antitrust law strongly disfavors blanket restrictions on labor mobility without procompetitive justification. Unless conferences can prove the ban prevents specific harms like roster destabilization, courts will likely view it as an unreasonable restraint. Player advocacy groups and state AGs have signaled legal action."
     },
     {
-      "statement": "Patrick Mahomes will miss at least two regular-season games in 2026 due to ACL recovery extension.",
-      "probability": 58,
-      "rationale": "ACL recovery typically runs 6-9 months for full clearance. Mahomes tore his ACL December 14, putting him 7-8 months out by September. Reid's cautious public messaging and the Chiefs' defensive depth suggest conservative management is more probable than rushing him back."
+      "statement": "NFL-college coordination on player waivers (like the Browns-LSU-Wright transaction) becomes normalized within two seasons.",
+      "probability": 55,
+      "rationale": "The Wright transaction proved logistically feasible and appeared to benefit all parties. As the boundary between college and pro erodes further, similar arrangements will multiply. Expect regulatory pushback, but teams will test the limits of what the NCAA and NFL permit before formal rules clarify."
     },
     {
-      "statement": "The Padres will exceed their stated payroll commitment and sign at least one player over $15 million annually before 2027.",
-      "probability": 45,
-      "rationale": "New ownership often signals discipline publicly while competing immediately. San Diego's mid-market position and the Dodgers' dominance in the division create pressure to invest. Fiscal messaging can shift once the season starts and playoff urgency sets in."
+      "statement": "Sneaker industry discounting reaches 40%+ for major brands by holiday 2026.",
+      "probability": 62,
+      "rationale": "Dick's 27% stock drop and widespread inventory glut signal a structural shift away from full-price footwear. Brands are already leaning on promotions; holiday season will force deeper discounts to clear stock. Consumer price sensitivity suggests the full-price era has passed."
     },
     {
-      "statement": "Luka Dončić will be traded or request a trade before the 2027 NBA season begins.",
-      "probability": 22,
-      "rationale": "While personal issues have created a difficult backdrop, Dončić remains under contract and the Lakers are not a franchise to panic-trade superstars absent explicit demands. His individual brilliance is not in doubt. However, if Lakers miss the playoffs badly this year, roster pressure could mount."
+      "statement": "An NHL Sun Belt expansion team is formally announced by Q2 2027.",
+      "probability": 48,
+      "rationale": "The league continues making earnest expansion efforts, but regulatory hurdles, ownership complexity, and arena logistics delay timelines. Announcements typically follow 18-24 months of due diligence. Current trajectory suggests late 2026 to mid-2027 announcement, though slippage is common."
     }
   ],
   "injuries": [
     {
-      "player": "Patrick Mahomes",
-      "team": "Kansas City Chiefs",
+      "player": "Ashton Jeanty",
+      "team": "TBD",
       "league": "NFL",
-      "position": "QB",
-      "status": "DAY_TO_DAY",
-      "injury": "ACL tear",
-      "timeline": "Uncertain for Week 1",
+      "position": "RB",
+      "status": "RETURNING",
+      "injury": "Unspecified (avoided major injury)",
+      "timeline": "Expected to be available Week 1",
+      "source": "CBS Sports",
+      "impact": "Avoided serious injury; backfield depth remains intact for Week 1 rosters.",
+      "storyIndex": 5
+    },
+    {
+      "player": "Shane Bieber",
+      "team": "Toronto Blue Jays",
+      "league": "MLB",
+      "position": "SP",
+      "status": "IR",
+      "injury": "Unspecified (injured list placement)",
+      "timeline": "15 days minimum",
+      "source": "Sportsnet",
+      "impact": "Major gap in rotation; Chad Dallas recalled to fill void; pitching plans remain in flux.",
+      "storyIndex": 6
+    },
+    {
+      "player": "Calvin Austin",
+      "team": "New York Giants",
+      "league": "NFL",
+      "position": "WR",
+      "status": "OUT",
+      "injury": "Knee (potentially major)",
+      "timeline": "Out for Week 1 pending evaluation; further imaging required",
       "source": "NY Post Sports",
-      "impact": "Week 1 status remains unclear; Chiefs may need contingency QB plan if Mahomes is not cleared by season opener.",
+      "impact": "Receiving corps depth tested; status unclear pending MRI results; wide receiver rotations reshuffled.",
       "storyIndex": 17
+    },
+    {
+      "player": "Brydon Carse",
+      "team": "England",
+      "league": "CRICKET",
+      "position": "FP",
+      "status": "QUESTIONABLE",
+      "injury": "Incident-related (under investigation)",
+      "timeline": "Status uncertain pending ECB investigation",
+      "source": "BBC Sport",
+      "impact": "Fast bowler availability for upcoming England matches in doubt; team discipline focus intensified.",
+      "storyIndex": 12
+    },
+    {
+      "player": "Shaedon Sharpe",
+      "team": "Canada Men's Basketball National Team",
+      "league": "OTHER",
+      "position": "G",
+      "status": "OUT",
+      "injury": "Injury (unspecified)",
+      "timeline": "Out for FIBA World Cup qualifier rounds",
+      "source": "Sportsnet",
+      "impact": "Canada's roster depth reduced in FIBA World Cup qualifiers; Rowan Barrett addressed absence in roster announcement.",
+      "storyIndex": null
     }
   ],
   "picks": [
@@ -2551,6 +2584,114 @@
         "commenceTime": "2026-08-25T19:00:00Z"
       },
       "_scheduledTs": 1787684400000
+    },
+    {
+      "type": "moneyline",
+      "pick": "Washington Nationals ML",
+      "odds": "-145",
+      "edge": "Market fill from live lines: Washington Nationals is the books' favorite at -145 (best price @ BetOnline.ag) against Colorado Rockies at +138, with home ice/court/field behind them. No researched edge here — this is a low-confidence market-consensus play added to round out the slate. Low confidence is honest confidence.",
+      "matchup": "Colorado Rockies @ Washington Nationals",
+      "league": "MLB",
+      "when": "Today 6:46 PM ET",
+      "confidence": "low",
+      "_autofill": true,
+      "_scheduledTs": 1787697960000,
+      "marketSnapshot": {
+        "capturedAt": "2026-08-25T15:35:02.539Z",
+        "markets": {
+          "h2h": {
+            "away": {
+              "price": 138,
+              "book": "BetRivers"
+            },
+            "home": {
+              "price": -145,
+              "book": "BetOnline.ag"
+            },
+            "draw": null
+          },
+          "spreads": {
+            "away": {
+              "point": 1.5,
+              "price": -152,
+              "book": "BetRivers"
+            },
+            "home": {
+              "point": -1.5,
+              "price": 150,
+              "book": "Bovada"
+            }
+          },
+          "totals": {
+            "over": {
+              "point": 8.5,
+              "price": -102,
+              "book": "LowVig.ag"
+            },
+            "under": {
+              "point": 8.5,
+              "price": -113,
+              "book": "LowVig.ag"
+            }
+          }
+        },
+        "awayTeam": "Colorado Rockies",
+        "homeTeam": "Washington Nationals"
+      }
+    },
+    {
+      "type": "moneyline",
+      "pick": "New York Yankees ML",
+      "odds": "-138",
+      "edge": "Market fill from live lines: New York Yankees is the books' favorite at -138 (best price @ FanDuel) against Houston Astros at +131, with home ice/court/field behind them. No researched edge here — this is a low-confidence market-consensus play added to round out the slate. Low confidence is honest confidence.",
+      "matchup": "Houston Astros @ New York Yankees",
+      "league": "MLB",
+      "when": "Today 7:06 PM ET",
+      "confidence": "low",
+      "_autofill": true,
+      "_scheduledTs": 1787699160000,
+      "marketSnapshot": {
+        "capturedAt": "2026-08-25T15:35:02.540Z",
+        "markets": {
+          "h2h": {
+            "away": {
+              "price": 131,
+              "book": "DraftKings"
+            },
+            "home": {
+              "price": -138,
+              "book": "FanDuel"
+            },
+            "draw": null
+          },
+          "spreads": {
+            "away": {
+              "point": 1.5,
+              "price": -165,
+              "book": "BetOnline.ag"
+            },
+            "home": {
+              "point": -1.5,
+              "price": 146,
+              "book": "LowVig.ag"
+            }
+          },
+          "totals": {
+            "over": {
+              "point": 8.5,
+              "price": -113,
+              "book": "LowVig.ag"
+            },
+            "under": {
+              "point": 8.5,
+              "price": 102,
+              "book": "FanDuel"
+            }
+          }
+        },
+        "awayTeam": "Houston Astros",
+        "homeTeam": "New York Yankees"
+      }
     },
     {
       "type": "moneyline",
@@ -6208,156 +6349,48 @@
         "homeTeam": "Switzerland"
       },
       "_pendingGrade": true
-    },
-    {
-      "type": "moneyline",
-      "pick": "Washington Nationals ML",
-      "odds": "-145",
-      "edge": "Market fill from live lines: Washington Nationals is the books' favorite at -145 (best price @ BetOnline.ag) against Colorado Rockies at +138, with home ice/court/field behind them. No researched edge here — this is a low-confidence market-consensus play added to round out the slate. Low confidence is honest confidence.",
-      "matchup": "Colorado Rockies @ Washington Nationals",
-      "league": "MLB",
-      "when": "Today 6:46 PM ET",
-      "confidence": "low",
-      "_autofill": true,
-      "_scheduledTs": 1787697960000,
-      "marketSnapshot": {
-        "capturedAt": "2026-08-25T15:35:02.539Z",
-        "markets": {
-          "h2h": {
-            "away": {
-              "price": 138,
-              "book": "BetRivers"
-            },
-            "home": {
-              "price": -145,
-              "book": "BetOnline.ag"
-            },
-            "draw": null
-          },
-          "spreads": {
-            "away": {
-              "point": 1.5,
-              "price": -152,
-              "book": "BetRivers"
-            },
-            "home": {
-              "point": -1.5,
-              "price": 150,
-              "book": "Bovada"
-            }
-          },
-          "totals": {
-            "over": {
-              "point": 8.5,
-              "price": -102,
-              "book": "LowVig.ag"
-            },
-            "under": {
-              "point": 8.5,
-              "price": -113,
-              "book": "LowVig.ag"
-            }
-          }
-        },
-        "awayTeam": "Colorado Rockies",
-        "homeTeam": "Washington Nationals"
-      }
-    },
-    {
-      "type": "moneyline",
-      "pick": "New York Yankees ML",
-      "odds": "-138",
-      "edge": "Market fill from live lines: New York Yankees is the books' favorite at -138 (best price @ FanDuel) against Houston Astros at +131, with home ice/court/field behind them. No researched edge here — this is a low-confidence market-consensus play added to round out the slate. Low confidence is honest confidence.",
-      "matchup": "Houston Astros @ New York Yankees",
-      "league": "MLB",
-      "when": "Today 7:06 PM ET",
-      "confidence": "low",
-      "_autofill": true,
-      "_scheduledTs": 1787699160000,
-      "marketSnapshot": {
-        "capturedAt": "2026-08-25T15:35:02.540Z",
-        "markets": {
-          "h2h": {
-            "away": {
-              "price": 131,
-              "book": "DraftKings"
-            },
-            "home": {
-              "price": -138,
-              "book": "FanDuel"
-            },
-            "draw": null
-          },
-          "spreads": {
-            "away": {
-              "point": 1.5,
-              "price": -165,
-              "book": "BetOnline.ag"
-            },
-            "home": {
-              "point": -1.5,
-              "price": 146,
-              "book": "LowVig.ag"
-            }
-          },
-          "totals": {
-            "over": {
-              "point": 8.5,
-              "price": -113,
-              "book": "LowVig.ag"
-            },
-            "under": {
-              "point": 8.5,
-              "price": 102,
-              "book": "FanDuel"
-            }
-          }
-        },
-        "awayTeam": "Houston Astros",
-        "homeTeam": "New York Yankees"
-      }
     }
   ],
-  "updatedAt": "2026-04-23T00:00:00Z",
+  "updatedAt": "2026-04-23T18:45:00Z",
   "highlights": [
     {
       "league": "NBA",
-      "title": "Kobe Bryant’s Top 5 Career Plays with Jersey #8",
-      "videoId": "5a4FtVzCtdU",
-      "thumbnail": "https://img.youtube.com/vi/5a4FtVzCtdU/mqdefault.jpg",
-      "timeAgo": "22h ago",
+      "title": "Derik Queen is unbelievable 🤩",
+      "videoId": "BEwx4z04YyE",
+      "thumbnail": "https://img.youtube.com/vi/BEwx4z04YyE/mqdefault.jpg",
+      "timeAgo": "1h ago",
       "isFallback": false
     },
     {
       "league": "NFL",
-      "title": "Shiyazh Pete's speech is what it's all about 🙌",
-      "videoId": "-Diea46Soc8",
-      "thumbnail": "https://img.youtube.com/vi/-Diea46Soc8/mqdefault.jpg",
-      "timeAgo": "Just now",
+      "title": "Is Leonard Moore a TOP FIVE pick in the 2027 NFL Draft?",
+      "videoId": "WJYXWrZUgo4",
+      "thumbnail": "https://img.youtube.com/vi/WJYXWrZUgo4/mqdefault.jpg",
+      "timeAgo": "1h ago",
       "isFallback": false
     },
     {
       "league": "MLB",
-      "title": "Oneil Cruz made this young fan's whole season by tossing a ball to her 🥹 (🎥 NHK)",
-      "videoId": "-x6EFUR8tXM",
-      "thumbnail": "https://img.youtube.com/vi/-x6EFUR8tXM/mqdefault.jpg",
+      "title": "How in the world did José Ramírez's bat wiggle and waggle like that?! 😮",
+      "videoId": "BbQmAgdOxqw",
+      "thumbnail": "https://img.youtube.com/vi/BbQmAgdOxqw/mqdefault.jpg",
       "timeAgo": "1h ago",
       "isFallback": false
     },
     {
       "league": "NHL",
-      "title": "FULL REPLAY: Game 7 Upset | Panthers vs Bruins | 2023 Stanley Cup Playoffs",
-      "videoId": "Fz88yBrqurM",
-      "thumbnail": "https://img.youtube.com/vi/Fz88yBrqurM/mqdefault.jpg",
-      "timeAgo": "17h ago",
+      "title": "EVERY GOAL Scored Last Season by the 2026-27 St. Louis Blues Roster",
+      "videoId": "5tPT6fepoJ4",
+      "thumbnail": "https://img.youtube.com/vi/5tPT6fepoJ4/mqdefault.jpg",
+      "timeAgo": "3h ago",
       "isFallback": false
     },
     {
       "league": "WNBA",
-      "title": "Atlanta Dream vs. Los Angeles Sparks | FULL GAME HIGHLIGHTS | August 24, 2026",
-      "videoId": "23Ubci4ZXGY",
-      "thumbnail": "https://img.youtube.com/vi/23Ubci4ZXGY/mqdefault.jpg",
-      "timeAgo": "10h ago",
+      "title": "Week 13: Eastern Conference Player of the Week- Angel Reese",
+      "videoId": "UMrfIEDgLj4",
+      "thumbnail": "https://img.youtube.com/vi/UMrfIEDgLj4/mqdefault.jpg",
+      "timeAgo": "2h ago",
       "isFallback": false
     },
     {
@@ -6365,11 +6398,155 @@
       "title": "Diomande 🤝 Espi (via @realmadrid/IG)",
       "videoId": "IZKfEz0ddF4",
       "thumbnail": "https://img.youtube.com/vi/IZKfEz0ddF4/mqdefault.jpg",
-      "timeAgo": "3h ago",
+      "timeAgo": "7h ago",
       "isFallback": false
     }
   ],
   "reels": [
+    {
+      "league": "MLB",
+      "title": "How in the world did José Ramírez's bat wiggle and waggle like that?! 😮",
+      "videoId": "BbQmAgdOxqw",
+      "author": "MLB",
+      "pubDate": "2026-08-25T18:30:21+00:00",
+      "link": "https://www.youtube.com/watch?v=BbQmAgdOxqw"
+    },
+    {
+      "league": "NBA",
+      "title": "Derik Queen is unbelievable 🤩",
+      "videoId": "BEwx4z04YyE",
+      "author": "NBA",
+      "pubDate": "2026-08-25T18:22:25+00:00",
+      "link": "https://www.youtube.com/watch?v=BEwx4z04YyE"
+    },
+    {
+      "league": "NFL",
+      "title": "Is Leonard Moore a TOP FIVE pick in the 2027 NFL Draft?",
+      "videoId": "WJYXWrZUgo4",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-08-25T18:00:29+00:00",
+      "link": "https://www.youtube.com/watch?v=WJYXWrZUgo4"
+    },
+    {
+      "league": "NFL",
+      "title": "The Ultimate Guide to CRUSHING your Fantasy Draft | Fantasy Focus",
+      "videoId": "Vyyi06-jR1A",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-08-25T17:34:47+00:00",
+      "link": "https://www.youtube.com/watch?v=Vyyi06-jR1A"
+    },
+    {
+      "league": "MLB",
+      "title": "The Top 10 Legendary Walk-offs that define baseball. #250for250",
+      "videoId": "STSQtlh81zI",
+      "author": "MLB",
+      "pubDate": "2026-08-25T17:30:17+00:00",
+      "link": "https://www.youtube.com/watch?v=STSQtlh81zI"
+    },
+    {
+      "league": "NFL",
+      "title": "Deshaun Watson 🆚 Shedeur Sanders, Jalen Hurts &amp; Dak Prescott with Chase Daniel | The Rich Eisen Show",
+      "videoId": "DhqgrM008TA",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-08-25T17:29:16+00:00",
+      "link": "https://www.youtube.com/watch?v=DhqgrM008TA"
+    },
+    {
+      "league": "NBA",
+      "title": "Another SPECIAL year from Nikola Jokic!🃏",
+      "videoId": "Q6vUje_nkdM",
+      "author": "NBA",
+      "pubDate": "2026-08-25T17:23:14+00:00",
+      "link": "https://www.youtube.com/watch?v=Q6vUje_nkdM"
+    },
+    {
+      "league": "NBA",
+      "title": "The Best Long Distance DIMES of the 2025-26 NBA Season!",
+      "videoId": "oOZ5GFV2kOM",
+      "author": "NBA",
+      "pubDate": "2026-08-25T17:15:41+00:00",
+      "link": "https://www.youtube.com/watch?v=oOZ5GFV2kOM"
+    },
+    {
+      "league": "NBA",
+      "title": "Some Great Long Distance Assist from the 2025-26 NBA Season",
+      "videoId": "gwbPj-SNRuQ",
+      "author": "NBA",
+      "pubDate": "2026-08-25T17:08:46+00:00",
+      "link": "https://www.youtube.com/watch?v=gwbPj-SNRuQ"
+    },
+    {
+      "league": "WNBA",
+      "title": "Week 13: Eastern Conference Player of the Week- Angel Reese",
+      "videoId": "UMrfIEDgLj4",
+      "author": "WNBA",
+      "pubDate": "2026-08-25T17:04:31+00:00",
+      "link": "https://www.youtube.com/watch?v=UMrfIEDgLj4"
+    },
+    {
+      "league": "WNBA",
+      "title": "Week 13: Western Conference Player of the Week- A'ja Wilson",
+      "videoId": "8GKQBcH6Rys",
+      "author": "WNBA",
+      "pubDate": "2026-08-25T17:04:30+00:00",
+      "link": "https://www.youtube.com/watch?v=8GKQBcH6Rys"
+    },
+    {
+      "league": "MLB",
+      "title": "Will Pete Crow-Armstrong snap Shohei Ohtani's MVP streak? Is Yordan Alvarez still the AL favorite?",
+      "videoId": "3QotTy7l-pE",
+      "author": "MLB",
+      "pubDate": "2026-08-25T17:00:23+00:00",
+      "link": "https://www.youtube.com/watch?v=3QotTy7l-pE"
+    },
+    {
+      "league": "MLB",
+      "title": "Daniel Murphy tricks Yoenis Cespedes with a high IQ play",
+      "videoId": "7oP8UBmfDbc",
+      "author": "MLB",
+      "pubDate": "2026-08-25T16:30:34+00:00",
+      "link": "https://www.youtube.com/watch?v=7oP8UBmfDbc"
+    },
+    {
+      "league": "NFL",
+      "title": "How long will Deshaun Watson remain the Browns' starting quarterback? 🤔 | First Take",
+      "videoId": "E9zKsc05kYw",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-08-25T16:04:22+00:00",
+      "link": "https://www.youtube.com/watch?v=E9zKsc05kYw"
+    },
+    {
+      "league": "NHL",
+      "title": "EVERY GOAL Scored Last Season by the 2026-27 St. Louis Blues Roster",
+      "videoId": "5tPT6fepoJ4",
+      "author": "NHL",
+      "pubDate": "2026-08-25T16:00:38+00:00",
+      "link": "https://www.youtube.com/watch?v=5tPT6fepoJ4"
+    },
+    {
+      "league": "NFL",
+      "title": "J-Mac weighs in on the 49ers ✍️",
+      "videoId": "rcm1Zcww9ro",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-08-25T15:57:24+00:00",
+      "link": "https://www.youtube.com/watch?v=rcm1Zcww9ro"
+    },
+    {
+      "league": "NFL",
+      "title": "Can C.J. Stroud play good enough to make the Texans SUPER BOWL CONTENDERS this season?! | First Take",
+      "videoId": "cXYO_3rv5W4",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-08-25T15:55:00+00:00",
+      "link": "https://www.youtube.com/watch?v=cXYO_3rv5W4"
+    },
+    {
+      "league": "MLB",
+      "title": "Top 10 ICONIC Walk-Offs from Baseball History! | MLB 250 For 250",
+      "videoId": "2H_kgEa6hPU",
+      "author": "MLB",
+      "pubDate": "2026-08-25T15:30:21+00:00",
+      "link": "https://www.youtube.com/watch?v=2H_kgEa6hPU"
+    },
     {
       "league": "NFL",
       "title": "Shiyazh Pete's speech is what it's all about 🙌",
@@ -6403,38 +6580,6 @@
       "link": "https://www.youtube.com/watch?v=TET_w_T2MiY"
     },
     {
-      "league": "NFL",
-      "title": "Will starting Deshaun Watson be a TERRIBLE MOVE by the Browns?! 😨 | Get Up",
-      "videoId": "iYLkpw-TvUA",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-08-25T13:55:31+00:00",
-      "link": "https://www.youtube.com/watch?v=iYLkpw-TvUA"
-    },
-    {
-      "league": "NFL",
-      "title": "No excuses for Houston 🏈",
-      "videoId": "H_O0LlgR9cg",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-08-25T13:05:21+00:00",
-      "link": "https://www.youtube.com/watch?v=H_O0LlgR9cg"
-    },
-    {
-      "league": "NFL",
-      "title": "The Ultimate Guide to CRUSHING your Fantasy Draft | Fantasy Focus",
-      "videoId": "Vyyi06-jR1A",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-08-25T13:02:41+00:00",
-      "link": "https://www.youtube.com/watch?v=Vyyi06-jR1A"
-    },
-    {
-      "league": "NFL",
-      "title": "Annual Fantasy Football Bonanza | Schrager Hour",
-      "videoId": "XWxZeAQYW9Y",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-08-25T13:00:39+00:00",
-      "link": "https://www.youtube.com/watch?v=XWxZeAQYW9Y"
-    },
-    {
       "league": "MLB",
       "title": "Cal Raleigh SHOWS OFF with a THREE-HOMER NIGHT for the Mariners!",
       "videoId": "EIQO_qwgUkE",
@@ -6451,68 +6596,12 @@
       "link": "https://www.youtube.com/watch?v=IZKfEz0ddF4"
     },
     {
-      "league": "NFL",
-      "title": "Peyton Manning needs a few more reps before this season 😭",
-      "videoId": "PyM8VKhd0AQ",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-08-25T12:45:29+00:00",
-      "link": "https://www.youtube.com/watch?v=PyM8VKhd0AQ"
-    },
-    {
-      "league": "NFL",
-      "title": "How will Makai Lemon help the Eagles? 🦅",
-      "videoId": "9MjCpx181YQ",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-08-25T12:38:54+00:00",
-      "link": "https://www.youtube.com/watch?v=9MjCpx181YQ"
-    },
-    {
-      "league": "MLB",
-      "title": "Brandon Nimmo makes an UNREAL HOME RUN ROBBERY &amp; the BEST MLB Highlights from 8/24/26!",
-      "videoId": "2HhvLoz3TWc",
-      "author": "MLB",
-      "pubDate": "2026-08-25T11:00:29+00:00",
-      "link": "https://www.youtube.com/watch?v=2HhvLoz3TWc"
-    },
-    {
-      "league": "MLB",
-      "title": "Highlights from ALL GAMES on 8/24 (Cal Raleigh hits 3 HRs, Brandon Nimmo's EPIC HR ROBBERY &amp; MORE!)",
-      "videoId": "_fNIWWdYl40",
-      "author": "MLB",
-      "pubDate": "2026-08-25T10:00:14+00:00",
-      "link": "https://www.youtube.com/watch?v=_fNIWWdYl40"
-    },
-    {
-      "league": "MLB",
-      "title": "PIRATES vs. PADRES: Official Full Game Highlights (August 24) | 2026 MLB Season",
-      "videoId": "seoYrJRTqy0",
-      "author": "MLB",
-      "pubDate": "2026-08-25T06:26:58+00:00",
-      "link": "https://www.youtube.com/watch?v=seoYrJRTqy0"
-    },
-    {
       "league": "WNBA",
       "title": "Atlanta Dream vs. Los Angeles Sparks | FULL GAME HIGHLIGHTS | August 24, 2026",
       "videoId": "23Ubci4ZXGY",
       "author": "WNBA",
       "pubDate": "2026-08-25T05:35:50+00:00",
       "link": "https://www.youtube.com/watch?v=23Ubci4ZXGY"
-    },
-    {
-      "league": "MLB",
-      "title": "TWINS vs. ATHLETICS: Official Full Game Highlights (August 24) | 2026 MLB Season",
-      "videoId": "0rRmfgwr_mQ",
-      "author": "MLB",
-      "pubDate": "2026-08-25T04:54:42+00:00",
-      "link": "https://www.youtube.com/watch?v=0rRmfgwr_mQ"
-    },
-    {
-      "league": "MLB",
-      "title": "PHILLIES vs. MARINERS: Official Full Game Highlights (August 24) | 2026 MLB Season",
-      "videoId": "kIBj5666mRE",
-      "author": "MLB",
-      "pubDate": "2026-08-25T04:48:51+00:00",
-      "link": "https://www.youtube.com/watch?v=kIBj5666mRE"
     },
     {
       "league": "WNBA",
@@ -6619,14 +6708,6 @@
       "link": "https://www.youtube.com/watch?v=rjGmHNL-BB8"
     },
     {
-      "league": "NBA",
-      "title": "&quot;Welcome to the League&quot; Compilation - Players Answering about Kobe Bryant",
-      "videoId": "VDmu7-fQMSM",
-      "author": "NBA",
-      "pubDate": "2026-08-24T14:32:35+00:00",
-      "link": "https://www.youtube.com/watch?v=VDmu7-fQMSM"
-    },
-    {
       "league": "SOCCER",
       "title": "‘NOT GOOD ENOUGH!’ Transfers needed for Liverpool after opening draw vs. Newcastle? | ESPN FC",
       "videoId": "UPkqVR2eF5s",
@@ -6635,60 +6716,12 @@
       "link": "https://www.youtube.com/watch?v=UPkqVR2eF5s"
     },
     {
-      "league": "NBA",
-      "title": "8 Kobe Bryant CLUTCH Moments We’ll Never Forget",
-      "videoId": "fIzwnCIpEGE",
-      "author": "NBA",
-      "pubDate": "2026-08-24T14:00:13+00:00",
-      "link": "https://www.youtube.com/watch?v=fIzwnCIpEGE"
-    },
-    {
       "league": "WNBA",
       "title": "Caitlin Clark CAREER-HIGH 8 3PM | FULL HIGHLIGHTS vs. Chicago Sky | August 23, 2026",
       "videoId": "JYH43PDfx3g",
       "author": "WNBA",
       "pubDate": "2026-08-24T02:56:41+00:00",
       "link": "https://www.youtube.com/watch?v=JYH43PDfx3g"
-    },
-    {
-      "league": "WNBA",
-      "title": "Indiana Fever vs. Chicago Sky | FULL GAME HIGHLIGHTS | August 23, 2026",
-      "videoId": "iTTa9jF-Id8",
-      "author": "WNBA",
-      "pubDate": "2026-08-24T02:28:05+00:00",
-      "link": "https://www.youtube.com/watch?v=iTTa9jF-Id8"
-    },
-    {
-      "league": "WNBA",
-      "title": "Las Vegas Aces vs. Toronto Tempo | FULL GAME HIGHLIGHTS | August 23, 2026",
-      "videoId": "WTUd7aJnM00",
-      "author": "WNBA",
-      "pubDate": "2026-08-24T02:14:15+00:00",
-      "link": "https://www.youtube.com/watch?v=WTUd7aJnM00"
-    },
-    {
-      "league": "WNBA",
-      "title": "Washington Mystics vs. Portland Fire | FULL GAME HIGHLIGHTS | August 23, 2026",
-      "videoId": "tQOX78bHQGQ",
-      "author": "WNBA",
-      "pubDate": "2026-08-24T01:56:25+00:00",
-      "link": "https://www.youtube.com/watch?v=tQOX78bHQGQ"
-    },
-    {
-      "league": "WNBA",
-      "title": "Atlanta Dream vs. Phoenix Mercury | FULL GAME HIGHLIGHTS | August 22, 2026",
-      "videoId": "PakzSFzhMZ8",
-      "author": "WNBA",
-      "pubDate": "2026-08-23T22:57:14+00:00",
-      "link": "https://www.youtube.com/watch?v=PakzSFzhMZ8"
-    },
-    {
-      "league": "WNBA",
-      "title": "Seattle Storm vs. Dallas Wings | FULL GAME HIGHLIGHTS | August 23, 2026",
-      "videoId": "oHf-yzEn__E",
-      "author": "WNBA",
-      "pubDate": "2026-08-23T22:35:08+00:00",
-      "link": "https://www.youtube.com/watch?v=oHf-yzEn__E"
     }
   ]
 }
