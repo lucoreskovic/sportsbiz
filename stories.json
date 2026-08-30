@@ -1,81 +1,73 @@
 {
   "clusters": [
     {
-      "category": "leagues",
-      "importance": 9,
-      "leadHeadline": "William Jewell running back MicahJo Barnett dies after medical emergency during game",
-      "leadSource": "The Guardian · 15h ago",
-      "leadUrl": "https://www.theguardian.com/sport/2026/aug/29/division-ii-running-back-dies-after-experiencing-medical-emergency-on-the-sideline-shortly-after-scoring-touchdown",
-      "summary": "<cite index=\"4-2\">William Jewell junior running back MicahJo Barnett died after a medical emergency on the sideline during the Division II season opener against Fort Lewis on Saturday</cite>. <cite index=\"4-10\">He had scored on a 1-yard run with 5:15 remaining in the first quarter</cite>.",
-      "article": "<cite index=\"4-2\">MicahJo Barnett, a William Jewell junior, died after experiencing a medical emergency on the sideline during the Cardinals' season opener against Fort Lewis on Saturday</cite>. <cite index=\"4-10\">Barnett scored on a 1-yard run with 5:15 left in the first quarter</cite>. <cite index=\"4-3\">Emergency officials at the game attended to the player about 20 minutes after kickoff</cite>. <cite index=\"2-8\">He suffered what Liberty Fire EMS called \"seizure-like symptoms,\"</cite> and <cite index=\"4-4,4-5\">was transported by ambulance to a hospital, where he was pronounced dead</cite>. <cite index=\"4-12\">Barnett had six carries for 30 yards and a touchdown when play was suspended, with William Jewell leading 7-0</cite>. <cite index=\"4-11\">The game was stopped with 4:32 left in the quarter, after Fort Lewis punted</cite>, and <cite index=\"12-9\">was later canceled</cite>. <cite index=\"4-15,4-16\">Barnett was from Shawnee Mission, Kansas, and was opening his third season at William Jewell. In his first two seasons, he combined for 108 carries for 457 yards and six touchdowns</cite>. <cite index=\"4-14\">The school scheduled a vigil for Saturday night</cite>.",
-      "tweets": [
-        {
-          "url": "https://twitter.com/espn/status/2093844297585926515",
-          "html": "<blockquote class=\"twitter-tweet\" data-dnt=\"true\" data-theme=\"dark\"><p>William Jewell College junior RB Micah Jo Barnett died after experiencing a medical emergency on the sideline during the Missouri-based D-II school's season opener. https://t.co/7JkdUVqqUL</p>&mdash; ESPN (@espn) <a href=\"https://twitter.com/espn/status/2093844297585926515\">August 29, 2026</a></blockquote>",
-          "author_name": "ESPN",
-          "author_url": "https://twitter.com/espn",
-          "dateMs": 1788046356000
-        }
-      ]
-    },
-    {
       "category": "revenue",
       "importance": 8,
       "leadHeadline": "Hospitality boom and $100 chicken nuggets: how the US Open became obscenely expensive",
-      "leadSource": "The Guardian · 3h ago",
+      "leadSource": "The Guardian · 6h ago",
       "leadUrl": "https://www.theguardian.com/sport/2026/aug/30/us-open-ticket-prices-usta-resale-affordability",
-      "summary": "The 2026 U.S. Open is drawing record crowds but pricing out ordinary fans through premium seating, hospitality packages, and a resale market that has transformed the tournament into a luxury event. Billionaire investors and even progressive politicians are balking at the cost structure.",
-      "article": "The 2026 U.S. Open has become a hospitality juggernaut, driving record attendance while pricing casual fans out of the grounds. Premium seating, unchecked resale markets, and hospitality packages including $100 chicken nuggets have transformed the self-styled people's slam into an elite event.\n\nBillionaire hedge fund manager Bill Ackman and New York democratic socialist Zohran Mamdani found rare common ground in opposing the affordability crisis. Ackman has publicly criticized the USTA's pricing model, while Mamdani has raised concerns about accessibility for working-class New Yorkers.\n\nThe Billie Jean King National Tennis Center in Queens is seeing peak crowds, but secondary-market dynamics have inflated ticket costs beyond face value. Hospitality suites and premium packages command exponential premiums. USTA CEO Craig Tiley has framed the tournament as \"Tennis Disneyland,\" but the metaphor cuts both ways: like Disney parks, admission and concessions are becoming prohibitive.\n\nThe pricing structure reflects tennis's broader shift toward high-net-worth demographics. Sponsors and media partners have incentivized premium experiences. The U.S. Open remains the most accessible Grand Slam in some categories (first-round losers earn $140,000), but getting through the gates has never been more expensive.",
-      "tweets": []
-    },
-    {
-      "category": "contracts",
-      "importance": 7,
-      "leadHeadline": "Barcelona close to deal for Arsenal's Jesus",
-      "leadSource": "BBC Sport · 1h ago",
-      "leadUrl": "https://www.bbc.co.uk/sport/football/articles/c9qr79jr1qqo?at_medium=RSS&amp;at_campaign=rss",
-      "summary": "Barcelona are finalizing a deal to sign Arsenal striker Gabriel Jesus for £8.6 million, bringing the Brazil international back to LaLiga after his time in the Premier League. The transfer would bolster Barcelona's attacking depth ahead of the final stretch of the season.",
-      "article": "Barcelona are closing in on a move for Arsenal striker Gabriel Jesus in a deal valued at £8.6 million. The transfer would represent a mid-season acquisition for the Catalan club, bringing the Brazil international to LaLiga.\n\nJesus, 27, joined Arsenal in 2022 from Manchester City for roughly £45 million but has failed to establish himself as a consistent starter in the Premier League. He has made 93 appearances for Arsenal across all competitions, scoring 18 goals, but injuries and competition have limited his minutes.\n\nBarcelona have faced their own attacking challenges and see Jesus as a depth and rotation option. The relatively modest fee reflects Arsenal's willingness to move the player on and Jesus's limited leverage in negotiations.\n\nThe deal, if completed, would mark the third significant move between Arsenal and Barcelona in recent seasons. It also signals Barcelona's continued spending despite financial fair play restrictions under LaLiga rules.\n\nFor Arsenal, the sale creates space in the squad and frees wages. For Barcelona, Jesus provides a left-footed alternative in attack and adds experience to their squad as they push for domestic and European honors.",
-      "tweets": []
-    },
-    {
-      "category": "leagues",
-      "importance": 6,
-      "leadHeadline": "Bears trade defensive tackle Gervon Dexter to Falcons for corner Clark Phillips III",
-      "leadSource": "NY Post Sports · just now",
-      "leadUrl": "https://nypost.com/2026/08/30/sports/bears-trade-gervon-dexter-to-falcons-for-clark-phillips-iii/",
-      "summary": "The Chicago Bears traded defensive tackle Gervon Dexter Sr. to the Atlanta Falcons in exchange for cornerback Clark Phillips III and a fifth-round draft pick. The deal addresses defensive needs for both teams heading into the season.",
-      "article": "The Chicago Bears have traded defensive tackle Gervon Dexter Sr. to the Atlanta Falcons in exchange for cornerback Clark Phillips III and a fifth-round draft pick. The move addresses immediate roster needs for both NFC South rivals.\n\nDexter, a first-round pick by the Bears in 2023, has not lived up to expectations in Chicago. The Falcons, looking to bolster their defensive front, see Dexter as a stabilizing presence alongside their existing line.\n\nFor the Bears, the acquisition of Clark Phillips III signals a pivot toward secondary depth. Phillips, a former first-round pick himself, offers experience at a position where Chicago has struggled. The fifth-round pick provides additional asset flexibility for general manager Ryan Poles.\n\nBoth trades grade out as win-wins in preliminary analysis. The Falcons get a younger, high-ceiling defensive lineman; the Bears add proven cornerback depth and recoup draft capital. The move also suggests both teams are not out of contention and view mid-season trades as viable paths to improvement.\n\nThe deal is relatively minor in terms of NFL trade history but signals active front offices responding to season-long performance and injury attrition.",
+      "summary": "<cite index=\"2-2,2-3\">Resale prices for US Open tickets have sparked widespread criticism, with grounds passes reaching $363 despite a $65 face value.</cite> <cite index=\"10-2,10-3\">The tournament now offers $100 caviar-coated chicken nuggets and $150 Ralph Lauren ball crew shirts.</cite>",
+      "article": "<cite index=\"4-16\">The 2026 US Open begins August 30 at the USTA Billie Jean King National Tennis Center in Flushing Meadows, New York</cite>, but fans shopping for tickets face resale chaos. <cite index=\"4-1,4-4\">A day-one grounds pass sparked criticism online when listed at $363, though the USTA's face value is $65.</cite> <cite index=\"4-7\">Many marquee sessions sold out in May, leaving fans to rely on resale tickets, where prices rise substantially.</cite>\n\n<cite index=\"3-2\">Money from \"corporate hospitality and services\" has climbed nearly 100% from $42 million in 2019 to $83 million in 2024, according to USTA financial reports.</cite> <cite index=\"3-5\">The Open expanded its luxe options, adding two new levels of suites at Ashe starting at $15,000 for one session.</cite> <cite index=\"10-1,10-2,10-3\">Premium offerings include $30 tennis-themed Champagne cocktails, $100 caviar-coated chicken nuggets, and $150 Ralph Lauren ball crew shirts.</cite>\n\n<cite index=\"17-1,17-8\">USTA CEO Craig Tiley said Saturday that the tournament \"will become tennis Disneyland.\"</cite> <cite index=\"17-2,17-3\">His remarks came as day session grounds passes, retailing at $65, resold for $321 on Ticketmaster Saturday.</cite> <cite index=\"17-5\">Tiley conceded that \"one of our biggest challenges is the secondary market,\" but declined to offer specifics on how the USTA might address it.</cite>",
       "tweets": []
     },
     {
       "category": "media",
+      "importance": 7,
+      "leadHeadline": "US Open tennis 2026: Norrie and Medvedev in action, Pegula advances on day one – live",
+      "leadSource": "The Guardian · just now",
+      "leadUrl": "https://www.theguardian.com/sport/live/2026/aug/30/us-open-tennis-2026-pegula-norrie-and-medvedev-in-action-on-day-one-live",
+      "summary": "The 2026 U.S. Open main draw is underway with Pegula advancing on opening day. Several notable contenders are in action as the final Grand Slam of the year gets under way in New York.",
+      "article": "The 2026 U.S. Open main draw opened Sunday at the Billie Jean King National Tennis Center in Flushing, Queens. Jessica Pegula advanced in her opening match, while Cameron Norrie and Daniil Medvedev were among the day's marquee names in action.\n\nThe tournament kicks off amid a broader transformation of the event into a premium hospitality destination. USTA CEO Craig Tiley has signaled an aggressive expansion of entertainment programming and premium experiences designed to attract families and affluent spectators beyond the traditional tennis core. That strategy is reflected in both ticket pricing and on-site amenities, which have departed sharply from historical norms.\n\nCasper Ruud withdrew minutes after the start of the tournament due to a worrisome back injury, marking an early roster disruption. His pullout adds to the field's turnover and creates an opening in a draw that was already reshaped by injuries and other absences during the lead-up. The main-draw run will stretch through the coming fortnight, with seeding and bracket positioning likely to shift the closer looks at contenders facing injury questions or suboptimal conditions.",
+      "tweets": []
+    },
+    {
+      "category": "leagues",
       "importance": 6,
-      "leadHeadline": "How Alex Eala Turned the Philippines Into a Tennis Nation",
-      "leadSource": "Front Office Sports · 4h ago",
-      "leadUrl": "https://frontofficesports.com/alex-eala-changing-tennis-phillipines/",
-      "summary": "A December homecoming match featuring Alex Eala could break tennis's attendance record and signal the sport's growing footprint in Southeast Asia. The event exemplifies how individual athletes can expand tennis's global reach beyond traditional markets.",
-      "article": "Alex Eala's planned December homecoming match in the Philippines has the potential to shatter tennis's single-event attendance record, marking a breakthrough moment for the sport in Southeast Asia.\n\nEala, who has risen through the professional ranks and represented the Philippines on the international stage, is leveraging her success to drive unprecedented interest in tennis within her home country. The event, scheduled for December, has already generated significant ticket demand and media coverage.\n\nTennis attendance records have historically been held by Grand Slams and exhibition events in established markets like the United States and Europe. A Filipino event breaking that record would represent a seismic shift in the sport's geography and commercial appeal.\n\nThe match underscores how individual athletes can function as cultural ambassadors. Eala's rise has coincided with growing tennis participation and viewership in the Philippines. Her homecoming event capitalizes on national pride and a younger demographic hungry for live sports entertainment.\n\nFor the broader tennis economy, Eala's success in opening new markets is significant. The WTA and ATP have long sought to expand beyond North America and Europe. Southeast Asia, with its large population and rising middle class, represents untapped commercial potential.\n\nThe December event will test whether Eala's draw can convert national interest into a sustained tennis infrastructure and sponsorship ecosystem in the Philippines.",
+      "leadHeadline": "Fernandes fires hat-trick as Manchester United fight back to thrash Ipswich",
+      "leadSource": "The Guardian · 1h ago",
+      "leadUrl": "https://www.theguardian.com/football/2026/aug/30/manchester-united-ipswich-premier-league-match-report",
+      "summary": "Bruno Fernandes scored a hat-trick in Manchester United's 3-0 rout of Ipswich Town, capping a season in which he claimed both major footballer of the year awards. The performance underscored his intent to build on stellar 2025 form.",
+      "article": "Bruno Fernandes delivered a hat-trick as Manchester United overwhelmed Ipswich Town at Old Trafford on Sunday. Fernandes, who claimed both major footballer of the year awards for his 2025 campaign, opened his home season with a statement performance that signaled his determination to sustain elite form.\n\nIpswich arrived with pace threats in Julio Enciso, Issa Diop, and Daizen Maeda. Leif Davis gave them a 29th-minute lead, but United's comeback was swift and clinical. Fernandes's three-goal display erased the deficit and propelled the hosts to an emphatic victory, establishing early command in what figures to be a closely contested domestic season.\n\nThe result marks United's first home outing under Michael Carrick and comes as the squad continues its bid to reclaim domestic supremacy after a transitional 2024-25 campaign. Fernandes's form carries weight beyond the club context: his trajectory will shape both United's title hopes and the midfield narrative across England's top division in the months ahead.",
       "tweets": []
     },
     {
       "category": "labor",
       "importance": 5,
-      "leadHeadline": "NFL, NFLPA Negotiating Terms for Olympic Flag Football Participation",
-      "leadSource": "Front Office Sports · 18h ago",
-      "leadUrl": "https://frontofficesports.com/nfl-nflpa-negotiating-flag-football-participation/",
-      "summary": "The NFL and NFLPA are negotiating the terms under which NFL players will participate in flag football at the 2028 Los Angeles Olympics, scheduled for July 15-22. The discussions cover eligibility, compensation, and scheduling logistics.",
-      "article": "The NFL and NFLPA are in active negotiations over the terms governing NFL player participation in flag football at the 2028 Los Angeles Olympics. The competition is scheduled for July 15-22, placing it squarely in the middle of the NFL's offseason.\n\nThe talks center on several key issues: which players will be eligible to compete, how compensation will be structured, and what protections exist around injury liability. The IOC has elevated flag football to full medal status for 2028, making it a marquee event.\n\nFor the NFL, Olympic participation carries marketing value and international brand expansion. For individual players, selection represents national honor and additional earning potential. However, the timing during the offseason creates scheduling conflicts, particularly for players involved in playoff runs or who have endorsement commitments during summer.\n\nThe NFLPA is likely seeking guarantees around injury insurance, travel compensation, and the right of players to opt out without penalty. The NFL is interested in expanding the sport's profile globally and leveraging Olympic exposure for marketing purposes.\n\nPrevious Olympic cycles have seen similar negotiations between professional leagues and player unions. The outcome here will set precedent for future Games and signal how the NFL views flag football's role in the league's long-term strategy.\n\nNegotiations are ongoing with no announced resolution date.",
+      "leadHeadline": "Colts' Keenan Allen Arrested on OWI Charges",
+      "leadSource": "Front Office Sports · 1h ago",
+      "leadUrl": "https://frontofficesports.com/colts-keenan-allen-arrested-owi-charges/",
+      "summary": "Indianapolis Colts wide receiver Keenan Allen was arrested on OWI (operating while intoxicated) charges, which carries potential NFL suspension and disciplinary action. Details of the arrest remain ongoing.",
+      "article": "Indianapolis Colts wide receiver Keenan Allen was arrested on OWI charges, marking a significant off-field incident for the veteran receiver. The arrest carries potential NFL suspension and disciplinary consequences under the league's personal conduct policy.\n\nAllen, a perennial Pro Bowl selection and one of the league's most productive receivers, was entering the 2026 season as a cornerstone of Indianapolis's passing attack. His availability heading into the campaign is now in question pending any formal charges and potential league investigation.\n\nThe Colts have not yet issued a formal statement regarding Allen's status or how the franchise will proceed. The incident comes during a volatile preseason period in which rosters are still being finalized and depth charts are in flux. If suspension materializes, it would force the team to accelerate contributions from secondary receivers and reshape their passing-game structure.",
+      "tweets": []
+    },
+    {
+      "category": "leagues",
+      "importance": 5,
+      "leadHeadline": "Clinical England power to series win over Pakistan",
+      "leadSource": "BBC Sport · 1h ago",
+      "leadUrl": "https://www.bbc.co.uk/sport/cricket/articles/cm2merdd254o?at_medium=RSS&amp;at_campaign=rss",
+      "summary": "England defeated Pakistan on the fourth day of the second Test at Lord's to clinch the Test series. The hosts' bowling-driven dominance continues their strong summer of international cricket.",
+      "article": "England secured a series victory over Pakistan with an emphatic performance at Lord's on Sunday. The hosts dismantled their visitors on the fourth day of the second Test, extending what has been a dominant summer of international cricket for Joe Root's side.\n\nEngland's clinical execution, particularly in their bowling attack, overwhelmed Pakistan's middle order and prevented any meaningful comeback. The victory marks another statement of intent from the English side during a crowded international calendar.\n\nThe win positions England strongly heading into the final months of the international season and adds momentum to their Test cricket objectives across the coming year.",
       "tweets": []
     },
     {
       "category": "leagues",
       "importance": 4,
-      "leadHeadline": "UNC Overcomes Preseason Drama As Bill Belichick Earns Signature Win",
-      "leadSource": "Front Office Sports · 18h ago",
-      "leadUrl": "https://frontofficesports.com/bill-belichick-unc-year-2-signature-win/",
-      "summary": "UNC delivered a signature victory under Bill Belichick despite preseason turmoil that saw GM Michael Lombardi placed on paid leave in July. The win signals the program's competitive readiness despite off-field distractions.",
-      "article": "UNC has bounced back from preseason controversy with an impressive win under coach Bill Belichick, demonstrating resilience after general manager Michael Lombardi was placed on paid leave in July.\n\nThe drama surrounding Lombardi's suspension raised questions about the stability of Belichick's coaching apparatus and the clarity of the program's command structure. However, the team's performance on the field has answered those concerns, at least temporarily.\n\nBelichick, in his second season at UNC, continues to apply NFL discipline and organizational rigor to a college program. The signature win adds credibility to his approach and provides a counternarrative to the off-field instability.\n\nLombardi's leave of absence was not accompanied by a detailed public explanation, leaving speculation about the nature of the conflict. However, the team's continued functionality suggests either the issue was resolved or the coaching staff successfully compartmentalized the distraction.\n\nFor Belichick, the win is validation of the system he's implementing. For UNC, it suggests that despite administrative turbulence, competitive performance can still be achieved. The program will face scrutiny as the season progresses; a sustained run of success would vindicate the controversial hire.",
+      "leadHeadline": "How did Rashford do on return to Man Utd XI? Player ratings",
+      "leadSource": "BBC Sport · 1h ago",
+      "leadUrl": "https://www.bbc.co.uk/sport/football/articles/cx2z6kkqdxqo?at_medium=RSS&amp;at_campaign=rss",
+      "summary": "Marcus Rashford returned to Manchester United's lineup in their match against Ipswich Town. Player-by-player ratings tracked his performance and that of his teammates in the fixture.",
+      "article": "Marcus Rashford featured in Manchester United's lineup against Ipswich Town on Sunday, marking a key return for the English winger. Rashford's availability and form carry weight for United's attacking lineup as the season progresses.\n\nPlayer ratings from the match tracked both Rashford's contribution and the broader performance of United's squad. The return of key personnel, particularly on the wing, adds depth and dynamism to United's attacking options alongside Bruno Fernandes's midfield playmaking.",
+      "tweets": []
+    },
+    {
+      "category": "leagues",
+      "importance": 3,
+      "leadHeadline": "Buccaneers choose undrafted rookie Jalon Daniels as backup QB in NFL cutdown day surprise",
+      "leadSource": "NY Post Sports · just now",
+      "leadUrl": "https://nypost.com/2026/08/30/sports/buccaneers-pick-jalon-daniels-as-backup-qb-in-nfl-cutdown-day-surprise/",
+      "summary": "The Tampa Bay Buccaneers named undrafted rookie Jalon Daniels as their backup quarterback during NFL roster cutdowns. The move signals a significant bet on the unheralded prospect.",
+      "article": "The Tampa Bay Buccaneers made an unconventional roster decision on cutdown day, elevating undrafted rookie Jalon Daniels into the backup quarterback role. The move represents a sizable organizational wager on a prospect who went undrafted in April.\n\nDaniels' selection as the primary backup signals either a strong preseason showing or confidence in his development trajectory. The Buccaneers' willingness to bypass veteran free agents or draft picks in favor of an undrafted rookie suggests internal belief in his potential, though backup-level performance in preseason can be a poor predictor of regular-season utility.\n\nThe decision comes as NFL rosters finalize their 53-man configurations ahead of the regular season, with teams making high-stakes calls on marginal contributors and emerging talent.",
       "tweets": []
     }
   ],
@@ -2399,153 +2391,99 @@
     ],
     "source": "espn"
   },
-  "deals": [
-    {
-      "type": "acquisition",
-      "parties": "Barcelona ⇄ Arsenal (Gabriel Jesus)",
-      "value_usd": 10500000,
-      "term_years": null,
-      "league": "SOCCER",
-      "headline": "Barcelona close to £8.6M deal for Arsenal striker Gabriel Jesus",
-      "storyIndex": 11,
-      "blurb": "Barcelona finalizing move for Brazil international Jesus from Arsenal for £8.6 million.",
-      "capturedAt": "2026-08-30T15:07:37.284Z"
-    }
-  ],
+  "deals": [],
   "ratings": [],
   "ticket_prices": [],
   "sidebar": [
     {
-      "headline": "At the U.S. Open, You Get Paid $140K for Losing",
-      "source": "Sportico · 1h ago",
-      "article": "First-round losers at the 2026 U.S. Open singles draw earn $140,000 for their participation, more than triple the $43,300 figure from previous years. Sixty-four men and 64 women will receive this payday despite losing their opening match. For many professional tennis players, especially those outside the top 100, a first-round appearance at a Grand Slam represents their richest financial opportunity of the season. The USTA's increased purses reflect record attendance, broadcast revenue, and sponsorship deals. The bump underscores tennis's shift toward compensating players more directly and reducing financial disparity between winners and early-round losers."
+      "headline": "How Alex Eala Turned the Philippines Into a Tennis Nation",
+      "source": "Front Office Sports · 7h ago",
+      "article": "Philippine tennis star Alex Eala is set to host a December homecoming exhibition that could break tennis's all-time attendance record. Eala's rise from Manila to the WTA tour has captured national pride and sparked a grassroots tennis boom across the Philippines. The homecoming event represents a milestone for both Eala's career and the broader expansion of tennis infrastructure in Southeast Asia, with local governing bodies investing in courts and coaching pipelines at unprecedented levels. Eala's journey underscores how individual athletic achievement can reshape an entire nation's sporting landscape and youth participation patterns."
     },
     {
-      "headline": "U.S. Open \"Will Become Tennis Disneyland,\" According to USTA CEO",
-      "source": "Sportico · 20h ago",
-      "article": "USTA CEO Craig Tiley described the 2026 U.S. Open as destined to become \"Tennis Disneyland,\" an entertainment mecca for children and adults. The comment came during a packed afternoon at the Billie Jean King National Tennis Center in Queens on the eve of the main draw. Tiley's framing reflects the tournament's evolution from a tennis-first event to a broader hospitality and entertainment platform. The characterization aligns with record ticket sales, premium seating expansion, and the addition of non-tennis entertainment offerings. Critics have noted the parallel to Disney's pricing model, which has made family attendance increasingly expensive."
+      "headline": "NFL preseason overreactions: Shedeur Sanders will start by Week 4, Ravens boast AFCs best defense",
+      "source": "CBS Sports · 1h ago",
+      "article": "The NFL preseason is complete, and hot takes abound. Notable overreactions include predictions that rookie Shedeur Sanders will claim the starting quarterback role by Week 4 despite current depth-chart positioning, and assertions that the Baltimore Ravens have assembled the AFC's best defensive unit. CBS Sports separates preseason noise from genuine insight, examining which breakout performances predict regular-season production and which are artifacts of limited competition and vanilla schemes. The analysis cautions against broad conclusions drawn from four games played primarily against second-string opponents, emphasizing the gap between August and September execution."
     },
     {
-      "headline": "Blue Jays chase key sweep vs. Mariners as wild-card race tightens up",
-      "source": "Sportsnet · 1h ago",
-      "article": "The Toronto Blue Jays have an opportunity to complete a sweep of the Seattle Mariners in the finale of their three-game set (Sportsnet, 1 p.m. ET / 10 a.m. PT), with both clubs fighting for the final wild-card spot. The Blue Jays currently trail the Cleveland Guardians by 1.5 games in the AL wild-card race, making every remaining game critical. A sweep would provide substantial momentum heading into September and narrow the gap in the standings. The Mariners, also in contention, have struggled in the series and face elimination scenarios if they fall further behind."
+      "headline": "Blue Jays Max Scherzer strikes out side in first inning vs. Mariners",
+      "source": "Sportsnet · just now",
+      "article": "Toronto Blue Jays starter Max Scherzer opened his outing against the Seattle Mariners by striking out the first three batters in the Mariners' order, each swinging. The dominant first inning set the tone for the series finale on Sunday at Rogers Centre. Scherzer, at 41, continues to demonstrate elite velocity and command, striking out the side on nine pitches. The Blue Jays are going for a three-game series sweep against Seattle, with coverage beginning at 1:30 p.m. ET / 10:30 a.m. PT."
     },
     {
-      "headline": "Chelsea v Brighton, Leeds v Brentford, Sunderland v Fulham: Premier League – live",
-      "source": "The Guardian · just now",
-      "article": "Premier League action continues with 2pm (BST) kick-offs featuring Chelsea vs Brighton, Leeds vs Brentford, and Sunderland vs Fulham. The live scoreboard and updates are available across multiple platforms as the league's mid-season push intensifies. Teams are fighting for positions across the table, with relegation-form sides desperate for points and European contenders looking to maintain pressure on leaders. Brighton and Leeds have been surprise performers this season, while established sides like Chelsea and Fulham are recalibrating after summer transfers."
+      "headline": "Making Sense of NCAA Eligibility Legal Chaos",
+      "source": "Sportico · 1d ago",
+      "article": "As the FBS season kicks off on Saturday, judges across the country are rendering decisions that alter college football rosters in real time. The NCAA's eligibility rules face ongoing legal challenges, creating a strange landscape where former college stars and recent transfers can re-enter programs despite prior commitments to NFL teams or other schools. The chaos underscores the power conference's struggle to maintain roster coherence under mounting legal pressure. Coaches and athletic directors are managing uncertainty on eve-of-season basis, making personnel decisions without clear precedent or stability."
     },
     {
-      "headline": "How Sabalenka could lose No 1 ranking at US Open",
-      "source": "BBC Sport · 10h ago",
-      "article": "Aryna Sabalenka's world No. 1 ranking is vulnerable at the 2026 U.S. Open, where other top contenders including Carlos Alcaraz and Novak Djokovic will be competing for the title. Sabalenka's recent form and injury history raise questions about her consistency down the stretch of the season. Alcaraz's comeback from injury and Djokovic's late-career resurgence could shake up the rankings. The tournament offers both Sabalenka an opportunity to shore up her ranking and her rivals a chance to reclaim the top spot through a deep run."
+      "headline": "What Kalshi's Big Court Loss Means for Prediction Markets",
+      "source": "Front Office Sports · just now",
+      "article": "Kalshi, the futures exchange focused on political and event prediction markets, suffered a significant court setback Friday. The ruling brings a potential Supreme Court showdown even closer, with major implications for the U.S. prediction-market landscape. The decision addresses whether prediction markets fall under CFTC jurisdiction or can operate independently. A Supreme Court escalation could reshape the entire ecosystem of sports-betting adjacency and political-event wagering in America. The market has watched Kalshi's legal fight closely, as its outcome will determine whether new prediction exchanges can launch and compete."
     },
     {
-      "headline": "NFL roster cuts tracker 2026: Players released by all 32 teams at 53-man roster cutdown deadline",
-      "source": "CBS Sports · just now",
-      "article": "All 32 NFL teams must trim their rosters to 53 players by August 30 at 6 p.m. ET, setting off a wave of releases, trades, and waiver-claim activity across the league. The cutdown deadline creates market chaos as fringe roster players, former draft picks, and veteran backups become available to other teams. Some notable names may surprise with their releases, while others will catch on quickly via waivers or trade. The cutdown period is a key evaluation moment for front offices and a proving ground for players fighting to stay in the league."
+      "headline": "49ers coach ruthlessly trolls accused fraudster Daejon Love: 'He was balling!!!'",
+      "source": "NY Post Sports · just now",
+      "article": "San Francisco 49ers wide receivers coach Leonard Hankerson joined the internet pile-on targeting Daejon Love, the 35-year-old accused by federal prosecutors of impersonating a 49ers player while running a romance and investment fraud scheme. Hankerson posted a joking Instagram message mocking Love's claims. The incident exemplifies how high-profile fraud cases involving sports figures generate widespread mockery and commentary across social media. Love's alleged scheme highlights vulnerabilities in identity verification and fan trust, and the 49ers organization has moved swiftly to distance itself from any association with his actions."
     }
   ],
   "poll": {
-    "question": "Which player departure will hurt their former team most this season?",
+    "question": "Which storyline will dominate the 2026 U.S. Open narrative through the final week?",
     "options": [
-      "Gabriel Jesus leaving Arsenal for Barcelona",
-      "Gervon Dexter Sr. traded from Bears to Falcons",
-      "Keenan Allen's off-field issues with the Chargers",
-      "A combination of multiple roster moves"
+      "Affordability crisis and fan accessibility debate",
+      "Defending champion's path and seeding surprises",
+      "Injury-driven roster surprises and dark horses",
+      "Premium hospitality and entertainment expansion"
     ]
   },
   "predictions": [
     {
-      "statement": "Barcelona will score at least 15 more goals in LaLiga with Gabriel Jesus on the roster by year-end than they would have without him.",
-      "probability": 58,
-      "rationale": "Jesus provides proven finishing but is not a lead striker. His impact depends on usage and fit in Barcelona's system. If deployed as a rotation option, the marginal goal production is modest. This sits at better than even odds but doesn't assume he becomes a talisman."
-    },
-    {
-      "statement": "The 2026 U.S. Open will break the all-time tennis attendance record for a single event.",
+      "statement": "Keenan Allen receives a multi-game NFL suspension within 30 days of formal charges being filed.",
       "probability": 72,
-      "rationale": "Record crowds, premium seating expansion, and celebrity culture around the event are driving unprecedented interest. USTA CEO Tiley's \"Disneyland\" framing signals the organization's confidence. However, weather, scheduling, and unexpected draw changes could limit peak-day attendance."
+      "rationale": "OWI arrests typically trigger league personal-conduct investigations. Given Allen's star status and the clear nature of the charge, the NFL will face pressure to act decisively. Historical precedent suggests 2-4 game suspensions for similar violations, though severity depends on BAC and prior conduct."
     },
     {
-      "statement": "Alex Eala's December homecoming match in the Philippines will exceed 50,000 attendance.",
-      "probability": 65,
-      "rationale": "National pride and Eala's rising profile are significant draw factors in a tennis-hungry market. However, venue capacity, promotion, and competing events could constrain turnout. Southeast Asia's outdoor venue infrastructure is still developing."
+      "statement": "The U.S. Open attendance will set a new Grand Slam record in 2026.",
+      "probability": 68,
+      "rationale": "USTA CEO Tiley explicitly flagged expansion of entertainment programming and family-focused offerings. Record crowds are already being reported on opening day, and premium hospitality sell-out rates are historically strong. The only headwind is ticket affordability, which may cap casual-spectator walk-up traffic."
     },
     {
-      "statement": "The NFL will approve enhanced injury protections for players competing in 2028 Olympic flag football.",
-      "probability": 74,
-      "rationale": "Player safety is a union priority and the NFLPA typically wins injury-related negotiations. Olympic participation carries reputational stakes for the league, incentivizing robust player protections. The July timing and mid-season placement make injury risk a live concern for owners and players alike."
+      "statement": "Manchester United finishes in the top two of the Premier League this season.",
+      "probability": 61,
+      "rationale": "Bruno Fernandes claimed both major footballer-of-the-year awards and opened his home campaign with a hat-trick against a decent Ipswich side. United's attacking firepower is elite. The variable is defensive consistency and whether Michael Carrick's system matures quickly. Two-horse races are competitive, but Fernandes-driven attack makes them serious contenders."
+    },
+    {
+      "statement": "An NCAA-eligibility court ruling will force a roster change at a Power Conference school before October 1st.",
+      "probability": 55,
+      "rationale": "Multiple judges are actively ruling on eligibility questions as the FBS season opens. At least one school will likely face a court order affecting a key player's availability, forcing emergency roster shuffling. The unpredictability of the legal landscape makes this a coin flip, but the volume of pending cases suggests high odds of at least one significant disruption."
     }
   ],
   "injuries": [
     {
-      "player": "Keenan Allen",
-      "team": "Los Angeles Chargers",
-      "league": "NFL",
-      "position": "WR",
-      "status": "DAY_TO_DAY",
-      "injury": "DUI arrest, legal/off-field issue",
-      "timeline": null,
+      "player": "Casper Ruud",
+      "team": "Norway (ATP Tour)",
+      "league": "OTHER",
+      "position": "",
+      "status": "OUT",
+      "injury": "Back injury",
+      "timeline": "Withdrawn immediately",
       "source": "NY Post Sports",
-      "impact": "Allen's availability for upcoming games is in question pending legal resolution and potential league discipline. Chargers' passing attack loses one of their primary targets.",
-      "storyIndex": 9
+      "impact": "Ruud withdrew minutes after the start of his U.S. Open first-round match, creating a seeding vacancy and altering the draw.",
+      "storyIndex": 16
+    },
+    {
+      "player": "Joe Rodon",
+      "team": "Leeds United",
+      "league": "SOCCER",
+      "position": "D",
+      "status": "DOUBTFUL",
+      "injury": "Limped off during match",
+      "timeline": "Wales Nations League matches ahead",
+      "source": "BBC Sport",
+      "impact": "Wales manager Craig Bellamy faces injury concern before the Nations League openers as Rodon's availability for international duty is now in question.",
+      "storyIndex": 0
     }
   ],
   "picks": [
-    {
-      "type": "moneyline",
-      "pick": "Miami Marlins ML",
-      "odds": "-105",
-      "edge": "Market fill from live lines: Miami Marlins is the books' favorite at -105 (best price @ LowVig.ag) against Washington Nationals at -102, favored even on the road. No researched edge here — this is a low-confidence market-consensus play added to round out the slate. Low confidence is honest confidence.",
-      "matchup": "Miami Marlins @ Washington Nationals",
-      "league": "MLB",
-      "when": "Tomorrow 12:16 PM ET",
-      "confidence": "low",
-      "_autofill": true,
-      "_scheduledTs": 1788106560000,
-      "marketSnapshot": {
-        "capturedAt": "2026-08-29T21:25:48.454Z",
-        "markets": {
-          "h2h": {
-            "away": {
-              "price": -105,
-              "book": "LowVig.ag"
-            },
-            "home": {
-              "price": -102,
-              "book": "FanDuel"
-            },
-            "draw": null
-          },
-          "spreads": {
-            "away": {
-              "point": -1.5,
-              "price": 145,
-              "book": "Fanatics"
-            },
-            "home": {
-              "point": 1.5,
-              "price": -170,
-              "book": "Caesars"
-            }
-          },
-          "totals": {
-            "over": {
-              "point": 8.5,
-              "price": -124,
-              "book": "FanDuel"
-            },
-            "under": {
-              "point": 9,
-              "price": -109,
-              "book": "LowVig.ag"
-            }
-          }
-        },
-        "awayTeam": "Miami Marlins",
-        "homeTeam": "Washington Nationals"
-      }
-    },
     {
       "type": "moneyline",
       "pick": "Atlanta Braves ML",
@@ -2599,6 +2537,61 @@
         "awayTeam": "Colorado Rockies",
         "homeTeam": "Atlanta Braves"
       }
+    },
+    {
+      "type": "moneyline",
+      "pick": "Miami Marlins ML",
+      "odds": "-105",
+      "edge": "Market fill from live lines: Miami Marlins is the books' favorite at -105 (best price @ LowVig.ag) against Washington Nationals at -102, favored even on the road. No researched edge here — this is a low-confidence market-consensus play added to round out the slate. Low confidence is honest confidence.",
+      "matchup": "Miami Marlins @ Washington Nationals",
+      "league": "MLB",
+      "when": "Tomorrow 12:16 PM ET",
+      "confidence": "low",
+      "_autofill": true,
+      "_scheduledTs": 1788106560000,
+      "marketSnapshot": {
+        "capturedAt": "2026-08-29T21:25:48.454Z",
+        "markets": {
+          "h2h": {
+            "away": {
+              "price": -105,
+              "book": "LowVig.ag"
+            },
+            "home": {
+              "price": -102,
+              "book": "FanDuel"
+            },
+            "draw": null
+          },
+          "spreads": {
+            "away": {
+              "point": -1.5,
+              "price": 145,
+              "book": "Fanatics"
+            },
+            "home": {
+              "point": 1.5,
+              "price": -170,
+              "book": "Caesars"
+            }
+          },
+          "totals": {
+            "over": {
+              "point": 8.5,
+              "price": -124,
+              "book": "FanDuel"
+            },
+            "under": {
+              "point": 9,
+              "price": -109,
+              "book": "LowVig.ag"
+            }
+          }
+        },
+        "awayTeam": "Miami Marlins",
+        "homeTeam": "Washington Nationals"
+      },
+      "_pendingGrade": true
     },
     {
       "type": "spread",
@@ -6198,15 +6191,69 @@
         "homeTeam": "Switzerland"
       },
       "_pendingGrade": true
+    },
+    {
+      "type": "moneyline",
+      "pick": "Boston Red Sox ML",
+      "odds": "-123",
+      "edge": "Market fill from live lines: Boston Red Sox is the books' favorite at -123 (best price @ DraftKings) against New York Yankees at +120, favored even on the road. No researched edge here — this is a low-confidence market-consensus play added to round out the slate. Low confidence is honest confidence.",
+      "matchup": "Boston Red Sox @ New York Yankees",
+      "league": "MLB",
+      "when": "Today 1:36 PM ET",
+      "confidence": "low",
+      "_autofill": true,
+      "_scheduledTs": 1788111360000,
+      "marketSnapshot": {
+        "capturedAt": "2026-08-30T18:18:18.746Z",
+        "markets": {
+          "h2h": {
+            "away": {
+              "price": -123,
+              "book": "DraftKings"
+            },
+            "home": {
+              "price": 120,
+              "book": "MyBookie.ag"
+            },
+            "draw": null
+          },
+          "spreads": {
+            "away": {
+              "point": -1,
+              "price": 112,
+              "book": "BetRivers"
+            },
+            "home": {
+              "point": 1.5,
+              "price": -167,
+              "book": "MyBookie.ag"
+            }
+          },
+          "totals": {
+            "over": {
+              "point": 5.5,
+              "price": 105,
+              "book": "Fanatics"
+            },
+            "under": {
+              "point": 6,
+              "price": -118,
+              "book": "MyBookie.ag"
+            }
+          }
+        },
+        "awayTeam": "Boston Red Sox",
+        "homeTeam": "New York Yankees"
+      }
     }
   ],
-  "updatedAt": "2026-04-23T18:45:00Z",
+  "updatedAt": "2026-08-30T16:45:00Z",
   "highlights": [
     {
       "league": "NBA",
-      "title": "THE EMOTION OF BECOMING AN NBA CHAMPION 🥹Happy 30th birthday Mikal Bridges",
-      "videoId": "gzRDzsgnRrY",
-      "thumbnail": "https://img.youtube.com/vi/gzRDzsgnRrY/mqdefault.jpg",
+      "title": "A look back at the time Nikola Jokić’s teammates recalled their favorite dimes from him last season",
+      "videoId": "lrJ72-6gxWk",
+      "thumbnail": "https://img.youtube.com/vi/lrJ72-6gxWk/mqdefault.jpg",
       "timeAgo": "1h ago",
       "isFallback": false
     },
@@ -6215,23 +6262,23 @@
       "title": "I Scored a Touchdown: Alshon Jeffery’s Super Bowl LII story | NFL on ESPN",
       "videoId": "NMzt40W0M2w",
       "thumbnail": "https://img.youtube.com/vi/NMzt40W0M2w/mqdefault.jpg",
-      "timeAgo": "2h ago",
+      "timeAgo": "5h ago",
       "isFallback": false
     },
     {
       "league": "MLB",
-      "title": "Think fast, Randy Arozarena 😅",
-      "videoId": "06TdNMHy7t8",
-      "thumbnail": "https://img.youtube.com/vi/06TdNMHy7t8/mqdefault.jpg",
+      "title": "Snoopy is a menace 😭 His first pitch didn't go exactly as planned ... or maybe it did",
+      "videoId": "CQPTe_pVQ8w",
+      "thumbnail": "https://img.youtube.com/vi/CQPTe_pVQ8w/mqdefault.jpg",
       "timeAgo": "1h ago",
       "isFallback": false
     },
     {
       "league": "NHL",
-      "title": "FULL REPLAY: Gaudreau Game 7 Winner! Stars @ Flames | 2022 Playoffs",
-      "videoId": "nCsYRIoMbxU",
-      "thumbnail": "https://img.youtube.com/vi/nCsYRIoMbxU/mqdefault.jpg",
-      "timeAgo": "14h ago",
+      "title": "EVERY GOAL Scored Last Season by the 2026-27 Vegas Golden Knights Roster",
+      "videoId": "ElVfy__lGB8",
+      "thumbnail": "https://img.youtube.com/vi/ElVfy__lGB8/mqdefault.jpg",
+      "timeAgo": "1h ago",
       "isFallback": false
     },
     {
@@ -6239,26 +6286,162 @@
       "title": "Toronto Tempo vs. Phoenix Mercury | FULL GAME HIGHLIGHTS | August 29, 2026",
       "videoId": "KDSr-HKaT5A",
       "thumbnail": "https://img.youtube.com/vi/KDSr-HKaT5A/mqdefault.jpg",
-      "timeAgo": "11h ago",
+      "timeAgo": "14h ago",
       "isFallback": false
     },
     {
       "league": "SOCCER",
-      "title": "😮‍💨⚽️🔥 (via @futebolraiz.2025/IG)",
-      "videoId": "7qOffowaBMI",
-      "thumbnail": "https://img.youtube.com/vi/7qOffowaBMI/mqdefault.jpg",
-      "timeAgo": "1h ago",
+      "title": "Paige Mateyer knocked it in 👏",
+      "videoId": "VKHVt8lr4g4",
+      "thumbnail": "https://img.youtube.com/vi/VKHVt8lr4g4/mqdefault.jpg",
+      "timeAgo": "Just now",
       "isFallback": false
     }
   ],
   "reels": [
     {
+      "league": "SOCCER",
+      "title": "Paige Mateyer knocked it in 👏",
+      "videoId": "VKHVt8lr4g4",
+      "author": "ESPN FC",
+      "pubDate": "2026-08-30T17:51:44+00:00",
+      "link": "https://www.youtube.com/watch?v=VKHVt8lr4g4"
+    },
+    {
       "league": "NBA",
-      "title": "THE EMOTION OF BECOMING AN NBA CHAMPION 🥹Happy 30th birthday Mikal Bridges",
-      "videoId": "gzRDzsgnRrY",
+      "title": "A look back at the time Nikola Jokić’s teammates recalled their favorite dimes from him last season",
+      "videoId": "lrJ72-6gxWk",
       "author": "NBA",
-      "pubDate": "2026-08-30T14:38:01+00:00",
-      "link": "https://www.youtube.com/watch?v=gzRDzsgnRrY"
+      "pubDate": "2026-08-30T17:39:35+00:00",
+      "link": "https://www.youtube.com/watch?v=lrJ72-6gxWk"
+    },
+    {
+      "league": "NBA",
+      "title": "Jayson Tatum's return, Bam's 83 POINTS, Shai breaking Wilt's 20+ point streak...all in one week🤯",
+      "videoId": "iRoIkoOr4Ww",
+      "author": "NBA",
+      "pubDate": "2026-08-30T17:36:24+00:00",
+      "link": "https://www.youtube.com/watch?v=iRoIkoOr4Ww"
+    },
+    {
+      "league": "NBA",
+      "title": "A look at Karl-Anthony Towns SPECIAL playmaking during New York's championship run 🏆",
+      "videoId": "hg5C32lfSlE",
+      "author": "NBA",
+      "pubDate": "2026-08-30T17:32:44+00:00",
+      "link": "https://www.youtube.com/watch?v=hg5C32lfSlE"
+    },
+    {
+      "league": "NBA",
+      "title": "Throwback to when Taylor Swift celebrated following the Knicks’ HISTORIC Game 4 comeback win!",
+      "videoId": "lvDWnrRQLVg",
+      "author": "NBA",
+      "pubDate": "2026-08-30T17:29:21+00:00",
+      "link": "https://www.youtube.com/watch?v=lvDWnrRQLVg"
+    },
+    {
+      "league": "NBA",
+      "title": "Mom’s &amp; grandmas always know best 🙂😂",
+      "videoId": "xKZV9TmVxK4",
+      "author": "NBA",
+      "pubDate": "2026-08-30T17:25:42+00:00",
+      "link": "https://www.youtube.com/watch?v=xKZV9TmVxK4"
+    },
+    {
+      "league": "NBA",
+      "title": "This HALFCOURT lob from Caleb Love to Shaedon Sharpe last season was PINPOINT 🎯",
+      "videoId": "3b6pRWuiri8",
+      "author": "NBA",
+      "pubDate": "2026-08-30T17:22:21+00:00",
+      "link": "https://www.youtube.com/watch?v=3b6pRWuiri8"
+    },
+    {
+      "league": "NBA",
+      "title": "How did Aaron Gordon find Joker perfectly on this NO-LOOK OVER-THE-HEAD dime last March?? 🤯",
+      "videoId": "O4wBycZfFQo",
+      "author": "NBA",
+      "pubDate": "2026-08-30T17:19:18+00:00",
+      "link": "https://www.youtube.com/watch?v=O4wBycZfFQo"
+    },
+    {
+      "league": "SOCCER",
+      "title": "Kylian Mbappe and Jude Bellingham BOTH SCORE ‼️ Real Madrid vs. Malaga | LALIGA Highlights | ESPN FC",
+      "videoId": "BSb9iSg0D4s",
+      "author": "ESPN FC",
+      "pubDate": "2026-08-30T17:17:16+00:00",
+      "link": "https://www.youtube.com/watch?v=BSb9iSg0D4s"
+    },
+    {
+      "league": "NBA",
+      "title": "Deni Avdija and Robert Williams III's incredible clutch Playoff alley-oop",
+      "videoId": "V0xBazbE6AY",
+      "author": "NBA",
+      "pubDate": "2026-08-30T17:16:50+00:00",
+      "link": "https://www.youtube.com/watch?v=V0xBazbE6AY"
+    },
+    {
+      "league": "MLB",
+      "title": "Snoopy is a menace 😭 His first pitch didn't go exactly as planned ... or maybe it did",
+      "videoId": "CQPTe_pVQ8w",
+      "author": "MLB",
+      "pubDate": "2026-08-30T17:00:35+00:00",
+      "link": "https://www.youtube.com/watch?v=CQPTe_pVQ8w"
+    },
+    {
+      "league": "NHL",
+      "title": "EVERY GOAL Scored Last Season by the 2026-27 Vegas Golden Knights Roster",
+      "videoId": "ElVfy__lGB8",
+      "author": "NHL",
+      "pubDate": "2026-08-30T17:00:33+00:00",
+      "link": "https://www.youtube.com/watch?v=ElVfy__lGB8"
+    },
+    {
+      "league": "SOCCER",
+      "title": "Jude Bellingham touch of class ✨",
+      "videoId": "VkqGm8m4mU0",
+      "author": "ESPN FC",
+      "pubDate": "2026-08-30T16:07:42+00:00",
+      "link": "https://www.youtube.com/watch?v=VkqGm8m4mU0"
+    },
+    {
+      "league": "SOCCER",
+      "title": "Ester Expósito cheering on Kylian Mbappé after that stunning goal ❤️👏",
+      "videoId": "OePhzvbsX9Q",
+      "author": "ESPN FC",
+      "pubDate": "2026-08-30T16:06:41+00:00",
+      "link": "https://www.youtube.com/watch?v=OePhzvbsX9Q"
+    },
+    {
+      "league": "MLB",
+      "title": "Marlins show off some teamwork getting the last out 💪",
+      "videoId": "5feBloPxVlg",
+      "author": "MLB",
+      "pubDate": "2026-08-30T16:00:13+00:00",
+      "link": "https://www.youtube.com/watch?v=5feBloPxVlg"
+    },
+    {
+      "league": "SOCCER",
+      "title": "Trinity Rodman talks CONFIDENCE with the Spirit in the NWSL and dating Ben Shelton! | SportsCenter",
+      "videoId": "KdU6LfNjdnA",
+      "author": "ESPN FC",
+      "pubDate": "2026-08-30T15:38:26+00:00",
+      "link": "https://www.youtube.com/watch?v=KdU6LfNjdnA"
+    },
+    {
+      "league": "SOCCER",
+      "title": "🚨 Gabriel Jesus is set to join Barcelona on a two-year contract 🚨 | ESPN FC",
+      "videoId": "NLOmzlgiTLA",
+      "author": "ESPN FC",
+      "pubDate": "2026-08-30T15:18:35+00:00",
+      "link": "https://www.youtube.com/watch?v=NLOmzlgiTLA"
+    },
+    {
+      "league": "MLB",
+      "title": "Elly De La Cruz rescued Seiya Suzuki 🤣",
+      "videoId": "l-Qh4c3EFmE",
+      "author": "MLB",
+      "pubDate": "2026-08-30T15:12:19+00:00",
+      "link": "https://www.youtube.com/watch?v=l-Qh4c3EFmE"
     },
     {
       "league": "MLB",
@@ -6325,22 +6508,6 @@
       "link": "https://www.youtube.com/watch?v=SYLFc83NPII"
     },
     {
-      "league": "MLB",
-      "title": "D-BACKS vs. GIANTS: Official Full Game 2 Highlights (August 29) | 2026 MLB Season",
-      "videoId": "JHLOkfoHOd8",
-      "author": "MLB",
-      "pubDate": "2026-08-30T05:56:27+00:00",
-      "link": "https://www.youtube.com/watch?v=JHLOkfoHOd8"
-    },
-    {
-      "league": "MLB",
-      "title": "PHILLIES vs. ANGELS: Official Full Game Highlights (August 29) | 2026 MLB Season",
-      "videoId": "gTv9E5Qqxw4",
-      "author": "MLB",
-      "pubDate": "2026-08-30T05:41:38+00:00",
-      "link": "https://www.youtube.com/watch?v=gTv9E5Qqxw4"
-    },
-    {
       "league": "WNBA",
       "title": "Toronto Tempo vs. Phoenix Mercury | FULL GAME HIGHLIGHTS | August 29, 2026",
       "videoId": "KDSr-HKaT5A",
@@ -6349,68 +6516,12 @@
       "link": "https://www.youtube.com/watch?v=KDSr-HKaT5A"
     },
     {
-      "league": "MLB",
-      "title": "RED SOX vs. YANKEES: Official Full Game 2 Highlights (August 29) | 2026 MLB Season",
-      "videoId": "BF_ybONf00E",
-      "author": "MLB",
-      "pubDate": "2026-08-30T02:57:22+00:00",
-      "link": "https://www.youtube.com/watch?v=BF_ybONf00E"
-    },
-    {
-      "league": "SOCCER",
-      "title": "Minnesota United FC vs. Orlando City SC  | MLS Highlights | ESPN FC",
-      "videoId": "R1J10OpqmNw",
-      "author": "ESPN FC",
-      "pubDate": "2026-08-30T02:51:31+00:00",
-      "link": "https://www.youtube.com/watch?v=R1J10OpqmNw"
-    },
-    {
-      "league": "SOCCER",
-      "title": "A 7-1 win for Inter Miami over Montreal 😳 (via MLS on Apple TV)",
-      "videoId": "dQBS5PZpFR8",
-      "author": "ESPN FC",
-      "pubDate": "2026-08-30T02:30:26+00:00",
-      "link": "https://www.youtube.com/watch?v=dQBS5PZpFR8"
-    },
-    {
-      "league": "SOCCER",
-      "title": "LIONEL MESSI IS UNREAL 🔥 (via MLS on Apple TV)",
-      "videoId": "hBEiA7E4xxA",
-      "author": "ESPN FC",
-      "pubDate": "2026-08-30T02:02:04+00:00",
-      "link": "https://www.youtube.com/watch?v=hBEiA7E4xxA"
-    },
-    {
-      "league": "SOCCER",
-      "title": "LIONEL MESSI SCORES 4 GOALS 🤯 Inter Miami vs. CF Montreal | MLS Highlights | ESPN FC",
-      "videoId": "W2bcowPctM4",
-      "author": "ESPN FC",
-      "pubDate": "2026-08-30T01:45:39+00:00",
-      "link": "https://www.youtube.com/watch?v=W2bcowPctM4"
-    },
-    {
       "league": "NHL",
       "title": "FULL REPLAY: Gaudreau Game 7 Winner! Stars @ Flames | 2022 Playoffs",
       "videoId": "nCsYRIoMbxU",
       "author": "NHL",
       "pubDate": "2026-08-30T01:00:06+00:00",
       "link": "https://www.youtube.com/watch?v=nCsYRIoMbxU"
-    },
-    {
-      "league": "SOCCER",
-      "title": "HOW DID ROBERT LEWANDOWSKI SCORE THIS? 🤯",
-      "videoId": "j1eGCvuj43M",
-      "author": "ESPN FC",
-      "pubDate": "2026-08-29T23:43:38+00:00",
-      "link": "https://www.youtube.com/watch?v=j1eGCvuj43M"
-    },
-    {
-      "league": "SOCCER",
-      "title": "Liverpool drop points again + Can Spurs recover from ‘DISASTROUS’ start? | ESPN FC",
-      "videoId": "Qv7YW7UYeBs",
-      "author": "ESPN FC",
-      "pubDate": "2026-08-29T23:25:32+00:00",
-      "link": "https://www.youtube.com/watch?v=Qv7YW7UYeBs"
     },
     {
       "league": "NHL",
@@ -6443,62 +6554,6 @@
       "author": "NHL",
       "pubDate": "2026-08-29T18:30:28+00:00",
       "link": "https://www.youtube.com/watch?v=37fOgui45jY"
-    },
-    {
-      "league": "NBA",
-      "title": "Still trying to figure out how he kicked the net full of basketballs 🤔",
-      "videoId": "Tsah78lYG7A",
-      "author": "NBA",
-      "pubDate": "2026-08-29T16:40:31+00:00",
-      "link": "https://www.youtube.com/watch?v=Tsah78lYG7A"
-    },
-    {
-      "league": "NBA",
-      "title": "HOW MANY PASSES do you count??",
-      "videoId": "nCYEm7S-N2I",
-      "author": "NBA",
-      "pubDate": "2026-08-29T16:35:48+00:00",
-      "link": "https://www.youtube.com/watch?v=nCYEm7S-N2I"
-    },
-    {
-      "league": "NBA",
-      "title": "New York Knicks 29-Point Comeback in Game 4 of the 2026 NBA Finals",
-      "videoId": "ONfEg1YMeZI",
-      "author": "NBA",
-      "pubDate": "2026-08-29T16:30:31+00:00",
-      "link": "https://www.youtube.com/watch?v=ONfEg1YMeZI"
-    },
-    {
-      "league": "NBA",
-      "title": "Jared McCain shows off his nails for the Western Conference Finals.",
-      "videoId": "v8cXwxsGmMU",
-      "author": "NBA",
-      "pubDate": "2026-08-29T16:18:40+00:00",
-      "link": "https://www.youtube.com/watch?v=v8cXwxsGmMU"
-    },
-    {
-      "league": "NBA",
-      "title": "Nikola Jović Game-Winning Lob to Andrew Wiggins",
-      "videoId": "NWLdisWaUBQ",
-      "author": "NBA",
-      "pubDate": "2026-08-29T16:12:26+00:00",
-      "link": "https://www.youtube.com/watch?v=NWLdisWaUBQ"
-    },
-    {
-      "league": "NBA",
-      "title": "Jamal Murray Insane Assist vs. Utah Jazz",
-      "videoId": "SsPX8ym0eNw",
-      "author": "NBA",
-      "pubDate": "2026-08-29T16:09:12+00:00",
-      "link": "https://www.youtube.com/watch?v=SsPX8ym0eNw"
-    },
-    {
-      "league": "NBA",
-      "title": "Top lobs of the 2025-26 NBA season!",
-      "videoId": "1LBXcU0huMQ",
-      "author": "NBA",
-      "pubDate": "2026-08-29T16:03:03+00:00",
-      "link": "https://www.youtube.com/watch?v=1LBXcU0huMQ"
     },
     {
       "league": "NHL",
@@ -6563,14 +6618,6 @@
       "author": "NFL on ESPN",
       "pubDate": "2026-08-28T20:55:05+00:00",
       "link": "https://www.youtube.com/watch?v=G1oUnthTBj8"
-    },
-    {
-      "league": "NFL",
-      "title": "Jeremy Fowler on who could be the Raiders' Week 1 starter 👀",
-      "videoId": "MHhhwDJxD3o",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-08-28T20:52:06+00:00",
-      "link": "https://www.youtube.com/watch?v=MHhhwDJxD3o"
     }
   ]
 }
