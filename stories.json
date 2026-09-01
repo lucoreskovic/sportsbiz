@@ -2,80 +2,72 @@
   "clusters": [
     {
       "category": "revenue",
-      "importance": 8,
-      "leadHeadline": "Man City agree £125m fee for Chelsea's Fernandez",
-      "leadSource": "BBC Sport · 2h ago",
-      "leadUrl": "https://www.bbc.co.uk/sport/football/articles/cr7deg1ze03o?at_medium=RSS&amp;at_campaign=rss",
-      "summary": "Manchester City agreed to pay £125m for Chelsea midfielder Enzo Fernández on deadline day, matching the British transfer record set by Liverpool for Alexander Isak last summer.",
-      "article": "<cite index=\"1-2\">Manchester City have agreed to pay a joint-British transfer record fee of £125m for Chelsea midfielder Enzo Fernandez.</cite> <cite index=\"1-4,1-5\">The clubs negotiated over the past 24 hours and have now reached an agreement, with Fernandez set to undergo a medical ahead of signing a long-term deal at the Etihad Stadium.</cite>\n\n<cite index=\"1-3\">Fernandez joined Chelsea from Benfica in 2023 for a then-British record fee of £107m, with his latest switch matching the £125m that Liverpool paid for Alexander Isak last summer.</cite> <cite index=\"4-7\">City stepped up talks in the last 48 hours and City will receive £5m over Chelsea's asking price of £120m.</cite>\n\n<cite index=\"5-6,5-7\">Argentina international Fernandez worked with City manager Enzo Maresca during the Italian's reign at Chelsea, and Maresca is keen to work with him again after losing a host of midfielders this summer.</cite> <cite index=\"5-8\">Fernandez was not involved in Chelsea's 4-3 Premier League win over Brighton on Sunday or their 2-0 Carabao Cup victory against Luton three days earlier, as reports in Argentina suggested he asked to be left out of the squad.</cite>\n\n<cite index=\"12-10,12-11\">It is the second time this summer that City have broken their own transfer record, following the £116m arrival of Elliot Anderson from Nottingham Forest, and Fernandez becomes the fourth player to move to a Premier League club for a fee of at least £100m this summer.</cite>",
-      "tweets": [
-        {
-          "url": "https://twitter.com/FabrizioRomano/status/2094818550682636771",
-          "html": "<blockquote class=\"twitter-tweet\" data-dnt=\"true\" data-theme=\"dark\"><p>🚨🔵 Enzo Fernández to Manchester City in a record British deal for £125m. Here we go! 🇦🇷 https://t.co/b5QGFpsZo0</p>&mdash; Fabrizio Romano (@FabrizioRomano) <a href=\"https://twitter.com/FabrizioRomano/status/2094818550682636771\">September 1, 2026</a></blockquote>",
-          "author_name": "Fabrizio Romano",
-          "author_url": "https://twitter.com/FabrizioRomano",
-          "dateMs": 1788278636000
-        }
-      ]
-    },
-    {
-      "category": "revenue",
-      "importance": 7,
-      "leadHeadline": "Alex Eala, Left Off Ashe, Sends US Open Ticket Prices Soaring",
-      "leadSource": "Sportico · just now",
-      "leadUrl": "https://www.sportico.com/leagues/tennis/2026/alex-eala-us-open-2026-ticket-prices-1234943612/",
-      "summary": "The USTA assigned Alex Eala to Louis Armstrong Stadium instead of Arthur Ashe for her first-round US Open match, yet resale ticket prices for the smaller venue surged immediately after the announcement. Eala's global fanbase, led by Filipino supporters, has made her one of tennis's most valuable draws.",
-      "article": "The USTA scheduled Alex Eala's first-round US Open match against American Mary Stoiana for Louis Armstrong Stadium on Tuesday night, the second-largest court at the Billie Jean King National Tennis Center, rather than Arthur Ashe Stadium. Within hours of the announcement, resale ticket prices for the Armstrong session spiked sharply.\n\nEala, 21, has become the Philippines' biggest sporting star since Manny Pacquiao, according to The Guardian. Her traveling fanbase descended on Flushing Meadows for the Open, and crowds began swelling in Armstrong Stadium a half hour before her practice sessions. Despite holding just one career main-draw win at the Open, she has already amassed global recognition through her ATP Tour appearances alongside boyfriend Frances Tiafoe.\n\nThe ticket surge reflects a mismatch between the USTA's court assignments and actual demand. Assigning a draw driver to a smaller venue while reserving the flagship Ashe for early-round matches between lower-ranked players is a chronic scheduling inefficiency in tennis. Eala's presence has exposed the disconnect: her appeal to international audiences, particularly Filipino fans, translates to ticket velocity that outpaces the USTA's predictions.\n\nThis mirrors a broader pattern. The Grand Slams have historically underestimated emerging international stars' commercial pull until resale markets force the correction.",
-      "tweets": []
-    },
-    {
-      "category": "revenue",
-      "importance": 6,
-      "leadHeadline": "Newcastle sign Fernandez-Pardo from Lille for £51m",
-      "leadSource": "BBC Sport · 4h ago",
-      "leadUrl": "https://www.bbc.co.uk/sport/football/articles/c5ylv97mn58o?at_medium=RSS&amp;at_campaign=rss",
-      "summary": "Newcastle United signed Belgian forward Matías Fernández-Pardo from Lille for £51.4 million on the transfer deadline. The deal adds depth to Newcastle's attack ahead of a challenging domestic and European season.",
-      "article": "Newcastle United signed Belgian forward Matías Fernández-Pardo from French club Lille for an initial £51.4 million on transfer deadline day. The fee can rise with performance-based add-ons, bringing the total package closer to the £60 million range.\n\nFernández-Pardo, 20, had impressed in Ligue 1 over two seasons with Lille, establishing himself as one of the league's most promising young attackers. His arrival bolsters Newcastle's forward line, which has faced consistency issues and injury rotation throughout the season.\n\nThe signing completes Newcastle's deadline activity, adding to an already active summer window. The club has prioritized youth and potential over proven Premier League performers, betting that younger players can develop into the foundation of a sustained top-four push.\n\nFernández-Pardo joins a Newcastle squad competing in both the Premier League and European competition, meaning rotation and fixture congestion will demand depth at multiple positions. His contract terms and expected debut timeline have not been disclosed, but the club indicated he will integrate immediately into squad training.",
+      "importance": 9,
+      "leadHeadline": "Stan Kroenke to Buy MLB's Angels for Record $4Billion",
+      "leadSource": "Sportico · 3h ago",
+      "leadUrl": "https://www.sportico.com/business/team-sales/2026/stan-kroenke-buy-los-angeles-angels-moreno-1234943636/",
+      "summary": "<cite index=\"1-4\">Stan Kroenke agreed to buy the Los Angeles Angels and their regional sports network for $4 billion</cite>, <cite index=\"2-1\">beating the previous MLB record for a sale of $3.9 billion set by the Padres earlier this year</cite>.",
+      "article": "<cite index=\"1-3\">Stan Kroenke has agreed to purchase a controlling stake in the Los Angeles Angels from the Moreno family</cite>. <cite index=\"1-4\">The transaction values the Los Angeles Angels and their regional sports network at $4 billion</cite>.\n\n<cite index=\"2-1\">The Angels were sold for a valuation of $4 billion, beating the previous MLB record for a sale of $3.9 billion set by the Padres' new owner earlier this year</cite>. <cite index=\"1-1,1-5\">The deal is expected to close in the first quarter of 2027</cite>.\n\n<cite index=\"1-6,1-7\">\"The Angels are a storied franchise anchored in a great market. We look forward to an exciting future with the Angels organization,\" Kroenke said in the release</cite>. <cite index=\"1-12\">\"The Moreno Family has been honored to steward the Angels for 23 years and we believe with KSE's experience and success they are the best next owner for the franchise,\" Arte Moreno said in a statement</cite>.\n\n<cite index=\"1-9\">KSE also owns the NFL's Los Angeles Rams, the NBA's Denver Nuggets and the NHL's Colorado Avalanche, as well as Major League Soccer's Colorado Rapids, the National Lacrosse League's Colorado Mammoth and the Premier League's Arsenal Football Club</cite>. <cite index=\"2-7\">The Angels have made the playoff only once since 2010</cite> and are <cite index=\"3-9\">on course for their 11th straight losing season</cite>.",
       "tweets": []
     },
     {
       "category": "contracts",
-      "importance": 5,
-      "leadHeadline": "Jalen Duren, Pistons still in contract standoff: When could the All-NBA center make a decision?",
-      "leadSource": "CBS Sports · just now",
-      "leadUrl": "https://www.cbssports.com/nba/news/jalen-duren-pistons-contract-offer/",
-      "summary": "Jalen Duren and the Detroit Pistons remain in contract negotiations with a qualifying offer deadline looming. If unsigned, Duren would become an unrestricted free agent next summer, complicating Detroit's roster construction.",
-      "article": "Detroit Pistons center Jalen Duren faces a deadline to sign his qualifying offer as contract talks with the franchise remain unresolved. If Duren declines and fails to agree on a long-term deal before the deadline, he will become an unrestricted free agent in the 2027 offseason.\n\nDuren, a second-round pick in 2022 who has developed into an All-NBA performer, holds leverage in negotiations. His strong play in year two of his rookie deal has placed him among the league's most valuable young centers, and his market value has increased substantially since draft night.\n\nThe Pistons are building around Duren and young guards Cade Cunningham and Jaden Ivey. Management faces a choice: pay Duren the salary his All-NBA designation commands, or risk losing him to free agency next summer. A multi-year extension at current market rates for elite young centers typically starts above $200 million.\n\nThe standoff is routine in modern NBA labor dynamics, but the stakes are high. The Pistons are in early stages of a rebuild and can ill afford a key piece to exit via free agency. Duren has no incentive to rush; letting the qualifying offer expire keeps him in control of his destiny.",
+      "importance": 8,
+      "leadHeadline": "Premier League breaks transfer record for second straight summer",
+      "leadSource": "BBC Sport · 1h ago",
+      "leadUrl": "https://www.bbc.co.uk/sport/football/articles/czxzk0znvzeo?at_medium=RSS&amp;at_campaign=rss",
+      "summary": "Premier League clubs spent £3.198 billion in summer 2026 transfers, breaking their all-time record for the second consecutive year. The spending surge reflects continued financial dominance of English football amid global market consolidation.",
+      "article": "Premier League clubs shattered their transfer spending record for the second straight summer, reaching £3.198 billion in the 2026 window. The total eclipses last year's previous high and underscores the league's financial separation from European competitors.\n\nThe spending reflects a two-tier transfer market: elite Premier League sides command resources unavailable to most continental rivals, accelerating player movement toward England. On the same deadline day, Chelsea agreed to sign Monaco's Lamine Camara for £47.1 million to replace outgoing midfielder Enzo Fernandez, while Manchester City completed multiple signings including Senegalese winger Ousmane Ndiaye and formalized its deal for Moises Caicedo. Newcastle earlier signed Jorge Fernandez-Pardo from Lille for £51 million.\n\nThe record comes as traditional powerhouses like Real Madrid and Paris Saint-Germain adopt more measured approaches to transfer spending. PSG has pivoted toward youth development and shrewd recruitment rather than blockbuster signings. Meanwhile, Saudi Pro League clubs, flush with PIF capital, have largely exhausted their appetite for marquee European stars after years of record-breaking deals.\n\nThe Premier League's spending dominance raises questions about competitive balance in the Champions League and whether wealth concentration in English football will produce sustained on-pitch advantage or simply inflate transfer fees across the market.",
       "tweets": []
     },
     {
       "category": "media",
-      "importance": 4,
-      "leadHeadline": "Stars games to reportedly stream on Prime Video",
-      "leadSource": "Sports Media Watch · 18h ago",
-      "leadUrl": "https://www.sportsmediawatch.com/2026/08/dallas-stars-reportedly-streaming-prime-video/",
-      "summary": "The Dallas Stars are leaving Victory+ and moving games to Amazon Prime Video, with the NHL producing content centrally. The Stars become the second NHL team to abandon Victory+ in recent months.",
-      "article": "The Dallas Stars are shifting their streaming home from Victory+ to Amazon Prime Video, marking the second NHL team to exit the Victory+ platform in recent months, according to Sports Business Journal.\n\nUnder the new arrangement, the NHL will produce games centrally for Prime Video distribution, rather than using Victory+'s decentralized production model. This centralizes content creation across the league's streaming strategy.\n\nThe Stars' departure reflects broader challenges facing Victory+, which launched as a centralized streaming hub for individual NHL teams. The platform has struggled to retain partners, with teams exploring alternatives that offer either wider distribution (like Prime Video) or greater production control. The NHL's move toward centralized production also signals a recalibration of how it approaches local/regional streaming, moving away from fragmented team-specific platforms.\n\nPrime Video has become a major player in sports rights, carrying select NFL Thursday Night Football games and acquiring other marquee inventory. Adding Stars games expands its NHL footprint beyond its existing national packages.\n\nThe Stars deal underscores the continued instability in regional sports streaming, where platforms have cycled through various ownership models, subscriber caps, and production standards over the past three years.",
-      "tweets": []
-    },
-    {
-      "category": "revenue",
-      "importance": 3,
-      "leadHeadline": "PGA of America CEO Talks Record Frisco Sales, Ryder Cup Future",
+      "importance": 7,
+      "leadHeadline": "Netflix Secures Commercial Distribution for Expanded NFL Slate",
       "leadSource": "Front Office Sports · just now",
-      "leadUrl": "https://frontofficesports.com/article/pga-america-ceo-talks-record-frisco-sales-ryder-cup-future/",
-      "summary": "The PGA of America reports strong sales momentum for the 2027 PGA Championship in Frisco, with executives discussing the event's role in the organization's long-term strategy and Ryder Cup hosting plans.",
-      "article": "The PGA of America reported record sales for the 2027 PGA Championship in Frisco, Texas, signaling strong demand for major championship tickets and hospitality packages. The organization's leadership discussed the event's strategic importance and the association's plans for future Ryder Cup hosting.\n\nFrisco has undergone significant infrastructure development to accommodate the event, including upgrades at the tournament host course. The strong sales figures suggest golf's commercial momentum remains solid despite a crowded major championship calendar.\n\nThe CEO indicated that Ryder Cup hosting is a priority for PGA of America long-term planning. The organization has not hosted the Ryder Cup on U.S. soil since 2016 (Hazeltine); the next American host is slated for 2027 (Quaker Ridge, Connecticut), followed by interest in future years.\n\nThe Frisco championship represents a continuation of the PGA of America's expansion strategy, rotating majors to underutilized markets in the Southwest and taking advantage of new venue capacity. The ticket sales success suggests golf galleries remain robust for premier events.",
+      "leadUrl": "https://frontofficesports.com/article/netflix-secures-commercial-distribution-for-expanded-nfl-slate/",
+      "summary": "Netflix secured the right to show its full NFL game slate in commercial establishments like bars and restaurants. The deal expands the streamer's presence beyond consumer homes as it ramps up live sports content.",
+      "article": "Netflix has secured commercial licensing rights to distribute its full NFL game slate in bars, restaurants, and other commercial viewing establishments. The move signals the streamer's intent to compete with traditional sports bars and broadcast television for live-sports viewership outside the home.\n\nThe commercial distribution deal removes a friction point for Netflix's sports expansion: prior to this agreement, bars and restaurants required separate licensing from the league and broadcasters to legally show games on their premises. Netflix's acquisition of rights to show games in these venues positions it as a full-service sports broadcaster rather than a consumer-only streaming service.\n\nThis follows Netflix's broader sports push, which includes its live-action Formula 1 content, professional wrestling deals, and acquisition of NFL Thursday Night Football rights. The commercial distribution agreement suggests Netflix is negotiating aggressively for ancillary rights bundles that traditional broadcasters have held for decades.\n\nThe deal's terms remain undisclosed, but the licensing arrangement typically requires separate compensation above the core broadcast rights fee. For Netflix, commercial distribution extends the value of its NFL investment and broadens its addressable audience beyond home subscribers. For the NFL, it guarantees game visibility in a key touchpoint where younger, cord-cutting demographics consume sports content.",
       "tweets": []
     },
     {
-      "category": "revenue",
-      "importance": 2,
-      "leadHeadline": "Emmitt Smith Accused of Running $2.5M Scheme on Solar Deal",
-      "leadSource": "Front Office Sports · 1h ago",
-      "leadUrl": "https://frontofficesports.com/article/emmitt-smith-accused-running-scheme-solar-deal/",
-      "summary": "Former Dallas Cowboys running back Emmitt Smith was sued over a solar energy investment deal that went wrong. The lawsuit alleges a scheme involving $2.5 million, marking a rare off-field legal entanglement for the NFL icon.",
-      "article": "Former Dallas Cowboys running back Emmitt Smith was sued over a solar energy deal that allegedly turned sour, with plaintiffs accusing him of running a $2.5 million scheme. The lawsuit details are minimal at this stage, but the case marks a significant legal challenge for the Hall of Famer.\n\nSmith, 57, has maintained a largely clean public profile since retiring in 2004, focusing on business ventures and media work. His involvement in a solar investment signals his participation in the renewable energy sector, a common target for high-net-worth athletes seeking diversified income streams outside traditional sports ownership.\n\nThe specifics of the alleged scheme have not been fully disclosed in available reports. Solar investment litigation involving celebrity figures often centers on misrepresentation of returns, improper fund handling, or undisclosed conflicts of interest. Smith's role—whether as a principal, investor, or endorser—remains unclear.\n\nThe case adds to a broader pattern of athlete-led business ventures facing legal scrutiny. Smith's legal team will likely move to resolve the matter quietly if the allegations lack substance, or fight the claims if they contest the scheme's existence entirely.",
+      "category": "media",
+      "importance": 6,
+      "leadHeadline": "The US Open Needs Influencers—and Influencers Need the USOpen",
+      "leadSource": "Sportico · 5h ago",
+      "leadUrl": "https://www.sportico.com/leagues/tennis/2026/alex-eala-us-open-2026-ticket-prices-1234943612/",
+      "summary": "Tennis influencers and player partners are reshaping US Open viewership and ticket demand, with Alex Eala's exclusion from Arthur Ashe Stadium driving ticket-price surges on secondary markets. The Grand Slams face pressure to recalibrate scheduling around emerging fan preferences.",
+      "article": "Alex Eala's omission from Arthur Ashe Stadium illuminated a blind spot at the US Open: the tournament's scheduling committee underestimated the draw of rising tennis stars whose social-media following rivals established seeded players. Within hours of the announcement that Eala's first-round match against American Mary Stoiana would play in Louis Armstrong Stadium instead of the flagship venue, resale ticket prices for her match soared.\n\nEala, a 20-year-old Filipino player, has built a substantial online following that extends beyond traditional tennis demographics. Her exclusion from Ashe, which typically hosts marquee matches and American players, reflects the Grand Slams' lingering reliance on seeding and ranking as primary scheduling tools rather than audience interest and social-media metrics.\n\nThe incident points to a broader shift in how live sports attract younger viewers. Player partners and influencers traveling the ATP and WTA tours have become secondary attractions in their own right. Ayan Broomfield, a former NCAA doubles champion at UCLA now traveling with ATP player Frances Tiafoe, exemplifies this crossover: her social-media presence brings viewers to matches who might not otherwise follow tennis.\n\nThe US Open's ticket-price movement suggests the tournament missed revenue and visibility opportunities by adhering to traditional scheduling hierarchies. If the trend continues, Grand Slams may need to incorporate influencer status and social-media following into scheduling algorithms, a departure from century-old selection methods based purely on ranking.",
+      "tweets": []
+    },
+    {
+      "category": "labor",
+      "importance": 5,
+      "leadHeadline": "Colts GM Chris Ballard blasts NFL players returning to college: Stupidest s--- I've ever heard",
+      "leadSource": "CBS Sports · just now",
+      "leadUrl": "https://www.cbssports.com/nfl/news/chris-ballard-nfl-players-returning-college/",
+      "summary": "Indianapolis Colts GM Chris Ballard criticized former NFL players seeking another year of college eligibility, joining other league executives in opposing the NCAA's recent ruling. Ballard's comments underscore front-office frustration with the expanded transfer portal and eligibility rules.",
+      "article": "Colts general manager Chris Ballard joined a growing chorus of NFL executives criticizing former professional players attempting to use NCAA eligibility to return to college football. Ballard's blunt assessment reflects broader front-office concern that the expanded transfer portal and eligibility rules are creating competitive imbalances and undermining the draft's predictability.\n\nThe issue gained traction after several former NFL players explored returning to college under NCAA rules that allow professional athletes to regain eligibility under certain circumstances. Ballard's criticism suggests the Colts and other teams view this as an end-run around the professional labor market.\n\nThe divide between the NFL and NCAA over player movement illustrates a larger tension: the college game increasingly functions as a minor-league pipeline for the NFL, yet operates under regulatory frameworks that predate modern player mobility. When college rosters include players with professional experience and name recognition, traditional recruiting advantages shift, and draft preparation becomes more complex.\n\nBallard's comment also signals frustration with the NCAA's handling of eligibility rules in an era of unrestricted transfer rights. The loose enforcement of professional-player eligibility may reflect the NCAA's broader institutional weakness following antitrust litigation and the Name, Image, and Likeness era.\n\nOther league figures have echoed similar frustration, suggesting this could become a negotiating point in future discussions between the NFL and college football governing bodies.",
+      "tweets": []
+    },
+    {
+      "category": "leagues",
+      "importance": 4,
+      "leadHeadline": "Warriors Called Allegations False and Misleading in Retaliation and Discrimination Suit",
+      "leadSource": "Front Office Sports · just now",
+      "leadUrl": "https://frontofficesports.com/article/ex-warriors-employees-claim-retaliation-discrimination-in-suit/",
+      "summary": "Former Golden State Warriors employees filed a retaliation and discrimination suit against the organization. The Warriors denied the allegations and called them false.",
+      "article": "Former Golden State Warriors employees filed a lawsuit alleging retaliation and discrimination by the franchise, marking another high-profile employment dispute in professional sports. The Warriors issued a statement characterizing the allegations as false and misleading.\n\nThe suit's specific claims remain under seal pending procedural motions, but the filing joins a growing number of workplace disputes involving NBA teams in recent years. The Warriors have faced prior employment litigation and workplace-culture questions, though the organization has generally maintained strong operational standing in league circles.\n\nThe retaliation and discrimination allegations suggest either wage disputes, unequal treatment based on protected status, or adverse employment actions following internal complaints. Warriors spokesman statements typically emphasize the organization's commitment to workplace standards and fair treatment.\n\nThe case's resolution will likely hinge on internal communications and personnel records, discovery that could reveal workplace practices. The Warriors' legal response typically includes detailed factual rebuttals and procedural challenges to claims.\n\nEmployment litigation has become more common across professional sports organizations as institutional pressure to maintain diverse, inclusive workplaces has intensified. Several NBA and NFL franchises have faced high-profile disputes in recent years involving coaching staff, front-office employees, and support personnel.",
+      "tweets": []
+    },
+    {
+      "category": "media",
+      "importance": 3,
+      "leadHeadline": "Dallas Stars games to reportedly stream on Prime Video",
+      "leadSource": "Sports Media Watch · 22h ago",
+      "leadUrl": "https://www.sportsmediawatch.com/2026/08/dallas-stars-reportedly-streaming-prime-video/",
+      "summary": "The Dallas Stars are departing Victory+ streaming platform for Amazon Prime Video under the NHL's centralized production solution. The Stars become the second NHL team to leave Victory+ following another recent departure.",
+      "article": "The Dallas Stars are leaving Victory+, the regional sports streaming platform, for Amazon Prime Video, marking the second NHL franchise to exit Victory+ in recent months. The Stars' games will be produced centrally by the NHL rather than through Victory+'s regional approach.\n\nThe shift reflects broader industry consolidation in sports streaming. Victory+, backed by Sinclair Broadcast Group and established as a regional alternative to traditional cable sports networks, has struggled to compete with direct-to-consumer platforms like Amazon Prime Video and Apple TV+. Major sports organizations increasingly view centralized production and tier-one streaming platforms as superior to regional streaming services, particularly as audiences fragment across multiple services.\n\nThe NHL's centralized production model allows the league to maintain consistent quality and packaging across all games, similar to how the NFL manages its broadcast output. This approach also simplifies promotional efforts and licensing negotiations.\n\nThe Stars' departure signals that regional streaming platforms may not be viable long-term homes for premium sports content, particularly when teams can shift to established consumer platforms like Prime Video. For the NHL, each team departure from Victory+ reinforces the league's direct relationships with major streamers and reduces reliance on third-party regional platforms.",
       "tweets": []
     }
   ],
@@ -2402,93 +2394,95 @@
   "deals": [
     {
       "type": "acquisition",
-      "parties": "Manchester City ⇄ Chelsea (Enzo Fernández)",
-      "value_usd": 156000000,
+      "parties": "Stan Kroenke ⇄ Los Angeles Angels",
+      "value_usd": 4000000000,
       "term_years": null,
-      "league": "SOCCER",
-      "headline": "Man City agree British transfer record £125m for Fernández",
-      "storyIndex": 4,
-      "blurb": "Manchester City paid £125m for Chelsea midfielder Enzo Fernández, a British transfer record surpassing Harry Maguire's £100m.",
-      "capturedAt": "2026-09-01T18:04:49.143Z"
-    },
-    {
-      "type": "acquisition",
-      "parties": "Newcastle United ⇄ Lille (Matías Fernández-Pardo)",
-      "value_usd": 64250000,
-      "term_years": null,
-      "league": "SOCCER",
-      "headline": "Newcastle sign Fernández-Pardo from Lille for £51.4m",
-      "storyIndex": 12,
-      "blurb": "Newcastle signed Belgian forward Matías Fernández-Pardo from Lille for £51.4m initial fee with performance add-ons.",
-      "capturedAt": "2026-09-01T18:04:49.143Z"
+      "league": "MLB",
+      "headline": "Stan Kroenke to Buy MLB's Angels for Record $4 Billion",
+      "storyIndex": 1,
+      "blurb": "Kroenke agreed to purchase the Angels for $4B, the highest MLB franchise valuation on record, ending Arte Moreno's 23-year ownership.",
+      "capturedAt": "2026-09-01T21:31:33.545Z"
     }
   ],
   "ratings": [],
   "ticket_prices": [],
   "sidebar": [
     {
-      "headline": "Tennis players using surprising hack to fight cramps at US Open",
+      "headline": "Matthew Mayich, Arizona State Hockey Player, In Coma After Workout Collapse",
       "source": "NY Post Sports · just now",
-      "article": "Players competing at this year's US Open have adopted an unconventional method to combat muscle cramps during matches, departing from traditional remedies like the Honey Deuce. The technique has gained traction among the field as temperatures and humidity levels spike during the tournament's early rounds. Several top players have quietly incorporated the method into their on-court routine, with trainers noting improved match completion rates. The exact nature of the hack remains largely under the radar, though sources suggest it involves a combination of hydration timing and electrolyte supplementation rather than a single silver-bullet solution. As the tournament progresses into deeper rounds, expect more players to adopt similar strategies."
+      "article": "Arizona State University hockey player Matthew Mayich collapsed during an outdoor team workout on August 20 and remains in a coma with zero chance of recovery, according to his family's lawyer Robert Carey. The exact cause of the collapse has not been disclosed, but the incident raises questions about medical oversight during athletic activities. ASU's athletic department has not issued a public statement regarding the incident or any changes to workout protocols. The family's legal team is reportedly exploring options related to the university's duty of care and medical response."
     },
     {
-      "headline": "Cam Newton: NIL Chaos and Content Empire",
-      "source": "Front Office Sports · just now",
-      "article": "Former NFL quarterback Cam Newton weighed in on the state of college football's Name, Image, and Likeness landscape, arguing that athletes need to build their own content platforms rather than rely solely on institutional deals. Newton, who has built a substantial media presence outside traditional broadcast channels, emphasized the volatility and uncertainty surrounding NIL compensation. His perspective highlights a growing divide in college sports between athletes who secure guaranteed sponsorships and those left scrambling for piecemeal deals. Newton contends that athletes should treat NIL as a stepping stone toward media entrepreneurship, not an end goal. His message resonates with a generation of players navigating unprecedented monetization opportunities while managing reputational risk."
+      "headline": "Tiger Woods Set to Change Plea in Florida DUI Case",
+      "source": "NY Post Sports · just now",
+      "article": "Tiger Woods is expected to change his plea in his ongoing Florida DUI case stemming from a March rollover crash. According to police reports, officers found two hydrocodone pills in Woods' pocket and the golf legend failed a field sobriety test at the accident scene. Woods has not disclosed the specific direction of his plea change or whether it involves a guilty disposition. The case has drawn scrutiny given Woods' past legal matters and his current status on the PGA Tour after spinal-fusion surgery recovery."
     },
     {
-      "headline": "The US Open Needs Influencers—and Influencers Need the US Open",
-      "source": "Sportico · 1h ago",
-      "article": "Ayan Broomfield, a former NCAA women's doubles champion at UCLA, has become a fixture on the professional tennis circuit as the companion of ATP star Frances Tiafoe. Now traveling the world alongside Tiafoe and leveraging her perspectives as both a former player and current insider, Broomfield has carved out a unique role in tennis media and fandom. Her presence at the US Open highlights a growing symbiosis between the Grand Slams and influencer culture, where players' partners and adjacent personalities amplify reach to younger audiences. Broomfield's dual credibility—athleticism and proximity to top competitors—creates content opportunities that traditional tennis media cannot replicate. The USTA has begun recognizing these dynamics, inviting personalities into premium hospitality and social media coverage to expand the tournament's digital footprint."
+      "headline": "Skylar Diggins Laments Chicago Sky's Practice Facility Delay",
+      "source": "Front Office Sports · 1h ago",
+      "article": "Chicago Sky star Skylar Diggins expressed frustration over delays in the team's planned practice facility, underscoring ongoing infrastructure gaps in the WNBA. Diggins stated she expects to remain with the Sky next season despite the setback. The facility delay reflects broader WNBA challenges in securing capital for arena and training upgrades compared to NBA franchises. The Sky have operated from shared and temporary facilities for years, a constraint that affects player development and recruitment."
     },
     {
-      "headline": "Exec Exodus: Crypto.com Shakes Up Prediction Market Subsidiary",
-      "source": "Sportico · 2h ago",
-      "article": "Steve Goodsell stepped down as chief technology officer of CDNA, Crypto.com's prediction market exchange subsidiary, marking the latest executive departure in a wave of turnover. Since November of last year, CDNA has lost its CEO Travis McGhee, chief compliance officer Kevin Dan, and chief risk officer Wen Jiang. The prediction market space has attracted intense regulatory scrutiny and consumer skepticism following high-profile failures in the crypto sector. CDNA's struggle to retain senior leadership suggests instability at the operational level, despite Crypto.com's broader backing. The CEO role remains the only senior position currently filled, leaving critical functions like technology, compliance, and risk management in limbo or assigned to interim leaders."
+      "headline": "Carlos Delgado on Vladimir Guerrero Jr.'s Season-Long Slump",
+      "source": "Sportsnet · just now",
+      "article": "Toronto Blue Jays legend Carlos Delgado weighed in on Vladimir Guerrero Jr.'s ongoing offensive struggles, joining broadcasters Blair and Barker in discussing the superstar's adjustment challenges. Delgado emphasized the difficulty of making mid-season corrections at the plate when slumps persist. Guerrero Jr. has underperformed relative to preseason expectations this year, leading to questions about his approach and health. Delgado's commentary drew parallels to his own career adjustments and the mental toll of prolonged underperformance."
     },
     {
-      "headline": "Blue Jays Miles to open vs. Guardians, Arrighetti likely to follow",
-      "source": "Sportsnet · 3h ago",
-      "article": "Toronto Blue Jays pitcher Miles opens the team's upcoming series against the Cleveland Guardians, with fellow starter Arrighetti likely to follow in subsequent games. The matchup carries playoff-race implications as both teams jostle for positioning in the AL East and wild-card standings. Miles has performed inconsistently through the season, making his start against a Guardians lineup ranked among baseball's most efficient contact hitters a significant test. Arrighetti's availability and workload management will factor into Toronto's rotation planning over the next two weeks. The series will shed light on whether the Blue Jays' offensive adjustments and recent roster tweaks have moved the needle in a crowded division."
+      "headline": "Blue Jays Miles to Open vs. Guardians, Arrighetti Likely to Follow",
+      "source": "Sportsnet · 7h ago",
+      "article": "The Toronto Blue Jays have Miles slated to open their upcoming series against the Cleveland Guardians, with pitcher Arrighetti expected to follow in the rotation. The matchup pits two AL East contenders in a key late-season series. Miles' start will be his first since returning from recent arm fatigue, marking a test of his durability down the stretch. The series carries playoff implications for both clubs as the season enters its final weeks."
     },
     {
-      "headline": "Howling over Herbstreit's dog",
-      "source": "Sports Media Watch · 2h ago",
-      "article": "Kirk Herbstreit and his dog Peter have become the subject of widespread backlash and commentary in sports media circles. The ESPN college football analyst's decision to feature his pet in on-air segments and social media content has drawn mixed reactions, with some viewers appreciating the personal touch and others viewing it as a distraction from game analysis. Peter the dog has become a recognizable personality in its own right, appearing regularly during Herbstreit's broadcasts and digital content. The dynamic reflects broader trends in sports broadcasting, where on-air talent increasingly blur the lines between professional commentary and personal brand extension. Whether the gambit boosts or detracts from Herbstreit's credibility remains debated among colleagues and viewers."
+      "headline": "On the Air: Backlash Against Kirk Herbstreit and His Dog Peter",
+      "source": "Sports Media Watch · 6h ago",
+      "article": "ESPN broadcaster Kirk Herbstreit faced social-media backlash following appearances featuring his dog Peter on air, drawing mixed reactions from viewers about the appropriateness of pets in sports broadcasting. Herbstreit has incorporated personal elements into his segments, and Peter's appearances have generated both fan enthusiasm and criticism from traditionalists. The incident underscores broader shifts in sports media around on-air personality and authenticity versus formal broadcast standards. Sports Media Watch tracked the conversation across multiple platforms."
     }
   ],
   "poll": {
-    "question": "How do you rate the USTA's court assignments for emerging tennis stars like Alex Eala?",
+    "question": "Will Stan Kroenke's $4B Angels purchase produce a World Series title within five years?",
     "options": [
-      "Too conservative—assign breakout players to premium courts immediately",
-      "Roughly right—let demand data drive assignments over time",
-      "Shouldn't rely on resale prices—use historical seeding only",
-      "Courts don't matter; Eala would draw fans anywhere"
+      "Yes, new ownership invests heavily in roster upgrades",
+      "No, systemic issues run too deep for quick turnaround",
+      "Unclear, depends on front-office hiring and draft strategy",
+      "Not applicable, Kroenke will delegate operations to existing structure"
     ]
   },
   "predictions": [
     {
-      "statement": "Manchester City's £125m investment in Enzo Fernández will validate Pep Guardiola's midfield vision and yield a title challenge within two seasons.",
-      "probability": 62,
-      "rationale": "Fernández has elite pedigree and City's system typically improves young players, but the fee is steep for someone who struggled at Chelsea. Integration and durability over two seasons remain unknowns."
+      "statement": "Premier League clubs will exceed £3.3 billion in summer 2027 transfer spending, continuing year-over-year growth.",
+      "probability": 72,
+      "rationale": "Record-breaking has become routine as elite English clubs leverage TV revenue and commercial dominance. Financial discipline remains absent, and Saudi competition has largely subsided, removing the one external check on spending."
     },
     {
-      "statement": "Alex Eala reaches the US Open quarterfinals, triggering a sustained surge in Grand Slam ticket demand for her future matches.",
-      "probability": 45,
-      "rationale": "She has only one main-draw win at the Open, so the surface and field are steep hurdles. But her fanbase is genuine and her trajectory has improved; reaching the QF is plausible within three years."
+      "statement": "At least one more NHL team exits Victory+ for a tier-one streaming platform (Amazon, Apple, or similar) by end of 2026.",
+      "probability": 68,
+      "rationale": "The Stars' departure and the prior exit of another team signal Victory+'s inability to compete on distribution and brand equity. Regional platforms struggle when national alternatives exist."
     },
     {
-      "statement": "Jalen Duren signs a rookie extension with the Pistons worth $200M+ before the qualifying offer deadline passes.",
-      "probability": 70,
-      "rationale": "All-NBA status commands top-dollar money; Pistons can afford it and need to retain their core. Both sides benefit from certainty. The deadline will force resolution."
+      "statement": "The NFL and NCAA will announce formal coordination on player-movement rules to limit professional athletes' college eligibility by mid-2027.",
+      "probability": 55,
+      "rationale": "Front-office frustration is mounting, but the NCAA's institutional weakness and recent antitrust losses limit its leverage. The NFL may prefer hands-off regulation rather than negotiated rules."
     },
     {
-      "statement": "Victory+ folds or is absorbed into another platform within 18 months as a standalone entity.",
-      "probability": 58,
-      "rationale": "The Stars' departure is the second major team exit; the platform's decentralized model is proving uncompetitive against centralized NHL streaming. A consolidation or shutdown is increasingly likely."
+      "statement": "Alex Eala will be seeded at a Grand Slam within two years and scheduled in a primary stadium.",
+      "probability": 78,
+      "rationale": "Her social-media following and resale-market demand signal genuine commercial pull beyond traditional seeding models. Grand Slams will adjust scheduling algorithms to capture revenue and viewership from influencer-driven interest."
     }
   ],
-  "injuries": [],
+  "injuries": [
+    {
+      "player": "Matthew Mayich",
+      "team": "Arizona State University",
+      "league": "OTHER",
+      "position": "F",
+      "status": "OUT",
+      "injury": "Collapsed during outdoor workout, coma",
+      "timeline": "Out for season, zero chance of recovery per family attorney",
+      "source": "NY Post Sports",
+      "impact": "ASU hockey program faces loss of roster contributor and significant medical/legal exposure; team protocols under scrutiny.",
+      "storyIndex": 10
+    }
+  ],
   "picks": [
     {
       "type": "moneyline",
@@ -6198,29 +6192,29 @@
       "_pendingGrade": true
     }
   ],
-  "updatedAt": "2026-06-08T23:47:00Z",
+  "updatedAt": "2026-06-08T00:00:00Z",
   "highlights": [
     {
       "league": "NBA",
-      "title": "The DEEPEST Shots of the 2025-26 NBA Season",
-      "videoId": "42dNv7U0TgQ",
-      "thumbnail": "https://img.youtube.com/vi/42dNv7U0TgQ/mqdefault.jpg",
-      "timeAgo": "2h ago",
-      "isFallback": false
-    },
-    {
-      "league": "NFL",
-      "title": "Former NFL lineman AQ Shipley on lining up against Aaron Donald | The Pat McAfee Show",
-      "videoId": "P6LlLcGlo0c",
-      "thumbnail": "https://img.youtube.com/vi/P6LlLcGlo0c/mqdefault.jpg",
+      "title": "Bam Adebayo talks about the moment with his Mom after his 83 PT game.",
+      "videoId": "dhzz7EOSGjY",
+      "thumbnail": "https://img.youtube.com/vi/dhzz7EOSGjY/mqdefault.jpg",
       "timeAgo": "1h ago",
       "isFallback": false
     },
     {
+      "league": "NFL",
+      "title": "Chargers HC Jim Harbaugh says Justin Herbert is 'GREAT AT EVERYTHING!' 🤷‍♂️ | The Rich Eisen Show",
+      "videoId": "W2-qq57I93I",
+      "thumbnail": "https://img.youtube.com/vi/W2-qq57I93I/mqdefault.jpg",
+      "timeAgo": "2h ago",
+      "isFallback": false
+    },
+    {
       "league": "MLB",
-      "title": "HOLY COW! 🐮 Colton Cowser GAME-ENDING HOME RUN ROBBERY 🤯 | MLB Highlights",
-      "videoId": "8x0bP1AYJ1o",
-      "thumbnail": "https://img.youtube.com/vi/8x0bP1AYJ1o/mqdefault.jpg",
+      "title": "Baseball is being played under blacklight and it’s absolutely electric 🤯",
+      "videoId": "baDsbQ40G9E",
+      "thumbnail": "https://img.youtube.com/vi/baDsbQ40G9E/mqdefault.jpg",
       "timeAgo": "1h ago",
       "isFallback": false
     },
@@ -6229,7 +6223,7 @@
       "title": "EVERY GOAL Scored Last Season by the 2026-27 Winnipeg Jets Roster",
       "videoId": "gZoFV3NVZdo",
       "thumbnail": "https://img.youtube.com/vi/gZoFV3NVZdo/mqdefault.jpg",
-      "timeAgo": "3h ago",
+      "timeAgo": "7h ago",
       "isFallback": false
     },
     {
@@ -6237,7 +6231,7 @@
       "title": "Week 14: Western Conference Player of the Week- Veronica Burton",
       "videoId": "OIHpTM_Hlgk",
       "thumbnail": "https://img.youtube.com/vi/OIHpTM_Hlgk/mqdefault.jpg",
-      "timeAgo": "1h ago",
+      "timeAgo": "4h ago",
       "isFallback": false
     },
     {
@@ -6245,11 +6239,99 @@
       "title": "Defining Lionel Messi's GREATNESS with Argentina | Futbol Americas",
       "videoId": "T9X9RJxgOcE",
       "thumbnail": "https://img.youtube.com/vi/T9X9RJxgOcE/mqdefault.jpg",
-      "timeAgo": "2h ago",
+      "timeAgo": "5h ago",
       "isFallback": false
     }
   ],
   "reels": [
+    {
+      "league": "NBA",
+      "title": "Bam Adebayo talks about the moment with his Mom after his 83 PT game.",
+      "videoId": "dhzz7EOSGjY",
+      "author": "NBA",
+      "pubDate": "2026-09-01T20:33:23+00:00",
+      "link": "https://www.youtube.com/watch?v=dhzz7EOSGjY"
+    },
+    {
+      "league": "MLB",
+      "title": "Baseball is being played under blacklight and it’s absolutely electric 🤯",
+      "videoId": "baDsbQ40G9E",
+      "author": "MLB",
+      "pubDate": "2026-09-01T20:33:17+00:00",
+      "link": "https://www.youtube.com/watch?v=baDsbQ40G9E"
+    },
+    {
+      "league": "NBA",
+      "title": "The 80+ point club gained its third-ever member last season!",
+      "videoId": "bgXXffUyiDg",
+      "author": "NBA",
+      "pubDate": "2026-09-01T20:29:13+00:00",
+      "link": "https://www.youtube.com/watch?v=bgXXffUyiDg"
+    },
+    {
+      "league": "NBA",
+      "title": "2025-26 SCOOBY 360° DUNKS HIGHLIGHT TAPE 🚨",
+      "videoId": "OOaJHRnujhk",
+      "author": "NBA",
+      "pubDate": "2026-09-01T20:20:47+00:00",
+      "link": "https://www.youtube.com/watch?v=OOaJHRnujhk"
+    },
+    {
+      "league": "NBA",
+      "title": "Victor Wembanyama arrived in STYLE all season long 🔥",
+      "videoId": "QXLq8zpY9No",
+      "author": "NBA",
+      "pubDate": "2026-09-01T20:13:28+00:00",
+      "link": "https://www.youtube.com/watch?v=QXLq8zpY9No"
+    },
+    {
+      "league": "MLB",
+      "title": "PETE CROW-ARMSTRONG'S AUGUST FOR THE AGES! 🤯🤯🤯 (14 HR, 28 RBI, 1.069 OPS) | 2026 MLB Highlights",
+      "videoId": "PI2R3fp9pGQ",
+      "author": "MLB",
+      "pubDate": "2026-09-01T20:00:30+00:00",
+      "link": "https://www.youtube.com/watch?v=PI2R3fp9pGQ"
+    },
+    {
+      "league": "NFL",
+      "title": "Chargers HC Jim Harbaugh says Justin Herbert is 'GREAT AT EVERYTHING!' 🤷‍♂️ | The Rich Eisen Show",
+      "videoId": "W2-qq57I93I",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-09-01T19:30:55+00:00",
+      "link": "https://www.youtube.com/watch?v=W2-qq57I93I"
+    },
+    {
+      "league": "MLB",
+      "title": "Sal Stewart had no words for Jackson Merrill’s ridiculous grab 😅",
+      "videoId": "L3zGMfviyf0",
+      "author": "MLB",
+      "pubDate": "2026-09-01T19:30:09+00:00",
+      "link": "https://www.youtube.com/watch?v=L3zGMfviyf0"
+    },
+    {
+      "league": "MLB",
+      "title": "Curtis Granderson robbed a walk-off home run to preserve a shutout for Justin Verlander in 2009 😲",
+      "videoId": "agXy1JflimM",
+      "author": "MLB",
+      "pubDate": "2026-09-01T18:30:00+00:00",
+      "link": "https://www.youtube.com/watch?v=agXy1JflimM"
+    },
+    {
+      "league": "MLB",
+      "title": "This dog had it better than anyone at the game 😂",
+      "videoId": "4KmLp3hDVVw",
+      "author": "MLB",
+      "pubDate": "2026-09-01T18:00:33+00:00",
+      "link": "https://www.youtube.com/watch?v=4KmLp3hDVVw"
+    },
+    {
+      "league": "MLB",
+      "title": "Phillies' CLEAN-UP HITTER Luis Arraez has been a FANTASTIC Trade Deadline addition | MLB Highlights",
+      "videoId": "XZlMJCJj1A4",
+      "author": "MLB",
+      "pubDate": "2026-09-01T18:00:00+00:00",
+      "link": "https://www.youtube.com/watch?v=XZlMJCJj1A4"
+    },
     {
       "league": "NFL",
       "title": "Former NFL lineman AQ Shipley on lining up against Aaron Donald | The Pat McAfee Show",
@@ -6315,28 +6397,12 @@
       "link": "https://www.youtube.com/watch?v=42dNv7U0TgQ"
     },
     {
-      "league": "MLB",
-      "title": "Fernando Tatis Jr. SLUGGED 9 homers in August as Padres make Postseason push 😳 | MLB Highlights",
-      "videoId": "_f7U5KMykxI",
-      "author": "MLB",
-      "pubDate": "2026-09-01T16:04:10+00:00",
-      "link": "https://www.youtube.com/watch?v=_f7U5KMykxI"
-    },
-    {
       "league": "NFL",
       "title": "Is Myles Garrett the No. 1️⃣ player in the NFL?! Stephen A. thinks so 👀 | First Take",
       "videoId": "grGKRAOOe1o",
       "author": "NFL on ESPN",
       "pubDate": "2026-09-01T16:01:45+00:00",
       "link": "https://www.youtube.com/watch?v=grGKRAOOe1o"
-    },
-    {
-      "league": "MLB",
-      "title": "Josh Harrison breaks out all the moves to avoid these tags 🤯",
-      "videoId": "oe7WJZW_1Wo",
-      "author": "MLB",
-      "pubDate": "2026-09-01T16:00:16+00:00",
-      "link": "https://www.youtube.com/watch?v=oe7WJZW_1Wo"
     },
     {
       "league": "NBA",
@@ -6379,14 +6445,6 @@
       "link": "https://www.youtube.com/watch?v=QXz9jJaTs50"
     },
     {
-      "league": "MLB",
-      "title": "Top 10 'Baseball Is The BEST' Moments in History! | MLB 250 For 250",
-      "videoId": "LOap3Obw_OM",
-      "author": "MLB",
-      "pubDate": "2026-09-01T15:30:09+00:00",
-      "link": "https://www.youtube.com/watch?v=LOap3Obw_OM"
-    },
-    {
       "league": "NHL",
       "title": "EVERY GOAL Scored Last Season by the 2026-27 Winnipeg Jets Roster",
       "videoId": "gZoFV3NVZdo",
@@ -6403,44 +6461,12 @@
       "link": "https://www.youtube.com/watch?v=n4xyd8fs0SI"
     },
     {
-      "league": "NFL",
-      "title": "Jamaal Charles Breaks Down His Legendary 5-TD Game",
-      "videoId": "mBrSoEGBp2I",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-09-01T14:45:36+00:00",
-      "link": "https://www.youtube.com/watch?v=mBrSoEGBp2I"
-    },
-    {
-      "league": "MLB",
-      "title": "Jazz Chisholm Jr. with one of the cleanest slides you’ll see 😎",
-      "videoId": "LKkGu5bdwWg",
-      "author": "MLB",
-      "pubDate": "2026-09-01T14:30:39+00:00",
-      "link": "https://www.youtube.com/watch?v=LKkGu5bdwWg"
-    },
-    {
-      "league": "MLB",
-      "title": "Cubs set FRANCHISE RECORD with 9 HOMERS and MUCH MORE!",
-      "videoId": "w75nvn949oM",
-      "author": "MLB",
-      "pubDate": "2026-09-01T13:00:17+00:00",
-      "link": "https://www.youtube.com/watch?v=w75nvn949oM"
-    },
-    {
       "league": "SOCCER",
       "title": "Hansi Flick is fully fluent in Spanish now 🧠",
       "videoId": "G536OuJKe5E",
       "author": "ESPN FC",
       "pubDate": "2026-09-01T12:24:03+00:00",
       "link": "https://www.youtube.com/watch?v=G536OuJKe5E"
-    },
-    {
-      "league": "MLB",
-      "title": "Top 5 MLB Plays RANKED from 8/31/26! (Alex Bregman's 3-HOMER GAME and MORE!)",
-      "videoId": "an1jMiAPls8",
-      "author": "MLB",
-      "pubDate": "2026-09-01T11:00:30+00:00",
-      "link": "https://www.youtube.com/watch?v=an1jMiAPls8"
     },
     {
       "league": "SOCCER",
@@ -6505,38 +6531,6 @@
       "author": "NBA",
       "pubDate": "2026-08-31T20:55:31+00:00",
       "link": "https://www.youtube.com/watch?v=JSPd7ncDjco"
-    },
-    {
-      "league": "NBA",
-      "title": "Jalen Brunson had to set the record straight on how many titles he won at Villanova 😂",
-      "videoId": "5YFT0LCI2_k",
-      "author": "NBA",
-      "pubDate": "2026-08-31T20:51:38+00:00",
-      "link": "https://www.youtube.com/watch?v=5YFT0LCI2_k"
-    },
-    {
-      "league": "NBA",
-      "title": "The Jalen Brunson and Josh Hart NBA Finals shenanigans never disappoint 😂🍾",
-      "videoId": "FFijPFz0J3g",
-      "author": "NBA",
-      "pubDate": "2026-08-31T20:39:47+00:00",
-      "link": "https://www.youtube.com/watch?v=FFijPFz0J3g"
-    },
-    {
-      "league": "NBA",
-      "title": "Wishing you a celebration as epic as this, Jalen Brunson",
-      "videoId": "-hMz-dbyTR4",
-      "author": "NBA",
-      "pubDate": "2026-08-31T19:59:59+00:00",
-      "link": "https://www.youtube.com/watch?v=-hMz-dbyTR4"
-    },
-    {
-      "league": "NBA",
-      "title": "Jalen Brunson's Top 30 Career Plays 🔥",
-      "videoId": "5ZsaHwU2gDY",
-      "author": "NBA",
-      "pubDate": "2026-08-31T18:59:35+00:00",
-      "link": "https://www.youtube.com/watch?v=5ZsaHwU2gDY"
     },
     {
       "league": "NHL",
