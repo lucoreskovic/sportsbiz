@@ -2,72 +2,80 @@
   "clusters": [
     {
       "category": "revenue",
+      "importance": 8,
+      "leadHeadline": "Man City agree £125m fee for Chelsea's Fernandez",
+      "leadSource": "BBC Sport · 2h ago",
+      "leadUrl": "https://www.bbc.co.uk/sport/football/articles/cr7deg1ze03o?at_medium=RSS&amp;at_campaign=rss",
+      "summary": "Manchester City agreed to pay £125m for Chelsea midfielder Enzo Fernández on deadline day, matching the British transfer record set by Liverpool for Alexander Isak last summer.",
+      "article": "<cite index=\"1-2\">Manchester City have agreed to pay a joint-British transfer record fee of £125m for Chelsea midfielder Enzo Fernandez.</cite> <cite index=\"1-4,1-5\">The clubs negotiated over the past 24 hours and have now reached an agreement, with Fernandez set to undergo a medical ahead of signing a long-term deal at the Etihad Stadium.</cite>\n\n<cite index=\"1-3\">Fernandez joined Chelsea from Benfica in 2023 for a then-British record fee of £107m, with his latest switch matching the £125m that Liverpool paid for Alexander Isak last summer.</cite> <cite index=\"4-7\">City stepped up talks in the last 48 hours and City will receive £5m over Chelsea's asking price of £120m.</cite>\n\n<cite index=\"5-6,5-7\">Argentina international Fernandez worked with City manager Enzo Maresca during the Italian's reign at Chelsea, and Maresca is keen to work with him again after losing a host of midfielders this summer.</cite> <cite index=\"5-8\">Fernandez was not involved in Chelsea's 4-3 Premier League win over Brighton on Sunday or their 2-0 Carabao Cup victory against Luton three days earlier, as reports in Argentina suggested he asked to be left out of the squad.</cite>\n\n<cite index=\"12-10,12-11\">It is the second time this summer that City have broken their own transfer record, following the £116m arrival of Elliot Anderson from Nottingham Forest, and Fernandez becomes the fourth player to move to a Premier League club for a fee of at least £100m this summer.</cite>",
+      "tweets": [
+        {
+          "url": "https://twitter.com/FabrizioRomano/status/2094818550682636771",
+          "html": "<blockquote class=\"twitter-tweet\" data-dnt=\"true\" data-theme=\"dark\"><p>🚨🔵 Enzo Fernández to Manchester City in a record British deal for £125m. Here we go! 🇦🇷 https://t.co/b5QGFpsZo0</p>&mdash; Fabrizio Romano (@FabrizioRomano) <a href=\"https://twitter.com/FabrizioRomano/status/2094818550682636771\">September 1, 2026</a></blockquote>",
+          "author_name": "Fabrizio Romano",
+          "author_url": "https://twitter.com/FabrizioRomano",
+          "dateMs": 1788278636000
+        }
+      ]
+    },
+    {
+      "category": "revenue",
       "importance": 7,
-      "leadHeadline": "Meta's $18 Billion Settlement Sends Warning to Sports Betting Apps",
-      "leadSource": "Sportico · 3h ago",
-      "leadUrl": "https://www.sportico.com/law/analysis/2026/meta-settlement-sports-betting-industry-implications-1234943323/",
-      "summary": "Meta agreed to pay up to $18 billion and implement design changes for teen users following addiction litigation. Sports betting apps now face similar scrutiny.",
-      "article": "<cite index=\"7-1\">Meta agreed to settle social media addiction claims for up to $18 billion</cite>, <cite index=\"7-4\">with the settlement coming after Instagram's Adam Mosseri testified in California</cite>. <cite index=\"6-9\">The deal requires Meta to default teen accounts to a two-hour daily limit, offer chronological feeds, block overnight features, and silence most notifications during school hours</cite>.\n\n<cite index=\"10-1\">A Los Angeles jury in March found Meta and YouTube negligent for designing their apps in ways that caused children to become addicted, leading to mental health harms</cite>. That verdict preceded the settlement.\n\nFor sports betting, the parallel is clear but indirect. <cite index=\"17-1,17-2,17-3\">Two men sued DraftKings and FanDuel for negligence, with claims that their apps offer \"a relentless, always-on addiction-amplifying machine through a personalized and lightning-fast sports gambling interface\"</cite>. The case is in Pennsylvania.\n\n<cite index=\"9-7,9-8\">Harvard Law School professor Leah Plunkett called the settlement a \"paradigm-shifting deal\" that \"sends a huge warning shot across the bow for any AI or other emerging tech company\"</cite>. <cite index=\"6-11\">Meta structured the settlement so roughly 70% is guaranteed, with the remaining $5 billion tied to YouTube and TikTok adopting similar restrictions</cite>. The betting industry has no equivalent settlement or obligation, but regulators are watching.",
+      "leadHeadline": "Alex Eala, Left Off Ashe, Sends US Open Ticket Prices Soaring",
+      "leadSource": "Sportico · just now",
+      "leadUrl": "https://www.sportico.com/leagues/tennis/2026/alex-eala-us-open-2026-ticket-prices-1234943612/",
+      "summary": "The USTA assigned Alex Eala to Louis Armstrong Stadium instead of Arthur Ashe for her first-round US Open match, yet resale ticket prices for the smaller venue surged immediately after the announcement. Eala's global fanbase, led by Filipino supporters, has made her one of tennis's most valuable draws.",
+      "article": "The USTA scheduled Alex Eala's first-round US Open match against American Mary Stoiana for Louis Armstrong Stadium on Tuesday night, the second-largest court at the Billie Jean King National Tennis Center, rather than Arthur Ashe Stadium. Within hours of the announcement, resale ticket prices for the Armstrong session spiked sharply.\n\nEala, 21, has become the Philippines' biggest sporting star since Manny Pacquiao, according to The Guardian. Her traveling fanbase descended on Flushing Meadows for the Open, and crowds began swelling in Armstrong Stadium a half hour before her practice sessions. Despite holding just one career main-draw win at the Open, she has already amassed global recognition through her ATP Tour appearances alongside boyfriend Frances Tiafoe.\n\nThe ticket surge reflects a mismatch between the USTA's court assignments and actual demand. Assigning a draw driver to a smaller venue while reserving the flagship Ashe for early-round matches between lower-ranked players is a chronic scheduling inefficiency in tennis. Eala's presence has exposed the disconnect: her appeal to international audiences, particularly Filipino fans, translates to ticket velocity that outpaces the USTA's predictions.\n\nThis mirrors a broader pattern. The Grand Slams have historically underestimated emerging international stars' commercial pull until resale markets force the correction.",
       "tweets": []
     },
     {
-      "category": "contracts",
+      "category": "revenue",
       "importance": 6,
       "leadHeadline": "Newcastle sign Fernandez-Pardo from Lille for £51m",
-      "leadSource": "BBC Sport · 1h ago",
+      "leadSource": "BBC Sport · 4h ago",
       "leadUrl": "https://www.bbc.co.uk/sport/football/articles/c5ylv97mn58o?at_medium=RSS&amp;at_campaign=rss",
-      "summary": "Newcastle United acquired Belgium forward Matias Fernandez-Pardo from Lille for an initial £51.4 million, bolstering their attack ahead of the new season.",
-      "article": "Newcastle United completed the signing of Matias Fernandez-Pardo from Lille for an initial fee of £51.4 million, marking one of the club's significant summer acquisitions. The Belgian forward joins a Newcastle side that finished in the Champions League qualification spots last season and is looking to strengthen its attacking depth. Fernandez-Pardo's move comes as part of a broader Newcastle rebuilding effort under their new ownership structure. The deal represents a substantial investment in a player the club views as part of its long-term forward planning, though the exact structure of add-ons and performance incentives was not fully disclosed. The acquisition also reflects Newcastle's willingness to compete in the transfer market at the £50 million-plus tier, a significant shift from earlier years when the club operated under tighter financial constraints. Fernandez-Pardo becomes the latest in a string of European acquisitions as Newcastle attempts to consolidate their position among England's top six and strengthen for European competition.",
+      "summary": "Newcastle United signed Belgian forward Matías Fernández-Pardo from Lille for £51.4 million on the transfer deadline. The deal adds depth to Newcastle's attack ahead of a challenging domestic and European season.",
+      "article": "Newcastle United signed Belgian forward Matías Fernández-Pardo from French club Lille for an initial £51.4 million on transfer deadline day. The fee can rise with performance-based add-ons, bringing the total package closer to the £60 million range.\n\nFernández-Pardo, 20, had impressed in Ligue 1 over two seasons with Lille, establishing himself as one of the league's most promising young attackers. His arrival bolsters Newcastle's forward line, which has faced consistency issues and injury rotation throughout the season.\n\nThe signing completes Newcastle's deadline activity, adding to an already active summer window. The club has prioritized youth and potential over proven Premier League performers, betting that younger players can develop into the foundation of a sustained top-four push.\n\nFernández-Pardo joins a Newcastle squad competing in both the Premier League and European competition, meaning rotation and fixture congestion will demand depth at multiple positions. His contract terms and expected debut timeline have not been disclosed, but the club indicated he will integrate immediately into squad training.",
       "tweets": []
     },
     {
       "category": "contracts",
-      "importance": 6,
-      "leadHeadline": "Aston Villa sign Mbaye and Harwood-Bellis",
-      "leadSource": "BBC Sport · 3h ago",
-      "leadUrl": "https://www.bbc.co.uk/sport/football/articles/c1kxmjvnl8yo?at_medium=RSS&amp;at_campaign=rss",
-      "summary": "Aston Villa completed signings of Senegal winger Ibrahim Mbaye from Paris St-Germain and English centre-back Taylor Harwood-Bellis from Southampton in a double transfer coup.",
-      "article": "Aston Villa secured two defensive and attacking reinforcements in the summer transfer window, signing Senegal winger Ibrahim Mbaye from Paris St-Germain and English centre-back Taylor Harwood-Bellis from Southampton. The dual acquisition addresses two key areas for Villa as they prepare for another season of European competition. Mbaye brings proven Premier League and European experience from his time at PSG, while Harwood-Bellis adds depth to Villa's backline with established top-flight credentials from his Southampton tenure. The signings underscore Villa's ambition to compete at multiple fronts this season and their ability to attract quality players from both domestic rivals and continental powerhouses. The exact fees were not disclosed in initial reporting, but both deals represent meaningful investments in players with demonstrated Premier League pedigree. These moves come as part of Aston Villa's broader recruitment strategy to build depth across the squad, particularly as they balance domestic league commitments with European fixture congestion.",
+      "importance": 5,
+      "leadHeadline": "Jalen Duren, Pistons still in contract standoff: When could the All-NBA center make a decision?",
+      "leadSource": "CBS Sports · just now",
+      "leadUrl": "https://www.cbssports.com/nba/news/jalen-duren-pistons-contract-offer/",
+      "summary": "Jalen Duren and the Detroit Pistons remain in contract negotiations with a qualifying offer deadline looming. If unsigned, Duren would become an unrestricted free agent next summer, complicating Detroit's roster construction.",
+      "article": "Detroit Pistons center Jalen Duren faces a deadline to sign his qualifying offer as contract talks with the franchise remain unresolved. If Duren declines and fails to agree on a long-term deal before the deadline, he will become an unrestricted free agent in the 2027 offseason.\n\nDuren, a second-round pick in 2022 who has developed into an All-NBA performer, holds leverage in negotiations. His strong play in year two of his rookie deal has placed him among the league's most valuable young centers, and his market value has increased substantially since draft night.\n\nThe Pistons are building around Duren and young guards Cade Cunningham and Jaden Ivey. Management faces a choice: pay Duren the salary his All-NBA designation commands, or risk losing him to free agency next summer. A multi-year extension at current market rates for elite young centers typically starts above $200 million.\n\nThe standoff is routine in modern NBA labor dynamics, but the stakes are high. The Pistons are in early stages of a rebuild and can ill afford a key piece to exit via free agency. Duren has no incentive to rush; letting the qualifying offer expire keeps him in control of his destiny.",
       "tweets": []
     },
     {
       "category": "media",
-      "importance": 5,
-      "leadHeadline": "2026 NFL Predictions: Patrick Mahomes will return to dominance in comeback season",
-      "leadSource": "NY Post Sports · 1h ago",
-      "leadUrl": "https://nypost.com/2026/09/01/betting/2026-nfl-predictions-patrick-mahomes-will-return-to-dominance-in-comeback/",
-      "summary": "Patrick Mahomes showed signs of vulnerability for the first time in his career last season, setting up a narrative-defining comeback campaign in 2026 as the NFL season approaches.",
-      "article": "Patrick Mahomes enters the 2026 season at an inflection point. For the first time in his career, the Kansas City Chiefs quarterback appeared human. Last season marked a departure from the near-flawless execution that has defined his tenure: his completion percentage dipped, his interception rate ticked up, and the Chiefs' typical fourth-quarter heroics were less frequent. Whether that decline was circumstantial (injuries, roster turnover, scheme adjustments) or the first sign of regression remains open, but the narrative of the offseason is Mahomes' response. His contract extension and the Chiefs' offseason moves suggest the organization still believes in a return to peak form. The betting market is pricing his comeback as a reasonable bet, with his passing yards and touchdown totals reflecting expectations he'll bounce back closer to his MVP-caliber baseline. For fantasy purposes, his draft stock has dipped relative to his historical tier, creating value for teams comfortable with some injury risk. The broader NFL story this year involves several star quarterbacks in similar positions: Mahomes in comeback mode, others managing age or recent inconsistency. Mahomes has the advantage of track record and a stable system, but last season proved even the elite aren't immune to down years.",
-      "tweets": []
-    },
-    {
-      "category": "media",
-      "importance": 5,
-      "leadHeadline": "Alex Eala has one career main-draw win at the US Open. She's already a global star",
-      "leadSource": "The Guardian · 6h ago",
-      "leadUrl": "https://www.theguardian.com/sport/2026/sep/01/alex-eala-us-open-philippines",
-      "summary": "Alex Eala, 21, has become the Philippines' biggest sporting star since Manny Pacquiao, drawing massive fan contingents to the US Open despite limited main-draw success at Flushing Meadows.",
-      "article": "Alex Eala arrived at the US Open with a traveling army of Filipino fans, a phenomenon uncommon for players with just one main-draw victory at the tournament. At 21 years old, the Philippine tennis star has already transcended the sport in her home country, claiming a mantle of national celebrity that typically takes decades to build. The crowd surge began appearing in Louis Armstrong Stadium nearly an hour before her scheduled time, with fans representing not just tennis aficionados but a broader Filipino diaspora seeking cultural representation at one of tennis' biggest stages. Eala's ascent mirrors but exceeds Manny Pacquiao's early trajectory as a global icon. Where Pacquiao built his following through championship victories, Eala's appeal is partly circumstantial: the Philippines has few players competing at the highest levels of individual sports, making her participation itself an event. Her limited Grand Slam main-draw experience hasn't dampened demand; if anything, the underdog narrative and the rarity of seeing a Philippine flag at this level amplifies her draw. From a business perspective, Eala's presence generates sponsorship and media interest well beyond what her ranking might suggest, and her social-media following reflects engagement rates uncommon for players outside the top 10. For the US Open and its broadcasters, she represents an audience tap that transcends traditional tennis demographics.",
-      "tweets": []
-    },
-    {
-      "category": "leagues",
       "importance": 4,
       "leadHeadline": "Stars games to reportedly stream on Prime Video",
-      "leadSource": "Sports Media Watch · 15h ago",
+      "leadSource": "Sports Media Watch · 18h ago",
       "leadUrl": "https://www.sportsmediawatch.com/2026/08/dallas-stars-reportedly-streaming-prime-video/",
-      "summary": "The Dallas Stars are departing Victory+ for Amazon Prime Video, with the NHL producing games under its centralized streaming solution, marking the second team to leave the league's proprietary platform.",
-      "article": "The Dallas Stars are moving their local streaming operations to Amazon Prime Video, abandoning the NHL's Victory+ platform for Amazon's infrastructure and broader distribution network. According to Sports Business Journal, games will be produced directly by the NHL under its centralized production model rather than by a separate Stars-specific operation. This marks the second NHL team to exit Victory+ after another franchise departure was previously announced. The shift reflects the NHL's evolving strategy around local streaming distribution. Victory+ was designed as a proprietary league platform to capture streaming rights value and build direct-to-consumer relationships, but adoption has been uneven among teams and markets. By outsourcing to Amazon, the Stars gain access to Prime Video's 200-plus million subscriber base and the infrastructure of one of the world's largest streaming platforms, though at presumably lower per-game licensing fees. For the NHL, the trend signals that centralized league streaming is competing poorly against incumbents like Amazon, which already holds sports rights packages and proven distribution. This could indicate broader recalibration at the league office around which platforms and distribution models are worth defending versus which should be ceded to larger players.",
+      "summary": "The Dallas Stars are leaving Victory+ and moving games to Amazon Prime Video, with the NHL producing content centrally. The Stars become the second NHL team to abandon Victory+ in recent months.",
+      "article": "The Dallas Stars are shifting their streaming home from Victory+ to Amazon Prime Video, marking the second NHL team to exit the Victory+ platform in recent months, according to Sports Business Journal.\n\nUnder the new arrangement, the NHL will produce games centrally for Prime Video distribution, rather than using Victory+'s decentralized production model. This centralizes content creation across the league's streaming strategy.\n\nThe Stars' departure reflects broader challenges facing Victory+, which launched as a centralized streaming hub for individual NHL teams. The platform has struggled to retain partners, with teams exploring alternatives that offer either wider distribution (like Prime Video) or greater production control. The NHL's move toward centralized production also signals a recalibration of how it approaches local/regional streaming, moving away from fragmented team-specific platforms.\n\nPrime Video has become a major player in sports rights, carrying select NFL Thursday Night Football games and acquiring other marquee inventory. Adding Stars games expands its NHL footprint beyond its existing national packages.\n\nThe Stars deal underscores the continued instability in regional sports streaming, where platforms have cycled through various ownership models, subscriber caps, and production standards over the past three years.",
       "tweets": []
     },
     {
-      "category": "leagues",
+      "category": "revenue",
       "importance": 3,
-      "leadHeadline": "Disturbing details emerge after TCU receiver rushed to hospital in alleged locker room attack",
-      "leadSource": "NY Post Sports · 1h ago",
-      "leadUrl": "https://nypost.com/2026/09/01/sports/disturbing-details-emerge-after-alleged-locker-room-attack-at-tcu/",
-      "summary": "TCU receiver Ezukanma was hospitalized after an alleged locker-room assault by Fields, who was arrested Sunday; reports indicate Fields was upset about being outplayed in practice.",
-      "article": "A TCU football player was arrested and charged in connection with an alleged locker-room attack that sent a teammate to the hospital. The incident involved receiver Ezukanma and reportedly stemmed from competitive tension during practice. According to reporting, Fields allegedly was unhappy that Ezukanma was outperforming him in practice drills, which culminated in the altercation that led to Ezukanma's hospitalization. Fields was arrested Sunday and faces criminal charges. The incident underscores recurring issues around locker-room culture and conflict resolution in collegiate athletics, particularly when competitive jealousy escalates into violence. TCU will need to address both the immediate disciplinary process and longer-term team dynamics heading into the season. The program's response to the incident, including Fields' status and whether he remains on the roster, will be closely monitored given the profile of the school's football operation and recent NCAA issues affecting the program.",
+      "leadHeadline": "PGA of America CEO Talks Record Frisco Sales, Ryder Cup Future",
+      "leadSource": "Front Office Sports · just now",
+      "leadUrl": "https://frontofficesports.com/article/pga-america-ceo-talks-record-frisco-sales-ryder-cup-future/",
+      "summary": "The PGA of America reports strong sales momentum for the 2027 PGA Championship in Frisco, with executives discussing the event's role in the organization's long-term strategy and Ryder Cup hosting plans.",
+      "article": "The PGA of America reported record sales for the 2027 PGA Championship in Frisco, Texas, signaling strong demand for major championship tickets and hospitality packages. The organization's leadership discussed the event's strategic importance and the association's plans for future Ryder Cup hosting.\n\nFrisco has undergone significant infrastructure development to accommodate the event, including upgrades at the tournament host course. The strong sales figures suggest golf's commercial momentum remains solid despite a crowded major championship calendar.\n\nThe CEO indicated that Ryder Cup hosting is a priority for PGA of America long-term planning. The organization has not hosted the Ryder Cup on U.S. soil since 2016 (Hazeltine); the next American host is slated for 2027 (Quaker Ridge, Connecticut), followed by interest in future years.\n\nThe Frisco championship represents a continuation of the PGA of America's expansion strategy, rotating majors to underutilized markets in the Southwest and taking advantage of new venue capacity. The ticket sales success suggests golf galleries remain robust for premier events.",
+      "tweets": []
+    },
+    {
+      "category": "revenue",
+      "importance": 2,
+      "leadHeadline": "Emmitt Smith Accused of Running $2.5M Scheme on Solar Deal",
+      "leadSource": "Front Office Sports · 1h ago",
+      "leadUrl": "https://frontofficesports.com/article/emmitt-smith-accused-running-scheme-solar-deal/",
+      "summary": "Former Dallas Cowboys running back Emmitt Smith was sued over a solar energy investment deal that went wrong. The lawsuit alleges a scheme involving $2.5 million, marking a rare off-field legal entanglement for the NFL icon.",
+      "article": "Former Dallas Cowboys running back Emmitt Smith was sued over a solar energy deal that allegedly turned sour, with plaintiffs accusing him of running a $2.5 million scheme. The lawsuit details are minimal at this stage, but the case marks a significant legal challenge for the Hall of Famer.\n\nSmith, 57, has maintained a largely clean public profile since retiring in 2004, focusing on business ventures and media work. His involvement in a solar investment signals his participation in the renewable energy sector, a common target for high-net-worth athletes seeking diversified income streams outside traditional sports ownership.\n\nThe specifics of the alleged scheme have not been fully disclosed in available reports. Solar investment litigation involving celebrity figures often centers on misrepresentation of returns, improper fund handling, or undisclosed conflicts of interest. Smith's role—whether as a principal, investor, or endorser—remains unclear.\n\nThe case adds to a broader pattern of athlete-led business ventures facing legal scrutiny. Smith's legal team will likely move to resolve the matter quietly if the allegations lack substance, or fight the claims if they contest the scheme's existence entirely.",
       "tweets": []
     }
   ],
@@ -2394,79 +2402,90 @@
   "deals": [
     {
       "type": "acquisition",
-      "parties": "Newcastle United ⇄ Matias Fernandez-Pardo",
-      "value_usd": 63250000,
+      "parties": "Manchester City ⇄ Chelsea (Enzo Fernández)",
+      "value_usd": 156000000,
       "term_years": null,
       "league": "SOCCER",
-      "headline": "Newcastle sign Fernandez-Pardo from Lille for £51m",
+      "headline": "Man City agree British transfer record £125m for Fernández",
       "storyIndex": 4,
-      "blurb": "Newcastle acquired Belgian forward Matias Fernandez-Pardo from Lille for an initial £51.4 million in significant summer investment.",
-      "capturedAt": "2026-09-01T15:17:54.557Z"
+      "blurb": "Manchester City paid £125m for Chelsea midfielder Enzo Fernández, a British transfer record surpassing Harry Maguire's £100m.",
+      "capturedAt": "2026-09-01T18:04:49.143Z"
+    },
+    {
+      "type": "acquisition",
+      "parties": "Newcastle United ⇄ Lille (Matías Fernández-Pardo)",
+      "value_usd": 64250000,
+      "term_years": null,
+      "league": "SOCCER",
+      "headline": "Newcastle sign Fernández-Pardo from Lille for £51.4m",
+      "storyIndex": 12,
+      "blurb": "Newcastle signed Belgian forward Matías Fernández-Pardo from Lille for £51.4m initial fee with performance add-ons.",
+      "capturedAt": "2026-09-01T18:04:49.143Z"
     }
   ],
   "ratings": [],
   "ticket_prices": [],
   "sidebar": [
     {
-      "headline": "How One Clemson Football Player Fought for Eligibility—and a 'Second Chance'",
-      "source": "Front Office Sports · 6h ago",
-      "article": "Tristan Smith will take the field for Clemson against LSU this Saturday, completing a long fight for eligibility restoration. Smith's battle involved NCAA compliance review and institutional advocacy to overturn an initial ruling that would have sidelined him. The case underscores the opacity of eligibility determinations and the leverage schools wield when navigating NCAA bureaucracy. For Smith, the victory represents not just the chance to play, but a reset on his college career timeline. For Clemson, it means retrieving a roster piece that likely factored into their preseason projections. The eligibility fight typically favors players with institutional resources and legal support; Smith's successful outcome reflects Clemson's willingness to exhaust avenues available to larger programs. His reinstatement also suggests the NCAA's eligibility standards remain malleable when teams push back with sufficient documentation."
+      "headline": "Tennis players using surprising hack to fight cramps at US Open",
+      "source": "NY Post Sports · just now",
+      "article": "Players competing at this year's US Open have adopted an unconventional method to combat muscle cramps during matches, departing from traditional remedies like the Honey Deuce. The technique has gained traction among the field as temperatures and humidity levels spike during the tournament's early rounds. Several top players have quietly incorporated the method into their on-court routine, with trainers noting improved match completion rates. The exact nature of the hack remains largely under the radar, though sources suggest it involves a combination of hydration timing and electrolyte supplementation rather than a single silver-bullet solution. As the tournament progresses into deeper rounds, expect more players to adopt similar strategies."
     },
     {
-      "headline": "'Pajama Paparazzi': High School Football Sidelines Clogged With Creators",
-      "source": "Front Office Sports · 5h ago",
-      "article": "High school football sidelines are being overrun by amateur content creators dubbed the 'pajama paparazzi' by school administrators, raising questions about sideline access, player safety, and the monetization of youth sports. These mostly young, unpaid videographers are drawn by TikTok's algorithm and the possibility of viral clips, creating logistical headaches for athletic departments already managing credentialed media. Schools are struggling to distinguish between legitimate credentialing and random creators filming games. The phenomenon reflects broader trends in youth sports monetization: parents live-streaming games, athletes chasing NIL deals, and platforms incentivizing the fastest highlight reels over the most substantive coverage. Athletic directors report safety concerns (unauthorized people near sidelines), insurance liability (unvetted individuals on campus), and the surreal experience of watching sideline camera angles outpace official broadcasts."
+      "headline": "Cam Newton: NIL Chaos and Content Empire",
+      "source": "Front Office Sports · just now",
+      "article": "Former NFL quarterback Cam Newton weighed in on the state of college football's Name, Image, and Likeness landscape, arguing that athletes need to build their own content platforms rather than rely solely on institutional deals. Newton, who has built a substantial media presence outside traditional broadcast channels, emphasized the volatility and uncertainty surrounding NIL compensation. His perspective highlights a growing divide in college sports between athletes who secure guaranteed sponsorships and those left scrambling for piecemeal deals. Newton contends that athletes should treat NIL as a stepping stone toward media entrepreneurship, not an end goal. His message resonates with a generation of players navigating unprecedented monetization opportunities while managing reputational risk."
     },
     {
-      "headline": "Betting the Seahawks in 2026: See how Seattle's win total, Super Bowl odds are trending",
-      "source": "CBS Sports · just now",
-      "article": "The Seahawks enter 2026 with adjusted expectations following roster turnover and coaching changes, reflected in their win total and championship odds. CBS Sports' betting preview breaks down Seattle's schedule, key matchups, and where value exists relative to market pricing. The Seahawks' NFC West division remains competitive, and their playoff path is narrower than in previous years. Public money has been slower to commit to Seattle early in the betting cycle, keeping their Super Bowl odds relatively generous for a team with recent playoff experience. Sharp bettors are monitoring their injury report closely, as depth losses in key positions could swing their win total range. The preview includes specific game-by-game analysis and identifies which matchups offer the best expected value for Seahawks-focused bets."
+      "headline": "The US Open Needs Influencers—and Influencers Need the US Open",
+      "source": "Sportico · 1h ago",
+      "article": "Ayan Broomfield, a former NCAA women's doubles champion at UCLA, has become a fixture on the professional tennis circuit as the companion of ATP star Frances Tiafoe. Now traveling the world alongside Tiafoe and leveraging her perspectives as both a former player and current insider, Broomfield has carved out a unique role in tennis media and fandom. Her presence at the US Open highlights a growing symbiosis between the Grand Slams and influencer culture, where players' partners and adjacent personalities amplify reach to younger audiences. Broomfield's dual credibility—athleticism and proximity to top competitors—creates content opportunities that traditional tennis media cannot replicate. The USTA has begun recognizing these dynamics, inviting personalities into premium hospitality and social media coverage to expand the tournament's digital footprint."
     },
     {
-      "headline": "Betting the 49ers in 2026: See how San Francisco's win total, Super Bowl odds are trending",
-      "source": "CBS Sports · just now",
-      "article": "The 49ers enter 2026 as NFC West favorites, but their odds reflect both their recent success and the aging curve of their core roster. CBS Sports' betting guide examines San Francisco's championship window, their schedule difficulty, and whether their Super Bowl odds offer value or overstate their chances. The team's salary-cap situation is tightening, and several veteran players are entering the back half of their primes. Public sentiment has already shifted from preseason enthusiasm to more measured expectations after last year's results. The guide identifies which weeks on their schedule present betting opportunities and where the market may be mispricing their win total relative to roster composition."
+      "headline": "Exec Exodus: Crypto.com Shakes Up Prediction Market Subsidiary",
+      "source": "Sportico · 2h ago",
+      "article": "Steve Goodsell stepped down as chief technology officer of CDNA, Crypto.com's prediction market exchange subsidiary, marking the latest executive departure in a wave of turnover. Since November of last year, CDNA has lost its CEO Travis McGhee, chief compliance officer Kevin Dan, and chief risk officer Wen Jiang. The prediction market space has attracted intense regulatory scrutiny and consumer skepticism following high-profile failures in the crypto sector. CDNA's struggle to retain senior leadership suggests instability at the operational level, despite Crypto.com's broader backing. The CEO role remains the only senior position currently filled, leaving critical functions like technology, compliance, and risk management in limbo or assigned to interim leaders."
     },
     {
       "headline": "Blue Jays Miles to open vs. Guardians, Arrighetti likely to follow",
-      "source": "Sportsnet · just now",
-      "article": "The Toronto Blue Jays will open their series against Cleveland with Miles on the mound, followed by Arrighetti in the next game. This series carries playoff-implications weight for both teams as they jockey for AL East and wild-card positioning. The Guardians' lineup presents significant challenges for Toronto's pitching staff, and the Blue Jays' recent struggles at the plate make run generation crucial. Sportsnet's breakdown includes matchup analysis and details on recent performance trends for both clubs."
+      "source": "Sportsnet · 3h ago",
+      "article": "Toronto Blue Jays pitcher Miles opens the team's upcoming series against the Cleveland Guardians, with fellow starter Arrighetti likely to follow in subsequent games. The matchup carries playoff-race implications as both teams jostle for positioning in the AL East and wild-card standings. Miles has performed inconsistently through the season, making his start against a Guardians lineup ranked among baseball's most efficient contact hitters a significant test. Arrighetti's availability and workload management will factor into Toronto's rotation planning over the next two weeks. The series will shed light on whether the Blue Jays' offensive adjustments and recent roster tweaks have moved the needle in a crowded division."
     },
     {
-      "headline": "Sporticast: The Financial Health of the World's Richest Sports League",
-      "source": "Sportico · 5h ago",
-      "article": "Sportico's podcast explores the NFL's financial trajectory with Marc Ganis, longtime advisor to Commissioner Roger Goodell and managing director of Sportscorp. Ganis discusses league-wide revenue growth, media-rights evolution, and the economic pressures shaping franchise valuations. The conversation examines how the NFL's financial model compares to global sports properties and whether the league's expansion into new markets and streaming platforms is sustainable long-term. Ganis offers perspective on what Goodell's tenure has meant for league revenues and the structural changes that have allowed the NFL to extract unprecedented value from its media deals."
+      "headline": "Howling over Herbstreit's dog",
+      "source": "Sports Media Watch · 2h ago",
+      "article": "Kirk Herbstreit and his dog Peter have become the subject of widespread backlash and commentary in sports media circles. The ESPN college football analyst's decision to feature his pet in on-air segments and social media content has drawn mixed reactions, with some viewers appreciating the personal touch and others viewing it as a distraction from game analysis. Peter the dog has become a recognizable personality in its own right, appearing regularly during Herbstreit's broadcasts and digital content. The dynamic reflects broader trends in sports broadcasting, where on-air talent increasingly blur the lines between professional commentary and personal brand extension. Whether the gambit boosts or detracts from Herbstreit's credibility remains debated among colleagues and viewers."
     }
   ],
   "poll": {
-    "question": "Which team made the strongest 2026 offseason move?",
+    "question": "How do you rate the USTA's court assignments for emerging tennis stars like Alex Eala?",
     "options": [
-      "Newcastle signing Fernandez-Pardo for £51m",
-      "Aston Villa acquiring Mbaye and Harwood-Bellis",
-      "Patrick Mahomes' comeback narrative",
-      "Seahawks/49ers roster readiness"
+      "Too conservative—assign breakout players to premium courts immediately",
+      "Roughly right—let demand data drive assignments over time",
+      "Shouldn't rely on resale prices—use historical seeding only",
+      "Courts don't matter; Eala would draw fans anywhere"
     ]
   },
   "predictions": [
     {
-      "statement": "Meta's $18B settlement will prompt at least two major U.S. states to propose sports-betting regulation targeting engagement-maximization design within 18 months.",
-      "probability": 72,
-      "rationale": "The settlement establishes legal precedent that addiction-optimization tactics are regulable. State attorneys general are already active in consumer protection; this precedent lowers the bar for action against betting apps with identical mechanics. Sports betting is growing and high-profile enough to attract legislative attention once the Meta playbook becomes visible."
+      "statement": "Manchester City's £125m investment in Enzo Fernández will validate Pep Guardiola's midfield vision and yield a title challenge within two seasons.",
+      "probability": 62,
+      "rationale": "Fernández has elite pedigree and City's system typically improves young players, but the fee is steep for someone who struggled at Chelsea. Integration and durability over two seasons remain unknowns."
     },
     {
-      "statement": "Patrick Mahomes finishes 2026 with a passer rating below 100, extending questions about his durability.",
-      "probability": 38,
-      "rationale": "Last season was his first major decline; one down year doesn't signal decay. He has a stable system, cleaner health heading in, and historical track record of bounce-back seasons. But age is real, and the market's 'comeback' narrative often oversells recovery from a single down year. His actual return to form is likelier than not, but significant regression is plausible enough to price in."
+      "statement": "Alex Eala reaches the US Open quarterfinals, triggering a sustained surge in Grand Slam ticket demand for her future matches.",
+      "probability": 45,
+      "rationale": "She has only one main-draw win at the Open, so the surface and field are steep hurdles. But her fanbase is genuine and her trajectory has improved; reaching the QF is plausible within three years."
     },
     {
-      "statement": "By 2027, at least three more NHL teams will move their local streaming from Victory+ to Amazon Prime Video or another third-party platform.",
-      "probability": 65,
-      "rationale": "The Dallas Stars' departure signals Victory+ is not competitive with incumbents. The NHL built the platform to retain value, but it's underperforming distribution and revenue expectations. As more teams see the Stars moving to bigger platforms, defection accelerates. The league will eventually consolidate around two or three major partners rather than a proprietary platform."
+      "statement": "Jalen Duren signs a rookie extension with the Pistons worth $200M+ before the qualifying offer deadline passes.",
+      "probability": 70,
+      "rationale": "All-NBA status commands top-dollar money; Pistons can afford it and need to retain their core. Both sides benefit from certainty. The deadline will force resolution."
     },
     {
-      "statement": "Alex Eala will win a WTA main-draw title before the end of 2026.",
-      "probability": 28,
-      "rationale": "Her fan base and profile far exceed her current ranking and match-play results. One main-draw US Open victory is a long way from a WTA title. The gap between celebrity and competitive output is real. She has talent, but the jump from emerging to title-holder in a single year is steep; more likely she builds a deeper run into 2027 before breaking through."
+      "statement": "Victory+ folds or is absorbed into another platform within 18 months as a standalone entity.",
+      "probability": 58,
+      "rationale": "The Stars' departure is the second major team exit; the platform's decentralized model is proving uncompetitive against centralized NHL streaming. A consolidation or shutdown is increasingly likely."
     }
   ],
   "injuries": [],
@@ -6179,29 +6198,29 @@
       "_pendingGrade": true
     }
   ],
-  "updatedAt": "2026-04-23T19:45:00Z",
+  "updatedAt": "2026-06-08T23:47:00Z",
   "highlights": [
     {
       "league": "NBA",
-      "title": "From training with his dad to leading the New York Knicks to their first NBA title in 53 years🥹",
-      "videoId": "Nmpw9f2ZDjE",
-      "thumbnail": "https://img.youtube.com/vi/Nmpw9f2ZDjE/mqdefault.jpg",
-      "timeAgo": "18h ago",
+      "title": "The DEEPEST Shots of the 2025-26 NBA Season",
+      "videoId": "42dNv7U0TgQ",
+      "thumbnail": "https://img.youtube.com/vi/42dNv7U0TgQ/mqdefault.jpg",
+      "timeAgo": "2h ago",
       "isFallback": false
     },
     {
       "league": "NFL",
-      "title": "Plant My Flag Fantasy Stars We Are All‑In On | Fantasy Focus 🏈",
-      "videoId": "V3q8j6IcDmM",
-      "thumbnail": "https://img.youtube.com/vi/V3q8j6IcDmM/mqdefault.jpg",
-      "timeAgo": "3h ago",
+      "title": "Former NFL lineman AQ Shipley on lining up against Aaron Donald | The Pat McAfee Show",
+      "videoId": "P6LlLcGlo0c",
+      "thumbnail": "https://img.youtube.com/vi/P6LlLcGlo0c/mqdefault.jpg",
+      "timeAgo": "1h ago",
       "isFallback": false
     },
     {
       "league": "MLB",
-      "title": "Jazz Chisholm Jr. with one of the cleanest slides you’ll see 😎",
-      "videoId": "LKkGu5bdwWg",
-      "thumbnail": "https://img.youtube.com/vi/LKkGu5bdwWg/mqdefault.jpg",
+      "title": "HOLY COW! 🐮 Colton Cowser GAME-ENDING HOME RUN ROBBERY 🤯 | MLB Highlights",
+      "videoId": "8x0bP1AYJ1o",
+      "thumbnail": "https://img.youtube.com/vi/8x0bP1AYJ1o/mqdefault.jpg",
       "timeAgo": "1h ago",
       "isFallback": false
     },
@@ -6210,27 +6229,163 @@
       "title": "EVERY GOAL Scored Last Season by the 2026-27 Winnipeg Jets Roster",
       "videoId": "gZoFV3NVZdo",
       "thumbnail": "https://img.youtube.com/vi/gZoFV3NVZdo/mqdefault.jpg",
-      "timeAgo": "Just now",
+      "timeAgo": "3h ago",
       "isFallback": false
     },
     {
       "league": "WNBA",
-      "title": "Connecticut Sun vs. Dallas Wings | FULL GAME HIGHLIGHTS | August 30, 2026",
-      "videoId": "VCl0Hf_yDYM",
-      "thumbnail": "https://img.youtube.com/vi/VCl0Hf_yDYM/mqdefault.jpg",
-      "timeAgo": "2d ago",
+      "title": "Week 14: Western Conference Player of the Week- Veronica Burton",
+      "videoId": "OIHpTM_Hlgk",
+      "thumbnail": "https://img.youtube.com/vi/OIHpTM_Hlgk/mqdefault.jpg",
+      "timeAgo": "1h ago",
       "isFallback": false
     },
     {
       "league": "SOCCER",
-      "title": "Hansi Flick is fully fluent in Spanish now 🧠",
-      "videoId": "G536OuJKe5E",
-      "thumbnail": "https://img.youtube.com/vi/G536OuJKe5E/mqdefault.jpg",
-      "timeAgo": "3h ago",
+      "title": "Defining Lionel Messi's GREATNESS with Argentina | Futbol Americas",
+      "videoId": "T9X9RJxgOcE",
+      "thumbnail": "https://img.youtube.com/vi/T9X9RJxgOcE/mqdefault.jpg",
+      "timeAgo": "2h ago",
       "isFallback": false
     }
   ],
   "reels": [
+    {
+      "league": "NFL",
+      "title": "Former NFL lineman AQ Shipley on lining up against Aaron Donald | The Pat McAfee Show",
+      "videoId": "P6LlLcGlo0c",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-09-01T17:29:03+00:00",
+      "link": "https://www.youtube.com/watch?v=P6LlLcGlo0c"
+    },
+    {
+      "league": "MLB",
+      "title": "HOLY COW! 🐮 Colton Cowser GAME-ENDING HOME RUN ROBBERY 🤯 | MLB Highlights",
+      "videoId": "8x0bP1AYJ1o",
+      "author": "MLB",
+      "pubDate": "2026-09-01T17:16:51+00:00",
+      "link": "https://www.youtube.com/watch?v=8x0bP1AYJ1o"
+    },
+    {
+      "league": "WNBA",
+      "title": "Week 14: Western Conference Player of the Week- Veronica Burton",
+      "videoId": "OIHpTM_Hlgk",
+      "author": "WNBA",
+      "pubDate": "2026-09-01T17:07:31+00:00",
+      "link": "https://www.youtube.com/watch?v=OIHpTM_Hlgk"
+    },
+    {
+      "league": "WNBA",
+      "title": "Week 14: Eastern Conference Player of the Week- Angel Reese",
+      "videoId": "SmTuXYm-tN0",
+      "author": "WNBA",
+      "pubDate": "2026-09-01T17:07:28+00:00",
+      "link": "https://www.youtube.com/watch?v=SmTuXYm-tN0"
+    },
+    {
+      "league": "MLB",
+      "title": "Don Mattingly can still pick it 🤩",
+      "videoId": "iGSn7fFxjHM",
+      "author": "MLB",
+      "pubDate": "2026-09-01T17:00:12+00:00",
+      "link": "https://www.youtube.com/watch?v=iGSn7fFxjHM"
+    },
+    {
+      "league": "NFL",
+      "title": "The Rams are a nightmare for opposing teams 😆",
+      "videoId": "RnPj4wVjKig",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-09-01T16:51:48+00:00",
+      "link": "https://www.youtube.com/watch?v=RnPj4wVjKig"
+    },
+    {
+      "league": "SOCCER",
+      "title": "Defining Lionel Messi's GREATNESS with Argentina | Futbol Americas",
+      "videoId": "T9X9RJxgOcE",
+      "author": "ESPN FC",
+      "pubDate": "2026-09-01T16:15:33+00:00",
+      "link": "https://www.youtube.com/watch?v=T9X9RJxgOcE"
+    },
+    {
+      "league": "NBA",
+      "title": "The DEEPEST Shots of the 2025-26 NBA Season",
+      "videoId": "42dNv7U0TgQ",
+      "author": "NBA",
+      "pubDate": "2026-09-01T16:11:45+00:00",
+      "link": "https://www.youtube.com/watch?v=42dNv7U0TgQ"
+    },
+    {
+      "league": "MLB",
+      "title": "Fernando Tatis Jr. SLUGGED 9 homers in August as Padres make Postseason push 😳 | MLB Highlights",
+      "videoId": "_f7U5KMykxI",
+      "author": "MLB",
+      "pubDate": "2026-09-01T16:04:10+00:00",
+      "link": "https://www.youtube.com/watch?v=_f7U5KMykxI"
+    },
+    {
+      "league": "NFL",
+      "title": "Is Myles Garrett the No. 1️⃣ player in the NFL?! Stephen A. thinks so 👀 | First Take",
+      "videoId": "grGKRAOOe1o",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-09-01T16:01:45+00:00",
+      "link": "https://www.youtube.com/watch?v=grGKRAOOe1o"
+    },
+    {
+      "league": "MLB",
+      "title": "Josh Harrison breaks out all the moves to avoid these tags 🤯",
+      "videoId": "oe7WJZW_1Wo",
+      "author": "MLB",
+      "pubDate": "2026-09-01T16:00:16+00:00",
+      "link": "https://www.youtube.com/watch?v=oe7WJZW_1Wo"
+    },
+    {
+      "league": "NBA",
+      "title": "Introducing your 2025-26 NBA ID Fan Favorites Winners 🏆",
+      "videoId": "P0Qq29XePRo",
+      "author": "NBA",
+      "pubDate": "2026-09-01T16:00:11+00:00",
+      "link": "https://www.youtube.com/watch?v=P0Qq29XePRo"
+    },
+    {
+      "league": "NFL",
+      "title": "Plant My Flag Fantasy Stars We Are All‑In On | Fantasy Focus 🏈",
+      "videoId": "V3q8j6IcDmM",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-09-01T15:55:03+00:00",
+      "link": "https://www.youtube.com/watch?v=V3q8j6IcDmM"
+    },
+    {
+      "league": "NFL",
+      "title": "Myles Garrett should NOT be No. 1?!",
+      "videoId": "Y4gz16mqHP4",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-09-01T15:45:25+00:00",
+      "link": "https://www.youtube.com/watch?v=Y4gz16mqHP4"
+    },
+    {
+      "league": "SOCCER",
+      "title": "SALAH SCORES AGAIN! Trabzonspor vs. Amed SK | | Turkish Super Lig Highlights | ESPN FC",
+      "videoId": "BLrJycJyu98",
+      "author": "ESPN FC",
+      "pubDate": "2026-09-01T15:37:00+00:00",
+      "link": "https://www.youtube.com/watch?v=BLrJycJyu98"
+    },
+    {
+      "league": "NFL",
+      "title": "Is Myles Garrett the NFL's best player? 🤔",
+      "videoId": "QXz9jJaTs50",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-09-01T15:33:13+00:00",
+      "link": "https://www.youtube.com/watch?v=QXz9jJaTs50"
+    },
+    {
+      "league": "MLB",
+      "title": "Top 10 'Baseball Is The BEST' Moments in History! | MLB 250 For 250",
+      "videoId": "LOap3Obw_OM",
+      "author": "MLB",
+      "pubDate": "2026-09-01T15:30:09+00:00",
+      "link": "https://www.youtube.com/watch?v=LOap3Obw_OM"
+    },
     {
       "league": "NHL",
       "title": "EVERY GOAL Scored Last Season by the 2026-27 Winnipeg Jets Roster",
@@ -6256,14 +6411,6 @@
       "link": "https://www.youtube.com/watch?v=mBrSoEGBp2I"
     },
     {
-      "league": "NFL",
-      "title": "Will the Rams run the table on the rest of the league?",
-      "videoId": "9uBltjxgFLs",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-09-01T14:40:20+00:00",
-      "link": "https://www.youtube.com/watch?v=9uBltjxgFLs"
-    },
-    {
       "league": "MLB",
       "title": "Jazz Chisholm Jr. with one of the cleanest slides you’ll see 😎",
       "videoId": "LKkGu5bdwWg",
@@ -6272,44 +6419,12 @@
       "link": "https://www.youtube.com/watch?v=LKkGu5bdwWg"
     },
     {
-      "league": "NFL",
-      "title": "Steve Atwater on what it took to DOMINATE the Super Bowl TWICE! | The Biggest Game",
-      "videoId": "eXS8gdDYmBk",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-09-01T14:00:11+00:00",
-      "link": "https://www.youtube.com/watch?v=eXS8gdDYmBk"
-    },
-    {
       "league": "MLB",
       "title": "Cubs set FRANCHISE RECORD with 9 HOMERS and MUCH MORE!",
       "videoId": "w75nvn949oM",
       "author": "MLB",
       "pubDate": "2026-09-01T13:00:17+00:00",
       "link": "https://www.youtube.com/watch?v=w75nvn949oM"
-    },
-    {
-      "league": "NFL",
-      "title": "Foxworth weighs in on the Rams ahead of the season 🧐",
-      "videoId": "kee62rsTryA",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-09-01T12:52:46+00:00",
-      "link": "https://www.youtube.com/watch?v=kee62rsTryA"
-    },
-    {
-      "league": "NFL",
-      "title": "Plant My Flag Fantasy Stars We Are All‑In On | Fantasy Focus 🏈",
-      "videoId": "V3q8j6IcDmM",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-09-01T12:42:53+00:00",
-      "link": "https://www.youtube.com/watch?v=V3q8j6IcDmM"
-    },
-    {
-      "league": "NFL",
-      "title": "Aaron Donald took care of his mom and dad with his first big contract ❤️",
-      "videoId": "EkxLDKnPGao",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-09-01T12:34:10+00:00",
-      "link": "https://www.youtube.com/watch?v=EkxLDKnPGao"
     },
     {
       "league": "SOCCER",
@@ -6326,54 +6441,6 @@
       "author": "MLB",
       "pubDate": "2026-09-01T11:00:30+00:00",
       "link": "https://www.youtube.com/watch?v=an1jMiAPls8"
-    },
-    {
-      "league": "MLB",
-      "title": "Highlights from ALL GAMES on 8/31 (Cubs hit 9 HOME RUNS and MORE!)",
-      "videoId": "8ng4yFJPRg0",
-      "author": "MLB",
-      "pubDate": "2026-09-01T10:00:18+00:00",
-      "link": "https://www.youtube.com/watch?v=8ng4yFJPRg0"
-    },
-    {
-      "league": "MLB",
-      "title": "There's home run robberies. There's game-saving catches. And then, there's this ... COLTON COWSER 🔥",
-      "videoId": "QzNt-Qj_9FU",
-      "author": "MLB",
-      "pubDate": "2026-09-01T05:31:06+00:00",
-      "link": "https://www.youtube.com/watch?v=QzNt-Qj_9FU"
-    },
-    {
-      "league": "MLB",
-      "title": "ORIOLES vs. ROCKIES: Official Full Game Highlights (August 31) | 2026 MLB Season",
-      "videoId": "_LuMGPrkbZ0",
-      "author": "MLB",
-      "pubDate": "2026-09-01T05:26:42+00:00",
-      "link": "https://www.youtube.com/watch?v=_LuMGPrkbZ0"
-    },
-    {
-      "league": "MLB",
-      "title": "PHILLIES vs. D-BACKS: Official Full Game Highlights (August 31) | 2026 MLB Season",
-      "videoId": "HCfAtEdZ310",
-      "author": "MLB",
-      "pubDate": "2026-09-01T05:21:37+00:00",
-      "link": "https://www.youtube.com/watch?v=HCfAtEdZ310"
-    },
-    {
-      "league": "MLB",
-      "title": "YANKEES vs. ANGELS: Official Full Game Highlights (August 31) | 2026 MLB Season",
-      "videoId": "SyXuAExjrS0",
-      "author": "MLB",
-      "pubDate": "2026-09-01T04:41:43+00:00",
-      "link": "https://www.youtube.com/watch?v=SyXuAExjrS0"
-    },
-    {
-      "league": "NFL",
-      "title": "Les Snead speaks about Aaron Donald 🏈",
-      "videoId": "a-GBRzJZJ_U",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-09-01T02:47:12+00:00",
-      "link": "https://www.youtube.com/watch?v=a-GBRzJZJ_U"
     },
     {
       "league": "SOCCER",
@@ -6424,22 +6491,6 @@
       "link": "https://www.youtube.com/watch?v=dDpDb-3el_A"
     },
     {
-      "league": "SOCCER",
-      "title": "Lamine Yamal is a STAR 💥",
-      "videoId": "Kgfi9GBiySc",
-      "author": "ESPN FC",
-      "pubDate": "2026-08-31T22:40:33+00:00",
-      "link": "https://www.youtube.com/watch?v=Kgfi9GBiySc"
-    },
-    {
-      "league": "SOCCER",
-      "title": "Premier League Transfer Talk ⚽ Ndiaye to Man City, Balogun linked with Everton | ESPN FC",
-      "videoId": "n4nPv2yTke0",
-      "author": "ESPN FC",
-      "pubDate": "2026-08-31T22:40:02+00:00",
-      "link": "https://www.youtube.com/watch?v=n4nPv2yTke0"
-    },
-    {
       "league": "NBA",
       "title": "From training with his dad to leading the New York Knicks to their first NBA title in 53 years🥹",
       "videoId": "Nmpw9f2ZDjE",
@@ -6488,22 +6539,6 @@
       "link": "https://www.youtube.com/watch?v=5ZsaHwU2gDY"
     },
     {
-      "league": "NBA",
-      "title": "JALEN BRUNSON'S FINALS-SEALING PUSH IN GAME 5 WAS ICONIC 🏆",
-      "videoId": "VHDdNFM18Ok",
-      "author": "NBA",
-      "pubDate": "2026-08-31T18:00:40+00:00",
-      "link": "https://www.youtube.com/watch?v=VHDdNFM18Ok"
-    },
-    {
-      "league": "NBA",
-      "title": "Jalen Brunson left his 20s with a BANNER YEAR🏆",
-      "videoId": "jySXeE-E5nU",
-      "author": "NBA",
-      "pubDate": "2026-08-31T16:55:53+00:00",
-      "link": "https://www.youtube.com/watch?v=jySXeE-E5nU"
-    },
-    {
       "league": "NHL",
       "title": "Meet the 2026-27 Washington Capitals - Every Goal From Last Season",
       "videoId": "fBV4snjdHIQ",
@@ -6534,22 +6569,6 @@
       "author": "WNBA",
       "pubDate": "2026-08-30T23:18:26+00:00",
       "link": "https://www.youtube.com/watch?v=SnVi60cS7FU"
-    },
-    {
-      "league": "WNBA",
-      "title": "Minnesota Lynx vs. Atlanta Dream | FULL GAME HIGHLIGHTS | August 30, 2026",
-      "videoId": "o8hyQfSIMZo",
-      "author": "WNBA",
-      "pubDate": "2026-08-30T22:29:05+00:00",
-      "link": "https://www.youtube.com/watch?v=o8hyQfSIMZo"
-    },
-    {
-      "league": "NHL",
-      "title": "EVERY GOAL Scored Last Season by the 2026-27 Vegas Golden Knights Roster",
-      "videoId": "ElVfy__lGB8",
-      "author": "NHL",
-      "pubDate": "2026-08-30T17:00:33+00:00",
-      "link": "https://www.youtube.com/watch?v=ElVfy__lGB8"
     }
   ]
 }
