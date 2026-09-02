@@ -1,73 +1,73 @@
 {
   "clusters": [
     {
-      "category": "revenue",
+      "category": "media",
       "importance": 8,
-      "leadHeadline": "Angels Deal Marks a $30 Billion Summer for U.S. Team Sales",
-      "leadSource": "Sportico · 17h ago",
-      "leadUrl": "https://www.sportico.com/business/team-sales/2026/angels-sale-billion-summer-team-sales-lakers-seahawks-1234943717/",
-      "summary": "<cite index=\"19-1\">More than $30 billion of U.S. team sales have been signed during the last three months, more than any prior full year.</cite> <cite index=\"4-1\">The Angels sold for a $4 billion valuation, beating the previous MLB record.</cite>",
-      "article": "<cite index=\"4-1\">Stan Kroenke agreed to buy the Los Angeles Angels for $4 billion, beating the previous MLB record set by the San Diego Padres earlier this year at $3.9 billion.</cite> The deal gives the Rams owner a foothold in baseball and caps three months of explosive franchise movement: <cite index=\"19-2\">Since June, sale agreements include the Seattle Seahawks ($9.6 billion), the Los Angeles Lakers ($12.5 billion), the Minnesota Timberwolves ($4.5 billion) and now the Angels ($4 billion).</cite> <cite index=\"19-1\">That totals more than $30 billion, exceeding any prior full year.</cite>\n\n<cite index=\"3-7\">Outgoing owner Arte Moreno said his family \"has been honored to steward the Angels for 23 years.\"</cite> <cite index=\"4-8,4-9\">Kroenke wrote \"The Angels are a storied franchise anchored in a great market\" and said \"We look forward to an exciting future with the Angels organization.\"</cite> <cite index=\"4-6\">The transaction is expected to close in Q1 2027, subject to MLB approval.</cite>\n\n<cite index=\"19-7\">Kroenke's deal is the most expensive MLB team sale ever.</cite> <cite index=\"19-3\">The $30 billion is more than the total value of U.S. sports control sales in any calendar year prior to 2026.</cite> Billionaires are paying premiums: <cite index=\"19-12\">\"The recent wave of control transactions reflects a simple reality: sports franchises have never been more valuable, and there has never been a deeper pool of sophisticated capital pursuing them,\"</cite> said Michael Kuh, co-head of Simpson Thacher's sports group.",
+      "leadHeadline": "Kalshi Stops Its Sports Injury Betting Markets at CFTC Request",
+      "leadSource": "Sportico · just now",
+      "leadUrl": "https://www.sportico.com/business/sports-betting/2026/kalshi-injury-betting-nfl-cftc-1234943772/",
+      "summary": "Polymarket withdrew NFL player participation contracts at CFTC request, but Kalshi kept its injury markets live as of late August despite federal scrutiny.",
+      "article": "<cite index=\"14-4,14-5\">The Commodity Futures Trading Commission asked Polymarket and other prediction market operators to remove contracts such as Mahomes to play in Week 1, and Polymarket withdrew the filing to comply, but Kalshi's similar market remained active</cite>. <cite index=\"12-5\">The CFTC's March advisory warned that contracts resolving based on injuries to individual sports participants may create heightened potential for manipulation or price distortion</cite>. <cite index=\"2-3,2-4\">Polymarket has withdrawn its self-certification to offer markets on player availability ahead of the NFL season, while Kalshi kept them</cite>. <cite index=\"2-7\">Kalshi continued to offer wagering on whether Patrick Mahomes would feature, with the market giving him a 94% chance of playing</cite>. The CFTC has not yet formally blocked injury markets, and <cite index=\"12-6\">the CFTC's guidance on injury markets isn't in effect yet and won't be before the NFL season kicks off September 9, as it remains out for consultation</cite>.",
+      "tweets": []
+    },
+    {
+      "category": "media",
+      "importance": 7,
+      "leadHeadline": "Amazon Expands Regional Sports Play With 6 NHL Team Deals",
+      "leadSource": "Sportico · 3h ago",
+      "leadUrl": "https://www.sportico.com/business/media/2026/nhl-streaming-amazon-prime-video-stars-hurricanes-cost-1234943746/",
+      "summary": "Amazon Prime Video secured exclusive local streaming rights for six NHL teams beginning this season: Ducks, Hurricanes, Blue Jackets, Stars, Wild, and Blues. The expansion marks a major escalation in Amazon's sports rights portfolio.",
+      "article": "Amazon Prime Video announced Wednesday it will be the exclusive local streaming home for six NHL teams starting this season, asserting itself as a significant player in regional sports distribution. The Anaheim Ducks, Carolina Hurricanes, Columbus Blue Jackets, Dallas Stars, Minnesota Wild and St. Louis Blues will stream their games exclusively on the platform. The move represents the largest regional sports rights grab by a streaming service and signals a shift away from traditional regional sports networks, which have faced years of subscriber erosion. Amazon's entry into NHL local streaming follows its expansion of NFL Thursday Night Football and positions the company alongside Prime Video's existing sports offerings. The deal also comes as Victory+, a local sports streaming service backed by a consortium of teams, shut down operations, leaving a fragmented landscape where Prime Video and DAZN are now the main contenders for regional rights. For the six franchises involved, the Amazon deal guarantees a streaming-first distribution model, potentially reaching cord-cutters and younger audiences faster than cable. The competitive intensity over regional rights underscores how leagues are fragmenting distribution across multiple platforms to maximize revenue and reach previously untapped streaming audiences.",
+      "tweets": []
+    },
+    {
+      "category": "revenue",
+      "importance": 6,
+      "leadHeadline": "Kroenke Inherits Uncertain Angels TV Network, Stadium Fight",
+      "leadSource": "Front Office Sports · 3h ago",
+      "leadUrl": "https://frontofficesports.com/article/stan-kroenke-angels-purchase-media-stadium-trout/",
+      "summary": "Stan Kroenke's acquisition of the Los Angeles Angels includes the recently rebranded regional sports network and ongoing stadium disputes. The incoming owner faces immediate media rights and facility infrastructure challenges.",
+      "article": "Stan Kroenke's incoming ownership of the Los Angeles Angels comes with control of a recently rebranded regional sports network whose future distribution model remains uncertain, plus a stadium situation in flux. The Angels' broadcast infrastructure was part of the team sale that closed following the broader $30 billion summer of MLB transactions in 2025. Unlike the Angels' lease on Angel Stadium in Anaheim, which remains under negotiation, Kroenke inherits immediate control of Angels Broadcast Television and KLAA radio as components of the KSE transaction. The rebranded RSN has lost ground to streaming alternatives and faces the same subscriber attrition plaguing traditional cable sports networks nationally. Kroenke, whose Kroenke Sports and Entertainment operates the Rams and Chargers in the NFL and owns stakes in multiple sports franchises, now manages a fractured media landscape: Angels games air on the RSN but also stream through YouTube TV's ESPN Unlimited partnership, splitting audience and advertising revenue. The stadium fight remains separate, with the city and Angels negotiating the terms of any renovation or relocation. Kroenke's media portfolio expertise from running RSNs for other franchises will be tested by the Angels' broadcast challenges, which predate his ownership but now demand immediate strategic decisions about streaming partnerships and local distribution.",
+      "tweets": []
+    },
+    {
+      "category": "media",
+      "importance": 6,
+      "leadHeadline": "Prime, DAZN, amass local sports rights as Victory+ shutters",
+      "leadSource": "Sports Media Watch · 2h ago",
+      "leadUrl": "https://www.sportsmediawatch.com/2026/09/prime-dazn-local-sports-rights-nhl-nba-victory-plus/",
+      "summary": "Prime Video and DAZN are consolidating regional sports rights as Victory+, the streaming service backed by a consortium of teams, ceases operations. The collapse accelerates the fragmentation of local sports distribution.",
+      "article": "The local sports streaming landscape is crystallizing around two main players after Victory+, a joint streaming venture backed by multiple sports franchises, shut down operations. Prime Video and DAZN are now the dominant contenders for regional sports rights that previously flowed through cable RSNs. Victory+ launched as an alternative to traditional regional sports networks but failed to build the subscriber base needed to sustain operations, leaving teams and leagues to negotiate directly with streaming platforms. Prime Video's recent expansion into NHL local rights for six teams marks its most aggressive regional play to date and signals Amazon's confidence in streaming's ability to capture cord-cutting audiences and younger demographics. DAZN, which already operated in Canada and Europe, has made similar regional sports inroads in North America, positioning itself against Prime Video for incremental rights packages. The shift away from cable toward streaming distribution reflects sustained erosion in traditional RSN subscriber bases and the economics of sports content: franchises now see more revenue potential in direct streaming partnerships than in the cable bundle. The void left by Victory+'s collapse consolidates regional rights with platforms that have the capital to absorb rights fees that cable networks cannot. This fragmentation across Prime Video and DAZN means fans may need multiple subscriptions to follow a single region's sports, the inverse of the cable era when one RSN carried most local franchises.",
       "tweets": []
     },
     {
       "category": "labor",
-      "importance": 7,
-      "leadHeadline": "Tiger Woods Takes Plea Deal for Reckless Driving in DUI Case, Loses Drivers License for Five Years",
-      "leadSource": "CBS Sports · just now",
-      "leadUrl": "https://www.cbssports.com/golf/news/tiger-woods-plea-deal-reckless-driving-dui-florida/",
-      "summary": "Tiger Woods pleaded down from DUI to reckless driving, avoiding jail time but losing his driver's license for five years and facing $1,500 in fines. The outcome closes a legal chapter that began with his February 2021 car crash in Los Angeles.",
-      "article": "Tiger Woods changed his plea to guilty on reckless driving charges, securing a deal that avoids incarceration while extracting a five-year driver's license suspension and $1,500 in fines. The resolution came nearly four years after his single-vehicle collision in Los Angeles on February 23, 2021, which initially triggered a DUI investigation and arrest. The plea agreement marks a turning point in a case that shadowed Woods' return to professional golf following spinal fusion surgery in 2017. Woods has competed intermittently since the crash, most notably finishing third at the 2022 Masters. The legal outcome removes an ongoing distraction from his professional calendar, though the license suspension carries practical implications for his movement between tournament sites and his Palm Beach residence. For sponsors and the PGA Tour, the resolution closes a reputational chapter. Woods remains a marquee draw: he finished third at the 2022 Masters and continues to attract significant viewership when he competes, though his appearance calendar remains selective. The plea represents a clean break from the narrative of legal jeopardy that had lingered since the 2021 accident. How the settlement affects his tournament schedule moving forward depends on his physical condition and competitive motivations rather than legal constraints.",
-      "tweets": []
-    },
-    {
-      "category": "media",
-      "importance": 6,
-      "leadHeadline": "Netflix Secures Commercial Distribution for Expanded NFL Slate",
-      "leadSource": "Front Office Sports · 18h ago",
-      "leadUrl": "https://frontofficesports.com/article/netflix-secures-commercial-distribution-for-expanded-nfl-slate/",
-      "summary": "Netflix has secured rights to broadcast its expanded NFL package in commercial establishments including bars, restaurants, and sports venues. The deal extends the platform's reach beyond individual subscribers for the first time.",
-      "article": "Netflix has obtained commercial distribution licenses for its expanded NFL slate, allowing the streamer to show games in bars, restaurants, hotels, and other public establishments. The move marks the first time Netflix has authorized out-of-home broadcast of its NFL content, significantly expanding the audience footprint beyond individual subscribers. Netflix secured an exclusive Thursday Night Football package beginning in 2026 as part of the NFL's broader media rights restructuring. The commercial-use deal positions the platform as a genuine broadcast alternative, not merely a subscription service. Bars and restaurants represent a critical viewership channel for live sports, historically controlled by cable and broadcast networks. By opening that market, Netflix signals confidence in its ability to handle large concurrent audiences and the technical infrastructure required for out-of-home streaming. The move also carries advertising implications: commercial venues become premium ad inventory if Netflix chooses to inject advertisements into out-of-home broadcasts. For the NFL, the decision reflects the league's bet that streaming can deliver traditional television-scale audiences. For Netflix, it's a validation of sports as a premium content category worth investing in after years of skepticism from Wall Street. The deal represents one of the most concrete signals yet that streaming platforms are competing for live sports on parity with legacy broadcasters.",
-      "tweets": []
-    },
-    {
-      "category": "contracts",
-      "importance": 6,
-      "leadHeadline": "Highest-Paid College Football Coaches: Cignetti Reigns at $13.2M",
-      "leadSource": "Sportico · 3h ago",
-      "leadUrl": "https://www.sportico.com/personalities/coaches/2026/highest-paid-college-football-coaches-curt-cignetti-reigns-1234943412/",
-      "summary": "College football coaching salaries have reached a new ceiling: Jon Cignetti leads the market at $13.2 million annually, followed by Georgia's Kirby Smart at $13 million and Ohio State's Ryan Day at $12.5 million. The inflation reflects both NIL integration and competition for championship-caliber talent.",
-      "article": "Jon Cignetti's contract as Indiana head coach now tops the college football coaching market at $13.2 million per year, marking a new high-water mark for the position. Kirby Smart (Georgia) and Ryan Day (Ohio State) follow at $13 million and $12.5 million respectively. The trio earned a combined three national titles in the four years prior to this season, underscoring the connection between elite compensation and championship performance. The salary surge reflects two structural changes in college football: the integration of name-image-likeness revenue into total coach compensation packages and the acceleration of direct financial competition among Power conference programs for top talent. Schools now publicly bundle base salary, retention bonuses, and NIL guarantees as competitive recruiting tools. What was once a $7-8 million ceiling for top coaches has shifted upward by $5-6 million in less than a decade. Smart's $13 million anchors Georgia's rebuilding phase after a playoff semifinal loss. Day's $12.5 million reflects Ohio State's expectation for sustained playoff contention. Cignetti's emergence at the top signals Indiana's determination to compete at the highest level after decades of mediocrity. The market has no obvious ceiling. As conference media rights deals continue to grow and school endowments deepen, expect these figures to climb further. The question for boards of trustees is whether payroll inflation outpaces on-field returns.",
+      "importance": 5,
+      "leadHeadline": "New York Times Union Demands Company Abandon Kalshi Talks",
+      "leadSource": "Front Office Sports · 2h ago",
+      "leadUrl": "https://frontofficesports.com/article/new-york-times-union-kalshi-deal/",
+      "summary": "The New York Times union has formally opposed the company's negotiations with Kalshi to power its games and betting features. The union cited deep concern about a prediction market partnership.",
+      "article": "The New York Times Guild has formally demanded the company abandon ongoing negotiations with Kalshi over a proposed partnership to power the Times' games and betting features. The union stated it was \"deeply concerned\" about the deal discussions, citing unspecified concerns about Kalshi's integrity and regulatory standing. The proposed partnership would have allowed Kalshi to operate prediction markets tied to the Times' sports games and betting products, expanding the prediction market platform's reach to the Times' large user base. The union's intervention represents organized labor pushback against a media company's expansion into prediction markets and betting, especially amid Kalshi's simultaneous regulatory clash with the CFTC over injury betting markets. The Times has not disclosed the deal's financial terms or announced a timeline for resolution. This escalation pressures the Times to choose between Kalshi's market reach and union concerns about reputational and regulatory risk. The union's move also reflects broader skepticism within the media industry about prediction markets as a legitimate product category, particularly as the CFTC signals tighter oversight. Whether the Times proceeds despite union opposition or cancels the deal remains unclear, but the union's formal demand signals the partnership faces internal obstacles.",
       "tweets": []
     },
     {
       "category": "leagues",
-      "importance": 5,
-      "leadHeadline": "Dream Team or Stuff of Nightmares? Rams' Bold Moves Could Go Either Way",
-      "leadSource": "The Guardian · 6h ago",
-      "leadUrl": "https://www.theguardian.com/sport/2026/sep/02/los-angeles-rams-aaron-donald-myles-garrett-matthew-stafford",
-      "summary": "The Rams acquired Myles Garrett and convinced Aaron Donald out of retirement to build an elite defensive front, but roster questions remain about the path to a Super Bowl. LA's aggressive offseason gamble carries real upside risk.",
-      "article": "The Los Angeles Rams made two marquee defensive additions this offseason: Myles Garrett, one of the premier pass rushers in the NFL, and the return of Aaron Donald from retirement, reuniting the two-time Defensive Player of the Year with a defense in transition. The moves are bold. They also come with obvious risk. Donald spent the offseason away from football. At 33, his conditioning and explosiveness will be closely monitored in training camp and preseason. Garrett's integration into a new system requires time; dominant edge rushers thrive when familiar with scheme details and leverage assignments. The Rams' roster elsewhere has gaps. The secondary remains youth-dependent. The linebacker corps lacks established production. And the offensive line, critical for protecting a quarterback navigating a high-variance lineup, needs depth. The calculus is straightforward: elite defensive pressure can mask secondary limitations and shorten games. Donald and Garrett together create a foundation for sacking opponents into submission. That foundation can carry a team to playoff rounds if the offense stays healthy and efficient. But the Rams have not won a Super Bowl since 2022, and their path between then and now included significant personnel churn and salary cap strain. The current gamble bets that defensive dominance compensates for those organizational realities. Whether it does depends on execution over a 17-game season and the health of a roster that now leans heavily on two high-impact but also high-risk players.",
-      "tweets": []
-    },
-    {
-      "category": "media",
-      "importance": 5,
-      "leadHeadline": "How Everton's Deadline Day Debacle Leaves Owners Facing Fan Mutiny",
-      "leadSource": "BBC Sport · 2h ago",
-      "leadUrl": "https://www.bbc.co.uk/sport/football/articles/c9861n79kepo?at_medium=RSS&amp;at_campaign=rss",
-      "summary": "Everton's transfer deadline failure, particularly the collapse of the Folarin Balogun deal, has created a credibility crisis between the Friedkin ownership group and fans. The club's inability to close marquee signings threatens internal morale ahead of a challenging season.",
-      "article": "Everton's transfer window closed without a marquee offensive signing, a failure particularly stinging given the late-stage pursuit of England forward Folarin Balogun. The Friedkin ownership group's inability to close the deal has deepened fan skepticism about the ownership's competence and commitment to competing at a European level. Balogun emerged as a primary target late in the window but the deal collapsed, leaving Everton's attack dependent on younger talent and aging depth. For a club that has not won a trophy since 1995 and has not finished in the top four since 2013, the deadline day silence sends a message about the limits of ownership resources or willingness to spend. The Friedkin Group acquired Everton in December 2023 with promises of competitive investment and a rapid return to European football. Two windows in, that promise has yielded inconsistent results. Prior-window additions have underperformed expectations. The recent failure to acquire Balogun suggests either financial constraints, misalignment between ownership and manager on targets, or both. For fans, the narrative is one of organizational dysfunction. For the manager, it's a test of whether a squad can overperform without elite additions. For Friedkin, it's a credibility problem that will require tangible success on the pitch to repair. The club begins the season with heightened internal tension, a circumstance that typically reflects poor outcomes over a long campaign.",
-      "tweets": []
-    },
-    {
-      "category": "media",
       "importance": 4,
-      "leadHeadline": "Bill Simmons Breaks Silence on Bizarre FanDuel Betting Scandal",
-      "leadSource": "NY Post Sports · 1h ago",
-      "leadUrl": "https://nypost.com/2026/09/02/sports/bill-simmons-breaks-silence-on-fanduel-proxy-betting-scandal/",
-      "summary": "Bill Simmons addressed comments that triggered a Massachusetts Gaming Commission review regarding his FanDuel betting activity. The Sports Guy acknowledged the controversy but details remain sparse on the underlying allegations.",
-      "article": "Bill Simmons issued a response to a controversy involving FanDuel betting that has drawn attention from the Massachusetts Gaming Commission. The specifics of Simmons' comments and the commission's inquiry remain limited in public reporting, but the story underscores ongoing tension between sports media figures and gambling platforms over endorsement boundaries and regulatory scrutiny. Simmons has a long history of betting commentary through his Ringer media platform and his ESPN appearances. FanDuel, as a major sportsbook operator, maintains relationships with numerous media personalities, creating potential conflicts if those personalities make statements that could influence consumer behavior or appear to violate state gaming regulations. The Massachusetts Gaming Commission's involvement suggests the matter crossed a line from normal sportsbook promotion into a regulatory concern. What that line was precisely has not been fully detailed in available reporting. For Simmons, the issue represents a reputational risk in a space where his credibility as a prognosticator and commentator drives audience value. For FanDuel and the broader sportsbook industry, it highlights ongoing regulatory pressure around influencer partnerships and the need for clearer guardrails around media figure endorsements. The resolution of the gaming commission's review will likely shape industry standards for how major media personalities can engage with sports betting platforms.",
+      "leadHeadline": "Dylan Cease aims to build on Blue Jays playoff push, Cy Young case vs. Guardians",
+      "leadSource": "Sportsnet · 2h ago",
+      "leadUrl": "",
+      "summary": "Blue Jays pitcher Dylan Cease is positioning himself for a Cy Young campaign as Toronto pushes toward playoff contention in the final stretch against AL Central rivals. Cease's performance down the stretch will shape both Toronto's postseason hopes and his individual awards case.",
+      "article": "Toronto Blue Jays pitcher Dylan Cease is carrying the team's playoff push into the final games of the regular season, with his performance in recent starts directly affecting both the team's wild-card positioning and his individual Cy Young candidacy. After the Blue Jays suffered a 6-1 loss in Cleveland earlier this week, Cease returned with a dominant start that highlighted his importance to Toronto's rotation. The team enters the final two games in a close fight for postseason positioning and cannot afford diminished production from its ace. Cease's case for Cy Young votes hinges on consistency and efficiency in high-leverage situations, metrics he's accumulated through a season of reliable starts. With Guardians pitching staff also in contention for individual awards, the final matchups between these AL Central rivals carry weight beyond playoff seeding. Toronto's bats have struggled down the stretch, particularly in scoring opportunities, which means Cease's ability to keep games tight and limit damage in early innings becomes even more critical. The Blue Jays' front office has publicly stressed that the final two games will determine postseason eligibility, making Cease's next start a potential tie-breaking performance. His playoff resume and Cy Young argument both depend on how Toronto finishes.",
+      "tweets": []
+    },
+    {
+      "category": "leagues",
+      "importance": 3,
+      "leadHeadline": "Nets celebrating Swamp Dragons night in homage to rebrand that fell apart",
+      "leadSource": "NY Post Sports · just now",
+      "leadUrl": "https://nypost.com/2026/09/02/sports/nets-celebrating-swamp-dragons-night-in-homage-to-rebrand-that-fell-apart/",
+      "summary": "The Brooklyn Nets are holding a Swamp Dragons themed night at Barclays Center, paying homage to the failed 1990s rebrand attempt that was shelved after fan backlash. Thirty-plus years later, the franchise is embracing the cult history.",
+      "article": "The Brooklyn Nets are holding a Swamp Dragons night at Barclays Center, resurrecting the name of a controversial rebrand attempt that the franchise abandoned in the mid-1990s after immediate fan opposition. The one-night theme celebrates the colorful chapter in Nets history when the organization briefly considered shedding the Nets identity for the Swamp Dragons, a move that faced such rapid backlash that the rebrand never went live. Thirty-plus years later, the organization has enough historical distance to treat the failed rebrand as novelty nostalgia rather than a business failure. The Swamp Dragons night will feature custom jerseys, in-arena promotions, and merchandise tied to the original concept art that never materialized into a full identity change. The rebrand attempt represents a moment when the Nets' ownership and branding teams overestimated how much the market would embrace a departure from the franchise's established identity, a lesson the NBA learned across multiple markets during the 1990s. The team's decision to celebrate rather than bury the Swamp Dragons memory reflects how sports franchises now monetize failed experiments as fan engagement moments. By acknowledging the near-miss, the Nets are tapping into fan humor and the team's willingness to examine its own history without defensiveness.",
       "tweets": []
     }
   ],
@@ -2391,84 +2391,96 @@
     ],
     "source": "espn"
   },
-  "deals": [],
+  "deals": [
+    {
+      "type": "media_rights",
+      "parties": "Amazon Prime Video ⇄ NHL (6 Teams)",
+      "value_usd": null,
+      "term_years": null,
+      "league": "NHL",
+      "headline": "Amazon Prime Video secures exclusive local streaming for 6 NHL teams",
+      "storyIndex": 17,
+      "blurb": "Anaheim Ducks, Carolina Hurricanes, Columbus Blue Jackets, Dallas Stars, Minnesota Wild and St. Louis Blues will stream exclusively on Prime beginning this season.",
+      "capturedAt": "2026-09-02T18:16:17.205Z"
+    }
+  ],
   "ratings": [],
   "ticket_prices": [],
   "sidebar": [
     {
-      "headline": "ESPN-YouTube TV Adds ESPN Unlimited Content",
-      "source": "Sports Media Watch · 13h ago",
-      "article": "YouTube TV now offers ESPN Unlimited content, expanding the distribution of ESPN's premium programming beyond its standalone app and traditional cable bundles. The move positions YouTube TV as a more comprehensive streaming alternative for sports subscribers seeking consolidated access to ESPN's full library, including exclusive interviews, analysis, and documentary series. For YouTube TV, the addition strengthens its sports positioning as cable subscribers continue to migrate toward streaming. For ESPN, it extends reach into an audience already comfortable with YouTube's interface and billing system. The deal reflects the ongoing battle for sports subscriber aggregation, with traditional distributors competing alongside direct-to-consumer platforms for exclusive content rights and distribution arrangements."
+      "headline": "Tiger Woods Takes Plea Deal for Reckless Driving in DUI Case, Loses Drivers License for Five Years",
+      "source": "CBS Sports · just now",
+      "article": "Tiger Woods pleaded no contest to a reduced reckless driving charge Wednesday as part of a plea agreement with Florida prosecutors that stemmed from his March rollover crash on Jupiter Island. The decision avoids jail time but comes with a five-year driving ban and completion of a DUI course. Woods' original charge was driving under the influence following the single-vehicle accident, which caused him non-life-threatening injuries. The plea deal also requires him to pay fines and fees as part of the settlement. Woods continues his return from injury complications that have limited his competitive schedule. The reckless driving plea, while reducing the DUI charge, still carries a criminal record and ends any chance of Woods contesting the case further. His inability to drive legally for five years creates logistical challenges for his personal mobility, though professional athletes typically employ drivers for most travel."
     },
     {
-      "headline": "Blue Jays Bats Falter Again in Tight Series vs. Cleveland",
-      "source": "Sportsnet · 12h ago",
-      "article": "Toronto fell 6-1 to Cleveland, opening a critical late-season series with a whimper. Gavin Williams dominated for the Indians, striking out multiple Blue Jays hitters as Toronto's lineup went quiet in decisive moments. The loss exposes a vulnerability Toronto cannot afford in a condensed final stretch: inconsistent offensive production against quality pitching. Ben Nicholson-Smith, Ken Reid, and Evanka Osmak broke down the tactical failures and the importance of Spencer Miles' role as a utility player in shaping Toronto's bench depth down the line."
+      "headline": "How Everton's deadline day debacle leaves owners facing fan mutiny",
+      "source": "BBC Sport · 6h ago",
+      "article": "Everton's transfer deadline day collapse over Folarin Balogun has exposed deep fractures between ownership, management, and supporters, with the Friedkin family facing potential fan backlash. The club appeared to be in position to sign Balogun from Arsenal but the deal fell apart in the final hours, leaving Everton's attack thin heading into a critical stretch of fixtures. The failed signing becomes another symbol of the franchise's inconsistent transfer strategy under current ownership. Balogun, a proven Premier League scorer, would have addressed Everton's scoring problems but instead remains at Arsenal after Everton's bid collapsed. The deadline day failure follows years of fan frustration with transfer strategy and ownership decisions. Friedkin, who took control of Everton after acquiring the club, now faces questions about whether the organization has the operational infrastructure to compete for top-tier talent. The Balogun miss illustrates how transfer failures in modern football create cascading effects on team chemistry, fan morale, and the ownership's credibility heading into a season where results determine survival."
     },
     {
-      "headline": "Man Utd's Left-Back Gamble: No Major Summer Signing at Critical Position",
-      "source": "The Guardian · 6h ago",
-      "article": "Manchester United decided against pursuing a marquee left-back despite widespread expectations they would address the position in the summer window. The choice reflects either confidence in youth development or a miscalculation about squad depth, with significant implications for both defense and attacking transitions. Without a proven outside back, United's build-out play depends more heavily on interior ball progression and fullback contributions from midfielders or attacking players. The decision to hold ground rather than spend signals a shift in transfer philosophy at Old Trafford, one that will be tested over a long season."
+      "headline": "Late-night transfer fallout sparks Chelsea-Monaco row",
+      "source": "The Guardian · 5h ago",
+      "article": "Chelsea, Everton and Monaco all missed out in a flurry of late-night transfer drama on deadline day, with the fallout creating tension between clubs. The moves that fell apart involved multiple high-profile targets and represented rare instances where top-six European clubs failed to close deals they had publicly pursued. Chelsea's inability to complete several targets left the club with holes in its squad depth heading into a congested fixture schedule. Everton's specific failure to land targets left the Merseyside club weaker in attacking areas. Monaco, despite its financial resources, also found itself unable to finalize expected signings. The deadline day chaos reflects how modern transfer windows compress negotiation timelines and create brinkmanship situations where miscalculation or late regulatory objections can derail weeks of work. Each failed deal carries ripple effects: squad gaps, wasted resources on loan contingencies, and credibility damage with targeted players."
     },
     {
-      "headline": "PGA Tour Ends Season on Viewership High at TOUR Championship",
-      "source": "Sports Media Watch · 16h ago",
-      "article": "The PGA Tour's season finale delivered one of the strongest audiences in years for the TOUR Championship, capping a season of consistent viewership growth. The late-summer event benefited from compressed schedule proximity to the FedEx Playoffs and intense competition for the season prize pool. Strong viewership for tour-ending events signals sustained fan interest in golf despite competition from other sports formats and streaming entertainment options."
+      "headline": "Nate Boyer, the Green Beret who stood beside Kaepernick: 'The vitriol was more disrespectful than the protest'",
+      "source": "The Guardian · 9h ago",
+      "article": "Nate Boyer, the former NFL long snapper and Army Green Beret who helped shape Colin Kaepernick's anthem protest in 2016, reflects on a decade of perspective on that moment and its reception. Boyer defends the protest as an act of patriotism rather than disrespect, citing his military background and values as evidence that kneeling during the anthem reflects American freedoms. The original collaboration between Boyer and Kaepernick established the kneeling form of protest specifically to honor military service while drawing attention to racial injustice. Boyer's MVP (Merging Vets and Players) foundation works to bridge divides between veterans and NFL players on social issues, a mission that has become more relevant as political polarization around sports protest has intensified. A decade later, Boyer sees the vitriol directed at protesters as more damaging than the protest itself, arguing that disagreement should not require questioning patriotism. His perspective challenges narratives that frame sports activism as anti-American and offers a counterargument from someone with direct military credentials. The reflection comes at a moment when sports protest remains politically contested but has become more normalized in professional leagues."
     },
     {
-      "headline": "Warriors Face Discrimination, Retaliation Claims From Ex-Employees",
-      "source": "Front Office Sports · 18h ago",
-      "article": "Former Golden State Warriors employees filed a suit alleging discrimination and retaliation by the organization. The Warriors denied the allegations as false and misleading. The case highlights ongoing workplace culture issues in professional sports, where rapid organizational growth and high-pressure environments can create exposure to employment law disputes. Depending on discovery and evidence presented, the outcome could influence how NBA franchises approach HR protocols and employee protection policies."
+      "headline": "Sports Influencer Can't Deduct Taxes on Clout-Chasing Expenses",
+      "source": "Sportico · 2h ago",
+      "article": "The U.S. Tax Court recently ruled that a social media influencer cannot deduct expenses incurred while attempting to catch passes from NFL quarterbacks Tom Brady and Drew Brees. Suleiman Sami's business, S Sami Services LLC, claimed various \"clout-chasing\" expenses as business deductions, arguing that his attempts to gain social media visibility by trying to catch high-profile passes constituted legitimate business activity. Sami successfully caught a pass from Brees but fumbled an attempt from Brady, both moments documented on social media. The court rejected the deduction argument, finding that these expenses served primarily personal entertainment purposes rather than genuine business objectives. The ruling has implications for how social media influencers classify promotional expenses, blurring lines between content creation and personal activities. Tax courts have historically been skeptical of influencer deductions that blur entertainment and business purposes. Sami's case illustrates the IRS's stance that social media stunts, even if they generate engagement, do not automatically qualify as deductible business expenses."
     },
     {
-      "headline": "Arsenal's Transfer Window: Strong Signings, But Marquee Attacker Still Elusive",
-      "source": "The Guardian · 6h ago",
-      "article": "Arsenal brought in Christos Tzolis, Bruno Guimarães, and Ezri Konsa, a solid foundation for the window. But the club's failure to land a marquee attacker after pursuing Morgan Rogers and Vinícius Júnior raises questions about whether the midfield-heavy approach satisfies the squad's attacking depth requirements. In the Premier League's tightest title races, depth at forward positions often separates champions from contenders."
+      "headline": "Prediction Markets Arrive on Supreme Court's Doorstep",
+      "source": "Front Office Sports · 1h ago",
+      "article": "New Jersey has asked the Supreme Court to weigh in on the legality of prediction markets as a sports betting product, triggering what could become a landmark case over regulatory jurisdiction and market definition. The case centers on whether prediction markets like Kalshi fall under existing sports betting law or constitute a separate asset class requiring different regulatory treatment. New Jersey's petition reflects friction between state gambling regulators and prediction market platforms as they expand into sports wagering territory. The Supreme Court's decision to hear or reject the case will shape whether prediction markets can operate as standalone products or must conform to sportsbook licensing and oversight. A ruling in New Jersey's favor could force prediction markets into the existing sportsbook regulatory framework, requiring licenses and compliance similar to DraftKings or FanDuel. A ruling favoring prediction markets could establish them as a distinct category, potentially exempt from certain sportsbook restrictions. The case arrives as the CFTC simultaneously regulates prediction markets at the federal level, creating potential conflicts between state gambling law and federal commodity market oversight. Resolution at the Supreme Court could take months or years, leaving the regulatory landscape in limbo."
     }
   ],
   "poll": {
-    "question": "Will Stan Kroenke's Angels purchase elevate the franchise to playoff contention within three seasons?",
+    "question": "Which regional sports streaming consolidation will ultimately dominate local sports distribution?",
     "options": [
-      "Yes, new ownership and investment will accelerate a rebuild",
-      "No, the Angels' minor league depth is too weak to improve quickly",
-      "Too early to tell, depends entirely on front office decisions",
-      "Unlikely, ownership alone doesn't solve structural problems"
+      "Prime Video expands nationwide and becomes the default regional streamer",
+      "DAZN builds enough market share to compete evenly with Prime Video",
+      "A third entrant (traditional RSN, new startup, or league partnership) emerges to challenge both",
+      "The market remains fragmented across multiple platforms indefinitely"
     ]
   },
   "predictions": [
     {
-      "statement": "Netflix's commercial distribution deal for NFL games will result in 10%+ growth in out-of-home sports viewership by 2027.",
-      "probability": 68,
-      "rationale": "Bars and restaurants have historically driven major live-sports consumption. Netflix removing the subscriber barrier eliminates friction, but cannibalization risk exists if the same audience shifts from cable bars to Netflix-enabled ones. The real growth likely comes from venues previously unable to secure NFL rights due to licensing complexity."
+      "statement": "Amazon Prime Video will secure exclusive regional streaming rights for at least 12 additional NHL teams within 18 months.",
+      "probability": 58,
+      "rationale": "Amazon's six-team haul signals commitment to NHL local rights and the company has capital to scale aggressively. RSNs continue to erode and teams need streaming partners. However, NHL may portion rights across multiple platforms and some teams have existing deals."
     },
     {
-      "statement": "College football coaching salaries will exceed $15 million for the top tier within two seasons.",
-      "probability": 55,
-      "rationale": "The jump from $8M to $13M in a few years shows no natural ceiling. Media rights increases and NIL integration create consistent upward pressure. However, potential NCAA reforms or conference cost-control measures could create a floor. The trend is upward, but a hard cap remains uncertain."
+      "statement": "Kalshi will reach a regulatory settlement with the CFTC that permits injury-duration betting to resume with modified transparency rules within 12 months.",
+      "probability": 35,
+      "rationale": "The CFTC's request to remove injury markets suggests concern but not a prohibition. Kalshi may remediate by adding disclosure or restricting certain bet types. However, the reputational damage and union opposition create headwinds against quick reinstatement."
     },
     {
-      "statement": "The LA Rams will miss the playoffs in 2025 despite the Garrett and Donald acquisitions.",
+      "statement": "The New York Times will cancel its Kalshi partnership deal by end of Q2 2026.",
+      "probability": 72,
+      "rationale": "Union opposition, CFTC scrutiny, and reputational risk make the deal untenable for the Times' brand. The Times generates enough revenue from games subscriptions without Kalshi that abandoning the deal poses no financial crisis."
+    },
+    {
+      "statement": "Dylan Cease will finish the 2026 season with a Cy Young Award.",
       "probability": 42,
-      "rationale": "The roster has glaring gaps at secondary and linebacker. Donald's return carries fitness risk at 33. Garrett needs system integration time. A weak offensive line makes the unit vulnerable. But elite pass-rush can mask weaknesses in weak divisions. The NFC West remains competitive but not elite, leaving room for a defensive-heavy team to steal a playoff spot."
-    },
-    {
-      "statement": "Everton will finish outside the European qualification places in 2024-25 due to headline-day offensive weakness.",
-      "probability": 61,
-      "rationale": "The Balogun collapse left Everton's attacking depth underdeveloped. Young forwards rarely produce consistent output over full seasons without proven rotation partners. Fan morale and ownership credibility issues can bleed into locker-room performance. A top-four finish requires both depth and cohesion; Everton has neither fully secured."
+      "rationale": "Cease's late-season dominance and Blue Jays' playoff push have raised his profile, but the award depends on final-two-game performance and competing with Guardians pitchers. Voters weight regular-season consistency and strikeout rates; Cease's exact ERA and innings remain unclear from available reporting."
     }
   ],
   "injuries": [
     {
-      "player": "Tiger Woods",
-      "team": "PGA Tour",
-      "league": "GOLF",
-      "position": "",
+      "player": "Puka Nacua",
+      "team": "Los Angeles Rams",
+      "league": "NFL",
+      "position": "WR",
       "status": "DAY_TO_DAY",
-      "injury": "Legal restriction: 5-year driver's license suspension",
-      "timeline": "5 years",
-      "source": "CBS Sports / Front Office Sports",
-      "impact": "Woods' ability to travel between tournaments and residences is restricted, potentially affecting tournament availability and schedule flexibility.",
-      "storyIndex": 13
+      "injury": "Non-injury issue (personal matter unrelated to on-field status)",
+      "timeline": null,
+      "source": "NY Post Sports",
+      "impact": "No current on-field impact; personal social media activity noted but Nacua's availability for upcoming games not stated.",
+      "storyIndex": 10
     }
   ],
   "picks": [
@@ -6345,46 +6357,46 @@
       "_pendingGrade": true
     }
   ],
-  "updatedAt": "2025-09-04T16:45:00Z",
+  "updatedAt": "2026-04-23T18:45:00Z",
   "highlights": [
     {
       "league": "NBA",
-      "title": "Bam Adebayo talks about the moment with his Mom after his 83 PT game.",
-      "videoId": "dhzz7EOSGjY",
-      "thumbnail": "https://img.youtube.com/vi/dhzz7EOSGjY/mqdefault.jpg",
-      "timeAgo": "18h ago",
+      "title": "Shai's Isolation-Scoring Is Truly Unreal 🤯",
+      "videoId": "9bspstfBYxM",
+      "thumbnail": "https://img.youtube.com/vi/9bspstfBYxM/mqdefault.jpg",
+      "timeAgo": "2h ago",
       "isFallback": false
     },
     {
       "league": "NFL",
-      "title": "How to CRUSH Your ESPN Knockout League Draft | Fantasy Focus",
-      "videoId": "XGRfnXfQHZI",
-      "thumbnail": "https://img.youtube.com/vi/XGRfnXfQHZI/mqdefault.jpg",
-      "timeAgo": "2h ago",
+      "title": "‘Big Day with Peter Schrager’ is coming soon 🍿",
+      "videoId": "om7rVLNKr6w",
+      "thumbnail": "https://img.youtube.com/vi/om7rVLNKr6w/mqdefault.jpg",
+      "timeAgo": "Just now",
       "isFallback": false
     },
     {
       "league": "MLB",
-      "title": "Gavin Williams DOMINATES with a 13-STRIKEOUT START for the Guardians! 🔥",
-      "videoId": "0ILI8wVlOxI",
-      "thumbnail": "https://img.youtube.com/vi/0ILI8wVlOxI/mqdefault.jpg",
-      "timeAgo": "2h ago",
+      "title": "We bring you the Top 10 Bat Flips that define baseball. #250for250",
+      "videoId": "q4NGh6yBLrQ",
+      "thumbnail": "https://img.youtube.com/vi/q4NGh6yBLrQ/mqdefault.jpg",
+      "timeAgo": "1h ago",
       "isFallback": false
     },
     {
       "league": "NHL",
-      "title": "EVERY GOAL Scored Last Season by the 2026-27 Winnipeg Jets Roster",
-      "videoId": "gZoFV3NVZdo",
-      "thumbnail": "https://img.youtube.com/vi/gZoFV3NVZdo/mqdefault.jpg",
-      "timeAgo": "1d ago",
+      "title": "The BEST Goal From EVERY NHL Team in 2025-26",
+      "videoId": "di6M9dZy4I4",
+      "thumbnail": "https://img.youtube.com/vi/di6M9dZy4I4/mqdefault.jpg",
+      "timeAgo": "2h ago",
       "isFallback": false
     },
     {
       "league": "WNBA",
-      "title": "Week 14: Western Conference Player of the Week- Veronica Burton",
-      "videoId": "OIHpTM_Hlgk",
-      "thumbnail": "https://img.youtube.com/vi/OIHpTM_Hlgk/mqdefault.jpg",
-      "timeAgo": "22h ago",
+      "title": "August  Rookie of the Month: Olivia Miles",
+      "videoId": "J5ee2wNvY0Y",
+      "thumbnail": "https://img.youtube.com/vi/J5ee2wNvY0Y/mqdefault.jpg",
+      "timeAgo": "1h ago",
       "isFallback": false
     },
     {
@@ -6392,11 +6404,171 @@
       "title": "Take your textbooks out and turn to the Messi chapter 😤",
       "videoId": "x3iUgxSr5_g",
       "thumbnail": "https://img.youtube.com/vi/x3iUgxSr5_g/mqdefault.jpg",
-      "timeAgo": "1h ago",
+      "timeAgo": "4h ago",
       "isFallback": false
     }
   ],
   "reels": [
+    {
+      "league": "NFL",
+      "title": "‘Big Day with Peter Schrager’ is coming soon 🍿",
+      "videoId": "om7rVLNKr6w",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-09-02T17:53:31+00:00",
+      "link": "https://www.youtube.com/watch?v=om7rVLNKr6w"
+    },
+    {
+      "league": "WNBA",
+      "title": "August  Rookie of the Month: Olivia Miles",
+      "videoId": "J5ee2wNvY0Y",
+      "author": "WNBA",
+      "pubDate": "2026-09-02T17:33:10+00:00",
+      "link": "https://www.youtube.com/watch?v=J5ee2wNvY0Y"
+    },
+    {
+      "league": "NFL",
+      "title": "Will Fernando Mendoza sit the whole year?!",
+      "videoId": "0gVlwRUM4Bc",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-09-02T17:33:02+00:00",
+      "link": "https://www.youtube.com/watch?v=0gVlwRUM4Bc"
+    },
+    {
+      "league": "NFL",
+      "title": "Why the Best Move of the Offseason Almost Didn't Happen | The Adam Schefter Podcast",
+      "videoId": "A8FC6MdVRfQ",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-09-02T17:15:36+00:00",
+      "link": "https://www.youtube.com/watch?v=A8FC6MdVRfQ"
+    },
+    {
+      "league": "WNBA",
+      "title": "August Eastern Conference Player of the Month: Kelsey Mitchell",
+      "videoId": "PfSBHlVX1RI",
+      "author": "WNBA",
+      "pubDate": "2026-09-02T17:04:40+00:00",
+      "link": "https://www.youtube.com/watch?v=PfSBHlVX1RI"
+    },
+    {
+      "league": "WNBA",
+      "title": "August Western Conference Player of the Month: A’ja Wilson",
+      "videoId": "OJHeHZravM0",
+      "author": "WNBA",
+      "pubDate": "2026-09-02T17:04:37+00:00",
+      "link": "https://www.youtube.com/watch?v=OJHeHZravM0"
+    },
+    {
+      "league": "MLB",
+      "title": "We bring you the Top 10 Bat Flips that define baseball. #250for250",
+      "videoId": "q4NGh6yBLrQ",
+      "author": "MLB",
+      "pubDate": "2026-09-02T17:00:01+00:00",
+      "link": "https://www.youtube.com/watch?v=q4NGh6yBLrQ"
+    },
+    {
+      "league": "NFL",
+      "title": "Caleb Williams is already the GREATEST QB in Chicago Bears HISTORY! 💪 - Stephen A. | First Take",
+      "videoId": "a6ItV4oqXlk",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-09-02T16:38:18+00:00",
+      "link": "https://www.youtube.com/watch?v=a6ItV4oqXlk"
+    },
+    {
+      "league": "NFL",
+      "title": "Kyle Long on the Bears’ Path to a Deep Playoff Run",
+      "videoId": "VV-Ic-usThE",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-09-02T16:00:32+00:00",
+      "link": "https://www.youtube.com/watch?v=VV-Ic-usThE"
+    },
+    {
+      "league": "NHL",
+      "title": "The BEST Goal From EVERY NHL Team in 2025-26",
+      "videoId": "di6M9dZy4I4",
+      "author": "NHL",
+      "pubDate": "2026-09-02T16:00:23+00:00",
+      "link": "https://www.youtube.com/watch?v=di6M9dZy4I4"
+    },
+    {
+      "league": "NFL",
+      "title": "Nick Saban's coach meetings were second to none",
+      "videoId": "r6xINQYQiPw",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-09-02T16:00:14+00:00",
+      "link": "https://www.youtube.com/watch?v=r6xINQYQiPw"
+    },
+    {
+      "league": "MLB",
+      "title": "How is Jean Segura able to go all the way back to 1st on this??",
+      "videoId": "bbTzQy8LLJk",
+      "author": "MLB",
+      "pubDate": "2026-09-02T16:00:02+00:00",
+      "link": "https://www.youtube.com/watch?v=bbTzQy8LLJk"
+    },
+    {
+      "league": "NBA",
+      "title": "Shai's Isolation-Scoring Is Truly Unreal 🤯",
+      "videoId": "9bspstfBYxM",
+      "author": "NBA",
+      "pubDate": "2026-09-02T16:00:00+00:00",
+      "link": "https://www.youtube.com/watch?v=9bspstfBYxM"
+    },
+    {
+      "league": "MLB",
+      "title": "Top 10 BAT FLIPS from Baseball History! | MLB 250 For 250",
+      "videoId": "Sc7QXbzO36k",
+      "author": "MLB",
+      "pubDate": "2026-09-02T15:30:26+00:00",
+      "link": "https://www.youtube.com/watch?v=Sc7QXbzO36k"
+    },
+    {
+      "league": "MLB",
+      "title": "Shohei Ohtani, Fernando Tatis Jr. and MORE MLB SLUGGERS who hit the longest homers of August 2026!",
+      "videoId": "0exdzXseF84",
+      "author": "MLB",
+      "pubDate": "2026-09-02T15:30:16+00:00",
+      "link": "https://www.youtube.com/watch?v=0exdzXseF84"
+    },
+    {
+      "league": "NFL",
+      "title": "How will Caleb Williams do this season? 👀",
+      "videoId": "UMIpR9x3vMM",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-09-02T15:24:48+00:00",
+      "link": "https://www.youtube.com/watch?v=UMIpR9x3vMM"
+    },
+    {
+      "league": "NFL",
+      "title": "Stephen A. says just wait on it 😂",
+      "videoId": "_nRontAJILY",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-09-02T15:24:19+00:00",
+      "link": "https://www.youtube.com/watch?v=_nRontAJILY"
+    },
+    {
+      "league": "NBA",
+      "title": "Paul George getting some offseason work with Jayson Tatum and the Celtics  🙌 (via: jaytatum0/IG)",
+      "videoId": "PDGyD-Xevnc",
+      "author": "NBA",
+      "pubDate": "2026-09-02T15:20:00+00:00",
+      "link": "https://www.youtube.com/watch?v=PDGyD-Xevnc"
+    },
+    {
+      "league": "NBA",
+      "title": "The BOUNCIEST Plays of the 2025-26 NBA Season",
+      "videoId": "UAy338TAFAw",
+      "author": "NBA",
+      "pubDate": "2026-09-02T15:16:48+00:00",
+      "link": "https://www.youtube.com/watch?v=UAy338TAFAw"
+    },
+    {
+      "league": "MLB",
+      "title": "Someone please find these dudes and thank them for making this kid’s year 🥹",
+      "videoId": "GB-JLTEV6L4",
+      "author": "MLB",
+      "pubDate": "2026-09-02T14:30:05+00:00",
+      "link": "https://www.youtube.com/watch?v=GB-JLTEV6L4"
+    },
     {
       "league": "SOCCER",
       "title": "Take your textbooks out and turn to the Messi chapter 😤",
@@ -6406,60 +6578,12 @@
       "link": "https://www.youtube.com/watch?v=x3iUgxSr5_g"
     },
     {
-      "league": "NFL",
-      "title": "Do the Browns have a long-term answer at QB ⁉️",
-      "videoId": "ytQdiE8v0E8",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-09-02T13:57:10+00:00",
-      "link": "https://www.youtube.com/watch?v=ytQdiE8v0E8"
-    },
-    {
-      "league": "NFL",
-      "title": "Mike Macdonald's UNIQUE obsession",
-      "videoId": "YoLdTN9TRBs",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-09-02T13:19:45+00:00",
-      "link": "https://www.youtube.com/watch?v=YoLdTN9TRBs"
-    },
-    {
-      "league": "NFL",
-      "title": "Will Caleb Downs turn things around in Dallas? 🤔",
-      "videoId": "19MLUAUKmf4",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-09-02T13:07:15+00:00",
-      "link": "https://www.youtube.com/watch?v=19MLUAUKmf4"
-    },
-    {
       "league": "MLB",
       "title": "Gavin Williams DOMINATES with a 13-STRIKEOUT START for the Guardians! 🔥",
       "videoId": "0ILI8wVlOxI",
       "author": "MLB",
       "pubDate": "2026-09-02T13:00:31+00:00",
       "link": "https://www.youtube.com/watch?v=0ILI8wVlOxI"
-    },
-    {
-      "league": "NFL",
-      "title": "Kyle Long Opens Up About NFL Mental Health &amp; His Struggles in the League",
-      "videoId": "Pd5IMNsYMpc",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-09-02T13:00:24+00:00",
-      "link": "https://www.youtube.com/watch?v=Pd5IMNsYMpc"
-    },
-    {
-      "league": "NFL",
-      "title": "How to CRUSH Your ESPN Knockout League Draft | Fantasy Focus",
-      "videoId": "XGRfnXfQHZI",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-09-02T12:52:32+00:00",
-      "link": "https://www.youtube.com/watch?v=XGRfnXfQHZI"
-    },
-    {
-      "league": "NFL",
-      "title": "Wild Wild West 🏈",
-      "videoId": "6Wu6hoAnIMI",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-09-02T12:21:31+00:00",
-      "link": "https://www.youtube.com/watch?v=6Wu6hoAnIMI"
     },
     {
       "league": "MLB",
@@ -6476,62 +6600,6 @@
       "author": "MLB",
       "pubDate": "2026-09-02T10:00:03+00:00",
       "link": "https://www.youtube.com/watch?v=2RobMnLczpM"
-    },
-    {
-      "league": "MLB",
-      "title": "CARDINALS vs. DODGERS: Official Full Game Highlights (September 1) | 2026 MLB Season",
-      "videoId": "NP4MSBp0wWY",
-      "author": "MLB",
-      "pubDate": "2026-09-02T05:35:20+00:00",
-      "link": "https://www.youtube.com/watch?v=NP4MSBp0wWY"
-    },
-    {
-      "league": "MLB",
-      "title": "The Cardinals mash 5 HOMERS during a 13-RUN GAME vs. the Dodgers! 🤯 (Ft. Saggese, Walker &amp; MORE!)",
-      "videoId": "4NJ4fGDYX6I",
-      "author": "MLB",
-      "pubDate": "2026-09-02T05:05:56+00:00",
-      "link": "https://www.youtube.com/watch?v=4NJ4fGDYX6I"
-    },
-    {
-      "league": "MLB",
-      "title": "YANKEES vs. ANGELS: Official Full Game Highlights (September 1) | 2026 MLB Season",
-      "videoId": "V5ZymWX1gyU",
-      "author": "MLB",
-      "pubDate": "2026-09-02T04:58:57+00:00",
-      "link": "https://www.youtube.com/watch?v=V5ZymWX1gyU"
-    },
-    {
-      "league": "MLB",
-      "title": "Did Lazaro Montes just have the best day ever?! 🤣",
-      "videoId": "26103Me19Ao",
-      "author": "MLB",
-      "pubDate": "2026-09-02T04:56:17+00:00",
-      "link": "https://www.youtube.com/watch?v=26103Me19Ao"
-    },
-    {
-      "league": "MLB",
-      "title": "SHO HIRANO, YUTA JINGUJI and YUTA KISHI of Number_i threw out the first pitch at the Dodgers game! 🤩",
-      "videoId": "n5AETIgW4Ec",
-      "author": "MLB",
-      "pubDate": "2026-09-02T04:42:53+00:00",
-      "link": "https://www.youtube.com/watch?v=n5AETIgW4Ec"
-    },
-    {
-      "league": "NFL",
-      "title": "Slip n' slide celly was next level 😮‍💨",
-      "videoId": "msOuewOsk8U",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-09-02T03:30:37+00:00",
-      "link": "https://www.youtube.com/watch?v=msOuewOsk8U"
-    },
-    {
-      "league": "NFL",
-      "title": "'We're ready to take these challenges head on' - Jaxon Smith-Njigba on facing the Rams' defense | SC",
-      "videoId": "PTPgs_4Lv5o",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-09-02T00:04:46+00:00",
-      "link": "https://www.youtube.com/watch?v=PTPgs_4Lv5o"
     },
     {
       "league": "SOCCER",
@@ -6583,7 +6651,7 @@
     },
     {
       "league": "NBA",
-      "title": "Bam Adebayo talks about the moment with his Mom after his 83 PT game.",
+      "title": "Bam speaks on the moment with his mother after his historic 83-PT night ♥️🥲",
       "videoId": "dhzz7EOSGjY",
       "author": "NBA",
       "pubDate": "2026-09-01T20:33:23+00:00",
@@ -6646,14 +6714,6 @@
       "link": "https://www.youtube.com/watch?v=42dNv7U0TgQ"
     },
     {
-      "league": "NBA",
-      "title": "Introducing your 2025-26 NBA ID Fan Favorites Winners 🏆",
-      "videoId": "P0Qq29XePRo",
-      "author": "NBA",
-      "pubDate": "2026-09-01T16:00:11+00:00",
-      "link": "https://www.youtube.com/watch?v=P0Qq29XePRo"
-    },
-    {
       "league": "NHL",
       "title": "EVERY GOAL Scored Last Season by the 2026-27 Winnipeg Jets Roster",
       "videoId": "gZoFV3NVZdo",
@@ -6668,54 +6728,6 @@
       "author": "NHL",
       "pubDate": "2026-08-31T23:00:06+00:00",
       "link": "https://www.youtube.com/watch?v=yRlBvtZ0KNs"
-    },
-    {
-      "league": "NBA",
-      "title": "From training with his dad to leading the New York Knicks to their first NBA title in 53 years🥹",
-      "videoId": "Nmpw9f2ZDjE",
-      "author": "NBA",
-      "pubDate": "2026-08-31T20:58:36+00:00",
-      "link": "https://www.youtube.com/watch?v=Nmpw9f2ZDjE"
-    },
-    {
-      "league": "NBA",
-      "title": "Emotional embraces all around after Jalen Brunson became an NBA Champion 🥹",
-      "videoId": "JSPd7ncDjco",
-      "author": "NBA",
-      "pubDate": "2026-08-31T20:55:31+00:00",
-      "link": "https://www.youtube.com/watch?v=JSPd7ncDjco"
-    },
-    {
-      "league": "NHL",
-      "title": "Meet the 2026-27 Washington Capitals - Every Goal From Last Season",
-      "videoId": "fBV4snjdHIQ",
-      "author": "NHL",
-      "pubDate": "2026-08-31T14:00:19+00:00",
-      "link": "https://www.youtube.com/watch?v=fBV4snjdHIQ"
-    },
-    {
-      "league": "NHL",
-      "title": "FULL REPLAY: Kadri ends Game 4! Avalanche @ Lightning | 2022 Stanley Cup Final",
-      "videoId": "7gCtZ0mktyQ",
-      "author": "NHL",
-      "pubDate": "2026-08-31T04:59:08+00:00",
-      "link": "https://www.youtube.com/watch?v=7gCtZ0mktyQ"
-    },
-    {
-      "league": "WNBA",
-      "title": "Connecticut Sun vs. Dallas Wings | FULL GAME HIGHLIGHTS | August 30, 2026",
-      "videoId": "VCl0Hf_yDYM",
-      "author": "WNBA",
-      "pubDate": "2026-08-31T03:16:26+00:00",
-      "link": "https://www.youtube.com/watch?v=VCl0Hf_yDYM"
-    },
-    {
-      "league": "WNBA",
-      "title": "Portland Fire vs. Golden State Valkyries | FULL GAME HIGHLIGHTS | August 30, 2026",
-      "videoId": "v0xFvmavQf4",
-      "author": "WNBA",
-      "pubDate": "2026-08-31T02:02:53+00:00",
-      "link": "https://www.youtube.com/watch?v=v0xFvmavQf4"
     }
   ]
 }
