@@ -1,81 +1,73 @@
 {
   "clusters": [
     {
+      "category": "leagues",
+      "importance": 8,
+      "leadHeadline": "Haaland edges Manchester City past Coventry as Fernández sparkles on debut",
+      "leadSource": "The Guardian · 1h ago",
+      "leadUrl": "https://www.theguardian.com/football/2026/sep/05/manchester-city-coventry-city-premier-league-match-report",
+      "summary": "Erling Haaland scored his 300th club goal as Manchester City beat Coventry 1-0, with Enzo Fernández—on debut after Nico O'Reilly's warm-up injury—involved in the winning move.",
+      "article": "<cite index=\"1-1\">Manchester City edged Coventry 1-0</cite>, maintaining their perfect start as <cite index=\"4-4\">Haaland's header from Antoine Semenyo's cross marked his 300th career club goal</cite>. The win was a story of midfield firepower meeting opportunity: <cite index=\"11-1\">Enzo Fernández arrived on deadline day for a British-record £125 million</cite>, <cite index=\"11-3\">matching the fee Liverpool paid Alexander Isak last summer</cite>. <cite index=\"1-4\">Named initially as a substitute, Fernández was thrust into the starting lineup when Nico O'Reilly suffered a warm-up injury</cite>. <cite index=\"1-3\">The Argentine's involvement sparked the winning goal in the 26th minute</cite>. <cite index=\"1-4\">Fernández impressed with an energetic display</cite>, orchestrating play from midfield as City controlled possession against a compact Coventry side. <cite index=\"1-5\">He also set up Rayan Cherki for a post and was involved in a second-half chance that was ruled out for offside</cite>. City needed late goalkeeper heroics—<cite index=\"3-1\">Gianluigi Donnarumma made a crucial save to deny Ellis Simms from point-blank range</cite>—to hold on. For Haaland, the goal crowned an otherwise narrow afternoon; for Fernández, the début quieted questions about City's British-record outlay on a player they'd just integrated mid-match.",
+      "tweets": []
+    },
+    {
       "category": "media",
       "importance": 7,
-      "leadHeadline": "Ominous prediction has Tony Romo 95 percent finished at CBS after arrest",
-      "leadSource": "NY Post Sports · just now",
-      "leadUrl": "https://nypost.com/2026/09/05/sports/ominous-prediction-has-tony-romo-95-percent-finished-at-cbs/",
-      "summary": "Sports business reporter John Ourand pegged Tony Romo's return to CBS at 5 percent odds after the analyst's July OWI arrest and indefinite leave.",
-      "article": "<cite index=\"1-1,1-2\">Tony Romo was arrested on suspicion of operating a vehicle while under the influence on July 23, 2026</cite>. CBS Sports placed him on leave, replacing him with J.J. Watt in the booth.\n\n<cite index=\"23-1,23-4\">Puck sports business reporter John Ourand said on Puck's The Powers That Be podcast that there is a 95% chance Romo does not return to CBS Sports</cite>. <cite index=\"23-6\">\"I think it's highly unlikely, and by highly unlikely, [I mean] it's 95 percent that he's not back at CBS,\"</cite> Ourand said. The prediction reflects industry consensus that the arrest has closed a nine-year broadcasting tenure that once seemed permanent.\n\n<cite index=\"13-4\">Romo pleaded no contest to a civil OWI offense in Wisconsin</cite>, and <cite index=\"5-6\">his spokesperson said he accepted \"full responsibility for his actions\"</cite>. The real complication: <cite index=\"22-6\">Romo's contract has four years and about $72 million remaining</cite>. CBS will likely seek to invoke a morals clause to exit the deal rather than pay him out, but that could trigger litigation. <cite index=\"2-3,2-4\">CBS Sports president David Berson said \"It's an evolving situation and we are still assessing\" with \"no timetable or final decision at this time\"</cite>—corporate language that masks what Ourand and others read as a network moving on.",
+      "leadHeadline": "Alpine's Gasly beats Russell to stunning Monza pole",
+      "leadSource": "BBC Sport · just now",
+      "leadUrl": "https://www.bbc.co.uk/sport/formula1/articles/c8d31qrg2neo?at_medium=RSS&amp;at_campaign=rss",
+      "summary": "Pierre Gasly claimed a stunning pole position for Alpine at the Italian Grand Prix, ahead of Mercedes' George Russell in a result that caps a remarkable qualifying session.",
+      "article": "Alpine driver Pierre Gasly secured pole position at the Italian Grand Prix, edging out George Russell of Mercedes in a qualifying session that delivered one of the season's most unexpected results. Monza's high-speed layout typically favors the constructors with the most straight-line power and aerodynamic advantage, roles historically filled by Mercedes and the leading teams. That Gasly and Alpine seized the top spot signals either a significant performance jump for the midfield outfit or tactical opportunity within the session's variables. Russell's front-row finish keeps Mercedes competitive, but the pole flip represents a genuine upset in a season where grid positions have largely tracked preseason expectations. The result sets up a fascinating Sunday strategy battle, with traditional power players forced to hunt from behind.",
+      "tweets": []
+    },
+    {
+      "category": "media",
+      "importance": 7,
+      "leadHeadline": "Williams sisters' US Open return ends in heartbreak with third-set tie-break defeat",
+      "leadSource": "The Guardian · 13h ago",
+      "leadUrl": "https://www.theguardian.com/sport/2026/sep/05/serena-venus-williams-us-open-doubles-defeat",
+      "summary": "Serena and Venus Williams' much-anticipated US Open return ended in the first round of women's doubles, falling 6-3, 6-7(6), 7-6(7) to Maya Joint and Chan Hao-ching after a third-set tie-break loss.",
+      "article": "Serena and Venus Williams' long-awaited return to the US Open stage concluded in heartbreak as the legendary doubles pairing fell to Maya Joint and Chan Hao-ching 6-3, 6-7(6), 7-6(7) in the first round of women's doubles. The loss came despite considerable fight and admirable scramble, particularly in the closing set where the tie-break went to seven points before the Williams sisters' bid ran out. The American duo had carried significant narrative momentum into the tournament following Serena's earlier runs in singles and the broader cultural resonance of a potential final appearance. Instead, defeat came in straight sets, albeit tightly contested ones. The tie-break loss in the third set underscores the wafer-thin margins at the sport's elite level. For two players still among the greatest to ever share a doubles court, one first-round exit closes what appeared to be an open window for a final hurrah on American soil.",
       "tweets": []
     },
     {
       "category": "media",
       "importance": 6,
-      "leadHeadline": "Hughes steps down as Liverpool sporting director",
-      "leadSource": "BBC Sport · 1h ago",
-      "leadUrl": "https://www.bbc.co.uk/sport/football/articles/c3d7483rv82o?at_medium=RSS&amp;at_campaign=rss",
-      "summary": "Liverpool's sporting director Richard Hughes is stepping down from his role and is set to join Saudi side Al-Hilal in a major power shift.",
-      "article": "Richard Hughes has departed his post as Liverpool's sporting director and is expected to join Saudi Arabian club Al-Hilal. Hughes oversaw recruitment and strategic planning for one of Europe's biggest clubs, making his exit a significant move in the Premier League power structure. His departure comes amid a period of transition at Liverpool and represents a high-profile brain drain to the Saudi Pro League, which has been aggressively recruiting top European talent and executives. Al-Hilal, backed by Saudi Arabia's Public Investment Fund, represents the latest in a series of moves by Saudi clubs to poach senior leadership from established European institutions. For Liverpool, Hughes's exit means finding a replacement for a role that shapes the club's transfer strategy and long-term direction. The timing and destination underscore the growing financial and competitive pull of Saudi football, which is reshaping the global market for elite talent and expertise. Hughes's move is the latest in a series of European power brokers testing the Saudi market.",
-      "tweets": [
-        {
-          "url": "https://twitter.com/FabrizioRomano/status/2096194194322685954",
-          "html": "<blockquote class=\"twitter-tweet\" data-dnt=\"true\" data-theme=\"dark\"><p>🚨🔵⚪️ OFFICIAL: Richard Hughes leaves Liverpool director role to sign for Al Hilal.\n\n“Liverpool FC can confirm Richard Hughes has stepped down as sporting director.\n\nHughes departs with the best wishes of everyone at LFC having informed the club’s ownership of his desire to seek https://t.co/g9CvtJAYmF</p>&mdash; Fabrizio Romano (@FabrizioRomano) <a href=\"https://twitter.com/FabrizioRomano/status/2096194194322685954\">September 5, 2026</a></blockquote>",
-          "author_name": "Fabrizio Romano",
-          "author_url": "https://twitter.com/FabrizioRomano",
-          "dateMs": 1788606615000
-        }
-      ]
-    },
-    {
-      "category": "media",
-      "importance": 5,
-      "leadHeadline": "She Had Game: What Gloria Steinem Had to Say About Women and Sports",
-      "leadSource": "Sportico · 2h ago",
-      "leadUrl": "https://www.sportico.com/business/sports/2026/gloria-steinem-on-women-in-sports-1234944041/",
-      "summary": "Gloria Steinem, the feminist icon who died at 92, championed women's equality in sports throughout her career, refusing to accept athletics as a patriarchal domain.",
-      "article": "Gloria Steinem, the pioneering feminist who shaped the women's movement over more than five decades, died this past week at age 92. Among her many fights for equality was a sustained campaign to open sports to women and challenge the institutions that treated athletics as an exclusive male preserve. Steinem didn't treat sports as a peripheral concern in the broader struggle for women's rights; she saw the playing field as a critical arena where women's access and participation reflected deeper inequities in society. Her work helped create pathways for female athletes and shifted the conversation around women's participation in competitive sports. Steinem's death closes a chapter in American feminism and sports history. Her legacy includes not just the legislative and cultural wins for women in athletics, but a model of how to treat sports as integral to a broader equality agenda. Readers who came of age during the Title IX era and beyond benefited from advocates like Steinem who insisted that women's participation in sports was not a luxury but a right.",
+      "leadHeadline": "Amanda Anisimova handed early exit in stunning US Open upset following 2025 underdog run",
+      "leadSource": "NY Post Sports · just now",
+      "leadUrl": "https://nypost.com/2026/09/05/sports/amanda-anisimova-handed-early-exit-in-stunning-us-open-upset/",
+      "summary": "Amanda Anisimova's US Open run has ended early in an upset departure after her impressive 2025 underdog campaign came to an unexpected halt.",
+      "article": "Amanda Anisimova's US Open campaign has come to an early end, a stunning reversal after the American's impressive underdog run through the 2025 season. Anisimova will not return to the final, closing what had been framed as a potential redemptive arc for a player working to recapture peak form. The nature of the upset and the opponent remain undisclosed in available details, but the loss removes one of the feel-good narratives from what had been shaping as a strong American presence in the women's draw. Anisimova's path back to contention has been a multi-year project, and early exits like this one, while part of the sport's natural variance, nonetheless reset expectations heading into the circuit's final major of the year.",
       "tweets": []
     },
     {
       "category": "media",
       "importance": 5,
-      "leadHeadline": "Jacob Tobey to Return As Spurs Announcer After Affair Allegation",
-      "leadSource": "Front Office Sports · 16h ago",
-      "leadUrl": "https://frontofficesports.com/article/jacob-tobey-continue-spurs-announcer/",
-      "summary": "Jacob Tobey, the San Antonio Spurs announcer, is returning to his role after being let go in July following an affair allegation.",
-      "article": "Jacob Tobey is returning as the San Antonio Spurs announcer, less than two months after the franchise removed him from the position in July following an affair allegation. Tobey's reinstatement signals the Spurs' decision to move past the initial controversy and restore him to his longtime broadcast role. The timeline between his removal and return was relatively compressed, suggesting either a resolution of the underlying dispute or the organization's determination to treat the matter as concluded. Tobey had been a familiar voice for Spurs broadcasts, and his absence marked a notable change in the team's media operations. The decision to bring him back reflects the Spurs' confidence that he can resume his duties without further distraction or fallout. Sports organizations regularly face decisions about when and whether to reinstate talent after personal or professional controversies. The Spurs' choice to restore Tobey suggests they viewed the incident as a personal matter that did not disqualify him from his broadcast position. His return also underscores the different standards and timelines that sports media figures face compared to on-air talent at national networks.",
+      "leadHeadline": "CBS Sports preparing for new-look CFB broadcast, production team",
+      "leadSource": "Sports Media Watch · 1h ago",
+      "leadUrl": "https://www.sportsmediawatch.com/2026/09/cbs-sports-cfb-broadcast-production-team-davis-kelly/",
+      "summary": "CBS Sports is preparing a new-look college football broadcast and production team with Charles Davis returning to call games, signaling a significant overhaul to the network's CFB coverage structure.",
+      "article": "CBS Sports is implementing a new-look production and broadcast setup for college football coverage, marking a notable shift in how the network presents the sport. Charles Davis is returning to college football broadcasts, a notable addition to the announce team that represents both continuity and change. Davis' return carries particular weight given the specific acoustic and atmospheric dimensions of college football broadcasts, particularly the role of marching bands in creating the sport's sonic identity. The network's restructuring suggests either a response to viewership trends, talent availability, or strategic repositioning ahead of the fall season. The timing of the announcement, with Labor Day marking the unofficial start of college football season, gives teams and networks the final window to finalize talent and production protocols before kickoff arrives.",
       "tweets": []
     },
     {
-      "category": "leagues",
+      "category": "media",
+      "importance": 5,
+      "leadHeadline": "New season, same flaw - Chelsea title hopes already under scrutiny",
+      "leadSource": "BBC Sport · 2h ago",
+      "leadUrl": "https://www.bbc.co.uk/sport/football/articles/crr4704xvgpo?at_medium=RSS&amp;at_campaign=rss",
+      "summary": "Chelsea's WSL season opener against Aston Villa saw them throw away a commanding position with 11 minutes remaining, reviving questions about team resilience before the campaign has truly begun.",
+      "article": "Chelsea's first Women's Super League match of the season exposed a recurring structural problem. With 11 minutes remaining against Aston Villa, the team appeared to be cruising to victory. Instead, they surrendered what had been a winning position, allowing Villa to snatch points from what should have been routine. The collapse raises immediate questions about a team that entered preseason with title expectations. Whether this represents a specific tactical lapse, fitness issue ahead of the season proper, or a deeper pattern of inconsistency under pressure remains unclear from one match, but the result stings precisely because of when it happened. Chelsea have had to reckon with the gap between their investment level and actual results in recent seasons. An opener this sloppy suggests that gap may not have closed.",
+      "tweets": []
+    },
+    {
+      "category": "media",
       "importance": 4,
-      "leadHeadline": "Can NASCAR's New Championship Format Be Both Fun and Fair?",
-      "leadSource": "Sportico · 2h ago",
-      "leadUrl": "https://www.sportico.com/leagues/motorsports/2026/nascar-chase-format-playoffs-change-reason-rules-explained-1234944134/",
-      "summary": "NASCAR's redesigned 10-race playoff format debuts Saturday, replacing the single-race championship finale that ran since 2013 in a fresh attempt to balance drama and fairness.",
-      "article": "NASCAR is rolling out a new championship format this weekend as the 10-race \"Chase\" begins Saturday night. The revision scraps the previous playoff structure that had culminated in a single race among four finalists to crown the season champion. That format, introduced in 2013, was designed to amplify drama by compressing the title decision into one high-stakes event. The problem: a single race can produce arbitrary outcomes divorced from the full season's performance. The new format attempts to thread the needle between spectacle and legitimacy, extending the championship battle across ten races rather than collapsing it into one. The change reflects ongoing tension in motorsports over how to balance entertainment value with a credible claim that the champion actually earned the title. NASCAR has wrestled with this balancing act for years, tinkering with playoff structures in search of a formula that drives viewership while preserving competitive integrity. Saturday's launch of the new Chase offers fans and analysts a chance to evaluate whether NASCAR has finally cracked it. The format's success will likely hinge on whether the extended playoff produces a compelling narrative or simply delays the inevitable.",
-      "tweets": []
-    },
-    {
-      "category": "leagues",
-      "importance": 4,
-      "leadHeadline": "Wild Transfer Window Shows How Premier League Towers Over Soccer",
-      "leadSource": "Front Office Sports · 20h ago",
-      "leadUrl": "https://frontofficesports.com/article/wild-transfer-window-premier-league-towers-over-soccer/",
-      "summary": "Premier League clubs vastly outspent the rest of Europe during the latest transfer window, widening the financial gap between English football and continental rivals.",
-      "article": "English Premier League clubs have cemented their financial dominance in European transfer markets, spending far more aggressively than their counterparts across Spain, Italy, Germany, and France during the most recent window. The spending gap underscores the structural advantages English clubs enjoy: broadcasting revenues that dwarf those of other leagues, overseas investment capital that favors the Premier League, and a global brand that attracts players and sponsors. Across the continent, clubs in La Liga, Serie A, Bundesliga, and Ligue 1 have tightened spending, either due to ownership constraints or a strategic shift toward youth development. The Premier League's ability to splash cash while rivals economize has real competitive consequences. English teams are better positioned to assemble talent, improve depth, and weather injuries. The spending disparity also reflects a broader financial restructuring in European football, where the Premier League's TV and commercial deals have created a two-tier system. Clubs in England can afford to take risks on expensive signings; continental rivals have to justify every outlay. This gap is not new, but the scale of the latest window's disparity suggests it's widening rather than narrowing, likely to persist across future transfer periods.",
-      "tweets": []
-    },
-    {
-      "category": "leagues",
-      "importance": 3,
-      "leadHeadline": "I've never spoken to Everton owner Friedkin - Moyes",
-      "leadSource": "BBC Sport · 5h ago",
-      "leadUrl": "https://www.bbc.co.uk/sport/football/articles/c4gl3wx8g64o?at_medium=RSS&amp;at_campaign=rss",
-      "summary": "Everton manager David Moyes says he has never met or spoken with club owner Dan Friedkin, raising questions about internal communication at the club.",
-      "article": "Everton manager David Moyes disclosed that he has not met or had any conversation with the club's owner, Dan Friedkin. The revelation is striking for a club of Everton's stature and suggests a disconnect between the manager and ownership that typically would be resolved early in any managerial tenure. Friedkin acquired Everton not long before Moyes' appointment, and the lack of direct contact between the two suggests either a deliberate hands-off ownership model or a failure in basic organizational communication. For context, managers at major clubs expect regular dialogue with ownership about direction, budget, transfer strategy, and performance expectations. The absence of that conversation at Everton raises questions about how decisions are being made and whether Moyes has a clear mandate or understanding of Friedkin's vision for the club. Whether this reflects Friedkin's preference for operating through sporting directors and other intermediaries, or an oversight, remains unclear. The statement does underscore the organizational complexities Moyes is navigating at a club in transition under new ownership.",
+      "leadHeadline": "Rams Are Testing the Limits of Sleep Science Before Australia Game",
+      "leadSource": "Front Office Sports · 2h ago",
+      "leadUrl": "https://frontofficesports.com/article/rams-are-testing-the-limits-of-sleep-science-before-australia-game/",
+      "summary": "The Rams are experimenting with sleep science protocols ahead of their game in Australia, while the 49ers are already there, highlighting the logistical and physiological challenges of the overseas fixture.",
+      "article": "The Los Angeles Rams are deploying sleep science testing before their trip to Australia, using the final preparation window to optimize player rest and circadian adjustment ahead of one of the NFL's most geographically demanding matchups. The 49ers, by contrast, have already arrived in Australia and are past the initial acclimation phase. The use of sleep science reflects how far professional sports have moved in treating travel jet lag as a measurable, addressable variable rather than an inevitable handicap. Sleep disruption can degrade reaction time, decision-making, and physical recovery, all factors that compound in a high-stakes game. The Rams' approach suggests either they're behind schedule or they're taking a calculated risk on timing their arrival to maximize adaptation while maintaining training intensity. Both teams understand that whoever adjusts better will carry a tangible advantage in a match where fatigue could tip close moments.",
       "tweets": []
     }
   ],
@@ -2399,84 +2391,96 @@
     ],
     "source": "espn"
   },
-  "deals": [],
+  "deals": [
+    {
+      "type": "acquisition",
+      "parties": "Manchester City ⇄ Enzo Fernández",
+      "value_usd": 155000000,
+      "term_years": null,
+      "league": "SOCCER",
+      "headline": "Man City complete Enzo Fernández deal at £125m British record fee",
+      "storyIndex": 3,
+      "blurb": "Enzo Fernández joined Manchester City for £125m, matching a British transfer record, and made an immediate impact on debut against Coventry.",
+      "capturedAt": "2026-09-05T17:02:51.461Z"
+    }
+  ],
   "ratings": [],
   "ticket_prices": [],
   "sidebar": [
     {
-      "headline": "Blue Jays claw back to .500 with win over Royals",
-      "source": "Sportsnet · 11h ago",
-      "article": "The Toronto Blue Jays reached .500 with a win over Kansas City on Friday, continuing their climb back to relevance after a chaotic trade deadline. The message from the front office was clear: we are going to compete. That resolve has materialized in real results as the Blue Jays navigate the long road back to .500 with wins against division rivals. The deadline moves signaled a commitment to compete now rather than tank, and the early returns suggest the bets are paying off. Toronto's ability to stay close in the standings and pick up wins late in the season will determine whether the front office's strategy translates into playoff contention or another fall short."
+      "headline": "Henrik Sedin likes early look of Canucks: Better than expected",
+      "source": "Sportsnet · 4h ago",
+      "article": "The Vancouver Canucks, a team mired in the lottery for years, have emerged from summer with genuine optimism. Henrik Sedin, evaluating the squad early in camp, has found the roster better than expected for a 32nd-place team with dim championship prospects this season. The sentiment is notable: lottery teams rarely inspire confidence, but Vancouver's management has made moves that suggest a longer-term trajectory. Whether that optimism survives contact with an 82-game season remains the real test, but preseason positivity is preferable to the opposite."
     },
     {
-      "headline": "Cardinals manager Oli Marmol loses it on umpire after odd hat warning",
-      "source": "NY Post Sports · just now",
-      "article": "St. Louis Cardinals manager Oliver Marmol was ejected after umpire Doug Eddings told Cardinals rookie Hencel Rincon to straighten his hat during his MLB debut. The hat warning was unusual enough to provoke Marmol's outburst, with the manager telling Eddings to grow up before being tossed. The incident highlights how umpires' enforcement of uniform codes can escalate into confrontations, particularly when the directive seems petty relative to the game itself. For Rincon, his debut was overshadowed by the controversy, though the broader point stands: umpires wield discretion in how strictly they enforce appearance rules."
+      "headline": "You're going to believe: Blue Jays claw back to .500 with win over Royals",
+      "source": "Sportsnet · 14h ago",
+      "article": "The Toronto Blue Jays reached .500 following a chaotic deadline, posting a win over the Royals in what Shi Davidi describes as reality matching the team's competitive vision. Before the deadline, the message was clear: the Jays would continue to compete. After the dust settled, results have validated that stance. The climb back to .500 marks a narrative inflection for a team that spent much of the season searching for identity and coherence. Whether they can extend this run into a genuine playoff push depends on depth and health down the stretch, but the psychological barrier of .500 is crossed."
     },
     {
-      "headline": "Blue Jays Taillon likely headed back to IL after being pulled early in return",
-      "source": "Sportsnet · 13h ago",
-      "article": "Toronto Blue Jays right-hander Sonny Gray was pulled only two innings into his first game back from the injured list, having thrown just 29 pitches against Kansas City on Friday. The early exit suggests a setback in his recovery and likely signals another trip back to the injured list. For a Blue Jays rotation already stretched thin, another injury absence removes a critical arm from the mix at a delicate point in the season. Taillon's inability to build on his return attempt adds pressure to Toronto's bullpen and forces the front office to consider alternatives for depth pitching."
+      "headline": "Jacob Tobey to Return As Spurs Announcer After Affair Allegation",
+      "source": "Front Office Sports · 19h ago",
+      "article": "Jacob Tobey is returning to his role as San Antonio Spurs announcer after being let go in July following an affair allegation. The reinstatement marks a resolution to a conflict that had removed Tobey from broadcast duties for the offseason. Details of the determination remain limited, but the move suggests either the initial allegation was resolved, recontextualized, or addressed to mutual satisfaction. Broadcast talent transitions can be fraught, and quick returns often signal either a misunderstanding or a negotiated settlement that both sides accepted."
     },
     {
-      "headline": "Native American Leaders to Commanders: Drop Old Name for Good",
-      "source": "Front Office Sports · 17h ago",
-      "article": "Native American leaders are calling on the Washington Commanders to permanently abandon their old name and maintain the rebrand. The franchise has stated there are no plans to revert to the previous identity, signaling a commitment to the new brand. The pressure from Native American groups underscores the ongoing sensitivity around sports team names and mascots derived from indigenous imagery. The Commanders' decision to move forward without reverting to the old name represents a definitive break from the past, though the broader conversation about indigenous representation in sports continues across professional and college leagues."
+      "headline": "Can NASCAR's New Championship Format Be Both Fun and Fair?",
+      "source": "Sportico · 5h ago",
+      "article": "NASCAR's 10-race Chase for the championship begins Sunday night, introducing yet another iteration of how to crown the sport's biggest prize. The series ditched its previous format last offseason, which culminated in a single race among four finalists. That format, introduced in 2013 to amp up drama, will be replaced by what the series hopes is a better balance of entertainment and competitive integrity. NASCAR has cycled through playoff formats for years, each promising to be the right answer. Whether this one sticks depends on whether it produces both decisive results and moments that capture casual attention."
     },
     {
-      "headline": "News: Barkley retirement talk, Stan Verrett, Mark Sanchez and more",
-      "source": "Sports Media Watch · 17h ago",
-      "article": "TNT's Charles Barkley is floating retirement again, adding to speculation about the analyst's future at the network. Barkley has periodically mentioned stepping away, and the latest chatter underscores the question of whether one of sports television's most prominent voices will eventually call time on his broadcast career. Barkley's on-air presence commands significant viewership and advertising value for TNT, so any genuine departure would represent a major shift in the network's talent lineup. Whether his latest retirement talk materializes into action remains uncertain, but the recurring nature of the conversation suggests Barkley may be seriously contemplating his next chapter."
+      "headline": "She Had Game: What Gloria Steinem Had to Say About Women and Sports",
+      "source": "Sportico · 4h ago",
+      "article": "Gloria Steinem, the women's movement icon who died this week at 92, refused to accept sports as a patriarchal preserve. Across her long career, Steinem fought for equality on many fronts, including creating paths for women in athletics. Her work underscores how women's sports advancement has been tied to broader civil-rights movements rather than treated as an isolated issue. Steinem's legacy extends into the ongoing structural battles women athletes face on salary, investment, media coverage, and access."
     },
     {
-      "headline": "Sportico Transactions: Moves and Mergers Roundup for Sept. 4",
-      "source": "Sportico · 20h ago",
-      "article": "Moira O'Connor has been named general manager of Huntington Bank Field, home of the Cleveland Browns, in a personnel announcement from Legends Global and the Haslam Sports Group. O'Connor takes over operational leadership of the stadium, a position that oversees day-to-day management, event booking, and facility operations. The appointment reflects the ongoing personnel shuffles across sports venues and franchises as organizations fill key management roles."
+      "headline": "TNT's Charles Barkley is again floating retirement",
+      "source": "Sports Media Watch · 20h ago",
+      "article": "Charles Barkley has reignited retirement talk at TNT, signaling possible uncertainty about his broadcast future. Barkley has periodically mentioned stepping away, a pattern that typically resolves when new contracts or renewed commitment are discussed. His status as one of the network's marquee voices means any transition would reshape TNT's NBA coverage. Whether this is posturing ahead of negotiations or a genuine consideration remains unclear, but it's the kind of talent uncertainty that networks monitor closely."
     }
   ],
   "poll": {
-    "question": "Will Tony Romo's CBS contract survive beyond this season?",
+    "question": "Which story matters most to sports business right now?",
     "options": [
-      "No — he'll be gone by end of the year",
-      "Yes — CBS will weather this and retain him",
-      "Uncertain — depends on network negotiations",
-      "He'll be reassigned to radio or studio role"
+      "Manchester City's £125m Fernández signing and Premier League spending trajectory",
+      "CBS Sports restructuring college football broadcasts with new production team",
+      "Rams' use of sleep science for Australia travel (and what it signals about competitive edge)",
+      "NASCAR's latest championship format overhaul and whether it actually works"
     ]
   },
   "predictions": [
     {
-      "statement": "Richard Hughes's move to Al-Hilal sparks a wave of European sporting directors and executives testing the Saudi market over the next 12 months.",
-      "probability": 72,
-      "rationale": "Hughes is the latest in a string of high-profile European power brokers exploring Saudi offers. The financial pull is undeniable, and other clubs' executives will face similar temptation, especially as Saudi clubs expand their ambitions and recruitment capacity."
+      "statement": "The Rams' sleep science testing won't meaningfully offset Australia's jet-lag handicap; the 49ers' early arrival advantage holds.",
+      "probability": 62,
+      "rationale": "Jet lag impairs reaction time and decision-making across 48+ hour windows. Sleep optimization tools help but don't eliminate 15-hour time shifts. Teams that arrive earlier acclimate better. The Rams are gambling on late arrival plus technology. History says early birds win."
     },
     {
-      "statement": "NASCAR's new 10-race playoff format produces higher viewership in its first season than the previous single-race finale format averaged.",
-      "probability": 58,
-      "rationale": "Extended drama can drive casual viewership, but compressing the title into one race also creates appointment television. The new format has theoretical appeal but will compete against a crowded sports calendar and may fragment audience attention."
+      "statement": "Enzo Fernández's brilliant debut masks underlying issues at Manchester City; they finish outside the top three.",
+      "probability": 28,
+      "rationale": "One stellar performance in a single match, even a showcase debut, doesn't predict season-long fitness. A team that looked stuttering and required late-stage goals against Coventry has structural issues that £125m doesn't immediately fix. But City's foundation is strong enough that a top-three finish remains likelier than an upset."
     },
     {
-      "statement": "The Premier League's spending advantage over continental European leagues widens further in the 2026-27 transfer window.",
-      "probability": 81,
-      "rationale": "Structural factors (TV deals, investment capital) favor English clubs and show no sign of reversing. Continental leagues are tightening budgets while the Premier League's financial moat deepens. Widening gaps are the norm in mature sports markets with competing financial tiers."
+      "statement": "NASCAR's new Chase format will be abandoned or significantly revised within three years.",
+      "probability": 71,
+      "rationale": "NASCAR has cycled through playoff formats repeatedly, each promised as the solution. Formats that survive require years of data and fan acceptance. The previous format lasted from 2013 to 2025, a long run. But the series' track record of tinkering suggests this one won't be the final answer either."
     },
     {
-      "statement": "Jacob Tobey's return to the Spurs broadcast booth proceeds without further public controversy through the 2025-26 season.",
-      "probability": 77,
-      "rationale": "His reinstatement signals organizational forgiveness and closure on the original incident. Unless a new allegation emerges, the Spurs have indicated they intend to move past it. Sports organizations rarely revisit settled personnel matters unless fresh information surfaces."
+      "statement": "Charles Barkley retirement talk resolves with a new TNT deal before the 2025-26 NBA season starts.",
+      "probability": 84,
+      "rationale": "Barkley is TNT's highest-value on-air talent. Contract cycles and public uncertainty go hand in hand. The network will move to lock him down before uncertainty hardens into genuine exit. Barkley floats retirement; TNT offers money; both declare victory."
     }
   ],
   "injuries": [
     {
-      "player": "Sonny Gray",
-      "team": "Toronto Blue Jays",
-      "league": "MLB",
-      "position": "SP",
-      "status": "IR",
-      "injury": "Unknown (pulled early in return from IL)",
-      "timeline": "Likely headed back to injured list",
-      "source": "Sportsnet",
-      "impact": "Another absence removes critical rotation depth from the Blue Jays' already-stretched pitching staff at a delicate point in the season.",
-      "storyIndex": 14
+      "player": "Nico O'Reilly",
+      "team": "Manchester City",
+      "league": "SOCCER",
+      "position": "MF",
+      "status": "OUT",
+      "injury": "Back injury",
+      "timeline": "Game-time decision (withdrawn during warm-up)",
+      "source": "The Guardian",
+      "impact": "O'Reilly's absence forced Enzo Fernández's immediate debut; City's midfield depth was tested in the opener.",
+      "storyIndex": 3
     }
   ],
   "picks": [
@@ -6298,30 +6302,30 @@
       "_pendingGrade": true
     }
   ],
-  "updatedAt": "2026-09-04T00:00:00Z",
+  "updatedAt": "2026-09-04T18:47:00Z",
   "highlights": [
     {
       "league": "NBA",
-      "title": "Anthony Black reacts to his viral dunk 🎥",
-      "videoId": "SGDuc5aoW7A",
-      "thumbnail": "https://img.youtube.com/vi/SGDuc5aoW7A/mqdefault.jpg",
-      "timeAgo": "18h ago",
-      "isFallback": false
-    },
-    {
-      "league": "NFL",
-      "title": "Why Justin Herbert is a league winner this year 📈 #fantasyfootball #nfl #justinherbert",
-      "videoId": "A8r3GN-MdBM",
-      "thumbnail": "https://img.youtube.com/vi/A8r3GN-MdBM/mqdefault.jpg",
+      "title": "One of the WILDEST ENDINGS of the Season 🤯 Nuggets vs. Lakers | Presented by @xfinity",
+      "videoId": "CNIn4OxYQU4",
+      "thumbnail": "https://img.youtube.com/vi/CNIn4OxYQU4/mqdefault.jpg",
       "timeAgo": "1h ago",
       "isFallback": false
     },
     {
+      "league": "NFL",
+      "title": "Don't Sleep On Saquon Barkley In Your Draft 🤫 #fantasyfootball #nfl #shorts",
+      "videoId": "ryAebihCWek",
+      "thumbnail": "https://img.youtube.com/vi/ryAebihCWek/mqdefault.jpg",
+      "timeAgo": "2h ago",
+      "isFallback": false
+    },
+    {
       "league": "MLB",
-      "title": "Top 5 MLB Plays RANKED from 9/4/26! (Pete Crow-Armstrong makes an INCREDIBLE catch and MORE!)",
-      "videoId": "tG6GDOoT-Jk",
-      "thumbnail": "https://img.youtube.com/vi/tG6GDOoT-Jk/mqdefault.jpg",
-      "timeAgo": "3h ago",
+      "title": "This effort! 👏",
+      "videoId": "hZeG3pgOgXI",
+      "thumbnail": "https://img.youtube.com/vi/hZeG3pgOgXI/mqdefault.jpg",
+      "timeAgo": "1h ago",
       "isFallback": false
     },
     {
@@ -6329,7 +6333,7 @@
       "title": "FULL REPLAY: Game 7 OT | Capitals vs. Rangers | 2015 Stanley Cup Playoffs",
       "videoId": "cHJTdN8keVo",
       "thumbnail": "https://img.youtube.com/vi/cHJTdN8keVo/mqdefault.jpg",
-      "timeAgo": "15h ago",
+      "timeAgo": "18h ago",
       "isFallback": false
     },
     {
@@ -6342,14 +6346,78 @@
     },
     {
       "league": "SOCCER",
-      "title": "Real Madrid’s first loss of the season + Can Chelsea upset Arsenal? 🤔 | ESPN FC",
-      "videoId": "58ImKC_oN7s",
-      "thumbnail": "https://img.youtube.com/vi/58ImKC_oN7s/mqdefault.jpg",
-      "timeAgo": "13h ago",
+      "title": "BACK-TO-BACK GOALS 🤩 Athletic Club vs. Atletico Madrid | LALIGA Highlights | ESPN FC",
+      "videoId": "P9prR9H28Gg",
+      "thumbnail": "https://img.youtube.com/vi/P9prR9H28Gg/mqdefault.jpg",
+      "timeAgo": "Just now",
       "isFallback": false
     }
   ],
   "reels": [
+    {
+      "league": "SOCCER",
+      "title": "BACK-TO-BACK GOALS 🤩 Athletic Club vs. Atletico Madrid | LALIGA Highlights | ESPN FC",
+      "videoId": "P9prR9H28Gg",
+      "author": "ESPN FC",
+      "pubDate": "2026-09-05T16:46:02+00:00",
+      "link": "https://www.youtube.com/watch?v=P9prR9H28Gg"
+    },
+    {
+      "league": "MLB",
+      "title": "This effort! 👏",
+      "videoId": "hZeG3pgOgXI",
+      "author": "MLB",
+      "pubDate": "2026-09-05T16:07:03+00:00",
+      "link": "https://www.youtube.com/watch?v=hZeG3pgOgXI"
+    },
+    {
+      "league": "MLB",
+      "title": "Julio Rodríguez tried giving the pitcher a heads up 😂",
+      "videoId": "txiqgpZ28Ts",
+      "author": "MLB",
+      "pubDate": "2026-09-05T16:00:20+00:00",
+      "link": "https://www.youtube.com/watch?v=txiqgpZ28Ts"
+    },
+    {
+      "league": "NBA",
+      "title": "One of the WILDEST ENDINGS of the Season 🤯 Nuggets vs. Lakers | Presented by @xfinity",
+      "videoId": "CNIn4OxYQU4",
+      "author": "NBA",
+      "pubDate": "2026-09-05T16:00:03+00:00",
+      "link": "https://www.youtube.com/watch?v=CNIn4OxYQU4"
+    },
+    {
+      "league": "MLB",
+      "title": "We would have all reacted the same way if Aroldis Chapman did this to us 😭",
+      "videoId": "aMp_Dn4U2AY",
+      "author": "MLB",
+      "pubDate": "2026-09-05T15:00:29+00:00",
+      "link": "https://www.youtube.com/watch?v=aMp_Dn4U2AY"
+    },
+    {
+      "league": "NFL",
+      "title": "Don't Sleep On Saquon Barkley In Your Draft 🤫 #fantasyfootball #nfl #shorts",
+      "videoId": "ryAebihCWek",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-09-05T15:00:28+00:00",
+      "link": "https://www.youtube.com/watch?v=ryAebihCWek"
+    },
+    {
+      "league": "MLB",
+      "title": "NO-HITTER at age 44?!? How Nolan Ryan did the impossible | Stories You Wouldn't Believe (SYWB)",
+      "videoId": "5lm2RhUrHmc",
+      "author": "MLB",
+      "pubDate": "2026-09-05T14:00:19+00:00",
+      "link": "https://www.youtube.com/watch?v=5lm2RhUrHmc"
+    },
+    {
+      "league": "MLB",
+      "title": "PETE CROW-ARMSTRONG. THAT IS ALL 😱😱",
+      "videoId": "nDD54iUxh9I",
+      "author": "MLB",
+      "pubDate": "2026-09-05T14:00:03+00:00",
+      "link": "https://www.youtube.com/watch?v=nDD54iUxh9I"
+    },
     {
       "league": "NFL",
       "title": "Why Justin Herbert is a league winner this year 📈 #fantasyfootball #nfl #justinherbert",
@@ -6381,46 +6449,6 @@
       "author": "MLB",
       "pubDate": "2026-09-05T05:30:43+00:00",
       "link": "https://www.youtube.com/watch?v=zcOK29c5lJw"
-    },
-    {
-      "league": "MLB",
-      "title": "NATIONALS vs. DODGERS: Official Full Game Highlights (September 4) | 2026 MLB Season",
-      "videoId": "MHzwjaDcA-A",
-      "author": "MLB",
-      "pubDate": "2026-09-05T05:12:04+00:00",
-      "link": "https://www.youtube.com/watch?v=MHzwjaDcA-A"
-    },
-    {
-      "league": "MLB",
-      "title": "FULL 10TH INNING: The Yankees and Padres played a THRILLER in extras! ⚡️ | MLB Highlights",
-      "videoId": "cBGbvOuLaU8",
-      "author": "MLB",
-      "pubDate": "2026-09-05T04:42:08+00:00",
-      "link": "https://www.youtube.com/watch?v=cBGbvOuLaU8"
-    },
-    {
-      "league": "MLB",
-      "title": "YANKEES vs. PADRES: Official Full Game Highlights (September 4) | 2026 MLB Season",
-      "videoId": "N7AuhF7NtJ0",
-      "author": "MLB",
-      "pubDate": "2026-09-05T04:41:28+00:00",
-      "link": "https://www.youtube.com/watch?v=N7AuhF7NtJ0"
-    },
-    {
-      "league": "MLB",
-      "title": "Kyle Tucker extends the Dodgers' lead with a solo home run! 💪 | MLB Highlights",
-      "videoId": "ox6d0KD6_Zs",
-      "author": "MLB",
-      "pubDate": "2026-09-05T04:05:55+00:00",
-      "link": "https://www.youtube.com/watch?v=ox6d0KD6_Zs"
-    },
-    {
-      "league": "MLB",
-      "title": "CARDINALS vs. ROCKIES: Official Full Game Highlights (September 4) | 2026 MLB Season",
-      "videoId": "RX5LLo4a0e0",
-      "author": "MLB",
-      "pubDate": "2026-09-05T03:52:34+00:00",
-      "link": "https://www.youtube.com/watch?v=RX5LLo4a0e0"
     },
     {
       "league": "SOCCER",
@@ -6495,14 +6523,6 @@
       "link": "https://www.youtube.com/watch?v=SWTpc0rhD7Q"
     },
     {
-      "league": "SOCCER",
-      "title": "LATE DRAMA 🤯 Real Betis vs. Real Madrid | LALIGA Highlights | ESPN FC",
-      "videoId": "Ls7lgDXcZp8",
-      "author": "ESPN FC",
-      "pubDate": "2026-09-04T21:34:41+00:00",
-      "link": "https://www.youtube.com/watch?v=Ls7lgDXcZp8"
-    },
-    {
       "league": "NFL",
       "title": "DOMINATE your Fantasy Draft with this last minute advice! | ESPN Fantasy",
       "videoId": "r6XAnmeHPBM",
@@ -6575,14 +6595,6 @@
       "link": "https://www.youtube.com/watch?v=8ctR4dOUiUY"
     },
     {
-      "league": "NFL",
-      "title": "Former Bills head coach Sean McDermott wants to be back on the sidelines 🏈",
-      "videoId": "hmiSihZsbyE",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-09-04T17:42:38+00:00",
-      "link": "https://www.youtube.com/watch?v=hmiSihZsbyE"
-    },
-    {
       "league": "NBA",
       "title": "22-POINT COMEBACK vs. the UNDEFEATED CHAMPS 🤯 Trail Blazers vs. Thunder | Presented by @xfinity",
       "videoId": "dMwraUOcJbw",
@@ -6613,14 +6625,6 @@
       "author": "NHL",
       "pubDate": "2026-09-04T14:00:18+00:00",
       "link": "https://www.youtube.com/watch?v=K2DgKGVA7B4"
-    },
-    {
-      "league": "NBA",
-      "title": "Kon Knueppel’s Top plays from his rookie season",
-      "videoId": "ZEODvAlVy88",
-      "author": "NBA",
-      "pubDate": "2026-09-03T19:31:21+00:00",
-      "link": "https://www.youtube.com/watch?v=ZEODvAlVy88"
     },
     {
       "league": "NHL",
