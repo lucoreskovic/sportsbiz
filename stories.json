@@ -1,73 +1,81 @@
 {
   "clusters": [
     {
+      "category": "leagues",
+      "importance": 8,
+      "leadHeadline": "Lane Kiffin joined by Livvy Dunne, Theo Von and Brooks Nader for wild first LSU entrance",
+      "leadSource": "NY Post Sports · just now",
+      "leadUrl": "https://nypost.com/2026/09/05/sports/lane-kiffin-joined-by-livvy-dunne-theo-von-and-brooks-nader-for-first-lsu-game/",
+      "summary": "Lane Kiffin made his LSU debut Saturday flanked by celebrities Livvy Dunne, Theo Von and Brooks Nader. The entrance drew the most media credentials in Tiger Stadium history.",
+      "article": "<cite index=\"2-1\">Kiffin walked LSU's traditional Tiger Walk flanked by former gymnast Livvy Dunne, comedian Theo Von and model Brooks Nader</cite> on <cite index=\"3-1\">Saturday against Clemson</cite> in his program debut. <cite index=\"14-1\">LSU officials confirmed the game drew the most media and celebrity credentials in Tiger Stadium history</cite>. <cite index=\"2-15\">Kiffin arrived in a sharply tailored suit and sunglasses, shaking hands and waving to fans</cite> as <cite index=\"22-7\">LSU, ranked No. 11</cite>, opened its season on the national stage. The entrance came amid roster upheaval: <cite index=\"2-13\">Former Ole Miss tight end Dae'Quan Wright and defensive tackle Zxavian Harris, both of whom had brief NFL stints, were not added to LSU's roster</cite>. <cite index=\"14-3\">Kiffin left Ole Miss for a $91 million contract in Baton Rouge</cite>. On GameDay Saturday morning, <cite index=\"2-11\">Kiffin said \"A lot of times to do great things, you're going to be hated\"</cite> when asked about the noise surrounding his program. <cite index=\"3-4\">Von, a Louisiana native who attended LSU, graduated from the University of New Orleans</cite>.",
+      "tweets": [
+        {
+          "url": "https://twitter.com/MartySmithESPN/status/2095141540104458316",
+          "html": "<blockquote class=\"twitter-tweet\" data-dnt=\"true\" data-theme=\"dark\"><p>LSU Football officials confirm to ESPN that Saturday’s season-opening home game against Clemson is the most media/celebrity-credentialed game in Tiger Stadium history.\nLane Kiffin’s debut gonna be a wild scene in Death Valley. \n\n(2026 marks LSU’s 102nd season in Tiger Stadium)</p>&mdash; Marty Smith (@MartySmithESPN) <a href=\"https://twitter.com/MartySmithESPN/status/2095141540104458316\">September 2, 2026</a></blockquote>",
+          "author_name": "Marty Smith",
+          "author_url": "https://twitter.com/MartySmithESPN",
+          "dateMs": 1788355643000
+        }
+      ]
+    },
+    {
       "category": "media",
       "importance": 7,
-      "leadHeadline": "US Open tennis: Gauff in action after Swiatek wins; Cobolli, Fritz and Keys tumble out – live",
-      "leadSource": "The Guardian · just now",
-      "leadUrl": "https://www.theguardian.com/sport/live/2026/sep/05/us-open-tennis-fritz-gauff-swiatek-keys-cobolli-day-seven-live",
-      "summary": "Third-round US Open casualties pile up: Cobolli loses to qualifier Blockx; Keys blows 5-1 lead to Zheng; Fritz already out. Gauff faces Bucsa as Swiatek meets Bouzkova today.",
-      "article": "Madison Keys led 5-1 in the deciding set against qualifier Zheng Qinwen before everything unraveled in a brutal three-set loss. Flavio Cobolli, seeded 5th, fell 6-7, 6-3, 6-0, 6-3 to Belgian Alexander Blockx. Taylor Fritz exited at the third-round stage. Coco Gauff, the 4 seed seeking to reclaim her 2023 US Open title, faces Cristina Bucsa at Arthur Ashe Stadium. Iga Swiatek meets 25th seed Marie Bouzkova later today. The third round has decimated American men's hopes, with Cobolli's loss marking another top-10 departure on a day already thinned by Fritz's exit.",
+      "leadHeadline": "CBS Sports preparing for new-look CFB broadcast, production team",
+      "leadSource": "Sports Media Watch · 2h ago",
+      "leadUrl": "https://www.sportsmediawatch.com/2026/09/cbs-sports-cfb-broadcast-production-team-davis-kelly/",
+      "summary": "CBS Sports is overhauling its college football coverage with a new broadcast and production team, bringing back Charles Davis to the booth as part of a significant shift in how the network presents the sport.",
+      "article": "CBS Sports is preparing a redesigned college football broadcast for the upcoming season, including a new production team and on-air talent reshuffling. Charles Davis, a familiar voice in college football analysis, is returning to the booth as part of the overhaul. The network is emphasizing the role of marching bands and the cultural elements that distinguish college football from its professional counterpart, with Davis signaling a renewed focus on the pageantry and atmosphere that define the sport. This production redesign follows years of incremental changes across broadcast partners and reflects CBS's effort to compete in an evolving college football landscape. The specific game assignments and full booth lineup have not been announced, but the restructuring suggests the network is investing in differentiation as it navigates shifting schedules and conference realignments. For advertisers and viewers accustomed to CBS's college football package, expect a noticeably different visual presentation and commentary approach when the season kicks off.",
+      "tweets": []
+    },
+    {
+      "category": "revenue",
+      "importance": 7,
+      "leadHeadline": "LeBron James Jumps to Polymarket From DraftKings, With Football Focus",
+      "leadSource": "Front Office Sports · 4h ago",
+      "leadUrl": "https://frontofficesports.com/article/lebron-james-jumps-to-polymarket-from-draftkings-with-football-focus/",
+      "summary": "LeBron James ended his endorsement deal with DraftKings and pivoted to Polymarket, the prediction-market platform, shifting his betting-adjacent brand partnerships toward a football-focused strategy.",
+      "article": "LeBron James terminated his endorsement relationship with DraftKings as his contract expired earlier this summer and moved his betting-adjacent brand presence to Polymarket, a prediction-market platform. The shift reflects James's evolving approach to sports-betting partnerships and suggests a strategic pivot toward football, where his influence among bettors and prediction-market users may hold different commercial value than traditional sportsbook deals. Polymarket, which allows users to wager on real-world events using cryptocurrency, has grown as an alternative to traditional betting platforms among younger audiences. James's move away from DraftKings, one of the largest sports-betting operators in North America, signals either a renegotiation in the terms available to celebrity endorsers or a deliberate choice to align with a platform he believes better matches his target audience. The football focus suggests he intends to leverage the NFL season, where betting volume and prediction-market activity peaks. DraftKings did not comment on the departure. For Polymarket, landing a celebrity athlete of James's stature could amplify mainstream adoption of prediction markets, though regulatory scrutiny around cryptocurrency-based betting platforms remains an open question.",
       "tweets": []
     },
     {
       "category": "leagues",
-      "importance": 7,
+      "importance": 6,
+      "leadHeadline": "Can NASCAR's New Championship Format Be Both Fun and Fair?",
+      "leadSource": "Sportico · 12h ago",
+      "leadUrl": "https://www.sportico.com/leagues/motorsports/2026/nascar-chase-format-playoffs-change-reason-rules-explained-1234944134/",
+      "summary": "NASCAR's revised 10-race Chase playoff format begins Sunday night, replacing last offseason's single-race finale with a longer points-based competition to determine its champion.",
+      "article": "NASCAR's 10-race Chase for the championship starts Sunday night, marking the second major format overhaul in the sport's pursuit of a championship formula that balances competitive fairness with dramatic television. Last offseason, NASCAR abandoned its previous playoff structure, which crowned a winner among four finalist drivers in a single climactic race. That format, introduced in 2013 to amp up drama and viewership, proved controversial because it allowed a driver to win the championship on a single day, potentially negating an entire season's consistency. The new Chase extends the playoff to ten races, reverting to a longer point accumulation model while preserving the playoff-style cutoff between regular season and postseason. The format change reflects ongoing tension in motorsports: how to make the championship feel urgent and exciting on television without making the regular season feel meaningless or allowing a single-race anomaly to crown an unworthy champion. NASCAR has cycled through versions of this problem repeatedly. Whether the ten-race format solves it remains to be seen, but the fact that the league is running another experiment underscores how difficult the problem is. Sunday's race will be the first real test of whether fans embrace the new structure or whether another overhaul is already being sketched in the garage.",
+      "tweets": []
+    },
+    {
+      "category": "leagues",
+      "importance": 6,
       "leadHeadline": "Haaland header maintains perfect winning start for Man City",
-      "leadSource": "BBC Sport · 2h ago",
+      "leadSource": "BBC Sport · 5h ago",
       "leadUrl": "https://www.bbc.co.uk/sport/football/videos/cx2zg0zl0nyo?at_medium=RSS&amp;at_campaign=rss",
-      "summary": "Manchester City extended their perfect start to three straight wins with a goal from Erling Haaland against Coventry City in the Premier League. Coventry remains winless.",
-      "article": "Manchester City preserved their unbeaten record with a three-game winning streak intact after Erling Haaland's header sealed the victory against Coventry City. The goal proved decisive as City maintained their perfect start to the Premier League season.\n\nCoventry City, newly promoted to the Premier League, has yet to secure a point through three matches. The loss continues a difficult early campaign for the promoted side, which is struggling to adapt to top-flight competition. City's defensive organization and clinical finishing have defined their opening weeks, with Haaland's aerial dominance a recurring threat to opposing defenses. Coventry's next opportunity comes against further top-tier opponents in a demanding stretch.",
+      "summary": "Erling Haaland scored on a header as Manchester City extended their perfect start to 3-0 record in the Premier League, holding off newly promoted Coventry despite late pressure.",
+      "article": "Manchester City maintained their unbeaten start to the season with a victory over Coventry, Haaland scoring on a header to keep City's 100-percent record intact through three Premier League matches. Coventry, newly promoted, pushed hard late but could not find an equalizer, leaving them still without a point in their first three games back in the top flight. The result underscores City's early dominance and Haaland's continued effectiveness in the Premier League. His ability to convert set pieces and close-range chances remains central to City's attack, and three wins from three suggests Pep Guardiola's squad has not lost a step after a competitive summer. Coventry's promotion represents genuine achievement for the club, but their opening three matches against established top-flight sides have exposed the gap between the promoted side and the established powers. City's next tests will come against fellow contenders, where their possession-based football and Haaland's finishing will face stiffer resistance. For now, City's three-from-three and Haaland's early form align the favorites at the top of the table.",
       "tweets": []
     },
     {
-      "category": "media",
-      "importance": 6,
-      "leadHeadline": "High-flying Hull stay unbeaten by holding off Aston Villa in stalemate",
+      "category": "leagues",
+      "importance": 5,
+      "leadHeadline": "US Open tennis: Fritz, Cobolli, Keys tumble out; Gauff, Swiatek, Andreeva advance – as it happened",
       "leadSource": "The Guardian · 2h ago",
-      "leadUrl": "https://www.theguardian.com/football/2026/sep/05/hull-city-aston-villa-premier-league-match-report",
-      "summary": "Hull City extended their unbeaten run to three games with a 0-0 draw against Aston Villa, following their shock opening-day win over Manchester United. Hull's early season has captured supporters' attention.",
-      "article": "Hull City held Aston Villa to a goalless draw to maintain their unbeaten start in three Premier League matches. The result follows Hull's remarkable opening-day victory over Manchester United, a result that immediately signaled serious intentions for the promoted side.\n\nHull's defensive resilience has defined their early campaign. After embarrassing Manchester United at home, the East Yorkshire club has shown they can compete against established top-six opposition without surrendering the shape and discipline that nullified Villa's attacking threats. The draw represents a point earned rather than two points lost, particularly against a Villa side looking to climb the table. Hull's next fixture will test whether their early-season momentum can sustain against further top-flight opposition.",
-      "tweets": []
-    },
-    {
-      "category": "media",
-      "importance": 6,
-      "leadHeadline": "Chilwell scores on Palace return in victory at Fulham",
-      "leadSource": "BBC Sport · 1h ago",
-      "leadUrl": "https://www.bbc.co.uk/sport/football/videos/cg59dgn7jm9o?at_medium=RSS&amp;at_campaign=rss",
-      "summary": "Ben Chilwell scored on his first match back for Crystal Palace as the team came from behind twice to defeat Fulham 3-2. Palace's comeback victory was fueled by Chilwell's return.",
-      "article": "Ben Chilwell marked his return to Crystal Palace with a goal as the Eagles mounted a comeback victory against Fulham, scoring twice after conceding first to claim a 3-2 win. Chilwell's presence added attacking thrust from the left flank in a frantic match that swung multiple times.\n\nPalace's ability to fight back twice from behind suggests resilience and depth in attacking options. Chilwell's immediate goal contribution validated his return to competitive action after time away, and his integration into the team's shape proved influential in the reversal of fortunes. Fulham's defensive lapses, particularly in the second half, cost them despite an early lead. The momentum of a comeback win could prove significant for Palace's season positioning.",
-      "tweets": []
-    },
-    {
-      "category": "contracts",
-      "importance": 5,
-      "leadHeadline": "LeBron James Jumps to Polymarket From DraftKings, With Football Focus",
-      "leadSource": "Front Office Sports · 1h ago",
-      "leadUrl": "https://frontofficesports.com/article/lebron-james-jumps-to-polymarket-from-draftkings-with-football-focus/",
-      "summary": "LeBron James ended his endorsement deal with DraftKings and signed with Polymarket, shifting his sports betting focus to football. His previous DraftKings contract has expired.",
-      "article": "LeBron James has moved his sports betting endorsement from DraftKings to Polymarket, with his new partnership emphasizing football content. The shift came after his original DraftKings deal concluded earlier this summer.\n\nThe move reflects evolving market dynamics in sports betting endorsements, particularly around the NFL season launch. James' reach and credibility make him a high-value partner for betting platforms seeking to capture casual and engaged audiences. Polymarket's football-centered approach aligns with the NFL's primacy in the American sports calendar and the appetite for prediction markets during football season. The endorsement represents a notable shuffle in the competitive betting-sponsorship landscape as platforms vie for marquee celebrity talent ahead of September kickoff.",
-      "tweets": []
-    },
-    {
-      "category": "media",
-      "importance": 5,
-      "leadHeadline": "CBS Sports preparing for new-look CFB broadcast, production team",
-      "leadSource": "Sports Media Watch · 5h ago",
-      "leadUrl": "https://www.sportsmediawatch.com/2026/09/cbs-sports-cfb-broadcast-production-team-davis-kelly/",
-      "summary": "CBS Sports is implementing a new broadcast format and production team for college football coverage. Charles Davis returns to the college game, signaling fresh production direction.",
-      "article": "CBS Sports is overhauling its college football broadcast presentation with a redesigned production team. Charles Davis is returning to college football broadcasts in a familiar setting with a new role, marking CBS's effort to differentiate its coverage heading into the 2026 season.\n\nThe marching band sound remains a distinctive element of college football broadcasts, and Davis's return suggests CBS is leaning into experiential and atmospheric elements that separate college from the pro game. Production changes at the network level often signal broader strategy shifts in how games are packaged and presented to audiences. The timing ahead of the college football season positions CBS to launch the refreshed approach during Week 1, when audience attention peaks and first impressions matter most for viewership retention.",
+      "leadUrl": "https://www.theguardian.com/sport/live/2026/sep/05/us-open-tennis-fritz-gauff-swiatek-keys-cobolli-day-seven-live",
+      "summary": "Taylor Fritz and Flavio Cobolli squandered winning positions while Madison Keys collapsed from 5-0 up in the final set, but Coco Gauff, Iga Swiatek and Mirra Andreeva all reached the last 16 at the US Open.",
+      "article": "The US Open delivered a dramatic day of upsets and near-misses in its Round of 32. Taylor Fritz and Flavio Cobolli both lost from positions of control, while Madison Keys imploded spectacularly, surrendering a 5-0 lead in the final set to exit the tournament. On the flip side, Coco Gauff, Iga Swiatek and Mirra Andreeva all advanced to the last 16 without major drama. In doubles, Serena and Venus Williams made their return to a Grand Slam doubles stage together after many years, but the Williams sisters, with a combined age of 456, blew a five-point lead in the deciding tiebreak of their match, ending their comeback attempt at 6-3, 6-. Gauff's progression continues her push toward the title, while Swiatek remains a strong contender. Andreeva's advancement signals continued emergence of the younger generation. The tournament's narrative remains balanced between established names holding ground and rising talent disrupting the script. Keys's collapse is particularly notable given her position late in the third set, suggesting mental fatigue or tactical missteps when the finish line was within reach.",
       "tweets": []
     },
     {
       "category": "leagues",
       "importance": 4,
-      "leadHeadline": "Surging Blue Jays look to climb over .500 vs. Royals",
-      "leadSource": "Sportsnet · 6h ago",
-      "leadUrl": "",
-      "summary": "The Toronto Blue Jays are surging and aim to break .500 in a matchup against the Kansas City Royals. The Blue Jays' momentum could carry them to a winning record.",
-      "article": "The Toronto Blue Jays are riding positive momentum as they pursue a winning record against the Kansas City Royals. The team's recent surge has positioned them to potentially cross the .500 threshold in this contest.\n\nSurging streaks in baseball typically reflect improved pitching, timely hitting, or both. The Blue Jays' upward trajectory comes at a point in the season when such momentum matters for playoff positioning and team confidence. The Royals present a meaningful test, and a victory would cement the team's turnaround narrative heading into the final stretch of the regular season.",
+      "leadHeadline": "High-flying Hull stay unbeaten by holding off Aston Villa in stalemate",
+      "leadSource": "The Guardian · 6h ago",
+      "leadUrl": "https://www.theguardian.com/football/2026/sep/05/hull-city-aston-villa-premier-league-match-report",
+      "summary": "Hull City extended their unbeaten Premier League run to three matches with a 0-0 draw against Aston Villa, maintaining their surprise start after embarrassing Manchester United on the opening day.",
+      "article": "Hull City remained unbeaten after three Premier League matches, drawing 0-0 with Aston Villa in a stalemate that left both sides searching for a breakthrough. Hull's start to the season has been unexpectedly strong after humbling Manchester United at home on the opening day. The draw against Villa, a team with European aspirations, suggests Hull has the personnel and tactical discipline to compete with established top-flight sides, though their reliance on defensive solidity and occasional set-piece opportunities may limit their ceiling as the season progresses. Aston Villa, despite their pedigree and investment, could not break down Hull's organized shape and found themselves frustrated by a newly promoted opponent. For Hull, a 0-0-1 record (zero wins, zero losses in first three) keeps them in the conversation early, but they will need to convert these tactical performances into wins against mid-table and lower sides to establish genuine promotion credentials. The Premier League has often punished teams that rely too heavily on one strong result early on, and Hull's next matches will test whether their openers were a true statement or an outlier.",
       "tweets": []
     }
   ],
@@ -2396,78 +2404,78 @@
   "ticket_prices": [],
   "sidebar": [
     {
-      "headline": "She Had Game: What Gloria Steinem Had to Say About Women and Sports",
-      "source": "Sportico · 8h ago",
-      "article": "Gloria Steinem, the pioneering feminist icon who died this past week at age 92, was a fierce advocate for equality in sports as well as society. Steinem refused to accept athletics as a patriarchy, actively working to create pathways for women competing in sport. Her legacy extended across multiple fronts of the movement, but sports remained a particular focus for her egalitarian vision. Steinem's influence on women's participation in athletics helped reshape the landscape of opportunity for female competitors and laid groundwork for contemporary women's sports expansion."
+      "headline": "Chilwell scores on Palace return in victory at Fulham",
+      "source": "BBC Sport · 5h ago",
+      "article": "Ben Chilwell marked his return to Crystal Palace with a goal as the Eagles mounted a stunning comeback against Fulham, winning 3-2 after falling behind twice. Chilwell's goal was part of a second-half surge that turned what looked like a Palace defeat into a statement victory. Fulham's defense crumbled in the final stages, allowing Palace to overturn the deficit and leave Craven Cottage with three points. The result keeps Palace in contention early in the season and suggests their investment in Chilwell's return has paid immediate dividends. For Fulham, the collapse after controlling large stretches of the match is a concerning sign as they navigate expectations for this season."
     },
     {
-      "headline": "Enes Kanter Freedom labels WNBA commissioner as Coo-coo Cathy",
-      "source": "NY Post Sports · just now",
-      "article": "Enes Kanter Freedom continued his public feud with WNBA Commissioner Cathy Engelbert on Fox News Friday night, calling her 'Coo-coo Cathy' despite her announced retirement at season's end. The former NBA player has maintained an ongoing dispute with Engelbert over league matters. Freedom's public criticism comes as Engelbert prepares her exit from the commissioner's office. The controversy underscores tensions that have simmered between Kanter Freedom and the league's leadership structure."
+      "headline": "Guerrero Jr. hustles home as Blue Jays capitalize on Royals error",
+      "source": "Sportsnet · 1h ago",
+      "article": "Vladimir Guerrero Jr. hustled all the way home from second base on a Royals throwing error, giving the Blue Jays an early lead in their matchup against Kansas City. The error came on a routine play, suggesting sloppy defensive baseball from the Royals. Guerrero's aggressive baserunning and the Royals' miscue highlighted the difference between the teams' execution in tight moments. Toronto's ability to capitalize on unforced errors could prove decisive if the game remains close late, a reminder that turnovers in baseball are as consequential as any play-making moment."
+    },
+    {
+      "headline": "Ole Miss vs. Louisville prediction, picks, odds, spread: Rebels open season against upset-minded Cardinals",
+      "source": "CBS Sports · 1h ago",
+      "article": "Ole Miss opens its season in Nashville against Louisville with receiver Trinidad Chambliss leading a rebuilt pass-catching corps under new offensive schemes. Louisville's Jeff Brohm counters with new quarterback Lincoln Kienholz and a roster designed to chase top-11 upset opportunities. Both teams are navigating significant personnel changes, making the opener a genuine guess as to which unit will settle faster. Chambliss's role in Ole Miss's passing game and Kienholz's command in Brohm's offense will largely determine early success."
     },
     {
       "headline": "Rams Are Testing the Limits of Sleep Science Before Australia Game",
-      "source": "Front Office Sports · 6h ago",
-      "article": "The Los Angeles Rams are employing sleep-science strategies as they prepare for an upcoming game in Australia. The 49ers have already traveled to the Southern Hemisphere, while the Rams remain stateside preparing their roster. The international matchup presents unique logistical and physiological challenges, with sleep optimization emerging as a key component of pre-game preparation. Innovative recovery protocols reflect the league's evolving approach to managing jet lag and circadian disruption for overseas contests."
+      "source": "Front Office Sports · 9h ago",
+      "article": "The Los Angeles Rams are employing specialized sleep science protocols as they prepare for their Australia matchup, while the San Francisco 49ers are already on location. The Rams' approach to managing jet lag and circadian disruption reflects the growing sophistication of NFL training staffs in handling international games. Whether sleep optimization provides a competitive edge or merely normalizes what international travel inherently demands remains a question, but the investment signals how seriously teams now treat recovery science in high-stakes situations."
     },
     {
-      "headline": "Can NASCAR's New Championship Format Be Both Fun and Fair?",
-      "source": "Sportico · 9h ago",
-      "article": "NASCAR's 10-race 'Chase' for the championship begins Sunday night under a new format after the sport abandoned its previous single-race playoff finale. The latest championship structure represents another attempt at perfecting the formula for awarding NASCAR's biggest prize. The previous format, introduced in 2013 to amplify drama, crowned a winner from among four finalist drivers in a single elimination race. The new approach seeks to balance competitive integrity with entertainment value throughout an extended playoff stretch."
+      "headline": "Fantasy football rankings 2026: Sleepers, busts and breakouts by model that nailed Daniel Jones huge year",
+      "source": "CBS Sports · just now",
+      "article": "SportsLine's predictive model, which correctly forecasted Daniel Jones's breakout 2025 season, has simulated the upcoming 2026 NFL season 10,000 times to generate fantasy football rankings focused on sleepers, busts, and breakout candidates. The model's success last year lends credibility to its projections, though fantasy football success is notoriously difficult to repeat. Early sleeper picks and bust calls could steer draft strategy for millions of fantasy players, making the accuracy of these simulations commercially significant for SportsLine and advertisers in the fantasy space."
     },
     {
-      "headline": "Grading Keelon Russell in Alabama debut: Star sophomore flashes promise in first start at QB for Tide",
-      "source": "CBS Sports · 1h ago",
-      "article": "Keelon Russell made his first start at quarterback for Alabama in the opener on Saturday, posting a performance that showed promise despite not throwing a touchdown pass. The star sophomore demonstrated high-end performance metrics that suggest potential for sustained success. Russell's debut lacked the highlight-reel scoring play but conveyed the decision-making and mechanics the program seeks at the position. The evaluation heads into Week 2 with measured confidence in Russell's development."
-    },
-    {
-      "headline": "Henrik Sedin likes early look of Canucks: Better than expected",
-      "source": "Sportsnet · 7h ago",
-      "article": "Henrik Sedin, evaluating the Vancouver Canucks' offseason construction, expressed optimism about the team's early trajectory despite finishing 32nd last season with dim playoff prospects. The Canucks have emerged from the summer with unexpected positivity and competitive potential. Sedin's endorsement carries weight given his legendary Canucks tenure and current organizational role. The club's rebuild appears to be progressing faster than conventional expectations for a 32nd-place team, raising questions about trajectory and roster depth entering the season."
+      "headline": "She Had Game: What Gloria Steinem Had to Say About Women and Sports",
+      "source": "Sportico · 11h ago",
+      "article": "Gloria Steinem, the iconic feminist leader who died this past week at age 92, spent decades fighting for equality in sports alongside her broader women's movement work. Steinem refused to accept sports as an exclusively patriarchal domain and worked to create pathways for women athletes to compete and be recognized. Her legacy extends beyond policy into the cultural conversation around women's participation in athletics, helping normalize female competition across amateur and professional ranks. Steinem's passing marks a moment to reflect on how far women's sports has come and how much of that progress traces back to activists who demanded change outside the traditional sports establishment."
     }
   ],
   "poll": {
-    "question": "Which storyline will have the biggest impact on the 2026 NFL season?",
+    "question": "Which Lane Kiffin LSU entrance element will matter most to the team's season?",
     "options": [
-      "Rams' sleep-science preparation for the Australia game sets new recovery standards",
-      "Jets' Week 1 matchup in Nashville against emerging young talent",
-      "Charles Davis and CBS's new college football broadcast approach",
-      "LeBron James's betting endorsement shift to Polymarket signals market changes"
+      "Celebrity spectacle and brand appeal",
+      "On-field performance and roster eligibility wins",
+      "Social media engagement and fan recruitment",
+      "Offensive scheme implementation and player execution"
     ]
   },
   "predictions": [
     {
-      "statement": "Hull City will finish in the top half of the Premier League in 2025-26, defying promoted-team history.",
-      "probability": 28,
-      "rationale": "Three games into the season, Hull is unbeaten and has beaten Manchester United. But promoted sides face a steep fatigue curve and fixture congestion. Hull's defensive solidity is real, but maintaining it over 38 games is rare. Most promoted teams regress hard after October."
-    },
-    {
-      "statement": "Manchester City will win the Premier League by at least 6 points, extending their title streak.",
+      "statement": "CBS's new college football production redesign will increase viewership by at least 5% compared to last season's average.",
       "probability": 62,
-      "rationale": "Three wins in three with Haaland firing carries historical weight. City's squad depth and Guardiola's track record in sustained title runs outweigh single-month sample sizes. Coventry's struggles don't prove City's dominance, but the defensive organization and clinical finishing do."
+      "rationale": "Production overhauls often draw curious audiences and fresh talent like Charles Davis can energize broadcasts. However, college football viewership is more driven by conference realignments and game matchups than production tweaks, so the ceiling for impact is real but modest."
     },
     {
-      "statement": "Coco Gauff will reach the US Open final.",
-      "probability": 44,
-      "rationale": "Gauff is entering the tournament as a seeded American with recent confidence. Fritz and Keys are out early, narrowing domestic competition. But the draw remains loaded with European top seeds, and early exits by Americans don't guarantee Gauff's path."
+      "statement": "Manchester City will finish the season unbeaten or with only one loss.",
+      "probability": 18,
+      "rationale": "Three wins from three is a strong start, and Haaland's early form is encouraging. But 38 matches remain, and every top-flight contender hits rough patches. Guardiola's teams have historically stumbled mid-season. City will likely drop points before May."
     },
     {
-      "statement": "NASCAR's new 10-race Chase format will produce higher television ratings than the previous single-race format.",
-      "probability": 53,
-      "rationale": "Extended playoff drama typically outperforms single-elimination finales in regular-season viewership. However, format changes carry unpredictable audience response. The change is designed to amp engagement, but execution and competitive chaos will determine actual numbers."
+      "statement": "Hull City's unbeaten run will end within their next two matches.",
+      "probability": 74,
+      "rationale": "Hull's start has been exceptional, but newly promoted sides rarely sustain early defensive solidity across a full season. A 0-0-1 record suggests they're grinding out draws and relying on setup rather than dominance. Next opponents will expose weaknesses."
+    },
+    {
+      "statement": "LeBron James's pivot to Polymarket will drive measurable mainstream adoption of prediction markets.",
+      "probability": 41,
+      "rationale": "Celebrity endorsements do move adoption, but Polymarket operates in a regulatory gray zone around crypto betting, which limits mainstream penetration. James's presence helps, but the platform's structural constraints may prevent blockbuster growth despite his backing."
     }
   ],
   "injuries": [
     {
-      "player": "Kylian Mbappe",
+      "player": "Kylian Mbappé",
       "team": "Real Madrid",
       "league": "SOCCER",
       "position": "FW",
       "status": "DAY_TO_DAY",
-      "injury": "Minor knock/soreness",
+      "injury": "Not specified",
       "timeline": null,
       "source": "BBC Sport",
-      "impact": "Missed injury-time penalty in La Liga match vs Real Betis; question mark on availability for next fixture.",
+      "impact": "Mbappé missed an injury-time penalty in Real Madrid's 1-0 loss to Real Betis, suggesting he was not at full strength late in the match.",
       "storyIndex": 0
     }
   ],
@@ -2524,7 +2532,8 @@
         },
         "awayTeam": "San Francisco Giants",
         "homeTeam": "New York Mets"
-      }
+      },
+      "_pendingGrade": true
     },
     {
       "type": "moneyline",
@@ -2578,7 +2587,8 @@
         },
         "awayTeam": "Detroit Tigers",
         "homeTeam": "Cleveland Guardians"
-      }
+      },
+      "_pendingGrade": true
     },
     {
       "type": "moneyline",
@@ -6288,16 +6298,124 @@
         "homeTeam": "Miami Marlins"
       },
       "_pendingGrade": true
+    },
+    {
+      "type": "moneyline",
+      "pick": "Pittsburgh Pirates ML",
+      "odds": "-190",
+      "edge": "Market fill from live lines: Pittsburgh Pirates is the books' favorite at -190 (best price @ BetOnline.ag) against Los Angeles Angels at +171, with home ice/court/field behind them. No researched edge here — this is a low-confidence market-consensus play added to round out the slate. Low confidence is honest confidence.",
+      "matchup": "Los Angeles Angels @ Pittsburgh Pirates",
+      "league": "MLB",
+      "when": "Tomorrow 1:35 PM ET",
+      "confidence": "low",
+      "_autofill": true,
+      "_scheduledTs": 1788716100000,
+      "marketSnapshot": {
+        "capturedAt": "2026-09-06T00:25:30.764Z",
+        "markets": {
+          "h2h": {
+            "away": {
+              "price": 171,
+              "book": "BetOnline.ag"
+            },
+            "home": {
+              "price": -190,
+              "book": "BetOnline.ag"
+            },
+            "draw": null
+          },
+          "spreads": {
+            "away": {
+              "point": 1.5,
+              "price": -128,
+              "book": "LowVig.ag"
+            },
+            "home": {
+              "point": -1.5,
+              "price": 125,
+              "book": "Bovada"
+            }
+          },
+          "totals": {
+            "over": {
+              "point": 7.5,
+              "price": -101,
+              "book": "LowVig.ag"
+            },
+            "under": {
+              "point": 7.5,
+              "price": -106,
+              "book": "FanDuel"
+            }
+          }
+        },
+        "awayTeam": "Los Angeles Angels",
+        "homeTeam": "Pittsburgh Pirates"
+      }
+    },
+    {
+      "type": "moneyline",
+      "pick": "Houston Astros ML",
+      "odds": "-105",
+      "edge": "Market fill from live lines: Houston Astros is the books' favorite at -105 (best price @ Caesars) against Arizona Diamondbacks at -104, with home ice/court/field behind them. No researched edge here — this is a low-confidence market-consensus play added to round out the slate. Low confidence is honest confidence.",
+      "matchup": "Arizona Diamondbacks @ Houston Astros",
+      "league": "MLB",
+      "when": "Tomorrow 2:10 PM ET",
+      "confidence": "low",
+      "_autofill": true,
+      "_scheduledTs": 1788718200000,
+      "marketSnapshot": {
+        "capturedAt": "2026-09-06T00:25:30.765Z",
+        "markets": {
+          "h2h": {
+            "away": {
+              "price": -104,
+              "book": "BetOnline.ag"
+            },
+            "home": {
+              "price": -105,
+              "book": "Caesars"
+            },
+            "draw": null
+          },
+          "spreads": {
+            "away": {
+              "point": 1.5,
+              "price": -222,
+              "book": "LowVig.ag"
+            },
+            "home": {
+              "point": 1.5,
+              "price": -180,
+              "book": "Bovada"
+            }
+          },
+          "totals": {
+            "over": {
+              "point": 7.5,
+              "price": -123,
+              "book": "LowVig.ag"
+            },
+            "under": {
+              "point": 8.5,
+              "price": -125,
+              "book": "Bovada"
+            }
+          }
+        },
+        "awayTeam": "Arizona Diamondbacks",
+        "homeTeam": "Houston Astros"
+      }
     }
   ],
-  "updatedAt": "2026-08-22T23:47:00Z",
+  "updatedAt": "2026-08-22T00:00:00Z",
   "highlights": [
     {
       "league": "NBA",
-      "title": "One of the WILDEST ENDINGS of the Season 🤯 Nuggets vs. Lakers | Presented by @xfinity",
-      "videoId": "CNIn4OxYQU4",
-      "thumbnail": "https://img.youtube.com/vi/CNIn4OxYQU4/mqdefault.jpg",
-      "timeAgo": "5h ago",
+      "title": "Dylan Harper reacts to his game-winner over his brother Ron 😤",
+      "videoId": "8qBnImszKbg",
+      "thumbnail": "https://img.youtube.com/vi/8qBnImszKbg/mqdefault.jpg",
+      "timeAgo": "4h ago",
       "isFallback": false
     },
     {
@@ -6305,14 +6423,14 @@
       "title": "Don't Sleep On Saquon Barkley In Your Draft 🤫 #fantasyfootball #nfl #shorts",
       "videoId": "ryAebihCWek",
       "thumbnail": "https://img.youtube.com/vi/ryAebihCWek/mqdefault.jpg",
-      "timeAgo": "6h ago",
+      "timeAgo": "9h ago",
       "isFallback": false
     },
     {
       "league": "MLB",
-      "title": "Rafael Devers STAYS HOT with ANOTHER HOME RUN for the Giants! 🔥😤 (8th homer in last 13 games!)",
-      "videoId": "EOmvjsXVly0",
-      "thumbnail": "https://img.youtube.com/vi/EOmvjsXVly0/mqdefault.jpg",
+      "title": "Add this to the list of signature Vladdy Jr. slides 😮‍💨",
+      "videoId": "zYbJKCsOIxs",
+      "thumbnail": "https://img.youtube.com/vi/zYbJKCsOIxs/mqdefault.jpg",
       "timeAgo": "Just now",
       "isFallback": false
     },
@@ -6321,7 +6439,7 @@
       "title": "THROWBACK: Stepan Steps UP big time!",
       "videoId": "zjgE0xVBycE",
       "thumbnail": "https://img.youtube.com/vi/zjgE0xVBycE/mqdefault.jpg",
-      "timeAgo": "4h ago",
+      "timeAgo": "7h ago",
       "isFallback": false
     },
     {
@@ -6337,11 +6455,99 @@
       "title": "Shaka Hislop says Man City have to address complacency issues + NO RHYTHM at Atleti? | ESPN FC",
       "videoId": "kut9Gr_3o54",
       "thumbnail": "https://img.youtube.com/vi/kut9Gr_3o54/mqdefault.jpg",
-      "timeAgo": "Just now",
+      "timeAgo": "4h ago",
       "isFallback": false
     }
   ],
   "reels": [
+    {
+      "league": "MLB",
+      "title": "Add this to the list of signature Vladdy Jr. slides 😮‍💨",
+      "videoId": "zYbJKCsOIxs",
+      "author": "MLB",
+      "pubDate": "2026-09-06T00:04:25+00:00",
+      "link": "https://www.youtube.com/watch?v=zYbJKCsOIxs"
+    },
+    {
+      "league": "MLB",
+      "title": "CUBS vs. MARLINS: Official Full Game Highlights (September 5) | 2026 MLB Season",
+      "videoId": "dzkQtkGra54",
+      "author": "MLB",
+      "pubDate": "2026-09-05T23:55:35+00:00",
+      "link": "https://www.youtube.com/watch?v=dzkQtkGra54"
+    },
+    {
+      "league": "MLB",
+      "title": "Munetaka Murakami has the first 30-HR rookie season by a Japanese-born player! 🇯🇵",
+      "videoId": "3yw9RTtRgzA",
+      "author": "MLB",
+      "pubDate": "2026-09-05T23:45:36+00:00",
+      "link": "https://www.youtube.com/watch?v=3yw9RTtRgzA"
+    },
+    {
+      "league": "MLB",
+      "title": "30 HOME RUNS for Munetaka Murakami in his MAGICAL ROOKIE SEASON with the White Sox! | MLB Highlights",
+      "videoId": "1TBMqJcEJt0",
+      "author": "MLB",
+      "pubDate": "2026-09-05T23:36:46+00:00",
+      "link": "https://www.youtube.com/watch?v=1TBMqJcEJt0"
+    },
+    {
+      "league": "MLB",
+      "title": "Junior Caminero takes the American League home run lead! 😳 (HR No. 38!) | MLB Highlights",
+      "videoId": "yzrx4AbQ0H4",
+      "author": "MLB",
+      "pubDate": "2026-09-05T23:30:21+00:00",
+      "link": "https://www.youtube.com/watch?v=yzrx4AbQ0H4"
+    },
+    {
+      "league": "MLB",
+      "title": "Kyle Schwarber SMOKES this baseball off the facade 🔥",
+      "videoId": "ogosZamm9EU",
+      "author": "MLB",
+      "pubDate": "2026-09-05T23:27:10+00:00",
+      "link": "https://www.youtube.com/watch?v=ogosZamm9EU"
+    },
+    {
+      "league": "MLB",
+      "title": "Kyle Schwarber CRUSHES his MLB-leading 41st homer of the season for the Phillies! 💪 | MLB Highlights",
+      "videoId": "kGew1bNHeJY",
+      "author": "MLB",
+      "pubDate": "2026-09-05T23:24:28+00:00",
+      "link": "https://www.youtube.com/watch?v=kGew1bNHeJY"
+    },
+    {
+      "league": "MLB",
+      "title": "Elly De La Cruz goes deep on his bobblehead night! ⚡️",
+      "videoId": "NkZ49FUIFlk",
+      "author": "MLB",
+      "pubDate": "2026-09-05T23:17:01+00:00",
+      "link": "https://www.youtube.com/watch?v=NkZ49FUIFlk"
+    },
+    {
+      "league": "NBA",
+      "title": "Dylan Harper reacts to his game-winner over his brother Ron 😤",
+      "videoId": "8qBnImszKbg",
+      "author": "NBA",
+      "pubDate": "2026-09-05T20:54:42+00:00",
+      "link": "https://www.youtube.com/watch?v=8qBnImszKbg"
+    },
+    {
+      "league": "NBA",
+      "title": "Joker’s UNREAL game winner vs the Spurs 🃏",
+      "videoId": "EjHtV2jSCx4",
+      "author": "NBA",
+      "pubDate": "2026-09-05T20:52:51+00:00",
+      "link": "https://www.youtube.com/watch?v=EjHtV2jSCx4"
+    },
+    {
+      "league": "NBA",
+      "title": "When KD passed Michael Jordan on the All-time scoring list 🔥",
+      "videoId": "xMPJ3LAMyws",
+      "author": "NBA",
+      "pubDate": "2026-09-05T20:51:53+00:00",
+      "link": "https://www.youtube.com/watch?v=xMPJ3LAMyws"
+    },
     {
       "league": "SOCCER",
       "title": "Shaka Hislop says Man City have to address complacency issues + NO RHYTHM at Atleti? | ESPN FC",
@@ -6357,14 +6563,6 @@
       "author": "ESPN FC",
       "pubDate": "2026-09-05T20:23:19+00:00",
       "link": "https://www.youtube.com/watch?v=VCce2vrQR-4"
-    },
-    {
-      "league": "MLB",
-      "title": "Rafael Devers STAYS HOT with ANOTHER HOME RUN for the Giants! 🔥😤 (8th homer in last 13 games!)",
-      "videoId": "EOmvjsXVly0",
-      "author": "MLB",
-      "pubDate": "2026-09-05T20:22:13+00:00",
-      "link": "https://www.youtube.com/watch?v=EOmvjsXVly0"
     },
     {
       "league": "SOCCER",
@@ -6391,14 +6589,6 @@
       "link": "https://www.youtube.com/watch?v=EYA4fZqVkCw"
     },
     {
-      "league": "MLB",
-      "title": "Dustin Pedroia always used his brain on the diamond 😤",
-      "videoId": "hCeZtNX-p9k",
-      "author": "MLB",
-      "pubDate": "2026-09-05T17:30:29+00:00",
-      "link": "https://www.youtube.com/watch?v=hCeZtNX-p9k"
-    },
-    {
       "league": "NHL",
       "title": "THROWBACK: Stepan Steps UP big time!",
       "videoId": "zjgE0xVBycE",
@@ -6415,36 +6605,12 @@
       "link": "https://www.youtube.com/watch?v=P9prR9H28Gg"
     },
     {
-      "league": "MLB",
-      "title": "This effort! 👏",
-      "videoId": "hZeG3pgOgXI",
-      "author": "MLB",
-      "pubDate": "2026-09-05T16:07:03+00:00",
-      "link": "https://www.youtube.com/watch?v=hZeG3pgOgXI"
-    },
-    {
-      "league": "MLB",
-      "title": "Julio Rodríguez tried giving the pitcher a heads up 😂",
-      "videoId": "txiqgpZ28Ts",
-      "author": "MLB",
-      "pubDate": "2026-09-05T16:00:20+00:00",
-      "link": "https://www.youtube.com/watch?v=txiqgpZ28Ts"
-    },
-    {
       "league": "NBA",
       "title": "One of the WILDEST ENDINGS of the Season 🤯 Nuggets vs. Lakers | Presented by @xfinity",
       "videoId": "CNIn4OxYQU4",
       "author": "NBA",
       "pubDate": "2026-09-05T16:00:03+00:00",
       "link": "https://www.youtube.com/watch?v=CNIn4OxYQU4"
-    },
-    {
-      "league": "MLB",
-      "title": "We would have all reacted the same way if Aroldis Chapman did this to us 😭",
-      "videoId": "aMp_Dn4U2AY",
-      "author": "MLB",
-      "pubDate": "2026-09-05T15:00:29+00:00",
-      "link": "https://www.youtube.com/watch?v=aMp_Dn4U2AY"
     },
     {
       "league": "NFL",
@@ -6455,36 +6621,12 @@
       "link": "https://www.youtube.com/watch?v=ryAebihCWek"
     },
     {
-      "league": "MLB",
-      "title": "NO-HITTER at age 44?!? How Nolan Ryan did the impossible | Stories You Wouldn't Believe (SYWB)",
-      "videoId": "5lm2RhUrHmc",
-      "author": "MLB",
-      "pubDate": "2026-09-05T14:00:19+00:00",
-      "link": "https://www.youtube.com/watch?v=5lm2RhUrHmc"
-    },
-    {
-      "league": "MLB",
-      "title": "PETE CROW-ARMSTRONG. THAT IS ALL 😱😱",
-      "videoId": "nDD54iUxh9I",
-      "author": "MLB",
-      "pubDate": "2026-09-05T14:00:03+00:00",
-      "link": "https://www.youtube.com/watch?v=nDD54iUxh9I"
-    },
-    {
       "league": "NFL",
       "title": "Why Justin Herbert is a league winner this year 📈 #fantasyfootball #nfl #justinherbert",
       "videoId": "A8r3GN-MdBM",
       "author": "NFL on ESPN",
       "pubDate": "2026-09-05T13:00:05+00:00",
       "link": "https://www.youtube.com/watch?v=A8r3GN-MdBM"
-    },
-    {
-      "league": "MLB",
-      "title": "Top 5 MLB Plays RANKED from 9/4/26! (Pete Crow-Armstrong makes an INCREDIBLE catch and MORE!)",
-      "videoId": "tG6GDOoT-Jk",
-      "author": "MLB",
-      "pubDate": "2026-09-05T11:00:21+00:00",
-      "link": "https://www.youtube.com/watch?v=tG6GDOoT-Jk"
     },
     {
       "league": "SOCCER",
@@ -6589,30 +6731,6 @@
       "author": "NFL on ESPN",
       "pubDate": "2026-09-04T17:49:13+00:00",
       "link": "https://www.youtube.com/watch?v=8ctR4dOUiUY"
-    },
-    {
-      "league": "NBA",
-      "title": "22-POINT COMEBACK vs. the UNDEFEATED CHAMPS 🤯 Trail Blazers vs. Thunder | Presented by @xfinity",
-      "videoId": "dMwraUOcJbw",
-      "author": "NBA",
-      "pubDate": "2026-09-04T16:40:19+00:00",
-      "link": "https://www.youtube.com/watch?v=dMwraUOcJbw"
-    },
-    {
-      "league": "NBA",
-      "title": "SGA became the first player since Wilt to score 20+ in every regular season game",
-      "videoId": "peKLnCN8bvg",
-      "author": "NBA",
-      "pubDate": "2026-09-04T16:17:49+00:00",
-      "link": "https://www.youtube.com/watch?v=peKLnCN8bvg"
-    },
-    {
-      "league": "NBA",
-      "title": "The MSG crowd is like no other 🔥",
-      "videoId": "VdVC826JA_0",
-      "author": "NBA",
-      "pubDate": "2026-09-04T16:14:22+00:00",
-      "link": "https://www.youtube.com/watch?v=VdVC826JA_0"
     },
     {
       "league": "NHL",
