@@ -1,73 +1,81 @@
 {
   "clusters": [
     {
-      "category": "contracts",
+      "category": "media",
+      "importance": 9,
+      "leadHeadline": "Coco Gauff dismantles Iva Jovic to reach quarter-finals in confident US Open run",
+      "leadSource": "The Guardian · just now",
+      "leadUrl": "https://www.theguardian.com/sport/2026/sep/08/coco-gauff-iva-jovic-us-open-quarter-finals-mirra-andreeva",
+      "summary": "<cite index=\"11-5\">Coco Gauff beat No. 14 Iva Jovic 6-1, 6-4 Monday night for her 10th consecutive victory and ninth straight-sets win, her career longest such streak.</cite>",
+      "article": "<cite index=\"11-2\">Coco Gauff is back in the US Open quarterfinals for the first time since winning the tournament three years ago.</cite> <cite index=\"11-5\">The No. 4 seed beat No. 14 Iva Jovic 6-1, 6-4 in a performance that extended her winning streak to 10 matches and her straight-sets wins to nine consecutive, the longest streak of her career.</cite>\n\n<cite index=\"21-5\">With her straight-sets victory Monday, Gauff has won 20 consecutive sets, having last dropped one in Cincinnati's second round.</cite> <cite index=\"22-11\">The 22-year-old is the youngest American woman with three Grand Slam quarterfinal appearances in a single year since Serena Williams in 2003.</cite>\n\nJovic, 18, started well enough. <cite index=\"21-14\">Despite being broken in the opening game, Gauff went on a tear by taking the next six games.</cite> <cite index=\"21-13\">Gauff secured the first set in just under 35 minutes.</cite> The second set tightened considerably. <cite index=\"21-15\">At one point, from midway through the first set to 0-30 in the second, Gauff had won 25 of 30 points against Jovic.</cite>\n\n<cite index=\"10-6,10-7\">\"She plays beyond her years,\" Gauff said of Jovic afterward. \"I'm looking to many more battles out here.\"</cite> <cite index=\"10-11\">Gauff will next face French Open champion and fifth-seeded Mirra Andreeva in the quarter-finals.</cite> <cite index=\"10-12\">Gauff has won all five of their prior meetings.</cite>",
+      "tweets": [
+        {
+          "url": "https://twitter.com/TheTennisLetter/status/2097125122591379949",
+          "html": "<blockquote class=\"twitter-tweet\" data-dnt=\"true\" data-theme=\"dark\"><p>Gauff d. Iva Jovic 6-1 6-4\n\nCoco reaches her first US Open quarterfinal since 2023. \n\n10th consecutive win. \n\n19 consecutive sets won. \n\nShe’s now 2-0 against Iva, both meetings were this year. \n\n✅12th Grand Slam QF\n✅45th win of 2026\n\nPlaying the tennis of her life. \n\n🇺🇸❤️ https://t.co/Ql3ba9hHID</p>&mdash; The Tennis Letter (@TheTennisLetter) <a href=\"https://twitter.com/TheTennisLetter/status/2097125122591379949\">September 8, 2026</a></blockquote>",
+          "author_name": "The Tennis Letter",
+          "author_url": "https://twitter.com/TheTennisLetter",
+          "dateMs": 1788828566000
+        }
+      ]
+    },
+    {
+      "category": "media",
       "importance": 8,
-      "leadHeadline": "Patriots, Christian Gonzalez agree to four-year, $135 million extension to reset the cornerback market",
-      "leadSource": "CBS Sports · just now",
-      "leadUrl": "https://www.cbssports.com/nfl/news/patriots-christian-gonzalez-extension-cornerback/",
-      "summary": "<cite index=\"1-1,1-3\">The Patriots and Christian Gonzalez agreed to a four-year, $135 million extension with $102 million guaranteed</cite>, making <cite index=\"2-2\">the 24-year-old the highest-paid cornerback in the NFL and highest-paid player in Patriots history</cite>.",
-      "article": "<cite index=\"1-1\">The New England Patriots and cornerback Christian Gonzalez reached agreement on a four-year, $135 million extension late Monday night</cite>. <cite index=\"1-3\">The deal includes $102 million guaranteed</cite>. <cite index=\"2-2\">Gonzalez becomes the highest-paid cornerback in the NFL and the highest-paid player in Patriots history</cite>.\n\n<cite index=\"2-3\">Defensive lineman Milton Williams owned the previous record with a four-year, $104 million deal signed in March 2025</cite>. <cite index=\"13-3\">Gonzalez's $33.75 million average annual value is the most-ever for a cornerback, as is the $102 million guaranteed</cite>.\n\n<cite index=\"2-5\">Seattle's Devon Witherspoon signed a four-year, $132 million extension last month, which briefly made him the highest-paid cornerback</cite>. <cite index=\"1-4\">The deal comes ahead of Wednesday's regular-season opener, a Super Bowl LX rematch against the Seahawks</cite>.\n\n<cite index=\"1-10\">Gonzalez expressed frustration Aug. 25 that negotiations remained unresolved at that point</cite>. <cite index=\"7-4,7-5,7-6\">When asked about the deal, Gonzalez said \"I'm focused on Week 1 at this point. I mean, it's been all offseason, so like I said, I feel like the line of today is, it is what it is. So focused on Week 1\"</cite>.",
+      "leadHeadline": "Russo and Greenwood nominated for Ballon d'Or",
+      "leadSource": "BBC Sport · just now",
+      "leadUrl": "https://www.bbc.co.uk/sport/football/articles/cpd01d9je5zo?at_medium=RSS&amp;at_campaign=rss",
+      "summary": "England stars Alessia Russo and Alex Greenwood were named among 30 nominees for the women's Ballon d'Or award.",
+      "article": "England internationals Alessia Russo and Alex Greenwood have been nominated for the women's Ballon d'Or, positioning themselves among the sport's elite players under consideration for the prestigious individual award. The nominations reflect their consistent performance at club and international levels this season. The award recognizes the year's outstanding female footballer and represents one of the most coveted individual honors in the women's game globally.",
+      "tweets": []
+    },
+    {
+      "category": "revenue",
+      "importance": 7,
+      "leadHeadline": "NFL 2026: Sunday Ticket Faces Legal Reckoning",
+      "leadSource": "Sportico · 1h ago",
+      "leadUrl": "https://www.sportico.com/law/analysis/2026/nfl-sunday-ticket-ninth-circuit-ruling-expected-1234943142/",
+      "summary": "The NFL's Sunday Ticket package faces legal challenges as the league navigates growth and sustainability questions atop American sports.",
+      "article": "The NFL's Sunday Ticket now sits under legal scrutiny as the league grapples with broader questions about sustaining its position as the richest sports league in America without courting complacency or regulatory exposure. The package's standing raises fundamental questions: How can the league grow further while avoiding platform decay? How does it fend off lawsuits and competitive threats? Sunday Ticket, long the league's premium out-of-market offering, has become a focal point in these discussions as the NFL contends with antitrust concerns and consumer advocacy pushing back on pricing structures. The legal reckoning underscores the pressure facing the league even as its franchise valuations and media-rights values continue climbing. Resolving the Sunday Ticket question will likely shape the next generation of NFL media rights negotiations.",
       "tweets": []
     },
     {
       "category": "media",
-      "importance": 7,
-      "leadHeadline": "Coco Gauff dismantles Iva Jovic to reach quarter-finals in confident US Open run",
-      "leadSource": "The Guardian · 4h ago",
-      "leadUrl": "https://www.theguardian.com/sport/2026/sep/08/coco-gauff-iva-jovic-us-open-quarter-finals-mirra-andreeva",
-      "summary": "Coco Gauff defeated Iva Jovic 6-1, 6-4 in 80 minutes to reach the US Open quarter-finals, extending her unbeaten run in the tournament without dropping a set.",
-      "article": "Coco Gauff dismantled Iva Jovic 6-1, 6-4 in 80 minutes on Monday night to advance to the US Open quarter-finals, maintaining a perfect record through the women's draw without losing a single set.\n\nThe American's performance was described as serene and complete. She dominated the 19-year-old Jovic, a fellow American, in straight sets that never reached competitive tension. The speed and clean execution of Gauff's play left little room for her opponent to find rhythm.\n\nWith the win, Gauff remains on track for a deep tournament run. BBC Sport confirmed that the top six seeds have all reached the quarter-finals for the first time in 28 years, a statistical marker of the strength at the top of the women's draw this year. Gauff awaits Mirra Andreeva in an anticipated quarter-final matchup.\n\nGauff's path through the tournament has been methodical. No dropped sets heading into the quarterfinals is a rarity at Slams, where even the strongest players typically yield at least one set to a dangerous opponent. Her continued momentum through four rounds positions her as a top contender heading into the business end of the event.",
-      "tweets": []
-    },
-    {
-      "category": "leagues",
       "importance": 6,
-      "leadHeadline": "Florida State-SMU game left in chaos after power outage leads to nearly two-hour delay",
-      "leadSource": "NY Post Sports · 3h ago",
-      "leadUrl": "https://nypost.com/2026/09/08/sports/florida-state-smu-game-left-in-chaos-after-power-outage-leads-to-nearly-two-hour-delay/",
-      "summary": "A partial power outage at FSU-SMU forced a nearly two-hour delay, disabling coach-to-player helmet communications and instant replay, but the college football game proceeded without postponement.",
-      "article": "The Florida State-SMU college football game descended into chaos Monday after a partial power outage knocked out critical infrastructure, leaving both teams and stadium staff scrambling to determine whether the contest could continue.\n\nThe outage disabled coach-to-player helmet communications and eliminated instant replay capabilities, forcing the game to proceed without modern conveniences that have become standard at major college football venues. The delay stretched nearly two hours as power was restored and contingency plans were activated.\n\nDespite the operational nightmare, the game went ahead. According to Front Office Sports, it played out like a contest from 1990, with coaches unable to call plays via helmet radios and replay review unavailable. The two teams and officials adapted to conditions that would have been routine decades ago but felt primitive by today's standards.\n\nThe incident highlighted the vulnerability of modern sports infrastructure to power disruption. FSU and SMU had to choose between postponing or playing under degraded conditions. They chose to proceed. For coaches and players accustomed to real-time helmet communication and instant replay confirmation, the experience was a notable anomaly in how contemporary college football operates.",
+      "leadHeadline": "NFL Films Reimagining 'Inside the NFL' on X Without Panelists",
+      "leadSource": "Front Office Sports · 2h ago",
+      "leadUrl": "https://frontofficesports.com/article/inside-the-nfl-removes-panelists-x/",
+      "summary": "NFL Films is reshaping 'Inside the NFL' for X in its second season on the platform, moving away from the traditional panel format.",
+      "article": "NFL Films is reinventing 'Inside the NFL' for its second season on X, departing from the familiar panel-discussion model that defined the show for decades. The shift reflects both the platform's constraints and the league's broader strategy to deepen engagement on social media. Without live panelists on camera, the show will need to find new narrative hooks to maintain the franchise's identity. The move is part of a broader trend across sports media of reimagining legacy television formats for digital platforms, where production budgets and talent logistics differ sharply from traditional broadcast television. How audiences respond to the redesigned format remains an open question, but the shift signals NFL Films' commitment to the X partnership.",
       "tweets": []
     },
     {
       "category": "media",
       "importance": 5,
-      "leadHeadline": "Gauff's dominant win completes stacked US Open last eight",
-      "leadSource": "BBC Sport · 5h ago",
-      "leadUrl": "https://www.bbc.co.uk/sport/tennis/articles/crk368k4e42o?at_medium=RSS&amp;at_campaign=rss",
-      "summary": "The top six seeds reached the US Open women's quarter-finals for the first time in 28 years, with Coco Gauff defeating Iva Jovic as part of a historically strong set of finalists.",
-      "article": "The US Open women's draw reached its quarter-final stage with an unprecedented concentration of top seeding. The top six seeds all advanced to the last eight for the first time since 1998, a 28-year gap that underscores how often lower-seeded and unseeded players typically make deep runs at Slams.\n\nCoco Gauff powered past teenage star Iva Jovic in this milestone round, maintaining her unbeaten record through the tournament. The dominance of the elite seeds reflects both strong play from the favorites and, in some cases, a draw that opened up in their favor.\n\nHistorically, the US Open women's draw has been volatile. Younger players breaking through, veterans staging unexpected runs, and mid-seeded players catching fire have all disrupted the narrative of top seeds dominating. The fact that six top seeds converged in the quarterfinals is a statistical rarity that suggests this year's field at the top was exceptionally strong or fortunate with matchups.\n\nAs the tournament moves into its most critical phase, the quarter-finals will test whether these top-seeded players can sustain their form or whether the unpredictability that characterizes Grand Slams will reassert itself.",
+      "leadHeadline": "Mac Allister 'sad' at no Liverpool contract offer",
+      "leadSource": "BBC Sport · 2h ago",
+      "leadUrl": "https://www.bbc.co.uk/sport/football/articles/cvgy0542qjvo?at_medium=RSS&amp;at_campaign=rss",
+      "summary": "Liverpool midfielder Alexis Mac Allister said he is 'very sad' not to have received a new contract offer from the club after the summer transfer window.",
+      "article": "Liverpool midfielder Alexis Mac Allister expressed disappointment at not receiving a new contract offer from the club, saying he was 'very sad' about the development after the summer transfer window closed. Mac Allister, who joined Liverpool in January 2023, indicated he had other options to leave on the table during the summer but chose to remain at Anfield. The midfielder's comments suggest tension between player and club over contract negotiations, raising questions about his long-term future at Liverpool. His remarks come at a sensitive moment in the season and could factor into January transfer discussions or upcoming contract talks.",
       "tweets": []
     },
     {
-      "category": "leagues",
+      "category": "media",
       "importance": 4,
-      "leadHeadline": "When NFL Players Are Fined, Where Does the Money Go?",
-      "leadSource": "Sportico · 17h ago",
-      "leadUrl": "https://www.sportico.com/leagues/football/2026/where-does-nfl-fine-money-go-1234795663/",
-      "summary": "The NFL's 2020 CBA outlines player fine procedures and inflation adjustments, with minimum fines rising 3% annually, and Jon Runyan overseeing enforcement and distribution.",
-      "article": "The NFL's Collective Bargaining Agreement, ratified in 2020, established a comprehensive framework for player fines, including how penalties are calculated, who receives them, and how inflation is accounted for.\n\nJon Runyan, the NFL's vice president of policy, oversees the administration of player fines. According to Sportico, the CBA even includes an inflation mechanism: minimum fines automatically rise 3% each league year. This means that a fine set at a specific dollar level in 2020 is adjusted upward each year to account for economic changes.\n\nThe fine structure reflects the league's effort to standardize punishment while ensuring that the financial penalty maintains consistent meaning over time. Without inflation adjustments, a fine set years earlier would become less effective as a deterrent. The 3% annual bump keeps penalties proportional.\n\nWhile the specifics of where fines are distributed were referenced in the Sportico piece, the exact allocation to league programs, charitable causes, or other purposes requires deeper reporting. The filing occurs after every Monday during the regular season, suggesting that fines are processed and recorded in a standardized weekly cadence. This administrative framework has operated consistently through the 2026 season.",
-      "tweets": []
-    },
-    {
-      "category": "leagues",
-      "importance": 4,
-      "leadHeadline": "Belichick denies he has lost control of UNC football program amid off-field turmoil",
-      "leadSource": "The Guardian · 11h ago",
-      "leadUrl": "https://www.theguardian.com/sport/2026/sep/07/belichick-denies-he-has-lost-control-of-unc-football-program-amid-off-field-turmoil",
-      "summary": "Bill Belichick stated his UNC program maintains rule compliance while a former general manager resigned and his son Steve was placed on medical leave amid an ongoing school investigation.",
-      "article": "Bill Belichick pushed back against characterizations that his control of the North Carolina football program is slipping, telling reporters on Monday that his team maintains an atmosphere of following rules despite mounting off-field turmoil.\n\nThe timing of Belichick's defense is significant. The school launched an investigation into program conduct, creating an environment where questions about leadership and accountability are unavoidable. Belichick acknowledged the scrutiny without conceding ground on his authority.\n\nA former general manager resigned from the program, and Belichick's son Steve, who held a role with the team, was placed on medical leave. These departures, coming during an active investigation, created a narrative of internal instability that forced Belichick into a public position of asserting control.\n\nThe dynamic reflects the challenge of leading a major college program during an investigation. Belichick's statement that the program \"totally\" follows rules carries weight, but institutional credibility is tested when investigations unfold and key staff departs. The investigation will determine whether his claims hold up or whether systemic issues are uncovered.\n\nThis is Belichick's second major rebuild effort after his Patriots tenure. Early turbulence at UNC is not uncommon for a new head coach, but the combination of an active investigation and leadership departures adds urgency to resolving the matter quickly.",
+      "leadHeadline": "'Like Playing a Game in 1990': SMU and FSU Play Amid Power Outage",
+      "leadSource": "Front Office Sports · 13h ago",
+      "leadUrl": "https://frontofficesports.com/article/smu-florida-state-play-week-1-game-amid-stadium-power-outage/",
+      "summary": "SMU and Florida State played through a nearly two-hour power outage, operating without coach-to-player comms or instant replay in a throwback to 1990s football.",
+      "article": "SMU and Florida State completed their college football game despite a prolonged power outage that stripped both sidelines of modern coaching infrastructure. For roughly two hours, both teams operated without helmet communication systems, instant replay review, or the digital signaling networks that define modern football logistics. The blackout forced coaches and players to adapt, executing plays via traditional sideline signals and verbal communication. It was a stark reminder of football's pre-digital era and tested both programs' ability to maintain organization and focus under conditions absent from modern competition. SMU ultimately prevailed in the unusual circumstances, with both teams demonstrating resilience in an environment where the unexpected became the defining feature of the game.",
       "tweets": []
     },
     {
       "category": "media",
       "importance": 3,
-      "leadHeadline": "Non-league to Champions League: The Porto boss out to stun Man City",
-      "leadSource": "BBC Sport · 1h ago",
-      "leadUrl": "https://www.bbc.co.uk/sport/football/articles/c072j1r4e2do?at_medium=RSS&amp;at_campaign=rss",
-      "summary": "Francesco Farioli, Porto's highly regarded young manager, makes his Champions League debut on Tuesday against Man City, having risen from non-league to Europe's elite club competition.",
-      "article": "Francesco Farioli takes charge in the Champions League for the first time on Tuesday when Porto faces Manchester City, marking a milestone in the 35-year-old Italian's rapid rise through European football.\n\nFarioli's trajectory to this moment is notable. He ascended from non-league football to coaching one of Portugal's most prestigious clubs, and now faces one of Europe's most dominant sides in the competition's opening phase. The narrative arc is dramatic: non-league to Champions League within a relatively compressed timeframe.\n\nFarioli is widely regarded as one of the most talented young managers in the game, someone whose tactical acumen and player development have drawn attention across the continent. Taking on City, the defending English champions and a team with resources and experience that dwarf Porto's, tests that reputation immediately.\n\nThe matchup has intrigue beyond the Farioli angle. Porto enters as the clear underdog, but the competition's group stage often delivers surprises, and a charismatic new manager can energize a team. Farioli's first Champions League outing will be observed closely by scouts and coaches across Europe as a referendum on whether his reputation stands up to elite opponents.\n\nTuesday's match is his debut on football's biggest club stage. Results may matter less than the performance and how Porto responds to City's pressure.",
+      "leadHeadline": "Tennis lovers nauseated by smells of sewage and 'human waste' at US Open",
+      "leadSource": "NY Post Sports · just now",
+      "leadUrl": "https://nypost.com/2026/09/08/lifestyle/us-open-fans-say-sewage-human-waste-smell-ruined-sport/",
+      "summary": "Tennis fans and tastemakers at the US Open have complained about sewage odors and sanitation issues affecting the spectator experience.",
+      "article": "Spectators and media members at the US Open have raised complaints about persistent sewage smells and sanitation problems affecting the tennis venue. The issue has drawn attention from tennis tastemakers and high-profile attendees, who have described the odors as a significant distraction during matches. The complaints underscore broader infrastructure challenges at the tournament site and raise questions about venue maintenance and operational standards during the event. The US Tennis Association will need to address the issue to preserve the tournament's reputation and fan experience.",
       "tweets": []
     }
   ],
@@ -2391,96 +2399,84 @@
     ],
     "source": "espn"
   },
-  "deals": [
-    {
-      "type": "extension",
-      "parties": "New England Patriots ⇄ Christian Gonzalez",
-      "value_usd": 135000000,
-      "term_years": 4,
-      "league": "NFL",
-      "headline": "Patriots extend CB Gonzalez for 4 years, $135M with $102M guaranteed",
-      "storyIndex": 5,
-      "blurb": "Gonzalez becomes the highest-paid Patriot ever with an extension that includes $102M guaranteed, resetting the cornerback market.",
-      "capturedAt": "2026-09-08T07:36:11.959Z"
-    }
-  ],
+  "deals": [],
   "ratings": [],
   "ticket_prices": [],
   "sidebar": [
     {
-      "headline": "Big 12 Withdraws Lawsuit Against Texas Tech As New Season Begins",
-      "source": "Front Office Sports · 10h ago",
-      "article": "The Big 12 Conference withdrew its lawsuit against Texas Tech, ending a legal dispute that had shadowed the school's athletic program. Brendan Sorsby, Texas Tech's quarterback, left the school shortly after the lawsuit was filed, signaling the friction between the institution and the conference. The withdrawal comes as the new season begins, suggesting both sides opted for resolution over prolonged litigation. The timing allows Texas Tech to move forward without legal entanglement as the football team enters conference play."
+      "headline": "NFL 2026: As Team Values Soar, Can Anything Slow Them Down?",
+      "source": "Sportico · 3h ago",
+      "article": "NFL franchise valuations continue their upward march as the league consolidates its position atop American sports. Yet the same forces driving valuations higher—media rights growth, stadium revenues, betting integration—also create new vulnerabilities. Antitrust scrutiny, platform competition for content, and shifting consumer habits all pose risks. The league's challenge is managing growth without triggering regulatory backlash or complacency. How long can valuations climb before external pressure forces a recalibration?"
     },
     {
-      "headline": "LSU crashes top 10 while Oregon, Michigan fall in new college football rankings",
-      "source": "CBS Sports · 3h ago",
-      "article": "After Week 1 of college football, the updated AP Top 25 reflects significant movement. LSU's strong start propelled the Tigers into the top 10, while Oregon and Michigan both dropped following disappointing performances. The movement signals that preseason expectations do not hold once actual games are played. Teams with momentum and clean Week 1 wins gained ground, while blue-chip programs that stumbled fell predictably. These rankings will reset again after Week 2, but early movers like LSU establish narrative control."
+      "headline": "Former Mets GM Joe McDonald, who traded Tom Seaver, dead at 97",
+      "source": "NY Post Sports · 1h ago",
+      "article": "Joe McDonald, the Mets executive who orchestrated the franchise-altering trade of Tom Seaver in 1977, has died at 97. McDonald's tenure with the Mets saw six World Series championships across his roles with New York, St. Louis, and Boston. The trade of Seaver, one of baseball's most iconic moments, defined his legacy and remains contested by fans decades later. His death marks the end of an era in baseball executive history."
+    },
+    {
+      "headline": "Learner Tien fights back tears after heart-wrenching five-set US Open loss in Round of 16",
+      "source": "NY Post Sports · 1h ago",
+      "article": "American Learner Tien's US Open run came to an emotional end in a five-set thriller in the Round of 16, leaving six American representatives still alive in the quarterfinals. Tien's exit closes a chapter on what could have been a breakthrough tournament for the young American. His loss is a reminder of tennis's narrow margins and the heartbreak inherent in best-of-five competition, where stamina and mental toughness become as crucial as technical skill."
     },
     {
       "headline": "On the Air: Peter Schrager and ESPN's authenticity era",
-      "source": "Sports Media Watch · 17h ago",
-      "article": "Peter Schrager's new show at ESPN represents a broader shift toward authenticity in sports media. Armand Broady examined the prospects for Schrager's program alongside a potential comeback for Dianna Russini. The segment highlights ESPN's pivot toward personalities who have built trust with audiences through direct, unfiltered commentary rather than polished corporate messaging. Schrager's track record as a candid voice positions his program as part of a larger industry trend."
+      "source": "Sports Media Watch · 1d ago",
+      "article": "Peter Schrager's new ESPN show arrives as the network doubles down on personalities and authentic voices over polished institutional programming. The shift reflects a broader media industry trend: audiences reward unscripted moments and genuine takes over corporate-approved talking points. Schrager's show will compete in a crowded sports media landscape where individuality has become the differentiator. ESPN's bet on authenticity challenges its legacy as a network of standardized formats."
+    },
+    {
+      "headline": "Sporticast: An NFL Safety's Journey From Truck Hits to Trucking Biz",
+      "source": "Sportico · 5h ago",
+      "article": "Former All-Pro safety Antoine Bethea, who logged 14 seasons in the NFL after a sixth-round draft selection by Indianapolis in 2006, has built a second career in the trucking business. Bethea's transition from football to logistics reflects the growing sophistication of athletes' off-field investments. His entrepreneurial path offers a blueprint for players thinking beyond their playing years and into generational wealth-building."
     },
     {
       "headline": "Blue Jays rally ends in walk-off heartbreak as Cease, defence stumble",
-      "source": "Sportsnet · 2h ago",
-      "article": "The Toronto Blue Jays' offensive rally fell short in a walk-off loss, compounded by defensive lapses and a rough outing from starter Dylan Cease. The loss underscores a recurring theme for Toronto: success hinges heavily on Cease's performance. When he struggles, the entire rotation's credibility is questioned. The Blue Jays must find consistency in their supporting pitching to ease reliance on any single starter and avoid compounding issues with defensive miscues."
-    },
-    {
-      "headline": "Darius Slayton says his goodbye to Giants with potential suitors already showing interest",
-      "source": "NY Post Sports · 3h ago",
-      "article": "Darius Slayton's seven-season tenure with the New York Giants appears to be ending, with the wide receiver signaling his departure and drawing interest from other teams. Slayton was drafted by Big Blue in the fifth round of 2019 and became a reliable option in the passing game. His exit reflects the Giants' roster turnover and suggests the team is moving in a new direction at receiver. Teams looking for veteran depth and someone familiar with the NFC East have already expressed interest."
-    },
-    {
-      "headline": "Will hordes of influencers, weed smokers and mid-point talkers bring down the US Open?",
-      "source": "The Guardian · 1d ago",
-      "article": "Noise pollution at the US Open has become an officially recognized problem. Spectators in the upper tiers of Arthur Ashe Stadium report persistent exterior hum from cooling and ventilation units, compounded by crowd behavior including influencer disruptions and mid-point talking. The issue highlights tension between modernizing the fan experience and maintaining the sanctity of elite tennis. Solving it would require changes to stadium infrastructure and social conduct that extend beyond the sport itself."
+      "source": "Sportsnet · 10h ago",
+      "article": "The Toronto Blue Jays' comeback fell short in heartbreaking fashion when Dylan Cease and the defence faltered in a walk-off loss. The result underscores an uncomfortable truth for the Blue Jays: on Cease's starts, wins are imperative if the team is to stay competitive. Defensive lapses in high-leverage moments can erase strong offensive performances. Toronto's ability to protect leads will be critical to their playoff viability down the stretch."
     }
   ],
   "poll": {
-    "question": "Which storyline will dominate sports business headlines most in the next week?",
+    "question": "Will the NFL's legal challenges to Sunday Ticket reshape media rights negotiations in the next CBA?",
     "options": [
-      "NFL contract extensions resetting market values (Gonzalez deal as catalyst)",
-      "US Open women's run (tournament economics and streaming viewership)",
-      "Champions League debut season (media rights and competitive balance)",
-      "College football off-field controversies (UNC investigation and program stability)"
+      "Yes, antitrust pressure will force major structural changes",
+      "Partially, minor adjustments to out-of-market packages only",
+      "No, the NFL's market dominance shields it from real impact",
+      "Uncertain, depends on regulatory action beyond sports"
     ]
   },
   "predictions": [
     {
-      "statement": "Christian Gonzalez's $135M extension with $102M guaranteed will trigger at least two comparable cornerback deals by season's end.",
-      "probability": 72,
-      "rationale": "Market resets at premier positions typically cascade. Once one team pays, others with elite corners will face similar demands. Corners are harder to find via draft than most positions, so teams with talent tend to pay. Two deals by year's end is conservative given the supply-demand dynamic."
+      "statement": "Gauff will reach the US Open final without dropping a set.",
+      "probability": 35,
+      "rationale": "She's flawless through the round of 16, but the quarter-final draw will tighten and peak opponents like Andreeva carry weapons that can force tiebreaks. Dropping a set feels more likely than the historic perfection."
     },
     {
-      "statement": "Coco Gauff reaches the US Open final without dropping a set in the semi-finals.",
-      "probability": 58,
-      "rationale": "She's undefeated and hasn't lost a set yet. The competition stiffens in the semis and finals, but Gauff's current form and draw positioning favor her. The top six seeds reaching the quarters collectively raises the quality, but Gauff looks like the player to beat. 58% reflects normal attrition at this stage, not her odds of losing."
+      "statement": "The NFL Sunday Ticket legal battle will conclude in a settlement within 18 months.",
+      "probability": 62,
+      "rationale": "The league prefers predictable outcomes over extended litigation. Settlement allows both sides to declare victory without years of courtroom exposure or binding antitrust precedent."
     },
     {
-      "statement": "The UNC investigation into Bill Belichick's program concludes within 60 days with findings requiring institutional penalties.",
-      "probability": 45,
-      "rationale": "Belichick's denial suggests confidence in his program's compliance, but the investigation's speed depends on scope. 60 days is tight for a thorough inquiry. Penalties are contingent on findings, not guaranteed. 45% reflects uncertainty on both timeline and outcome."
-    },
-    {
-      "statement": "Francesco Farioli's Porto draws or wins against Manchester City on Tuesday.",
+      "statement": "Mac Allister will leave Liverpool in the January transfer window.",
       "probability": 28,
-      "rationale": "City is heavy favorites by quality and resources. Porto is massive underdogs entering their Champions League debut. 28% reflects realistic upset potential in a single match, where tactical surprises or individual brilliance can shift results, but City's structural dominance makes them strong favorites."
+      "rationale": "His public unhappiness signals real fracture, but Liverpool rarely sells midfielders mid-season to domestic rivals. A summer exit is likelier if the relationship continues deteriorating, but January moves are uncommon unless a huge fee arrives."
+    },
+    {
+      "statement": "Peter Schrager's new ESPN show will average above 1 million viewers per episode in its first month.",
+      "probability": 45,
+      "rationale": "ESPN's authenticity slate has found audiences, and Schrager's profile is solid, but new show launches rarely hit seven-figure averages immediately. Success will depend on platform (TV vs. streaming) and promotional support."
     }
   ],
   "injuries": [
     {
-      "player": "Steve Belichick",
-      "team": "North Carolina Football",
-      "league": "OTHER",
-      "position": "Staff",
-      "status": "OUT",
-      "injury": "Medical condition (unspecified)",
-      "timeline": "On medical leave",
-      "source": "The Guardian",
-      "impact": "UNC football lost a coaching staff member during an ongoing investigation into program conduct, reducing depth during early-season preparation.",
-      "storyIndex": 10
+      "player": "Patrick Mahomes",
+      "team": "Kansas City Chiefs",
+      "league": "NFL",
+      "position": "QB",
+      "status": "RETURNING",
+      "injury": "Unspecified injury",
+      "timeline": null,
+      "source": "CBS Sports",
+      "impact": "Mahomes returns for week 1 after injury, restoring the Chiefs' starting quarterback position.",
+      "storyIndex": 13
     }
   ],
   "picks": [
@@ -6137,38 +6133,38 @@
       "_pendingGrade": true
     }
   ],
-  "updatedAt": "2026-04-23T18:45:00Z",
+  "updatedAt": "2026-04-23T00:00:00Z",
   "highlights": [
     {
       "league": "NBA",
       "title": "Spida’s 30th birthday calls for some dancing 🕺",
       "videoId": "2ybJjUnMCE8",
       "thumbnail": "https://img.youtube.com/vi/2ybJjUnMCE8/mqdefault.jpg",
-      "timeAgo": "14h ago",
+      "timeAgo": "21h ago",
       "isFallback": false
     },
     {
       "league": "NFL",
-      "title": "Pats-Seahawks Preview + Tua Tagovailoa named Falcons Week 1 starter | SportsCenter",
-      "videoId": "_CrRMZxdDoY",
-      "thumbnail": "https://img.youtube.com/vi/_CrRMZxdDoY/mqdefault.jpg",
-      "timeAgo": "9h ago",
+      "title": "The BIGGEST Lineup Decisions You MUST Get Right for Week 1 | Fantasy Focus",
+      "videoId": "b6Fo8pDk_xg",
+      "thumbnail": "https://img.youtube.com/vi/b6Fo8pDk_xg/mqdefault.jpg",
+      "timeAgo": "2h ago",
       "isFallback": false
     },
     {
       "league": "MLB",
-      "title": "BLUE JAYS vs. ATHLETICS: Official Full Game Highlights (September 7) | 2026 MLB Season",
-      "videoId": "6zsboTU7kaQ",
-      "thumbnail": "https://img.youtube.com/vi/6zsboTU7kaQ/mqdefault.jpg",
+      "title": "Aaron Judge is set to come off the IL for the Yankees and MUCH MORE!",
+      "videoId": "ZLQd9vmhAbc",
+      "thumbnail": "https://img.youtube.com/vi/ZLQd9vmhAbc/mqdefault.jpg",
       "timeAgo": "2h ago",
       "isFallback": false
     },
     {
       "league": "NHL",
-      "title": "FULL REPLAY: Toronto moves past Round 1 | Maple Leafs @ Lightning | 2023 Stanley Cup Playoffs",
+      "title": "FULL REPLAY: Game 6 OT | Maple Leafs vs Lightning | 2023 Stanley Cup Playoffs",
       "videoId": "RrfcpMf2Zls",
       "thumbnail": "https://img.youtube.com/vi/RrfcpMf2Zls/mqdefault.jpg",
-      "timeAgo": "9h ago",
+      "timeAgo": "16h ago",
       "isFallback": false
     },
     {
@@ -6181,14 +6177,118 @@
     },
     {
       "league": "SOCCER",
-      "title": "Viní Jr. and the ref at fulltime of Real Madrid’s loss to Betis 👀",
-      "videoId": "czuYmv1ccdE",
-      "thumbnail": "https://img.youtube.com/vi/czuYmv1ccdE/mqdefault.jpg",
-      "timeAgo": "6h ago",
+      "title": "Raphinha’s work rate is ‘CONTAGIOUS!’ - Herculez Gomez | Futbol Americas",
+      "videoId": "LxQyZX9fFd8",
+      "thumbnail": "https://img.youtube.com/vi/LxQyZX9fFd8/mqdefault.jpg",
+      "timeAgo": "Just now",
       "isFallback": false
     }
   ],
   "reels": [
+    {
+      "league": "NFL",
+      "title": "Chris Canty on why the Cowboys have to get out to a fast start 👀",
+      "videoId": "9mHlUEslp1Y",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-09-08T14:47:39+00:00",
+      "link": "https://www.youtube.com/watch?v=9mHlUEslp1Y"
+    },
+    {
+      "league": "SOCCER",
+      "title": "Raphinha’s work rate is ‘CONTAGIOUS!’ - Herculez Gomez | Futbol Americas",
+      "videoId": "LxQyZX9fFd8",
+      "author": "ESPN FC",
+      "pubDate": "2026-09-08T14:45:05+00:00",
+      "link": "https://www.youtube.com/watch?v=LxQyZX9fFd8"
+    },
+    {
+      "league": "NFL",
+      "title": "Eli Manning weighs in on Patrick Mahomes’ return from injury 🏈 | Get Up",
+      "videoId": "vt9GeRJkAFI",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-09-08T14:36:55+00:00",
+      "link": "https://www.youtube.com/watch?v=vt9GeRJkAFI"
+    },
+    {
+      "league": "NFL",
+      "title": "Will the Seahawks be able to repeat? 🤔",
+      "videoId": "dtalu1peHZU",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-09-08T14:34:09+00:00",
+      "link": "https://www.youtube.com/watch?v=dtalu1peHZU"
+    },
+    {
+      "league": "NFL",
+      "title": "What's at stake for Joe Burrow? 🤔 How will Patrick Mahomes' injury impact the Chiefs? 🧐 | Get Up",
+      "videoId": "JMOdaM-jsUs",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-09-08T14:33:43+00:00",
+      "link": "https://www.youtube.com/watch?v=JMOdaM-jsUs"
+    },
+    {
+      "league": "NFL",
+      "title": "Big challenge for NFL QBs 😂",
+      "videoId": "onJS7NsjE7U",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-09-08T14:18:35+00:00",
+      "link": "https://www.youtube.com/watch?v=onJS7NsjE7U"
+    },
+    {
+      "league": "NFL",
+      "title": "Eli Manning reveals what he’ll be watching when Patrick Mahomes takes on the Broncos 👀",
+      "videoId": "SIM9W2xVU_U",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-09-08T14:10:30+00:00",
+      "link": "https://www.youtube.com/watch?v=SIM9W2xVU_U"
+    },
+    {
+      "league": "NFL",
+      "title": "No Chalk! Seth Walder's Super Bowl LXI Predictions | The Biggest Game",
+      "videoId": "zVUExlDHcUI",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-09-08T14:00:04+00:00",
+      "link": "https://www.youtube.com/watch?v=zVUExlDHcUI"
+    },
+    {
+      "league": "MLB",
+      "title": "Aaron Judge is set to come off the IL for the Yankees and MUCH MORE!",
+      "videoId": "ZLQd9vmhAbc",
+      "author": "MLB",
+      "pubDate": "2026-09-08T13:00:32+00:00",
+      "link": "https://www.youtube.com/watch?v=ZLQd9vmhAbc"
+    },
+    {
+      "league": "NFL",
+      "title": "The BIGGEST Lineup Decisions You MUST Get Right for Week 1 | Fantasy Focus",
+      "videoId": "b6Fo8pDk_xg",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-09-08T12:39:21+00:00",
+      "link": "https://www.youtube.com/watch?v=b6Fo8pDk_xg"
+    },
+    {
+      "league": "SOCCER",
+      "title": "Erling Haaland loves Antoine Semenyo 😂❤️",
+      "videoId": "x4xmiShpYZs",
+      "author": "ESPN FC",
+      "pubDate": "2026-09-08T12:20:49+00:00",
+      "link": "https://www.youtube.com/watch?v=x4xmiShpYZs"
+    },
+    {
+      "league": "MLB",
+      "title": "Top 5 MLB Plays RANKED from 9/7/26! (Jackson Chourio's FANTASTIC game-ending catch and MORE!)",
+      "videoId": "ueaag7Besh4",
+      "author": "MLB",
+      "pubDate": "2026-09-08T11:00:24+00:00",
+      "link": "https://www.youtube.com/watch?v=ueaag7Besh4"
+    },
+    {
+      "league": "MLB",
+      "title": "Highlights from ALL GAMES on 9/7 (Schwarber hits 43rd HR, Luzardo fans 12 in shutout and MORE!)",
+      "videoId": "K_X9hCHnoVo",
+      "author": "MLB",
+      "pubDate": "2026-09-08T10:00:30+00:00",
+      "link": "https://www.youtube.com/watch?v=K_X9hCHnoVo"
+    },
     {
       "league": "MLB",
       "title": "BLUE JAYS vs. ATHLETICS: Official Full Game Highlights (September 7) | 2026 MLB Season",
@@ -6230,14 +6330,6 @@
       "link": "https://www.youtube.com/watch?v=ZJeBma2fc_c"
     },
     {
-      "league": "MLB",
-      "title": "Teoscar Hernández DEMOLISHES a three-run home run for the Dodgers! 💥 (112.6mph off the bat! 😤)",
-      "videoId": "-_dQ5DmJ1xA",
-      "author": "MLB",
-      "pubDate": "2026-09-08T02:56:02+00:00",
-      "link": "https://www.youtube.com/watch?v=-_dQ5DmJ1xA"
-    },
-    {
       "league": "SOCCER",
       "title": "Viní Jr. and the ref at fulltime of Real Madrid’s loss to Betis 👀",
       "videoId": "czuYmv1ccdE",
@@ -6254,22 +6346,6 @@
       "link": "https://www.youtube.com/watch?v=vCIM4TMEXCo"
     },
     {
-      "league": "MLB",
-      "title": "WHAT A CATCH! 🤩",
-      "videoId": "x1w0kKhuFtw",
-      "author": "MLB",
-      "pubDate": "2026-09-08T01:49:18+00:00",
-      "link": "https://www.youtube.com/watch?v=x1w0kKhuFtw"
-    },
-    {
-      "league": "MLB",
-      "title": "NATIONALS vs. PADRES: Official Full Game Highlights (September 7) | 2026 MLB Season",
-      "videoId": "s0_0E_5DGm8",
-      "author": "MLB",
-      "pubDate": "2026-09-08T00:08:33+00:00",
-      "link": "https://www.youtube.com/watch?v=s0_0E_5DGm8"
-    },
-    {
       "league": "SOCCER",
       "title": "Champions League PREDICTIONS 🍿 + Premier League and Serie A storylines | ESPN FC",
       "videoId": "Wd7cA2cKW9M",
@@ -6279,7 +6355,7 @@
     },
     {
       "league": "NHL",
-      "title": "FULL REPLAY: Toronto moves past Round 1 | Maple Leafs @ Lightning | 2023 Stanley Cup Playoffs",
+      "title": "FULL REPLAY: Game 6 OT | Maple Leafs vs Lightning | 2023 Stanley Cup Playoffs",
       "videoId": "RrfcpMf2Zls",
       "author": "NHL",
       "pubDate": "2026-09-07T23:00:06+00:00",
@@ -6292,14 +6368,6 @@
       "author": "ESPN FC",
       "pubDate": "2026-09-07T22:35:56+00:00",
       "link": "https://www.youtube.com/watch?v=9r7UyuUzewU"
-    },
-    {
-      "league": "NFL",
-      "title": "Pats-Seahawks Preview + Tua Tagovailoa named Falcons Week 1 starter | SportsCenter",
-      "videoId": "_CrRMZxdDoY",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-09-07T22:19:50+00:00",
-      "link": "https://www.youtube.com/watch?v=_CrRMZxdDoY"
     },
     {
       "league": "SOCCER",
@@ -6318,38 +6386,6 @@
       "link": "https://www.youtube.com/watch?v=EXBahVblu-A"
     },
     {
-      "league": "SOCCER",
-      "title": "LATE WINNER 🤯 Elche vs. Real Sociedad | LALIGA Highlights | ESPN FC",
-      "videoId": "4Sgi6wmKi88",
-      "author": "ESPN FC",
-      "pubDate": "2026-09-07T21:47:32+00:00",
-      "link": "https://www.youtube.com/watch?v=4Sgi6wmKi88"
-    },
-    {
-      "league": "SOCCER",
-      "title": "Biggest takeaways from Arsenal vs. Chelsea 👀 + Premier League predictions | ESPN FC",
-      "videoId": "Yri1NG1UBTA",
-      "author": "ESPN FC",
-      "pubDate": "2026-09-07T21:46:29+00:00",
-      "link": "https://www.youtube.com/watch?v=Yri1NG1UBTA"
-    },
-    {
-      "league": "NFL",
-      "title": "QBs facing UNCERTAIN futures + Les Snead, Joe Hortiz preview BIG seasons for Rams &amp; Chargers",
-      "videoId": "IpyPeFT3lyk",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-09-07T20:45:51+00:00",
-      "link": "https://www.youtube.com/watch?v=IpyPeFT3lyk"
-    },
-    {
-      "league": "NFL",
-      "title": "Dan Orlovsky’s BIGGEST QUESTION about the 49ers Week 1 🤔 | The Pat McAfee Show",
-      "videoId": "PdU3zw2kXSA",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-09-07T18:43:56+00:00",
-      "link": "https://www.youtube.com/watch?v=PdU3zw2kXSA"
-    },
-    {
       "league": "NBA",
       "title": "Spida’s 30th birthday calls for some dancing 🕺",
       "videoId": "2ybJjUnMCE8",
@@ -6358,28 +6394,12 @@
       "link": "https://www.youtube.com/watch?v=2ybJjUnMCE8"
     },
     {
-      "league": "NFL",
-      "title": "Schefty reveals Falcons didn't 'feel comfortable' making Michael Penix Jr. QB1 👀 | Pat McAfee Show",
-      "videoId": "zoyuthg0ZsE",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-09-07T17:31:02+00:00",
-      "link": "https://www.youtube.com/watch?v=zoyuthg0ZsE"
-    },
-    {
       "league": "NHL",
       "title": "THROWBACK: Perry completes epic Ducks' comeback",
       "videoId": "LwHZS5W8UPk",
       "author": "NHL",
       "pubDate": "2026-09-07T17:00:24+00:00",
       "link": "https://www.youtube.com/watch?v=LwHZS5W8UPk"
-    },
-    {
-      "league": "NFL",
-      "title": "This is how Raheem Morris celebrated his 50th birthday ✈️",
-      "videoId": "QxZKWZB0ifk",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-09-07T16:49:02+00:00",
-      "link": "https://www.youtube.com/watch?v=QxZKWZB0ifk"
     },
     {
       "league": "NBA",
@@ -6420,30 +6440,6 @@
       "author": "NBA",
       "pubDate": "2026-09-07T13:00:37+00:00",
       "link": "https://www.youtube.com/watch?v=E03UVgs1_UE"
-    },
-    {
-      "league": "NFL",
-      "title": "The Falcons play the Steelers in Week 1 🏈",
-      "videoId": "z5kwagYV5bQ",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-09-07T12:35:33+00:00",
-      "link": "https://www.youtube.com/watch?v=z5kwagYV5bQ"
-    },
-    {
-      "league": "NFL",
-      "title": "🏈Mel Kiper's College &amp; NFL CRASH-COURSES for 2026-27 w/Field Yates &amp; Greeny! | First Draft🏈",
-      "videoId": "MXVtX_AsYOU",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-09-07T11:00:40+00:00",
-      "link": "https://www.youtube.com/watch?v=MXVtX_AsYOU"
-    },
-    {
-      "league": "NFL",
-      "title": "It’s football season 😂 (via victoria.cardona/TT)",
-      "videoId": "1WKtUYOcuIc",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-09-07T01:28:44+00:00",
-      "link": "https://www.youtube.com/watch?v=1WKtUYOcuIc"
     },
     {
       "league": "NHL",
