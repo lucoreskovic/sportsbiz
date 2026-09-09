@@ -1,81 +1,73 @@
 {
   "clusters": [
     {
-      "category": "media",
-      "importance": 8,
-      "leadHeadline": "Ben Shelton wins on a night of vomit, sweat and home hopes at US Open",
+      "category": "leagues",
+      "importance": 9,
+      "leadHeadline": "US Open 2026 quarter-finals: Gauff fightback stuns Andreeva, Rybakina ends Zheng run – live",
       "leadSource": "The Guardian · just now",
-      "leadUrl": "https://www.theguardian.com/sport/2026/sep/09/ben-shelton-carlos-alcaraz-us-open",
-      "summary": "<cite index=\"3-4\">Ben Shelton defeated Carlos Alcaraz 6-7 (5), 6-1, 6-3, 1-6, 7-6 (7)</cite> in <cite index=\"3-5\">the latest finish in US Open tournament history at 3:33 a.m.</cite> on Wednesday. <cite index=\"1-8\">Shelton advances to the US Open semifinals, setting up an all-American semifinal against Frances Tiafoe—guaranteeing an American will have a chance on Sunday to snap the 23-year drought since Andy Roddick won the US Open in 2003.</cite>",
-      "article": "<cite index=\"3-4\">Ben Shelton defeated defending champion Carlos Alcaraz 6-7 (5), 6-1, 6-3, 1-6, 7-6 (7) in the US Open quarterfinal at Arthur Ashe Stadium</cite>, earning the biggest win of his career in <cite index=\"18-23\">a four-hour, 28-minute clash that ended at 3:33 a.m.—the latest finish in US Open history.</cite>\n\n<cite index=\"8-3\">Alcaraz vomited into his towel before the fifth set</cite>, a visible sign of the match's physical toll. <cite index=\"18-23\">Shelton, the No. 8 seed, ended Alcaraz' 18-match winning streak in Grand Slam tournaments.</cite>\n\n<cite index=\"2-15,2-10\">\"It was a war,\" Shelton said. \"I am proud of myself, how I fought.\"</cite> <cite index=\"18-12,18-14,18-15\">Alcaraz said \"Shelton played a very complete, very mature match\" and that \"physically, he's a beast. It seemed like he had no weaknesses whatsoever.\"</cite>\n\n<cite index=\"1-8\">Shelton now faces fellow American Frances Tiafoe in the semifinals, guaranteeing that an American will have a chance to snap the 23-year drought since Andy Roddick won the title at the 2003 US Open.</cite> <cite index=\"10-3\">Shelton became the first American to beat the defending US Open champion in five sets since 18-year-old Peter Sampras defeated Mats Wilander in 1989.</cite>",
-      "tweets": [
-        {
-          "url": "https://twitter.com/usopen/status/2097589395075293389",
-          "html": "<blockquote class=\"twitter-tweet\" data-dnt=\"true\" data-theme=\"dark\"><p>BEN SHELTON DEFEATS CARLOS ALCARAZ IN AN ALL-TIMER! https://t.co/ja17W0A6GT</p>&mdash; US Open Tennis (@usopen) <a href=\"https://twitter.com/usopen/status/2097589395075293389\">September 9, 2026</a></blockquote>",
-          "author_name": "US Open Tennis",
-          "author_url": "https://twitter.com/usopen",
-          "dateMs": 1788939257000
-        }
-      ]
-    },
-    {
-      "category": "media",
-      "importance": 7,
-      "leadHeadline": "Napoli v Arsenal: Champions League – live",
-      "leadSource": "The Guardian · just now",
-      "leadUrl": "https://www.theguardian.com/football/live/2026/sep/09/napoli-v-arsenal-champions-league-live-updates",
-      "summary": "Arsenal traveled to Naples for a Champions League group-stage match kicking off at 8pm BST, with both clubs aiming to make a statement in Europe's premier club competition. The fixture carries significant weight for both sides' continental ambitions.",
-      "article": "Arsenal and Napoli met in a Champions League fixture Tuesday evening at the San Paolo Stadium in a match carrying weight for both sides' European campaigns. Arsenal, perennial contenders in the Champions League, sought to prove their mettle against a Napoli side that has shown inconsistency domestically but remains dangerous on the continental stage.\n\nThe match was contested under bright lights in one of Europe's most atmospheric venues, where home advantage typically plays a decisive role. Napoli's supporters create an environment that challenges visiting teams, and Arsenal's ability to navigate that pressure would say something about their readiness for a deep European run.\n\nBoth clubs carry expectations into their Champions League campaigns. Arsenal continues to build on recent seasons of strengthened European performance, while Napoli seeks to recapture the form that made them Serie A title contenders in prior years. The group stage remains fluid, and three points here would provide crucial momentum as both teams jockey for position.",
-      "tweets": []
-    },
-    {
-      "category": "media",
-      "importance": 7,
-      "leadHeadline": "England demolish Pakistan to take charge of Test",
-      "leadSource": "BBC Sport · just now",
-      "leadUrl": "https://www.bbc.co.uk/sport/cricket/articles/cj06yv2n8mno?at_medium=RSS&amp;at_campaign=rss",
-      "summary": "England routed Pakistan's batting on day one of the third Test at Edgbaston, moving toward a potential 3-0 series sweep. England's bowling attack dismantled Pakistan in both innings to seize command of the match.",
-      "article": "England's bowling attack demolished Pakistan's batting on the opening day of the third Test at Edgbaston, giving the home side overwhelming command and positioning them for a decisive victory that would complete a 3-0 series whitewash.\n\nPakistan's batting unit proved unable to cope with England's pace and precision. Batters fell in succession, unable to build partnerships or establish any sustained resistance. The dismissals came quickly, suggesting a gulf in quality between the two sides' respective batting lineups on a surface favoring England's seamers.\n\nEngland's control was near-total on day one. Pakistan's second-innings collapse mirrored their first, offering little hope of a turnaround. A 3-0 sweep would represent dominance of the clearest kind, a statement of superiority that extends beyond a single match or even a series into a broader assertion of England's current standing in Test cricket.\n\nWith Pakistan's batting in tatters after a single day, England's bowling attack has done the bulk of the work required for victory. The question now centers on how quickly England will convert its advantage into the win.",
+      "leadUrl": "https://www.theguardian.com/sport/live/2026/sep/09/us-open-tennis-2026-quarter-finals-rybakina-zheng-andreeva-gauff-blockx-khachanov-live",
+      "summary": "<cite index=\"17-1\">Coco Gauff saved two match points in the second set tiebreaker to beat Mirra Andreeva 2-6, 7-6 (7), 6-2</cite>. <cite index=\"4-6,4-7\">Elena Rybakina edged Zheng Qinwen 3-6, 6-1, 6-4, guaranteeing she will become No. 1 in the WTA rankings</cite>.",
+      "article": "<cite index=\"17-1\">Coco Gauff saved two match points in the second set before rallying to beat Mirra Andreeva 2-6, 7-6 (7), 6-2 in the US Open quarterfinals Wednesday</cite>, advancing to the semifinals at the 2026 US Open.\n\n<cite index=\"4-3,4-4\">Andreeva, the French Open champion, won the first seven points and took the first set in 26 minutes before the No. 4-seeded Gauff regrouped</cite>. <cite index=\"4-5\">\"I think the motto of the match is just to fight,\" Gauff said</cite> after the match.\n\nIn the other women's quarterfinal, <cite index=\"4-6,4-7\">Rybakina edged Zheng Qinwen 3-6, 6-1, 6-4, guaranteeing she will become No. 1 in the WTA rankings</cite>. <cite index=\"4-10,4-11\">Rybakina will end Sabalenka's 99-week stay at No. 1 when the new rankings are released Monday</cite>.\n\n<cite index=\"4-12,4-13\">\"It's just a number right now and of course I'm in the semis so my goal is to win the tournament,\" Rybakina said. \"It's an amazing achievement, but you know how quick everything can change in tennis, ranking-wise, during the match, so I feel like I just need to focus on my game, try to recover and enjoy tomorrow.\"</cite>\n\n<cite index=\"17-4,17-5,17-6\">In the semifinals, the fourth-seeded Gauff will face No. 2 Elena Rybakina, who staged a comeback of her own in edging Zheng Qinwen earlier Wednesday, a win that guaranteed she will become No. 1 in the WTA rankings</cite>.",
       "tweets": []
     },
     {
       "category": "leagues",
-      "importance": 6,
-      "leadHeadline": "SEC's LSU Threat Puts Conference Autonomy to the Test",
-      "leadSource": "Sportico · 3h ago",
-      "leadUrl": "https://www.sportico.com/law/analysis/2026/ncaa-conferences-power-struggle-lsu-texas-tech-1234944285/",
-      "summary": "The SEC is suing LSU and threatening to vote the Tigers out of the conference over the school's player-addition practices, marking a dramatic escalation in college sports' governing chaos. The suit reflects conferences' willingness to litigate against their own members to enforce order.",
-      "article": "The Southeastern Conference has escalated its power struggle with Louisiana State University by filing suit and threatening expulsion over LSU's approach to adding players, a move that underscores how fragmented college sports governance has become even within individual conferences.\n\nThe SEC's threat to vote LSU out of the conference represents one of the starkest examples yet of a conference using its nuclear option against a sitting member. Rather than rely on NCAA enforcement, which has become neutered and fragmented, the SEC is taking direct action to police what it views as LSU's violations of conference standards.\n\nThe move comes as Congress weighs whether to grant the NCAA a limited antitrust exception aimed at bringing order to the chaos of player transfers, name-image-and-likeness deals, and the broader free-agency environment now gripping college sports. The SEC's litigation stance suggests conferences believe they cannot wait for Washington to act and instead will enforce their own rules through legal pressure and the threat of expulsion.\n\nFor LSU, the consequences are severe. Expulsion would sever the school's access to SEC revenue sharing, media rights proceeds, and the conference's bowl access. The Tigers have limited leverage against a conference with 15 other members and the collective power to reshape the landscape unilaterally. The case will test whether conference autonomy still carries weight in the era of athlete compensation and portal transfer freedom.",
+      "importance": 8,
+      "leadHeadline": "LIV Golf Secures Initial Court Approval as Bankruptcy Case Begins",
+      "leadSource": "Sportico · 1h ago",
+      "leadUrl": "https://www.sportico.com/leagues/golf/2026/liv-golf-bankruptcy-hearing-initial-1234944492/",
+      "summary": "LIV Golf's 57 entities entered bankruptcy proceedings with a restructuring support agreement in place, with attorneys telling the court the circuit has meaningful assets and a committed revenue path. The move comes as the PIF's exit costs and player contract details surface.",
+      "article": "LIV Golf secured initial court approval Wednesday to enter bankruptcy proceedings, moving the embattled global golf circuit one step closer to restructuring. The company's 57 entities filed Chapter 11 with what the circuit described as meaningful assets, committed revenue, and a viable path forward.\n\nAttorney Matthew Williams of Gibson Dunn, representing LIV Golf, told the U.S. bankruptcy court that the debtors did not arrive in crisis. \"These debtors did not come into this case in a free fall,\" he said, signaling confidence in the reorganization plan.\n\nThe bankruptcy filing has already begun revealing financial details previously under wraps. Front Office Sports reported that the Public Investment Fund's exit from the venture will cost approximately $495 million, with player contract specifics now part of the court record. This marks a sharp turn for the Saudi-backed circuit, which launched in 2022 with massive purses and player guarantees.\n\nThe restructuring comes as LIV attempts to chart a future that may include a merger with the PGA Tour. The court's approval of the initial bankruptcy framework clears regulatory hurdles and establishes a formal process for creditor negotiations and asset valuation, setting a timetable for the circuit's next steps.",
       "tweets": []
     },
     {
       "category": "media",
-      "importance": 6,
-      "leadHeadline": "Jeff Bezos's Liverpool–Prime Video Entanglement Is New For English Soccer",
-      "leadSource": "Front Office Sports · 2h ago",
-      "leadUrl": "https://frontofficesports.com/article/bezos-liverpool-champions-league-prime-video/",
-      "summary": "Jeff Bezos's Prime Video holds Tuesday night Champions League broadcasting rights in the UK, marking a new intersection of tech billionaire ownership and media rights in European soccer. The arrangement brings a major streaming platform into live soccer distribution.",
-      "article": "Prime Video, the streaming service owned by Jeff Bezos, now controls Champions League broadcast rights for Tuesday night matches in the United Kingdom, a development that ties together the streaming wars, European soccer's media fragmentation, and billionaire ownership in ways that reshape how fans access the continent's top club competition.\n\nThe arrangement reflects the broader trend of tech platforms and billionaire investors carving out exclusive soccer rights packages. Where traditional broadcasters once held monopolies on European club football, services like Prime Video now compete for premium slots in Champions League schedules. Tuesday nights, typically a secondary slot in the Champions League rotation, nevertheless represent significant viewership and revenue.\n\nFor Liverpool and other Premier League clubs competing in the Champions League, the Prime Video deal means their European matches will be distributed through a streaming-first model rather than traditional television. Fans accustomed to watching on Sky Sports or BT Sport must now navigate yet another subscription to follow their teams in continental competition.\n\nThe Bezos ownership stake in Liverpool and his company's media rights to broadcast European soccer creates a novel dynamic: a tech billionaire with a direct financial interest in a club now owns the platform distributing that club's Champions League matches. Whether regulators in the UK or UEFA view this as a conflict of interest remains to be determined, but it signals how consolidation of sports ownership and media rights is concentrating power in the hands of a small number of megawealthy tech figures.",
-      "tweets": []
-    },
-    {
-      "category": "media",
-      "importance": 5,
-      "leadHeadline": "College Football QB Power Rankings: Darian Mensah surges to No. 1 after record-setting Week 1",
-      "leadSource": "CBS Sports · just now",
-      "leadUrl": "https://www.cbssports.com/college-football/news/college-football-qb-power-rankings-darian-mensah-miami/",
-      "summary": "Miami quarterback Darian Mensah vaulted to the top of CBS Sports' QB power rankings and Heisman Trophy odds following a record-setting performance in Week 1 of the 2026 college football season. His opener has immediately reshaped the early-season narrative.",
-      "article": "Darian Mensah, Miami's quarterback, moved to the top of CBS Sports' college football QB power rankings after a record-setting debut in Week 1, also climbing to the front of the Heisman Trophy odds. The rapid ascent reflects how a single dominant performance can reset expectations and establish a player as a legitimate national title contender.\n\nMensah's Week 1 output was historic enough to warrant immediate recognition at the top of national rankings. Record-setting performances in college football's opening week typically signal a player operating at an elite level and facing opponents that couldn't match his physical tools or decision-making. Miami's schedule and strength of record will determine whether Mensah sustains this level, but the opening statement was unmistakable.\n\nThe shift in Heisman odds reflects how early-season performance drives betting and media narrative before a broader sample of games clarifies who belongs in the conversation. Mensah now carries the weight of expectation into subsequent weeks. If he sustains this level through nonconference play and into ACC competition, the Heisman narrative will tighten around him. If performance drops, the same voters who elevated him to No. 1 will move on to the next breakout start.\n\nMensah's rise also resets Miami's trajectory. A top QB performance suggests the Hurricanes have the talent to compete for a playoff spot, shifting how the program is perceived entering the season.",
-      "tweets": []
-    },
-    {
-      "category": "media",
-      "importance": 4,
+      "importance": 7,
       "leadHeadline": "CFP to open talks with ESPN in prelude to 24-team expansion",
-      "leadSource": "Sports Media Watch · 14h ago",
+      "leadSource": "Sports Media Watch · 17h ago",
       "leadUrl": "https://www.sportsmediawatch.com/2026/09/cfp-espn-talks-24-team-expansion/",
-      "summary": "The College Football Playoff has announced negotiations with ESPN about expanding from 12 teams to 24, a move that would reshape the playoff format and likely increase media revenue significantly. The talks represent the latest shift in college football's governance structure.",
-      "article": "The College Football Playoff announced it will begin negotiations with ESPN about expanding the playoff format to 24 teams, a development that signals the CFP's openness to structural change even as the 12-team model completes its second year. ESPN, the league's rights holder, will be central to defining what a larger format looks like and how it might generate additional broadcast windows and revenue.\n\nThe 24-team expansion has been discussed in various forms within college football circles, but a formal announcement that the CFP intends to negotiate the format with its media partner suggests a serious path forward. A 24-team playoff would require significant changes to the schedule, the regular season's impact on qualification, and the number of games played in December and January.\n\nExpansion to 24 would almost certainly increase total playoff revenue by adding more rounds and more teams with playoff revenue to distribute among conferences. It would also likely reduce the regular season's singular importance, allowing more teams to qualify even with losses and potentially changing how strength of schedule is valued by computers and committee members.\n\nThe timeline for implementation remains unclear, but formal ESPN discussions suggest a 2027 or 2028 start date is possible. Other conferences would need to agree to the format change, and the impact on bowl games and New Year's schedule architecture would require broad coordination.",
+      "summary": "The College Football Playoff announced it will negotiate with rights partner ESPN about expanding from 12 to 24 teams, describing the talks as an opportunity to reshape the postseason landscape. The move signals major structural change coming to college football.",
+      "article": "The College Football Playoff announced Tuesday that it will begin formal negotiations with ESPN about a potential expansion to a 24-team field. The talks represent a significant step toward restructuring one of college sports' most high-profile competitions, with ESPN the playoff's existing rights partner.\n\nThe CFP described the negotiations as an opportunity to reshape the postseason format, though no timeline was announced for a decision. The move comes against the backdrop of ongoing conference realignment and the broader chaos in college sports governance.\n\nExpansion from the current 12-team format to 24 would materially alter playoff economics, media rights values, and team participation. It would also likely require changes to the traditional bowl ecosystem and the regular season schedule.\n\nThe announcement reflects Congress's ongoing consideration of granting the NCAA a limited antitrust exception to bring order to college sports. As the SEC, Big Ten, and other conferences navigate their own autonomy questions, the CFP's expansion deliberation signals an industry trying to stabilize itself at the highest level. ESPN, as both the incumbent media rights holder and the negotiating partner for expansion terms, holds considerable leverage in shaping what comes next.",
+      "tweets": []
+    },
+    {
+      "category": "media",
+      "importance": 7,
+      "leadHeadline": "Ødegaard stuns Napoli as Arsenal make winning start in Champions League",
+      "leadSource": "The Guardian · just now",
+      "leadUrl": "https://www.theguardian.com/football/2026/sep/09/napoli-arsenal-champions-league-match-report",
+      "summary": "Martin Ødegaard scored the decisive goal as Arsenal defeated Napoli in their Champions League opener, continuing their offensive form from last season's record-breaking campaign. The Gunners overcame travel delays to begin defense of their standing.",
+      "article": "Arsenal began their 2026-27 Champions League campaign with a hard-fought win over Napoli at the San Siro, with Martin Ødegaard providing the crucial strike. The goal extended Ødegaard's recent goalscoring form and gave Mikel Arteta's side three points in their opening European match.\n\nThe victory came despite complications: Arsenal and hundreds of traveling supporters faced significant travel delays on Tuesday that threatened to disrupt the team's preparation. Despite those obstacles, the Gunners managed to overcome Napoli's resistance and secure a result that positions them well in their group.\n\nØdegaard's finishing reflected the attacking threat Arsenal displayed throughout a record-breaking campaign last season. The midfielder's ability to contribute goals from midfield has become central to Arteta's tactical approach.\n\nThe win marks Arsenal's strong early positioning in a new European campaign, following the club's notable performances in last year's Champions League. With the new expanded 36-team league phase now in effect, early victories carry weight in determining group standing and knockout seeding.",
+      "tweets": []
+    },
+    {
+      "category": "media",
+      "importance": 7,
+      "leadHeadline": "Liverpool come from behind to beat Atletico Madrid",
+      "leadSource": "BBC Sport · just now",
+      "leadUrl": "https://www.bbc.co.uk/sport/football/videos/ce874m9ld2mo?at_medium=RSS&amp;at_campaign=rss",
+      "summary": "Alexis Mac Allister scored an emphatic late winner as Liverpool defeated Atletico Madrid at Anfield in their Champions League opener. The victory marked a successful start to Liverpool's European campaign.",
+      "article": "Liverpool began their Champions League defense with a comeback victory over Atletico Madrid at Anfield, with Alexis Mac Allister delivering the decisive blow. Mac Allister's first-time finish from the edge of the box past goalkeeper Jan Oblak gave Liverpool a win in what proved a tight contest.\n\nThe midfielder's brilliant strike came as Liverpool mounted a second-half push against a disciplined Atletico side. Mac Allister's ability to conjure a moment of quality in transition finishing has become a hallmark of his play since joining the club.\n\nThe win launches Liverpool's campaign in the expanded 36-team Champions League league phase with maximum points. Early victories in this new format carry outsized importance for group positioning and knockout seeding. Liverpool's comeback mentality on a domestic stage has translated into European competition, where the club aims to contend for continental honors.",
+      "tweets": []
+    },
+    {
+      "category": "revenue",
+      "importance": 5,
+      "leadHeadline": "LIV Golf, Netflix, PWHL and more",
+      "leadSource": "Sports Media Watch · 2h ago",
+      "leadUrl": "https://www.sportsmediawatch.com/2026/09/liv-golf-bankruptcy-netflix-andres-cantor-pwhl-media-rights-u-s/",
+      "summary": "Netflix is closing in on a deal with broadcaster Andrés Cantor for FIFA Women's World Cup coverage, while the PWHL has agreed to a full-season U.S. media rights partnership. LIV Golf's bankruptcy filing continues reshaping sports media landscape.",
+      "article": "The sports media market saw multiple developments Wednesday as streaming platforms and traditional broadcasters compete for rights. Netflix is reportedly close to finalizing a deal with commentator Andrés Cantor for FIFA Women's World Cup coverage, marking the platform's expansion into international soccer broadcasting.\n\nThe Professional Women's Hockey League announced it has secured a full-season U.S. media rights partnership, strengthening the young league's distribution footprint. The deal provides continuity and investment as the PWHL enters a critical growth phase.\n\nLIV Golf's Chapter 11 filing, filed earlier in the day, adds another variable to the sports media equation. The bankruptcy framework and potential PGA Tour merger would reshape professional golf's media rights picture.\n\nThe flurry of announcements reflects broader competition in sports media, where platforms from Netflix to traditional broadcasters seek premium content. Global events like the Women's World Cup command streaming investment, while emerging leagues like the PWHL secure domestic rights packages to build audiences. The convergence of these deals signals a market in transition as traditional TV rights bundles fragment across digital platforms.",
+      "tweets": []
+    },
+    {
+      "category": "contracts",
+      "importance": 4,
+      "leadHeadline": "Lakers hiring Heat exec, filling second assistant GM role",
+      "leadSource": "NY Post Sports · just now",
+      "leadUrl": "https://nypost.com/2026/09/09/sports/lakers-hiring-eric-amsler-from-heat-as-second-assistant-gm/",
+      "summary": "The Lakers hired Eric Amsler, formerly a Miami Heat vice president of player personnel, as their second assistant general manager under Rob Pelinka. The hiring concludes a months-long search for the front office position.",
+      "article": "The Lakers have hired Eric Amsler, the Miami Heat's vice president of player personnel, as an assistant general manager, concluding a months-long search for the front office role. Amsler becomes Rob Pelinka's second assistant GM hire of the offseason.\n\nAmsley's appointment fills a key front office gap as the Lakers prepare for their offseason priorities. His background in player evaluation and personnel decisions with the Heat provides experience in a winning organization.\n\nThe hire reflects the Lakers' ongoing front office restructuring under Pelinka. With the assistant GM slot filled, the basketball operations department now has fuller depth for the upcoming draft and free agency period.",
       "tweets": []
     }
   ],
@@ -2399,82 +2391,70 @@
     ],
     "source": "espn"
   },
-  "deals": [
-    {
-      "type": "media_rights",
-      "parties": "Prime Video ⇄ UEFA Champions League",
-      "value_usd": null,
-      "term_years": null,
-      "league": "SOCCER",
-      "headline": "Prime Video secures UK Champions League Tuesday night broadcast rights",
-      "storyIndex": 0,
-      "blurb": "Amazon's Prime Video holds exclusive Champions League broadcast rights for Tuesday matches in the UK, expanding streaming platforms' reach into European soccer.",
-      "capturedAt": "2026-09-09T18:12:36.041Z"
-    }
-  ],
+  "deals": [],
   "ratings": [],
   "ticket_prices": [],
   "sidebar": [
     {
-      "headline": "Blue Jays aim for fourth consecutive series win in finale against Athletics",
-      "source": "Sportsnet · 5h ago",
-      "article": "Toronto seeks to extend its series win streak to four consecutive against Oakland in the finale of their matchup. The Blue Jays have built momentum through recent series results and will look to cap this stretch with another victory. Momentum matters in baseball's long season, and a fourth straight series win would position Toronto favorably heading into the next opponent. Oakland has struggled to maintain consistency, making Toronto a prohibitive favorite in this final contest."
+      "headline": "Matthew Golden viewed by NFL executives as breakout player in waiting",
+      "source": "NY Post Sports · just now",
+      "article": "Matthew Golden's stock has soared among NFL scouts and executives evaluating the 2026 draft class. The receiver or defensive prospect (position not specified in available details) is drawing increased attention as teams conduct pre-draft workouts and film reviews. Golden's physical tools and production metrics have positioned him as a potential breakout prospect whose draft value could shift significantly between now and April. His tape and measurables are generating buzz in pro personnel circles ahead of the formal draft process."
     },
     {
       "headline": "Why American Cole Caufield can't see himself leaving Montreal",
-      "source": "Sportsnet · 1h ago",
-      "article": "American hockey player Cole Caufield, a key piece of the Montreal Canadiens' forward group, has expressed an intention to remain with the franchise rather than request a trade south to the NHL's American markets. Caufield's commitment to Montreal stands out amid a broader trend of players seeking moves to U.S. markets. The Canadiens retain a core piece around which to build their offensive attack going forward."
+      "source": "Sportsnet · 4h ago",
+      "article": "Cole Caufield has made clear he's not looking to leave the Montreal Canadiens despite being an American player with ties to U.S.-based markets and teams. The elite winger has established himself as a core piece of Montreal's future and doesn't foresee requesting a trade south of the border, per Luke Fox. Caufield's commitment to the Habs reflects his comfort with the organization, the city, and his role as a franchise cornerstone. The American talent staying put with a Canadian team defies the expectation that U.S. players gravitate toward U.S. franchises."
     },
     {
-      "headline": "2026 AFC South season preview: Prediction, record, rosters, strengths and weaknesses",
-      "source": "NY Post Sports · just now",
-      "article": "The New York Post's Steve Serby previews the AFC South division for the 2026 season, examining each roster, their projected strengths and weaknesses, and offering win-loss predictions. The division features the Houston Texans, Jacksonville Jaguars, Tennessee Titans, and Indianapolis Colts. Serby's analysis breaks down quarterback play, defensive capabilities, and draft picks' integration into each team's 2026 outlook."
+      "headline": "SEC's LSU Threat Puts Conference Autonomy to the Test",
+      "source": "Sportico · 6h ago",
+      "article": "The SEC has sued LSU and threatened to vote the Tigers out over the school's player additions, signaling how conferences are willing to litigate against their own members to bring order to college sports chaos. Congress is weighing whether to grant the NCAA a limited antitrust exception to help stabilize the landscape. The internal conflict highlights the tension between conference autonomy and the desire to police rogue member decisions. LSU's moves have triggered regulatory and governance responses that could reshape how conferences police themselves and manage athlete compensation."
     },
     {
-      "headline": "Family feud goes global: Rams 49ers take their rivalry down under",
-      "source": "NY Post Sports · just now",
-      "article": "The Los Angeles Rams and San Francisco 49ers are taking their storied divisional rivalry to Australia, marking an international expansion of one of the NFL's most bitter geographical feuds. The teams have battled for California supremacy for decades, turning freeways and airports into symbolic battlegrounds. An international game amplifies their rivalry's reach and signals the NFL's broader push to globalize its marquee matchups."
+      "headline": "Where Do Dae'Quan Wright and Zxavian Harris Go Now?",
+      "source": "Front Office Sports · 1h ago",
+      "article": "Dae'Quan Wright and Zxavian Harris may be in football limbo as the 2026 NFL Draft approaches and offseason recruiting winds down. The pair's status—whether they'll be drafted, signed as undrafted free agents, or pursue other opportunities—remains unclear. Their situations illustrate the uncertainty faced by mid-tier prospects as the formal draft process begins. Teams' evaluations and draft boards will determine whether they receive formal draft attention or enter the UDFA market."
     },
     {
-      "headline": "NBC Sports Ditches Blended Ratings for Nielsen's NFL Standard",
-      "source": "Front Office Sports · 2h ago",
-      "article": "NBC Sports will now report its NFL audiences using Nielsen's standard measurement methodology rather than blended ratings, aligning with how other league rights holders report viewership. The shift brings consistency to NFL audience reporting across broadcast partners. Standard Nielsen metrics allow for cleaner comparison of NFL game viewership across networks and years."
+      "headline": "NFL 2026: As Netflix Gets More Games, Will It Lose Any Magic?",
+      "source": "Sportico · 7h ago",
+      "article": "Netflix is acquiring additional NFL games as the league expands its streaming footprint, raising questions about content saturation and platform fatigue. With the NFL unchallenged atop American sports, the challenge now is sustaining growth and avoiding complacency or overexposure. How can the league grow further without losing the cultural cachet that makes games must-watch? Netflix faces the dual burden of delivering premium production while managing subscriber expectations amid an increasingly fragmented sports media landscape."
     },
     {
-      "headline": "NFL Games on Wednesday: A New Normal?",
-      "source": "Front Office Sports · 2h ago",
-      "article": "NBC Sports is exploring the possibility of expanding Wednesday NFL broadcasts, signaling the network's openness to experimenting with non-traditional game slots. Wednesday games remain relatively rare in the NFL schedule, but NBC's interest suggests the network sees potential audience benefits or scheduling flexibility. The move would follow the NFL's broader expansion into streaming platforms and unconventional broadcast windows."
+      "headline": "Blue Jays on Sportsnet: Toronto vs. Athletics",
+      "source": "Sportsnet · 3h ago",
+      "article": "The Toronto Blue Jays wrap a three-game series against the Athletics on Wednesday with live coverage on Sportsnet and Sportsnet+ beginning at 3 p.m. ET. The late-season matchup offers Toronto a chance to build momentum down the stretch. Coverage runs across traditional broadcast and streaming platforms, reflecting the dual-distribution model now standard in MLB. The series provides a regular-season barometer as both teams navigate their respective playoff and rebuild trajectories."
     }
   ],
   "poll": {
-    "question": "Which storyline will most impact the 2026 NFL season?",
+    "question": "Which sport's media landscape will see the biggest disruption in the next 12 months?",
     "options": [
-      "Netflix's expanded NFL game slate and viewer retention",
-      "College players in the draft class proving their NFL readiness",
-      "AFC South quarterback play and Houston's championship window",
-      "International expansion and global viewership growth"
+      "Golf (LIV-PGA merger and bankruptcy restructuring)",
+      "College Football (24-team CFP expansion and conference autonomy)",
+      "Professional Soccer (FIFA Women's World Cup streaming deals)",
+      "NFL (Netflix expansion and viewership sustainability)"
     ]
   },
   "predictions": [
     {
-      "statement": "Ben Shelton will win the US Open men's singles title, becoming the first American man to win since 2003.",
-      "probability": 35,
-      "rationale": "Shelton has beaten the defending champion and shown late-match composure, but faces additional top seeds and a demanding final draw. One quarter-final win doesn't guarantee title contention even when the defending champion falls."
+      "statement": "LIV Golf's bankruptcy restructuring will conclude with a formal PGA Tour merger announcement by Q2 2026.",
+      "probability": 72,
+      "rationale": "Court approval in hand and a restructuring support agreement in place signal momentum. The bankruptcy framework removes legal obstacles and establishes a timetable. Both circuits have commercial incentives to merge and resolve overlapping membership, governance, and sponsor conflicts. A deal benefits PIF's investment recovery and traditional golf's stability."
     },
     {
-      "statement": "The College Football Playoff expands to 24 teams by the 2027 season.",
-      "probability": 62,
-      "rationale": "Formal ESPN negotiations signal serious intent, and additional playoff games align with ESPN's financial interests. Conference agreement remains the primary hurdle, but the precedent of moving from four to twelve teams suggests the 24-team threshold is achievable within two years."
+      "statement": "The College Football Playoff expands to 24 teams before the 2027 season.",
+      "probability": 58,
+      "rationale": "ESPN negotiations have begun and Congress is signaling openness to antitrust relief. Conference autonomy pressure and media revenue incentives push toward expansion. However, traditional bowl tie-ins, schedule logistics, and conference politics create friction. The timeline remains uncertain even if the direction is clear."
     },
     {
-      "statement": "The SEC votes to expel LSU from the conference within the next 18 months.",
-      "probability": 18,
-      "rationale": "The SEC has filed suit and threatened expulsion, but actually removing a conference member is extraordinarily rare and carries immense legal and logistical consequences. Expulsion remains a negotiating tool more likely than an executed outcome."
+      "statement": "Netflix's NFL games average viewership below 15 million concurrent within their first full season.",
+      "probability": 45,
+      "rationale": "Netflix's sports track record outside soccer is mixed. Casual viewers may avoid a third-party platform; cord-cutters skew younger with lower NFL attachment. However, NFL's unmatched brand strength and Netflix's global reach could drive higher numbers. The outcome depends on content quality, promotion, and Netflix's ability to manage platform decay."
     },
     {
-      "statement": "Miami's Darian Mensah finishes outside the top three in Heisman Trophy voting despite his Week 1 record.",
-      "probability": 71,
-      "rationale": "Week 1 dominance rarely sustains through a full season, and multiple QB performances will emerge as the season progresses. The Heisman typically goes to a player with consistency and high-profile late-season performances, not explosive Week 1 outbursts alone."
+      "statement": "Elena Rybakina wins the 2026 US Open women's singles title.",
+      "probability": 22,
+      "rationale": "Rybakina just claimed world No. 1 status and defeated Zheng in the quarterfinals, a positive momentum signal. However, Coco Gauff—a two-time Grand Slam winner already at the semis—remains the favorite from the remaining field. Gauff's experience in multiple slam finals and recent form give her the edge in a compressed semifinal and final gauntlet."
     }
   ],
   "injuries": [],
@@ -2531,60 +2511,6 @@
         },
         "awayTeam": "New England Patriots",
         "homeTeam": "Seattle Seahawks"
-      }
-    },
-    {
-      "type": "moneyline",
-      "pick": "Toronto Blue Jays ML",
-      "odds": "-184",
-      "edge": "Market fill from live lines: Toronto Blue Jays is the books' favorite at -184 (best price @ FanDuel) against Athletics at +155, favored even on the road. No researched edge here — this is a low-confidence market-consensus play added to round out the slate. Low confidence is honest confidence.",
-      "matchup": "Toronto Blue Jays @ Athletics",
-      "league": "MLB",
-      "when": "Today 3:06 PM ET",
-      "confidence": "low",
-      "_autofill": true,
-      "_scheduledTs": 1788980760000,
-      "marketSnapshot": {
-        "capturedAt": "2026-09-09T07:43:15.423Z",
-        "markets": {
-          "h2h": {
-            "away": {
-              "price": -184,
-              "book": "FanDuel"
-            },
-            "home": {
-              "price": 155,
-              "book": "Fanatics"
-            },
-            "draw": null
-          },
-          "spreads": {
-            "away": {
-              "point": -1.5,
-              "price": -110,
-              "book": "Fanatics"
-            },
-            "home": {
-              "point": 1.5,
-              "price": -105,
-              "book": "FanDuel"
-            }
-          },
-          "totals": {
-            "over": {
-              "point": 9,
-              "price": -110,
-              "book": "Fanatics"
-            },
-            "under": {
-              "point": 9.5,
-              "price": -132,
-              "book": "FanDuel"
-            }
-          }
-        },
-        "awayTeam": "Toronto Blue Jays",
-        "homeTeam": "Athletics"
       }
     },
     {
@@ -6404,31 +6330,85 @@
         "homeTeam": "Chicago White Sox"
       },
       "_pendingGrade": true
+    },
+    {
+      "type": "spread",
+      "pick": "Athletics -1.5",
+      "odds": "-800",
+      "edge": "Market fill from live lines: the books lay -1.5 with Athletics at -800 (best @ Caesars). No researched edge — a low-confidence market-consensus play so this sport isn't empty today.",
+      "matchup": "Toronto Blue Jays @ Athletics",
+      "league": "MLB",
+      "when": "Today 3:06 PM ET",
+      "confidence": "low",
+      "_autofill": true,
+      "_scheduledTs": 1788980760000,
+      "marketSnapshot": {
+        "capturedAt": "2026-09-09T21:25:22.780Z",
+        "markets": {
+          "h2h": {
+            "away": {
+              "price": 4500,
+              "book": "Fanatics"
+            },
+            "home": {
+              "price": -5000,
+              "book": "Caesars"
+            },
+            "draw": null
+          },
+          "spreads": {
+            "away": {
+              "point": 1.5,
+              "price": 1000,
+              "book": "Fanatics"
+            },
+            "home": {
+              "point": -1.5,
+              "price": -800,
+              "book": "Caesars"
+            }
+          },
+          "totals": {
+            "over": {
+              "point": 2.5,
+              "price": 1260,
+              "book": "FanDuel"
+            },
+            "under": {
+              "point": 2.5,
+              "price": -800,
+              "book": "Caesars"
+            }
+          }
+        },
+        "awayTeam": "Toronto Blue Jays",
+        "homeTeam": "Athletics"
+      }
     }
   ],
-  "updatedAt": "2026-04-23T00:00:00Z",
+  "updatedAt": "2026-09-10T18:47:00Z",
   "highlights": [
     {
       "league": "NBA",
-      "title": "Jayson Tatum teaches his son Deuce how to conduct a proper interview 🎤🥲",
-      "videoId": "tnZi9rsx_Kk",
-      "thumbnail": "https://img.youtube.com/vi/tnZi9rsx_Kk/mqdefault.jpg",
-      "timeAgo": "2h ago",
+      "title": "Nike | End of Ordinary Fashion Show",
+      "videoId": "sfFEUmHMhvc",
+      "thumbnail": "https://img.youtube.com/vi/sfFEUmHMhvc/mqdefault.jpg",
+      "timeAgo": "1h ago",
       "isFallback": false
     },
     {
       "league": "NFL",
-      "title": "Richard Sherman on Seahawks’ last season success going into Week 1 😳 | The Pat McAfee Show",
-      "videoId": "owDGVmsFozs",
-      "thumbnail": "https://img.youtube.com/vi/owDGVmsFozs/mqdefault.jpg",
-      "timeAgo": "Just now",
+      "title": "Jason McCourty picks his MVP",
+      "videoId": "3_20K-5sgBw",
+      "thumbnail": "https://img.youtube.com/vi/3_20K-5sgBw/mqdefault.jpg",
+      "timeAgo": "1h ago",
       "isFallback": false
     },
     {
       "league": "MLB",
-      "title": "These camera angles of Elly De La Cruz’s outfield throw are ridiculous 🤯",
-      "videoId": "Um1E8ZFN6d8",
-      "thumbnail": "https://img.youtube.com/vi/Um1E8ZFN6d8/mqdefault.jpg",
+      "title": "Munetaka Murakami and Kazuma Okamoto become the 1st Japanese-born rookies to hit 30 home runs! 🇯🇵",
+      "videoId": "mMW96R9JFsI",
+      "thumbnail": "https://img.youtube.com/vi/mMW96R9JFsI/mqdefault.jpg",
       "timeAgo": "1h ago",
       "isFallback": false
     },
@@ -6437,7 +6417,7 @@
       "title": "THROWBACK: Kunitz sends Penguins back to the Final",
       "videoId": "g9b4-VMKCrA",
       "thumbnail": "https://img.youtube.com/vi/g9b4-VMKCrA/mqdefault.jpg",
-      "timeAgo": "1h ago",
+      "timeAgo": "4h ago",
       "isFallback": false
     },
     {
@@ -6453,11 +6433,91 @@
       "title": "Champions League Reaction 🍿 Real Madrid and Man City victorious | ESPN FC",
       "videoId": "K4uDTN2ZMSU",
       "thumbnail": "https://img.youtube.com/vi/K4uDTN2ZMSU/mqdefault.jpg",
-      "timeAgo": "18h ago",
+      "timeAgo": "21h ago",
       "isFallback": false
     }
   ],
   "reels": [
+    {
+      "league": "MLB",
+      "title": "Munetaka Murakami and Kazuma Okamoto become the 1st Japanese-born rookies to hit 30 home runs! 🇯🇵",
+      "videoId": "mMW96R9JFsI",
+      "author": "MLB",
+      "pubDate": "2026-09-09T20:38:24+00:00",
+      "link": "https://www.youtube.com/watch?v=mMW96R9JFsI"
+    },
+    {
+      "league": "NBA",
+      "title": "Nike | End of Ordinary Fashion Show",
+      "videoId": "sfFEUmHMhvc",
+      "author": "NBA",
+      "pubDate": "2026-09-09T20:02:53+00:00",
+      "link": "https://www.youtube.com/watch?v=sfFEUmHMhvc"
+    },
+    {
+      "league": "NFL",
+      "title": "Jason McCourty picks his MVP",
+      "videoId": "3_20K-5sgBw",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-09-09T20:00:38+00:00",
+      "link": "https://www.youtube.com/watch?v=3_20K-5sgBw"
+    },
+    {
+      "league": "NFL",
+      "title": "Who Is the Youngest Player Who Could Play in the NFL?",
+      "videoId": "rlkiGC6VJic",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-09-09T20:00:18+00:00",
+      "link": "https://www.youtube.com/watch?v=rlkiGC6VJic"
+    },
+    {
+      "league": "MLB",
+      "title": "the happiest fan we’ve ever seen 🥹",
+      "videoId": "jENJeG_Z0kA",
+      "author": "MLB",
+      "pubDate": "2026-09-09T20:00:06+00:00",
+      "link": "https://www.youtube.com/watch?v=jENJeG_Z0kA"
+    },
+    {
+      "league": "MLB",
+      "title": "250 ICONIC Plays and Moments from Baseball History! (Supercut) | MLB 250 For 250",
+      "videoId": "S_lau6MhiSA",
+      "author": "MLB",
+      "pubDate": "2026-09-09T19:07:08+00:00",
+      "link": "https://www.youtube.com/watch?v=S_lau6MhiSA"
+    },
+    {
+      "league": "MLB",
+      "title": "Seiya Suzuki gets the Cubs out of the inning with a DART to home plate 😤",
+      "videoId": "_yp6qncp9O8",
+      "author": "MLB",
+      "pubDate": "2026-09-09T19:00:01+00:00",
+      "link": "https://www.youtube.com/watch?v=_yp6qncp9O8"
+    },
+    {
+      "league": "NFL",
+      "title": "Agent Drew Rosenhaus details Tyreek Hill's recovery",
+      "videoId": "sW35PdMR1nY",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-09-09T18:52:20+00:00",
+      "link": "https://www.youtube.com/watch?v=sW35PdMR1nY"
+    },
+    {
+      "league": "NFL",
+      "title": "Derrick Henry on Baltimore’s new-look offense 👀 | The Rich Eisen Show",
+      "videoId": "mAzQmiIEgJ0",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-09-09T18:32:44+00:00",
+      "link": "https://www.youtube.com/watch?v=mAzQmiIEgJ0"
+    },
+    {
+      "league": "NFL",
+      "title": "Peter Schrager's MVP PICK",
+      "videoId": "17wdoMaMKP4",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-09-09T18:14:09+00:00",
+      "link": "https://www.youtube.com/watch?v=17wdoMaMKP4"
+    },
     {
       "league": "NFL",
       "title": "Richard Sherman on Seahawks’ last season success going into Week 1 😳 | The Pat McAfee Show",
@@ -6465,6 +6525,22 @@
       "author": "NFL on ESPN",
       "pubDate": "2026-09-09T18:07:05+00:00",
       "link": "https://www.youtube.com/watch?v=owDGVmsFozs"
+    },
+    {
+      "league": "MLB",
+      "title": "A 3-4-1 putout … of course 😅",
+      "videoId": "JfgTfhBuUPE",
+      "author": "MLB",
+      "pubDate": "2026-09-09T18:00:16+00:00",
+      "link": "https://www.youtube.com/watch?v=JfgTfhBuUPE"
+    },
+    {
+      "league": "MLB",
+      "title": "unfortunately I just wanna do it more now sooo",
+      "videoId": "qGRd9yn9eVo",
+      "author": "MLB",
+      "pubDate": "2026-09-09T18:00:12+00:00",
+      "link": "https://www.youtube.com/watch?v=qGRd9yn9eVo"
     },
     {
       "league": "NFL",
@@ -6507,100 +6583,12 @@
       "link": "https://www.youtube.com/watch?v=NVUP9yyR3qk"
     },
     {
-      "league": "NFL",
-      "title": "Why Daniel Jeremiah Would Build His Franchise Around Drake Maye ✅ | This Is Football",
-      "videoId": "t1OzAAx4XAM",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-09-09T16:00:30+00:00",
-      "link": "https://www.youtube.com/watch?v=t1OzAAx4XAM"
-    },
-    {
       "league": "MLB",
       "title": "Michael Harris II had to let Chandler Simpson know after he made this catch 😂",
       "videoId": "bdpoAzen7Ao",
       "author": "MLB",
       "pubDate": "2026-09-09T16:00:27+00:00",
       "link": "https://www.youtube.com/watch?v=bdpoAzen7Ao"
-    },
-    {
-      "league": "NFL",
-      "title": "Jordan Rodgers says the Rams’ offense is better than their defense 😳 | First Take",
-      "videoId": "127ef1GHD5w",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-09-09T15:38:59+00:00",
-      "link": "https://www.youtube.com/watch?v=127ef1GHD5w"
-    },
-    {
-      "league": "NFL",
-      "title": "Week 1 Fantasy Football LOCKS: The Players We're Starting Everywhere 🔒 | Fantasy Focus",
-      "videoId": "rGzDd-rmSGA",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-09-09T15:09:11+00:00",
-      "link": "https://www.youtube.com/watch?v=rGzDd-rmSGA"
-    },
-    {
-      "league": "MLB",
-      "title": "Lazaro Montes launches a 474-foot HR for the LONGEST HOME RUN in T-MOBILE PARK HISTORY! 🔱😤",
-      "videoId": "vlKyyoBiLTE",
-      "author": "MLB",
-      "pubDate": "2026-09-09T14:45:00+00:00",
-      "link": "https://www.youtube.com/watch?v=vlKyyoBiLTE"
-    },
-    {
-      "league": "NFL",
-      "title": "Will the Chiefs lean on Kenneth Walker III? 🤔",
-      "videoId": "9N_ZZrNEBcc",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-09-09T13:44:11+00:00",
-      "link": "https://www.youtube.com/watch?v=9N_ZZrNEBcc"
-    },
-    {
-      "league": "NFL",
-      "title": "Jeff Saturday on the significance of Aaron Donald’s absence in Week 1 ✍️",
-      "videoId": "1HeD6UaIzMI",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-09-09T13:18:46+00:00",
-      "link": "https://www.youtube.com/watch?v=1HeD6UaIzMI"
-    },
-    {
-      "league": "MLB",
-      "title": "The Miz faces off against PCA in a THRILLER between the Cubs and Brewers and MUCH MORE!",
-      "videoId": "2GYPAqLusnE",
-      "author": "MLB",
-      "pubDate": "2026-09-09T13:00:26+00:00",
-      "link": "https://www.youtube.com/watch?v=2GYPAqLusnE"
-    },
-    {
-      "league": "MLB",
-      "title": "Top 5 MLB Plays RANKED from 9/8/26! (The Brewers win a CRAZY battle with the Cubs and MORE!)",
-      "videoId": "sEvkKu9TvNI",
-      "author": "MLB",
-      "pubDate": "2026-09-09T11:00:04+00:00",
-      "link": "https://www.youtube.com/watch?v=sEvkKu9TvNI"
-    },
-    {
-      "league": "MLB",
-      "title": "Highlights from ALL GAMES on 9/8 (Brewers walk off the Cubs, Montes hits 474-foot HR and MORE!)",
-      "videoId": "aTjSs9m2vRU",
-      "author": "MLB",
-      "pubDate": "2026-09-09T10:00:37+00:00",
-      "link": "https://www.youtube.com/watch?v=aTjSs9m2vRU"
-    },
-    {
-      "league": "MLB",
-      "title": "RANGERS vs. MARINERS: Official Full Game Highlights (September 8) | 2026 MLB Season",
-      "videoId": "gg11l72OCuQ",
-      "author": "MLB",
-      "pubDate": "2026-09-09T05:02:44+00:00",
-      "link": "https://www.youtube.com/watch?v=gg11l72OCuQ"
-    },
-    {
-      "league": "MLB",
-      "title": "Lazaro Montes ties Fernando Tatis Jr. for the LONGEST homer of 2026! 😤",
-      "videoId": "ODN3X0_f2xE",
-      "author": "MLB",
-      "pubDate": "2026-09-09T04:58:00+00:00",
-      "link": "https://www.youtube.com/watch?v=ODN3X0_f2xE"
     },
     {
       "league": "NHL",
@@ -6660,7 +6648,7 @@
     },
     {
       "league": "NHL",
-      "title": "FULL REPLAY: Bourque wins his Cup | Devils vs Avalanche | 2001 Stanley Cup Final",
+      "title": "FULL REPLAY: Bourque Wins Cup | Devils vs Avalanche | 2001 Stanley Cup Final",
       "videoId": "Y3FZm5nXD0A",
       "author": "NHL",
       "pubDate": "2026-09-08T18:22:28+00:00",
@@ -6753,14 +6741,6 @@
       "author": "NHL",
       "pubDate": "2026-09-06T17:00:14+00:00",
       "link": "https://www.youtube.com/watch?v=LakqwQFDiY0"
-    },
-    {
-      "league": "NBA",
-      "title": "The Most INSANE Endings of the 2025-26 NBA Season | Pt. 1",
-      "videoId": "o6uZg1OXn0U",
-      "author": "NBA",
-      "pubDate": "2026-09-06T14:14:15+00:00",
-      "link": "https://www.youtube.com/watch?v=o6uZg1OXn0U"
     },
     {
       "league": "NHL",
