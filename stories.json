@@ -2,72 +2,80 @@
   "clusters": [
     {
       "category": "leagues",
-      "importance": 9,
-      "leadHeadline": "NFL Live Tracker: Patriots vs. Seahawks",
-      "leadSource": "Sportsnet · just now",
-      "leadUrl": "",
-      "summary": "Seahawks repeated their Super Bowl rout, beating Patriots 29-13 in season opener Wednesday night at home.",
-      "article": "The Seattle Seahawks beat the New England Patriots 29-13 on Wednesday night in the 2026 NFL season opener, matching the exact score of their Super Bowl LX victory from just seven months earlier.\n\nThe game at Lumen Field marked only the second Super Bowl rematch in the 25-year history of the NFL Kickoff Game. Kickoff came at 8:20 p.m. ET with coverage on NBC and Peacock.\n\nSeattle dominated the first matchup on February 8 behind a suffocating defense and effective quarterback play from Sam Darnold. The Seahawks finished the 2025 regular season 17-3 and added the franchise's second Lombardi Trophy, their first title since 2014.\n\nThe Patriots, who also went 17-3 in the regular season before their Super Bowl loss, arrived in Seattle with top draft pick Drake Maye as their starting quarterback and newly acquired receiver A.J. Brown from Philadelphia. Brown had recorded over 1,000 yards receiving and seven touchdown catches last season with the Eagles.\n\nThe rematch carried weight for both franchises: the Seahawks looking to establish themselves as a repeat threat, the Patriots seeking to prove their turnaround was real. Seattle has won five of its last seven season openers and holds the league's best defense by several metrics.",
-      "tweets": []
+      "importance": 8,
+      "leadHeadline": "Seahawks pick off Patriots' Maye three times to stage comeback in Super Bowl rematch",
+      "leadSource": "The Guardian · 4h ago",
+      "leadUrl": "https://www.theguardian.com/sport/2026/sep/10/seahawks-patriots-drew-lock-sam-darnold-drake-maye",
+      "summary": "<cite index=\"1-1\">Seattle intercepted Drake Maye three times in the fourth quarter to beat New England 13-10 Wednesday night</cite>, rallying behind backup Drew Lock after <cite index=\"18-1\">Sam Darnold suffered a hip injury on the opening drive</cite>.",
+      "article": "<cite index=\"1-1\">Backup quarterback Drew Lock led two late scoring drives and the Seattle Seahawks intercepted Drake Maye three times in the fourth quarter to overcome an early injury to starter Sam Darnold and beat the New England Patriots 13-10 on Wednesday night</cite>, opening the 2026 season with a Super Bowl rematch.\n\n<cite index=\"1-2\">The Seahawks were held to just a field goal through three quarters as Lock and the offense struggled to move the ball after Darnold injured his hip on the opening drive.</cite> <cite index=\"18-4\">Darnold suffered the injury during Seattle's first drive, a five-play, 30-yard march, when he was sacked on third down by Dre'Mont Jones.</cite> <cite index=\"18-2\">Darnold was ruled out just prior to halftime.</cite> <cite index=\"21-3\">Coach Mike Macdonald said Darnold didn't break any bones while adding that more tests were needed.</cite>\n\n<cite index=\"3-11\">Seattle trailed 10-0 but got a field goal in the third quarter and tied the game when Lock connected with Smith-Njigba on a 45-yard pass on fourth-and-1 following an interception by Nehemiah Pritchett.</cite> <cite index=\"3-12\">Julian Love intercepted Maye on the next drive and the Seahawks took a 13-10 lead on a 26-yard field goal by Jason Myers.</cite> <cite index=\"3-9\">Josh Jobe made a toe-tapping interception in the end zone to seal the win.</cite>\n\n<cite index=\"3-3,3-4,3-5,3-6,3-7\">\"I want to give our team a lot of credit because you know things weren't really going where we wanted,\" coach Mike Macdonald said. \"We didn't panic. We still liked our plan. We didn't need to change what we were doing or anything like that. We just we wanted to stick to what we were doing, and the guys were just really excited to go back out there and play.\"</cite>",
+      "tweets": [
+        {
+          "url": "https://twitter.com/NFLonFOX/status/2097894737768517756",
+          "html": "<blockquote class=\"twitter-tweet\" data-dnt=\"true\" data-theme=\"dark\"><p>After his three turnovers Wednesday night, Drake Maye now has as many interceptions over his last five games as he did all of last regular season. https://t.co/OBq99HaXBb</p>&mdash; FOX Sports: NFL (@NFLonFOX) <a href=\"https://twitter.com/NFLonFOX/status/2097894737768517756\">September 10, 2026</a></blockquote>",
+          "author_name": "FOX Sports: NFL",
+          "author_url": "https://twitter.com/NFLonFOX",
+          "dateMs": 1789012057000
+        }
+      ]
     },
     {
       "category": "revenue",
-      "importance": 8,
+      "importance": 7,
       "leadHeadline": "LIV Golf Secures Initial Court Approval as Bankruptcy Case Begins",
-      "leadSource": "Sportico · 4h ago",
-      "leadUrl": "https://www.sportico.com/leagues/golf/2026/liv-golf-bankruptcy-hearing-initial-1234944492/",
-      "summary": "LIV Golf secured initial court approval Wednesday as it entered Chapter 11 bankruptcy with 57 entities, claiming meaningful assets and a committed path forward backed by a $300 million funding proposal from BC Partners. The attorney representing LIV told the court the circuit did not enter bankruptcy in 'free fall.'",
-      "article": "LIV Golf won initial court approval Wednesday as it formally entered Chapter 11 bankruptcy in New Jersey, filing 57 separate entities under protection. During the hearing, Matthew Williams of law firm Gibson Dunn, representing the breakaway golf circuit, told a U.S. bankruptcy court that LIV did not enter proceedings empty-handed.\n\n\"These debtors did not come into this case in a free fall,\" Williams stated, signaling the presence of committed assets and revenue backing the restructuring.\n\nThe bankruptcy filing peeled back the curtain on LIV's financial mechanics. The Saudi Public Investment Fund (PIF), which had been the circuit's primary backer, is set for a $495 million exit as part of the restructuring, according to documents revealed in the bankruptcy process. Player contracts and financial commitments were itemized, showing the complexity of unwinding the circuit's obligations.\n\nThe path forward hinges on a proposed transaction with London-based private equity firm BC Partners, which has committed to inject $300 million in funding. That capital infusion would allow LIV to stabilize operations and emerge from bankruptcy with fresh resources.\n\nThe timing is critical: the bankruptcy filing came as golf's landscape remained fractured, with the PGA Tour operating independently and the proposed PGA-LIV merger stalled. LIV's restructuring represents an attempt to survive as a standalone entity rather than fold entirely.",
+      "leadSource": "Sportico · 11h ago",
+      "leadUrl": "https://www.sportico.com/leagues/golf/2026/liv-golf-bankruptcy-creditors-1234944521/",
+      "summary": "LIV Golf's 57 entities entered U.S. bankruptcy court Wednesday with a proposed $300 million funding injection from London-based private equity firm BC Partners to stabilize the cash-strapped global golf circuit. The court approved initial proceedings after LIV's attorney argued the entities possess meaningful assets and committed revenue.",
+      "article": "LIV Golf cleared an initial hurdle Wednesday in its Chapter 11 bankruptcy filing in New Jersey, with U.S. bankruptcy court approving the entry of the circuit's 57 entities into proceedings backed by a proposed $300 million capital injection from London-based private equity firm BC Partners. Attorney Matthew Williams of Gibson Dunn, representing LIV Golf, told the court that the entities entered bankruptcy with meaningful assets, committed revenue, and a path forward. Williams emphasized to the judge that the debtors did not enter the case \"in a free fall,\" signaling confidence in the restructuring plan. The bankruptcy filing itself peeled back previously opaque details of LIV's finances and player deals. Court documents revealed that Saudi Arabia's Public Investment Fund, the circuit's primary backer, plans a $495 million exit from LIV as part of the restructuring. The proceeding marks a turning point for the circuit that launched in 2022 with massive Saudi funding but faced chronic losses and player-compensation disputes. The BC Partners injection, if approved by creditors and the court in subsequent proceedings, would allow LIV to continue operations under new ownership while settling outstanding obligations to players and other creditors. The bankruptcy is expected to resolve years of litigation between LIV and the PGA Tour over tour governance and player rights.",
       "tweets": []
     },
     {
       "category": "media",
-      "importance": 8,
-      "leadHeadline": "Rybakina sinks Zheng to grab No 1 spot and set up US Open semi-final with Gauff",
-      "leadSource": "The Guardian · 3h ago",
-      "leadUrl": "https://www.theguardian.com/sport/2026/sep/09/us-open-rybakina-world-no-1-zheng-qinwen-gauff-andreeva",
-      "summary": "Elena Rybakina defeated Olympic champion Zheng Qinwen 3-6, 6-1, 6-4 in the US Open quarterfinals Wednesday, clinching the world No. 1 ranking for the first time in her career. Rybakina will face Coco Gauff in the semifinals after Gauff saved two match points against Mirra Andreeva.",
-      "article": "Elena Rybakina reached the US Open semifinals Wednesday and secured the world No. 1 ranking for the first time with a 3-6, 6-1, 6-4 victory over Olympic champion Zheng Qinwen.\n\nRybakina's recovery from a first-set loss was decisive. After dropping the opener, she won 12 of the next 16 games to close out Zheng, the tournament's top-ranked player entering the day. The win gives Rybakina the ranking she has chased for years: among the 30 women ever to reach No. 1, she becomes one of tennis's most accomplished recent arrivals.\n\nRybakina's path to the final will run through Coco Gauff, who survived a two-match-point crisis against teenage qualifier Mirra Andreeva to advance. Gauff's fightback sets up one of the tournament's marquee semifinals, pairing two of the sport's rising powers.\n\nZheng's loss ends her tournament run and represents a missed opportunity to defend the ranking she had held entering New York. The Olympic champion's first-set success couldn't sustain against Rybakina's groundstroke command in the middle sets.\n\nRybakina has now won four of five career meetings with Zheng, including two three-set victories this year alone, establishing clear superiority in their head-to-head. The semifinals are set for the coming days.",
-      "tweets": []
-    },
-    {
-      "category": "contracts",
-      "importance": 7,
-      "leadHeadline": "LIV Bankruptcy Reveals PIF's $495M Exit, Player Contract Details",
-      "leadSource": "Front Office Sports · 4h ago",
-      "leadUrl": "https://frontofficesports.com/article/liv-bankruptcy-reveals-pifs-495m-exit-player-contract-details/",
-      "summary": "LIV Golf's bankruptcy filing revealed that the Saudi Public Investment Fund is taking a $495 million exit from the circuit, with detailed player contracts and financial commitments exposed in court filings. The disclosure marks the first time LIV's internal financial structure has become public.",
-      "article": "LIV Golf's bankruptcy filing pulled back the corporate veil Wednesday, exposing the Saudi Public Investment Fund's $495 million exit and laying bare player contracts that had been shielded from public view.\n\nThe PIF, which bankrolled LIV's founding and sustained it through two seasons of mounting losses, is taking a substantial haircut in the restructuring. The $495 million figure represents the fund's recovery in the bankruptcy process, a far cry from the estimated $2 billion-plus it poured into the circuit.\n\nPlayer contract details emerged for the first time, showing the breadth and depth of LIV's financial commitments to roster members. The filings itemized signing bonuses, annual salaries, and performance guarantees across all three seasons, giving rivals and analysts concrete evidence of the spending that had attempted to lure talent from the PGA Tour.\n\nThe disclosure also revealed the 57 separate entities LIV had structured—each player's entity likely its own corporate shell, mirroring the complex web that had allowed the circuit to manage international operations and shield certain assets. This structure now complicates the bankruptcy process but also suggests LIV anticipated challenges ahead.\n\nLondon-based BC Partners' $300 million commitment comes with the knowledge of these obligations. The private equity firm will inherit player contracts, equipment deals, and tournament commitments as part of any emergence plan.",
-      "tweets": []
-    },
-    {
-      "category": "media",
-      "importance": 7,
-      "leadHeadline": "Arsenal are passing every test - and Odegaard is in form of his life",
-      "leadSource": "BBC Sport · 2h ago",
-      "leadUrl": "https://www.bbc.co.uk/sport/football/articles/ce8737p0977o?at_medium=RSS&amp;at_campaign=rss",
-      "summary": "Arsenal captain Martin Odegaard continued his exceptional form with another goal as the Gunners secured another win Wednesday, building momentum in the early weeks of the season. The midfielder is playing at his peak after returning to full fitness.",
-      "article": "Arsenal extended their winning run Wednesday with Martin Odegaard scoring yet again, keeping the Gunners atop the standings as the season enters its early critical phase.\n\nOdegaard's consistency is defining Arsenal's campaign. The captain has now scored in consecutive outings, a sign of the form that has made him essential to Mikel Arteta's system. His movement off the ball, positioning in the final third, and finishing have all sharpened after what appeared to be a full recovery from injury concerns earlier in the offseason.\n\nArsenal's ability to pass every test thrown at them—home, away, against varied defensive approaches—suggests a team with genuine title credentials. The Gunners have not been broken in early matchups, which matters for a squad that has lost title races in recent years on consistency in autumn.\n\nOdegaard's elevation to the form of his career reinforces Arsenal's attack. He is no longer just a creator; he's a goal contributor whose positioning in the box has become lethal. For a midfielder to average more than one goal involvement every 90 minutes over a stretch is rare; for Odegaard to sustain it through the season's opening stretch is encouraging for Arsenal's title ambitions.",
-      "tweets": []
-    },
-    {
-      "category": "revenue",
       "importance": 6,
-      "leadHeadline": "WNBA Finals faces more football competition this year",
-      "leadSource": "Sports Media Watch · 3h ago",
-      "leadUrl": "https://www.sportsmediawatch.com/2026/09/wnba-finals-schedule-more-football-competition/",
-      "summary": "The WNBA Finals will face heightened competition from NFL programming during the first year of the league's new media rights deal, a scheduling challenge that could impact viewership. The conflict marks a significant programming collision for women's basketball's marquee event.",
-      "article": "The WNBA Finals will compete directly against NFL programming this season, the first such clash during the league's new media rights agreement. The scheduling overlap represents a genuine test of the Finals' ability to maintain viewership share against entrenched football audiences.\n\nThe timing of the WNBA's new media deal—which expanded access to games on television and streaming platforms—coincides with what has historically been the most competitive season for prime-time sports audience attention. The NFL's regular season opens while the Finals often conclude, but early playoff rounds can overlap with football's opening weeks.\n\nThis conflict differs from previous years when the WNBA Finals often enjoyed clearer programming windows. The new deal's structure may have locked in dates that, in retrospect, create this collision. The WNBA's growing audience and elevated national profile mean the Finals have more invested viewership than ever, but the absolute numbers will face pressure from football's gravitational pull.\n\nHistorically, sports audiences fragment when marquee events compete. The WNBA Finals' ability to draw viewers against NFL offerings will inform future negotiations and scheduling decisions. For broadcasters and the league, this first year under the new agreement will serve as a crucial data point on whether the Finals can command dedicated audiences even when football is available.",
+      "leadHeadline": "Trump unloads on Mavericks for Luka Dončić trade: 'We got to redo that deal'",
+      "leadSource": "NY Post Sports · 1h ago",
+      "leadUrl": "https://nypost.com/2026/09/10/sports/donald-trump-sounds-off-on-lakers-luka-doncic-trade-worst-trade-in-the-history-of-sports/",
+      "summary": "President Donald Trump criticized the Dallas Mavericks' trade of Luka Dončić to the Los Angeles Lakers, calling it potentially the worst trade in sports history. Trump's public criticism adds to the firestorm surrounding a blockbuster offseason deal.",
+      "article": "President Donald Trump waded into Dallas Mavericks debate Wednesday, ripping the franchise's trade of star guard Luka Dončić to the Los Angeles Lakers and declaring it could rank among the worst trades in sports history. Trump's comment reflects broad backlash to a deal that sent the three-time NBA All-Star and 2024 playoff standout to the Western Conference rival Lakers. The exact timing and package details of the trade remain subject to reporting variations, but Trump's intervention underscores how the transaction has captured public and political attention beyond typical sports-media coverage. A trade involving a top-15 NBA player to a championship-contending rival carries massive implications for conference balance and playoff seeding. The Mavericks, despite Dončić's elite scoring and playmaking, apparently prioritized financial or roster flexibility under a new front office structure. The Lakers gain an offensive engine but face questions about fit alongside their existing All-Star core. Trump's public criticism, while not directly affecting league operations, signals the cultural weight of the deal and suggests the Mavericks face mounting pressure if early-season results don't justify the trade rationale.",
+      "tweets": []
+    },
+    {
+      "category": "media",
+      "importance": 5,
+      "leadHeadline": "Longtime ESPN NHL analyst Barry Melrose has died",
+      "leadSource": "Sports Media Watch · 6h ago",
+      "leadUrl": "https://www.sportsmediawatch.com/2026/09/barry-melrose-passes-away-espn-nhl/",
+      "summary": "Barry Melrose, the longtime face of ESPN's NHL coverage, has passed away. Melrose was a fixture of ESPN's hockey programming for decades.",
+      "article": "Barry Melrose, a cornerstone of ESPN's National Hockey League coverage for decades, has died. Melrose was one of the network's most recognizable NHL analysts and served as the public face of ESPN hockey programming through much of its expansion. His death marks a significant loss to sports media and the hockey broadcasting community. Melrose brought coaching and playing experience to his analysis, offering credible perspective on team strategy and player evaluation. His tenure at ESPN spanned multiple eras of hockey broadcasting, from cable's early dominance through the streaming era. The exact cause and date of death were not immediately confirmed in early reports, though multiple sports media outlets confirmed his passing Wednesday.",
       "tweets": []
     },
     {
       "category": "media",
       "importance": 5,
       "leadHeadline": "Skip Bayless and Shannon Sharpe Have Filmed a Reunion Show",
-      "leadSource": "Front Office Sports · 2h ago",
+      "leadSource": "Front Office Sports · 9h ago",
       "leadUrl": "https://frontofficesports.com/article/skip-bayless-shannon-sharpe-reunion-show/",
-      "summary": "Skip Bayless and Shannon Sharpe have filmed a reunion broadcast appearance together for the first time since 2023, when their show 'Undisputed' ended. The pairing brings together two of sports media's most recognizable voices after a multi-year separation.",
-      "article": "Skip Bayless and Shannon Sharpe have filmed a reunion show appearance, marking their first collaboration since Undisputed concluded in 2023. The broadcast gives viewers a chance to see the duo reunited after years apart.\n\nBayless and Sharpe defined sports commentary television for over a decade through Undisputed, the FS1 debate platform that routinely drew strong audiences through their contrasting takes and genuine chemistry. The show's departure left a gap in the sports media landscape that neither has fully replicated since.\n\nSharpe has appeared on various platforms, including roles with different broadcasters and content ventures. Bayless continued his commentary work across Fox's portfolio. But a formal reunion taping suggests deliberate effort to capitalize on the nostalgia and audience appetite for their specific dynamic.\n\nThe reunion format matters less than the signal it sends: there is still commercial value in their pairing, and enough mutual interest to get them back in front of cameras together. Whether this is a one-off special or a pilot for renewed programming remains unclear from the reporting, but the fact of the taping itself indicates meaningful audience demand.\n\nSports media reunions have become a recurring trend—legacy talent pairing anew for special events or series. For Bayless and Sharpe, the chemistry that made Undisputed work likely hasn't evaporated.",
+      "summary": "Skip Bayless and Shannon Sharpe, who last appeared together on 'Undisputed' in 2023, have filmed a reunion special. The broadcast marks the first collaboration between the two analysts since their on-air partnership ended.",
+      "article": "Skip Bayless and Shannon Sharpe have filmed a reunion show for broadcast, marking the first time the two sports analysts have appeared on camera together since their last 'Undisputed' segment in 2023. The special project represents a notable moment in cable sports media, as Bayless and Sharpe's on-air chemistry on 'Undisputed' defined debate-format programming for years. Both analysts have moved into separate ventures since their partnership concluded, with Sharpe launching his independent podcast operation and Bayless pursuing other broadcast platforms. The reunion's timing, format, and network outlet have not been fully detailed in early reports. The reunion could signal renewed interest in debate-driven sports television or mark a one-off special event tied to a major sporting moment or anniversary. Cable sports networks have struggled to replicate the 'Undisputed' format's success in recent years, and any return by the show's marquee talent carries weight in sports media circulation.",
+      "tweets": []
+    },
+    {
+      "category": "leagues",
+      "importance": 4,
+      "leadHeadline": "Arsenal are passing every test - and Odegaard is in form of his life",
+      "leadSource": "BBC Sport · 9h ago",
+      "leadUrl": "https://www.bbc.co.uk/sport/football/articles/ce8737p0977o?at_medium=RSS&amp;at_campaign=rss",
+      "summary": "Arsenal captain Martin Odegaard continues to deliver in top form as the Gunners win again. Odegaard has scored in another victory, showcasing consistency and quality at a critical stage of the season.",
+      "article": "Arsenal's Martin Odegaard scored again in another Gunners victory, with the Norwegian captain playing at an elite level for his club. Odegaard's recent form has been marked by scoring in multiple consecutive wins, reinforcing Arsenal's competitive standing in their league campaign. BBC Sport's Phil McNulty noted Odegaard's personal resurgence and connected it to Arsenal's broader success, suggesting the captain's individual form correlates with the team's collective results. Odegaard, who has dealt with injury issues in prior seasons, appears to have found consistency both defensively and in the attacking third. His playmaking and goal-scoring contributions provide Arsenal's attacking core with creative depth alongside other offensive weapons. The analysis underscores how individual player form often reflects team health in modern football, particularly when a captain performs at his peak.",
+      "tweets": []
+    },
+    {
+      "category": "media",
+      "importance": 3,
+      "leadHeadline": "WNBA Finals faces more football competition this year",
+      "leadSource": "Sports Media Watch · 10h ago",
+      "leadUrl": "https://www.sportsmediawatch.com/2026/09/wnba-finals-schedule-more-football-competition/",
+      "summary": "The WNBA Finals will encounter increased football scheduling conflict in the first year of its new media rights deal. The basketball finals are positioned opposite more football programming than in prior years.",
+      "article": "The WNBA Finals will face heightened competition from NFL programming in the first season of its new media rights agreement, according to Sports Media Watch. The scheduling overlap means the basketball championship will compete for viewership against football content during a critical ratings window. The timing reflects broader network strategy decisions around major event placement and the relative advertising and audience value of each property. The new WNBA media rights deal, which began this season, carries implications for scheduling leverage and broadcast placement moving forward. Leagues and networks typically negotiate around marquee events to minimize direct conflict, but scheduling pressure and existing commitments sometimes force compromises. The WNBA's slot in the sports calendar has historically required negotiation with NFL and college football scheduling, and this year's configuration suggests tighter constraints than in the past.",
       "tweets": []
     }
   ],
@@ -2391,219 +2399,152 @@
     ],
     "source": "espn"
   },
-  "deals": [
-    {
-      "type": "acquisition",
-      "parties": "BC Partners ⇄ LIV Golf",
-      "value_usd": 300000000,
-      "term_years": null,
-      "league": "OTHER",
-      "headline": "BC Partners commits $300M to LIV Golf bankruptcy restructuring",
-      "storyIndex": 1,
-      "blurb": "London-based PE firm BC Partners proposed $300M capital injection to fund LIV Golf's emergence from Chapter 11 bankruptcy.",
-      "capturedAt": "2026-09-10T00:44:30.651Z"
-    }
-  ],
+  "deals": [],
   "ratings": [],
   "ticket_prices": [],
   "sidebar": [
     {
-      "headline": "Rams vs. 49ers prediction, odds, time: 2026 NFL Australia game picks from proven model",
-      "source": "CBS Sports · just now",
-      "article": "The San Francisco 49ers and Los Angeles Rams square off in Melbourne, Australia, this week in an international showcase matchup that kicks off the NFL's global expansion strategy. The SportsLine projection model has released its picks and odds analysis for the game, weighing the 49ers' recent form, the Rams' roster composition, and the complications of jet lag and travel. The model accounts for home-field disadvantage neutralization in Australia and historical performance metrics in international games. Expect the matchup to draw significant international viewership and domestic curiosity as the NFL continues its push into the Asia-Pacific market."
+      "headline": "LIV Golf's Bankruptcy Through the Eyes of One of Its Creditors",
+      "source": "Sportico · 9h ago",
+      "article": "The bankruptcy filing of LIV Golf's 57 entities pulled back the curtain on the circuit's financial machinery, revealing a complex web of creditor claims and player contracts. Details emerging from court documents show the scale of liabilities the restructuring must address. BC Partners' proposed $300 million capital injection faces scrutiny from competing creditor interests. The Private Investment Fund's planned $495 million exit signals Saudi Arabia's diminished role in the circuit's future. Court proceedings will determine whether the restructuring plan satisfies creditor committees and survives judge approval. The bankruptcy marks a critical test of whether LIV's business model can survive without continued Saudi subsidy."
     },
     {
-      "headline": "Prediction Market Ad Blitz Gets Backlash",
-      "source": "Front Office Sports · 3h ago",
-      "article": "Prediction market platforms are launching aggressive advertising campaigns around the NFL season opener, but the push is generating immediate backlash from regulators and consumer advocates. The ads capitalize on the season's start to recruit new users to betting platforms, a timing strategy that has worked in other sports but faces headwinds in the current regulatory environment. Critics argue the ads target casual viewers without adequate disclaimers about odds and risk, particularly during primetime slots when younger audiences are watching. The blitz represents a test of how far sportsbooks can advertise before facing advertising bans or regulatory intervention."
+      "headline": "Coco Gauff draws on Tiafoe and 'delusional' self-belief in US Open escape",
+      "source": "The Guardian · 6h ago",
+      "article": "Coco Gauff rallied from the brink of elimination at the US Open, saving two match points against Andreeva despite hitting 12 double faults in a three-set escape. The 22-year-old American's ability to find solutions when nearly nothing works has become her trademark on the women's tour. Gauff leaned on what she describes as a delusional self-belief in tight moments, refusing to accept defeat even as her serve betrayed her. The comeback advances her to the semi-final, where she faces Elena Rybakina, who secured the world No. 1 ranking by defeating Zheng Qinwen in straight sets. Gauff's escape showcases the mental fortitude required at the sport's highest level."
     },
     {
-      "headline": "Blue Jays painful loss to Athletics a missed opportunity in playoff race",
-      "source": "Sportsnet · 3h ago",
-      "article": "The Toronto Blue Jays dropped a 2-0 decision to the Oakland Athletics on Wednesday, a result that stings given the tightness of the AL playoff race. The loss came against a team positioned well below Toronto in the standings, making the defeat feel like a critical missed opportunity in a season where every game carries weight. The Blue Jays' inability to generate offense against Oakland's pitching means they've now gone multiple games without explosive scoring. With the trade deadline approaching and injuries mounting, the loss adds urgency to Toronto's roster decisions and pitching availability."
-    },
-    {
-      "headline": "Team USA vs. Hungary prediction, preview: What to know about FIBA World Cup quarterfinals",
-      "source": "CBS Sports · 1h ago",
-      "article": "Team USA will face Hungary in the FIBA World Cup quarterfinals after a narrow escape against Italy in the previous round. The Americans are looking to bounce back with a cleaner, more dominant performance after the close call revealed vulnerabilities in their half-court defense. Hungary, while the underdog, presents a different challenge with its three-point volume and pick-and-roll execution. Expect Team USA's depth and athleticism to ultimately prevail, but the quarterfinal stage typically features tighter margins than group play. The prediction models favor the Americans, though the Italy game proved that no contest at this stage is a foregone conclusion."
+      "headline": "Will Warren strengthens his Yankees playoff case after latest strong outing",
+      "source": "NY Post Sports · 1h ago",
+      "article": "Yankees pitcher Will Warren delivered another dominant performance in Wednesday's 6-1 win over the Rockies, reinforcing his case for postseason inclusion as the team eyes a deep October run. At a point in the season when pitching arms typically tire, Warren has found an additional gear, suggesting he's hitting peak form at the ideal moment. His recent outings have narrowed the gap between his regular-season performance and his ace-level stuff, signaling the kind of late-season surge that makes the difference in September and the playoffs. The Yankees' rotation depth will be tested in October, and Warren's current trajectory makes him a credible candidate for meaningful postseason usage."
     },
     {
       "headline": "Liverpool will reward Mac Allister if he lets his football do talking",
-      "source": "BBC Sport · 2h ago",
-      "article": "Alexis Mac Allister proved his worth to Liverpool on Wednesday with a match-winning performance against Atlético Madrid, just days after publicly expressing frustration over the club's contract offer situation. The Argentina midfielder, upset that teammates Dominik Szoboszlai and Ryan Gravenberch received new deals while his remained static, channeled that frustration into his play. Liverpool's management has now seen a glimpse of what Mac Allister's commitment looks like when motivated by contract clarity. The implication is clear: continued performances at this level should resolve the contract dispute in Mac Allister's favor."
+      "source": "BBC Sport · 8h ago",
+      "article": "Alexis Mac Allister proved his worth to Liverpool after saying publicly he was \"very sad\" at the lack of a contract offer from the club. The midfielder delivered a standout performance against Atletico Madrid in midweek, silencing criticism with his on-pitch output. Liverpool's silence on contract talks has created uncertainty, but Mac Allister's response suggests he remains committed to proving his value. The club will likely reward his performance with an improved offer if his current form continues. The episode underscores how elite performers can address contract disputes through consistent excellence rather than public posturing."
     },
     {
-      "headline": "Manchester United return to Champions League under Michael Carrick against Sabah",
-      "source": "CBS Sports · 3h ago",
-      "article": "Michael Carrick faces his first Champions League test as Manchester United manager against Azerbaijani club Sabah, a fixture carrying pressure to deliver after the Red Devils' absence from Europe's elite competition. United is managing key injuries ahead of the match and the Manchester Derby that follows, forcing Carrick to balance roster availability and fixture congestion. The tie should favor United, but Champions League qualifiers have surprised bigger clubs before. Carrick's handling of squad rotation and injury management in this run of games will set the tone for United's European campaign and their domestic ambitions."
+      "headline": "SEC's LSU Threat Puts Conference Autonomy to the Test",
+      "source": "Sportico · 16h ago",
+      "article": "The SEC's threat to sue and expel LSU over the school's player-addition decisions represents a watershed moment for conference autonomy in college sports. As Congress weighs granting the NCAA limited antitrust exemptions to restore order to recruiting chaos, conferences have begun litigating against their own members as a tool for imposing control. The SEC's aggressive posture signals that conferences view internal enforcement as necessary when the NCAA lacks teeth. LSU's recruitment strategy has apparently triggered the conference's legal response, raising questions about what constitutes acceptable roster-building in the current portal era. The litigation could reshape how conferences police their members and whether internal enforcement mechanisms can survive legal challenge."
+    },
+    {
+      "headline": "Prediction Market Ad Blitz Gets Backlash",
+      "source": "Front Office Sports · 10h ago",
+      "article": "Prediction market platforms launched a heavy advertising campaign as the NFL season opened, attempting to capitalize on peak sports viewership and betting interest. The ad blitz has drawn criticism from consumer advocates and sports media commentators concerned about normalized sports gambling targeting casual fans. Platforms are competing for market share in a crowded legal sports betting landscape, leading to increasingly aggressive promotional tactics. The backlash reflects broader tension between the sports industry's embrace of gambling partnerships and public health concerns about problem gambling. As the season progresses, expect continued regulatory scrutiny of how aggressively these platforms can market to mass audiences."
     }
   ],
   "poll": {
-    "question": "Which league will produce the biggest business story in the next 30 days?",
+    "question": "Which storyline will define the 2026 NFL season's first month?",
     "options": [
-      "LIV Golf's emergence from bankruptcy and restructuring under BC Partners",
-      "NFL media rights negotiations or broadcast viewership records",
-      "NBA or NFL star contract extension or free-agency move",
-      "Premier League or European soccer club ownership/investment deal"
+      "Seahawks' dominant defense contending for another title",
+      "Patriots' transition with Drake Maye as opening-day starter",
+      "Effect of Mavericks-Lakers trade reshuffling the NBA landscape",
+      "LIV Golf's bankruptcy restructuring and future viability"
     ]
   },
   "predictions": [
     {
-      "statement": "LIV Golf emerges from Chapter 11 bankruptcy within 90 days with BC Partners as lead investor.",
-      "probability": 68,
-      "rationale": "Initial court approval is granted, BC Partners has committed capital, and the timeline suggested by the bankruptcy filing indicates a structured emergence plan. However, unforeseen creditor challenges or PIF complications could delay."
-    },
-    {
-      "statement": "Seattle Seahawks defeat New England Patriots in their Super Bowl rematch season-opener.",
+      "statement": "Seahawks reach the AFC Championship game despite starting season without Sam Darnold for multiple games.",
       "probability": 62,
-      "rationale": "Seattle is the defending champion and at home; historical rematches often favor the defending title winner with home-field edge. New England is rebuilding. But Patriots-Seahawks carries unpredictability given their playoff history."
+      "rationale": "Seattle's defense dominated the season opener even with a backup quarterback. A championship-caliber defense can carry a team through adversity if the offense provides baseline competence. Drew Lock showed competence in the comeback, and Darnold's hip injury avoiding fracture suggests a medium-term absence rather than season-ending. The NFC is wide open."
     },
     {
-      "statement": "Elena Rybakina wins the 2026 US Open and holds the No. 1 ranking through year-end.",
-      "probability": 55,
-      "rationale": "She has just claimed No. 1 for the first time and proven form in recent weeks. The semifinal against Gauff is winnable. But a deep tournament run from any top-4 player could shift ranking dynamics in the final weeks."
-    },
-    {
-      "statement": "WNBA Finals audience numbers decline year-over-year due to NFL scheduling overlap.",
+      "statement": "LIV Golf's BC Partners restructuring closes by November and the circuit continues operating under new ownership.",
       "probability": 71,
-      "rationale": "Direct competition from NFL programming almost always fragments sports viewership in favor of football. The WNBA's expanded media deal hasn't insulated it from this dynamic. Decline is more likely than flat or growth."
+      "rationale": "Bankruptcy courts favor continuity-of-operations plans, especially in high-profile entertainment properties. BC Partners' $300 million commitment is substantial, and PIF's $495 million exit signals an orderly unwinding rather than a liquidation. Court approval of initial proceedings suggests creditor confidence in a workable restructuring path."
+    },
+    {
+      "statement": "Martin Odegaard signs a new long-term Arsenal contract before the January transfer window closes.",
+      "probability": 78,
+      "rationale": "Odegaard's current form, combined with Arsenal's competitive position, creates mutual incentive for extension talks. The club rarely allows captains performing at elite level to enter free agency. Recent wins and his personal resurgence improve the club's leverage in negotiations."
+    },
+    {
+      "statement": "Coco Gauff reaches the US Open final.",
+      "probability": 55,
+      "rationale": "Gauff has shown clutch ability and mental resilience in this tournament, saving match points against Andreeva. Rybakina is formidable but beatable on any given day. Gauff's current trajectory and home-court confidence at the Open give her a fair path to the final, though Rybakina's recent No. 1 ranking and form create legitimate doubt."
     }
   ],
   "injuries": [
     {
-      "player": "Freddie Freeman",
-      "team": "Los Angeles Dodgers",
-      "league": "MLB",
-      "position": "1B",
+      "player": "Sam Darnold",
+      "team": "Seattle Seahawks",
+      "league": "NFL",
+      "position": "QB",
       "status": "OUT",
-      "injury": "Right knee issue",
-      "timeline": null,
-      "source": "NY Post Sports",
-      "impact": "Dodgers lose a key contributor at first base for Wednesday's series finale; impacts batting order depth and defensive continuity.",
-      "storyIndex": 2
+      "injury": "Hip injury",
+      "timeline": "Medium-term (fracture ruled out)",
+      "source": "CBS Sports, The Guardian",
+      "impact": "Seahawks forced to rely on backup Drew Lock in early season, though his Wednesday performance was solid in the comeback win.",
+      "storyIndex": 3
     },
     {
-      "player": "Alfred Collins",
-      "team": "San Francisco 49ers",
+      "player": "A.J. Brown",
+      "team": "New England Patriots",
       "league": "NFL",
-      "position": "DT",
-      "status": "OUT",
-      "injury": "Torn patellar tendon",
-      "timeline": "Out for season",
-      "source": "NY Post Sports",
-      "impact": "49ers lose their second-year defensive tackle to season-ending injury in year two; requires defensive line depth rotation.",
-      "storyIndex": 10
+      "position": "WR",
+      "status": "DAY_TO_DAY",
+      "injury": "Ankle injury",
+      "timeline": "Out remainder of game; imaging pending",
+      "source": "CBS Sports",
+      "impact": "Patriots lost their primary pass-catcher for most of the second half in season opener, limiting offensive weapons for Maye.",
+      "storyIndex": 5
     }
   ],
   "picks": [
     {
       "type": "moneyline",
-      "pick": "Seattle Seahawks ML",
-      "odds": "-170",
-      "edge": "Market fill from live lines: Seattle Seahawks is the books' favorite at -170 (best price @ DraftKings) against New England Patriots at +155, with home ice/court/field behind them. No researched edge here — this is a low-confidence market-consensus play added to round out the slate. Low confidence is honest confidence.",
-      "matchup": "New England Patriots @ Seattle Seahawks",
+      "pick": "Los Angeles Rams ML",
+      "odds": "-198",
+      "edge": "Market fill from live lines: Los Angeles Rams is the books' favorite at -198 (best price @ DraftKings) against San Francisco 49ers at +180, with home ice/court/field behind them. No researched edge here — this is a low-confidence market-consensus play added to round out the slate. Low confidence is honest confidence.",
+      "matchup": "San Francisco 49ers @ Los Angeles Rams",
       "league": "NFL",
-      "when": "Tomorrow 8:20 PM ET",
+      "when": "Tomorrow 8:35 PM ET",
       "confidence": "low",
       "_autofill": true,
-      "_scheduledTs": 1788999600000,
+      "_scheduledTs": 1789086900000,
       "marketSnapshot": {
-        "capturedAt": "2026-09-09T00:55:12.996Z",
+        "capturedAt": "2026-09-10T00:45:04.058Z",
         "markets": {
           "h2h": {
             "away": {
-              "price": 155,
+              "price": 180,
               "book": "BetUS"
             },
             "home": {
-              "price": -170,
+              "price": -198,
               "book": "DraftKings"
             },
             "draw": null
           },
           "spreads": {
             "away": {
-              "point": 3.5,
-              "price": -118,
-              "book": "FanDuel"
+              "point": 4,
+              "price": -110,
+              "book": "BetMGM"
             },
             "home": {
-              "point": -3,
+              "point": -3.5,
+              "price": -110,
+              "book": "Fanatics"
+            }
+          },
+          "totals": {
+            "over": {
+              "point": 48,
               "price": -110,
               "book": "LowVig.ag"
-            }
-          },
-          "totals": {
-            "over": {
-              "point": 44.5,
-              "price": -107,
-              "book": "LowVig.ag"
             },
             "under": {
-              "point": 44.5,
-              "price": -107,
-              "book": "LowVig.ag"
+              "point": 48.5,
+              "price": -110,
+              "book": "BetMGM"
             }
           }
         },
-        "awayTeam": "New England Patriots",
-        "homeTeam": "Seattle Seahawks"
+        "awayTeam": "San Francisco 49ers",
+        "homeTeam": "Los Angeles Rams"
       }
-    },
-    {
-      "type": "moneyline",
-      "pick": "Baltimore Orioles ML",
-      "odds": "-125",
-      "edge": "Market fill from live lines: Baltimore Orioles is the books' favorite at -125 (best price @ BetOnline.ag) against Cleveland Guardians at +123, with home ice/court/field behind them. No researched edge here — this is a low-confidence market-consensus play added to round out the slate. Low confidence is honest confidence.",
-      "matchup": "Cleveland Guardians @ Baltimore Orioles",
-      "league": "MLB",
-      "when": "Tomorrow 6:36 PM ET",
-      "confidence": "low",
-      "_autofill": true,
-      "_scheduledTs": 1788906960000,
-      "marketSnapshot": {
-        "capturedAt": "2026-09-08T00:50:46.201Z",
-        "markets": {
-          "h2h": {
-            "away": {
-              "price": 123,
-              "book": "Caesars"
-            },
-            "home": {
-              "price": -125,
-              "book": "BetOnline.ag"
-            },
-            "draw": null
-          },
-          "spreads": {
-            "away": {
-              "point": 1.5,
-              "price": -178,
-              "book": "Caesars"
-            },
-            "home": {
-              "point": -1,
-              "price": 112,
-              "book": "BetRivers"
-            }
-          },
-          "totals": {
-            "over": {
-              "point": 8.5,
-              "price": -118,
-              "book": "LowVig.ag"
-            },
-            "under": {
-              "point": 8.5,
-              "price": 103,
-              "book": "LowVig.ag"
-            }
-          }
-        },
-        "awayTeam": "Cleveland Guardians",
-        "homeTeam": "Baltimore Orioles"
-      },
-      "_pendingGrade": true
     },
     {
       "type": "moneyline",
@@ -6095,61 +6036,6 @@
       "_pendingGrade": true
     },
     {
-      "type": "moneyline",
-      "pick": "Kansas City Royals ML",
-      "odds": "-115",
-      "edge": "Market fill from live lines: Kansas City Royals is the books' favorite at -115 (best price @ Bovada) against Arizona Diamondbacks at +105, with home ice/court/field behind them. No researched edge here — this is a low-confidence market-consensus play added to round out the slate. Low confidence is honest confidence.",
-      "matchup": "Arizona Diamondbacks @ Kansas City Royals",
-      "league": "MLB",
-      "when": "Today 7:40 PM ET",
-      "confidence": "low",
-      "_autofill": true,
-      "_scheduledTs": 1788910851000,
-      "marketSnapshot": {
-        "capturedAt": "2026-09-09T00:55:12.995Z",
-        "markets": {
-          "h2h": {
-            "away": {
-              "price": 105,
-              "book": "MyBookie.ag"
-            },
-            "home": {
-              "price": -115,
-              "book": "Bovada"
-            },
-            "draw": null
-          },
-          "spreads": {
-            "away": {
-              "point": 1.5,
-              "price": -330,
-              "book": "FanDuel"
-            },
-            "home": {
-              "point": 1.5,
-              "price": -225,
-              "book": "Caesars"
-            }
-          },
-          "totals": {
-            "over": {
-              "point": 4.5,
-              "price": -140,
-              "book": "DraftKings"
-            },
-            "under": {
-              "point": 5.5,
-              "price": -165,
-              "book": "Bovada"
-            }
-          }
-        },
-        "awayTeam": "Arizona Diamondbacks",
-        "homeTeam": "Kansas City Royals"
-      },
-      "_pendingGrade": true
-    },
-    {
       "type": "spread",
       "pick": "Pittsburgh Pirates -6.5",
       "odds": "-143",
@@ -6205,165 +6091,111 @@
       "_pendingGrade": true
     },
     {
-      "type": "spread",
-      "pick": "New York Mets -2.5",
-      "odds": "105",
-      "edge": "Market fill from live lines: the books lay -2.5 with New York Mets at 105 (best @ Fanatics). No researched edge — a low-confidence market-consensus play so this sport isn't empty today.",
-      "matchup": "New York Mets @ Miami Marlins",
+      "type": "moneyline",
+      "pick": "Atlanta Braves ML",
+      "odds": "-115",
+      "edge": "Market fill from live lines: Atlanta Braves is the books' favorite at -115 (best price @ LowVig.ag) against Tampa Bay Rays at +105, with home ice/court/field behind them. No researched edge here — this is a low-confidence market-consensus play added to round out the slate. Low confidence is honest confidence.",
+      "matchup": "Tampa Bay Rays @ Atlanta Braves",
       "league": "MLB",
-      "when": "Today 6:41 PM ET",
+      "when": "Today 12:15 PM ET",
       "confidence": "low",
       "_autofill": true,
-      "_scheduledTs": 1788993660000,
+      "_scheduledTs": 1789056900000,
       "marketSnapshot": {
-        "capturedAt": "2026-09-10T00:45:04.057Z",
+        "capturedAt": "2026-09-10T07:41:30.716Z",
         "markets": {
           "h2h": {
             "away": {
-              "price": -500,
-              "book": "Caesars"
-            },
-            "home": {
-              "price": 450,
-              "book": "MyBookie.ag"
-            },
-            "draw": null
-          },
-          "spreads": {
-            "away": {
-              "point": -2.5,
               "price": 105,
-              "book": "Fanatics"
+              "book": "BetUS"
             },
             "home": {
-              "point": 3.5,
-              "price": -154,
-              "book": "MyBookie.ag"
-            }
-          },
-          "totals": {
-            "over": {
-              "point": 15.5,
-              "price": 100,
-              "book": "MyBookie.ag"
-            },
-            "under": {
-              "point": 16.5,
-              "price": -121,
-              "book": "BetRivers"
-            }
-          }
-        },
-        "awayTeam": "New York Mets",
-        "homeTeam": "Miami Marlins"
-      }
-    },
-    {
-      "type": "spread",
-      "pick": "Los Angeles Angels -2.5",
-      "odds": "-104",
-      "edge": "Market fill from live lines: the books lay -2.5 with Los Angeles Angels at -104 (best @ FanDuel). No researched edge — a low-confidence market-consensus play so this sport isn't empty today.",
-      "matchup": "Los Angeles Angels @ Boston Red Sox",
-      "league": "MLB",
-      "when": "Today 6:46 PM ET",
-      "confidence": "low",
-      "_autofill": true,
-      "_scheduledTs": 1788993960000,
-      "marketSnapshot": {
-        "capturedAt": "2026-09-10T00:45:04.057Z",
-        "markets": {
-          "h2h": {
-            "away": {
-              "price": -625,
-              "book": "MyBookie.ag"
-            },
-            "home": {
-              "price": 600,
-              "book": "Caesars"
+              "price": -115,
+              "book": "LowVig.ag"
             },
             "draw": null
           },
           "spreads": {
             "away": {
-              "point": -2.5,
-              "price": -104,
-              "book": "FanDuel"
+              "point": 1.5,
+              "price": -195,
+              "book": "MyBookie.ag"
             },
             "home": {
-              "point": 2.5,
-              "price": 107,
+              "point": 1.5,
+              "price": -200,
               "book": "BetRivers"
             }
           },
           "totals": {
             "over": {
-              "point": 10.5,
-              "price": -144,
-              "book": "DraftKings"
+              "point": 8.5,
+              "price": -102,
+              "book": "LowVig.ag"
             },
             "under": {
-              "point": 11.5,
-              "price": -158,
-              "book": "FanDuel"
+              "point": 8.5,
+              "price": -113,
+              "book": "LowVig.ag"
             }
           }
         },
-        "awayTeam": "Los Angeles Angels",
-        "homeTeam": "Boston Red Sox"
+        "awayTeam": "Tampa Bay Rays",
+        "homeTeam": "Atlanta Braves"
       }
     },
     {
       "type": "moneyline",
-      "pick": "Los Angeles Rams ML",
-      "odds": "-198",
-      "edge": "Market fill from live lines: Los Angeles Rams is the books' favorite at -198 (best price @ DraftKings) against San Francisco 49ers at +180, with home ice/court/field behind them. No researched edge here — this is a low-confidence market-consensus play added to round out the slate. Low confidence is honest confidence.",
-      "matchup": "San Francisco 49ers @ Los Angeles Rams",
-      "league": "NFL",
-      "when": "Tomorrow 8:35 PM ET",
+      "pick": "Philadelphia Phillies ML",
+      "odds": "-175",
+      "edge": "Market fill from live lines: Philadelphia Phillies is the books' favorite at -175 (best price @ BetRivers) against Houston Astros at +160, with home ice/court/field behind them. No researched edge here — this is a low-confidence market-consensus play added to round out the slate. Low confidence is honest confidence.",
+      "matchup": "Houston Astros @ Philadelphia Phillies",
+      "league": "MLB",
+      "when": "Today 1:06 PM ET",
       "confidence": "low",
       "_autofill": true,
-      "_scheduledTs": 1789086900000,
+      "_scheduledTs": 1789059960000,
       "marketSnapshot": {
-        "capturedAt": "2026-09-10T00:45:04.058Z",
+        "capturedAt": "2026-09-10T07:41:30.716Z",
         "markets": {
           "h2h": {
             "away": {
-              "price": 180,
-              "book": "BetUS"
+              "price": 160,
+              "book": "BetOnline.ag"
             },
             "home": {
-              "price": -198,
-              "book": "DraftKings"
+              "price": -175,
+              "book": "BetRivers"
             },
             "draw": null
           },
           "spreads": {
             "away": {
-              "point": 4,
-              "price": -110,
-              "book": "BetMGM"
+              "point": 1.5,
+              "price": -131,
+              "book": "MyBookie.ag"
             },
             "home": {
-              "point": -3.5,
-              "price": -110,
+              "point": -1.5,
+              "price": 120,
               "book": "Fanatics"
             }
           },
           "totals": {
             "over": {
-              "point": 48,
-              "price": -110,
-              "book": "LowVig.ag"
+              "point": 8.5,
+              "price": -109,
+              "book": "BetRivers"
             },
             "under": {
-              "point": 48.5,
-              "price": -110,
-              "book": "BetMGM"
+              "point": 8.5,
+              "price": -102,
+              "book": "LowVig.ag"
             }
           }
         },
-        "awayTeam": "San Francisco 49ers",
-        "homeTeam": "Los Angeles Rams"
+        "awayTeam": "Houston Astros",
+        "homeTeam": "Philadelphia Phillies"
       }
     }
   ],
@@ -6374,30 +6206,30 @@
       "title": "Nike | End of Ordinary Fashion Show",
       "videoId": "sfFEUmHMhvc",
       "thumbnail": "https://img.youtube.com/vi/sfFEUmHMhvc/mqdefault.jpg",
-      "timeAgo": "1h ago",
+      "timeAgo": "7h ago",
       "isFallback": false
     },
     {
       "league": "NFL",
-      "title": "Brock Bowers to miss ‘a game or two’ after meniscus trim - Adam Schefter | NFL Live",
-      "videoId": "wdvINBLqCaY",
-      "thumbnail": "https://img.youtube.com/vi/wdvINBLqCaY/mqdefault.jpg",
-      "timeAgo": "3h ago",
+      "title": "Drew Lock talks replacing Sam Darnold in Seattle’s win vs. New England | SC with SVP",
+      "videoId": "7hB5Cu-Sbww",
+      "thumbnail": "https://img.youtube.com/vi/7hB5Cu-Sbww/mqdefault.jpg",
+      "timeAgo": "4h ago",
       "isFallback": false
     },
     {
       "league": "MLB",
-      "title": "George Lombard Jr. hits FIRST CAREER GRAND SLAM for the Yankees! | MLB Highlights",
-      "videoId": "GCW9PPHupUc",
-      "thumbnail": "https://img.youtube.com/vi/GCW9PPHupUc/mqdefault.jpg",
-      "timeAgo": "Just now",
+      "title": "REDS vs. DODGERS: Official Full Game Highlights (September 9) | 2026 MLB Season",
+      "videoId": "ff_QRqsC01Q",
+      "thumbnail": "https://img.youtube.com/vi/ff_QRqsC01Q/mqdefault.jpg",
+      "timeAgo": "3h ago",
       "isFallback": false
     },
     {
       "league": "NHL",
-      "title": "FULL REPLAY: Bourque Wins Cup | Devils vs Avalanche | 2001 Stanley Cup Final",
-      "videoId": "Y3FZm5nXD0A",
-      "thumbnail": "https://img.youtube.com/vi/Y3FZm5nXD0A/mqdefault.jpg",
+      "title": "The NHL remembers coach and Emmy-winning broadcaster Barry Melrose",
+      "videoId": "GbwHqxVSyTs",
+      "thumbnail": "https://img.youtube.com/vi/GbwHqxVSyTs/mqdefault.jpg",
       "timeAgo": "2h ago",
       "isFallback": false
     },
@@ -6406,26 +6238,146 @@
       "title": "August  Rookie of the Month: Olivia Miles",
       "videoId": "J5ee2wNvY0Y",
       "thumbnail": "https://img.youtube.com/vi/J5ee2wNvY0Y/mqdefault.jpg",
-      "timeAgo": "7d ago",
+      "timeAgo": "8d ago",
       "isFallback": false
     },
     {
       "league": "SOCCER",
-      "title": "TAKEAWAYS from the Champions League ⚽️ Barcelona dominate &amp; improvement from Liverpool | ESPN FC",
-      "videoId": "XzwUUTWBlvg",
-      "thumbnail": "https://img.youtube.com/vi/XzwUUTWBlvg/mqdefault.jpg",
-      "timeAgo": "Just now",
+      "title": "LEWANDOWSKI VS. MESSI 🍿 Chicago Fire vs. Inter Miami | MLS Highlights | ESPN FC",
+      "videoId": "yCqIxGhkWtM",
+      "thumbnail": "https://img.youtube.com/vi/yCqIxGhkWtM/mqdefault.jpg",
+      "timeAgo": "5h ago",
       "isFallback": false
     }
   ],
   "reels": [
     {
+      "league": "NHL",
+      "title": "The NHL remembers coach and Emmy-winning broadcaster Barry Melrose",
+      "videoId": "GbwHqxVSyTs",
+      "author": "NHL",
+      "pubDate": "2026-09-10T05:27:31+00:00",
+      "link": "https://www.youtube.com/watch?v=GbwHqxVSyTs"
+    },
+    {
       "league": "MLB",
-      "title": "George Lombard Jr. hits FIRST CAREER GRAND SLAM for the Yankees! | MLB Highlights",
-      "videoId": "GCW9PPHupUc",
+      "title": "REDS vs. DODGERS: Official Full Game Highlights (September 9) | 2026 MLB Season",
+      "videoId": "ff_QRqsC01Q",
       "author": "MLB",
-      "pubDate": "2026-09-10T00:20:52+00:00",
-      "link": "https://www.youtube.com/watch?v=GCW9PPHupUc"
+      "pubDate": "2026-09-10T05:00:44+00:00",
+      "link": "https://www.youtube.com/watch?v=ff_QRqsC01Q"
+    },
+    {
+      "league": "MLB",
+      "title": "10 STRIKEOUTS! Yoshinobu Yamamoto was DEALING for the Dodgers! | MLB Highlights",
+      "videoId": "UwNA_WlAp7Q",
+      "author": "MLB",
+      "pubDate": "2026-09-10T04:46:00+00:00",
+      "link": "https://www.youtube.com/watch?v=UwNA_WlAp7Q"
+    },
+    {
+      "league": "MLB",
+      "title": "ONE SWING: 3rd Dodgers homer of the night and Kiké Hernández's 3rd homer of 2026! | MLB Highlights",
+      "videoId": "ayoN6eFEuT4",
+      "author": "MLB",
+      "pubDate": "2026-09-10T04:17:51+00:00",
+      "link": "https://www.youtube.com/watch?v=ayoN6eFEuT4"
+    },
+    {
+      "league": "MLB",
+      "title": "Mashin' Max Muncy belts his 27th home run of the season for the Dodgers! | MLB Highlights",
+      "videoId": "Ic4oq9yCC7o",
+      "author": "MLB",
+      "pubDate": "2026-09-10T04:00:26+00:00",
+      "link": "https://www.youtube.com/watch?v=Ic4oq9yCC7o"
+    },
+    {
+      "league": "NFL",
+      "title": "Drew Lock talks replacing Sam Darnold in Seattle’s win vs. New England | SC with SVP",
+      "videoId": "7hB5Cu-Sbww",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-09-10T03:55:48+00:00",
+      "link": "https://www.youtube.com/watch?v=7hB5Cu-Sbww"
+    },
+    {
+      "league": "NFL",
+      "title": "Mike Vrabel on the Patriots’ opening night loss to the Seahawks.",
+      "videoId": "SnSAM-rsKmM",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-09-10T03:54:40+00:00",
+      "link": "https://www.youtube.com/watch?v=SnSAM-rsKmM"
+    },
+    {
+      "league": "MLB",
+      "title": "FIVE STRAIGHT GAMES with a HOMER for Elly De La Cruz! 💥💥💥💥💥 MLB Highlights",
+      "videoId": "dm5SpY-5mT4",
+      "author": "MLB",
+      "pubDate": "2026-09-10T03:28:14+00:00",
+      "link": "https://www.youtube.com/watch?v=dm5SpY-5mT4"
+    },
+    {
+      "league": "MLB",
+      "title": "PIRATES vs. WHITE SOX: Official Full Game Highlights (September 9) | 2026 MLB Season",
+      "videoId": "YAUGFipjWkc",
+      "author": "MLB",
+      "pubDate": "2026-09-10T03:24:30+00:00",
+      "link": "https://www.youtube.com/watch?v=YAUGFipjWkc"
+    },
+    {
+      "league": "MLB",
+      "title": "D-BACKS vs. ROYALS: Official Full Game Highlights (September 9) | 2026 MLB Season",
+      "videoId": "y-hUOL56exU",
+      "author": "MLB",
+      "pubDate": "2026-09-10T03:20:56+00:00",
+      "link": "https://www.youtube.com/watch?v=y-hUOL56exU"
+    },
+    {
+      "league": "MLB",
+      "title": "Mookie Betts gets the best of this pitch for his 19th homer of the 2026 season! | MLB Highlights",
+      "videoId": "eB-r82wQT6s",
+      "author": "MLB",
+      "pubDate": "2026-09-10T03:03:03+00:00",
+      "link": "https://www.youtube.com/watch?v=eB-r82wQT6s"
+    },
+    {
+      "league": "SOCCER",
+      "title": "LEWANDOWSKI VS. MESSI 🍿 Chicago Fire vs. Inter Miami | MLS Highlights | ESPN FC",
+      "videoId": "yCqIxGhkWtM",
+      "author": "ESPN FC",
+      "pubDate": "2026-09-10T02:45:40+00:00",
+      "link": "https://www.youtube.com/watch?v=yCqIxGhkWtM"
+    },
+    {
+      "league": "SOCCER",
+      "title": "What a goal from Robert Lewandowski 😮‍💨 (via MLS on Apple TV)",
+      "videoId": "LUmYCk5ArNc",
+      "author": "ESPN FC",
+      "pubDate": "2026-09-10T02:34:18+00:00",
+      "link": "https://www.youtube.com/watch?v=LUmYCk5ArNc"
+    },
+    {
+      "league": "SOCCER",
+      "title": "ANTOINE GRIEZMANN BRACE 🤩 Atlanta United vs. Orlando City | MLS Highlights | ESPN FC",
+      "videoId": "Zv-G8lvQqIo",
+      "author": "ESPN FC",
+      "pubDate": "2026-09-10T01:55:27+00:00",
+      "link": "https://www.youtube.com/watch?v=Zv-G8lvQqIo"
+    },
+    {
+      "league": "SOCCER",
+      "title": "Two greats 🤩 (via MLS on Apple TV)",
+      "videoId": "pmFsLHhuddw",
+      "author": "ESPN FC",
+      "pubDate": "2026-09-10T01:33:19+00:00",
+      "link": "https://www.youtube.com/watch?v=pmFsLHhuddw"
+    },
+    {
+      "league": "SOCCER",
+      "title": "Thoughts on Raphinha not being on the Ballon d’Or short list? | ESPN FC Extra Time",
+      "videoId": "RN5bFxT-aic",
+      "author": "ESPN FC",
+      "pubDate": "2026-09-10T01:05:46+00:00",
+      "link": "https://www.youtube.com/watch?v=RN5bFxT-aic"
     },
     {
       "league": "SOCCER",
@@ -6452,52 +6404,12 @@
       "link": "https://www.youtube.com/watch?v=qrtIkGU3bWA"
     },
     {
-      "league": "MLB",
-      "title": "2,500 hits for Jose Altuve! (Laced a double to become 2nd active player to reach 2,500 career hits)",
-      "videoId": "tfncFxsNfb8",
-      "author": "MLB",
-      "pubDate": "2026-09-10T00:02:35+00:00",
-      "link": "https://www.youtube.com/watch?v=tfncFxsNfb8"
-    },
-    {
-      "league": "MLB",
-      "title": "NATIONALS vs. PADRES: Official Full Game Highlights (September 9) | 2026 MLB Season",
-      "videoId": "Ne66U5Msk2o",
-      "author": "MLB",
-      "pubDate": "2026-09-09T23:41:45+00:00",
-      "link": "https://www.youtube.com/watch?v=Ne66U5Msk2o"
-    },
-    {
-      "league": "MLB",
-      "title": "FULL 6-RUN COMEBACK: Jung Hoo Lee &amp; Giants stun the Cardinals! | MLB Highlights",
-      "videoId": "F_TY7pRV2CE",
-      "author": "MLB",
-      "pubDate": "2026-09-09T23:23:23+00:00",
-      "link": "https://www.youtube.com/watch?v=F_TY7pRV2CE"
-    },
-    {
       "league": "NHL",
-      "title": "FULL REPLAY: Bourque Wins Cup | Devils vs Avalanche | 2001 Stanley Cup Final",
+      "title": "FULL REPLAY: Game 7 Cup Clincher | Devils vs Avalanche | 2001 Stanley Cup Final",
       "videoId": "Y3FZm5nXD0A",
       "author": "NHL",
       "pubDate": "2026-09-09T23:00:06+00:00",
       "link": "https://www.youtube.com/watch?v=Y3FZm5nXD0A"
-    },
-    {
-      "league": "MLB",
-      "title": "RANGERS vs. MARINERS: Official Full Game Highlights (September 9) | 2026 MLB Season",
-      "videoId": "kBV47wiiXUE",
-      "author": "MLB",
-      "pubDate": "2026-09-09T22:59:39+00:00",
-      "link": "https://www.youtube.com/watch?v=kBV47wiiXUE"
-    },
-    {
-      "league": "MLB",
-      "title": "CARDINALS vs. GIANTS: Official Full Game Highlights (September 9) | 2026 MLB Season",
-      "videoId": "TZaFzGUHbfQ",
-      "author": "MLB",
-      "pubDate": "2026-09-09T22:55:08+00:00",
-      "link": "https://www.youtube.com/watch?v=TZaFzGUHbfQ"
     },
     {
       "league": "SOCCER",
@@ -6514,30 +6426,6 @@
       "author": "ESPN FC",
       "pubDate": "2026-09-09T22:38:42+00:00",
       "link": "https://www.youtube.com/watch?v=8J41qAXLcX0"
-    },
-    {
-      "league": "SOCCER",
-      "title": "Steve Nicol says Liverpool played better 'than what we've seen' in the EPL in UCL win | ESPN FC",
-      "videoId": "8Ga_ed_e0UU",
-      "author": "ESPN FC",
-      "pubDate": "2026-09-09T22:15:03+00:00",
-      "link": "https://www.youtube.com/watch?v=8Ga_ed_e0UU"
-    },
-    {
-      "league": "MLB",
-      "title": "TWINS vs. TIGERS: Official Full Game Highlights (September 9) | 2026 MLB Season",
-      "videoId": "DdjzdBPfZfc",
-      "author": "MLB",
-      "pubDate": "2026-09-09T22:06:16+00:00",
-      "link": "https://www.youtube.com/watch?v=DdjzdBPfZfc"
-    },
-    {
-      "league": "MLB",
-      "title": "BLUE JAYS vs. ATHLETICS: Official Full Game Highlights (September 9) | 2026 MLB Season",
-      "videoId": "jhLGQq3ZkPI",
-      "author": "MLB",
-      "pubDate": "2026-09-09T21:47:23+00:00",
-      "link": "https://www.youtube.com/watch?v=jhLGQq3ZkPI"
     },
     {
       "league": "NFL",
@@ -6588,22 +6476,6 @@
       "link": "https://www.youtube.com/watch?v=17wdoMaMKP4"
     },
     {
-      "league": "NFL",
-      "title": "Richard Sherman on Seahawks’ last season success going into Week 1 😳 | The Pat McAfee Show",
-      "videoId": "owDGVmsFozs",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-09-09T18:07:05+00:00",
-      "link": "https://www.youtube.com/watch?v=owDGVmsFozs"
-    },
-    {
-      "league": "NFL",
-      "title": "JJ Watt's SUPER BOWL REMATCH preview ➡️ Do the Pats or Seahawks have the edge? | The Pat McAfee Show",
-      "videoId": "dyzEniUC2Ec",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-09-09T17:53:47+00:00",
-      "link": "https://www.youtube.com/watch?v=dyzEniUC2Ec"
-    },
-    {
       "league": "NHL",
       "title": "THROWBACK: Kunitz sends Penguins back to the Final",
       "videoId": "g9b4-VMKCrA",
@@ -6626,38 +6498,6 @@
       "author": "NHL",
       "pubDate": "2026-09-09T04:00:28+00:00",
       "link": "https://www.youtube.com/watch?v=bPjL5KsObok"
-    },
-    {
-      "league": "SOCCER",
-      "title": "Champions League Reaction 🍿 Real Madrid and Man City victorious | ESPN FC",
-      "videoId": "K4uDTN2ZMSU",
-      "author": "ESPN FC",
-      "pubDate": "2026-09-09T00:34:12+00:00",
-      "link": "https://www.youtube.com/watch?v=K4uDTN2ZMSU"
-    },
-    {
-      "league": "SOCCER",
-      "title": "Liverpool vs. Atletico Madrid Preview ⚽ Can they regain their intensity? | ESPN FC",
-      "videoId": "DMhHgCH5cd4",
-      "author": "ESPN FC",
-      "pubDate": "2026-09-09T00:03:13+00:00",
-      "link": "https://www.youtube.com/watch?v=DMhHgCH5cd4"
-    },
-    {
-      "league": "SOCCER",
-      "title": "Thoughts on Jose Mourinho's tactics during Real Madrid's 2-1 UCL win over Inter | ESPN FC Extra Time",
-      "videoId": "SsngAxNNVj8",
-      "author": "ESPN FC",
-      "pubDate": "2026-09-08T23:35:32+00:00",
-      "link": "https://www.youtube.com/watch?v=SsngAxNNVj8"
-    },
-    {
-      "league": "SOCCER",
-      "title": "2026 Ballon d'Or shortlist revealed 🚨 + REACTION to Lamine Yamal's comments on the award 👀 | ESPN FC",
-      "videoId": "9n4RNs80VHQ",
-      "author": "ESPN FC",
-      "pubDate": "2026-09-08T23:31:31+00:00",
-      "link": "https://www.youtube.com/watch?v=9n4RNs80VHQ"
     },
     {
       "league": "NHL",
@@ -6730,14 +6570,6 @@
       "author": "NHL",
       "pubDate": "2026-09-05T17:00:08+00:00",
       "link": "https://www.youtube.com/watch?v=zjgE0xVBycE"
-    },
-    {
-      "league": "NHL",
-      "title": "FULL REPLAY: Game 7 OT | Capitals vs. Rangers | 2015 Stanley Cup Playoffs",
-      "videoId": "cHJTdN8keVo",
-      "author": "NHL",
-      "pubDate": "2026-09-04T23:00:06+00:00",
-      "link": "https://www.youtube.com/watch?v=cHJTdN8keVo"
     }
   ]
 }
