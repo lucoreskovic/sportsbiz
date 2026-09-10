@@ -1,81 +1,81 @@
 {
   "clusters": [
     {
-      "category": "leagues",
-      "importance": 8,
-      "leadHeadline": "Seahawks defence prevails, but Darnolds injury prompts big questions",
-      "leadSource": "Sportsnet · 9h ago",
-      "leadUrl": "",
-      "summary": "<cite index=\"1-5\">The Seahawks beat the Patriots 13-10 after raising the Super Bowl LX banner</cite>, but <cite index=\"1-1\">Sam Darnold exited after Seattle's first series with a hip injury</cite>. <cite index=\"13-11\">X-rays showed Darnold did not fracture his hip</cite>, pending further testing.",
-      "article": "<cite index=\"1-5\">The Seattle Seahawks defeated the New England Patriots 13-10 while raising their Super Bowl LX championship banner</cite> on Wednesday, but the victory was overshadowed by injury to their starting quarterback. <cite index=\"1-1,1-2\">Sam Darnold exited after Seattle's first series with a hip injury after being sacked by Dre'Mont Jones on third-and-6 from the New England 46 — the sixth play of the game</cite>.\n\n<cite index=\"2-11\">Drew Lock replaced Darnold on the second drive and played the rest of the game</cite>, <cite index=\"1-14\">going 16-of-22 for 187 yards with one touchdown</cite>. <cite index=\"20-4\">After New England took a 10-0 lead early in the third quarter, Maye threw three interceptions on the Patriots' final three possessions</cite>. <cite index=\"19-7\">Josh Jobe intercepted Maye in the end zone with both feet down by the sideline for a game-sealing interception</cite>.\n\n<cite index=\"13-11,13-13,13-15\">X-rays showed Darnold did not fracture his hip, with coach Mike Macdonald saying \"fracture is out, which is great news.\"</cite> <cite index=\"9-2,9-3\">Darnold's CT scan produced \"encouraging but inconclusive\" results, and he will undergo an MRI on Thursday</cite>. <cite index=\"13-16\">Macdonald said it is too soon to know Darnold's status for Seattle's Week 2 game in Arizona</cite>.\n\n<cite index=\"20-5,20-6,20-7\">Maye blamed impatience for the errors, saying \"we had the game under control...lost patience and it cost us, decisions that cost us the game on my part, on my end.\"</cite>",
+      "category": "media",
+      "importance": 7,
+      "leadHeadline": "Longtime ESPN NHL analyst Barry Melrose has died",
+      "leadSource": "Sports Media Watch · 16h ago",
+      "leadUrl": "https://www.sportsmediawatch.com/2026/09/barry-melrose-passes-away-espn-nhl/",
+      "summary": "<cite index=\"1-1,1-2\">Barry Melrose, the former NHL player, coach and longtime ESPN analyst, died Wednesday at 70.</cite> <cite index=\"3-1\">He led the Los Angeles Kings to the 1993 Stanley Cup Final</cite> and <cite index=\"6-2\">worked as a beloved hockey analyst for ESPN for over 25 years</cite> before <cite index=\"3-3\">stepping away in 2023 after being diagnosed with Parkinson's disease.</cite>",
+      "article": "<cite index=\"1-1,1-2\">Barry Melrose, the former NHL player, coach and longtime ESPN analyst, died Wednesday. He was 70.</cite> <cite index=\"1-11\">Melrose is survived by his wife and two sons, Tyrell and Adrien.</cite>\n\n<cite index=\"3-1,3-2\">A hockey player-turned-coach who led the Los Angeles Kings to the 1993 Stanley Cup Final</cite>, Melrose spent more than a quarter century at ESPN after <cite index=\"3-15\">being hired in 1996</cite>. <cite index=\"5-4,5-5\">He was known for his witty personality, flashy suits and recognizable goatee, working alongside John Buccigross on coverage of All-Star Games, Stanley Cup playoffs and the Cup Final.</cite>\n\n<cite index=\"3-3\">Melrose stepped away from his analyst role in 2023 after he was diagnosed with Parkinson's disease.</cite> <cite index=\"1-6\">ESPN colleagues, including John Buccigross, learned of his death while at a hockey rink in Las Vegas preparing for the upcoming season.</cite> <cite index=\"1-3,1-4\">Buccigross called Melrose his \"best friend at ESPN\" and \"a big brother figure of rock solid values.\"</cite>\n\n<cite index=\"3-9\">As a player, Melrose finished with 10 goals and 33 points and 728 penalty minutes in 300 career NHL regular-season games.</cite> <cite index=\"3-14\">His coaching record stood at 79-101 and 29 ties over two-plus seasons in Los Angeles before being fired midway through the 1994-95 season.</cite>",
       "tweets": [
         {
-          "url": "https://twitter.com/seahawksPR/status/2097860833292558674",
-          "html": "<blockquote class=\"twitter-tweet\" data-dnt=\"true\" data-theme=\"dark\"><p>.@Seahawks injury update: QB Sam Darnold will not return to the game.</p>&mdash; Seahawks PR (@seahawksPR) <a href=\"https://twitter.com/seahawksPR/status/2097860833292558674\">September 10, 2026</a></blockquote>",
-          "author_name": "Seahawks PR",
-          "author_url": "https://twitter.com/seahawksPR",
-          "dateMs": 1789003973000
+          "url": "https://twitter.com/espn/status/2097851665944600729",
+          "html": "<blockquote class=\"twitter-tweet\" data-dnt=\"true\" data-theme=\"dark\"><p>Barry Melrose, the former NHL player and coach who was a beloved, longtime hockey analyst for ESPN, died Wednesday, his wife, Cindy, told ESPN's Steve Levy. He was 70. https://t.co/68PGbK6rkI</p>&mdash; ESPN (@espn) <a href=\"https://twitter.com/espn/status/2097851665944600729\">September 10, 2026</a></blockquote>",
+          "author_name": "ESPN",
+          "author_url": "https://twitter.com/espn",
+          "dateMs": 1789001788000
         }
       ]
     },
     {
-      "category": "media",
-      "importance": 7,
-      "leadHeadline": "Longtime ESPN NHL analyst Barry Melrose has died",
-      "leadSource": "Sports Media Watch · 13h ago",
-      "leadUrl": "https://www.sportsmediawatch.com/2026/09/barry-melrose-passes-away-espn-nhl/",
-      "summary": "Barry Melrose, the longtime face of ESPN's NHL coverage, has passed away. No additional details on cause or age were immediately available.",
-      "article": "Barry Melrose, who became the defining voice of ESPN's NHL programming and one of the network's most recognizable personalities, has died. Melrose had been the face of ESPN's hockey coverage for decades, building a reputation as one of the sport's most prominent broadcast analysts.\n\nHis tenure at ESPN made him a fixture in the cable sports landscape, particularly during the network's sustained investment in professional hockey coverage. The timing of his death marks a significant loss for sports broadcasting, as ESPN continues to navigate its media rights strategy and talent landscape across all major sports. No additional details were immediately available.",
-      "tweets": []
-    },
-    {
-      "category": "media",
+      "category": "leagues",
       "importance": 6,
-      "leadHeadline": "Skip Bayless and Shannon Sharpe Have Filmed a Reunion Show",
-      "leadSource": "Front Office Sports · 16h ago",
-      "leadUrl": "https://frontofficesports.com/article/skip-bayless-shannon-sharpe-reunion-show/",
-      "summary": "Skip Bayless and Shannon Sharpe have filmed a reunion show after last appearing together on 'Undisputed' in 2023. Details on the project's air date and format were not immediately disclosed.",
-      "article": "Skip Bayless and Shannon Sharpe, the central voices of ESPN's former 'Undisputed' debate franchise, have filmed a reunion project together for the first time since 2023. The two analysts, who built a massive following during their years anchoring the network's sports opinion programming, come together as the sports media landscape continues to shift in favor of direct-to-consumer content and personality-driven platforms.\n\nThe reunion marks a potential reconnection between two figures whose on-air chemistry drove significant viewership during their tenure together. Both have pursued separate ventures since their last appearance together, and this project signals either a strategic reunion for one of their respective platforms or a special event. The specific airdate, network, and format remain undisclosed.",
+      "leadHeadline": "NFL 2026: The NFL Has a Big—and Lucrative—Opportunity in Japan",
+      "leadSource": "Sportico · 4h ago",
+      "leadUrl": "https://www.sportico.com/leagues/football/2026/nfl-international-opportunity-japan-1234944494/",
+      "summary": "The NFL, unchallenged as the richest sports league in America, is now weighing expansion and growth strategies abroad. Japan represents a significant untapped market for league expansion and revenue.",
+      "article": "The NFL, now sitting unchallenged atop American sports, is turning attention to international growth as a core strategic priority. Japan emerges as a focal point for the league's expansion roadmap, offering both a massive consumer market and existing NFL interest.\n\nSportico reports that the NFL's leadership is grappling with a familiar challenge facing any dominant organization: how to sustain growth without falling into complacency or overreach. The league's financial dominance in the US is now secure, forcing executives to look outward for the next revenue driver. Japan's developed sports market, existing NFL fan base, and corporate sponsorship infrastructure present a compelling opportunity that could reshape the league's international footprint.\n\nThe move follows the NFL's Australia regular-season game this week, signaling a broader shift toward playing regular-season contests outside North America. Japan's market size and economic power make it a natural next step in the league's global expansion strategy, particularly as the NFL seeks to diversify its revenue streams beyond traditional US television deals and merchandise.",
       "tweets": []
     },
     {
-      "category": "revenue",
+      "category": "labor",
       "importance": 6,
-      "leadHeadline": "Angel Reese and Caitlin Clark celebrate their 'chemistry' as USA advance to Fiba World Cup semis",
-      "leadSource": "The Guardian · 2h ago",
-      "leadUrl": "https://www.theguardian.com/sport/2026/sep/10/angel-reese-caitlin-clark-fiba-world-cup-basketball-usa-hungary",
-      "summary": "The USA women's basketball team beat Hungary 108-56 at the FIBA World Cup, with Angel Reese and Caitlin Clark on the court together and dispelling rivalry narratives that have dominated recent coverage.",
-      "article": "Team USA's women's basketball squad advanced to the FIBA World Cup semifinals with a dominant 108-56 victory over Hungary, a performance that also served as a public statement about the relationship between two of the tournament's biggest names: Angel Reese and Caitlin Clark.\n\nThe pair, who have been portrayed as fierce rivals both in the WNBA and across social media discourse, demonstrated what organizers and the U.S. program have emphasized throughout the tournament: their ability to play effectively alongside each other. The narrative around their supposed tension had become a subplot of women's basketball coverage, and their interactions during this run are being scrutinized and discussed by fans across social platforms.\n\nThe dominant margin of victory underscores the depth and talent available to Team USA in international competition. The semifinal berth maintains the program's long-standing status as a gold medal favorite in major tournaments.",
-      "tweets": []
-    },
-    {
-      "category": "revenue",
-      "importance": 5,
-      "leadHeadline": "Team USA flexes their dominance at FIBA World Cup after surprise demotion",
+      "leadHeadline": "NFL star Josh Jacobs cuts plea deal with prosecutors after alleged violent dispute with girlfriend",
       "leadSource": "NY Post Sports · 1h ago",
-      "leadUrl": "https://nypost.com/2026/09/10/sports/team-usa-flexes-their-dominance-at-fiba-world-cup-after-surprise-demotion/",
-      "summary": "Team USA reasserted its dominance at the FIBA World Cup despite an earlier unexpected demotion in seeding or tournament standing. The team continues its pursuit of a title.",
-      "article": "Team USA's women's basketball program, accustomed to operating at the sport's apex, has responded to an earlier surprise demotion by reasserting its championship credentials at the FIBA World Cup. The specifics of the demotion and its context within the tournament were not detailed in available reporting, but the result underscores the consistent quality of American women's basketball at the international level.\n\nThe team's ability to bounce back from adversity reflects both the talent pool available to the program and the coaching staff's capacity to manage expectations and performance across a tournament run. USA Basketball remains a marquee draw in women's international competition.",
+      "leadUrl": "https://nypost.com/2026/09/10/sports/josh-jacobs-cuts-plea-deal-with-prosecutors-after-alleged-violent-dispute-with-girlfriend/",
+      "summary": "Running back Josh Jacobs reached a plea agreement with prosecutors on Thursday to resolve his battery case. The deal closes a legal matter that had hung over the player since the incident.",
+      "article": "Josh Jacobs, an NFL running back, has reached a plea deal with prosecutors to resolve his battery case stemming from an alleged violent dispute with his girlfriend. The agreement was finalized Thursday, closing out legal proceedings that had been pending.\n\nThe specifics of the plea arrangement were not fully detailed in available reports, but the resolution marks a conclusion to the criminal matter. Plea deals in domestic violence cases often involve reduced charges, probation, counseling, or other conditions as part of a negotiated settlement.\n\nJacobs' case adds to a growing list of NFL players who have faced legal issues off the field. The resolution comes during a period of increased scrutiny on player conduct and league discipline. How the NFL's personal conduct policy will address the outcome remains unclear, though the league typically monitors legal resolutions closely when considering any separate discipline.",
       "tweets": []
     },
     {
-      "category": "revenue",
+      "category": "contracts",
       "importance": 5,
-      "leadHeadline": "Mikel Arteta close to finalising new contract with Arsenal",
-      "leadSource": "BBC Sport · just now",
-      "leadUrl": "https://www.bbc.co.uk/sport/football/articles/cgrvq2xp8dwo?at_medium=RSS&amp;at_campaign=rss",
-      "summary": "Arsenal manager Mikel Arteta is believed to be close to finalizing a new contract with the Premier League champions. Terms of the deal were not disclosed.",
-      "article": "Mikel Arteta, the manager who guided Arsenal to the Premier League title, is nearing completion of a new contract extension with the club. Arsenal has prioritized securing Arteta's future as it builds around a core of young talent and a coaching staff that has elevated the club back to championship contention.\n\nArteta's tenure at Arsenal has been marked by a philosophical rebuild centered on data-driven decision-making, youth development, and tactical flexibility. The contract extension signals the club's commitment to continuity at the managerial level during a critical period of sustained competition for domestic and European honors. Specific terms of the extension were not disclosed at the time of reporting.",
+      "leadHeadline": "Australian Open Reaffirms Five-Set Format After CEO's Comments",
+      "leadSource": "Front Office Sports · 1h ago",
+      "leadUrl": "https://frontofficesports.com/article/australian-open-reaffirms-five-set-format/",
+      "summary": "The Australian Open's new CEO Andrew Abdo confirmed the Grand Slam will maintain its five-set format for men's singles. The announcement follows recent commentary that had raised questions about the tournament's playing structure.",
+      "article": "The Australian Open, under newly appointed CEO Andrew Abdo, has reaffirmed its commitment to the five-set format for men's singles competition. The confirmation comes after earlier remarks from Abdo that had prompted speculation about potential format changes at the major.\n\nAbdo took over the top position last month, replacing Craig Tiley. His early comments about the tournament's structure had triggered discussion in tennis circles about whether the Australian Open might reduce men's matches to best-of-three sets, a change that would align more closely with the other three majors (US Open, Wimbledon, French Open) and simplify scheduling and player recovery.\n\nThe reaffirmation of five sets underscores the Australian Open's desire to maintain its distinctive identity within the Grand Slam calendar. Five-set men's tennis is more physically demanding and can produce longer matches, which has both scheduling and broadcast implications. The decision reflects the tournament's positioning as one of tennis' most grueling tests and suggests continuity under new leadership despite the earlier uncertainty.",
+      "tweets": []
+    },
+    {
+      "category": "media",
+      "importance": 5,
+      "leadHeadline": "WNBA Finals faces more football competition this year",
+      "leadSource": "Sports Media Watch · 20h ago",
+      "leadUrl": "https://www.sportsmediawatch.com/2026/09/wnba-finals-schedule-more-football-competition/",
+      "summary": "The WNBA Finals will contend with increased football programming this season, the first under the league's new media rights deal. The scheduling overlap presents a competitive challenge for viewership.",
+      "article": "The WNBA Finals, now operating under a newly renegotiated media rights agreement, will face expanded competition from NFL programming during its run this season. The football scheduling overlap is more pronounced than in previous years, presenting a viewership challenge for the women's league.\n\nThe WNBA's updated media rights deal, a major financial win for the league, includes primetime positioning on major networks. However, the timing of the Finals coincides with the NFL's regular season, which commands massive audiences and promotional muscle. This is the first season under the new broadcast arrangement, so the competitive dynamic between WNBA Finals games and simultaneous football broadcasts will be closely monitored by media analysts and league executives.\n\nThe situation highlights a broader scheduling tension in the sports calendar: as the WNBA gains higher-profile media placements and larger rights fees, it must navigate the entrenched dominance of the NFL's fall schedule. The league's ability to retain and grow audiences despite this football competition will be a key metric for the success of the new media partnership.",
       "tweets": []
     },
     {
       "category": "revenue",
       "importance": 4,
-      "leadHeadline": "NFL 2026: The NFL Has a Big—and Lucrative—Opportunity in Japan",
-      "leadSource": "Sportico · 1h ago",
-      "leadUrl": "https://www.sportico.com/leagues/football/2026/nfl-international-opportunity-japan-1234944494/",
-      "summary": "As the richest sports league in the world, the NFL faces strategic questions about sustaining growth and fending off challenges like platform decay and lawsuits while eyeing international expansion opportunities, particularly in Japan.",
-      "article": "The NFL, now established as the richest sports league globally, sits at an inflection point: having achieved dominance in American sports, the league must now navigate questions about how to sustain that position without falling into complacency or overreach. Japan represents one of the league's next geographic frontiers, offering both growth potential and logistical complexity.\n\nThe league faces structural challenges beyond expansion: defending against platform decay as digital habits shift, managing legal exposure from lawsuits, and maintaining media rights value in a landscape where cord-cutting continues to accelerate. The questions facing NFL leadership are not about whether the league will remain profitable—it will—but how to compound that profitability while managing institutional risk.\n\nJapan specifically offers a market with high disposable income, existing American football interest through fantasy and college sports, and a broadcast infrastructure that can support premium content. The 2026 season is slated to include international games, building on the NFL's earlier success in Mexico City and London.",
+      "leadHeadline": "Kenny Albert on His Broadcasting Family, 60 Stadiums, Missing RedZone",
+      "leadSource": "Front Office Sports · 2h ago",
+      "leadUrl": "https://frontofficesports.com/article/kenny-albert-longest-tenured-fox-nfl-broadcaster/",
+      "summary": "Fox's longest-tenured NFL play-by-play announcer Kenny Albert discussed his career spanning 60 stadiums and his broadcasting family legacy. Albert remains one of the network's most durable on-air talents.",
+      "article": "Kenny Albert, Fox's longest-serving NFL play-by-play commentator, reflected on a broadcasting career that has taken him to 60 different stadiums across his tenure with the network. Albert comes from a storied broadcasting family, a legacy that has shaped his approach to sports media over decades of work.\n\nAlbert's longevity at Fox is notable in an era of rapid turnover among on-air talent. His consistency and experience have made him a fixture of NFL coverage, and his institutional knowledge of the league and its venues is a valuable asset to the network. The 60-stadium milestone speaks to the breadth of his assignment history across regular season, playoffs, and special events.\n\nAlbert's comments also touched on what he's missing in the current broadcast environment, including references to RedZone and other aspects of modern sports media that have evolved during his career. His perspective offers insight into how broadcast talent navigates changing technology, audience expectations, and the expanding universe of sports media platforms.",
+      "tweets": []
+    },
+    {
+      "category": "media",
+      "importance": 3,
+      "leadHeadline": "Sporticast: Are Late U.S. Open Matches a Victimless Crime?",
+      "leadSource": "Sportico · 8h ago",
+      "leadUrl": "https://www.sportico.com/podcasts/sporticast/2026/us-open-late-nights-sporticast-podcast-1234944514/",
+      "summary": "Sporticast hosts debated the US Open's late match scheduling after Ben Shelton's quarterfinal against Carlos Alcaraz ended after 3:30 a.m. ET. The extreme timing reignites criticism of tournament scheduling practices.",
+      "article": "The 586th episode of Sporticast, the sports business podcast from Sportico, examined the US Open's contentious scheduling practices after a men's quarterfinal between Ben Shelton and Carlos Alcaraz stretched into the early morning hours, concluding after 3:30 a.m. ET on Wednesday.\n\nHosts Scott Soshnick and Eben Novy-Williams explored whether the tournament's late-night matches constitute a genuine problem for fans, broadcasters, and the sport, or whether the scheduling is an acceptable trade-off for the Open's primetime television commitment. The match's length and late finish reignited a recurring debate in tennis: the tension between accommodating broadcast windows on the East Coast and maintaining reasonable hours for live spectators in the stadium.\n\nThe late finish impacts multiple stakeholders. Fans in attendance face exhausting overnight experiences. Athletes must perform at elite levels during unconventional hours. Broadcasters balance the desire for primetime ratings against the awkwardness of matches bleeding into overnight slots. The US Open's scheduling model prioritizes television windows, a choice that has become increasingly scrutinized as matches grow longer and night sessions extend deeper into morning hours.",
       "tweets": []
     }
   ],
@@ -2404,79 +2404,79 @@
   "ticket_prices": [],
   "sidebar": [
     {
-      "headline": "Blue Jays Ex-Files: How deadline departures are faring in stretch run",
+      "headline": "Dodgers add another prospect piece with Josue De Paula's dominant stretch",
+      "source": "NY Post Sports · 1h ago",
+      "article": "The Dodgers' prospect cupboard continues to overflow. Josue De Paula, the 21-year-old outfield prospect, delivered another tour-de-force performance Wednesday with Double-A Tulsa, reinforcing why he's become a central figure in the organization's long-term planning. De Paula has established himself as a consistent force at the minor-league level this season, offering the kind of complete hitting profile that MLB organizations covet. His ability to impact both sides of the plate and produce in high-leverage situations has made him a fixture of Dodgers prospect discussions. The performances keep stacking up, and the organization hasn't wavered in its assessment of his trajectory toward the majors."
+    },
+    {
+      "headline": "England's weather interruption halts Pakistan Test push",
+      "source": "BBC Sport · 1h ago",
+      "article": "England's bid for a two-day victory in the final Test against Pakistan at Edgbaston was slowed by rain Wednesday. The interruption came as England was pressing to close out the match ahead of schedule, a testament to the dominance it had established in the series. Weather delays are a routine part of Test cricket, but in this instance, they came at a moment when England had momentum on its side. The rain gave Pakistan brief relief but also extended the timeline for a potential English victory. The final day's outcome remains in play, though England's position suggests the visitors will need dramatic resistance to escape."
+    },
+    {
+      "headline": "Blue Jays, Orioles set for pivotal series with playoff implications",
       "source": "Sportsnet · 1h ago",
-      "article": "Toronto's recent trade deadline departures have scattered across baseball, and their performance down the stretch offers a window into the Blue Jays' roster-building calculus. A look at how those players are producing for their new clubs as the season enters its final weeks reveals whether the team's trades addressed legitimate needs or left assets on the table. The reporting tracks production across various playoff-contending squads."
+      "article": "The Blue Jays enter their final six matchups against the Orioles with playoff positioning on the line. The series carries outsized weight in the context of both teams' postseason hopes. Sportsnet's Nick Ashbourne examined how the teams stack up heading into this crucial stretch, analyzing everything from pitching depth to offensive firepower. The Orioles come in as division leaders, while the Jays occupy a wildcard position with room to climb. These six games could ultimately determine who secures the higher seed and whether one team sneaks into October while the other falls short. Bullpen depth, bench depth, and the ability to execute in tight spots will be defining factors."
     },
     {
-      "headline": "Top four seeds in historic semi-final line-up",
-      "source": "BBC Sport · 4h ago",
-      "article": "For the first time since 1975, all four top seeds in the women's US Open singles draw have reached the semi-finals, a rarity in Grand Slam tennis that underscores the consistency and depth of seeding accuracy in modern professional tennis. The achievement reflects both the stability of the sport's elite tier and the quality of the tournament draw."
+      "headline": "Hamilton, Leclerc 'squash' Monza tensions",
+      "source": "BBC Sport · 1h ago",
+      "article": "Lewis Hamilton said he and Ferrari teammate Charles Leclerc have resolved any lingering friction from the Italian Grand Prix. Hamilton's comments suggest the two drivers have moved past whatever controversy or miscommunication arose from their Monza encounter. Team harmony is critical for Ferrari's championship aspirations, and both drivers framed the resolution as decisive. The pair's relationship matters not only for internal Ferrari dynamics but also for how the team executes its strategy during the remainder of the season. Hamilton's willingness to publicly confirm the resolution signals that the issue, whatever its specifics, is closed."
     },
     {
-      "headline": "WNBA Finals faces more football competition this year",
-      "source": "Sports Media Watch · 17h ago",
-      "article": "The WNBA Finals will confront even stiffer football competition than usual this season, the first of its new media rights deal. The scheduling conflict underscores the league's ongoing challenge of carving out prime viewing slots in a crowded fall sports calendar dominated by the NFL's relentless pace."
+      "headline": "Teo Davidov's ambidextrous tennis experiment captivates US Open",
+      "source": "The Guardian · 4h ago",
+      "article": "Teo Davidov, a 16-year-old from Denver, brought an unorthodox playing style to the US Open that turned heads: he plays with two forehands, hitting backhands from neither side. Davidov serves from both sides and avoids the backhand stroke entirely, a wildly unconventional approach in professional tennis. He was the only player competing at this year's US Open across all categories, man, woman, or junior, who eschewed the backhand entirely. The experiment has proven it's more than a novelty. Davidov's ability to compete at a high level using only forehands raises questions about tennis' conventional wisdom and demonstrates that exceptional talent can transcend traditional technical frameworks."
     },
     {
-      "headline": "NFL 2026: What's Next for the NFL's Investment Arm, 32Equity?",
-      "source": "Sportico · 3h ago",
-      "article": "The NFL's investment vehicle, 32Equity, operates as the league attempts to diversify revenue streams beyond traditional media and sponsorship. The fund's strategy and performance reflect broader questions about how the wealthiest league in sports can compound returns while managing competitive balance and antitrust scrutiny."
-    },
-    {
-      "headline": "Novig CEO: Sydney Sweeney 'Forces Us Into National Discourse'",
-      "source": "Front Office Sports · 3h ago",
-      "article": "Sydney Sweeney received equity in Novig, a company that deployed a viral advertisement featuring the actress. The executive's framing of the partnership underscores how celebrity equity deals and provocative marketing can blur the lines between sponsorship, content, and cultural commentary."
-    },
-    {
-      "headline": "Sporticast: Are Late U.S. Open Matches a Victimless Crime?",
-      "source": "Sportico · 5h ago",
-      "article": "Ben Shelton's quarterfinal win over Carlos Alcaraz concluded after 3:30 a.m. ET Wednesday morning, renewing debate over the U.S. Open's scheduling practices. Hosts Scott Soshnick and Eben Novy-Williams examine whether the toll on players and broadcast audiences justifies the tournament's traditional night-match strategy."
+      "headline": "Maple Leafs retooled for 2026-27 with unresolved chemistry questions",
+      "source": "Sportsnet · 1h ago",
+      "article": "The Maple Leafs underwent significant changes over the offseason and return as a different roster with upgraded talent. But bigger questions loom about how the new pieces will coexist. Justin Bourne's analysis explores the tension between roster improvement and the unresolved question of whether the team can finally break through in the playoffs. Toronto made meaningful moves to strengthen its core, yet continuity concerns remain. The team is undoubtedly better on paper, but paper doesn't account for chemistry, health, and the unpredictable nature of a long season. Expectations are higher, but so are the stakes."
     }
   ],
   "poll": {
-    "question": "Will Sam Darnold's hip injury sideline him beyond Week 2?",
+    "question": "Which represents the biggest long-term threat to the NFL's dominance?",
     "options": [
-      "Out for season, Drew Lock is the starter now",
-      "Misses 2-4 weeks, returns as starter in November",
-      "Game-time decision Week 2, Darnold plays through it",
-      "Back in practice by Friday, plays Week 2"
+      "International market saturation and scheduling conflicts",
+      "Platform decay and cord-cutting trends among younger viewers",
+      "Player conduct and legal liability management",
+      "Labor disputes and collective bargaining disputes"
     ]
   },
   "predictions": [
     {
-      "statement": "The Seahawks' Week 1 victory despite Darnold's injury establishes them as a legitimate NFC West threat; they finish with at least 11 wins.",
-      "probability": 62,
-      "rationale": "Their defense forced three fourth-quarter turnovers and won on the road without their starting QB. That's a high-variance outcome that can repeat if Darnold returns healthy. The division is competitive but not loaded."
-    },
-    {
-      "statement": "Barry Melrose's death accelerates ESPN's broader talent-reshuffling and costs the network viewership among longtime NHL fans during its next media rights negotiation.",
-      "probability": 55,
-      "rationale": "Melrose was ESPN's most recognizable hockey personality for decades. His departure is a real loss to the network's brand continuity, especially as ESPN navigates declining cable sports viewership and NHL rights renewals."
-    },
-    {
-      "statement": "Skip Bayless and Shannon Sharpe's reunion project lands on a streaming or digital platform, not traditional cable, signaling continued erosion of linear sports talk.",
+      "statement": "The NFL will play a regular-season game in Japan within 18 months.",
       "probability": 72,
-      "rationale": "Both figures have built direct-to-consumer followings. Cable sports opinion is a declining format; streamers and podcasts are where personality-driven content thrives. A reunion project signals an attempt to own distribution."
+      "rationale": "Japan represents the league's most obvious international growth market, with existing fan infrastructure and corporate sponsorship appetite. The success of the Australia game this week will accelerate timeline discussions in the front office."
     },
     {
-      "statement": "The NFL plays a regular-season game in Japan by 2027, opening a new revenue stream worth $50 million-plus annually within five years.",
-      "probability": 68,
-      "rationale": "Japan has proven NFL interest, high disposable income, and no domestic football league. Mexico City and London games have been successful. The league is already eyeing Asia as a growth market; Japan is the natural next market."
+      "statement": "The US Open will reduce men's singles to best-of-three sets within three years.",
+      "probability": 38,
+      "rationale": "The Australian Open's reaffirmation of five sets shows institutional resistance to change, but scheduling pressures and player health concerns will mount. The other three majors' best-of-three format creates a growing outlier dynamic."
+    },
+    {
+      "statement": "WNBA Finals viewership will grow year-over-year despite increased NFL competition.",
+      "probability": 61,
+      "rationale": "The new media rights deal provides primetime positioning and network investment that should drive awareness. The league's growth trajectory and younger demographic appeal give it momentum that can withstand football scheduling overlap."
+    },
+    {
+      "statement": "At least one major US sports broadcaster will exit or significantly reduce NFL coverage by 2028.",
+      "probability": 44,
+      "rationale": "NFL rights fees continue to escalate while cord-cutting erodes traditional TV audiences. Economic pressure on legacy broadcasters combined with declining ratings for regular-season games creates incentive to exit or reduce commitment."
     }
   ],
   "injuries": [
     {
       "player": "Sam Darnold",
-      "team": "Seattle Seahawks",
+      "team": "New England Patriots",
       "league": "NFL",
       "position": "QB",
-      "status": "QUESTIONABLE",
+      "status": "OUT",
       "injury": "Hip injury",
-      "timeline": "Game-time decision, Week 2 status unclear",
-      "source": "The Guardian / Sportsnet",
-      "impact": "Darnold exited the season opener early; Drew Lock led two late scoring drives. His availability for Week 2 will determine Seattle's offensive continuity.",
-      "storyIndex": 3
+      "timeline": null,
+      "source": "The Guardian",
+      "impact": "Forced Drew Lock into the starting role in season opener; Lock led late scoring drives that secured the win.",
+      "storyIndex": 11
     }
   ],
   "picks": [
@@ -6187,38 +6187,38 @@
       "_pendingGrade": true
     }
   ],
-  "updatedAt": "2026-04-23T18:45:00Z",
+  "updatedAt": "2025-04-23T00:00:00Z",
   "highlights": [
     {
       "league": "NBA",
-      "title": "Nike | End of Ordinary Fashion Show",
-      "videoId": "sfFEUmHMhvc",
-      "thumbnail": "https://img.youtube.com/vi/sfFEUmHMhvc/mqdefault.jpg",
-      "timeAgo": "14h ago",
-      "isFallback": false
-    },
-    {
-      "league": "NFL",
-      "title": "The MOST Critical Fantasy X-Factors to Keep Your Eye on in Week 1 | Fantasy Focus",
-      "videoId": "md2EzgSL1rU",
-      "thumbnail": "https://img.youtube.com/vi/md2EzgSL1rU/mqdefault.jpg",
+      "title": "The Most INSANE Endings of the 2025-26 NBA Season | Pt. 2",
+      "videoId": "pPHOlLVyjQc",
+      "thumbnail": "https://img.youtube.com/vi/pPHOlLVyjQc/mqdefault.jpg",
       "timeAgo": "2h ago",
       "isFallback": false
     },
     {
+      "league": "NFL",
+      "title": "Why you CAN'T put Brock Bowers on IR yet 🏈 #fantasyfootball #nfl",
+      "videoId": "KLaraVlHFIo",
+      "thumbnail": "https://img.youtube.com/vi/KLaraVlHFIo/mqdefault.jpg",
+      "timeAgo": "Just now",
+      "isFallback": false
+    },
+    {
       "league": "MLB",
-      "title": "Pete Crow-Armstrong put the league on notice two years ago vs the Dodgers!",
-      "videoId": "70vvgU2Gxus",
-      "thumbnail": "https://img.youtube.com/vi/70vvgU2Gxus/mqdefault.jpg",
-      "timeAgo": "1h ago",
+      "title": "MLB at Field of Dreams 360° Tour | Walk around the movie site &amp; an MLB stadium in a cornfield!",
+      "videoId": "n7JOUSLuF_Q",
+      "thumbnail": "https://img.youtube.com/vi/n7JOUSLuF_Q/mqdefault.jpg",
+      "timeAgo": "2h ago",
       "isFallback": false
     },
     {
       "league": "NHL",
-      "title": "Barry Melrose: Remembering the NHL Coach and Broadcaster",
-      "videoId": "GbwHqxVSyTs",
-      "thumbnail": "https://img.youtube.com/vi/GbwHqxVSyTs/mqdefault.jpg",
-      "timeAgo": "9h ago",
+      "title": "THROWBACK: Bourque goes out in style",
+      "videoId": "B9r_1NOzUIA",
+      "thumbnail": "https://img.youtube.com/vi/B9r_1NOzUIA/mqdefault.jpg",
+      "timeAgo": "1h ago",
       "isFallback": false
     },
     {
@@ -6234,18 +6234,130 @@
       "title": "LEWANDOWSKI VS. MESSI 🍿 Chicago Fire vs. Inter Miami | MLS Highlights | ESPN FC",
       "videoId": "yCqIxGhkWtM",
       "thumbnail": "https://img.youtube.com/vi/yCqIxGhkWtM/mqdefault.jpg",
-      "timeAgo": "12h ago",
+      "timeAgo": "15h ago",
       "isFallback": false
     }
   ],
   "reels": [
     {
       "league": "NFL",
-      "title": "'WHAT ARE WE DOING?!' 😩 SOUNDING OFF on Drake Maye's 3 interceptions in the Patriots' loss | Get Up",
-      "videoId": "QvJRgZCyY6Y",
+      "title": "Why you CAN'T put Brock Bowers on IR yet 🏈 #fantasyfootball #nfl",
+      "videoId": "KLaraVlHFIo",
       "author": "NFL on ESPN",
-      "pubDate": "2026-09-10T14:09:33+00:00",
-      "link": "https://www.youtube.com/watch?v=QvJRgZCyY6Y"
+      "pubDate": "2026-09-10T17:32:26+00:00",
+      "link": "https://www.youtube.com/watch?v=KLaraVlHFIo"
+    },
+    {
+      "league": "NFL",
+      "title": "🚨 Adam Schefter's insight on Sam Darnold and A.J. Brown's Week 1 injuries 🚨 | The Pat McAfee Show",
+      "videoId": "tud5qRoOvbE",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-09-10T17:21:03+00:00",
+      "link": "https://www.youtube.com/watch?v=tud5qRoOvbE"
+    },
+    {
+      "league": "NFL",
+      "title": "CRITICAL Week 1 Fantasy Advice: Lineup Decisions You Can't Miss! | ESPN Fantasy",
+      "videoId": "zPueWIvcGig",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-09-10T17:15:07+00:00",
+      "link": "https://www.youtube.com/watch?v=zPueWIvcGig"
+    },
+    {
+      "league": "NHL",
+      "title": "THROWBACK: Bourque goes out in style",
+      "videoId": "B9r_1NOzUIA",
+      "author": "NHL",
+      "pubDate": "2026-09-10T17:00:21+00:00",
+      "link": "https://www.youtube.com/watch?v=B9r_1NOzUIA"
+    },
+    {
+      "league": "NFL",
+      "title": "The Texans have been a NIGHTMARE for Josh Allen! - Stephen A. expects trouble in WK 1 👀 | First Take",
+      "videoId": "3joQ7IHHpGA",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-09-10T16:21:57+00:00",
+      "link": "https://www.youtube.com/watch?v=3joQ7IHHpGA"
+    },
+    {
+      "league": "NFL",
+      "title": "How much pressure is on Kyler Murray this season? 👀",
+      "videoId": "tFFr2lWYhOk",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-09-10T16:11:06+00:00",
+      "link": "https://www.youtube.com/watch?v=tFFr2lWYhOk"
+    },
+    {
+      "league": "NFL",
+      "title": "There's still more to prove to Stephen A. 👀",
+      "videoId": "nNdbJ5IfM4s",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-09-10T16:03:51+00:00",
+      "link": "https://www.youtube.com/watch?v=nNdbJ5IfM4s"
+    },
+    {
+      "league": "MLB",
+      "title": "MLB at Field of Dreams 360° Tour | Walk around the movie site &amp; an MLB stadium in a cornfield!",
+      "videoId": "n7JOUSLuF_Q",
+      "author": "MLB",
+      "pubDate": "2026-09-10T16:00:39+00:00",
+      "link": "https://www.youtube.com/watch?v=n7JOUSLuF_Q"
+    },
+    {
+      "league": "MLB",
+      "title": "he made that look easy 😤",
+      "videoId": "sYiGnHmwnvM",
+      "author": "MLB",
+      "pubDate": "2026-09-10T16:00:37+00:00",
+      "link": "https://www.youtube.com/watch?v=sYiGnHmwnvM"
+    },
+    {
+      "league": "NHL",
+      "title": "The reactions to these great goals...😲🤯😱",
+      "videoId": "5c8kxZjSUYs",
+      "author": "NHL",
+      "pubDate": "2026-09-10T16:00:31+00:00",
+      "link": "https://www.youtube.com/watch?v=5c8kxZjSUYs"
+    },
+    {
+      "league": "NBA",
+      "title": "The Most INSANE Endings of the 2025-26 NBA Season | Pt. 2",
+      "videoId": "pPHOlLVyjQc",
+      "author": "NBA",
+      "pubDate": "2026-09-10T16:00:03+00:00",
+      "link": "https://www.youtube.com/watch?v=pPHOlLVyjQc"
+    },
+    {
+      "league": "MLB",
+      "title": "Reds' Carlos Jorge flies through the air to make a SPECTACULAR catch 😮‍💨",
+      "videoId": "6T4wr2q3Ick",
+      "author": "MLB",
+      "pubDate": "2026-09-10T15:55:39+00:00",
+      "link": "https://www.youtube.com/watch?v=6T4wr2q3Ick"
+    },
+    {
+      "league": "NFL",
+      "title": "Why Stephen A.'s attitude hasn't changed about Drake Maye 🏈 'I was never sold!' | First Take",
+      "videoId": "PRV0YA5NOSE",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-09-10T15:49:05+00:00",
+      "link": "https://www.youtube.com/watch?v=PRV0YA5NOSE"
+    },
+    {
+      "league": "NFL",
+      "title": "The MOST Critical Fantasy X-Factors to Keep Your Eye on in Week 1 | Fantasy Focus",
+      "videoId": "md2EzgSL1rU",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-09-10T15:04:55+00:00",
+      "link": "https://www.youtube.com/watch?v=md2EzgSL1rU"
+    },
+    {
+      "league": "MLB",
+      "title": "From a manager’s pep talk to a thrilling walk-off for the Brewers 👏",
+      "videoId": "csJYNRfPZLc",
+      "author": "MLB",
+      "pubDate": "2026-09-10T15:00:13+00:00",
+      "link": "https://www.youtube.com/watch?v=csJYNRfPZLc"
     },
     {
       "league": "MLB",
@@ -6256,60 +6368,12 @@
       "link": "https://www.youtube.com/watch?v=70vvgU2Gxus"
     },
     {
-      "league": "NFL",
-      "title": "Does C.J Stroud have what it takes to go to the Super Bowl? 🤔",
-      "videoId": "0kASoPW9x-I",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-09-10T13:51:55+00:00",
-      "link": "https://www.youtube.com/watch?v=0kASoPW9x-I"
-    },
-    {
-      "league": "NFL",
-      "title": "Hawk was waiting on that one 🤣",
-      "videoId": "NEUfLj3G4UE",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-09-10T13:22:43+00:00",
-      "link": "https://www.youtube.com/watch?v=NEUfLj3G4UE"
-    },
-    {
-      "league": "NFL",
-      "title": "Schefty weighs in on the Vikings’ QB 🏈",
-      "videoId": "IFgBbZkvZeA",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-09-10T13:18:33+00:00",
-      "link": "https://www.youtube.com/watch?v=IFgBbZkvZeA"
-    },
-    {
-      "league": "NFL",
-      "title": "Adam Schefter shares his thoughts after the Patriots’ loss to the Seahawks ✍️",
-      "videoId": "5gHdDPPFBO8",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-09-10T13:13:23+00:00",
-      "link": "https://www.youtube.com/watch?v=5gHdDPPFBO8"
-    },
-    {
       "league": "MLB",
       "title": "WILD GAMES in Philly AND Miami, Elly De La Cruz homers in 5 straight games, and MUCH MORE!",
       "videoId": "mbWk7oDNM1k",
       "author": "MLB",
       "pubDate": "2026-09-10T13:00:03+00:00",
       "link": "https://www.youtube.com/watch?v=mbWk7oDNM1k"
-    },
-    {
-      "league": "NFL",
-      "title": "The MOST Critical Fantasy X-Factors to Keep Your Eye on in Week 1 | Fantasy Focus",
-      "videoId": "md2EzgSL1rU",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-09-10T12:54:24+00:00",
-      "link": "https://www.youtube.com/watch?v=md2EzgSL1rU"
-    },
-    {
-      "league": "NFL",
-      "title": "Peter Schrager's WILD NFC Playoff Picture 🤯🤯🤯",
-      "videoId": "fsyK4jlEilw",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-09-10T12:15:37+00:00",
-      "link": "https://www.youtube.com/watch?v=fsyK4jlEilw"
     },
     {
       "league": "MLB",
@@ -6334,46 +6398,6 @@
       "author": "NHL",
       "pubDate": "2026-09-10T05:27:31+00:00",
       "link": "https://www.youtube.com/watch?v=GbwHqxVSyTs"
-    },
-    {
-      "league": "MLB",
-      "title": "REDS vs. DODGERS: Official Full Game Highlights (September 9) | 2026 MLB Season",
-      "videoId": "ff_QRqsC01Q",
-      "author": "MLB",
-      "pubDate": "2026-09-10T05:00:44+00:00",
-      "link": "https://www.youtube.com/watch?v=ff_QRqsC01Q"
-    },
-    {
-      "league": "MLB",
-      "title": "10 STRIKEOUTS! Yoshinobu Yamamoto was DEALING for the Dodgers! | MLB Highlights",
-      "videoId": "UwNA_WlAp7Q",
-      "author": "MLB",
-      "pubDate": "2026-09-10T04:46:00+00:00",
-      "link": "https://www.youtube.com/watch?v=UwNA_WlAp7Q"
-    },
-    {
-      "league": "MLB",
-      "title": "ONE SWING: 3rd Dodgers homer of the night and Kiké Hernández's 3rd homer of 2026! | MLB Highlights",
-      "videoId": "ayoN6eFEuT4",
-      "author": "MLB",
-      "pubDate": "2026-09-10T04:17:51+00:00",
-      "link": "https://www.youtube.com/watch?v=ayoN6eFEuT4"
-    },
-    {
-      "league": "MLB",
-      "title": "Mashin' Max Muncy belts his 27th home run of the season for the Dodgers! | MLB Highlights",
-      "videoId": "Ic4oq9yCC7o",
-      "author": "MLB",
-      "pubDate": "2026-09-10T04:00:26+00:00",
-      "link": "https://www.youtube.com/watch?v=Ic4oq9yCC7o"
-    },
-    {
-      "league": "NFL",
-      "title": "Drew Lock talks replacing Sam Darnold in Seattle’s win vs. New England | SC with SVP",
-      "videoId": "7hB5Cu-Sbww",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-09-10T03:55:48+00:00",
-      "link": "https://www.youtube.com/watch?v=7hB5Cu-Sbww"
     },
     {
       "league": "SOCCER",
@@ -6534,30 +6558,6 @@
       "author": "NBA",
       "pubDate": "2026-09-07T14:22:15+00:00",
       "link": "https://www.youtube.com/watch?v=R8R9leQIJhQ"
-    },
-    {
-      "league": "NBA",
-      "title": "Happy Birthday Donovan Mitchell 🎉",
-      "videoId": "r00rHKjcRPI",
-      "author": "NBA",
-      "pubDate": "2026-09-07T14:20:35+00:00",
-      "link": "https://www.youtube.com/watch?v=r00rHKjcRPI"
-    },
-    {
-      "league": "NHL",
-      "title": "THROWBACK: MALKIN MADE IT RAIN HATS 🧢",
-      "videoId": "LakqwQFDiY0",
-      "author": "NHL",
-      "pubDate": "2026-09-06T17:00:14+00:00",
-      "link": "https://www.youtube.com/watch?v=LakqwQFDiY0"
-    },
-    {
-      "league": "NHL",
-      "title": "THROWBACK: Stepan Steps UP big time!",
-      "videoId": "zjgE0xVBycE",
-      "author": "NHL",
-      "pubDate": "2026-09-05T17:00:08+00:00",
-      "link": "https://www.youtube.com/watch?v=zjgE0xVBycE"
     }
   ]
 }
