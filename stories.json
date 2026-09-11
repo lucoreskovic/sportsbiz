@@ -1,73 +1,81 @@
 {
   "clusters": [
     {
-      "category": "leagues",
+      "category": "media",
       "importance": 9,
-      "leadHeadline": "DOJ Probe Into Clippers, Kawhi Adds Criminal Risk to CapCase",
+      "leadHeadline": "Tiafoe-Shelton Brings Hope to American Men's Tennis",
       "leadSource": "Sportico · 1h ago",
-      "leadUrl": "https://www.sportico.com/law/analysis/2026/los-angeles-clippers-kawhi-doj-investigation-1234944754/",
-      "summary": "Federal prosecutors in Brooklyn opened a criminal investigation Thursday into the Clippers' salary-cap circumvention scheme with Kawhi Leonard, escalating the scandal beyond the NBA's record penalties.",
-      "article": "<cite index=\"1-4\">The U.S. Attorney's Office in Brooklyn is leading the criminal investigation, which is in its earliest stages.</cite> <cite index=\"7-2\">Prosecutors have already issued at least one subpoena.</cite>\n\n<cite index=\"3-4\">The investigation centers on whether the Clippers, owner Steve Ballmer and Leonard circumvented the league's salary cap via third-party deals that funneled tens of millions of dollars to the seven-time NBA All-Star.</cite> <cite index=\"1-11\">League investigators found the Clippers directed a kickback from a massive scoreboard contract for Intuit Dome to Leonard in the form of an endorsement deal and set the terms of a multiyear deal worth millions of dollars.</cite>\n\n<cite index=\"8-3,8-4\">Leonard had a \"no-show job\" endorsement deal with Aspiration, a fraudulent company partially funded by Ballmer, where Leonard agreed to be paid $28 million over four years but never endorsed the company in any way.</cite>\n\n<cite index=\"2-4,2-5,2-6,2-7\">The Brooklyn office has prosecuted several NBA figures in cases involving illegal gambling and wire fraud, though a DOJ investigation doesn't mean criminal charges will be sought—sometimes probes conclude without finding criminal behavior—but brings the power of federal prosecutors to compel disclosure of evidence and testimony.</cite>\n\n<cite index=\"6-8,6-9,6-10\">Last month the NBA handed down unprecedented penalties: the Clippers surrender five first-round draft picks (2029-33), owner Steve Ballmer is suspended one year, and team executives Gillian Zucker and Lawrence Frank face one-year and six-month suspensions respectively.</cite> <cite index=\"1-8\">Leonard must pay the NBA $700,000.</cite>",
+      "leadUrl": "https://www.sportico.com/leagues/tennis/2026/frances-tiafoe-ben-shelton-us-open-1234944806/",
+      "summary": "For the first time in the Open era, two Black American men meet in a Grand Slam semifinal. One will reach Sunday's final and get a chance to end the 23-year men's Grand Slam drought dating to Andy Roddick's 2003 US Open.",
+      "article": "Ben Shelton and Frances Tiafoe face off Friday in the first all-Black American Grand Slam semifinal in the Open era, 58 years after Arthur Ashe's win.\n\nShelton arrives fresh off a shock over defending champion Carlos Alcaraz, 6-7(5), 6-1, 6-3, 1-6, 7-6(7). The match lasted four hours and 28 minutes and ended at 3:33 a.m., the latest finish in US Open history. It marked Shelton's first career win over a top-three player, against which he had been 0-17 coming into the match.\n\nTiafoe came back from down two sets to defeat fellow American Alex Michelsen on Tuesday. This reaches his third U.S. Open semifinal, and he joins Andre Agassi as the only American man since 2000 to make three U.S. Open semifinals, rising to a career-high ranking of No. 8.\n\nShelton leads their head-to-head, with the pair splitting two prior US Open meetings—Shelton won in 2023, Tiafoe in 2024. The winner will become the first American man to reach the US Open final since Taylor Fritz in 2024 and have a chance to end the American men's 23-year Grand Slam title drought—stretching back to Andy Roddick's 2003 US Open triumph.",
+      "tweets": [
+        {
+          "url": "https://twitter.com/CNN/status/2097629868397601261",
+          "html": "<blockquote class=\"twitter-tweet\" data-dnt=\"true\" data-theme=\"dark\"><p>US tennis star Ben Shelton eventually got the better of Carlos Alcaraz in the latest-ever finish in US Open history, ending the Spaniard's title defense and progressing to an all-American semifinal.\nhttps://t.co/sJkrpGhqA8 https://t.co/BtxRQ4491s</p>&mdash; CNN (@CNN) <a href=\"https://twitter.com/CNN/status/2097629868397601261\">September 9, 2026</a></blockquote>",
+          "author_name": "CNN",
+          "author_url": "https://twitter.com/CNN",
+          "dateMs": 1788948907000
+        }
+      ]
+    },
+    {
+      "category": "media",
+      "importance": 8,
+      "leadHeadline": "Sabalenka and Rybakina resume epic rivalry at US Open after switch at No 1",
+      "leadSource": "The Guardian · 1h ago",
+      "leadUrl": "https://www.theguardian.com/sport/2026/sep/11/rybakina-and-sabalenka-resume-epic-rivalry-at-us-open-after-switch-at-no-1",
+      "summary": "Elena Rybakina and Aryna Sabalenka meet in the US Open semifinal with the ranking No. 1 spot on the line. Rybakina will assume the top ranking after the tournament concludes, resuming their pattern of meeting in consecutive Grand Slam finals.",
+      "article": "Elena Rybakina and Aryna Sabalenka meet in the US Open semifinal with the ranking positions shifting as the tournament progresses. Rybakina will ascend to No. 1 after the event ends, regardless of Friday's outcome, continuing a recent pattern in which the two players have collided in back-to-back Grand Slam finals.\n\nThe semifinal represents the third consecutive major final meeting for this rivalry, underscoring their dominance at the sport's elite level. Sabalenka has won the Australian Open twice in recent years and holds the higher ranking entering this week, but Rybakina's consistency through the US Open draw has locked in her ascension to the top spot.\n\nBoth players are capable of reaching Sunday's final, where they would face either Frances Tiafoe or Ben Shelton in the championship match. A Rybakina victory would mark her first US Open title; Sabalenka has not yet won this major either. The semifinal carries the weight of their history: they know each other's games intimately, and neither has found a way to decisively end the rivalry, instead meeting at the sport's most prestigious moments.",
       "tweets": []
     },
     {
-      "category": "leagues",
+      "category": "revenue",
       "importance": 8,
-      "leadHeadline": "Elena Rybakina rallies to beat Coco Gauff and book US Open final with Aryna Sabalenka",
-      "leadSource": "The Guardian · 11h ago",
-      "leadUrl": "https://www.theguardian.com/sport/2026/sep/11/elena-rybakina-beats-coco-gauff-us-open-womens-semi-final",
-      "summary": "Second-seeded Elena Rybakina fought back from a set down to defeat Coco Gauff 3-6, 6-4, 6-4 in the US Open semifinal, advancing to Sunday's title match against defending champion Aryna Sabalenka. The Kazakh recovered after losing the opening set inside Arthur Ashe Stadium.",
-      "article": "Elena Rybakina rallied from a first-set loss to beat Coco Gauff 3-6, 6-4, 6-4 and reach the US Open final on Thursday. The second-seeded Kazakh trailed after dropping the opening set to the American inside Arthur Ashe Stadium but won the next two sets in succession to advance. Rybakina's comeback carries her to Sunday's championship match against Aryna Sabalenka, the defending US Open champion, who dispatched Jessica Pegula in the other semifinal. The result caps a week of deep runs by both women, with Gauff's loss marking the end of a promising semifinal push at Flushing Meadows. Rybakina's victory improves her record in major semifinals and adds momentum heading into the title decider against Sabalenka, a player she has faced multiple times this season. The final will be contested on the Arthur Ashe court Sunday.",
-      "tweets": []
-    },
-    {
-      "category": "leagues",
-      "importance": 8,
-      "leadHeadline": "49ers rout Rams in NFLs first Australia game behind Purdys three TD passes",
-      "leadSource": "Sportsnet · 11h ago",
-      "leadUrl": "",
-      "summary": "The San Francisco 49ers defeated the Los Angeles Rams 27-7 in the NFL's first regular-season game in Australia, with quarterback Brock Purdy throwing three touchdown passes to Mike Evans, DeMarcus Robinson, and Deebo Samuel. The game drew a sold-out Melbourne crowd of 100,000.",
-      "article": "The San Francisco 49ers routed the Los Angeles Rams 27-7 Friday at the Melbourne Cricket Ground in the first-ever NFL regular-season game played in Australia. Brock Purdy threw three touchdown passes, one each to Mike Evans, DeMarcus Robinson, and Deebo Samuel, leading a 49ers offense that dominated throughout the contest. The game drew approximately 100,000 spectators to a sold-out venue, representing a significant expansion of the NFL's international footprint. The morning kickoff in Melbourne, which occurred at 9am local time, presented logistical challenges for both teams but drew a diverse Australian crowd unfamiliar with traditional NFL venues. The Rams scored only a field goal in the rout, finding little offensive traction against the 49ers defense. The Australia game fulfills the NFL's ongoing strategy to stage regular-season contests internationally as a means of growing the sport's global audience and commercial reach. The success of the attendance and broadcast metrics will likely inform future international scheduling decisions. Both teams are now preparing for their respective Week 2 matchups of the 2026 season.",
+      "leadHeadline": "How NFL Teams and Owners Made $23.5 Billion Last Year",
+      "leadSource": "Sportico · 2h ago",
+      "leadUrl": "https://www.sportico.com/feature/how-nfl-teams-owners-make-money-1234795113/",
+      "summary": "NFL teams and owners generated $23.5 billion in revenue in the previous year, reflecting football's dominance as America's favorite sport at 31% viewership compared to basketball, baseball, and soccer combined.",
+      "article": "NFL teams and owners generated $23.5 billion in revenue last year, a figure that underscores the league's financial dominance in American sports and its continued growth despite a crowded media landscape.\n\nFootball commands 31 percent of Americans' sports viewership preference, roughly triple basketball's 11 percent share and dwarfing baseball and soccer, each at around 10 percent. This preference translates directly to the bottom line: the revenue haul spans broadcast rights, stadium operations, merchandise, licensing, and ancillary betting and fantasy platforms that have become critical revenue drivers since their full legalization.\n\nThe $23.5 billion figure reflects contributions from all 32 franchises and reflects the NFL's negotiated media deals with CBS, FOX, ESPN, Amazon Prime, and other platforms that lock in premium rates year to year. Teams in nearly all but a handful of franchises see a realistic path to the playoffs, which heightens fan engagement and spending through the regular season. The allure of gambling and daily fantasy football has further expanded the league's addressable market beyond traditional gate and broadcast revenue, creating multiple monetization streams per fan. As the season kicks off, this revenue momentum enters its most critical earnings window, with primetime broadcasts, playoff positioning, and Super Bowl positioning all pending.",
       "tweets": []
     },
     {
       "category": "media",
+      "importance": 7,
+      "leadHeadline": "Five-set tennis is under attack. Killing it would be a colossal unforced error",
+      "leadSource": "The Guardian · 10h ago",
+      "leadUrl": "https://www.theguardian.com/sport/2026/sep/11/us-open-five-set-tennis-shelton-alcaraz-late-night-matches",
+      "summary": "Five-set tennis matches face pressure from tour operators and broadcasters seeking shorter formats, but their elimination would strip away much of what makes Grand Slam tennis compelling, argues Andrew Lawrence.",
+      "article": "Five-set matches remain under threat from broadcasters and tour organizers seeking to compress tournament schedules and predictability, yet eliminating them would sacrifice the format's greatest asset: the drama and physical extremity that define Grand Slam tennis at its best.\n\nTuesday night's quarterfinal between Ben Shelton and Carlos Alcaraz exemplified what the five-set format produces: the back-and-forth momentum shifts, the physical toll that separates true champions from one-week performers, and the narrative arcs that make tennis memorable. Shelton's victory in that match carried weight precisely because both players had to sustain excellence across five sets under duress.\n\nThe criticism of five-set play is familiar: they run long, they mess with broadcast schedules, they can end in anticlimactic fifth sets. But these criticisms miss why the format exists. Tennis at the Grand Slam level is supposed to be punishing. It is supposed to separate contenders from champions. The five-set format does that work in a way no best-of-three can replicate. Shorter matches might be efficient for broadcasters, but they hollow out the very thing that makes winning a major title meaningful. Removing five-set tennis would be a surrender to convenience at the expense of the sport's integrity.",
+      "tweets": []
+    },
+    {
+      "category": "media",
+      "importance": 7,
+      "leadHeadline": "Fred Warner passes 49ers legend for franchise record in win over Rams",
+      "leadSource": "NY Post Sports · just now",
+      "leadUrl": "https://nypost.com/2026/09/11/sports/fred-warner-passes-patrick-willis-most-tackles-49ers-history/",
+      "summary": "Linebacker Fred Warner surpassed a 49ers franchise record in the team's 27-7 season-opening victory over the Rams in Australia. Kyle Shanahan awarded recognition to both the strength staff and Warner for their roles in adapting to the 17-hour time difference.",
+      "article": "Fred Warner reached a franchise milestone in the 49ers' 27-7 season-opening victory over the Rams in Melbourne, Australia, passing a 49ers defensive legend in the process. The linebacker's achievement came on the same night the team overcame an extreme travel challenge, having crossed the Pacific with just days to prepare.\n\nKyle Shanahan awarded one game ball to the 49ers strength and conditioning staff for their work managing the 17-hour time-zone adjustment, acknowledging that preparation and recovery protocols were essential to avoiding the usual travel-lag letdown. The second game ball went to Warner, whose impact on defense helped San Francisco jump to an early lead and sustain it through the match.\n\nThe 49ers' defensive performance set the tone early: they held the Rams to a field goal and forced multiple three-and-outs in the first half. Warner's tackling and coverage assignments were central to that dominance. The franchise-record achievement speaks to his durability and consistency over years of service with San Francisco, making him a cornerstone of a defense built around elite linebacker play. The season-opening success in Australia gives the 49ers momentum heading into their home opener.",
+      "tweets": []
+    },
+    {
+      "category": "contracts",
       "importance": 6,
-      "leadHeadline": "NBC tops quieter week one of college football season",
-      "leadSource": "Sports Media Watch · 13h ago",
-      "leadUrl": "https://www.sportsmediawatch.com/2026/09/college-football-week-1-ratings-recap-nbc-tops-quiet-opening-weekend/",
-      "summary": "NBC led viewership in the first week of the college football season, which delivered lower overall audiences than the prior year due to a thinner marquee matchup schedule. The network's telecasts outperformed competing broadcasts in an abbreviated Week 1 slate.",
-      "article": "NBC topped television ratings for Week 1 of the 2026 college football season, though overall viewership declined from a year ago as the schedule lacked the blockbuster nonconference matchups that typically anchor the opening weekend. The network's programming outpaced competitors in raw viewership, but the week-over-week drop signals a softer start to the season compared to prior years. Sports Media Watch reported that the absence of major-brand neutral-site games and fewer top-tier conference showdowns contributed to lower average audiences across all carriers. The college football media landscape continues to consolidate around fewer flagship events, a trend that has defined the sport's broadcast ecology over the past three seasons. Networks and the College Football Playoff committee are monitoring early-season ratings closely as they plan remaining marquee scheduling and playoff-selection decisions.",
+      "leadHeadline": "Fantasy Football waiver wire impact of Tua Tagovailoa being ruled out and more from Week 1 injury report",
+      "leadSource": "CBS Sports · just now",
+      "leadUrl": "https://www.cbssports.com/fantasy/football/news/fantasy-football-waiver-wire-nfl-injury-report-week-1-tua-tagovailoa/",
+      "summary": "Tua Tagovailoa has been ruled out for Week 1, creating fantasy football impact across rosters and opening the door for backup quarterback options heading into the season's first games.",
+      "article": "Tua Tagovailoa was ruled out for Week 1, a decision that ripples through fantasy rosters across the league as the season begins. The Dolphins' quarterback status forces fantasy players to pivot on waiver claims and lineup decisions made in the final days of draft preparation.\n\nWeek 1 injuries have already begun to reshape fantasy landscapes. Beyond Tagovailoa, other notable starters face uncertainty or are sidelined heading into the weekend's slate. The injury report provides replacement options for all positions, allowing fantasy managers to avoid the season-opening cap-out that roster depth is supposed to prevent.\n\nThe Tagovailoa situation is particularly notable because it affects an entire passing game ecosystem: receivers, tight ends, and even the opposing defenses that will face either Tagovailoa or his replacement. Teams that drafted Tagovailoa in the later rounds or took a flier on his upside now confront a reset choice. Backup quarterback dynamics often produce short-term fantasy gains for secondary receiving options, as new starters tend to lean on safer targets and higher-volume play calls. The Week 1 waiver-wire market typically rewards preparedness, and this injury cycle is no exception.",
       "tweets": []
     },
     {
-      "category": "media",
+      "category": "labor",
       "importance": 5,
-      "leadHeadline": "Kirk Herbstreit Embraces College Football's Influencer Era",
-      "leadSource": "Front Office Sports · 5h ago",
-      "leadUrl": "https://frontofficesports.com/article/kirk-herbstreit-embraces-college-footballs-influencer-era/",
-      "summary": "ESPN's Kirk Herbstreit told Front Office Sports that college football has entered a content-driven era shaped by influencers and social media personalities. The College GameDay host acknowledged the sport's shifting media landscape beyond traditional broadcast.",
-      "article": "Kirk Herbstreit, ESPN's lead college football analyst and College GameDay host, has adapted to a new era in which influencers and content creators drive viewership and conversation around the sport. In an interview with Front Office Sports, Herbstreit said college football now operates in a world defined by content production across platforms beyond traditional television broadcast. The shift reflects broader industry consolidation around streaming, social media, and creator-led programming, a development that has reshaped how games are marketed and consumed. Herbstreit's acknowledgment underscores the reality that ESPN and legacy broadcasters are no longer the sole arbiters of college football narrative. Younger audiences increasingly follow games through TikTok, Instagram, and YouTube rather than linear television. The dynamic has forced networks and commentators to operate across multiple platforms and compete for attention with non-traditional media figures. Herbstreit's public embrace of this evolution signals the industry's acceptance of a fragmented, creator-driven mediascape.",
-      "tweets": []
-    },
-    {
-      "category": "leagues",
-      "importance": 4,
-      "leadHeadline": "Pacesetter Russell says Madrid 'has less margin than Monaco'",
-      "leadSource": "BBC Sport · 2h ago",
-      "leadUrl": "https://www.bbc.co.uk/sport/formula1/articles/cew9nr2kx20o?at_medium=RSS&amp;at_campaign=rss",
-      "summary": "George Russell topped first practice for the Spanish Grand Prix, and told reporters the Madrid circuit offers less room for error than the Monaco street course. Russell's comments came hours after his fastest lap in the opening session.",
-      "article": "George Russell set the pace in the first practice session for the Spanish Grand Prix, and cautioned that the Madrid circuit is more demanding than Monaco in terms of margin for error. Russell's fastest time in opening practice came hours before his remark on track characteristics, signaling early Mercedes competitiveness. The Spanish Grand Prix has become a barometer for season-long performance in Formula 1, and Friday practice results often foreshadow qualifying and race dynamics. Russell's assessment of the circuit's difficulty reflects the technical precision required at a street-based layout with tight corners and limited run-off zones. Mercedes has struggled with setup and consistency at street circuits in recent seasons, making Russell's pace notable. The grid will continue practice and qualifying sessions through the weekend before Sunday's race.",
-      "tweets": []
-    },
-    {
-      "category": "leagues",
-      "importance": 3,
-      "leadHeadline": "Hull fined £30k & bans issued over Chelsea chant",
-      "leadSource": "BBC Sport · 1h ago",
-      "leadUrl": "https://www.bbc.co.uk/sport/football/articles/c624l1v9853o?at_medium=RSS&amp;at_campaign=rss",
-      "summary": "Hull City received a £30,000 fine and issued three supporter bans following discriminatory chanting during their FA Cup loss to Chelsea in February. The Football Association sanctions addressed offensive conduct by supporters at the match.",
-      "article": "Hull City was fined £30,000 and issued three supporter bans after discriminatory chanting occurred during the club's FA Cup defeat to Chelsea in February, the Football Association announced. The sanctions represent standard protocol for clubs found to have allowed or failed to adequately address offensive supporter conduct at matches. Hull responded by reinforcing its code of conduct and pledging to work with stewards and security to prevent future incidents. The club has not publicly identified the supporters subject to bans nor specified the nature of the chanting beyond the FA's discrimination findings. The incident underscores ongoing efforts by English football authorities to combat discriminatory behavior at stadiums and holds clubs accountable for fan conduct during matches.",
+      "leadHeadline": "Tua Tagovailoa out for Week 1 as Falcons QB debacle takes another turn",
+      "leadSource": "NY Post Sports · just now",
+      "leadUrl": "https://nypost.com/2026/09/11/sports/tua-tagovailoa-out-for-week-1-as-falcons-qb-debacle-takes-another-turn/",
+      "summary": "Tua Tagovailoa has been ruled out for Week 1, and the Falcons' quarterback situation enters another chapter of instability with Cooper Rush stepping in.",
+      "article": "Tua Tagovailoa's Week 1 absence opens the door for Cooper Rush to take over Atlanta's starting quarterback role, the latest turn in what has become a tumultuous offseason for the Falcons' signal-caller position.\n\nRush has been in the backup role throughout the preseason and has managed games effectively when called upon in past seasons. The Falcons' decision to start Rush suggests Tagovailoa's absence is more than a single-week injury; it signals a shift in the team's confidence or a planned rotation heading into the season's earliest games.\n\nThe Falcons' quarterback instability has been a recurring theme through the offseason. Multiple veteran options have cycled through the depth chart, and the team has not established clear starter momentum heading into the season. Rush's insertion into the starting lineup for Week 1 is a pragmatic move, though it further underscores the organization's lack of clarity at the position. The performance this week will determine whether Rush keeps the job or if Tagovailoa reclaims the role upon return. For fantasy players and bettors, this situation creates additional volatility in an already unpredictable passing game.",
       "tweets": []
     }
   ],
@@ -2396,79 +2404,79 @@
   "ticket_prices": [],
   "sidebar": [
     {
-      "headline": "Miami defeats Florida AM 70-7, ends game early",
-      "source": "NY Post Sports · just now",
-      "article": "The University of Miami's football team defeated Florida A&M so decisively that both schools agreed to end the game early with Miami winning 70-7. The Hurricanes' offense proved overwhelming against the smaller program, leading to a mercy-rule decision that gave Miami fans an extra five minutes to celebrate on the field in South Beach. The lopsided result has reignited debate over nonconference scheduling practices and whether programs should face Group of Five opponents in competitive home games. Florida A&M will absorb the loss, but Miami's defensive show of force signals early-season command in the ACC."
+      "headline": "NBC tops quieter week one of college football season",
+      "source": "Sports Media Watch · 16h ago",
+      "article": "Week one of the college football season delivered lower viewership than the prior year, as marquee matchups were sparse on the slate. NBC topped the viewership rankings for the week, though the overall numbers reflected a lighter schedule of top-tier teams in early-season play. The decline underscores the importance of nationally prominent matchups in driving tune-in during September, when competing entertainment options remain abundant. Viewership rebounds sharply as conference play intensifies and teams begin to separate themselves in the standings. The network's dominance despite lighter overall volume suggests its prime-time slot and brand strength remain intact as the season progresses into more competitive play."
     },
     {
       "headline": "Fortunes depend on Kawhi Leonard as Raptors prep for new season",
-      "source": "Sportsnet · 1h ago",
-      "article": "The Toronto Raptors' 2026-27 season outlook hinges on the status and availability of Kawhi Leonard following the protracted acquisition that brought him to the franchise. Sportsnet's Michael Grange examined the team's core assets and cap structure heading into training camp, noting that Leonard's health and integration remain the critical variable. The Raptors made significant moves to acquire Leonard, but his injury history demands caution. Toronto's playoff aspirations depend on consistent availability from their star forward and complementary performance from supporting players around him. The franchise is betting that an Eastern Conference contender can be built with Leonard as the centerpiece."
+      "source": "Sportsnet · 4h ago",
+      "article": "The Toronto Raptors' 2026-27 season outlook hinges entirely on the status and availability of Kawhi Leonard, whose acquisition remains protracted and unresolved heading into training camp. Leonard's injury history and late-season availability have colored every playoff projection and roster evaluation for the Raptors, making his presence or absence the determining factor for postseason contention. Michael Grange explores where the Raptors stand relative to Eastern Conference competition and what Leonard's status means for their championship window. The organization has built around the premise of full access to Leonard for a full season, a bet that remains unexecuted until opening night proves it sustainable. Roster moves and depth signings have all been made with Leonard as the franchise centerpiece, leaving little room for error if he remains unavailable for stretches."
     },
     {
-      "headline": "NFL 2026: The League's Flag Football Long Game Is Paying Dividends",
-      "source": "Sportico · 4h ago",
-      "article": "The NFL's investment in flag football development is now paying dividends as participation and viewership grow across age groups and demographics. Sportico reported that the league's push into flag football, a non-contact variant, has positioned the NFL to broaden its commercial and youth-development reach beyond tackle football. The strategy addresses growing parental concerns over contact injuries and creates an entry point for younger and female participants. The NFL's media and sponsorship infrastructure supports flag programming, giving it resources that competing youth sports lack. Flag football is now part of the Olympics, amplifying global awareness. The league's stake in this long-term growth has shifted from speculative to proven, with measurable increases in youth league registration and television ratings."
+      "headline": "How Blue Jays, Orioles stack up ahead of pivotal series",
+      "source": "Sportsnet · 1d ago",
+      "summary": "The Blue Jays' six remaining games against the Orioles could ultimately determine their postseason fate, with the two teams locked in a tight race for positioning late in the baseball season. Nick Ashbourne dives deep into the matchup dynamics."
     },
     {
-      "headline": "Gary Cohen's political tangent infuriates Tomi Lahren on air",
+      "headline": "Three AL East X-Factors that will help decide division race and playoff push",
+      "source": "CBS Sports · just now",
+      "article": "The Yankees are attempting to catch the Rays for the AL East crown, while the Red Sox hunt the Yankees for home-field positioning in a three-team divisional chess match in baseball's final stretch. Each team's path to the playoffs and positioning depends on overlooked role players and relief arms that may tip the balance down the stretch. X-factors often determine playoff seeding because they operate outside the spotlight where their contributions go unremarked until a single at-bat or inning rewrites a team's fate. The Red Sox have depth advantages at certain positions, while the Yankees boast superior star power, but the Rays' consistency and efficiency in close games has kept them atop the division. The final weeks will test which organizational approach pays dividends when every game carries elimination weight."
+    },
+    {
+      "headline": "Taylor Fritz's Latest Ball Complaint: Retail Ones Are 'Miserable'",
+      "source": "Front Office Sports · 1h ago",
+      "article": "Taylor Fritz was knocked out of the US Open in the third round and directed criticism at the ball quality used in retail play versus professional tournaments. Fritz argued that commercially available balls do not meet the performance standards of official tournament equipment, a complaint that reflects a broader conversation about equipment standardization across levels of competitive play. Professional players have long noted discrepancies between tournament-grade and retail equipment, though few publicly criticize equipment conditions after losses. Fritz's candor suggests frustration beyond the immediate result, pointing to preparation gaps and practice-versus-match environments. The complaint may resonate with recreational players who purchase the same branded balls but experience performance variations depending on storage, humidity, and wear. Equipment standardization remains a perpetual friction point in tennis, one that impacts both professional and amateur play but is rarely addressed systematically by tour operators."
+    },
+    {
+      "headline": "Sophie Cunningham breaks silence on Enes Kanter's WNBA-Trans stunt",
       "source": "NY Post Sports · just now",
-      "article": "Mets broadcaster Gary Cohen's on-air political commentary during a recent broadcast prompted a sharp rebuke from Tomi Lahren, a media personality who is married to a Mets coach, the NY Post reported. The conflict arose after Cohen veered into commentary unrelated to baseball, prompting Lahren to respond publicly. The incident highlights ongoing tension between sports broadcasters and politically engaged audience members who monitor media figures for perceived bias. Cohen has since refrained from similar commentary on air."
-    },
-    {
-      "headline": "25 Years Ago, a Nation Turned Its Lonely Eyes to the Mets and Yankees",
-      "source": "Sportico · 3h ago",
-      "article": "Sportico published a retrospective commemorating 25 years since the 2001 World Series, when New York's Mets and Yankees both reached October baseball's biggest stage. The piece revisited the cultural significance of that Subway Series and the Yankee Stadium atmosphere in the days before 9/11. A quarter-century perspective now frames that October as a singular moment in New York sports history. The Mets and Yankees have not appeared in the same postseason since, underscoring how rare and resonant that October proved."
-    },
-    {
-      "headline": "Manchester United bans 685 season-ticket holders over touting",
-      "source": "The Guardian · just now",
-      "article": "Manchester United has banned 685 season-ticket holders for unauthorized ticket resale and touting practices, the club announced. The enforcement action represents the most aggressive fan-conduct crackdown in the club's recent history and aligns with English football's broader push to combat secondary-market abuse. United cited violations of its ticketing terms of service. The bans carry multi-year implications for affected supporters and send a message that the club will not tolerate resale at inflated prices or unauthorized market activity."
+      "article": "Sophie Cunningham addressed remarks regarding Enes Kanter Freedom and Royce White's declarations of eligibility for the WNBA draft in an ESPN interview published Friday. Cunningham has spent the summer engaging with one of the WNBA's most divisive subjects but was unwilling to become a supporting character in what she characterized as a spectacle. Her response reflects the broader WNBA conversation around inclusion and eligibility, though she declined to amplify either player's statement or engage in extended debate. Cunningham's restraint suggests awareness that the debate has become more about attention-seeking than substantive policy discussion. The WNBA draft eligibility question remains unresolved officially, and high-profile players' reluctance to amplify the story may signal that the league's actual stakeholders view the matter as peripheral to the on-court competition."
     }
   ],
   "poll": {
-    "question": "Which storyline will dominate NFL headlines by Week 2: the Clippers criminal probe, Kawhi's Raptors integration, or early-season playoff implications?",
+    "question": "Who will win the US Open men's title Sunday?",
     "options": [
-      "Clippers DOJ investigation escalates",
-      "Kawhi Leonard's Raptors debut and durability",
-      "Early playoff implications from Week 1",
-      "International expansion and Australia game impact"
+      "Ben Shelton",
+      "Frances Tiafoe",
+      "Aryna Sabalenka",
+      "Elena Rybakina"
     ]
   },
   "predictions": [
     {
-      "statement": "The Clippers criminal investigation will result in at least one front-office personnel charge or guilty plea within 18 months.",
+      "statement": "Ben Shelton or Frances Tiafoe will win the US Open men's title Sunday, ending American men's 23-year Grand Slam drought.",
       "probability": 62,
-      "rationale": "Federal prosecutors rarely open criminal probes into sports-franchise conduct without substantial documentary evidence. The escalation from civil cap violation to criminal fraud suggests prosecutors believe they have communications or transactions evidencing intent to defraud. Sports law precedent is limited, but the DOJ's involvement signals seriousness beyond league discipline."
+      "rationale": "Both American semifinalists have proven they can execute across five sets and handle elite opposition. Shelton's recent five-set win over Alcaraz shows mental toughness, while Tiafoe's consistency has carried him deep into majors before. The semifinal winner faces a Sabalenka or Rybakina who have not won the US Open, creating an opportunity. American depth at the men's elite level remains rare enough that two semifinalists merit serious consideration, though the European players' major experience tilts the outcome probability below 70 percent."
     },
     {
-      "statement": "Kawhi Leonard will miss 15 or fewer games in the Raptors' 2026-27 regular season.",
-      "probability": 48,
-      "rationale": "Leonard's career injury profile is severe: he has played a full 82-game season only once since 2016. The Raptors' organizational commitment to his health is genuine, but durability is not a realistic expectation. Betting on fewer than 15 missed games is optimistic given historical patterns, though a managed approach could limit absences."
+      "statement": "Aryna Sabalenka wins the US Open title, extending her major count to three.",
+      "probability": 28,
+      "rationale": "Sabalenka enters with the higher ranking and two Australian Open titles, demonstrating major-tournament pedigree. She has not yet won the US Open, but her power game and consistency in Grand Slams are well-established. Rybakina's path to No. 1 is locked in regardless of outcome, removing some of Rybakina's psychological edge heading into the final. However, Sabalenka faces a potential American semifinal winner who has momentum and home support, which tightens her odds."
     },
     {
-      "statement": "The 49ers will win 9 or more games in 2026 following their Week 1 Australia rout.",
+      "statement": "Elena Rybakina wins the US Open and secures her first major title at this venue.",
+      "probability": 20,
+      "rationale": "Rybakina will be ranked No. 1 after the tournament ends, but that psychological advantage is already locked in before the final is played. She has not yet won the US Open, and Sabalenka's power game has troubled her in past matchups. If Rybakina reaches the final, she will face either an American semifinal winner or Sabalenka. Either path carries risk: American winners carry momentum and crowd energy, while Sabalenka brings proven Grand Slam experience. Rybakina's odds are the lowest among the four remaining players."
+    },
+    {
+      "statement": "NFL teams will generate $24.5 billion or more in combined revenue this fiscal year, extending growth streak.",
       "probability": 71,
-      "rationale": "San Francisco has the personnel and coaching staff to compete in the NFC West and build on an early signature win. The Australia game proved execution at scale, and the 49ers' defense was dominant. Nine wins is a modest bar for a franchise with playoff infrastructure."
-    },
-    {
-      "statement": "Elena Rybakina will defeat Aryna Sabalenka in the US Open final on Sunday.",
-      "probability": 44,
-      "rationale": "Rybakina showed resilience and court movement in her semifinal comeback, but Sabalenka is the defending champion and carries momentum from a dominant semifinal. Head-to-head recent records favor Sabalenka slightly, though Rybakina's confidence is high after the comeback win."
+      "rationale": "Last year's $23.5 billion baseline reflects year-over-year growth driven by expanded media rights, sports betting integration, and fantasy football monetization. Gambling has been fully legal for multiple years now, allowing teams to capture more revenue per fan. The season now underway will include a full slate of primetime broadcasts on multiple platforms, and Super Bowl positioning games create playoff urgency earlier in the season. Three-year media deals are locked in at premium rates, providing revenue certainty. The only downside risk is severe recession or unforeseen disruption to broadcast viewership, neither of which appears imminent."
     }
   ],
   "injuries": [
     {
-      "player": "Kawhi Leonard",
-      "team": "Los Angeles Clippers",
-      "league": "NBA",
-      "position": "SF",
-      "status": "DAY_TO_DAY",
-      "injury": "Ongoing durability concerns",
-      "timeline": "Career pattern suggests frequent absences",
-      "source": "Sportsnet",
-      "impact": "Raptors' championship window depends entirely on Leonard's availability; frequent absences would derail playoff aspirations.",
-      "storyIndex": 14
+      "player": "Tua Tagovailoa",
+      "team": "Atlanta Falcons",
+      "league": "NFL",
+      "position": "QB",
+      "status": "OUT",
+      "injury": "Unspecified",
+      "timeline": "Week 1",
+      "source": "CBS Sports / NY Post Sports",
+      "impact": "Falcons turn to Cooper Rush as starter for Week 1; Tagovailoa absence signals potential extended timeline or depth-chart shift.",
+      "storyIndex": 5
     }
   ],
   "picks": [
@@ -6180,38 +6188,38 @@
       "_pendingGrade": true
     }
   ],
-  "updatedAt": "2026-04-23T14:32:00Z",
+  "updatedAt": "2026-09-10T16:42:00Z",
   "highlights": [
     {
       "league": "NBA",
       "title": "Tyrese x LeBron (via: merixalex/IG)",
       "videoId": "-wLrd_4bsTI",
       "thumbnail": "https://img.youtube.com/vi/-wLrd_4bsTI/mqdefault.jpg",
-      "timeAgo": "14h ago",
+      "timeAgo": "18h ago",
       "isFallback": false
     },
     {
       "league": "NFL",
-      "title": "Don't Set Your Lineup Until You Watch This: Week 1 Fantasy Football | Fantasy Focus",
-      "videoId": "5nCIU_h7sHQ",
-      "thumbnail": "https://img.youtube.com/vi/5nCIU_h7sHQ/mqdefault.jpg",
-      "timeAgo": "2h ago",
+      "title": "Why everyone is talking about Kaelon Black right now 🚨 #nfl #fantasyfootball",
+      "videoId": "KER6kHZSYXg",
+      "thumbnail": "https://img.youtube.com/vi/KER6kHZSYXg/mqdefault.jpg",
+      "timeAgo": "1h ago",
       "isFallback": false
     },
     {
       "league": "MLB",
-      "title": "Martín Pérez throws SEVEN SHUTOUT INNINGS for the Braves vs. the Rays!",
-      "videoId": "TH5h0ezj_FQ",
-      "thumbnail": "https://img.youtube.com/vi/TH5h0ezj_FQ/mqdefault.jpg",
-      "timeAgo": "2h ago",
+      "title": "Pete Crow-Armstrong is aiming for Shohei Ohtani's MVP crown (And other awesome award storylines!)",
+      "videoId": "oxd7cuBQeaY",
+      "thumbnail": "https://img.youtube.com/vi/oxd7cuBQeaY/mqdefault.jpg",
+      "timeAgo": "1h ago",
       "isFallback": false
     },
     {
       "league": "NHL",
-      "title": "THROWBACK: Bourque goes out in style",
-      "videoId": "B9r_1NOzUIA",
-      "thumbnail": "https://img.youtube.com/vi/B9r_1NOzUIA/mqdefault.jpg",
-      "timeAgo": "22h ago",
+      "title": "THROWBACK: Panthers' STUNNING upset",
+      "videoId": "xzd4EkrQ7To",
+      "thumbnail": "https://img.youtube.com/vi/xzd4EkrQ7To/mqdefault.jpg",
+      "timeAgo": "1h ago",
       "isFallback": false
     },
     {
@@ -6227,11 +6235,99 @@
       "title": "Raphinha’s goal for Barcelona STOLE THE INTERNET | Futbol Americas",
       "videoId": "aHFXLRDA3HE",
       "thumbnail": "https://img.youtube.com/vi/aHFXLRDA3HE/mqdefault.jpg",
-      "timeAgo": "1h ago",
+      "timeAgo": "4h ago",
       "isFallback": false
     }
   ],
   "reels": [
+    {
+      "league": "NFL",
+      "title": "Why everyone is talking about Kaelon Black right now 🚨 #nfl #fantasyfootball",
+      "videoId": "KER6kHZSYXg",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-09-11T17:28:50+00:00",
+      "link": "https://www.youtube.com/watch?v=KER6kHZSYXg"
+    },
+    {
+      "league": "MLB",
+      "title": "Pete Crow-Armstrong is aiming for Shohei Ohtani's MVP crown (And other awesome award storylines!)",
+      "videoId": "oxd7cuBQeaY",
+      "author": "MLB",
+      "pubDate": "2026-09-11T17:00:28+00:00",
+      "link": "https://www.youtube.com/watch?v=oxd7cuBQeaY"
+    },
+    {
+      "league": "NHL",
+      "title": "THROWBACK: Panthers' STUNNING upset",
+      "videoId": "xzd4EkrQ7To",
+      "author": "NHL",
+      "pubDate": "2026-09-11T17:00:24+00:00",
+      "link": "https://www.youtube.com/watch?v=xzd4EkrQ7To"
+    },
+    {
+      "league": "NFL",
+      "title": "Trent Green Recalls His Famous Playoff Game vs. Peyton Manning",
+      "videoId": "eG47xqFWzlg",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-09-11T17:00:17+00:00",
+      "link": "https://www.youtube.com/watch?v=eG47xqFWzlg"
+    },
+    {
+      "league": "NFL",
+      "title": "Stephen A. calls Rams' lack of preparation DISRESPECTFUL &amp; ARROGANT in loss to 49ers 👀 | First Take",
+      "videoId": "L8-jH5xz3N0",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-09-11T16:16:32+00:00",
+      "link": "https://www.youtube.com/watch?v=L8-jH5xz3N0"
+    },
+    {
+      "league": "NFL",
+      "title": "And the 2026 NFL MVP will be...",
+      "videoId": "-c2LWyMzeI8",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-09-11T16:00:21+00:00",
+      "link": "https://www.youtube.com/watch?v=-c2LWyMzeI8"
+    },
+    {
+      "league": "NFL",
+      "title": "Bijan Robinson Explains Why the Running Game Is Back",
+      "videoId": "FWKL5-kDly0",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-09-11T16:00:21+00:00",
+      "link": "https://www.youtube.com/watch?v=FWKL5-kDly0"
+    },
+    {
+      "league": "MLB",
+      "title": "Paul O’Neill KICKED it back into the infield 🤯",
+      "videoId": "s91lMnyI_qA",
+      "author": "MLB",
+      "pubDate": "2026-09-11T16:00:18+00:00",
+      "link": "https://www.youtube.com/watch?v=s91lMnyI_qA"
+    },
+    {
+      "league": "NFL",
+      "title": "What statement did the 49ers make against the Rams in Week 1? Stephen A. says... | First Take",
+      "videoId": "JTdQ0XhKPIc",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-09-11T15:53:05+00:00",
+      "link": "https://www.youtube.com/watch?v=JTdQ0XhKPIc"
+    },
+    {
+      "league": "NFL",
+      "title": "Even at 38, he's still one of the best to do it 💪",
+      "videoId": "Px_5nDkGuWA",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-09-11T15:16:29+00:00",
+      "link": "https://www.youtube.com/watch?v=Px_5nDkGuWA"
+    },
+    {
+      "league": "NFL",
+      "title": "Don't Set Your Lineup Until You Watch This: Week 1 Fantasy Football | Fantasy Focus",
+      "videoId": "5nCIU_h7sHQ",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-09-11T15:04:39+00:00",
+      "link": "https://www.youtube.com/watch?v=5nCIU_h7sHQ"
+    },
     {
       "league": "SOCCER",
       "title": "Raphinha’s goal for Barcelona STOLE THE INTERNET | Futbol Americas",
@@ -6249,44 +6345,12 @@
       "link": "https://www.youtube.com/watch?v=ycFKMBf8djM"
     },
     {
-      "league": "NFL",
-      "title": "A pros pro 👏",
-      "videoId": "iUYJLIAlcWg",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-09-11T13:24:57+00:00",
-      "link": "https://www.youtube.com/watch?v=iUYJLIAlcWg"
-    },
-    {
       "league": "SOCCER",
       "title": "Formula 1 is returning to Madrid 45 years later | ESPN FC",
       "videoId": "OqY3NcPpQwI",
       "author": "ESPN FC",
       "pubDate": "2026-09-11T13:14:32+00:00",
       "link": "https://www.youtube.com/watch?v=OqY3NcPpQwI"
-    },
-    {
-      "league": "NFL",
-      "title": "Dan-O is CONCERNED for Rams' defense after 49ers rout 🗣️ 'THEY HAVE STUNK!' | Get Up",
-      "videoId": "jo-40OUlEmU",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-09-11T13:07:19+00:00",
-      "link": "https://www.youtube.com/watch?v=jo-40OUlEmU"
-    },
-    {
-      "league": "NFL",
-      "title": "Bijan Robinson Explains Why the Run Game Is So Powerful",
-      "videoId": "HfeLBmxINkg",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-09-11T13:00:26+00:00",
-      "link": "https://www.youtube.com/watch?v=HfeLBmxINkg"
-    },
-    {
-      "league": "NFL",
-      "title": "Bijan Robinson, Trent Green and Kevin Clark's NFL Predictions",
-      "videoId": "MwJrphDs6Qk",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-09-11T13:00:21+00:00",
-      "link": "https://www.youtube.com/watch?v=MwJrphDs6Qk"
     },
     {
       "league": "MLB",
@@ -6297,44 +6361,12 @@
       "link": "https://www.youtube.com/watch?v=TH5h0ezj_FQ"
     },
     {
-      "league": "NFL",
-      "title": "Unlocking Aaron Rodgers in Pittsburgh",
-      "videoId": "658BDJ7H-XU",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-09-11T13:00:08+00:00",
-      "link": "https://www.youtube.com/watch?v=658BDJ7H-XU"
-    },
-    {
-      "league": "NFL",
-      "title": "Don't Set Your Lineup Until You Watch This: Week 1 Fantasy Football | Fantasy Focus",
-      "videoId": "5nCIU_h7sHQ",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-09-11T12:50:27+00:00",
-      "link": "https://www.youtube.com/watch?v=5nCIU_h7sHQ"
-    },
-    {
       "league": "SOCCER",
       "title": "Playing DEVIL’S ADVOCATE for Lionel Messi to win the Ballon d’Or | Futbol Americas",
       "videoId": "RHGkeHCbppo",
       "author": "ESPN FC",
       "pubDate": "2026-09-11T12:30:36+00:00",
       "link": "https://www.youtube.com/watch?v=RHGkeHCbppo"
-    },
-    {
-      "league": "NFL",
-      "title": "Dan reacts to the Rams' loss to the 49ers 🏈",
-      "videoId": "8zl9foE6ecs",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-09-11T12:25:48+00:00",
-      "link": "https://www.youtube.com/watch?v=8zl9foE6ecs"
-    },
-    {
-      "league": "NFL",
-      "title": "Should you bench Rashee Rice this week? 👀🤔 #fantasyfootball #chiefs #nfl",
-      "videoId": "pFD51gvO-M8",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-09-11T12:00:33+00:00",
-      "link": "https://www.youtube.com/watch?v=pFD51gvO-M8"
     },
     {
       "league": "MLB",
@@ -6375,22 +6407,6 @@
       "author": "MLB",
       "pubDate": "2026-09-11T02:12:59+00:00",
       "link": "https://www.youtube.com/watch?v=5EQL79FJ2i0"
-    },
-    {
-      "league": "MLB",
-      "title": "Oneil Cruz launches the hardest hit homer of the season! 🔥",
-      "videoId": "drnuLU3RLTQ",
-      "author": "MLB",
-      "pubDate": "2026-09-11T00:52:48+00:00",
-      "link": "https://www.youtube.com/watch?v=drnuLU3RLTQ"
-    },
-    {
-      "league": "MLB",
-      "title": "Oneil Cruz LAUNCHES a 117.4-MPH HOME RUN for the Pirates!🚀🏴‍☠️(Hardest-hit HR of the year!)",
-      "videoId": "HwKrRgPOIIs",
-      "author": "MLB",
-      "pubDate": "2026-09-11T00:45:28+00:00",
-      "link": "https://www.youtube.com/watch?v=HwKrRgPOIIs"
     },
     {
       "league": "NBA",
@@ -6535,14 +6551,6 @@
       "author": "NBA",
       "pubDate": "2026-09-07T18:00:35+00:00",
       "link": "https://www.youtube.com/watch?v=2ybJjUnMCE8"
-    },
-    {
-      "league": "NHL",
-      "title": "THROWBACK: Perry completes epic Ducks' comeback",
-      "videoId": "LwHZS5W8UPk",
-      "author": "NHL",
-      "pubDate": "2026-09-07T17:00:24+00:00",
-      "link": "https://www.youtube.com/watch?v=LwHZS5W8UPk"
     },
     {
       "league": "NBA",
