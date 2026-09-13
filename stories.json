@@ -1,63 +1,71 @@
 {
   "clusters": [
     {
-      "category": "leagues",
+      "category": "media",
       "importance": 9,
-      "leadHeadline": "USA survive Spain scare to set up Olympic final rematch with France at Fiba World Cup",
+      "leadHeadline": "Elena Rybakina beats Aryna Sabalenka to seal dramatic US Open title triumph",
       "leadSource": "The Guardian · 1h ago",
-      "leadUrl": "https://www.theguardian.com/sport/2026/sep/12/usa-spain-womens-basketball-world-cup-semi-final",
-      "summary": "USA beat Spain 76-66 in the FIBA World Cup semifinal Saturday in Berlin to set up a rematch with France, who topped Germany. The American win keeps alive their bid for a fifth straight world title.",
-      "article": "<cite index=\"3-1,3-4\">The Americans beat Spain in the FIBA Women's World Cup semifinals with a spot in the gold medal game on the line, moving two wins away from a World Cup five-peat.</cite> The final score was 76-66, with the US escaping Berlin on Saturday. <cite index=\"11-1\">USA beat France 67-66 in the Paris 2024 Olympic final</cite>, setting up an immediate rematch for the World Cup title Sunday. \n\n<cite index=\"4-10\">The U.S. women are aiming for their fifth consecutive World Cup gold and 12th overall.</cite> <cite index=\"3-8\">The U.S. entered the tournament riding a 30-game World Cup winning streak.</cite> Spain competed hard through the competition. <cite index=\"3-15\">The Spaniards are seeking their first-ever World Cup title and fourth podium finish.</cite>\n\nFrance advanced to the final from the other semifinal. <cite index=\"4-2\">France and the United States both continued their undefeated runs with convincing wins over China and Hungary, respectively, in the quarterfinals.</cite> \n\nSunday's championship game in Berlin gives France a rare chance to avenge their narrow Olympic loss to the US in 2024.",
-      "tweets": []
+      "leadUrl": "https://www.theguardian.com/sport/2026/sep/13/elena-rybakina-beats-aryna-sabalenka-us-open-title-tennis",
+      "summary": "Elena Rybakina defeated Aryna Sabalenka 6-4, 5-7, 6-2 Saturday to win her first US Open title and third Grand Slam crown, claiming the world No. 1 ranking and $5.5 million.",
+      "article": "<cite index=\"4-1\">Elena Rybakina defeated Aryna Sabalenka 6-4, 5-7, 6-2 to claim her first US Open title on Saturday</cite>, capturing <cite index=\"21-8\">a second Grand Slam crown of 2026 and a third overall</cite>. <cite index=\"4-8\">Rybakina takes over the world No. 1 spot on Monday after Sabalenka held the top ranking for 99 consecutive weeks</cite>. <cite index=\"8-7\">The champion pocketed $5.5 million</cite>.\n\nThe 27-year-old's dominance showed in a third set where <cite index=\"4-14\">she dropped just three points on serve</cite>, built on <cite index=\"29-3\">12 aces, 36 winners, and 24 unforced errors</cite>. After a tight first set, Sabalenka stormed back to steal the second 7-5, but Rybakina's precision overwhelmed the defending champion down the stretch.\n\n<cite index=\"5-6\">Sabalenka failed in her attempt to become the first three-peat champion at Flushing Meadows since Serena Williams accomplished the feat from 2012-14</cite>. <cite index=\"21-3,21-4\">\"It's tough to find words right now, honestly,\" Rybakina said on court. \"I didn't expect anything like this coming into this tournament.\"</cite> <cite index=\"29-1,29-2,29-3\">Sabalenka acknowledged defeat: \"She served incredible. She played really aggressive, great tennis. Yeah, she was simply a better player today than me.\"</cite>",
+      "tweets": [
+        {
+          "url": "https://twitter.com/usopen/status/2098904994997059643",
+          "html": "<blockquote class=\"twitter-tweet\" data-dnt=\"true\" data-theme=\"dark\"><p>TOP OF THE WORLD 🌎\n\nElena Rybakina defeats Sabalenka 6-4, 5-7, 6-2 to claim her first US Open title! https://t.co/7XA520vTei</p>&mdash; US Open Tennis (@usopen) <a href=\"https://twitter.com/usopen/status/2098904994997059643\">September 12, 2026</a></blockquote>",
+          "author_name": "US Open Tennis",
+          "author_url": "https://twitter.com/usopen",
+          "dateMs": 1789252921000
+        }
+      ]
     },
     {
       "category": "media",
       "importance": 8,
-      "leadHeadline": "Aryna Sabalenka v Elena Rybakina: US Open 2026 women's singles final – live",
-      "leadSource": "The Guardian · just now",
-      "leadUrl": "https://www.theguardian.com/sport/live/2026/sep/12/aryna-sabalenka-v-elena-rybakina-us-open-2026-womens-singles-final-live",
-      "summary": "Sabalenka and Rybakina resume their rivalry in the US Open women's singles final tonight at 9pm BST, after the two swapped the No. 1 ranking earlier this season. The match is being covered live.",
-      "article": "Aryna Sabalenka and Elena Rybakina play in the US Open women's singles final tonight at 9pm BST, renewing a rivalry that has intensified as the two have traded the No. 1 ranking over the past months.\n\nRybakina advanced through the draw by defeating Thea Frodin 6-3, 6-2 in the first round and progressing from there. Both players have reached this final after dominant runs, having established themselves as the tour's top two players heading into the year's final major.\n\nThe matchup carries extra weight because of the recent shift in rankings between them. Earlier this season, one of the pair broke through to No. 1; by the time of the US Open, the other held the top spot. That dynamic adds narrative to what is already a high-caliber final.\n\nSabalenka and Rybakina have posted strong records against each other and against the broader field. The winner will claim the US Open title and the ranking points that come with it. Both players enter on the strength of deep, consistent play throughout the tournament.",
-      "tweets": []
-    },
-    {
-      "category": "media",
-      "importance": 7,
-      "leadHeadline": "Tiafoe-Shelton Brings Hope to American Men's Tennis",
-      "leadSource": "Sportico · 1d ago",
-      "leadUrl": "https://www.sportico.com/leagues/tennis/2026/frances-tiafoe-ben-shelton-us-open-1234944806/",
-      "summary": "Ben Shelton defeated Frances Tiafoe in four sets Friday to reach the US Open final, advancing one match away from a potential Grand Slam title for an American man for the first time since 2003. Shelton will play Sunday for the championship.",
-      "article": "Ben Shelton beat Frances Tiafoe in four sets Friday in an all-American US Open semifinal, moving one match away from the first Grand Slam title won by an American man since 2003. That drought now extends 23 years, the longest period without a major championship for US men since the Open Era began in 1968.\n\nThe semifinal was a high-level matchup between two American prospects. Shelton's victory gives him Sunday's final, where he'll face either Jannik Sinner or another finalist depending on the men's draw progression. A Shelton title would end the extended drought and represent a breakthrough moment for American men's tennis after decades of playing second fiddle to European and other international talent.\n\nThe narrative weight of a potential Shelton win is substantial. American men last won a major in 2003 when Andre Agassi captured the Australian Open. The Shelton-Tiafoe semifinal itself was framed as a race between two young Americans to become the standard-bearer for the men's game in the US. Shelton's win there answers part of that question and gives him a shot at historical significance on Sunday.",
+      "leadHeadline": "USA survive Spain scare to set up Olympic final rematch with France at Fiba World Cup",
+      "leadSource": "The Guardian · 4h ago",
+      "leadUrl": "https://www.theguardian.com/sport/2026/sep/12/usa-spain-womens-basketball-world-cup-semi-final",
+      "summary": "The United States beat Spain 76-66 to reach the Fiba Women's Basketball World Cup final for the fifth straight time. Breanna Stewart scored 16 points as the four-time defending champions pulled away in the fourth quarter in Berlin.",
+      "article": "The United States advanced to the Fiba Women's Basketball World Cup final, pulling away from Spain 76-66 on Saturday in Berlin to extend their streak to five consecutive World Cup title games. Breanna Stewart led the fourth-quarter surge with 16 points as the Americans moved past a Spanish team that pushed them hard for 30 minutes. The win sets up a rematch of the Paris Olympics final against France, giving the U.S. a chance to extend its dominance in international women's basketball. Spain made the Americans work harder than most opponents in a World Cup semifinal, a sign that other nations continue to close the gap. The U.S. has not lost a World Cup final since 2002, but France showed in the Olympics that the gap has narrowed. Stewart's performance underscored why the Americans remain the standard, even when tested.",
       "tweets": []
     },
     {
       "category": "revenue",
-      "importance": 6,
+      "importance": 7,
       "leadHeadline": "How NFL Teams and Owners Made $23.5 Billion Last Year",
       "leadSource": "Sportico · 1d ago",
       "leadUrl": "https://www.sportico.com/feature/how-nfl-teams-owners-make-money-1234795113/",
-      "summary": "NFL teams and owners generated $23.5 billion in revenue in the past year, underscoring football's dominance among American sports watched at 31% of the population compared to 11% for basketball. The league's financial strength comes ahead of the upcoming season.",
-      "article": "NFL franchises and owners generated $23.5 billion in revenue in the past year, reflecting the sport's commanding position in the American sports market. Football is watched by 31% of the population, nearly three times the rate of basketball at 11%, baseball at 10%, and soccer at 9%.\n\nThat revenue figure encompasses team operations, media rights, sponsorships, and ancillary income streams that have grown as the NFL has modernized its business model. The number comes as the league prepares for the season ahead with expanded media deals and gambling partnerships that were not fully in place in prior years.\n\nThe $23.5 billion baseline shows why NFL teams command valuations that far exceed other sports franchises. Media rights alone have become a driver of growth, with networks paying premium rates for live football content. Sponsorship categories from jersey patches to stadium naming rights have proliferated, adding revenue without cannibalizing existing streams.\n\nGambling and fantasy football have emerged as secondary revenue drivers as well, though their direct contribution to the $23.5 billion figure versus ancillary fan engagement is harder to parse. The underlying point is clear: the NFL's combination of scarcity of product, consistent viewership, and advertiser demand creates a financial moat that other leagues struggle to match.",
+      "summary": "NFL franchises generated $23.5 billion in combined revenue last season amid record gambling and fantasy football engagement. Football remains Americans' favorite sport to watch at 31%, roughly triple the viewership of basketball and baseball.",
+      "article": "NFL teams and owners combined to generate $23.5 billion in revenue last year, driven by sustained fan engagement across gambling and fantasy football platforms. Football commands 31% of Americans' sports viewership preference, roughly three times that of basketball at 11%, baseball at 10%, and soccer at 9 percent. With the new season underway, nearly all franchises see a plausible path to the playoffs, further fueling betting and daily fantasy participation. The revenue reflects not just gate and merchandise but the leverage teams have gained in media rights negotiations and the value of betting partnerships. Goodell has signaled interest in repackaging existing rights deals to capture additional upside, and Fox executives are doubling down on the NFL as a ratings and advertising engine. The $23.5 billion figure underscores why the league remains the centerpiece of American sports business, even as basketball and soccer compete for younger demographics.",
       "tweets": []
     },
     {
       "category": "media",
       "importance": 5,
-      "leadHeadline": "Revamped Pat McAfee Kicking Contest Pays First Winner $1.2M",
-      "leadSource": "Front Office Sports · 3h ago",
-      "leadUrl": "https://frontofficesports.com/article/pat-mcafee-gameday-kicking-new-payout/",
-      "summary": "The Pat McAfee kicking contest, now in its fourth season on College GameDay, crowned its first winner after a revamped format and awarded $1.2 million. The contest has become a fixture of ESPN's pregame coverage.",
-      "article": "The revamped Pat McAfee kicking contest awarded $1.2 million to its first winner this season, marking a significant prize increase for the on-air competition that has become part of College GameDay's Saturday routine.\n\nThe contest is now in its fourth season on ESPN's flagship college football pregame show. The format overhaul appears designed to raise the profile of the competition and give it higher stakes, which the seven-figure payout reflects.\n\nMcAfee, the former NFL punter turned media personality, has used the contest as both entertainment and a way to showcase kicking talent. The $1.2 million prize represents a substantial commitment from ESPN to the segment, suggesting the network sees it as a draw for viewers and a signature element of GameDay's brand.\n\nThe prize pool and format redesign align with ESPN's broader push to make College GameDay more interactive and visually distinctive from competitors' pregame shows. Kicking has become a more prominent specialty position in college football, and contests like McAfee's give undersized specialists a platform beyond their team's actual game time.",
+      "leadHeadline": "ESPN Faces Criticism For Giving Ted Cruz 'GameDay' Air Time",
+      "leadSource": "Front Office Sports · 4h ago",
+      "leadUrl": "https://frontofficesports.com/article/espn-heat-ted-cruz-gameday-interview/",
+      "summary": "ESPN drew backlash for interviewing Senator Ted Cruz on College GameDay about the Protect College Sports Act without any opposing voices. No advocates against the legislation have been featured on the show.",
+      "article": "ESPN's College GameDay program came under fire Saturday for airing an interview with Senator Ted Cruz regarding the Protect College Sports Act without providing airtime to opponents of the bill. Critics noted that no advocates against the proposed legislation have been invited on the broadcast to challenge Cruz's framing or present alternative views. The segment raised questions about editorial balance on a show that reaches millions of college sports viewers during peak Saturday viewership. GameDay wields considerable influence on the college football narrative, and the one-sided treatment of the legislation drew swift criticism from media observers and sports law analysts. The act, which would impose federal rules on athlete compensation and name-image-likeness deals, remains contentious among coaches, administrators, and player advocates. ESPN did not immediately respond to calls for comment or commitment to future balance on the topic.",
       "tweets": []
     },
     {
       "category": "media",
       "importance": 4,
       "leadHeadline": "No Quick Fixes Coming for US Open's Late Nights",
-      "leadSource": "Front Office Sports · 2h ago",
+      "leadSource": "Front Office Sports · 5h ago",
       "leadUrl": "https://frontofficesports.com/article/us-open-late-nights-no-quick-fixes/",
-      "summary": "While Wimbledon enforces a match curfew, the USTA and other Grand Slam operators have resisted implementing one at the US Open, leaving late-night finishes as a recurring issue. The difference reflects diverging philosophies on prime-time scheduling.",
-      "article": "The US Open has no plans to adopt a match curfew like Wimbledon's, despite recurring complaints about late-night finishes that stretch matches into the early morning hours. The USTA and the other three major championships operate under different scheduling philosophies.\n\nWimbledon's curfew, implemented in recent years, caps when matches can start and forces postponements to the next day if a match runs too late. The USTA has rejected a similar approach, prioritizing completion of matches on the day they begin and television scheduling around prime-time blocks.\n\nThe trade-off is viewer convenience against player welfare and sleep disruption. A match that stretches five sets can easily run past midnight in New York, creating conditions where players compete in the early morning after minimal recovery sleep. The USTA's resistance to a curfew suggests the organization prioritizes finishing matches on schedule and delivering complete contests to broadcasters without postponement.\n\nThis remains a point of recurring tension in tennis governance. Players and media critics have called for US Open curfews after particularly egregious late finishes. The USTA's steadfast position suggests that position is unlikely to shift absent a major change in player advocacy or broadcasters' demands.",
+      "summary": "The US Open has rejected a curfew policy despite Wimbledon's success with one, leaving late-night matches as a fixture of the tournament. The other three majors also oppose scheduling restrictions.",
+      "article": "The US Open is not adopting a curfew system to combat late-night matches, despite Wimbledon's success with one. All three other Grand Slams have resisted similar restrictions, citing scheduling pressures and the need to accommodate television windows across time zones. Late-night finishes remain part of the US Open's identity, with matches frequently extending past midnight on Arthur Ashe Stadium, putting players in uncomfortable situations and potentially affecting match quality in subsequent rounds. Tournament officials argue that curfews limit scheduling flexibility and complicate the logistics of moving matches or extending play on any given day. The debate reflects a broader tension in tennis between player welfare, fan experience, and the commercial demands of global broadcasting. With the tournament concluding this weekend, no policy shift is expected for next year's edition.",
+      "tweets": []
+    },
+    {
+      "category": "media",
+      "importance": 3,
+      "leadHeadline": "Puma Appoints Steve Cecchini to Lead Global Sports Marketing",
+      "leadSource": "Sportico · 1d ago",
+      "leadUrl": "https://www.sportico.com/personalities/people/2026/sportico-transactions-moves-mergers-roundup-sept-11-2026-1234944718/",
+      "summary": "Puma named industry veteran Steve Cecchini as senior vice president of global sports marketing, effective October 1. Cecchini will report directly to CEO Arthur Hoeld and oversee the company's sports partnerships worldwide.",
+      "article": "Puma appointed Steve Cecchini as senior vice president of global sports marketing, effective October 1, filling a key leadership role in its sports division. Cecchini, an industry veteran, will report directly to CEO Arthur Hoeld and oversee Puma's sports sponsorships, athlete partnerships, and marketing strategy across global markets. The hire signals Puma's commitment to competing more aggressively in soccer, running, and basketball sponsorships against Nike and Adidas. Cecchini's track record includes building sports marketing divisions at major apparel companies, giving him visibility across athlete negotiations and team partnerships. Puma has increased investment in sports marketing in recent years, particularly in soccer and emerging athletes. The appointment comes as the company faces pressure to capture market share in performance apparel and strengthen ties with top-tier franchises and players.",
       "tweets": []
     }
   ],
@@ -2386,65 +2394,65 @@
   "ticket_prices": [],
   "sidebar": [
     {
-      "headline": "ESPN Faces Criticism For Giving Ted Cruz 'GameDay' Air Time",
-      "source": "Front Office Sports · 1h ago",
-      "article": "ESPN drew criticism for interviewing Texas Sen. Ted Cruz on College GameDay without also interviewing opponents of the Protect College Sports Act, a legislative effort that would restrict athlete compensation rights. The network's editorial choice to platform Cruz without counterargument sparked debate about whether a sports broadcast is an appropriate venue for political content, and whether ESPN has an obligation to balance political viewpoints when it chooses to air them. The Protect College Sports Act has drawn support from some college sports administrators and Title IX advocates, but faces opposition from athlete advocates and some economists. ESPN did not immediately respond to requests for comment on the editorial reasoning behind the segment."
+      "headline": "Ben Shelton reaches US Open final, will face Rybakina or Sabalenka",
+      "source": "Sportico · 1d ago",
+      "article": "Ben Shelton defeated Frances Tiafoe in four sets Friday to advance to the US Open men's singles final on Sunday. The all-American semifinal was Shelton's second Grand Slam final appearance and his second match against Tiafoe this year, extending American hopes for a major title. Shelton's run provides rare momentum for U.S. men's tennis, which has lacked a Grand Slam finalist since 2006. The American will face Jannik Sinner or another top seed in the final, positioning Shelton as a genuine threat to end the men's drought at Flushing Meadows. The match showcased the depth of young American talent on the court and reinforced that Tiafoe and Shelton are credible threats at majors going forward. Shelton's composure in four sets suggests he's maturing as a clutch performer on the biggest stages."
     },
     {
-      "headline": "On the Air: Kuechly keeps it simple in Netflix debut",
-      "source": "Sports Media Watch · 22h ago",
-      "article": "Luke Kuechly made his Netflix broadcasting debut with an understated on-air presence, focusing on straightforward analysis without affectation. The former Carolina Panthers linebacker has joined the streaming platform's sports coverage in a role that capitalizes on his recent retirement from the NFL and his reputation for clarity and preparation. Kuechly's approach marks a contrast to some on-air talent who lean heavily on catchphrases or exaggerated reactions. Sports Media Watch noted parallels to how SportsCenter handled coverage of 9/11, where anchors prioritized substance and sobriety over entertainment flourish, suggesting that major moments call for directness."
+      "headline": "Aaron Judge returns to Yankees lineup for second straight game",
+      "source": "NY Post Sports · just now",
+      "article": "Aaron Judge was back in the Yankees lineup Saturday for his second consecutive game after sitting out Thursday's finale against the Rockies. The captain's status remains fluid as the team manages his recovery. Judge's presence in the lineup signals the team's confidence in his readiness, though the Yankees retain the option to give him an off-day if his workload accumulates. His availability is critical to the team's playoff push as the regular season enters its final stretch. The team has been cautious with Judge throughout the year, balancing his production needs against the risk of re-injury heading into October. Saturday's inclusion suggests no new setback, but the Yankees continue to monitor his day-to-day status."
     },
     {
-      "headline": "In Raheem Morris, 49ers have rare defensive coordinator able to humble Rams",
-      "source": "NY Post Sports · 1h ago",
-      "article": "The San Francisco 49ers' defensive coordinator Raheem Morris brings a track record of defensive excellence and a commanding presence that has earned respect even from opposing players. As former cornerback Richard Sherman observed, elite defensive players rarely remain as coordinators for long because their talent makes them targets for head coach positions elsewhere. Morris, however, has committed to the 49ers role, bringing deep defensive knowledge and the ability to scheme against dynamic offenses. The Rams, division rivals, present a recurring challenge for any defensive scheme, but Morris's pedigree suggests the 49ers will remain formidable on that side of the ball."
+      "headline": "Blue Jays power past Orioles to end rough stretch",
+      "source": "Sportsnet · 2h ago",
+      "article": "Toronto's bats and bullpen came through against Baltimore to snap a four-game losing streak in a pivotal series. The Blue Jays were in danger of letting one bad loss compound into a longer slump, but Saturday's win stabilized their season momentum. The result keeps Toronto in contention and shows their ability to bounce back when tested by division rivals. The Orioles remain tough, but the Jays proved they can match their intensity when it counts. Toronto's pitching staff delivered when needed, a critical sign that their rotation can hold up in tight races. The victory puts the Blue Jays back on track as the season winds toward its climactic weeks."
     },
     {
-      "headline": "Oklahoma has a John Mateer problem: No. 11 Sooners loss to Michigan raises bigger concerns",
-      "source": "CBS Sports · 1h ago",
-      "article": "Oklahoma quarterback John Mateer completed just one of his final eight passes in the No. 11 Sooners' loss to Michigan, prompting serious questions about his ability to manage late-game situations and execute under pressure. The offensive struggles that emerged in Ann Arbor are not new to Mateer's resume; they suggest systematic issues beyond a single poor outing. Oklahoma faces Georgia and Texas in upcoming weeks, opponents that will test whether Mateer can improve his decision-making and accuracy. The loss to Michigan exposed a vulnerability that elite defenses will exploit, and the Sooners' title hopes may depend on dramatic improvement or a shift in approach."
+      "headline": "Mets dominate Yankees in Subway Series, Cole struggles again",
+      "source": "NY Post Sports · just now",
+      "article": "The Mets beat the Yankees 12-2 in Saturday's Subway Series matchup at the Bronx, handing New York another loss in the season's most high-stakes local rivalry. Gerrit Cole labored through his second straight poor outing, raising questions about his form heading into the stretch run. The Mets' bats exploited Yankees vulnerabilities, and New York's top pitcher couldn't deliver when the city was watching. Cole has struggled to find rhythm in recent starts, a concern given the stakes of the regular season's final weeks. The blowout loss stung more because of the rivalry implications and the visibility of the matchup in New York's market. Cole and the Yankees have time to recover, but inconsistency at ace is dangerous in playoff baseball."
     },
     {
-      "headline": "More dropped points at Anfield - is it too early for Liverpool to worry?",
-      "source": "BBC Sport · 2h ago",
-      "article": "Liverpool have failed to win either of their first two Premier League matches at Anfield this season, a troubling start that raises early-season concerns. Home advantage is supposed to be Liverpool's fortress; results suggest the squad is not yet performing to expectations in its own stadium. Whether this is a rhythm issue that will resolve after a few weeks, or a sign of deeper problems with the squad's cohesion or tactical setup, remains unclear. Liverpool's next home matches will provide early diagnostic data on whether the trend reverses quickly or deepens."
+      "headline": "Arsenal survive Sunderland test after Arteta's penalty fury",
+      "source": "BBC Sport · 1h ago",
+      "article": "Arsenal produced a gritty 2-0 win against Sunderland but manager Mikel Arteta was visibly frustrated by a penalty decision that could have changed the result. Arteta's outburst reflected the tension of a match that Arsenal controlled but did not dominate. The three points advance Arsenal's title ambitions, but the performance was not as clean as the scoreline suggests. Sunderland showed they can compete with top-six sides on their day, pushing Arsenal hard for long stretches. Arteta's irritation underscored how fine margins separate dominant performances from vulnerable ones, even for title contenders. The win keeps Arsenal on pace but also highlights that consistency remains a work-in-progress for the club."
     },
     {
-      "headline": "Blue Jays Bateman homers in second straight game",
-      "source": "Sportsnet · 1h ago",
-      "article": "Toronto Blue Jays outfielder Brett Bateman hit his second home run in as many games, demonstrating a hot stretch at the plate with an emphatic trot around the bases. The back-to-back power display from Bateman suggests he is finding his rhythm and could emerge as a consistent threat in the Toronto lineup. Bateman's recent performances come as the Blue Jays navigate a critical stretch of their season and seek to build offensive momentum."
+      "headline": "Luke Kuechly makes low-key Netflix broadcast debut",
+      "source": "Sports Media Watch · 1d ago",
+      "article": "Former NFL linebacker Luke Kuechly brought a minimalist approach to his Netflix analyst debut, keeping commentary simple and letting the game breathe. Kuechly's performance recalled how SportsCenter handled complex moments with clarity and restraint, avoiding overwrought production. His low-key style contrasted with some broadcast personalities who prioritize personality over insight. The debut suggests Netflix's football coverage will emphasize clean, straightforward analysis over spectacle. Kuechly's credibility as a dominant defender translates to credible takes on play-calling and execution. The network is building a roster of respected analysts who can appeal to serious fans rather than rely on entertainment value alone."
     }
   ],
   "poll": {
-    "question": "Which is the bigger story for American tennis right now?",
+    "question": "Will the US men's tennis drought end at a Grand Slam before 2027?",
     "options": [
-      "Ben Shelton's shot at ending the 23-year American men's Grand Slam drought",
-      "Sabalenka and Rybakina's rivalry intensifying as they battle for No. 1",
-      "The US Open's refusal to adopt a late-night match curfew",
-      "Late-night finishes and their impact on player welfare and viewership"
+      "Yes, Shelton or Tiafoe wins a major within 12 months",
+      "No, American men won't win until 2027 or later",
+      "Unsure; too early to predict after US Open run",
+      "Doesn't matter; focus should be on consistency, not one title"
     ]
   },
   "predictions": [
     {
-      "statement": "Ben Shelton wins the US Open and becomes the first American man to win a Grand Slam since 2003.",
-      "probability": 35,
-      "rationale": "Shelton has momentum after beating Tiafoe in the semifinal and faces a final opponent still to be determined. The narrative weight is substantial, but Grand Slam finals are unpredictable, and his opponent will be hardened by their own deep run. Shelton is capable but not a heavy favorite based on his age and experience level."
+      "statement": "NFL media rights will be repackaged into smaller, more targeted deals within 18 months as Goodell pursues additional revenue streams beyond traditional broadcast windows.",
+      "probability": 72,
+      "rationale": "Goodell has already signaled interest in repackaging, and the $23.5B revenue base shows owners will support anything that grows the pie. Smaller, niche packages are more attractive to emerging platforms than wholesale deals. The precedent from tech and streaming suggests this is inevitable."
     },
     {
-      "statement": "The US Open maintains its no-curfew policy through at least the 2027 edition.",
-      "probability": 82,
-      "rationale": "The USTA has shown consistent resistance to a curfew and prioritizes finishing matches same-day and delivering complete broadcasts. There's no indication this stance is shifting, and change would require either player revolt or broadcaster pressure that hasn't materialized yet."
+      "statement": "Elena Rybakina wins the Australian Open in January 2025, cementing her as the dominant player of the next two-year cycle.",
+      "probability": 58,
+      "rationale": "She just won the US Open and will hold the No. 1 ranking entering Melbourne with confidence and momentum. Her hard-court prowess is documented. Sabalenka's inconsistency at majors outside Australia and the US gives Rybakina an opening, though Australian conditions still favor Sabalenka slightly."
     },
     {
-      "statement": "The USA wins the Fiba Women's Basketball World Cup title on Sunday, extending their championship run.",
-      "probability": 74,
-      "rationale": "The US is a four-time defending champion with established WNBA talent and a track record of executing in tournament play. France is formidable and motivated by revenge, but the Americans' experience and depth in tight games favors them."
+      "statement": "The Protect College Sports Act passes Congress in some form by end of 2024, giving the NCAA a framework to regulate NIL and athlete compensation federally.",
+      "probability": 41,
+      "rationale": "Cruz's presence on GameDay suggests lobbying is active, but the act faces opposition from player advocates, state legislators, and some administrators. Federal sports legislation moves slowly. The current landscape favors state-by-state regulation over a national mandate, which limits urgency."
     },
     {
-      "statement": "ESPN expands fact-checking or counterargument segments following the Ted Cruz GameDay controversy.",
-      "probability": 28,
-      "rationale": "ESPN's editorial model has historically resisted structured counterargument frameworks on GameDay, viewing the show as entertainment-first. The controversy is real but not sustained at a level that typically forces network policy shifts. Minor adjustments are possible but major format change is unlikely."
+      "statement": "Netflix's NFL coverage draws fewer peak viewers than traditional broadcast windows in its first season, forcing the platform to adjust production or reduce live-game commitment.",
+      "probability": 36,
+      "rationale": "Netflix has invested heavily in sports and has the global reach, but live sports on streaming still underperform cable and broadcast in the US. Authentication, accessibility, and the lack of channel-flip discovery hurt streaming. A younger demo may trend toward Netflix, but overall volume will likely disappoint initially."
     }
   ],
   "injuries": [],
@@ -2555,6 +2563,60 @@
         },
         "awayTeam": "Baltimore Ravens",
         "homeTeam": "Indianapolis Colts"
+      }
+    },
+    {
+      "type": "moneyline",
+      "pick": "Chicago White Sox ML",
+      "odds": "-108",
+      "edge": "Market fill from live lines: Chicago White Sox is the books' favorite at -108 (best price @ FanDuel) against St. Louis Cardinals at +100, favored even on the road. No researched edge here — this is a low-confidence market-consensus play added to round out the slate. Low confidence is honest confidence.",
+      "matchup": "Chicago White Sox @ St. Louis Cardinals",
+      "league": "MLB",
+      "when": "Today 7:16 PM ET",
+      "confidence": "low",
+      "_autofill": true,
+      "_scheduledTs": 1789254960000,
+      "marketSnapshot": {
+        "capturedAt": "2026-09-12T21:08:30.992Z",
+        "markets": {
+          "h2h": {
+            "away": {
+              "price": -108,
+              "book": "FanDuel"
+            },
+            "home": {
+              "price": 100,
+              "book": "BetRivers"
+            },
+            "draw": null
+          },
+          "spreads": {
+            "away": {
+              "point": 1.5,
+              "price": -213,
+              "book": "LowVig.ag"
+            },
+            "home": {
+              "point": 1.5,
+              "price": -175,
+              "book": "BetRivers"
+            }
+          },
+          "totals": {
+            "over": {
+              "point": 8,
+              "price": -121,
+              "book": "BetRivers"
+            },
+            "under": {
+              "point": 8.5,
+              "price": -110,
+              "book": "Caesars"
+            }
+          }
+        },
+        "awayTeam": "Chicago White Sox",
+        "homeTeam": "St. Louis Cardinals"
       }
     },
     {
@@ -6208,70 +6270,71 @@
         },
         "awayTeam": "Cleveland Guardians",
         "homeTeam": "Minnesota Twins"
-      }
+      },
+      "_pendingGrade": true
     },
     {
       "type": "moneyline",
-      "pick": "Chicago White Sox ML",
-      "odds": "-108",
-      "edge": "Market fill from live lines: Chicago White Sox is the books' favorite at -108 (best price @ FanDuel) against St. Louis Cardinals at +100, favored even on the road. No researched edge here — this is a low-confidence market-consensus play added to round out the slate. Low confidence is honest confidence.",
-      "matchup": "Chicago White Sox @ St. Louis Cardinals",
+      "pick": "Arizona Diamondbacks ML",
+      "odds": "-133",
+      "edge": "Market fill from live lines: Arizona Diamondbacks is the books' favorite at -133 (best price @ MyBookie.ag) against Texas Rangers at +138, with home ice/court/field behind them. No researched edge here — this is a low-confidence market-consensus play added to round out the slate. Low confidence is honest confidence.",
+      "matchup": "Texas Rangers @ Arizona Diamondbacks",
       "league": "MLB",
-      "when": "Today 7:16 PM ET",
+      "when": "Today 8:11 PM ET",
       "confidence": "low",
       "_autofill": true,
-      "_scheduledTs": 1789254960000,
+      "_scheduledTs": 1789258260000,
       "marketSnapshot": {
-        "capturedAt": "2026-09-12T21:08:30.992Z",
+        "capturedAt": "2026-09-13T00:31:47.757Z",
         "markets": {
           "h2h": {
             "away": {
-              "price": -108,
-              "book": "FanDuel"
+              "price": 138,
+              "book": "DraftKings"
             },
             "home": {
-              "price": 100,
-              "book": "BetRivers"
+              "price": -133,
+              "book": "MyBookie.ag"
             },
             "draw": null
           },
           "spreads": {
             "away": {
               "point": 1.5,
-              "price": -213,
-              "book": "LowVig.ag"
+              "price": -160,
+              "book": "Fanatics"
             },
             "home": {
-              "point": 1.5,
-              "price": -175,
-              "book": "BetRivers"
+              "point": -1,
+              "price": -115,
+              "book": "Bovada"
             }
           },
           "totals": {
             "over": {
-              "point": 8,
-              "price": -121,
-              "book": "BetRivers"
+              "point": 6.5,
+              "price": -130,
+              "book": "Fanatics"
             },
             "under": {
-              "point": 8.5,
-              "price": -110,
-              "book": "Caesars"
+              "point": 7.5,
+              "price": -150,
+              "book": "BetMGM"
             }
           }
         },
-        "awayTeam": "Chicago White Sox",
-        "homeTeam": "St. Louis Cardinals"
+        "awayTeam": "Texas Rangers",
+        "homeTeam": "Arizona Diamondbacks"
       }
     }
   ],
-  "updatedAt": "2026-09-11T20:15:00Z",
+  "updatedAt": "2024-09-14T18:45:00Z",
   "highlights": [
     {
       "league": "NBA",
-      "title": "Top 100 Plays of the 2025-26 NBA Season 🚨",
-      "videoId": "sLWrGJjJIsM",
-      "thumbnail": "https://img.youtube.com/vi/sLWrGJjJIsM/mqdefault.jpg",
+      "title": "Zion putting in some offseason work 💪 (via: krischrisp/IG)",
+      "videoId": "8yP0RsWODnk",
+      "thumbnail": "https://img.youtube.com/vi/8yP0RsWODnk/mqdefault.jpg",
       "timeAgo": "4h ago",
       "isFallback": false
     },
@@ -6280,14 +6343,14 @@
       "title": "C.J. Stroud and the Houston Texans are tabling contract extension talks until after the season 👀",
       "videoId": "NepueKx3O_I",
       "thumbnail": "https://img.youtube.com/vi/NepueKx3O_I/mqdefault.jpg",
-      "timeAgo": "Just now",
+      "timeAgo": "4h ago",
       "isFallback": false
     },
     {
       "league": "MLB",
-      "title": "METS vs. YANKEES: Official Full Game Highlights (September 12) | 2026 MLB Season",
-      "videoId": "sbZaLeFNSlU",
-      "thumbnail": "https://img.youtube.com/vi/sbZaLeFNSlU/mqdefault.jpg",
+      "title": "ANGELS vs. NATIONALS: Official Full Game Highlights (September 12) | 2026 MLB Season",
+      "videoId": "f8aqw7Y2BwU",
+      "thumbnail": "https://img.youtube.com/vi/f8aqw7Y2BwU/mqdefault.jpg",
       "timeAgo": "1h ago",
       "isFallback": false
     },
@@ -6296,7 +6359,7 @@
       "title": "What's the weirdest rabbit hole these rookies have gone down online? 😅",
       "videoId": "HgUt_PQILkU",
       "thumbnail": "https://img.youtube.com/vi/HgUt_PQILkU/mqdefault.jpg",
-      "timeAgo": "3h ago",
+      "timeAgo": "7h ago",
       "isFallback": false
     },
     {
@@ -6309,14 +6372,126 @@
     },
     {
       "league": "SOCCER",
-      "title": "Fierce Finish 😦 Athletic Club vs. Elche | LALIGA Highlights | ESPN FC",
-      "videoId": "6FyomrQosP8",
-      "thumbnail": "https://img.youtube.com/vi/6FyomrQosP8/mqdefault.jpg",
+      "title": "Roberto De Zerbi 'is in a world of trouble' 🗣️ Don Hutchison after Spurs' draw vs. Everton | ESPN FC",
+      "videoId": "mQHpKMNjTYw",
+      "thumbnail": "https://img.youtube.com/vi/mQHpKMNjTYw/mqdefault.jpg",
       "timeAgo": "2h ago",
       "isFallback": false
     }
   ],
   "reels": [
+    {
+      "league": "MLB",
+      "title": "ANGELS vs. NATIONALS: Official Full Game Highlights (September 12) | 2026 MLB Season",
+      "videoId": "f8aqw7Y2BwU",
+      "author": "MLB",
+      "pubDate": "2026-09-12T23:36:11+00:00",
+      "link": "https://www.youtube.com/watch?v=f8aqw7Y2BwU"
+    },
+    {
+      "league": "MLB",
+      "title": "DODGERS vs. MARLINS: Official Full Game Highlights (September 12) | 2026 MLB Season",
+      "videoId": "qS7WV1VbHps",
+      "author": "MLB",
+      "pubDate": "2026-09-12T23:25:14+00:00",
+      "link": "https://www.youtube.com/watch?v=qS7WV1VbHps"
+    },
+    {
+      "league": "MLB",
+      "title": "GUARDIANS vs. TWINS: Official Full Game Highlights (September 12) | 2026 MLB Season",
+      "videoId": "0-U2-CELuxo",
+      "author": "MLB",
+      "pubDate": "2026-09-12T23:20:30+00:00",
+      "link": "https://www.youtube.com/watch?v=0-U2-CELuxo"
+    },
+    {
+      "league": "MLB",
+      "title": "PADRES vs. GIANTS: Official Full Game Highlights (September 12) | 2026 MLB Season",
+      "videoId": "MOQmgDneW0I",
+      "author": "MLB",
+      "pubDate": "2026-09-12T23:17:28+00:00",
+      "link": "https://www.youtube.com/watch?v=MOQmgDneW0I"
+    },
+    {
+      "league": "MLB",
+      "title": "ROYALS vs. RED SOX: Official Full Game Highlights (September 12) | 2026 MLB Season",
+      "videoId": "bupNx7ntGhE",
+      "author": "MLB",
+      "pubDate": "2026-09-12T23:03:30+00:00",
+      "link": "https://www.youtube.com/watch?v=bupNx7ntGhE"
+    },
+    {
+      "league": "MLB",
+      "title": "Aroldis Chapman, known two-way player 🤣",
+      "videoId": "EV2BBNl399k",
+      "author": "MLB",
+      "pubDate": "2026-09-12T22:44:25+00:00",
+      "link": "https://www.youtube.com/watch?v=EV2BBNl399k"
+    },
+    {
+      "league": "SOCCER",
+      "title": "Roberto De Zerbi 'is in a world of trouble' 🗣️ Don Hutchison after Spurs' draw vs. Everton | ESPN FC",
+      "videoId": "mQHpKMNjTYw",
+      "author": "ESPN FC",
+      "pubDate": "2026-09-12T22:28:09+00:00",
+      "link": "https://www.youtube.com/watch?v=mQHpKMNjTYw"
+    },
+    {
+      "league": "MLB",
+      "title": "ORIOLES vs. BLUE JAYS: Official Full Game Highlights (September 12) | 2026 MLB Season",
+      "videoId": "bMmYdS59gKA",
+      "author": "MLB",
+      "pubDate": "2026-09-12T22:24:06+00:00",
+      "link": "https://www.youtube.com/watch?v=bMmYdS59gKA"
+    },
+    {
+      "league": "SOCCER",
+      "title": "Should Liverpool bench Florian Wirtz? 'Gotta do what's best for the team' - Steve Nicol | ESPN FC",
+      "videoId": "_5kk9dYJFjU",
+      "author": "ESPN FC",
+      "pubDate": "2026-09-12T22:14:40+00:00",
+      "link": "https://www.youtube.com/watch?v=_5kk9dYJFjU"
+    },
+    {
+      "league": "SOCCER",
+      "title": "Do Chelsea have a personnel problem? 🤔 REACTION to draw vs. Hull City | ESPN FC",
+      "videoId": "Ap6qvM0vQeY",
+      "author": "ESPN FC",
+      "pubDate": "2026-09-12T22:03:03+00:00",
+      "link": "https://www.youtube.com/watch?v=Ap6qvM0vQeY"
+    },
+    {
+      "league": "SOCCER",
+      "title": "Steve Nicol says Arsenal will ABSOLUTELY win the EPL because they have EVERYTHING 🗣️ | ESPN FC",
+      "videoId": "3osSMDOLlyg",
+      "author": "ESPN FC",
+      "pubDate": "2026-09-12T21:55:35+00:00",
+      "link": "https://www.youtube.com/watch?v=3osSMDOLlyg"
+    },
+    {
+      "league": "MLB",
+      "title": "Fernando Tatis Jr. CRUSHES his 21st homer of the season 🤯 | MLB Highlights",
+      "videoId": "oE-4Kn8Qysk",
+      "author": "MLB",
+      "pubDate": "2026-09-12T21:35:24+00:00",
+      "link": "https://www.youtube.com/watch?v=oE-4Kn8Qysk"
+    },
+    {
+      "league": "SOCCER",
+      "title": "Real Madrid vs. Rayo Vallecano | LALIGA Highlights | ESPN FC",
+      "videoId": "GtscnZUGLe4",
+      "author": "ESPN FC",
+      "pubDate": "2026-09-12T21:18:49+00:00",
+      "link": "https://www.youtube.com/watch?v=GtscnZUGLe4"
+    },
+    {
+      "league": "NBA",
+      "title": "Zion putting in some offseason work 💪 (via: krischrisp/IG)",
+      "videoId": "8yP0RsWODnk",
+      "author": "NBA",
+      "pubDate": "2026-09-12T20:53:59+00:00",
+      "link": "https://www.youtube.com/watch?v=8yP0RsWODnk"
+    },
     {
       "league": "NFL",
       "title": "C.J. Stroud and the Houston Texans are tabling contract extension talks until after the season 👀",
@@ -6324,46 +6499,6 @@
       "author": "NFL on ESPN",
       "pubDate": "2026-09-12T20:53:27+00:00",
       "link": "https://www.youtube.com/watch?v=NepueKx3O_I"
-    },
-    {
-      "league": "MLB",
-      "title": "METS vs. YANKEES: Official Full Game Highlights (September 12) | 2026 MLB Season",
-      "videoId": "sbZaLeFNSlU",
-      "author": "MLB",
-      "pubDate": "2026-09-12T20:38:07+00:00",
-      "link": "https://www.youtube.com/watch?v=sbZaLeFNSlU"
-    },
-    {
-      "league": "MLB",
-      "title": "Francisco Lindor homers TWICE against the Yankees (Leadoff blast and a GRAND SLAM) 💪 MLB Highlights",
-      "videoId": "LscXAAYqBzc",
-      "author": "MLB",
-      "pubDate": "2026-09-12T20:30:42+00:00",
-      "link": "https://www.youtube.com/watch?v=LscXAAYqBzc"
-    },
-    {
-      "league": "MLB",
-      "title": "Mookie Betts and Max Muncy go BACK-TO-BACK in the 1st inning! 🔥 | MLB Highlights",
-      "videoId": "-BQl0TFrw1k",
-      "author": "MLB",
-      "pubDate": "2026-09-12T20:28:14+00:00",
-      "link": "https://www.youtube.com/watch?v=-BQl0TFrw1k"
-    },
-    {
-      "league": "MLB",
-      "title": "Bee Timeout 🤣",
-      "videoId": "r_cB7JPN_RI",
-      "author": "MLB",
-      "pubDate": "2026-09-12T20:07:59+00:00",
-      "link": "https://www.youtube.com/watch?v=r_cB7JPN_RI"
-    },
-    {
-      "league": "MLB",
-      "title": "Juan Soto HOMERS against the Yankees! Mets star hits his 25th of the season 🤩 | MLB Highlights",
-      "videoId": "FDadYhG-Tao",
-      "author": "MLB",
-      "pubDate": "2026-09-12T19:31:39+00:00",
-      "link": "https://www.youtube.com/watch?v=FDadYhG-Tao"
     },
     {
       "league": "SOCCER",
@@ -6382,14 +6517,6 @@
       "link": "https://www.youtube.com/watch?v=HgUt_PQILkU"
     },
     {
-      "league": "MLB",
-      "title": "Junior Caminero's BEST homers of 2026 so far! (Walk-off clincher, 463-foot BLAST and more!)",
-      "videoId": "47xliD4TLsc",
-      "author": "MLB",
-      "pubDate": "2026-09-12T17:52:20+00:00",
-      "link": "https://www.youtube.com/watch?v=47xliD4TLsc"
-    },
-    {
       "league": "NBA",
       "title": "Top 100 Plays of the 2025-26 NBA Season 🚨",
       "videoId": "sLWrGJjJIsM",
@@ -6404,22 +6531,6 @@
       "author": "NHL",
       "pubDate": "2026-09-12T17:00:37+00:00",
       "link": "https://www.youtube.com/watch?v=JeG4eGwkjvk"
-    },
-    {
-      "league": "MLB",
-      "title": "Reds' Glenn Braggs broke his bat on his back!! 🤯",
-      "videoId": "r77eDArYZUI",
-      "author": "MLB",
-      "pubDate": "2026-09-12T16:30:54+00:00",
-      "link": "https://www.youtube.com/watch?v=r77eDArYZUI"
-    },
-    {
-      "league": "MLB",
-      "title": "Rafael Devers how do you do it?? 😮‍💨",
-      "videoId": "FcSHAHvA6SY",
-      "author": "MLB",
-      "pubDate": "2026-09-12T15:15:03+00:00",
-      "link": "https://www.youtube.com/watch?v=FcSHAHvA6SY"
     },
     {
       "league": "NHL",
@@ -6476,46 +6587,6 @@
       "author": "ESPN FC",
       "pubDate": "2026-09-11T22:41:45+00:00",
       "link": "https://www.youtube.com/watch?v=uZSfTbEq9T8"
-    },
-    {
-      "league": "SOCCER",
-      "title": "‘I learned my lesson!’ 😳 Shaka, Frank and Jan's ‘welcome to the Premier League’ moments | ESPN FC",
-      "videoId": "y6dXtkNZYHs",
-      "author": "ESPN FC",
-      "pubDate": "2026-09-11T22:25:20+00:00",
-      "link": "https://www.youtube.com/watch?v=y6dXtkNZYHs"
-    },
-    {
-      "league": "SOCCER",
-      "title": "'I've never seen anything like it' 😅 Fenerbahce blocks manager's resignation | ESPN FC",
-      "videoId": "ho0EDHczU9w",
-      "author": "ESPN FC",
-      "pubDate": "2026-09-11T22:10:08+00:00",
-      "link": "https://www.youtube.com/watch?v=ho0EDHczU9w"
-    },
-    {
-      "league": "SOCCER",
-      "title": "Can Arsenal win the Premier League and the Champions League this season? 👀 | ESPN FC",
-      "videoId": "iJj5SEGgktA",
-      "author": "ESPN FC",
-      "pubDate": "2026-09-11T22:08:21+00:00",
-      "link": "https://www.youtube.com/watch?v=iJj5SEGgktA"
-    },
-    {
-      "league": "SOCCER",
-      "title": "Shaka Hislop says Raphinha is playing the BEST FOOTBALL out of everybody 🗣️ | ESPN FC",
-      "videoId": "2KrNBoIjD48",
-      "author": "ESPN FC",
-      "pubDate": "2026-09-11T21:51:21+00:00",
-      "link": "https://www.youtube.com/watch?v=2KrNBoIjD48"
-    },
-    {
-      "league": "SOCCER",
-      "title": "REACTION to Kylian Mbappe ‘campaigning’ to win the Ballon d’Or + Jose Mourinho's comments | ESPN FC",
-      "videoId": "oDJTSFwrrRo",
-      "author": "ESPN FC",
-      "pubDate": "2026-09-11T21:50:29+00:00",
-      "link": "https://www.youtube.com/watch?v=oDJTSFwrrRo"
     },
     {
       "league": "NFL",
@@ -6628,14 +6699,6 @@
       "author": "NBA",
       "pubDate": "2026-09-09T16:41:01+00:00",
       "link": "https://www.youtube.com/watch?v=tnZi9rsx_Kk"
-    },
-    {
-      "league": "NBA",
-      "title": "Spida’s 30th birthday calls for some dancing 🕺",
-      "videoId": "2ybJjUnMCE8",
-      "author": "NBA",
-      "pubDate": "2026-09-07T18:00:35+00:00",
-      "link": "https://www.youtube.com/watch?v=2ybJjUnMCE8"
     }
   ]
 }
