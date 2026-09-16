@@ -2,72 +2,80 @@
   "clusters": [
     {
       "category": "media",
-      "importance": 7,
-      "leadHeadline": "NBCs Cowboys-Giants most-watched Week 1 game thus far",
-      "leadSource": "Sports Media Watch · 2h ago",
-      "leadUrl": "https://www.sportsmediawatch.com/2026/09/nfl-ratings-week-1-cowboys-giants-viewership-nbc-fox-cbs-doubleheader/",
-      "summary": "Unable to retrieve specific viewership figures for the Cowboys-Giants game from Sports Media Watch. Game confirmed: Giants 28, Cowboys 20, September 13 on NBC.",
-      "article": "The New York Giants defeated the Dallas Cowboys 28-20 on Sunday Night Football in Week 1, but specific viewership data from Sports Media Watch could not be verified in available sources. The game aired on NBC from MetLife Stadium. Without confirmed ratings numbers or comparison data to other Week 1 games, the claim that this was the most-watched Week 1 game cannot be substantiated.",
+      "importance": 8,
+      "leadHeadline": "ABC Draws Record 3.2M Viewers for US Open Men's Final",
+      "leadSource": "Front Office Sports · 6h ago",
+      "leadUrl": "https://frontofficesports.com/article/abc-draws-record-3-2m-viewers-for-us-open-mens-final/",
+      "summary": "Alexander Zverev won his second Grand Slam of 2026 on Sunday, defeating Ben Shelton 6-3, 7-6(2), 5-7, 6-2 at the US Open. ABC's broadcast details remain unconfirmed in available reports.",
+      "article": "Alexander Zverev captured his second major championship of the year at the US Open on Sunday, dispatching home favourite Ben Shelton 6-3, 7-6(2), 5-7, 6-2 in a three-hour and 33-minute final at Arthur Ashe Stadium.\n\nThe German top seed, ranked No. 1, outlasted Shelton with methodical tennis through the first two sets, then weathered Shelton's comeback in the third before closing decisively in the fourth. With 25-2 record in majors this year, Zverev became just the fourth man in the Open Era to win his first two Grand Slam titles in a single season, following his French Open triumph in June.\n\n\"I think God has seen how hard we worked, how much we suffered, how much pain we went through and I think 2026 is the outcome of all the years that happened before,\" Zverev said when addressing his team after the win.\n\nThe title caps a remarkable turnaround for the 27-year-old German, who has reached three consecutive major finals after enduring losses in his final three appearances before this season. He pocketed $5.5 million in prize money, matching the women's champion's purse in the largest Grand Slam payout ever.",
+      "tweets": [
+        {
+          "url": "https://twitter.com/usopen/status/2099229658164125800",
+          "html": "<blockquote class=\"twitter-tweet\" data-dnt=\"true\" data-theme=\"dark\"><p>Alexander Zverev plays a flawless second set tiebreak and - like in 2020 - now stands just one set away from the US Open title! https://t.co/e1EqC88pTY</p>&mdash; US Open Tennis (@usopen) <a href=\"https://twitter.com/usopen/status/2099229658164125800\">September 13, 2026</a></blockquote>",
+          "author_name": "US Open Tennis",
+          "author_url": "https://twitter.com/usopen",
+          "dateMs": 1789330326000
+        }
+      ]
+    },
+    {
+      "category": "media",
+      "importance": 8,
+      "leadHeadline": "Ohio State-Texas hits viewership highs on ABC",
+      "leadSource": "Sports Media Watch · 7h ago",
+      "leadUrl": "https://www.sportsmediawatch.com/2026/09/ohio-state-texas-viewership-abc-college-football-michigan-oklahoma/",
+      "summary": "Ohio State and Texas drew an unusually large TV audience on ABC for the second straight year, marking sustained ratings strength in a marquee college football matchup. The game benefited from both teams' national profiles and conference relevance.",
+      "article": "For a second consecutive year, Ohio State and Texas faced off in front of an unusually large TV crowd on ABC. The rivalry attraction and both programs' elevated status in the expanded playoff landscape continue to drive measurable viewership gains for the network.\n\nThe pattern reflects how marquee college football matchups, particularly those involving blue-blood programs with national title implications, remain among broadcast television's most reliable draws. Ohio State and Texas both carry recruiting prowess and conference standing that transcends typical regular-season football; each appearance on ABC carries playoff-seeding weight and attracts both casual and hardcore audiences. The back-to-back strong performance suggests the matchup has become a tentpole event in the college calendar, a significant asset for ABC's sports portfolio as cable and streaming fragment audience attention elsewhere.",
       "tweets": []
     },
     {
-      "category": "leagues",
-      "importance": 6,
-      "leadHeadline": "Adam Silver: It Would Be a 'Failure' If Trail Blazers Left Portland",
-      "leadSource": "Front Office Sports · 4h ago",
-      "leadUrl": "https://frontofficesports.com/article/adam-silver-failure-blazers-left-portland/",
-      "summary": "NBA Commissioner Adam Silver signaled strong opposition to any potential relocation of the Trail Blazers out of Portland following the Board of Governors meetings in New York.",
-      "article": "NBA Commissioner Adam Silver made an unequivocal statement regarding the Trail Blazers' future in Portland during the league's Board of Governors meetings in New York. Silver said it would be a \"failure\" if the franchise departed the city.\n\nThe comment reflects the league's investment in Portland as a market and the broader tension between franchise relocation demands, arena conditions, and league stability. Portland has been one of the NBA's most loyal fan bases despite recent competitive struggles and aging arena infrastructure at the Moda Center. The Trail Blazers have been the subject of periodic speculation around ownership and operational changes.\n\nSilver's firm language suggests the NBA will work to keep the franchise in place rather than greenlight a move. This positions Portland's ownership and front office on notice that significant upgrades to the franchise's operations and competitive standing are expected. The statement also signals to other markets that franchise relocation is not the league's preferred path forward when ownership or arena issues arise.",
+      "category": "media",
+      "importance": 7,
+      "leadHeadline": "Networks Get Mixed Results With Week 1 NFL Viewership",
+      "leadSource": "Front Office Sports · 9h ago",
+      "leadUrl": "https://frontofficesports.com/article/networks-get-mixed-results-with-week-1-nfl-viewership/",
+      "summary": "CBS experienced viewership attrition in Week 1 of the NFL season, while NBC rebounded with strong Sunday-night numbers. The results paint a mixed picture as the league enters its 2026 campaign.",
+      "article": "CBS saw some viewership losses during Week 1 of the NFL season, while NBC bounced back with stronger Sunday-night ratings, offering a split verdict on how audiences are engaging with the season opener across the networks' prime slots.\n\nThe divergence suggests network-specific factors at play: NBC's traditional Sunday Night Football slot has built consistent habit viewership, whereas CBS's early-window games face steeper competition from casual viewers still ramping into football season. The mixed results also reflect the broader fragmentation challenge facing broadcast television, as streaming services and alternative entertainment options continue to draw away portions of the audience that once concentrated solely on network broadcasts.\n\nBoth networks remain committed to their NFL packages through long-term rights deals, so navigating Week 1 volatility is routine. However, the performance sets a baseline for how aggressive streaming and counter-programming have become in the early weeks of a season, with each network looking to stabilize its audience as the season progresses.",
       "tweets": []
     },
     {
       "category": "revenue",
-      "importance": 6,
+      "importance": 7,
       "leadHeadline": "Zach Leonsis Promoted as Wizards, Capitals Near $750M in Revenue",
-      "leadSource": "Sportico · 12h ago",
+      "leadSource": "Sportico · 19h ago",
       "leadUrl": "https://www.sportico.com/personalities/executives/2026/zach-leonsis-promoted-wizards-capitals-mystics-monumental-1234945056/",
-      "summary": "Monumental Sports Entertainment announced Zach Leonsis as president and vice chairman in a newly created role, advancing succession planning as the sports empire approaches $750M in annual revenue.",
-      "article": "Monumental Sports Entertainment announced a significant executive reshuffle Tuesday with Zach Leonsis, son of controlling owner Ted Leonsis, promoted to president and vice chairman in a newly created position. The move accelerates the younger Leonsis's trajectory toward eventually leading the sprawling sports and entertainment operation.\n\nThe promotion comes as MSE approaches $750 million in annual revenue, reflecting the scale of an empire that spans the NBA's Wizards, NHL's Capitals, and multiple other sports and entertainment holdings. The new role positions Zach Leonsis at a critical juncture between day-to-day operations and board-level strategy, a typical pathway for succession in family-controlled sports enterprises.\n\nTed Leonsis, 67, has built MSE into one of the region's most valuable private sports assets over two decades. The promotion of his son signals a multi-year transition plan rather than an immediate handoff, allowing Zach time to deepen his operational experience across the portfolio. MSE's diversity of revenue streams, from franchise valuations to real estate and hospitality operations tied to its venues, makes the position one of the highest-stakes executive roles in Washington sports.",
+      "summary": "Zach Leonsis has been promoted to president and vice chairman of Monumental Sports and Entertainment, positioning him closer to control of the sports empire run by his father, Ted. MSE's portfolio is approaching $750M in annual revenue.",
+      "article": "Zach Leonsis has been promoted to president and vice chairman of Monumental Sports and Entertainment, the newly created executive position marking a formal step in his ascent within the sports empire controlled by his father, Ted Leonsis. The move follows a series of executive reshuffles at MSE as the organization prepares for potential ownership transitions.\n\nMonumental Sports and Entertainment, which operates the Washington Wizards, Washington Capitals, and other assets, is approaching $750 million in annual revenue. The promotion signals that Zach Leonsis, who has worked in various roles within the organization, is being groomed for greater operational control. Ted Leonsis remains principal owner and chairman, but the executive restructuring reflects long-term succession planning within one of the NBA and NHL's most complex ownership structures.\n\nThe timing of the promotion comes as sports franchises across both leagues have begun publicly addressing generational transfers of power. MSE's scale and multi-team footprint make such transitions particularly intricate, requiring careful management of player contracts, league governance, and stakeholder expectations across both the basketball and hockey sides of the business.",
+      "tweets": []
+    },
+    {
+      "category": "media",
+      "importance": 6,
+      "leadHeadline": "Szoboszlai screamer seals Liverpool's progress as De Zerbi's Spurs woes grow",
+      "leadSource": "The Guardian · 11h ago",
+      "leadUrl": "https://www.theguardian.com/football/2026/sep/15/liverpool-tottenham-carabao-cup-third-round-match-report",
+      "summary": "Dominic Szoboszlai's goal sent Liverpool into the next round and exposed Tottenham's offensive struggles under Roberto De Zerbi. The result underscored the quality gap between the two Premier League rivals.",
+      "article": "Dominic Szoboszlai's goal advanced Liverpool into the next round at Anfield, while Tottenham's Roberto De Zerbi faced another frustrating result despite his team's possession and movement. The match highlighted the chasm between execution and creation in modern football: Spurs moved the ball well in harmless areas, yet De Zerbi's side could not convert chances or defensive discipline into a result.\n\nLiverpool's clinical finishing stood in stark contrast to Spurs' profligacy, a pattern that has haunted De Zerbi's early tenure in the Premier League. Despite De Zerbi's reputation as a tactician who draws praise for his coaching acumen and player development, Tottenham's output in the final third remains a persistent weakness. Liverpool's advancement came with the kind of efficiency that suggests the club is operating at a different level of execution.\n\nFor De Zerbi, the loss adds pressure to a managerial tenure that has included several performances where Spurs' quality of play in possession has not translated to results. Tottenham's away support left disappointed, and the club faces a reckoning about whether its current approach generates the offensive output required to compete for European places.",
       "tweets": []
     },
     {
       "category": "media",
       "importance": 5,
-      "leadHeadline": "NFLs Down Under Opener Confirms Streamers Are Still Lagging TV",
-      "leadSource": "Sportico · 13h ago",
-      "leadUrl": "https://www.sportico.com/business/media/2026/nfl-ratings-netflix-streamers-lagging-tv-1234944961/",
-      "summary": "The NFL's Wednesday night Australia opener drew solid numbers on NBC but fell short of the novelty boost the league sought, while Netflix continued to lag as a prime sports broadcaster.",
-      "article": "The NFL's inaugural Wednesday night season opener from Australia drew respectable viewership for NBC but failed to generate the outsized audience the league had hoped would capitalize on the novel kickoff date and international location. The Sportico analysis shows NBC's broadcast easily topped Netflix's concurrent Thursday night offerings, confirming that legacy broadcasters retain a significant edge in attracting football audiences.\n\nThe Australia game's flat performance, despite the historic launch for an NFL regular season, suggests that scheduling novelty and geographic intrigue alone cannot overcome viewer preference for traditional broadcast windows and marquee matchups. Wednesday night football is not a traditional NFL staging ground, and the 2026 season opener drew audiences that reflected that unfamiliarity.\n\nThe result reinforces a broader pattern: streaming services have made inroads into sports broadcasting but still struggle to match the reach and engagement of established cable and network TV partners. Netflix's inability to draw competitive numbers against concurrent NBC programming, even as the streamer invests heavily in sports content, underscores the structural advantages that free-to-air and cable platforms retain in driving audience scale for live events.",
+      "leadHeadline": "Pete Alonso hits 300th career homer against former team as Orioles top Mets",
+      "leadSource": "CBS Sports · 4h ago",
+      "leadUrl": "https://www.cbssports.com/mlb/news/pete-alonso-hits-300th-career-homer-against-former-team-as-orioles-top-mets/",
+      "summary": "Pete Alonso belted his 300th career home run in the ninth inning against the Orioles, his former team, but Baltimore still prevailed in extra innings. The milestone moment ended in defeat for the Mets.",
+      "article": "Pete Alonso smashed his 300th career home run in the ninth inning against the Orioles at Citi Field, a game-tying blast that momentarily reignited Mets hopes. The Baltimore Orioles, however, prevailed in extra innings, keeping themselves in the AL wild-card hunt and handing New York a costly loss.\n\nAlonso's 300th homer is a significant career marker, achieved by a relatively small cohort of sluggers. The blast came off an Orioles pitcher, the team that drafted Alonso years earlier, adding a layer of narrative to the milestone. Alonso's late-inning power has been central to the Mets' recent offensive identity, and the home run demonstrated his ability to deliver in high-leverage situations even as the team struggled to close out the game.\n\nThe loss keeps the Mets' wild-card positioning precarious, while the Orioles' extra-inning victory bolsters their push for postseason contention. For Alonso, the 300-homer club membership provides individual recognition, but the result served as a reminder that individual achievement and team outcomes are distinct currencies in September baseball.",
       "tweets": []
     },
     {
       "category": "media",
       "importance": 4,
-      "leadHeadline": "Networks Get Mixed Results With Week 1 NFL Viewership",
-      "leadSource": "Front Office Sports · 2h ago",
-      "leadUrl": "https://frontofficesports.com/article/networks-get-mixed-results-with-week-1-nfl-viewership/",
-      "summary": "CBS recorded viewership declines in its Week 1 slate while NBC rebounded strongly on Sunday night, signaling uneven audience appetite across the network-television package in the young season.",
-      "article": "Week 1 of the 2026 NFL season produced divergent results across broadcast partners, with CBS experiencing attrition in viewership while NBC posted stronger numbers in its Sunday night window. The mixed performance reflects the variability in audience draw across matchups and scheduling.\n\nCBS's viewership decline in its slate suggests that some of the network's assigned games either lacked star power or fell victim to viewer migration to other entertainment options during the season's opening week. NBC's Sunday night rebound indicates that the traditional primetime slot, when paired with competitive matchups, retains its pull with audiences.\n\nThese early numbers are closely watched by both networks and the NFL as indicators of broader trends for the 2026 season. Network ratings packages are worth billions annually, and early underperformance in key games can signal trouble ahead. However, Week 1 is notoriously volatile, with some audiences frontloaded into the opening week and others still migrating back from summer. Sustained tracking over the next few weeks will clarify whether CBS's decline is a one-week anomaly or a signal of deeper audience shift.",
-      "tweets": []
-    },
-    {
-      "category": "leagues",
-      "importance": 3,
-      "leadHeadline": "Behind the Lobbying Battle Over the Bipartisan Senate College Sports Bill",
-      "leadSource": "Front Office Sports · 4h ago",
-      "leadUrl": "https://frontofficesports.com/article/behind-the-last-ditch-lobbying-battle-over-the-bipartisan-senate-college-sports-bill/",
-      "summary": "An opposition coalition has formed to block the bipartisan Senate college sports bill, signaling internal disputes over how to regulate athlete compensation and governance.",
-      "article": "A coalition of opponents has mobilized against the bipartisan Senate college sports bill, setting up a lobbying fight over the legislation's framework for athlete compensation and NCAA governance. The details of the opposition coalition's objections have not been fully articulated in early reporting, but the emergence of organized resistance suggests substantive disagreement over the bill's provisions.\n\nThe bill itself represents an attempt to bring federal oversight to college athletics at a moment when the NCAA's traditional authority has fractured following antitrust litigation and state-level legislation. A bipartisan effort typically signals some shared common ground, but the formation of an opposition coalition indicates that key stakeholders, whether conference offices, individual universities, athlete advocacy groups, or other interests, view certain provisions as threatening.\n\nLobby battles over collegiate sports legislation will likely dominate the coming weeks as the bill's sponsors and opponents stake out positions. The outcome carries implications for how athlete compensation, transfer rules, and governance operate across Division I athletics.",
-      "tweets": []
-    },
-    {
-      "category": "media",
-      "importance": 2,
-      "leadHeadline": "Arch Manning apologizes for 'insensitive' joke about AI video of ESPN's Holly Rowe",
-      "leadSource": "The Guardian · 6h ago",
-      "leadUrl": "https://www.theguardian.com/sport/2026/sep/15/arch-manning-apology-holly-rowe-ai-video",
-      "summary": "Texas quarterback Arch Manning apologized after calling an AI-generated video depicting coach Steve Sarkisian slapping reporter Holly Rowe 'hilarious,' with Rowe accepting the apology publicly.",
-      "article": "Texas quarterback Arch Manning issued a public apology after joking about an AI-generated video that depicted Longhorns coach Steve Sarkisian slapping ESPN reporter Holly Rowe. Manning initially called the deepfake clip \"hilarious,\" drawing backlash on social media and from media critics.\n\nIn his apology, Manning stated there was \"nothing funny about it\" and committed to doing better. Rowe responded publicly to accept the apology and signaled the two would move forward. The incident highlighted the rapid spread of AI-generated synthetic media and the reputational risks athletes face in endorsing or amplifying such content, even in jest.\n\nManning's quick reversal and Rowe's acceptance prevented the incident from escalating into a prolonged controversy, though it underscored broader concerns about deepfake technology and how athletes and media figures navigate humor involving manipulated video. The Texas quarterback, a high-profile recruit and media figure, faced immediate accountability from his program and public opinion.",
+      "leadHeadline": "Blue Jays pitching woes exposed in costly series loss to Tigers",
+      "leadSource": "Sportsnet · 5h ago",
+      "leadUrl": "",
+      "summary": "Toronto's reliance on bullpen games has backfired in a series loss to Detroit, exposing a critical vulnerability as the Blue Jays compete for a wild-card spot. The Tigers have capitalized on Toronto's pitching shortcomings.",
+      "article": "The Toronto Blue Jays' frequent use of bullpen games this season has caught up with them in a costly series loss to the Detroit Tigers. The pitching strategy, designed to preserve starter workload and manage an aging rotation, has instead become a liability down the stretch as the Blue Jays attempt to secure wild-card positioning.\n\nRunning bullpen games presents inherent risks: relief arms fatigue, patterns become predictable to opposing hitters, and the cumulative toll of shortened rest surfaces at the worst time. Detroit has exploited Toronto's pitching rotation, turning what was meant to be a strategic advantage into a competitive weakness. The Tigers' series victory keeps them in contention while pushing the Blue Jays further into the crowded wild-card picture.\n\nToronto's front office bet that depth and adaptability could compensate for rotation limitations, but execution has wavered. As September baseball intensifies and teams jostle for playoff position, the perils of overreliance on any single strategy become pronounced. The Blue Jays face a decision point: pivot to a more traditional rotation structure if starters can handle it, or accept the risk that bullpen exhaustion will haunt them deeper into the season.",
       "tweets": []
     }
   ],
@@ -2392,73 +2400,192 @@
     "source": "espn"
   },
   "deals": [],
-  "ratings": [],
+  "ratings": [
+    {
+      "event": "US Open Men's Final (Zverev vs Shelton)",
+      "network": "ABC",
+      "viewers_m": 3.2,
+      "peak_viewers_m": null,
+      "league": "OTHER",
+      "storyIndex": 0,
+      "context": "Record viewership for US Open men's final on ABC; Zverev won his second Grand Slam.",
+      "capturedAt": "2026-09-16T08:07:02.549Z"
+    }
+  ],
   "ticket_prices": [],
   "sidebar": [
     {
-      "headline": "Max Dowman shines with two goals against Ipswich Town - but Arsenal know caution is needed",
-      "source": "BBC Sport · 2h ago",
-      "article": "Arsenal's young striker Max Dowman displayed his quality with two goals against Ipswich Town in recent action, drawing praise for his finishing and positioning. The performance marked another statement from the emerging talent as he continues to develop in the club's striker rotation. However, boss Mikel Arteta has cautioned against rushing Dowman's development despite the eye-catching display. The coaching staff is managing his minutes and expectations carefully, balancing the excitement around his potential with the realities of integrating young talent into a competitive Premier League squad. Dowman's growth trajectory will be monitored closely as Arsenal weigh how much responsibility to place on him this season."
+      "headline": "Arch Manning apologizes for 'insensitive' joke about AI video of ESPN's Holly Rowe",
+      "source": "The Guardian · 13h ago",
+      "article": "Texas quarterback Arch Manning apologized after joking about an AI-generated video that depicted Longhorns coach Steve Sarkisian slapping ESPN reporter Holly Rowe. Manning called the clip 'hilarious' before walking it back, acknowledging 'nothing funny about it' and pledging to 'do better.' Rowe posted that she accepted the apology and would move forward. The incident highlighted the vulnerability of broadcasters and public figures to deepfake video and the need for broader media literacy around synthetic content. Manning's quick correction suggests an effort to navigate the generational expectations around social-media commentary and professional accountability."
+    },
+    {
+      "headline": "'Superstar' Dowman shows his class - but Arsenal know caution is needed",
+      "source": "BBC Sport · 10h ago",
+      "article": "Arsenal midfielder Max Dowman scored twice against Ipswich Town in a commanding performance that drew praise from manager Mikel Arteta. However, Arteta cautioned that Dowman cannot be rushed in his development, tempering expectations around the young talent. The dual message reflects modern management philosophy: recognize emerging ability while protecting long-term player health and confidence. Dowman's two-goal display suggests he has the technical foundation to contribute at the highest level, but Arteta's measured tone signals that Arsenal will integrate him deliberately rather than thrust him into a starting role prematurely."
+    },
+    {
+      "headline": "Brook likened to Pietersen in SL win - how do they compare?",
+      "source": "BBC Sport · 10h ago",
+      "article": "England batter Harry Brook hit a brutal century and drew comparisons to Kevin Pietersen as England thrashed Sri Lanka by 119 runs in the first T20 in Southampton. Brook's aggressive intent and stroke-play quality recall Pietersen's fearless approach to white-ball cricket, though the players operate in different eras and formats. The comparison, while flattering, also carries pressure: Pietersen was a transformative talent at his peak, and Brook will need sustained excellence to live up to the lineage. England's commanding victory and Brook's centerpiece performance signal the team is calibrating its middle order for the T20 World Cup cycle."
+    },
+    {
+      "headline": "AL wild-card roundup: Rangers overtake Blue Jays, Guardians pull away",
+      "source": "Sportsnet · 4h ago",
+      "article": "The Texas Rangers moved ahead of the Toronto Blue Jays in the AL wild-card chase, while the Cleveland Guardians extended their advantage at the top of the bracket. The movement reflects how tightly bunched the race remains, with multiple teams separated by a few games. Toronto's series loss to Detroit was costly in this context; a Rangers win capitalizes on divisional strength and recent momentum. The Guardians' separation suggests their roster construction and starting pitching depth are paying dividends as September baseball tightens the competition."
+    },
+    {
+      "headline": "NFL's Down Under Opener Confirms Streamers Are Still Lagging TV",
+      "source": "Sportico · 20h ago",
+      "article": "NBC's traditional broadcast of the NFL's season-opening game in Australia outpaced Netflix's Thursday night deliveries, confirming that legacy television networks retain a viewership advantage in live sports. Despite the unusual Wednesday start date for the NFL season, NBC's rights as the annual Kickoff Game holder held firm. The result underscores that streaming services, despite their investment in sports rights, have not yet matched broadcast television's ability to aggregate massive audiences for major events. Netflix's nightly output draws viewers, but it does not yet command the habit-viewing and cultural moment concentration that network television still owns."
     },
     {
       "headline": "WSL Power Rankings: Manchester City remain at the top, Chelsea bounce back and Manchester United slip",
-      "source": "CBS Sports · 1h ago",
-      "article": "Manchester City maintains its grip on the top of the Women's Super League standings after another week of action in the 2026 campaign. Chelsea rebounded strongly from recent struggles with a statement performance, climbing back into contention in the power rankings. Manchester United, meanwhile, experienced a slip in the rankings following mixed recent results. The trio's contrasting fortunes have reshaped the competitive landscape in the WSL's middle tier. City's consistency and Chelsea's resurgence stand in sharp relief to United's recent wobble, setting up an intriguing stretch as the season progresses and teams jostle for Champions League qualification and title position."
-    },
-    {
-      "headline": "Szoboszlai screamer seals Liverpool's progress as De Zerbi's Spurs woes grow",
-      "source": "The Guardian · 4h ago",
-      "article": "Liverpool advanced past Tottenham in domestic cup competition with a decisive display featuring a stunning Szoboszlai finish that sealed the Reds' progress. Roberto De Zerbi's Spurs proved no match for Liverpool's clinical attacking play, despite performing respectably in harmless areas of the pitch. The quality of Liverpool's finishing underscored the gulf in execution between the two sides. Spurs' away support left Anfield with little consolation, and De Zerbi's post-match commentary on his squad's capabilities rang somewhat hollow given the evidence on the pitch. The result compounds what has become a concerning stretch for Tottenham under their new manager as they search for answers to their inconsistency."
-    },
-    {
-      "headline": "Blue Jays on Sportsnet: Toronto vs. Detroit",
-      "source": "Sportsnet · 2h ago",
-      "article": "The Toronto Blue Jays faced off against the Detroit Tigers in a crucial mid-season matchup, with the Jays looking to bounce back after a tough series-opening loss. Live coverage on Sportsnet and Sportsnet+ brought the action to fans across Canada, with first pitch scheduled for 7 p.m. ET. The series outcome carries implications for both clubs' positioning as the regular season progresses. Detroit brings momentum into the contest, while Toronto seeks to regain its footing in what has been a competitive AL East race."
-    },
-    {
-      "headline": "Harry Brook hits a brutal century and draws comparisons with Kevin Pietersen as England thrash Sri Lanka by 119 runs",
-      "source": "BBC Sport · 3h ago",
-      "article": "England's Harry Brook produced a stunning century in the first T20 against Sri Lanka in Southampton, putting on a brutal batting display that drew inevitable comparisons to Kevin Pietersen's aggressive style. Brook's century powered England to a 119-run victory in a dominant performance that highlighted his developing reputation as an elite T20 batter. The century came at a rapid clip, with Brook finding the boundary consistently and taking calculated risks that paid off handsomely. While Pietersen comparisons are always flattering for a young English batter, Brook is forging his own identity within the format, blending aggression with technical soundness."
-    },
-    {
-      "headline": "Robert De Niro expected to play Dodgers legend Tommy Lasorda in upcoming Hollywood blockbuster",
-      "source": "NY Post Sports · just now",
-      "article": "Oscar-winning actor Robert De Niro is in talks to portray Hall of Fame Los Angeles Dodgers manager Tommy Lasorda in the upcoming film 'Tommy & Me,' according to Deadline. The project aims to chronicle Lasorda's legendary tenure as one of baseball's most colorful and successful managers. De Niro's involvement would bring significant star power to the sports biopic, which continues Hollywood's recent push into baseball storytelling. Lasorda's larger-than-life personality and accomplishments, from his four World Series championships to his iconic one-liners, provide rich material for an A-list dramatic film."
+      "source": "CBS Sports · 8h ago",
+      "article": "Manchester City held top position in the Women's Super League after a wild week of action, while Chelsea rebounded from recent struggles and Manchester United suffered a dip in form. The rankings reflect early-season volatility in the league, where depth and consistency separate contenders from the rest. City's stability at the summit suggests continuity in their player development and tactical execution, whereas Chelsea and United face questions about roster construction and managerial decision-making as the season progresses."
     }
   ],
   "poll": {
-    "question": "Which network's NFL Week 1 performance best positions it for the season ahead?",
+    "question": "Which network's NFL ratings will improve most by Week 3 of the 2026 season?",
     "options": [
-      "NBC (strong primetime and Australia coverage)",
-      "CBS (despite early attrition, strong brand partnerships)",
-      "All networks are on even footing, too early to judge",
-      "Streaming services will overtake legacy broadcasters by mid-season"
+      "CBS (recover from Week 1 losses)",
+      "NBC (maintain momentum)",
+      "ESPN/ABC (Monday Night Football)",
+      "Streaming platforms (Prime Video, etc.)"
     ]
   },
   "predictions": [
     {
-      "statement": "NBC's primetime NFL window will average above 20 million viewers for the 2026 season, maintaining its broadcast dominance.",
+      "statement": "Pete Alonso will join the 310-home-run club before the 2026 season ends.",
       "probability": 72,
-      "rationale": "Primetime has historically been the NFL's strongest slot, and NBC's Week 1 performance against the Cowboys-Giants matchup shows sustained audience appetite for branded rivalries. Legacy broadcast infrastructure still outpaces streaming significantly."
+      "rationale": "Alonso just reached 300, leaving roughly four weeks of play remaining and ten homers needed. At his career pace (roughly 37 homers per 162 games), he's on track, assuming steady playing time and Mets remain competitive."
     },
     {
-      "statement": "The bipartisan Senate college sports bill will stall in committee as opposition coalition delays or blocks passage this session.",
-      "probability": 58,
-      "rationale": "Organized opposition has already mobilized, signaling entrenched stakeholder disagreement. College sports legislation moves slowly and faces competing interests from conferences, universities, and athlete groups. Stalling is the most common outcome for contested sports bills."
+      "statement": "The Rangers will claim the AL wild-card No. 1 seed over the Guardians.",
+      "probability": 38,
+      "rationale": "Cleveland holds a separation now and has established rotation strength. Texas must sustain divisional momentum while the Guardians play a more manageable late-season schedule. Cleveland's pitching depth is the edge."
     },
     {
-      "statement": "Trail Blazers ownership will announce arena renovation or upgrade financing within 12 months, responding to Adam Silver's public pressure.",
-      "probability": 64,
-      "rationale": "Silver's public statement creates reputational pressure and signals league intent to keep the franchise in Portland. Ownership will likely move to demonstrate commitment through visible capital investment rather than face forced relocation talks."
+      "statement": "Streaming will capture more than 15% of total NFL viewership by end of 2026 season.",
+      "probability": 55,
+      "rationale": "Netflix and Prime Video are investing aggressively, but broadcast television still dominates habit-viewing and live-event audiences. Growth is real but incremental; 15% is achievable but not certain without a marquee playoff game on a streamer."
     },
     {
-      "statement": "Streaming services will capture less than 15 percent of total NFL viewership by end of 2026 season despite increased investment.",
-      "probability": 78,
-      "rationale": "Netflix's poor Thursday night performance and the Australia game's flat numbers despite novelty suggest streamers lack the platform reach and cultural saturation of broadcast and cable. Structural advantages of free-to-air access remain formidable."
+      "statement": "Max Dowman will start at least 8 Premier League matches for Arsenal before 2027.",
+      "probability": 68,
+      "rationale": "Arteta's caution suggests measured integration, but Dowman's two-goal performance and youth profile indicate he's on the squad rotation radar. Injuries or depth departures could accelerate his pathway; the baseline expectation is significant contribution this season."
     }
   ],
   "injuries": [],
   "picks": [
+    {
+      "type": "moneyline",
+      "pick": "St. Louis Cardinals ML",
+      "odds": "-155",
+      "edge": "Market fill from live lines: St. Louis Cardinals is the books' favorite at -155 (best price @ Fanatics) against San Francisco Giants at +133, with home ice/court/field behind them. No researched edge here — this is a low-confidence market-consensus play added to round out the slate. Low confidence is honest confidence.",
+      "matchup": "San Francisco Giants @ St. Louis Cardinals",
+      "league": "MLB",
+      "when": "Tomorrow 1:16 PM ET",
+      "confidence": "low",
+      "_autofill": true,
+      "_scheduledTs": 1789578960000,
+      "marketSnapshot": {
+        "capturedAt": "2026-09-16T00:55:27.270Z",
+        "markets": {
+          "h2h": {
+            "away": {
+              "price": 133,
+              "book": "Caesars"
+            },
+            "home": {
+              "price": -155,
+              "book": "Fanatics"
+            },
+            "draw": null
+          },
+          "spreads": {
+            "away": {
+              "point": 1.5,
+              "price": -160,
+              "book": "Fanatics"
+            },
+            "home": {
+              "point": -1,
+              "price": -107,
+              "book": "BetRivers"
+            }
+          },
+          "totals": {
+            "over": {
+              "point": 8,
+              "price": -115,
+              "book": "Fanatics"
+            },
+            "under": {
+              "point": 8.5,
+              "price": -122,
+              "book": "BetRivers"
+            }
+          }
+        },
+        "awayTeam": "San Francisco Giants",
+        "homeTeam": "St. Louis Cardinals"
+      }
+    },
+    {
+      "type": "moneyline",
+      "pick": "New York Yankees ML",
+      "odds": "-140",
+      "edge": "Market fill from live lines: New York Yankees is the books' favorite at -140 (best price @ LowVig.ag) against Minnesota Twins at +127, favored even on the road. No researched edge here — this is a low-confidence market-consensus play added to round out the slate. Low confidence is honest confidence.",
+      "matchup": "New York Yankees @ Minnesota Twins",
+      "league": "MLB",
+      "when": "Tomorrow 1:41 PM ET",
+      "confidence": "low",
+      "_autofill": true,
+      "_scheduledTs": 1789580460000,
+      "marketSnapshot": {
+        "capturedAt": "2026-09-16T00:55:27.271Z",
+        "markets": {
+          "h2h": {
+            "away": {
+              "price": -140,
+              "book": "LowVig.ag"
+            },
+            "home": {
+              "price": 127,
+              "book": "LowVig.ag"
+            },
+            "draw": null
+          },
+          "spreads": {
+            "away": {
+              "point": -1,
+              "price": -117,
+              "book": "BetRivers"
+            },
+            "home": {
+              "point": 1.5,
+              "price": -137,
+              "book": "FanDuel"
+            }
+          },
+          "totals": {
+            "over": {
+              "point": 7.5,
+              "price": -132,
+              "book": "FanDuel"
+            },
+            "under": {
+              "point": 8.5,
+              "price": -124,
+              "book": "BetRivers"
+            }
+          }
+        },
+        "awayTeam": "New York Yankees",
+        "homeTeam": "Minnesota Twins"
+      }
+    },
     {
       "type": "moneyline",
       "pick": "Tampa Bay Rays ML",
@@ -6219,140 +6346,32 @@
         "homeTeam": "Colorado Rockies"
       },
       "_pendingGrade": true
-    },
-    {
-      "type": "moneyline",
-      "pick": "St. Louis Cardinals ML",
-      "odds": "-155",
-      "edge": "Market fill from live lines: St. Louis Cardinals is the books' favorite at -155 (best price @ Fanatics) against San Francisco Giants at +133, with home ice/court/field behind them. No researched edge here — this is a low-confidence market-consensus play added to round out the slate. Low confidence is honest confidence.",
-      "matchup": "San Francisco Giants @ St. Louis Cardinals",
-      "league": "MLB",
-      "when": "Tomorrow 1:16 PM ET",
-      "confidence": "low",
-      "_autofill": true,
-      "_scheduledTs": 1789578960000,
-      "marketSnapshot": {
-        "capturedAt": "2026-09-16T00:55:27.270Z",
-        "markets": {
-          "h2h": {
-            "away": {
-              "price": 133,
-              "book": "Caesars"
-            },
-            "home": {
-              "price": -155,
-              "book": "Fanatics"
-            },
-            "draw": null
-          },
-          "spreads": {
-            "away": {
-              "point": 1.5,
-              "price": -160,
-              "book": "Fanatics"
-            },
-            "home": {
-              "point": -1,
-              "price": -107,
-              "book": "BetRivers"
-            }
-          },
-          "totals": {
-            "over": {
-              "point": 8,
-              "price": -115,
-              "book": "Fanatics"
-            },
-            "under": {
-              "point": 8.5,
-              "price": -122,
-              "book": "BetRivers"
-            }
-          }
-        },
-        "awayTeam": "San Francisco Giants",
-        "homeTeam": "St. Louis Cardinals"
-      }
-    },
-    {
-      "type": "moneyline",
-      "pick": "New York Yankees ML",
-      "odds": "-140",
-      "edge": "Market fill from live lines: New York Yankees is the books' favorite at -140 (best price @ LowVig.ag) against Minnesota Twins at +127, favored even on the road. No researched edge here — this is a low-confidence market-consensus play added to round out the slate. Low confidence is honest confidence.",
-      "matchup": "New York Yankees @ Minnesota Twins",
-      "league": "MLB",
-      "when": "Tomorrow 1:41 PM ET",
-      "confidence": "low",
-      "_autofill": true,
-      "_scheduledTs": 1789580460000,
-      "marketSnapshot": {
-        "capturedAt": "2026-09-16T00:55:27.271Z",
-        "markets": {
-          "h2h": {
-            "away": {
-              "price": -140,
-              "book": "LowVig.ag"
-            },
-            "home": {
-              "price": 127,
-              "book": "LowVig.ag"
-            },
-            "draw": null
-          },
-          "spreads": {
-            "away": {
-              "point": -1,
-              "price": -117,
-              "book": "BetRivers"
-            },
-            "home": {
-              "point": 1.5,
-              "price": -137,
-              "book": "FanDuel"
-            }
-          },
-          "totals": {
-            "over": {
-              "point": 7.5,
-              "price": -132,
-              "book": "FanDuel"
-            },
-            "under": {
-              "point": 8.5,
-              "price": -124,
-              "book": "BetRivers"
-            }
-          }
-        },
-        "awayTeam": "New York Yankees",
-        "homeTeam": "Minnesota Twins"
-      }
     }
   ],
-  "updatedAt": "2026-04-23T18:45:00Z",
+  "updatedAt": "2026-04-23T14:30:00Z",
   "highlights": [
     {
       "league": "NBA",
       "title": "The players have offseason hobbies too ⛳️",
       "videoId": "BRkkGL20tlM",
       "thumbnail": "https://img.youtube.com/vi/BRkkGL20tlM/mqdefault.jpg",
-      "timeAgo": "4h ago",
+      "timeAgo": "12h ago",
       "isFallback": false
     },
     {
       "league": "NFL",
-      "title": "Josh Allen was not a fan 😂🕷️",
-      "videoId": "KqnmUNvHvKI",
-      "thumbnail": "https://img.youtube.com/vi/KqnmUNvHvKI/mqdefault.jpg",
-      "timeAgo": "2h ago",
+      "title": "❤️❤️❤️ (🎥: Atlanta Falcons)",
+      "videoId": "-d5uWYz9Bmo",
+      "thumbnail": "https://img.youtube.com/vi/-d5uWYz9Bmo/mqdefault.jpg",
+      "timeAgo": "6h ago",
       "isFallback": false
     },
     {
       "league": "MLB",
-      "title": "Kyle Schwarber's MLB-leading 45th home run!",
-      "videoId": "bx5EuUaZWzU",
-      "thumbnail": "https://img.youtube.com/vi/bx5EuUaZWzU/mqdefault.jpg",
-      "timeAgo": "Just now",
+      "title": "MARLINS vs. D-BACKS: Official Full Game Highlights (September 15) | 2026 MLB Season",
+      "videoId": "_tPljrCKagM",
+      "thumbnail": "https://img.youtube.com/vi/_tPljrCKagM/mqdefault.jpg",
+      "timeAgo": "3h ago",
       "isFallback": false
     },
     {
@@ -6360,7 +6379,7 @@
       "title": "Weirdest Moment of the Season? Tage's 5-Shot Barrage 💣",
       "videoId": "UwDqLUDbKsw",
       "thumbnail": "https://img.youtube.com/vi/UwDqLUDbKsw/mqdefault.jpg",
-      "timeAgo": "3h ago",
+      "timeAgo": "10h ago",
       "isFallback": false
     },
     {
@@ -6368,19 +6387,99 @@
       "title": "WNBA Top 30 All-Time Plays",
       "videoId": "61OjhAxJkBw",
       "thumbnail": "https://img.youtube.com/vi/61OjhAxJkBw/mqdefault.jpg",
-      "timeAgo": "1d ago",
+      "timeAgo": "2d ago",
       "isFallback": false
     },
     {
       "league": "SOCCER",
-      "title": "In today's market, which manager would you most want to play under? 👀 | ESPN FC Extra Time",
-      "videoId": "ajy5CgDqx3I",
-      "thumbnail": "https://img.youtube.com/vi/ajy5CgDqx3I/mqdefault.jpg",
-      "timeAgo": "Just now",
+      "title": "Real Madrid escape Elche with a last-minute winner + Spurs remain winless in the EPL | ESPN FC",
+      "videoId": "nPghTE_4S64",
+      "thumbnail": "https://img.youtube.com/vi/nPghTE_4S64/mqdefault.jpg",
+      "timeAgo": "7h ago",
       "isFallback": false
     }
   ],
   "reels": [
+    {
+      "league": "MLB",
+      "title": "MARLINS vs. D-BACKS: Official Full Game Highlights (September 15) | 2026 MLB Season",
+      "videoId": "_tPljrCKagM",
+      "author": "MLB",
+      "pubDate": "2026-09-16T05:36:28+00:00",
+      "link": "https://www.youtube.com/watch?v=_tPljrCKagM"
+    },
+    {
+      "league": "MLB",
+      "title": "MARINERS vs. ANGELS: Official Full Game Highlights (September 15) | 2026 MLB Season",
+      "videoId": "nIXHr_AQCl4",
+      "author": "MLB",
+      "pubDate": "2026-09-16T04:27:18+00:00",
+      "link": "https://www.youtube.com/watch?v=nIXHr_AQCl4"
+    },
+    {
+      "league": "MLB",
+      "title": "Pete Alonso's CLUTCH homer leads to HECTIC Orioles win! 😵‍💫 (Inside-the-park home run and more)",
+      "videoId": "20v7oKzEAqU",
+      "author": "MLB",
+      "pubDate": "2026-09-16T03:45:43+00:00",
+      "link": "https://www.youtube.com/watch?v=20v7oKzEAqU"
+    },
+    {
+      "league": "MLB",
+      "title": "PADRES vs. ROCKIES: Official Full Game Highlights (September 15) | 2026 MLB Season",
+      "videoId": "lTVFW49kuJQ",
+      "author": "MLB",
+      "pubDate": "2026-09-16T03:35:27+00:00",
+      "link": "https://www.youtube.com/watch?v=lTVFW49kuJQ"
+    },
+    {
+      "league": "MLB",
+      "title": "RED SOX vs. RANGERS: Official Full Game Highlights (September 15) | 2026 MLB Season",
+      "videoId": "IUQzANf1Vcg",
+      "author": "MLB",
+      "pubDate": "2026-09-16T03:24:52+00:00",
+      "link": "https://www.youtube.com/watch?v=IUQzANf1Vcg"
+    },
+    {
+      "league": "MLB",
+      "title": "ORIOLES vs. METS: Official Full Game Highlights (September 15) | 2026 MLB Season",
+      "videoId": "qtp3PjRLUKs",
+      "author": "MLB",
+      "pubDate": "2026-09-16T03:09:48+00:00",
+      "link": "https://www.youtube.com/watch?v=qtp3PjRLUKs"
+    },
+    {
+      "league": "MLB",
+      "title": "GIANTS vs. CARDINALS: Official Full Game Highlights (September 15) | 2026 MLB Season",
+      "videoId": "CsjCIWnSdx0",
+      "author": "MLB",
+      "pubDate": "2026-09-16T03:06:39+00:00",
+      "link": "https://www.youtube.com/watch?v=CsjCIWnSdx0"
+    },
+    {
+      "league": "MLB",
+      "title": "Elly De La Cruz made an incredible heads up play 👏",
+      "videoId": "lP1n8ptbqQM",
+      "author": "MLB",
+      "pubDate": "2026-09-16T03:00:32+00:00",
+      "link": "https://www.youtube.com/watch?v=lP1n8ptbqQM"
+    },
+    {
+      "league": "NFL",
+      "title": "❤️❤️❤️ (🎥: Atlanta Falcons)",
+      "videoId": "-d5uWYz9Bmo",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-09-16T02:01:04+00:00",
+      "link": "https://www.youtube.com/watch?v=-d5uWYz9Bmo"
+    },
+    {
+      "league": "SOCCER",
+      "title": "Real Madrid escape Elche with a last-minute winner + Spurs remain winless in the EPL | ESPN FC",
+      "videoId": "nPghTE_4S64",
+      "author": "ESPN FC",
+      "pubDate": "2026-09-16T00:53:31+00:00",
+      "link": "https://www.youtube.com/watch?v=nPghTE_4S64"
+    },
     {
       "league": "SOCCER",
       "title": "In today's market, which manager would you most want to play under? 👀 | ESPN FC Extra Time",
@@ -6390,28 +6489,12 @@
       "link": "https://www.youtube.com/watch?v=ajy5CgDqx3I"
     },
     {
-      "league": "MLB",
-      "title": "Kyle Schwarber's MLB-leading 45th home run!",
-      "videoId": "bx5EuUaZWzU",
-      "author": "MLB",
-      "pubDate": "2026-09-16T00:30:30+00:00",
-      "link": "https://www.youtube.com/watch?v=bx5EuUaZWzU"
-    },
-    {
       "league": "SOCCER",
       "title": "‘More questions than answers’ 🤔 Concerns for Mourinho after Real Madrid’s narrow victory? | ESPN FC",
       "videoId": "HFRHglZgSaQ",
       "author": "ESPN FC",
       "pubDate": "2026-09-16T00:18:45+00:00",
       "link": "https://www.youtube.com/watch?v=HFRHglZgSaQ"
-    },
-    {
-      "league": "MLB",
-      "title": "Kyle Schwarber rings the bell for his MLB-leading 45th time this season 🔔 | MLB Highlights",
-      "videoId": "DktEnoKh6dQ",
-      "author": "MLB",
-      "pubDate": "2026-09-16T00:10:07+00:00",
-      "link": "https://www.youtube.com/watch?v=DktEnoKh6dQ"
     },
     {
       "league": "SOCCER",
@@ -6428,22 +6511,6 @@
       "author": "ESPN FC",
       "pubDate": "2026-09-16T00:00:46+00:00",
       "link": "https://www.youtube.com/watch?v=sEB31GjSPrE"
-    },
-    {
-      "league": "MLB",
-      "title": "Jacob Misiorowski dials it up to 103.8 MPH in the 1st inning and strikes out the side 💪",
-      "videoId": "yBXaa66hKCU",
-      "author": "MLB",
-      "pubDate": "2026-09-15T23:33:36+00:00",
-      "link": "https://www.youtube.com/watch?v=yBXaa66hKCU"
-    },
-    {
-      "league": "MLB",
-      "title": "Teoscar Hernández homers in his second-straight game to extend the Dodgers lead! | MLB Highlights",
-      "videoId": "FkIKNKONa-U",
-      "author": "MLB",
-      "pubDate": "2026-09-15T23:32:36+00:00",
-      "link": "https://www.youtube.com/watch?v=FkIKNKONa-U"
     },
     {
       "league": "SOCCER",
@@ -6502,14 +6569,6 @@
       "link": "https://www.youtube.com/watch?v=YUxX9scov8w"
     },
     {
-      "league": "SOCCER",
-      "title": "CONTROVERSY AT THE FINISH 😦 Alaves vs. Valencia | LALIGA Highlights | ESPN FC",
-      "videoId": "MxVq5adjkVU",
-      "author": "ESPN FC",
-      "pubDate": "2026-09-15T20:41:14+00:00",
-      "link": "https://www.youtube.com/watch?v=MxVq5adjkVU"
-    },
-    {
       "league": "NFL",
       "title": "Don't Waste Your Waiver Claim on Mike Gesicki 🚨 #FantasyFootball #WaiverWire #NFL",
       "videoId": "ZWMnnyS3LpE",
@@ -6524,14 +6583,6 @@
       "author": "NBA",
       "pubDate": "2026-09-15T20:30:22+00:00",
       "link": "https://www.youtube.com/watch?v=BRkkGL20tlM"
-    },
-    {
-      "league": "MLB",
-      "title": "These days Bryce Harper and the Phillie Phanatic are good friends, but it wasn’t always that way 😂",
-      "videoId": "Nh3L6RMMf60",
-      "author": "MLB",
-      "pubDate": "2026-09-15T20:22:25+00:00",
-      "link": "https://www.youtube.com/watch?v=Nh3L6RMMf60"
     },
     {
       "league": "NFL",
@@ -6574,14 +6625,6 @@
       "link": "https://www.youtube.com/watch?v=RlBU2N0xB_8"
     },
     {
-      "league": "NFL",
-      "title": "Did the Referees Blow 🤯 it in Super Bowl XL!? | The Biggest Game  #nfl #espn #superbowl",
-      "videoId": "7nejSbTZylc",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-09-15T19:02:21+00:00",
-      "link": "https://www.youtube.com/watch?v=7nejSbTZylc"
-    },
-    {
       "league": "NHL",
       "title": "Encore 100 points et 50 buts pour Suzuki et Caufield?",
       "videoId": "Ra7oq4s-jmo",
@@ -6614,22 +6657,6 @@
       "link": "https://www.youtube.com/watch?v=JwKwkHNsWJQ"
     },
     {
-      "league": "MLB",
-      "title": "What a BATTLE! Gavin Williams and Tristan Peters face off in an 18-PITCH AT-BAT! 🤯 (Who wins?!)",
-      "videoId": "WweePuwNbFk",
-      "author": "MLB",
-      "pubDate": "2026-09-15T16:32:05+00:00",
-      "link": "https://www.youtube.com/watch?v=WweePuwNbFk"
-    },
-    {
-      "league": "MLB",
-      "title": "If you don't know where it's going, then neither does the batter 🤣",
-      "videoId": "8iweGhsVhb8",
-      "author": "MLB",
-      "pubDate": "2026-09-15T16:00:07+00:00",
-      "link": "https://www.youtube.com/watch?v=8iweGhsVhb8"
-    },
-    {
       "league": "NHL",
       "title": "THROWBACK: Sid wins it IN THE SNOW!",
       "videoId": "XhAPcv771P8",
@@ -6644,14 +6671,6 @@
       "author": "NBA",
       "pubDate": "2026-09-15T15:00:07+00:00",
       "link": "https://www.youtube.com/watch?v=HmDH8XDF0h4"
-    },
-    {
-      "league": "MLB",
-      "title": "Can anyone catch Cam Schlittler and Jacob Misiorowski for the Cy Young Awards?",
-      "videoId": "hufG_B60-Qc",
-      "author": "MLB",
-      "pubDate": "2026-09-15T14:22:32+00:00",
-      "link": "https://www.youtube.com/watch?v=hufG_B60-Qc"
     },
     {
       "league": "NBA",
