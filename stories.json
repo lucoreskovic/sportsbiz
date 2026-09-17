@@ -1,73 +1,83 @@
 {
   "clusters": [
     {
-      "category": "revenue",
-      "importance": 8,
-      "leadHeadline": "FIBA Womens World Cup hits viewership highs",
-      "leadSource": "Sports Media Watch · 6h ago",
-      "leadUrl": "https://www.sportsmediawatch.com/2026/09/fiba-women-basketball-world-cup-record-audiences-tnt/",
-      "summary": "The 2026 FIBA Women's Basketball World Cup produced record TV audiences on TNT, topped by USA-Italy at 1.26M viewers—nearly 3x the previous record of 446K.",
-      "article": "The 2026 FIBA Women's Basketball World Cup shattered viewership records in TNT Sports' debut year carrying the tournament, delivering the five largest audiences in the event's history.\n\nUSA's group stage matchup against Italy drew 1.26 million viewers and a 0.7 rating on Labor Day weekend, peaking at 1.7 million. USA-Czechia followed at 1.2 million, as did the championship game against France. The USA-Spain semifinal drew 938,000 and USA-China 577,000.\n\nAll five numbers eclipsed the prior tournament record. The 2022 gold medal game between USA and China drew just 446,000 on ESPN.\n\n\"It's a little bit of the planets aligning,\" said Craig Barry, executive vice president and chief content officer for TNT Sports. \"It's not just this great FIBA World Cup tournament, but women's sports coming into the spotlight the last three or four years.\"\n\nTNT signed the FIBA rights deal earlier this year. The tournaments games competed against college football, Week 1 of the NFL season, and the US Open singles finals but still far exceeded viewership for men's basketball events and past women's editions.",
-      "tweets": []
-    },
-    {
-      "category": "revenue",
-      "importance": 7,
-      "leadHeadline": "Boehly and Walter sell Chelsea stakes to Clearlake",
-      "leadSource": "BBC Sport · 1h ago",
-      "leadUrl": "https://www.bbc.co.uk/sport/football/articles/cvrl6egl1254o?at_medium=RSS&amp;at_campaign=rss",
-      "summary": "Clearlake Capital acquires full control of Chelsea as co-owner Todd Boehly and director Mark Walter, along with Hansjorg Wyss, sell their remaining stakes in the Premier League club.",
-      "article": "Clearlake Capital has consolidated majority control of Chelsea Football Club through the sale of remaining stakes held by Todd Boehly, Mark Walter, and Hansjorg Wyss. The transaction marks a significant shift in the club's ownership structure less than three years after Clearlake's initial investment as part of the Todd Boehly-led consortium that acquired Chelsea from Roman Abramovich in May 2022 for approximately 2.5 billion pounds. This move positions Clearlake as the dominant shareholder and signals a recalibration of power at Stamford Bridge. The deal comes during a critical juncture for Chelsea, which has cycled through multiple managers and spent heavily on player acquisitions. Clearlake's consolidation could reshape the club's strategic direction, particularly around transfer policy and squad management. The acquisition also underscores the continued appetite from private equity for premium European soccer assets.",
+      "category": "media",
+      "importance": 9,
+      "leadHeadline": "Monday Night Football records Week 1 viewership high in Mahomes return",
+      "leadSource": "Sports Media Watch · 5h ago",
+      "leadUrl": "https://www.sportsmediawatch.com/2026/09/monday-night-football-most-watched-week-1-years-mahomes-return/",
+      "summary": "The Chiefs-Broncos Monday Night Football opener drew 23.2 million viewers, ESPN's largest Week 1 audience in 20 years, with Mahomes completing his return from ACL surgery in a 31-10 victory.",
+      "article": "<cite index=\"2-1\">The Chiefs' 31-10 win over the Broncos drew 23.2 million viewers Monday night</cite>, marking <cite index=\"5-1\">the most-watched Week 1 game in ESPN's Monday Night Football era (2006-present, 36 games)</cite>. <cite index=\"5-2,5-3\">The matchup ranked as the third-most-watched Monday Night Football telecast of ESPN's 362-game history, behind only the 2023 Super Bowl rematch between the Eagles and Chiefs and the 2023 Christmas-night matchup between the Ravens and 49ers</cite>.\n\n<cite index=\"5-4\">The audience was up 5 percent from last season's Week 1 Vikings-Bears matchup</cite>. The numbers spanned <cite index=\"2-4\">the main broadcast on ESPN and ABC, the ManningCast on ESPN2, the Spanish broadcast on ESPN Deportes and the stream on NFL+</cite>.\n\n<cite index=\"3-5\">Mahomes, who tore two ligaments in his left knee late last year</cite>, returned to the field nine months after the injury. <cite index=\"11-1\">He completed 15 of 27 passes for 184 yards and two touchdowns in his first game back, with 23 rushing yards and a rushing touchdown</cite>. While the performance wasn't pristine, <cite index=\"21-1,21-3\">Mahomes said \"I gotta be better,\" acknowledging \"there were times when those guys were open and I was a little bit quick with my reads\"</cite>.\n\n<cite index=\"12-6\">Super Bowl LX MVP Kenneth Walker ran for 173 yards and a touchdown on 23 carries</cite>, shouldering much of the offensive load as Mahomes worked back to form.",
       "tweets": []
     },
     {
       "category": "media",
+      "importance": 8,
+      "leadHeadline": "Lionel Messi's 100th Inter Miami goal seals Campeones Cup final victory over Cruz Azul",
+      "leadSource": "CBS Sports · 6h ago",
+      "leadUrl": "https://www.cbssports.com/soccer/news/lionel-messis-100th-inter-miami-goal-campeones-cup-final-cruz-azul/",
+      "summary": "Messi scored his 100th goal for Inter Miami to clinch the Campeones Cup title Wednesday night, adding another trophy to his tenure with the MLS franchise.",
+      "article": "Lionel Messi reached 100 goals in an Inter Miami jersey Wednesday night, the milestone coming in a Campeones Cup final victory over Cruz Azul. The goal sealed the trophy, another piece of hardware for Messi in his ongoing run with the Herons since joining MLS in 2023. The 100-goal threshold underscores his prolific impact on Miami's roster in a short span: he has become the franchise's all-time leading scorer and a central draw for the club's commercial and competitive standing. Inter Miami won the Campeones Cup, the regional championship contested between MLS and Mexican league winners, a marquee result that raises the profile of both the Herons and the broader league heading into the remainder of the season.",
+      "tweets": []
+    },
+    {
+      "category": "leagues",
       "importance": 7,
-      "leadHeadline": "ESPN Gets Its Biggest Week 1 'Monday Night Football' Audience Ever",
-      "leadSource": "Front Office Sports · 2h ago",
-      "leadUrl": "https://frontofficesports.com/article/espn-gets-its-biggest-week-1-monday-night-football-audience-ever/",
-      "summary": "ESPN's Week 1 Monday Night Football broadcast drew record audience, the third-most-watched game in the network's 362 MNF broadcasts to date.",
-      "article": "ESPN delivered its largest Week 1 Monday Night Football audience on record, signaling strong early-season appetite for the network's primetime NFL coverage. The game ranks as the third-most-watched Monday Night Football broadcast in ESPN's history across 362 total broadcasts. The performance comes as the 2026 NFL season opens competitive windows and star matchups. The result matters for ESPN's negotiating position in future rights discussions and for advertiser confidence in Monday night NFL programming. The audience size suggests that cord-cutting and streaming fragmentation haven't eroded Monday Night Football's core reach, a critical data point as leagues evaluate media contracts. Disney will monitor sustaining power over the season to gauge whether Week 1's surge reflects genuine demand or front-loaded interest.",
+      "leadHeadline": "Protect College Sports Act clears Senate procedural vote, full vote expected in coming weeks",
+      "leadSource": "Sportico · 18h ago",
+      "leadUrl": "https://www.sportico.com/law/analysis/2026/protect-college-sports-act-legal-analysis-1234945134/",
+      "summary": "The U.S. Senate voted 74-23 to invoke cloture Tuesday, advancing the Protect College Sports Act sponsored by Ted Cruz and clearing the way for a final vote in the coming weeks.",
+      "article": "The Senate voted 74-23 on Tuesday to invoke cloture on a motion to proceed with the Protect College Sports Act, a procedural step that unlocks a path toward a final vote on the sweeping college sports legislation. Sponsored by Senators Ted Cruz of Texas and others, the PCSA aims to establish federal rules governing name, image and likeness deals, athlete compensation, and conference realignment in college sports. The 74-vote supermajority suggests bipartisan support, a notable show of coalition-building on an issue that has fractured collegiate athletics since the NCAA lost legal ground on NIL restrictions and conference autonomy. A full Senate vote is expected over the next couple of weeks. The bill's passage would represent the first comprehensive federal intervention in college sports governance since the NCAA's founding, reordering decades of institutional autonomy and potentially preempting state-level regulatory patchworks that have emerged since the 2021 NIL landscape shift.",
+      "tweets": []
+    },
+    {
+      "category": "labor",
+      "importance": 6,
+      "leadHeadline": "Jets suspend Connor Hellebuyck for not reporting to training camp",
+      "leadSource": "Sportsnet · 7h ago",
+      "leadUrl": "",
+      "summary": "The Winnipeg Jets suspended starting pitcher Connor Hellebuyck for failing to report to training camp, a disciplinary move signaling management's hard line on roster compliance.",
+      "article": "The Winnipeg Jets suspended starting pitcher Connor Hellebuyck for not reporting to training camp, imposing a disciplinary sanction that reflects the franchise's willingness to enforce roster accountability even on a cornerstone contributor. Hellebuyck is one of the team's primary rotation pieces and a core element of the Jets' pitching depth, making the suspension a significant roster impact in the near term. The specifics of Hellebuyck's absence were not immediately detailed, but the move signals that the Jets will not grant exemptions to reporting requirements regardless of player status or salary position. Such enforcement can be a precursor to broader contract disputes or personal circumstances, though the franchise has clearly chosen public discipline as a leverage point.",
       "tweets": []
     },
     {
       "category": "contracts",
-      "importance": 6,
+      "importance": 5,
       "leadHeadline": "LeBron James Polymarket Deal Worth $15 Million a Year",
-      "leadSource": "Front Office Sports · 2h ago",
+      "leadSource": "Front Office Sports · 9h ago",
       "leadUrl": "https://frontofficesports.com/article/lebron-james-polymarket-deal-worth-15-million-year/",
-      "summary": "LeBron James signed an endorsement deal with Polymarket worth $15 million annually, though he holds no ownership stake in the prediction market platform.",
-      "article": "LeBron James inked an endorsement agreement with Polymarket valued at $15 million per year. James serves as an endorser and brand ambassador rather than investor or equity holder in the prediction market platform. The deal represents a notable crypto/Web3 sponsorship for a marquee athlete and signals continued appetite from emerging fintech platforms to secure star-tier endorsement deals. Polymarket, a major player in the prediction market space, gains high-profile association with one of basketball's most marketable figures. For James, the agreement diversifies his off-court revenue beyond traditional apparel and lifestyle endorsements, consistent with his broader strategy of maintaining portfolio exposure across emerging consumer finance sectors. The size underscores the premium athletes command for social media reach and brand alignment in the Web3 space.",
+      "summary": "LeBron James signed a $15 million annual endorsement deal with Polymarket, the prediction-market platform, though James is not taking an equity stake in the company.",
+      "article": "LeBron James inked a $15 million annual endorsement agreement with Polymarket, the prediction-market platform, marking a significant celebrity bet on the emerging sector. The deal positions James as a high-profile ambassador for the platform without granting him an equity stake; he is a paid endorser rather than an investor. Polymarket has grown rapidly as retail and institutional traders have flocked to its event contracts across politics, sports, and culture. The James partnership amplifies the platform's reach into mainstream sports audiences and adds credibility through one of the NBA's most prominent figures and savvy off-court operators. The $15 million annual value reflects the premium that prediction-market platforms are willing to pay for celebrity alignment as they push toward mainstream adoption.",
       "tweets": []
     },
     {
       "category": "leagues",
       "importance": 5,
       "leadHeadline": "USMNT to call up 16-year-old Cavan Sullivan for upcoming friendlies",
-      "leadSource": "The Guardian · 6h ago",
+      "leadSource": "The Guardian · 13h ago",
       "leadUrl": "https://www.theguardian.com/football/2026/sep/16/cavan-sullivan-usmnt",
-      "summary": "Philadelphia Union midfielder Cavan Sullivan, 16, will earn his first USMNT call-up for an upcoming international window with four matches scheduled. Sullivan has six goals and eight assists since the World Cup.",
-      "article": "Cavan Sullivan, a 16-year-old midfielder from the Philadelphia Union, will receive his first senior call-up to the United States men's national team for the upcoming international window featuring four matches. Sullivan has produced six goals and eight assists in recent play post-World Cup, drawing the attention of USMNT coaching staff. His selection represents a youth development milestone and reflects the federation's confidence in his readiness for senior international competition. At 16, Sullivan would be among the youngest players to debut for the USMNT in recent years. The call-up signals the pipeline of young talent available to the federation and positions Sullivan for potential long-term senior team involvement. The upcoming friendlies serve as evaluation opportunities for both player and coaching staff as the USMNT plans for future competitive windows.",
-      "tweets": []
-    },
-    {
-      "category": "labor",
-      "importance": 4,
-      "leadHeadline": "The Protect College Sports Act Could Bring Both Order and Chaos",
-      "leadSource": "Sportico · 11h ago",
-      "leadUrl": "https://www.sportico.com/law/analysis/2026/protect-college-sports-act-legal-analysis-1234945134/",
-      "summary": "The U.S. Senate voted 74-23 on Tuesday to invoke cloture on a motion to proceed with the Protect College Sports Act, setting up a final vote expected within weeks. The bill aims to regulate NIL and athlete compensation across college sports.",
-      "article": "The Senate took a procedural step forward on the Protect College Sports Act, voting 74-23 to invoke cloture and moving toward a floor vote expected within weeks. Sponsored by Senator Ted Cruz, the legislation seeks to establish a federal framework for NIL deals and athlete compensation, an issue that has fragmented college sports across state regulatory regimes. The cloture vote's 74-23 margin suggests bipartisan support for some form of federal standardization, though the final bill's specifics remain subject to negotiation. A Senate-approved PCSA would mark the first comprehensive federal intervention in college sports governance since the NCAA's foundational structure. The bill's passage could either harmonize chaotic state-by-state NIL rules or, depending on its terms, preempt state laws in ways that provoke legal challenges. Sporting organizations and schools are monitoring closely as the outcome will reshape how athletes monetize their likenesses and whether the NCAA retains control over its member institutions.",
+      "summary": "Philadelphia Union midfielder Cavan Sullivan will earn his first USMNT call-up for an upcoming four-game window, a selection of the 16-year-old winger who has posted six goals and eight assists since the World Cup.",
+      "article": "Cavan Sullivan, a 16-year-old midfielder for the Philadelphia Union, will receive his first call-up to the U.S. Men's National Team for an upcoming four-game window, per a source with knowledge of the roster. Sullivan has six goals and eight assists since the World Cup, a scoring arc that has drawn the attention of USMNT coaching staff. The selection underscores the federation's willingness to develop young domestic talent through international competition and reflects Sullivan's rapid emergence as one of the top prospects in the MLS pipeline. At 16, he ranks among the youngest players to receive a USMNT call-up in recent memory, signaling confidence in his readiness for competitive international duty.",
       "tweets": []
     },
     {
       "category": "leagues",
-      "importance": 3,
-      "leadHeadline": "Longtime NHL enforcer Ryan Reaves retires after 16 seasons",
-      "leadSource": "NY Post Sports · just now",
-      "leadUrl": "https://nypost.com/2026/09/16/sports/longtime-nhl-enforcer-ex-ranger-retires-after-16-seasons/",
-      "summary": "Ryan Reaves, a 16-year veteran of the NHL known for his enforcer role, announced his retirement from professional hockey.",
-      "article": "Ryan Reaves ended his 16-season NHL career. The veteran enforcer departs after a long tenure in the league, marking the end of a career built on physical play and depth-lineup presence across multiple franchises. Reaves became a recognizable fixture in NHL locker rooms and represented a generation of players whose primary value lay in enforcement and toughness. His retirement comes as the NHL continues to evolve its tolerance for traditional enforcement roles and shift toward skill-based depth lineups. Reaves leaves behind a track record of durability and veteran leadership, roles that remain staples of competitive organizations. The retirement closes a chapter for a player type that defined earlier eras of professional hockey.",
+      "importance": 4,
+      "leadHeadline": "NFL Blocks Teams From Signing Players Who Tried to Return to College Football",
+      "leadSource": "Front Office Sports · 11h ago",
+      "leadUrl": "https://frontofficesports.com/article/nfl-blocks-teams-from-signing-players-who-tried-to-return-to-college-football/",
+      "summary": "The NFL has barred teams from signing players who attempted to reverse their professional decision and return to college football, a policy move affecting tight end Dae'Quan Wright and others exploring legal remedies.",
+      "article": "The NFL has implemented a policy blocking teams from signing players who tried to reverse their professional commitment and return to college football, a rule that affects tight end Dae'Quan Wright and other athletes who sought a second path. Wright's agent has indicated the player is exploring legal options in response to the league's stance. The move reflects the NFL's effort to close a loophole that has emerged as college sports rules and NIL economics shift rapidly. Wright and similar players had attempted to claim college eligibility after initially declaring for the professional draft, seeking to exploit the changing landscape before committing fully to the NFL. The league's prohibition is a preemptive strike against what it views as opportunistic reversals and roster instability.",
+      "tweets": []
+    },
+    {
+      "category": "leagues",
+      "importance": 4,
+      "leadHeadline": "Do More Eligible Players Improve College Sports? The NCAA Argues No",
+      "leadSource": "Sportico · 21h ago",
+      "leadUrl": "https://www.sportico.com/law/analysis/2026/wisne-ncaa-appeal-legal-argument-supply-demand-players-1234945101/",
+      "summary": "The NCAA argued in a recent court filing that allowing thousands of already-exhausted players to return to college sports would harm competition, despite the logical appeal of more talented rosters.",
+      "article": "The NCAA filed a court brief last Friday arguing against a rule change that would allow players who have exhausted their eligibility or turned professional to re-enter college sports, contending that opening the floodgates would not improve the competitive landscape. The argument inverts the surface logic: more eligible players and higher talent density might seem to boost on-field quality, but the NCAA claims the opposite effect would result. The filing is part of ongoing litigation over NIL rules and athlete eligibility, matters that have fractured NCAA governance since 2021. The NCAA's position suggests a strategic shift toward defending institutional structure and limiting athlete mobility, even when additional talent would be available, signaling that the organization's real concerns are financial control and competitive balance among existing member schools rather than maximizing athletic quality.",
       "tweets": []
     }
   ],
@@ -2393,97 +2403,198 @@
   },
   "deals": [
     {
-      "type": "extension",
+      "type": "apparel",
       "parties": "LeBron James ⇄ Polymarket",
       "value_usd": 15000000,
-      "term_years": null,
+      "term_years": 1,
       "league": "OTHER",
       "headline": "LeBron James signs $15M annual endorsement deal with Polymarket",
       "storyIndex": 0,
-      "blurb": "LeBron James endorsement agreement with prediction market Polymarket valued at $15 million per year.",
-      "capturedAt": "2026-09-17T00:58:46.540Z"
+      "blurb": "James becomes ambassador for prediction-market platform in annual deal worth $15M, though holds no equity stake.",
+      "capturedAt": "2026-09-17T08:12:51.221Z"
     }
   ],
-  "ratings": [],
+  "ratings": [
+    {
+      "event": "Broncos vs Chiefs Monday Night Football Week 1",
+      "network": "ESPN",
+      "viewers_m": 23.2,
+      "peak_viewers_m": null,
+      "league": "NFL",
+      "storyIndex": 7,
+      "context": "Largest Week 1 MNF audience in 30 years; third-most-watched ESPN Monday night game ever.",
+      "capturedAt": "2026-09-17T08:12:51.221Z"
+    }
+  ],
   "ticket_prices": [],
   "sidebar": [
     {
-      "headline": "Travis Kelce named among victims in $35M Ponzi scheme",
-      "source": "The Guardian · 6h ago",
-      "article": "Kansas City Chiefs tight end Travis Kelce is among the victims of a Ponzi scheme that defrauded more than $35 million from unsuspecting investors, according to a Missouri prosecutor. Siddharth Jawahar, who orchestrated the scheme, received an 11-year prison sentence. Prosecutors identified Kelce without further comment, suggesting his involvement was peripheral to the larger fraud investigation. Several professional athletes reportedly invested in the Swiftarc firm at the center of the scheme. The case underscores risks athletes face when vetting investment opportunities and highlights the importance of due diligence before committing capital to emerging fintech ventures. Kelce's inclusion as a victim does not suggest wrongdoing on his part but rather that his money was solicited alongside other prominent names."
+      "headline": "Clarke Schmidt returns to Yankees mound 14 months after Tommy John surgery",
+      "source": "NY Post Sports · 2h ago",
+      "article": "Fourteen months and five days removed from Tommy John surgery, Clarke Schmidt made his return to a big league mound Wednesday, his first appearance since the procedure that sidelined him through the offseason and into the new season. The return represents a significant milestone for both the pitcher and the Yankees' rotation depth, as Schmidt has been a reliable mid-rotation contributor and a key piece of the team's injury management strategy. His performance Wednesday will set the tone for his reintegration into the regular rotation. The timeline from surgery to active pitching is a full recovery arc, suggesting medical clearance and confidence from the organization that he can handle regular-season workload. Schmidt's availability bolsters the Yankees' pitching mix heading into the pennant race."
     },
     {
-      "headline": "NFL Week 2 injury report: Lions down two starting offensive lineman vs. Bills",
-      "source": "CBS Sports · 1h ago",
-      "article": "The Detroit Lions face Week 2 against the Buffalo Bills with two starting offensive linemen sidelined. Blake Miller and another starter are unavailable, creating depth challenges up front. NFL teams enter Week 2 with injury reports finalizing rosters ahead of Thursday and Sunday contests. The Lions' offensive line depth will be tested against a strong Buffalo defensive front. Teams across the league are managing early-season injuries as training camp and Week 1 impact becomes clear. Each franchise will make critical availability decisions throughout the week leading up to kickoff."
+      "headline": "Brian Dubiski honors daughter at historic college football game at Wembley",
+      "source": "The Guardian · 1h ago",
+      "article": "Brian Dubiski has dedicated his work to crowd safety since his daughter Madison was killed in a crowd crush at a concert at age 23. On Saturday, as Arizona State and Kansas prepare to play the first-ever college football game at Wembley Stadium in London, Dubiski's long push to host the landmark match becomes reality before 60,000 spectators. The game carries deep personal significance: Dubiski has channeled his loss into advocacy for safer crowd management and infrastructure improvements across public events. The Wembley fixture represents both a historic moment for college football's international footprint and a personal victory for a man whose grief has driven institutional change."
     },
     {
-      "headline": "Blue Jays get desperately needed win in series finale vs. Tigers",
-      "source": "Sportsnet · 3h ago",
-      "article": "The Toronto Blue Jays secured a vital victory over the Detroit Tigers in their series finale, keeping themselves just 1.5 games behind the White Sox for the final AL wild card spot. The Blue Jays' win maintains playoff positioning and provides momentum heading into the next series. Toronto's ability to stay competitive in a tight wild card race makes each game consequential. The Tigers dropped the series despite a competitive matchup, leaving Detroit further back in the standings. Blue Jays pitcher Louis Varland sealed the win after Brandon Valenzuela successfully challenged a strike-three call on Kevin McGonigle. Toronto's willingness to challenge and execute in critical moments reflects playoff-mentality baseball even this early in the season."
+      "headline": "Real Madrid eyes Manchester United forward JJ Gabriel, 15",
+      "source": "BBC Sport · just now",
+      "article": "Real Madrid have expressed strong interest in signing 15-year-old Manchester United forward JJ Gabriel, signaling the club's continued pursuit of elite youth talent across European academies. The interest underscores Madrid's long-standing strategy of identifying and acquiring promising teenagers from rival clubs, a practice that has yielded mixed results but remains central to the club's development philosophy. Gabriel is a prospect within the United system, and Madrid's approach may trigger discussion of youth-eligibility rules and international transfer regulations for minors. Such pursuits are common at the elite level but remain contentious given the young age and the ethical questions around moving teenagers across borders for professional development."
     },
     {
-      "headline": "Rams legend warns you can't just show up ahead of Week 2 vs Giants",
-      "source": "NY Post Sports · just now",
-      "article": "Andrew Whitworth, a legendary figure in Los Angeles Rams history, issued a blunt warning to his former franchise ahead of Week 2 against the New York Giants. Whitworth's message signals concern about the Rams' early-season execution or effort level following their Week 1 performance. The veteran's public commentary carries weight given his Hall of Fame credentials and tenure with the organization. Such warnings from respected former players often reflect locker room observations or broader concerns about team culture. The Giants represent a crucial early-season test for Los Angeles. Whitworth's intervention suggests he believes the team needs external accountability or a wake-up call before the schedule intensifies."
+      "headline": "LSU QB Sam Leavitt doubtful with upper-body injury ahead of Ole Miss",
+      "source": "CBS Sports · 6h ago",
+      "article": "LSU quarterback Sam Leavitt was listed as doubtful on the injury report ahead of the Ole Miss game due to an upper-body injury, per CBS Sports, adding a storyline to Lane Kiffin's first trip back to Oxford as a coach. Leavitt did not throw in the team's latest practice session, a sign the injury is limiting his availability. The status clouds LSU's preparation for a rivalry game and forces contingency planning at the quarterback position. If Leavitt cannot go, the Tigers will turn to a backup option, potentially altering the offensive approach and game plan against Ole Miss."
     },
     {
-      "headline": "Michael Carrick insists he's 'not bothered' by pressure after Man United EFL Cup exit",
-      "source": "BBC Sport · 1h ago",
-      "article": "Manchester United manager Michael Carrick downplayed pressure concerns following the club's EFL Cup elimination. Carrick's public comments suggest either confidence in his direction or measured response to early-season results. United's cup exit marks a setback in a crowded trophy calendar. The manager's demeanor will be scrutinized as the club navigates competing expectations across league, cup, and European competitions. Carrick's handling of pressure-cooker situations will define his tenure at Old Trafford. His insistence on composure may signal internal stability or reflect concern about external narrative control."
+      "headline": "Mets reliever Robert Stock placed on IL with season-ending injury",
+      "source": "NY Post Sports · 3h ago",
+      "article": "Robert Stock's season ended Wednesday with his placement on the injured list, though the injury is not considered serious in nature. The relief pitcher's loss removes a depth piece from the Mets' bullpen heading into the stretch run, though the optimistic medical prognosis suggests a quick recovery path in the offseason. Stock had been a role contributor in the bullpen, and his absence will require the Mets to adjust rotation depth and leverage other relievers in high-leverage situations."
     },
     {
-      "headline": "Fantasy football Week 2 Start Em & Sit Em: Baker Mayfield eyes revenge against Browns",
-      "source": "CBS Sports · 1h ago",
-      "article": "Fantasy football analyst Jamey Eisenberg cautioned managers not to overreact after Week 1 results, but highlighted injury concerns affecting several star players heading into Week 2. Baker Mayfield's matchup against his former team, the Cleveland Browns, creates storyline intrigue for fantasy purposes. Early-season injuries often reshape fantasy strategies and force managers to reassess depth charts and backups. Eisenberg's weekly guidance helps frame Week 2 decisions as the fantasy season takes shape. The combination of injury impact and marquee matchups creates volatility in early fantasy rounds. His emphasis on restraint suggests Week 1 results often mislead fantasy outlook over a full season."
+      "headline": "Manchester United manager Carrick dismisses pressure talk after EFL Cup exit",
+      "source": "BBC Sport · 9h ago",
+      "article": "Manchester United manager Michael Carrick insisted Wednesday that he does not feel under pressure after the club's exit from the EFL Cup, a deflection that comes amid questions about the team's recent form and direction. Carrick's remarks reflect the typical managerial script of public confidence, though the club's competitive trajectory and fan sentiment remain scrutiny points. United continues to navigate a transitional period, and domestic cup elimination may intensify board and supporter expectations for league performance as the season develops."
     }
   ],
   "poll": {
-    "question": "Will the Protect College Sports Act pass the Senate in its current form?",
+    "question": "Which storyline will have the biggest impact on 2026 sports business?",
     "options": [
-      "Yes, with broad bipartisan support",
-      "Yes, but with significant amendments",
-      "No, it stalls in debate",
-      "Uncertain, depends on final language"
+      "Protect College Sports Act passage reshapes NCAA and athlete compensation",
+      "LeBron James-style celebrity prediction-market deals drive mainstream adoption",
+      "NFL's policy blocking pro-to-college player reversals becomes test case for roster control",
+      "Monday Night Football's viewership strength locks ESPN's negotiating leverage for next media deal"
     ]
   },
   "predictions": [
     {
-      "statement": "Clearlake Capital will install a new manager at Chelsea within 18 months of consolidating control.",
-      "probability": 62,
-      "rationale": "Full ownership control historically triggers strategic overhauls at major clubs. Clearlake's pattern of hands-on ownership in other sports suggests managerial change aligns with board priorities. Chelsea's recent cycling through managers creates institutional instability that new ownership often addresses swiftly."
+      "statement": "The Protect College Sports Act will pass the full Senate vote within three weeks.",
+      "probability": 72,
+      "rationale": "The 74-23 cloture vote showed strong bipartisan support and cleared the procedural hurdle. Cruz and allies have momentum, and the political appetite for federal college sports intervention is high after years of NCAA failures. Expect passage before August recess."
     },
     {
-      "statement": "FIBA Women's World Cup will secure a larger media rights deal for its next cycle based on record viewership.",
-      "probability": 75,
-      "rationale": "Five record-breaking viewership events signal genuine audience appetite and justifies premium pricing for broadcasters. TNT Sports' successful debut positions the network as credible steward for future rights. The trajectory of women's sports media rights has been consistently upward, and these numbers provide leverage."
+      "statement": "Lionel Messi will surpass 110 Inter Miami goals before the 2026 season ends.",
+      "probability": 68,
+      "rationale": "Messi just reached 100 goals and plays in a league that awards him 30-plus touches per match. With 10 more goals needed and a full playoff run ahead, the threshold is reachable if he stays healthy and the Herons make a deep postseason run."
     },
     {
-      "statement": "The Senate will pass the Protect College Sports Act before end of Q2 2026.",
-      "probability": 58,
-      "rationale": "The 74-23 cloture vote indicates sufficient bipartisan support to overcome a filibuster, and Senate scheduling typically moves bills to vote within 2-3 weeks of cloture. Lingering disagreements over NCAA authority and state preemption could delay final passage, but momentum appears real."
-    },
-    {
-      "statement": "ESPN will renew Monday Night Football at a higher annual rights fee following Week 1 audience record.",
+      "statement": "Monday Night Football's Week 1 viewership (23.2M) will stand as the season high for MNF in 2026.",
       "probability": 45,
-      "rationale": "One week of viewership data rarely shifts long-term media valuation, though positive Week 1 helps ESPN's bargaining position. Sustained audience through full season matters more. NFL's leverage in negotiations remains high regardless of individual broadcast performance."
+      "rationale": "The Mahomes return and Broncos-Chiefs hype inflated Week 1. Future matchups may draw larger audiences if playoff-seeding implications tighten or marquee primetime games follow. The baseline is high, but it's not guaranteed to hold."
+    },
+    {
+      "statement": "Cavan Sullivan will appear in at least one USMNT game during the upcoming four-game window.",
+      "probability": 81,
+      "rationale": "A 16-year-old receiving a national-team call-up signals coaching staff confidence and intent to develop him in competitive minutes. Friendlies are the ideal venue for youth integration, and USMNT typically rotates heavily across a four-game window."
     }
   ],
   "injuries": [
     {
-      "player": "Blake Miller",
-      "team": "Detroit Lions",
-      "league": "NFL",
-      "position": "OL",
+      "player": "Clarke Schmidt",
+      "team": "New York Yankees",
+      "league": "MLB",
+      "position": "SP",
+      "status": "RETURNING",
+      "injury": "Tommy John surgery",
+      "timeline": "Returned to active pitching",
+      "source": "NY Post Sports",
+      "impact": "Schmidt's return bolsters Yankees rotation depth after 14 months of recovery, providing mid-rotation stability heading into the stretch run.",
+      "storyIndex": 2
+    },
+    {
+      "player": "Robert Stock",
+      "team": "New York Mets",
+      "league": "MLB",
+      "position": "RP",
       "status": "OUT",
-      "injury": "Not specified",
-      "timeline": null,
+      "injury": "Season-ending injury (non-serious)",
+      "timeline": "Out for season",
+      "source": "NY Post Sports",
+      "impact": "Loss of depth relief option forces Mets to adjust bullpen rotation and rely on other relievers for high-leverage situations down the stretch.",
+      "storyIndex": 10
+    },
+    {
+      "player": "Sam Leavitt",
+      "team": "Louisiana State University",
+      "league": "OTHER",
+      "position": "QB",
+      "status": "DOUBTFUL",
+      "injury": "Upper body injury",
+      "timeline": "Doubtful for Ole Miss game",
       "source": "CBS Sports",
-      "impact": "Lions face Week 2 against Bills with starting offensive lineman unavailable, creating depth challenges on the offensive line.",
+      "impact": "Leavitt's unavailability could force LSU to start backup QB against Ole Miss, altering offensive approach in rivalry game and complicating Lane Kiffin's return to Oxford.",
       "storyIndex": 13
+    },
+    {
+      "player": "Connor Hellebuyck",
+      "team": "Winnipeg Jets",
+      "league": "NHL",
+      "position": "SP",
+      "status": "OUT",
+      "injury": "Suspended for failure to report to training camp",
+      "timeline": "Suspension duration TBD",
+      "source": "Sportsnet",
+      "impact": "Loss of starting pitcher removes a cornerstone rotation piece and signals management's hard-line stance on roster compliance regardless of player status.",
+      "storyIndex": 6
     }
   ],
   "picks": [
+    {
+      "type": "spread",
+      "pick": "Buffalo Bills -4.5",
+      "odds": "-115",
+      "edge": "Market fill from live lines: the books lay -4.5 with Buffalo Bills at -115 (best @ FanDuel). No researched edge — a low-confidence market-consensus play so this sport isn't empty today.",
+      "matchup": "Detroit Lions @ Buffalo Bills",
+      "league": "NFL",
+      "when": "Tomorrow 8:15 PM ET",
+      "confidence": "low",
+      "_autofill": true,
+      "_scheduledTs": 1789690500000,
+      "marketSnapshot": {
+        "capturedAt": "2026-09-17T00:59:14.865Z",
+        "markets": {
+          "h2h": {
+            "away": {
+              "price": 201,
+              "book": "BetOnline.ag"
+            },
+            "home": {
+              "price": -225,
+              "book": "Caesars"
+            },
+            "draw": null
+          },
+          "spreads": {
+            "away": {
+              "point": 5.5,
+              "price": -109,
+              "book": "LowVig.ag"
+            },
+            "home": {
+              "point": -4.5,
+              "price": -115,
+              "book": "FanDuel"
+            }
+          },
+          "totals": {
+            "over": {
+              "point": 54.5,
+              "price": -108,
+              "book": "BetRivers"
+            },
+            "under": {
+              "point": 55,
+              "price": -107,
+              "book": "LowVig.ag"
+            }
+          }
+        },
+        "awayTeam": "Detroit Lions",
+        "homeTeam": "Buffalo Bills"
+      }
+    },
     {
       "type": "moneyline",
       "pick": "Tampa Bay Rays ML",
@@ -6137,245 +6248,136 @@
     },
     {
       "type": "moneyline",
-      "pick": "Philadelphia Phillies ML",
-      "odds": "-188",
-      "edge": "Market fill from live lines: Philadelphia Phillies is the books' favorite at -188 (best price @ BetUS) against Washington Nationals at +175, favored even on the road. No researched edge here — this is a low-confidence market-consensus play added to round out the slate. Low confidence is honest confidence.",
-      "matchup": "Philadelphia Phillies @ Washington Nationals",
+      "pick": "Houston Astros ML",
+      "odds": "-145",
+      "edge": "Market fill from live lines: Houston Astros is the books' favorite at -145 (best price @ Caesars) against Kansas City Royals at +130, with home ice/court/field behind them. No researched edge here — this is a low-confidence market-consensus play added to round out the slate. Low confidence is honest confidence.",
+      "matchup": "Kansas City Royals @ Houston Astros",
       "league": "MLB",
-      "when": "Today 6:46 PM ET",
+      "when": "Today 7:16 PM ET",
       "confidence": "low",
       "_autofill": true,
-      "_scheduledTs": 1789598760000,
+      "_scheduledTs": 1789686960000,
       "marketSnapshot": {
-        "capturedAt": "2026-09-16T21:49:52.408Z",
+        "capturedAt": "2026-09-17T08:13:20.261Z",
         "markets": {
           "h2h": {
             "away": {
-              "price": -188,
-              "book": "BetUS"
+              "price": 130,
+              "book": "BetRivers"
             },
             "home": {
-              "price": 175,
+              "price": -145,
               "book": "Caesars"
             },
             "draw": null
           },
           "spreads": {
             "away": {
-              "point": -1.5,
-              "price": -112,
+              "point": 1.5,
+              "price": -167,
               "book": "MyBookie.ag"
             },
             "home": {
-              "point": 1.5,
-              "price": 106,
-              "book": "LowVig.ag"
+              "point": -1,
+              "price": -109,
+              "book": "BetRivers"
             }
           },
           "totals": {
             "over": {
               "point": 8.5,
-              "price": -140,
-              "book": "FanDuel"
+              "price": -125,
+              "book": "Bovada"
             },
             "under": {
               "point": 9,
+              "price": -110,
+              "book": "Fanatics"
+            }
+          }
+        },
+        "awayTeam": "Kansas City Royals",
+        "homeTeam": "Houston Astros"
+      }
+    },
+    {
+      "type": "moneyline",
+      "pick": "New York Mets ML",
+      "odds": "-131",
+      "edge": "Market fill from live lines: New York Mets is the books' favorite at -131 (best price @ BetOnline.ag) against Philadelphia Phillies at +119, with home ice/court/field behind them. No researched edge here — this is a low-confidence market-consensus play added to round out the slate. Low confidence is honest confidence.",
+      "matchup": "Philadelphia Phillies @ New York Mets",
+      "league": "MLB",
+      "when": "Today 7:16 PM ET",
+      "confidence": "low",
+      "_autofill": true,
+      "_scheduledTs": 1789686960000,
+      "marketSnapshot": {
+        "capturedAt": "2026-09-17T08:13:20.261Z",
+        "markets": {
+          "h2h": {
+            "away": {
+              "price": 119,
+              "book": "BetOnline.ag"
+            },
+            "home": {
+              "price": -131,
+              "book": "BetOnline.ag"
+            },
+            "draw": null
+          },
+          "spreads": {
+            "away": {
+              "point": 1.5,
+              "price": -173,
+              "book": "MyBookie.ag"
+            },
+            "home": {
+              "point": -1.5,
+              "price": 155,
+              "book": "FanDuel"
+            }
+          },
+          "totals": {
+            "over": {
+              "point": 8,
               "price": -113,
-              "book": "LowVig.ag"
+              "book": "DraftKings"
+            },
+            "under": {
+              "point": 8.5,
+              "price": -125,
+              "book": "Caesars"
             }
           }
         },
         "awayTeam": "Philadelphia Phillies",
-        "homeTeam": "Washington Nationals"
-      },
-      "_pendingGrade": true
-    },
-    {
-      "type": "spread",
-      "pick": "Baltimore Orioles -4.5",
-      "odds": "-182",
-      "edge": "Market fill from live lines: the books lay -4.5 with Baltimore Orioles at -182 (best @ BetRivers). No researched edge — a low-confidence market-consensus play so this sport isn't empty today.",
-      "matchup": "Baltimore Orioles @ New York Mets",
-      "league": "MLB",
-      "when": "Today 7:11 PM ET",
-      "confidence": "low",
-      "_autofill": true,
-      "_scheduledTs": 1789600260000,
-      "marketSnapshot": {
-        "capturedAt": "2026-09-17T00:59:14.864Z",
-        "markets": {
-          "h2h": {
-            "away": {
-              "price": -5000,
-              "book": "Fanatics"
-            },
-            "home": {
-              "price": 2200,
-              "book": "BetMGM"
-            },
-            "draw": null
-          },
-          "spreads": {
-            "away": {
-              "point": -4.5,
-              "price": -182,
-              "book": "BetRivers"
-            },
-            "home": {
-              "point": 5.5,
-              "price": -160,
-              "book": "BetMGM"
-            }
-          },
-          "totals": {
-            "over": {
-              "point": 9.5,
-              "price": -110,
-              "book": "Bovada"
-            },
-            "under": {
-              "point": 9.5,
-              "price": -105,
-              "book": "Caesars"
-            }
-          }
-        },
-        "awayTeam": "Baltimore Orioles",
         "homeTeam": "New York Mets"
-      }
-    },
-    {
-      "type": "spread",
-      "pick": "Chicago Cubs -3",
-      "odds": "-135",
-      "edge": "Market fill from live lines: the books lay -3 with Chicago Cubs at -135 (best @ Bovada). No researched edge — a low-confidence market-consensus play so this sport isn't empty today.",
-      "matchup": "Atlanta Braves @ Chicago Cubs",
-      "league": "MLB",
-      "when": "Today 7:41 PM ET",
-      "confidence": "low",
-      "_autofill": true,
-      "_scheduledTs": 1789602060000,
-      "marketSnapshot": {
-        "capturedAt": "2026-09-17T00:59:14.864Z",
-        "markets": {
-          "h2h": {
-            "away": {
-              "price": 830,
-              "book": "FanDuel"
-            },
-            "home": {
-              "price": -1280,
-              "book": "DraftKings"
-            },
-            "draw": null
-          },
-          "spreads": {
-            "away": {
-              "point": 3.5,
-              "price": -133,
-              "book": "MyBookie.ag"
-            },
-            "home": {
-              "point": -3,
-              "price": -135,
-              "book": "Bovada"
-            }
-          },
-          "totals": {
-            "over": {
-              "point": 6.5,
-              "price": 102,
-              "book": "BetRivers"
-            },
-            "under": {
-              "point": 6.5,
-              "price": -105,
-              "book": "MyBookie.ag"
-            }
-          }
-        },
-        "awayTeam": "Atlanta Braves",
-        "homeTeam": "Chicago Cubs"
-      }
-    },
-    {
-      "type": "spread",
-      "pick": "Buffalo Bills -4.5",
-      "odds": "-115",
-      "edge": "Market fill from live lines: the books lay -4.5 with Buffalo Bills at -115 (best @ FanDuel). No researched edge — a low-confidence market-consensus play so this sport isn't empty today.",
-      "matchup": "Detroit Lions @ Buffalo Bills",
-      "league": "NFL",
-      "when": "Tomorrow 8:15 PM ET",
-      "confidence": "low",
-      "_autofill": true,
-      "_scheduledTs": 1789690500000,
-      "marketSnapshot": {
-        "capturedAt": "2026-09-17T00:59:14.865Z",
-        "markets": {
-          "h2h": {
-            "away": {
-              "price": 201,
-              "book": "BetOnline.ag"
-            },
-            "home": {
-              "price": -225,
-              "book": "Caesars"
-            },
-            "draw": null
-          },
-          "spreads": {
-            "away": {
-              "point": 5.5,
-              "price": -109,
-              "book": "LowVig.ag"
-            },
-            "home": {
-              "point": -4.5,
-              "price": -115,
-              "book": "FanDuel"
-            }
-          },
-          "totals": {
-            "over": {
-              "point": 54.5,
-              "price": -108,
-              "book": "BetRivers"
-            },
-            "under": {
-              "point": 55,
-              "price": -107,
-              "book": "LowVig.ag"
-            }
-          }
-        },
-        "awayTeam": "Detroit Lions",
-        "homeTeam": "Buffalo Bills"
       }
     }
   ],
-  "updatedAt": "2026-04-23T12:00:00Z",
+  "updatedAt": "2026-04-23T18:45:00Z",
   "highlights": [
     {
       "league": "NBA",
       "title": "The City of Brotherly Love welcomes Jaylen Brown 💯",
       "videoId": "LITtXKqG1x8",
       "thumbnail": "https://img.youtube.com/vi/LITtXKqG1x8/mqdefault.jpg",
-      "timeAgo": "1h ago",
+      "timeAgo": "8h ago",
       "isFallback": false
     },
     {
       "league": "NFL",
-      "title": "High-Scoring Shootout at Highmark? Lions-Bills Preview | The Bill Barnwell Show",
-      "videoId": "H-oEJLGrV98",
-      "thumbnail": "https://img.youtube.com/vi/H-oEJLGrV98/mqdefault.jpg",
-      "timeAgo": "1h ago",
+      "title": "Tyler Owens discusses the VIRAL REACTION to his hustle play vs. Eagles | SportsCenter",
+      "videoId": "5NWG21xPO0k",
+      "thumbnail": "https://img.youtube.com/vi/5NWG21xPO0k/mqdefault.jpg",
+      "timeAgo": "4h ago",
       "isFallback": false
     },
     {
       "league": "MLB",
-      "title": "YANKEES vs. TWINS: Official Full Game Highlights (September 16) | 2026 MLB Season",
-      "videoId": "xnhvnntd4d4",
-      "thumbnail": "https://img.youtube.com/vi/xnhvnntd4d4/mqdefault.jpg",
+      "title": "MARINERS vs. ANGELS: Official Full Game Highlights (September 16) | 2026 MLB Season",
+      "videoId": "Us32IDHCbkU",
+      "thumbnail": "https://img.youtube.com/vi/Us32IDHCbkU/mqdefault.jpg",
       "timeAgo": "3h ago",
       "isFallback": false
     },
@@ -6384,7 +6386,7 @@
       "title": "FULL REPLAY: Lake Tahoe | Bruins vs Flyers | 2021 NHL Outdoors",
       "videoId": "efgAdKZD6g4",
       "thumbnail": "https://img.youtube.com/vi/efgAdKZD6g4/mqdefault.jpg",
-      "timeAgo": "2h ago",
+      "timeAgo": "9h ago",
       "isFallback": false
     },
     {
@@ -6392,7 +6394,7 @@
       "title": "New Balance All Access Chicago 2026: Cameron Brink",
       "videoId": "OCys5KgNum0",
       "thumbnail": "https://img.youtube.com/vi/OCys5KgNum0/mqdefault.jpg",
-      "timeAgo": "7h ago",
+      "timeAgo": "14h ago",
       "isFallback": false
     },
     {
@@ -6400,11 +6402,91 @@
       "title": "Barcelona's high-scoring dominance continues 😤 + Man United's Carabao Cup loss | ESPN FC",
       "videoId": "SyptXV6Y91I",
       "thumbnail": "https://img.youtube.com/vi/SyptXV6Y91I/mqdefault.jpg",
-      "timeAgo": "1h ago",
+      "timeAgo": "8h ago",
       "isFallback": false
     }
   ],
   "reels": [
+    {
+      "league": "MLB",
+      "title": "MARINERS vs. ANGELS: Official Full Game Highlights (September 16) | 2026 MLB Season",
+      "videoId": "Us32IDHCbkU",
+      "author": "MLB",
+      "pubDate": "2026-09-17T05:06:28+00:00",
+      "link": "https://www.youtube.com/watch?v=Us32IDHCbkU"
+    },
+    {
+      "league": "MLB",
+      "title": "MARLINS vs. D-BACKS: Official Full Game Highlights (September 16) | 2026 MLB Season",
+      "videoId": "_49Rv02MP4s",
+      "author": "MLB",
+      "pubDate": "2026-09-17T05:01:48+00:00",
+      "link": "https://www.youtube.com/watch?v=_49Rv02MP4s"
+    },
+    {
+      "league": "MLB",
+      "title": "Sandy Alcantara secures his 1st CAREER SAVE during his first relief appearance since 2017! 🐟🤯",
+      "videoId": "7kT1hn9H0jU",
+      "author": "MLB",
+      "pubDate": "2026-09-17T04:51:08+00:00",
+      "link": "https://www.youtube.com/watch?v=7kT1hn9H0jU"
+    },
+    {
+      "league": "NFL",
+      "title": "Tyler Owens discusses the VIRAL REACTION to his hustle play vs. Eagles | SportsCenter",
+      "videoId": "5NWG21xPO0k",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-09-17T03:54:41+00:00",
+      "link": "https://www.youtube.com/watch?v=5NWG21xPO0k"
+    },
+    {
+      "league": "MLB",
+      "title": "PADRES vs. ROCKIES: Official Full Game Highlights (September 16) | 2026 MLB Season",
+      "videoId": "-UiArSnuDa0",
+      "author": "MLB",
+      "pubDate": "2026-09-17T03:43:48+00:00",
+      "link": "https://www.youtube.com/watch?v=-UiArSnuDa0"
+    },
+    {
+      "league": "MLB",
+      "title": "ROYALS vs. ASTROS: Official Full Game Highlights (September 16) | 2026 MLB Season",
+      "videoId": "LiZQSBivdU4",
+      "author": "MLB",
+      "pubDate": "2026-09-17T03:22:21+00:00",
+      "link": "https://www.youtube.com/watch?v=LiZQSBivdU4"
+    },
+    {
+      "league": "MLB",
+      "title": "Ethan Salas hits his first Major League home run! 🙌",
+      "videoId": "XS4p_fvbyqI",
+      "author": "MLB",
+      "pubDate": "2026-09-17T03:18:55+00:00",
+      "link": "https://www.youtube.com/watch?v=XS4p_fvbyqI"
+    },
+    {
+      "league": "MLB",
+      "title": "Second home run of the night, 44 home runs on the season ... HAVE A NIGHT, PETE CROW-ARMSTRONG!",
+      "videoId": "DVBlCiKW4lw",
+      "author": "MLB",
+      "pubDate": "2026-09-17T03:17:38+00:00",
+      "link": "https://www.youtube.com/watch?v=DVBlCiKW4lw"
+    },
+    {
+      "league": "MLB",
+      "title": "RED SOX vs. RANGERS: Official Full Game Highlights (September 16) | 2026 MLB Season",
+      "videoId": "ffFmX3kCDFU",
+      "author": "MLB",
+      "pubDate": "2026-09-17T03:07:16+00:00",
+      "link": "https://www.youtube.com/watch?v=ffFmX3kCDFU"
+    },
+    {
+      "league": "NFL",
+      "title": "Kyler Murray back at Vikings practice (via SeifertESPN/X)",
+      "videoId": "EUtuaa5TAlg",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-09-17T01:24:25+00:00",
+      "link": "https://www.youtube.com/watch?v=EUtuaa5TAlg"
+    },
     {
       "league": "NBA",
       "title": "The City of Brotherly Love welcomes Jaylen Brown 💯",
@@ -6494,28 +6576,12 @@
       "link": "https://www.youtube.com/watch?v=Y25KaTUwHms"
     },
     {
-      "league": "MLB",
-      "title": "YANKEES vs. TWINS: Official Full Game Highlights (September 16) | 2026 MLB Season",
-      "videoId": "xnhvnntd4d4",
-      "author": "MLB",
-      "pubDate": "2026-09-16T22:15:38+00:00",
-      "link": "https://www.youtube.com/watch?v=xnhvnntd4d4"
-    },
-    {
       "league": "NFL",
       "title": "FILM BREAKDOWN of the Jaguars &amp; Commanders' offense in Week 1 🎥 | NFL Live",
       "videoId": "w3oPvmKWuQ4",
       "author": "NFL on ESPN",
       "pubDate": "2026-09-16T22:01:58+00:00",
       "link": "https://www.youtube.com/watch?v=w3oPvmKWuQ4"
-    },
-    {
-      "league": "MLB",
-      "title": "TIGERS vs. BLUE JAYS: Official Full Game Highlights (September 16) | 2026 MLB Season",
-      "videoId": "quOmjqPZQAk",
-      "author": "MLB",
-      "pubDate": "2026-09-16T22:00:22+00:00",
-      "link": "https://www.youtube.com/watch?v=quOmjqPZQAk"
     },
     {
       "league": "SOCCER",
@@ -6534,22 +6600,6 @@
       "link": "https://www.youtube.com/watch?v=3MGlDUuHEQg"
     },
     {
-      "league": "MLB",
-      "title": "GIANTS vs. CARDINALS: Official Full Game Highlights (September 16) | 2026 MLB Season",
-      "videoId": "U4dxe_9B7Eo",
-      "author": "MLB",
-      "pubDate": "2026-09-16T21:23:29+00:00",
-      "link": "https://www.youtube.com/watch?v=U4dxe_9B7Eo"
-    },
-    {
-      "league": "MLB",
-      "title": "&quot;POV of pitchers vs. Pete Crow-Armstrong&quot; - Caleb Williams",
-      "videoId": "B9zQap2EOGo",
-      "author": "MLB",
-      "pubDate": "2026-09-16T21:20:11+00:00",
-      "link": "https://www.youtube.com/watch?v=B9zQap2EOGo"
-    },
-    {
       "league": "NHL",
       "title": "Weirdest Moment of the Season? Geekie’s Center-Ice Goal 😳",
       "videoId": "x-Jxx1YCuMY",
@@ -6566,14 +6616,6 @@
       "link": "https://www.youtube.com/watch?v=sruqCT-cx9k"
     },
     {
-      "league": "MLB",
-      "title": "WHITE SOX vs. GUARDIANS: Official Full Game Highlights (September 16) | 2026 MLB Season",
-      "videoId": "Z02Ifhn4QXE",
-      "author": "MLB",
-      "pubDate": "2026-09-16T20:13:52+00:00",
-      "link": "https://www.youtube.com/watch?v=Z02Ifhn4QXE"
-    },
-    {
       "league": "NFL",
       "title": "Are the Ravens headed to the Super Bowl? 🤔",
       "videoId": "Hnln5dc_Zp0",
@@ -6588,22 +6630,6 @@
       "author": "NFL on ESPN",
       "pubDate": "2026-09-16T20:05:09+00:00",
       "link": "https://www.youtube.com/watch?v=IykiVd-Fp34"
-    },
-    {
-      "league": "NFL",
-      "title": "The Arch Manning Era",
-      "videoId": "Lk5kLbVSbXE",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-09-16T20:00:03+00:00",
-      "link": "https://www.youtube.com/watch?v=Lk5kLbVSbXE"
-    },
-    {
-      "league": "NFL",
-      "title": "The New York scene for Giants-Cowboys was DIFFERENT",
-      "videoId": "rB0xiLLECRw",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-09-16T19:56:38+00:00",
-      "link": "https://www.youtube.com/watch?v=rB0xiLLECRw"
     },
     {
       "league": "SOCCER",
@@ -6638,28 +6664,12 @@
       "link": "https://www.youtube.com/watch?v=OCys5KgNum0"
     },
     {
-      "league": "MLB",
-      "title": "It doesn't get closer then this 😳",
-      "videoId": "KGBgx6E0wQo",
-      "author": "MLB",
-      "pubDate": "2026-09-16T18:00:16+00:00",
-      "link": "https://www.youtube.com/watch?v=KGBgx6E0wQo"
-    },
-    {
       "league": "NHL",
       "title": "Canadiens: KREIDER, le coup de circuit inespéré!",
       "videoId": "rpj36lVYMXs",
       "author": "NHL",
       "pubDate": "2026-09-16T18:00:13+00:00",
       "link": "https://www.youtube.com/watch?v=rpj36lVYMXs"
-    },
-    {
-      "league": "MLB",
-      "title": "This dog took its human to the ballpark 😭",
-      "videoId": "Ko1Dm_la5cE",
-      "author": "MLB",
-      "pubDate": "2026-09-16T17:30:39+00:00",
-      "link": "https://www.youtube.com/watch?v=Ko1Dm_la5cE"
     },
     {
       "league": "NBA",
@@ -6700,14 +6710,6 @@
       "author": "WNBA",
       "pubDate": "2026-09-16T16:01:15+00:00",
       "link": "https://www.youtube.com/watch?v=On1zwLWDD9k"
-    },
-    {
-      "league": "MLB",
-      "title": "How Ken Griffey Jr. Transcended Baseball (Mini-Movie)",
-      "videoId": "MCGHUXgC6GM",
-      "author": "MLB",
-      "pubDate": "2026-09-16T16:00:35+00:00",
-      "link": "https://www.youtube.com/watch?v=MCGHUXgC6GM"
     },
     {
       "league": "NHL",
