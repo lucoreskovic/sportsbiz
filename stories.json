@@ -1,81 +1,73 @@
 {
   "clusters": [
     {
-      "category": "contracts",
-      "importance": 8,
-      "leadHeadline": "Commanders Daron Payne suffers season-ending foot fracture, ending any trade speculation",
-      "leadSource": "CBS Sports · just now",
-      "leadUrl": "https://www.cbssports.com/nfl/news/commanders-daron-payne-suffers-season-ending-foot-fracture/",
-      "summary": "Daron Payne's season is done. The 29-year-old Commanders DT suffered a Jones fracture in Friday practice and will miss the rest of 2026.",
-      "article": "<cite index=\"1-1\">Commanders defensive lineman Daron Payne suffered a season-ending Jones fracture in practice Friday, ESPN's Adam Schefter reported.</cite> <cite index=\"2-6\">The injury was described as a fluke, not resulting from anyone stepping on his foot during a play.</cite>\n\n<cite index=\"1-5\">Payne has played nearly three-quarters of the team's defensive snaps this season and has one sack, 14 tackles, two tackles for loss and five quarterback hits.</cite> <cite index=\"1-7\">The 29-year-old is in the final year of a four-year, $90 million extension after being drafted 13th overall in 2018.</cite>\n\n<cite index=\"20-12\">Coach Dan Quinn said he valued Payne's \"strength inside, his power, and oftentimes that's where he wins on whether it's pass rush or [tackles for a loss].\"</cite> <cite index=\"6-8\">A typical recovery for such an injury could take up to four months, according to medical experts.</cite>\n\n<cite index=\"1-3\">The Commanders, at 1-4-1</cite>, had weighed trading Payne before the deadline. <cite index=\"27-11\">\"Daron Payne was a name to watch at the trade deadline but this injury likely takes him out of play there for the Commanders and other teams,\" NFL Network's Mike Garafolo said.</cite> Now he heads to injured reserve for what may be his final game in a Washington uniform.",
-      "tweets": [
-        {
-          "url": "https://twitter.com/AdamSchefter/status/2116542167506170254",
-          "html": "<blockquote class=\"twitter-tweet\" data-dnt=\"true\" data-theme=\"dark\"><p>Source: Commanders DL Daron Payne did in fact suffer a season-ending Jones fracture during Friday’s practice.</p>&mdash; Adam Schefter (@AdamSchefter) <a href=\"https://twitter.com/AdamSchefter/status/2116542167506170254\">October 31, 2026</a></blockquote>",
-          "author_name": "Adam Schefter",
-          "author_url": "https://twitter.com/AdamSchefter",
-          "dateMs": 1793457950000
-        }
-      ]
-    },
-    {
-      "category": "media",
+      "category": "leagues",
       "importance": 7,
-      "leadHeadline": "MLB Postseason viewership hurt by World Series, but still on the high side",
-      "leadSource": "Sports Media Watch · just now",
-      "leadUrl": "https://www.sportsmediawatch.com/2026/10/mlb-postseason-viewership-down-world-series/",
-      "summary": "The 2026 MLB Postseason averaged 5.49 million viewers across Fox, TNT, and NBC, down from last year's pace but still among the most-watched in recent years, dragged lower by a shorter World Series.",
-      "article": "The 2026 MLB Postseason pulled a respectable 5.49 million viewers on average across Fox Sports, TNT Sports, and NBCUniverse platforms, landing the season near the high end of recent years despite viewership headwinds in the World Series itself.\n\nThe downturn came specifically in the Fall Classic, which ran shorter and drew a smaller cumulative audience than last year's championship. That shortfall offset strong numbers in earlier rounds, where wild-card and divisional play benefited from concentrated weeknight slots and higher stakes matchups.\n\nThe postseason as a whole held up better than expected given the fragmentation of cable audiences and the rise of streaming. TNT's playoff window proved particularly valuable, reaching cord-cutters and younger demos that traditional broadcast networks struggle to capture. Fox's primetime slots maintained their firepower, though the slight overall decline year-over-year mirrors trends across live sports as audiences splinter across more platforms and access points.",
+      "leadHeadline": "NFL Loses Sunday Ticket Appeal but Wins New Trial on Damages",
+      "leadSource": "Sportico · 22h ago",
+      "leadUrl": "https://www.sportico.com/law/analysis/2026/nfl-sunday-ticket-appeal-ruling-1234957129/",
+      "summary": "A three-judge 9th Circuit panel restored the jury's verdict against the NFL but upheld an order for a new trial on damages. A jury in June 2024 ordered the NFL to pay $4.7 billion in damages.",
+      "article": "A three-judge panel of the US 9th Circuit Court of Appeals concluded Friday that a judge erred in throwing out a verdict against the NFL following a 2024 jury trial.\n\nThe NFL is once again liable for violating antitrust law through its Sunday Ticket practices. The appeals court said the judge correctly threw out the $4.7 billion award, but said consumers who sued the league are entitled to a new trial to determine financial penalties.\n\nIn June 2024, a federal jury in Los Angeles ordered the NFL to pay $4.7 billion in damages after finding the league conspired with DirecTV and network partners to increase the price of the exclusive Sunday Ticket games package. The class-action lawsuit, originally filed in 2015, represented more than 2.4 million residential subscribers and more than 48,000 restaurants, bars and other commercial establishments that purchased NFL Sunday Ticket when it was still distributed by DirecTV.\n\nThe award was thrown out one month later by U.S. District Judge Philip Gutierrez after he ruled the testimony of two expert witnesses for the subscribers should have been excluded. But a three-judge appellate panel ruled Gutierrez should not have excluded that testimony.\n\nThe jury award could have exceeded $14 billion under federal antitrust law, which allows damages to be tripled. Now a new jury will decide what the league actually owes.\n\nThe NFL said it is disappointed by the decision and is weighing its options for further court review, defending its televised broadcast strategy as the \"most fan-friendly distribution model\" in sports and entertainment. \"Sunday Ticket\" moved to YouTube in 2023 under a seven-year agreement with Google reportedly worth $14 billion.",
       "tweets": []
     },
     {
-      "category": "leagues",
+      "category": "media",
+      "importance": 6,
+      "leadHeadline": "MLB Postseason viewership hurt by World Series, but still on the high side",
+      "leadSource": "Sports Media Watch · 3h ago",
+      "leadUrl": "https://www.sportsmediawatch.com/2026/10/mlb-postseason-viewership-down-world-series/",
+      "summary": "The 2026 MLB postseason averaged 5.49 million viewers across broadcast partners, among the most-watched in recent years despite a shorter and lower-rated World Series dragging overall numbers down from 2025.",
+      "article": "The 2026 MLB postseason delivered strong overall viewership even as the World Series underperformed relative to prior years. The postseason averaged 5.49 million viewers across Fox Sports, TNT Sports, and NBCUniverse outlets, placing it among the most-watched postseasons in recent history.\n\nThe World Series itself pulled down the overall average. A shorter Series with lower ratings than 2025 reduced the total postseason tally and slowed the pace of year-over-year growth. Wild Card and League Championship rounds, however, held strong viewership, suggesting sustained fan interest in early-round matchups.\n\nThe numbers reflect an audience fragmented across multiple broadcast partners and streaming platforms, a growing trend in baseball media consumption. The postseason's sustained strength despite World Series softness suggests that playoff intensity and competitive balance drive viewers more than the championship itself.\n\nFor broadcasters and MLB, the data reinforces that early-round games and divisional matchups can compete for audience share against traditional marquee events. Whether that pattern holds into 2027 will shape how the league structures future broadcast windows.",
+      "tweets": []
+    },
+    {
+      "category": "media",
       "importance": 6,
       "leadHeadline": "WNBA Finals nears Game 5 high, but viewership takes hit from competition",
-      "leadSource": "Sports Media Watch · 14h ago",
+      "leadSource": "Sports Media Watch · 17h ago",
       "leadUrl": "https://www.sportsmediawatch.com/2026/10/wnba-finals-game-5-viewership-competition/",
-      "summary": "The WNBA Finals Game 5 between the Dream and Valkyries averaged 1.4 million viewers on USA Network and complementary platforms, holding steady despite competing against other major sporting events.",
-      "article": "Monday night's WNBA Finals Game 5 between Atlanta and Las Vegas averaged 1.4 million viewers across USA Network and associated digital platforms, a respectable hold in a crowded sports calendar.\n\nThe figure tracks close to Game 4 levels and represents the league's ability to sustain audience even when audiences fragment across competing entertainment. The Dream-Valkyries matchup drew viewers despite simultaneous competition from other leagues and events, a headwind that typically dents WNBA numbers in October.\n\nThe finals have benefited from compelling individual performances and strong star power in Las Vegas's roster. USA Network's cable footprint and digital distribution model continue to prove effective for WNBA broadcasts, particularly when the network cross-promotes across sports and entertainment properties. Viewership in the 1.4 million range represents solid performance for women's basketball, though it underscores the ongoing gap between peak WNBA interest and the consistent audiences the NBA commands.",
+      "summary": "The WNBA Finals Game 5 between Dream and Valkyries averaged 1.4 million viewers across USA Network and cable, holding near peak levels despite competing against Monday night sports programming.",
+      "article": "The WNBA Finals Game 5 between the Dream and Valkyries held steady under pressure on Monday night, averaging 1.4 million viewers across a Nielsen-estimated linear audience on USA Network and cable platforms.\n\nThe viewership, while respectable, reflected the challenge of Monday night scheduling in a crowded sports calendar. Competition from concurrent games and other programming pulled audience share, but the Finals maintained audience retention near previous highs in the series.\n\nGame 5's performance suggests the WNBA Finals have established a viewership floor in the 1.4 million range, even against stiff competition. That stability is significant for a league still building national broadcast infrastructure and competing for cable primetime slots against established sports properties.\n\nThe series itself remains competitive and closely watched by core WNBA audiences. Whether the Finals can sustain that viewership into subsequent matchups, or grow beyond the established 1.4 million baseline against lighter competition, will define the 2026 season's media success.",
       "tweets": []
     },
     {
-      "category": "revenue",
+      "category": "labor",
       "importance": 5,
-      "leadHeadline": "As Marathon Interest Hits Record Highs, Pro Runners Feel Pinched",
-      "leadSource": "Sportico · 3h ago",
-      "leadUrl": "https://www.sportico.com/business/sports/2026/nyc-marathon-interest-high-pro-runners-impact-1234957111/",
-      "summary": "The 2026 New York City Marathon received a record 240,000 lottery applications, a 20% surge from 2025, with only 1% acceptance, leaving elite runners squeezed by record demand.",
-      "article": "The 2026 New York City Marathon set a new participation record before a single runner crossed the finish line. The New York Road Runners received 240,000 lottery applications for this year's 50th-anniversary race, a jump of 20 percent from 2025, with only 1 percent of applicants selected.\n\nThe glut of interest reflects the marathon's cultural standing and the broader running boom gripping the country. Marathon participation has climbed steadily over the past decade, fueled by social media visibility and the rise of running communities. NYC's five-borough route remains the most prestigious mass-participation marathon in North America, commanding higher entry fees and fiercer competition for bibs.\n\nFor elite runners, the crush creates a different problem. With lottery odds collapsing, many compete in smaller marathons or international events to log qualifying times and maintain sponsorship commitments. The Road Runners' selection process now favors time-qualifying standards and history rather than pure randomness, pushing casual runners further down the pecking order. That calculus may eventually force a restructuring of how major marathons allocate bibs and manage demand, though NYRR hasn't signaled changes. The anniversary year has crystallized what was already evident: demand for marathon slots vastly outpaces supply.",
+      "leadHeadline": "Packers' Josh Jacobs faces fresh abuse allegations from three women in police records",
+      "leadSource": "The Guardian · 1h ago",
+      "leadUrl": "https://www.theguardian.com/sport/2026/oct/31/josh-jacobs-green-bay-packers-abuse-allegations-police-records",
+      "summary": "Three additional women contacted police with abuse allegations against Green Bay Packers running back Josh Jacobs following his May arrest, with one alleging he threatened to kill her, according to police records.",
+      "article": "Three women contacted police with fresh allegations of abuse against Green Bay Packers running back Josh Jacobs as authorities investigated his May arrest on battery charges related to an altercation with his then-girlfriend.\n\nAccording to police records reviewed by The Guardian, one woman alleged that Jacobs threatened to kill her. The other two allegations and their specific details were not fully detailed in available reporting, but all three women initiated contact with law enforcement during the investigation into the battery case.\n\nJacobs' legal representatives called the allegations \"uncorroborated\" and \"old,\" and indicated the player disputes the charges. The May arrest itself remains unresolved in the court system.\n\nThe Packers have not made a public statement about the allegations or their impact on Jacobs' status with the team. Under the NFL's personal conduct policy, the league could review the matter independently, though no investigation announcement has been made.\n\nJacobs, a Pro Bowl running back and key contributor to Green Bay's ground game, has maintained his innocence. The multiple allegations add complexity to an already serious legal situation and could trigger further league involvement.",
       "tweets": []
     },
     {
       "category": "contracts",
-      "importance": 4,
-      "leadHeadline": "Caleb Williams's Cleat Maker: Hiding Logos After NFL Fines 'Makes Sense'",
-      "leadSource": "Front Office Sports · 1h ago",
-      "leadUrl": "https://frontofficesports.com/article/caleb-williamss-cleat-maker-hiding-logos-after-nfl-fines-makes-sense/",
-      "summary": "Caddix, the cleat maker worn by close to 100 NFL players without formal endorsement deals, is adapting to league uniform rules by obscuring logos to avoid fines.",
-      "article": "Caddix, a private cleat manufacturer, has outfitted roughly 100 NFL players without formal apparel partnerships, a gray zone in league sponsorship that's now pushing the company to hide its branding.\n\nThe NFL's uniform and logo regulations prohibit unapproved apparel logos from appearing on-field, a rule enforced through fines and compliance warnings. Caddix's rapid adoption among players reflects both the brand's quality and the willingness of players to wear gear outside official endorsement channels. Caleb Williams, the Bears quarterback, has been spotted in Caddix cleats, though he lacks a direct endorsement deal with the company.\n\nCaddix told Front Office Sports that obscuring logos \"makes sense\" given the regulatory environment. The company is exploring design modifications that allow its products to remain on-field while minimizing legal exposure. This is a workaround familiar to smaller brands attempting to build NFL presence without the massive licensing fees major apparel firms (Nike, Adidas, New Balance) negotiate with the league.\n\nFor players, the arrangement offers flexibility: wear what works biomechanically without being locked into exclusive deals. For Caddix, it's a growth strategy that hinges on staying just below the NFL's enforcement threshold. Whether the league tightens rules around unapproved gear remains an open question.",
-      "tweets": []
-    },
-    {
-      "category": "leagues",
-      "importance": 3,
-      "leadHeadline": "Russia Allowed Back Into International Hockey After Court Overturns Ban",
-      "leadSource": "Front Office Sports · 22h ago",
-      "leadUrl": "https://frontofficesports.com/article/russia-allowed-back-into-international-hockey-after-court-overturns-ban/",
-      "summary": "A court overturned Russia's suspension from international hockey competition, clearing a path for the country to compete in the Men's World Championship next May.",
-      "article": "Russia's ban from international hockey competition has been overturned by court order, opening the door for the nation to participate in the Men's World Championship scheduled for May 2027. The decision reverses a suspension imposed following Russia's 2022 invasion of Ukraine, which prompted the International Ice Hockey Federation and other governing bodies to exclude Russian teams from sanctioned events.\n\nThe specific grounds for the court's ruling were not detailed in available reports, though legal challenges to sports bans often center on due process and proportionality arguments. Russia's return would mark a significant shift in international hockey's stance on political participation, a position the sport had maintained alongside most other international federations.\n\nThe implications are substantial. Russian players competing at the world level would face scrutiny from host nations, media, and sponsors. The IIHF and tournament organizers will need to navigate security, accreditation, and political fallout from hosting a Russian team. Whether other nations' federations voluntarily boycott or protest participation alongside Russia remains unresolved. The court decision doesn't mandate participation, only removes the ban; individual federations retain authority over their involvement.",
+      "importance": 5,
+      "leadHeadline": "Quick Shifts: How Nikita Kucherov's trade request helps Lightning",
+      "leadSource": "Sportsnet · 6h ago",
+      "leadUrl": "",
+      "summary": "Tampa Bay Lightning reigning MVP Nikita Kucherov requested a trade, a move that Sportsnet's Luke Fox argues may actually benefit the team's salary cap and roster flexibility moving forward.",
+      "article": "Nikita Kucherov, the NHL's reigning MVP, formally requested a trade from the Tampa Bay Lightning in a bombshell that rippled through the league. The request shocked observers and ignited debate about the franchise's direction and Kucherov's future.\n\nSportsnet's Luke Fox, however, argued that the trade request may actually work in Tampa Bay's favor. The Lightning have faced sustained salary cap constraints and roster construction challenges. A Kucherov trade could unlock significant cap flexibility and allow the franchise to reshape its core.\n\nThe specifics of a potential deal remain unclear. Kucherov is signed through multiple years at a substantial cap hit, making any trade complex and costly in assets. But for a Lightning team struggling to balance elite player retention with cap reality, moving a star at maximum value could reset the roster timeline.\n\nThe bombshell also raises questions about the team's direction under head coach and management. Kucherov's departure would mark a significant turning point in Tampa Bay's post-Stanley Cup window, effectively closing the chapter on the franchise's recent elite contention.\n\nSuitors will quickly emerge. Kucherov remains a generational talent, and acquiring him—even at substantial cost—could accelerate a contender's timeline. The Lightning now control the process and can extract maximum value.",
       "tweets": []
     },
     {
       "category": "media",
-      "importance": 2,
-      "leadHeadline": "He was one of the NFL's most feared runners. Now Larry Johnson fears what football did to his brain",
-      "leadSource": "The Guardian · 7h ago",
-      "leadUrl": "https://www.theguardian.com/sport/2026/oct/31/larry-johnson-nfl-cte-brain-injuries-kansas-city-chiefs",
-      "summary": "Former NFL running back Larry Johnson, once the league's most bruising tailback, opens up about persistent memory loss and intrusive thoughts he attributes to years of contact football.",
-      "article": "Larry Johnson was the running back opposing defenses feared most, a punishing power runner who left defensive backs and linebackers questioning whether they belonged on the same field. Now Johnson is grappling with memory loss, intrusive thoughts, and uncertainty about whether his career caused lasting brain damage.\n\nThe Guardian's profile finds Johnson, years removed from his final NFL snap, confronting cognitive symptoms he connects directly to years of high-impact collisions. His concerns echo broader research into chronic traumatic encephalopathy (CTE) and subconcussive trauma, though Johnson hasn't been clinically diagnosed and remains skeptical of the NFL's own medical guidance.\n\nJohnson's account adds another voice to the growing chorus of former players reporting cognitive decline post-retirement. Unlike some high-profile cases, Johnson's concerns haven't triggered public settlement discussions or league acknowledgment. His openness about the psychological toll of football, separate from the physical injuries that ended careers, reflects a shift in how athletes discuss long-term health consequences. The piece underscores the gap between what the NFL has funded in research and what players themselves report experiencing in private.",
+      "importance": 4,
+      "leadHeadline": "Caleb Williams's Cleat Maker: Hiding Logos After NFL Fines 'Makes Sense'",
+      "leadSource": "Front Office Sports · 4h ago",
+      "leadUrl": "https://frontofficesports.com/article/caleb-williamss-cleat-maker-hiding-logos-after-nfl-fines-makes-sense/",
+      "summary": "Close to 100 NFL players wear Caddix cleats without endorsement deals, and the manufacturer says hiding logos after NFL fines for unapproved equipment is a practical business decision.",
+      "article": "Caddix, a cleat manufacturer worn by nearly 100 NFL players including Caleb Williams, is hiding its logos on footwear distributed to players after the NFL fined players for wearing unapproved equipment.\n\nThe NFL's approval process for cleats and shoes has long been a point of friction between league equipment standards and player preference. Manufacturers outside the official approved list face fines when their products appear on field, creating a cat-and-mouse dynamic with players who prefer certain brands or custom designs.\n\nFor Caddix, obscuring logos represents a pragmatic workaround to maintain player relationships and market penetration without triggering league penalties. The strategy allows the manufacturer to supply players while technically avoiding direct branded visibility that triggers fines.\n\nThe arrangement underscores a broader tension in the NFL: players want equipment choices, the league wants standardization and control, and manufacturers want market access. Caddix's approach avoids confrontation but also prevents the brand from receiving on-field exposure that traditional sponsorships would generate.\n\nClose to 100 players wearing a brand without formal endorsement deals suggests significant grassroots adoption and player preference for Caddix products. Whether the NFL will escalate enforcement or adjust its approval process remains an open question.",
+      "tweets": []
+    },
+    {
+      "category": "media",
+      "importance": 3,
+      "leadHeadline": "Robert Griffin III Says He's Spoken With Baylor About Coaching Job",
+      "leadSource": "Front Office Sports · 3h ago",
+      "leadUrl": "https://frontofficesports.com/article/robert-griffin-iii-says-hes-spoken-with-baylor-about-coaching-job/",
+      "summary": "Former Heisman winner Robert Griffin III has discussed a college coaching position with Baylor, framing the role as a CEO-level responsibility focused on program leadership and institutional management.",
+      "article": "Robert Griffin III, the former Heisman Trophy winner and longtime NFL quarterback, said he has held conversations with Baylor about a coaching opportunity. Griffin characterized college coaching as a CEO role that extends beyond on-field play.\n\nIn an interview, Griffin emphasized that modern college coaching is about leading an organization, managing personnel, building a program culture, and navigating the complexities of Name, Image, and Likeness (NIL) deals. The CEO framing reflects how major college programs now operate like professional franchises.\n\nGriffin's interest in college coaching follows his transition out of the NFL and into media and commentary roles. His background as a starting quarterback and his experience navigating both pro and college landscapes could appeal to a program seeking a high-profile hire.\n\nBaylor, which has invested in its football program in recent years, has not confirmed the substance or timing of any coaching discussion. The Bears would need to create a specific opening or role for Griffin to move forward.\n\nGriffin's potential interest signals a broader trend of former star players exploring coaching opportunities, particularly at major universities where the role increasingly blends athletic direction with business acumen.",
       "tweets": []
     }
   ],
@@ -2402,126 +2394,102 @@
   "deals": [],
   "ratings": [
     {
-      "event": "MLB Postseason 2026",
-      "network": "Fox Sports / TNT Sports / NBCUniversal",
-      "viewers_m": 5.49,
-      "peak_viewers_m": null,
-      "league": "MLB",
-      "storyIndex": 7,
-      "context": "Postseason average across all rounds on combined platforms; World Series underperformed.",
-      "capturedAt": "2026-10-31T15:55:21.913Z"
-    },
-    {
-      "event": "WNBA Finals Game 5 (Dream vs Valkyries)",
+      "event": "WNBA Finals Game 5: Dream vs Valkyries",
       "network": "USA Network",
       "viewers_m": 1.4,
       "peak_viewers_m": null,
       "league": "OTHER",
       "storyIndex": 15,
-      "context": "Monday night matchup held steady despite competing sports events on same evening.",
-      "capturedAt": "2026-10-31T15:55:21.914Z"
+      "context": "Monday night viewership held near series peak despite competing against other sports programming.",
+      "capturedAt": "2026-10-31T18:56:57.904Z"
+    },
+    {
+      "event": "2026 MLB Postseason (overall)",
+      "network": "Fox Sports, TNT Sports, NBCUniverse",
+      "viewers_m": 5.49,
+      "peak_viewers_m": null,
+      "league": "MLB",
+      "storyIndex": 7,
+      "context": "Among most-watched postseasons in recent years despite shorter World Series with lower ratings.",
+      "capturedAt": "2026-10-31T18:56:57.905Z"
     }
   ],
   "ticket_prices": [],
   "sidebar": [
     {
-      "headline": "Manchester United crisis deepens with Chelsea defeat and Martínez red card",
-      "source": "The Guardian · 1h ago",
-      "article": "Manchester United's troubles mounted following a loss to Chelsea complicated by a Martínez red card, intensifying speculation about manager Erik ten Hag's future. The defeat piles pressure on a season already marked by inconsistent results and defensive vulnerabilities. Gary Neville's public criticism has become a recurring theme, with legendary figures openly questioning the team's direction. United faces the prospect of managerial change before their next fixture. The loss dropped them further off pace in the title race and exposed tactical weaknesses against top-six opponents. Ten Hag's job security now hinges on the next few weeks of results and whether the board moves to replace him during the upcoming window."
+      "headline": "As Marathon Interest Hits Record Highs, Pro Runners Feel Pinched",
+      "source": "Sportico · 6h ago",
+      "article": "The 2026 New York City Marathon, celebrating its 50th anniversary, received a record 240,000 lottery applications, a 20% surge from 2025. But acceptance remains scarce: just 1% of applicants earned entry, making qualification harder than ever. The crush reflects the event's cultural weight and the city's enduring appeal to distance runners. For professional runners, however, the lottery system creates a bottleneck. Elite athletes historically received guaranteed entries, but the sheer volume of amateur demand has forced organizers to navigate eligibility carefully. Host New York Road Runners now faces pressure to balance mass participation with elite athlete accommodation. The supply-and-demand dynamic mirrors major marathons worldwide: Boston, London, and Tokyo all cap entries well below applicant pools. NYC's 50th anniversary milestone has amplified interest, but it also exposes the structural limits of a single-day race accommodating 55,000 runners and millions of spectators. For next year, expect continued debate over how to preserve accessibility while honoring the athletes who made the race iconic."
     },
     {
-      "headline": "Jamie Carragher apologises to Villa for 'wrong' language",
-      "source": "BBC Sport · 2h ago",
-      "article": "Sky Sports pundit Jamie Carragher issued an apology to Aston Villa after describing manager Unai Emery in terms that linked him to the Manchester United job. Carragher's language was deemed \"clumsy and wrong\" by the analyst himself, and Villa threatened legal action over the implication. The incident underscores the volatility of live punditry and the legal sensitivity around managerial speculation in English football. Carragher's apology came swiftly after Villa's threat, preventing a prolonged dispute. The spat highlights how easily off-the-cuff remarks on air can trigger formal complaints from clubs protective of their executives. For Carragher, it's a reminder that even seasoned commentators operate within legal boundaries when discussing managerial futures."
+      "headline": "Manchester United defender Lisandro Martinez condemned for costly red card in 2-0 defeat to Chelsea",
+      "source": "BBC Sport · 1h ago",
+      "article": "Lisandro Martinez was sent off in an inexplicable 83 seconds at Stamford Bridge, his red card proving decisive in Manchester United's 2-0 defeat to Chelsea. Martinez's dismissal, which came with a shocking lack of context or provocation, left United a man down for nearly all of the second half. The quick ejection deprived the team of a key defensive leader and forced United into a defensive shell from which it could not recover. Chelsea capitalized immediately, scoring both goals with the man advantage. Martinez's absence altered the tactical shape United had planned and left the fullback position vulnerable. The incident has drawn scrutiny from analysts and United's coaching staff, who will review footage to understand the reasoning behind the referee's decision. Early red cards, particularly for unclear offenses, remain a point of contention in the Premier League. For United, the loss drops them further off the pace in the title race and compounds injury concerns in the back line."
     },
     {
-      "headline": "Steph Curry drops Luka Doncic — and finds his joy",
-      "source": "NY Post Sports · just now",
-      "article": "Steph Curry embarrassed Luka Doncic with a crossover that sent the Dallas star to the ground, then swished a three-pointer and shimmed as Curry found his scoring rhythm. The play epitomized a Warriors performance that relied on Curry's offensive creativity and confidence. Doncic's fall and Curry's celebration illustrated the gap between the two offenses when the Warriors' best player is firing. Golden State's spacing and ball movement created the openings Curry needs to operate in rhythm. The performance suggested Curry remains capable of carrying the Warriors through stretches when complementary pieces falter. His joy in the moment, visible in his shimmy, reflected the confidence of a player still capable of imposing his will on games."
+      "headline": "Martinez's 'inexplicable' 83 seconds cost Man Utd and Carrick",
+      "source": "BBC Sport · 1h ago",
+      "article": "Manchester United conceded to Chelsea 2-0 after Lisandro Martinez received a red card just 83 seconds into the match at Stamford Bridge. The swift dismissal stunned observers and fundamentally shifted the tactical battle. Playing down a man from the opening minutes forced Erik ten Hag's side into a reactive defensive posture, abandoning any attacking intent and surrendering the midfield to Chelsea's control. Both Chelsea goals arrived with United outnumbered, making the numerical disadvantage decisive. Martinez, one of United's most important defenders, was unavailable for the remainder of the contest, and no backup could replicate his positioning or leadership. The red card raises questions about match officiating consistency and the severity of the offense that prompted it. For United, the loss is costly not just in points but in psychological momentum heading into a critical stretch of fixtures. The incident will dominate post-match analysis and could spark debate about referee protocols for early-match decisions."
     },
     {
-      "headline": "Australia crumble under the pressure of a final-day chase as South Africa charge to a famous Test and series victory",
-      "source": "BBC Sport · 3h ago",
-      "article": "South Africa completed a dramatic series victory over Australia with a final-day chase that exposed Australian vulnerabilities under pressure. The touring side's collapse capped a series marked by momentum shifts, with South Africa seizing control in decisive moments. David Warner's post-match criticism of his former teammates underscored the intensity of the rivalry. Australia's inability to close out matches from winning positions has become a recurring theme. The defeat raises questions about Australia's depth in key positions and their mental toughness against elite touring attacks. South Africa's aggressive approach and disciplined batting in the final innings proved the difference in a series that swung on single performances."
-    },
-    {
-      "headline": "CFL East semifinal preview: Argonauts offence faces tough test vs. Blue Bombers",
-      "source": "Sportsnet · 3h ago",
-      "article": "The Toronto Argonauts bring home-field advantage into their CFL East semifinal against Winnipeg, but face a Blue Bombers team turning to backup Dru Brown in place of injured starter Zach Collaros. Chad Kelly and the Argonauts' high-octane offense will test a Winnipeg defense forced to adjust to unexpected circumstances at quarterback. Toronto's opportunity to advance without facing Collaros' experience is offset by the unpredictability a backup introduces. Kelly's responsibility to establish dominance early is heightened by the semifinal stakes and the chance to eliminate a familiar rival. The mismatch at quarterback could prove decisive, but Winnipeg's defense and running game may mitigate Brown's inexperience. Grey Cup contention hinges on the Argonauts' ability to capitalize on this advantage."
+      "headline": "Yaxel Lendeborg admits he wet the bed against Luka Doncic",
+      "source": "NY Post Sports · 2h ago",
+      "article": "Yaxel Lendeborg said he was \"absolutely\" looking forward to a rematch with Luka Doncic, then got absolutely pulverized. Doncic's performance was dominant, and Lendeborg's defensive effort was overwhelmed. The guard's candid admission that he was outmatched speaks to Doncic's elite status and Lendeborg's struggle against one of the league's most dynamic scorers. Doncic's ability to break down defenders with both scoring and playmaking made life impossible for Lendeborg, who cycled through multiple possessions unable to contain the space or the offensive explosion. The mismatch highlighted the gap between perimeter defenders tasked with slowing a generational talent. Lendeborg's willingness to acknowledge the gap is rare; most players offer coach-speak deflection. His honesty may signal frustration but also a realistic assessment of the challenge. For Lendeborg's team, the loss underscores the need for additional defensive support when facing elite isolation scorers. For Doncic, it was another night demonstrating why he remains among the league's most difficult covers."
     },
     {
       "headline": "Ernie Johnson on Leaving Inside the NBA",
-      "source": "Front Office Sports · 20h ago",
-      "article": "Inside the NBA host Ernie Johnson reflected on his final season with the TNT show, marking an end to a tenure spanning decades. Johnson's departure coincides with broader changes to the program following Charles Barkley's exit and the arrival of new talent. Johnson's measured commentary and professionalism made him a steady presence through roster shifts and production overhauls. His remarks touched on gratitude for the platform and acknowledgment of the show's cultural impact on basketball discourse. The transition represents a generational shift for TNT's basketball coverage, with veteran voices stepping aside for emerging talent. Johnson's legacy includes not just his on-air presence but his role as an institutional anchor during a period of significant change. His departure closes another chapter in Inside the NBA's recent transformation."
+      "source": "Front Office Sports · 23h ago",
+      "article": "Ernie Johnson announced his final season on Inside the NBA, closing a storied run as the show's anchor and host. Johnson did not detail his next move but indicated a transition rather than full retirement. The news sent ripples through the sports media community; Inside the NBA has been one of cable's most influential shows for decades. Johnson's exit marks a generational shift for Turner Sports' flagship program. No replacement has been named, and speculation about the show's future format, hosting structure, and survival in a streaming-first media landscape is already intensifying. Johnson's tenure included coverage of countless playoff runs, championship moments, and celebrity guest segments that became cultural touchstones. His departure also raises questions about the show's broader cast and whether others might follow. Turner Sports has not announced whether Inside the NBA will continue in its current format, be recast, or transition to a streaming platform. The show remains one of cable television's highest-rated regular-season programs, making its future a significant question for both Turner and the NBA."
+    },
+    {
+      "headline": "UFC Fight Night predictions: Renato Moicano vs. Tom Nolan",
+      "source": "CBS Sports · just now",
+      "article": "Renato Moicano, a seasoned lightweight, faces rising contender Tom Nolan in the UFC Fight Night main event on Saturday in Las Vegas. The matchup pits veteran experience and accumulated fight IQ against Nolan's emerging momentum and athleticism. Moicano carries significant mileage but remains dangerous in volume striking and cage control. Nolan represents a new wave of lightweight talent hungry to break into the upper rankings. The bout serves as a pivotal test for both fighters: a win for Moicano signals he remains elite; a win for Nolan accelerates his title contention timeline. Sportsbooks have installed respective odds reflecting the matchup's competitive nature. Expert picks remain split, with some favoring Moicano's experience and others backing Nolan's upside. The lightweight division continues to cycle through talent, and this fight may define which direction each fighter's trajectory heads. Expect a high pace and aggressive exchanges from both sides."
     }
   ],
   "poll": {
-    "question": "Which sports story has the most long-term impact on its league?",
+    "question": "Which sports business story will have the biggest long-term impact on the leagues involved?",
     "options": [
-      "NFL Loses Sunday Ticket Appeal, ordered to new damages trial",
-      "Russia court overturns international hockey ban",
-      "Manchester United managerial instability worsens",
-      "MLB Postseason ratings remain strong despite World Series dip"
+      "NFL antitrust verdict on Sunday Ticket pooling forcing media restructure",
+      "Nikita Kucherov trade request reshaping Tampa Bay and contender rosters",
+      "Josh Jacobs abuse allegations and potential league conduct policy review",
+      "Ernie Johnson's departure signaling Inside the NBA and Turner Sports transition"
     ]
   },
   "predictions": [
     {
-      "statement": "Daron Payne's season-ending injury will cost the Washington Commanders at least 2 wins before trade deadline, accelerating a mid-season reset.",
+      "statement": "The NFL will appeal the Sunday Ticket damages decision and fight the ruling in court for at least two more years.",
+      "probability": 72,
+      "rationale": "The league has invested heavily in defending its media model and has resources to pursue all available remedies. The 9th Circuit's reinstatement of the antitrust verdict signals a strong precedent, but damages remain unsettled and worth contesting. Expect aggressive appellate strategy."
+    },
+    {
+      "statement": "Nikita Kucherov will be traded before the 2026-27 season begins, with Tampa Bay extracting a significant asset return.",
       "probability": 68,
-      "rationale": "Payne's production at defensive tackle was foundational to Washington's pass rush. A drop-off in pressure and run defense is immediate and measurable. The Commanders' defensive scheme relied on his interior presence; backups will force coordinators to adjust coverage schemes, likely resulting in worse efficiency."
+      "rationale": "The formal trade request from a reigning MVP signals genuine dysfunction with the franchise. The Lightning's cap constraints make dealing him a practical reset. A team willing to take the salary cap hit will emerge, and the Lightning will prioritize maximum return over a protracted holdout."
     },
     {
-      "statement": "Russia will participate in the 2027 Men's Ice Hockey World Championship following the court overturning of their ban.",
-      "probability": 55,
-      "rationale": "The court lifted the legal prohibition, but federation-level and diplomatic complications remain. Host nations may impose additional barriers; the IIHF's interpretation of the ruling will determine implementation. Political pressure could still derail participation even if eligibility is restored."
+      "statement": "Josh Jacobs will be suspended or sanctioned by the NFL under the personal conduct policy before the 2026 season ends.",
+      "probability": 59,
+      "rationale": "Multiple allegations and police involvement typically trigger league investigation. While allegations do not equal guilt, the pattern and the threat allegation will likely prompt the NFL to act. The conduct policy allows discretionary review even when legal proceedings are ongoing."
     },
     {
-      "statement": "The New York City Marathon will implement a time-qualifying standard for all lottery entrants within three years to manage record demand.",
-      "probability": 71,
-      "rationale": "240,000 applications with 1% acceptance is operationally untenable for NYRR and inequitable to participants. Time standards are already de facto in effect for some elite slots; formalizing them solves logistics and preserves prestige. Major marathons (Boston, Berlin) already use qualifying times."
-    },
-    {
-      "statement": "MLB Postseason viewership will grow 3-5% next year as the league expands playoff format and concentrates broadcasts on fewer networks.",
-      "probability": 62,
-      "rationale": "Consolidated primetime scheduling (fewer competing broadcasts) and expanded wild-card slots draw broader casual audiences. The 5.49M average is strong but leaves upside if pacing improves. Fox's infrastructure and audience reach position the league well, though cable fragmentation remains headwind."
+      "statement": "Inside the NBA will continue in some form on Turner platforms (cable or Max) through at least 2027.",
+      "probability": 81,
+      "rationale": "The show remains one of cable's highest-rated programs and a cornerstone of Turner's NBA rights value. While Ernie Johnson's departure is significant, the show's format and guest-heavy structure allow for hosting transitions. Turner will work to preserve the franchise rather than abandon it entirely."
     }
   ],
   "injuries": [
     {
-      "player": "Daron Payne",
-      "team": "Washington Commanders",
-      "league": "NFL",
-      "position": "DT",
+      "player": "Lisandro Martinez",
+      "team": "Manchester United",
+      "league": "SOCCER",
+      "position": "D",
       "status": "OUT",
-      "injury": "Foot fracture",
-      "timeline": "Out for season",
-      "source": "CBS Sports",
-      "impact": "Commanders lose their primary interior pass rusher; defense must rely on backups Allen and reserves, forcing scheme adjustments.",
-      "storyIndex": 5
-    },
-    {
-      "player": "Zach Collaros",
-      "team": "Winnipeg Blue Bombers",
-      "league": "CFL",
-      "position": "QB",
-      "status": "OUT",
-      "injury": "Injury (specific diagnosis not stated)",
-      "timeline": "Out at least for East semifinal",
-      "source": "Sportsnet",
-      "impact": "Blue Bombers forced to start backup Dru Brown against Toronto's high-powered offense in CFL East semifinal.",
-      "storyIndex": 14
-    },
-    {
-      "player": "Chad Kelly",
-      "team": "Toronto Argonauts",
-      "league": "CFL",
-      "position": "QB",
-      "status": "RETURNING",
-      "injury": "Knee injury",
-      "timeline": "Expected to play in East semifinal",
-      "source": "Sportsnet",
-      "impact": "Kelly's recovery and readiness to handle Winnipeg's defense is critical to Toronto's playoff advancement from home field.",
-      "storyIndex": 14
+      "injury": "Red card suspension",
+      "timeline": "Out for next match",
+      "source": "BBC Sport",
+      "impact": "United forced to replace key defensive leader; backline vulnerable to Chelsea's attacking pressure following early ejection.",
+      "storyIndex": 4
     }
   ],
   "picks": [
@@ -5957,58 +5925,170 @@
       "_pendingGrade": true
     }
   ],
-  "updatedAt": "2026-10-30T15:42:00Z",
+  "updatedAt": "2026-04-23T18:45:00Z",
   "highlights": [
     {
       "league": "NBA",
-      "title": "SGA met his doppelgänger last Sunday 😅😆",
-      "videoId": "n_860LoDN8o",
-      "thumbnail": "https://img.youtube.com/vi/n_860LoDN8o/mqdefault.jpg",
-      "timeAgo": "1h ago",
+      "title": "VJ WAS HYPED TO DO THE &quot;LEBRON SHRUG&quot; 😂",
+      "videoId": "qHVamrCw9aU",
+      "thumbnail": "https://img.youtube.com/vi/qHVamrCw9aU/mqdefault.jpg",
+      "timeAgo": "2h ago",
       "isFallback": false
     },
     {
       "league": "NFL",
-      "title": "Bigger Threat To Broncos: Patrick Mahomes Or Kenneth Walker III?",
-      "videoId": "F1tE82J1Ixc",
-      "thumbnail": "https://img.youtube.com/vi/F1tE82J1Ixc/mqdefault.jpg",
+      "title": "Chiefs-Broncos Preview: Is Bo Nix Holding The Broncos Back?",
+      "videoId": "1gsKwxu4-mw",
+      "thumbnail": "https://img.youtube.com/vi/1gsKwxu4-mw/mqdefault.jpg",
       "timeAgo": "3h ago",
       "isFallback": false
     },
     {
       "league": "MLB",
-      "title": "Christian Yelich's Brewers career highlights! 🤩 (From 2018 All-Star to 2026 World Series champ! 🏆)",
-      "videoId": "7PqYqaogJJs",
-      "thumbnail": "https://img.youtube.com/vi/7PqYqaogJJs/mqdefault.jpg",
-      "timeAgo": "1h ago",
+      "title": "EVERY Brewers home run during the 2026 Postseason! 💪 (NLDS, NLCS and World Series! 🔥)",
+      "videoId": "EP1QFtkXjvQ",
+      "thumbnail": "https://img.youtube.com/vi/EP1QFtkXjvQ/mqdefault.jpg",
+      "timeAgo": "2h ago",
       "isFallback": false
     },
     {
       "league": "NHL",
-      "title": "Kraken vs. Flames | NHL Highlights | Oct 30, 2026",
-      "videoId": "wJw1BDJlnMQ",
-      "thumbnail": "https://img.youtube.com/vi/wJw1BDJlnMQ/mqdefault.jpg",
-      "timeAgo": "13h ago",
+      "title": "When Playing the Puck Goes Wrong 😬",
+      "videoId": "vwvwCiGLAD0",
+      "thumbnail": "https://img.youtube.com/vi/vwvwCiGLAD0/mqdefault.jpg",
+      "timeAgo": "Just now",
       "isFallback": false
     },
     {
       "league": "WNBA",
-      "title": "Point for Point: Gabby Williams x Allisha Gray",
-      "videoId": "jOTIVGgKaL4",
-      "thumbnail": "https://img.youtube.com/vi/jOTIVGgKaL4/mqdefault.jpg",
-      "timeAgo": "21h ago",
+      "title": "Reign Supreme Presented by NBA 2K: WNBA Finals ’26 Game 6",
+      "videoId": "H9hGs4MoiYM",
+      "thumbnail": "https://img.youtube.com/vi/H9hGs4MoiYM/mqdefault.jpg",
+      "timeAgo": "2h ago",
       "isFallback": false
     },
     {
       "league": "SOCCER",
-      "title": "Levante vs. Atletico Madrid | LALIGA Highlights | ESPN FC",
-      "videoId": "m9a7XJOHmKE",
-      "thumbnail": "https://img.youtube.com/vi/m9a7XJOHmKE/mqdefault.jpg",
+      "title": "Chelsea vs. Newell’s Old Boys goes to PENALTIES | Messi Cup HIGHLIGHTS | ESPN on Disney +",
+      "videoId": "qzu9v3kP3KE",
+      "thumbnail": "https://img.youtube.com/vi/qzu9v3kP3KE/mqdefault.jpg",
       "timeAgo": "1h ago",
       "isFallback": false
     }
   ],
   "reels": [
+    {
+      "league": "NHL",
+      "title": "When Playing the Puck Goes Wrong 😬",
+      "videoId": "vwvwCiGLAD0",
+      "author": "NHL",
+      "pubDate": "2026-10-31T18:33:08+00:00",
+      "link": "https://www.youtube.com/watch?v=vwvwCiGLAD0"
+    },
+    {
+      "league": "NHL",
+      "title": "David Pastrnak Passes Patrice Bergeron With Goal No. 428",
+      "videoId": "zv-NRLWFzWY",
+      "author": "NHL",
+      "pubDate": "2026-10-31T18:08:45+00:00",
+      "link": "https://www.youtube.com/watch?v=zv-NRLWFzWY"
+    },
+    {
+      "league": "SOCCER",
+      "title": "Chelsea vs. Newell’s Old Boys goes to PENALTIES | Messi Cup HIGHLIGHTS | ESPN on Disney +",
+      "videoId": "qzu9v3kP3KE",
+      "author": "ESPN FC",
+      "pubDate": "2026-10-31T17:58:08+00:00",
+      "link": "https://www.youtube.com/watch?v=qzu9v3kP3KE"
+    },
+    {
+      "league": "NHL",
+      "title": "900 Dimes and Counting for Patrick Kane 🎯📈",
+      "videoId": "McdzQSvmMHI",
+      "author": "NHL",
+      "pubDate": "2026-10-31T17:52:32+00:00",
+      "link": "https://www.youtube.com/watch?v=McdzQSvmMHI"
+    },
+    {
+      "league": "NHL",
+      "title": "David Pastrnak Passes Patrice Bergeron for 3rd All-Time in Bruins Goals",
+      "videoId": "Zqf-FCgOxM0",
+      "author": "NHL",
+      "pubDate": "2026-10-31T17:41:07+00:00",
+      "link": "https://www.youtube.com/watch?v=Zqf-FCgOxM0"
+    },
+    {
+      "league": "NHL",
+      "title": "Patrick Kane notches assist #900!",
+      "videoId": "WUzf5H_avhU",
+      "author": "NHL",
+      "pubDate": "2026-10-31T17:31:53+00:00",
+      "link": "https://www.youtube.com/watch?v=WUzf5H_avhU"
+    },
+    {
+      "league": "NBA",
+      "title": "VJ WAS HYPED TO DO THE &quot;LEBRON SHRUG&quot; 😂",
+      "videoId": "qHVamrCw9aU",
+      "author": "NBA",
+      "pubDate": "2026-10-31T17:09:53+00:00",
+      "link": "https://www.youtube.com/watch?v=qHVamrCw9aU"
+    },
+    {
+      "league": "NBA",
+      "title": "Halloween, but make it SGA 🔥 (via michellemassiehomes/TT)",
+      "videoId": "9Gxjr9lh1A0",
+      "author": "NBA",
+      "pubDate": "2026-10-31T17:03:23+00:00",
+      "link": "https://www.youtube.com/watch?v=9Gxjr9lh1A0"
+    },
+    {
+      "league": "MLB",
+      "title": "EVERY Brewers home run during the 2026 Postseason! 💪 (NLDS, NLCS and World Series! 🔥)",
+      "videoId": "EP1QFtkXjvQ",
+      "author": "MLB",
+      "pubDate": "2026-10-31T17:00:28+00:00",
+      "link": "https://www.youtube.com/watch?v=EP1QFtkXjvQ"
+    },
+    {
+      "league": "WNBA",
+      "title": "Reign Supreme Presented by NBA 2K: WNBA Finals ’26 Game 6",
+      "videoId": "H9hGs4MoiYM",
+      "author": "WNBA",
+      "pubDate": "2026-10-31T16:53:02+00:00",
+      "link": "https://www.youtube.com/watch?v=H9hGs4MoiYM"
+    },
+    {
+      "league": "NBA",
+      "title": "A Brunson Halloween 🎃 (via foodbabyny/IG)",
+      "videoId": "z3wV5ga7Mzg",
+      "author": "NBA",
+      "pubDate": "2026-10-31T16:50:55+00:00",
+      "link": "https://www.youtube.com/watch?v=z3wV5ga7Mzg"
+    },
+    {
+      "league": "NBA",
+      "title": "Memphis: Only Unbeaten Team Left &amp; They seek 6-0 tonight",
+      "videoId": "M3zbcBcjgrk",
+      "author": "NBA",
+      "pubDate": "2026-10-31T16:30:05+00:00",
+      "link": "https://www.youtube.com/watch?v=M3zbcBcjgrk"
+    },
+    {
+      "league": "NFL",
+      "title": "Chiefs-Broncos Preview: Is Bo Nix Holding The Broncos Back?",
+      "videoId": "1gsKwxu4-mw",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-10-31T16:00:29+00:00",
+      "link": "https://www.youtube.com/watch?v=1gsKwxu4-mw"
+    },
+    {
+      "league": "NBA",
+      "title": "LeBron, Steph, Kyrie, KD &amp; Klay Take Over Opening Night of the 2026 @emirates NBA Cup 🏆",
+      "videoId": "j0iu6i2Dd44",
+      "author": "NBA",
+      "pubDate": "2026-10-31T15:46:55+00:00",
+      "link": "https://www.youtube.com/watch?v=j0iu6i2Dd44"
+    },
     {
       "league": "SOCCER",
       "title": "Levante vs. Atletico Madrid | LALIGA Highlights | ESPN FC",
@@ -6050,30 +6130,6 @@
       "link": "https://www.youtube.com/watch?v=l0TMFKd4Ivc"
     },
     {
-      "league": "NBA",
-      "title": "Wemby's favorite book? 🤔 His teammate knew the answer...",
-      "videoId": "1uvXlC4f7sE",
-      "author": "NBA",
-      "pubDate": "2026-10-31T14:30:16+00:00",
-      "link": "https://www.youtube.com/watch?v=1uvXlC4f7sE"
-    },
-    {
-      "league": "NBA",
-      "title": "Wemby LOVES a good Halloween costume 😏",
-      "videoId": "LnUBhAeU1b4",
-      "author": "NBA",
-      "pubDate": "2026-10-31T14:21:07+00:00",
-      "link": "https://www.youtube.com/watch?v=LnUBhAeU1b4"
-    },
-    {
-      "league": "NBA",
-      "title": "Spooky season is upon us",
-      "videoId": "M91mayhLDNA",
-      "author": "NBA",
-      "pubDate": "2026-10-31T14:13:50+00:00",
-      "link": "https://www.youtube.com/watch?v=M91mayhLDNA"
-    },
-    {
       "league": "MLB",
       "title": "LONGEST home runs of the 2026 Postseason!",
       "videoId": "duq3TG4o20k",
@@ -6104,22 +6160,6 @@
       "author": "NFL on ESPN",
       "pubDate": "2026-10-31T13:00:10+00:00",
       "link": "https://www.youtube.com/watch?v=F1tE82J1Ixc"
-    },
-    {
-      "league": "NBA",
-      "title": "NBA's Nightly Recap | October 30, 2026",
-      "videoId": "vkO61UGRuZs",
-      "author": "NBA",
-      "pubDate": "2026-10-31T06:39:21+00:00",
-      "link": "https://www.youtube.com/watch?v=vkO61UGRuZs"
-    },
-    {
-      "league": "NBA",
-      "title": "NBA's Top 10 Plays of the Night | October 30, 2026",
-      "videoId": "3A-KG4CvN2s",
-      "author": "NBA",
-      "pubDate": "2026-10-31T06:19:09+00:00",
-      "link": "https://www.youtube.com/watch?v=3A-KG4CvN2s"
     },
     {
       "league": "MLB",
@@ -6154,44 +6194,12 @@
       "link": "https://www.youtube.com/watch?v=XaWTUuHOt8U"
     },
     {
-      "league": "NHL",
-      "title": "Spin Cycle Activated 🔄",
-      "videoId": "RXPFct1w4Uw",
-      "author": "NHL",
-      "pubDate": "2026-10-31T00:43:49+00:00",
-      "link": "https://www.youtube.com/watch?v=RXPFct1w4Uw"
-    },
-    {
-      "league": "NHL",
-      "title": "Hayden Hodgson suspended two games for boarding",
-      "videoId": "Zw8nwlUF2dI",
-      "author": "NHL",
-      "pubDate": "2026-10-31T00:28:09+00:00",
-      "link": "https://www.youtube.com/watch?v=Zw8nwlUF2dI"
-    },
-    {
       "league": "SOCCER",
       "title": "Flamengo vs. Barcelona | Messi Cup Highlights | ESPN on Disney+",
       "videoId": "mFNLOG-zGEQ",
       "author": "ESPN FC",
       "pubDate": "2026-10-30T23:58:29+00:00",
       "link": "https://www.youtube.com/watch?v=mFNLOG-zGEQ"
-    },
-    {
-      "league": "NHL",
-      "title": "Well exHughes me 🤮",
-      "videoId": "JHvX2B8zUhI",
-      "author": "NHL",
-      "pubDate": "2026-10-30T23:43:55+00:00",
-      "link": "https://www.youtube.com/watch?v=JHvX2B8zUhI"
-    },
-    {
-      "league": "NHL",
-      "title": "Jack Hughes WALKS Mark Stone for FILTHY GOAL!",
-      "videoId": "ETOiyvkgIXU",
-      "author": "NHL",
-      "pubDate": "2026-10-30T23:29:02+00:00",
-      "link": "https://www.youtube.com/watch?v=ETOiyvkgIXU"
     },
     {
       "league": "NFL",
@@ -6216,14 +6224,6 @@
       "author": "ESPN FC",
       "pubDate": "2026-10-30T22:51:16+00:00",
       "link": "https://www.youtube.com/watch?v=PH2PB_jLKok"
-    },
-    {
-      "league": "NHL",
-      "title": "More goals than Jack and Quinn btw...",
-      "videoId": "wLRLfDddTrA",
-      "author": "NHL",
-      "pubDate": "2026-10-30T22:41:52+00:00",
-      "link": "https://www.youtube.com/watch?v=wLRLfDddTrA"
     },
     {
       "league": "SOCCER",
@@ -6274,14 +6274,6 @@
       "link": "https://www.youtube.com/watch?v=8Rsda8H7J-Q"
     },
     {
-      "league": "SOCCER",
-      "title": "Can Michael Carrick lead man United to a win against Chelsea? | ESPN FC",
-      "videoId": "tvVhsNa-BIw",
-      "author": "ESPN FC",
-      "pubDate": "2026-10-30T21:38:33+00:00",
-      "link": "https://www.youtube.com/watch?v=tvVhsNa-BIw"
-    },
-    {
       "league": "NFL",
       "title": "Week 8 PREDICTIONS 🍿 Ravens vs. Bills, Browns vs. Steelers, Vikings vs. Lions &amp; more | NFL Live",
       "videoId": "clxI0VgdYFg",
@@ -6304,30 +6296,6 @@
       "author": "MLB",
       "pubDate": "2026-10-30T21:10:29+00:00",
       "link": "https://www.youtube.com/watch?v=QQsRx-igoWc"
-    },
-    {
-      "league": "NFL",
-      "title": "Sean McDermott's dog Champ CRASHES interview + TNF reaction &amp; Bears-Seahawks | The Rich Eisen Show",
-      "videoId": "mpk-0ExTuug",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-10-30T21:04:22+00:00",
-      "link": "https://www.youtube.com/watch?v=mpk-0ExTuug"
-    },
-    {
-      "league": "NFL",
-      "title": "How Hot Reads and Sight Adjusts Could Decide Vikings vs. Lions",
-      "videoId": "cmVzSkwbXCg",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-10-30T21:00:14+00:00",
-      "link": "https://www.youtube.com/watch?v=cmVzSkwbXCg"
-    },
-    {
-      "league": "MLB",
-      "title": "&quot;I could throw 70 mph!&quot; Kendall Vertes &amp; Ryleigh McClure trade STRONG takes at the World Series",
-      "videoId": "G59eOMFGl7E",
-      "author": "MLB",
-      "pubDate": "2026-10-30T20:00:00+00:00",
-      "link": "https://www.youtube.com/watch?v=G59eOMFGl7E"
     }
   ]
 }
