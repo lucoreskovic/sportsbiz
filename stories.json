@@ -1,73 +1,81 @@
 {
   "clusters": [
     {
-      "category": "revenue",
-      "importance": 9,
-      "leadHeadline": "LIV to wind down after backers withdraw support",
-      "leadSource": "BBC Sport · 4h ago",
-      "leadUrl": "https://www.bbc.co.uk/sport/golf/articles/cq70pdjjgy5no?at_medium=RSS&amp;at_campaign=rss",
-      "summary": "<cite index=\"1-3\">LIV Golf is preparing to wind down operations after BC Partners concluded it had run out of time to make a \"LIV 2.0\" viable</cite>, with <cite index=\"12-1\">a bankruptcy hearing on Thursday in New Jersey</cite>.",
-      "article": "<cite index=\"1-2\">BC Partners, which provides financing to middle-market companies, is dropping its bid to relaunch LIV Golf due to an inability to secure enough player commitments</cite>.\n\n<cite index=\"1-6\">In October, BC Partners made an initial investment in LIV Golf and planned to provide up to $300 million in financing to help the league emerge from restructuring and strengthen its finances ahead of the 2027 season</cite>. <cite index=\"2-4\">BC Partners's decision came as a deadline loomed to show there was enough player support to hold a tournament series in 2027</cite>.\n\nThe firm pulled out after <cite index=\"19-6\">negotiations with golfers dragged, despite about 30 being committed and another 10 still considering it</cite>. <cite index=\"1-7\">LIV Golf failed to secure contractual commitments with DeChambeau and Johnson as well as others including Cam Smith and Joaquin Niemann</cite>. <cite index=\"19-8\">Top stars like Jon Rahm, Sergio Garcia, Tyrrell Hatton and Ian Poulter said they weren't coming back and will play on the DP World Tour next season instead</cite>.\n\n<cite index=\"4-3\">LIV filed for Chapter 11 bankruptcy protection in September after its Saudi investors confirmed plans to withdraw funding after the 2026 season</cite>. <cite index=\"4-9\">The Public Investment Fund ultimately plunged more than $5 billion into LIV</cite>.\n\n<cite index=\"4-6\">People involved in the case expect LIV to pivot to a liquidation</cite>. <cite index=\"13-5\">LIV Golf is set to appear in U.S. bankruptcy court on Thursday, Nov. 5 for a previously scheduled hearing related to the status of its case</cite>.",
+      "category": "media",
+      "importance": 8,
+      "leadHeadline": "WNBA has most-watched playoffs since inaugural season",
+      "leadSource": "Sports Media Watch · 6h ago",
+      "leadUrl": "https://www.sportsmediawatch.com/2026/11/wnba-playoffs-most-watched-since-inaugural-season/",
+      "summary": "WNBA playoffs averaged 1.49M viewers in 2026, the most since 1997, with Game 7 drawing a record 3.3M as Golden State beat Atlanta 68-63.",
+      "article": "<cite index=\"23-4\">The 2026 WNBA Playoffs averaged 1.49 million viewers across NBCUniversal, USA Sports, ESPN/ABC and Prime Video, up 27% from last year and the most-watched postseason since the inaugural year of the league in 1997.</cite>\n\n<cite index=\"10-2\">The WNBA Finals' first Game 7—in which the Golden State Valkyries defeated the Atlanta Dream—drew 3.3 million viewers.</cite> <cite index=\"5-3\">It marks the largest audience on record for any WNBA playoff game, surpassing the 1999 Liberty-Comets Finals Game 3 (3.25M).</cite>\n\n<cite index=\"13-2\">The Valkyries won the series 68-63</cite> on <cite index=\"3-4\">Saturday, Oct. 31, on USA Network, CNBC and Peacock.</cite> <cite index=\"10-8,10-9\">Gabby Williams led Golden State with 30 points, including a WNBA postseason-record 28 second-half points.</cite>\n\n<cite index=\"1-3\">The seven-game Valkyries-Dream Finals averaged 1.88 million, up 30% from last year's four-game Aces-Mercury sweep.</cite> <cite index=\"3-7\">All seven games sold out, setting WNBA Finals records for total attendance at 123,553 and average attendance at 17,650.</cite>",
+      "tweets": [
+        {
+          "url": "https://twitter.com/WNBAComms/status/2117765723883974913",
+          "html": "<blockquote class=\"twitter-tweet\" data-dnt=\"true\" data-theme=\"dark\"><p>Game 7 of the 2026 WNBA Finals between @AtlantaDream and @valkyries on USA Sports’ coverage is now the most-watched WNBA Playoff game ever, averaging 3.3 million viewers!</p>&mdash; WNBA Communications (@WNBAComms) <a href=\"https://twitter.com/WNBAComms/status/2117765723883974913\">November 3, 2026</a></blockquote>",
+          "author_name": "WNBA Communications",
+          "author_url": "https://twitter.com/WNBAComms",
+          "dateMs": 1793749669000
+        }
+      ]
+    },
+    {
+      "category": "contracts",
+      "importance": 7,
+      "leadHeadline": "England captain Kane signs new Bayern contract",
+      "leadSource": "BBC Sport · 2h ago",
+      "leadUrl": "https://www.bbc.co.uk/sport/football/articles/cmjweqpv8vj1o?at_medium=RSS&amp;at_campaign=rss",
+      "summary": "Harry Kane extended his Bayern Munich contract through 2029, cementing his long-term commitment to the Bundesliga club. The deal length represents a significant statement from both player and club after his 2023 arrival.",
+      "article": "Harry Kane, England's captain, signed a contract extension with Bayern Munich that runs through 2029. The deal extends Kane's tenure at the Bundesliga side well into his mid-thirties, anchoring Bayern's forward line for the remainder of the decade. Kane moved to Munich in September 2023 and has since become a primary goal scorer for the club in continental and domestic play. The extension removes uncertainty about his future and signals Bayern's confidence in retaining a marquee attacker in an increasingly competitive transfer market. For Kane, the move locks in stability at a top-tier European club outside the Premier League, a choice that reflects his prioritization of consistent playing time and European competition over a return to England. The contract runs six seasons from signature, a relatively long commitment for a player already past 30, indicating both parties expect sustained performance and minimal injury disruption.",
       "tweets": []
     },
     {
-      "category": "revenue",
-      "importance": 8,
-      "leadHeadline": "Athlete-Lender Sure Sports Files for Chapter 11 Bankruptcy Protection",
-      "leadSource": "Sportico · 7h ago",
-      "leadUrl": "https://www.sportico.com/business/finance/2026/sure-sports-files-chapter-11-bankruptcy-protection-mlb-lockout-1234957488/",
-      "summary": "Sure Sports, a Hollywood-based firm that advances loans to athletes against future contract earnings, filed for Chapter 11 bankruptcy protection under Subchapter V, signaling distress in the athlete-lending market.",
-      "article": "Sure Sports, the athlete-lending firm, filed for Chapter 11 bankruptcy protection Monday under Subchapter V, a simplified reorganization process for eligible small businesses, per Sportico. The Hollywood, Florida-based company specializes in lending money to athletes against the value of their professional contracts and endorsement deals.\n\nThe bankruptcy is a bellwether for the athlete-lending sector, which expanded rapidly as NIL (name, image, likeness) deals proliferated and professional athletes sought to monetize future earnings. Sure Sports operated in a crowded market alongside competitors offering cash advances, deferred compensation, and contract-backed loans to players across the NFL, NBA, MLB, and international sports.\n\nSubchapter V bankruptcy allows small enterprises to remain operational while restructuring debt. The filing suggests Sure Sports faced liquidity challenges or loan defaults from athlete-clients, though the specific triggers are not detailed in available filings. The athlete-lending market has faced headwinds as the NIL boom has moderated and athletes have become more cautious about taking on debt obligations.\n\nThe collapse of Sure Sports follows broader turbulence in sports finance, including the near-implosion of LIV Golf, which is winding down after its backing evaporated. Both underscore rising strain on alternative-financing models in sports at a moment when traditional institutional capital is tightening.",
+      "category": "leagues",
+      "importance": 6,
+      "leadHeadline": "FIFA boss Gianni Infantino accused of abuse of power over VIP Miami airport perks for wife, kids: experts",
+      "leadSource": "NY Post Sports · just now",
+      "leadUrl": "https://nypost.com/2026/11/05/business/fifas-gianni-infantino-accused-of-abuse-of-power-over-vip-miami-airport-perks-for-wife-kids-experts/",
+      "summary": "FIFA chief Gianni Infantino is facing ethics scrutiny over red-carpet protocol treatment granted to his family at Miami International Airport at the governing body's expense. Legal experts flagged potential abuse-of-power violations under FIFA's code of conduct.",
+      "article": "Gianni Infantino, FIFA's president, is under ethics review after his wife, daughters and dogs received red-carpet protocol treatment at Miami International Airport on FIFA's dime, per the NY Post. Legal experts cited the arrangement as a potential abuse-of-power violation under FIFA's own governance and ethics rules. The treatment reportedly included expedited terminal access and VIP handling typically reserved for heads of state or diplomatic delegations, raising questions about the appropriate use of FIFA resources. Infantino has faced prior ethics inquiries over travel expenses and governance decisions during his tenure, which began in 2016. This incident arrives amid broader scrutiny of FIFA's financial management and internal controls following controversies over World Cup bidding, sponsorship conflicts and administrative spending. The specific arrangement with Miami airport suggests either a FIFA-sponsored protocol or coordination through diplomatic channels, either of which presents governance complications for a sports federation. No disciplinary action has been announced, but the timing compounds existing questions about whether FIFA's leadership is adequately separate from the organization's operational and financial decision-making.",
       "tweets": []
     },
     {
       "category": "media",
-      "importance": 7,
-      "leadHeadline": "Another 'miracle' in Istanbul - but this one hurt Liverpool",
-      "leadSource": "BBC Sport · 4h ago",
-      "leadUrl": "https://www.bbc.co.uk/sport/football/articles/cwx28z712rd8o?at_medium=RSS&amp;at_campaign=rss",
-      "summary": "Liverpool suffered a rare European defeat to Fenerbahce in Istanbul, conceding what manager Andoni Iraola called 'cheap' and 'messy' goals in a loss that marks a setback in their Champions League campaign.",
-      "article": "Liverpool lost to Fenerbahce in Istanbul in a Champions League match, per BBC Sport, ending their unbeaten run in European competition and handing the Turkish club a prized scalp. Manager Andoni Iraola criticized his side's defending, describing the goals conceded as 'cheap' and 'messy.'\n\nThe loss is notable for Liverpool's typically strong record in European play under Iraola, who took over the club in the offseason. Fenerbahce, managed by former Liverpool player Dirk Kuyt, celebrated what he termed a 'miracle' in Istanbul, underscoring the magnitude of the upset for the Turkish club.\n\nLiverpool's unbeaten streak in Europe is a meaningful statistic. Under Iraola, the Reds have been competitive across all competitions, but the Istanbul loss exposes defensive vulnerabilities in away fixtures against high-pressing opponents. The defeat leaves Liverpool needing strong results in remaining Champions League group matches to secure favorable positioning in the league phase.\n\nFenerbahce, a storied Turkish club, has invested significantly in recent seasons and hired Kuyt, the Dutch winger who spent six years at Liverpool, as their manager. The win provides the Turkish league some validation in European competition and gives Fenerbahce momentum in a competitive Champions League group.\n\nLiverpool will look to respond in their next European fixture.",
+      "importance": 6,
+      "leadHeadline": "Viktor Gyökeres the difference as Arsenal claim nervy win against Slavia Prague",
+      "leadSource": "The Guardian · 12h ago",
+      "leadUrl": "https://www.theguardian.com/football/2026/nov/04/slavia-prague-arsenal-champions-league-match-report",
+      "summary": "Arsenal beat Slavia Prague in a European away match, with Viktor Gyökeres providing the decisive moments despite Prague's late comeback attempt. Arsenal extended their European unbeaten streak while Slavia matched a 23-match winless record.",
+      "article": "Arsenal claimed a narrow victory over Slavia Prague in a Champions League match, with Viktor Gyökeres the difference-maker in a tense affair. Slavia mounted a spirited late comeback but fell short, leaving the Czech side in unwanted historical company: they matched the longest winless streak in European Cup and Champions League history at 23 matches, equalling the mark held by AEK Athens and FCSB (formerly Steaua Bucharest). Arsenal remained unbeaten in European away matches, extending a run that reflects their current continental form. The narrow margin indicated Slavia posed a genuine threat despite their struggling record, a sign that inconsistency rather than pure quality separated the sides. For Arsenal, the result keeps them in contention in their European campaign. For Slavia, the 23-match streak underscores a crisis that extends beyond a single competition or campaign, suggesting systemic issues in their squad construction or coaching.",
       "tweets": []
     },
     {
-      "category": "leagues",
-      "importance": 7,
-      "leadHeadline": "Viktor Gyökeres the difference as Arsenal claim nervy win against Slavia Prague",
-      "leadSource": "The Guardian · 5h ago",
-      "leadUrl": "https://www.theguardian.com/football/2026/nov/04/slavia-prague-arsenal-champions-league-match-report",
-      "summary": "Arsenal won on the road against Slavia Prague in the Champions League, with Viktor Gyökeres' performance providing the difference as Slavia equaled a 23-game winless streak in European Cup and Champions League history.",
-      "article": "Arsenal defeated Slavia Prague in a Champions League away fixture, per The Guardian, with Viktor Gyökeres' play proving decisive. The victory extends Arsenal's unbeaten run in European competition, though the match was contested enough that Slavia mounted a late comeback threat.\n\nThe broader story attached to the match involves Slavia Prague's historic futility in the competition. The Czech club matched the longest winless streak in European Cup and Champions League history at 23 matches, equaling the records held by AEK Athens and FCSB (formerly Steaua Bucharest). For a club with Slavia's pedigree and continental history, that streak underscores years of struggle against elite European opponents.\n\nArsenal's away performance in Europe has been a hallmark of Mikel Arteta's tenure. The Gunners have built a reputation for winning difficult matches in foreign stadiums, a trait that has sustained them through group stages and is critical as the Champions League shifts to a league-phase format where away form matters throughout the season.\n\nGyökeres' contribution to the match result was enough to break Slavia's resistance despite their late pressure. Arsenal's ability to secure away wins against clubs fighting for relevance in Europe is exactly the kind of result that separates contenders from pretenders in the competition's revised structure.",
+      "category": "labor",
+      "importance": 5,
+      "leadHeadline": "NFL Week 9 injury report: Micah Parsons returns to Packers practice, Rams lose Jaylen Watson for season",
+      "leadSource": "CBS Sports · 7h ago",
+      "leadUrl": "https://www.cbssports.com/nfl/news/nfl-week-9-injury-report-micah-parsons-jaylen-watson-rams/",
+      "summary": "Micah Parsons opened his 21-day practice window after injury, signaling potential return for Green Bay, while the Rams' loss of Jaylen Watson for the season reshapes their defensive secondary. Multiple starting quarterbacks entered Week 9 injured or limited.",
+      "article": "Micah Parsons returned to Packers practice on a 21-day window, moving closer to active status after injury sidelined him. The Green Bay defense adds reinforcement if Parsons clears the evaluation period and receives medical clearance to play. Jaylen Watson was placed on injured reserve for the Rams, ending his 2026 season and forcing a secondary reshuffle. The loss removes a starting cornerback from a defense already strained by midseason injuries. Entering Week 9, several starting quarterbacks navigated injury concerns or limitations: Sam Darnold and Deshaun Watson both carried injury designations, while Jackson was also among the notable QB availability questions. The quarterback injuries add volatility to the matchups entering the weekend, with potential last-minute status updates and roster depth tested across multiple teams.",
       "tweets": []
     },
     {
       "category": "contracts",
-      "importance": 6,
-      "leadHeadline": "NFL Week 9 injury report: Micah Parsons returns to Packers practice, Rams lose Jaylen Watson for season",
-      "leadSource": "CBS Sports · 2h ago",
-      "leadUrl": "https://www.cbssports.com/nfl/news/nfl-week-9-injury-report-micah-parsons-jaylen-watson-rams/",
-      "summary": "Micah Parsons opened his 21-day practice window with the Packers while the Rams lost cornerback Jaylen Watson for the season, as multiple notable QBs including Jackson, Darnold, and Deshaun Watson enter Week 9 with injury concerns.",
-      "article": "Micah Parsons has opened his 21-day practice window and returned to Green Bay Packers practice, per CBS Sports, marking the beginning of his potential return timeline from injury. The defensive end was acquired by Green Bay in a high-profile midseason trade and had missed time with his injury sustained before the trade.\n\nThe Rams' loss is more definitive: cornerback Jaylen Watson is out for the season with an injury, a significant blow to a secondary that has struggled this season. Watson's absence forces Los Angeles to lean on secondary depth in the stretch run of the season.\n\nMultiple prominent quarterbacks headline the Week 9 injury report. Jackson (Baltimore Ravens), Sam Darnold (Minnesota Vikings), and Deshaun Watson (Cleveland Browns) are all dealing with injuries that will factor into game-day decisions or availability heading into the weekend. Jackson's status is particularly relevant given the Ravens' division positioning; Darnold's absence would test Minnesota's backup depth; and Watson's condition affects Cleveland's playoff calculus.\n\nParsons' 21-day window means the Packers can activate him anytime over the next three weeks, giving them flexibility as they pursue a playoff push. His potential return would bolster a defense that has needed reinforcement. The Rams, by contrast, must absorb Watson's loss and adjust their secondary rotation for the remainder of the season.",
+      "importance": 4,
+      "leadHeadline": "UNC Paid $914K for Football Probe That Began Earlier Than Known",
+      "leadSource": "Sportico · 6h ago",
+      "leadUrl": "https://www.sportico.com/leagues/college-sports/2026/unc-lombardi-belichick-investigation-legal-fees-1234957525/",
+      "summary": "The University of North Carolina spent over $914,000 on an external investigation into allegations against football general manager Michael Lombardi and defensive coordinator Steve Belichick. Public records reveal the probe timeline differs from UNC's prior public statements.",
+      "article": "UNC paid outside law firms $914,000 to investigate allegations against football general manager Michael Lombardi and defensive coordinator Steve Belichick, per public records obtained by Sportico. The records also raise questions about when UNC was initially made aware of the alleged conduct, suggesting the timeline differs from what the university previously disclosed publicly. The investigation cost underscores the financial exposure universities face when addressing misconduct allegations at the program level. The specific details of what was alleged against Lombardi and Belichick remain unclear from available reporting, but external investigations of this scale and expense typically follow serious allegations of improper conduct, financial irregularities, or violations of NCAA rules. For UNC, the disclosure adds scrutiny to how the school managed the situation internally and what information it shared with the public compared to what it knew internally. The discrepancy in timeline is particularly sensitive given the ongoing regulatory environment around college football and NCAA enforcement.",
       "tweets": []
     },
     {
       "category": "leagues",
-      "importance": 5,
-      "leadHeadline": "Adam Fox's extra power-play duties only adding to his Rangers value in stellar start to season",
-      "leadSource": "NY Post Sports · just now",
-      "leadUrl": "https://nypost.com/2026/11/04/sports/adam-foxs-extra-power-play-duties-only-adding-to-his-rangers-value-in-stellar-start-to-season/",
-      "summary": "Adam Fox, the Rangers' All-Star defenseman, is on pace for 99 points this season with expanded power-play minutes, which would shatter his previous career high of 74.",
-      "article": "Adam Fox is pacing toward 99 points for the New York Rangers this season if the current trajectory holds, per the New York Post. The figure would demolish his prior career high of 74 points and would rank among the elite seasons by a defenseman in modern NHL history.\n\nFox's elevated production stems partly from increased power-play responsibilities. The Rangers, entering the quarter-mark of their 84-game season, have deployed Fox more frequently in special-teams situations, recognizing his puck-moving ability and his value in up-tempo offensive scenarios.\n\nThe Rangers signed Fox to an eight-year, $80 million deal in the offseason, making him one of the league's highest-paid defensemen. A 99-point season would provide clear return on that investment and would strengthen New York's case for contention in a competitive Eastern Conference. Fox's combination of steady regular-season production and playoff experience makes him a cornerstone asset for the franchise.\n\nA defenseman consistently producing at a 99-point pace would place him in historical company. For context, only a handful of rearguards have ever eclipsed 85-90 points in a single season, making Fox's current pace remarkably rare. The Rangers' ability to funnel him offensive opportunities while protecting his defensive responsibilities is a win-win allocation of ice time.",
-      "tweets": []
-    },
-    {
-      "category": "leagues",
-      "importance": 5,
+      "importance": 3,
       "leadHeadline": "Strauss Wavers on World Hockey Tournament Tie-in If Russia Plays",
-      "leadSource": "Sportico · 11h ago",
+      "leadSource": "Sportico · 19h ago",
       "leadUrl": "https://www.sportico.com/business/sponsorship/2026/strauss-russia-international-hockey-tournament-1234957448/",
-      "summary": "German workwear brand Strauss is threatening to reduce its involvement in the 2027 IIHF World Championship in Germany if the Russian national hockey team participates, raising political tensions over the tournament.",
-      "article": "German workwear and utility brand Strauss has threatened to scale back its partnership commitment to the 2027 IIHF World Championship in Germany next May if Russia's national hockey team is allowed to compete, per Sportico.\n\nStrauss, which has been a long-standing partner of the Ice Hockey World Championship, said it values its collaboration with the IIHF but signaled that its involvement hinges on the federation's decision regarding Russian participation. The statement reflects broader geopolitical pressure on sports organizations regarding Russian athletes and teams in the wake of the invasion of Ukraine.\n\nThe IIHF has navigated competing pressures on Russia's participation. The International Olympic Committee's framework allows Russian athletes to compete as neutrals in some contexts, but international federations have made different calls based on their governance structures and stakeholder pressure. Hockey federations in Europe and North America have largely opposed Russian participation in sanctioned competitions.\n\nStrauss's ultimatum puts the IIHF in a bind. Loss of a major partner's sponsorship support ahead of a World Championship in Germany would create significant revenue and logistics challenges. The federation will have to weigh the political and commercial costs of including Russia against the risk of losing institutional partners.\n\nThis marks another instance of sports sponsors leveraging their commercial commitments to influence governance decisions on sensitive political issues, a trend that has accelerated in recent years.",
+      "summary": "Strauss, a German workwear brand and longstanding partner of the Ice Hockey World Championship, threatened to reduce involvement in the 2027 IIHF tournament in Germany if Russia competes. The move reflects geopolitical pressure on sports sponsorships post-invasion.",
+      "article": "Strauss, a German utility and workwear company that has sponsored the Ice Hockey World Championship for years, signaled it may decrease sponsorship involvement at the 2027 edition if Russia's national team participates. The IIHF World Championship is scheduled for Germany in May 2027. Strauss cited its long partnership with the tournament but made clear that continued support hinges on roster eligibility decisions. The threat reflects broader sponsor pressure on international sports governing bodies to restrict Russian participation following the 2022 invasion of Ukraine. Sponsors face domestic political and consumer backlash for associating with events that include Russian teams or athletes, creating a commercial disincentive for partnerships. For the IIHF, the ultimatum from a major regional sponsor complicates the federation's position on Russian eligibility. Other international sports bodies have navigated similar pressures with mixed approaches: some have banned Russian entries outright, others have permitted competition under neutral flags, and still others have allowed participation with conditions. A German-based sponsor carrying geopolitical weight adds domestic political weight to the IIHF's decision.",
       "tweets": []
     }
   ],
@@ -2394,78 +2402,78 @@
   "deals": [],
   "ratings": [
     {
-      "event": "WNBA Finals Game 7 (Dream vs. Valkyries)",
-      "network": "USA Network, CNBC",
-      "viewers_m": 3.28,
+      "event": "2026 WNBA Playoffs",
+      "network": "NBCUniversal/USA Sports/ESPN/ABC/Prime V",
+      "viewers_m": 1.49,
       "peak_viewers_m": null,
       "league": "OTHER",
-      "storyIndex": 15,
-      "context": "One of the league's largest audiences, delivering cable's top sports viewership on a college football Saturday.",
-      "capturedAt": "2026-11-05T02:59:16.997Z"
+      "storyIndex": 7,
+      "context": "Most-watched WNBA postseason since inaugural 1996 season, driven by first Game 7 in league history.",
+      "capturedAt": "2026-11-05T10:25:30.441Z"
     }
   ],
   "ticket_prices": [],
   "sidebar": [
     {
-      "headline": "Geno Smith dials up shot at historically great Jets season with one potential hurdle",
-      "source": "NY Post Sports · just now",
-      "article": "Geno Smith, drafted by the Jets in 2013, is positioned to lead New York into contention for one of the franchise's strongest seasons in recent memory. Smith has deep roots at the organization and understands the weight of Jets history. The question is whether New York's roster can sustain the early-season momentum required to challenge atop the AFC East. Smith's arm strength and decision-making have improved markedly since his arrival, but a late-season injury or inconsistent offensive-line play could derail the Jets' trajectory. For a franchise starved for sustained excellence, Smith represents the present-day hope that those historic names in the Jets' past can be equaled."
+      "headline": "Raptors fold late against Nuggets after strong start",
+      "source": "Sportsnet · 4h ago",
+      "article": "Toronto looked sharp out of the gate against Denver on Thursday but crumbled in the third quarter, surrendering the lead and never recovering. The collapse cost them the game, extending a troubling pattern of inconsistent effort and execution across four quarters. For a team chasing playoff positioning, losses to elite competition in this manner carry real consequences, especially when early success gives way to a defensive breakdown."
     },
     {
-      "headline": "Malachi Toney expected to undergo surgery after injuring ankle in practice ahead of showdown with Notre Dame",
-      "source": "CBS Sports · 1h ago",
-      "article": "Malachi Toney, a key college football player, is expected to undergo surgery for an ankle injury sustained in practice ahead of a major matchup with Notre Dame. There is hope within the program that the injury will not be season-ending, though surgery typically sidelines players for several weeks of rehabilitation. Toney's absence would reshape offensive production for his team during the stretch run of the college season. The timing is unfortunate given the proximity to the Notre Dame game, one of the marquee fixtures on the schedule. A successful recovery could see him return later in the season, but clarity on his status will come only after the surgical procedure and subsequent evaluation."
+      "headline": "MLB Network keeps Intentional Talk after reported cancellation",
+      "source": "Sports Media Watch · 13h ago",
+      "article": "The afternoon talk show Intentional Talk will continue airing on MLB Network, reversing a decision to cancel the program after the postseason. MLB Network reconsidered the move and opted to keep the show in its lineup, citing audience stability and the program's role in the network's daily content strategy. The reversal came after initial plans announced the final episode would air Wednesday."
     },
     {
-      "headline": "Maple Leafs Nylander piling up points but says he needs to do more",
-      "source": "Sportsnet · 6h ago",
-      "article": "William Nylander is producing offensively for the Toronto Maple Leafs but has acknowledged that individual performance must translate to team success. The Maple Leafs' roster construction relies on two lines carrying the offensive load, creating pressure on Nylander and his teammates to execute at elite efficiency. Despite his point totals, Nylander recognizes gaps in his all-around game, whether on the penalty kill, in defensive positioning, or consistency through high-leverage moments. The Leafs' quest for a Stanley Cup run hinges on depth scoring and secondary contributors stepping up, roles Nylander could occupy more effectively."
+      "headline": "LIV Golf's $300M BC Partners deal falls through as bankruptcy hearing looms",
+      "source": "Front Office Sports · 13h ago",
+      "article": "LIV Golf's planned $300 million credit facility with BC Partners has collapsed, leaving the Saudi-backed league without the capital infusion needed to stabilize operations. The deal's failure sets up a critical Thursday bankruptcy hearing that will determine LIV's path forward, with limited alternatives apparent for securing funding at scale."
     },
     {
-      "headline": "MLB Network to continue airing Intentional Talk",
-      "source": "Sports Media Watch · 6h ago",
-      "article": "MLB Network has reversed its decision to cancel Intentional Talk, the afternoon talk show that was originally slated to end in the postseason. The program will continue airing following an internal review. Intentional Talk has been a fixture of MLB Network's daytime schedule for years, and its cancellation would have removed one of the network's more established conversational formats. The reprieve signals that MLB Network sees value in the show's presence during the offseason and into 2025. The decision reflects broader programming strategy at the league-owned network to balance game coverage with analysis and discussion content."
+      "headline": "Flames building healthy culture amid slow start",
+      "source": "Sportsnet · 4h ago",
+      "article": "Calgary's organizational focus on creating a supportive, comfortable environment for players is paying dividends as the team works through a difficult early stretch. For local fans, the team's culture-first approach makes them worth cheering for. The foundation suggests better results will follow as roster talent and coaching continuity align."
     },
     {
-      "headline": "Flames on Sportsnet: Calgary vs. Seattle",
-      "source": "Sportsnet · just now",
-      "article": "The Calgary Flames and Seattle Kraken meet for the fourth time already this season on Wednesday night. The matchup will air live on Sportsnet and Sportsnet+ beginning at 10 p.m. ET / 9 p.m. ABT. Early-season rivalries are building between the teams as they compete for positioning in their respective conferences. Both clubs have invested in their rosters and will use frequent matchups to test lineup combinations and special-teams execution. The Flames and Kraken rivalry has developed quickly as both organizations push toward the playoffs, making divisional and conference play increasingly consequential."
+      "headline": "World Series champ Teixeira wins Texas House seat; Tafoya's Senate bid fails",
+      "source": "The Guardian · 21h ago",
+      "article": "Former baseball star Mark Teixeira secured election to the U.S. House from Texas's 21st district on the Republican ticket, while ex-NFL reporter Lindsey Tafoya's Senate campaign in Minnesota fell short. Teixeira's victory continues a trend of prominent athletes leveraging name recognition for political office, while Tafoya's loss showed such recognition alone doesn't guarantee electoral success."
     },
     {
-      "headline": "Is the Lamar Jackson Era Over in Baltimore?",
-      "source": "Front Office Sports · 6h ago",
-      "article": "Lamar Jackson's contract situation continues to hang over the Baltimore Ravens' future, raising questions about whether the organization will sustain its star quarterback through a long-term commitment or pivot toward a new direction. Jackson has established himself as an MVP-caliber player capable of elevating a franchise, but contract disputes and organizational priorities will shape whether the Ravens build around him or explore alternatives. The Ravens' recent history includes playoff appearances, but sustained success in the AFC has eluded them. Jackson's next deal will be defining for both his legacy and the franchise's competitive window."
+      "headline": "F1 legend Alan Jones, last Australian world champion, dies at 80",
+      "source": "BBC Sport · 1h ago",
+      "article": "Alan Jones, the final Australian driver to win the Formula 1 world championship and the first Williams driver to capture the title, passed away at 80. Jones won the championship in 1980 and remains an icon in Australian motorsport history. His death marks the end of an era for a nation that produced several F1 world champions."
     }
   ],
   "poll": {
-    "question": "Which story will shape the sports business landscape most significantly over the next 12 months?",
+    "question": "Which story will have the biggest ripple effect across sports business in 2026?",
     "options": [
-      "LIV Golf's wind-down and integration into PGA Tour frameworks",
-      "Federal oversight of athlete-lending and contract-backed financing",
-      "European soccer's geopolitical stance on Russian club competition",
-      "The restructuring of media rights for North American sports leagues"
+      "WNBA's streaming growth attracting mainstream media rights valuations",
+      "FIFA ethics scrutiny forcing governance reforms",
+      "LIV Golf's bankruptcy reshaping Saudi sports investment strategy",
+      "Strauss sponsorship pressure forcing geopolitical choices on governing bodies"
     ]
   },
   "predictions": [
     {
-      "statement": "The PGA Tour will absorb at least 60 percent of LIV Golf's remaining roster within 18 months through direct signings or LIV player reintegration deals.",
-      "probability": 78,
-      "rationale": "LIV's wind-down removes a competing circuit entirely. The PGA Tour already operates a framework for reintegration and has financial incentive to consolidate talent before the 2025 season. LIV players represent known commodities with existing fan bases; the Tour will mine that talent pool rather than let it disperse to international circuits."
+      "statement": "WNBA will secure a new media rights deal worth at least $2.5 billion annually by 2027, up from current packages.",
+      "probability": 72,
+      "rationale": "The 1.49 million average viewership for 2026 playoffs, including a first Game 7, signals sustained audience growth that justifies premium valuations. Streaming penetration and younger demographic appeal are exactly what broadcasters are paying for in renegotiations. The timing aligns with 2027 media rights windows."
     },
     {
-      "statement": "At least one major sports sponsor will pull from a 2026-2027 international tournament over geopolitical concerns, following Strauss's lead on the IIHF World Championship.",
-      "probability": 62,
-      "rationale": "Strauss's public threat sets a precedent for other major European sponsors to use commercial leverage on governance questions. As more tournaments approach, the Russia question will resurface in hockey, figure skating, and potentially other winter sports, creating flashpoints where sponsors demand explicit inclusion or exclusion policies."
-    },
-    {
-      "statement": "The athlete-lending market will contract by more than 30 percent in transaction volume by end of 2025, following Sure Sports' bankruptcy filing.",
+      "statement": "FIFA will implement new ethics enforcement rules or remove Infantino before 2028 following the Miami incident.",
       "probability": 55,
-      "rationale": "Sure Sports' Chapter 11 signals a broader liquidity crisis in the sector. As the NIL boom moderates and default rates rise, institutional lenders will tighten underwriting, and athletes will become more cautious. A market correction is overdue, and more firm failures are likely."
+      "rationale": "Cumulative ethics complaints about Infantino have built a pattern; sponsor and media pressure on governance is mounting. However, FIFA's history shows internal enforcement is often weak, and Infantino retains broad backing from member federations. The threshold for removal is high."
     },
     {
-      "statement": "The Rangers will make the Stanley Cup Finals within three seasons, with Adam Fox's 99-point pace providing a template for offensive-defenseman deployment.",
-      "probability": 48,
-      "rationale": "The Rangers have invested heavily in an offensive-first system. Fox's current pace is unsustainable over 82 games, but even a 85-90-point season would cement him as a top-tier performer. Finals appearances require depth, goaltending, and playoff experience; the Rangers have pieces but remain one move away from contention in a deep conference."
+      "statement": "LIV Golf will file restructuring or merger terms within 60 days following Thursday's bankruptcy hearing.",
+      "probability": 78,
+      "rationale": "A collapsed $300M credit facility and imminent bankruptcy hearing signal LIV has limited runway. Saudi backers want resolution or integration into PGA Tour talks; standalone viability is no longer credible. Chapter 11 typically moves toward restructuring or asset sale quickly."
+    },
+    {
+      "statement": "Harry Kane will score at least 25 Bundesliga goals in 2026-27, extending his Bayern tenure beyond 2029.",
+      "probability": 62,
+      "rationale": "Kane's contract extension through 2029 indicates Bayern's confidence and his desire for stability. He's proven elite at Bundesliga pace. However, injury risk and age (mid-30s by end of deal) introduce uncertainty. 25 goals is demanding but within range for a forward of his caliber in a top league."
     }
   ],
   "injuries": [
@@ -2473,13 +2481,13 @@
       "player": "Micah Parsons",
       "team": "Green Bay Packers",
       "league": "NFL",
-      "position": "DE",
+      "position": "EDGE",
       "status": "RETURNING",
-      "injury": "Undisclosed injury",
-      "timeline": "21-day practice window opened; eligible to return within 3 weeks",
+      "injury": "Unknown (opened 21-day practice window)",
+      "timeline": "21-day evaluation period ongoing",
       "source": "CBS Sports",
-      "impact": "Parsels' return would bolster a Packers defense seeking reinforcement in the stretch run.",
-      "storyIndex": 13
+      "impact": "Parsons' return would bolster Green Bay's pass rush after missing games. His defensive impact is critical for the Packers' playoff push.",
+      "storyIndex": 5
     },
     {
       "player": "Jaylen Watson",
@@ -2487,23 +2495,11 @@
       "league": "NFL",
       "position": "CB",
       "status": "OUT",
-      "injury": "Undisclosed injury",
+      "injury": "Injury (season-ending)",
       "timeline": "Out for season",
       "source": "CBS Sports",
-      "impact": "Rams must absorb Watson's loss and adjust secondary rotation for the remainder of the season.",
-      "storyIndex": 13
-    },
-    {
-      "player": "Lamar Jackson",
-      "team": "Baltimore Ravens",
-      "league": "NFL",
-      "position": "QB",
-      "status": "QUESTIONABLE",
-      "injury": "Undisclosed injury",
-      "timeline": "Week 9 status unclear",
-      "source": "CBS Sports",
-      "impact": "Jackson's availability is particularly relevant given the Ravens' division positioning in a competitive AFC North.",
-      "storyIndex": 13
+      "impact": "Watson's loss removes a starting cornerback from the Rams' secondary, forcing the defense to rely on backup coverage options during a critical stretch.",
+      "storyIndex": 5
     },
     {
       "player": "Sam Darnold",
@@ -2511,11 +2507,11 @@
       "league": "NFL",
       "position": "QB",
       "status": "QUESTIONABLE",
-      "injury": "Undisclosed injury",
-      "timeline": "Week 9 status unclear",
+      "injury": "Injury (specific type not disclosed)",
+      "timeline": "Week 9 status uncertain",
       "source": "CBS Sports",
-      "impact": "Darnold's absence would test Minnesota's backup depth at a critical juncture of the season.",
-      "storyIndex": 13
+      "impact": "Darnold's potential absence in Week 9 could force a backup quarterback into action for a Vikings team in playoff contention.",
+      "storyIndex": 5
     },
     {
       "player": "Deshaun Watson",
@@ -2523,23 +2519,35 @@
       "league": "NFL",
       "position": "QB",
       "status": "QUESTIONABLE",
-      "injury": "Undisclosed injury",
-      "timeline": "Week 9 status unclear",
+      "injury": "Injury (specific type not disclosed)",
+      "timeline": "Week 9 status uncertain",
       "source": "CBS Sports",
-      "impact": "Watson's condition affects Cleveland's playoff calculus heading into the final stretch of the regular season.",
-      "storyIndex": 13
+      "impact": "Watson's limited availability heading into Week 9 raises contingency questions for the Browns' offense and playoff aspirations.",
+      "storyIndex": 5
+    },
+    {
+      "player": "Jackson",
+      "team": "Unknown",
+      "league": "NFL",
+      "position": "QB",
+      "status": "QUESTIONABLE",
+      "injury": "Injury (specific details not disclosed)",
+      "timeline": "Week 9 status uncertain",
+      "source": "CBS Sports",
+      "impact": "Quarterback injury uncertainty adds volatility to Week 9 matchups and could impact offensive execution.",
+      "storyIndex": 5
     },
     {
       "player": "Malachi Toney",
-      "team": "College Football",
-      "league": "OTHER",
-      "position": "WR",
+      "team": "Notre Dame",
+      "league": "NCAA",
+      "position": "",
       "status": "OUT",
-      "injury": "Ankle sprain",
-      "timeline": "Undergoing surgery; recovery expected to extend several weeks",
+      "injury": "Ankle injury",
+      "timeline": "Surgery scheduled; hope injury is not season-ending",
       "source": "CBS Sports",
-      "impact": "Toney's absence reshapes offensive production ahead of a major matchup against Notre Dame.",
-      "storyIndex": 5
+      "impact": "Toney's ankle injury will require surgery ahead of Notre Dame's upcoming game, creating uncertainty about his availability for the remainder of the season.",
+      "storyIndex": 13
     }
   ],
   "picks": [
@@ -5975,7 +5983,377 @@
       "_pendingGrade": true
     }
   ],
-  "updatedAt": "2026-04-23T12:00:00Z",
-  "highlights": [],
-  "reels": []
+  "updatedAt": "2026-04-23T00:00:00Z",
+  "highlights": [
+    {
+      "league": "NBA",
+      "title": "LAST-SECOND DRAMA Clippers vs Heat OT Finish | November 4, 2026",
+      "videoId": "FfocLPf6-g0",
+      "thumbnail": "https://img.youtube.com/vi/FfocLPf6-g0/mqdefault.jpg",
+      "timeAgo": "1h ago",
+      "isFallback": false
+    },
+    {
+      "league": "NFL",
+      "title": "Who is the best team in the NFL? | The Bill Barnwell Show",
+      "videoId": "mmhwv8y3wiY",
+      "thumbnail": "https://img.youtube.com/vi/mmhwv8y3wiY/mqdefault.jpg",
+      "timeAgo": "12h ago",
+      "isFallback": false
+    },
+    {
+      "league": "MLB",
+      "title": "The Brewers' World Series Triumph (A Mini-Movie)",
+      "videoId": "AV0vDH0_zus",
+      "thumbnail": "https://img.youtube.com/vi/AV0vDH0_zus/mqdefault.jpg",
+      "timeAgo": "8h ago",
+      "isFallback": false
+    },
+    {
+      "league": "NHL",
+      "title": "Welcome back KEMPE! 🧢🧢🧢",
+      "videoId": "umx_4L94Qfk",
+      "thumbnail": "https://img.youtube.com/vi/umx_4L94Qfk/mqdefault.jpg",
+      "timeAgo": "4h ago",
+      "isFallback": false
+    },
+    {
+      "league": "WNBA",
+      "title": "Reign Supreme Presented by NBA 2K: WNBA Finals ’26 Game 7",
+      "videoId": "FRfpnYVw4lQ",
+      "thumbnail": "https://img.youtube.com/vi/FRfpnYVw4lQ/mqdefault.jpg",
+      "timeAgo": "2d ago",
+      "isFallback": false
+    },
+    {
+      "league": "SOCCER",
+      "title": "Champions League Reaction 🍿 Real Madrid extends streak, Como makes statement | ESPN FC",
+      "videoId": "dtjCpYC1cXY",
+      "thumbnail": "https://img.youtube.com/vi/dtjCpYC1cXY/mqdefault.jpg",
+      "timeAgo": "10h ago",
+      "isFallback": false
+    }
+  ],
+  "reels": [
+    {
+      "league": "NBA",
+      "title": "LAST-SECOND DRAMA Clippers vs Heat OT Finish | November 4, 2026",
+      "videoId": "FfocLPf6-g0",
+      "author": "NBA",
+      "pubDate": "2026-11-05T09:27:38+00:00",
+      "link": "https://www.youtube.com/watch?v=FfocLPf6-g0"
+    },
+    {
+      "league": "NBA",
+      "title": "NBA's Nightly Recap | November 4, 2026",
+      "videoId": "1aNrzlqRhaY",
+      "author": "NBA",
+      "pubDate": "2026-11-05T08:36:53+00:00",
+      "link": "https://www.youtube.com/watch?v=1aNrzlqRhaY"
+    },
+    {
+      "league": "NBA",
+      "title": "NBA's Top 10 Plays of the Night | November 4, 2026",
+      "videoId": "Ym71yZsT4V4",
+      "author": "NBA",
+      "pubDate": "2026-11-05T08:00:41+00:00",
+      "link": "https://www.youtube.com/watch?v=Ym71yZsT4V4"
+    },
+    {
+      "league": "NBA",
+      "title": "Wemby Is Operating on a Different Level 👽",
+      "videoId": "ouXRlbiTl78",
+      "author": "NBA",
+      "pubDate": "2026-11-05T06:58:18+00:00",
+      "link": "https://www.youtube.com/watch?v=ouXRlbiTl78"
+    },
+    {
+      "league": "NBA",
+      "title": "Klay Hits the Game-Winner and Coach Spo Goes Through EVERY Emotion 😂🏀",
+      "videoId": "SnrtzY5bwco",
+      "author": "NBA",
+      "pubDate": "2026-11-05T06:48:24+00:00",
+      "link": "https://www.youtube.com/watch?v=SnrtzY5bwco"
+    },
+    {
+      "league": "NBA",
+      "title": "KLAY THOMPSON HITS A 3 WITH 1 SECOND LEFT TO WIN IT FOR THE HEAT IN OT.",
+      "videoId": "DV5apbbmFss",
+      "author": "NBA",
+      "pubDate": "2026-11-05T06:41:27+00:00",
+      "link": "https://www.youtube.com/watch?v=DV5apbbmFss"
+    },
+    {
+      "league": "NBA",
+      "title": "HEAT at CLIPPERS | FULL GAME HIGHLIGHTS | November 4, 2026",
+      "videoId": "qz1LM3gsHNw",
+      "author": "NBA",
+      "pubDate": "2026-11-05T06:37:49+00:00",
+      "link": "https://www.youtube.com/watch?v=qz1LM3gsHNw"
+    },
+    {
+      "league": "NHL",
+      "title": "Welcome back KEMPE! 🧢🧢🧢",
+      "videoId": "umx_4L94Qfk",
+      "author": "NHL",
+      "pubDate": "2026-11-05T06:36:55+00:00",
+      "link": "https://www.youtube.com/watch?v=umx_4L94Qfk"
+    },
+    {
+      "league": "NBA",
+      "title": "KLAY HITS THE GAME-WINNER WITH 1 SECOND LEFT!",
+      "videoId": "vfxG2NiiQsQ",
+      "author": "NBA",
+      "pubDate": "2026-11-05T06:31:28+00:00",
+      "link": "https://www.youtube.com/watch?v=vfxG2NiiQsQ"
+    },
+    {
+      "league": "NHL",
+      "title": "Matty B drops the ANCHOR ⚓",
+      "videoId": "XABIO3-fsCU",
+      "author": "NHL",
+      "pubDate": "2026-11-05T06:15:06+00:00",
+      "link": "https://www.youtube.com/watch?v=XABIO3-fsCU"
+    },
+    {
+      "league": "NHL",
+      "title": "Sharks vs. Kings | NHL Highlights | Nov 4, 2026",
+      "videoId": "7Q1a_yEzZEk",
+      "author": "NHL",
+      "pubDate": "2026-11-05T06:12:37+00:00",
+      "link": "https://www.youtube.com/watch?v=7Q1a_yEzZEk"
+    },
+    {
+      "league": "NHL",
+      "title": "Flames vs. Kraken | NHL Highlights | Nov 4, 2026",
+      "videoId": "-jrkWcMrmiw",
+      "author": "NHL",
+      "pubDate": "2026-11-05T06:03:36+00:00",
+      "link": "https://www.youtube.com/watch?v=-jrkWcMrmiw"
+    },
+    {
+      "league": "NHL",
+      "title": "Just a couple of @mariners hanging out! 🔱⚾",
+      "videoId": "BUUAQzVAoBI",
+      "author": "NHL",
+      "pubDate": "2026-11-05T05:30:09+00:00",
+      "link": "https://www.youtube.com/watch?v=BUUAQzVAoBI"
+    },
+    {
+      "league": "NHL",
+      "title": "Always remember to thank your goalposts 💋",
+      "videoId": "WFfHcCx2BL0",
+      "author": "NHL",
+      "pubDate": "2026-11-05T05:10:21+00:00",
+      "link": "https://www.youtube.com/watch?v=WFfHcCx2BL0"
+    },
+    {
+      "league": "NHL",
+      "title": "Celebrini DISMANTLED Drew Doughty 😮‍💨",
+      "videoId": "DGM_Ef-znzM",
+      "author": "NHL",
+      "pubDate": "2026-11-05T05:00:12+00:00",
+      "link": "https://www.youtube.com/watch?v=DGM_Ef-znzM"
+    },
+    {
+      "league": "NHL",
+      "title": "Silky Shorty from Nazar!",
+      "videoId": "YgiEB7z7-QU",
+      "author": "NHL",
+      "pubDate": "2026-11-05T04:30:27+00:00",
+      "link": "https://www.youtube.com/watch?v=YgiEB7z7-QU"
+    },
+    {
+      "league": "MLB",
+      "title": "The Brewers' World Series Triumph (A Mini-Movie)",
+      "videoId": "AV0vDH0_zus",
+      "author": "MLB",
+      "pubDate": "2026-11-05T02:00:34+00:00",
+      "link": "https://www.youtube.com/watch?v=AV0vDH0_zus"
+    },
+    {
+      "league": "SOCCER",
+      "title": "Champions League Reaction 🍿 Real Madrid extends streak, Como makes statement | ESPN FC",
+      "videoId": "dtjCpYC1cXY",
+      "author": "ESPN FC",
+      "pubDate": "2026-11-05T00:29:54+00:00",
+      "link": "https://www.youtube.com/watch?v=dtjCpYC1cXY"
+    },
+    {
+      "league": "SOCCER",
+      "title": "Who’s the hotter commodity right now: Nico Paz or Cesc Fabregas? | ESPN FC Extra Time",
+      "videoId": "RvQA_Ofp2Ac",
+      "author": "ESPN FC",
+      "pubDate": "2026-11-05T00:18:16+00:00",
+      "link": "https://www.youtube.com/watch?v=RvQA_Ofp2Ac"
+    },
+    {
+      "league": "MLB",
+      "title": "Team Japan vs. Team Chinese Taipei: Full Game (3/6/2026) | 2026 World Baseball Classic",
+      "videoId": "xe7LLFKc2WU",
+      "author": "MLB",
+      "pubDate": "2026-11-05T00:00:30+00:00",
+      "link": "https://www.youtube.com/watch?v=xe7LLFKc2WU"
+    },
+    {
+      "league": "SOCCER",
+      "title": "Sasho Cirovski addresses the future of NCAA D-1 men’s soccer schedule | ESPN FC",
+      "videoId": "BByXOYg5r1k",
+      "author": "ESPN FC",
+      "pubDate": "2026-11-04T23:50:44+00:00",
+      "link": "https://www.youtube.com/watch?v=BByXOYg5r1k"
+    },
+    {
+      "league": "SOCCER",
+      "title": "'They don't inspire me that they're a dominant team' - Stewart Robson on Man City | ESPN FC",
+      "videoId": "aBnBgnA3aP4",
+      "author": "ESPN FC",
+      "pubDate": "2026-11-04T23:31:28+00:00",
+      "link": "https://www.youtube.com/watch?v=aBnBgnA3aP4"
+    },
+    {
+      "league": "SOCCER",
+      "title": "AEK Athens vs. Real Madrid Reaction ⚽ The importance of momentum? | ESPN FC",
+      "videoId": "SvQfT0-WLik",
+      "author": "ESPN FC",
+      "pubDate": "2026-11-04T23:22:16+00:00",
+      "link": "https://www.youtube.com/watch?v=SvQfT0-WLik"
+    },
+    {
+      "league": "SOCCER",
+      "title": "'You just can't trust them!' 🗣️ Craig Burley after Liverpool's UCL loss to Fenerbahce | ESPN FC",
+      "videoId": "pxOJk0EEazs",
+      "author": "ESPN FC",
+      "pubDate": "2026-11-04T23:16:32+00:00",
+      "link": "https://www.youtube.com/watch?v=pxOJk0EEazs"
+    },
+    {
+      "league": "NFL",
+      "title": "Who is the best team in the NFL? | The Bill Barnwell Show",
+      "videoId": "mmhwv8y3wiY",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-11-04T22:51:51+00:00",
+      "link": "https://www.youtube.com/watch?v=mmhwv8y3wiY"
+    },
+    {
+      "league": "NFL",
+      "title": "Expectations for Joe Milton III starting for the Eagles 👀 | NFL Live",
+      "videoId": "CMi4eRhGy8A",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-11-04T22:21:55+00:00",
+      "link": "https://www.youtube.com/watch?v=CMi4eRhGy8A"
+    },
+    {
+      "league": "MLB",
+      "title": "Inside Game 5: Unfiltered View of the World Series Clincher",
+      "videoId": "30OeOYymT0Q",
+      "author": "MLB",
+      "pubDate": "2026-11-04T22:00:33+00:00",
+      "link": "https://www.youtube.com/watch?v=30OeOYymT0Q"
+    },
+    {
+      "league": "NFL",
+      "title": "WR Class of 2027 NFL Draft is UNREAL | First Draft🏈",
+      "videoId": "HIImOS3ZWUM",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-11-04T22:00:28+00:00",
+      "link": "https://www.youtube.com/watch?v=HIImOS3ZWUM"
+    },
+    {
+      "league": "NFL",
+      "title": "The college coach to go to NFL?",
+      "videoId": "U_eKFkYqVcU",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-11-04T22:00:27+00:00",
+      "link": "https://www.youtube.com/watch?v=U_eKFkYqVcU"
+    },
+    {
+      "league": "NFL",
+      "title": "How Trey Wingo MISSED Helmet Catch 🤯 | The Biggest Game #espn #nfl #superbowl",
+      "videoId": "PoG7qPNT8AI",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-11-04T21:30:38+00:00",
+      "link": "https://www.youtube.com/watch?v=PoG7qPNT8AI"
+    },
+    {
+      "league": "NFL",
+      "title": "Trent McDuffie Has Been EXACTLY What The Rams Needed",
+      "videoId": "NLgzUe1vgQ4",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-11-04T20:06:26+00:00",
+      "link": "https://www.youtube.com/watch?v=NLgzUe1vgQ4"
+    },
+    {
+      "league": "NFL",
+      "title": "Cardinals trade QB Jacoby Brissett to the Ravens 🚨 | Big Day with Peter Schrager",
+      "videoId": "SHRRVQBQDUo",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-11-04T20:05:47+00:00",
+      "link": "https://www.youtube.com/watch?v=SHRRVQBQDUo"
+    },
+    {
+      "league": "MLB",
+      "title": "2026 Kazuma Okamoto Highlights (Japanese slugger broke TWO home run records!) 岡本和真",
+      "videoId": "BLQs7YwI0rI",
+      "author": "MLB",
+      "pubDate": "2026-11-04T20:00:23+00:00",
+      "link": "https://www.youtube.com/watch?v=BLQs7YwI0rI"
+    },
+    {
+      "league": "NFL",
+      "title": "Why QB is the DEEPEST position of 2027 NFL Draft | First Draft🏈",
+      "videoId": "XjiudjrA3Fk",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-11-04T20:00:17+00:00",
+      "link": "https://www.youtube.com/watch?v=XjiudjrA3Fk"
+    },
+    {
+      "league": "MLB",
+      "title": "25 years ago, Luis Gonzalez and the D-backs walked off the Yanks to win the 2001 World Series title",
+      "videoId": "LIkKv3w1jh4",
+      "author": "MLB",
+      "pubDate": "2026-11-04T19:49:01+00:00",
+      "link": "https://www.youtube.com/watch?v=LIkKv3w1jh4"
+    },
+    {
+      "league": "MLB",
+      "title": "EARLY Power Rankings for the 2027 MLB season!",
+      "videoId": "bzsK9ZXEAbQ",
+      "author": "MLB",
+      "pubDate": "2026-11-04T19:00:24+00:00",
+      "link": "https://www.youtube.com/watch?v=bzsK9ZXEAbQ"
+    },
+    {
+      "league": "MLB",
+      "title": "Team Australia vs. Team Czechia: Full Game (3/5/2026) | 2026 World Baseball Classic",
+      "videoId": "gDNEXZgWPIw",
+      "author": "MLB",
+      "pubDate": "2026-11-04T18:00:01+00:00",
+      "link": "https://www.youtube.com/watch?v=gDNEXZgWPIw"
+    },
+    {
+      "league": "MLB",
+      "title": "Each team's FASTEST pitch of the 2026 season! 🔥 (Ft. Jacob Misiorowski, Mason Miller &amp; MORE!)",
+      "videoId": "lgRSYiAAHKc",
+      "author": "MLB",
+      "pubDate": "2026-11-04T16:00:27+00:00",
+      "link": "https://www.youtube.com/watch?v=lgRSYiAAHKc"
+    },
+    {
+      "league": "SOCCER",
+      "title": "Champions League Reaction ⚽ Man United snap winless streak | ESPN FC",
+      "videoId": "kkE0gUH4N5I",
+      "author": "ESPN FC",
+      "pubDate": "2026-11-04T00:00:00+00:00",
+      "link": "https://www.youtube.com/watch?v=kkE0gUH4N5I"
+    },
+    {
+      "league": "SOCCER",
+      "title": "Has the new Champions League format become mundane? | ESPN FC Extra Time",
+      "videoId": "6ZZGv92bjFY",
+      "author": "ESPN FC",
+      "pubDate": "2026-11-03T23:45:13+00:00",
+      "link": "https://www.youtube.com/watch?v=6ZZGv92bjFY"
+    }
+  ]
 }
