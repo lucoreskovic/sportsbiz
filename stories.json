@@ -1,73 +1,81 @@
 {
   "clusters": [
     {
-      "category": "revenue",
-      "importance": 8,
-      "leadHeadline": "DraftKings' Prediction-Market Ranking Is Not Entirely Clear",
-      "leadSource": "Sportico · just now",
-      "leadUrl": "https://www.sportico.com/business/sports-betting/2026/draftkings-prediction-market-ranking-app-volume-earnings-1234957636/",
-      "summary": "DraftKings slashed 2026 revenue guidance to $6.35B-$6.55B Thursday, triggering a 28% stock plunge. The prediction-markets bet—eating $650M-$700M in spending this year—is driving losses.",
-      "article": "<cite index=\"4-6,4-7\">DraftKings trimmed its revenue guidance to $6.35 billion to $6.55 billion Thursday, sending its stock down 28% to $16.91 per share Friday morning</cite>. The move reflected a dramatic escalation in prediction-market losses.\n\n<cite index=\"5-1\">The company now expects adjusted EBITDA of $175 million to $275 million, compared with its previous forecast of $700 million to $900 million</cite>. <cite index=\"5-5\">DraftKings attributed much of its reduced annual earnings outlook to planned investment of $650 million to $700 million in its Predictions business</cite>.\n\n<cite index=\"5-3,5-4\">The revised outlook follows a third quarter in which DraftKings reported a net loss of $468.7 million, compared with $256.8 million a year earlier, as higher operating expenses offset 9% revenue growth to $4.42 billion</cite>.\n\nThe company claimed <cite index=\"4-4,4-5\">its prediction market exchange ranks No. 3 in the U.S., but its placement depends on which metric is being used</cite>. <cite index=\"4-10,4-11\">By notional volume, DraftKings holds about 3.6% U.S. market share, good enough to rank No. 3 among CFTC-regulated exchanges by a full percentage point</cite>. Yet <cite index=\"5-6\">the company expects Predictions to contribute minimal reported revenue in 2026, with customer promotions offsetting most of the gross revenue generated</cite>.\n\n<cite index=\"5-7\">DraftKings projects Predictions will generate $650 million to $750 million in revenue in 2027</cite>, as the costly user-acquisition phase matures into profitability.",
-      "tweets": []
+      "category": "leagues",
+      "importance": 7,
+      "leadHeadline": "LIV Golf to wind down its operations",
+      "leadSource": "Sports Media Watch · 3h ago",
+      "leadUrl": "https://www.sportsmediawatch.com/2026/11/liv-golf-wind-down-nexstar-cw-sports-rights-apple-formula-one/",
+      "summary": "<cite index=\"1-3,1-4\">LIV Golf is winding down instead of launching a new version because it lacks financial support</cite>. <cite index=\"2-5\">The league lost Saudi Arabia funding in April after spending more than $5 billion since 2022.</cite>",
+      "article": "<cite index=\"3-1\">Attorneys confirmed Thursday in New Jersey Bankruptcy Court that LIV Golf will wind down operations, with the process set to begin Monday.</cite> The decision marks the formal collapse of the Saudi-backed circuit four years after launch.\n\n<cite index=\"2-7\">Saudi Arabia's PIF changed its investment strategy in April and said it would no longer pay for LIV Golf after the 2026 season.</cite> <cite index=\"2-6\">LIV filed for bankruptcy in September.</cite> Rescue appeared possible when <cite index=\"5-4\">BC Partners pledged a $300 million investment to pivot to a more financially sustainable \"LIV 2.0.\"</cite> But it fell apart. <cite index=\"5-5\">Players like Jon Rahm and Sergio Garcia, Tyrrell Hatton and Louis Oosthuizen, weren't interested.</cite>\n\n<cite index=\"12-6\">\"This was not an easy conclusion for anyone who believed in what LIV Golf built,\" said attorney Matthew Williams.</cite> <cite index=\"20-6,20-7\">CEO Scott O'Neil said \"Building a global platform designed to bring new, younger, and more diverse fans to the sport of golf has been the round of a lifetime for all of us. LIV Golf was fun, demanding, inspiring, at times challenging -- but always rewarding.\"</cite>\n\n<cite index=\"3-7\">The PIF previously invested approximately $7 billion total to start LIV Golf, fund outsized player contracts and keep the league running for five seasons.</cite> <cite index=\"1-6\">LIV's final event was in August in Indianapolis, won by Michael La Sasso.</cite>",
+      "tweets": [
+        {
+          "url": "https://twitter.com/nytimes/status/2118384745440485522",
+          "html": "<blockquote class=\"twitter-tweet\" data-dnt=\"true\" data-theme=\"dark\"><p>Breaking News from @TheAthletic: LIV Golf, which lost its Saudi funding, has shut down after five years of operation and $5 billion spent. https://t.co/OXivHOKKcD</p>&mdash; The New York Times (@nytimes) <a href=\"https://twitter.com/nytimes/status/2118384745440485522\">November 5, 2026</a></blockquote>",
+          "author_name": "The New York Times",
+          "author_url": "https://twitter.com/nytimes",
+          "dateMs": 1793897255000
+        }
+      ]
     },
     {
       "category": "media",
-      "importance": 7,
-      "leadHeadline": "Fox Corporation closes quick acquisition of Roku",
+      "importance": 6,
+      "leadHeadline": "SNY ends two weekday studio programs",
       "leadSource": "Sports Media Watch · 2h ago",
-      "leadUrl": "https://www.sportsmediawatch.com/2026/11/liv-golf-wind-down-nexstar-cw-sports-rights-apple-formula-one/",
-      "summary": "Fox Corporation completed its $22 billion acquisition of Roku in a rapid six-month close, bolstering its streaming footprint and creating a new potential outlet for sports broadcasting rights.",
-      "article": "Fox Corporation has closed its $22 billion acquisition of Roku, less than six months after announcing the cash-and-stock deal in June. The completion expands Fox's streaming infrastructure substantially and opens a new avenue for sports content distribution.\n\nRoku is North America's largest TV streaming platform by hours watched, with millions of active users and a robust advertising marketplace. The acquisition gives Fox direct control over streaming distribution channels that were previously available only through licensing agreements. For sports, the implications are significant: Fox now owns both content production (via Fox Sports) and a major platform through which to distribute that content.\n\nThe timing suggests Fox is positioning itself defensively in an increasingly fragmented media landscape. Traditional pay-TV continues to erode, and the consolidation of content and distribution gives Fox leverage in bidding for marquee sports rights. The company can now bundle sports packages with Roku's platform and advertising capabilities, a competitive advantage in negotiations with leagues.\n\nThe deal also reflects confidence in the sports-streaming market specifically. Roku users have historically shown strong engagement with sports programming, and Fox gains direct access to that audience data and monetization potential. Whether this translates to aggressive bidding on new sports contracts remains to be seen, but the infrastructure is now in place.",
+      "leadUrl": "https://www.sportsmediawatch.com/2026/11/sny-baseball-night-new-york-sportsnite-studio-programs/",
+      "summary": "SportsNet New York canceled its daily SportsNite and Baseball Night in New York studio programs, eliminating shows that had run since the network's 2006 launch. The moves mark SNY's latest effort to restructure its local sports programming.",
+      "article": "SportsNet New York, the television home of the New York Mets and New York Jets, has canceled two long-running daily studio programs: SportsNite and Baseball Night in New York. Both shows were fixtures since SNY's launch in 2006, providing daily sports news, highlights, and analysis for the New York market.\n\nThe cancellations represent a significant restructuring of SNY's weekday lineup and suggest a shift in how the regional sports network is allocating resources and production resources. Local sports networks across the country have faced mounting pressure from cord-cutting, rising production costs, and competition from national streaming platforms and social media highlights.\n\nSportsNite was a daily sports news and highlights program that covered the full range of New York sports. Baseball Night in New York focused specifically on Mets coverage during the season. Both programs had built loyal local audiences over two decades.\n\nThe network has not yet announced what programming will fill the vacated timeslots or whether it plans to launch replacement studio shows with different formats or staffing models. SNY's moves follow similar consolidations by regional sports networks nationwide, many of which have reduced live studio production in favor of lower-cost highlight repackaging and digital content.",
       "tweets": []
     },
     {
-      "category": "leagues",
-      "importance": 7,
-      "leadHeadline": "LIV Golf Is Dead, and Professional Golf Is Better Off Without It",
-      "leadSource": "Deadspin · 3h ago",
-      "leadUrl": "https://deadspin.com/liv-golf-is-dead-and-professional-golf-is-better-off-without-it/",
-      "summary": "LIV Golf is winding down operations after a failed attempt to compete with the PGA Tour, leaving damaged legacies and a stronger professional golf landscape in its wake.",
-      "article": "LIV Golf is ceasing operations, marking the effective end of the Saudi-backed league's three-year challenge to the PGA Tour's dominance. The collapse, first reported by Sports Media Watch and analyzed by Deadspin, represents one of professional sports' most spectacular business failures.\n\nLIV Golf launched in 2022 with Saudi Public Investment Fund backing and lured marquee players including Phil Mickelson, Dustin Johnson, and Bryson DeChambeau with nine-figure contracts. The league promised to disrupt professional golf with a new format, guaranteed purses, and a tour model that prioritized players over traditional tournament structures. Despite the star power and capital infusion, LIV never gained media traction, struggled to attract sponsors, and hemorrhaged money for three consecutive seasons.\n\nThe league's collapse was accelerated by merger discussions between the PGA Tour and the DP World Tour, which ultimately absorbed the best of LIV's remaining players. Rather than compete against a unified establishment tour, LIV opted to wind down.\n\nFor professional golf, the outcome paradoxically strengthens the sport. The Tour retains its integrity and championship history. Players who defected now have a clearer path back to credibility. The expensive experiment revealed that no amount of capital can instantly override institutional weight and fan allegiance. Professional golf remains organized around legacy events and established structures, not blank-check competition.",
-      "tweets": []
-    },
-    {
-      "category": "leagues",
+      "category": "contracts",
       "importance": 6,
-      "leadHeadline": "College Football's Loaded Saturday Sets Up Huge Day for ABC, ESPN",
-      "leadSource": "Front Office Sports · 1h ago",
-      "leadUrl": "https://frontofficesports.com/article/college-footballs-loaded-saturday-sets-up-huge-day-for-abc-espn/",
-      "summary": "ABC and ESPN will broadcast five top-25 matchups Saturday, a heavy slate that tests viewer appetite for premium college football content in a condensed window.",
-      "article": "ABC and ESPN will air five top-25 matchups Saturday, one of the heaviest conference-game schedules of the college football season. The lineup reflects the complexity of managing broadcast inventory when multiple contenders compete simultaneously late in the regular season.\n\nThe concentration of marquee games in a single day creates both opportunity and risk for the networks. Viewer engagement for top-25 teams typically runs high, guaranteeing strong ratings if viewers can consolidate their watching. However, the compressed schedule also fragments audiences; viewers cannot watch all five games simultaneously, forcing choices that may reduce total cumulative viewership versus a spread-out weekend.\n\nFor college football's broadcast economics, the test is straightforward: do five premium matchups in one window drive higher aggregate viewership and ratings than the same games spread Friday through Monday? Preliminary data will inform how ESPN and ABC structure future saturdays down the stretch.\n\nThe schedule also reflects the College Football Playoff Committee's seeding pressure. Late-season top-25 matchups now carry weight beyond tradition; they're playoff-elimination games. Expect viewership to skew toward teams in realistic playoff contention. Any blowout early in the day could suppress interest in later windows.",
-      "tweets": []
-    },
-    {
-      "category": "leagues",
-      "importance": 6,
-      "leadHeadline": "NBA Heads to Mexico City as Silver Touts Locale for NBA Expansion",
+      "leadHeadline": "The Familie Signs Michael Phelps",
       "leadSource": "Sportico · 2h ago",
-      "leadUrl": "https://www.sportico.com/leagues/basketball/2026/nba-expansion-mexico-city-adam-silver-1234957622/",
-      "summary": "The Pacers and Nuggets play in Mexico City on Saturday in the 35th NBA regular-season or preseason game in the country, as the league signals Mexico as a genuine expansion candidate.",
-      "article": "The Indiana Pacers and Denver Nuggets square off in Mexico City on Saturday night, marking the 35th NBA game hosted in the country (16 regular-season, 19 preseason). While NBA Commissioner Adam Silver has publicized European expansion possibilities, the frequency of Mexico City matchups suggests a different calculus.\n\nMexico has hosted more NBA games outside the U.S. and Canada than any other international destination. The volume of games reflects a deliberate NBA strategy to build fan infrastructure and media presence in a lucrative Latin American market. Mexico City's population, disposable income, and existing sports infrastructure make it a realistic expansion candidate, even if Europe commands more media attention in league communications.\n\nSaturday's game is both a regular-season contest and a market-building exercise. The NBA collects viewership and social-media engagement data from Mexico; attendance figures and merchandise sales in-market signal whether a franchise could sustain operations there. The Pacers-Nuggets matchup features mid-tier appeal nationally but may draw significant interest in Mexico City where basketball interest has grown steadily over the past decade.\n\nExpansion talk remains speculative, but the NBA's pattern is unmistakable: the league tests markets through repeated high-profile games before committing franchises. Mexico City's 35-game history puts it well ahead of any other non-traditional market in that pipeline.",
+      "leadUrl": "https://www.sportico.com/personalities/people/2026/sportico-transactions-moves-mergers-november-6-1234957648/",
+      "summary": "Michael Phelps, the most decorated Olympian in history, has joined The Familie for representation as he expands his business portfolio and strategic interests beyond competitive swimming. The signing signals continued evolution of Phelps' career into business and media ventures.",
+      "article": "Michael Phelps, the most decorated Olympian in history with 28 Olympic medals across five Games, has signed with The Familie for representation. The move marks Phelps' next chapter focused on expanding his business portfolio and pursuing strategic opportunities beyond competitive swimming.\n\nThe Familie is a sports talent and representation firm that works across athlete management, business development, and brand partnerships. By bringing Phelps into its roster, The Familie gains one of the most recognizable figures in Olympic history and a proven operator in the business space.\n\nPhelps retired from competitive swimming in 2016 after the Rio Olympics, though he has maintained a public presence through commentary, business ventures, and philanthropic work. His signing with The Familie suggests an intention to expand these off-pool activities into new partnerships or ventures.\n\nThe timing aligns with broader trends in Olympic athlete management, where post-competitive careers increasingly focus on business development, media roles, and strategic partnerships rather than traditional endorsement deals alone. Phelps' representation shift also reflects The Familie's growing influence in athlete management across multiple sports and career stages.",
       "tweets": []
     },
     {
       "category": "leagues",
       "importance": 5,
-      "leadHeadline": "How Gotham FC re-tooled for another NWSL title run – this time as favorites",
-      "leadSource": "The Guardian · 2h ago",
-      "leadUrl": "https://www.theguardian.com/football/2026/nov/06/gotham-fc-nwsl-playoffs",
-      "summary": "Gotham FC entered the 2026 NWSL season as heavy favorites after winning back-to-back titles as a low seed, betting on roster consistency to replicate playoff success in the regular season.",
-      "article": "Gotham FC finished the 2026 regular season as heavy favorites for the NWSL Championship, a stark reversal from the franchise's prior two title runs. The New Jersey club's general manager Yael Averbuch West engineered a deliberate shift in strategy: rather than build for surprise playoff runs, Gotham aimed for regular-season dominance and corresponding tournament seeding advantage.\n\nThe club's two prior championships came as the lowest seed in the playoffs, a statistical anomaly that rewarded tactical flexibility and playoff intensity over regular-season pacing. That model, while successful, created operational strain and left no margin for injury or exhaustion. Averbuch West determined the franchise needed consistency: a deep roster that could sustain excellence over 24 regular-season matches and reduce the injury risk inherent in asking a thin squad to navigate four playoff rounds.\n\nThe 2026 roster reflects that philosophy. Gotham retained key players, added depth at critical positions, and built around a core proven in high-pressure moments. The result is a team favored in predictions heading into the playoffs, a far different narrative than previous years.\n\nThe test now is whether that regular-season dominance translates to final-round success. Teams built for the regular season sometimes underperform in single-elimination play, where tactical flexibility and urgency matter more than depth and game-management. Gotham's prior two titles suggest the opposite, but consistency is the franchise's stated priority this season.",
+      "leadHeadline": "Big Ten's $49M NIL Cap Looms Over Ohio State–Oregon Matchup",
+      "leadSource": "Front Office Sports · 2h ago",
+      "leadUrl": "https://frontofficesports.com/article/big-ten-nil-cap-looms-ohio-state-oregon-matchup/",
+      "summary": "Ohio State and Oregon each carry estimated $50 million NIL rosters this season under the Big Ten's newly implemented NIL salary cap. The cap creates the first formal spending limit on athlete name, image and likeness deals within a Power Five conference.",
+      "article": "The Big Ten's $49 million NIL salary cap is now in effect, and both Ohio State and Oregon are operating at or near the ceiling as they prepare for their matchup this season. The cap represents the first formal spending limit on name, image and likeness compensation within a Power Five conference, marking a shift toward financial regulation in college sports.\n\nBoth programs have assembled rosters valued at approximately $50 million in NIL commitments, signaling aggressive roster-building efforts using the full allocation available under the conference rule. The spending limit was designed to prevent unbounded bidding wars while allowing schools to remain competitive in the transfer portal and recruiting landscape.\n\nThe Big Ten's cap applies uniformly across all member institutions, creating a level playing field in NIL spending. Schools that exceed the cap face penalties, creating compliance pressure on athletic departments and collectives managing athlete compensation.\n\nThe Ohio State-Oregon matchup becomes a test case for how the cap functions in practice. Both programs maximized their allocation to build competitive rosters, suggesting that the $49 million threshold allows for legitimate championship-contending spending levels. Other Power Five conferences have not yet adopted formal NIL caps, creating a potential competitive imbalance between the Big Ten and other conferences like the SEC or ACC.",
+      "tweets": []
+    },
+    {
+      "category": "leagues",
+      "importance": 5,
+      "leadHeadline": "ACC QB Handoff: Stanford's Warren Tapped as Next House ClassRep",
+      "leadSource": "Sportico · 2h ago",
+      "leadUrl": "https://www.sportico.com/leagues/college-sports/2026/davis-warren-house-v-ncaa-class-representative-stanford-1234957710/",
+      "summary": "Stanford starting quarterback Davis Warren has been selected as the next class representative for the House v. NCAA settlement, continuing an ACC quarterback pipeline into the settlement's governance structure. Warren follows former Louisville QB Miller Moss in the role.",
+      "article": "Davis Warren, Stanford's starting quarterback, is poised to become the newest class representative for the House v. NCAA settlement after attorneys representing the settlement class filed a motion this week. Warren will succeed Miller Moss, the former Louisville quarterback who previously held the role.\n\nThe House v. NCAA settlement emerged from antitrust litigation challenging NCAA transfer and compensation restrictions. Class representatives serve as liaisons between the settlement and the athlete population, providing input on distribution and governance decisions. The selection of college football quarterbacks for this position reflects both the profile and influence of the position within college athletics.\n\nWarren's appointment continues a pattern of leveraging high-profile athletes, particularly quarterbacks, for settlement-related governance roles. The ACC pipeline suggests a regional clustering of representation, with both Stanford and Louisville participating in settlement governance through their quarterback representatives.\n\nThe role carries responsibility for communicating settlement terms and benefits to the broader athlete class and advocating for fair treatment under the settlement framework. As college athletics navigates continuing antitrust pressures and name, image and likeness regulations, the class representative position has become increasingly visible and influential in shaping how athletes interact with institutional compliance structures.",
       "tweets": []
     },
     {
       "category": "media",
       "importance": 4,
-      "leadHeadline": "Yaxel Lendeborg is the NBA's most entertaining rookie – and he's not holding back",
-      "leadSource": "The Guardian · 4h ago",
-      "leadUrl": "https://www.theguardian.com/sport/2026/nov/06/yaxel-lendeborg-golden-state-warriors-nba-rookie-media-training",
-      "summary": "Golden State Warriors rookie Yaxel Lendeborg has emerged as the NBA's most compelling freshman by antagonizing superstars and speaking his mind, carving out an early identity as an unfiltered personality.",
-      "article": "Yaxel Lendeborg has spent his first weeks in the NBA doing something most rookies avoid: antagonizing established superstars and refusing to adopt the league's standard diplomatic persona. The Golden State Warriors freshman has emerged as one of the season's most entertaining personalities, the rare rookie who plays loose and talks loose without apology.\n\nLendeborg's appeal lies partly in the novelty. NBA rookies typically operate within an unwritten code: defer to stars, earn playing time quietly, speak in approved clichés. Lendeborg has largely dismissed that script. He engages opposing stars on court, speaks candidly about games and team dynamics, and doesn't perform humility as a substitute for confidence.\n\nThe comparison to a pickup-basketball player who teleported into an elite athlete's body captures the essence of his brand. He plays with instinctive aggression, talks through possessions, and seems genuinely entertained by the level of competition. None of this is unprecedented—veterans have used confidence as a tool for decades—but the timing (in a rookie's first season) makes it distinctive.\n\nFor the Warriors and NBA media, Lendeborg represents a refreshing deviation from the cautious professionalism that dominates postgame discourse. Whether his candor survives fines, coach feedback, and veteran pressure remains an open question. But his early impact proves that personality still matters in a social-media-saturated league, and that authenticity, even when occasionally obnoxious, draws viewership and conversation.",
+      "leadHeadline": "Why Eagles coach hid QB benching: 'I'm going to tell you guys what I want'",
+      "leadSource": "NY Post Sports · just now",
+      "leadUrl": "https://nypost.com/2026/11/06/sports/why-eagles-coach-hid-qb-benching-im-going-to-tell-you-guys-what-i-want/",
+      "summary": "Eagles coach Nick Sirianni deliberately misled reporters about his starting quarterback, telling them he would stick with Tanner McKee before switching to Joe Milton later in the week. Sirianni later explained the calculated deception as a coaching strategy.",
+      "article": "Nick Sirianni made a deliberate choice to deceive reporters and the public about his quarterback plans when he announced Tanner McKee would remain the starter, only to pivot to Joe Milton later in the week.\n\nSirianni later explained the decision as a calculated coaching move, saying \"I'm going to tell you guys what I want.\" The statement suggests Sirianni was attempting to control information flow and avoid giving opponents, media, and the fan base advance notice of an internal roster change.\n\nThe quarterback situation in Philadelphia has been volatile this season. Both McKee and Milton have appeared in games, and the coaching staff's inability to settle on a primary starter has created uncertainty around the position. By publicly committing to McKee before switching to Milton, Sirianni prevented the media cycle and opposing coaches from preparing for Milton's appearance.\n\nThe move raises questions about the credibility of coach-to-media communications and suggests Sirianni views press conferences as tactical tools rather than forums for transparent information sharing. Other head coaches have similarly withheld roster decisions until game day, framing the secrecy as competitive advantage rather than media management.\n\nThe Eagles' quarterback instability reflects deeper roster construction issues that have plagued the team this season.",
+      "tweets": []
+    },
+    {
+      "category": "media",
+      "importance": 3,
+      "leadHeadline": "Is Palmer's England career over under Tuchel?",
+      "leadSource": "BBC Sport · 4h ago",
+      "leadUrl": "https://www.bbc.co.uk/sport/football/articles/c9e8ll62rp68o?at_medium=RSS&amp;at_campaign=rss",
+      "summary": "Cole Palmer has been excluded from Thomas Tuchel's latest England squad, raising questions about whether his national team career is salvageable after the manager's arrival. Palmer's omission suggests a reassessment of the Chelsea winger's role in Tuchel's plans.",
+      "article": "Cole Palmer faces an uncertain England future after being excluded from Thomas Tuchel's latest squad selection. The Chelsea winger, who has represented England at the senior level, was not included in the latest roster announced by the new manager.\n\nTuchel's omission of Palmer signals a potential shift in how the England coaching staff evaluates attacking options. Palmer has demonstrated club-level form for Chelsea but has not yet secured a permanent role in the national team setup.\n\nBBC Sport's chief football writer Phil McNulty suggests that Palmer now faces a \"fight to save his England career,\" indicating that continued exclusions under Tuchel could effectively end his international prospects. The statement reflects the precarious position players occupy when a new manager takes over and begins reshaping squad composition.\n\nPalmer's exclusion comes amid broader questions about England's attacking depth. The squad has several established wingers and attacking options competing for limited spots, and Tuchel's squad selections will likely establish clear preferences among the competition.\n\nFor Palmer, the path forward involves impressing at club level and potentially forcing his way back into consideration for future squad calls. Under Tuchel, that appears to require evidence that Palmer offers something the manager values within his tactical framework.",
       "tweets": []
     }
   ],
@@ -2391,82 +2399,70 @@
     ],
     "source": "espn"
   },
-  "deals": [
-    {
-      "type": "acquisition",
-      "parties": "Fox Corporation ⇄ Roku",
-      "value_usd": 22000000000,
-      "term_years": null,
-      "league": "MULTI",
-      "headline": "Fox Corporation closes $22B Roku acquisition in six-month deal",
-      "storyIndex": 17,
-      "blurb": "Fox closed its $22 billion cash-and-stock acquisition of Roku, expanding streaming distribution for sports and traditional content.",
-      "capturedAt": "2026-11-06T17:44:56.711Z"
-    }
-  ],
+  "deals": [],
   "ratings": [],
   "ticket_prices": [],
   "sidebar": [
     {
-      "headline": "Is Palmer's England career over under Tuchel?",
-      "source": "BBC Sport · 1h ago",
-      "article": "Cole Palmer has been excluded from Thomas Tuchel's latest England squad, raising questions about his international future. The Chelsea winger was a regular under previous managers but has fallen out of favor with the new regime. Tuchel's tactical preferences and squad rotation appear to have worked against Palmer, who remains a standout performer in the Premier League. His omission signals either a philosophical shift in how England approaches wide-player selection, or a deeper concern about Palmer's form or fit. The decision marks a notable turn for a player who was considered a core piece of England's future plans. Whether Palmer can force his way back into contention depends on club form and whether Tuchel softens his stance in future windows."
+      "headline": "Yaxel Lendeborg is the NBA's most entertaining rookie – and he's not holding back",
+      "source": "The Guardian · 7h ago",
+      "article": "Yaxel Lendeborg, the Warriors' rookie, has emerged as one of the NBA's most compelling personalities in his first weeks in the league. The freshman has spent his early tenure antagonizing superstars, speaking his mind, and entertaining teammates and opponents alike with fearless interactions on and off the court.\n\nLendeborg's approach contrasts sharply with the cautious, media-trained standard among young players navigating their first professional season. Rather than deferring to established stars, he's engaged in verbal sparring and confrontational play that suggests a player unintimidated by the league's biggest names.\n\nThe Warriors organization has tolerated and even seemed to encourage Lendeborg's brash style, viewing his personality as an asset to the team's locker-room culture and fan engagement. His willingness to challenge superstars and speak candidly has earned him visibility and social media attention.\n\nWhether Lendeborg can sustain this approach while improving as a basketball player remains an open question. Young players who prioritize personality over production often find their novelty wears thin. But so far, Lendeborg has captured the imagination of NBA observers as a refreshing departure from the scripted, bland rookie norm."
+    },
+    {
+      "headline": "How Gotham FC re-tooled for another NWSL title run – this time as favorites",
+      "source": "The Guardian · 5h ago",
+      "article": "Gotham FC has positioned itself as the favorite for the 2026 NWSL Championship after winning two titles as the league's lowest seed in previous playoff runs. General manager Yael Averbuch West made the strategic decision to pursue consistency and regular-season dominance rather than relying on tournament luck.\n\nThe New Jersey club's path to sustained success involved targeted roster adjustments and tactical refinements designed to establish them as a top seed and maintain momentum throughout the season. After proving they could win championships through clutch playoff performances, Gotham now seeks to validate their quality through sustained excellence.\n\nTheir transition from underdog finalists to championship favorites reflects a maturing organization learning how to convert regular-season depth into postseason success. The shift signals confidence in their roster construction and a belief that they can compete and win without relying on surprise playoff runs.\n\nGotham's pursuit of consistent dominance in 2026 will test whether they can maintain the intensity and cohesion that carried them through improbable championship runs in previous seasons. The added pressure of being favorites creates new management challenges for a club accustomed to playing without expectation."
+    },
+    {
+      "headline": "'A beautiful story' as Bellingham brothers called up",
+      "source": "BBC Sport · 6h ago",
+      "article": "Jobe Bellingham's call-up to the England senior side alongside his brother Jude has been described as a beautiful story by the national team setup. The move marks a significant moment for the Bellingham family and represents the culmination of a lengthy path to senior international recognition for Jobe.\n\nWhile some observers might view the call-up as a surprise, BBC Sport's analysis suggests that Jobe's selection has been a long time coming based on his club performances and development trajectory. His inclusion alongside his brother Jude, already an established England regular, creates a unique family narrative within the national team context.\n\nThe dual call-up speaks to the quality of the Bellingham brothers' club-level performances and their readiness for senior international football. For Jobe specifically, the selection validates his progression through England's youth setup and his potential to contribute to the senior team.\n\nThe story carries emotional weight beyond the purely sporting dimension, offering a narrative that engages fans and media while also reflecting genuine competitive merit. England's willingness to include both brothers suggests confidence in their abilities and a commitment to selecting based on form rather than arbitrary family-related restrictions."
     },
     {
       "headline": "Which NHLers could make up Hockey Hall of Fame class of 2027?",
-      "source": "Sportsnet · just now",
-      "article": "As the Hockey Hall of Fame announces each new class, speculation immediately turns to the next cohort of potential inductees. The class of 2027 will draw from a generation of players who've recently retired or are nearing the end of their careers. Likely candidates include several Stanley Cup champions and record-holders whose on-ice accomplishments and longevity warrant serious consideration. The voting process accounts not only for statistical excellence but also for peer recognition and international impact. Some borderline cases generate debate among voters, and the Hall has historically balanced offensive stars with defensive specialists and goalies. The next class will likely include at least one defenseman and one goaltender alongside forward selections, maintaining the sport's positional diversity in the Hall's roster."
+      "source": "Sportsnet · 3h ago",
+      "article": "As the Hockey Hall of Fame prepares for its next induction class, Sportsnet's Ryan Dixon examines which NHLers currently in or approaching the twilight of their careers might comprise the 2027 cohort. The speculation process reflects the league's tradition of honoring players who have left lasting impacts on professional hockey.\n\nThe 2027 class will likely include retired players who have completed their careers and satisfy the Hall's eligibility requirements. Current discussions focus on which active or recently retired players have accumulated the resume credentials to merit induction.\n\nHall of Fame selection involves both statistical achievement and broader contributions to the sport, including leadership, longevity, and cultural impact. The annual speculation about future inductees engages hockey media and fans in ongoing debates about legacy and historical significance.\n\nDixon's analysis looks ahead to how the 2027 voting class might reward recent retirements and career completions, examining both obvious candidates and potential snubs that might generate discussion."
     },
     {
-      "headline": "Friday Four: Most interesting landing spots for Nikita Kucherov",
-      "source": "Sportsnet · 5h ago",
-      "article": "Nikita Kucherov's request for a trade out of Tampa Bay has set the NHL rumor mill spinning. The veteran winger remains an elite offensive talent with multiple Stanley Cup rings, yet his desire to leave the Lightning opens possibilities for several contending franchises. Michael Amato examines four teams that could realistically acquire Kucherov and leverage his playmaking and scoring. Each destination presents different salary-cap constraints and roster-construction questions. Tampa's asking price will reflect Kucherov's age and declining contract term, but the Lightning hold leverage if they're willing to retain salary. Contending teams in win-now windows may view Kucherov as the missing piece, though the trade package required could strip depth. The analysis explores whether each fit makes hockey and financial sense."
+      "headline": "Which familiar faces could Blue Jays reunite with in free agency?",
+      "source": "Sportsnet · 8h ago",
+      "article": "The Toronto Blue Jays face a disappointing 2026 season and are now exploring free agency targets, several of whom have prior connections to the organization. Nick Ashbourne examines which former Blue Jays and free agents with Toronto ties could serve as rebuilding pieces.\n\nThe team's underperformance has created urgency around roster reconstruction through the trade market and free agency. Reuniting with familiar players offers the advantage of organizational familiarity and the potential to rebuild team culture around known commodities.\n\nThe Blue Jays' front office must balance the allure of reuniting with proven performers against the reality that free agent pricing may not reflect the discounts that familiarity alone can provide. The examination of potential reunion targets reflects the team's effort to stabilize their position in the AL East.\n\nFree agency decisions will signal whether Toronto intends to pursue a quick turnaround or commit to a longer rebuilding timeline that accepts near-term losses in favor of long-term competitive positioning."
     },
     {
       "headline": "CFP Committee Is Giving SEC Teams Too Much Credit for Losses",
-      "source": "Deadspin · 3h ago",
-      "article": "The first College Football Playoff rankings reveal a familiar bias: the committee is rewarding SEC teams for quality wins while excusing losses as respectable. This pattern surfaced immediately when early releases showed SEC squads with identical or worse records ranked above non-conference peers. The explanation offered is typically a variation on strength of schedule or quality of opponent, but the underlying formula appears inconsistent. Teams that lose to top-25 opponents should receive credit for playing tough competition, yet the committee seems to apply this standard selectively. The problem compounds when mid-tier SEC wins are weighted as heavily as dominant performances by other conferences. If the committee continues this approach, it may inadvertently incentivize scheduling strategies that exploit the perceived SEC bias rather than testing teams fairly."
-    },
-    {
-      "headline": "Tallest women's college basketball player ever makes debut",
-      "source": "NY Post Sports · just now",
-      "article": "A Texas Tech basketball player made history this week by becoming the tallest women's college basketball player ever to step on court. The debut marks a rare entry into women's college hoops for an athlete of that vertical profile, raising questions about how she'll impact the game. Height advantages in basketball are well-documented, particularly on the boards and near the rim, but transition to college-level competition still requires technical skill and conditioning. The player's arrival comes as women's basketball continues to attract taller recruits, reflecting global development trends and increased investment in training. Observers will track whether the height differential translates to individual success and how opposing teams adjust defensively."
-    },
-    {
-      "headline": "2026 NWSL Playoffs: Prediction, bracket and schedule as experts make their picks",
-      "source": "CBS Sports · just now",
-      "article": "The Attacking Third analysts and CBS Sports editorial team have released their NWSL Championship predictions heading into the 2026 postseason. The bracket format, qualification routes, and playoff schedule set up a series of regional matchups before the finals. Expert picks span several teams, with consensus around a small group of contenders and outlier selections that reflect differing philosophies on playoff performance. Some experts weight regular-season dominance heavily, while others prioritize teams with momentum entering the tournament. The predictions also account for injury status, goalkeeper form, and defensive cohesion. Tiebreaker logic—goal differential, head-to-head results, and playoff seeding—will determine bracket positioning for late rounds, creating secondary narratives around tiebreak scenarios."
+      "source": "Deadspin · 6h ago",
+      "article": "The College Football Playoff Committee's first rankings of the season suggest a systematic bias favoring SEC teams, with the committee crediting SEC programs for close losses and excessively rewarding wins in a way that non-conference programs don't receive. The pattern raises fairness questions about how the Committee evaluates competitive quality.\n\nDeadspin's analysis examines instances where SEC teams received favorable treatment despite losses or weak wins, while comparable performances by non-SEC teams were penalized more severely in the rankings. The disparity suggests potential bias in how the Committee interprets strength of schedule and competitive context.\n\nThe Committee's ranking methodology has long attracted criticism for subjectivity in evaluating teams without clear statistical frameworks. The SEC bias appears to reflect a combination of historical prestige, perception of conference strength, and potential institutional favoritism.\n\nAs the playoff rankings progress throughout the season, this early evidence of SEC favoritism could influence which teams earn playoff berths and which are left out, potentially determining postseason opportunities. The Committee faces ongoing pressure to improve transparency and consistency in how it evaluates teams across conferences."
     }
   ],
   "poll": {
-    "question": "Which business story will have the biggest impact on sports in 2026?",
+    "question": "Will the Big Ten's $49M NIL cap prove sufficient to maintain conference competitiveness with the SEC and other Power Five leagues?",
     "options": [
-      "DraftKings' revenue miss and streaming player consolidation",
-      "Fox's Roku acquisition and sports broadcast distribution",
-      "LIV Golf's collapse and PGA Tour consolidation",
-      "NBA expansion to Mexico City and international growth"
+      "Yes, the cap level allows competitive rosters without reckless spending",
+      "No, SEC schools will find ways around it and gain recruiting advantages",
+      "Partially, competitive balance improves but other conferences will adapt",
+      "Too early to tell, we need a full recruiting cycle to evaluate impact"
     ]
   },
   "predictions": [
     {
-      "statement": "DraftKings will announce a strategic partnership or acquisition within 90 days to stabilize revenue growth and offset competitive losses.",
+      "statement": "At least one additional Power Five conference will adopt a formal NIL salary cap by the end of the 2026-27 academic year",
       "probability": 68,
-      "rationale": "The 28% single-day stock plunge and third round of layoffs signal crisis. Management must demonstrate a credible path to stability. A bolt-on acquisition or partnership with a major gaming or tech firm would signal confidence to markets. Pure operational restructuring has already failed twice."
+      "rationale": "The Big Ten's move creates precedent and pressure on competitors. The ACC faces financial pressures that might force regulation. The SEC will likely resist, but conference boards generally move toward alignment on labor cost structures once one peer adopts them."
     },
     {
-      "statement": "Fox will bid aggressively on a major sports property (NFL Thursday Night, MLB playoffs, or European soccer rights) within six months, leveraging Roku's platform as a differentiator.",
-      "probability": 62,
-      "rationale": "The Roku acquisition closes immediately, giving Fox new leverage in rights negotiations. The company now owns both content and distribution. This symmetry is powerful in pitching to leagues. However, Fox's traditional media revenues are also under pressure, limiting how aggressively it can bid without shareholder pushback."
+      "statement": "LIV Golf's creditors will recover less than 5 percent of their $100M in claims",
+      "probability": 72,
+      "rationale": "With only $2M available to split among $100M in claims, recovery math heavily favors minimal payouts. Bankruptcy asset liquidation typically yields 10-20 cents per dollar owed, and LIV's asset base appears depleted after years of Saudi funding losses and failed operations."
     },
     {
-      "statement": "Mexico City will be formally announced as an NBA expansion candidate by 2027, with franchise pricing and timeline disclosed.",
+      "statement": "Cole Palmer will earn an England senior cap within the next 18 months under Tuchel",
       "probability": 45,
-      "rationale": "The 35-game history is substantial, but expansion is not imminent. Silver has publicly prioritized Europe. Mexico's regulatory and currency risks may slow the timeline. A formal announcement requires owner approval and revenue projections, which typically emerge in 5–10 year windows, not shorter."
+      "rationale": "Palmer has demonstrated club form for Chelsea, creating a path back into consideration. However, Tuchel's omission signals he's not a current priority. Palmer must sustain elite club performances and wait for injuries or tactical shifts that reopen the door to selection."
     },
     {
-      "statement": "Gotham FC will win the 2026 NWSL Championship as the top seed, validating Averbuch West's shift away from low-seed-upset strategy.",
-      "probability": 38,
-      "rationale": "Gotham is the favorite, but playoff soccer is volatile. Single-elimination formats reward momentum and tactical flexibility more than regular-season depth. Gotham's prior two titles came as underdogs in high-pressure rounds. The new model is unproven in the postseason. Favorites win fewer than half of NWSL playoffs historically."
+      "statement": "Yaxel Lendeborg will still be in the NBA rotation by the 2027-28 season",
+      "probability": 58,
+      "rationale": "Personality alone doesn't sustain NBA careers, but Lendeborg's on-court production matters equally. If his skills develop proportionally to his confidence, he remains a legitimate roster piece. Regression to below-average play would accelerate his exit from the league."
     }
   ],
   "injuries": [
@@ -2476,23 +2472,23 @@
       "league": "SOCCER",
       "position": "FW",
       "status": "OUT",
-      "injury": "Unspecified injury",
-      "timeline": "Out for minimum five games",
-      "source": "BBC Sport",
-      "impact": "England faces England World Cup qualifying play-off matches without James, a key attacking contributor.",
-      "storyIndex": 3
+      "injury": "Lower body injury",
+      "timeline": "Minimum five games",
+      "source": "Sonia Bompastor, England manager",
+      "impact": "James' absence casts doubt on her availability for England's World Cup qualifying play-off matches and reduces attacking options for the Lionesses.",
+      "storyIndex": 1
     },
     {
-      "player": "United's Baleba",
+      "player": "Moisés Baleba",
       "team": "Manchester United",
       "league": "SOCCER",
-      "position": "",
+      "position": "MF",
       "status": "OUT",
-      "injury": "Unspecified injury",
-      "timeline": "Out for weeks",
-      "source": "The Guardian",
-      "impact": "Manchester United loses a key player for an extended period during a crucial stretch of the season.",
-      "storyIndex": 2
+      "injury": "Undisclosed",
+      "timeline": "Several weeks",
+      "source": "Manchester United injury report",
+      "impact": "Baleba's absence removes a midfield presence during a critical period for United's league performance.",
+      "storyIndex": 0
     }
   ],
   "picks": [
@@ -5928,30 +5924,30 @@
       "_pendingGrade": true
     }
   ],
-  "updatedAt": "2026-04-23T20:15:00Z",
+  "updatedAt": "2026-11-06T14:35:00Z",
   "highlights": [
     {
       "league": "NBA",
-      "title": "Warriors Six Game Win Streak has been ELECTRIC! ⚡️| Top Plays 🔥",
-      "videoId": "G37DvyN8Ags",
-      "thumbnail": "https://img.youtube.com/vi/G37DvyN8Ags/mqdefault.jpg",
-      "timeAgo": "3h ago",
+      "title": "Spurs with the teamwork to get the bucket off of the steal 🔥",
+      "videoId": "q6_k-m8bYLE",
+      "thumbnail": "https://img.youtube.com/vi/q6_k-m8bYLE/mqdefault.jpg",
+      "timeAgo": "1h ago",
       "isFallback": false
     },
     {
       "league": "NFL",
-      "title": "Stephen A. wouldn't be surprised if the Bears won the Super Bowl! 🏆 | First Take",
-      "videoId": "ze9sw5WALYk",
-      "thumbnail": "https://img.youtube.com/vi/ze9sw5WALYk/mqdefault.jpg",
-      "timeAgo": "Just now",
+      "title": "Would Philip Rivers be successful at NC State? | Move the Sticks",
+      "videoId": "t3I_7MNmYX8",
+      "thumbnail": "https://img.youtube.com/vi/t3I_7MNmYX8/mqdefault.jpg",
+      "timeAgo": "1h ago",
       "isFallback": false
     },
     {
       "league": "MLB",
-      "title": "Remember when Jacob Young juggled a baseball with his FOOT to make a catch? 😱",
-      "videoId": "MaEfiv_69hw",
-      "thumbnail": "https://img.youtube.com/vi/MaEfiv_69hw/mqdefault.jpg",
-      "timeAgo": "Just now",
+      "title": "Inside the Brewers' Game 3 EXPLOSION (Raw-Footage View)",
+      "videoId": "pLQVzCwAsxE",
+      "thumbnail": "https://img.youtube.com/vi/pLQVzCwAsxE/mqdefault.jpg",
+      "timeAgo": "1h ago",
       "isFallback": false
     },
     {
@@ -5959,7 +5955,7 @@
       "title": "Too Cooley for One Goal 😎",
       "videoId": "bxap3dE8foU",
       "thumbnail": "https://img.youtube.com/vi/bxap3dE8foU/mqdefault.jpg",
-      "timeAgo": "2h ago",
+      "timeAgo": "5h ago",
       "isFallback": false
     },
     {
@@ -5967,7 +5963,7 @@
       "title": "Warriors Sounded Off on the Energy in Ballhalla After Game 1 🗣️",
       "videoId": "STV1v4o4nns",
       "thumbnail": "https://img.youtube.com/vi/STV1v4o4nns/mqdefault.jpg",
-      "timeAgo": "20h ago",
+      "timeAgo": "23h ago",
       "isFallback": false
     },
     {
@@ -5975,11 +5971,107 @@
       "title": "His son will carry on his SIUUUU legacy 😂 (via @cristiano/IG)",
       "videoId": "746uQjTLDew",
       "thumbnail": "https://img.youtube.com/vi/746uQjTLDew/mqdefault.jpg",
-      "timeAgo": "4h ago",
+      "timeAgo": "7h ago",
       "isFallback": false
     }
   ],
   "reels": [
+    {
+      "league": "NBA",
+      "title": "Spurs with the teamwork to get the bucket off of the steal 🔥",
+      "videoId": "q6_k-m8bYLE",
+      "author": "NBA",
+      "pubDate": "2026-11-06T20:10:05+00:00",
+      "link": "https://www.youtube.com/watch?v=q6_k-m8bYLE"
+    },
+    {
+      "league": "NBA",
+      "title": "Luka and Austin always bring the energy 😂",
+      "videoId": "K8twwRmoME0",
+      "author": "NBA",
+      "pubDate": "2026-11-06T20:09:45+00:00",
+      "link": "https://www.youtube.com/watch?v=K8twwRmoME0"
+    },
+    {
+      "league": "NBA",
+      "title": "Throwback to when Dylan Harper crashed Stephon Castle’s 2025 Emirates NBA Cup Media Day😂 🏆",
+      "videoId": "XWSdpqBOPfk",
+      "author": "NBA",
+      "pubDate": "2026-11-06T20:08:59+00:00",
+      "link": "https://www.youtube.com/watch?v=XWSdpqBOPfk"
+    },
+    {
+      "league": "NBA",
+      "title": "Just a happy guy man 😆",
+      "videoId": "aC-dFIyM92M",
+      "author": "NBA",
+      "pubDate": "2026-11-06T20:08:36+00:00",
+      "link": "https://www.youtube.com/watch?v=aC-dFIyM92M"
+    },
+    {
+      "league": "MLB",
+      "title": "Inside the Brewers' Game 3 EXPLOSION (Raw-Footage View)",
+      "videoId": "pLQVzCwAsxE",
+      "author": "MLB",
+      "pubDate": "2026-11-06T20:00:29+00:00",
+      "link": "https://www.youtube.com/watch?v=pLQVzCwAsxE"
+    },
+    {
+      "league": "NFL",
+      "title": "Would Philip Rivers be successful at NC State? | Move the Sticks",
+      "videoId": "t3I_7MNmYX8",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-11-06T19:57:27+00:00",
+      "link": "https://www.youtube.com/watch?v=t3I_7MNmYX8"
+    },
+    {
+      "league": "NFL",
+      "title": "Trevor Lawrence is BALLIN' &amp; the Jaguars' defense was SO GOOD 🆚 the Ravens ‼️ | The Pat McAfee Show",
+      "videoId": "xVoHzOwInlg",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-11-06T19:39:54+00:00",
+      "link": "https://www.youtube.com/watch?v=xVoHzOwInlg"
+    },
+    {
+      "league": "NFL",
+      "title": "Is Jonah Coleman an RB2 Until Further Notice?! #nfl #fantasyfootball",
+      "videoId": "nhn4ZkZKVBw",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-11-06T19:00:29+00:00",
+      "link": "https://www.youtube.com/watch?v=nhn4ZkZKVBw"
+    },
+    {
+      "league": "NFL",
+      "title": "NFL TRADE DEADLINE BUZZ! 👀 Jonathan Taylor, Daniel Jones + MORE | The Rich Eisen Show",
+      "videoId": "gk-cwhRu6R8",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-11-06T18:57:32+00:00",
+      "link": "https://www.youtube.com/watch?v=gk-cwhRu6R8"
+    },
+    {
+      "league": "NFL",
+      "title": "5 Reasons Why The Jaguars Are ELITE",
+      "videoId": "kYV_WBWecu0",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-11-06T18:53:14+00:00",
+      "link": "https://www.youtube.com/watch?v=kYV_WBWecu0"
+    },
+    {
+      "league": "MLB",
+      "title": "CC Sabathia goes behind the grill to cook up a viral NYC burger 🤤🍔",
+      "videoId": "ULuHY9rm-iA",
+      "author": "MLB",
+      "pubDate": "2026-11-06T18:30:11+00:00",
+      "link": "https://www.youtube.com/watch?v=ULuHY9rm-iA"
+    },
+    {
+      "league": "MLB",
+      "title": "Team Mexico vs. Team Great Britain: Full Game (3/6/2026) | 2026 World Baseball Classic",
+      "videoId": "JHInqhmN8N4",
+      "author": "MLB",
+      "pubDate": "2026-11-06T18:00:23+00:00",
+      "link": "https://www.youtube.com/watch?v=JHInqhmN8N4"
+    },
     {
       "league": "NFL",
       "title": "Stephen A. wouldn't be surprised if the Bears won the Super Bowl! 🏆 | First Take",
@@ -6013,30 +6105,6 @@
       "link": "https://www.youtube.com/watch?v=7Axg8wKLZLo"
     },
     {
-      "league": "NFL",
-      "title": "🚨 Start, Sit, or Stream? Final Week 9 Fantasy Decisions to Win Your Week! | Fantasy Focus 🏈",
-      "videoId": "Y7-X4DX5Zds",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-11-06T16:39:37+00:00",
-      "link": "https://www.youtube.com/watch?v=Y7-X4DX5Zds"
-    },
-    {
-      "league": "NFL",
-      "title": "Jared Verse FRUSTRATED with his own team?! 😳 Get Up crew reacts",
-      "videoId": "6y7r0HiYadQ",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-11-06T16:22:30+00:00",
-      "link": "https://www.youtube.com/watch?v=6y7r0HiYadQ"
-    },
-    {
-      "league": "NFL",
-      "title": "Is Greg Dulcich the Top TE Streamer in Week 9? #nfl #fantasyfootball",
-      "videoId": "e6vVJoFetRw",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-11-06T16:15:15+00:00",
-      "link": "https://www.youtube.com/watch?v=e6vVJoFetRw"
-    },
-    {
       "league": "MLB",
       "title": "WATCH THEM RUN! Every INSIDE-THE-PARK HOMER from the 2026 season! 🏃‍♂️‍➡️ (Ft. Wood, Lee &amp; MORE!)",
       "videoId": "L2tYNn2UNLQ",
@@ -6051,22 +6119,6 @@
       "author": "NHL",
       "pubDate": "2026-11-06T16:00:26+00:00",
       "link": "https://www.youtube.com/watch?v=bxap3dE8foU"
-    },
-    {
-      "league": "NFL",
-      "title": "Dan O: Vikings starting Carson Wentz is 'NECESSARY' + Bears have ALL the momentum! | Get Up",
-      "videoId": "uK57xT_YjpM",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-11-06T15:59:51+00:00",
-      "link": "https://www.youtube.com/watch?v=uK57xT_YjpM"
-    },
-    {
-      "league": "NFL",
-      "title": "Stephen A. wants to see more emotion from Dak 👀",
-      "videoId": "XVV5Qsl7f1Y",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-11-06T15:56:30+00:00",
-      "link": "https://www.youtube.com/watch?v=XVV5Qsl7f1Y"
     },
     {
       "league": "MLB",
@@ -6133,22 +6185,6 @@
       "link": "https://www.youtube.com/watch?v=zxgN8xTI9ME"
     },
     {
-      "league": "NBA",
-      "title": "Yaxel messing with Draymond during his post game interview 😂",
-      "videoId": "ioihsArKIGs",
-      "author": "NBA",
-      "pubDate": "2026-11-06T06:03:44+00:00",
-      "link": "https://www.youtube.com/watch?v=ioihsArKIGs"
-    },
-    {
-      "league": "NBA",
-      "title": "HEAT at WARRIORS | FULL GAME HIGHLIGHTS | November 5, 2026",
-      "videoId": "ufkeiEsJrx0",
-      "author": "NBA",
-      "pubDate": "2026-11-06T05:58:15+00:00",
-      "link": "https://www.youtube.com/watch?v=ufkeiEsJrx0"
-    },
-    {
       "league": "NHL",
       "title": "Game Over. Thanks, Stammer. 🚨💥",
       "videoId": "z-l2UhGvSYs",
@@ -6179,22 +6215,6 @@
       "author": "NHL",
       "pubDate": "2026-11-06T04:54:00+00:00",
       "link": "https://www.youtube.com/watch?v=pal9aBfY-0I"
-    },
-    {
-      "league": "NBA",
-      "title": "MAGIC at SUNS | FULL GAME HIGHLIGHTS | November 5, 2026",
-      "videoId": "jOnSyL073rY",
-      "author": "NBA",
-      "pubDate": "2026-11-06T04:44:13+00:00",
-      "link": "https://www.youtube.com/watch?v=jOnSyL073rY"
-    },
-    {
-      "league": "NBA",
-      "title": "Devin Booker was COOKING with 30 PTS vs Magic | November 5, 2026",
-      "videoId": "LlabToBi4y4",
-      "author": "NBA",
-      "pubDate": "2026-11-06T04:42:14+00:00",
-      "link": "https://www.youtube.com/watch?v=LlabToBi4y4"
     },
     {
       "league": "NHL",
@@ -6237,14 +6257,6 @@
       "link": "https://www.youtube.com/watch?v=Eq82kWmp8Ps"
     },
     {
-      "league": "MLB",
-      "title": "Team Netherlands vs. Team Venezuela: Full Game (3/6/2026) | 2026 World Baseball Classic",
-      "videoId": "zeOm7ItBdKg",
-      "author": "MLB",
-      "pubDate": "2026-11-06T00:00:32+00:00",
-      "link": "https://www.youtube.com/watch?v=zeOm7ItBdKg"
-    },
-    {
       "league": "SOCCER",
       "title": "How will Andoni Iraola adjust after Liverpool’s disappointing UCL defeat? | ESPN FC Extra Time",
       "videoId": "yyq8oQE_9cw",
@@ -6283,22 +6295,6 @@
       "author": "ESPN FC",
       "pubDate": "2026-11-05T23:09:39+00:00",
       "link": "https://www.youtube.com/watch?v=v76fa9fOFHM"
-    },
-    {
-      "league": "WNBA",
-      "title": "Warriors Sounded Off on the Energy in Ballhalla After Game 1 🗣️",
-      "videoId": "STV1v4o4nns",
-      "author": "WNBA",
-      "pubDate": "2026-11-05T22:06:57+00:00",
-      "link": "https://www.youtube.com/watch?v=STV1v4o4nns"
-    },
-    {
-      "league": "WNBA",
-      "title": "Celeb Row Was STACKED for Game 1 of the WNBA Finals 🌟",
-      "videoId": "pahnsYn0TKM",
-      "author": "WNBA",
-      "pubDate": "2026-11-05T22:06:02+00:00",
-      "link": "https://www.youtube.com/watch?v=pahnsYn0TKM"
     }
   ]
 }
