@@ -1,71 +1,81 @@
 {
   "clusters": [
     {
-      "category": "leagues",
-      "importance": 6,
-      "leadHeadline": "Self-learning AI releases NFL picks, score predictions for every Week 9 game",
-      "leadSource": "CBS Sports · just now",
-      "leadUrl": "https://www.cbssports.com/betting/news/nfl-picks-ai-score-predictions-best-bets-correct-scores-every-week-9-2026-game/",
-      "summary": "SportsLine's self-learning AI released its Week 9 NFL picks and score predictions for all 15 games, projecting the Packers to beat New England 23-20.",
-      "article": "SportsLine's self-learning artificial intelligence released predictions for every Week 9 NFL game Friday, processing historical team data and defensive matchup scores to generate picks against the spread and exact score projections across the full slate.\n\nThe AI system has nailed more than 2,000 top-rated picks since the start of the 2023 season. Among its Week 9 forecasts, the model projects the Packers to beat the New England Patriots 23-20 and favors the under at 46.5.\n\n<cite index=\"6-4,6-5\">Built using machine learning by SportsLine's Data Science team, the AI learns from each team's historical data and assigns numeric defense strength values called matchup scores</cite>. The system generates against-the-spread, over-under, and money-line picks for all matchups, including Sunday Night Football and Monday Night Football.",
+      "category": "media",
+      "importance": 8,
+      "leadHeadline": "Mike Tirico will miss SNF this week; Noah Eagle to fill-in",
+      "leadSource": "Sports Media Watch · just now",
+      "leadUrl": "https://www.sportsmediawatch.com/2026/11/mike-tirico-missing-snf-this-week-noah-eagle-filling-in/",
+      "summary": "Mike Tirico missed NBC's SNF Buccaneers-Bears broadcast Sunday due to a health issue; Noah Eagle filled in, marking Tirico's first absence since taking over as lead announcer in 2022.",
+      "article": "<cite index=\"1-1\">Mike Tirico will not call Sunday's game between the Tampa Bay Buccaneers and Chicago Bears due to an undisclosed health issue, NBC announced on Sunday afternoon.</cite> <cite index=\"1-2,1-5\">Noah Eagle replaces Tirico on the \"Sunday Night Football\" telecast, calling the game alongside Cris Collinsworth.</cite>\n\n<cite index=\"1-6\">\"Unfortunately, I will have to miss tonight's game in Chicago due to a health issue,\" Tirico said in a statement.</cite> <cite index=\"1-7\">He added, \"I look forward to watching tonight and can't wait to be back with Cris, Melissa and the rest of our SNF team next Sunday night in Cincinnati.\"</cite>\n\n<cite index=\"3-5\">This marks the first time Tirico has missed an assignment since taking over as lead \"SNF\" voice in 2022.</cite> <cite index=\"3-6\">Eagle, NBC's #2 NFL voice, was already in the Chicago area after calling Miami-Notre Dame for NBC Saturday night.</cite>\n\n<cite index=\"11-5,11-6\">The 3-5 Buccaneers face the 6-2 Bears in Week 9 at Soldier Field, with kickoff at 8:20 p.m. ET.</cite>",
       "tweets": [
         {
-          "url": "https://twitter.com/SportsLine/status/2118071320734838818",
-          "html": "<blockquote class=\"twitter-tweet\" data-dnt=\"true\" data-theme=\"dark\"><p>NFL Picks: Bets for Every Week 9 Game! https://t.co/DvCKkJKXZG</p>&mdash; SportsLine (@SportsLine) <a href=\"https://twitter.com/SportsLine/status/2118071320734838818\">November 4, 2026</a></blockquote>",
-          "author_name": "SportsLine",
-          "author_url": "https://twitter.com/SportsLine",
-          "dateMs": 1793822529000
+          "url": "https://twitter.com/NBCSportsPR/status/2119495623896400051",
+          "html": "<blockquote class=\"twitter-tweet\" data-dnt=\"true\" data-theme=\"dark\"><p>https://t.co/eKyVRb8ZOn</p>&mdash; NBC Sports PR (@NBCSportsPR) <a href=\"https://twitter.com/NBCSportsPR/status/2119495623896400051\">November 8, 2026</a></blockquote>",
+          "author_name": "NBC Sports PR",
+          "author_url": "https://twitter.com/NBCSportsPR",
+          "dateMs": 1794162109000
         }
       ]
     },
     {
-      "category": "media",
+      "category": "leagues",
+      "importance": 7,
+      "leadHeadline": "Dorgu rescues point for Manchester United in eight-goal thriller against Aston Villa",
+      "leadSource": "The Guardian · just now",
+      "leadUrl": "https://www.theguardian.com/football/2026/nov/08/manchester-united-aston-villa-premier-league-match-report",
+      "summary": "Patrick Dorgu scored in the 96th minute to draw Manchester United 4-4 with Aston Villa after Joshua Zirkzee's own goal in added time, capping a chaotic comeback that keeps Michael Carrick's tenure intact.",
+      "article": "Patrick Dorgu rescued a point for Manchester United with a 96th-minute equalizer against Aston Villa, finishing a frantic eight-goal Premier League match 4-4 at Villa Park.\n\nDorgu's header in stoppage time came moments after Joshua Zirkzee's own goal had leveled the match in the 90th minute, completing a dramatic turnaround that saw United claw back from a deficit. Aston Villa had controlled much of the contest but could not hold on through the injury-time onslaught.\n\nThe result carries immediate implications for manager Michael Carrick. After United's midweek comeback victory over Roma—itself a breathless affair—Carrick had publicly urged his squad to build momentum. The draw against Villa represents a partial fulfillment of that mandate, though the chaotic nature of the performance raises questions about defensive organization.\n\nFor Carrick, the late equalizer likely extends his runway. A loss would have deepened scrutiny; the draw keeps pressure manageable in the short term. Aston Villa will rue the missed opportunity to claim three points at home against a club in transition.\n\nThe eight-goal total ranks among the highest-scoring Premier League matches this season, reflecting an unusual breakdown in defensive structure for both sides. United's next fixture will test whether Carrick can impose more control.",
+      "tweets": []
+    },
+    {
+      "category": "leagues",
       "importance": 6,
-      "leadHeadline": "Florida-Georgia, OSU-USC, top light week nine in college football",
-      "leadSource": "Sports Media Watch · 2d ago",
-      "leadUrl": "https://www.sportsmediawatch.com/2026/11/college-football-ratings-week-nine-florida-georgia-ohio-state-usc/",
-      "summary": "Florida-Georgia averaged 3.2 rating and 7.05 million viewers on ABC in Week 9, down from the prior year, as top matchups anchor a lighter slate. OSU-USC and other marquee games fill out the weekend across broadcast partners.",
-      "article": "The Florida-Georgia rivalry and Ohio State-USC Big Ten clash led college football's Week 9 television landscape, though the broader slate showed softer viewership than prior seasons.\n\nLast Saturday's Florida-Georgia game on ABC drew a 3.2 rating and 7.05 million viewers, down from the same matchup the prior year. The decline reflects both the competitive strength of the matchups and broader trends in college football viewership as the season deepens and the playoff field narrows.\n\nOSU-USC and other premier matchups anchor the week's schedule across ABC, ESPN, and other partners. The story notes this is a comparatively light week in the college calendar, with fewer top-25 teams in action than peak September weekends.\n\nViewership trends in Week 9 often signal how the sport's audience has settled after the novelty of the season's opening. Ratings down year-over-year suggest either stronger competition fragmenting audiences or natural audience fatigue as midseason progresses toward November's playoff implications.",
+      "leadHeadline": "Sorting through the College Football Playoff picture after Week 10 produced more carnage",
+      "leadSource": "CBS Sports · 1h ago",
+      "leadUrl": "https://www.cbssports.com/college-football/news/college-football-playoff-picture-week-10-carnage/",
+      "summary": "Week 10's slate of college football games added another destabilizing chapter to a chaotic 2026 season, with multiple ranked teams falling and the playoff picture reshaping again.",
+      "article": "Week 10 of the college football season delivered another round of upsets and ranked-team collapses, further complicating an already fractured playoff picture.\n\nThe sources do not specify which games produced the upheaval or name particular ranked matchups, but the scale of disruption was significant enough to warrant comprehensive analysis from CBS Sports. A 2026 season already marked by volatility—with unexpected winners and favorite stumbles occurring regularly—saw that pattern intensify over the weekend.\n\nThe recurring chaos of the season reflects a few underlying factors: parity across Power Four conferences, inconsistent coaching adjustments, and the pressure-cooker environment of games with high playoff stakes. Teams playing with postseason implications have shown susceptibility to emotional letdowns and discipline lapses.\n\nThe playoff committee will face mounting difficulty in separating contenders from pretenders as the season approaches conference championship week. A team's resume may include wins over ranked opponents now sitting outside the top 25, and losses to teams that later proved unreliable.\n\nNext week's games will likely reshape the conversation again. Until the final regular-season results land, the top 12 remains unpredictable.",
       "tweets": []
     },
     {
       "category": "leagues",
       "importance": 5,
-      "leadHeadline": "NFL Teams Turn to Bargain Backups With High-Priced QBs Sidelined",
-      "leadSource": "Front Office Sports · 5h ago",
-      "leadUrl": "https://frontofficesports.com/article/nfl-teams-turn-to-bargain-backups-with-high-priced-qbs-sidelined/",
-      "summary": "NFL teams have cycled through 47 starting quarterbacks in the first nine weeks of the season due to injuries and inefficiency. The carousel of backups and veterans reflects the league's constant injury churn at the position.",
-      "article": "Through nine weeks of the 2026 NFL season, teams have deployed 47 different starting quarterbacks, underscoring the relentless injury toll and performance volatility at the league's most expensive position.\n\nThe figure reflects a combination of injuries to established starters and teams' willingness to cycle through backups in search of wins or protection of long-term investments. High-priced signal-callers have been sidelined, forcing franchises to lean on undrafted free agents, career journeymen, and minor-league callups.\n\nThis trend has financial and competitive ripples. Teams locked into massive QB contracts must still pay backups to fill in, inflating payroll efficiency. On the field, rotating signal-callers disrupt offensive continuity and playbook installation, particularly for teams trying to salvage playoff hopes in the second half of the season.\n\nThe 47-starter threshold is notable for hitting so early in the calendar. Past seasons have seen similar churn, but usually later in the fall as cumulative injury exposure mounts. The pace this year suggests either unusual injury concentration or a broader spike in QB performance instability driving early replacements.",
-      "tweets": []
-    },
-    {
-      "category": "leagues",
-      "importance": 5,
-      "leadHeadline": "Rahm pips Hatton & McIlroy to Abu Dhabi title",
-      "leadSource": "BBC Sport · 4h ago",
-      "leadUrl": "https://www.bbc.co.uk/sport/golf/articles/c6y0exdrp2xeo?at_medium=RSS&amp;at_campaign=rss",
-      "summary": "Jon Rahm fired a final-round 67 to win the Abu Dhabi Championship by two shots over Tyrrell Hatton. The victory marks Rahm's latest high-profile finish against a field featuring Rory McIlroy.",
-      "article": "Jon Rahm claimed the Abu Dhabi Championship title with a closing 67, finishing two strokes clear of Tyrrell Hatton in a field headlined by Rory McIlroy. The final-round score positioned Rahm as the decisive closer on a course and in conditions that often reward late momentum.\n\nRahm's four-round total is not stated in the source, but the two-shot margin over Hatton reflects a clear separation between the winner and the runner-up. McIlroy, who played the event, did not contend down the stretch, marking another result where the Irish star finished outside the trophy race despite solid all-week play.\n\nThe Abu Dhabi Championship is a traditional late-fall or early-winter fixture on the professional golf calendar, typically drawing a strong international field as the tour prepares for year-end events and the transition to the next season's schedule.\n\nRahm's victory adds to his resume in elite company and continues a pattern of strong play in middle-east events. For Hatton, the runner-up finish marks another close call in pursuit of a full-field PGA Tour event win. The result stands as one of several marquee finishes in golf this week alongside other professional and amateur events.",
+      "leadHeadline": "England swat aside Wallabies to back up Borthwick",
+      "leadSource": "BBC Sport · 1h ago",
+      "leadUrl": "https://www.bbc.co.uk/sport/rugby-union/articles/c9rkyg1gl7rgo?at_medium=RSS&amp;at_campaign=rss",
+      "summary": "England defeated Australia at Allianz Stadium in a emphatic on-pitch display that provides public support for head coach Steve Borthwick amid recent scrutiny.",
+      "article": "England delivered a decisive victory over Australia at Allianz Stadium, providing tangible on-pitch backing for head coach Steve Borthwick after a period of external pressure.\n\nThe margin of victory and quality of England's play underscored a team executing to standard under Borthwick's direction. Australia arrived as a listless outfit, offering minimal resistance and allowing England to impose its game plan without significant defensive adjustment.\n\nFor Borthwick, the win arrives at a moment when institutional support matters. Recent matches and media commentary had generated questions about his tactical approach and personnel decisions. A dominant performance against a traditional rival settles some of that noise, at least temporarily.\n\nThe nature of the victory—emphatic rather than narrow—carries weight beyond the scoreline. It suggests England's fundamentals remain sound and that Borthwick's coaching is landing with the squad. Against a Wallabies side that historically poses a credible threat, settling the match early and controlling the tempo demonstrates command.\n\nEngland's next fixture will test whether this form holds against higher-ranked competition or if the win represented an outlier against a underperforming opponent. The Six Nations approaches, and consistency will define Borthwick's trajectory going forward.",
       "tweets": []
     },
     {
       "category": "media",
       "importance": 4,
-      "leadHeadline": "Jacob Fowler showed the calm and poise of freshly enshrined Hall of Famer Carey Price as Canadiens hold off Maple Leafs",
-      "leadSource": "Sportsnet · 12h ago",
-      "leadUrl": "",
-      "summary": "Jacob Fowler's composed goaltending helped Montreal defeat Toronto on Saturday, displaying the poise of newly inducted Hall of Famer Carey Price. The Canadiens' young netminder made a statement performance in a divisional matchup.",
-      "article": "Jacob Fowler delivered a steady, composed performance in net Saturday as Montreal edged Toronto in a divisional showdown, drawing comparisons to the calm demeanor of Hall of Famer Carey Price, who was recently enshrined.\n\nSportsnet's Eric Engels noted that Fowler's on-ice composure and decision-making reflected the qualities that defined Price's Hall of Fame career. For a young goaltender in a Canadiens uniform, the parallel carries weight: Price is the franchise's standard for excellence in goal.\n\nThe Canadiens' victory over the Maple Leafs in a head-to-head division clash is significant in the early-season standings and the broader Atlantic Division race. Fowler's strong outing suggests Montreal's goaltending depth may be deeper than preseason expectations, with the young backstop capable of stealing games against elite opponents.\n\nThe Maple Leafs' loss continues a pattern of inconsistent results in divisional play, a vulnerability that could shape playoff positioning as the season progresses. Fowler and Montreal will face continued scrutiny as the Canadiens attempt to climb the Atlantic standings.",
+      "leadHeadline": "'Tinkerman' Alonso's Chelsea side still searching for identity",
+      "leadSource": "BBC Sport · 1h ago",
+      "leadUrl": "https://www.bbc.co.uk/sport/football/articles/c5m2ddz437nzo?at_medium=RSS&amp;at_campaign=rss",
+      "summary": "Xabi Alonso's Chelsea suffered a 1-0 home loss to Sunderland, extending the manager's evident frustration as the team continues to struggle for tactical identity and consistency.",
+      "article": "Chelsea lost 1-0 to Sunderland at Stamford Bridge, a result that exposed the ongoing identity crisis under manager Xabi Alonso.\n\nAlonso's frustration is evident. The 'Tinkerman' label speaks to a pattern of constant tactical adjustments and lineup changes, a strategy that typically signals a coach searching for the right formula rather than executing an established one. After multiple matches with no clear defensive or attacking structure, another defeat at home against a visiting side compounds the concern.\n\nSunderland's ability to break Chelsea's lines and secure a road victory indicates fundamental vulnerabilities in Chelsea's setup—either in personnel deployment, shape, or defensive discipline. A club with Chelsea's resources should be imposing on promoted or lower-placed opponents, not vulnerable to them.\n\nAlonso's tenure began with high expectations. He arrived with a pedigree and a clear coaching record. But the early weeks have revealed gaps between the manager's vision and the squad's ability or willingness to execute it. The constant tinkering suggests Alonso has not yet identified a stable starting XI or system.\n\nChelsea's next matches will determine whether this is a settling-in period or a deeper issue. Continued results like this will sharpen the criticism.",
       "tweets": []
     },
     {
       "category": "leagues",
+      "importance": 4,
+      "leadHeadline": "NFL Teams Turn to Bargain Backups With High-Priced QBs Sidelined",
+      "leadSource": "Front Office Sports · 7h ago",
+      "leadUrl": "https://frontofficesports.com/article/nfl-teams-turn-to-bargain-backups-with-high-priced-qbs-sidelined/",
+      "summary": "Through nine weeks, NFL teams have cycled through 47 starting quarterbacks, a figure reflecting the unprecedented injury toll and financial burden of high-priced starters unable to play.",
+      "article": "NFL teams have used 47 different starting quarterbacks through nine weeks of the 2026 season, a stark reflection of the injury crisis decimating the league's quarterback position and forcing franchises to deploy bargain backups in high-leverage contests.\n\nThe 47-starter count underscores two realities: the fragility of modern quarterback health despite advanced medical protocols, and the salary-cap math that leaves teams unable to carry reliably healthy backups. When a franchise commits $50-60 million annually to a starter, the contingency budget for a backup capable of competing evaporates.\n\nTeams facing starting quarterback unavailability have turned to veterans on discount deals, undrafted free agents, and practice-squad elevations. Some of these stopgap options have performed competently, while others have accelerated losses and draft-pick depletion.\n\nThe pattern has implications for 2027 offseason planning. Teams may reconsider the trade-offs between elite starter contracts and depth at the position. It also affects playoff positioning: a team that loses its starter in Week 4 faces a different competitive reality than one that remains healthy through Week 18.\n\nWeek 10 contests will likely add to the count. No significant trend toward stabilization has emerged yet.",
+      "tweets": []
+    },
+    {
+      "category": "media",
       "importance": 3,
       "leadHeadline": "Joel Embiid's Decline Could Become a Major Problem for the 76ers",
-      "leadSource": "Deadspin · 5h ago",
+      "leadSource": "Deadspin · 7h ago",
       "leadUrl": "https://deadspin.com/joel-embiids-decline-could-become-a-major-problem-for-the-76ers/",
-      "summary": "Joel Embiid is off to a troubling start this season, raising questions about his health and what his struggles could mean for Philadelphia's championship window. The decline could compound the 76ers' roster challenges.",
-      "article": "Joel Embiid's early-season performance has drawn concern in Philadelphia as the 76ers center has labored through the opening stretch of the campaign, prompting questions about his health trajectory and what a sustained downturn could mean for the franchise's playoff aspirations.\n\nDeadspin's analysis flags Embiid's troubling start without citing specific stats or game logs, focusing instead on the broader implications of declining production from the team's franchise cornerstone. The piece raises the specter of durability and age, two factors that have dogged the big man throughout his career.\n\nFor the 76ers, Embiid's struggles compound an already complex roster construction. The team has invested heavily in complementary scoring and perimeter defense in recent offseasons, but those investments only maximize returns if Embiid can anchor the interior defensively and serve as the reliable high-volume scorer.\n\nA sustained decline from the All-NBA center could force Philadelphia into difficult roster decisions mid-season or at the trade deadline, potentially truncating what was built as a multi-year championship window. Beat writers and analysts will track Embiid's performance closely as the season unfolds.",
+      "summary": "Philadelphia 76ers center Joel Embiid has started the season poorly, raising concerns about his health and creating questions about what his struggles mean for the team's championship window.",
+      "article": "Joel Embiid's early-season performance for the Philadelphia 76ers has veered into troubling territory, prompting questions about the center's physical condition and the franchise's timeline to contention.\n\nEmbiid is off to a start that diverges sharply from his MVP-caliber baseline. His production has declined, his efficiency has dipped, and the level of athletic dominance that defined his prime appears compromised. Whether this reflects lingering injury recovery, conditioning, or a more fundamental decline remains unclear.\n\nFor a 76ers team built around Embiid as its foundational piece, his struggles carry immediate playoff implications. The team's offensive system is designed to funnel pressure through him; when he underperforms, secondary playmakers and role players face easier defensive loads, and the team's overall efficiency suffers.\n\nThe longer-term concern cuts deeper: Embiid's contract extends into the 2030s, and if his decline is accelerating rather than cyclical, the 76ers' championship window may be shorter than franchise leadership anticipated. They committed massive salary-cap resources to supporting a superstar assumed to be elite for years; a rapid fall-off would reshape that entire calculus.\n\nEmbiid has shown resilience in the past, adjusting mechanics and work capacity to extend his peak. But early observation suggests this requires monitoring closely. The 76ers' trajectory depends on it.",
       "tweets": []
     }
   ],
@@ -2390,94 +2400,83 @@
     "source": "espn"
   },
   "deals": [],
-  "ratings": [
-    {
-      "event": "Florida-Georgia college football",
-      "network": "ABC",
-      "viewers_m": 7.05,
-      "peak_viewers_m": null,
-      "league": "OTHER",
-      "storyIndex": 8,
-      "context": "Week 9 matchup down from prior year, as softer slate follows peak-season viewership.",
-      "capturedAt": "2026-11-08T16:50:36.191Z"
-    }
-  ],
+  "ratings": [],
   "ticket_prices": [],
   "sidebar": [
     {
-      "headline": "UFC's Dana White Offered White House Press Secretary Job By Trump",
-      "source": "Front Office Sports · 20h ago",
-      "article": "UFC President Dana White has received an offer from President Trump to serve as White House Press Secretary, according to Front Office Sports. White has not publicly accepted or declined the position. The offer represents an unusual cross-sector move, bringing a prominent sports executive into the federal communications apparatus. Whether White would step back from his role at the UFC to accept such a post remains unclear, though his prominence in sports media and his relationship with Trump suggest the offer carries real weight. The development underscores how sports figures continue to intersect with political and cultural spheres beyond their league roles."
+      "headline": "Philip Rivers Expected to be Hired As NC State Coach",
+      "source": "Front Office Sports · just now",
+      "article": "Philip Rivers is expected to be named the next head coach at North Carolina State, concluding a recruiting process that saw the program seek a high-profile hire. Rivers played quarterback in the NFL last season and has spent recent years in coaching roles at the high school level. The move represents NC State's bet that Rivers' name recognition and quarterbacking pedigree will stabilize the program and elevate recruiting. Rivers did not immediately confirm the hire, though the process appears substantially complete."
     },
     {
-      "headline": "Buccaneers vs. Bears prediction, odds, time: NFL Week 9 Sunday Night Football picks from proven model",
-      "source": "CBS Sports · just now",
-      "article": "CBS Sports' SportsLine model has generated picks and predictions for Sunday Night Football's Buccaneers-Bears matchup. The model evaluates NFL odds and historical data to produce actionable picks for bettors. Both teams excel at limiting opponents' possessions, making tempo and field position crucial variables in the matchup. The under 47.5 total is flagged as a potential value by some analysts given the defensive orientations of both squads. Sunday Night Football regularly draws substantial viewership and betting volume, and the model's output feeds into the broader conversation around the slate."
+      "headline": "Buccaneers vs. Bears Sunday Night Football Bet Picks",
+      "source": "Deadspin · 3h ago",
+      "article": "Chicago and Tampa Bay rank among the league's best at limiting opponent possessions and controlling game tempo, creating a structural reason to target the under on Sunday Night Football. The under 47.5 presents value given both teams' defensive philosophies and tendency to extend drives rather than trade scores. Wind conditions and field position battle will likely shape the totals more than explosive offensive plays. Bettors looking for a contrarian angle may find the under-focused approach rewarding against the consensus over-lean."
     },
     {
-      "headline": "Ohio State keeps Les Wexner's name on football complex despite Epstein ties",
+      "headline": "Blackhawks' rebuild: Has it hit a wall after six straight playoff misses?",
+      "source": "Sportsnet · 6h ago",
+      "article": "The Chicago Blackhawks have missed the playoffs in six consecutive seasons and appear headed for a seventh, prompting hard questions about whether the rebuild has stalled. Michael Amato examines the organizational failures and structural issues preventing the franchise from competing. The team's young assets have not developed as projected, and mid-career acquisitions have underperformed. Rebuilds require patience, but at some point inaction and poor asset management become indistinguishable from incompetence."
+    },
+    {
+      "headline": "From Bama to Indiana, Irish Kickers Are a College Football GaelForce",
       "source": "Sportico · 1d ago",
-      "article": "Ohio State University announced Friday that it will retain billionaire benefactor and former trustee Les Wexner's name on its football practice facility and other prominent campus buildings, despite hundreds of formal requests for removal. The decision short-circuits an ongoing review by an OSU standing advisory committee overseeing the matter. Wexner's ties to convicted sex offender Jeffrey Epstein have prompted sustained pressure on the university to strip his name from buildings. The choice to keep the Wexner designation reflects Ohio State's calculation about donor relationships and long-term institutional funding versus political and moral pressure from students, faculty, and the public. The decision is likely to reignite debate about how universities weigh philanthropy against ethical concerns."
+      "article": "Paddy McAteer from Mullaghbawn, Northern Ireland, became a local legend in Bloomington when he booted a 60-yard field goal to help No. 4 Indiana past Minnesota last week. This weekend, four more Irish prospects will compete during halftime of the Northwestern-Iowa game to complete an Irish kicker showcase. The trend reflects both a talent pipeline from Irish football and a college recruiting advantage in identifying specialists from abroad. McAteer's success has already raised Indiana's profile in European recruiting circles."
     },
     {
-      "headline": "Fowler channels Price's poise as Canadiens hold off Maple Leafs",
-      "source": "Sportsnet · 12h ago",
-      "article": "Montreal goaltender Jacob Fowler delivered a composed performance Saturday as the Canadiens defeated Toronto, displaying the calm demeanor that defined Hall of Famer Carey Price's legendary career. Fowler's steady work in net stood out against a divisional rival, earning praise from analysts and suggesting the young backstop could be a meaningful contributor to Montreal's playoff push. The victory over the Maple Leafs is significant in a crowded Atlantic Division race. Fowler's emergence as a capable starter offers the Canadiens organizational depth at the position and a potential answer to questions about goaltending continuity as they look to climb the standings."
+      "headline": "Ohio State keeps Wexner name on football complex despite Epstein ties",
+      "source": "Sportico · 1d ago",
+      "article": "Ohio State University announced Friday that it will retain billionaire benefactor Les Wexner's name on its football practice facility and other prominent buildings, resisting hundreds of formal removal requests and short-circuiting the review of an advisory committee. The decision affirms the university's commitment to its largest donor despite Wexner's documented connections to Jeffrey Epstein. The move prioritizes financial stability over reputational concerns and closes off further public debate on the matter."
     },
     {
-      "headline": "'That's Reece' - World Cup semi-final brings out best and worst of Walsh",
-      "source": "BBC Sport · 3h ago",
-      "article": "Reece Walsh was the focal point of Australia's fractious Rugby League World Cup semi-final victory over Fiji in Sydney, showcasing both his brilliance and his contentious on-field demeanor. Walsh's performance on both ends of the ball was central to the Jillaroos' advance to yet another World Cup final, where they will face New Zealand. The match featured several heated moments and disciplinary incidents that underscored Walsh's role as both a catalyst for Australia and a lightning rod for controversy. His dual nature—elite playmaker and combative presence—played out on a high-stakes stage with the sport's biggest prize on the line."
-    },
-    {
-      "headline": "Blackhawks' rebuild never seems to turn a corner after six straight playoff misses",
-      "source": "Sportsnet · 4h ago",
-      "article": "Chicago's Blackhawks have now missed the playoffs in six consecutive seasons and appear headed for a seventh, prompting questions about whether the franchise's rebuild has stalled or failed entirely. Michael Amato's Sunday Overreactions piece examines whether the organization's long-term strategic plan has hit a structural wall or if midseason adjustments could still salvage the campaign. The Blackhawks' extended drought marks one of the NHL's most extended rebuilds, particularly given the franchise's recent history as a regular Cup contender. Front-office decisions, draft success, and player development will face continued scrutiny as the team attempts to reverse course."
+      "headline": "2026 NASCAR Cup Series Championship Race predictions and picks",
+      "source": "CBS Sports · 1h ago",
+      "article": "Mike McClure's computer model has released its Championship Race predictions and prop picks for NASCAR at Miami. The advanced model sorts through historical performance data, track-specific metrics, and current-form indicators to identify value in the betting market. The Championship Race represents the culmination of a full season of competition, and McClure's model accounts for both driver consistency and clutch performance in high-stakes environments. Full picks are available with a subscription to CBS Sports' premium prediction service."
     }
   ],
   "poll": {
-    "question": "Will the 47-quarterback churn in Week 9 stabilize, or will backup QB rotations define the NFL stretch run?",
+    "question": "Will Joel Embiid's struggles continue beyond Week 10, or does he adjust and return to All-Star form?",
     "options": [
-      "Injuries will ease; starting QBs will stabilize by Week 12",
-      "Backups will remain in heavy rotation through the playoff race",
-      "Elite teams will cement starters; mid-tier teams will keep churning",
-      "A surprise backup will emerge as a legitimate franchise option"
+      "Struggles persist; decline is real and accelerating",
+      "Temporary slump; he'll bounce back by December",
+      "Mixed performance; looks better but not MVP-level",
+      "Full recovery; back to dominant form by playoffs"
     ]
   },
   "predictions": [
     {
-      "statement": "Jacob Fowler will post a .920+ save percentage and anchor Montreal's playoff push.",
-      "probability": 62,
-      "rationale": "Young goaltenders with strong divisional performances often gain momentum and confidence. Fowler's composure and Price-adjacent poise suggest a capable starter rather than a flash-in-the-pan performance. If Montreal can stabilize the backend, they're playoff-positioned in a weak Atlantic."
+      "statement": "Noah Eagle's SNF debut will draw ratings within 2% of Mike Tirico's season average (roughly 16-17M viewers).",
+      "probability": 72,
+      "rationale": "Casual audiences tune for the game, not the play-by-play voice. Eagle is a competent broadcaster with prior network experience. The Buccaneers-Bears matchup is unremarkable in marquee terms, suggesting viewers come for the matchup, not the booth. A significant drop would require audience awareness of the change and active switching."
     },
     {
-      "statement": "Joel Embiid's troubles will prompt a mid-season trade deadline move by the 76ers.",
-      "probability": 45,
-      "rationale": "Embiid's history of durability questions and the 76ers' win-now window make extended underperformance difficult to tolerate. If the decline persists through November, the team may explore depth additions or roster reconfiguration rather than riding out a down stretch."
+      "statement": "England will win its next Six Nations fixture against a top-five ranked opponent by at least 10 points.",
+      "probability": 48,
+      "rationale": "England's demolition of Australia suggests tactical coherence and squad buy-in, but Australia was underperforming. The Six Nations tests against consistent powerhouses like New Zealand or France. One dominant performance against a weaker opponent does not predict success against elite competition. Borthwick's tactical instability remains a concern."
     },
     {
-      "statement": "Jon Rahm wins another elite international event before year-end.",
-      "probability": 71,
-      "rationale": "Rahm's Abu Dhabi victory demonstrates form in high-pressure situations against elite fields. His track record in middle-east events and his age relative to peers suggest another trophy is probable in the remaining schedule."
+      "statement": "The College Football Playoff committee will place three or fewer undefeated teams in the top 12 after Week 10.",
+      "probability": 65,
+      "rationale": "The 2026 season has been marked by parity and ranked-team collapses. Week 10 added 'more carnage' per reports. Maintaining an undefeated record through 10 weeks in a volatile season is increasingly rare. If multiple undefeated teams exist, the committee must weight strength of schedule heavily, and weakness of schedule often disqualifies teams with perfect records."
     },
     {
-      "statement": "The 47-starting-QB figure becomes a cautionary talking point in offseason QB evaluation.",
+      "statement": "The 47-starter QB statistic will grow to 50+ by the end of Week 11.",
       "probability": 58,
-      "rationale": "If the stat holds or rises into the playoffs, it will be cited by analysts as evidence of either injury epidemic or systemic instability at QB. Teams will face pressure to invest more in backup development and injury-proofing strategies."
+      "rationale": "Week 11 will include prime-time games where injury risk is elevated due to late-season accumulation and weather. With 47 starters already deployed by Week 9, the pace suggests 1-2 additional new starters per week. A single high-profile QB injury in Week 10-11 could push the total past 50. The stat reflects systemic fragility at the position."
     }
   ],
   "injuries": [
     {
-      "player": "Joel Embiid",
-      "team": "Philadelphia 76ers",
-      "league": "NBA",
-      "position": "C",
-      "status": "DAY_TO_DAY",
-      "injury": "Unspecified decline / health concerns",
-      "timeline": null,
-      "source": "Deadspin",
-      "impact": "76ers' championship window tightens if Embiid cannot return to All-NBA form; roster adjustments may be required mid-season.",
-      "storyIndex": 16
+      "player": "Mike Tirico",
+      "team": "NBC Sports",
+      "league": "OTHER",
+      "position": "",
+      "status": "OUT",
+      "injury": "Unspecified health issue",
+      "timeline": "Game-time decision; missed SNF broadcast Sunday",
+      "source": "Sports Media Watch",
+      "impact": "Noah Eagle took over play-by-play duties for Buccaneers-Bears SNF broadcast; Tirico's return timeline undetermined.",
+      "storyIndex": 8
     }
   ],
   "picks": [
@@ -5913,14 +5912,14 @@
       "_pendingGrade": true
     }
   ],
-  "updatedAt": "2026-04-23T15:47:00Z",
+  "updatedAt": "2026-11-09T18:45:00Z",
   "highlights": [
     {
       "league": "NBA",
-      "title": "NBA's Nightly Recap | November 7, 2026",
-      "videoId": "NAotzr5y2SI",
-      "thumbnail": "https://img.youtube.com/vi/NAotzr5y2SI/mqdefault.jpg",
-      "timeAgo": "9h ago",
+      "title": "Wemby wanted to have a quick rest after this poster",
+      "videoId": "BB0Zm-uHBfI",
+      "thumbnail": "https://img.youtube.com/vi/BB0Zm-uHBfI/mqdefault.jpg",
+      "timeAgo": "2h ago",
       "isFallback": false
     },
     {
@@ -5928,22 +5927,22 @@
       "title": "Week 9 LIVE Fantasy Football Q&amp;A | Fantasy Focus Sunday Kickoff",
       "videoId": "GTxZKPKdrXE",
       "thumbnail": "https://img.youtube.com/vi/GTxZKPKdrXE/mqdefault.jpg",
-      "timeAgo": "3h ago",
+      "timeAgo": "1h ago",
       "isFallback": false
     },
     {
       "league": "MLB",
-      "title": "Every team's BEST MOMENT from the 2026 season! 🤩 (Ft. Championships, milestone moments &amp; MORE!)",
-      "videoId": "nkrnp3JeE8k",
-      "thumbnail": "https://img.youtube.com/vi/nkrnp3JeE8k/mqdefault.jpg",
+      "title": "Team Chinese Taipei vs. Team Czechia: Full Game (3/6/2026) | 2026 World Baseball Classic",
+      "videoId": "KvYWDgfUtAI",
+      "thumbnail": "https://img.youtube.com/vi/KvYWDgfUtAI/mqdefault.jpg",
       "timeAgo": "1h ago",
       "isFallback": false
     },
     {
       "league": "NHL",
-      "title": "Hey! Hey! Heyheyheyheyhey! 🤣",
-      "videoId": "b1PRHBxLlds",
-      "thumbnail": "https://img.youtube.com/vi/b1PRHBxLlds/mqdefault.jpg",
+      "title": "Keith Tkachuk POWERS his way into the HHOF! 💪",
+      "videoId": "Hk5rXbg-P-A",
+      "thumbnail": "https://img.youtube.com/vi/Hk5rXbg-P-A/mqdefault.jpg",
       "timeAgo": "1h ago",
       "isFallback": false
     },
@@ -5957,14 +5956,94 @@
     },
     {
       "league": "SOCCER",
-      "title": "Elche vs. Real Betis | LALIGA Highlights | ESPN FC",
-      "videoId": "bNeArOORC7s",
-      "thumbnail": "https://img.youtube.com/vi/bNeArOORC7s/mqdefault.jpg",
-      "timeAgo": "1h ago",
+      "title": "Real Sociedad vs. Rayo Vallecano | LALIGA Highlights | ESPN FC",
+      "videoId": "LlGemORcIKY",
+      "thumbnail": "https://img.youtube.com/vi/LlGemORcIKY/mqdefault.jpg",
+      "timeAgo": "2h ago",
       "isFallback": false
     }
   ],
   "reels": [
+    {
+      "league": "NFL",
+      "title": "Week 9 LIVE Fantasy Football Q&amp;A | Fantasy Focus Sunday Kickoff",
+      "videoId": "GTxZKPKdrXE",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-11-08T18:04:35+00:00",
+      "link": "https://www.youtube.com/watch?v=GTxZKPKdrXE"
+    },
+    {
+      "league": "NHL",
+      "title": "Keith Tkachuk POWERS his way into the HHOF! 💪",
+      "videoId": "Hk5rXbg-P-A",
+      "author": "NHL",
+      "pubDate": "2026-11-08T18:00:29+00:00",
+      "link": "https://www.youtube.com/watch?v=Hk5rXbg-P-A"
+    },
+    {
+      "league": "MLB",
+      "title": "Team Chinese Taipei vs. Team Czechia: Full Game (3/6/2026) | 2026 World Baseball Classic",
+      "videoId": "KvYWDgfUtAI",
+      "author": "MLB",
+      "pubDate": "2026-11-08T18:00:21+00:00",
+      "link": "https://www.youtube.com/watch?v=KvYWDgfUtAI"
+    },
+    {
+      "league": "NFL",
+      "title": "NFL TRADE DEADLINE BUZZ! 👀 Justin Jefferson, Jonathan Taylor + MORE | NFL Countdown",
+      "videoId": "gsE-KTMZey0",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-11-08T17:49:38+00:00",
+      "link": "https://www.youtube.com/watch?v=gsE-KTMZey0"
+    },
+    {
+      "league": "SOCCER",
+      "title": "Real Sociedad vs. Rayo Vallecano | LALIGA Highlights | ESPN FC",
+      "videoId": "LlGemORcIKY",
+      "author": "ESPN FC",
+      "pubDate": "2026-11-08T17:42:11+00:00",
+      "link": "https://www.youtube.com/watch?v=LlGemORcIKY"
+    },
+    {
+      "league": "SOCCER",
+      "title": "HISTORY MADE ‼️ Wimborne Town vs. Crawley Town | FA Cup Highlights | ESPN FC",
+      "videoId": "-iXsVGDCgLA",
+      "author": "ESPN FC",
+      "pubDate": "2026-11-08T17:24:07+00:00",
+      "link": "https://www.youtube.com/watch?v=-iXsVGDCgLA"
+    },
+    {
+      "league": "NBA",
+      "title": "Wemby wanted to have a quick rest after this poster",
+      "videoId": "BB0Zm-uHBfI",
+      "author": "NBA",
+      "pubDate": "2026-11-08T17:06:12+00:00",
+      "link": "https://www.youtube.com/watch?v=BB0Zm-uHBfI"
+    },
+    {
+      "league": "NBA",
+      "title": "Steph after dropping 41 PTS and leading the warriors to a win 😮‍💨",
+      "videoId": "E-kA9IoPQok",
+      "author": "NBA",
+      "pubDate": "2026-11-08T17:05:12+00:00",
+      "link": "https://www.youtube.com/watch?v=E-kA9IoPQok"
+    },
+    {
+      "league": "NFL",
+      "title": "I Scored a Touchdown: Rocky Bleier's Super Bowl XIII story | NFL on ESPN",
+      "videoId": "GcFMiTlohZM",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-11-08T17:00:31+00:00",
+      "link": "https://www.youtube.com/watch?v=GcFMiTlohZM"
+    },
+    {
+      "league": "NFL",
+      "title": "Is that 50 Schefty push-ups? 👀",
+      "videoId": "A4fO9PeO2Iw",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-11-08T16:45:05+00:00",
+      "link": "https://www.youtube.com/watch?v=A4fO9PeO2Iw"
+    },
     {
       "league": "NHL",
       "title": "Hey! Hey! Heyheyheyheyhey! 🤣",
@@ -6030,14 +6109,6 @@
       "link": "https://www.youtube.com/watch?v=4DET8TCqteg"
     },
     {
-      "league": "NFL",
-      "title": "Week 9 LIVE Fantasy Football Q&amp;A | Fantasy Focus Sunday Kickoff",
-      "videoId": "GTxZKPKdrXE",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-11-08T13:55:10+00:00",
-      "link": "https://www.youtube.com/watch?v=GTxZKPKdrXE"
-    },
-    {
       "league": "NBA",
       "title": "NBA's Nightly Recap | November 7, 2026",
       "videoId": "NAotzr5y2SI",
@@ -6084,22 +6155,6 @@
       "author": "NBA",
       "pubDate": "2026-11-08T06:36:47+00:00",
       "link": "https://www.youtube.com/watch?v=y-PKE63m-U8"
-    },
-    {
-      "league": "NBA",
-      "title": "EXTENDED: KNICKS at CAVALIERS | FULL GAME HIGHLIGHTS | November 7, 2026",
-      "videoId": "nUVK3PN4f8s",
-      "author": "NBA",
-      "pubDate": "2026-11-08T06:08:47+00:00",
-      "link": "https://www.youtube.com/watch?v=nUVK3PN4f8s"
-    },
-    {
-      "league": "NBA",
-      "title": "SPURS at TRAIL BLAZERS | FULL GAME HIGHLIGHTS | November 7, 2026",
-      "videoId": "RSMUC3aHIIk",
-      "author": "NBA",
-      "pubDate": "2026-11-08T05:56:22+00:00",
-      "link": "https://www.youtube.com/watch?v=RSMUC3aHIIk"
     },
     {
       "league": "NHL",
@@ -6150,14 +6205,6 @@
       "link": "https://www.youtube.com/watch?v=89zAQgPNnvM"
     },
     {
-      "league": "NHL",
-      "title": "Red Wings vs. Avalanche | NHL Highlights | Nov 7, 2026",
-      "videoId": "vPtHmqOqqVY",
-      "author": "NHL",
-      "pubDate": "2026-11-08T04:52:52+00:00",
-      "link": "https://www.youtube.com/watch?v=vPtHmqOqqVY"
-    },
-    {
       "league": "MLB",
       "title": "FULL GAME: The Jo Show! 🤩 Jo Adell robs 3 home runs! (Mariners vs. Angels)",
       "videoId": "3v0igyMt2iI",
@@ -6188,22 +6235,6 @@
       "author": "ESPN FC",
       "pubDate": "2026-11-08T00:13:28+00:00",
       "link": "https://www.youtube.com/watch?v=83O9MdhsZtU"
-    },
-    {
-      "league": "SOCCER",
-      "title": "WILD COMEBACK 🤯 Inter Miami vs. Charlotte FC | MLS Highlights | ESPN FC",
-      "videoId": "PMEo1eIpxeU",
-      "author": "ESPN FC",
-      "pubDate": "2026-11-07T23:55:07+00:00",
-      "link": "https://www.youtube.com/watch?v=PMEo1eIpxeU"
-    },
-    {
-      "league": "SOCCER",
-      "title": "Chicago Fire FC vs. Columbus Crew | MLS Highlights | ESPN FC",
-      "videoId": "CpUuM-4UpHk",
-      "author": "ESPN FC",
-      "pubDate": "2026-11-07T23:43:39+00:00",
-      "link": "https://www.youtube.com/watch?v=CpUuM-4UpHk"
     },
     {
       "league": "MLB",
@@ -6246,44 +6277,12 @@
       "link": "https://www.youtube.com/watch?v=1IQp_sZ9bls"
     },
     {
-      "league": "MLB",
-      "title": "FULL GAME: Dom Smith clubs a walk-off grand slam to complete 6-run comeback! (Royals vs. Braves)",
-      "videoId": "PIJQqx1sW6s",
-      "author": "MLB",
-      "pubDate": "2026-11-07T02:00:36+00:00",
-      "link": "https://www.youtube.com/watch?v=PIJQqx1sW6s"
-    },
-    {
       "league": "NFL",
       "title": "Buccaneers CB Jacob Parrish is a DOG 🐶",
       "videoId": "VfT6uWVj5w8",
       "author": "NFL on ESPN",
       "pubDate": "2026-11-07T02:00:01+00:00",
       "link": "https://www.youtube.com/watch?v=VfT6uWVj5w8"
-    },
-    {
-      "league": "NFL",
-      "title": "How’d he do? 😂 (via jaguars/TT)",
-      "videoId": "5yqO2WI26Lg",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-11-07T01:32:02+00:00",
-      "link": "https://www.youtube.com/watch?v=5yqO2WI26Lg"
-    },
-    {
-      "league": "NFL",
-      "title": "Soft Benching? Or Soft Tissue Injury? What's Happening with Kyler Murray and the Vikings",
-      "videoId": "pMSVF3nvs1k",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-11-06T23:51:26+00:00",
-      "link": "https://www.youtube.com/watch?v=pMSVF3nvs1k"
-    },
-    {
-      "league": "NFL",
-      "title": "The look says it all 😯",
-      "videoId": "BbtL4N6D7JI",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-11-06T22:35:33+00:00",
-      "link": "https://www.youtube.com/watch?v=BbtL4N6D7JI"
     }
   ]
 }
