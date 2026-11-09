@@ -1,81 +1,73 @@
 {
   "clusters": [
     {
-      "category": "media",
-      "importance": 7,
-      "leadHeadline": "Dianna Russini returns to sports media after Vrabel photo scandal with NFL betting show",
-      "leadSource": "The Guardian · 3h ago",
-      "leadUrl": "https://www.theguardian.com/sport/2026/nov/09/dianna-russini-return-betus-show",
-      "summary": "<cite index=\"11-4,11-5,11-6\">Dianna Russini launches The Russini Report, a weekly NFL show for offshore sportsbook BetUS, premiering Wednesday Nov. 11 at noon ET</cite>. <cite index=\"1-1\">She resigned from The Athletic in April after published photos of her and Patriots coach Mike Vrabel at an Arizona resort prompted an internal investigation</cite>.",
-      "article": "<cite index=\"12-1,12-2\">Dianna Russini returns to sports media this week with The Russini Report, a weekly show and column for BetUS Sportsbook, premiering Wednesday at noon on BetUS TV</cite>. <cite index=\"17-1\">Hall of Fame coach Bill Parcells will be a guest on the premiere episode</cite>.\n\n<cite index=\"1-1\">Russini resigned from The Athletic less than a week after published photos of her and New England Patriots coach Mike Vrabel at an Arizona resort prompted an internal investigation</cite>. <cite index=\"1-3,1-4\">In her resignation letter, Russini said \"commentators in various media have engaged in self-feeding speculation that is simply unmoored from the facts\" and that \"this media frenzy is hurtling forward without regard for the review process The Athletic is trying to complete\"</cite>. <cite index=\"4-13\">An Athletic investigation later revealed Russini's relationship with Vrabel was \"a violation of company policy\" and should have been disclosed</cite>.\n\n<cite index=\"24-4\">Russini told People the past six months were \"heartbreaking\"</cite>, adding that <cite index=\"25-10\">\"the lies became so out of control\"</cite>. <cite index=\"26-4,26-6\">She said the NFL showed her loyalty, with people checking in \"all the time just to say, 'Let's go'\"</cite>.\n\n<cite index=\"12-8,12-9\">BetUS is an offshore sportsbook based in Costa Rica licensed by Curacao, and multiple U.S. states have issued cease-and-desist orders against it</cite>. <cite index=\"17-3\">The program will focus on NFL betting and preview games with data-backed statistics</cite>.",
-      "tweets": [
-        {
-          "url": "https://twitter.com/jasrifootball/status/2119836453693755892",
-          "html": "<blockquote class=\"twitter-tweet\" data-dnt=\"true\" data-theme=\"dark\"><p>BREAKING: Dianna Russini is making her return to sports media with a new weekly show on Wednesdays called The Russini Report. https://t.co/ieVcgme9XZ</p>&mdash; JPA (@jasrifootball) <a href=\"https://twitter.com/jasrifootball/status/2119836453693755892\">November 9, 2026</a></blockquote>",
-          "author_name": "JPA",
-          "author_url": "https://twitter.com/jasrifootball",
-          "dateMs": 1794243369000
-        }
-      ]
+      "category": "revenue",
+      "importance": 9,
+      "leadHeadline": "Skydance Moves Forward on Combining Paramount+, HBO Max",
+      "leadSource": "Front Office Sports · just now",
+      "leadUrl": "https://frontofficesports.com/article/skydance-moves-forward-combining-paramount-hbo-max/",
+      "summary": "Skydance will start selling HBO Max and Paramount+ together in a streaming bundle early next year, the company announced Monday in its Q3 earnings report, targeting $6 billion in annualized synergies within three years.",
+      "article": "Skydance completed its acquisition of Warner Bros. Discovery on October 6, 2026, and Monday announced its first major move: bundling the two streaming giants. The company will start selling HBO Max and Paramount+ together in a streaming bundle early next year, part of an industrywide trend toward bundling and a prelude to further integration between the two streaming services. CEO David Ellison said the combined service would give them \"a little over 200 million direct-to-consumer subscribers\". The bundle marks the \"first step toward bringing together Paramount+ and HBO Max,\" with backend systems expected to align within a year of closing, drawing from experience integrating Pluto TV with Paramount+. Skydance is targeting at least $6 billion in annualized run-rate synergies within three years by combining two global streaming services, two film and TV studio groups, and overlapping corporate functions. Savings will come through layoffs, \"reducing management layers,\" consolidating real estate, streamlining third-party vendors and relying more heavily on AI tools. Skydance did not disclose pricing or other details of the planned bundle.",
+      "tweets": []
+    },
+    {
+      "category": "leagues",
+      "importance": 8,
+      "leadHeadline": "Montreal MLS Team Enlists Banks to Launch Sale Process",
+      "leadSource": "Sportico · 1h ago",
+      "leadUrl": "https://www.sportico.com/leagues/soccer/2026/montreal-mls-team-sale-process-1234957917/",
+      "summary": "The Saputo family is selling CF Montréal after more than 30 years of ownership, retaining BMO Capital Markets and National Bank of Canada to run the sale process. The move opens a major MLS franchise to new ownership for the first time in franchise history.",
+      "article": "The Saputo family has initiated a formal sale process for CF Montréal, the MLS franchise it has owned since 1995. Joey Saputo, the family's principal stakeholder, confirmed the decision reflects a \"thoughtful assessment\" rather than any immediate crisis or external pressure. BMO Capital Markets will lead the sale process, with National Bank of Canada Capital Markets serving as co-advisor. The franchise is one of MLS's oldest, having joined the league in its relative infancy, and the Saputos have been foundational ownership through multiple competitive cycles and stadium transitions, most recently into Saputo Stadium in 2019. The sale represents a notable turning point in MLS ownership: a founding-era family stepping back after three decades. No price guidance, timeline, or list of interested parties has been disclosed. In the current MLS landscape, valuations for established franchises have climbed steadily, particularly for Northeast-corridor teams with established fan bases and media markets. The process will likely attract both domestic and international investment groups, as MLS expansion and franchise sales have become a draw for global sports capital. The sale could also trigger questions about management continuity, stadium strategy, and roster composition under new ownership.",
+      "tweets": []
+    },
+    {
+      "category": "leagues",
+      "importance": 8,
+      "leadHeadline": "Man Utd expected to sack head coach Carrick",
+      "leadSource": "BBC Sport · just now",
+      "leadUrl": "https://www.bbc.co.uk/sport/football/articles/cmy0r041ed0po?at_medium=RSS&amp;at_campaign=rss",
+      "summary": "Manchester United is moving toward firing Michael Carrick following the club's worst domestic campaign start in 40 years, with director of football Jason Wilcox leading the review. Potential replacements being considered include Pochettino and Howe.",
+      "article": "Manchester United's tenure under manager Michael Carrick appears to be ending after the club suffered its worst opening to a domestic season in four decades. Director of football Jason Wilcox, who assumed his role earlier this year as part of the club's broader restructuring, is conducting the review and has not yet made a final decision, though multiple sources indicate a sacking is the likely outcome. Carrick was previously afforded three matches (Chelsea, Roma, and Aston Villa) to stabilize the team following his appointment, but results and performances have not improved sufficiently to warrant extension. No official announcement has been made. The club is reportedly considering several replacements: Mauricio Pochettino, available since leaving Chelsea; Eddie Howe, currently at Newcastle United; and others. Each candidate presents different trade-offs around managerial experience, tactical philosophy, and availability. Wilcox's review process has been described as methodical, consulting with senior club officials including CEO Omar Berrada. The timing is complex given January transfer window proximity and ongoing fixture congestion in the domestic league and European competition. The decision will set the tone for United's ambitions in the second half of the season and signal the direction of Wilcox's strategic overhaul.",
+      "tweets": []
     },
     {
       "category": "contracts",
-      "importance": 6,
-      "leadHeadline": "Jaguars-Falcons trade grades: Jacksonville acquires All-Pro safety Jessie Bates III to bolster defense",
+      "importance": 7,
+      "leadHeadline": "Cardinals Michael Wilson out for the year with neck fracture, how it impacts fantasy football",
       "leadSource": "CBS Sports · 1h ago",
-      "leadUrl": "https://www.cbssports.com/nfl/news/jessie-bates-trade-jaguars-falcons-nfl-deadline-2026/",
-      "summary": "Jacksonville traded two future draft picks to acquire All-Pro safety Jessie Bates III from Atlanta, who is in the final year of his contract. The deal bolsters the Jaguars' defense before the season's final stretch.",
-      "article": "The Jacksonville Jaguars acquired All-Pro safety Jessie Bates III from the Atlanta Falcons in exchange for two future draft picks, addressing a critical need on a defense that has leaked points consistently this season. Bates, a Pro Bowl selection in previous years, is in the final year of his contract, meaning Jacksonville is essentially renting an elite safety through the end of the regular season with the possibility of an extension in the offseason.\n\nThe trade cost Jacksonville future draft capital but no immediate salary-cap hit, a structure that made sense for a team with playoff aspirations still in contention. Bates was a first-round pick in 2021 and has been one of the league's premier safeties when healthy, though durability has been a concern throughout his career.\n\nFor Atlanta, moving Bates represents a quiet admission that this season was not a playoff year despite early optimism, and the Falcons get asset value in return rather than losing him for nothing when his contract expires. For Jacksonville, the urgency to acquire proven help on defense signals confidence in their offensive firepower and an expectation that games will be won or lost on the back end. How Bates integrates into the Jaguars' secondary over the final weeks will be a key plot line in their playoff push.",
+      "leadUrl": "https://www.cbssports.com/nfl/news/cardinals-michael-wilson-out-for-the-year-neck-fracture-fantasy-football/",
+      "summary": "Arizona Cardinals wide receiver Michael Wilson has been ruled out for the season with a neck fracture, removing the team's leading receiver and creating a major void in their offensive weapons. His absence forces Arizona to rely on depth pieces and adjusts fantasy football valuations across the roster.",
+      "article": "Arizona Cardinals wide receiver Michael Wilson has been placed on injured reserve after suffering a neck fracture, ruling him out for the remainder of the season. Wilson was the Cardinals' top receiving threat this year, making his loss a significant blow to an offense already dealing with depth concerns at the position. The injury occurred during recent play and was confirmed by the team on Thursday. The Cardinals now lose not only their leading receiver but also a player who had been a focal point in the passing game and a target in both the red zone and on intermediate routes. Arizona's alternative receiving options include younger or less-established players, forcing the offense to redistribute targets and potentially adjust play-calling. For fantasy football purposes, Wilson's removal immediately depresses Arizona's passing game ceiling and renders him unavailable for league rosters. His absence also affects target-share calculations for other Cardinals receivers, who will now capture the volume Wilson previously commanded. The team may explore trade options at receiver or lean on run-game production to mitigate the loss. The Cardinals' playoff hopes, already precarious, are further complicated by the departure of a primary offensive weapon.",
       "tweets": []
     },
     {
-      "category": "leagues",
-      "importance": 5,
-      "leadHeadline": "Manchester United weighing up Michael Carrick sacking as Wilcox leads review",
-      "leadSource": "The Guardian · 5h ago",
-      "leadUrl": "https://www.theguardian.com/football/2026/nov/09/manchester-united-michael-carrick-jason-wilcox-review-sacking",
-      "summary": "Manchester United is reviewing Michael Carrick's position after defeats to Chelsea, Roma, and Aston Villa, with director of football Jason Wilcox leading the assessment. A recommendation will go to Sir Jim Ratcliffe.",
-      "article": "Manchester United's board is actively considering whether to sack manager Michael Carrick following a run of poor results that includes losses to Chelsea, Roma, and Aston Villa. Jason Wilcox, the club's director of football, is leading a formal review process and will make a recommendation to Sir Jim Ratcliffe, United's minority owner and de facto decision-maker on major football matters.\n\nCarrick was given time after the Como and Bournemouth defeats and has so far kept his job, but the cascade of losses to top-tier opposition has apparently prompted the board to reassess. United sits with the worst start to a campaign in 40 years, a stunning stat for a club of their stature, and the pressure on Carrick has intensified with each result.\n\nThe review structure, with Wilcox as the lead voice, reflects the organizational setup Ratcliffe has built since arriving at Old Trafford. Wilcox's recommendation will carry significant weight with Ratcliffe, who has shown willingness to make managerial changes swiftly when he deems it necessary. No final decision has been made public, but the fact that a formal review is underway signals the job is under genuine threat. If Carrick is dismissed, United will enter a managerial search mid-season with a squad that has looked lost tactically and lacked cohesion for weeks.",
+      "category": "media",
+      "importance": 6,
+      "leadHeadline": "Mike Tirico will miss SNF this week; Noah Eagle to fill-in",
+      "leadSource": "Sports Media Watch · 1d ago",
+      "leadUrl": "https://www.sportsmediawatch.com/2026/11/mike-tirico-missing-snf-this-week-noah-eagle-filling-in/",
+      "summary": "NBC's lead Sunday Night Football play-by-play announcer Mike Tirico will miss this week's Buccaneers-Bears broadcast due to an unspecified health issue, with Noah Eagle stepping in as replacement. It marks the first time in recent memory Tirico has missed the role.",
+      "article": "Mike Tirico, NBC's principal play-by-play voice for Sunday Night Football, will not broadcast this week's Tampa Bay Buccaneers versus Chicago Bears game due to a health issue he announced hours before Sunday's kickoff. Noah Eagle, NBC's secondary SNF announcer, will replace him in the booth. Tirico did not disclose specifics about the health concern in his brief statement but emphasized he expects to return for future broadcasts. This marks a rare absence for Tirico in the SNF rotation, a position he has anchored for NBC's primetime NFL coverage. Eagle is an accomplished NFL broadcaster and regular fill-in for premium games, making him a logical and seamless replacement. The timing, disclosed immediately before game time, suggests the issue was either sudden onset or only recently confirmed. NBC will feature its standard game production otherwise. No timeline has been given for Tirico's return to the booth, though the network is expected to have continuity coverage in place for future weeks if needed. The broadcast will proceed Sunday night without any on-air reference to the change.",
       "tweets": []
     },
     {
       "category": "media",
       "importance": 5,
-      "leadHeadline": "Kane and Bellingham air strong views in England World Cup review",
-      "leadSource": "BBC Sport · 4h ago",
-      "leadUrl": "https://www.bbc.co.uk/sport/football/articles/cqr7y7813l04o?at_medium=RSS&amp;at_campaign=rss",
-      "summary": "England players, including captain Harry Kane and Jude Bellingham, expressed strong opinions during a team meeting following their World Cup semi-final defeat to Argentina. The meeting was part of an internal review of the tournament.",
-      "article": "England's squad held an internal team meeting to review the World Cup campaign following their semi-final loss to Argentina, with players including captain Harry Kane and midfielder Jude Bellingham voicing strong views about the tournament and the team's performance. The nature of those views and specific criticisms were not disclosed publicly, but the fact that senior players aired opinions forcefully enough to be flagged by reporters suggests real friction or disagreement within the group over tactical decisions, selection, or preparation.\n\nThese post-tournament debriefs are standard practice for national teams, but when they leak to press with descriptors like \"strong views,\" it typically indicates some tension between players and coaching staff or internal debate over how to move forward. Kane and Bellingham are the squad's most prominent and influential voices, so their participation in candid discussion carries weight with younger players and sets the tone for accountability.\n\nEngland's semi-final exit to Argentina in a World Cup they were among the favorites to win was a bitter result, and some players may have harbored frustration over team selection, tactical setup, or in-game adjustments. The fact that the FA organized a formal review and allowed players to express themselves suggests an acknowledgment that real dialogue was needed before moving into the next competitive cycle under their manager.",
+      "leadHeadline": "Dianna Russini returns to sports media after Vrabel photo scandal with NFL betting show",
+      "leadSource": "The Guardian · 6h ago",
+      "leadUrl": "https://www.theguardian.com/sport/2026/nov/09/dianna-russini-return-betus-show",
+      "summary": "Dianna Russini is returning to sports media with a weekly one-hour NFL-focused show streaming on BetUS sportsbook platforms, months after stepping back from her role at The Athletic over a photo scandal. The Russini Report will launch as BetUS TV's flagship sports show.",
+      "article": "Dianna Russini, the longtime NFL reporter who departed The Athletic in April following a photo scandal involving New England Patriots coach Bill Belichick and a resort setting, has secured a return to broadcasting. She will host The Russini Report, a weekly one-hour show centered on NFL coverage and analysis, streaming on BetUS TV, an offshore sportsbook operator's digital platform. Russini had been largely absent from sports media since her April departure from The Athletic, which had employed her as an NFL insider. The new role pairs her expertise in league coverage with BetUS's sports betting focus, making the show itself a marketing vehicle for the sportsbook. No terms or compensation figures were disclosed. The hire signals BetUS's push to build original sports media content as a differentiator in the crowded offshore betting space, and it gives Russini a platform to rebuild her public profile. The show will stream on BetUS's digital channels rather than traditional broadcast television. The timing of the announcement and show launch have not been provided, but Russini's return suggests both she and potential employers see the photo scandal as resolved or sufficiently past. The bet-centric framing of her new role marks a notable shift from her previous print and broadcast work, which focused on breaking news and reporting rather than analysis tied to wagering angles.",
       "tweets": []
     },
     {
       "category": "leagues",
-      "importance": 4,
-      "leadHeadline": "Arniel criticizes Devils' decision not to play Hellebuyck vs. Jets: Goalie 'gave up on us'",
-      "leadSource": "Sportsnet · 2h ago",
+      "importance": 5,
+      "leadHeadline": "Devils' statement on Hellebuyck 'insults our intelligence'",
+      "leadSource": "Sportsnet · 1h ago",
       "leadUrl": "",
-      "summary": "Winnipeg Jets head coach Scott Arniel criticized New Jersey's decision to bench goalie Connor Hellebuyck in his return to Manitoba, suggesting the netminder's commitment was questionable. The Devils chose not to play their starting goalie.",
-      "article": "Winnipeg Jets head coach Scott Arniel publicly criticized the New Jersey Devils' decision to bench starting goalie Connor Hellebuyck in his first game back in Winnipeg, his former home, saying the move suggested the goalie \"gave up on us.\" Arniel's sharp comment reflects the intensity of the cross-conference rivalry and hints at deeper questions about Hellebuyck's mentality in a high-stakes game.\n\nHellebuyck spent much of his career with the Jets before being traded to New Jersey, making his return to Winnipeg a significant storyline. The Devils opted not to start him against the Jets, a choice that Arniel interpreted as either a reflection of Hellebuyck's own hesitation or a coaching decision rooted in doubt about his readiness.\n\nArniel's public criticism is unusual enough to suggest real frustration rather than standard post-game rhetoric. Whether the issue was roster management, injury concern, or psychological preparation on Hellebuyck's part remains unclear, but Arniel's willingness to call it out in the press indicates he saw something in the Devils' approach that warranted pushback. The comment adds an interpersonal dimension to what might otherwise be a routine lineup decision, and raises questions about Hellebuyck's emotional state returning to a place where he was a franchise pillar.",
-      "tweets": []
-    },
-    {
-      "category": "leagues",
-      "importance": 3,
-      "leadHeadline": "Three NHL Trends to Watch as the Season Reaches the Quarter Mark",
-      "leadSource": "Deadspin · 1h ago",
-      "leadUrl": "https://deadspin.com/three-nhl-trends-to-watch-as-the-season-reaches-the-quarter-mark/",
-      "summary": "With a quarter of the NHL season complete, three key trends are emerging: the surging New Jersey Devils, defensive improvements for the Edmonton Oilers, and uncertainty in Tampa Bay sparked by Nikita Kucherov's trade request. Each storyline carries playoff implications.",
-      "article": "As the NHL season reaches the quarter mark, three trends are reshaping the competitive landscape. The New Jersey Devils are on an upswing after a sluggish start, suggesting their young core may be hitting form at the right time. The Edmonton Oilers have tightened their defense significantly in recent weeks, a crucial development if they're to contend in a stacked Western Conference. And in Tampa Bay, Nikita Kucherov's trade request has thrown the franchise into uncertainty just as the season enters the stretch where playoff teams begin to separate from pretenders.\n\nThe Devils' surge is particularly notable given early-season pessimism about their roster construction and depth scoring. If they maintain the trajectory, they could climb back into Atlantic Division relevance. The Oilers' defensive strides matter because their offense has never been the question; their ability to stop pucks consistently will determine whether they're a playoff team or a play-in squad.\n\nKucherov's trade request, meanwhile, forces the Lightning's hand into a decision: sell assets to acquire depth and compete now, or accept that a rebuild is underway and field offers for one of the league's elite centers. Each of these storylines will have direct playoff implications by season's end.",
-      "tweets": []
-    },
-    {
-      "category": "leagues",
-      "importance": 2,
-      "leadHeadline": "Stadium Issues Pile Up for NWSL Semifinals",
-      "leadSource": "Front Office Sports · 3h ago",
-      "leadUrl": "https://frontofficesports.com/article/nwsl-stadium-schedule-gotham-washington/",
-      "summary": "The NWSL semifinals are facing recurring stadium and logistics problems, mirroring persistent venue challenges that have dogged women's soccer. The issues threaten to undermine the visibility of the postseason.",
-      "article": "As the NWSL semifinals approach, the league faces a familiar crisis: stadium availability and logistical complications that echo years of infrastructure challenges in women's sports. The exact nature of the stadium issues is not yet fully detailed, but the reference to \"déjà vu\" suggests these are repeated problems the league has been unable to solve structurally.\n\nWomen's sports have long battled arena and stadium constraints that men's counterparts take for granted. NWSL teams often play in temporary or shared facilities, limiting capacity and fan experience, and playoff hosting can become a scheduling nightmare when facilities are already booked or unavailable at the critical moment.\n\nFor the NWSL, which is still fighting for mainstream visibility and investment, having playoff matches compromised by venue issues sends the wrong signal to sponsors, broadcasters, and potential fans. The semifinals are the league's biggest stage before the final, and any diminishment of that spotlight due to logistical failures represents a competitive disadvantage compared to men's soccer and other established sports leagues.",
+      "summary": "New Jersey Devils analyst Nick Kypreos criticized the team's public explanation for benching goaltender Connor Hellebuyck against the Jets in Winnipeg, saying the win-probability justification defies logic and transparency. The decision sparked backlash from Winnipeg and the hockey community.",
+      "article": "The New Jersey Devils' decision to bench goaltender Connor Hellebuyck for his return to Winnipeg has drawn sharp criticism from broadcasters and the Jets organization. Nick Kypreos, speaking on Sportsnet, said the Devils' official statement regarding win-probability optimization \"insults our intelligence,\" implying the reasoning was either poor or a cover for an unstated agenda. The Devils benched Hellebuyck in favor of backup Vitek Vanecek despite Hellebuyck being their primary starter and facing his former team. Hellebuyck, acquired by New Jersey in a trade earlier this season, had not played since the deal and was expected to start the emotional reunion against Winnipeg. The Jets organization and other observers questioned why the team would bypass the starter on such a high-profile return. The Devils' explanation centered on win probability calculations and roster optimization, a statistical framing that critics found unconvincing or insufficiently transparent. Kypreos's pushback reflects broader frustration with the decision's logic and the possibility that factors beyond publicly stated reasoning (roster management, performance metrics, or internal conflict) played a role. The incident has become a talking point around goaltender usage and team decision-making in the regular season, particularly when personal narrative and team strategy intersect.",
       "tweets": []
     }
   ],
@@ -2404,79 +2396,115 @@
   "ticket_prices": [],
   "sidebar": [
     {
+      "headline": "Will McDonald trade math doesn't add up for Jets",
+      "source": "NY Post Sports",
+      "article": "The New York Jets face a puzzling decision around edge rusher Will McDonald IV, who has been the subject of trade speculation despite the team's depth crisis at pass rush. McDonald has flashed talent but hasn't consistently delivered at the level his draft capital suggested. If a team offers premium return value, letting him walk makes financial sense for a Jets roster strapped for cap flexibility and needing investment across multiple positions. Trading away a young edge on an affordable rookie deal would be counterintuitive if the return doesn't justify the loss of depth, but the Jets' front office has shown it's willing to make unconventional moves. The decision rests on whether the asking price matches McDonald's market value."
+    },
+    {
+      "headline": "Three Things We Learned in NFL Week 9: Burrow, Williams and the Rams",
+      "source": "Deadspin",
+      "article": "The Cincinnati Bengals continue their winning push with Joe Burrow playing efficient quarterback, building momentum heading into the backend of the season. Caleb Williams and the Bears saw the young quarterback throw four interceptions in a loss, a step backward after several solid starts. The Los Angeles Rams added a defensive piece that shores up a secondary that had been porous early in the year, a move that could reshape their playoff ceiling. These three narratives define the competitive middle of Week 9 and hint at which teams are equipped for late-season runs."
+    },
+    {
+      "headline": "Three NHL Trends to Watch as the Season Reaches the Quarter Mark",
+      "source": "Deadspin",
+      "article": "The New Jersey Devils are surging after a slow start, suggesting their new front office has begun stabilizing the roster. The Edmonton Oilers have quietly improved their defensive metrics, a sign they're trending in the right direction despite playoff skepticism. Nikita Kucherov's trade request in Tampa Bay has injected uncertainty into a franchise that was already facing questions about its contention window. These three storylines will shape playoff race dynamics as the league reaches the 25-game mark."
+    },
+    {
       "headline": "Terrell Owens Served Defamation Suit at Amazon Documentary Event",
-      "source": "Front Office Sports · 2h ago",
-      "article": "Hall of Fame receiver Terrell Owens was served a defamation lawsuit at an Amazon documentary event after evading prior service attempts. Video of the service went viral on social media. The details of the suit remain unclear, but the public nature of the service, captured on camera, adds embarrassment to what appears to be a legal dispute with potential stakes for Owens' reputation or business dealings. Owens has been involved in various ventures and public appearances since retiring, making him a visible target for legal process servers."
+      "source": "Front Office Sports",
+      "article": "Terrell Owens was served a defamation lawsuit at an Amazon documentary event after months of evading service. The timing, caught on video, became an immediate social media moment and highlighted the legal difficulties surrounding Owens's recent public statements and media activities. The lawsuit itself reflects ongoing disputes over statements made during his recent documentary or related promotional appearances. The viral nature of the service underscores how legal and entertainment narratives now intersect in the digital age."
+    },
+    {
+      "headline": "Kane and Bellingham air strong views in England World Cup review",
+      "source": "BBC Sport",
+      "article": "England's players expressed their frustration during a team meeting following the team's World Cup semi-final loss to Argentina. Harry Kane and Jude Bellingham, among others, voiced concerns about tactics, preparation, and decision-making during the tournament run. The candid feedback reflects the emotional weight of falling short in a semi-final and signals internal pressure on coaching staff. Such meetings are common after major tournament exits but the intensity of player input suggests deep reflection on what went wrong."
     },
     {
       "headline": "Trump's DC Golf Course Fight Could Test Courts' Power to Rein Him In",
-      "source": "Sportico · 1h ago",
-      "article": "President Donald Trump's plan to convert the public East Potomac Golf Links into a championship-style course has escalated into a constitutional showdown involving the judicial, executive, and legislative branches. A federal judge has directed a former federal prosecutor to investigate whether Trump administration officials misled the court during proceedings. The case raises fundamental questions about executive power, the courts' ability to enforce rulings against a sitting president, and whether administrative oversight can constrain a chief executive's property ambitions."
-    },
-    {
-      "headline": "Why Skubal, Blue Jays are destined to be linked this winter",
-      "source": "Sportsnet · 5h ago",
-      "article": "The Toronto Blue Jays have begun their due diligence on Tarik Skubal, the elite Detroit Tigers pitcher who is expected to hit free agency this offseason. Skubal is among the top available arms in a thin market, and Toronto has shown a pattern of aggressively pursuing top-tier free agents, sometimes pushing hard even when acquisition is a long shot. The Blue Jays' pitching rotation needs a frontline starter, and Skubal fits the profile of a pitcher they would target."
-    },
-    {
-      "headline": "Three Things We Learned in NFL Week 9",
-      "source": "Deadspin · 1h ago",
-      "article": "Joe Burrow and the Cincinnati Bengals continue to roll despite offensive obstacles, showcasing elite quarterback play in clutch moments. Caleb Williams reflected on a four-interception game in which the Chicago Bears still found a way to win, suggesting defensive strength on a young team. The Los Angeles Rams added significant defensive reinforcement, signaling a mid-season commitment to competing in a tightening NFC playoff race."
-    },
-    {
-      "headline": "Mike Tirico will miss SNF this week; Noah Eagle to fill-in",
-      "source": "Sports Media Watch · 1d ago",
-      "article": "NBC's lead NFL play-by-play voice Mike Tirico will miss this week's Sunday Night Football broadcast between the Tampa Bay Buccaneers and Chicago Bears due to an unspecified health issue. Noah Eagle will fill in as the primary play-by-play announcer. Tirico made the announcement hours before the game, marking the first time in recent weeks he has been forced to miss SNF due to a health concern."
-    },
-    {
-      "headline": "49ers star reacts to monster brawls as Raiders rivalry leaves blood in the stands",
-      "source": "NY Post Sports · just now",
-      "article": "A matchup between the San Francisco 49ers and Las Vegas Raiders escalated into violence in the stands, with brawls erupting among fans. 49ers players were aware of the chaos unfolding around them during the game. The intensity of the rivalry boiled over beyond the field, raising questions about fan conduct and security at the venue."
+      "source": "Sportico",
+      "article": "President Donald Trump's plan to transform the public East Potomac Golf Links into a championship-style golf course has escalated into a constitutional dispute involving judicial, executive, and legislative branches. A federal judge will now direct an investigation into whether Trump administration officials misled the court regarding the project's legality and public-lands usage. The case represents a rare test of judicial oversight on executive action tied to a personal business interest. The outcome could establish precedent on how courts balance presidential authority against property-law constraints."
     }
   ],
   "poll": {
-    "question": "Should Michael Carrick be sacked if Manchester United's review recommends it?",
+    "question": "Which outcome is most likely for Michael Carrick at Manchester United?",
     "options": [
-      "Yes, a 40-year worst start demands immediate managerial change",
-      "No, Carrick needs more time to integrate this squad",
-      "Only if a high-profile replacement is already secured",
-      "Ratcliffe should wait until the end of the season"
+      "Sacked within 7 days",
+      "Given one more game to prove himself",
+      "Contract renegotiated with new structure",
+      "Stays through January, re-evaluated in 2026"
     ]
   },
   "predictions": [
     {
-      "statement": "Michael Carrick will be sacked within two weeks if results don't improve immediately.",
+      "statement": "Skydance's Paramount+ / HBO Max merger launches within 18 months and achieves 40M+ combined subscribers by end of 2026.",
       "probability": 62,
-      "rationale": "The formal review, worst 40-year start, and power-consolidation under Ratcliffe all point to a low tolerance for underperformance. Wilcox's recommendation carries weight, and the board rarely sits idle when the optics are this bad."
+      "rationale": "Skydance has proven execution chops, the integration roadmap is clear, and bundling premium sports rights (NFL, MLB, NHL) into one service addresses subscriber churn. However, legacy customer migration and regulatory approval create real execution risk."
     },
     {
-      "statement": "Jessie Bates III signs a multi-year extension with Jacksonville before 2026 free agency.",
+      "statement": "CF Montréal sells for more than $400M USD, making it the third-most expensive MLS franchise sale on record.",
       "probability": 55,
-      "rationale": "Jacksonville spent future picks to acquire an elite safety at a critical moment, signaling they view him as a long-term solution. Bates is still in his prime years, and the Jaguars' win-now window justifies a commitment."
+      "rationale": "The franchise has established fan base, Saputo Stadium infrastructure, and 30-year operational track record, all premium assets. Northeast location and MLS expansion economics support higher valuations, but no recent comps exist at this price level."
     },
     {
-      "statement": "The Winnipeg Jets finish with a better record than the New Jersey Devils this season.",
+      "statement": "Michael Carrick is fired and replaced within 10 days; Pochettino is named Manchester United manager.",
       "probability": 48,
-      "rationale": "Both teams are in flux, but Winnipeg has been more consistent despite internal questions. The Devils' recent surge and young core are compelling, but depth scoring remains a question mark in a competitive East."
+      "rationale": "The BBC and Guardian both signal a sacking is imminent and Pochettino is in the mix. But Eddie Howe remains a credible alternative, and Wilcox may negotiate with Newcastle, creating delay. The 40-year-worst start suggests urgency, but timing uncertainty is real."
     },
     {
-      "statement": "Nikita Kucherov is traded before the NHL trade deadline.",
+      "statement": "Michael Wilson misses 8+ games before returning to action in 2026, recovering from his neck fracture without long-term impact on career arc.",
       "probability": 71,
-      "rationale": "A star center's public trade request significantly reduces Tampa Bay's leverage and shortens the timeline for negotiation. The Lightning will likely seek maximum value before the deadline rather than risk losing him for nothing in the offseason."
+      "rationale": "Neck fractures in NFL contexts often require conservative return timelines (8-12 weeks), and the Cardinals have no incentive to rush. Wilson is young enough to recover fully if rehab is managed properly, but neck injuries carry inherent re-injury risk that teams take seriously."
     }
   ],
   "injuries": [
     {
+      "player": "Michael Wilson",
+      "team": "Arizona Cardinals",
+      "league": "NFL",
+      "position": "WR",
+      "status": "OUT",
+      "injury": "Neck fracture",
+      "timeline": "Out for season",
+      "source": "CBS Sports",
+      "impact": "Cardinals lose their top wide receiver and primary pass-catch target, forcing offensive adjustments and reliance on depth pieces.",
+      "storyIndex": 5
+    },
+    {
       "player": "Marc Guehi",
-      "team": "England national team",
+      "team": "Crystal Palace",
       "league": "SOCCER",
       "position": "D",
       "status": "OUT",
       "injury": "Hip injury",
-      "timeline": "Out for Nations League matches vs Croatia and Spain",
+      "timeline": "Out for Nations League matches",
       "source": "BBC Sport",
-      "impact": "Dan Burn called up to replace Guehi in the England squad for upcoming Nations League fixtures.",
-      "storyIndex": 2
+      "impact": "England loses a regular defender for upcoming Nations League fixtures against Croatia and Spain, Dan Burn drafted as replacement.",
+      "storyIndex": 13
+    },
+    {
+      "player": "Dan Burn",
+      "team": "Newcastle United",
+      "league": "SOCCER",
+      "position": "D",
+      "status": "RETURNING",
+      "injury": "Previously injured; now available",
+      "timeline": "Called into England squad",
+      "source": "BBC Sport",
+      "impact": "Newcastle's defender is brought into international duty as replacement for Guehi, creating potential fatigue in domestic competition.",
+      "storyIndex": 13
+    },
+    {
+      "player": "Ceadach O'Neill",
+      "team": "Arsenal",
+      "league": "SOCCER",
+      "position": "FW",
+      "status": "OUT",
+      "injury": "Unspecified injury",
+      "timeline": "Out for Nations League matches",
+      "source": "BBC Sport",
+      "impact": "Northern Ireland loses the Arsenal forward for upcoming Nations League fixtures against Ukraine and Hungary.",
+      "storyIndex": 13
     }
   ],
   "picks": [
@@ -5912,38 +5940,38 @@
       "_pendingGrade": true
     }
   ],
-  "updatedAt": "2026-04-23T18:45:00Z",
+  "updatedAt": "2025-04-23T18:45:00Z",
   "highlights": [
     {
       "league": "NBA",
-      "title": "Glitch? Sorcery? What is this Kyrie shot 😳",
-      "videoId": "wJEe0_rN32o",
-      "thumbnail": "https://img.youtube.com/vi/wJEe0_rN32o/mqdefault.jpg",
-      "timeAgo": "2h ago",
+      "title": "NBA's Nightly Recap | November 7, 2026",
+      "videoId": "NAotzr5y2SI",
+      "thumbnail": "https://img.youtube.com/vi/NAotzr5y2SI/mqdefault.jpg",
+      "timeAgo": "2d ago",
       "isFallback": false
     },
     {
       "league": "NFL",
-      "title": "How much time could Puka Nacua miss? 👀 Adam Schefter joins | Big Day with Peter Schrager",
-      "videoId": "arqy-5rx-QQ",
-      "thumbnail": "https://img.youtube.com/vi/arqy-5rx-QQ/mqdefault.jpg",
-      "timeAgo": "1h ago",
+      "title": "Can the Jaguars WIN THE SUPER BOWL⁉️ + What Puka's injury means for LA | Monday Night Countdown",
+      "videoId": "18QSrP-ZAU4",
+      "thumbnail": "https://img.youtube.com/vi/18QSrP-ZAU4/mqdefault.jpg",
+      "timeAgo": "Just now",
       "isFallback": false
     },
     {
       "league": "MLB",
-      "title": "We Put MLB Stars in a World Series Crowd!",
-      "videoId": "3uaZ1RoKhTs",
-      "thumbnail": "https://img.youtube.com/vi/3uaZ1RoKhTs/mqdefault.jpg",
-      "timeAgo": "1h ago",
+      "title": "Team Nicaragua vs. Team Netherlands: Full Game (3/7/2026) | 2026 World Baseball Classic",
+      "videoId": "klPk9niSShQ",
+      "thumbnail": "https://img.youtube.com/vi/klPk9niSShQ/mqdefault.jpg",
+      "timeAgo": "2h ago",
       "isFallback": false
     },
     {
       "league": "NHL",
-      "title": "The Stanley Cup champions arrive in Finland 🇫🇮",
-      "videoId": "z3PAKdxYJFQ",
-      "thumbnail": "https://img.youtube.com/vi/z3PAKdxYJFQ/mqdefault.jpg",
-      "timeAgo": "Just now",
+      "title": "&quot;His standard was elite&quot; | What made Carey Price a Hall of Famer?",
+      "videoId": "B81-GQSW4Lk",
+      "thumbnail": "https://img.youtube.com/vi/B81-GQSW4Lk/mqdefault.jpg",
+      "timeAgo": "2h ago",
       "isFallback": false
     },
     {
@@ -5956,14 +5984,78 @@
     },
     {
       "league": "SOCCER",
-      "title": "Falcons players were hyped that Jude Bellingham pulled up to practice 😂 (via @atlantafalcons/TT)",
-      "videoId": "fEsIG-bVC50",
-      "thumbnail": "https://img.youtube.com/vi/fEsIG-bVC50/mqdefault.jpg",
-      "timeAgo": "6h ago",
+      "title": "Man City has ‘lost their authority’ during slump – Stewart Robson | ESPN FC",
+      "videoId": "x_5BxDOkjWA",
+      "thumbnail": "https://img.youtube.com/vi/x_5BxDOkjWA/mqdefault.jpg",
+      "timeAgo": "1h ago",
       "isFallback": false
     }
   ],
   "reels": [
+    {
+      "league": "NFL",
+      "title": "Can the Jaguars WIN THE SUPER BOWL⁉️ + What Puka's injury means for LA | Monday Night Countdown",
+      "videoId": "18QSrP-ZAU4",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-11-09 23:35:40",
+      "link": "https://www.youtube.com/watch?v=18QSrP-ZAU4"
+    },
+    {
+      "league": "SOCCER",
+      "title": "Man City has ‘lost their authority’ during slump – Stewart Robson | ESPN FC",
+      "videoId": "x_5BxDOkjWA",
+      "author": "ESPN FC",
+      "pubDate": "2026-11-09T22:56:01+00:00",
+      "link": "https://www.youtube.com/watch?v=x_5BxDOkjWA"
+    },
+    {
+      "league": "SOCCER",
+      "title": "Still concerned about Barcelona after narrow win over Atletico Madrid? 👀 | ESPN FC",
+      "videoId": "OsE8WQ1Om3I",
+      "author": "ESPN FC",
+      "pubDate": "2026-11-09T22:55:29+00:00",
+      "link": "https://www.youtube.com/watch?v=OsE8WQ1Om3I"
+    },
+    {
+      "league": "SOCCER",
+      "title": "Shaka Hislop calls Xabi Alonso’s Chelsea tenure a ‘HUGE DISAPPOINTMENT’ so far 😳 | ESPN FC",
+      "videoId": "gD_j-XMpqRc",
+      "author": "ESPN FC",
+      "pubDate": "2026-11-09T22:53:26+00:00",
+      "link": "https://www.youtube.com/watch?v=gD_j-XMpqRc"
+    },
+    {
+      "league": "SOCCER",
+      "title": "‘IT MAKES NO SENSE’ Harry Kane becomes 1st Ballon d’Or winner not to make FIFPRO World XI | ESPN FC",
+      "videoId": "lxATAS6QYMs",
+      "author": "ESPN FC",
+      "pubDate": "2026-11-09T22:38:39+00:00",
+      "link": "https://www.youtube.com/watch?v=lxATAS6QYMs"
+    },
+    {
+      "league": "SOCCER",
+      "title": "BREAKING: Man United expected to sack Michael Carrick 🚨 FULL REACTION | ESPN FC",
+      "videoId": "DdcHzzpq6gc",
+      "author": "ESPN FC",
+      "pubDate": "2026-11-09T22:30:51+00:00",
+      "link": "https://www.youtube.com/watch?v=DdcHzzpq6gc"
+    },
+    {
+      "league": "MLB",
+      "title": "Team Nicaragua vs. Team Netherlands: Full Game (3/7/2026) | 2026 World Baseball Classic",
+      "videoId": "klPk9niSShQ",
+      "author": "MLB",
+      "pubDate": "2026-11-09T22:00:26+00:00",
+      "link": "https://www.youtube.com/watch?v=klPk9niSShQ"
+    },
+    {
+      "league": "NHL",
+      "title": "&quot;His standard was elite&quot; | What made Carey Price a Hall of Famer?",
+      "videoId": "B81-GQSW4Lk",
+      "author": "NHL",
+      "pubDate": "2026-11-09T22:00:05+00:00",
+      "link": "https://www.youtube.com/watch?v=B81-GQSW4Lk"
+    },
     {
       "league": "NHL",
       "title": "The Stanley Cup champions arrive in Finland 🇫🇮",
@@ -5971,14 +6063,6 @@
       "author": "NHL",
       "pubDate": "2026-11-09T21:00:18+00:00",
       "link": "https://www.youtube.com/watch?v=z3PAKdxYJFQ"
-    },
-    {
-      "league": "NFL",
-      "title": "How much time could Puka Nacua miss? 👀 Adam Schefter joins | Big Day with Peter Schrager",
-      "videoId": "arqy-5rx-QQ",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-11-09T20:27:59+00:00",
-      "link": "https://www.youtube.com/watch?v=arqy-5rx-QQ"
     },
     {
       "league": "NHL",
@@ -5997,22 +6081,6 @@
       "link": "https://www.youtube.com/watch?v=3uaZ1RoKhTs"
     },
     {
-      "league": "NFL",
-      "title": "Dan O's pick is in 🏈",
-      "videoId": "zm3LUolORgI",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-11-09T19:51:15+00:00",
-      "link": "https://www.youtube.com/watch?v=zm3LUolORgI"
-    },
-    {
-      "league": "NFL",
-      "title": "3 Reasons Why The Jags NEEDED Jessie Bates",
-      "videoId": "YJ0Ct4FlTAE",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-11-09T19:44:32+00:00",
-      "link": "https://www.youtube.com/watch?v=YJ0Ct4FlTAE"
-    },
-    {
       "league": "MLB",
       "title": "Chivalry is alive and well at the ballpark! 💐⚾️",
       "videoId": "QQWVM08DtJg",
@@ -6029,68 +6097,12 @@
       "link": "https://www.youtube.com/watch?v=9doUcb5rYGM"
     },
     {
-      "league": "NFL",
-      "title": "Who Are the TOP QB Prospects in the 2027 NFL Draft?!",
-      "videoId": "3dcFseyxkYw",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-11-09T19:00:11+00:00",
-      "link": "https://www.youtube.com/watch?v=3dcFseyxkYw"
-    },
-    {
-      "league": "NBA",
-      "title": "Glitch? Sorcery? What is this Kyrie shot 😳",
-      "videoId": "wJEe0_rN32o",
-      "author": "NBA",
-      "pubDate": "2026-11-09T18:52:11+00:00",
-      "link": "https://www.youtube.com/watch?v=wJEe0_rN32o"
-    },
-    {
-      "league": "NBA",
-      "title": "Mamba Mentality at its finest 🖤🐍 A special night in NBA History that we’ll never forget",
-      "videoId": "8lCSm-lRoEA",
-      "author": "NBA",
-      "pubDate": "2026-11-09T18:51:09+00:00",
-      "link": "https://www.youtube.com/watch?v=8lCSm-lRoEA"
-    },
-    {
-      "league": "NBA",
-      "title": "How did LeBron see Tyrese Maxey 😱",
-      "videoId": "DPR3Rc1inA4",
-      "author": "NBA",
-      "pubDate": "2026-11-09T18:49:00+00:00",
-      "link": "https://www.youtube.com/watch?v=DPR3Rc1inA4"
-    },
-    {
-      "league": "NBA",
-      "title": "LaMelo Ball takes the steal all the way 🏃‍♂️💨",
-      "videoId": "vaYT8DjYNGM",
-      "author": "NBA",
-      "pubDate": "2026-11-09T18:48:09+00:00",
-      "link": "https://www.youtube.com/watch?v=vaYT8DjYNGM"
-    },
-    {
-      "league": "NFL",
-      "title": "EARLY NFL PLAYOFF PICTURE 👀 Who will reign supreme in the AFC and NFC?! | The Rich Eisen Show",
-      "videoId": "UGKhpIbxd-8",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-11-09T18:44:37+00:00",
-      "link": "https://www.youtube.com/watch?v=UGKhpIbxd-8"
-    },
-    {
       "league": "MLB",
       "title": "Team Colombia vs. Team Canada: Full Game (3/7/2026) | 2026 World Baseball Classic",
       "videoId": "iBl-2D_pd2Y",
       "author": "MLB",
       "pubDate": "2026-11-09T18:00:10+00:00",
       "link": "https://www.youtube.com/watch?v=iBl-2D_pd2Y"
-    },
-    {
-      "league": "NFL",
-      "title": "'This is Deshaun Watson's team this year!' - Stephen A. on if Shedeur should remain QB1 | First Take",
-      "videoId": "51isgzhIkRQ",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-11-09T17:38:03+00:00",
-      "link": "https://www.youtube.com/watch?v=51isgzhIkRQ"
     },
     {
       "league": "MLB",
@@ -6107,30 +6119,6 @@
       "author": "MLB",
       "pubDate": "2026-11-09T17:30:28+00:00",
       "link": "https://www.youtube.com/watch?v=MQPUeeBGQ-g"
-    },
-    {
-      "league": "NFL",
-      "title": "Does the NFL Have a Penalty Problem??",
-      "videoId": "WYklhVdETZw",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-11-09T17:24:37+00:00",
-      "link": "https://www.youtube.com/watch?v=WYklhVdETZw"
-    },
-    {
-      "league": "NFL",
-      "title": "Stephen A. isn't sold on Joe Burrow as the best QB right now 👀 'There's levels to this' | First Take",
-      "videoId": "L_-0U3H3FkQ",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-11-09T17:09:32+00:00",
-      "link": "https://www.youtube.com/watch?v=L_-0U3H3FkQ"
-    },
-    {
-      "league": "NBA",
-      "title": "6 INSANE NBA ENDINGS 🤯 | Week 3 of the 2026-27 NBA Season",
-      "videoId": "svxZdPMo8WQ",
-      "author": "NBA",
-      "pubDate": "2026-11-09T17:00:28+00:00",
-      "link": "https://www.youtube.com/watch?v=svxZdPMo8WQ"
     },
     {
       "league": "NHL",
@@ -6165,14 +6153,6 @@
       "link": "https://www.youtube.com/watch?v=nBn3vS30H6g"
     },
     {
-      "league": "MLB",
-      "title": "The reactions from both Shohei Ohtani and Francisco Alvarez were hilarious on this one 😂",
-      "videoId": "SGAimdfl8BY",
-      "author": "MLB",
-      "pubDate": "2026-11-09T15:49:17+00:00",
-      "link": "https://www.youtube.com/watch?v=SGAimdfl8BY"
-    },
-    {
       "league": "NHL",
       "title": "NHL stars take on NASCAR racing simulators",
       "videoId": "HlaTCRowPJM",
@@ -6189,44 +6169,12 @@
       "link": "https://www.youtube.com/watch?v=fEsIG-bVC50"
     },
     {
-      "league": "NBA",
-      "title": "NBA's TOP Dunks of Week 3 | 2026-27 Season",
-      "videoId": "R0-lFSq6vGg",
-      "author": "NBA",
-      "pubDate": "2026-11-09T14:30:28+00:00",
-      "link": "https://www.youtube.com/watch?v=R0-lFSq6vGg"
-    },
-    {
-      "league": "NBA",
-      "title": "NBA's TOP Plays of Week 3 | 2026-27 Season",
-      "videoId": "8y0KHx22P3A",
-      "author": "NBA",
-      "pubDate": "2026-11-09T14:00:37+00:00",
-      "link": "https://www.youtube.com/watch?v=8y0KHx22P3A"
-    },
-    {
-      "league": "NBA",
-      "title": "NBA's Nightly Recap | November 8, 2026",
-      "videoId": "lZ6E7rE7mpw",
-      "author": "NBA",
-      "pubDate": "2026-11-09T06:40:34+00:00",
-      "link": "https://www.youtube.com/watch?v=lZ6E7rE7mpw"
-    },
-    {
       "league": "NHL",
       "title": "Penguins vs. Ducks | NHL Highlights | Nov 8, 2026",
       "videoId": "6DVF7t4o9wY",
       "author": "NHL",
       "pubDate": "2026-11-09T04:53:02+00:00",
       "link": "https://www.youtube.com/watch?v=6DVF7t4o9wY"
-    },
-    {
-      "league": "NHL",
-      "title": "Favorite Tate McRae song?",
-      "videoId": "aFVTWiP5Els",
-      "author": "NHL",
-      "pubDate": "2026-11-09T04:20:30+00:00",
-      "link": "https://www.youtube.com/watch?v=aFVTWiP5Els"
     },
     {
       "league": "SOCCER",
@@ -6245,44 +6193,76 @@
       "link": "https://www.youtube.com/watch?v=nyz1jlW-fbA"
     },
     {
-      "league": "SOCCER",
-      "title": "Who will come in SECOND in the Premier League 🤔 | ESPN FC Extra Time",
-      "videoId": "yQgoR5WW3ME",
-      "author": "ESPN FC",
-      "pubDate": "2026-11-09T02:00:05+00:00",
-      "link": "https://www.youtube.com/watch?v=yQgoR5WW3ME"
+      "league": "NBA",
+      "title": "NBA's Nightly Recap | November 7, 2026",
+      "videoId": "NAotzr5y2SI",
+      "author": "NBA",
+      "pubDate": "2026-11-08 07:23:02",
+      "link": "https://www.youtube.com/watch?v=NAotzr5y2SI"
     },
     {
-      "league": "SOCCER",
-      "title": "Is there ANY HOPE for Man United? 👀 | ESPN FC",
-      "videoId": "He3gsPnSYEA",
-      "author": "ESPN FC",
-      "pubDate": "2026-11-09T02:00:03+00:00",
-      "link": "https://www.youtube.com/watch?v=He3gsPnSYEA"
+      "league": "WNBA",
+      "title": "Warriors Sounded Off on the Energy in Ballhalla After Game 1 🗣️",
+      "videoId": "STV1v4o4nns",
+      "author": "WNBA",
+      "pubDate": "2026-11-05T22:06:57+00:00",
+      "link": "https://www.youtube.com/watch?v=STV1v4o4nns"
     },
     {
-      "league": "SOCCER",
-      "title": "Washington Spirit vs. Portland Thorns FC | NWSL Highlights | ESPN FC",
-      "videoId": "QDL7-6BQ8gw",
-      "author": "ESPN FC",
-      "pubDate": "2026-11-08T22:17:32+00:00",
-      "link": "https://www.youtube.com/watch?v=QDL7-6BQ8gw"
+      "league": "WNBA",
+      "title": "Celeb Row Was STACKED for Game 1 of the WNBA Finals 🌟",
+      "videoId": "pahnsYn0TKM",
+      "author": "WNBA",
+      "pubDate": "2026-11-05T22:06:02+00:00",
+      "link": "https://www.youtube.com/watch?v=pahnsYn0TKM"
     },
     {
-      "league": "SOCCER",
-      "title": "Atlético Madrid vs. Barcelona | LALIGA Highlights | ESPN FC",
-      "videoId": "3wc9kxNDXTU",
-      "author": "ESPN FC",
-      "pubDate": "2026-11-08T22:14:43+00:00",
-      "link": "https://www.youtube.com/watch?v=3wc9kxNDXTU"
+      "league": "WNBA",
+      "title": "Kaila Charles Credits Ballhalla as the Sixth Woman in Game 1 Win 📣",
+      "videoId": "ieQeHAPZAh0",
+      "author": "WNBA",
+      "pubDate": "2026-11-05T22:04:17+00:00",
+      "link": "https://www.youtube.com/watch?v=ieQeHAPZAh0"
     },
     {
-      "league": "SOCCER",
-      "title": "BARCA HAS SILENCED THE METROPOLITANO!",
-      "videoId": "wWP04g7c1Sk",
-      "author": "ESPN FC",
-      "pubDate": "2026-11-08T21:46:50+00:00",
-      "link": "https://www.youtube.com/watch?v=wWP04g7c1Sk"
+      "league": "WNBA",
+      "title": "Inside the Valkyries' Locker Room With Coach Natalie Nakase After the Game 1 Win 🎙️",
+      "videoId": "GZPFxrjv_dM",
+      "author": "WNBA",
+      "pubDate": "2026-11-05T22:03:13+00:00",
+      "link": "https://www.youtube.com/watch?v=GZPFxrjv_dM"
+    },
+    {
+      "league": "WNBA",
+      "title": "Ballhalla Chanted for Gabby Williams After the Game 1 Win 📣",
+      "videoId": "OOCw-dUuVQE",
+      "author": "WNBA",
+      "pubDate": "2026-11-05T22:01:18+00:00",
+      "link": "https://www.youtube.com/watch?v=OOCw-dUuVQE"
+    },
+    {
+      "league": "WNBA",
+      "title": "Postgame Scenes From Game 1 of the WNBA Finals at Ballhalla 🎬",
+      "videoId": "qyDHLI_N6f8",
+      "author": "WNBA",
+      "pubDate": "2026-11-05T22:00:17+00:00",
+      "link": "https://www.youtube.com/watch?v=qyDHLI_N6f8"
+    },
+    {
+      "league": "WNBA",
+      "title": "Valkyries Take Game 1 of the WNBA Finals, 68-64 ⚔️",
+      "videoId": "bQIHRTX2gqI",
+      "author": "WNBA",
+      "pubDate": "2026-11-05T21:59:04+00:00",
+      "link": "https://www.youtube.com/watch?v=bQIHRTX2gqI"
+    },
+    {
+      "league": "WNBA",
+      "title": "Draymond Green Rocked the Season 30 Chain at WNBA Finals Game 1 ⛓️",
+      "videoId": "HPydDx4KOMM",
+      "author": "WNBA",
+      "pubDate": "2026-11-05T21:56:36+00:00",
+      "link": "https://www.youtube.com/watch?v=HPydDx4KOMM"
     }
   ]
 }
