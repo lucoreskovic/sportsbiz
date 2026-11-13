@@ -1,73 +1,81 @@
 {
   "clusters": [
     {
+      "category": "labor",
+      "importance": 9,
+      "leadHeadline": "Tearful Pochettino says United job was 'difficult to turn down' in USMNT farewell",
+      "leadSource": "The Guardian · 1h ago",
+      "leadUrl": "https://www.theguardian.com/football/2026/nov/13/mauricio-pochettino-usmnt-manchester-united",
+      "summary": "Mauricio Pochettino left the USMNT for Manchester United, calling the move 'the most difficult decision of my career' in an emotional Friday presser. He departs with 21 wins in 35 matches after just 14 months coaching the U.S.",
+      "article": "<cite index=\"1-1\">Mauricio Pochettino officially bid goodbye to the USMNT in an emotional press conference Friday after agreeing a two-and-a-half-year deal to join Manchester United.</cite> <cite index=\"2-8\">Speaking in tears, he called it \"the most difficult decision of my career.\"</cite> Yet <cite index=\"28-5\">when discussing the opportunity, he acknowledged: \"not too many opportunities can happen in your career like a side of Manchester United and, of course, when that arrives, it's difficult to turn down.\"</cite>\n\nThe move caps a whirlwind reversal. <cite index=\"10-4\">Just three months ago Pochettino agreed to a four-year contract extension through the 2030 World Cup.</cite> <cite index=\"10-5\">Manchester United paid the $10 million buyout clause embedded in that deal.</cite>\n\n<cite index=\"1-4\">Pochettino leaves the USMNT after 21 wins, 12 losses and 2 draws in 35 matches</cite>, having taken the job in September 2024 and leading the Americans to the round of 16 at the home World Cup. <cite index=\"19-4\">He will remain with the USMNT for its two-legged Concacaf Nations League quarterfinals against Haiti</cite> before <cite index=\"1-2\">becoming Manchester United head coach on November 18.</cite>",
+      "tweets": [
+        {
+          "url": "https://twitter.com/ManUtd/status/2121211864210415838",
+          "html": "<blockquote class=\"twitter-tweet\" data-dnt=\"true\" data-theme=\"dark\"><p>Mauricio Pochettino has agreed to become the Manchester United men’s head coach.</p>&mdash; Manchester United (@ManUtd) <a href=\"https://twitter.com/ManUtd/status/2121211864210415838\">November 13, 2026</a></blockquote>",
+          "author_name": "Manchester United",
+          "author_url": "https://twitter.com/ManUtd",
+          "dateMs": 1794571293000
+        }
+      ]
+    },
+    {
       "category": "media",
       "importance": 8,
-      "leadHeadline": "Warriors center gets last laugh as NBA suspends Rockets star for several games",
+      "leadHeadline": "NBC tabs Jason Benetti to replace Dan Hicks on Notre Dame-Boston College call after shocking death",
       "leadSource": "NY Post Sports · just now",
-      "leadUrl": "https://nypost.com/2026/11/12/sports/marcus-smart-suspended-3-games-punch-warriors-center-charles-bassey/",
-      "summary": "<cite index=\"1-1\">Marcus Smart suspended three games without pay for throwing a punch at Warriors center Charles Bassey</cite>. <cite index=\"1-11\">Bassey called it \"fake toughness\" after Smart played dirty all game</cite>.",
-      "article": "<cite index=\"1-1\">The NBA suspended Houston Rockets guard Marcus Smart three games without pay Thursday for throwing a punch at Golden State Warriors center Charles Bassey.</cite> <cite index=\"11-4\">Smart grazed Bassey's nose with a right hook during a confrontation late in the third quarter of Houston's 115-108 home win Wednesday night.</cite>\n\n<cite index=\"11-6,11-7,11-8\">Smart and Bassey engaged after Rockets guard Amen Thompson's transition bucket with 21 seconds left in the quarter. After jawing face to face as Warriors forward Yaxel Lendeborg tried to separate them, Smart threw a right hook that grazed Bassey's nose as he stepped back to slip the punch.</cite>\n\n<cite index=\"14-10,14-11\">Rockets coach Ime Udoka said Smart confronted Bassey after the Warriors center wrapped up Smart's previously injured elbow, and Bassey told Smart \"what are you gonna do,\" leading to the punch.</cite> <cite index=\"16-8\">Bassey admitted he \"baited\" Smart, who had \"been playing dirty all game.\"</cite>\n\nPostgame, <cite index=\"1-11\">Bassey said Smart was playing dirty \"the whole game\" and called the punch \"fake toughness.\"</cite> <cite index=\"16-4\">Bassey was not injured and appeared unfazed by the altercation.</cite>\n\n<cite index=\"7-8,7-9\">Smart's three-game suspension will cost him $125,462 of his $6,064,000 salary for this season, while the Rockets will receive a tax variance credit worth $62,731.</cite> <cite index=\"11-5\">Smart will miss games Friday at home against the Utah Jazz, Sunday at the Washington Wizards and Monday at the Miami Heat.</cite>",
+      "leadUrl": "https://nypost.com/2026/11/13/sports/jason-benetti-to-replace-dan-hicks-on-notre-dame-boston-college-call/",
+      "summary": "Jason Benetti has been named to replace Dan Hicks on NBC's Notre Dame-Boston College broadcast following Hicks's unexpected death. Hicks had called Notre Dame games from 2013-17 and returned to the role in 2024.",
+      "article": "NBC has tapped Jason Benetti to replace Dan Hicks on the Notre Dame-Boston College broadcast, following Hicks's sudden death. Hicks, who had called Notre Dame football games from 2013-17 and returned to the role in 2024, was a fixture in college football broadcasting and held significant tenure with Notre Dame's media footprint. Benetti, a veteran play-by-play announcer with extensive experience across multiple sports, takes over the assignment immediately. The move represents a significant reshuffling of NBC's college football talent roster and underscores the network's need to backfill premium inventory quickly. Hicks's death removes an experienced voice from a marquee annual matchup and leaves a void in Notre Dame's broadcast operations during the heart of the season. Benetti's elevation reflects NBC's confidence in his ability to handle high-profile college football assignments and his standing as one of the network's trusted broadcasters. The change comes during a period when Notre Dame football remains a ratings draw and a key component of NBC's sports portfolio.",
       "tweets": []
     },
     {
-      "category": "leagues",
+      "category": "media",
       "importance": 7,
-      "leadHeadline": "Chargers Jim Harbaugh blames Broncos over botched trade deadline deal",
-      "leadSource": "NY Post Sports · just now",
-      "leadUrl": "https://nypost.com/2026/11/12/sports/chargers-jim-harbaugh-rips-broncos-over-failed-daiyan-henley-trade/",
-      "summary": "Chargers head coach Jim Harbaugh is accusing the Denver Broncos of exploiting an NFL trade loophole after a deal to acquire linebacker Daiyan Henley collapsed when Henley failed his physical.",
-      "article": "The Chargers and Broncos had a deal for linebacker Daiyan Henley that fell apart Thursday, and Jim Harbaugh isn't shy about who he blames. The teams had agreed to send Henley to Denver for a 2027 fourth-round pick and a 2028 fifth-rounder, pending a physical. Henley failed that medical evaluation, killing the trade. Harbaugh's frustration appears to center on what he sees as Denver using a procedural loophole to back out of the arrangement after terms were already set. The Broncos declined to offer a counteroffer or renegotiate compensation, instead walking away entirely. The failed deal leaves the Chargers' linebacker rotation intact but underscores the fragility of deadline trades when medical clearances are still pending. For Denver, the retreat suggests either genuine medical concerns or a reassessment of what Henley was worth in a trade, a dynamic that's now become a point of contention between division rivals heading into the final stretch of the season.",
-      "tweets": []
-    },
-    {
-      "category": "contracts",
-      "importance": 7,
-      "leadHeadline": "UCLA working to extend Bob Chesneys contract as rapid rise puts Bruins coach atop hiring boards",
-      "leadSource": "CBS Sports · just now",
-      "leadUrl": "https://www.cbssports.com/college-football/news/ucla-bob-chesney-contract-extension-rapid-rise-coaching-carousel/",
-      "summary": "UCLA has been negotiating a contract extension with first-year football coach Bob Chesney for at least a month, as his 9-0 start has made him a target for other programs seeking head coaches.",
-      "article": "UCLA is moving to lock up first-year head coach Bob Chesney before another school poaches him. The Bruins have been in extension talks with Chesney for at least a month, sources told CBS Sports, as his 9-0 start has made him one of the most coveted coaching candidates on the market. The timing is critical: Chesney has transformed a program that was mired in mediocrity and debt, and the athletic department knows holding onto him requires financial commitment. UCLA faces its own fiscal headwinds, including lingering debt and sparse attendance, which limits the resources available for a competitive offer. Still, watching your first-year coach become a national hiring target after a perfect start is a luxury problem most programs would welcome. The Bruins must balance rewarding Chesney's early success with the financial realities of their operation, a calculus that could determine whether he stays in Westwood or jumps to a bigger-name program with deeper pockets.",
+      "leadHeadline": "U.S. Soccer's Best-Laid Plans Hit the Crossbar in a Rough Week",
+      "leadSource": "Sportico · 1h ago",
+      "leadUrl": "https://www.sportico.com/leagues/soccer/2026/us-soccer-mauricio-pochettino-exit-ncaa-rejection-1234958378/",
+      "summary": "U.S. Soccer's ambitious proposal to retool men's college soccer has been torpedoed after eight days of setbacks affecting the federation's major strategic initiatives. The governing body faces mounting obstacles in executing its long-term development plans.",
+      "article": "U.S. Soccer has watched two major strategic initiatives derailed in the span of eight days, a setback that underscores the federation's difficulty in executing ambitious reform. An ambitious proposal to retool men's college soccer failed to gain traction, marking a significant blow to the federation's player-development pipeline strategy. The timing compounds an already turbulent period for U.S. Soccer, which is now simultaneously managing the departure of Mauricio Pochettino as USMNT coach and facing structural challenges in how it develops and deploys talent at the domestic level. The college soccer initiative was central to the federation's long-term vision for upgrading the competitive environment young male players face before reaching the senior national team. Its collapse suggests either insufficient buy-in from stakeholders, regulatory hurdles, or fundamental disagreements about the path forward. Pochettino's departure, while distinct from the college soccer failure, compounds the sense that U.S. Soccer's strategic planning is fragile. The federation must now pivot to find a new national team coach while simultaneously rebuilding its domestic development architecture. The dual failures raise questions about governance capacity and the federation's ability to execute multi-year initiatives with key partners and constituencies.",
       "tweets": []
     },
     {
       "category": "media",
       "importance": 6,
-      "leadHeadline": "How will the USMNT replace Mauricio Pochettino? There's no clear answer",
-      "leadSource": "The Guardian · 5h ago",
-      "leadUrl": "https://www.theguardian.com/football/2026/nov/12/mauricio-pochettino-replacements-usmnt-manchester-united",
-      "summary": "Mauricio Pochettino is on the verge of sealing a move to Manchester United as USMNT head coach, leaving the U.S. men's national team without a clear succession plan.",
-      "article": "Mauricio Pochettino's departure from the USMNT to Manchester United is imminent, and the federation faces an urgent problem: who replaces him? The Guardian reports that Pochettino has emerged as Manchester United's target and is nearing a deal to become the Premier League club's head coach. His exit leaves the USMNT coaching vacancy wide open just as the team heads into crucial World Cup qualifying windows. Potential candidates exist, but none carry the pedigree or experience Pochettino brought. The federation must decide whether to promote from within, hire a familiar face from MLS or the college ranks, or pursue another high-profile international candidate. The timing is awkward. Pochettino had stabilized the USMNT after years of instability, and his loss removes continuity at a moment when the squad is still rebuilding its reputation after disappointing results in recent tournaments. The search will likely take weeks, during which the team operates under an interim arrangement. The decision will signal whether the federation is committed to steady, long-term development or willing to take a chance on an unproven or lesser-known coach.",
+      "leadHeadline": "Celtics-Sixers delivers viewership pop, continuing NBA's strong start",
+      "leadSource": "Sports Media Watch · 13h ago",
+      "leadUrl": "https://www.sportsmediawatch.com/2026/11/celtics-sixers-viewership-nbc-nba-strong-start/",
+      "summary": "NBC's Celtics-Sixers matchup drew strong viewership numbers as part of the network's Coast 2 Coast Tuesday offering, continuing the NBA's robust start to the season. The game featuring Jaylen Brown and Jayson Tatum generated a notable ratings pop.",
+      "article": "The Celtics-Sixers matchup on NBC's Coast 2 Coast Tuesday delivered strong viewership as the league continues to post robust numbers early in the season. The game, which featured the first matchup between Jaylen Brown and Jayson Tatum of the Celtics, drew audience appreciation across most markets, with Thunder-Trail Blazers serving as the West Coast alternative offering. NBA regular season windows have been averaging 18.3 million viewers through Week 9, up 2 percent from the prior year and marking the second-strongest nine-week viewership period on record behind only 2010. The sustained ratings strength suggests the league has retained audience momentum from offseason moves and roster changes, with marquee Tuesday night programming continuing to drive engagement. The numbers validate NBC's investment in premium matchup programming and the broader league strategy of concentrating star power into high-profile windows. Whether the league can sustain these numbers through the stretch and into the playoffs will be a key metric for 2026 media-rights negotiations and content strategy going forward.",
       "tweets": []
     },
     {
       "category": "revenue",
-      "importance": 6,
-      "leadHeadline": "Pochettino's Manchester United Will Still Face Major Financial Woes",
-      "leadSource": "Front Office Sports · 3h ago",
-      "leadUrl": "https://frontofficesports.com/article/mauricio-pochettino-manchester-united-glazers-debt/",
-      "summary": "Manchester United will hire Mauricio Pochettino as head coach despite the club carrying approximately one billion dollars in debt, a financial burden that will constrain his ability to rebuild the squad.",
-      "article": "Manchester United is set to appoint Mauricio Pochettino as head coach, but he's inheriting a club drowning in debt. The Red Devils are carrying about a billion dollars in liabilities, a figure that will severely limit Pochettino's transfer budget and operational flexibility. Front Office Sports reports that even with a marquee coach on the sideline, United's financial picture remains dire. The club must balance immediate competitive needs with debt servicing, a tension that has plagued recent administrations. Pochettino's reputation includes squad-building acumen and tactical innovation, but his ability to address United's competitive shortcomings will depend entirely on how much capital the ownership group is willing to commit. The debt load suggests patience will be required; a quick turnaround to Champions League qualification or a domestic title isn't guaranteed by coaching change alone. United's ownership faces a choice: inject capital and risk further financial strain, or ask Pochettino to compete with modest resources. Pochettino's first months will test whether tactical brilliance can overcome structural financial constraints.",
-      "tweets": []
-    },
-    {
-      "category": "contracts",
       "importance": 5,
-      "leadHeadline": "Lauri Markkanen's Trade Value May Have Hit a New Low After Jazz Holdout",
-      "leadSource": "Deadspin · 6h ago",
-      "leadUrl": "https://deadspin.com/lauri-markkanens-trade-value-may-have-hit-a-new-low-after-jazz-holdout/",
-      "summary": "Jazz forward Lauri Markkanen's trade market value has deteriorated further after a fractured hand sidelined him, complicating Utah's years-long effort to find a trade partner.",
-      "article": "Lauri Markkanen's fractured hand arrives at the worst possible time for the Utah Jazz's trade prospects. Deadspin reports that Markkanen, who has been the subject of recurring trade speculation for years, is now dealing with a hand injury that makes finding a trade partner even harder. The Jazz have held onto Markkanen despite persistent rumors and offers, but a fractured hand reduces his attractiveness to potential suitors who would need to account for a recovery timeline and possible lingering effects on shooting. Utah's refusal to trade him in the past suggested confidence in his long-term value, but injuries have a way of shifting the calculus. Teams pursuing Markkanen must now weigh the injury risk against his contract and production, a negotiating position that favors the buyer over the Jazz. Utah's holdout strategy on past offers may look shortsighted if Markkanen's market value continues to erode. The fractured hand is likely a short-term issue, but it underscores the risk of holding onto players in a trade market where injury can change everything in an instant.",
+      "leadHeadline": "LAFC Co-Owner Rosenthal to Retain Governor's Job Indefinitely",
+      "leadSource": "Sportico · 2h ago",
+      "leadUrl": "https://www.sportico.com/personalities/owners/2026/bennett-rosenthal-remain-lafc-governor-indefinitely-1234958366/",
+      "summary": "Bennett Rosenthal will remain as LAFC governor beyond the planned four-year rotation, departing from an earlier agreement to cede the role to co-managing partner Brandon Beck. Rosenthal has held the top position since 2023.",
+      "article": "Bennett Rosenthal will retain his role as LAFC governor indefinitely, reversing a planned transition that would have passed the position to Brandon Beck early next year as part of a structured four-year rotation among the club's co-managing owners. Rosenthal, the co-founder of Ares Management, stepped into the governor role in 2023 and represents the franchise in league matters and governance affairs. The decision to retain him signals either a change in the ownership partnership's original power-sharing agreement or a reassessment of Beck's readiness for the top role. LAFC remains a flagship MLS franchise and a central asset within the league's competitive landscape, particularly given Los Angeles's importance as a media market and soccer growth center. Rosenthal's continued stewardship suggests stability in the club's front-office operations, though the departure from the original rotation plan may signal tension or disagreement within the ownership group about management structure. The move affects how LAFC participates in league governance and decision-making during a period when MLS is navigating expansion, media-rights negotiations, and strategic positioning in the broader soccer landscape.",
       "tweets": []
     },
     {
       "category": "media",
       "importance": 4,
-      "leadHeadline": "Richard Posner's Rulings Helped Shape the Business of Sports",
-      "leadSource": "Sportico · 7h ago",
-      "leadUrl": "https://www.sportico.com/law/analysis/2026/richard-posner-sports-law-1234958206/",
-      "summary": "Judge Richard Posner, an influential jurist who issued rulings that shaped sports law and business, died Tuesday at age 87.",
-      "article": "Judge Richard Posner, whose decisions reshaped the legal landscape of sports business, died Tuesday at 87. Posner served on the U.S. Court of Appeals for the 7th Circuit after his appointment by President Ronald Reagan and was a longtime professor at the University of Chicago Law School. His intellectual output was vast: he authored numerous works on law and economics that influenced how courts interpreted antitrust issues, labor relations, and regulatory questions in sports. Several of his rulings touched sports directly, shaping how leagues manage player movement, collective bargaining, and franchise operations. Sportico notes that Posner's analytical framework, rooted in economic reasoning, became foundational to how modern sports cases are adjudicated. His death marks the end of an era in sports law in which economic reasoning supplanted older, more formalistic approaches. Younger jurists and sports lawyers trained in the Posner school will likely continue his influence for decades. His legacy extends beyond individual decisions to the entire methodology by which sports law is practiced today.",
+      "leadHeadline": "Dianna Russini Will Seek Credential for Super Bowl Radio Row",
+      "leadSource": "Front Office Sports · just now",
+      "leadUrl": "https://frontofficesports.com/article/dianna-russini-will-seek-credential-for-super-bowl-radio-row/",
+      "summary": "Sports journalist Dianna Russini is seeking a credential for Super Bowl Radio Row, though some NFL teams have cited her association with BetUS as a potential barrier. The credential request highlights ongoing tensions between sports media and gambling partnerships.",
+      "article": "Dianna Russini has applied for a credential to work Super Bowl Radio Row, a standard access request that has encountered pushback from some NFL teams objecting to her association with the sports betting platform BetUS. The credential dispute underscores the league's ongoing friction around gambling partnerships and media personnel, particularly as individual journalists hold equity stakes or promotional relationships with betting operators. Russini's work as a broadcaster and reporter has made her a frequent presence at major NFL events, and Radio Row access is considered a standard professional credential for sports media. Her betting association appears to be the specific point of contention rather than any broader credential concern. The objection from multiple teams suggests either a formal league guidance on betting partnerships or informal pressure from franchises uncomfortable with how gambling ties might be perceived during the Super Bowl, the league's flagship event. Whether Russini ultimately receives the credential remains unresolved, but the dispute highlights the NFL's continuing struggle to balance its gambling revenue streams with media-credentialing standards.",
+      "tweets": []
+    },
+    {
+      "category": "media",
+      "importance": 3,
+      "leadHeadline": "Prospects Report: Why Canadiens fans should be really excited about Michael Hage",
+      "leadSource": "Sportsnet · 5h ago",
+      "leadUrl": "",
+      "summary": "Michael Hage, a top Canadiens prospect, has returned for a third NCAA season at Michigan and is positioned as a dominant force in college hockey after a difficult end to the 2025-26 campaign. The decision to stay college-bound extends his development timeline but enhances his stock.",
+      "article": "Michael Hage, a high-profile prospect in the Montreal Canadiens' pipeline, has elected to return for a third season at the University of Michigan rather than turn professional, a choice that positions him as a potential breakout player in college hockey. Hage faced a challenging conclusion to the 2025-26 campaign but decided the additional development time at the NCAA level outweighed the opportunity to enter the professional ranks immediately. The move suggests confidence in his trajectory and an assessment by Hage and the Canadiens organization that another year of elite college competition will enhance his readiness for the NHL. College hockey scouts and executives often view third-year players as fully seasoned and refined, particularly if they've competed at a high level throughout their tenure. Hage's dominance in college hockey, if sustained, could position him as a first-round contributor when he does sign a professional contract. The Canadiens benefit from his continued development without the risk of NHL salary cap commitments, and Michigan retains one of its marquee assets. Hage's trajectory will be closely watched by NHL teams and scouts as a barometer of elite college talent filtering into the professional ranks.",
       "tweets": []
     }
   ],
@@ -2392,107 +2400,94 @@
     "source": "espn"
   },
   "deals": [],
-  "ratings": [],
+  "ratings": [
+    {
+      "event": "Celtics vs 76ers (NBC Coast 2 Coast Tuesday)",
+      "network": "NBC",
+      "viewers_m": 18.3,
+      "peak_viewers_m": null,
+      "league": "NBA",
+      "storyIndex": 8,
+      "context": "Part of strong NBA start; league averaging 18.3M viewers through Week 9, up 2% YoY.",
+      "capturedAt": "2026-11-13T18:16:06.674Z"
+    }
+  ],
   "ticket_prices": [],
   "sidebar": [
     {
-      "headline": "College Sports Bill Proponents Mount Last-Ditch Lobbying Effort During Lame-Duck Session",
-      "source": "Front Office Sports · 1h ago",
-      "article": "Supporters of the Protect College Sports Act are scrambling to move the needle before the lame-duck session ends. Front Office Sports reports that proponents are sending letters to lawmakers, running digital ads, and intensifying outreach to secure passage before Congress adjourns. The bill has been a persistent fixture in the sports policy landscape, aimed at addressing NIL regulations and athlete compensation frameworks that vary wildly across states. With the window closing, advocates are deploying all available pressure points: industry groups, athlete testimonies, and appeals to urgency. The bill's fate remains uncertain, and failure to pass during the lame-duck period could delay action until next year, when a new Congress must start from scratch. The intensity of the push suggests supporters believe this is the last realistic opportunity to move the legislation."
+      "headline": "Tracy McGrady Says Magic Reached Out About Retiring His Jersey",
+      "source": "Front Office Sports",
+      "article": "Tracy McGrady confirmed that the Orlando Magic have made contact regarding the retirement of his jersey, acknowledging the franchise's interest in honoring his tenure. McGrady spent four of his 16 NBA seasons with the Magic and ranks among the franchise's most talented players of the modern era. A jersey retirement represents one of professional sports' highest honors and signals the organization's recognition of McGrady's impact during his time in Orlando. The Magic's outreach suggests a formal process is underway, though no timeline for the ceremony has been announced. McGrady's Hall of Fame credentials and his peak years in Orlando make him a natural candidate for the honor."
     },
     {
-      "headline": "Where does Kane rank among all-time England greats?",
-      "source": "BBC Sport · 2h ago",
-      "article": "Harry Kane has become England's all-time top scorer and record appearance maker, but his place among the Three Lions' greatest players remains debated. BBC Sport examines Kane's credentials against Pele, Maradona, and other legendary figures who wore the Three Lions crest. Kane's milestones place him in the conversation, but pure goal totals don't capture the full picture of a player's impact or era. He's played in multiple World Cups, European Championships, and World Cup qualifying campaigns across two decades, racking up 63 caps and a record goal total. The comparison hinges on how analysts weight individual achievement against team success and era-adjusted production. Kane's consistency and longevity are undeniable; whether that places him in the very top tier depends on how seriously one weights his silverware relative to pure scoring output."
+      "headline": "Unbeaten UFC Fighter Tommy McMillen Hospitalized After Suspected Overdose",
+      "source": "Deadspin",
+      "article": "UFC featherweight Tommy McMillen, who held an unbeaten 12-0 record, was hospitalized after Scottsdale police discovered him unresponsive at a nightclub and administered Narcan. The 12-0 fighter's hospitalization comes as a significant development in MMA circles and raises broader concerns about fighter safety and substance-related incidents. McMillen's undefeated status and rising trajectory in the UFC made his prominence in the featherweight division a developing storyline. Details surrounding the incident remain limited, and his condition and return timeline are unclear. The situation underscores vulnerabilities in fighter welfare protocols and the challenges the sport faces in supporting athlete mental health and substance-abuse prevention."
     },
     {
-      "headline": "Amid the storm, Canucks Sedins not shying away from blowback",
-      "source": "Sportsnet · 2h ago",
-      "article": "Henrik and Daniel Sedin, now in management roles with the Vancouver Canucks, faced the media Thursday after a rough stretch for the team, exemplifying the leadership approach they've brought to the franchise. Sportsnet's Iain MacIntyre notes that the Sedins didn't duck accountability or deflect blame, a stark contrast to some front offices that retreat when results disappoint. Their willingness to address criticism head-on sends a message to the current roster about professionalism and ownership. The Sedins built Hall of Fame careers on consistency and composure, traits they're now modeling for the organization's decision-makers and players alike. How long that patience lasts with continued poor results will be telling."
+      "headline": "College Basketball Rankings: Will BYU End Up as the Last Undefeated Team Standing?",
+      "source": "CBS Sports",
+      "article": "BYU's 4-0 start has positioned the Cougars as a potential last undefeated team standing as the college basketball season progresses into January. The schedule ahead provides a long runway of potential wins before conference play tightens competition. Remaining undefeated through the regular season has become increasingly rare in modern college basketball, with compressed schedules and deeper talent pools creating frequent upsets. BYU's early success and favorable pre-conference slate offer a realistic window to build an extended winning streak, though January conference matchups will test their mettle against quality opponents. The Cougars' trajectory will be one of the season's key storylines as teams position for NCAA tournament seeding."
     },
     {
-      "headline": "These College Football Teams Can't Afford Another Loss",
-      "source": "Deadspin · 6h ago",
-      "article": "The latest College Football Playoff rankings have clarified the stakes for several contenders down the stretch. Texas Tech, Indiana, and Wake Forest face critical tests in the coming weeks; a single loss could derail playoff hopes entirely. Deadspin breaks down the scenarios facing each program and the narrow margins still separating the field. Indiana's rise has been the surprise of the season, but the Hoosiers' first loss could trigger a swift collapse in the committee's eyes. Texas Tech and Wake Forest, meanwhile, sit in the bubble tier where one bad result moves them from serious contender to also-ran. The final regular season games will determine far more than just division races."
+      "headline": "Top Japanese Free Agents Blue Jays Could Target",
+      "source": "Sportsnet",
+      "article": "The Toronto Blue Jays are exploring Japanese free agents as potential targets during the offseason, capitalizing on increased mutual interest between NPB players and MLB franchises. Mutual interest between Japanese players and Toronto has grown more realistic in recent years compared to earlier periods of cross-league recruitment. The Blue Jays have a track record of successfully integrating Japanese talent, and the current free-agent class offers genuine opportunities. While no guarantee exists that another NPB star will join Toronto this offseason, the possibility is realistic enough to warrant serious consideration. Key available talent from Japan represents a strategic avenue for the Jays to add depth and fill organizational needs without exhausting payroll resources on premium free agents."
     },
     {
-      "headline": "Dan Hicks, Veteran NBC Sports Broadcaster, Dies at 64",
-      "source": "Sportico · 6h ago",
-      "article": "Dan Hicks, the longtime NBC Sports voice whose broadcasts became the soundtrack to Tiger Woods, Michael Phelps, and countless Olympic and college football moments, died Wednesday following a sudden illness. He was 64. His wife, Hannah Storm, announced his death Thursday. Hicks' career spanned decades of primetime NBC broadcasts, from golf majors to Olympic Games to football championship games. His distinctive delivery and command of the narrative made him one of sports broadcasting's most recognizable voices. Colleagues across the industry mourned his loss, highlighting not only his professionalism but his generosity as a mentor. Hicks leaves behind a legacy of iconic calls and a generation of broadcasters influenced by his approach to storytelling."
+      "headline": "How Ferguson-Inspired Pochettino Can Succeed Where Carrick Failed at Man Utd",
+      "source": "BBC Sport",
+      "article": "Mauricio Pochettino takes over Manchester United with tactical and philosophical frameworks that echo Sir Alex Ferguson's successful reign, positioning him to overcome the structural and organizational hurdles that stymied interim manager Michael Carrick. Pochettino's track record of building cohesive systems and demanding high standards aligns with the legendary manager's approach. The tactical analysis reveals specific areas where Carrick struggled: pressing triggers, defensive shape under transition, and squad rotation philosophy. Pochettino's experience at elite European clubs suggests he can implement a more sophisticated pressing system and develop clearer defensive protocols. His ability to establish clear hierarchies and demand accountability mirrors Ferguson's management style. The new manager inherits a squad with structural imbalances and inconsistent individual performances, challenges that require systematic overhaul rather than tactical tinkering."
     },
     {
-      "headline": "Sergiño Dest leaves USMNT camp with injury as coach drama swirls",
-      "source": "NY Post Sports · 4h ago",
-      "article": "U.S. men's national team defender Sergiño Dest departed the team's camp Thursday after arriving with an injury, adding to the USMNT's roster complications during a period of coaching uncertainty. The New York Post reports that Dest came into the week's camp already dealing with an issue and ultimately could not participate. His absence removes one of the team's depth options on the wing during World Cup qualifying windows. The injury wasn't characterized as serious, but its timing highlights the logistical challenges of preparing for international fixtures when players arrive banged up. The USMNT's medical staff will monitor Dest's status ahead of the team's next assignments."
+      "headline": "Jim Miller Offers Betting Value Against Terrance McKinney at UFC 334",
+      "source": "Deadspin",
+      "article": "UFC veteran Jim Miller, a +194 underdog against Terrance McKinney at UFC 334, presents betting value according to analytical models evaluating his matchup dynamics. Miller's experience and technical approach generate potential upset pathways against a favored opponent. The +194 odds reflect McKinney's favoritism but suggest market perception may overvalue the prospective winner. Analytical models isolating specific fight dynamics and stylistic advantages see profitable opportunities in Miller's chances of a winning performance. Bettors considering Miller should evaluate his path to victory through grappling exchanges and clinch control, areas where veteran experience often offsets athleticism advantages."
     }
   ],
   "poll": {
-    "question": "Who should the USMNT hire to replace Mauricio Pochettino?",
+    "question": "Will Mauricio Pochettino's departure derail U.S. Soccer's 2026 World Cup preparation?",
     "options": [
-      "Promote an assistant from within the federation",
-      "Hire a proven MLS or college coach",
-      "Pursue a high-profile international candidate",
-      "Offer the job on an interim basis while searching"
+      "Yes, losing continuity mid-cycle is a major setback",
+      "No, a strong replacement can stabilize the program quickly",
+      "Unlikely, the team's talent pool is strong enough to absorb it",
+      "Too early to tell; depends on successor quality"
     ]
   },
   "predictions": [
     {
-      "statement": "Bob Chesney signs a multi-year extension with UCLA before the end of the 2026 season.",
+      "statement": "U.S. Soccer hires a new USMNT coach within 30 days of Pochettino's departure.",
       "probability": 72,
-      "rationale": "UCLA is already in active negotiations and has been for a month. A 9-0 start gives them leverage to convince Chesney the project is worth staying for, despite the school's debt and attendance issues. The question is price, not whether an extension happens."
+      "rationale": "The federation faces pressure to install continuity before the Nations League semifinals in March. International breaks and qualifying windows create urgency that typically accelerates coaching searches. However, finding a replacement of comparable stature may extend negotiations."
     },
     {
-      "statement": "Mauricio Pochettino is named Manchester United head coach within 7 days.",
-      "probability": 85,
-      "rationale": "Multiple outlets report he's on the verge of sealing the deal. The BBC and Guardian both frame it as imminent, and United's ownership appears aligned on the hire. Formal announcement is likely a matter of days, not weeks."
-    },
-    {
-      "statement": "Marcus Smart is reinstated before serving the full three-game suspension due to an appeal.",
-      "probability": 28,
-      "rationale": "Three-game suspensions for altercations are rarely overturned on appeal. Smart made contact with Bassey's face, which is clear grounds for the league's enforcement. Appeals typically succeed only when the league misread the severity or missed video evidence; neither is the case here."
-    },
-    {
-      "statement": "The Chargers and Broncos will not trade with each other for at least two more seasons.",
+      "statement": "Dianna Russini receives a Super Bowl Radio Row credential despite team objections.",
       "probability": 58,
-      "rationale": "The Henley failed-medical situation has created bad blood and public friction between Harbaugh and Denver's front office. Division rivals already have minimal incentive to trade; this incident makes it even less likely they'll risk future deals. Trust has eroded."
+      "rationale": "League media credentialing standards typically protect press access over individual team preference, but gambling partnership sensitivities may lead to exceptions during the Super Bowl. Precedent suggests the NFL favors credential transparency, though political pressure from multiple teams could sway a decision."
+    },
+    {
+      "statement": "BYU finishes the regular season undefeated.",
+      "probability": 18,
+      "rationale": "Only a handful of teams have gone undefeated in the modern era. BYU's favorable early schedule helps, but January conference play and tournament atmospherics create high-variance scenarios. Even strong teams suffer upset losses before March."
+    },
+    {
+      "statement": "NBA viewership in 2026 exceeds 2010's nine-week average, marking an all-time high.",
+      "probability": 41,
+      "rationale": "Current 18.3M average is second only to 2010. Sustaining growth through the stretch requires stable star power, compelling playoff matchups, and absence of disruptive events. Cable fragmentation and streaming competition pose headwinds against historical peaks."
     }
   ],
   "injuries": [
     {
-      "player": "Marcus Smart",
-      "team": "Houston Rockets",
-      "league": "NBA",
-      "position": "G",
-      "status": "OUT",
-      "injury": "Suspension for on-court conduct",
-      "timeline": "3 games",
-      "source": "NY Post Sports",
-      "impact": "Rockets lose one of their primary perimeter defenders for three games during a stretch critical to playoff positioning.",
-      "storyIndex": 11
-    },
-    {
-      "player": "Lauri Markkanen",
-      "team": "Utah Jazz",
-      "league": "NBA",
-      "position": "F",
-      "status": "OUT",
-      "injury": "Fractured hand",
+      "player": "Tommy McMillen",
+      "team": "UFC",
+      "league": "MMA",
+      "position": "",
+      "status": "QUESTIONABLE",
+      "injury": "Suspected overdose; hospitalized after found unresponsive",
       "timeline": null,
       "source": "Deadspin",
-      "impact": "Jazz lose a key offensive weapon while managing a recurring trade market challenge; Markkanen's trade value deteriorates with the injury.",
+      "impact": "McMillen's 12-0 featherweight record is on hold; UFC 334 status and long-term availability unknown pending hospitalization outcome.",
       "storyIndex": 7
-    },
-    {
-      "player": "Sergiño Dest",
-      "team": "U.S. Men's National Team",
-      "league": "SOCCER",
-      "position": "D",
-      "status": "OUT",
-      "injury": "Not specified",
-      "timeline": null,
-      "source": "NY Post Sports",
-      "impact": "USMNT loses depth on the wing during World Cup qualifying windows and faces depleted roster options heading into international fixtures.",
-      "storyIndex": null
     }
   ],
   "picks": [
@@ -5928,38 +5923,38 @@
       "_pendingGrade": true
     }
   ],
-  "updatedAt": "2026-04-23T21:15:00Z",
+  "updatedAt": "2026-04-23T00:00:00Z",
   "highlights": [
     {
       "league": "NBA",
-      "title": "PB&amp;Js have helped fuel Cooper Flagg to average 25+ PPG in his last 10 games 😮‍💨",
-      "videoId": "p8-TP51VfzM",
-      "thumbnail": "https://img.youtube.com/vi/p8-TP51VfzM/mqdefault.jpg",
-      "timeAgo": "4h ago",
+      "title": "WEMBY: ONLY PLAYER TOP 5 IN POINTS, REBOUNDS AND BLOCKS 🤯",
+      "videoId": "gDqXS8TvE_g",
+      "thumbnail": "https://img.youtube.com/vi/gDqXS8TvE_g/mqdefault.jpg",
+      "timeAgo": "Just now",
       "isFallback": false
     },
     {
       "league": "NFL",
-      "title": "Dan Orlovsky &amp; Jason McCourty break down the impact Kirk Cousins will have in Minnesota | NFL Live",
-      "videoId": "-K1J2iJLypM",
-      "thumbnail": "https://img.youtube.com/vi/-K1J2iJLypM/mqdefault.jpg",
+      "title": "Which QB-WR duo do you TRUST MORE?! 👀 Cousins-Jefferson vs. Love's Packers 🏈 | First Take",
+      "videoId": "nEsAXQiHdL0",
+      "thumbnail": "https://img.youtube.com/vi/nEsAXQiHdL0/mqdefault.jpg",
       "timeAgo": "1h ago",
       "isFallback": false
     },
     {
       "league": "MLB",
-      "title": "Brewers’ Jacob Misiorowski really wanted this strikeout 💀",
-      "videoId": "YU1aG7uAJbo",
-      "thumbnail": "https://img.youtube.com/vi/YU1aG7uAJbo/mqdefault.jpg",
-      "timeAgo": "1h ago",
+      "title": "Team Brazil vs. Team Mexico: Full Game (3/8/2026) | 2026 World Baseball Classic",
+      "videoId": "hM97Uq5Bu1o",
+      "thumbnail": "https://img.youtube.com/vi/hM97Uq5Bu1o/mqdefault.jpg",
+      "timeAgo": "Just now",
       "isFallback": false
     },
     {
       "league": "NHL",
-      "title": "Aho's goals are ELECTRIC in Finnish ⚡🇫🇮",
-      "videoId": "vasMzO4x0X4",
-      "thumbnail": "https://img.youtube.com/vi/vasMzO4x0X4/mqdefault.jpg",
-      "timeAgo": "2h ago",
+      "title": "Kraken players do their best Kakko impressions 🤣",
+      "videoId": "Bt0ssqLw6rU",
+      "thumbnail": "https://img.youtube.com/vi/Bt0ssqLw6rU/mqdefault.jpg",
+      "timeAgo": "1h ago",
       "isFallback": false
     },
     {
@@ -5967,19 +5962,331 @@
       "title": "Looking Back at the No. 1 Overall Picks in WNBA Draft History",
       "videoId": "BxjMphBLE10",
       "thumbnail": "https://img.youtube.com/vi/BxjMphBLE10/mqdefault.jpg",
-      "timeAgo": "6h ago",
+      "timeAgo": "1d ago",
       "isFallback": false
     },
     {
       "league": "SOCCER",
-      "title": "Ranking the TOP CONTENDERS in the Champions League 👀 + Biggest surprises so far | ESPN FC",
-      "videoId": "Iv1J7q1PG5o",
-      "thumbnail": "https://img.youtube.com/vi/Iv1J7q1PG5o/mqdefault.jpg",
-      "timeAgo": "Just now",
+      "title": "Lionel Scaloni got emotional during his contract extension with Argentina ❤️ (via @scespn/IG)",
+      "videoId": "iVcqUYcq75Y",
+      "thumbnail": "https://img.youtube.com/vi/iVcqUYcq75Y/mqdefault.jpg",
+      "timeAgo": "1h ago",
       "isFallback": false
     }
   ],
   "reels": [
+    {
+      "league": "MLB",
+      "title": "Team Brazil vs. Team Mexico: Full Game (3/8/2026) | 2026 World Baseball Classic",
+      "videoId": "hM97Uq5Bu1o",
+      "author": "MLB",
+      "pubDate": "2026-11-13T18:00:09+00:00",
+      "link": "https://www.youtube.com/watch?v=hM97Uq5Bu1o"
+    },
+    {
+      "league": "NBA",
+      "title": "WEMBY: ONLY PLAYER TOP 5 IN POINTS, REBOUNDS AND BLOCKS 🤯",
+      "videoId": "gDqXS8TvE_g",
+      "author": "NBA",
+      "pubDate": "2026-11-13T18:00:07+00:00",
+      "link": "https://www.youtube.com/watch?v=gDqXS8TvE_g"
+    },
+    {
+      "league": "NBA",
+      "title": "NBA Players REACT To Moments That Defined Their Careers 👀 | Ft. Steph Curry, Cooper Flagg &amp; More",
+      "videoId": "tGuprhgbw6Y",
+      "author": "NBA",
+      "pubDate": "2026-11-13T17:35:36+00:00",
+      "link": "https://www.youtube.com/watch?v=tGuprhgbw6Y"
+    },
+    {
+      "league": "NFL",
+      "title": "Which QB-WR duo do you TRUST MORE?! 👀 Cousins-Jefferson vs. Love's Packers 🏈 | First Take",
+      "videoId": "nEsAXQiHdL0",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-11-13T17:34:04+00:00",
+      "link": "https://www.youtube.com/watch?v=nEsAXQiHdL0"
+    },
+    {
+      "league": "NFL",
+      "title": "WR Duo RIGHT NOW: Bengals or Packers?",
+      "videoId": "FtkA7QfEYWI",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-11-13T17:30:12+00:00",
+      "link": "https://www.youtube.com/watch?v=FtkA7QfEYWI"
+    },
+    {
+      "league": "NFL",
+      "title": "He really made that face 💀",
+      "videoId": "f7Oty86iyZQ",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-11-13T17:18:59+00:00",
+      "link": "https://www.youtube.com/watch?v=f7Oty86iyZQ"
+    },
+    {
+      "league": "SOCCER",
+      "title": "Lionel Scaloni got emotional during his contract extension with Argentina ❤️ (via @scespn/IG)",
+      "videoId": "iVcqUYcq75Y",
+      "author": "ESPN FC",
+      "pubDate": "2026-11-13T17:00:40+00:00",
+      "link": "https://www.youtube.com/watch?v=iVcqUYcq75Y"
+    },
+    {
+      "league": "NHL",
+      "title": "Kraken players do their best Kakko impressions 🤣",
+      "videoId": "Bt0ssqLw6rU",
+      "author": "NHL",
+      "pubDate": "2026-11-13T17:00:27+00:00",
+      "link": "https://www.youtube.com/watch?v=Bt0ssqLw6rU"
+    },
+    {
+      "league": "NBA",
+      "title": "LaMelo Ball &amp; Rudy Gobert Are Building Chemistry 👀 (via @timberwolves )",
+      "videoId": "lLsMj-E-06I",
+      "author": "NBA",
+      "pubDate": "2026-11-13T16:16:46+00:00",
+      "link": "https://www.youtube.com/watch?v=lLsMj-E-06I"
+    },
+    {
+      "league": "NFL",
+      "title": "Jayden Daniels after the win over the Giants 😅",
+      "videoId": "T4nFFnAAKeI",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-11-13T16:03:49+00:00",
+      "link": "https://www.youtube.com/watch?v=T4nFFnAAKeI"
+    },
+    {
+      "league": "NFL",
+      "title": "Week 10 Fantasy Preview Part 2: Starts, Sits + Starts of The Week! Fantasy Focus 🏈",
+      "videoId": "AkYRMKU45XE",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-11-13T16:02:56+00:00",
+      "link": "https://www.youtube.com/watch?v=AkYRMKU45XE"
+    },
+    {
+      "league": "SOCCER",
+      "title": "Scaloni says there won't be a player wearing No. 10 for Argentina's next match (via @scespn/IG)",
+      "videoId": "GtZDYGgNRpc",
+      "author": "ESPN FC",
+      "pubDate": "2026-11-13T16:00:27+00:00",
+      "link": "https://www.youtube.com/watch?v=GtZDYGgNRpc"
+    },
+    {
+      "league": "MLB",
+      "title": "Pete Crow-Armstrong mashed 45 HOME RUNS in 2026! 😤💪 (Tied for the MLB lead!)",
+      "videoId": "mNbigY8Y2_w",
+      "author": "MLB",
+      "pubDate": "2026-11-13T16:00:04+00:00",
+      "link": "https://www.youtube.com/watch?v=mNbigY8Y2_w"
+    },
+    {
+      "league": "NHL",
+      "title": "Forsberg blind ranks beards + mustaches 🥸",
+      "videoId": "SATXqk80gLs",
+      "author": "NHL",
+      "pubDate": "2026-11-13T16:00:01+00:00",
+      "link": "https://www.youtube.com/watch?v=SATXqk80gLs"
+    },
+    {
+      "league": "NBA",
+      "title": "Kia NBA MVP Ladder after four weeks of hoops!",
+      "videoId": "c2qPRGlDkT8",
+      "author": "NBA",
+      "pubDate": "2026-11-13T15:58:05+00:00",
+      "link": "https://www.youtube.com/watch?v=c2qPRGlDkT8"
+    },
+    {
+      "league": "NFL",
+      "title": "Stephen A. has seen enough 😬",
+      "videoId": "MIhE_7MTLyQ",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-11-13T15:46:44+00:00",
+      "link": "https://www.youtube.com/watch?v=MIhE_7MTLyQ"
+    },
+    {
+      "league": "NFL",
+      "title": "Concern around McCarthy? ‘Hit’s the panic button like someone would the fire alarm’ -Donte | Get Up",
+      "videoId": "QaQFjblbL54",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-11-13T15:14:47+00:00",
+      "link": "https://www.youtube.com/watch?v=QaQFjblbL54"
+    },
+    {
+      "league": "NFL",
+      "title": "Will Jacoby Brissett lead the Ravens to the playoffs?",
+      "videoId": "p3yykQlG9mw",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-11-13T15:07:41+00:00",
+      "link": "https://www.youtube.com/watch?v=p3yykQlG9mw"
+    },
+    {
+      "league": "NHL",
+      "title": "Broberg's 'REALLY?!' Says It All 😂",
+      "videoId": "KbQCqu4pci8",
+      "author": "NHL",
+      "pubDate": "2026-11-13T15:00:25+00:00",
+      "link": "https://www.youtube.com/watch?v=KbQCqu4pci8"
+    },
+    {
+      "league": "SOCCER",
+      "title": "William Saliba and Gabriel Magalhães have been inseparable from day one 😅",
+      "videoId": "WkPy2hUlvWY",
+      "author": "ESPN FC",
+      "pubDate": "2026-11-13T15:00:25+00:00",
+      "link": "https://www.youtube.com/watch?v=WkPy2hUlvWY"
+    },
+    {
+      "league": "SOCCER",
+      "title": "Enzo's ready for the Argentina friendlies 🔥",
+      "videoId": "WsbS4-gOmQ0",
+      "author": "ESPN FC",
+      "pubDate": "2026-11-13T14:15:31+00:00",
+      "link": "https://www.youtube.com/watch?v=WsbS4-gOmQ0"
+    },
+    {
+      "league": "MLB",
+      "title": "FULL GAME: Chris Sale throws complete-game shutout! (Dodgers vs. Braves)",
+      "videoId": "g_dGgY3NPxc",
+      "author": "MLB",
+      "pubDate": "2026-11-13T14:00:38+00:00",
+      "link": "https://www.youtube.com/watch?v=g_dGgY3NPxc"
+    },
+    {
+      "league": "SOCCER",
+      "title": "‘Happy days for Man United if Pochettino beats Liverpool’ 👀",
+      "videoId": "M0H7hhzjiD4",
+      "author": "ESPN FC",
+      "pubDate": "2026-11-13T14:00:33+00:00",
+      "link": "https://www.youtube.com/watch?v=M0H7hhzjiD4"
+    },
+    {
+      "league": "NHL",
+      "title": "Meals with Marty, you've got some new competition 😤",
+      "videoId": "5DY1UdJ-g80",
+      "author": "NHL",
+      "pubDate": "2026-11-13T14:00:19+00:00",
+      "link": "https://www.youtube.com/watch?v=5DY1UdJ-g80"
+    },
+    {
+      "league": "SOCCER",
+      "title": "Have to get used to not seeing Ronaldo anymore ❤️‍🩹 (via @portugal/TT)",
+      "videoId": "KQIw3KfQmjg",
+      "author": "ESPN FC",
+      "pubDate": "2026-11-13T13:22:18+00:00",
+      "link": "https://www.youtube.com/watch?v=KQIw3KfQmjg"
+    },
+    {
+      "league": "SOCCER",
+      "title": "‘Manchester United are FAR from the teams I faced’ - Theo Walcott 😳",
+      "videoId": "JTQwZTnVZgQ",
+      "author": "ESPN FC",
+      "pubDate": "2026-11-13T13:17:14+00:00",
+      "link": "https://www.youtube.com/watch?v=JTQwZTnVZgQ"
+    },
+    {
+      "league": "NBA",
+      "title": "NBA's Nightly Recap | November 12, 2026",
+      "videoId": "FWyvg-ZC1XU",
+      "author": "NBA",
+      "pubDate": "2026-11-13T06:16:09+00:00",
+      "link": "https://www.youtube.com/watch?v=FWyvg-ZC1XU"
+    },
+    {
+      "league": "NHL",
+      "title": "Islanders vs. Kings | NHL Highlights | Nov 12, 2026",
+      "videoId": "axI_MUaXEtw",
+      "author": "NHL",
+      "pubDate": "2026-11-13T06:14:23+00:00",
+      "link": "https://www.youtube.com/watch?v=axI_MUaXEtw"
+    },
+    {
+      "league": "NHL",
+      "title": "The shootout ENDS it (FINALLY!)",
+      "videoId": "YPxuPe9UyzQ",
+      "author": "NHL",
+      "pubDate": "2026-11-13T06:07:06+00:00",
+      "link": "https://www.youtube.com/watch?v=YPxuPe9UyzQ"
+    },
+    {
+      "league": "NHL",
+      "title": "Blues vs. Mammoth | NHL Highlights | Nov 12, 2026",
+      "videoId": "YRbtI2hdqhE",
+      "author": "NHL",
+      "pubDate": "2026-11-13T05:51:24+00:00",
+      "link": "https://www.youtube.com/watch?v=YRbtI2hdqhE"
+    },
+    {
+      "league": "NBA",
+      "title": "NBA's Top 10 Plays of the Night | November 12, 2026",
+      "videoId": "teWTVBh3XTo",
+      "author": "NBA",
+      "pubDate": "2026-11-13T05:42:55+00:00",
+      "link": "https://www.youtube.com/watch?v=teWTVBh3XTo"
+    },
+    {
+      "league": "NHL",
+      "title": "MARATHON shootout to decide DUELING shutouts!",
+      "videoId": "W8d3rP3Js7Q",
+      "author": "NHL",
+      "pubDate": "2026-11-13T05:35:11+00:00",
+      "link": "https://www.youtube.com/watch?v=W8d3rP3Js7Q"
+    },
+    {
+      "league": "NBA",
+      "title": "EXTENDED: PISTONS at WIZARDS | FULL GAME HIGHLIGHTS | November 12, 2026",
+      "videoId": "83JRx5vusGU",
+      "author": "NBA",
+      "pubDate": "2026-11-13T05:25:54+00:00",
+      "link": "https://www.youtube.com/watch?v=83JRx5vusGU"
+    },
+    {
+      "league": "NBA",
+      "title": "Trae Young GOES OFF for 37 PTS &amp; 14 AST vs. Pistons | November 12, 2026",
+      "videoId": "fLPgo1Tq4T0",
+      "author": "NBA",
+      "pubDate": "2026-11-13T05:05:40+00:00",
+      "link": "https://www.youtube.com/watch?v=fLPgo1Tq4T0"
+    },
+    {
+      "league": "MLB",
+      "title": "FULL GAME: PCA belts a leadoff and WALK-OFF HOME RUN in the Crosstown Series! (White Sox vs. Cubs)",
+      "videoId": "rxk7Mwg64H0",
+      "author": "MLB",
+      "pubDate": "2026-11-13T03:00:26+00:00",
+      "link": "https://www.youtube.com/watch?v=rxk7Mwg64H0"
+    },
+    {
+      "league": "MLB",
+      "title": "Yordan Alvarez is an absolute unit 😳",
+      "videoId": "CAjXnMyQraA",
+      "author": "MLB",
+      "pubDate": "2026-11-13T02:00:13+00:00",
+      "link": "https://www.youtube.com/watch?v=CAjXnMyQraA"
+    },
+    {
+      "league": "MLB",
+      "title": "MLB Network BREAKS DOWN Pete Crow-Armstrong and Yordan Alvarez's UNANIMOUS 2026 MVP seasons! 🤩🔥",
+      "videoId": "6xw53DsnJcg",
+      "author": "MLB",
+      "pubDate": "2026-11-13T01:41:02+00:00",
+      "link": "https://www.youtube.com/watch?v=6xw53DsnJcg"
+    },
+    {
+      "league": "MLB",
+      "title": "ANNOUNCEMENT &amp; Pete Crow-Armstrong's REACTION to UNANIMOUSLY WINNING the NL MVP AWARD! 🤩",
+      "videoId": "pL1gFwZ6i0E",
+      "author": "MLB",
+      "pubDate": "2026-11-13T01:20:24+00:00",
+      "link": "https://www.youtube.com/watch?v=pL1gFwZ6i0E"
+    },
+    {
+      "league": "MLB",
+      "title": "The work speaks. NL MVP.",
+      "videoId": "wLAvnXVB3Eo",
+      "author": "MLB",
+      "pubDate": "2026-11-13T01:13:41+00:00",
+      "link": "https://www.youtube.com/watch?v=wLAvnXVB3Eo"
+    },
     {
       "league": "SOCCER",
       "title": "Ranking the TOP CONTENDERS in the Champions League 👀 + Biggest surprises so far | ESPN FC",
@@ -5987,318 +6294,6 @@
       "author": "ESPN FC",
       "pubDate": "2026-11-12T23:44:17+00:00",
       "link": "https://www.youtube.com/watch?v=Iv1J7q1PG5o"
-    },
-    {
-      "league": "SOCCER",
-      "title": "Michael Carrick SACKED 🚨 Man United close to finalizing deal with Mauricio Pochettino | ESPN FC",
-      "videoId": "BoGwVCYfLAM",
-      "author": "ESPN FC",
-      "pubDate": "2026-11-12T23:40:49+00:00",
-      "link": "https://www.youtube.com/watch?v=BoGwVCYfLAM"
-    },
-    {
-      "league": "SOCCER",
-      "title": "Where does Mauricio Pochettino rank among Premier League managers? | ESPN FC Extra Time",
-      "videoId": "WdZarPNfCSM",
-      "author": "ESPN FC",
-      "pubDate": "2026-11-12T23:19:43+00:00",
-      "link": "https://www.youtube.com/watch?v=WdZarPNfCSM"
-    },
-    {
-      "league": "SOCCER",
-      "title": "REACTION to Italy vs. France UEFA Nations League‼️'France have BIGGER problems' - Leboeuf | ESPN FC",
-      "videoId": "C4XukpAwbrU",
-      "author": "ESPN FC",
-      "pubDate": "2026-11-12T23:18:23+00:00",
-      "link": "https://www.youtube.com/watch?v=C4XukpAwbrU"
-    },
-    {
-      "league": "MLB",
-      "title": "Brewers’ Jacob Misiorowski really wanted this strikeout 💀",
-      "videoId": "YU1aG7uAJbo",
-      "author": "MLB",
-      "pubDate": "2026-11-12T23:00:17+00:00",
-      "link": "https://www.youtube.com/watch?v=YU1aG7uAJbo"
-    },
-    {
-      "league": "NFL",
-      "title": "Dan Orlovsky &amp; Jason McCourty break down the impact Kirk Cousins will have in Minnesota | NFL Live",
-      "videoId": "-K1J2iJLypM",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-11-12T22:51:42+00:00",
-      "link": "https://www.youtube.com/watch?v=-K1J2iJLypM"
-    },
-    {
-      "league": "SOCCER",
-      "title": "'Disappointed the way it was handled' - Theo Walcott on Man United sacking Michael Carrick | ESPN FC",
-      "videoId": "ISMsGKy9hPM",
-      "author": "ESPN FC",
-      "pubDate": "2026-11-12T22:30:16+00:00",
-      "link": "https://www.youtube.com/watch?v=ISMsGKy9hPM"
-    },
-    {
-      "league": "NFL",
-      "title": "&quot;‘Eugene Who?!’ — The Wild High School Secret That Blew Ben Solak's Mind&quot;",
-      "videoId": "uD8nIjoEG8E",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-11-12T22:20:11+00:00",
-      "link": "https://www.youtube.com/watch?v=uD8nIjoEG8E"
-    },
-    {
-      "league": "NFL",
-      "title": "Can the Cowboys turn their season around against the 49ers? 🤔 | NFL Live",
-      "videoId": "vfIvpy5vFZ8",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-11-12T22:10:25+00:00",
-      "link": "https://www.youtube.com/watch?v=vfIvpy5vFZ8"
-    },
-    {
-      "league": "NFL",
-      "title": "UCLA’s Bob Chesney 1-on-1: The Up &amp; Coming Coach You Need to Know | Move the Sticks",
-      "videoId": "fwjTV-K6joU",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-11-12T22:00:35+00:00",
-      "link": "https://www.youtube.com/watch?v=fwjTV-K6joU"
-    },
-    {
-      "league": "NHL",
-      "title": "Aho's goals are ELECTRIC in Finnish ⚡🇫🇮",
-      "videoId": "vasMzO4x0X4",
-      "author": "NHL",
-      "pubDate": "2026-11-12T22:00:23+00:00",
-      "link": "https://www.youtube.com/watch?v=vasMzO4x0X4"
-    },
-    {
-      "league": "MLB",
-      "title": "Team Australia vs. Team Japan: Full Game (3/8/2026) | 2026 World Baseball Classic",
-      "videoId": "Rg--jApqbPE",
-      "author": "MLB",
-      "pubDate": "2026-11-12T22:00:08+00:00",
-      "link": "https://www.youtube.com/watch?v=Rg--jApqbPE"
-    },
-    {
-      "league": "MLB",
-      "title": "Mother nature was no match for Yankees’ Cam Schlittler 🌧️",
-      "videoId": "hxtSdKnGzwU",
-      "author": "MLB",
-      "pubDate": "2026-11-12T21:34:55+00:00",
-      "link": "https://www.youtube.com/watch?v=hxtSdKnGzwU"
-    },
-    {
-      "league": "NFL",
-      "title": "&quot;I'm done with the Cowboys&quot;",
-      "videoId": "KqVVKsucrTY",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-11-12T21:30:29+00:00",
-      "link": "https://www.youtube.com/watch?v=KqVVKsucrTY"
-    },
-    {
-      "league": "NFL",
-      "title": "That trade gets an F",
-      "videoId": "Zf3G1iAZ-8o",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-11-12T21:15:08+00:00",
-      "link": "https://www.youtube.com/watch?v=Zf3G1iAZ-8o"
-    },
-    {
-      "league": "NHL",
-      "title": "Finns sacrificed to the EYE OF THE STORM 😅",
-      "videoId": "VFmLmOITKKg",
-      "author": "NHL",
-      "pubDate": "2026-11-12T21:00:18+00:00",
-      "link": "https://www.youtube.com/watch?v=VFmLmOITKKg"
-    },
-    {
-      "league": "NHL",
-      "title": "Hardest NHL Hits: Week 5 &amp; Week 6",
-      "videoId": "zlsBeN4KHmg",
-      "author": "NHL",
-      "pubDate": "2026-11-12T21:00:04+00:00",
-      "link": "https://www.youtube.com/watch?v=zlsBeN4KHmg"
-    },
-    {
-      "league": "MLB",
-      "title": "2026 MLB Awards Show with hosts Mookie Betts and Roy Wood Jr. 🏆",
-      "videoId": "EYnAzuXb4EA",
-      "author": "MLB",
-      "pubDate": "2026-11-12T20:55:49+00:00",
-      "link": "https://www.youtube.com/watch?v=EYnAzuXb4EA"
-    },
-    {
-      "league": "NFL",
-      "title": "NFL Teams &amp; Fans That Deserve Apologies",
-      "videoId": "Nk7v5NZtKbM",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-11-12T20:30:03+00:00",
-      "link": "https://www.youtube.com/watch?v=Nk7v5NZtKbM"
-    },
-    {
-      "league": "NFL",
-      "title": "Did You Know that the Super Bowl is a BIG DEAL in the UK?! | The Biggest Game #espn #nfl #superbowl",
-      "videoId": "lLB6F5lfjbw",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-11-12T20:30:02+00:00",
-      "link": "https://www.youtube.com/watch?v=lLB6F5lfjbw"
-    },
-    {
-      "league": "NHL",
-      "title": "Hurricanes vs. Kraken | Global Series Finland | NHL Highlights | Nov 12, 2026",
-      "videoId": "ffEdLygsEEQ",
-      "author": "NHL",
-      "pubDate": "2026-11-12T20:24:03+00:00",
-      "link": "https://www.youtube.com/watch?v=ffEdLygsEEQ"
-    },
-    {
-      "league": "NHL",
-      "title": "Aho scores TWICE in his home country! 🇫🇮",
-      "videoId": "bGk1pxPmpeY",
-      "author": "NHL",
-      "pubDate": "2026-11-12T20:13:46+00:00",
-      "link": "https://www.youtube.com/watch?v=bGk1pxPmpeY"
-    },
-    {
-      "league": "MLB",
-      "title": "2026 Chris Sale Highlights (NINTH season with 200+ strikeouts for the Braves ace!)",
-      "videoId": "KX-Cx9r-t_0",
-      "author": "MLB",
-      "pubDate": "2026-11-12T20:00:22+00:00",
-      "link": "https://www.youtube.com/watch?v=KX-Cx9r-t_0"
-    },
-    {
-      "league": "SOCCER",
-      "title": "Lamine Yamal asked two fans for food recommendations and got headphones 🤯 (via @lamine.yamal/TT)",
-      "videoId": "xRJFlYBuOeU",
-      "author": "ESPN FC",
-      "pubDate": "2026-11-12T20:00:03+00:00",
-      "link": "https://www.youtube.com/watch?v=xRJFlYBuOeU"
-    },
-    {
-      "league": "NBA",
-      "title": "PB&amp;Js have helped fuel Cooper Flagg to average 25+ PPG in his last 10 games 😮‍💨",
-      "videoId": "p8-TP51VfzM",
-      "author": "NBA",
-      "pubDate": "2026-11-12T19:32:38+00:00",
-      "link": "https://www.youtube.com/watch?v=p8-TP51VfzM"
-    },
-    {
-      "league": "NBA",
-      "title": "THE ROOK STUCK AROUND FOR THE VET YAXEL 🤝 KD",
-      "videoId": "ga1dBaoVXJ8",
-      "author": "NBA",
-      "pubDate": "2026-11-12T19:31:42+00:00",
-      "link": "https://www.youtube.com/watch?v=ga1dBaoVXJ8"
-    },
-    {
-      "league": "NHL",
-      "title": "HOME COUNTRY ADVANTAGE 🇫🇮💪",
-      "videoId": "dgRYO_98MVQ",
-      "author": "NHL",
-      "pubDate": "2026-11-12T19:30:09+00:00",
-      "link": "https://www.youtube.com/watch?v=dgRYO_98MVQ"
-    },
-    {
-      "league": "MLB",
-      "title": "YouTuber vs MLB Legend Home Run Derby",
-      "videoId": "sAYxF2b2TkI",
-      "author": "MLB",
-      "pubDate": "2026-11-12T19:00:38+00:00",
-      "link": "https://www.youtube.com/watch?v=sAYxF2b2TkI"
-    },
-    {
-      "league": "NHL",
-      "title": "WELCOME HOME, SEBASTIAN AHO! 🇫🇮🚨",
-      "videoId": "Tg8YBktj0ao",
-      "author": "NHL",
-      "pubDate": "2026-11-12T19:00:25+00:00",
-      "link": "https://www.youtube.com/watch?v=Tg8YBktj0ao"
-    },
-    {
-      "league": "SOCCER",
-      "title": "Mr. Beast stood blindfolded in the goal while Haaland fired shots at him 😅 (via @erling/TT)",
-      "videoId": "xZVP9GEIRmo",
-      "author": "ESPN FC",
-      "pubDate": "2026-11-12T19:00:22+00:00",
-      "link": "https://www.youtube.com/watch?v=xZVP9GEIRmo"
-    },
-    {
-      "league": "NBA",
-      "title": "What A Heat Practice Is Really Like With Giannis, Bam &amp; Klay 👀",
-      "videoId": "el88ypBqViQ",
-      "author": "NBA",
-      "pubDate": "2026-11-12T18:47:59+00:00",
-      "link": "https://www.youtube.com/watch?v=el88ypBqViQ"
-    },
-    {
-      "league": "NHL",
-      "title": "Canes gets the party started in FINLAND! 🚨",
-      "videoId": "ineFGnQS8p0",
-      "author": "NHL",
-      "pubDate": "2026-11-12T18:45:33+00:00",
-      "link": "https://www.youtube.com/watch?v=ineFGnQS8p0"
-    },
-    {
-      "league": "WNBA",
-      "title": "Looking Back at the No. 1 Overall Picks in WNBA Draft History",
-      "videoId": "BxjMphBLE10",
-      "author": "WNBA",
-      "pubDate": "2026-11-12T18:18:24+00:00",
-      "link": "https://www.youtube.com/watch?v=BxjMphBLE10"
-    },
-    {
-      "league": "NBA",
-      "title": "DAME THREW THE CLAMPS ON IN CRUNCH TIME 🔒",
-      "videoId": "xFNSvqjM45g",
-      "author": "NBA",
-      "pubDate": "2026-11-12T18:03:35+00:00",
-      "link": "https://www.youtube.com/watch?v=xFNSvqjM45g"
-    },
-    {
-      "league": "NBA",
-      "title": "Watch Luka before the ball goes in 🤯",
-      "videoId": "Z6vbVSvCCtM",
-      "author": "NBA",
-      "pubDate": "2026-11-12T18:02:53+00:00",
-      "link": "https://www.youtube.com/watch?v=Z6vbVSvCCtM"
-    },
-    {
-      "league": "NBA",
-      "title": "“Just got to keep it going” - KD 🙂‍↕️",
-      "videoId": "oDc-kSCgAb4",
-      "author": "NBA",
-      "pubDate": "2026-11-12T18:02:33+00:00",
-      "link": "https://www.youtube.com/watch?v=oDc-kSCgAb4"
-    },
-    {
-      "league": "NBA",
-      "title": "“Just got to keep it going” - KD 🙂‍↕️",
-      "videoId": "vXLy2UI0T2o",
-      "author": "NBA",
-      "pubDate": "2026-11-12T18:02:10+00:00",
-      "link": "https://www.youtube.com/watch?v=vXLy2UI0T2o"
-    },
-    {
-      "league": "NBA",
-      "title": "KD 🤝 11,331 field goals made in his career",
-      "videoId": "eFwCXkkCT6I",
-      "author": "NBA",
-      "pubDate": "2026-11-12T18:01:46+00:00",
-      "link": "https://www.youtube.com/watch?v=eFwCXkkCT6I"
-    },
-    {
-      "league": "MLB",
-      "title": "Team Chinese Taipei vs. Team Korea: Full Game (3/7/2026) | 2026 World Baseball Classic",
-      "videoId": "L1KslvDw56Y",
-      "author": "MLB",
-      "pubDate": "2026-11-12T18:00:27+00:00",
-      "link": "https://www.youtube.com/watch?v=L1KslvDw56Y"
-    },
-    {
-      "league": "SOCCER",
-      "title": "👀 (via @lamine.yamal/TT)",
-      "videoId": "AoSy-fHZgaM",
-      "author": "ESPN FC",
-      "pubDate": "2026-11-12T18:00:16+00:00",
-      "link": "https://www.youtube.com/watch?v=AoSy-fHZgaM"
     }
   ]
 }
