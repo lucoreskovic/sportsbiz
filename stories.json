@@ -1,81 +1,81 @@
 {
   "clusters": [
     {
-      "category": "revenue",
+      "category": "leagues",
       "importance": 8,
-      "leadHeadline": "MLS San Jose Earthquakes Sold to Alden's Freeman for $625M",
-      "leadSource": "Sportico · 1h ago",
-      "leadUrl": "https://www.sportico.com/business/team-sales/2026/mls-san-jose-earthquakes-sold-alden-freeman-1234958433/",
-      "summary": "<cite index=\"2-6\">Alden Global Capital co-founder Heath Freeman is buying the San Jose Earthquakes from John Fisher at an enterprise value of $625 million.</cite> <cite index=\"2-7\">MLS owners approved Freeman's bid on Thursday.</cite>",
-      "article": "<cite index=\"2-6\">Heath Freeman, co-founder of Alden Global Capital, is buying the San Jose Earthquakes from John Fisher at $625 million.</cite> <cite index=\"2-7\">MLS owners approved the deal Thursday.</cite> <cite index=\"2-8\">The deal has not closed yet.</cite>\n\n<cite index=\"5-2,5-3\">Freeman will also acquire the club's home stadium, PayPal Park. The MLS Board of Governors unanimously approved the transfer, and the transaction is expected to close in the coming weeks.</cite> <cite index=\"5-4\">Freeman will become the Earthquakes' new principal owner and represent the club on the MLS Board of Governors.</cite>\n\n<cite index=\"2-5\">The sale ends John Fisher's 20-year ownership tenure of the MLS club.</cite> <cite index=\"2-12\">Sportico valued the Earthquakes at $585 million before the sale.</cite> <cite index=\"2-9,2-10\">Alden is a New York-based private equity firm that owns newspapers through Digital First Media, the second-largest publisher in the U.S. behind USA Today Co.</cite>\n\n<cite index=\"19-2,19-3,19-4\">\"My family and I are honored and humbled to be the next generation owners of the San Jose Earthquakes,\" Freeman said, adding he would \"like to thank John Fisher and the Fisher family for their confidence in me.\"</cite> <cite index=\"19-5\">Freeman stated his vision is \"winning on and off the field for San Jose and the entire region.\"</cite>",
+      "leadHeadline": "College football teams scrambling to find alternate travel plans after FAA lifts ground-stop order",
+      "leadSource": "CBS Sports · just now",
+      "leadUrl": "https://www.cbssports.com/college-football/news/faa-ground-stoppage-college-football-teams-travel-plans/",
+      "summary": "An FAA ground stop Friday stranded nine college football teams heading to Saturday games. Auburn, Purdue, North Texas and Tulane switched to buses after the 4+ hour halt; others rebooked flights once the order lifted at 8:15 p.m.",
+      "article": "<cite index=\"3-1\">The FAA's nationwide ground stop Friday was triggered by communications problems at regional air traffic control centers</cite>. <cite index=\"3-4\">Nine Power 4 teams were still waiting to depart: four Big 12 schools (Baylor, Kansas State, Utah, Arizona State), three from the SEC (Ole Miss, Tennessee, Texas), and two from the Big Ten (Minnesota and Washington)</cite>.\n\n<cite index=\"20-3\">The halt lasted more than four hours before lifting at 8:15 p.m.</cite> Some programs didn't wait. <cite index=\"21-2\">Auburn bused to Mississippi State and Tulane to Rice</cite>, while <cite index=\"20-7\">Purdue and North Texas took buses to Iowa and UTSA, respectively</cite>. <cite index=\"20-10\">Texas and Oregon State were still hoping to fly Friday night</cite>.\n\n<cite index=\"3-6\">The ACC avoided the chaos entirely, with all visiting teams reaching their destinations before the stop was issued</cite>. <cite index=\"21-5\">It was only the second nationwide ground stop since 9/11</cite>, the first since a FAA computer system failure in January 2023.",
       "tweets": [
         {
-          "url": "https://twitter.com/Sportico/status/2121330197953978768",
-          "html": "<blockquote class=\"twitter-tweet\" data-dnt=\"true\" data-theme=\"dark\"><p>BREAKING:\n\nThe San Jose Earthquakes have sold to Heath Freeman of Alden Global Capital for $625 million. MLS owners approved the bid on Thursday, according to two people familiar with the agreement.\n\n@kbadenhausen with the story: https://t.co/lXTjvt0flZ</p>&mdash; Sportico (@Sportico) <a href=\"https://twitter.com/Sportico/status/2121330197953978768\">November 13, 2026</a></blockquote>",
-          "author_name": "Sportico",
-          "author_url": "https://twitter.com/Sportico",
-          "dateMs": 1794599506000
+          "url": "https://twitter.com/YahooSports/status/2121372161378025492",
+          "html": "<blockquote class=\"twitter-tweet\" data-dnt=\"true\" data-theme=\"dark\"><p>Multiple college football teams have been impacted by the nationwide ground stop for all U.S. airports issued by the FAA.\n\nNo. 2 Utah, No. 6 Texas, No. 8 Tennessee, No. 19 Ole Miss, Arizona State, Baylor, Auburn, Tulane, Kansas State, Purdue, Washington, Minnesota and Oregon https://t.co/6GbIJyKJWm</p>&mdash; Yahoo Sports (@YahooSports) <a href=\"https://twitter.com/YahooSports/status/2121372161378025492\">November 13, 2026</a></blockquote>",
+          "author_name": "Yahoo Sports",
+          "author_url": "https://twitter.com/YahooSports",
+          "dateMs": 1794609511000
         }
       ]
     },
     {
+      "category": "labor",
+      "importance": 8,
+      "leadHeadline": "Blue Jays pitcher sounds off on MLB spinning narrative on impending lockout: This is going to be ugly",
+      "leadSource": "NY Post Sports · just now",
+      "leadUrl": "https://nypost.com/2026/11/13/sports/blue-jays-pitcher-sounds-off-mlb-narrative-impending-lockout/",
+      "summary": "Jameson Taillon, a 10-year veteran pitcher, criticized MLB's framing of upcoming CBA negotiations after the league posted a social-media video on the talks. Taillon's pushback signals early player frustration over the league's public messaging ahead of potential labor strife.",
+      "article": "Jameson Taillon went public Friday with his frustration over Major League Baseball's framing of the upcoming collective bargaining agreement negotiations, blasting the league for what he called selective narrative-building ahead of talks.\n\nThe Blue Jays pitcher fired back at an MLB video posted to social media in which executive vice president of baseball operations Morgan Sword outlined three major proposed changes. Taillon, armed with a decade-plus in the game, was unsparing: \"This is going to be ugly,\" he wrote, signaling that the players' union is already bracing for a contentious round of negotiations.\n\nThe specific changes Sword outlined in the video were not detailed in the NY Post report, but Taillon's reaction suggests the league's opening position has triggered immediate skepticism from the player side. His criticism carries particular weight as an established veteran with credibility in the clubhouse, not a fringe voice.\n\nThis precedes formal negotiations and signals that the labor environment is already tense. A CBA lockout or extended negotiation dispute could disrupt spring training and regular-season play, the kind of outcome that has shadowed baseball labor talks since 1994.",
+      "tweets": []
+    },
+    {
       "category": "media",
       "importance": 7,
-      "leadHeadline": "On Dan Hicks, who met the moments without overshadowing them",
-      "leadSource": "Sports Media Watch · just now",
-      "leadUrl": "https://www.sportsmediawatch.com/2026/11/dan-hicks-retrospective-tribute/",
-      "summary": "NBC Sports remembers legendary broadcaster Dan Hicks, whose career spanned decades at the network and produced some of sports television's most memorable calls. His legacy mirrors that of CBS's Verne Lundquist in restraint and excellence.",
-      "article": "Dan Hicks, one of sports broadcasting's most respected voices, built a career at NBC marked by precision, understatement, and an almost monastic refusal to inject himself into the moments he narrated. He spent decades calling everything from college football to the Olympics, and his work set a standard for broadcast excellence that few have matched.\n\nHicks shared DNA with Verne Lundquist, the long-serving CBS announcer who similarly believed a great call was one the audience barely noticed. Both men understood that the event belonged to the athletes, not the booth. Lundquist became legendary for his composure through chaos; Hicks operated by similar principle. His voice didn't crescendo unnecessarily. He didn't manufacture drama that wasn't there. When the moment arrived, he was ready.\n\nThat restraint made him invaluable on live television, where the temptation to overstate or color-commentate is constant. Hicks recognized that the audience knew what it was watching. His job was to clarify, contextualize, and vanish.\n\nThe loss leaves NBC and sports broadcasting without one of its final custodians of old-school professionalism, a generation that believed calling a game meant serving the game, not building a brand.",
+      "leadHeadline": "U.S. Open Revenues Continue Hot Streak, Records Show",
+      "leadSource": "Sportico · 3h ago",
+      "leadUrl": "https://www.sportico.com/leagues/tennis/2026/us-open-2025-revenue-profit-1234958485/",
+      "summary": "The U.S. Tennis Association reported $707.6 million in total revenue for 2025, with the U.S. Open generating $637.9 million, up 14% year-over-year and more than double the 2016 figure. The three-week tournament reported $324.6 million in expenses.",
+      "article": "The U.S. Open powered a record revenue haul for the U.S. Tennis Association in 2025, with the year-end numbers validating the tournament's strength as a global sporting commodity.\n\nThe USTA reported total revenue of $707.6 million for the calendar year, with more than 90 percent of that sum flowing from the U.S. Open alone. The final Grand Slam of the year generated $637.9 million in gross revenue, a 14 percent increase from 2024 and more than double the $280 million-plus figure from 2016 less than a decade prior.\n\nOperating expenses for the three-week New York tournament totaled $324.6 million, leaving a substantial operating surplus. The revenue surge reflects both ticket demand and sponsorship appetite for the event, one of the largest sporting gatherings in the United States annually.\n\nThe 14 percent year-over-year growth outpaces general inflation and suggests deepening commercial interest in professional tennis at the major-tournament level. For context, the U.S. Open is now generating roughly nine times the revenue of the event circa 2000, a trajectory that positions it alongside the NFL and NBA as one of the highest-grossing annual sporting events in North America.",
       "tweets": []
     },
     {
       "category": "contracts",
-      "importance": 6,
-      "leadHeadline": "NBPA Names Key Appointments, Headlined by Shaun Livingston",
-      "leadSource": "Sportico · 2h ago",
-      "leadUrl": "https://www.sportico.com/personalities/people/2026/sportico-transactions-moves-mergers-november-13-1234958343/",
-      "summary": "The National Basketball Players Association announced executive appointments and internal promotions under executive director David Kelly, with former NBA player Shaun Livingston headlining the moves. The personnel shifts reflect the union's ongoing structural evolution.",
-      "article": "The National Basketball Players Association announced a series of key executive appointments and internal promotions, signaling continued organizational restructuring under executive director David Kelly. Shaun Livingston, the former NBA guard who played 16 seasons in the league, led the slate of new appointments.\n\nLivingston brings direct player experience to the union's leadership, having navigated injury, career longevity, and contract negotiations at the highest level. His appointment reflects the NBPA's strategy of recruiting former players into key roles where insider knowledge and credibility among current members carry weight.\n\nThe timing of the moves comes as the union prepares for the next CBA negotiation cycle and addresses ongoing issues around player compensation, revenue sharing, and competitive balance. Kelly's leadership has focused on modernizing the union's infrastructure and ensuring it speaks with unified voice on behalf of members across all income levels.\n\nThese appointments position the NBPA to engage more forcefully in upcoming labor discussions and strengthen its hand in media negotiations as the NBA explores new broadcast partnerships and streaming models over the next three years.",
+      "importance": 7,
+      "leadHeadline": "Tearful Pochettino says United job was 'difficult to turn down' in USMNT farewell",
+      "leadSource": "The Guardian · 10h ago",
+      "leadUrl": "https://www.theguardian.com/football/2026/nov/13/mauricio-pochettino-usmnt-manchester-united",
+      "summary": "Mauricio Pochettino departed his USMNT head-coaching role to take the Manchester United job, ending a deal he had signed to stay with U.S. Soccer through 2030. Pochettino held an emotional farewell press conference at the U.S. national training center Friday.",
+      "article": "Mauricio Pochettino left his post as USMNT head coach Friday to assume the Manchester United manager role, ending his contract with U.S. Soccer that was agreed through 2030.\n\nPochettino's departure became official after he conducted an emotional farewell at the U.S. national training center, where he was transparent about the difficulty of the choice. \"It was difficult to turn down,\" he said of the Manchester United opportunity, acknowledging the appeal of a storied European club over continued development of a younger national-team program.\n\nThe move marks a significant setback for the USMNT's coaching continuity, as Pochettino had been building squad chemistry and implementing a tactical system tied to the 2026 World Cup cycle on home soil. His tenure included competitive results in CONCACAF play and qualification matches, and stepping away mid-contract signals the gravitational pull of elite club positions.\n\nManchester United, one of world soccer's most prominent franchises, secured a manager with credentials from Spurs, PSG, and Chelsea. The appointment closes a prolonged managerial search and pairs Pochettino with a squad in need of on-field reorganization. U.S. Soccer will now need to recruit a new head coach with less than two years before co-hosting the 2026 World Cup.",
       "tweets": []
     },
     {
-      "category": "leagues",
+      "category": "revenue",
       "importance": 6,
-      "leadHeadline": "NFL quarterbacks are under more pressure than ever from rushers. Why?",
-      "leadSource": "The Guardian · 11h ago",
-      "leadUrl": "https://www.theguardian.com/sport/2026/nov/13/nfl-quarterbacks-are-under-more-pressure-than-ever-from-rushers-why",
-      "summary": "Despite decades of offensive rule advantages, NFL defenses are pressuring quarterbacks at rates higher than any recent era. The Baltimore Ravens start their fourth QB this season due to injury, highlighting the mounting toll.",
-      "article": "The Baltimore Ravens are starting their fourth quarterback this season, Jacoby Brissett, with Lamar Jackson, Tyler Huntley, and Joe Fagnano all sidelined by injuries. This cascading QB unavailability reflects a broader and more alarming trend: defenses are pressuring quarterbacks more effectively now than at any point in recent NFL history.\n\nDespite rules changes tilted dramatically in offense's favor over the past two decades, pass rush has evolved. Defensive coordinators have unlocked new blitz packages, front-seven manipulation, and coverage disguises that make life measurably harder for signal-callers. The result isn't just higher sack rates but a spike in QB injuries as well.\n\nOffensive lines have responded with better technique and higher-priced free agents, but the arms race has tipped back toward defense. Teams with elite pass rushers now command playoff leverage. The Kansas City Chiefs, despite Patrick Mahomes' durability, have invested heavily in their O-line specifically to counter this trend.\n\nThe Ravens' injury cascade and the Ravens' reliance on backup QBs illustrates the danger: when a team lacks QB depth and faces elite rushing every week, cascading injuries become inevitable. The league's injury crisis at QB is not random. It is a direct result of defenses outpacing the rules structure that was meant to protect them.",
+      "leadHeadline": "MLS San Jose Earthquakes Sold to Alden's Freeman for $625M",
+      "leadSource": "Sportico · 7h ago",
+      "leadUrl": "https://www.sportico.com/business/team-sales/2026/mls-san-jose-earthquakes-sold-alden-freeman-1234958433/",
+      "summary": "Heath Freeman, co-founder of Alden Global Capital, has acquired the San Jose Earthquakes from majority owner John Fisher at an enterprise value of $625 million, pending MLS ownership approval granted Thursday.",
+      "article": "The San Jose Earthquakes have a new owner. Alden Global Capital co-founder Heath Freeman purchased the MLS franchise from John Fisher at an enterprise value of $625 million, with MLS owners approving the transaction Thursday.\n\nFreeman, known in media and investment circles for controlling stakes in major newspapers through Alden, now enters the soccer space. The Earthquakes represent his first sports-team acquisition at scale.\n\nFisher's ownership tenure produced mixed results. The Earthquakes haven't won an MLS Cup since 2012 and have cycled through multiple coaches in recent seasons. The franchise's stadium situation in San Jose remains a long-standing constraint on revenue and fan engagement compared to newer MLS venues in Los Angeles, Austin, and other growth markets.\n\nThe $625 million valuation suggests the league views even perennially underperforming MLS franchises as stable assets with upside. For comparison, MLS expansion franchises in recent years have commanded entry fees ranging from $250 million to $500 million, so Freeman's acquisition price reflects a mature, albeit dormant, property.\n\nFreeman's plans for the Earthquakes remain unclear, though investor acquisitions in MLS typically entail stadium improvements, front-office upgrades, or both. The franchise sits in a competitive West Division and will need to address on-field performance to regain playoff relevance.",
       "tweets": []
     },
     {
       "category": "media",
       "importance": 5,
-      "leadHeadline": "Celtics-Sixers delivers viewership pop, continuing NBA's strong start",
-      "leadSource": "Sports Media Watch · 16h ago",
-      "leadUrl": "https://www.sportsmediawatch.com/2026/11/celtics-sixers-viewership-nbc-nba-strong-start/",
-      "summary": "The first matchup between Jaylen Brown and Jayson Tatum on NBC's Coast 2 Coast Tuesday drew strong viewership, continuing the NBA's solid start to the season. The Celtics-Sixers game outperformed expectations in most markets.",
-      "article": "NBC's Coast 2 Coast Tuesday, which featured the Celtics-Sixers matchup in most markets, delivered a measurable viewership uptick as the NBA continues a strong early-season ratings run. The first direct on-air meeting between Jaylen Brown and Jayson Tatum generated the kind of prime-time appeal the league has been banking on as it enters the second month of its schedule.\n\nThe Celtics-Sixers pairing (with Thunder-Trail Blazers airing on the West Coast in select markets) capitalized on genuine intrigue around the Celtics' title contention and the 76ers' acquisition moves in the offseason. This format, which splits content by region to maximize local relevance, has proven effective for NBC in building density around marquee matchups.\n\nEarly-season ratings strength matters for the NBA's ongoing media-rights negotiations. ESPN, TNT, and potential new partners are monitoring viewership trends closely as the league prepares for its next broadcast cycle. A strong start to the season supports the league's pitch that live basketball remains a premium property despite fragmentation across platforms.\n\nThe Celtics-Sixers pop is one data point in a pattern: when East Coast marquee teams play, audiences materialize. The question for the league heading into the holidays and trade deadline is whether that strength holds.",
+      "leadHeadline": "Fitness obsessed & 'control freak' - what can Man Utd expect from Pochettino?",
+      "leadSource": "BBC Sport · 4h ago",
+      "leadUrl": "https://www.bbc.co.uk/sport/football/articles/c85y13pv69xwo?at_medium=RSS&amp;at_campaign=rss",
+      "summary": "BBC Sport spoke with Toby Alderweireld, who played under Pochettino at Spurs, to assess what Manchester United can expect from their new manager. Alderweireld characterized Pochettino as fitness-obsessed and detail-oriented in his approach.",
+      "article": "Toby Alderweireld, who spent four seasons under Pochettino at Tottenham, offered insight into the Manchester United manager's methods and personality in an interview with BBC Sport Friday.\n\nAlderweireld characterized Pochettino as relentlessly focused on fitness and conditioning, someone who demands meticulous attention to detail across all operational facets of a team. \"Control freak\" was among the descriptors Alderweireld used, framing it not as a negative but as a hallmark of a coach who leaves nothing to chance.\n\nPochettino's tenure at Spurs produced consistent top-four finishes and a Champions League final appearance in 2019, built on a foundation of rigorous training standards and squad chemistry. His philosophy relies on players who are willing to embrace high-volume pressing and sustained physical intensity across 90 minutes.\n\nFor Manchester United, this signals a potential tactical reset. The club has cycled through multiple managers in recent years and sits below its historical standard in the Premier League. Pochettino's reputation for squad overhaul and integration of younger players may appeal to United ownership as a long-term rebuild rather than a quick fix.\n\nAlderweireld's endorsement carries weight among players and fans familiar with Pochettino's Spurs era, one of the most stable and competitive stretches in that club's recent history.",
       "tweets": []
     },
     {
-      "category": "leagues",
-      "importance": 5,
-      "leadHeadline": "Keys to victory: How Alouettes can beat Elks in Grey Cup",
-      "leadSource": "Sportsnet · 2h ago",
-      "leadUrl": "",
-      "summary": "The Montreal Alouettes return to the Grey Cup for redemption after losing last year to Saskatchewan. The CFL championship matchup Sunday pits the Alouettes against the Edmonton Elks in the league's marquee event.",
-      "article": "The Montreal Alouettes are back in the Grey Cup on Sunday against the Edmonton Elks, seeking redemption after falling short against Saskatchewan last year. The championship game represents the culmination of the CFL regular season and carries significance for both franchises and the league's attendance and television draw.\n\nThe Alouettes have built their team around offensive firepower and defensive intensity. Stopping Edmonton's pass rush and controlling time of possession will be critical to Montreal's gameplan. The Elks, meanwhile, present a balanced offensive attack and a defense that can generate pressure in the secondary.\n\nThe Grey Cup remains one of North American sports' most attended championship events outside the Super Bowl and Stanley Cup Finals, with capacity crowds and national television viewership across Canada. A competitive, well-played final benefits the CFL's visibility heading into the offseason.\n\nFor Montreal, last year's loss still stings. The franchise has the roster and motivation to finish the job. For Edmonton, a title would represent their first since 2015 and stabilize a franchise that has cycled through multiple quarterback situations in recent years. Sunday's outcome will shape both teams' trajectories and influence free agency and draft strategy over the winter.",
-      "tweets": []
-    },
-    {
-      "category": "leagues",
+      "category": "media",
       "importance": 4,
-      "leadHeadline": "MLB GM Meetings End With Plenty of Talk but Little Action",
-      "leadSource": "Deadspin · 3h ago",
-      "leadUrl": "https://deadspin.com/mlb-gm-meetings-end-with-plenty-of-talk-but-little-action/",
-      "summary": "The MLB GM Meetings produced no trades and few major signings, but industry observers expect significant activity before December 2's lockout deadline. The quiet week may precede a busy offseason rush.",
-      "article": "The MLB General Managers Meetings concluded without trades or major free-agent signings, continuing a pattern of offseason caution from front offices. The quiet week followed typical November negotiation rhythms: lots of dialogue, little decisive action.\n\nWith the December 2 lockout deadline looming, however, teams are expected to accelerate discussions. The window between now and the lockout represents the final opportunity for front offices to work without the constraints of league-wide work stoppage.\n\nHistorically, the week before a lockout sees a spike in trades and signings as franchises race to finalize deals under the current CBA. The mechanics are straightforward: once the lockout begins, no transactions can occur and rosters are frozen mid-offseason. That creates artificial urgency in the final days.\n\nGeneral managers used the meetings to take temperature checks on available players and the market's appetite for certain positions. Starting pitching, corner infielders, and relief help remain scarce, and teams needing those positions will likely accelerate their offers in the coming weeks.\n\nThe quiet GM Meetings don't signal a weak offseason ahead. They signal the industry is in holding pattern ahead of a predictable surge.",
+      "leadHeadline": "On Dan Hicks, who met the moments without overshadowing them",
+      "leadSource": "Sports Media Watch · 6h ago",
+      "leadUrl": "https://www.sportsmediawatch.com/2026/11/dan-hicks-retrospective-tribute/",
+      "summary": "Sports Media Watch published a retrospective on the career and broadcasting legacy of Dan Hicks, comparing his approach to that of legendary CBS announcer Verne Lundquist. Both spent decades at their respective networks and are credited with memorable calls across major sporting events.",
+      "article": "Dan Hicks, who spent his career at NBC, retired Friday as one of the most respected play-by-play voices in sports broadcasting, drawing immediate comparison to Verne Lundquist's legacy at CBS.\n\nHicks' career spanned decades of coverage across multiple sports, including golf, tennis, and Olympic programming. Sports Media Watch noted that both Hicks and Lundquist built their reputations by letting the action speak, avoiding the tendency of modern broadcasters to insert personality into moments that belong to athletes.\n\nThe piece highlighted Hicks' signature restraint: he understood when to call the action directly and when to let silence carry weight. That discipline defined his most memorable broadcasts, from major tournaments to Olympic events, where the grandeur of the moment required a calm, authoritative hand rather than histrionics.\n\nHicks' departure marks the end of an era in NBC sports coverage and leaves a vacancy in one of the network's marquee roles. His influence on the next generation of broadcasters centers on the notion that the best announcers function as stewards of the moment, not stars competing with the action on the field.",
       "tweets": []
     }
   ],
@@ -2402,92 +2402,127 @@
   "deals": [
     {
       "type": "acquisition",
-      "parties": "San Jose Earthquakes ⇄ Heath Freeman / Alden Global Capital",
+      "parties": "San Jose Earthquakes ⇄ Alden Global Capital (Heath Freeman)",
       "value_usd": 625000000,
       "term_years": null,
       "league": "MLS",
-      "headline": "Alden's Freeman acquires San Jose Earthquakes for $625M",
-      "storyIndex": 1,
-      "blurb": "MLS owners approved Heath Freeman's purchase of the Earthquakes from John Fisher at $625M enterprise value on Thursday.",
-      "capturedAt": "2026-11-13T21:06:36.380Z"
+      "headline": "Heath Freeman acquires San Jose Earthquakes for $625M",
+      "storyIndex": 10,
+      "blurb": "Alden Global Capital co-founder Heath Freeman purchased the MLS franchise from John Fisher at an enterprise value of $625M, pending ownership approval.",
+      "capturedAt": "2026-11-14T02:49:45.350Z"
+    },
+    {
+      "type": "extension",
+      "parties": "U.S. Soccer ⇄ Mauricio Pochettino",
+      "value_usd": null,
+      "term_years": 5,
+      "league": "OTHER",
+      "headline": "Pochettino departs USMNT, had deal through 2030",
+      "storyIndex": 3,
+      "blurb": "Pochettino left his USMNT head-coaching role to take Manchester United job, ending a contract with U.S. Soccer agreed through 2030.",
+      "capturedAt": "2026-11-14T02:49:45.350Z"
     }
   ],
   "ratings": [],
   "ticket_prices": [],
   "sidebar": [
     {
-      "headline": "WTA Chair Believes She Has Roadmap Out of Financial Hole",
-      "source": "Front Office Sports · 2h ago",
-      "article": "The WTA faces persistent financial challenges that have prompted concern from players and stakeholders. Leadership has signaled optimism about a path forward, citing potential sponsorship expansion, media-rights growth, and venue partnerships as avenues to stabilize revenue.\n\nThe women's tour operates on a smaller total revenue base than the ATP, and seasonal volatility in tournament attendance and sponsorship commitments creates budget pressure. Rising player payouts, which the tour committed to increase over the next decade, require corresponding revenue growth.\n\nWTA leadership believes improved media distributions in emerging markets, particularly Asia, can unlock new audiences and broadcasting fees. A roadmap, if it holds, would involve negotiating stronger TV deals in high-growth regions and securing long-term title sponsors for key events.\n\nThe challenge is execution. Past WTA strategic pivots have promised stability without delivering it. Players remain skeptical, and some have openly questioned whether the tour's business model can sustain competitive purses against rival leagues and independent exhibitions."
+      "headline": "Ryan Leaf on Rebuilding His Career",
+      "source": "Front Office Sports · 5h ago",
+      "article": "Former NFL quarterback Ryan Leaf discussed his path to rebuilding credibility after a notorious career collapse in the late 1990s. Leaf touched on the Pac-12's relaunch efforts, the implications of the 24-team college football playoff, and his efforts to remain relevant in sports media and commentary. His remarks underscore how former high-profile athletes navigate second acts after on-field underperformance."
     },
     {
-      "headline": "How the Washington Spirit's Stadium Ended Up in a Scheduling Scramble",
-      "source": "Front Office Sports · 2h ago",
-      "article": "Audi Field, home of the NWSL's Washington Spirit, is hosting both an NWSL playoff semifinal and a college football game on Saturday, creating a scheduling conflict that forced event rescheduling and venue coordination challenges.\n\nThe dual-booking reflects the complexity of managing shared stadiums in sports. Audi Field, a 20,000-capacity venue in the District, is also home to D.C. United of MLS and has hosted college football games. Saturday's schedule forced organizers to manage logistics, security, and turnaround times between events.\n\nThe Spirit's playoff run is critical for NWSL visibility and the league's overall commercial footprint. Scheduling conflicts at the playoff stage are unwelcome complications. The league and club worked to accommodate both events, but the scramble underscores the operational reality of shared facilities in crowded urban markets.\n\nFor the Spirit, the forced logistics shuffle is a distraction at a sensitive moment in their season. Managing venue availability at the highest competitive levels remains one of professional sports' underreported operational challenges."
+      "headline": "Rangers Dylan Garand gets full-circle moment in return to British Columbia",
+      "source": "NY Post Sports · just now",
+      "article": "New York Rangers goalie Dylan Garand, a Victoria native, returned to British Columbia to face his hometown Vancouver Canucks amid a strong start to the NHL season. The matchup offered a homecoming narrative as Garand has established himself as a reliable backup and occasional starter for the Rangers this season. Playing in front of friends and family in his native province marks a career highlight for the young netminder."
     },
     {
-      "headline": "Five thoughts about the NHL at the quarter mark",
-      "source": "Sportsnet · 2h ago",
-      "article": "With NHL teams hitting the quarter-mark of their schedules at around 21 games, patterns are beginning to crystallize and early-season surprises are separating from sustainable contenders.\n\nJustin Bourne's analysis at the 21-game mark examines which preseason questions have been answered: playoff positioning starting to take shape, goaltending consistency becoming clearer, and injury situations settling into long-term roster implications. Teams that struggled in October can still make moves, but the margin for error narrows from here forward.\n\nThe quarter-mark is historically significant in NHL season analysis because it's far enough in to discount randomness but early enough for front offices to make trades that alter trajectory. Sellers and buyers begin declaring themselves. Teams that underperformed preseason expectations face mounting pressure to retool.\n\nConference balance and playoff race dynamics are more legible now than in November. The teams that looked good in October and are still good in December have solved something. Those that aren't have work to do before the trade deadline."
+      "headline": "France hold nerve to edge past South Africa in thriller",
+      "source": "BBC Sport · 4h ago",
+      "article": "France defeated South Africa 21-19 in a high-stakes rugby test match at Stade de France, ending a five-match losing streak against the Springboks. The victory came in a tightly contested affair that required late-game composure and execution, validating France's standing as a top-tier rugby nation. The win provides momentum ahead of upcoming test-match windows."
+    },
+    {
+      "headline": "Stephen Thompson's retirement, Bilal Hasan's return among top fights to watch this weekend",
+      "source": "CBS Sports · 1h ago",
+      "article": "UFC 334 features several marquee bouts this weekend, headlined by Stephen Thompson's final fight at the site of his most famous prior victory. Thompson, a veteran welterweight with a storied career, takes on a final opponent in what has been billed as his farewell bout. The card also includes the return of Bilal Hasan, among other notable matchups, drawing interest from both hardcore and casual MMA audiences."
     },
     {
       "headline": "Arizona QB Noah Fifita Has a Chance to Enter the Heisman Trophy Race",
-      "source": "Deadspin · 3h ago",
-      "article": "Arizona quarterback Noah Fifita has a chance to strengthen his Heisman Trophy candidacy when undefeated Utah visits Tucson. The matchup is a major test for both teams in conference play and could significantly impact Fifita's narrative heading into November.\n\nFifita has been efficient and productive this season, but has played mostly against middling defenses. Utah's visit provides a signature-win opportunity against a ranked opponent with a strong defensive front. Heisman conversations typically reward performances against ranked teams, and this game offers Fifita that platform.\n\nA standout performance against Utah would vault Fifita into more serious contention alongside the favorite Heisman candidates. The award has historically favored QBs with high-volume passing yards, touchdowns, and at least one marquee victory. Utah's strength makes this game consequential for Fifita's narrative arc.\n\nThe game also matters for Utah's playoff positioning. Both teams are playing for conference implications and playoff seeding, so the stakes extend well beyond Heisman optics to actual postseason trajectory."
+      "source": "Deadspin · 8h ago",
+      "article": "Arizona quarterback Noah Fifita holds an opportunity to strengthen his Heisman Trophy candidacy when undefeated Utah visits Tucson. Fifita has posted solid numbers this season but has operated in the shadow of more nationally prominent quarterbacks. A signature victory against a top-ranked opponent could reshape Heisman conversation and elevate his draft stock heading into the offseason."
     },
     {
-      "headline": "Revisiting the 2026 NFL Draft: Did the Titans take the right receiver at No. 4?",
-      "source": "CBS Sports · 1h ago",
-      "article": "Carnell Tate, selected by the Titans at No. 4 overall in the 2026 NFL Draft, has delivered reliability against zone coverage for quarterback Cam Ward but carries concerning ball-security issues and questions about ultimate ceiling.\n\nThe fourth overall pick carries outsized expectations, and early returns on Tate suggest a solid but not transformational prospect. He's been a capable target, particularly in structured route concepts, but the inconsistency with the football and occasional lapses in focus temper enthusiasm.\n\nQuarterback-receiver pairings develop over time, and Tate has chemistry with Ward that should improve as the season progresses. However, the Titans' investment at that draft slot typically demands either an elite talent or a clear building block for a multi-year competitive window.\n\nCBS Sports revisited the pick to assess whether the Titans nailed a value or reached for a player who may not justify a top-five selection. Early-season film offers initial answers, but the true evaluation requires a full NFL season and beyond."
-    },
-    {
-      "headline": "Week 10 NFL score predictions: Expert reveals exact scores for every NFL game",
-      "source": "CBS Sports · 1h ago",
-      "article": "SportsLine expert Eric Cohen released score predictions for every NFL game on the Week 10 schedule, providing precise line forecasting and picks against the spread.\n\nCohen's methodology combines statistical modeling, team trend analysis, and weekly injury factors to project game outcomes and point differentials. Predictive analysis has become standard in the sports betting ecosystem, with experts publishing picks daily as sportsbooks adjust lines and casual bettors seek edge.\n\nWeek 10 typically falls mid-season when team tendencies are established, injury situations have crystallized, and playoff positioning begins influencing offensive and defensive schemes. Teams chasing playoff spots play differently than those out of contention.\n\nCohen's picks represent one analyst's read on a full NFL slate. Predictive value varies, and no expert consistently beats the spread over extended periods. However, the analysis serves as useful context for how sharp bettors and professional handicappers view specific matchups."
+      "headline": "Celtics-Sixers delivers viewership pop, continuing NBA's strong start",
+      "source": "Sports Media Watch · 22h ago",
+      "article": "The first meeting of the season between Jaylen Brown and Jayson Tatum delivered a viewership surge on NBC's Coast 2 Coast Tuesday programming, continuing what has been a robust start to the NBA regular season. The Celtics-76ers matchup drew audiences in most markets, while Thunder-Trail Blazers played in Western markets. Strong early-season ratings suggest elevated interest in marquee regular-season matchups."
     }
   ],
   "poll": {
-    "question": "Will the Alouettes finish the job and win the Grey Cup for the first time since losing last year to Saskatchewan?",
+    "question": "Which storyline will dominate sports business headlines next week?",
     "options": [
-      "Yes, Alouettes beat Edmonton convincingly",
-      "Yes, Alouettes win a close game",
-      "No, Edmonton Elks upset the favored Alouettes",
-      "No, the game goes to overtime"
+      "MLB's CBA negotiations and labor tensions with the players' union",
+      "Pochettino's Manchester United debut and tactical overhaul in the Premier League",
+      "College football's travel logistics and Week 12 scheduling impact",
+      "Health Freeman's strategic plans for the San Jose Earthquakes"
     ]
   },
   "predictions": [
     {
-      "statement": "Heath Freeman's Alden Global Capital will make at least one additional MLS investment within 18 months.",
-      "probability": 68,
-      "rationale": "Alden Global has shown appetite for sports ownership (the Earthquakes deal signals institutional commitment to MLS). The league's growing valuations and Freeman's capital position make follow-on acquisitions or minority stakes likely. However, MLS expansion and limited secondary market activity create constraints."
+      "statement": "MLB and the MLBPA will announce a framework agreement on a new CBA within 60 days, avoiding a lockout.",
+      "probability": 62,
+      "rationale": "Taillon's pointed criticism suggests union readiness for a fight, but both sides have incentive to avoid labor disruption given revenue recovery post-pandemic. Early public posturing rarely predicts lockout length. A February or March agreement appears more likely than an extended impasse, though 2024-2025 precedent shows labor talks always run to the brink."
     },
     {
-      "statement": "MLB will see more than $800M in free-agent contracts signed before the December 2 lockout deadline.",
-      "probability": 72,
-      "rationale": "Historical precedent shows a surge in late-November signings before lockouts. Starting pitching, relief help, and corner infield scarcity remain, and teams will accelerate offers in the final week. A quiet GM Meetings typically precedes a busy final stretch."
+      "statement": "Heath Freeman will announce a stadium investment or renovation plan for the San Jose Earthquakes within 12 months.",
+      "probability": 71,
+      "rationale": "Freeman's acquisition at $625M suggests he views the Earthquakes as an underperforming asset ripe for capital improvement. MLS franchises with aging or off-market stadiums (San Jose's Avaya/PayPal Park is not downtown and lacks 30,000+ seating) are typical candidates for owner-driven stadium initiatives. The Alden/Freeman profile suggests operational discipline and willingness to deploy capital for asset enhancement."
     },
     {
-      "statement": "The Montreal Alouettes will win the Grey Cup on Sunday, improving at least one key offensive line.",
-      "probability": 55,
-      "rationale": "The Alouettes are in the Grey Cup for the second straight year, showing consistent competence. Their motivation after last year's loss is high. Edmonton is capable but less proven in championship moments. The pick leans slightly toward Montreal without conviction."
+      "statement": "Dylan Garand will earn a multi-year extension with the Rangers at $4M+ AAV before the 2027 season.",
+      "probability": 54,
+      "rationale": "Garand has shown competence as a backup and occasional starter for a contender. Backup goaltender extensions in the $3.5M-$5.5M range are common for proven depth at the position. However, his tenure is still relatively short, and the Rangers' depth picture may shift depending on Igor Shesterkin's contract status and the emergence of other prospects. A moderate likelihood reflects market norms and team need."
     },
     {
-      "statement": "NFL QB injury rates will remain above 2020-2022 averages through the playoffs despite increased investment in offensive line protection.",
-      "probability": 64,
-      "rationale": "Defenses have structurally outpaced offensive rule advantages, and pass-rush sophistication is at historical highs. The Ravens cycling through QBs is a canary in the coal mine. No amount of O-line spending reverses a defensive-evolution advantage in a single season."
+      "statement": "Pochettino will not survive as Manchester United manager beyond the 2026-27 season.",
+      "probability": 38,
+      "rationale": "Pochettino carries a strong track record and has managed top clubs, but Manchester United's structural issues and ownership volatility create a hostile environment for long-term tenure. Recent United managers (ten Hag, Mourinho, Van Gaal) lasted 2-3 years on average. Pochettino's success at Spurs and credibility offer better odds than most, but 38 percent reflects the club's proven ability to cycle through managers quickly if results falter."
     }
   ],
   "injuries": [
+    {
+      "player": "Alphonso Davies",
+      "team": "Canada (National Team)",
+      "league": "SOCCER",
+      "position": "D",
+      "status": "DAY_TO_DAY",
+      "injury": "Apparent injury (unspecified)",
+      "timeline": "Questionable for upcoming matches",
+      "source": "Sportsnet",
+      "impact": "Canada loses its star full-back and one of the team's most dynamic attacking threats in CONCACAF Nations League play.",
+      "storyIndex": 15
+    },
+    {
+      "player": "Abbey Murphy",
+      "team": "USA (National Team)",
+      "league": "SOCCER",
+      "position": "F",
+      "status": "OUT",
+      "injury": "Injury sustained in quarterfinal",
+      "timeline": "Out indefinitely",
+      "source": "Sportsnet",
+      "impact": "USA loses a key player in the women's world hockey championships semifinals after a quarterfinal victory over Denmark.",
+      "storyIndex": null
+    },
     {
       "player": "Lamar Jackson",
       "team": "Baltimore Ravens",
       "league": "NFL",
       "position": "QB",
       "status": "OUT",
-      "injury": "Not specified",
+      "injury": "Unspecified injury",
       "timeline": null,
       "source": "The Guardian",
-      "impact": "Ravens forced to start backup Jacoby Brissett against Chargers on Monday; team cycling through fourth QB of season.",
+      "impact": "Ravens forced to start Jacoby Brissett against the Los Angeles Chargers, their fourth QB of the season.",
       "storyIndex": 12
     },
     {
@@ -2496,10 +2531,10 @@
       "league": "NFL",
       "position": "QB",
       "status": "OUT",
-      "injury": "Not specified",
+      "injury": "Unspecified injury",
       "timeline": null,
       "source": "The Guardian",
-      "impact": "Ravens backup QB unavailable; accelerates rotation to emergency starter Brissett in crucial Monday matchup.",
+      "impact": "Contributes to Ravens QB depth shortage; team now relying on Jacoby Brissett as primary starter.",
       "storyIndex": 12
     },
     {
@@ -2508,10 +2543,10 @@
       "league": "NFL",
       "position": "QB",
       "status": "OUT",
-      "injury": "Not specified",
+      "injury": "Unspecified injury",
       "timeline": null,
       "source": "The Guardian",
-      "impact": "Third Ravens QB sidelined; creates cascading QB shortage and forces reliance on Jacoby Brissett in prime-time matchup.",
+      "impact": "Ravens cycling through fourth QB option of the season against a struggling Chargers defense.",
       "storyIndex": 12
     }
   ],
@@ -5948,377 +5983,7 @@
       "_pendingGrade": true
     }
   ],
-  "updatedAt": "2026-04-23T00:00:00Z",
-  "highlights": [
-    {
-      "league": "NBA",
-      "title": "Sean Little Breaks Down The Biggest NBA Stories &amp; What To Watch In The Emirates NBA Cup",
-      "videoId": "0ZR2QJjV590",
-      "thumbnail": "https://img.youtube.com/vi/0ZR2QJjV590/mqdefault.jpg",
-      "timeAgo": "1h ago",
-      "isFallback": false
-    },
-    {
-      "league": "NFL",
-      "title": "3 Qualities UCLA's Bob Chesney Looks For In Coaches",
-      "videoId": "EpHyuDeFmiE",
-      "thumbnail": "https://img.youtube.com/vi/EpHyuDeFmiE/mqdefault.jpg",
-      "timeAgo": "1h ago",
-      "isFallback": false
-    },
-    {
-      "league": "MLB",
-      "title": "Baseball’s Payroll Disparity Problem Explained. The Case for a Salary Cap and Floor",
-      "videoId": "m0wUIsFjHhg",
-      "thumbnail": "https://img.youtube.com/vi/m0wUIsFjHhg/mqdefault.jpg",
-      "timeAgo": "1h ago",
-      "isFallback": false
-    },
-    {
-      "league": "NHL",
-      "title": "Conversations &amp; Coffee: Joey Daccord and Brandon Bussi",
-      "videoId": "eshE96_xi4k",
-      "thumbnail": "https://img.youtube.com/vi/eshE96_xi4k/mqdefault.jpg",
-      "timeAgo": "2h ago",
-      "isFallback": false
-    },
-    {
-      "league": "WNBA",
-      "title": "Looking Back at the No. 1 Overall Picks in WNBA Draft History",
-      "videoId": "BxjMphBLE10",
-      "thumbnail": "https://img.youtube.com/vi/BxjMphBLE10/mqdefault.jpg",
-      "timeAgo": "1d ago",
-      "isFallback": false
-    },
-    {
-      "league": "SOCCER",
-      "title": "'You play the way you train' (via @intermiamicf)",
-      "videoId": "iftvxqup_wA",
-      "thumbnail": "https://img.youtube.com/vi/iftvxqup_wA/mqdefault.jpg",
-      "timeAgo": "3h ago",
-      "isFallback": false
-    }
-  ],
-  "reels": [
-    {
-      "league": "NFL",
-      "title": "3 Qualities UCLA's Bob Chesney Looks For In Coaches",
-      "videoId": "EpHyuDeFmiE",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-11-13T20:15:28+00:00",
-      "link": "https://www.youtube.com/watch?v=EpHyuDeFmiE"
-    },
-    {
-      "league": "MLB",
-      "title": "Baseball’s Payroll Disparity Problem Explained. The Case for a Salary Cap and Floor",
-      "videoId": "m0wUIsFjHhg",
-      "author": "MLB",
-      "pubDate": "2026-11-13T20:14:00+00:00",
-      "link": "https://www.youtube.com/watch?v=m0wUIsFjHhg"
-    },
-    {
-      "league": "NFL",
-      "title": "The CRUCIAL skill that is creating a gap in QB play | Move the Sticks",
-      "videoId": "NoE1FdT88OM",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-11-13T20:10:57+00:00",
-      "link": "https://www.youtube.com/watch?v=NoE1FdT88OM"
-    },
-    {
-      "league": "NBA",
-      "title": "Sean Little Breaks Down The Biggest NBA Stories &amp; What To Watch In The Emirates NBA Cup",
-      "videoId": "0ZR2QJjV590",
-      "author": "NBA",
-      "pubDate": "2026-11-13T20:04:43+00:00",
-      "link": "https://www.youtube.com/watch?v=0ZR2QJjV590"
-    },
-    {
-      "league": "MLB",
-      "title": "2026 Junior Caminero Highlights (BACK-TO-BACK 40-HOMER seasons for the Rays' young superstar!) 💪",
-      "videoId": "KEMe98YhdN4",
-      "author": "MLB",
-      "pubDate": "2026-11-13T20:00:17+00:00",
-      "link": "https://www.youtube.com/watch?v=KEMe98YhdN4"
-    },
-    {
-      "league": "NBA",
-      "title": "Dame &amp; Ja🤝 Doing Each Others Cellies",
-      "videoId": "GQBceFLxGec",
-      "author": "NBA",
-      "pubDate": "2026-11-13T20:00:10+00:00",
-      "link": "https://www.youtube.com/watch?v=GQBceFLxGec"
-    },
-    {
-      "league": "NFL",
-      "title": "'THEY'RE GOING ALL IN!' 👀 - Sean McDermott on Jaguars' trades | The Rich Eisen Show",
-      "videoId": "uktugl203Eg",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-11-13T19:52:36+00:00",
-      "link": "https://www.youtube.com/watch?v=uktugl203Eg"
-    },
-    {
-      "league": "NFL",
-      "title": "Sean McDermott 🤝 J.J. McCarthy",
-      "videoId": "GVSQRpMYrUY",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-11-13T19:50:05+00:00",
-      "link": "https://www.youtube.com/watch?v=GVSQRpMYrUY"
-    },
-    {
-      "league": "NFL",
-      "title": "Jeffery Simmons is feeling the love from Chicago 🙌",
-      "videoId": "LXNKPFZTJ34",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-11-13T19:48:20+00:00",
-      "link": "https://www.youtube.com/watch?v=LXNKPFZTJ34"
-    },
-    {
-      "league": "NFL",
-      "title": "Jaylen Warren compares his explosive playstyle to trying to 'swat a fly' 🪰 | The Pat McAfee Show",
-      "videoId": "8K2UHVd8mE4",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-11-13T19:41:09+00:00",
-      "link": "https://www.youtube.com/watch?v=8K2UHVd8mE4"
-    },
-    {
-      "league": "NFL",
-      "title": "Is Chuba Hubbard the MOST Under Appreciated RB1 in All of Fantasy Football?! #nfl #fantasyfootball",
-      "videoId": "plq_K_O_g2M",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-11-13T19:27:40+00:00",
-      "link": "https://www.youtube.com/watch?v=plq_K_O_g2M"
-    },
-    {
-      "league": "NBA",
-      "title": "DYLAN HARPER IS SHOOTING 76.9% AT THE RIM 🔥",
-      "videoId": "CMp8HX7_SR4",
-      "author": "NBA",
-      "pubDate": "2026-11-13T19:15:18+00:00",
-      "link": "https://www.youtube.com/watch?v=CMp8HX7_SR4"
-    },
-    {
-      "league": "NBA",
-      "title": "Inside the Game with Coach Atkinson, Christie, Jenkins &amp; Adelman | Coaches Corner powered by AWS",
-      "videoId": "2K42U6aN0KA",
-      "author": "NBA",
-      "pubDate": "2026-11-13T19:00:15+00:00",
-      "link": "https://www.youtube.com/watch?v=2K42U6aN0KA"
-    },
-    {
-      "league": "NHL",
-      "title": "Conversations &amp; Coffee: Joey Daccord and Brandon Bussi",
-      "videoId": "eshE96_xi4k",
-      "author": "NHL",
-      "pubDate": "2026-11-13T19:00:13+00:00",
-      "link": "https://www.youtube.com/watch?v=eshE96_xi4k"
-    },
-    {
-      "league": "SOCCER",
-      "title": "'You play the way you train' (via @intermiamicf)",
-      "videoId": "iftvxqup_wA",
-      "author": "ESPN FC",
-      "pubDate": "2026-11-13T18:30:37+00:00",
-      "link": "https://www.youtube.com/watch?v=iftvxqup_wA"
-    },
-    {
-      "league": "SOCCER",
-      "title": "All love for his people back home 💚🧡 (via @ange_leho_officiel, @le_media_100filtre)",
-      "videoId": "fXHBdnxr2ts",
-      "author": "ESPN FC",
-      "pubDate": "2026-11-13T18:00:14+00:00",
-      "link": "https://www.youtube.com/watch?v=fXHBdnxr2ts"
-    },
-    {
-      "league": "MLB",
-      "title": "Team Brazil vs. Team Mexico: Full Game (3/8/2026) | 2026 World Baseball Classic",
-      "videoId": "hM97Uq5Bu1o",
-      "author": "MLB",
-      "pubDate": "2026-11-13T18:00:09+00:00",
-      "link": "https://www.youtube.com/watch?v=hM97Uq5Bu1o"
-    },
-    {
-      "league": "NBA",
-      "title": "WEMBY: ONLY PLAYER TOP 5 IN POINTS, REBOUNDS AND BLOCKS 🤯",
-      "videoId": "gDqXS8TvE_g",
-      "author": "NBA",
-      "pubDate": "2026-11-13T18:00:07+00:00",
-      "link": "https://www.youtube.com/watch?v=gDqXS8TvE_g"
-    },
-    {
-      "league": "NBA",
-      "title": "NBA Players REACT To Moments That Defined Their Careers 👀 | Ft. Steph Curry, Cooper Flagg &amp; More",
-      "videoId": "tGuprhgbw6Y",
-      "author": "NBA",
-      "pubDate": "2026-11-13T17:35:36+00:00",
-      "link": "https://www.youtube.com/watch?v=tGuprhgbw6Y"
-    },
-    {
-      "league": "NFL",
-      "title": "Which QB-WR duo do you TRUST MORE?! 👀 Cousins-Jefferson vs. Love's Packers 🏈 | First Take",
-      "videoId": "nEsAXQiHdL0",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-11-13T17:34:04+00:00",
-      "link": "https://www.youtube.com/watch?v=nEsAXQiHdL0"
-    },
-    {
-      "league": "SOCCER",
-      "title": "Lionel Scaloni got emotional during his contract extension with Argentina ❤️ (via @scespn/IG)",
-      "videoId": "iVcqUYcq75Y",
-      "author": "ESPN FC",
-      "pubDate": "2026-11-13T17:00:40+00:00",
-      "link": "https://www.youtube.com/watch?v=iVcqUYcq75Y"
-    },
-    {
-      "league": "NHL",
-      "title": "Kraken players do their best Kakko impressions 🤣",
-      "videoId": "Bt0ssqLw6rU",
-      "author": "NHL",
-      "pubDate": "2026-11-13T17:00:27+00:00",
-      "link": "https://www.youtube.com/watch?v=Bt0ssqLw6rU"
-    },
-    {
-      "league": "NBA",
-      "title": "LaMelo Ball &amp; Rudy Gobert Are Building Chemistry 👀 (via @timberwolves )",
-      "videoId": "lLsMj-E-06I",
-      "author": "NBA",
-      "pubDate": "2026-11-13T16:16:46+00:00",
-      "link": "https://www.youtube.com/watch?v=lLsMj-E-06I"
-    },
-    {
-      "league": "SOCCER",
-      "title": "Scaloni says there won't be a player wearing No. 10 for Argentina's next match (via @scespn/IG)",
-      "videoId": "GtZDYGgNRpc",
-      "author": "ESPN FC",
-      "pubDate": "2026-11-13T16:00:27+00:00",
-      "link": "https://www.youtube.com/watch?v=GtZDYGgNRpc"
-    },
-    {
-      "league": "MLB",
-      "title": "Pete Crow-Armstrong mashed 45 HOME RUNS in 2026! 😤💪 (Tied for the MLB lead!)",
-      "videoId": "mNbigY8Y2_w",
-      "author": "MLB",
-      "pubDate": "2026-11-13T16:00:04+00:00",
-      "link": "https://www.youtube.com/watch?v=mNbigY8Y2_w"
-    },
-    {
-      "league": "NHL",
-      "title": "Forsberg blind ranks beards + mustaches 🥸",
-      "videoId": "SATXqk80gLs",
-      "author": "NHL",
-      "pubDate": "2026-11-13T16:00:01+00:00",
-      "link": "https://www.youtube.com/watch?v=SATXqk80gLs"
-    },
-    {
-      "league": "NBA",
-      "title": "Kia NBA MVP Ladder after four weeks of hoops!",
-      "videoId": "c2qPRGlDkT8",
-      "author": "NBA",
-      "pubDate": "2026-11-13T15:58:05+00:00",
-      "link": "https://www.youtube.com/watch?v=c2qPRGlDkT8"
-    },
-    {
-      "league": "NHL",
-      "title": "Broberg's 'REALLY?!' Says It All 😂",
-      "videoId": "KbQCqu4pci8",
-      "author": "NHL",
-      "pubDate": "2026-11-13T15:00:25+00:00",
-      "link": "https://www.youtube.com/watch?v=KbQCqu4pci8"
-    },
-    {
-      "league": "SOCCER",
-      "title": "William Saliba and Gabriel Magalhães have been inseparable from day one 😅",
-      "videoId": "WkPy2hUlvWY",
-      "author": "ESPN FC",
-      "pubDate": "2026-11-13T15:00:25+00:00",
-      "link": "https://www.youtube.com/watch?v=WkPy2hUlvWY"
-    },
-    {
-      "league": "SOCCER",
-      "title": "Enzo's ready for the Argentina friendlies 🔥",
-      "videoId": "WsbS4-gOmQ0",
-      "author": "ESPN FC",
-      "pubDate": "2026-11-13T14:15:31+00:00",
-      "link": "https://www.youtube.com/watch?v=WsbS4-gOmQ0"
-    },
-    {
-      "league": "MLB",
-      "title": "FULL GAME: Chris Sale throws complete-game shutout! (Dodgers vs. Braves)",
-      "videoId": "g_dGgY3NPxc",
-      "author": "MLB",
-      "pubDate": "2026-11-13T14:00:38+00:00",
-      "link": "https://www.youtube.com/watch?v=g_dGgY3NPxc"
-    },
-    {
-      "league": "SOCCER",
-      "title": "‘Happy days for Man United if Pochettino beats Liverpool’ 👀",
-      "videoId": "M0H7hhzjiD4",
-      "author": "ESPN FC",
-      "pubDate": "2026-11-13T14:00:33+00:00",
-      "link": "https://www.youtube.com/watch?v=M0H7hhzjiD4"
-    },
-    {
-      "league": "NHL",
-      "title": "Meals with Marty, you've got some new competition 😤",
-      "videoId": "5DY1UdJ-g80",
-      "author": "NHL",
-      "pubDate": "2026-11-13T14:00:19+00:00",
-      "link": "https://www.youtube.com/watch?v=5DY1UdJ-g80"
-    },
-    {
-      "league": "SOCCER",
-      "title": "Have to get used to not seeing Ronaldo anymore ❤️‍🩹 (via @portugal/TT)",
-      "videoId": "KQIw3KfQmjg",
-      "author": "ESPN FC",
-      "pubDate": "2026-11-13T13:22:18+00:00",
-      "link": "https://www.youtube.com/watch?v=KQIw3KfQmjg"
-    },
-    {
-      "league": "NHL",
-      "title": "Islanders vs. Kings | NHL Highlights | Nov 12, 2026",
-      "videoId": "axI_MUaXEtw",
-      "author": "NHL",
-      "pubDate": "2026-11-13T06:14:23+00:00",
-      "link": "https://www.youtube.com/watch?v=axI_MUaXEtw"
-    },
-    {
-      "league": "NHL",
-      "title": "The shootout ENDS it (FINALLY!)",
-      "videoId": "YPxuPe9UyzQ",
-      "author": "NHL",
-      "pubDate": "2026-11-13T06:07:06+00:00",
-      "link": "https://www.youtube.com/watch?v=YPxuPe9UyzQ"
-    },
-    {
-      "league": "NHL",
-      "title": "Blues vs. Mammoth | NHL Highlights | Nov 12, 2026",
-      "videoId": "YRbtI2hdqhE",
-      "author": "NHL",
-      "pubDate": "2026-11-13T05:51:24+00:00",
-      "link": "https://www.youtube.com/watch?v=YRbtI2hdqhE"
-    },
-    {
-      "league": "MLB",
-      "title": "FULL GAME: PCA belts a leadoff and WALK-OFF HOME RUN in the Crosstown Series! (White Sox vs. Cubs)",
-      "videoId": "rxk7Mwg64H0",
-      "author": "MLB",
-      "pubDate": "2026-11-13T03:00:26+00:00",
-      "link": "https://www.youtube.com/watch?v=rxk7Mwg64H0"
-    },
-    {
-      "league": "MLB",
-      "title": "Yordan Alvarez is an absolute unit 😳",
-      "videoId": "CAjXnMyQraA",
-      "author": "MLB",
-      "pubDate": "2026-11-13T02:00:13+00:00",
-      "link": "https://www.youtube.com/watch?v=CAjXnMyQraA"
-    },
-    {
-      "league": "MLB",
-      "title": "MLB Network BREAKS DOWN Pete Crow-Armstrong and Yordan Alvarez's UNANIMOUS 2026 MVP seasons! 🤩🔥",
-      "videoId": "6xw53DsnJcg",
-      "author": "MLB",
-      "pubDate": "2026-11-13T01:41:02+00:00",
-      "link": "https://www.youtube.com/watch?v=6xw53DsnJcg"
-    }
-  ]
+  "updatedAt": "2026-04-23T18:45:00Z",
+  "highlights": [],
+  "reels": []
 }
