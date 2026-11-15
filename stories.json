@@ -2,72 +2,80 @@
   "clusters": [
     {
       "category": "leagues",
-      "importance": 8,
-      "leadHeadline": "NFL week 10: Patriots v Lions, and more – live",
+      "importance": 9,
+      "leadHeadline": "Lions thrash Patriots, Vikings v Packers and more – live",
       "leadSource": "The Guardian · just now",
       "leadUrl": "https://www.theguardian.com/sport/live/2026/nov/15/nfl-week-10-lions-v-patriots-and-more-live",
-      "summary": "Detroit dominated New England 35-10 in Munich, with Jahmyr Gibbs scoring twice to tie his career high and move second all-time in Lions rushing TD history.",
-      "article": "<cite index=\"2-6\">Detroit beat New England 35-10</cite>, played in Germany on Sunday. <cite index=\"2-3\">The Lions led 28-3 heading into the fourth quarter</cite>, where the game was decided. <cite index=\"2-5\">Jahmyr Gibbs scored his second touchdown of the game</cite>, continuing a dominant season for the 6-2 Lions. <cite index=\"14-1\">Gibbs' second TD run of the day moved him to second all-time on rushing touchdowns in Lions history</cite>. The Patriots (5-4) struggled from the start, managing only field goal in the first half and scoring late in the fourth when Lan Larison caught a short pass. <cite index=\"2-4\">Detroit entered Week 10 at 6-2 after defeating Miami last week</cite>. <cite index=\"6-7\">Gibbs continued to carve up the Patriots defense</cite>, showing the dynamic play that has defined his season. The game marked the NFL's return to Germany for an international slate.",
+      "summary": "<cite index=\"1-1\">The Lions hammered the Patriots 35-10 in Germany</cite>, with <cite index=\"1-2\">Drake Maye sustaining an ankle injury in the first quarter</cite>. <cite index=\"13-1\">Gibbs carried for 153 yards and two touchdowns while catching seven targets for 99 yards.</cite>",
+      "article": "<cite index=\"6-1\">Detroit outmatched New England 35-10 in Munich</cite>, <cite index=\"1-3\">winning its fifth consecutive game</cite>. The rout hinged on one play: <cite index=\"1-2\">Drake Maye was sacked by Aidan Hutchinson in the first quarter, sustaining an ankle injury that forced him to miss the rest of the game.</cite> <cite index=\"20-9\">On its next six drives to close the first half, the Patriots netted negative 1 yard on offense.</cite>\n\n<cite index=\"13-1,13-3\">Jahmyr Gibbs carried 22 times for 153 yards and two touchdowns while catching seven of eight targets for 99 yards, taking full advantage as he set new season highs in receiving yards and scrimmage yards.</cite> <cite index=\"11-5\">Gibbs had 171 scrimmage yards by the break, the most by a running back in the first half of any game in Lions franchise history.</cite> <cite index=\"2-12\">He became the first NFL player since Priest Holmes in 2002 to produce 150-plus rushing yards, two or more rushing touchdowns and 95-plus receiving yards in a single game.</cite>\n\nFor New England, the injury compounded early struggles. <cite index=\"22-7\">Maye went 3 of 4 for 48 yards before the injury</cite>, then <cite index=\"20-8,20-9\">backup Tommy DeVito got stuck in the mud, and the Patriots netted negative 1 yard on their next six drives to close the first half.</cite> <cite index=\"24-6\">Coach Mike Vrabel said: \"We'll have to get some more tests run and we'll see when they come back, the severity.\"</cite>",
+      "tweets": [
+        {
+          "url": "https://twitter.com/Lions/status/2121980038216134801",
+          "html": "<blockquote class=\"twitter-tweet\" data-dnt=\"true\" data-theme=\"dark\"><p>It's a Munich touchdown for Amon-Ra! https://t.co/kuidUeDKkO</p>&mdash; Detroit Lions (@Lions) <a href=\"https://twitter.com/Lions/status/2121980038216134801\">November 15, 2026</a></blockquote>",
+          "author_name": "Detroit Lions",
+          "author_url": "https://twitter.com/Lions",
+          "dateMs": 1794754440000
+        }
+      ]
+    },
+    {
+      "category": "media",
+      "importance": 8,
+      "leadHeadline": "NHL reportedly seeking as much as double current rights fee",
+      "leadSource": "Sports Media Watch · 1d ago",
+      "leadUrl": "https://www.sportsmediawatch.com/2026/11/nhl-media-rights-espn-skydance-tnt-money-games-preliminary-talks/",
+      "summary": "The NHL is negotiating its next U.S. media rights deals and seeking to increase total fees by 50-100 percent, potentially bringing more games to ESPN and attracting new broadcast partners. The league's current deals expire in 2026, forcing a reckoning on valuation amid competitive streaming demand.",
+      "article": "The NHL is targeting a major payday in its upcoming U.S. media rights negotiations, seeking to boost total rights fees by 50 to 100 percent over current terms, per CNBC's Alex Sherman. The move signals the league's confidence in its commercial value as ESPN, TNT, and other potential partners vie for hockey inventory ahead of 2026 expiration dates. A 50-percent increase would mean the NHL could nearly double its annual television revenue if the league successfully monetizes expanded game packages. The expanded distribution could mean more games on ESPN and the possibility of new broadcast partners entering the marketplace, fracturing hockey's current concentrated footprint. This follows years of NHL growth in metrics like social-media engagement and younger-demographic viewership, particularly around star players like Connor McDavid and Trevor MacKinnon. Broadcast rights are the single largest revenue source for most North American sports leagues, and hockey has historically lagged behind the NBA and NFL in media valuation. A successful negotiation could reshape the league's financial profile and force cable and streaming platforms to compete more aggressively for marquee matchups.",
+      "tweets": []
+    },
+    {
+      "category": "contracts",
+      "importance": 7,
+      "leadHeadline": "Lions Lose $45M Star After Celebrating Sack in Germany",
+      "leadSource": "Front Office Sports · 2h ago",
+      "leadUrl": "https://frontofficesports.com/article/aidan-hutchinson-injury-lions-munich/",
+      "summary": "Aidan Hutchinson, Detroit's star defensive end, suffered a significant injury during the Lions' Week 10 victory in Munich, raising concerns about his availability for the stretch run. The injury casts uncertainty over the defensive line's health heading into a critical playoff push.",
+      "article": "Aidan Hutchinson, the Lions' $45 million defensive end and one of Detroit's marquee pass-rushers, was hurt during the team's 35-10 demolition of the Patriots in Munich on Sunday. The injury occurred during a play in which Hutchinson celebrated a sack, a moment that turned costly as the defensive lineman went down. Details on the severity and timeline remain under review, but the loss of Hutchinson for any extended period would significantly impact Detroit's defensive identity down the stretch. The Lion's defensive line has been central to their success this season, pressuring opposing quarterbacks and supporting a run-heavy offensive scheme. Hutchinson signed his extension in a major show of commitment from the franchise, but injuries have been a recurring theme for the defensive end throughout his career. Detroit enters the final stretch of the regular season with playoff seeding on the line, and any loss to the secondary tier of defensive playmakers carries playoff implications. The team's training staff will conduct further evaluation in the coming days.",
       "tweets": []
     },
     {
       "category": "leagues",
       "importance": 7,
-      "leadHeadline": "49ers vs. Cowboys prediction: Niners roll on the road in marquee matchup",
-      "leadSource": "NY Post Sports · just now",
-      "leadUrl": "https://nypost.com/2026/11/15/betting/49ers-vs-cowboys-prediction-nfl-week-10-picks-odds-best-bets-sunday/",
-      "summary": "The 49ers-Cowboys Week 10 matchup is America's Game of the Week, a classic NFL rivalry showdown. Dallas is seeking to return to .500 for the first time since Week 4.",
-      "article": "San Francisco and Dallas square off in what has long been branded America's Game of the Week, a rivalry fixture that still carries cultural weight despite fluctuating playoff stakes. The Cowboys sit below .500 and are chasing parity, having last reached an even record back in Week 4. A win would mark a crucial pivot point in their season; a loss deepens the hole. The 49ers enter as road favorites, carrying momentum from their earlier performances this season. The matchup carries the weight of the NFC East rivalry and the historical significance of the two franchises, even as both teams navigate the middle portion of their schedule. Broadcast coverage includes free options for viewers, broadening the audience for what remains one of the NFL's marquee properties.",
-      "tweets": []
-    },
-    {
-      "category": "leagues",
-      "importance": 7,
-      "leadHeadline": "Tearful McIlroy dedicates record-equalling win to ill dad",
-      "leadSource": "BBC Sport · 5h ago",
-      "leadUrl": "https://www.bbc.co.uk/sport/golf/articles/c6kg7rwmz1g8o?at_medium=RSS&amp;at_campaign=rss",
-      "summary": "Rory McIlroy won his eighth Race to Dubai title, equalling the record, and dedicated the victory to his ill father, Gerry, in an emotional moment. McIlroy's latest title ties him with a previously held record.",
-      "article": "Rory McIlroy won the Race to Dubai for the eighth time, matching the record for most titles in the event's history. McIlroy, visibly emotional after the victory, dedicated the win to his father, Gerry, who is currently ill. The achievement caps a dominant stretch in European golf and places McIlroy among the most successful players in the Race to Dubai's storied run. His eighth title ties him with the prior record-holder, a milestone that underscores his consistency at the highest level of professional golf over more than a decade of competition. The emotional dedication to his father added a personal dimension to what is ordinarily a high-stakes professional accomplishment, reflecting the significance of family in McIlroy's career narrative. The win cements his standing as a central figure in European golf during an era of global competition.",
+      "leadHeadline": "Spain v England: Nations League – live",
+      "leadSource": "The Guardian · just now",
+      "leadUrl": "https://www.theguardian.com/football/live/2026/nov/15/spain-v-england-nations-league-live",
+      "summary": "England faces Spain in a high-stakes UEFA Nations League match in Madrid with Thomas Tuchel's squad having already qualified but fighting for group position. Spain looks to extend their unbeaten run and top the group after qualification.",
+      "article": "England and Spain clash in Madrid in a UEFA Nations League match that carries playoff seeding implications despite England's earlier qualification. Thomas Tuchel, in his early tenure as England manager, has guided the squad through their group phase and now eyes the top spot, which determines knockout-stage positioning. Spain brings an unbeaten record to the fixture, having secured their own qualification and now jockeying for table position. The Selecci??n's possession-based football under their current setup has been a hallmark of their recent run, contrasting with England's more direct, transitional approach. Tuchel told ITV pregame that it is a beautiful match, signaling respect for the opponent and the competitive nature of the fixture. Both squads have rotated personnel throughout the Nations League group phase to manage workload and develop depth ahead of World Cup qualifying cycles. The winner secures the group and a more favorable knockout draw. Neither side has named any late injury concerns ahead of kickoff at 19:45 GMT.",
       "tweets": []
     },
     {
       "category": "leagues",
       "importance": 6,
       "leadHeadline": "Grey Cup preview: What you need to know about Elks vs. Alouettes",
-      "leadSource": "Sportsnet · 4h ago",
+      "leadSource": "Sportsnet · 7h ago",
       "leadUrl": "",
-      "summary": "The Edmonton Elks and Montreal Alouettes meet in the 113th Grey Cup, a matchup featuring former teammates and division champions. The game kicks off the historic clash in Calgary.",
-      "article": "The Grey Cup, Canadian professional football's championship game, pits the Edmonton Elks against the Montreal Alouettes in a 113th edition that carries personal and divisional weight. Cody Fajardo leads the Elks while Davis Alexander quarterbracks the Alouettes. The two signal-callers share a past as former teammates, adding a subplot to what is already a significant playoff matchup. Both teams earned their spots as division champions, meaning each arrives with credentials and momentum. The game is being staged in Calgary, away from either team's home market. The Grey Cup remains one of Canadian sports' most prominent annual events, traditionally drawing significant viewership and sponsorship attention. The storyline of familiar quarterbacks facing off in a championship context provides narrative depth to a fixture that already carries the weight of national championship prestige.",
+      "summary": "The Edmonton Elks and Montreal Alouettes face off in the 113th Grey Cup in Calgary, featuring former teammates Davis Alexander and Cody Fajardo now leading opposing squads. This is the 12th classic between the two division rivals.",
+      "article": "The Edmonton Elks and Montreal Alouettes meet in the 113th Grey Cup championship match in Calgary, a fixture that reunites two veteran quarterbacks now on opposite sidelines. Davis Alexander leads the Alouettes after a season that culminated in divisional honours, while Cody Fajardo anchors the Elks' pursuit of a championship. The two signal-callers share professional history as former teammates, adding a layer of intrigue to the matchup. This marks the 12th Grey Cup meeting between the franchises, making it one of the most-played rivalries in the championship game's history. Montreal comes in as defending divisional champions, though the Elks earned their way to the final through Edmonton's own playoff run. Both teams have navigated injuries and roster turnover throughout the CFL season, and any late-game availability decisions could shift momentum. The Elks' defense will look to pressure Alexander and disrupt Montreal's rhythm, while the Alouettes' secondary must contend with Fajardo's experience in high-pressure moments. The championship kicks off in Calgary under conditions that could favour a ground-oriented attack, a factor both teams will need to account for in game planning.",
       "tweets": []
     },
     {
-      "category": "contracts",
-      "importance": 6,
-      "leadHeadline": "Raiders Got a $650K Bargain in Cousins. What Will Vikings Get?",
-      "leadSource": "Front Office Sports · 5h ago",
-      "leadUrl": "https://frontofficesports.com/article/raiders-got-a-650k-bargain-in-cousins-what-will-vikings-get/",
-      "summary": "Kirk Cousins is earning $650,000 from both the Raiders and the Vikings simultaneously, an unusual contract overlap. The arrangement raises questions about what the Vikings will ultimately pay for Cousins' services.",
-      "article": "Kirk Cousins is drawing $650,000 from both the Las Vegas Raiders and the Minnesota Vikings at present, creating a rare contractual situation where a player receives compensation from two NFL teams in the same calendar period. The Raiders apparently negotiated a favorable separation from Cousins that involves the team continuing to pay him a modest sum, while the Vikings have signed him to their own deal. This arrangement leaves open questions about the full financial commitment each franchise will make and the long-term salary-cap implications for Minnesota. The overlap illustrates how the NFL's contract mechanics can create unusual scenarios when teams part ways with quarterbacks before the end of a deal's stated term. For a franchise acquiring a veteran quarterback, the total cost includes both the new contract and any residual payments from the prior team, a dynamic that affects how much real salary-cap room a move actually consumes.",
-      "tweets": []
-    },
-    {
-      "category": "media",
+      "category": "leagues",
       "importance": 5,
-      "leadHeadline": "Making the stats count: Blending data and storytelling on YES Network",
-      "leadSource": "Sports Media Watch · 4h ago",
-      "leadUrl": "https://www.sportsmediawatch.com/2026/11/yes-network-statistics-storytelling-yankees-broadcasts/",
-      "summary": "The YES Network is integrating data analytics and graphics into its broadcast storytelling, distinguishing meaningful insights from statistical noise. The focus is on creating graphics that genuinely illuminate the action rather than clutter the screen.",
-      "article": "Sports broadcasts rely heavily on on-screen graphics to enhance storytelling, but not all graphics are equally useful. The YES Network has undertaken an effort to blend data analytics with broadcast narrative, aiming to separate genuine insight from statistical clutter. The network is evaluating which graphics actually illuminate play and context for viewers versus which ones merely add visual noise. This approach reflects a broader industry trend of trying to balance the desire to display data with the risk of overwhelming audiences with information that doesn't deepen understanding of the game. Producers and analysts on YES are collaborating to identify the statistics and visualizations that genuinely enhance a viewer's appreciation of what is unfolding on the court or field. This work is part of the larger conversation in sports media about how to effectively communicate advanced analytics to mainstream audiences without sacrificing clarity or narrative flow.",
+      "leadHeadline": "Final whistle a blessing as Scotland edge dull Test against Australia",
+      "leadSource": "BBC Sport · 3h ago",
+      "leadUrl": "https://www.bbc.co.uk/sport/rugby-union/articles/cmd91np3pqk0o?at_medium=RSS&amp;at_campaign=rss",
+      "summary": "Scotland defeated Australia in a Nations Championship rugby test at Murrayfield in a match defined by defensive grind and limited offensive creativity. The victory gives the Scots bragging rights in a fixture that lacked the flowing play fans expect.",
+      "article": "Scotland edged Australia in a Nations Championship rugby test at Murrayfield, a victory that came through defensive resolve rather than attacking flair. The match was characterized as dull by observers, with both teams prioritizing set-piece execution and field position over the running rugby that typically defines the competition at its best. Scotland's disciplined defense contained the Wallabies' attacking thrust, while the home side's lineout and scrum provided the foundation for their narrow margin. Australia, despite their touring credentials and recent form, struggled to find rhythm and cohesion in Edinburgh's cool conditions. The result underscores Scotland's ability to win tight fixtures despite not playing their best rugby, a trait that could prove valuable in knockout stages. Both squads rotate personnel aggressively in November windows, meaning the absence of some star names from each starting XV meant neither side showcased their full attacking arsenal. The fixture serves as a building block for both nations ahead of their respective Six Nations campaigns in the spring.",
       "tweets": []
     },
     {
-      "category": "media",
-      "importance": 5,
-      "leadHeadline": "NHL reportedly seeking as much as double current rights fee",
-      "leadSource": "Sports Media Watch · 1d ago",
-      "leadUrl": "https://www.sportsmediawatch.com/2026/11/nhl-media-rights-espn-skydance-tnt-money-games-preliminary-talks/",
-      "summary": "The NHL is pursuing a 50-100 percent increase in U.S. media rights fees for its next deal, potentially attracting new partners and expanding game availability. The move reflects the league's confidence in its broadcast value.",
-      "article": "The NHL is entering its next media rights negotiation with ambitious targets, seeking to increase total U.S. fees by 50 to 100 percent above current levels. Per CNBC reporting, the league's ask could reshape the broadcast landscape by attracting additional partners and potentially resulting in more games on air across multiple platforms. ESPN is expected to remain a major player, but the higher fee structure may open the door for other networks to join the rights package. A significant increase in rights fees would provide the league with substantially more revenue for distribution to teams and players. The negotiation reflects the NHL's assessment of its market position relative to other major sports properties and streaming demand for hockey content. The outcome will likely influence how many games appear on traditional television versus streaming platforms and which networks have the financial capacity to bid for portions of the package.",
+      "category": "leagues",
+      "importance": 4,
+      "leadHeadline": "LSU's Playoff Hopes Gone in First Year of $91M Kiffin Era",
+      "leadSource": "Front Office Sports · 4h ago",
+      "leadUrl": "https://frontofficesports.com/article/lsu-lane-kiffin-playoff-spending/",
+      "summary": "Lane Kiffin's first season at LSU has crumbled with four losses already, eliminating the Tigers from College Football Playoff contention before the season concludes. The high-profile hire faces unexpected pressure as LSU's offensive strategy hasn't translated into wins.",
+      "article": "Lane Kiffin's marquee hire at LSU has unraveled faster than either party anticipated. With four losses already on the ledger, the Tigers are mathematically eliminated from College Football Playoff contention despite the school's nine-figure investment in Kiffin's offense and staff. Kiffin arrived at LSU with a mandate to transform the program's offensive output and championship pedigree, but inconsistent quarterback play and defensive vulnerabilities have derailed those ambitions in Year One. The Tigers' remaining schedule offers little relief, as LSU faces stiffer SEC competition and has already exhausted the margin for error that comes with a playoff pipeline. Kiffin's track record includes success at other programs, but his early LSU tenure has collided with the competitive reality of SEC football, where depth and execution at elite levels are non-negotiable. The loss of playoff eligibility doesn't necessarily signal a broader failure, as Kiffin could use the final weeks to build a foundation for future seasons. However, it underscores the risk in hiring a coach known for offensive innovation when roster-level talent and defensive infrastructure are prerequisites for conference success. LSU will need to salvage bowl eligibility and use the spring and summer to overhaul personnel and schemes.",
       "tweets": []
     }
   ],
@@ -2396,90 +2404,102 @@
   "ticket_prices": [],
   "sidebar": [
     {
-      "headline": "Hot seat watch: Dabo Swinney, Lincoln Riley among coaches reigniting buzz after poor Week 11 showings",
-      "source": "CBS Sports · just now",
-      "article": "Week 11 brought crushing losses that may have reset the job security equation for several college football head coaches. Dabo Swinney and Lincoln Riley are among the names generating speculation about their futures, though massive buyout figures complicate any potential movement. Playoff dreams evaporated for teams that were supposed to compete at the highest level, leaving fan bases frustrated and athletic departments under pressure. The conversation around these coaches reflects the volatility of the sport and the difficulty of managing expectations over a full season. However, the financial commitments universities have made to sitting coaches create a structural barrier to immediate change, meaning that even underperforming coaches often have job security measured in years rather than weeks."
+      "headline": "Jets QB Geno Smith Exits with Concussion Against Bills",
+      "source": "NY Post Sports · just now",
+      "article": "New York Jets quarterback Geno Smith left Sunday's game against Buffalo with a concussion after absorbing a significant hit late in the first half. Rookie Cade Klubnik took over the offense in Smith's absence. The severity of Smith's injury remains under evaluation, but concussions in the NFL typically require a multi-day protocol before clearance to return. The loss of Smith, even temporarily, forces the Jets to accelerate Klubnik's integration into game situations earlier than originally planned. Buffalo's defense had been targeting Smith's mobility throughout the afternoon. The Jets face a critical decision on starter availability heading into the final stretch of the season with playoff positioning still in flux. Further testing will determine Smith's status for Week 11."
     },
     {
-      "headline": "Week 10 Fantasy football injuries: Emmett Johnson a must-start with Kenneth Walker out",
-      "source": "CBS Sports · just now",
-      "article": "Kenneth Walker's groin injury has opened the door for Emmett Johnson to assume a larger role in the team's backfield for Week 10. Fantasy managers should prioritize Johnson as a must-start option with Walker sidelined. Groin injuries carry variable timelines, and it remains unclear when Walker will return to full availability. Johnson's opportunity to carry increased volume makes him a high-priority addition for fantasy rosters trying to stay competitive. The injury reinforces the importance of having depth at the running back position, a lesson that plays out repeatedly across every fantasy football season. Monitor Walker's status through the week, but for this weekend, Johnson is the clear play."
+      "headline": "Syracuse vs. St. Johns: Kiyan Anthony's Big MSG Test",
+      "source": "NY Post Sports · just now",
+      "article": "Kiyan Anthony, the sophomore guard at Syracuse, faces his biggest test to date as the Orange visit St. Johns at Madison Square Garden. Anthony has emerged as a key playmaker for Syracuse this season, and the MSG stage amplifies the significance of the matchup. All eyes will be on the guard as he navigates a packed arena against a fierce rival. St. Johns has built a roster capable of competing in the Big East, and the home crowd will provide energy throughout the game. Anthony's performance in high-pressure environments like MSG could shape perceptions of his pro prospects long-term. The Orange need a road victory to maintain their tournament credentials, and Anthony's scoring and playmaking will be central to that outcome."
     },
     {
-      "headline": "Steelers vs. Bengals Sunday Night Football Week 10 Top Picks",
-      "source": "Deadspin · 3h ago",
-      "article": "Pittsburgh and Cincinnati are tied atop the AFC North at 6-2, setting up a Sunday Night Football showdown with major divisional implications. The Steelers are being offered as road underdogs, a position worth considering given their recent performance and depth on both sides of the ball. Road underdogs in division play often provide value when teams are closely matched in talent and experience. Both franchises have been consistent performers at the top of the AFC North for years, meaning the team getting points has earned that status through real performance metrics rather than mere reputation. The betting market's respect for Cincinnati at home is evident in the Steelers getting points, but Pittsburgh has the personnel and coaching to compete in any environment."
+      "headline": "Rory McIlroy Dedicates Record-Equalling Win to Ill Father",
+      "source": "BBC Sport · 8h ago",
+      "article": "Rory McIlroy claimed his record-equalling eighth Race to Dubai title with an emotional victory, dedicating the win to his father, Gerry, who is currently ill. McIlroy was visibly moved after securing the honor, wiping away tears as he reflected on the personal significance of the moment. The achievement ties McIlroy with the previous record holder in the storied European Tour event, cementing his status among the tour's all-time greats. McIlroy's performance throughout the season demonstrated consistency and determination, hallmarks of his career-long pursuit of major honors. The win underscores the emotional weight behind professional golf achievements, where personal circumstances often intersect with athletic performance. McIlroy's father has been a steadying influence throughout his career, and the tribute resonated deeply with observers."
     },
     {
-      "headline": "NBA Picks Today: Two Totals to Target on Sunday's Slate",
-      "source": "Deadspin · 3h ago",
-      "article": "Nine NBA games populate Sunday's slate, with two totals standing out as picks to target. The Spurs and Jazz matchup should clear the total, while the Knicks-Raptors game is positioned to stay under. Taking specific plays on specific games requires understanding team pace, defensive efficiency, and player availability on any given night. The Spurs and Jazz typically play at paces that support higher scoring outputs, while New York and Toronto have leaned into slower, more defensive-minded basketball. These picks reflect season-long trends rather than one-off anomalies, though injuries and starting lineups can shift totals in either direction."
+      "headline": "Steelers-Bengals AFC North Showdown Looms in Week 10",
+      "source": "NY Post Sports · just now",
+      "article": "Pittsburgh and Cincinnati sit atop the AFC North at 6-2 each as they prepare for Sunday Night Football, a matchup that carries divisional and playoff positioning implications. The Steelers are road underdogs despite being tied in wins, a valuation that offers betting appeal for contrarian takes. Cincinnati's offensive firepower through Ja'Marr Chase has been tempered by inconsistent execution, while Pittsburgh's defense has remained a stabilizing force. The road environment in Cincinnati presents a crowd-noise challenge, but the Steelers' veteran pedigree in primetime slots gives them comfort. Defensive matchups will determine the outcome: Pittsburgh's secondary versus Cincinnati's receivers could prove decisive. The winner gains separation in the division race with six weeks remaining."
     },
     {
-      "headline": "The UFC is hard to like. Kayla Harrison shows why it's harder to dismiss",
-      "source": "The Guardian · 7h ago",
-      "article": "Dana White's UFC is a company that squeezes fighters, bullies journalists, and maintains complicated relationships with political figures. Yet it has also provided Olympic athletes like Kayla Harrison with a path to money and fame that didn't exist in traditional sports. Harrison, an Olympic gold medalist in judo, found a career in MMA that rewarded her athletic pedigree and competitive drive in ways that amateur sports never could. The contradiction sits at the heart of the UFC's business model: the organization's ruthlessness toward fighters and media sits alongside genuine opportunity for athletes seeking commercial viability. That tension makes the UFC difficult to endorse categorically while simultaneously impossible to ignore. The company occupies a unique space in sports, offering pathways that other properties don't while maintaining practices that attract legitimate criticism."
+      "headline": "Making the Stats Count: YES Network Blends Data and Storytelling",
+      "source": "Sports Media Watch · 7h ago",
+      "article": "The YES Network has invested in graphics and data visualization that illuminate rather than obfuscate game action, setting a standard for how broadcast statistics can enhance storytelling. On-air presentation faces a constant tension between statistical noise and meaningful insights, requiring producers to curate carefully. YES has assembled a team dedicated to identifying which analytics tell the story of a game's competitive balance. From advanced metrics to traditional box-score numbers, the network filters information through a narrative lens. This approach resonates with viewers who want context and understanding alongside live action. The integration of data into broadcast storytelling requires both statistical literacy and editorial discipline. YES's model demonstrates that graphics can elevate rather than complicate viewer experience when designed with clarity and purpose."
     },
     {
-      "headline": "Banton pushes case and bowlers sparkle for inconsistent England",
-      "source": "BBC Sport · 6h ago",
-      "article": "Tom Banton scored a century as England's cricket team overwhelmed Australia in one-day competition, with Sonny Baker and Gus Atkinson impressing with the ball. England's batting and bowling performances were sharp, though the team's overall consistency remains a concern heading into future fixtures. Banton's century provides evidence of his credentials in the middle order, while the bowlers showed the control and movement that international teams depend on in limited-overs formats. Australia's batting faltered against the English attack, a sign that the home team's bowling combinations are working effectively. The win stands in isolation from some of England's murkier performances this season, making it difficult to assess whether this represents a turning point or another inconsistent result from a wildly variable squad."
+      "headline": "Judge Blocks Trump's Park Closure for Golf Project",
+      "source": "Front Office Sports · 2h ago",
+      "article": "A federal judge issued a temporary restraining order preventing Donald Trump from closing a public park to develop a golf-related project, keeping the park open for the next two weeks. The ruling requires the Trump organization to maintain public access while litigation proceeds on the merits of the closure. The temporary order reflects judicial skepticism of the proposed project's public-benefit claims. Trump's company has pursued various real-estate and hospitality ventures over the years, often encountering local opposition and regulatory scrutiny. This particular matter intersects property rights, public access, and commercial development in ways that courts have already found warrant closer examination. The two-week window provides time for additional legal briefing and potential settlement discussions. Environmental and community groups have mobilized against the closure, arguing the park serves a critical public function."
     }
   ],
   "poll": {
-    "question": "Who will win the AFC North divisional race: Steelers or Bengals?",
+    "question": "Will the NHL secure a 50-100% increase in its next U.S. media rights deal?",
     "options": [
-      "Pittsburgh Steelers",
-      "Cincinnati Bengals",
-      "Baltimore Ravens",
-      "Too close to call"
+      "Yes, cable/streaming competition will drive bidding up",
+      "Partial increase, 25-50%, as cord-cutting pressures valuations",
+      "No increase; rights fees will hold flat or decline",
+      "Uncertain until formal negotiations begin in 2025"
     ]
   },
   "predictions": [
     {
-      "statement": "The Lions finish Week 10 with a win over New England, extending their winning streak.",
-      "probability": 92,
-      "rationale": "Detroit held a 28-3 third-quarter lead against the Patriots, with Jahmyr Gibbs matching a franchise record. The Patriots have shown no offensive spark. A Lions victory is nearly certain barring an unprecedented collapse."
+      "statement": "The Lions win their division and secure a top-2 seed in the NFC playoffs.",
+      "probability": 72,
+      "rationale": "Detroit's 35-10 rout of a divisional opponent in a road game shows championship-caliber execution. They have the schedule strength and have beaten the teams that matter. Gibbs' breakout play provides a safety valve when playoff defenses tighten."
     },
     {
-      "statement": "The 49ers beat the Cowboys in Week 10's marquee matchup.",
-      "probability": 68,
-      "rationale": "San Francisco enters as a road favorite against a Dallas team struggling at 6-10 or worse, seeking their first .500 record since Week 4. Vegas respect for the 49ers' roster and current form suggests a higher win probability than a coin flip."
+      "statement": "Lane Kiffin lasts two more seasons at LSU before parting ways or taking another job.",
+      "probability": 58,
+      "rationale": "A first-year collapse in the SEC is catastrophic by LSU's standards. While Kiffin has historic offensive chops, the cultural fit and personnel gap are wider than anticipated. Two more years of missing playoffs makes the nine-figure investment untenable for the administration."
     },
     {
-      "statement": "The Steelers-Bengals game goes over the total despite road-underdog pricing on Pittsburgh.",
-      "probability": 55,
-      "rationale": "Both teams are 6-2 and have competing offensive weapons. AFC North division games at their best produce competitive scoring battles. The market may be slightly overvaluing Cincinnati's home-field advantage relative to the offensive talent on both sides."
+      "statement": "Thomas Tuchel's England wins the 2026 World Cup.",
+      "probability": 34,
+      "rationale": "Early form is promising and the squad's depth is genuine, but Tuchel has never won a club-level championship in his career. The Nations League provides a low-stakes testing ground, but World Cup pressure is categorically different. Spain and France remain favored."
     },
     {
-      "statement": "Rory McIlroy finishes the European golf season with another title before calendar year-end.",
-      "probability": 44,
-      "rationale": "McIlroy just won his eighth Race to Dubai title and is playing at an elite level. However, the season's late stage and international competition depth make back-to-back titles challenging even for top-ranked players. His emotional win may also signal a moment to regroup rather than extend."
+      "statement": "The NHL signs a new media deal worth $200M+ annually by mid-2026.",
+      "probability": 61,
+      "rationale": "ESPN's appetite for sports rights and the absence of a strong incumbent leverage in negotiations suggest the league will secure significant gains. Even a 50% increase over current terms would exceed $200M annually if baseline fees are in the $130-140M range."
     }
   ],
   "injuries": [
-    {
-      "player": "Kenneth Walker",
-      "team": "Seattle Seahawks",
-      "league": "NFL",
-      "position": "RB",
-      "status": "OUT",
-      "injury": "Groin injury",
-      "timeline": null,
-      "source": "CBS Sports",
-      "impact": "Emmett Johnson assumes lead role in backfield and becomes a fantasy must-start option for Week 10.",
-      "storyIndex": 4
-    },
     {
       "player": "Drake Maye",
       "team": "New England Patriots",
       "league": "NFL",
       "position": "QB",
-      "status": "OUT",
-      "injury": "Injury during Munich game",
-      "timeline": null,
+      "status": "QUESTIONABLE",
+      "injury": "Injury (details under evaluation)",
+      "timeline": "Requiring further evaluation",
+      "source": "The Guardian",
+      "impact": "Rookie QB exit forces New England to accelerate contingency planning at signal-caller position in critical Week 10.",
+      "storyIndex": 2
+    },
+    {
+      "player": "Aidan Hutchinson",
+      "team": "Detroit Lions",
+      "league": "NFL",
+      "position": "DE",
+      "status": "DOUBTFUL",
+      "injury": "Lower-body injury sustained during play",
+      "timeline": "Under medical review",
+      "source": "Front Office Sports",
+      "impact": "Loss of $45M pass-rusher significantly impacts Lions' defensive line depth and playoff-run durability down the stretch.",
+      "storyIndex": 0
+    },
+    {
+      "player": "Geno Smith",
+      "team": "New York Jets",
+      "league": "NFL",
+      "position": "QB",
+      "status": "DAY_TO_DAY",
+      "injury": "Concussion from crushing hit",
+      "timeline": "Multi-day NFL concussion protocol",
       "source": "NY Post Sports",
-      "impact": "Patriots' Week 10 offense has struggled with poor execution, contributing to the 28-3 home loss to Lions.",
+      "impact": "Jets accelerate rookie Cade Klubnik's integration into game situations and face starter availability uncertainty for Week 11.",
       "storyIndex": 17
     }
   ],
@@ -5916,14 +5936,14 @@
       "_pendingGrade": true
     }
   ],
-  "updatedAt": "2025-11-09T16:45:00Z",
+  "updatedAt": "2024-11-10T16:45:00Z",
   "highlights": [
     {
       "league": "NBA",
-      "title": "Klay took a trip back to his QB days (via Klay Thompson, via @ZachWeinberger/X)",
-      "videoId": "qGyAUIQRY9U",
-      "thumbnail": "https://img.youtube.com/vi/qGyAUIQRY9U/mqdefault.jpg",
-      "timeAgo": "2h ago",
+      "title": "AJ Dybantsa on Working Out with His Favorite Player Growing Up, Kevin Durant",
+      "videoId": "TQ-QHW3Kpwc",
+      "thumbnail": "https://img.youtube.com/vi/TQ-QHW3Kpwc/mqdefault.jpg",
+      "timeAgo": "1h ago",
       "isFallback": false
     },
     {
@@ -5931,14 +5951,14 @@
       "title": "Week 10 LIVE Fantasy Football Q&amp;A | Fantasy Focus Sunday Kickoff",
       "videoId": "kvNRJsZqLAI",
       "thumbnail": "https://img.youtube.com/vi/kvNRJsZqLAI/mqdefault.jpg",
-      "timeAgo": "3h ago",
+      "timeAgo": "1h ago",
       "isFallback": false
     },
     {
       "league": "MLB",
-      "title": "The BEST BALL BOY/BALL GIRL CATCHES from the 2026 season! 🧤 (Ft. leaps, dives &amp; MORE!)",
-      "videoId": "63lh_XUElp8",
-      "thumbnail": "https://img.youtube.com/vi/63lh_XUElp8/mqdefault.jpg",
+      "title": "Team Netherlands vs. Team Dominican Republic: Full Game (3/8/2026) | 2026 World Baseball Classic",
+      "videoId": "UPNb1pEbIY0",
+      "thumbnail": "https://img.youtube.com/vi/UPNb1pEbIY0/mqdefault.jpg",
       "timeAgo": "2h ago",
       "isFallback": false
     },
@@ -5947,7 +5967,7 @@
       "title": "IDENTICAL shootout goals by Kaner and Macklin 🤯",
       "videoId": "YYGMjMiKTvM",
       "thumbnail": "https://img.youtube.com/vi/YYGMjMiKTvM/mqdefault.jpg",
-      "timeAgo": "4h ago",
+      "timeAgo": "6h ago",
       "isFallback": false
     },
     {
@@ -5963,11 +5983,115 @@
       "title": "Who was Leo talking to? 🗣️ (via MLS on Apple TV)",
       "videoId": "R0lKthrdiP8",
       "thumbnail": "https://img.youtube.com/vi/R0lKthrdiP8/mqdefault.jpg",
-      "timeAgo": "3h ago",
+      "timeAgo": "5h ago",
       "isFallback": false
     }
   ],
   "reels": [
+    {
+      "league": "NBA",
+      "title": "AJ Dybantsa on Working Out with His Favorite Player Growing Up, Kevin Durant",
+      "videoId": "TQ-QHW3Kpwc",
+      "author": "NBA",
+      "pubDate": "2026-11-15T19:15:37+00:00",
+      "link": "https://www.youtube.com/watch?v=TQ-QHW3Kpwc"
+    },
+    {
+      "league": "NBA",
+      "title": "LeBron Didn’t Even Need to Look 👀",
+      "videoId": "8eL66slrDik",
+      "author": "NBA",
+      "pubDate": "2026-11-15T19:14:46+00:00",
+      "link": "https://www.youtube.com/watch?v=8eL66slrDik"
+    },
+    {
+      "league": "NFL",
+      "title": "Week 10 LIVE Fantasy Football Q&amp;A | Fantasy Focus Sunday Kickoff",
+      "videoId": "kvNRJsZqLAI",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-11-15T19:07:30+00:00",
+      "link": "https://www.youtube.com/watch?v=kvNRJsZqLAI"
+    },
+    {
+      "league": "NBA",
+      "title": "The @spurs  have won 11 of their first 13 for the fourth time in franchise history",
+      "videoId": "QSPF_OrzsJQ",
+      "author": "NBA",
+      "pubDate": "2026-11-15T18:51:07+00:00",
+      "link": "https://www.youtube.com/watch?v=QSPF_OrzsJQ"
+    },
+    {
+      "league": "NBA",
+      "title": "When you become an NBA CHAMPION with your loved ones there to witness it 🥹🏆",
+      "videoId": "5IP0Pdz2h0Q",
+      "author": "NBA",
+      "pubDate": "2026-11-15T18:36:37+00:00",
+      "link": "https://www.youtube.com/watch?v=5IP0Pdz2h0Q"
+    },
+    {
+      "league": "NBA",
+      "title": "LeBron Had Other Plans… Maxey Was Wide Open 🎯",
+      "videoId": "BlBfPwX-YkY",
+      "author": "NBA",
+      "pubDate": "2026-11-15T18:33:29+00:00",
+      "link": "https://www.youtube.com/watch?v=BlBfPwX-YkY"
+    },
+    {
+      "league": "NBA",
+      "title": "Kyrie Irving Gets a Hero’s Welcome Back in Cleveland ❤️ (via Dallas Sports Journal)",
+      "videoId": "x0Ku3-CWBWk",
+      "author": "NBA",
+      "pubDate": "2026-11-15T18:29:50+00:00",
+      "link": "https://www.youtube.com/watch?v=x0Ku3-CWBWk"
+    },
+    {
+      "league": "NFL",
+      "title": "Does A Playoff BUST Make Jaguars Trade Meaningless?",
+      "videoId": "vtyzzVEElHQ",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-11-15T18:15:26+00:00",
+      "link": "https://www.youtube.com/watch?v=vtyzzVEElHQ"
+    },
+    {
+      "league": "NFL",
+      "title": "COACH'S CLICKER 🏈 Rex Ryan PROVES Josh Allen is the best red-zone QB of all time 😤 | NFL Countdown",
+      "videoId": "64iacFJ1LDU",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-11-15T18:01:51+00:00",
+      "link": "https://www.youtube.com/watch?v=64iacFJ1LDU"
+    },
+    {
+      "league": "MLB",
+      "title": "Team Netherlands vs. Team Dominican Republic: Full Game (3/8/2026) | 2026 World Baseball Classic",
+      "videoId": "UPNb1pEbIY0",
+      "author": "MLB",
+      "pubDate": "2026-11-15T18:00:01+00:00",
+      "link": "https://www.youtube.com/watch?v=UPNb1pEbIY0"
+    },
+    {
+      "league": "NFL",
+      "title": "Should the Titans STILL Build Around Cam Ward?!",
+      "videoId": "dKseH0qjG9c",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-11-15T17:48:07+00:00",
+      "link": "https://www.youtube.com/watch?v=dKseH0qjG9c"
+    },
+    {
+      "league": "NFL",
+      "title": "How many NFC North teams will make the playoffs? 👀",
+      "videoId": "4B7ys978P8E",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-11-15T17:38:27+00:00",
+      "link": "https://www.youtube.com/watch?v=4B7ys978P8E"
+    },
+    {
+      "league": "NFL",
+      "title": "'In the Air Tonight' by Phil Collins has a lasting impact on football and players 🎧 | NFL Countdown",
+      "videoId": "hQcm2s-lIjc",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-11-15T17:30:19+00:00",
+      "link": "https://www.youtube.com/watch?v=hQcm2s-lIjc"
+    },
     {
       "league": "NFL",
       "title": "Who you got in Texans vs. Browns?",
@@ -6001,52 +6125,12 @@
       "link": "https://www.youtube.com/watch?v=qGyAUIQRY9U"
     },
     {
-      "league": "NFL",
-      "title": "Joe Burrow has carved up zone defenses this year 😮‍💨",
-      "videoId": "oJ7KXP4NHKg",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-11-15T15:27:22+00:00",
-      "link": "https://www.youtube.com/watch?v=oJ7KXP4NHKg"
-    },
-    {
-      "league": "NFL",
-      "title": "Jerry Rice took the lesson of hard work from his dad and became an all-time Super Bowl performer 💪",
-      "videoId": "_si3Ka-nWWQ",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-11-15T15:21:43+00:00",
-      "link": "https://www.youtube.com/watch?v=_si3Ka-nWWQ"
-    },
-    {
-      "league": "NFL",
-      "title": "Last year, Steelers fans hosted a funeral for their defense, now they are top 5 in scoring defense 👀",
-      "videoId": "HtCeOMVFSGU",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-11-15T15:11:56+00:00",
-      "link": "https://www.youtube.com/watch?v=HtCeOMVFSGU"
-    },
-    {
       "league": "SOCCER",
       "title": "Who was Leo talking to? 🗣️ (via MLS on Apple TV)",
       "videoId": "R0lKthrdiP8",
       "author": "ESPN FC",
       "pubDate": "2026-11-15T15:00:35+00:00",
       "link": "https://www.youtube.com/watch?v=R0lKthrdiP8"
-    },
-    {
-      "league": "NFL",
-      "title": "I Scored a Touchdown: Jerry Rice's Super Bowl XXIII story | NFL on ESPN",
-      "videoId": "ax1M_P2W57Y",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-11-15T15:00:04+00:00",
-      "link": "https://www.youtube.com/watch?v=ax1M_P2W57Y"
-    },
-    {
-      "league": "NFL",
-      "title": "Week 10 LIVE Fantasy Football Q&amp;A | Fantasy Focus Sunday Kickoff",
-      "videoId": "kvNRJsZqLAI",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-11-15T14:10:45+00:00",
-      "link": "https://www.youtube.com/watch?v=kvNRJsZqLAI"
     },
     {
       "league": "NHL",
@@ -6063,14 +6147,6 @@
       "author": "NBA",
       "pubDate": "2026-11-15T07:28:33+00:00",
       "link": "https://www.youtube.com/watch?v=wBWGQAdIMmw"
-    },
-    {
-      "league": "NBA",
-      "title": "NBA's Top 10 Plays of the Night | November 14, 2026",
-      "videoId": "sfnZqGhlJKI",
-      "author": "NBA",
-      "pubDate": "2026-11-15T06:15:35+00:00",
-      "link": "https://www.youtube.com/watch?v=sfnZqGhlJKI"
     },
     {
       "league": "NHL",
@@ -6119,46 +6195,6 @@
       "author": "NHL",
       "pubDate": "2026-11-15T05:33:37+00:00",
       "link": "https://www.youtube.com/watch?v=P-jlJNdDhXc"
-    },
-    {
-      "league": "NBA",
-      "title": "The Game Ends. The Brotherhood Doesn’t",
-      "videoId": "qySftRVPOPE",
-      "author": "NBA",
-      "pubDate": "2026-11-15T05:19:10+00:00",
-      "link": "https://www.youtube.com/watch?v=qySftRVPOPE"
-    },
-    {
-      "league": "NBA",
-      "title": "Giannis knew it was cash before it left his hands 💰",
-      "videoId": "kZXxOaRpjGY",
-      "author": "NBA",
-      "pubDate": "2026-11-15T05:15:41+00:00",
-      "link": "https://www.youtube.com/watch?v=kZXxOaRpjGY"
-    },
-    {
-      "league": "NBA",
-      "title": "EXTENDED: PISTONS at HEAT | FULL GAME HIGHLIGHTS | November 14, 2026",
-      "videoId": "YyTRQH2w-Ak",
-      "author": "NBA",
-      "pubDate": "2026-11-15T05:06:48+00:00",
-      "link": "https://www.youtube.com/watch?v=YyTRQH2w-Ak"
-    },
-    {
-      "league": "NBA",
-      "title": "Klay Thompson says Giannis has MAGIC JOHNSON-LIKE VISION after INSANE dime 🤯",
-      "videoId": "am4TINgcdGo",
-      "author": "NBA",
-      "pubDate": "2026-11-15T04:24:43+00:00",
-      "link": "https://www.youtube.com/watch?v=am4TINgcdGo"
-    },
-    {
-      "league": "NBA",
-      "title": "PISTONS at HEAT | FULL GAME HIGHLIGHTS | November 14, 2026",
-      "videoId": "X4Vj94oz9K4",
-      "author": "NBA",
-      "pubDate": "2026-11-15T04:15:48+00:00",
-      "link": "https://www.youtube.com/watch?v=X4Vj94oz9K4"
     },
     {
       "league": "NHL",
@@ -6271,22 +6307,6 @@
       "author": "MLB",
       "pubDate": "2026-11-14T16:00:24+00:00",
       "link": "https://www.youtube.com/watch?v=4vtfTA0Ls0k"
-    },
-    {
-      "league": "MLB",
-      "title": "3+ HOURS of ICONIC MLB Innings",
-      "videoId": "B4Oa5Yk1bcY",
-      "author": "MLB",
-      "pubDate": "2026-11-14T15:00:06+00:00",
-      "link": "https://www.youtube.com/watch?v=B4Oa5Yk1bcY"
-    },
-    {
-      "league": "NFL",
-      "title": "Is Precision Playmaking An Art That Makes Offenses ELITE?",
-      "videoId": "_Cv-MEy00Yw",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-11-14T14:00:13+00:00",
-      "link": "https://www.youtube.com/watch?v=_Cv-MEy00Yw"
     }
   ]
 }
