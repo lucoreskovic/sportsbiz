@@ -1,73 +1,81 @@
 {
   "clusters": [
     {
-      "category": "contracts",
+      "category": "media",
       "importance": 7,
-      "leadHeadline": "Jake Bauers signs four-year, $58 million deal with Red Sox after helping lead Brewers to World Series",
-      "leadSource": "CBS Sports · just now",
-      "leadUrl": "https://www.cbssports.com/mlb/news/jake-bauers-contract-red-sox-brewers-mlb-free-agency/",
-      "summary": "Jake Bauers signed a four-year, $58 million contract with the Red Sox after hitting 26 homers with the Brewers, who won the World Series.",
-      "article": "<cite index=\"1-1\">The Boston Red Sox signed first baseman Jake Bauers to a four-year, $58 million contract</cite>. <cite index=\"1-5\">Bauers hit .266 with 26 home runs and 86 RBIs in 2026, winning NLCS MVP on his way to a World Series title with the Brewers</cite>.\n\n<cite index=\"15-1\">The 31-year-old broke out this past season, with 26 home runs that more than doubled his previous career high of 12</cite>. <cite index=\"15-4,15-5\">He was named the NLCS MVP during Milwaukee's title run with a .286 effort in the four-game sweep of the Los Angeles Dodgers, driving in seven runs</cite>.\n\n<cite index=\"1-7,1-8\">Bauers never had more than 12 homers in his first six seasons before emerging as a power threat to help lead the Brewers to the World Series title</cite>. <cite index=\"2-5\">Multiple executives expected Bauers to accept the $23.15 million qualifying offer from the Brewers, but Boston signed him to the first long-term deal of his career</cite>.\n\n<cite index=\"2-6\">Bauers batted .266/.389/.484 with 26 home runs and 86 RBIs this season, leading the Brewers in home runs while ranking third in MLB in on-base percentage</cite>. <cite index=\"2-7\">The Red Sox ranked 23rd in runs scored this season</cite>. <cite index=\"5-1\">The signing marks the first major free agent signing of the offseason</cite>.",
+      "leadHeadline": "Portugal's new No 7 Forbs channels Ronaldo for winner as Wales are denied",
+      "leadSource": "The Guardian · just now",
+      "leadUrl": "https://www.theguardian.com/football/2026/nov/17/wales-portugal-nations-league-match-report",
+      "summary": "Carlos Forbs scored Portugal's 70th-minute winner in a 3-2 Nations League win over Wales Tuesday, the team's first victory since Cristiano Ronaldo retired, with the new No. 7 wearing a redesigned jersey bearing a line through the number to honor the former captain.",
+      "article": "<cite index=\"20-2\">Carlos Forbs gave Portugal its first win of the post-Cristiano Ronaldo era with a 70th-minute goal in Tuesday's 3-2 win over Wales</cite>, bouncing back from a heavy defeat days earlier. <cite index=\"22-5\">After a historic 4-1 home loss to Denmark on Saturday, Portugal badly needed to bounce back in Cardiff against a Wales team already sure of finishing bottom</cite>.\n\n<cite index=\"1-9\">Forbs, wearing the No. 7 shirt with a line across the number to honor Ronaldo, scored the winner in the 70th minute with smart movement to set up a low shot</cite>. The Club Brugge winger came off the bench and struck decisively, his first international goal proving decisive in a chaotic affair at Cardiff City Stadium.\n\nThe margin of victory felt harder-won than the scoreline suggested. <cite index=\"1-6,1-7\">Bruno Fernandes curled Portugal into the lead before David Brooks leveled within two minutes, then Sorba Thomas put Wales ahead on a rapid counter just before halftime with Pedro Neto equalizing</cite> moments later. <cite index=\"1-10\">Portugal looked like it might give the lead away again after Chelsea winger Neto was sent off for two reckless tackles in as many minutes, but Wales struggled to create many chances after that</cite>.\n\n<cite index=\"23-6,23-7\">Wales finished bottom of the UEFA Nations League A group and face a relegation play-off in March; Portugal advance to the quarter-finals as group winners</cite>.",
+      "tweets": [
+        {
+          "url": "https://twitter.com/DAZNPortugal/status/2122801450526912752",
+          "html": "<blockquote class=\"twitter-tweet\" data-dnt=\"true\" data-theme=\"dark\"><p>O novo 𝟳: CARLOS FORBS coloca Portugal na frente 🇵🇹 https://t.co/4a8QjuLBD1</p>&mdash; DAZN Portugal (@DAZNPortugal) <a href=\"https://twitter.com/DAZNPortugal/status/2122801450526912752\">November 17, 2026</a></blockquote>",
+          "author_name": "DAZN Portugal",
+          "author_url": "https://twitter.com/DAZNPortugal",
+          "dateMs": 1794950280000
+        }
+      ]
+    },
+    {
+      "category": "media",
+      "importance": 7,
+      "leadHeadline": "Tiger Woods to make golf return after two years at Hero World Challenge",
+      "leadSource": "The Guardian · 7h ago",
+      "leadUrl": "https://www.theguardian.com/sport/2026/nov/17/tiger-woods-return-hero-world-challenge-golf",
+      "summary": "Tiger Woods announced his return to competitive golf next month at the Hero World Challenge in the Bahamas, his first tournament since the 2024 Open Championship. Woods was arrested on a DUI charge earlier this year.",
+      "article": "Tiger Woods will return to competitive golf next month at the Hero World Challenge, the 20-man invitational event he hosts annually in the Bahamas. His announcement came via Instagram and marks his first tournament entry since the 2024 Open, a gap of roughly two years from the competitive course. Woods' last competitive round came at Royal Troon in July 2024, where he missed the cut. The return follows a DUI arrest earlier this year, an incident that added complexity to his comeback timeline. The Hero event is an unofficial tournament with a limited field, an intentional soft landing for a player whose injury history and recent legal issues have kept him sidelined. Woods has long used the Bahamas event as a testing ground, so the choice is both practical and strategic. At 49, Woods returns to a golf landscape that has shifted significantly: LIV has consolidated several rivals, the PGA Tour has absorbed pieces of LIV, and younger players have filled the vacuum his absence created. His presence at Hero will draw significant viewership regardless of his competitive standing, a reminder of his gravitational pull on the sport even after two years away from tournament play.",
       "tweets": []
     },
     {
       "category": "media",
       "importance": 6,
-      "leadHeadline": "On the Air: The case for keeping Buck and Aikman together",
-      "leadSource": "Sports Media Watch · just now",
-      "leadUrl": "https://www.sportsmediawatch.com/2026/11/on-the-air-case-keeping-buck-aikman-together-plus-dan-hicks/",
-      "summary": "ESPN chairman Jimmy Pitaro spoke publicly for the first time about the Joe Buck-Troy Aikman situation, addressing the high-profile rift between the network's lead NFL broadcast team at the Sports Business Journal Media Innovators event. Buck and Aikman continue to deliver strong performance despite the internal friction.",
-      "article": "ESPN chairman Jimmy Pitaro broke his silence on the Joe Buck-Troy Aikman situation for the first time, speaking at the Sports Business Journal Media Innovators event on Tuesday. His comments come as the two broadcasters have faced scrutiny over their professional relationship, even as they've remained paired as the network's lead NFL broadcast team.\n\nPitaro praised both Buck and Aikman for their on-air performance, acknowledging they continue to deliver strong work week to week. The chairman characterized the timing and handling of the broader situation as disappointing, suggesting ESPN's internal management of the matter had been less clean than ideal.\n\nBuck and Aikman have anchored ESPN's Monday Night Football coverage and playoff broadcasts with ratings that remain competitive in the crowded sports media landscape. Despite the reported tension, neither has demanded separation, and both continue to show up and perform at a high level. Pitaro's public remarks signal ESPN's commitment to keeping the pairing intact, at least through the current season.\n\nThe move suggests the network intends to manage the relationship internally rather than make a dramatic on-air change. It's a calculated bet that Buck and Aikman's chemistry as broadcasters outweighs whatever friction exists behind the scenes.",
+      "leadHeadline": "Pitaro: Buck-Aikman situation, timing, disappointing",
+      "leadSource": "Sports Media Watch · 5h ago",
+      "leadUrl": "https://www.sportsmediawatch.com/2026/11/pitaro-joe-buck-troy-aikman-situation-timing-disappointing/",
+      "summary": "ESPN chairman Jimmy Pitaro went on record about the Joe Buck and Troy Aikman broadcast rift for the first time, characterizing the situation and its timing as disappointing. Buck and Aikman remain ESPN's lead NFL broadcast team despite the tension.",
+      "article": "ESPN chairman Jimmy Pitaro broke his public silence on the Joe Buck and Troy Aikman situation Tuesday at the Sports Business Journal Media Innovators event, offering his first on-the-record assessment of a situation that has consumed sports media commentary for weeks. Pitaro's characterization was notably restrained: he called the situation and its timing disappointing, stopping short of detailed explanation or blame assignment. The remark represents a carefully calibrated statement from ESPN's leadership, acknowledging friction without inflaming it. Buck and Aikman remain ESPN's lead NFL broadcast booth and continue to deliver strong performances each week, according to Sports Media Watch's tracking. The two have worked seamlessly on air despite reported interpersonal tension, a professional compartmentalization that serves both the network and viewers. Pitaro's public comments suggest ESPN is managing the situation as a temporary turbulence rather than a structural crisis. The network has significant money invested in both voices and no clear incentive to dissolve a pairing that continues to rate well. What remains unresolved is whether the tension stems from contract negotiations, on-air dynamics, or something deeper—Pitaro's statement offered no clarity. The remark signals ESPN's intent to move past the soap opera and return focus to the product itself.",
       "tweets": []
     },
     {
       "category": "revenue",
       "importance": 6,
-      "leadHeadline": "CFP Expansion Is Pricey but ESPN Will Be Prudent With Sublicensing",
+      "leadHeadline": "3 Major Takeaways From Nike's Tepid Investor Day Forecast",
       "leadSource": "Sportico · 1h ago",
-      "leadUrl": "https://www.sportico.com/business/media/2026/college-football-expansion-pricy-espn-prudent-sublicensing-1234958671/",
-      "summary": "ESPN generated $18.6 billion in revenue during fiscal year 2026, up $960 million from the prior year, with the sports unit alone pulling in $12.8 billion in subscription and affiliate revenue, a 7% increase. The network is preparing for the financial impact of College Football Playoff expansion.",
-      "article": "ESPN posted $18.6 billion in total revenue for fiscal year 2026, a gain of $960 million compared to fiscal 2025, driven in part by a 7% uptick in distribution revenue. The sports unit specifically generated $12.8 billion in subscription and affiliate revenues, up from $11.94 billion the prior year.\n\nThe company is now navigating the financial demands of College Football Playoff expansion, which increases broadcast obligations and production costs significantly. Sportico reported that ESPN will approach sublicensing rights for the expanded format with discipline, seeking to offset incremental expenses through careful distribution of secondary windows and international packages.\n\nThe CFP expansion, which grows the playoff field and extends the number of broadcast windows, represents both a revenue opportunity and a cost driver. ESPN's willingness to invest reflects confidence in the property's value, particularly as networks compete for marquee college sports content. The 7% increase in affiliate and subscription revenue demonstrates that ESPN's portfolio remains strong enough to absorb new commitments.\n\nMeanwhile, the broader ecosystem question remains: whether expanded playoff content can command the same per-impression rates as traditional championship games. ESPN's cautious approach to sublicensing suggests the network is hedging against potential oversupply of college football inventory.",
+      "leadUrl": "https://www.sportico.com/business/commerce/2026/nike-investor-day-forecast-takeaways-1234958723/",
+      "summary": "Nike told investors at its Oregon headquarters Tuesday it doesn't expect to grow revenues for at least two years, the most detailed outlook in nearly a decade. The company's leadership was blunt about current shortcomings facing the world's largest sportswear manufacturer.",
+      "article": "Nike delivered a sobering outlook to investors Tuesday at its Tiger Woods Center headquarters in suburban Portland, projecting that revenues will remain flat for at least the next two years. The forecast marks a significant retrenchment from the company's historical growth trajectory and the most detailed guidance Nike has offered investors in nearly a decade. Nike's executive team was explicit about the headwinds: declining demand in key markets, inventory challenges, and competitive pressures from both established rivals and emergent direct-to-consumer brands. The company cited softening demand across North America and Europe, two regions that have historically delivered reliable margins. The outlook prompted frank discussion about Nike's current vulnerabilities, something the company typically guards in public settings. At a time when sports sponsorships, apparel partnerships, and athlete endorsements remain central to the sports business ecosystem, Nike's retrenchment signals potential ripple effects. The company remains the largest sportswear manufacturer globally but no longer carries the momentum that once made it virtually unchallenged. Competitors like Adidas, On Running, and direct-to-consumer players have captured market share. Nike's two-year flat-revenue projection suggests the company anticipates structural challenges rather than cyclical dips, a distinction that could reshape sponsorship negotiations and athlete contract discussions industry-wide.",
       "tweets": []
     },
     {
       "category": "labor",
       "importance": 5,
       "leadHeadline": "USA Swimming Tax Return Flags the Price of Leadership Turnover",
-      "leadSource": "Sportico · just now",
+      "leadSource": "Sportico · 4h ago",
       "leadUrl": "https://www.sportico.com/leagues/olympics/2026/usa-swimming-tax-return-2025-severance-1234958675/",
-      "summary": "USA Swimming paid former president and CEO Timothy Hinchey $800,000 in severance across 2024 and 2025 as the national governing body navigated a prolonged leadership transition. The second $400,000 tranche was disclosed in the organization's 2025 tax filing.",
-      "article": "USA Swimming spent $800,000 on severance for former president and CEO Timothy Hinchey across 2024 and 2025, according to the national governing body's latest tax filing for the calendar year ended December 31, 2025. The second half of the severance package, worth $400,000, was paid out in 2025 alone.\n\nThe payout reflects the complexity and cost of leadership transitions at large nonprofit sports organizations. USA Swimming faced a prolonged search for Hinchey's successor, extending the financial commitment required to manage the outgoing executive's departure. Such severance packages are common in nonprofit governance when leadership changes involve contested circumstances or extended notice periods.\n\nThe disclosure appears in USA Swimming's Form 990 filing, which the organization signed earlier this month. It underscores how significant personnel costs can be during periods of organizational instability. USA Swimming has since installed new leadership, but the $800,000 total severance represents real money that could have been directed toward athlete development, coaching advancement, or operational programs.\n\nFor a nonprofit entirely dependent on membership dues, television rights, and sponsorship revenue, large severance packages constrain discretionary spending in the year they occur. The scale of Hinchey's package suggests the organization valued a clean separation and an expedited transition over protracted conflict.",
+      "summary": "USA Swimming paid former president and CEO Timothy Hinchey $800,000 in severance across 2024 and 2025 as the national governing body navigated a prolonged succession process. The second $400,000 installment appeared in the latest tax filing.",
+      "article": "USA Swimming disclosed $800,000 in total severance payments to former president and CEO Timothy Hinchey across 2024 and 2025, according to the national governing body's most recent tax filing. The second half of the severance package, $400,000, was paid in 2025 as USA Swimming completed a complicated and extended search for Hinchey's successor. The payout reflects both the cost of leadership transition and the apparent complexity of Hinchey's departure. National governing bodies typically operate on tight budgets, so an $800,000 severance package represents a substantial outlay for an organization dependent on USOPC funding, sponsorship, and member fees. The protracted timeline for Hinchey's replacement suggests the organization faced challenges in identifying qualified candidates or resolving contractual obligations. USA Swimming has faced elevated scrutiny in recent years over governance, safeguarding protocols, and financial accountability. The sizable severance amid leadership turnover invites questions about whether the organization's budget and strategic planning were adequate during the transition. For athletes and coaches, the significance lies in whether this cost impacts funding for programs, coaching development, or elite-level support. The tax filing makes public what internal discussions likely treated as confidential, another reminder that transparency in NGO governance remains uneven and reactive rather than proactive.",
       "tweets": []
     },
     {
       "category": "leagues",
-      "importance": 4,
+      "importance": 5,
       "leadHeadline": "South Africa head coach Erasmus banned for six matches",
-      "leadSource": "BBC Sport · 3h ago",
+      "leadSource": "BBC Sport · 7h ago",
       "leadUrl": "https://www.bbc.co.uk/sport/rugby-union/articles/cj752w5q7z90o?at_medium=RSS&amp;at_campaign=rss",
-      "summary": "World Rugby suspended South Africa head coach Rassie Erasmus for six matches due to comments he made about match officials. The ban removes him from upcoming international fixtures during the enforcement window.",
-      "article": "World Rugby handed South Africa head coach Rassie Erasmus a six-match ban for public comments he made about match officials. The suspension comes as part of rugby's governance effort to regulate coaching conduct and protect the integrity of officiating.\n\nErasmus, who has led the Springboks to multiple tournament victories, now faces removal from the sideline for the specified period. The length of the ban underscores World Rugby's commitment to consistency in disciplinary action for coaching conduct violations.\n\nThe six-match suspension effectively removes Erasmus from South Africa's next block of Test matches, a significant penalty for a national program. It's the third major disciplinary action World Rugby has taken against coaching personnel in the last 18 months, signaling a toughening approach to public criticism of officials.\n\nSouth Africa will need to designate an interim head coach or assistant to manage the team during Erasmus's absence. The Springboks' performance during this period will be closely monitored as a test case for how well the program can function without its lead decision-maker.",
+      "summary": "World Rugby suspended South Africa head coach Rassie Erasmus for six matches over comments he made about match officials. The ban removes him from the Springboks' upcoming fixtures.",
+      "article": "World Rugby suspended South Africa head coach Rassie Erasmus for six matches following comments he made about match officials, a disciplinary action that removes him from the bench during a critical portion of the international calendar. The specific remarks that triggered the ban centered on Erasmus's public criticism of refereeing decisions, a persistent flashpoint in rugby governance over the past three years. Erasmus has been a polarizing figure in world rugby: his coaching achievements with South Africa include a Rugby Championship title and consistent competitiveness, but his public conflicts with referees and World Rugby have drawn repeated censure. The six-match suspension is significant for South Africa's immediate fixture schedule, particularly if the Springboks are navigating World Cup qualification or tournament play. The ban underscores World Rugby's effort to enforce standards around coach conduct and public criticism of officials, a threshold the sport has tightened in recent seasons. Erasmus will forfeit matchday presence and strategic involvement during the suspension, forcing his backroom staff to assume increased responsibility. The decision also signals that World Rugby considers Erasmus's pattern of behavior worthy of escalated discipline, moving beyond fines to competitive consequences. For South African rugby, the removal of the head coach from the bench during six matches creates a vacuum in real-time decision-making and team morale management at a time when the Springboks are competing in the demanding Test schedule.",
       "tweets": []
     },
     {
       "category": "media",
       "importance": 4,
-      "leadHeadline": "Trademark Battle Between WNBA Team and Rapper Finally Ends",
+      "leadHeadline": "RJ Luis Jr. could suit up for LSU as soon as Wednesday after protracted NCAA eligibility saga",
       "leadSource": "Front Office Sports · 1h ago",
-      "leadUrl": "https://frontofficesports.com/article/houston-comets-travis-scott-trademark-fight/",
-      "summary": "The Houston Comets will return to the WNBA next season, concluding a prolonged trademark dispute with a rapper over the team's historic name. The resolution clears the way for the franchise's re-entry into the league.",
-      "article": "The Houston Comets will return to the WNBA next season following the resolution of a trademark dispute that had stalled the franchise's expansion application. The legal battle centered on ownership of the Comets name and branding rights, which had been claimed by an unrelated party.\n\nThe Comets were the original WNBA dynasty, winning four consecutive championships from 1997 to 2000 and remaining one of the league's most storied franchises. After ceasing operations in 2008, Houston explored re-entry several times over the subsequent years, only to encounter the trademark obstacle.\n\nThe resolution of the naming rights dispute represents a victory for the WNBA's expansion ambitions in one of the country's major media markets. Houston is a basketball city with a strong NBA presence through the Rockets, and the Comets' return adds another professional team to the market.\n\nThe settlement terms were not disclosed, but the outcome signals that all parties found a path to coexistence. The Comets' return is expected to be announced formally at the WNBA's annual Board of Governors meeting. Houston's population and existing sports infrastructure should provide a stable foundation for the franchise.",
-      "tweets": []
-    },
-    {
-      "category": "media",
-      "importance": 3,
-      "leadHeadline": "NASCAR Cup Series Ratings Hit Record Low Amid New Media Deals",
-      "leadSource": "Front Office Sports · 1h ago",
-      "leadUrl": "https://frontofficesports.com/article/nascar-cup-series-ratings-hit-record-low-amid-new-media-deals/",
-      "summary": "NASCAR's top series posted its lowest television ratings on record as the sport navigates changes in its media distribution strategy. The decline reflects broader challenges facing motorsports viewership.",
-      "article": "NASCAR Cup Series television ratings hit an all-time low, according to viewership data reported by Front Office Sports. The decline coincides with the sport's implementation of new media distribution agreements that have altered how fans access races.\n\nThe ratings hit suggests that NASCAR's strategic shift in broadcast windows, channels, and streaming platforms may have fragmented the audience faster than anticipated. Media rights agreements signed in recent years moved certain races to cable and digital platforms, which has historically delivered lower ratings than traditional network broadcasts.\n\nNASCAR has been pursuing growth in younger demographics and digital engagement, a goal that conflicts somewhat with the core older audience that has traditionally driven television viewership numbers. The organization has emphasized that raw ratings don't capture the full picture of fan engagement, pointing instead to social media followers and streaming metrics.\n\nThe industry context matters: live sports television broadly has faced headwinds from cord-cutting, while NASCAR specifically has seen declining attendance at physical races over the last decade. The combination of media fragmentation and reduced in-person participation has made the aggregate viewership picture bleaker.\n\nNASCAR officials will likely argue that Nielsen ratings alone don't reflect digital consumption and that younger viewers engage through different metrics. Still, the record low underscores the organization's challenge in converting traditional television households into digital-first audiences.",
+      "leadUrl": "https://frontofficesports.com/article/lsu-rosters-ex-nba-player-after-protracted-ncaa-eligibility-saga/",
+      "summary": "LSU cleared ex-NBA player RJ Luis Jr. to join the roster after an extended eligibility process, allowing him to potentially debut as soon as Wednesday. The saga involved NCAA review of his prior professional experience.",
+      "article": "LSU cleared former NBA player RJ Luis Jr. to join the Tigers' roster after a protracted eligibility review, with the possibility of Luis suiting up as soon as Wednesday. The NCAA's decision to grant clearance came after an extended process evaluating Luis's prior professional playing time and contractual status. Luis represents an unusual case in modern college basketball: a player with professional experience attempting to leverage NCAA rules around eligibility windows and transfer portal regulations to continue his collegiate career. His path back to college basketball illustrates the increasing complexity of player movement across professional and amateur leagues, particularly as the transfer portal has opened new avenues for lateral moves and second chances. For LSU, Luis's arrival adds depth to a roster mid-season, though his integration and immediate impact depend on his fitness level and familiarity with the Tigers' system. The extended eligibility review signals that the NCAA remains cautious about professional players re-entering the amateur ranks, likely due to concerns about compensation, agent involvement, and competitive balance. Luis's debut, if it occurs Wednesday, will mark a small shift in how college basketball manages former professionals seeking amateur play.",
       "tweets": []
     }
   ],
@@ -2391,108 +2399,96 @@
     ],
     "source": "espn"
   },
-  "deals": [
-    {
-      "type": "extension",
-      "parties": "Jake Bauers ⇄ Boston Red Sox",
-      "value_usd": 58000000,
-      "term_years": 4,
-      "league": "MLB",
-      "headline": "Jake Bauers signs 4-year, $58M deal with Red Sox",
-      "storyIndex": 5,
-      "blurb": "Bauers, who hit 26 HRs in 2025 with Milwaukee, joins Boston on a mid-market free-agent contract.",
-      "capturedAt": "2026-11-17T19:29:06.078Z"
-    }
-  ],
+  "deals": [],
   "ratings": [],
   "ticket_prices": [],
   "sidebar": [
     {
-      "headline": "Tiger Woods to make golf return after two years at Hero World Challenge",
-      "source": "The Guardian · 4h ago",
-      "article": "Tiger Woods announced his return to competitive golf at next month's Hero World Challenge in the Bahamas, the unofficial event he hosts. Woods last competed at the Open in 2024 and has been away from tournament play for two years. He'll join a 20-man field alongside Rickie Fowler and other top players. The return comes after Woods was arrested on a DUI charge earlier this year, a legal matter he has not publicly addressed. The Hero World Challenge is an invitational format with no cut, allowing Woods to manage his playing schedule as he gauges his fitness and readiness for future competition."
-    },
-    {
-      "headline": "RJ Godfrey granted injunction to play for Arizona: Why the Wildcats biggest weakness is now solved",
-      "source": "CBS Sports · just now",
-      "article": "Arizona received a preliminary injunction from Pima County Superior Court allowing RJ Godfrey to play for the Wildcats immediately. Godfrey was previously ineligible but the court's decision clears him to debut against No. 3 UConn on Wednesday. The move addresses Arizona's most glaring roster weakness, adding depth and athleticism at a critical position. Coach Tommy Lloyd had identified the position group as an area needing reinforcement. The injunction marks a significant mid-season acquisition for a team aiming to compete in the NCAA tournament."
-    },
-    {
-      "headline": "Flames Huberdeau seeks more answers as he returns to action",
-      "source": "Sportsnet · 1h ago",
-      "article": "Jonathan Huberdeau is returning to action after undergoing hip resurfacing surgery, one of the most demanding recoveries in professional hockey. The Calgary Flames forward spent three months unable to skate during his rehabilitation, which he identified as the most difficult mental challenge. Hip resurfacing is a procedure typically performed on older athletes; at Huberdeau's age, it signals a career-defining decision to pursue a path unconventional in the NHL. His return will be closely monitored as a case study in modern sports medicine and recovery protocols."
-    },
-    {
       "headline": "Milwaukee Bucks Can't Stop Repeating the Same Mistakes",
-      "source": "Deadspin · 2h ago",
-      "article": "The Milwaukee Bucks have lost 10 straight games after blowing a 22-point lead against Atlanta. The losing streak underscores recurring offensive and defensive lapses that the new roster configuration has not yet corrected. Coach Doc Rivers will need to identify whether these are execution issues that time and repetition will fix or systemic problems requiring roster adjustment. The Bucks' championship window remains open if they can reverse course quickly, but continued struggles will force difficult decisions before the trade deadline."
+      "source": "Deadspin · 5h ago",
+      "article": "The Milwaukee Bucks have dropped 10 straight games after blowing a 22-point lead to the Atlanta Hawks, a collapse that underscores deeper roster construction issues. The Hawks erased the deficit in the second half, turning what should have been a morale-building victory into another losing effort. The Bucks' new-look roster has struggled to generate consistent defensive intensity, and crunch-time execution has repeatedly faltered. At 10 games under, Milwaukee's playoff picture has narrowed considerably. The question isn't whether they can still make the postseason; it's whether they can stabilize before the trade deadline forces desperate moves. Coach Doc Rivers faces mounting pressure, though the fundamental issue traces to roster fit rather than coaching adjustments."
+    },
+    {
+      "headline": "Tarik Skubal Next Team Odds: What Prediction Markets Say About MLB's Top Free Agent",
+      "source": "Deadspin · 4h ago",
+      "article": "Prediction markets are pricing Tarik Skubal's free agency, with four franchises emerging as top contenders for the two-time Cy Young winner. The market has tightened considerably since the offseason began, with specific odds reflecting each team's reported interest level. Skubal's availability represents one of the winter's marquee pitcher markets, drawing interest from both big-market and playoff-contending franchises. The two-time Cy Young Award winner commands significant leverage in negotiations, with his age (27) and injury history balanced against his elite strikeout rates. Prediction markets suggest a potential deal in the six-year, $150-plus million range, though Skubal's camp may push for higher guarantees. The eventual landing spot will shape playoff dynamics across multiple divisions."
     },
     {
       "headline": "Wayne Rooney says he considered taking his own life at Man Utd",
-      "source": "BBC Sport · 5h ago",
-      "article": "Wayne Rooney disclosed that he considered taking his own life during his playing days at Manchester United and has been working with a therapist to understand what happened. The revelation comes as Rooney, now retired from playing and working in management, opens up about his mental health struggles. He spoke about the pressures of elite-level football and the difficulty of processing those challenges while maintaining a public career. Rooney's willingness to discuss suicidal ideation represents a significant moment in professional football's growing conversation around player mental health and the support systems required."
+      "source": "BBC Sport · 9h ago",
+      "article": "Wayne Rooney disclosed during a recent interview that he considered taking his own life while at Manchester United, revealing struggles with mental health that persisted throughout his playing career. Rooney noted he has been working with a therapist to understand the root causes of his depression and anxiety. The disclosure adds Rooney to a growing roster of elite athletes speaking candidly about mental health challenges, breaking long-standing taboos in professional football. Rooney's willingness to discuss suicidal ideation represents a significant moment for sports culture, where silence around mental health has historically dominated. His comments come as football clubs incrementally increase mental health support infrastructure, though many argue the resources remain inadequate for elite performers facing immense pressure."
     },
     {
-      "headline": "Lee Reeves, boxer, dies at 31 after suffering injuries from horror KO",
-      "source": "NY Post Sports · just now",
-      "article": "Irish boxer Lee Reeves died at the age of 31, three months after suffering a knockout injury that put him in a coma. Reeves was a professional fighter competing at the highest levels of the sport. His death marks a tragic reminder of the inherent risks in boxing and the potentially severe neurological consequences of trauma sustained in the ring. It reignites the broader conversation about boxer safety, medical protocols, and the long-term health implications of concussive injuries in combat sports."
+      "headline": "Maple Leafs Bobrovsky to start, Rielly to return against Blackhawks",
+      "source": "Sportsnet · 5h ago",
+      "article": "Sergei Bobrovsky will start in net for the Toronto Maple Leafs against the Chicago Blackhawks on Tuesday, with defenseman Morgan Rielly returning from injury. The matchup represents a potentially pivotal contest for both clubs as they navigate mid-season roster adjustments. Bobrovsky's start could be his most important of the season given the Leafs' recent form and playoff implications. Rielly's return bolsters Toronto's blue line depth and penalty-kill unit. The Blackhawks visit Toronto looking to snap their own struggles, setting up a matchup between two franchises trending in opposite directions."
+    },
+    {
+      "headline": "Top storylines to watch for in second quarter of NHL season",
+      "source": "Sportsnet · 7h ago",
+      "article": "The NHL reaches its quarter mark, a checkpoint to assess early-season narratives and project second-half trajectories. Teams facing playoff pressure are evaluating whether roster adjustments or coaching changes are necessary before the trade deadline. The second quarter of the season often dictates trade deadline urgency: contenders solidify depth, strugglers either trade rental assets or commit to youth development. Goaltending injuries, emerging young players, and coaching stability remain central storylines across the league. The next 25 games will clarify which teams are legitimate contenders and which are headed toward lottery positioning."
+    },
+    {
+      "headline": "LSU guard MiLaysia Fulwiley not with team in first game since arrest",
+      "source": "CBS Sports · 1h ago",
+      "article": "LSU guard MiLaysia Fulwiley was not with the Tigers in their first game since her arrest, with coach Kim Mulkey declining to disclose her status or return timeline. Fulwiley, released on bond, faces five charges including flight from an officer, aggravated assault, and aggravated battery. Mulkey's silence on the matter follows her historical pattern of deferring personnel questions to administrators and legal counsel. The absence removes a rotation piece from LSU's backcourt and raises questions about whether Fulwiley will play this season or take a leave of absence. NCAA eligibility implications remain unclear pending resolution of the criminal charges."
     }
   ],
   "poll": {
-    "question": "Which storyline will have the biggest impact on 2026 sports business?",
+    "question": "Will Tiger Woods finish top 10 at the Hero World Challenge next month?",
     "options": [
-      "ESPN's expansion College Football Playoff investment and sublicensing strategy",
-      "Jake Bauers and the state of MLB free agency spending",
-      "Joe Buck-Troy Aikman broadcast tension and NFL media continuity",
-      "Tiger Woods' return and golf sponsorship/broadcast interest renewal"
+      "Yes, his game remains sharp despite the layoff",
+      "No, two years away is too long even for Tiger",
+      "He'll miss the cut—the rust will be obvious",
+      "He'll withdraw before the event for health reasons"
     ]
   },
   "predictions": [
     {
-      "statement": "ESPN will generate over $20 billion in total revenue by fiscal year 2027, sustained by CFP expansion and Hulu/Disney+ bundling.",
+      "statement": "Nike's flat-revenue guidance will trigger a pullback in athlete sponsorship deals, as the company tightens spending on endorsements and reduces annual contract escalators.",
+      "probability": 68,
+      "rationale": "Nike's forecast signals structural headwinds rather than cyclical dips. Athletes and agents negotiate against a company's stated growth trajectory. Flat revenues for two years typically translate to tighter annual budgets and renegotiation leverage shifting away from athletes. Major deals already on the books remain intact, but renewals and new signings will face significant friction."
+    },
+    {
+      "statement": "Portugal advances from their World Cup group despite Ronaldo's absence, with the new No. 7 and other attacking options stepping up to deliver consistent goalscoring.",
       "probability": 72,
-      "rationale": "The 7% affiliate revenue growth in FY2026 combined with new CFP inventory and streaming subscriber momentum suggests ESPN is approaching a structural inflection point. The network's ability to monetize college football at scale across multiple platforms makes this a likely trajectory."
+      "rationale": "Portugal's first post-Ronaldo win came via clinical finishing and defensive structure, not by-product of one player. The team qualified for the World Cup without depending entirely on Ronaldo's aging legs. If Forbs and the supporting cast continue converting chances inside the box as they did against Wales, Portugal has the infrastructure to reach the knockout round. Their group trajectory now depends on match execution rather than any single star."
     },
     {
-      "statement": "The Boston Red Sox's 2026 season will exceed pre-season expectations despite Bauers as the marquee free-agent addition.",
-      "probability": 58,
-      "rationale": "Bauers' breakout is real, but one mid-market free agent doesn't rebuild an offense. Red Sox need multiple additions. Early optimism tends to collapse if the front office doesn't follow through aggressively. Historical precedent: one contract rarely solves a team's problems."
+      "statement": "ESPN will publicly mediate the Buck-Aikman situation by mid-season through a formal meeting or policy memo, bringing explicit clarity to the two broadcasters and the audience.",
+      "probability": 44,
+      "rationale": "Pitaro's statement was notably vague, suggesting ESPN prefers to manage the situation quietly rather than escalate it. Public intervention would acknowledge deeper dysfunction. If Buck and Aikman continue delivering strong on-air performances, ESPN's incentive to intervene diminishes. However, if ratings dip or on-air tension becomes audible, the network will be forced to act. The vagueness of Pitaro's comments actually suggests ESPN wants the story to fade."
     },
     {
-      "statement": "Tiger Woods will play in at least three PGA Tour events by end of 2026 calendar year.",
-      "probability": 65,
-      "rationale": "The Hero World Challenge return suggests Woods has cleared significant physical hurdles. At 50, he's unlikely to return to competitive intensity, but the Hero event (no cut) is a low-pressure re-entry point. Three additional starts is conservative given his stated plans."
-    },
-    {
-      "statement": "NASCAR Cup Series ratings will stabilize or rebound in 2026 after hitting a bottom in 2025.",
-      "probability": 48,
-      "rationale": "Media fragmentation rarely reverses; audiences don't typically consolidate back to a single broadcast platform. NASCAR's digital-first bet may eventually work, but the transition period creates persistent headwinds. Recovery depends on younger demographic adoption, which is slower than hoped."
+      "statement": "Rassie Erasmus will file an appeal against his six-match suspension, citing unfair targeting compared to other coaches' prior public criticism of officials.",
+      "probability": 56,
+      "rationale": "Erasmus has challenged World Rugby decisions before and has a track record of pursuing legal and regulatory remedies. The six-match suspension is significant enough to warrant an appeal effort, especially given Erasmus's history of public defiance. World Rugby may reduce the ban on appeal, but whether they overturn it entirely is unlikely. The appeal process itself will generate continued media attention and reinforce the broader narrative of Erasmus versus rugby's establishment."
     }
   ],
   "injuries": [
     {
-      "player": "Stephen Curry",
-      "team": "Golden State Warriors",
-      "league": "NBA",
-      "position": "PG",
-      "status": "OUT",
+      "player": "Morgan Rielly",
+      "team": "Toronto Maple Leafs",
+      "league": "NHL",
+      "position": "D",
+      "status": "RETURNING",
       "injury": "Not specified",
       "timeline": null,
-      "source": "NY Post Sports",
-      "impact": "Warriors have suffered two consecutive blowout losses without Curry, forcing coaching staff to reassess offensive strategy and roster deployment.",
-      "storyIndex": 11
+      "source": "Sportsnet",
+      "impact": "Rielly's return strengthens Toronto's blue-line depth and penalty-kill unit after missing games.",
+      "storyIndex": 15
     },
     {
-      "player": "Jonathan Huberdeau",
-      "team": "Calgary Flames",
-      "league": "NHL",
-      "position": "LW",
-      "status": "RETURNING",
-      "injury": "Hip resurfacing surgery",
-      "timeline": "Returned to action after three-month recovery",
-      "source": "Sportsnet",
-      "impact": "Huberdeau's return adds experienced forward depth to Calgary's roster after undergoing one of the most demanding surgical recoveries in professional hockey.",
-      "storyIndex": 15
+      "player": "MiLaysia Fulwiley",
+      "team": "LSU",
+      "league": "OTHER",
+      "position": "G",
+      "status": "OUT",
+      "injury": "Not injured; legal status (criminal charges, released on bond)",
+      "timeline": null,
+      "source": "CBS Sports",
+      "impact": "Fulwiley's absence removes a rotation guard from LSU's backcourt; return timeline unclear pending criminal proceedings.",
+      "storyIndex": 14
     }
   ],
   "picks": [
@@ -5928,46 +5924,46 @@
       "_pendingGrade": true
     }
   ],
-  "updatedAt": "2026-04-23T00:00:00Z",
+  "updatedAt": "2026-04-23T18:45:00Z",
   "highlights": [
     {
       "league": "NBA",
       "title": "How many jerseys did you count?! 👀🔥 (via: aliciacs24/IG)",
       "videoId": "DXUK7D2BmoA",
       "thumbnail": "https://img.youtube.com/vi/DXUK7D2BmoA/mqdefault.jpg",
-      "timeAgo": "1h ago",
+      "timeAgo": "4h ago",
       "isFallback": false
     },
     {
       "league": "NFL",
-      "title": "Do the Patriots Have Any Chance Without Drake Maye?",
-      "videoId": "9-ew2Q0Wsno",
-      "thumbnail": "https://img.youtube.com/vi/9-ew2Q0Wsno/mqdefault.jpg",
-      "timeAgo": "1h ago",
+      "title": "Is Patrick Mahomes’ confidence in his receivers back? | NFL Live",
+      "videoId": "Ry4jev3FKQY",
+      "thumbnail": "https://img.youtube.com/vi/Ry4jev3FKQY/mqdefault.jpg",
+      "timeAgo": "Just now",
       "isFallback": false
     },
     {
       "league": "MLB",
-      "title": "Team Brazil vs. Team Great Britain: Full Game (3/9/2026) | 2026 World Baseball Classic",
-      "videoId": "aOWhjST1eLs",
-      "thumbnail": "https://img.youtube.com/vi/aOWhjST1eLs/mqdefault.jpg",
+      "title": "Team Colombia vs. Team Panama: Full Game (3/9/2026) | 2026 World Baseball Classic",
+      "videoId": "Bcgivqk2wN4",
+      "thumbnail": "https://img.youtube.com/vi/Bcgivqk2wN4/mqdefault.jpg",
       "timeAgo": "1h ago",
       "isFallback": false
     },
     {
       "league": "NHL",
-      "title": "Best NHL Goals of Week 7",
-      "videoId": "7fdcDsynFuI",
-      "thumbnail": "https://img.youtube.com/vi/7fdcDsynFuI/mqdefault.jpg",
-      "timeAgo": "2h ago",
+      "title": "Gavin McKenna 🤝 Patrick Kane highlights",
+      "videoId": "7ygVuwrz5YM",
+      "thumbnail": "https://img.youtube.com/vi/7ygVuwrz5YM/mqdefault.jpg",
+      "timeAgo": "Just now",
       "isFallback": false
     },
     {
       "league": "WNBA",
-      "title": "Caitlin Clark's Court Vision 👀 | WNBA Assists Week '26",
-      "videoId": "-cdIViY_QsE",
-      "thumbnail": "https://img.youtube.com/vi/-cdIViY_QsE/mqdefault.jpg",
-      "timeAgo": "1h ago",
+      "title": "Chicago Sky Set WNBA Season-High with 38 Assists vs. Portland | WNBA Assists Week '26",
+      "videoId": "n62sVfQ2n4Q",
+      "thumbnail": "https://img.youtube.com/vi/n62sVfQ2n4Q/mqdefault.jpg",
+      "timeAgo": "2h ago",
       "isFallback": false
     },
     {
@@ -5975,11 +5971,131 @@
       "title": "A young Marcus Rashford channeling his inner Brazilian 🪄⚽️ (via @marcusrashford/IG)",
       "videoId": "AXDxtYCsqIA",
       "thumbnail": "https://img.youtube.com/vi/AXDxtYCsqIA/mqdefault.jpg",
-      "timeAgo": "5h ago",
+      "timeAgo": "8h ago",
       "isFallback": false
     }
   ],
   "reels": [
+    {
+      "league": "NFL",
+      "title": "Is Patrick Mahomes’ confidence in his receivers back? | NFL Live",
+      "videoId": "Ry4jev3FKQY",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-11-17T22:32:29+00:00",
+      "link": "https://www.youtube.com/watch?v=Ry4jev3FKQY"
+    },
+    {
+      "league": "NHL",
+      "title": "Gavin McKenna 🤝 Patrick Kane highlights",
+      "videoId": "7ygVuwrz5YM",
+      "author": "NHL",
+      "pubDate": "2026-11-17T22:30:15+00:00",
+      "link": "https://www.youtube.com/watch?v=7ygVuwrz5YM"
+    },
+    {
+      "league": "NFL",
+      "title": "Liam Coen evaluates the Jaguars' success with Trevor Lawrence &amp; Travis Hunter! | The Pat McAfee Show",
+      "videoId": "jonbFrilVQw",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-11-17T22:25:14+00:00",
+      "link": "https://www.youtube.com/watch?v=jonbFrilVQw"
+    },
+    {
+      "league": "NFL",
+      "title": "Kyren Williams HYPES UP Ronnie Rivers' season-high highlights, GTA VI &amp; more | Big Day",
+      "videoId": "sQqFrAOkjAc",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-11-17T22:15:34+00:00",
+      "link": "https://www.youtube.com/watch?v=sQqFrAOkjAc"
+    },
+    {
+      "league": "NFL",
+      "title": "Fernando Mendoza first start BREAKDOWN: The GOOD &amp; where to improve | Move the Sticks",
+      "videoId": "tKrJAMSs95s",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-11-17T22:00:31+00:00",
+      "link": "https://www.youtube.com/watch?v=tKrJAMSs95s"
+    },
+    {
+      "league": "MLB",
+      "title": "Team Colombia vs. Team Panama: Full Game (3/9/2026) | 2026 World Baseball Classic",
+      "videoId": "Bcgivqk2wN4",
+      "author": "MLB",
+      "pubDate": "2026-11-17T22:00:10+00:00",
+      "link": "https://www.youtube.com/watch?v=Bcgivqk2wN4"
+    },
+    {
+      "league": "NFL",
+      "title": "Josh Hines-Allen on Jags' success with Liam Coen &amp; Trevor Lawrence | Rich Eisen Show",
+      "videoId": "qwYI8BfY1xc",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-11-17T21:43:59+00:00",
+      "link": "https://www.youtube.com/watch?v=qwYI8BfY1xc"
+    },
+    {
+      "league": "NFL",
+      "title": "Is the Ravens' season over? + Should Drew Lock continue to start for Seattle? 🤔 | NFL Live",
+      "videoId": "XZe6LnpVf_M",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-11-17T21:36:10+00:00",
+      "link": "https://www.youtube.com/watch?v=XZe6LnpVf_M"
+    },
+    {
+      "league": "NFL",
+      "title": "Thank you for your service, Philip Rivers 🙌",
+      "videoId": "Lb7KvNKvHkw",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-11-17T21:35:06+00:00",
+      "link": "https://www.youtube.com/watch?v=Lb7KvNKvHkw"
+    },
+    {
+      "league": "NFL",
+      "title": "Andrea Kremer's Water Broke Days Before SB XXXIV!! | The Biggest Game  #espn #nfl #superbowl",
+      "videoId": "Vf6wffNGb1k",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-11-17T21:30:37+00:00",
+      "link": "https://www.youtube.com/watch?v=Vf6wffNGb1k"
+    },
+    {
+      "league": "MLB",
+      "title": "20-year-old Freddie Freeman taking BP with his dad ❤️ 17 years later and his swing looks the same!",
+      "videoId": "B-JTyiUDdko",
+      "author": "MLB",
+      "pubDate": "2026-11-17T21:00:10+00:00",
+      "link": "https://www.youtube.com/watch?v=B-JTyiUDdko"
+    },
+    {
+      "league": "NHL",
+      "title": "Who can you find first: Gavin McKenna or Connor Bedard 🕵️",
+      "videoId": "pKsNLM4RlBI",
+      "author": "NHL",
+      "pubDate": "2026-11-17T20:30:10+00:00",
+      "link": "https://www.youtube.com/watch?v=pKsNLM4RlBI"
+    },
+    {
+      "league": "WNBA",
+      "title": "Chicago Sky Set WNBA Season-High with 38 Assists vs. Portland | WNBA Assists Week '26",
+      "videoId": "n62sVfQ2n4Q",
+      "author": "WNBA",
+      "pubDate": "2026-11-17T20:16:20+00:00",
+      "link": "https://www.youtube.com/watch?v=n62sVfQ2n4Q"
+    },
+    {
+      "league": "MLB",
+      "title": "2026 Fernando Tatis Jr. Highlights (ANOTHER 25+ home run season for the Padres superstar!)",
+      "videoId": "BgeiqcnOjN8",
+      "author": "MLB",
+      "pubDate": "2026-11-17T20:00:22+00:00",
+      "link": "https://www.youtube.com/watch?v=BgeiqcnOjN8"
+    },
+    {
+      "league": "NHL",
+      "title": "CANADIENS: Éviter de céder à la panique",
+      "videoId": "tHAv2CL9HR8",
+      "author": "NHL",
+      "pubDate": "2026-11-17T19:27:21+00:00",
+      "link": "https://www.youtube.com/watch?v=tHAv2CL9HR8"
+    },
     {
       "league": "NBA",
       "title": "How many jerseys did you count?! 👀🔥 (via: aliciacs24/IG)",
@@ -6011,14 +6127,6 @@
       "author": "NBA",
       "pubDate": "2026-11-17T18:43:30+00:00",
       "link": "https://www.youtube.com/watch?v=dDmKkhUjHrY"
-    },
-    {
-      "league": "NFL",
-      "title": "Do the Patriots Have Any Chance Without Drake Maye?",
-      "videoId": "9-ew2Q0Wsno",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-11-17T18:43:09+00:00",
-      "link": "https://www.youtube.com/watch?v=9-ew2Q0Wsno"
     },
     {
       "league": "NBA",
@@ -6061,14 +6169,6 @@
       "link": "https://www.youtube.com/watch?v=6bLvAMd8r5M"
     },
     {
-      "league": "NFL",
-      "title": "Stephen's A-List ranks the JAGUARS as the NFL's TOP TEAM through Week 10 😲 | First Take",
-      "videoId": "GR3-S_QS7qM",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-11-17T18:13:11+00:00",
-      "link": "https://www.youtube.com/watch?v=GR3-S_QS7qM"
-    },
-    {
       "league": "MLB",
       "title": "Team Brazil vs. Team Great Britain: Full Game (3/9/2026) | 2026 World Baseball Classic",
       "videoId": "aOWhjST1eLs",
@@ -6083,14 +6183,6 @@
       "author": "NHL",
       "pubDate": "2026-11-17T17:30:53+00:00",
       "link": "https://www.youtube.com/watch?v=7fdcDsynFuI"
-    },
-    {
-      "league": "NFL",
-      "title": "Seahawks QB Dilemma: Drew Lock Or Sam Darnold? 🤔",
-      "videoId": "v5ydmgFYgPE",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-11-17T17:30:37+00:00",
-      "link": "https://www.youtube.com/watch?v=v5ydmgFYgPE"
     },
     {
       "league": "MLB",
@@ -6109,38 +6201,6 @@
       "link": "https://www.youtube.com/watch?v=2v8SsI6Z2HY"
     },
     {
-      "league": "NFL",
-      "title": "'COWBOYS JUST STINK!' 🗣️ Pessimism growing in Dallas + Fernando Mendoza looks ENCOURAGING 👏 | Get Up",
-      "videoId": "tOZfXk3xRns",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-11-17T16:30:51+00:00",
-      "link": "https://www.youtube.com/watch?v=tOZfXk3xRns"
-    },
-    {
-      "league": "NFL",
-      "title": "Will the Vikings' defense or 49ers' offense have the edge in Week 11? 🧐 | First Take",
-      "videoId": "jeegwYvyCy0",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-11-17T16:23:00+00:00",
-      "link": "https://www.youtube.com/watch?v=jeegwYvyCy0"
-    },
-    {
-      "league": "NFL",
-      "title": "Do the Cowboys need to make a midseason move?",
-      "videoId": "2LvjcPOoWkY",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-11-17T16:16:03+00:00",
-      "link": "https://www.youtube.com/watch?v=2LvjcPOoWkY"
-    },
-    {
-      "league": "NFL",
-      "title": "Week 11 Waiver Wire Priority Adds: Cam Ward, Jordyn Tyson &amp; More | Fantasy Focus",
-      "videoId": "xAbGV32Ij-w",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-11-17T16:07:07+00:00",
-      "link": "https://www.youtube.com/watch?v=xAbGV32Ij-w"
-    },
-    {
       "league": "MLB",
       "title": "EVERY WALK-OFF from the 2026 season! 😯 (Ft. Epic home rus, completed comebacks and MORE!)",
       "videoId": "vHt9Bz2xw8Q",
@@ -6155,14 +6215,6 @@
       "author": "MLB",
       "pubDate": "2026-11-17T15:59:45+00:00",
       "link": "https://www.youtube.com/watch?v=m_WWS3rooL8"
-    },
-    {
-      "league": "NFL",
-      "title": "Jeff Saturday is taking the Niners in the matchup 👀",
-      "videoId": "k9x11ADMvsY",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-11-17T15:39:40+00:00",
-      "link": "https://www.youtube.com/watch?v=k9x11ADMvsY"
     },
     {
       "league": "SOCCER",
@@ -6205,14 +6257,6 @@
       "link": "https://www.youtube.com/watch?v=HYmpNp7ZV6E"
     },
     {
-      "league": "MLB",
-      "title": "Buster Posey and 13 more newcomers in the 2027 Baseball Hall of Fame ballot! 🤩 | MLB Highlights",
-      "videoId": "XuZRNKHT9lA",
-      "author": "MLB",
-      "pubDate": "2026-11-17T14:00:08+00:00",
-      "link": "https://www.youtube.com/watch?v=XuZRNKHT9lA"
-    },
-    {
       "league": "NBA",
       "title": "NBA's Nightly Recap | November 16, 2026",
       "videoId": "Iuykco0mBYQ",
@@ -6237,46 +6281,6 @@
       "link": "https://www.youtube.com/watch?v=50RVuTp8zUc"
     },
     {
-      "league": "NHL",
-      "title": "All out to close it out!",
-      "videoId": "2fa54tsDpuA",
-      "author": "NHL",
-      "pubDate": "2026-11-17T03:55:25+00:00",
-      "link": "https://www.youtube.com/watch?v=2fa54tsDpuA"
-    },
-    {
-      "league": "NHL",
-      "title": "Canadiens vs. Rangers | NHL Highlights | Nov 16, 2026",
-      "videoId": "vcfSNir6G5Y",
-      "author": "NHL",
-      "pubDate": "2026-11-17T03:45:32+00:00",
-      "link": "https://www.youtube.com/watch?v=vcfSNir6G5Y"
-    },
-    {
-      "league": "NHL",
-      "title": "Shaping hearts and minds! 🗽❤️💙",
-      "videoId": "TEQkvxaCQik",
-      "author": "NHL",
-      "pubDate": "2026-11-17T03:41:23+00:00",
-      "link": "https://www.youtube.com/watch?v=TEQkvxaCQik"
-    },
-    {
-      "league": "MLB",
-      "title": "FULL GAME: Max Scherzer pitches on short rest during Game 162! (Reds vs. Blue Jays)",
-      "videoId": "t7XScY_uIlo",
-      "author": "MLB",
-      "pubDate": "2026-11-17T02:00:33+00:00",
-      "link": "https://www.youtube.com/watch?v=t7XScY_uIlo"
-    },
-    {
-      "league": "MLB",
-      "title": "10 minutes of Pablo Sandoval MLB highlights! (3x World Series champ with the Giants) 🐼 Kung Fu Panda",
-      "videoId": "lPaMePDFu_g",
-      "author": "MLB",
-      "pubDate": "2026-11-17T00:00:06+00:00",
-      "link": "https://www.youtube.com/watch?v=lPaMePDFu_g"
-    },
-    {
       "league": "SOCCER",
       "title": "What to make of England's 3-2 victory over Spain 🏴󠁧󠁢󠁥󠁮󠁧󠁿 | ESPN FC",
       "videoId": "9HczSrBtYr8",
@@ -6291,14 +6295,6 @@
       "author": "ESPN FC",
       "pubDate": "2026-11-16T23:24:17+00:00",
       "link": "https://www.youtube.com/watch?v=SXvUnTpcCGc"
-    },
-    {
-      "league": "SOCCER",
-      "title": "REACTION to Vini Jr. saying the World Cup &amp; interest from clubs affected his season prep | ESPN FC",
-      "videoId": "16jgAdPJ51c",
-      "author": "ESPN FC",
-      "pubDate": "2026-11-16T23:20:07+00:00",
-      "link": "https://www.youtube.com/watch?v=16jgAdPJ51c"
     }
   ]
 }
