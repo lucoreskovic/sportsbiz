@@ -1,31 +1,13 @@
 {
   "clusters": [
     {
-      "category": "revenue",
-      "importance": 8,
-      "leadHeadline": "WNBA's LA Sparks Near Record $750 Million Sale to Feliciano, Jones",
-      "leadSource": "Sportico · 4h ago",
-      "leadUrl": "https://www.sportico.com/business/team-sales/2026/wnba-los-angeles-sparks-sale-feliciano-jones-1234958926/",
-      "summary": "Padres owners José E. Feliciano and Kwanza Jones are nearing a $750 million deal for the LA Sparks, more than double the WNBA record of $300 million.",
-      "article": "<cite index=\"1-5\">José E. Feliciano and his wife Kwanza Jones are near a deal to buy the LA Sparks for $750 million from Mark Walter</cite>, according to Sportico. <cite index=\"1-1\">The price is more than twice as much as the current record WNBA sale price</cite>. <cite index=\"20-4\">The previous WNBA franchise record of $300 million was set when Houston Rockets owner Tilman Fertitta bought the Connecticut Sun</cite>.\n\n<cite index=\"22-4,22-5\">Walter bought the Sparks for about $10 million in 2014 and is selling them for 75 times that</cite>. <cite index=\"22-8\">Walter wanted about $700 million for the team and its new practice facility when he put the Sparks up for sale</cite>.\n\n<cite index=\"20-1,20-3\">Feliciano and Jones completed their $3.9 billion purchase of the San Diego Padres</cite> in August. <cite index=\"1-9\">They are also minority investors in the Minnesota Timberwolves and have invested across sports through Dyal HomeCourt Partners, Arctos Sports Partners, Monarch Collective and Project Level</cite>. <cite index=\"1-8\">Representatives for the Sparks and Feliciano did not immediately respond to requests to comment</cite>.",
-      "tweets": [
-        {
-          "url": "https://twitter.com/Sportico/status/2123479358769709306",
-          "html": "<blockquote class=\"twitter-tweet\" data-dnt=\"true\" data-theme=\"dark\"><p>BREAKING:\n\nJosé E. Feliciano and his wife, Kwanza Jones, are near a deal to buy the Los Angeles Sparks for $750 million from Mark Walter.\n\nThis price would shatter the record for a WNBA franchise sale.\n\n@kbadenhausen with the story. https://t.co/vJk7TE6jrj</p>&mdash; Sportico (@Sportico) <a href=\"https://twitter.com/Sportico/status/2123479358769709306\">November 19, 2026</a></blockquote>",
-          "author_name": "Sportico",
-          "author_url": "https://twitter.com/Sportico",
-          "dateMs": 1795111906000
-        }
-      ]
-    },
-    {
       "category": "media",
       "importance": 7,
-      "leadHeadline": "Disney, Apple, also reportedly out of World Cup bidding",
-      "leadSource": "Sports Media Watch · 4h ago",
-      "leadUrl": "https://www.sportsmediawatch.com/2026/11/disney-apple-not-bidding-fifa-world-cup-skydance-netflix-fox-nbcu/",
-      "summary": "Disney and Apple have withdrawn from bidding for FIFA World Cup media rights for 2030 and 2034, joining Skydance in stepping back from the auction. The pullouts narrow the field of major bidders competing for the most valuable sports media package on Earth.",
-      "article": "Disney and Apple will not submit bids for the 2030 and 2034 FIFA World Cup rights, Alex Sherman of CNBC reported Thursday, joining Skydance in exiting the auction. The decision by two of the world's largest technology and media companies to pass on the World Cup signals either a reallocation of budget priorities or reluctance to meet FIFA's asking price for the two tournaments. Skydance's withdrawal was reported Wednesday, making it the first major production company to publicly decline. The World Cup remains the most-watched global sporting event, with 2022 Qatar coverage drawing nearly 1.5 billion viewers across all matches. FIFA is expected to demand record fees from the winning broadcaster given the tournament's unmatched scale and reach. With Disney, Apple and Skydance out, traditional broadcasters like Fox, NBC, and international players like Amazon Prime and potentially European networks remain as likely contenders. The shrinking bidder field could either compress final prices downward or signal that FIFA's valuation expectations have disconnected from media buyers' willingness to pay. The final bids are expected later this year.",
+      "leadHeadline": "Fox reportedly pairing with Univision for joint World Cup bid",
+      "leadSource": "Sports Media Watch · 2h ago",
+      "leadUrl": "https://www.sportsmediawatch.com/2026/11/fox-univision-world-cup-joint-bid-nbcuniversal-telemundo-passes-rights/",
+      "summary": "<cite index=\"21-1\">Fox and Univision submitted the only broadcast network bid for 2030 World Cup rights by Thursday's deadline</cite>, leaving streaming services Netflix, Amazon, and YouTube as the main competition.",
+      "article": "<cite index=\"21-1\">Fox Corporation and Univision submitted a joint bid for the 2030 FIFA World Cup, marking the only linear broadcasters who filed by Thursday's deadline</cite>. <cite index=\"2-5\">The bid will compete against Netflix, Amazon, and YouTube</cite>, making it broadcast television's last stand for the sport's crown jewel.\n\n<cite index=\"23-1\">Fox has held the rights for the past 11 years</cite>. <cite index=\"23-8\">The company paid $485 million for English-language 2026 rights; the Spanish counterpart Telemundo paid $600 million</cite>. <cite index=\"21-4\">Univision last carried the World Cup in 2014</cite>.\n\n<cite index=\"20-5\">Disney and Skydance previously decided against bidding</cite>, and <cite index=\"21-6\">NBCUniversal, which owns current Spanish-language partner Telemundo, also passed</cite>. <cite index=\"23-7\">An ESPN source said the network declined to bid \"because the economics did not make sense for the business.\"</cite>\n\n<cite index=\"26-8\">The 2030 tournament will be held in Spain, Portugal and Morocco</cite>. <cite index=\"13-7\">Media executives estimate the winning bid will come around $1.5 billion or higher</cite>. <cite index=\"4-9\">FIFA plans to announce a winner before year's end</cite>.",
       "tweets": [
         {
           "url": "https://twitter.com/wallstengine/status/2123486104775012791",
@@ -37,53 +19,63 @@
       ]
     },
     {
-      "category": "labor",
+      "category": "revenue",
       "importance": 6,
-      "leadHeadline": "Sources: Edvinsson passed on offer sheets to avoid staying in Detroit",
-      "leadSource": "Sportsnet · 5h ago",
-      "leadUrl": "",
-      "summary": "NHL defenseman Simon Edvinsson has declined multiple offer sheets because accepting them would allow Detroit to match, forcing him to remain with the Red Wings. The saga highlights how restricted free agency constrains player leverage in professional hockey.",
-      "article": "Simon Edvinsson has turned down offer sheets because he does not want to give the Detroit Red Wings a chance to match the contract, Sportsnet's Frank Seravalli reported Thursday. The restricted free agent defenseman, a first-round pick in 2021, has fielded competing offers but rejected them rather than risk Detroit retaining his rights. Under NHL rules, offer sheets can be matched by a player's current team, forcing the team to either match the new contract or lose the player to compensation. Edvinsson's refusal suggests either he and Detroit are actively negotiating an extension, or he is willing to hold his ground until the team meets his demands. The 24-year-old emerged as a key piece of Detroit's rebuild after a career-worst 2023-24 season that saw the team finish 29th in the league. If Edvinsson and Detroit reach an agreement, it would represent a significant retention win for a franchise that has been aggressive in locking up young talent. If talks stall, Edvinsson could again face offer sheets in future offseasons or push harder for a trade.",
+      "leadHeadline": "Dodgers owner Mark Walter set to sell Los Angeles Sparks for WNBA record $750m",
+      "leadSource": "The Guardian · 7h ago",
+      "leadUrl": "https://www.theguardian.com/sport/2026/nov/19/dodgers-owner-mark-walter-set-to-sell-los-angeles-sparks-for-wnba-record-750m",
+      "summary": "Mark Walter's Los Angeles Sparks are headed for a sale at a WNBA record $750 million to Chelsea owner Jose E. Feliciano and an investment group. The price, up from the $10 million Walter paid in 2014, reflects the league's surging valuations and media attention.",
+      "article": "Mark Walter is selling the Los Angeles Sparks for approximately $750 million, a WNBA record for a franchise sale. Chelsea owner Jose E. Feliciano is leading the acquisition group. Walter, who holds a controlling stake in the Los Angeles Dodgers, purchased the Sparks for $10 million in 2014 and is now exiting the investment after overseeing significant roster upgrades and marketing initiatives. The $750 million valuation marks a sevenfold increase in just over a decade and reflects the WNBA's explosive growth in sponsorship, media rights, and national viewership. The sale comes as the league has attracted interest from prominent ownership groups and seen its salary cap and player compensation rise sharply. Walter has been selling off several sports assets in recent years as he consolidates his portfolio. The Sparks have been one of the WNBA's marquee franchises and training ground for the league's emerging stars. The deal is expected to close later this year pending league approval. It underscores how the WNBA has become an increasingly attractive investment to billionaires previously focused on men's professional sports.",
       "tweets": []
     },
     {
       "category": "labor",
-      "importance": 6,
-      "leadHeadline": "Ravens' Season Is Spiraling, and Marlon Humphrey Just Made Things Worse",
-      "leadSource": "Deadspin · 5h ago",
-      "leadUrl": "https://deadspin.com/ravens-season-is-spiraling-and-marlon-humphrey-just-made-things-worse/",
-      "summary": "Baltimore cornerback Marlon Humphrey was deactivated following comments about the team's culture, as the Ravens endure a five-game losing streak and mounting injuries threatening playoff hopes. The move adds to an increasingly dysfunctional locker room amid a season unraveling.",
-      "article": "The Baltimore Ravens are navigating a five-game losing streak, a roster ravaged by injuries, and dimming playoff hopes after Marlon Humphrey was deactivated. Humphrey, a cornerstone defensive back and one of the team's veteran leaders, was benched following comments about Baltimore's handling of internal matters. The timing intensified scrutiny of the team's culture and cohesion as losses pile up. The Ravens' secondary is already threadbare with other defenders sidelined, making Humphrey's absence against upcoming opponents a compounding liability. The deactivation signals management's decision to prioritize message-sending over field impact during a season in rapid deterioration. Humphrey's public remarks about how the organization handles its own problems struck at the heart of organizational discipline, forcing the front office into a corrective posture. The Ravens' playoff window, once considered wide open in the offseason, is narrowing with each loss. How the team reconciles the deactivation with Humphrey's on-field value and veteran presence will shape both the remainder of this season and the locker room's morale heading into the offseason.",
-      "tweets": []
-    },
-    {
-      "category": "contracts",
       "importance": 5,
-      "leadHeadline": "NFL fans rip 'convenient' timing of Puka Nacua's suspension as Rams star sidelined",
-      "leadSource": "NY Post Sports · just now",
-      "leadUrl": "https://nypost.com/2026/11/19/sports/nfl-fans-fume-over-puka-nacua-serving-suspension-on-injured-reserve/",
-      "summary": "Los Angeles Rams wide receiver Puka Nacua was suspended three games for violating the NFL's personal conduct policy, coinciding with time already spent on injured reserve. Social media users have questioned the timing of the punishment.",
-      "article": "Puka Nacua was suspended three games for violating the NFL's personal conduct policy, with the suspension to run concurrent with his injured reserve status, the LA Rams announced. The All-Pro receiver will not miss additional playing time beyond his current IR placement, drawing immediate backlash from fans and observers who questioned the timing of a disciplinary action handed down while Nacua is unable to play anyway. The NFL did not specify details of the personal conduct violation. Nacua's IR assignment came after injuries limited his availability during the season. The simultaneous handling of the suspension and injury status prevented the Rams from losing additional snaps at a premier receiver position, a quirk that fueled social media criticism of the league's disciplinary calendar. The move freed the Rams' cap space while technically applying a penalty that carries minimal roster cost given Nacua's already-sidelined status. How long Nacua will remain on IR and when the suspension concludes are separate timelines the team will need to manage as the season progresses.",
+      "leadHeadline": "Mets sign southpaw Darwinzon Hernandez to three-year deal after stint in Japan",
+      "leadSource": "NY Post Sports · 1h ago",
+      "leadUrl": "https://nypost.com/2026/11/19/sports/mets-sign-southpaw-darwinzon-hernandez-to-three-year-deal-after-stint-in-japan/",
+      "summary": "The Mets signed left-handed pitcher Darwinzon Hernández to a three-year, $12 million contract following his time in Japan's professional league. The deal adds depth to the Mets' rotation ahead of the offseason.",
+      "article": "The New York Mets have signed left-handed pitcher Darwinzon Hernández to a three-year, $12 million deal, per the Post's Joel Sherman. Hernández, who spent time in Japan's professional league, joins the Mets as a depth addition to their rotation. The contract carries an average annual value of $4 million. Hernández has prior major league experience with the Philadelphia Phillies and other organizations, with a career ERA over 4.00. The signing reflects the Mets' strategy to add proven depth at modest cost rather than pursuing high-priced free agents in a crowded winter market. The left-handed reliever/starter option gives the club flexibility in both rotation depth and bullpen construction. The deal is a low-risk commitment on a pitcher with pedigree and international experience but whose recent performance has not commanded top-tier money.",
+      "tweets": []
+    },
+    {
+      "category": "labor",
+      "importance": 5,
+      "leadHeadline": "Rams' Puka Nacua Suspended for Three Games Under NFL's Conduct Policy",
+      "leadSource": "Front Office Sports · 5h ago",
+      "leadUrl": "https://frontofficesports.com/article/rams-puka-nacua-suspended-three-games-nfl-conduct-policy/",
+      "summary": "Los Angeles Rams wide receiver Puka Nacua has been suspended three games under the NFL's conduct policy, costing him $961,000 in salary. The suspension removes a key weapon from an offense already dealing with depth questions.",
+      "article": "Puka Nacua of the Los Angeles Rams has been suspended for three games under the NFL's personal conduct policy. The suspension will cost the wide receiver $961,000 in forfeited salary during his absence. Nacua has been a core target for Rams quarterback Matthew Stafford in recent seasons. The three-game suspension will sideline him during a critical stretch of the schedule, forcing the Rams to rely on secondary receiving options and running back depth. The NFL did not detail the specific conduct violation. Nacua's availability has been inconsistent in prior seasons due to injury, and the suspension adds another layer of roster disruption during an important competitive window. The Rams will need to adjust their offensive game plan to account for his absence and can consider elevating a practice squad receiver or adjusting role distribution among remaining pass catchers.",
       "tweets": []
     },
     {
       "category": "leagues",
       "importance": 4,
-      "leadHeadline": "House GOP leaders plan December push for Protect College Sports Act, acknowledge real challenges",
-      "leadSource": "CBS Sports · just now",
-      "leadUrl": "https://www.cbssports.com/college-football/news/house-gop-protect-college-sports-act/",
-      "summary": "Republican leadership aims to pass the Protect College Sports Act in December before the new Congress is sworn in January, but acknowledge significant legislative hurdles remain. The window to pass the bill before Democrats retake control is narrowing.",
-      "article": "House GOP leaders are planning a December push to pass the Protect College Sports Act before the new Congress convenes January 3, acknowledging that real challenges complicate the legislation's path to passage. The bill, which addresses name, image and likeness restrictions and other collegiate athlete compensation questions, requires both House and Senate approval within a compressed timeframe. Republican leaders conceded that the legislative lift is substantial and timeline is tight. If the bill stalls in the current Congress, it must restart from scratch when Democrats assume control, forcing sponsors to rebuild coalition support and re-argue the case. The measure has drawn support from some NCAA stakeholders and athlete advocates but faces opposition from other quarters over its scope and enforcement mechanisms. College sports have become an increasingly contested regulatory frontier after the NCAA's loss of antitrust challenges and state-level NIL legislation fragmented the landscape. The December deadline forces a binary outcome: either Congress acts decisively in the next few weeks or college sports regulation defaults back to a patchwork state and federal approach for at least two more years.",
+      "leadHeadline": "Nike Enters New Lane With Formula 1 Partnership",
+      "leadSource": "Sportico · 4h ago",
+      "leadUrl": "https://www.sportico.com/leagues/motorsports/2026/nike-formula-1-deal-details-sponsor-1234959003/",
+      "summary": "Nike will become the official outfitting partner of Formula 1 beginning in 2027 in a multi-year deal. The partnership marks the athletic giant's formal entry into global motorsport apparel.",
+      "article": "Nike will become the official outfitting partner of Formula 1 beginning in 2027, Sportico reported. The multi-year agreement marks the world's largest athletic gear company's formal entry into the sport's official apparel ecosystem. Nike will begin releasing a capsule collection of F1 products ahead of the 2027 season launch. The length and financial terms of the partnership were not disclosed. The deal signals Nike's ambition to expand beyond traditional team sports and into motorsport, a category where competitors including Puma and Sparco have long held sway. F1's global footprint and younger demographic appeal make it an attractive market for Nike's growth strategy. The partnership will cover driver suits, team apparel, and consumer merchandise available to fans worldwide. This follows F1's broader push to modernize its brand partnerships and reach audiences in markets beyond Europe and North America. Nike's entry suggests the sport continues to attract blue-chip corporate partners despite existing apparel relationships across the grid.",
       "tweets": []
     },
     {
-      "category": "media",
+      "category": "leagues",
       "importance": 3,
-      "leadHeadline": "Making Sense of Kalshi's Latest Appellate Court Loss",
-      "leadSource": "Sportico · 1h ago",
-      "leadUrl": "https://www.sportico.com/law/analysis/2026/kalshi-maryland-4th-circuit-ruling-decision-1234958963/",
-      "summary": "A divided federal appeals court ruled against Kalshi, finding that sports event prediction contracts are subject to state gambling laws, complicating the legal status of sports betting platforms. The decision featured competing judicial views on how to interpret federal wagering statutes.",
-      "article": "A three-judge panel of the U.S. Court of Appeals for the 4th Circuit ruled against Kalshi, finding its sports event contracts fall under state gambling regulation, according to Sportico. The decision featured two separate concurrences and a dissent, underscoring disagreement among jurists on how to interpret federal wagering law and its application to prediction markets. Kalshi, a platform specializing in event-based contracts tied to sports and political outcomes, challenged the classification on grounds that its products constitute financial derivatives rather than gambling. The court disagreed, leaving the company's business model in legal limbo pending potential further appeals or legislative clarity. The ruling complicates the landscape for emerging prediction market platforms seeking legitimacy and regulatory clarity. Sports betting has expanded dramatically across the U.S. following the 2018 Supreme Court decision striking down federal prohibitions on state-level betting, but prediction markets occupying a gray zone between financial instruments and gaming remain unsettled. Kalshi's options include appealing to the full 4th Circuit or Supreme Court, or pivoting its operations to align with state gambling frameworks. The decision illustrates how courts, absent clear congressional guidance, are still wrestling with where prediction markets fit in the broader sports and finance ecosystem.",
+      "leadHeadline": "LSU Backtracks on Rostering Ex-NBA Player",
+      "leadSource": "Front Office Sports · 3h ago",
+      "leadUrl": "https://frontofficesports.com/article/lsu-backtracks-on-rostering-ex-nba-player/",
+      "summary": "LSU's president has instructed the basketball coach not to play RJ Luis, an ex-NBA player, after initially clearing his roster spot. The reversal reflects ongoing questions over NCAA eligibility rules for former professionals.",
+      "article": "LSU's president has instructed head coach Will Wade not to play RJ Luis, an ex-NBA player who had been cleared to roster with the Tigers, per Front Office Sports. The reversal came after initial approval was granted for Luis to join the squad. The decision underscores the ongoing complexity surrounding NCAA eligibility determinations for players with prior professional experience. Luis had been expected to add depth to LSU's frontcourt but now will not see playing time. The exact reason for the reversal was not disclosed, though it suggests either a compliance concern or a re-examination of NCAA rules regarding former league professionals attempting returns to college ball. LSU's move to halt Luis's playing time, while keeping him on scholarship, is a middle-ground approach that avoids a full dismissal while sidelining him from competition. The situation highlights how NIL deals and transfer portal flexibility have created gray areas in amateur eligibility that athletic departments are still navigating.",
+      "tweets": []
+    },
+    {
+      "category": "leagues",
+      "importance": 2,
+      "leadHeadline": "Geno Auriemma blasts NIL payouts to player that hasn't dribbled the ball one time in college",
+      "leadSource": "NY Post Sports · 1h ago",
+      "leadUrl": "https://nypost.com/2026/11/19/sports/uconns-geno-auriemma-blasts-college-basketballs-nil-spending/",
+      "summary": "UConn coach Geno Auriemma criticized high-dollar NIL deals being given to high school recruits, particularly after his program signed only one top-10 player in No. 9 Sydney Savoury. His comments underscore growing frustration among coaches over NIL-driven recruiting inflation.",
+      "article": "UConn coach Geno Auriemma criticized the NIL ecosystem during a recent interview, specifically taking aim at six-figure and seven-figure deals being offered to high school recruits who have yet to play a college game. Auriemma noted the apparent disconnect between the money being invested in unproven prospects and the actual on-court performance those players deliver. UConn signed top-10 recruit Sydney Savoury (No. 9 overall) but missed out on other high-profile targets, a shortfall Auriemma attributed partly to NIL spending by other programs. His frustration reflects a broader coaching anxiety: NIL has inverted the traditional recruiting hierarchy, allowing programs with deep corporate connections to outbid traditional powerhouses on paper before a player ever steps on campus. Auriemma's critique is particularly pointed given UConn's storied women's basketball tradition and his own reputation, suggesting even blue-chip programs are feeling disadvantaged in an NIL arms race. The comments add pressure on the NCAA and conferences to establish clearer guardrails around NIL spending and high school recruitment, though no such framework currently exists at the national level.",
       "tweets": []
     }
   ],
@@ -2410,14 +2402,36 @@
   "deals": [
     {
       "type": "acquisition",
-      "parties": "Mark Walter ⇄ José E. Feliciano & Kwanza Jones",
+      "parties": "Mark Walter ⇄ Los Angeles Sparks (Jose E. Feliciano buyer group)",
       "value_usd": 750000000,
       "term_years": null,
       "league": "OTHER",
-      "headline": "Feliciano, Jones near $750M deal to acquire LA Sparks",
-      "storyIndex": 10,
-      "blurb": "Sparks sale at $750M is WNBA record valuation, up from $10M purchase in 2014.",
-      "capturedAt": "2026-11-19T22:31:30.079Z"
+      "headline": "Mark Walter to sell LA Sparks for WNBA-record $750M",
+      "storyIndex": 12,
+      "blurb": "Sparks valued at $750M, up from $10M purchase in 2014, reflects league's explosive growth in media and sponsorship.",
+      "capturedAt": "2026-11-20T03:48:28.130Z"
+    },
+    {
+      "type": "extension",
+      "parties": "New York Mets ⇄ Darwinzon Hernández",
+      "value_usd": 12000000,
+      "term_years": 3,
+      "league": "MLB",
+      "headline": "Mets sign Darwinzon Hernández to 3-year, $12M deal",
+      "storyIndex": 11,
+      "blurb": "Left-handed pitcher signed to $12M over three years after stint in Japan's professional league.",
+      "capturedAt": "2026-11-20T03:48:28.130Z"
+    },
+    {
+      "type": "apparel",
+      "parties": "Nike ⇄ Formula 1",
+      "value_usd": null,
+      "term_years": null,
+      "league": "OTHER",
+      "headline": "Nike becomes official F1 outfitting partner beginning 2027",
+      "storyIndex": 1,
+      "blurb": "Multi-year partnership marks Nike's formal entry into motorsport apparel, launching capsule collection in 2027.",
+      "capturedAt": "2026-11-20T03:48:28.130Z"
     }
   ],
   "ratings": [],
@@ -2425,64 +2439,64 @@
   "sidebar": [
     {
       "headline": "Kirk Cousins Has the Vikings Looking Like Super Bowl Contenders Again",
-      "source": "Deadspin · 7h ago",
-      "article": "Kirk Cousins has transformed Minnesota's offensive production after a career-long search for stability at quarterback. The Vikings dominated Green Bay in their most recent outing, showcasing a level of coordination and efficiency that had been absent from the roster for years. Cousins' decision to sign with Minnesota in free agency was met with skepticism from some corners, but the results on the field have silenced most doubters. The Vikings' defense remains formidable, and with Cousins operating an efficient passing game, Minnesota suddenly occupies the upper tier of Super Bowl contenders. The road is long and injuries can derail any championship run, but the trajectory is undeniably positive for a franchise that has been searching for quarterback sustainability since the Daunte Culpepper era."
+      "source": "Deadspin · 13h ago",
+      "article": "Kirk Cousins has transformed the Minnesota Vikings' offense, and the team suddenly looks like a legitimate Super Bowl contender after dominating Green Bay in a recent matchup. The veteran quarterback has stabilized a franchise that endured years of inconsistency at the position, delivering efficient play and clutch decision-making. Minnesota's defense remains stout, and the running game has found rhythm. The Vikings' resurgence comes at the perfect time, with the playoff race heating up and the NFC wide open. Cousins' contract carries risk given his age and injury history, but his early performance has quieted skeptics. The team's path to a Super Bowl runs through consistency over the final stretch of the season and health in January."
+    },
+    {
+      "headline": "Ravens' Season Is Spiraling, and Marlon Humphrey Just Made Things Worse",
+      "source": "Deadspin · 10h ago",
+      "article": "The Baltimore Ravens are mired in a five-game losing streak with mounting injuries and fading playoff hopes. Now cornerstone cornerback Marlon Humphrey is sidelined, removing a key piece from an already-struggling defense. The Ravens' season has unraveled after a strong start, and the loss of Humphrey during this critical stretch threatens to end playoff aspirations entirely. The defense has been porous in recent weeks, and losing one of its few reliable pieces compounds the problem. Injury attrition is piling up across the roster, forcing backup players into starting roles they may not be ready for. Baltimore needs an immediate turnaround in its next matchup to remain relevant, but the trajectory points downward."
+    },
+    {
+      "headline": "Connor McDavid's season-opening point streak ends at 23 games",
+      "source": "Sportsnet · 1h ago",
+      "article": "Connor McDavid's remarkable point streak came to an end after 23 consecutive games with at least one point, one of the longest streaks in recent NHL history. The Edmonton Oilers center had been on a historic tear to open the season, showcasing the elite consistency that has defined his career. The streak underscored McDavid's value to the Oilers' lineup and his continued dominance in the league's elite tier. While the streak ends, McDavid's overall production remains at elite levels, and the Oilers' offense continues to revolve around his playmaking. The streak was a reflection of both individual brilliance and Edmonton's reliance on their star player to drive offensive success."
     },
     {
       "headline": "Culture, defence, Fernandes - Pochettino's priorities at Man Utd",
-      "source": "BBC Sport · 2h ago",
-      "article": "Mauricio Pochettino is confronting three immediate priorities as Manchester United's new manager: rebuilding the club's culture, addressing longstanding defensive vulnerabilities, and stabilizing Bruno Fernandes' role within the team structure. Pochettino's first training session, conducted at Carrington, has already drawn attention for the manager's hands-on approach. The legendary midfielder has been the focal point of recent United discourse, and Pochettino must decide whether to build around Fernandes or redistribute the team's playing style. United's defense has been a persistent weakness under recent regimes, and Pochettino's managerial reputation rests partly on defensive organization. The culture question looms largest, as United's internal cohesion has fractured in recent seasons under multiple managers. Pochettino's track record in team-building and culture-setting suggests he has the tools to address these issues, but time and results will determine whether the appointment revitalizes a club in transition."
+      "source": "BBC Sport · 13h ago",
+      "article": "Mauricio Pochettino is tasking himself with rebuilding Manchester United's culture, shoring up a leaky defense, and maximizing the potential of Bruno Fernandes in his new role as manager. Pochettino's first training session at United's Carrington facility drew attention after a fan filmed it via drone, highlighting the intensity and scrutiny around his tenure. The Argentine manager faces a daunting challenge: inheriting a squad fractured by internal conflict and inconsistent performances under his predecessor. Pochettino has identified three core areas for improvement: team culture and cohesion, defensive solidity, and unlocking Fernandes' full potential as a midfielder and leader. His track record of rebuilding damaged rosters and implementing tactical discipline could be exactly what United needs. The coming weeks will reveal whether Pochettino can quickly stabilize the locker room and restore winning momentum."
     },
     {
-      "headline": "McKenna promoted, Nylander dropped as Maple Leafs mix lines",
-      "source": "Sportsnet · 4h ago",
-      "article": "Toronto Maple Leafs coach Jim Hiller has reshuffled the roster after an embarrassing loss in Chicago, promoting Ryan McKenna and demoting William Nylander in an effort to inject urgency and accountability. The moves signal Hiller's willingness to send messages through lineup construction when results don't materialize. McKenna's promotion reflects confidence in his defensive positioning and energy level, while Nylander's demotion suggests the coach views elite skill alone as insufficient if compete level falters. The Maple Leafs have talent but have struggled with consistency, and Hiller's adjustment aims to establish a meritocratic environment where status offers no protection. How the team responds to these changes over the next several games will determine whether Hiller's approach sparks a turnaround or breeds resentment in the locker room."
+      "headline": "Premier League: 10 things to look out for this weekend",
+      "source": "The Guardian · 4h ago",
+      "article": "Manchester City, reeling from three straight league defeats, will face Fulham in a fixture that could prove pivotal to their title hopes. The reigning champions need a spark to reignite their season, and Fulham are considered beatable opponents despite their recent form. Bruno Guimarães continues to generate intrigue at Newcastle, while Cherries defender Alex Scott's return from injury provides a boost to their defensive options. The weekend fixture list offers several storylines worth monitoring as the season approaches its climactic phase. City's response to adversity will tell observers plenty about their championship mettle. The traditional 'whipping boy' narrative around certain opponents may not hold true this season given the competitive balance across the league."
     },
     {
-      "headline": "Justin Pugh on Bringing the NFL to Italy",
-      "source": "Front Office Sports · just now",
-      "article": "Former NFL offensive lineman Justin Pugh is discussing the NFL's expansion ambitions in Europe, specifically the feasibility of establishing a foothold in Italy through the league's international game series. Pugh's perspective as a veteran player who understands the global nature of modern professional sports provides insight into how the sport might develop overseas. The NFL has been methodical in its European expansion, staging games in London for years before recently adding matches in Germany and other markets. Italy represents an untapped market with significant population and passion for sports, though the sport's nascent development there presents challenges. Pugh's involvement with Dukes Milano, an Italian football initiative, connects the grassroots level to the NFL's top-down expansion strategy. Building infrastructure, coaching expertise, and fan engagement takes years, but the economic opportunity in Europe justifies the NFL's incremental approach to market development."
-    },
-    {
-      "headline": "From training clips to thirst traps: why athletes are turning to OnlyFans",
-      "source": "The Guardian · 13h ago",
-      "article": "Athletes across sports are diversifying income streams through OnlyFans and similar platforms as traditional sports careers fail to guarantee wealth for all competitors. Belgian Olympic champion Bart Swings, facing injury and limited sponsorship opportunities, exemplifies athletes seeking supplementary revenue channels outside traditional institutional support. The platforms allow athletes to monetize direct fan relationships, training content, and personal brand in ways that conventional endorsement deals do not. OnlyFans' commission structure and audience demographics create new revenue opportunities for mid-tier and emerging athletes who lack marquee endorsement appeal. The trend highlights a persistent gap between top-earning athletes and the broader competitor pool, forcing many to pursue alternative income strategies. As sports become increasingly professionalized at the elite level, athletes at lower tiers are exploring digital platforms to bridge the economic gap."
-    },
-    {
-      "headline": "Fantasy football Week 11 PPR cheat sheet: Caleb Douglas primed to build on budding rapport with Kyle McCord",
-      "source": "CBS Sports · just now",
-      "article": "CBS Sports' Dave Richard has released a week-by-week fantasy football breakdown with confidence ratings across all viable starting options, accounting for injuries, bye weeks, and favorable matchups. Caleb Douglas, a wide receiver developing chemistry with quarterback Kyle McCord, is primed for continued production in the CBS expert's analysis. Richard's confidence scale spans 1-10 and factors in defensive matchup difficulty, weather, and injury uncertainty for the upcoming slate. Fantasy football's utility depends on accurate injury information and matchup analysis, both of which Richard attempts to provide for managers navigating bye weeks and personnel decisions. The cheat sheet approach condenses expert opinion into actionable guidance, though no prediction system accounts for in-game randomness or unexpected injuries on game day."
+      "headline": "Maple Leafs get a point but fall to Kings in shootout",
+      "source": "Sportsnet · 1h ago",
+      "article": "The Toronto Maple Leafs earned a point in a shootout loss to the Los Angeles Kings, extending a streak of competitive play despite not capturing the full two points. The Leafs' offense generated chances throughout the game but could not convert during overtime or the shootout, forcing them to settle for one point in the standings. Toronto's goaltending was solid, but the team's inability to finish in high-leverage moments continues to be a concern. The Kings executed their gameplan effectively and capitalized on their opportunities when it mattered most. The Leafs remain in playoff contention but need to improve their efficiency in close games down the stretch."
     }
   ],
   "poll": {
-    "question": "Which factor most threatens the Ravens' remaining season?",
+    "question": "Which company will win the 2030 FIFA World Cup US media rights?",
     "options": [
-      "Marlon Humphrey's deactivation and locker room divisions",
-      "The five-game losing streak and momentum collapse",
-      "Mounting injuries to defensive starters",
-      "Loss of playoff seeding control after falling behind in conference"
+      "Fox and Univision (joint linear bid)",
+      "Amazon Prime Video",
+      "Apple TV+",
+      "Disney/ESPN"
     ]
   },
   "predictions": [
     {
-      "statement": "The Sparks sale closes by mid-2026 at the $750M valuation, establishing a new WNBA ownership precedent for billionaire portfolio diversification.",
-      "probability": 78,
-      "rationale": "Both parties have strong incentive to complete the deal quickly. Feliciano has the capital, Walter has demonstrated eagerness to divest, and the WNBA's recent media deals justify premium valuations. No regulatory barriers exist."
+      "statement": "Fox and Univision's joint bid for 2030 World Cup rights will lose to a streaming consortium, likely Amazon or Apple.",
+      "probability": 72,
+      "rationale": "Linear broadcasters have consistently lost major sports rights battles to tech platforms willing to absorb massive subsidies for subscriber growth. Fox's partnership with Univision is a defensive move, not an offensive advantage."
     },
     {
-      "statement": "Disney or Apple re-enters World Cup bidding before final offers close, unwilling to cede the tournament to competitors.",
-      "probability": 42,
-      "rationale": "Both companies initially passed, but World Cup's global reach and prestige could override short-term budget concerns. However, their withdrawal signals genuine hesitation about FIFA's pricing, making re-engagement uncertain."
+      "statement": "The Los Angeles Sparks sale at $750M will close by mid-2026 without regulatory complications.",
+      "probability": 85,
+      "rationale": "The valuation reflects genuine league growth and sponsor interest. Jose E. Feliciano's investment group has the capital and profile to pass league vetting. No antitrust or ownership-structure concerns are evident."
     },
     {
-      "statement": "Simon Edvinsson signs a contract extension with Detroit before next season begins, avoiding offer-sheet complications.",
-      "probability": 71,
-      "rationale": "Edvinsson's refusal of offer sheets and Detroit's youth-focused rebuild suggest mutual interest in long-term partnership. Negotiating an extension now avoids arbitration and future restricted-free-agency uncertainty."
+      "statement": "More than three additional college basketball programs will face NIL spending investigations or sanctions within 12 months.",
+      "probability": 68,
+      "rationale": "Geno Auriemma's public criticism signals growing NCAA attention to NIL abuse and high school recruitment. The lack of guardrails suggests violations are widespread, and enforcement is accelerating."
     },
     {
-      "statement": "The Ravens' defense remains a liability despite Marlon Humphrey's deactivation, and Baltimore misses the playoffs.",
+      "statement": "The Ravens will miss the playoffs despite Marlon Humphrey's absence being temporary.",
       "probability": 58,
-      "rationale": "A five-game losing streak combined with mounting injuries creates momentum that is difficult to reverse mid-season. Even strong defenses struggle when supporting cast crumbles. The deactivation is unlikely to spark a turnaround."
+      "rationale": "A five-game losing streak with mounting injuries suggests structural problems beyond one cornerback. Even if Humphrey returns, the team's defense has shown vulnerability, and the playoff math is tight."
     }
   ],
   "injuries": [
@@ -2492,10 +2506,10 @@
       "league": "NFL",
       "position": "CB",
       "status": "OUT",
-      "injury": "Deactivated following personal conduct matter",
+      "injury": "Injury status not specified",
       "timeline": null,
       "source": "Deadspin",
-      "impact": "Ravens' secondary loses All-Pro cornerback amid five-game losing streak and injury-ravaged secondary.",
+      "impact": "Removes cornerstone cornerback from struggling defense amid five-game losing streak; forces reliance on backup secondary options.",
       "storyIndex": 7
     },
     {
@@ -2504,23 +2518,11 @@
       "league": "NFL",
       "position": "WR",
       "status": "OUT",
-      "injury": "On injured reserve",
-      "timeline": null,
-      "source": "NY Post Sports",
-      "impact": "All-Pro receiver sidelined, forcing Rams to adjust offensive scheme and depth receiving corp.",
-      "storyIndex": 11
-    },
-    {
-      "player": "Bart Swings",
-      "team": "Belgian National Olympic Team",
-      "league": "OTHER",
-      "position": "",
-      "status": "DAY_TO_DAY",
-      "injury": "Injured knee not improving heading into Olympic preparation",
-      "timeline": "Less than 6 months before Winter Olympics",
-      "source": "The Guardian",
-      "impact": "Olympic champion's training disrupted by injury rehab, risking preparation window before Games.",
-      "storyIndex": 12
+      "injury": "Suspension (conduct policy)",
+      "timeline": "3 games",
+      "source": "Front Office Sports",
+      "impact": "Removes key wide receiver from offense; Rams must adjust passing game and elevate practice squad receiver or redistribute targets.",
+      "storyIndex": 9
     }
   ],
   "picks": [
@@ -5956,38 +5958,38 @@
       "_pendingGrade": true
     }
   ],
-  "updatedAt": "2026-04-23T12:00:00Z",
+  "updatedAt": "2026-04-23T14:30:00Z",
   "highlights": [
     {
       "league": "NBA",
-      "title": "Travis Scott was hyped for the Heat ALL night 🗣️",
-      "videoId": "yKZCehsJwuw",
-      "thumbnail": "https://img.youtube.com/vi/yKZCehsJwuw/mqdefault.jpg",
+      "title": "Harrison Barnes Takes Flight for the Transition Slam and the Spurs Bench Goes Wild 🔥",
+      "videoId": "U9R2O4yBwes",
+      "thumbnail": "https://img.youtube.com/vi/U9R2O4yBwes/mqdefault.jpg",
       "timeAgo": "1h ago",
       "isFallback": false
     },
     {
       "league": "NFL",
-      "title": "How Kirk Cousins Became Fernando Mendoza's Obi-Wan to His Anakin Skywalker | Leaguewide",
-      "videoId": "SpC1eOUbIAU",
-      "thumbnail": "https://img.youtube.com/vi/SpC1eOUbIAU/mqdefault.jpg",
-      "timeAgo": "Just now",
+      "title": "🚨 Unlock Ben Solak: Score a Trick-Play Touchdown from the 35-Yard Line 🚨",
+      "videoId": "lfLCSlTbwWo",
+      "thumbnail": "https://img.youtube.com/vi/lfLCSlTbwWo/mqdefault.jpg",
+      "timeAgo": "1h ago",
       "isFallback": false
     },
     {
       "league": "MLB",
-      "title": "Team Venezuela vs. Team Nicaragua: Full Game (3/9/2026) | 2026 World Baseball Classic",
-      "videoId": "dAuP2XqspUE",
-      "thumbnail": "https://img.youtube.com/vi/dAuP2XqspUE/mqdefault.jpg",
-      "timeAgo": "1h ago",
+      "title": "FULL GAME: Brewers win the rematch vs. Yoshinobu Yamamoto and the Dodgers! (2026 NLCS Game 2)",
+      "videoId": "fu-Odp1bz8M",
+      "thumbnail": "https://img.youtube.com/vi/fu-Odp1bz8M/mqdefault.jpg",
+      "timeAgo": "2h ago",
       "isFallback": false
     },
     {
       "league": "NHL",
-      "title": "Behind the Scenes in Helsinki | NHL Mic Drop",
-      "videoId": "jG5y2-e_SDU",
-      "thumbnail": "https://img.youtube.com/vi/jG5y2-e_SDU/mqdefault.jpg",
-      "timeAgo": "1h ago",
+      "title": "Blues vs. Penguins | NHL Highlights | Nov 19, 2026",
+      "videoId": "n44Uod7iDPQ",
+      "thumbnail": "https://img.youtube.com/vi/n44Uod7iDPQ/mqdefault.jpg",
+      "timeAgo": "Just now",
       "isFallback": false
     },
     {
@@ -5995,19 +5997,267 @@
       "title": "Court vision like THIS is why she's the Point Gawd 👀",
       "videoId": "KBcQ3s6jqBc",
       "thumbnail": "https://img.youtube.com/vi/KBcQ3s6jqBc/mqdefault.jpg",
-      "timeAgo": "4h ago",
+      "timeAgo": "10h ago",
       "isFallback": false
     },
     {
       "league": "SOCCER",
-      "title": "When Cristiano Ronaldo was trying to get Manchester United fans to calm down 😂 (via @EmmaHam41/X)",
-      "videoId": "H4ZYLyBdrBU",
-      "thumbnail": "https://img.youtube.com/vi/H4ZYLyBdrBU/mqdefault.jpg",
-      "timeAgo": "8h ago",
+      "title": "WILD CARD MATCH 🔥 Orlando City vs. FC Cincinnati | MLS Highlights | ESPN FC",
+      "videoId": "ZT9m9x8K5CI",
+      "thumbnail": "https://img.youtube.com/vi/ZT9m9x8K5CI/mqdefault.jpg",
+      "timeAgo": "1h ago",
       "isFallback": false
     }
   ],
   "reels": [
+    {
+      "league": "NHL",
+      "title": "Blues vs. Penguins | NHL Highlights | Nov 19, 2026",
+      "videoId": "n44Uod7iDPQ",
+      "author": "NHL",
+      "pubDate": "2026-11-20T03:46:11+00:00",
+      "link": "https://www.youtube.com/watch?v=n44Uod7iDPQ"
+    },
+    {
+      "league": "NHL",
+      "title": "Morrissey lands the jet in OVERTIME! 🛬👨‍✈️",
+      "videoId": "Q5Pw2vt3ehI",
+      "author": "NHL",
+      "pubDate": "2026-11-20T03:30:25+00:00",
+      "link": "https://www.youtube.com/watch?v=Q5Pw2vt3ehI"
+    },
+    {
+      "league": "NHL",
+      "title": "Oilers vs. Lightning | NHL Highlights | Nov 19, 2026",
+      "videoId": "OkA_m8pVcbw",
+      "author": "NHL",
+      "pubDate": "2026-11-20T03:26:13+00:00",
+      "link": "https://www.youtube.com/watch?v=OkA_m8pVcbw"
+    },
+    {
+      "league": "NHL",
+      "title": "Canadiens vs Hurricanes 19/11/26 | Faits saillants",
+      "videoId": "E0eOgqodFk0",
+      "author": "NHL",
+      "pubDate": "2026-11-20T03:18:16+00:00",
+      "link": "https://www.youtube.com/watch?v=E0eOgqodFk0"
+    },
+    {
+      "league": "NHL",
+      "title": "Lane Hutson downs the CHAMPS in STYLE! 🌪️😵‍💫😎",
+      "videoId": "A8kW-1O3f1Y",
+      "author": "NHL",
+      "pubDate": "2026-11-20T03:15:21+00:00",
+      "link": "https://www.youtube.com/watch?v=A8kW-1O3f1Y"
+    },
+    {
+      "league": "NHL",
+      "title": "Canadiens vs. Hurricanes | NHL Highlights | Nov 19, 2026",
+      "videoId": "q8rSHWCR0R0",
+      "author": "NHL",
+      "pubDate": "2026-11-20T03:14:42+00:00",
+      "link": "https://www.youtube.com/watch?v=q8rSHWCR0R0"
+    },
+    {
+      "league": "NHL",
+      "title": "Sabres vs. Capitals | NHL Highlights | Nov 19, 2026",
+      "videoId": "WtvF5AiSVAw",
+      "author": "NHL",
+      "pubDate": "2026-11-20T03:06:13+00:00",
+      "link": "https://www.youtube.com/watch?v=WtvF5AiSVAw"
+    },
+    {
+      "league": "NFL",
+      "title": "🚨 Unlock Ben Solak: Score a Trick-Play Touchdown from the 35-Yard Line 🚨",
+      "videoId": "lfLCSlTbwWo",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-11-20T03:05:22+00:00",
+      "link": "https://www.youtube.com/watch?v=lfLCSlTbwWo"
+    },
+    {
+      "league": "NHL",
+      "title": "More like Joel NO-fer!",
+      "videoId": "mbtXKWiGqyc",
+      "author": "NHL",
+      "pubDate": "2026-11-20T03:03:57+00:00",
+      "link": "https://www.youtube.com/watch?v=mbtXKWiGqyc"
+    },
+    {
+      "league": "NBA",
+      "title": "Harrison Barnes Takes Flight for the Transition Slam and the Spurs Bench Goes Wild 🔥",
+      "videoId": "U9R2O4yBwes",
+      "author": "NBA",
+      "pubDate": "2026-11-20T02:59:26+00:00",
+      "link": "https://www.youtube.com/watch?v=U9R2O4yBwes"
+    },
+    {
+      "league": "SOCCER",
+      "title": "WILD CARD MATCH 🔥 Orlando City vs. FC Cincinnati | MLS Highlights | ESPN FC",
+      "videoId": "ZT9m9x8K5CI",
+      "author": "ESPN FC",
+      "pubDate": "2026-11-20T02:53:20+00:00",
+      "link": "https://www.youtube.com/watch?v=ZT9m9x8K5CI"
+    },
+    {
+      "league": "NBA",
+      "title": "Cam Boozer Drains the Tough Jumper and Dad Carlos Can’t Hide His Pride Courtside ❤️",
+      "videoId": "G9oOOcu6RnA",
+      "author": "NBA",
+      "pubDate": "2026-11-20T02:10:55+00:00",
+      "link": "https://www.youtube.com/watch?v=G9oOOcu6RnA"
+    },
+    {
+      "league": "NFL",
+      "title": "Showed up to TNF in style (via @colts/TT)",
+      "videoId": "9P9JeDffXHg",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-11-20T02:08:31+00:00",
+      "link": "https://www.youtube.com/watch?v=9P9JeDffXHg"
+    },
+    {
+      "league": "MLB",
+      "title": "FULL GAME: Brewers win the rematch vs. Yoshinobu Yamamoto and the Dodgers! (2026 NLCS Game 2)",
+      "videoId": "fu-Odp1bz8M",
+      "author": "MLB",
+      "pubDate": "2026-11-20T02:00:22+00:00",
+      "link": "https://www.youtube.com/watch?v=fu-Odp1bz8M"
+    },
+    {
+      "league": "NBA",
+      "title": "Justin Jefferson Shows Up Courtside in Minnesota With the Purple Shades to Match the Vibe 😎💜",
+      "videoId": "wvISCEJFueA",
+      "author": "NBA",
+      "pubDate": "2026-11-20T01:55:24+00:00",
+      "link": "https://www.youtube.com/watch?v=wvISCEJFueA"
+    },
+    {
+      "league": "NBA",
+      "title": "Al Horford Throws Down the Steal-and-Jam as the Warriors Bench Celebrates His Florida Roots 🐊",
+      "videoId": "s_Vjzo7hldE",
+      "author": "NBA",
+      "pubDate": "2026-11-20T01:51:10+00:00",
+      "link": "https://www.youtube.com/watch?v=s_Vjzo7hldE"
+    },
+    {
+      "league": "NBA",
+      "title": "Karl-Anthony Towns Scores the And-1, Then Gets a Helping Hand From Dad ❤️",
+      "videoId": "Rco_6Z-KMXI",
+      "author": "NBA",
+      "pubDate": "2026-11-20T01:45:27+00:00",
+      "link": "https://www.youtube.com/watch?v=Rco_6Z-KMXI"
+    },
+    {
+      "league": "NBA",
+      "title": "LaMelo Ball Creates Separation With Nasty Handle Before Draining the Step-Back 3",
+      "videoId": "u_E784eCAYI",
+      "author": "NBA",
+      "pubDate": "2026-11-20T01:32:52+00:00",
+      "link": "https://www.youtube.com/watch?v=u_E784eCAYI"
+    },
+    {
+      "league": "NBA",
+      "title": "Jaden McDaniels Makes Defender Bite Before Sinking the Floater",
+      "videoId": "YIsVusQuF1k",
+      "author": "NBA",
+      "pubDate": "2026-11-20T01:28:53+00:00",
+      "link": "https://www.youtube.com/watch?v=YIsVusQuF1k"
+    },
+    {
+      "league": "NBA",
+      "title": "KAT Makes a Young Fan’s Night With a Special Autograph ✍️",
+      "videoId": "idQSq7m2DZA",
+      "author": "NBA",
+      "pubDate": "2026-11-20T01:16:27+00:00",
+      "link": "https://www.youtube.com/watch?v=idQSq7m2DZA"
+    },
+    {
+      "league": "NFL",
+      "title": "ULTIMATE Chess Match! Who prevails in 49ers-Vikings?| Move the Sticks",
+      "videoId": "HQVwSR03Wv0",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-11-20T01:00:08+00:00",
+      "link": "https://www.youtube.com/watch?v=HQVwSR03Wv0"
+    },
+    {
+      "league": "MLB",
+      "title": "2026 Dylan Cease Highlights (239 strikeouts in his first season with the Blue Jays!)",
+      "videoId": "Dvy1WULdUK0",
+      "author": "MLB",
+      "pubDate": "2026-11-20T00:00:33+00:00",
+      "link": "https://www.youtube.com/watch?v=Dvy1WULdUK0"
+    },
+    {
+      "league": "SOCCER",
+      "title": "Can Mauricio Pochettino turn Man United’s season around? + Vini Jr. &amp; Real Madrid | ESPN FC",
+      "videoId": "E8zdIlQlOtU",
+      "author": "ESPN FC",
+      "pubDate": "2026-11-19T23:38:16+00:00",
+      "link": "https://www.youtube.com/watch?v=E8zdIlQlOtU"
+    },
+    {
+      "league": "NFL",
+      "title": "PREVIEWING Colts vs. Texans on TNF + Puka Nacua suspended &amp; Cowboys shakeup | SportsCenter",
+      "videoId": "vWdoq2tIDcc",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-11-19T23:20:35+00:00",
+      "link": "https://www.youtube.com/watch?v=vWdoq2tIDcc"
+    },
+    {
+      "league": "SOCCER",
+      "title": "Is Jude Bellingham the BEST PLAYER in the world? 👀  | ESPN FC Extra Time",
+      "videoId": "qWF3-cJx3JQ",
+      "author": "ESPN FC",
+      "pubDate": "2026-11-19T23:04:56+00:00",
+      "link": "https://www.youtube.com/watch?v=qWF3-cJx3JQ"
+    },
+    {
+      "league": "NFL",
+      "title": "Why isn't Travis Hunter in the DPOY conversation?",
+      "videoId": "8Cmsc2wBN9s",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-11-19T23:04:22+00:00",
+      "link": "https://www.youtube.com/watch?v=8Cmsc2wBN9s"
+    },
+    {
+      "league": "SOCCER",
+      "title": "Does England have what it takes to win UEFA Euro 2028? 🤔 What did win over Spain mean? | ESPN FC",
+      "videoId": "4QVBKESO6mU",
+      "author": "ESPN FC",
+      "pubDate": "2026-11-19T23:03:32+00:00",
+      "link": "https://www.youtube.com/watch?v=4QVBKESO6mU"
+    },
+    {
+      "league": "NFL",
+      "title": "How the Chiefs master plan at RB worked | Move the Sticks",
+      "videoId": "4tc4r9d0ZBg",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-11-19T23:00:03+00:00",
+      "link": "https://www.youtube.com/watch?v=4tc4r9d0ZBg"
+    },
+    {
+      "league": "NFL",
+      "title": "Ja’Marr Chase swapped press days with Joe Burrow out &amp; fully committed to the bit! (via @bbaby41/IG)",
+      "videoId": "aMsm_rEcOwc",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-11-19T22:37:42+00:00",
+      "link": "https://www.youtube.com/watch?v=aMsm_rEcOwc"
+    },
+    {
+      "league": "SOCCER",
+      "title": "Will Jose Mourinho start Vini Jr. or Yan Diomande against Celta Vigo? 👀 | ESPN FC",
+      "videoId": "y_YIyWtVKvo",
+      "author": "ESPN FC",
+      "pubDate": "2026-11-19T22:33:18+00:00",
+      "link": "https://www.youtube.com/watch?v=y_YIyWtVKvo"
+    },
+    {
+      "league": "SOCCER",
+      "title": "What to expect from Mauricio Pochettino’s Man United debut vs. Liverpool | ESPN FC",
+      "videoId": "C4PDSDzSXEs",
+      "author": "ESPN FC",
+      "pubDate": "2026-11-19T22:31:32+00:00",
+      "link": "https://www.youtube.com/watch?v=C4PDSDzSXEs"
+    },
     {
       "league": "NFL",
       "title": "How Kirk Cousins Became Fernando Mendoza's Obi-Wan to His Anakin Skywalker | Leaguewide",
@@ -6017,132 +6267,12 @@
       "link": "https://www.youtube.com/watch?v=SpC1eOUbIAU"
     },
     {
-      "league": "NFL",
-      "title": "Is Bo Nix a Top-10 Play in Week 11?! #fantasyfootball #nfl",
-      "videoId": "O3PGX7Mg_XM",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-11-19T22:13:59+00:00",
-      "link": "https://www.youtube.com/watch?v=O3PGX7Mg_XM"
-    },
-    {
       "league": "MLB",
       "title": "Team Venezuela vs. Team Nicaragua: Full Game (3/9/2026) | 2026 World Baseball Classic",
       "videoId": "dAuP2XqspUE",
       "author": "MLB",
       "pubDate": "2026-11-19T22:00:35+00:00",
       "link": "https://www.youtube.com/watch?v=dAuP2XqspUE"
-    },
-    {
-      "league": "NHL",
-      "title": "Behind the Scenes in Helsinki | NHL Mic Drop",
-      "videoId": "jG5y2-e_SDU",
-      "author": "NHL",
-      "pubDate": "2026-11-19T22:00:14+00:00",
-      "link": "https://www.youtube.com/watch?v=jG5y2-e_SDU"
-    },
-    {
-      "league": "NFL",
-      "title": "Brock Purdy 🆚 Kirk Cousins in Mexico City + How teams can slow down the Bengals 🏈 | NFL Live",
-      "videoId": "R2DatHP1cOg",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-11-19T21:57:02+00:00",
-      "link": "https://www.youtube.com/watch?v=R2DatHP1cOg"
-    },
-    {
-      "league": "NBA",
-      "title": "Travis Scott was hyped for the Heat ALL night 🗣️",
-      "videoId": "yKZCehsJwuw",
-      "author": "NBA",
-      "pubDate": "2026-11-19T21:53:39+00:00",
-      "link": "https://www.youtube.com/watch?v=yKZCehsJwuw"
-    },
-    {
-      "league": "NFL",
-      "title": "Mina Kimes called the Jaguars' success in June",
-      "videoId": "9hkj5oO7iD0",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-11-19T21:37:38+00:00",
-      "link": "https://www.youtube.com/watch?v=9hkj5oO7iD0"
-    },
-    {
-      "league": "NFL",
-      "title": "Gotta stay loose 😅 (via @Romi_Bean/X)",
-      "videoId": "MRu5fJvumVQ",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-11-19T21:36:51+00:00",
-      "link": "https://www.youtube.com/watch?v=MRu5fJvumVQ"
-    },
-    {
-      "league": "NBA",
-      "title": "A star studded night in Miami ⭐️",
-      "videoId": "zVrz9MDwN9o",
-      "author": "NBA",
-      "pubDate": "2026-11-19T21:17:28+00:00",
-      "link": "https://www.youtube.com/watch?v=zVrz9MDwN9o"
-    },
-    {
-      "league": "NBA",
-      "title": "Ja Morant’s hangtime is INSANE 🤯😱",
-      "videoId": "Cn75RM9tZVI",
-      "author": "NBA",
-      "pubDate": "2026-11-19T21:14:11+00:00",
-      "link": "https://www.youtube.com/watch?v=Cn75RM9tZVI"
-    },
-    {
-      "league": "NBA",
-      "title": "Bringing back when Nikola Jokić and Alperen Şengün put on a show 🍿",
-      "videoId": "UfveV5icoIQ",
-      "author": "NBA",
-      "pubDate": "2026-11-19T21:13:46+00:00",
-      "link": "https://www.youtube.com/watch?v=UfveV5icoIQ"
-    },
-    {
-      "league": "NBA",
-      "title": "Same spot, same shot 😲 Lebron gave us 2013 Game 7 flashbacks 🔥",
-      "videoId": "gMAZ6CWamOI",
-      "author": "NBA",
-      "pubDate": "2026-11-19T21:13:17+00:00",
-      "link": "https://www.youtube.com/watch?v=gMAZ6CWamOI"
-    },
-    {
-      "league": "NBA",
-      "title": "Ant continues to send a scouting report to his teammates before each game 🧠 (via: Timberwolves/ YT)",
-      "videoId": "DcsQTDUEh4k",
-      "author": "NBA",
-      "pubDate": "2026-11-19T21:12:58+00:00",
-      "link": "https://www.youtube.com/watch?v=DcsQTDUEh4k"
-    },
-    {
-      "league": "NHL",
-      "title": "Ullmark robs Nelson with stick save 😮",
-      "videoId": "jNLGHWigFKE",
-      "author": "NHL",
-      "pubDate": "2026-11-19T21:00:04+00:00",
-      "link": "https://www.youtube.com/watch?v=jNLGHWigFKE"
-    },
-    {
-      "league": "NFL",
-      "title": "An MVP Showcase Game + Why the Jags are the Best Team in the AFC | The Adam Schefter Podcast",
-      "videoId": "sEj3sem82MM",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-11-19T20:14:01+00:00",
-      "link": "https://www.youtube.com/watch?v=sEj3sem82MM"
-    },
-    {
-      "league": "NFL",
-      "title": "Brett Veach reveals how Patrick Mahomes went the extra mile in rehab process | Move the Sticks",
-      "videoId": "T5z9pnhJAow",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-11-19T20:07:53+00:00",
-      "link": "https://www.youtube.com/watch?v=T5z9pnhJAow"
-    },
-    {
-      "league": "NFL",
-      "title": "The MVP case for Dak Prescott",
-      "videoId": "y8A-HkxkLrA",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-11-19T20:01:35+00:00",
-      "link": "https://www.youtube.com/watch?v=y8A-HkxkLrA"
     },
     {
       "league": "MLB",
@@ -6159,14 +6289,6 @@
       "author": "MLB",
       "pubDate": "2026-11-19T19:00:16+00:00",
       "link": "https://www.youtube.com/watch?v=hANjDasacV0"
-    },
-    {
-      "league": "NHL",
-      "title": "“What Is Going On Down There?!” | Weird NHL Vol. 144",
-      "videoId": "vOnjmplb1t8",
-      "author": "NHL",
-      "pubDate": "2026-11-19T19:00:00+00:00",
-      "link": "https://www.youtube.com/watch?v=vOnjmplb1t8"
     },
     {
       "league": "WNBA",
@@ -6193,14 +6315,6 @@
       "link": "https://www.youtube.com/watch?v=nxERGTkiqI4"
     },
     {
-      "league": "NBA",
-      "title": "30 INSANE LeBron James Assists 👀",
-      "videoId": "VB6q6DlzT-Q",
-      "author": "NBA",
-      "pubDate": "2026-11-19T17:00:02+00:00",
-      "link": "https://www.youtube.com/watch?v=VB6q6DlzT-Q"
-    },
-    {
       "league": "MLB",
       "title": "MLB's Top 100 Plays of 2026! (Ft. historic highlights from PCA, Miz, Shohei Ohtani, Yordan &amp; MORE)",
       "videoId": "cT6N1mHmLXc",
@@ -6215,118 +6329,6 @@
       "author": "ESPN FC",
       "pubDate": "2026-11-19T15:00:37+00:00",
       "link": "https://www.youtube.com/watch?v=H4ZYLyBdrBU"
-    },
-    {
-      "league": "NBA",
-      "title": "Giannis, Bam, Klay &amp; The Heat Are ROLLING 👀 | 6-Game Win Streak Highlights 🔥",
-      "videoId": "FK_pR1I-rOQ",
-      "author": "NBA",
-      "pubDate": "2026-11-19T15:00:11+00:00",
-      "link": "https://www.youtube.com/watch?v=FK_pR1I-rOQ"
-    },
-    {
-      "league": "MLB",
-      "title": "FULL GAME: Guardians ride 6-run 6th inning to force Game 5 (Guardians vs. White Sox - ALDS Game 4)",
-      "videoId": "eV0LpJ0pjFQ",
-      "author": "MLB",
-      "pubDate": "2026-11-19T14:00:23+00:00",
-      "link": "https://www.youtube.com/watch?v=eV0LpJ0pjFQ"
-    },
-    {
-      "league": "NHL",
-      "title": "Avalanche vs. Mammoth | NHL Highlights | Nov 18, 2026",
-      "videoId": "pLTotERi41g",
-      "author": "NHL",
-      "pubDate": "2026-11-19T06:37:02+00:00",
-      "link": "https://www.youtube.com/watch?v=pLTotERi41g"
-    },
-    {
-      "league": "NHL",
-      "title": "Can We Switch Seats? 😂",
-      "videoId": "T7hlGv894K4",
-      "author": "NHL",
-      "pubDate": "2026-11-19T06:04:09+00:00",
-      "link": "https://www.youtube.com/watch?v=T7hlGv894K4"
-    },
-    {
-      "league": "NHL",
-      "title": "Spicy Tuna or Turtle? 🤷‍♂️",
-      "videoId": "Yj3WlKuWilM",
-      "author": "NHL",
-      "pubDate": "2026-11-19T05:33:28+00:00",
-      "link": "https://www.youtube.com/watch?v=Yj3WlKuWilM"
-    },
-    {
-      "league": "NHL",
-      "title": "You had ONE job! 😬🤣🚪",
-      "videoId": "AUNAsLF7hh0",
-      "author": "NHL",
-      "pubDate": "2026-11-19T04:55:36+00:00",
-      "link": "https://www.youtube.com/watch?v=AUNAsLF7hh0"
-    },
-    {
-      "league": "NHL",
-      "title": "Canadiens vs Devils 18/11/26 | Faits saillants",
-      "videoId": "41T-jyyFioY",
-      "author": "NHL",
-      "pubDate": "2026-11-19T03:43:57+00:00",
-      "link": "https://www.youtube.com/watch?v=41T-jyyFioY"
-    },
-    {
-      "league": "MLB",
-      "title": "FULL GAME: After interference play, Rays sweep Yankees to advance to ALCS! (2026 ALDS Game 3)",
-      "videoId": "X5MLkUOTC14",
-      "author": "MLB",
-      "pubDate": "2026-11-19T02:00:20+00:00",
-      "link": "https://www.youtube.com/watch?v=X5MLkUOTC14"
-    },
-    {
-      "league": "SOCCER",
-      "title": "Reflecting on Mauricio Pochettino’s tenure with UMSNT | ESPN FC",
-      "videoId": "YL2zUxu-4MQ",
-      "author": "ESPN FC",
-      "pubDate": "2026-11-19T00:22:02+00:00",
-      "link": "https://www.youtube.com/watch?v=YL2zUxu-4MQ"
-    },
-    {
-      "league": "MLB",
-      "title": "2026 Mike Trout Highlights (ANOTHER All-Star appearance for Angels star!)",
-      "videoId": "djJh1L2V4Ck",
-      "author": "MLB",
-      "pubDate": "2026-11-19T00:00:29+00:00",
-      "link": "https://www.youtube.com/watch?v=djJh1L2V4Ck"
-    },
-    {
-      "league": "SOCCER",
-      "title": "What day would our panel want to relive from their careers? | ESPN FC Extra Time",
-      "videoId": "3Gu7H7ltNZE",
-      "author": "ESPN FC",
-      "pubDate": "2026-11-18T23:41:29+00:00",
-      "link": "https://www.youtube.com/watch?v=3Gu7H7ltNZE"
-    },
-    {
-      "league": "SOCCER",
-      "title": "Cringeworthy? 👀 Reacting to Benni McCarthy’s comments about managing Kenya | ESPN FC",
-      "videoId": "shfMEnCqm40",
-      "author": "ESPN FC",
-      "pubDate": "2026-11-18T23:25:42+00:00",
-      "link": "https://www.youtube.com/watch?v=shfMEnCqm40"
-    },
-    {
-      "league": "SOCCER",
-      "title": "Previewing Pochettino’s Manchester United debut vs. Liverpool 👀 | ESPN FC",
-      "videoId": "1cEvWrKzAWI",
-      "author": "ESPN FC",
-      "pubDate": "2026-11-18T23:01:05+00:00",
-      "link": "https://www.youtube.com/watch?v=1cEvWrKzAWI"
-    },
-    {
-      "league": "SOCCER",
-      "title": "ESPN FC grades Mauricio Pochettino’s tenure with the USMNT",
-      "videoId": "Sk0lRyh0ioA",
-      "author": "ESPN FC",
-      "pubDate": "2026-11-18T22:51:07+00:00",
-      "link": "https://www.youtube.com/watch?v=Sk0lRyh0ioA"
     }
   ]
 }
