@@ -1,73 +1,89 @@
 {
   "clusters": [
     {
-      "category": "media",
+      "category": "revenue",
+      "importance": 8,
+      "leadHeadline": "NFL viewership remains on the high end through Week 10",
+      "leadSource": "Sports Media Watch · 1h ago",
+      "leadUrl": "https://www.sportsmediawatch.com/2026/11/nfl-viewership-week-10-highs/",
+      "summary": "NFL games averaged 18.2M viewers through Week 10, highest since 2010. The 49ers-Cowboys drew 27.1M on FOX, marking a surge in live sports viewership.",
+      "article": "The NFL is riding high on viewership numbers through Week 10. Regular season game windows averaged 18.2 million viewers through Week 10, up 3% from last year and the highest average since 2010. Only 2010 and 1989 rank higher in the Nielsen people-meter era, which began in 1988.\n\nWeek 10 itself averaged 17.2 million viewers, up 4% year-over-year and the highest since 2019. FOX dominated the week. The network's late-window broadcast of the 49ers-Cowboys national game drew 27.13 million viewers, a 12.3 rating that was up 12% in ratings and 17% in viewership from last year's comparable window, and the most-watched Week 10 slot in four years.\n\nNBC's \"Sunday Night Football\" featuring the Steelers-Bengals placed second for the week with 21.52 million viewers, the most-watched Week 10 edition of that program since the Vikings-Cowboys matchup in 2019. Prime Video's \"Thursday Night Football\" drew 16.27 million for Commanders-Giants, the most-watched Week 10 edition of that show.\n\nThe streak matters for the upcoming 2027 media-rights negotiations. These numbers signal sustained demand for live football across networks and platforms.",
+      "tweets": [
+        {
+          "url": "https://twitter.com/mulvihill79/status/2122825423705067875",
+          "html": "<blockquote class=\"twitter-tweet\" data-dnt=\"true\" data-theme=\"dark\"><p>FOX’s Week 10 tripleheader totaled 10.6 billion minutes of viewing, making this the most-watched regular season Sunday on one network in NFL history.</p>&mdash; Michael Mulvihill (@mulvihill79) <a href=\"https://twitter.com/mulvihill79/status/2122825423705067875\">November 17, 2026</a></blockquote>",
+          "author_name": "Michael Mulvihill",
+          "author_url": "https://twitter.com/mulvihill79",
+          "dateMs": 1794955995000
+        }
+      ]
+    },
+    {
+      "category": "revenue",
       "importance": 7,
-      "leadHeadline": "Fox reportedly pairing with Univision for joint World Cup bid",
-      "leadSource": "Sports Media Watch · 14h ago",
-      "leadUrl": "https://www.sportsmediawatch.com/2026/11/fox-univision-world-cup-joint-bid-nbcuniversal-telemundo-passes-rights/",
-      "summary": "<cite index=\"3-1\">Fox and Univision submitted a joint bid for 2030 World Cup rights, marking the only linear broadcasters who submitted a bid by Thursday's deadline.</cite> <cite index=\"4-4\">ESPN, Skydance, Apple, and NBC refused to go forward.</cite>",
-      "article": "<cite index=\"3-1\">Fox Corporation and Univision submitted a joint bid for the 2030 FIFA World Cup rights Thursday, marking the only linear broadcasters to submit a bid by the deadline.</cite>\n\n<cite index=\"1-1,1-2\">Fox submitted the bid with Univision expected to sub-license the games with Spanish-language commentary, satisfying FIFA's desire to sell English and Spanish rights as a single package.</cite> <cite index=\"6-1\">Fox has held the rights for the past 11 years.</cite>\n\nThe traditional broadcasters face stiff competition from streaming platforms. <cite index=\"4-4,4-5\">ESPN, Skydance, Apple, and NBC refused to bid, with YouTube also joining them on the sidelines.</cite> <cite index=\"24-3,24-5\">Netflix, Amazon and Fox bid on the 2030 men's World Cup media rights.</cite>\n\n<cite index=\"1-8\">Univision saw a strong drop in viewership while the World Cup was played last summer, and advertisers shifted their budgets to Telemundo, giving Univision reason to want the FIFA World Cup rights.</cite> <cite index=\"12-9\">The US media rights for 2030 could bring FIFA between $1.5 and $2 billion.</cite>",
+      "leadHeadline": "FIFA's $1.5B World Cup Rights Push Faces Shrinking Field",
+      "leadSource": "Front Office Sports · just now",
+      "leadUrl": "https://frontofficesports.com/article/fifas-1-5b-world-cup-rights-push-faces-shrinking-field/",
+      "summary": "FIFA is seeking $1.5B for 2030 World Cup media rights, but major broadcasters have begun exiting the bidding process, narrowing the field of potential buyers. The pullback signals potential weakness in sports media acquisitions.",
+      "article": "The bidding war for FIFA World Cup media rights is tightening faster than expected. FIFA's $1.5 billion asking price for 2030 World Cup broadcasting rights has prompted several major media networks to exit the process, leaving fewer viable bidders than the organization anticipated.\n\nThe pullback is significant because World Cup rights historically command premium valuations. The 2026 World Cup media deals set benchmarks across North America, Europe, and Asia, with broadcasters and streaming services viewing the tournament as a marquee event capable of driving subscriber growth and advertising revenue.\n\nSources indicate that at least one major media company, Skydance, has already withdrawn from bidding for both the 2030 and 2034 cycles. Additional outlets have reportedly paused their evaluation, citing either budget constraints or uncertainty about return on investment given the streaming landscape's current economics.\n\nFox Corporation and Univision have submitted a joint bid for the 2030 rights, positioning themselves as the primary linear-broadcast alternative to streaming competitors. That pairing may signal Fox's willingness to absorb premium pricing if it means securing a soccer asset at scale.\n\nThe exodus creates a compressed market where FIFA's leverage erodes with each withdrawal. If bidders grow too sparse, FIFA may face downward pressure on its asking price, a scenario the organization has worked to avoid through 2026 by securing multiple bidders per region.",
       "tweets": []
     },
     {
       "category": "contracts",
       "importance": 6,
-      "leadHeadline": "Nike Enters New Lane With Formula 1 Partnership",
-      "leadSource": "Sportico · 16h ago",
-      "leadUrl": "https://www.sportico.com/leagues/motorsports/2026/nike-formula-1-deal-details-sponsor-1234959003/",
-      "summary": "Nike will become Formula 1's official outfitting partner beginning in 2027, marking the athletic giant's entry into global motorsport with a multi-year deal.",
-      "article": "Nike has secured an official partnership with Formula 1, effective in 2027, positioning the world's largest athletic apparel company to outfit the sport's drivers and personnel. The multi-year deal length and financial value were not disclosed. Nike will begin rolling out a capsule collection ahead of the formal 2027 start, signaling immediate brand integration into F1's ecosystem.\n\nThe move represents Nike's first major foray into motorsport at the elite level and capitalizes on F1's explosive growth in North American and digital audiences over the past three seasons. The partnership includes apparel and gear across the sport's footprint, from driver suits to team staff uniforms. Nike's entry into F1 follows years of the sport attracting major consumer brands and media players seeking alignment with the grid's expanding global footprint and younger demographic reach.",
-      "tweets": []
+      "leadHeadline": "Colts stunningly release Daniel Jones to end $88 million disaster",
+      "leadSource": "NY Post Sports · 1h ago",
+      "leadUrl": "https://nypost.com/2026/11/20/sports/colts-stunningly-release-daniel-jones-to-end-88-million-disaster/",
+      "summary": "The Indianapolis Colts released QB Daniel Jones after one season, absorbing the financial hit on his $88M contract. The move ends a failed experiment and signals the franchise is resetting at quarterback.",
+      "article": "The Indianapolis Colts have released Daniel Jones after a single season, cutting ties with the quarterback and his $88 million deal in what amounts to a decisive admission of organizational failure.\n\nJones, acquired in the offseason to serve as the Colts' long-term solution at quarterback, failed to deliver on the promise the franchise saw when it committed eight figures. His 2026 campaign was marked by inconsistent play, turnovers, and an inability to elevate the talent around him, culminating in a string of losses that left Indianapolis out of playoff contention by Week 10.\n\nBy releasing Jones now rather than at season's end, the Colts avoid carrying his salary into 2027 and open the door to exploring options at the position during the offseason. The move is a stunning reversal for a franchise that made a publicized push to acquire him as a centerpiece of their rebuild. It also strips Indianapolis of institutional credibility with free-agent quarterbacks, as it signals the organization will abandon multi-year commitments quickly if performance falters.\n\nThe Colts' quarterback troubles have extended across multiple regimes and decisions. The Jones release, coupled with their playoff drought and recent offensive struggles, suggests Indianapolis may be headed toward a more radical rebuild than anticipated. That could include changes at head coach, general manager, or both during the offseason.\n\nThe $88M hit serves as a cautionary tale for NFL front offices about the perils of mid-market QB acquisitions, particularly when those signings are made with the belief that a veteran stop-gap can fix deeper organizational problems.",
+      "tweets": [
+        {
+          "url": "https://twitter.com/YahooSports/status/2123841345802399992",
+          "html": "<blockquote class=\"twitter-tweet\" data-dnt=\"true\" data-theme=\"dark\"><p>BREAKING: The Colts have released QB Daniel Jones, per head coach Shane Steichen.\n\nJones signed a 2-year $88 million extension in the offseason. In 11 starts this season, he’s thrown for 1,974 yards, 7 TD and leads the NFL in interceptions, with 13. https://t.co/bqvGab3Dt3</p>&mdash; Yahoo Sports (@YahooSports) <a href=\"https://twitter.com/YahooSports/status/2123841345802399992\">November 20, 2026</a></blockquote>",
+          "author_name": "Yahoo Sports",
+          "author_url": "https://twitter.com/YahooSports",
+          "dateMs": 1795198210000
+        }
+      ]
     },
     {
-      "category": "labor",
-      "importance": 5,
-      "leadHeadline": "Trump Pardons Pete Rose, but Hall of Fame Hurdle Remains",
-      "leadSource": "Front Office Sports · just now",
-      "leadUrl": "https://frontofficesports.com/article/trump-pardons-pete-rose-but-hall-of-fame-hurdle-remains/",
-      "summary": "President Trump has pardoned Pete Rose for his income-tax conviction, but MLB's Hall of Fame eligibility rules remain unchanged by the presidential action.",
-      "article": "President Trump has issued a pardon for Pete Rose related to an income-tax conviction, a development that clarifies Rose's federal legal standing but does not alter Major League Baseball's eligibility requirements for Cooperstown. Rose remains on baseball's ineligible list under Rule 21, which prohibits players who bet on games from Hall of Fame consideration. The tax pardon removes one legal barrier but does not address the gambling suspension that has barred Rose from the ballot since 1989.\n\nRose's reinstatement to Hall of Fame eligibility would require approval from MLB's Commissioner or a future rule change. The pardon is a symbolic gesture toward baseball's all-time hits leader, but the sport's governing bodies have shown no indication of modifying the gambling ban that created the original eligibility block. Rose holds 4,256 career hits, the most in MLB history.",
-      "tweets": []
-    },
-    {
-      "category": "media",
-      "importance": 4,
-      "leadHeadline": "Thursday Night Football Has an Al Michaels Problem",
-      "leadSource": "Deadspin · 1h ago",
-      "leadUrl": "https://deadspin.com/thursday-night-football-has-an-al-michaels-problem/",
-      "summary": "Al Michaels' performance quality on Amazon's Thursday Night Football broadcasts has deteriorated, prompting industry observers to call for the network to move on from the veteran announcer.",
-      "article": "Al Michaels, regarded as one of broadcasting's all-time greats, has seen his Thursday Night Football performances become a liability for Amazon Prime Video, according to media critics. Michaels' work on the weekly NFL primetime slot has drawn repeated criticism for inconsistency and fatigue markers that undermine broadcast quality.\n\nThe situation creates a delicate calculus for Amazon: Michaels remains a Hall of Fame talent and his voice carries historical weight, but the TNF assignment demands sharp, sustained excellence across a full season. His three-year tenure with the Thursday package has included several high-profile stumbles and moments of disconnect from the action on field. Amazon has the financial resources to pursue alternative talent and may be weighing options. The broader question is whether TNF's accelerating production demands and grueling schedule remain compatible with an announcer approaching his eighties, regardless of his legendary pedigree.",
-      "tweets": []
-    },
-    {
-      "category": "revenue",
-      "importance": 4,
-      "leadHeadline": "Tiger Woods golf return prompts brutal reality check from sportsbooks",
-      "leadSource": "NY Post Sports · 2h ago",
-      "leadUrl": "https://nypost.com/2026/11/20/betting/tiger-woods-golf-return-prompts-brutal-reality-check-from-sportsbooks/",
-      "summary": "Tiger Woods' entry into an upcoming PGA Tour event is shifting betting odds and handle expectations, as sportsbooks respond to his continued competitive presence.",
-      "article": "Tiger Woods' return to competition is reshaping the betting landscape for the upcoming PGA Tour event, with sportsbooks already adjusting lines and projecting elevated handle based on his field participation. Woods remains a singular draw for casual betting interest, a dynamic that has held steady throughout his career despite chronic injury and age-related decline.\n\nSportsbooks have flagged Woods' presence as a material factor in viewership and wagering volume forecasts. His appearance in tournaments continues to generate outsized betting action even when he is not among the favorites. The NY Post noted that this dynamic persists regardless of Woods' current form or health status, underscoring his durable brand equity in golf betting.",
-      "tweets": []
-    },
-    {
-      "category": "media",
-      "importance": 3,
+      "category": "leagues",
+      "importance": 6,
       "leadHeadline": "Victor Wembanyama has turned his NBA finals humiliation into a revenge tour for the ages",
-      "leadSource": "The Guardian · 3h ago",
+      "leadSource": "The Guardian · 6h ago",
       "leadUrl": "https://www.theguardian.com/sport/2026/nov/20/victor-wembanyama-spurs-nba-mvp-finals-redemption",
-      "summary": "Victor Wembanyama has rebounded from a Finals loss with a stellar 2026-27 season, returning the Spurs to contention at age 22 after a highly publicized defeat.",
-      "article": "Victor Wembanyama's resurgence this season has transformed a humiliating 2026 NBA Finals loss into a comeback narrative. After San Antonio's defeat left the then-21-year-old memed across social media, Wembanyama has posted numbers and performances that suggest the Spurs are legitimate contenders again. The Guardian profiles his response to the Finals loss as measured, determined, and ultimately productive.\n\nWembanyama did not miss a beat entering this season, opening with strong performances against established powerhouses like Oklahoma City. His efficiency and defensive intensity have elevated the Spurs back into playoff contention, a turnaround that speaks to both his resilience and the organization's confidence in his trajectory. At 22, Wembanyama's ability to absorb a public Finals failure and return with elevated play represents a rare maturity in a young superstar still early in his tenure.",
+      "summary": "Victor Wembanyama has rebounded from a Finals loss last June by leading the San Antonio Spurs back into contention at age 22. The 2026 season marks a stark reversal for the young center after a humbling playoff exit.",
+      "article": "Victor Wembanyama has constructed a narrative no one expected at this velocity: humiliation to vindication in a single offseason. After a disastrous 2025 NBA Finals defeat left the 22-year-old Spurs center and his teammates memed across social media, Wembanyama has returned to open the 2026 season with performances that have repositioned San Antonio as a contender.\n\nThe arc is notable because recovery from Finals humiliation typically takes years. Stars who lose high-profile Finals matchups—LeBron after 2011, Durant after 2016—spent seasons rebuilding their credibility. Wembanyama has compressed that process by sheer force of play. In early-season games against elite competition including Oklahoma City, the Spurs have looked like a team built to win now, not in some distant future.\n\nWembanyama's response has been vintage young star: doubled-down effort, improved efficiency, and a willingness to play both ends of the floor. The Spurs' first game this season suggested neither player nor organization is interested in accepting the Finals loss as a setback. Instead, they've treated it as motivation.\n\nWhat has changed is roster construction and experience. The Spurs added pieces over the offseason, but more important is Wembanyama's own evolution from a Finals participant to a Finals center. That psychological shift, combined with another year of conditioning and system mastery, has the Spurs looking like serious playoff contenders in a Western Conference that remains fluid.\n\nIt remains early, but Wembanyama's revenge tour—if it sustains through April—could rewrite expectations for how fast young stars can recover from postseason disappointment.",
       "tweets": []
     },
     {
       "category": "media",
-      "importance": 2,
-      "leadHeadline": "Anthony Rendon re-emerges playing a different sport far from the spotlight — after $245 million MLB debacle",
-      "leadSource": "NY Post Sports · just now",
-      "leadUrl": "https://nypost.com/2026/11/20/sports/anthony-rendon-re-emerges-playing-a-different-sport-far-from-the-spotlight/",
-      "summary": "Anthony Rendon, following his injury-plagued tenure with the Angels on a $245 million deal, has pursued athletic competition in an alternative sport away from major league baseball.",
-      "article": "Anthony Rendon has stepped away from Major League Baseball and taken his competitive energies to a different athletic pursuit, completing his exit from one of sports' most infamous contracts. The Angels' $245 million deal to Rendon, signed in 2019, became a franchise anchor due to chronic injuries that limited his availability and production. Rendon spent the bulk of his Angels tenure battling shoulder, wrist, and other injuries that restricted his playing time and effectiveness.\n\nRendon's move to a new sport reflects the reality that his MLB window has closed. The NY Post compared his departure to Rodney Dangerfield's career pivots—a tongue-in-cheek reference to reinvention and finding acceptance elsewhere. Rendon's Angels contract stands as a cautionary tale of risk in long-term guaranteed deals and the unpredictability of injury in professional sports.",
+      "importance": 5,
+      "leadHeadline": "Amazon's 'Madden' Movie Gets (Almost) Everything Wrong",
+      "leadSource": "Sportico · 6h ago",
+      "leadUrl": "https://www.sportico.com/business/media/2026/madden-sports-movie-review-1234958985/",
+      "summary": "Amazon's 'Madden' film adaptation mishandles the 1970s period setting and misses opportunities for deeper character work on the legendary coach. The production exemplifies how sports biopics can fail by leaning on nostalgia over substance.",
+      "article": "Amazon's attempt to bring legendary football coach John Madden to the screen falls short of its own ambitions, squandering what could have been a character-driven meditation on ambition, football, and the cult of personality that surrounded Madden during his reign with the Oakland Raiders.\n\nThe film's central mistake is treating the 1970s as aesthetic shortcut rather than thematic landscape. Directors have long known that period pieces offer an atmospheric blunt-force nostalgia that can substitute for genuine narrative work—and this Madden adaptation leans hard into that trap. The 1970s setting is deployed for visual texture, not historical insight. Audiences get the costume, not the context.\n\nMadden's era was defined by specific paradoxes: the coach's bellowing persona masked his technical brilliance; his Raiders won through discipline, not chaos; he built a dynasty by outmaneuvering, not outshout­ing, the NFL establishment. The film struggles to honor any of these layers. Instead, it defaults to a greatest-hits approach: recreate famous moments, check the visual boxes, move on.\n\nWhat's absent is the machinery of how Madden actually worked—the film and study sessions, the roster construction decisions, the interpersonal conflicts that forged that Raiders culture. The 1970s become window dressing for a story that could have been set anywhere.\n\nFor sports adaptations broadly, this is a recurring failure. The form works only when the period is in service of character and conflict, not the reverse.",
+      "tweets": []
+    },
+    {
+      "category": "leagues",
+      "importance": 5,
+      "leadHeadline": "Maple Leafs coach Jim Hiller under the microscope after winless streak",
+      "leadSource": "Sportsnet · 2h ago",
+      "leadUrl": "",
+      "summary": "Toronto Maple Leafs head coach Jim Hiller faces scrutiny after a winless stretch has put the team's season trajectory in question. The assessment looks at what has changed and what needs to shift for the team to find footing.",
+      "article": "Jim Hiller's first season as Toronto Maple Leafs head coach has hit a critical juncture. A recent winless streak has placed the veteran coach under immediate pressure, forcing both the franchise and observers to assess whether tactical issues, player performance, or some combination of the two is driving the slump.\n\nHiller arrived in Toronto with a reputation as a structure coach—someone who can impose a system and get players to buy into execution. Early-season results suggested that approach was taking hold. But the winless stretch indicates either the roster is resisting the system, or the system itself needs adjustment.\n\nWhat's notable is the timing. Winless streaks in November are survivable if a team responds. For the Leafs, the pressure is amplified by organizational history: Toronto has cycled through multiple coaches in recent years without securing sustained playoff success. Each new coach arrives with optimism; each faces skepticism. Hiller is no exception.\n\nThe questions now are concrete: Has Hiller been too rigid with his tactical approach? Have the Leafs' star players (Matthews, Marner, Nylander) adapted to new defensive demands? Is the roster simply not built to compete in its division?\n\nSportsnet's analysis suggests Hiller's challenge isn't philosophical but practical. The coach has the respect of veterans, but respect doesn't survive extended losing. If Hiller can't recalibrate quickly—whether through lineup changes, tactical tweaks, or both—the organization may pivot sooner than expected. November pressure is real.",
+      "tweets": []
+    },
+    {
+      "category": "leagues",
+      "importance": 4,
+      "leadHeadline": "Why It's Time for the Indianapolis Colts To Burn It All Down",
+      "leadSource": "Deadspin · 3h ago",
+      "leadUrl": "https://deadspin.com/why-its-time-for-the-indianapolis-colts-to-burn-it-all-down/",
+      "summary": "The Colts' loss to Houston reinforced the case for a full organizational rebuild rather than incremental roster changes. Indianapolis needs to strip the roster and start from scratch.",
+      "article": "The Indianapolis Colts' latest loss to Houston was less a game and more a referendum on the entire organizational direction. And the verdict is clear: incremental moves no longer suffice. The franchise needs to blow it up.\n\nWhat makes this Colts situation different from previous losing streaks is the absence of any coherent direction. The team has cycled through multiple regimes, made free-agent splashes that haven't landed, and accumulated talent without achieving chemistry or wins. The loss to Houston exposed this fractured approach; the Colts didn't lose because of a single player's absence or one week of poor execution. They lost because the entire structure is broken.\n\nA rebuild of this magnitude means trading veterans for future assets, accepting a loss season, and committing to a multi-year process. It's painful for a franchise with playoff expectations, but the alternative—continuing to tread water with partial rosters and partial commitment—is worse.\n\nThe Colts have enough recognizable talent to remain competitive in a weak division, which paradoxically is their biggest problem. Weak competitiveness is the worst scenario because it forestalls real change. A 7-9 season with playoff hopes deferred keeps management in place, keeps the coaching staff intact, keeps the roster unchanged. That inertia has dragged Indianapolis for seasons.\n\nTrue rebuilds require accepting 4-13 seasons. The Colts aren't there yet, which is why they're stuck. Eventually they'll make the choice. The sooner the better.",
       "tweets": []
     }
   ],
@@ -2393,130 +2409,153 @@
   },
   "deals": [
     {
-      "type": "apparel",
-      "parties": "Nike ⇄ Formula 1",
+      "type": "sponsorship",
+      "parties": "Mamba & Mambacita Sports Foundation",
       "value_usd": null,
       "term_years": null,
       "league": "OTHER",
-      "headline": "Nike becomes Formula 1's official outfitting partner beginning 2027",
-      "storyIndex": 10,
-      "blurb": "Multi-year partnership announced; Nike will release a capsule collection before the official start date.",
-      "capturedAt": "2026-11-20T15:51:38.597Z"
+      "headline": "Mamba Mia! Kobe Bryant Charity's Net Assets Top $55Million",
+      "storyIndex": 1,
+      "blurb": "The Mamba & Mambacita Sports Foundation, established to honor Kobe Bryant and his daughter Gigi, holds $55M+ in assets.",
+      "capturedAt": "2026-11-20T18:54:57.928Z"
     }
   ],
-  "ratings": [],
+  "ratings": [
+    {
+      "event": "NFL Regular Season Week 10 Average",
+      "network": "Various (CBS, FOX, NBC, ESPN)",
+      "viewers_m": 18.2,
+      "peak_viewers_m": null,
+      "league": "NFL",
+      "storyIndex": 8,
+      "context": "Highest average viewership since 2010; up 3% year-over-year through Week 10.",
+      "capturedAt": "2026-11-20T18:54:57.928Z"
+    }
+  ],
   "ticket_prices": [],
   "sidebar": [
     {
-      "headline": "Lane Hutson leads Canadiens to gutsiest win of season",
-      "source": "Sportsnet · 11h ago",
-      "article": "Lane Hutson and the Montreal Canadiens overcame a physical assault from the Carolina Hurricanes to post their most impressive win of the campaign. Hutson's playmaking and composure under pressure provided the spine for a Canadiens team that refused to fold when tested. The win suggests Montreal has found a gear that rivals have struggled to match, particularly against an opponent that had been among the league's toughest to beat. The Hurricanes entered expecting to impose their physical identity but instead found themselves overwhelmed by Montreal's pace and execution."
+      "headline": "Mamba Mia! Kobe Bryant Charity's Net Assets Top $55Million",
+      "source": "Sportico · 2h ago",
+      "article": "The Mamba & Mambacita Sports Foundation, created to honor Kobe Bryant and his daughter Gigi, has accumulated more than $55 million in net assets. The foundation has demonstrated the same knack for stockpiling resources that defined Bryant's career point totals. Founded after the tragic 2020 helicopter crash that claimed both their lives, the charity has become a significant philanthropic force in youth sports, funding programs that expand access to athletic opportunities for underserved communities. The growth reflects both major donations and disciplined asset management over its first years of operation."
     },
     {
-      "headline": "Anxiety Rankings: Tennessee looks to avoid nightmare in Neyland, Big 12 living on the edge",
-      "source": "CBS Sports · just now",
-      "article": "Tennessee faces a Saturday collision with Lane Kiffin's Ole Miss squad that carries both personal and professional stakes for the Volunteers. With playoff hopes hanging in the balance, Neyland Stadium becomes a potential minefield where one misstep could derail the season. Kiffin's return adds emotional weight to a game that matters enormously in the SEC standings. The Big 12, meanwhile, is living precariously close to the margins, with multiple teams still in contention and no clear separation between the elite and the vulnerable."
+      "headline": "Puka Nacua's Brother Sends Defiant Message Amid Rams Star's Suspension, Injury Update",
+      "source": "NY Post Sports · 1h ago",
+      "article": "Puka Nacua's brother offered a pointed response to his sibling's suspension and ongoing injury concerns. The post signaled the family's refusal to accept the narrative that Nacua's season is over. Nacua, a key target for the Rams, has dealt with multiple injury setbacks this season, and the suspension added another layer of frustration. His brother's defiant tone suggests the receiver is determined to return and contribute to Los Angeles' playoff push despite the mounting obstacles."
     },
     {
-      "headline": "Cummins retains Cricket Australia support as captain",
-      "source": "BBC Sport · 6h ago",
-      "article": "Pat Cummins will continue as Australia's Test captain despite explosive allegations regarding the sandpaper scandal. Cricket Australia has signaled its confidence in Cummins' leadership and integrity. The move comes as the sport navigates a complicated reckoning with its past and the individuals who steward its present. Cummins' retention represents institutional confidence that the captain can compartmentalize controversy and lead the team forward."
+      "headline": "Man Utd Fan Criticism Has Gone Too Far at Times - Berrada",
+      "source": "BBC Sport · 2h ago",
+      "article": "Manchester United chief executive Omar Berrada pushed back against recent criticism directed at the club's hierarchy, saying some attacks have crossed an acceptable line. Berrada's remarks came amid ongoing fan frustration with managerial decisions and transfer strategy. The executive acknowledged legitimate criticism exists, but argued certain commentary has become personal and unproductive. The statement reflects tension between United's leadership and a fan base accustomed to greater success."
     },
     {
-      "headline": "Maple Leafs gain point, but fall to Kings to extend winless streak",
-      "source": "Sportsnet · 10h ago",
-      "article": "Toronto's loss to Los Angeles extended a troubling winless streak, though the Maple Leafs salvaged at least a single point in the overtime effort. The consolation point provides incremental progress but cannot mask larger structural issues plaguing the team. The Kings' victory underscores the difficulty Toronto faces in converting close contests into wins. For now, the Leafs settle for modest steps forward while bigger fixes remain elusive."
+      "headline": "Rory McIlroy, Sports Psychologist Bob Rotella Meet With Maple Leafs",
+      "source": "Sportsnet · 1h ago",
+      "article": "Golf star Rory McIlroy and legendary sports psychologist Bob Rotella attended a Maple Leafs session after Toronto's shootout loss to the Los Angeles Kings on Thursday. McIlroy, a six-time major winner known for mental-game mastery, met with the struggling team. Rotella, who has worked with top athletes across multiple sports, contributed his expertise on performance psychology. The appearance signals Toronto's willingness to explore unconventional approaches to break out of its winless streak."
     },
     {
-      "headline": "Why injured Joao Pedro may be Chelsea's most important player",
-      "source": "BBC Sport · 1h ago",
-      "article": "With Joao Pedro sidelined again, BBC Sport examines why the Brazilian has become indispensable to Chelsea's attacking architecture. Pedro's absence exposes gaps in the Blues' fluidity and creativity. His injury highlights Chelsea's depth limitations and the burden placed on a single player to generate attacking momentum. The gap between Chelsea with and without Pedro has become impossible to ignore."
+      "headline": "Oregon State AD Kevin Griffin Discusses New Pac-12, CFP Expansion Concerns",
+      "source": "Front Office Sports · 1h ago",
+      "article": "Oregon State athletic director Kevin Griffin addressed the reconstructed Pac-12's status and his concerns about College Football Playoff expansion. Griffin also announced OSU's re-signing of two star football players, signaling the athletic department's commitment to retention despite the conference's uncertain standing. The Pac-12's rebuild under new leadership continues to face questions about long-term viability and media-rights negotiations as the landscape shifts."
     },
     {
-      "headline": "Jim Nantz on J.J. Watt, Tony Romo's Future, and Dan Hicks's Passing",
-      "source": "Front Office Sports · just now",
-      "article": "Jim Nantz reflects on the recent loss of longtime broadcast partner Dan Hicks while discussing the future of Tony Romo and J.J. Watt in broadcasting. Nantz's perspective carries the weight of someone who has worked at the highest levels of sports media and seen the landscape shift beneath the industry. The conversation touches on succession, mentorship, and the unique challenges of maintaining broadcast excellence across an evolving media environment. Nantz's insights underscore the personal bonds that form among top-tier talent."
+      "headline": "England Aim to Pile on Style and Add to All Black Misery",
+      "source": "BBC Sport · 2h ago",
+      "article": "England's resurgent rugby squad, playing with renewed offensive flair, faces New Zealand on Saturday as the All Blacks navigate sudden competitive pressure. England's recent revival has been built on attacking rugby and execution, while New Zealand enters the match in an unfamiliar position of defensive scrambling. The matchup pits style against tradition, with England seeking to extend its recent dominance over a New Zealand side that has not faced this level of sustained challenge in recent seasons."
     }
   ],
   "poll": {
-    "question": "Who should land the 2030 FIFA World Cup U.S. broadcasting rights?",
+    "question": "What should the Indianapolis Colts prioritize in the offseason?",
     "options": [
-      "Fox and Univision (traditional broadcast partnership)",
-      "A streaming platform (Apple TV+, Amazon Prime, Netflix)",
-      "ESPN or another cable sports network",
-      "Open to any bidder with the highest offer"
+      "Full rebuild with veteran trades and asset collection",
+      "Targeted roster add at QB and complementary positions",
+      "Coaching change while maintaining core roster",
+      "Incremental adjustments and patience with current scheme"
     ]
   },
   "predictions": [
     {
-      "statement": "Nike's Formula 1 partnership generates at least $500M in annual F1 merchandise sales within three years of launch.",
-      "probability": 62,
-      "rationale": "F1's explosive North American growth and Nike's unmatched apparel distribution networks create ideal conditions for elevated merchandise velocity. However, motorsport apparel remains a niche category compared to NFL or NBA, capping the ceiling."
+      "statement": "Daniel Jones signs with an NFC team by March 2027 on a 1-year, prove-it deal.",
+      "probability": 72,
+      "rationale": "Jones remains young enough and talented enough for a last-chance venue. A team with an established defense and run game might see upside in a low-cost rental. Expect interest from a franchise needing a bridge QB."
     },
     {
-      "statement": "Amazon will replace Al Michaels before the 2027 NFL season begins.",
-      "probability": 71,
-      "rationale": "Media critics have flagged performance issues publicly; Amazon has the financial resources and broadcast bench depth to make a move. The network cannot afford declining broadcast quality on its marquee property, and Michaels' age compounds the risk calculus."
+      "statement": "FIFA's 2030 World Cup rights sell for less than $1.5B globally due to broadcaster pullback.",
+      "probability": 68,
+      "rationale": "Three major networks have already exited or paused bidding. That erosion typically triggers downward pricing pressure. FIFA's leverage weakens with each withdrawal. A compressed bidder pool favors buyers over the seller."
     },
     {
-      "statement": "Fox and Univision's joint World Cup bid will prevail over all streaming competitors.",
-      "probability": 44,
-      "rationale": "Streaming platforms have deeper pockets and stronger international reach, but Fox-Univision's linear distribution and Spanish-language capacity in the U.S. market provide real competitive advantages. FIFA's preference for maximum reach cuts both ways."
+      "statement": "Victor Wembanyama wins an All-NBA award by season's end.",
+      "probability": 55,
+      "rationale": "He's playing like a star again after last year's Finals flop, and his statistical line is elite. The narrative momentum is real. All-NBA voting rewards both performance and redemption, and Wembanyama has both. It's plausible but not certain—he'd need to sustain it through April."
     },
     {
-      "statement": "Victor Wembanyama's Spurs will finish top-four in the Western Conference.",
-      "probability": 58,
-      "rationale": "Wembanyama's individual ascent is real, but San Antonio still lacks the multi-star constellation that typically defines conference elites. Early-season momentum can fade; the Spurs need sustained health and complementary talent to sustain contention."
+      "statement": "Jim Hiller is replaced as Maple Leafs head coach by April 2027.",
+      "probability": 48,
+      "rationale": "The winless streak signals real problems, but one bad month doesn't trigger a mid-season firing in Toronto. Hiller likely gets through the season. If the Leafs miss the playoffs entirely, however, the hook comes quickly. Coin-flip territory."
     }
   ],
   "injuries": [
+    {
+      "player": "Puka Nacua",
+      "team": "Los Angeles Rams",
+      "league": "NFL",
+      "position": "WR",
+      "status": "OUT",
+      "injury": "Suspension and injury (details not specified)",
+      "timeline": null,
+      "source": "NY Post Sports",
+      "impact": "Rams lose a primary target in their passing game amid playoff push; offensive flexibility decreases.",
+      "storyIndex": 2
+    },
     {
       "player": "Bukayo Saka",
       "team": "Arsenal",
       "league": "SOCCER",
       "position": "FW",
       "status": "OUT",
-      "injury": "Injury (specific diagnosis not stated)",
+      "injury": "Injury (rehabilitation ongoing)",
       "timeline": "May not return before Christmas",
       "source": "The Guardian",
-      "impact": "Arsenal's attacking width and creativity will be compromised through the year-end period as Saka continues rehabilitation.",
-      "storyIndex": 1
+      "impact": "Arsenal loses a key attacking contributor for 6+ weeks; creative play shifts to alternative wingers.",
+      "storyIndex": 2
     },
     {
-      "player": "Alexis Mac Allister",
-      "team": "Brighton",
+      "player": "Alexis Mac Allister (Zubimendi)",
+      "team": "Arsenal",
       "league": "SOCCER",
       "position": "MF",
       "status": "OUT",
-      "injury": "Zubimendi injury (specific diagnosis not stated)",
-      "timeline": "Out for Saturday's game at Newcastle",
+      "injury": "Not specified",
+      "timeline": "Out for Saturday's match at Newcastle",
       "source": "The Guardian",
-      "impact": "Brighton will face Newcastle without key midfield personnel, affecting possession security and ball progression.",
+      "impact": "Arsenal's midfield balance is altered for upcoming fixture; playmaking responsibilities shift.",
+      "storyIndex": 2
+    },
+    {
+      "player": "Jack Grealish",
+      "team": "Manchester City",
+      "league": "SOCCER",
+      "position": "MF",
+      "status": "RETURNING",
+      "injury": "Suspension (lifted)",
+      "timeline": "Available again for Everton fixture",
+      "source": "The Guardian",
+      "impact": "City regains versatile attacking midfielder; offensive options expand after absence.",
       "storyIndex": 1
     },
     {
-      "player": "Joao Pedro",
-      "team": "Chelsea",
-      "league": "SOCCER",
-      "position": "FW",
-      "status": "OUT",
-      "injury": "Injury (specific diagnosis not stated)",
-      "timeline": "Missing Saturday's match",
-      "source": "BBC Sport",
-      "impact": "Chelsea's attacking fluidity and goal-scoring threat are diminished; the team has shown structural gaps without Pedro's creative presence.",
-      "storyIndex": 13
-    },
-    {
       "player": "Carlos Alcaraz",
-      "team": "Spain (ATP Tour)",
+      "team": "ATP Tour",
       "league": "TENNIS",
       "position": "",
-      "status": "DAY_TO_DAY",
-      "injury": "Hamstring injury",
-      "timeline": "Competing at ATP Finals despite concerns",
-      "source": "BBC Sport",
-      "impact": "Alcaraz appears to be managing the hamstring without significant impact on his performance; he has won three straight-sets matches at the Finals.",
-      "storyIndex": 3
+      "status": "RETURNING",
+      "injury": "Hamstring",
+      "timeline": "Playing through it; appeared untroubled at ATP Finals",
+      "source": "BBC Sport, The Guardian",
+      "impact": "Alcaraz contests ATP Finals group stage; hamstring appears manageable during his three straight-set wins.",
+      "storyIndex": 4
     }
   ],
   "picks": [
@@ -5952,46 +5991,46 @@
       "_pendingGrade": true
     }
   ],
-  "updatedAt": "2026-04-23T18:45:00Z",
+  "updatedAt": "2026-11-20T17:30:00Z",
   "highlights": [
     {
       "league": "NBA",
-      "title": "NBA's Nightly Recap | November 19, 2026",
-      "videoId": "-UedEoekVC8",
-      "thumbnail": "https://img.youtube.com/vi/-UedEoekVC8/mqdefault.jpg",
-      "timeAgo": "8h ago",
+      "title": "Cade Cunningham and Scottie Barnes duel tonight",
+      "videoId": "qjd08XHTCGc",
+      "thumbnail": "https://img.youtube.com/vi/qjd08XHTCGc/mqdefault.jpg",
+      "timeAgo": "1h ago",
       "isFallback": false
     },
     {
       "league": "NFL",
-      "title": "Week 11 Fantasy Preview Part 2: Biggest Fantasy Decisions You Need to Make! | Fantasy Focus 🏈",
-      "videoId": "pCMNxU-w5K4",
-      "thumbnail": "https://img.youtube.com/vi/pCMNxU-w5K4/mqdefault.jpg",
-      "timeAgo": "2h ago",
+      "title": "Chiefs wanted Emmett Johnson badly",
+      "videoId": "XkNpToJj6Z0",
+      "thumbnail": "https://img.youtube.com/vi/XkNpToJj6Z0/mqdefault.jpg",
+      "timeAgo": "1h ago",
       "isFallback": false
     },
     {
       "league": "MLB",
-      "title": "Defense on LOCK! 🔒 The best DOUBLE and TRIPLE PLAYS from the 2026 season! 😤",
-      "videoId": "rZ8ZJHMiOnE",
-      "thumbnail": "https://img.youtube.com/vi/rZ8ZJHMiOnE/mqdefault.jpg",
+      "title": "Team Czechia vs. Team Japan: Full Game (3/10/2026) | 2026 World Baseball Classic",
+      "videoId": "WvdRAA9MBEo",
+      "thumbnail": "https://img.youtube.com/vi/WvdRAA9MBEo/mqdefault.jpg",
       "timeAgo": "1h ago",
       "isFallback": false
     },
     {
       "league": "NHL",
-      "title": "TOCCHET has high praise for the Flyers VETS 🙌",
-      "videoId": "LoJ7gtDJv9Q",
-      "thumbnail": "https://img.youtube.com/vi/LoJ7gtDJv9Q/mqdefault.jpg",
-      "timeAgo": "2h ago",
+      "title": "The BEST of Connor McDavid’s Historic 23-Game Point Streak",
+      "videoId": "IDp9ZFMMBEU",
+      "thumbnail": "https://img.youtube.com/vi/IDp9ZFMMBEU/mqdefault.jpg",
+      "timeAgo": "1h ago",
       "isFallback": false
     },
     {
       "league": "WNBA",
-      "title": "Court vision like THIS is why she's the Point Gawd 👀",
-      "videoId": "KBcQ3s6jqBc",
-      "thumbnail": "https://img.youtube.com/vi/KBcQ3s6jqBc/mqdefault.jpg",
-      "timeAgo": "22h ago",
+      "title": "Top Assists of the Year",
+      "videoId": "e2war0Yjjf8",
+      "thumbnail": "https://img.youtube.com/vi/e2war0Yjjf8/mqdefault.jpg",
+      "timeAgo": "Just now",
       "isFallback": false
     },
     {
@@ -5999,11 +6038,155 @@
       "title": "James Garner scored an absolute stunner in training ⚽️🔥 (via @england/IG)",
       "videoId": "eGoxA9I0rqk",
       "thumbnail": "https://img.youtube.com/vi/eGoxA9I0rqk/mqdefault.jpg",
-      "timeAgo": "1h ago",
+      "timeAgo": "4h ago",
       "isFallback": false
     }
   ],
   "reels": [
+    {
+      "league": "WNBA",
+      "title": "Top Assists of the Year",
+      "videoId": "e2war0Yjjf8",
+      "author": "WNBA",
+      "pubDate": "2026-11-20T18:30:11+00:00",
+      "link": "https://www.youtube.com/watch?v=e2war0Yjjf8"
+    },
+    {
+      "league": "NHL",
+      "title": "The BEST of Connor McDavid’s Historic 23-Game Point Streak",
+      "videoId": "IDp9ZFMMBEU",
+      "author": "NHL",
+      "pubDate": "2026-11-20T18:00:36+00:00",
+      "link": "https://www.youtube.com/watch?v=IDp9ZFMMBEU"
+    },
+    {
+      "league": "MLB",
+      "title": "Team Czechia vs. Team Japan: Full Game (3/10/2026) | 2026 World Baseball Classic",
+      "videoId": "WvdRAA9MBEo",
+      "author": "MLB",
+      "pubDate": "2026-11-20T18:00:10+00:00",
+      "link": "https://www.youtube.com/watch?v=WvdRAA9MBEo"
+    },
+    {
+      "league": "NFL",
+      "title": "Chiefs wanted Emmett Johnson badly",
+      "videoId": "XkNpToJj6Z0",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-11-20T18:00:07+00:00",
+      "link": "https://www.youtube.com/watch?v=XkNpToJj6Z0"
+    },
+    {
+      "league": "NBA",
+      "title": "Cade Cunningham and Scottie Barnes duel tonight",
+      "videoId": "qjd08XHTCGc",
+      "author": "NBA",
+      "pubDate": "2026-11-20T17:40:45+00:00",
+      "link": "https://www.youtube.com/watch?v=qjd08XHTCGc"
+    },
+    {
+      "league": "NFL",
+      "title": "Is Chig Okonkwo the TOP Streaming Tight End for Week 11?! #nfl #fantasyfootball",
+      "videoId": "7Z5DjDhqpT8",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-11-20T17:33:36+00:00",
+      "link": "https://www.youtube.com/watch?v=7Z5DjDhqpT8"
+    },
+    {
+      "league": "NFL",
+      "title": "First Take's MVP frontrunners 🏈 + Stephen A. blames Dallas players for THIS... 👀 | First Take",
+      "videoId": "UY9faDAexMo",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-11-20T17:03:16+00:00",
+      "link": "https://www.youtube.com/watch?v=UY9faDAexMo"
+    },
+    {
+      "league": "NHL",
+      "title": "McKenna BENCHED in overtime 👀",
+      "videoId": "6Mg-WoXZs28",
+      "author": "NHL",
+      "pubDate": "2026-11-20T17:00:32+00:00",
+      "link": "https://www.youtube.com/watch?v=6Mg-WoXZs28"
+    },
+    {
+      "league": "WNBA",
+      "title": "WNBA OGs Episode 1: Phoenix Mercury And Their X-Factors",
+      "videoId": "GhziBY1-AVQ",
+      "author": "WNBA",
+      "pubDate": "2026-11-20T16:59:15+00:00",
+      "link": "https://www.youtube.com/watch?v=GhziBY1-AVQ"
+    },
+    {
+      "league": "NFL",
+      "title": "Let Skip cook when it comes to Josh Allen 😂",
+      "videoId": "NYXajpu3jIE",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-11-20T16:23:34+00:00",
+      "link": "https://www.youtube.com/watch?v=NYXajpu3jIE"
+    },
+    {
+      "league": "MLB",
+      "title": "Between William, Willmer &amp; Willson, calling out names in the Contreras household can get confusing 😂",
+      "videoId": "tTXsMSvy3Ww",
+      "author": "MLB",
+      "pubDate": "2026-11-20T16:20:29+00:00",
+      "link": "https://www.youtube.com/watch?v=tTXsMSvy3Ww"
+    },
+    {
+      "league": "NBA",
+      "title": "A familiar face enters the Top 3 in Shaun Powell’s Week 5 Kia MVP Ladder!",
+      "videoId": "Z5iXFjvHrfE",
+      "author": "NBA",
+      "pubDate": "2026-11-20T16:13:14+00:00",
+      "link": "https://www.youtube.com/watch?v=Z5iXFjvHrfE"
+    },
+    {
+      "league": "NBA",
+      "title": "The Spurs were loving the Wemby “Shunk” 😂",
+      "videoId": "zmZA1DjQK04",
+      "author": "NBA",
+      "pubDate": "2026-11-20T16:11:20+00:00",
+      "link": "https://www.youtube.com/watch?v=zmZA1DjQK04"
+    },
+    {
+      "league": "NBA",
+      "title": "Wemby really shot a dunk 😂",
+      "videoId": "PdKh57bt6ms",
+      "author": "NBA",
+      "pubDate": "2026-11-20T16:09:43+00:00",
+      "link": "https://www.youtube.com/watch?v=PdKh57bt6ms"
+    },
+    {
+      "league": "MLB",
+      "title": "Achievements, records &amp; MORE! 🫡 Every MILESTONE MOMENT from throughout the 2026 season!",
+      "videoId": "xTaL0v6FA_w",
+      "author": "MLB",
+      "pubDate": "2026-11-20T16:00:19+00:00",
+      "link": "https://www.youtube.com/watch?v=xTaL0v6FA_w"
+    },
+    {
+      "league": "NHL",
+      "title": "Business as usual for Robo &amp; Co. 🤖",
+      "videoId": "Z2yGDoB4RRA",
+      "author": "NHL",
+      "pubDate": "2026-11-20T16:00:01+00:00",
+      "link": "https://www.youtube.com/watch?v=Z2yGDoB4RRA"
+    },
+    {
+      "league": "NFL",
+      "title": "Week 11 Fantasy Preview Part 2: Biggest Fantasy Decisions You Need to Make! | Fantasy Focus 🏈",
+      "videoId": "pCMNxU-w5K4",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-11-20T15:59:05+00:00",
+      "link": "https://www.youtube.com/watch?v=pCMNxU-w5K4"
+    },
+    {
+      "league": "NFL",
+      "title": "'This could GET THEM INTO THE PLAYOFFS!' 👀 - Donte Whitner on Cowboys' change | Get Up",
+      "videoId": "3rzyZd7DO7c",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-11-20T15:51:18+00:00",
+      "link": "https://www.youtube.com/watch?v=3rzyZd7DO7c"
+    },
     {
       "league": "NFL",
       "title": "Will Brock Purdy make his MVP case against the Vikings? 🗣️",
@@ -6037,52 +6220,12 @@
       "link": "https://www.youtube.com/watch?v=rZ8ZJHMiOnE"
     },
     {
-      "league": "NFL",
-      "title": "Dan Orlovsky breaks down the biggest mismatch in Vikings vs. 49ers 🏈 | Get Up",
-      "videoId": "HzVcUU_4qoE",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-11-20T14:43:29+00:00",
-      "link": "https://www.youtube.com/watch?v=HzVcUU_4qoE"
-    },
-    {
-      "league": "NFL",
-      "title": "🤔",
-      "videoId": "w52grFF7KSk",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-11-20T14:42:05+00:00",
-      "link": "https://www.youtube.com/watch?v=w52grFF7KSk"
-    },
-    {
-      "league": "NFL",
-      "title": "Travis Kelce's toughness is UNDERRATED",
-      "videoId": "XlBHufh2XZw",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-11-20T14:36:44+00:00",
-      "link": "https://www.youtube.com/watch?v=XlBHufh2XZw"
-    },
-    {
-      "league": "NFL",
-      "title": "Jason Taylor Was A Hall Of Fame Trash Talker",
-      "videoId": "44zGPUjW6PY",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-11-20T14:00:38+00:00",
-      "link": "https://www.youtube.com/watch?v=44zGPUjW6PY"
-    },
-    {
       "league": "NHL",
       "title": "TOCCHET has high praise for the Flyers VETS 🙌",
       "videoId": "LoJ7gtDJv9Q",
       "author": "NHL",
       "pubDate": "2026-11-20T14:00:30+00:00",
       "link": "https://www.youtube.com/watch?v=LoJ7gtDJv9Q"
-    },
-    {
-      "league": "NFL",
-      "title": "Vikings-49ers Preview: Can Brock Purdy Solve Brian Flores' Vikings Defense?",
-      "videoId": "n-B9aRi-SRw",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-11-20T14:00:18+00:00",
-      "link": "https://www.youtube.com/watch?v=n-B9aRi-SRw"
     },
     {
       "league": "MLB",
@@ -6093,16 +6236,8 @@
       "link": "https://www.youtube.com/watch?v=atnQhc3dl_M"
     },
     {
-      "league": "NFL",
-      "title": "Week 11 Fantasy Preview Part 2: Biggest Fantasy Decisions You Need to Make! | Fantasy Focus 🏈",
-      "videoId": "pCMNxU-w5K4",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-11-20T13:23:01+00:00",
-      "link": "https://www.youtube.com/watch?v=pCMNxU-w5K4"
-    },
-    {
       "league": "MLB",
-      "title": "Brett Gardner career MLB highlights | 14-years and 274 SB with the Yankees | 2009 World Series champ",
+      "title": "Brett Gardner career MLB highlights | 14 years and 274 SB with the Yankees | 2009 World Series champ",
       "videoId": "CUfgUsRyATQ",
       "author": "MLB",
       "pubDate": "2026-11-20T12:00:07+00:00",
@@ -6165,68 +6300,12 @@
       "link": "https://www.youtube.com/watch?v=ukEo47pPPF8"
     },
     {
-      "league": "NHL",
-      "title": "Canucks vs. Kraken | NHL Highlights | Nov 19, 2026",
-      "videoId": "njKlHTneJr0",
-      "author": "NHL",
-      "pubDate": "2026-11-20T05:48:42+00:00",
-      "link": "https://www.youtube.com/watch?v=njKlHTneJr0"
-    },
-    {
-      "league": "NHL",
-      "title": "Stick tape is THAT SERIOUS 📐📏",
-      "videoId": "tacU-U1Y4Qo",
-      "author": "NHL",
-      "pubDate": "2026-11-20T05:45:30+00:00",
-      "link": "https://www.youtube.com/watch?v=tacU-U1Y4Qo"
-    },
-    {
-      "league": "NHL",
-      "title": "Leafs are left looking for answers 🤔",
-      "videoId": "C8WjllNCWy8",
-      "author": "NHL",
-      "pubDate": "2026-11-20T05:34:35+00:00",
-      "link": "https://www.youtube.com/watch?v=C8WjllNCWy8"
-    },
-    {
       "league": "NBA",
       "title": "KAT Gets Real About His Love for Minnesota, Then Delivers a COLD Knicks Quote",
       "videoId": "3YumwcZN69k",
       "author": "NBA",
       "pubDate": "2026-11-20T05:34:28+00:00",
       "link": "https://www.youtube.com/watch?v=3YumwcZN69k"
-    },
-    {
-      "league": "NBA",
-      "title": "Wemby's Teammates Can't Stop Imitating His New “Shunk” Celebration 😂",
-      "videoId": "_ToG1tJIeRM",
-      "author": "NBA",
-      "pubDate": "2026-11-20T05:30:01+00:00",
-      "link": "https://www.youtube.com/watch?v=_ToG1tJIeRM"
-    },
-    {
-      "league": "NBA",
-      "title": "Final 5:17 DOWN TO THE WIRE Knicks vs Timberwolves | November 19, 2026",
-      "videoId": "1G0w0xx-P_o",
-      "author": "NBA",
-      "pubDate": "2026-11-20T04:58:40+00:00",
-      "link": "https://www.youtube.com/watch?v=1G0w0xx-P_o"
-    },
-    {
-      "league": "NBA",
-      "title": "Victor Wembanyama was UNSTOPPABLE with 32 PTS &amp; 11 REB vs Clippers | November 19, 2026",
-      "videoId": "IeYYoNUN-Ts",
-      "author": "NBA",
-      "pubDate": "2026-11-20T04:54:13+00:00",
-      "link": "https://www.youtube.com/watch?v=IeYYoNUN-Ts"
-    },
-    {
-      "league": "NBA",
-      "title": "Wemby Explains the REAL Reason Behind His New “Shunk” Finish 😂",
-      "videoId": "qSWGeF-B-kc",
-      "author": "NBA",
-      "pubDate": "2026-11-20T04:50:49+00:00",
-      "link": "https://www.youtube.com/watch?v=qSWGeF-B-kc"
     },
     {
       "league": "MLB",
@@ -6251,22 +6330,6 @@
       "author": "ESPN FC",
       "pubDate": "2026-11-20T02:53:20+00:00",
       "link": "https://www.youtube.com/watch?v=ZT9m9x8K5CI"
-    },
-    {
-      "league": "MLB",
-      "title": "FULL GAME: Brewers win the rematch vs. Yoshinobu Yamamoto and the Dodgers! (2026 NLCS Game 2)",
-      "videoId": "fu-Odp1bz8M",
-      "author": "MLB",
-      "pubDate": "2026-11-20T02:00:22+00:00",
-      "link": "https://www.youtube.com/watch?v=fu-Odp1bz8M"
-    },
-    {
-      "league": "MLB",
-      "title": "2026 Dylan Cease Highlights (239 strikeouts in his first season with the Blue Jays!)",
-      "videoId": "Dvy1WULdUK0",
-      "author": "MLB",
-      "pubDate": "2026-11-20T00:00:33+00:00",
-      "link": "https://www.youtube.com/watch?v=Dvy1WULdUK0"
     },
     {
       "league": "SOCCER",
@@ -6299,30 +6362,6 @@
       "author": "ESPN FC",
       "pubDate": "2026-11-19T22:33:18+00:00",
       "link": "https://www.youtube.com/watch?v=y_YIyWtVKvo"
-    },
-    {
-      "league": "SOCCER",
-      "title": "What to expect from Mauricio Pochettino’s Man United debut vs. Liverpool | ESPN FC",
-      "videoId": "C4PDSDzSXEs",
-      "author": "ESPN FC",
-      "pubDate": "2026-11-19T22:31:32+00:00",
-      "link": "https://www.youtube.com/watch?v=C4PDSDzSXEs"
-    },
-    {
-      "league": "MLB",
-      "title": "Team Venezuela vs. Team Nicaragua: Full Game (3/9/2026) | 2026 World Baseball Classic",
-      "videoId": "dAuP2XqspUE",
-      "author": "MLB",
-      "pubDate": "2026-11-19T22:00:35+00:00",
-      "link": "https://www.youtube.com/watch?v=dAuP2XqspUE"
-    },
-    {
-      "league": "WNBA",
-      "title": "Court vision like THIS is why she's the Point Gawd 👀",
-      "videoId": "KBcQ3s6jqBc",
-      "author": "WNBA",
-      "pubDate": "2026-11-19T18:17:50+00:00",
-      "link": "https://www.youtube.com/watch?v=KBcQ3s6jqBc"
     }
   ]
 }
