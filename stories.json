@@ -1,73 +1,81 @@
 {
   "clusters": [
     {
+      "category": "leagues",
+      "importance": 9,
+      "leadHeadline": "Cavaliers' James Harden rolls back years with 'vintage' 51-point explosion to pass Kobe Bryant",
+      "leadSource": "The Guardian · just now",
+      "leadUrl": "https://www.theguardian.com/sport/2026/nov/21/james-harden-51-points-kobe-bryant-cavaliers-pacers-nba",
+      "summary": "At 37, Harden erupted for 51 points and his 26th career 50-point game to lift Cleveland past Indiana 128-119, passing Kobe Bryant on the all-time list.",
+      "article": "James Harden scored 51 points as the Cleveland Cavaliers defeated the Indiana Pacers 128-119 in an NBA Cup game Friday night, moving past Kobe Bryant into third place on the all-time 50-point games list.\n\nThe 37-year-old finished 15-of-26 from the field, 7-of-11 from deep, and a perfect 14-of-14 from the free-throw line in 40 minutes. He added six rebounds and six assists. It was his first 50-point outing since Nov. 2025 and his best scoring game in a Cavaliers uniform since joining the team at the trade deadline in February.\n\nWith his 26th career 50-point game, Harden surpassed Bryant's 25. Only Wilt Chamberlain (118) and Michael Jordan (31) have more. At 37 years and 86 days, Harden became the fourth-oldest player to reach 50 points in a game.\n\nAfter the game, Harden addressed the milestone. \"When you talk about just basketball, obviously Wilt was elite, but you got Mike and Kobe - shooting guard position, the best to ever do it - so just to be in that conversation, it's very humbling and it's definitely special,\" he said.",
+      "tweets": [
+        {
+          "url": "https://twitter.com/NBA/status/2123974883629748518",
+          "html": "<blockquote class=\"twitter-tweet\" data-dnt=\"true\" data-theme=\"dark\"><p>JAMES HARDEN 51 POINTS TONIGHT 🤯🤯\n\nHE NOW HAS THE 3RD-MOST 50+ POINT GAMES IN NBA HISTORY!\n\n@cavs improve to 2-1 in @emirates NBA Cup Group Play! https://t.co/uUHcvEq3bR</p>&mdash; NBA (@NBA) <a href=\"https://twitter.com/NBA/status/2123974883629748518\">November 21, 2026</a></blockquote>",
+          "author_name": "NBA",
+          "author_url": "https://twitter.com/NBA",
+          "dateMs": 1795230048000
+        }
+      ]
+    },
+    {
+      "category": "leagues",
+      "importance": 8,
+      "leadHeadline": "Superb England run up record win over New Zealand",
+      "leadSource": "BBC Sport · 2h ago",
+      "leadUrl": "https://www.bbc.co.uk/sport/rugby-union/articles/cwm2jxd8k15mo?at_medium=RSS&amp;at_campaign=rss",
+      "summary": "England defeated New Zealand by a record margin in rugby after former captain Lewis Moody led the hosts' response to the haka. The rout extends England's revival campaign.",
+      "article": "England demolished New Zealand by a record margin in rugby, a dominant performance led by former captain Lewis Moody's response to the haka before kickoff. The victory marks a significant statement in England's resurgence this season. New Zealand entered as defending champions but was unable to withstand the hosts' intensity on home soil. Moody's pre-match leadership set the tone for what became England's most commanding result against the All Blacks in recent memory. The margin of victory—now a record between the two nations—suggests England has closed a gap that has historically favored New Zealand in head-to-head matchups. The win comes amid a broader momentum shift in the Six Nations cycle, with England emerging as a legitimate contender heading into the knockout stages.",
+      "tweets": []
+    },
+    {
+      "category": "leagues",
+      "importance": 8,
+      "leadHeadline": "Alcaraz battles back against Shelton to reach final",
+      "leadSource": "BBC Sport · just now",
+      "leadUrl": "https://www.bbc.co.uk/sport/tennis/articles/cw5y1gg7nyv0o?at_medium=RSS&amp;at_campaign=rss",
+      "summary": "Carlos Alcaraz completed a comeback victory over Ben Shelton to reach the ATP Finals championship match. The win gives Alcaraz a chance to claim his first ATP Finals title.",
+      "article": "Carlos Alcaraz advanced to the ATP Finals championship match after a superb comeback victory over Ben Shelton. The win marks Alcaraz's first appearance in an ATP Finals final and represents the culmination of a season in which the young Spaniard has steadily climbed back toward elite status. Shelton, the American rising prospect, took a lead in the match but could not hold off Alcaraz's adjustment and intensity in the decisive sets. Alcaraz will now face his opponent in the final, a match that carries significant implications for year-end rankings and momentum heading into the offseason. The comeback demonstrated the resilience that has defined Alcaraz's recovery from an extended period of injury and reduced competition earlier in the year.",
+      "tweets": []
+    },
+    {
       "category": "labor",
       "importance": 7,
-      "leadHeadline": "MLB Owners Make Draft Concession As Salary Cap Standoff Continues",
-      "leadSource": "Front Office Sports · 10h ago",
-      "leadUrl": "https://frontofficesports.com/article/mlb-owners-make-draft-concession-as-salary-cap-standoff-continues/",
-      "summary": "MLB dropped its proposal to bar high school players from the domestic draft Friday, citing union feedback, though salary cap talks remain gridlocked with owners seeking $258.2 million hard cap.",
-      "article": "MLB dropped a proposal to restrict U.S.-born players from entering the domestic draft before reaching age 20. MLB spokesman Glen Caplin said the league made \"a concession today by withdrawing our proposal on high school eligibility.\"\n\nThe offer, made in June, received immediate and widespread criticism, including from the union. MLBPA interim executive director Bruce Meyer said the union is \"committed to negotiating a system that preserves opportunities for future generations of players.\"\n\nThe concession proved largely symbolic. The union continues resisting a full-scale international draft that owners have sought for more than two decades. On the broader economic front, the divide remains vast. MLB's latest proposal calls for a hard cap of $258.2 million and a floor of $180.2 million, beginning in 2028. The players have called implementing a salary cap a \"nonstarter\" and remain steadfast. Commissioner Rob Manfred told reporters: \"I can't imagine the owners ratifying a deal that does not include a cap and floor.\"",
+      "leadHeadline": "NWSL's Big-Spending Owners Face Off With Championship at Stake",
+      "leadSource": "Front Office Sports · 2h ago",
+      "leadUrl": "https://frontofficesports.com/article/nwsl-set-high-stakes-championship-washington-spirit-home-stadium/",
+      "summary": "Trinity Rodman chases another NWSL title after salary rules changed in her favor, pitting well-funded ownership groups against one another in the championship race. The rule changes have reshaped competitive balance.",
+      "article": "Trinity Rodman and the NWSL's big-spending franchises are locked in a championship chase after recent salary cap modifications altered the competitive landscape. The rule changes were designed to allow certain teams to operate under higher payroll thresholds, a shift that has empowered owners willing to invest heavily in roster construction. Rodman, a generational talent and one of the league's marquee marketing assets, sits at the center of this evolution. Her franchise has benefited from the new framework, positioning her pursuit of a title within an environment fundamentally different from previous seasons. The championship race now reflects not merely on-field performance but also the financial commitment of ownership and the degree to which newer investment models are reshaping women's professional soccer in North America. The outcome will carry implications for how the league manages star power and competitive balance in future contract cycles.",
       "tweets": []
     },
     {
       "category": "media",
+      "importance": 7,
+      "leadHeadline": "NWSL's Star Power Still Lags in the Global Soccer Spotlight",
+      "leadSource": "Sportico · 5h ago",
+      "leadUrl": "https://www.sportico.com/leagues/soccer/2026/nwsl-championship-ballon-dor-womens-history-1234958892/",
+      "summary": "Sophia Wilson, an NWSL star, described it as 'borderline impossible' to win the Ballon d'Or Féminin while playing in America rather than Europe. The disparity in global recognition underscores structural gaps in women's soccer.",
+      "article": "Sophia Wilson, one of the NWSL and U.S. Women's National Team's brightest talents, laid bare the ceiling on individual recognition for American-based players: winning the Ballon d'Or Féminin from MLS is, she said, 'borderline impossible.' The numbers support her assessment. The world's most prestigious individual women's soccer award has consistently gone to players competing in the top European leagues, where visibility, television distribution, and institutional prestige funnel voters toward certain franchises and competitions. The NWSL, despite significant recent investment and emerging star power, remains geographically and culturally distant from the European-centered global media apparatus that determines major awards voting. This structural gap means that even transcendent talents performing at peak levels in America face an uphill battle for recognition that their European counterparts receive almost automatically. For the NWSL, the barrier extends beyond individual accolades: it signals a persistent gap in global cultural relevance, one that affects how the league markets itself, attracts international talent, and builds the narrative infrastructure necessary for sustained global growth.",
+      "tweets": []
+    },
+    {
+      "category": "contracts",
       "importance": 6,
-      "leadHeadline": "YouTube joins list of companies passing on World Cup bid",
-      "leadSource": "Sports Media Watch · 12h ago",
-      "leadUrl": "https://www.sportsmediawatch.com/2026/11/youtube-will-not-bid-fifa-world-cup-negotiations/",
-      "summary": "YouTube has become the latest major tech company to exit bidding for FIFA World Cup media rights for 2030 and 2034. The withdrawal leaves only three confirmed bidders, a sharp contraction from the broader market FIFA had anticipated.",
-      "article": "YouTube has joined a growing list of companies stepping back from the World Cup media-rights auction, narrowing the field to just three confirmed bidders for 2030 and 2034 FIFA World Cup broadcasting rights.\n\nThe streaming giant's exit follows similar decisions by Skydance and other potential bidders who had initially signaled interest in the tournament package. What FIFA had hoped would be a competitive, multi-billion-dollar market has instead tightened into a three-horse race, raising questions about the eventual valuation and global distribution strategy for the sport's marquee property.\n\nThe pullback reflects the complexity of World Cup rights: bidders must commit to global or multi-regional packages with infrastructure demands, rights fragmentation across territories, and regulatory hurdles in key markets. The streaming wars have also cooled the enthusiasm for exclusive long-form sports properties, with tech companies prioritizing cheaper, shorter-form content and live-event flexibility.\n\nFIFA has not yet named the three remaining bidders or stated a timeline for a decision. The 2030 World Cup is scheduled for Uruguay, Paraguay, and Argentina, with Uruguay also hosting the opening match.",
-      "tweets": []
-    },
-    {
-      "category": "revenue",
-      "importance": 5,
-      "leadHeadline": "Fanatics New Card Vault to Open in Oregon Amid Storage Strain",
-      "leadSource": "Sportico · 14h ago",
-      "leadUrl": "https://www.sportico.com/business/commerce/2026/fanatics-second-card-vault-oregon-location-collect-ship-1234959063/",
-      "summary": "Fanatics announced a major investment in a new physical trading card storage facility in Oregon to handle increased processing demand. The company secured the building earlier this year and plans to eventually replace its existing venue.",
-      "article": "Fanatics this week announced a major investment in a new physical trading card storage facility in Oregon, as its current venue strains under increased processing demand from the trading card collectibles boom.\n\nThe company secured the building earlier this year and will use it as a long-term replacement for its existing storage operation. Fanatics did not disclose the investment size or timeline for the facility's full operational status, but a source with knowledge of the plans confirmed the Oregon location to Sportico.\n\nThe expansion signals ongoing pressure on Fanatics' supply-chain infrastructure as volumes in physical card grading and storage have surged. The company has aggressively consolidated the collectibles market over the past two years, acquiring trading card authentication and grading operations and securing exclusive rights to grade cards for major sports leagues.\n\nStorageStrain has become a bottleneck for the industry: collectors and dealers submit cards for grading, authentication, and vault storage at record levels, and turnaround times have ballooned. By adding Oregon capacity, Fanatics is betting it can relieve processing backlogs and compete more effectively against rival grading services.",
-      "tweets": []
-    },
-    {
-      "category": "leagues",
-      "importance": 5,
-      "leadHeadline": "Butler Latest College Program to Face Alleged Ponzi Scheme Fallout",
-      "leadSource": "Sportico · 12h ago",
-      "leadUrl": "https://www.sportico.com/leagues/college-sports/2026/butler-droplight-ponzi-scheme-college-program-1234959092/",
-      "summary": "Butler University is confronting fallout from the arrest of an Indiana businessman accused of running a $600 million investment fraud that also involved athletic department backing. The case adds Butler to a growing list of college programs entangled in donor fraud schemes.",
-      "article": "Butler University faces a familiar and painful question after the arrest this week of an Indiana businessman accused of running a $600 million investment fraud: what do you do when one of your athletic department's biggest financial backers is accused of running a Ponzi scheme?\n\nThe unnamed businessman's arrest has forced Butler to scrutinize its financial relationships and donor vetting procedures, a process that has become routine across college athletics over the past three years. Multiple major programs, including Auburn and Oregon, have dealt with similar donor-fraud fallout, some involving athletic facility funding, NIL arrangements, or direct program donations.\n\nButter's reliance on this donor for significant financial support raises immediate questions about fund recovery, compliance audits, and potential NCAA exposure if any athletic department funds were directly implicated. The university has not yet disclosed the full scope of the donor's involvement or whether athletic scholarships, facilities projects, or coaching salaries were affected.\n\nCollege athletic departments, with limited endowment oversight compared to academic divisions, have become increasingly vulnerable to high-net-worth fraud schemes. Donors often position themselves as long-term program partners, gaining access and trust that obscures financial malfeasance. Butler's situation underscores the need for independent vetting of large donors, particularly those funding revenue-sport operations.",
+      "leadHeadline": "Harry Kane to miss next few months after suffering ankle ligament tear in Bayern Munich draw",
+      "leadSource": "CBS Sports · just now",
+      "leadUrl": "https://www.cbssports.com/soccer/news/harry-kane-injury-bayern-munich-2026/",
+      "summary": "Harry Kane underwent surgery for a torn left ankle ligament sustained in Bayern Munich's 1-1 draw with Cologne and will miss the next few months. The absence creates a striker crisis for Bayern's title and Champions League push.",
+      "article": "Harry Kane will miss the next several months after Bayern Munich confirmed a torn ankle ligament sustained during Friday's 1-1 Bundesliga draw with Cologne. The England captain underwent surgery to repair the damage and is now sidelined from Bayern's competition at the most critical juncture of their season. Vincent Kompany, Bayern's manager, faces an immediate roster crisis: the club has no established backup striker to anchor the attack, leaving the Bavarian powerhouse exposed just as the Bundesliga title race against Borussia Dortmund tightens and as the Champions League enters its knockout stages. Kane, signed as the marquee striker in Kompany's first season, now joins a growing injury list that threatens Bayern's domestic and continental ambitions. The forward's absence forces Kompany to either deploy a midfielder in a false-nine role or accelerate plans for a mid-season reinforcement. Bayern's title hopes, once considered all but certain, now carry genuine uncertainty.",
       "tweets": []
     },
     {
       "category": "media",
-      "importance": 4,
-      "leadHeadline": "Grand Theft Auto VI appears to mock NFL sexual misconduct scandals in radio parody",
-      "leadSource": "The Guardian · 12h ago",
-      "leadUrl": "https://www.theguardian.com/sport/2026/nov/20/gta-6-deshaun-watson-justin-tucker-nfl-sexual-misconduct-parody",
-      "summary": "Grand Theft Auto VI features a satirical segment mocking NFL sexual misconduct culture, with comedian Stavros Halkias voicing a fictional shock jock. The segment echoes real allegations against players like Deshaun Watson and Darrelle Revis.",
-      "article": "Rockstar Games' Grand Theft Auto VI takes aim at NFL sexual misconduct scandals and the defensive culture surrounding them in a satirical radio segment, according to reporting from The Guardian.\n\nComedian Stavros Halkias voices a fictional shock jock in the game, delivering commentary that echoes the real allegations and institutional responses that have plagued the league. The segment references scandals involving players like Deshaun Watson, whose accusers settled multiple civil cases, and others whose misconduct allegations sparked heated debate over league discipline and player accountability.\n\nGrand Theft Auto has long used parody to skewer American culture and institutions, and the NFL segment fits that tradition. The game's writers appear to be critiquing not just individual misconduct but the broader sports-media apparatus that often minimizes or reframes allegations through a team-loyalty lens.\n\nThe segment does not represent an official NFL endorsement or response, nor is Rockstar commenting on specific players. Rather, it's a satirical take on the disconnect between public scandal and business-as-usual in professional sports. The game launches in fall 2025.",
-      "tweets": []
-    },
-    {
-      "category": "leagues",
-      "importance": 4,
-      "leadHeadline": "'Somebody has to stand up to that guy' - and Russell has his chance in Vegas",
-      "leadSource": "BBC Sport · 2h ago",
-      "leadUrl": "https://www.bbc.co.uk/sport/formula1/articles/c34gnrvl9zvro?at_medium=RSS&amp;at_campaign=rss",
-      "summary": "The George Russell-Max Verstappen feud resurfaced ahead of the Las Vegas Formula 1 race, where both drivers will start on the front row. The rivalry adds intrigue to a high-stakes weekend.",
-      "article": "The George Russell and Max Verstappen feud is live again in Las Vegas, as both drivers prepare for a front-row start at this weekend's Formula 1 race.\n\nThe two have clashed repeatedly this season over aggressive driving and penalty consistency. Russell has emerged as one of Verstappen's most vocal critics, calling out what he views as inconsistent steward enforcement when Verstappen is involved. Their rivalry intensified during recent races where contact and near-contact went unpunished, drawing Russell's public ire.\n\nRussell told BBC Sport that somebody needs to stand up to Verstappen's driving style and that Vegas offers him an immediate opportunity. Verstappen has not directly responded but has historically dismissed criticism as sour grapes from competitors lacking pace.\n\nThe dynamic adds storyline tension to a race where both drivers are contending for points in the championship standings. How they navigate the first lap and opening corners will be closely watched, particularly given the tight confines of the Las Vegas street circuit.",
-      "tweets": []
-    },
-    {
-      "category": "leagues",
-      "importance": 3,
-      "leadHeadline": "LIV Bankruptcy Subpoena a 'Desperate Fishing Expedition'",
-      "leadSource": "Front Office Sports · 12h ago",
-      "leadUrl": "https://frontofficesports.com/article/pga-tour-liv-bankruptcy-subpoena-desperate-fishing-expedition/",
-      "summary": "LIV Golf's creditors filed a subpoena in the company's ongoing bankruptcy proceedings, which LIV's legal team characterized as a 'desperate fishing expedition.' The filing suggests creditor dispute over asset valuation and recovery prospects.",
-      "article": "LIV Golf's legal team dismissed a subpoena filed by creditors in the company's bankruptcy proceedings as a 'desperate fishing expedition,' signaling escalating tension over how the troubled golf league's remaining assets will be distributed.\n\nCreditors, seeking to maximize recovery on claims against LIV, have used the subpoena to request internal financial documents, sponsor agreements, and player contract details. LIV's lawyers argued the request is overly broad and designed primarily to disrupt ongoing negotiations with potential investors or acquirers.\n\nThe subpoena reflects deeper disputes in LIV's bankruptcy. Creditors want visibility into every potential revenue stream and contingent liability, particularly around player contracts and sponsorship obligations. LIV, backed by Saudi Arabia's Public Investment Fund, is seeking a path forward that may involve restructuring rather than full liquidation.\n\nNo timeline has been set for the bankruptcy court to rule on the subpoena objection.",
+      "importance": 5,
+      "leadHeadline": "YouTube joins list of companies passing on World Cup bid",
+      "leadSource": "Sports Media Watch · 19h ago",
+      "leadUrl": "https://www.sportsmediawatch.com/2026/11/youtube-will-not-bid-fifa-world-cup-negotiations/",
+      "summary": "YouTube has joined other major companies in declining to bid on FIFA World Cup media rights, narrowing the pool to just three confirmed bidders. The shrinking market suggests a weaker commercial appetite for future World Cup packages.",
+      "article": "YouTube has become the latest major technology and media company to pass on bidding for FIFA World Cup rights, leaving only three confirmed bidders in a marketplace that was once projected to attract robust competition. The pullback reflects a broader recalibration in how streaming and media platforms evaluate long-term sports rights commitments. World Cup packages, while culturally significant, carry steep acquisition costs, restrictive FIFA terms, and advertising models that don't always align with platform economics. The departure of YouTube and other previously interested parties has tightened the field considerably. Fewer bidders typically translate to lower opening bids and reduced leverage for FIFA in negotiating terms. The federation had projected strong demand for the 2030 and 2034 tournaments; instead, the market is showing restraint. This dynamic could force FIFA to reconsider pricing models or flexibility in rights packaging if it wants to avoid a scenario where a single bidder or a small consortium claims global rights at a significant discount to previous cycles.",
       "tweets": []
     }
   ],
@@ -2394,78 +2402,78 @@
   "deals": [],
   "ratings": [
     {
-      "event": "NFL Regular Season through Week 10",
+      "event": "NFL regular season games, Week 10 average",
       "network": "Various",
       "viewers_m": 18.2,
       "peak_viewers_m": null,
       "league": "NFL",
       "storyIndex": 17,
-      "context": "Average viewership up 3% from prior year, highest average since 2010.",
-      "capturedAt": "2026-11-21T10:29:25.539Z"
+      "context": "Up 3% from prior year and highest average since 2010 through Week 10.",
+      "capturedAt": "2026-11-21T17:50:03.756Z"
     }
   ],
   "ticket_prices": [],
   "sidebar": [
     {
-      "headline": "Nets' Moritz Wagner loses to brother Franz in heartbreaker",
-      "source": "NY Post Sports · 4h ago",
-      "article": "Moritz Wagner watched his younger brother Franz torch the Nets for 35 points Friday night, including a game-winner with 2.8 seconds remaining. The loss stung harder than a typical defeat: Moritz had to witness his brother's dominant performance from the bench as his own team fell short in a game Brooklyn desperately needed. The Wagner brothers' rare matchup highlighted the collision between family ties and professional stakes, a dynamic few NBA players navigate regularly."
+      "headline": "Which Struggling NHL Teams Can Still Turn Their Seasons Around?",
+      "source": "Deadspin · 4h ago",
+      "article": "Five big-market NHL teams—the Flyers, Red Wings, Maple Leafs, Kings, and Blackhawks—have underperformed relative to expectations and face pivotal decisions about roster adjustments and coaching changes. The Flyers have cycled through management while trying to build around young assets; Detroit has stalled in a retool; Toronto's consistent playoff disappointments have intensified scrutiny on core pieces; Los Angeles is caught between youth development and veteran role players; Chicago remains early in its rebuild. Each faces a different timeline to competitiveness, but all share a common thread: they cannot afford another lost season without facing permanent structural consequences. The question isn't whether they can turn around, but whether the cost of doing so—in draft capital, salary-cap flexibility, or prospect depth—is worth the gamble."
     },
     {
-      "headline": "Raptors end six-game skid with win over Pistons",
-      "source": "Sportsnet · 6h ago",
-      "article": "Scottie Barnes and Allen Graves combined for the go-ahead plays Friday as Toronto snapped a six-game losing streak against Detroit. Barnes drove to the basket for a tough layup, and Graves sealed it with a late steal on the ensuing possession. The victory came when the Raptors needed momentum most, with both players delivering in clutch moments. Toronto's depth in the backcourt and wing rotation showed up when it mattered."
+      "headline": "The Rock slams Pat McAfee through a table in wild College GameDay scene",
+      "source": "NY Post Sports · just now",
+      "article": "Dwayne Johnson made a memorable appearance on ESPN's College GameDay, delivering a dramatic entrance that included a signature wrestling move on host Pat McAfee. The moment captured the energy and entertainment value that networks have increasingly embedded into pregame programming. College GameDay's formula has evolved from pure analysis into a hybrid show that blends sports commentary with celebrity appearances and physical comedy. Johnson's participation, while unconventional for the format, reflects how ESPN balances serious college football discourse with spectacle that drives social media engagement. The segment generated immediate clips and conversation across platforms, illustrating the value networks place on moments that extend beyond traditional sports analysis."
     },
     {
-      "headline": "Lakers squeak past Kings to get back on track",
-      "source": "NY Post Sports · 5h ago",
-      "article": "Los Angeles narrowly escaped Sacramento on Friday, struggling once again against one of the league's worst teams. The Lakers' inconsistency against lower-tier opponents has been a recurring theme this season, raising concerns about their ability to grind out wins without dominant performances. A victory is a victory, but the margin and manner of this one left questions unanswered about playoff readiness."
+      "headline": "Quick Shifts: How should Maple Leafs handle Gavin McKenna?",
+      "source": "Sportsnet · 5h ago",
+      "article": "Gavin McKenna, the 18-year-old recently drafted by Toronto, has become a focal point of debate among Maple Leafs fans about roster construction and development strategy. Luke Fox explores how McKenna's emergence and the broader question of integrating young talent amid a veteran core should influence the franchise's planning. The Leafs operate under constant pressure to compete for a Cup given their market, but that mandate often conflicts with traditional player development timelines. McKenna's situation exemplifies this tension: is he ready to contribute now, or should Toronto prioritize his growth in junior hockey? The decision carries implications for roster flexibility, contract structure, and the team's willingness to sacrifice short-term competitiveness for long-term asset building."
     },
     {
-      "headline": "Aljamain Sterling eyes second title shot after Qatar bout",
-      "source": "CBS Sports · 9h ago",
-      "article": "UFC bantamweight Aljamain Sterling believes a win over Kevin Vallejos at UFC Fight Night in Qatar could position him for a second title shot across different weight classes. Sterling is leaning on his record and resume as proof of his elite standing in the sport. A dominant victory would strengthen his argument for another shot at championship gold in a new division."
+      "headline": "Cooper Flagg Needs Kyrie Irving to Become the Next Mavericks Superstar",
+      "source": "Deadspin · 3h ago",
+      "article": "Kyrie Irving is embracing a leadership role in Dallas, and that mentorship stands to benefit Cooper Flagg's trajectory as the Mavericks' prospect for sustained star power. Irving, once a volatile personality, has evolved into a steadying presence for younger talent. Flagg, entering his first year in the league, needs both on-court tutelage and off-court stability; Irving can provide both. The Mavericks constructed their roster around complementary scoring and two-way play, and Flagg's fit into that model depends on Irving's willingness to invest in his development. If that partnership solidifies, Dallas has a pathway to Western Conference contention. If Irving lapses into older patterns or Flagg struggles with the transition, the investment unravels quickly."
     },
     {
-      "headline": "Colts' misery in Houston signals time to rebuild",
-      "source": "Deadspin · 18h ago",
-      "article": "Indianapolis delivered another shambolic performance against Houston, making clear that incremental tinkering no longer works. The Colts' front office has spent three seasons delaying a full rebuild, hoping mid-round picks and free-agent additions would spark a turnaround. Friday's loss underscores that the organization needs to commit to a cleanout and start accumulating young assets, not limp through another losing season hoping for a miracle."
+      "headline": "Butler Latest College Program to Face Alleged Ponzi Scheme Fallout",
+      "source": "Sportico · 19h ago",
+      "article": "An Indiana businessman was arrested this week in connection with an alleged 600 million dollar investment fraud, forcing Butler University to confront uncomfortable questions about its athletic department's financial relationships. The arrest mirrors a troubling pattern across college sports: wealthy boosters operating under loose regulatory oversight can expose programs to reputational and legal jeopardy. For Butler, the immediate task is damage control and investigation into what institutional knowledge existed about the backer's financial activities. Beyond Butler, the incident underscores the structural vulnerability of college athletics' funding model, in which private wealth and philanthropic commitments are often accepted without rigorous vetting. As regulations around NIL and collectives have loosened, the risk has only increased."
     },
     {
-      "headline": "Mudryk accuses Shevchenko of lying over drugs test",
-      "source": "BBC Sport · 13h ago",
-      "article": "Ukrainian winger Mykhailo Mudryk has escalated his dispute with the country's football federation, accusing Ukraine legend Andriy Shevchenko of lying about the circumstances around his positive doping test. The conflict reflects deep tension within Ukrainian football as it navigates international testing protocols and federation credibility. Mudryk's public challenge to Shevchenko's account raises stakes in a scandal that has already damaged the federation's reputation."
+      "headline": "Washington Spirit CEO Address the Stadium Conflict, Trinity Rodman, Michele Kang & More",
+      "source": "Front Office Sports · just now",
+      "article": "Washington Spirit CEO Kim Stone addressed ongoing stadium issues and roster construction challenges in an interview with Front Office Sports. The Spirit have navigated complex ownership dynamics under Michele Kang's investment while managing stadium negotiations with D.C. stakeholders. Stone's comments suggest the franchise is working toward resolution on facilities while Trinity Rodman remains central to on-field identity. The NWSL continues to mature as an investment vehicle, but stadium infrastructure remains a constraint for several franchises seeking to establish permanent homes and long-term revenue streams. For the Spirit, resolution of these logistical challenges is as critical as roster moves in determining competitive viability over the next three seasons."
     }
   ],
   "poll": {
-    "question": "What's the bigger issue for MLB heading into 2026: reaching a salary cap deal or resolving the draft-eligibility rules?",
+    "question": "Which struggling NHL team has the best chance to salvage their season?",
     "options": [
-      "Salary cap—the core economic split could trigger a lockout",
-      "Draft rules—teams need clarity on future talent pipelines",
-      "Both equally critical to labor peace",
-      "Neither will derail the season; they'll negotiate through"
+      "Philadelphia Flyers",
+      "Detroit Red Wings",
+      "Toronto Maple Leafs",
+      "Los Angeles Kings or Chicago Blackhawks"
     ]
   },
   "predictions": [
     {
-      "statement": "MLB reaches a new CBA with a soft salary cap (not hard cap) by February 1, avoiding a lockout.",
-      "probability": 72,
-      "rationale": "Owners' willingness to concede on the draft restriction suggests a shift toward negotiated middle ground. A hard cap has never been accepted by players; soft-cap frameworks with payroll floors are more historically viable."
+      "statement": "Harry Kane misses at least 12 weeks and Bayern Munich fails to win the Bundesliga title.",
+      "probability": 62,
+      "rationale": "No established backup striker forces Kompany into tactical compromises. Dortmund's consistency will exploit Bayern's gaps down the stretch."
     },
     {
-      "statement": "FIFA World Cup 2030/2034 media rights sell for under $2 billion globally, below 2026's market rate.",
-      "probability": 58,
-      "rationale": "Three bidders instead of eight signals a weaker market. Tech companies have de-prioritized sports rights, and fragmented global territories reduce appeal. Skydance and YouTube exits are red flags for ultimate price."
+      "statement": "James Harden finishes the season in the top three for scoring among guards and Cleveland reaches the Finals.",
+      "probability": 71,
+      "rationale": "Harden's 50-point performances aren't anomalies; they're indicators of elite-level output. Cleveland's roster construction supports postseason depth."
     },
     {
-      "statement": "Harry Kane misses more than three months (into at least mid-January) with the ankle ligament injury.",
-      "probability": 81,
-      "rationale": "Bayern Munich's statement 'out for the next few months' coupled with a ligament tear in the ankle typically requires 12-16 weeks recovery. A January return is optimistic; March is realistic."
+      "statement": "Carlos Alcaraz wins the ATP Finals championship.",
+      "probability": 56,
+      "rationale": "He's demonstrated comeback ability and was favored before the season. The final opponent will be strong, but Alcaraz's momentum is real."
     },
     {
-      "statement": "Moritz and Franz Wagner play each other at least twice more this season in regular-play matchups.",
-      "probability": 44,
-      "rationale": "Franz plays for a team in the Eastern Conference with 82-game schedule; Moritz is on the Nets. They'll cross paths in conference play, but back-to-backs and scheduling mean two additional meetings are plausible but not guaranteed within a season."
+      "statement": "NWSL average attendance increases 8% or more in 2026 season.",
+      "probability": 48,
+      "rationale": "New salary rules and big-spending owners improve on-field product, but NWSL still lags European leagues in global appeal and North American cultural penetration."
     }
   ],
   "injuries": [
@@ -2475,23 +2483,11 @@
       "league": "SOCCER",
       "position": "FW",
       "status": "OUT",
-      "injury": "Ligament tear in left ankle",
-      "timeline": "Out for the next few months",
-      "source": "Bayern Munich official statement via The Guardian",
-      "impact": "England's top striker unavailable for club and national team into at least mid-January, leaving Bayern short a primary goal-scorer in Bundesliga and Champions League.",
-      "storyIndex": 12
-    },
-    {
-      "player": "Carlos Alcaraz",
-      "team": "ATP Tour",
-      "league": "TENNIS",
-      "position": "",
-      "status": "DAY_TO_DAY",
-      "injury": "Injury concerns (unspecified)",
-      "timeline": null,
-      "source": "BBC Sport",
-      "impact": "Alcaraz managed to dispatch Flavio Cobolli decisively despite carrying an injury, maintaining his perfect ATP Finals group-stage record, suggesting the issue is not severe enough to threaten near-term participation.",
-      "storyIndex": 2
+      "injury": "Torn left ankle ligament",
+      "timeline": "Next few months",
+      "source": "BBC Sport, CBS Sports",
+      "impact": "Bayern lacks a true backup striker, threatening Bundesliga title race with Borussia Dortmund and Champions League ambitions.",
+      "storyIndex": 5
     }
   ],
   "picks": [
@@ -5927,38 +5923,38 @@
       "_pendingGrade": true
     }
   ],
-  "updatedAt": "2026-04-23T14:30:00Z",
+  "updatedAt": "2026-04-23T18:45:00Z",
   "highlights": [
     {
       "league": "NBA",
-      "title": "NBA's Nightly Recap | November 20, 2026",
-      "videoId": "Al-EioHioAw",
-      "thumbnail": "https://img.youtube.com/vi/Al-EioHioAw/mqdefault.jpg",
+      "title": "High IQ play between Aday Mara and Kenrich Williams 👀",
+      "videoId": "Kda7mbO4tpE",
+      "thumbnail": "https://img.youtube.com/vi/Kda7mbO4tpE/mqdefault.jpg",
       "timeAgo": "1h ago",
       "isFallback": false
     },
     {
       "league": "NFL",
-      "title": "How will the Rams adjust WITHOUT Puka + Why did the Colts cut Daniel Jones NOW? 🤔 | SportsCenter",
-      "videoId": "r6g4D_6d970",
-      "thumbnail": "https://img.youtube.com/vi/r6g4D_6d970/mqdefault.jpg",
-      "timeAgo": "10h ago",
+      "title": "Mina Kimes on the NFL Teams That Could Make a Surprise Super Bowl Run",
+      "videoId": "w4AKLKnxjDc",
+      "thumbnail": "https://img.youtube.com/vi/w4AKLKnxjDc/mqdefault.jpg",
+      "timeAgo": "4h ago",
       "isFallback": false
     },
     {
       "league": "MLB",
-      "title": "Former No. 1 overall pick INF Royce Lewis traded to the Dodgers! (Career highlights with Twins)",
-      "videoId": "gg7A0mGUIZU",
-      "thumbnail": "https://img.youtube.com/vi/gg7A0mGUIZU/mqdefault.jpg",
-      "timeAgo": "7h ago",
+      "title": "We Mic'd Up JJ Wetherholt &amp; MLB Stars on the Golf Course (Gunnar, AJ10, Ozzie Smith, Vince Coleman)",
+      "videoId": "8E6JysOGkRs",
+      "thumbnail": "https://img.youtube.com/vi/8E6JysOGkRs/mqdefault.jpg",
+      "timeAgo": "2h ago",
       "isFallback": false
     },
     {
       "league": "NHL",
-      "title": "That is one EXPENSIVE shift! 💰🫣💰",
-      "videoId": "WdHMJXokMWg",
-      "thumbnail": "https://img.youtube.com/vi/WdHMJXokMWg/mqdefault.jpg",
-      "timeAgo": "10h ago",
+      "title": "Good luck guessing the amount of Finns AND saunas in Finland 😅",
+      "videoId": "AozeXidFQIQ",
+      "thumbnail": "https://img.youtube.com/vi/AozeXidFQIQ/mqdefault.jpg",
+      "timeAgo": "5h ago",
       "isFallback": false
     },
     {
@@ -5966,19 +5962,107 @@
       "title": "Top Assists of the Year",
       "videoId": "e2war0Yjjf8",
       "thumbnail": "https://img.youtube.com/vi/e2war0Yjjf8/mqdefault.jpg",
-      "timeAgo": "16h ago",
+      "timeAgo": "23h ago",
       "isFallback": false
     },
     {
       "league": "SOCCER",
-      "title": "Premier League preview 🍿 Can Pochettino’s Man United take down Liverpool? | ESPN FC",
-      "videoId": "_4K8lcz03gg",
-      "thumbnail": "https://img.youtube.com/vi/_4K8lcz03gg/mqdefault.jpg",
-      "timeAgo": "10h ago",
+      "title": "Wait for it 😧 (via @didrikfootball/TT)",
+      "videoId": "eZ8o9Cuok7c",
+      "thumbnail": "https://img.youtube.com/vi/eZ8o9Cuok7c/mqdefault.jpg",
+      "timeAgo": "3h ago",
       "isFallback": false
     }
   ],
   "reels": [
+    {
+      "league": "NBA",
+      "title": "High IQ play between Aday Mara and Kenrich Williams 👀",
+      "videoId": "Kda7mbO4tpE",
+      "author": "NBA",
+      "pubDate": "2026-11-21T16:31:31+00:00",
+      "link": "https://www.youtube.com/watch?v=Kda7mbO4tpE"
+    },
+    {
+      "league": "MLB",
+      "title": "We Mic'd Up JJ Wetherholt &amp; MLB Stars on the Golf Course (Gunnar, AJ10, Ozzie Smith, Vince Coleman)",
+      "videoId": "8E6JysOGkRs",
+      "author": "MLB",
+      "pubDate": "2026-11-21T16:00:23+00:00",
+      "link": "https://www.youtube.com/watch?v=8E6JysOGkRs"
+    },
+    {
+      "league": "MLB",
+      "title": "me the entire 2 hours and 38 minutes of sunrise on the reaping 😭",
+      "videoId": "yIXeTDklU9Y",
+      "author": "MLB",
+      "pubDate": "2026-11-21T15:08:18+00:00",
+      "link": "https://www.youtube.com/watch?v=yIXeTDklU9Y"
+    },
+    {
+      "league": "SOCCER",
+      "title": "Wait for it 😧 (via @didrikfootball/TT)",
+      "videoId": "eZ8o9Cuok7c",
+      "author": "ESPN FC",
+      "pubDate": "2026-11-21T15:00:26+00:00",
+      "link": "https://www.youtube.com/watch?v=eZ8o9Cuok7c"
+    },
+    {
+      "league": "NBA",
+      "title": "Dalton Knecht (35 PTS) &amp; Rob Dillingham (26 PTS) Drop 61 PTS In First G League Game Together 👀",
+      "videoId": "m-XEpnPSWNs",
+      "author": "NBA",
+      "pubDate": "2026-11-21T14:33:02+00:00",
+      "link": "https://www.youtube.com/watch?v=m-XEpnPSWNs"
+    },
+    {
+      "league": "NFL",
+      "title": "Mina Kimes on the NFL Teams That Could Make a Surprise Super Bowl Run",
+      "videoId": "w4AKLKnxjDc",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-11-21T14:00:31+00:00",
+      "link": "https://www.youtube.com/watch?v=w4AKLKnxjDc"
+    },
+    {
+      "league": "MLB",
+      "title": "The most EPIC home runs from the 2026 season! 💪 (Ft. Walk-off GRAND SLAMS, 3-homer games &amp; MORE!)",
+      "videoId": "YibY-nqrCeI",
+      "author": "MLB",
+      "pubDate": "2026-11-21T14:00:21+00:00",
+      "link": "https://www.youtube.com/watch?v=YibY-nqrCeI"
+    },
+    {
+      "league": "NHL",
+      "title": "Good luck guessing the amount of Finns AND saunas in Finland 😅",
+      "videoId": "AozeXidFQIQ",
+      "author": "NHL",
+      "pubDate": "2026-11-21T13:00:18+00:00",
+      "link": "https://www.youtube.com/watch?v=AozeXidFQIQ"
+    },
+    {
+      "league": "MLB",
+      "title": "EVERY SINGLE Kyle Schwarber HOME RUN from 2026! 💥💪 (Tied for the MLB lead with 45 HRs!)",
+      "videoId": "Q3gIp8_xOuc",
+      "author": "MLB",
+      "pubDate": "2026-11-21T13:00:17+00:00",
+      "link": "https://www.youtube.com/watch?v=Q3gIp8_xOuc"
+    },
+    {
+      "league": "NFL",
+      "title": "What Makes Ja'Marr Chase the BEST Wide Receiver in the NFL? 🤔💪",
+      "videoId": "3JqOqQhxlic",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-11-21T12:30:04+00:00",
+      "link": "https://www.youtube.com/watch?v=3JqOqQhxlic"
+    },
+    {
+      "league": "MLB",
+      "title": "Kyle Seager career MLB highlights | 11 seasons with the Mariners 🔱",
+      "videoId": "dOmD_oySzcY",
+      "author": "MLB",
+      "pubDate": "2026-11-21T12:00:09+00:00",
+      "link": "https://www.youtube.com/watch?v=dOmD_oySzcY"
+    },
     {
       "league": "NBA",
       "title": "NBA's Nightly Recap | November 20, 2026",
@@ -6026,22 +6110,6 @@
       "author": "NBA",
       "pubDate": "2026-11-21T05:56:51+00:00",
       "link": "https://www.youtube.com/watch?v=FMHdRbySu54"
-    },
-    {
-      "league": "NBA",
-      "title": "KINGS AT LAKERS | EMIRATES NBA CUP 🏆 | FULL GAME HIGHLIGHTS | November 20, 2026",
-      "videoId": "UpC7NWUo0Mg",
-      "author": "NBA",
-      "pubDate": "2026-11-21T05:46:38+00:00",
-      "link": "https://www.youtube.com/watch?v=UpC7NWUo0Mg"
-    },
-    {
-      "league": "NBA",
-      "title": "SUNS AT JAZZ | EMIRATES NBA CUP 🏆 | FULL GAME HIGHLIGHTS | November 20, 2026",
-      "videoId": "AR4TUrUkkzo",
-      "author": "NBA",
-      "pubDate": "2026-11-21T05:35:54+00:00",
-      "link": "https://www.youtube.com/watch?v=AR4TUrUkkzo"
     },
     {
       "league": "MLB",
@@ -6164,14 +6232,6 @@
       "link": "https://www.youtube.com/watch?v=VnyhVfRxBoM"
     },
     {
-      "league": "MLB",
-      "title": "Team Israel vs. Team Netherlands: Full Game (3/10/2026) | 2026 World Baseball Classic",
-      "videoId": "XfxwcLb8T40",
-      "author": "MLB",
-      "pubDate": "2026-11-20T22:00:25+00:00",
-      "link": "https://www.youtube.com/watch?v=XfxwcLb8T40"
-    },
-    {
       "league": "NFL",
       "title": "🗣️ I Hope the Titans Drop 40 on the Cowboys! Jerry Jones Throws His DC Under the Bus",
       "videoId": "5uBzuJFU4c4",
@@ -6196,54 +6256,6 @@
       "link": "https://www.youtube.com/watch?v=iyGeeE8vcCM"
     },
     {
-      "league": "SOCCER",
-      "title": "Trinity Rodman on Washington Spirit’s playoff surge and the fight for the NWSL Title | Futbol W",
-      "videoId": "pzBVzh8QVD8",
-      "author": "ESPN FC",
-      "pubDate": "2026-11-20T20:33:23+00:00",
-      "link": "https://www.youtube.com/watch?v=pzBVzh8QVD8"
-    },
-    {
-      "league": "NFL",
-      "title": "How will the 49ers manage Vikings' pressure?",
-      "videoId": "prfA6xQTfE8",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-11-20T20:04:23+00:00",
-      "link": "https://www.youtube.com/watch?v=prfA6xQTfE8"
-    },
-    {
-      "league": "MLB",
-      "title": "BEST Baseball IQ &amp; Fundamentals of 2026 | MLB Now Baseball-y Plays of the Year!",
-      "videoId": "RTv3VzJfcAc",
-      "author": "MLB",
-      "pubDate": "2026-11-20T20:00:22+00:00",
-      "link": "https://www.youtube.com/watch?v=RTv3VzJfcAc"
-    },
-    {
-      "league": "MLB",
-      "title": "When did William Contreras KNOW his Brewers were destined for World Series glory? 🔮",
-      "videoId": "va7DwslC9W8",
-      "author": "MLB",
-      "pubDate": "2026-11-20T19:22:20+00:00",
-      "link": "https://www.youtube.com/watch?v=va7DwslC9W8"
-    },
-    {
-      "league": "NFL",
-      "title": "Is Colston Loveland FINALLY Paying Off his ADP?! #nfl #fantasyfootball",
-      "videoId": "r7UoCmj-DFk",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-11-20T19:18:06+00:00",
-      "link": "https://www.youtube.com/watch?v=r7UoCmj-DFk"
-    },
-    {
-      "league": "MLB",
-      "title": "3 MLB Stars vs. World's No. 4 Golfer (Mic'd Up)",
-      "videoId": "6LduPOOm_K8",
-      "author": "MLB",
-      "pubDate": "2026-11-20T19:00:02+00:00",
-      "link": "https://www.youtube.com/watch?v=6LduPOOm_K8"
-    },
-    {
       "league": "WNBA",
       "title": "Top Assists of the Year",
       "videoId": "e2war0Yjjf8",
@@ -6258,14 +6270,6 @@
       "author": "NHL",
       "pubDate": "2026-11-20T18:00:36+00:00",
       "link": "https://www.youtube.com/watch?v=IDp9ZFMMBEU"
-    },
-    {
-      "league": "MLB",
-      "title": "Team Czechia vs. Team Japan: Full Game (3/10/2026) | 2026 World Baseball Classic",
-      "videoId": "WvdRAA9MBEo",
-      "author": "MLB",
-      "pubDate": "2026-11-20T18:00:10+00:00",
-      "link": "https://www.youtube.com/watch?v=WvdRAA9MBEo"
     },
     {
       "league": "NHL",
@@ -6290,14 +6294,6 @@
       "author": "NHL",
       "pubDate": "2026-11-20T16:00:01+00:00",
       "link": "https://www.youtube.com/watch?v=Z2yGDoB4RRA"
-    },
-    {
-      "league": "NHL",
-      "title": "TOCCHET has high praise for the Flyers VETS 🙌",
-      "videoId": "LoJ7gtDJv9Q",
-      "author": "NHL",
-      "pubDate": "2026-11-20T14:00:30+00:00",
-      "link": "https://www.youtube.com/watch?v=LoJ7gtDJv9Q"
     }
   ]
 }
