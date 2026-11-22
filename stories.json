@@ -2,72 +2,80 @@
   "clusters": [
     {
       "category": "leagues",
+      "importance": 9,
+      "leadHeadline": "Champion's corner: KC Current win first NWSL Championship with 2-1 stunner over Spirit",
+      "leadSource": "The Guardian · 7h ago",
+      "leadUrl": "https://www.theguardian.com/football/2026/nov/21/nwsl-championship-washington-spirit-kansas-city-current",
+      "summary": "Kansas City won its first NWSL Championship Saturday, 2-1 over Washington at Audi Field. DiBernardo's direct corner goal in the 54th minute held up after Debinha added late insurance and Rodman pulled one back.",
+      "article": "Kansas City Current defeated the Washington Spirit 2-1 on Saturday at Audi Field. The Current claimed their maiden NWSL title in just their second championship game.\n\nVanessa DiBernardo scored directly off a corner kick in the 54th minute, an achievement so rare it's known as an Olimpico. Debinha scored in the 97th minute of stoppage time to extend the lead, a goal that would prove decisive. Rodman got a header off a set piece that deflected off a KC defender and into the goal, but Kansas City held on.\n\nSpirit were on the losing end of a one-goal game in their third straight NWSL Championship appearance. The Spirit have reached the final five times but have claimed the title just once, in 2021.\n\nFor Kansas City, the win validated years of investment. The Current were founded as an expansion franchise in 2021 and fell to Portland in the 2022 championship at Audi Field. DiBernardo, who returned to the Current in July after missing a year on maternity leave, was named MVP; at 34, she became the oldest player to score in the championship game. The title comes in Chris Armas' first year as head coach.",
+      "tweets": [
+        {
+          "url": "https://twitter.com/thekccurrent/status/2124334505318347222",
+          "html": "<blockquote class=\"twitter-tweet\" data-dnt=\"true\" data-theme=\"dark\"><p>.@BrittanyMahomes and The Longs loving it on the sidelines 🙌 https://t.co/Dv6Dwa5CPW</p>&mdash; x- KC Current (@thekccurrent) <a href=\"https://twitter.com/thekccurrent/status/2124334505318347222\">November 22, 2026</a></blockquote>",
+          "author_name": "x- KC Current",
+          "author_url": "https://twitter.com/thekccurrent",
+          "dateMs": 1795315788000
+        }
+      ]
+    },
+    {
+      "category": "media",
       "importance": 8,
-      "leadHeadline": "Washington Spirit v Kansas City Current: NWSL Championship – live updates",
-      "leadSource": "The Guardian · just now",
-      "leadUrl": "https://www.theguardian.com/football/live/2026/nov/21/washington-spirit-kansas-city-current-nwsl-championship-live-updates",
-      "summary": "Washington Spirit defeated Kansas City Current 2-1 to win the 2026 NWSL Championship. It was the Spirit's first league title since 2021.",
-      "article": "The NWSL Championship kicked off Saturday at Audi Field as Trinity Rodman's Washington Spirit hosted Temwa Chawinga's Kansas City Current. Halftime ended scoreless in a physical first half. Vanessa DiBernardo gave Kansas City the lead 1-0 off a corner kick. Washington prevailed 2-1, claiming their second NWSL title ever. Rodman was completely healthy heading into Saturday, but suffered an injury early in the game after a hard challenge from KC defender Laney Rouse. Washington reached its third straight NWSL Championship Final while Kansas City made the final for the first time since 2022.",
+      "leadHeadline": "Max Verstappen touches perfection in dramatic Las Vegas F1 GP win",
+      "leadSource": "The Guardian · 4h ago",
+      "leadUrl": "https://www.theguardian.com/sport/2026/nov/22/max-verstappen-touches-perfection-in-dramatic-las-vegas-grand-prix-win",
+      "summary": "Max Verstappen won the Las Vegas Grand Prix in a dramatic final-lap overtake, extending his dominance in Formula One. Charles Leclerc and Lewis Hamilton collided during the race, adding to ongoing tensions.",
+      "article": "Max Verstappen won the Las Vegas Grand Prix in a tense, spectacle-laden race that showcased his racecraft under pressure. The Dutchman faced siege for much of the contest before pulling clear decisively in the final lap, delivering a performance that reinforces his standing among Formula One's greats. The race was marked by another collision between Ferrari drivers Lewis Hamilton and Charles Leclerc on track. The incident reignited tensions between the two teammates over their ability to race cleanly together. Ferrari team principal immediately signaled displeasure, calling the collision completely unacceptable and setting up another difficult conversation about their racing standards. The Las Vegas event, still in its youth as a Grand Prix venue, delivered the spectacle organizers envisioned: high-speed drama, driver skill under duress, and the kind of late-race intensity that defines modern F1. For Verstappen, the victory adds another line to his record and positions him as the season's dominant force heading into the final stretch. For Ferrari, the internal collision reopens familiar questions about driver management and whether two world-class competitors can share a garage without recurring incidents.",
       "tweets": []
     },
     {
       "category": "leagues",
       "importance": 7,
-      "leadHeadline": "Leeds dominate Chelsea for first Stamford Bridge win since 1999",
-      "leadSource": "BBC Sport · 7h ago",
-      "leadUrl": "https://www.bbc.co.uk/sport/football/videos/c3ewvkk4qgxjo?at_medium=RSS&amp;at_campaign=rss",
-      "summary": "Noah Okafor scored twice as Leeds United delivered a stunning 4-1 victory at Stamford Bridge, their first win at Chelsea in 27 years, moving up to sixth in the Premier League.",
-      "article": "Leeds United claimed their first win at Stamford Bridge in 27 years on Saturday, dismantling Chelsea 4-1 in an emphatic performance that sends the Yorkshire club to sixth place in the Premier League. Noah Okafor scored twice in the rout, leading an attacking display that overwhelmed the hosts and delivered one of the weekend's most striking results. The victory marks a significant breakthrough for Leeds on the road against a traditional heavyweight, a fixture that had eluded them since their own dominant era in the 1990s. Chelsea, who have invested heavily in recent transfer windows, couldn't contain Leeds' movement or clinical finishing. The win has real implications for Leeds' trajectory this season and their push toward European qualification. It also underscores the competitive volatility of the current Premier League, in which traditional power structures continue to shift. Arsenal, the reigning champions, moved six points clear at the top after drawing 2-2 at Newcastle courtesy of Noni Madueke's second-half goal, but the landscape remains fluid heading into the season's final stretch.",
-      "tweets": []
-    },
-    {
-      "category": "leagues",
-      "importance": 7,
-      "leadHeadline": "College Football Playoff bubble: Sorting the CFP chaos as UCLA, Indiana suffer Week 12 upsets",
-      "leadSource": "CBS Sports · 1h ago",
-      "leadUrl": "https://www.cbssports.com/college-football/news/college-football-playoff-bubble-watch-teams-week-12-2026/",
-      "summary": "UCLA and Indiana both lost on Saturday, creating major chaos in the Big Ten race and scrambling the College Football Playoff picture heading into the final week of the regular season.",
-      "article": "Saturday's college football results upended the College Football Playoff race as both UCLA and Indiana suffered upset losses in Week 12, eliminating what had seemed like a straightforward path to the Big Ten Championship Game. The Bruins and Hoosiers had only needed to win out to reach Indianapolis, but both fell short in games with direct playoff implications. The chaos creates a wide-open championship scenario and forces the CFP selection committee to sort through a congested field of contenders heading into the final weekend of the regular season. Rutgers stunned Penn State 38-35 on an Antwan Raymond lateral on the final play, claiming their first win over the Nittany Lions since 1988. The 38-year drought-breaker injects another layer of uncertainty into Big Ten standings and playoff projections. Meanwhile, Nebraska secured a signature victory over Ohio State, completing a costly rebuild for the Cornhuskers and exposing cracks in the Buckeyes' championship infrastructure. Ryan Day's program has struggled repeatedly this season, and the Nebraska loss has intensified pressure on the Ohio State head coach. With major movement expected in this week's CFP rankings, the final week of the regular season now carries heightened consequence for programs on the playoff bubble.",
+      "leadHeadline": "Nebraska's Costly Football Rebuild Gets Signature Ohio State Win",
+      "leadSource": "Front Office Sports · 9h ago",
+      "leadUrl": "https://frontofficesports.com/article/nebraskas-costly-football-rebuild-gets-signature-ohio-state-win/",
+      "summary": "Nebraska defeated Ohio State, a signature win for coach Matt Rhule's rebuilding program and the second-largest spending initiative in Big Ten football since 2023. The victory carries major implications for Nebraska's trajectory.",
+      "article": "Nebraska secured a major victory over Ohio State in Big Ten football, delivering the signature win that head coach Matt Rhule's expensive rebuilding effort has been chasing. The win is particularly notable given Nebraska's financial commitment: the program ranks second in Big Ten spending on football since 2023, behind only Ohio State itself. That investment has not yet yielded sustained success, making the Ohio State result more than a conference win; it's validation that the resource deployment is beginning to translate into on-field results. The victory exposes cracks in Ohio State's season. Despite heavy preseason expectations and established roster talent, the Buckeyes fell to a Nebraska team still in the midst of a rebuild. For Ryan Day, Ohio State's head coach, the loss adds pressure to an already contentious tenure marked by recent playoff disappointments. Some analysts argue the defeat should trigger a reckoning about Day's ability to deliver championships despite his regular-season success. For Nebraska, the win suggests that Rhule's approach, heavily funded and methodical, may be starting to bear fruit. The program has invested heavily in recruiting, facilities, and coaching staff, and beating Ohio State on the road demonstrates the competitive level they can reach with that investment concentrated.",
       "tweets": []
     },
     {
       "category": "media",
       "importance": 6,
-      "leadHeadline": "Matthew Stafford gets emotional about Puka Nacuas surgery and the human cost of football",
-      "leadSource": "NY Post Sports · just now",
-      "leadUrl": "https://nypost.com/2026/11/21/sports/matthew-staffords-emotional-reaction-to-puka-nacuas-season-ending-surgery/",
-      "summary": "Rams QB Matthew Stafford opened up emotionally about Puka Nacua's season-ending surgery, reflecting on his own injury history and the difficult personal toll professional football exacts on players.",
-      "article": "Matthew Stafford revealed genuine emotion when discussing Puka Nacua's season-ending surgery, using the moment to reflect on the human cost of professional football and the choices athletes must make with their careers and bodies. Stafford, a 16-year veteran who has played through numerous injuries, spoke candidly about the difficulty of watching teammates face career-altering decisions and the weight that comes with knowing the injury risk inherent to the sport. His comments underscore a broader conversation in the NFL about player health, longevity, and the intersection of physical trauma with the competitive demands of the league. Nacua's surgery marks a significant blow to the Rams' receiving corps and their playoff hopes. The wide receiver had emerged as a primary target for Stafford in recent seasons, and his absence reshapes the team's offensive attack heading into the stretch run. Stafford's willingness to speak publicly about the emotional dimensions of injury, rather than defaulting to cliché recovery rhetoric, reflects a broader cultural shift in sports toward acknowledging the psychological toll alongside the physical toll of professional athletics.",
+      "leadHeadline": "Rossi, Buium help take down former team in Canucks gritty win over Wild",
+      "leadSource": "Sportsnet · 3h ago",
+      "leadUrl": "",
+      "summary": "Vancouver rallied three times against Minnesota in one of their best performances of the season, with intensity and resilience carrying the Canucks past their former team despite missing key centermen.",
+      "article": "Vancouver displayed resilience and intensity in a 3-2 win over Minnesota, rallying three separate times to overcome a depleted lineup. The Canucks were missing key centre depth but compensated with grit and execution, matching the Wild punch-for-punch throughout a tightly contested matchup. Elias Lindholm and defenceman Cale Makar anchored the defensive structure, with the goaltending steady when tested. The win stands as one of Vancouver's best performances this season, the kind of hard-fought road victory that reflects team character over individual talent. The Canucks' ability to overcome roster gaps while facing a team that knows their system speaks to coach Jim Benning's recent roster adjustments and the team's growing depth at forward. Minnesota's loss to a former rival underscores the depth gap opening in the Central Division. For Vancouver, the win provides momentum heading into a critical stretch of the schedule.",
       "tweets": []
     },
     {
       "category": "media",
       "importance": 5,
-      "leadHeadline": "Is Troy Aikman serious?",
-      "leadSource": "Sports Media Watch · 8h ago",
-      "leadUrl": "https://www.sportsmediawatch.com/2026/11/troy-aikman-comments-joe-buck-relationship-salvage/",
-      "summary": "Troy Aikman rekindled commentary about Joe Buck on Dallas radio, joking about Buck's longtime desire to work alone in a broadcast booth.",
-      "article": "Troy Aikman stoked ongoing commentary about Joe Buck during an appearance on Dallas radio station 96.7 The Ticket, joking that he knows \"Joe's always wanted a one-man booth.\" The comment reignites a conversation that has simmered for weeks about Buck's broadcasting future and his relationship with current broadcast partners. Aikman's remarks come at a moment when the television industry is actively evaluating its sports commentary lineups and the dynamics of announcing teams. The specific nature of Buck's desires and his standing in the broadcast hierarchy remain subjects of active speculation in media circles. Whether Aikman's comment was lighthearted ribbing or carried deeper subtext remains unclear, but it landed at a moment when such commentary carries real commercial weight. Broadcast partnerships and announcing assignments directly affect network identity and viewer experience, making every public comment about their status material to industry observers.",
+      "leadHeadline": "Karl-Anthony Towns draws praise from another former coach",
+      "leadSource": "NY Post Sports · 3h ago",
+      "leadUrl": "https://nypost.com/2026/11/22/sports/karl-anthony-towns-draws-praise-from-another-former-coach/",
+      "summary": "Karl-Anthony Towns continues to earn compliments from former coaches, reinforcing his reputation as a cerebral, skilled big man adapting to new systems.",
+      "article": "Karl-Anthony Towns drew praise from yet another former coach, a sign of his standing among the NBA's coaching community and his ability to earn respect across different offensive systems. Towns has played for multiple franchises and worked under several head coaches, each noting his basketball intelligence, three-point range, and willingness to adapt his game to fit team needs. The repeated endorsement from former coaching staffs suggests that his reputation as a skilled offensive player with high basketball IQ is durable, even as he moves between teams and roles. For Towns, this consistency of praise from different coaching voices signals that he remains valued as a leader and floor spacer, capable of functioning within various team constructs. The acknowledgment matters during contract years and roster discussions, as it establishes him as more than a statistical performer but a player coaches want in their locker room.",
       "tweets": []
     },
     {
-      "category": "revenue",
+      "category": "media",
       "importance": 4,
-      "leadHeadline": "YouTube joins list of companies passing on World Cup bid",
-      "leadSource": "Sports Media Watch · 1d ago",
-      "leadUrl": "https://www.sportsmediawatch.com/2026/11/youtube-will-not-bid-fifa-world-cup-negotiations/",
-      "summary": "YouTube has declined to bid on FIFA World Cup rights, joining a shrinking pool of potential bidders and leaving just three confirmed contenders for the 2030 and 2034 tournaments.",
-      "article": "YouTube has opted out of bidding for FIFA World Cup media rights for the 2030 and 2034 tournaments, joining Skydance in stepping back from what was once expected to be a robust competitive market. The decision narrows the field significantly: only three confirmed bidders remain in active pursuit of the rights package. The World Cup represents the most valuable sports property on the global calendar, and media companies' reluctance to bid aggressively signals either concerns about return on investment, internal strategic shifts, or both. YouTube's pass is particularly notable given Google's existing sports streaming infrastructure and its previous interest in major sporting events. The shrinking bidder pool may reshape the competitive dynamics of rights negotiations and could affect the eventual contract value. FIFA and its media partners now face a narrower field for 2030 and 2034, a stark contrast to the market conditions that produced the recent North American rights boom.",
+      "leadHeadline": "Fans frustrated as Maple Leafs losses mount",
+      "leadSource": "Sportsnet · 5h ago",
+      "leadUrl": "",
+      "summary": "Toronto's winning streak ended when Zach Werenski scored a dagger at Scotiabank Arena, leaving Maple Leafs fans frustrated as the team's slump resurfaced.",
+      "article": "The Toronto Maple Leafs' brief winning stretch collapsed when defenceman Zach Werenski scored a late goal to stun the home crowd at Scotiabank Arena. The loss ended momentum at a critical time in the season, reverting the Leafs back to the inconsistency that has plagued them through the fall. Fans expressed frustration in real time as the team failed to close out a winnable game against Columbus. The Leafs have cycled between stretches of competence and stretches of underperformance, suggesting deeper structural issues that management has yet to resolve. The loss to the Blue Jackets particularly stings given the opportunity to build separation in the Atlantic Division standings.",
       "tweets": []
     },
     {
-      "category": "leagues",
-      "importance": 4,
-      "leadHeadline": "NWSL's Star Power Still Lags in the Global Soccer Spotlight",
-      "leadSource": "Sportico · 14h ago",
-      "leadUrl": "https://www.sportico.com/leagues/soccer/2026/nwsl-championship-ballon-dor-womens-history-1234958892/",
-      "summary": "Sophia Wilson described winning the Ballon d'Or Féminin as \"borderline impossible\" for NWSL players, highlighting the structural disadvantage American club soccer faces against European leagues in individual player recognition.",
-      "article": "Sophia Wilson, one of the NWSL and U.S. Women's National Team's brightest stars, recently described winning women's soccer's highest individual honor, the Ballon d'Or Féminin, as \"borderline impossible\" if you play club soccer in America instead than Europe. The numbers support her blunt assessment. The gap between NWSL visibility and European club prestige remains significant despite the American league's recent growth in sponsorship, media rights value, and attendee interest. Players competing in the NWSL face a structural disadvantage in individual award voting because European leagues remain the global benchmark for women's soccer quality, media coverage, and commercial reach. The comment reflects frustration in the NWSL's player community about the ceiling on personal recognition despite high-level performance. It also underscores a broader business challenge for the league: attracting and retaining star talent when individual accolades and global profile remain easier to achieve in Europe. The NWSL's expansion and financial growth have been real, but the award gap persists.",
+      "category": "media",
+      "importance": 3,
+      "leadHeadline": "Mike Brown pushing for faster offense from sluggish Knicks",
+      "leadSource": "NY Post Sports · 4h ago",
+      "leadUrl": "https://nypost.com/2026/11/22/sports/mike-brown-pushing-for-faster-offense-from-sluggish-knicks/",
+      "summary": "New York Knicks coach Mike Brown is demanding pace and transition efficiency from an offense that has stalled in recent games.",
+      "article": "Mike Brown has begun publicly pushing for faster offensive execution from the Knicks, signaling dissatisfaction with the team's ball movement and pace of play in recent contests. The coach clarified a statistical point during his media availability, underscoring his focus on transition and spacing efficiency as levers to improve production. Brown's public comments suggest he is comfortable applying pressure on the roster to execute at a higher level, a contrast to some of his predecessors' approaches. For a Knicks roster built to compete now, the message is clear: talent alone is not enough without rhythm and flow on offense.",
       "tweets": []
     }
   ],
@@ -2396,91 +2404,79 @@
   "ticket_prices": [],
   "sidebar": [
     {
-      "headline": "College Football Playoff scenarios tighten after Week 12 chaos",
+      "headline": "NWSL's Star Power Still Lags in the Global Soccer Spotlight",
+      "source": "Sportico · 22h ago",
+      "article": "Despite growing investment in the NWSL, the league struggles to retain its brightest talent at the global level. Sophia Wilson, one of the league's and U.S. Women's National Team's most talented stars, recently called winning the Ballon d'Or Féminin from an American club setting \"borderline impossible.\" The numbers support her assessment. Europe's top leagues continue to attract and hold world-class women's soccer players, leaving the NWSL perpetually one tier below in the global hierarchy. The gap isn't merely about marketing or exposure; it reflects structural advantages in UEFA competitions, domestic league prestige, and historical tradition that American soccer has yet to overcome. For the NWSL to truly compete for the sport's best talent, the league will need either a major financial inflection or for European clubs to lose their gravitational pull on the sport's elite performers."
+    },
+    {
+      "headline": "Troy Aikman Stokes Fire Over Joe Buck Commentary Booth Setup",
+      "source": "Sports Media Watch · 16h ago",
+      "article": "Troy Aikman reopened commentary on Joe Buck's broadcasting preferences during an appearance on Dallas radio station 96.7 The Ticket. Aikman suggested that Buck has long coveted a solo booth, a remark that could be read as critique or inside-baseball observation depending on context. The comment arrived after weeks of relative quiet on the subject, suggesting tensions may persist behind the scenes at Fox Sports. Aikman's willingness to air the matter publicly, even jokingly, signals that the booth dynamics remain a topic of interest to the talent pool. For Fox, the comment underscores ongoing questions about broadcasting partnerships and commentary booth structure heading into the new broadcast season."
+    },
+    {
+      "headline": "YouTube Joins List of Companies Passing on World Cup Bid",
+      "source": "Sports Media Watch · 2d ago",
+      "article": "What once appeared to be a robust bidding war for FIFA World Cup media rights has narrowed dramatically to just three confirmed bidders. YouTube has pulled out of contention, joining several other major media companies in declining to pursue the rights package. The steep asking price, combined with uncertain return on investment and FIFA's demanding terms, has deterred potential bidders from even entering the arena. The shrinking pool raises questions about FIFA's valuation and whether future World Cup media deals will command the premium prices the organization has come to expect."
+    },
+    {
+      "headline": "Cooper Flagg Benefits From Kyrie Irving's Leadership in Dallas",
+      "source": "Deadspin · 20h ago",
+      "article": "Kyrie Irving has embraced a leadership role with the Dallas Mavericks, and young prospect Cooper Flagg is benefiting from his mentorship and court presence. Irving's willingness to take on a veteran leadership mantle signals a shift in his approach to team dynamics and his investment in the franchise's long-term trajectory. If Flagg develops as expected and Irving maintains his current form, the Mavericks could emerge as a serious Western Conference contender. Irving's development of younger talent alongside his elite scoring ability could reshape Dallas's championship window."
+    },
+    {
+      "headline": "Ohio State's Loss to Nebraska Signals Deeper Problems for Ryan Day",
+      "source": "Deadspin · 12h ago",
+      "article": "Ohio State's defeat to Nebraska exposed fundamental flaws in the Buckeyes' construction under head coach Ryan Day. Despite regular-season success and resource advantages, Day has consistently fallen short in high-stakes moments, a pattern that reached critical mass with the Nebraska loss. Critics argue that the defeat should trigger a reckoning about whether Day can deliver playoff championships despite his regular-season credentials. For Ohio State, the question is whether another disappointing season leads to a coaching change or whether the program continues with Day into another cycle."
+    },
+    {
+      "headline": "Ravens vs. Panthers: NFL Week 11 Betting Preview",
       "source": "CBS Sports · 1h ago",
-      "article": "UCLA and Indiana losses on Saturday scrambled the Big Ten Championship race, eliminating what had looked like a two-team path to Indianapolis. The Bruins and Hoosiers had only needed to win out, but both fell short in games with direct playoff implications. Rutgers' 38-35 upset of Penn State on a final-play lateral, and Nebraska's win over Ohio State, inject genuine uncertainty into the final weekend of the regular season. The CFP selection committee will have major movement to sort through, with multiple teams still alive for the conference title and playoff qualification."
-    },
-    {
-      "headline": "Stafford opens up about Nacua's surgery and football's human toll",
-      "source": "NY Post Sports · just now",
-      "article": "Rams quarterback Matthew Stafford spoke candidly about the emotional weight of Puka Nacua's season-ending surgery, reflecting on his own career-long injury history. The 16-year veteran acknowledged the difficult personal choices athletes face and the psychological dimensions of injury that extend beyond physical recovery. Nacua's absence reshapes Los Angeles' offensive attack heading into the playoff stretch."
-    },
-    {
-      "headline": "Leeds claim first Stamford Bridge win in 27 years with 4-1 rout",
-      "source": "BBC Sport · 7h ago",
-      "article": "Noah Okafor scored twice as Leeds delivered a stunning victory over Chelsea on Saturday, moving the Yorkshire club to sixth place in the Premier League. The 4-1 performance was Leeds' first win at Stamford Bridge since 1999, breaking a 27-year drought and signaling real offensive potency in their challenge for European qualification."
-    },
-    {
-      "headline": "NWSL Championship live: Spirit host Kansas City in D.C.",
-      "source": "The Guardian · just now",
-      "article": "The NWSL Championship final is underway in Washington, with Trinity Rodman and the Spirit hosting Kansas City Current. The match represents the culmination of a season in which the NWSL continued to build its commercial profile despite the persistent challenge of individual player recognition abroad."
-    },
-    {
-      "headline": "YouTube passes on FIFA World Cup bidding; three bidders remain",
-      "source": "Sports Media Watch · 1d ago",
-      "article": "YouTube has declined to pursue FIFA World Cup media rights for 2030 and 2034, joining Skydance in stepping back from what was expected to be a competitive market. The decision leaves just three confirmed bidders for the most valuable sports property on the global calendar, reshaping negotiation dynamics."
-    },
-    {
-      "headline": "Aikman revives commentary about Joe Buck's broadcasting future",
-      "source": "Sports Media Watch · 8h ago",
-      "article": "Troy Aikman jogged about Joe Buck's longtime desire to work alone during a Dallas radio appearance, reigniting discussion about Buck's broadcasting future. The comment arrives at a moment when television networks are actively evaluating sports announcing partnerships and lineup strategies."
+      "article": "Baltimore and Carolina meet in Week 11 action with contrasting trajectories and playoff implications. The Ravens remain in contention in a competitive AFC North, while the Panthers continue to rebuild. Bettors should monitor injury reports and weather conditions heading into game time. The matchup offers value opportunities depending on how the market prices early movement and which teams receive public sharp-money backing."
     }
   ],
   "poll": {
-    "question": "Will Ohio State recover from the Nebraska loss to make the College Football Playoff?",
+    "question": "Will Ryan Day remain Ohio State's head coach after this season?",
     "options": [
-      "Yes, they still have time to run the table and earn an at-large bid",
-      "No, the loss combined with other failures means they're out",
-      "It depends entirely on how the committee values strength of schedule",
-      "They'll make it, but seeding will be significantly worse than expected"
+      "Yes, he stays and gets another year",
+      "No, Ohio State makes a coaching change",
+      "Unclear, depends on bowl outcome",
+      "He leaves voluntarily for another job"
     ]
   },
   "predictions": [
     {
-      "statement": "Leeds United finishes in a European qualification spot by season's end.",
-      "probability": 62,
-      "rationale": "The 4-1 win at Stamford Bridge signals real quality, and sixth place is already within striking distance. But consistency matters more than one result, and Leeds will face stiffer competition down the stretch."
+      "statement": "Kansas City Current repeat as NWSL champions next season after establishing a winning culture with their first title.",
+      "probability": 32,
+      "rationale": "Current won with smart roster construction and corner-kick execution, but NWSL parity means defending a title is harder than winning one. Spirit, Thorns, and others will adjust. First-time champions rarely repeat without elite talent density."
     },
     {
-      "statement": "No American NWSL player wins the Ballon d'Or Féminin in the next three years.",
-      "probability": 78,
-      "rationale": "Sophia Wilson's assessment isn't pessimism, it's structural reality. European leagues dominate voting, media visibility, and the award's prestige. The NWSL's growth hasn't yet closed that gap."
-    },
-    {
-      "statement": "A Big Ten team other than Ohio State or Michigan makes the College Football Playoff.",
+      "statement": "Max Verstappen finishes the F1 season with five or more race wins over second-place driver in total victories.",
       "probability": 71,
-      "rationale": "Saturday's upsets opened the door. With UCLA and Indiana stumbling, the committee will have to reach beyond the traditional blue bloods. At-large bids could flow to unexpected contenders."
+      "rationale": "Verstappen's dominance in Las Vegas and his consistency throughout the season suggest he will extend his winning margin significantly. His racecraft and car advantage position him to accumulate wins at an accelerated pace relative to competitors."
     },
     {
-      "statement": "The 2030/2034 FIFA World Cup media rights deal closes at a lower value than the previous cycle.",
-      "probability": 55,
-      "rationale": "YouTube and Skydance passing signals hesitation about ROI. A three-bidder market has less competitive tension than expected. But FIFA's leverage and global soccer's growth could still support strong pricing."
+      "statement": "Ohio State fires Ryan Day within the next 18 months.",
+      "probability": 56,
+      "rationale": "The Nebraska loss compounds prior playoff disappointments. Ohio State's donor base and competitive expectations are unforgiving. If the team finishes outside the playoff this year or fails early in the postseason, Day's tenure becomes untenable. The loss opened the door."
+    },
+    {
+      "statement": "NWSL secures a primary domestic media rights deal worth more than $400 million annually within two years.",
+      "probability": 48,
+      "rationale": "The league's growth trajectory and international success of women's soccer suggest rising rights values, but YouTube and other tech bidders pulling out of World Cup rights suggests streaming platforms are price-sensitive. NWSL will need steady TV partner interest to reach that threshold."
     }
   ],
   "injuries": [
     {
-      "player": "Puka Nacua",
-      "team": "Los Angeles Rams",
-      "league": "NFL",
-      "position": "WR",
-      "status": "OUT",
-      "injury": "Season-ending surgery",
-      "timeline": "Out for season",
-      "source": "NY Post Sports",
-      "impact": "Rams lose primary receiving target alongside Matthew Stafford, forcing offensive recalibration in playoff stretch.",
-      "storyIndex": 2
-    },
-    {
-      "player": "David Raya",
-      "team": "Arsenal",
+      "player": "Désiré Doué",
+      "team": "Paris Saint-Germain",
       "league": "SOCCER",
-      "position": "GK",
-      "status": "QUESTIONABLE",
-      "injury": "Injury (details not specified)",
+      "position": "FW",
+      "status": "OUT",
+      "injury": "Knee injury (carried off in tears)",
       "timeline": null,
       "source": "The Guardian",
-      "impact": "Arsenal's goalkeeper availability uncertain heading into final Premier League stretch as reigning champions.",
-      "storyIndex": 12
+      "impact": "PSG loses attacking depth during a crucial stretch of the season; Doué's absence compounds recent loss of Kvaratskhelia.",
+      "storyIndex": 9
     },
     {
       "player": "Harry Kane",
@@ -2491,20 +2487,20 @@
       "injury": "Torn ankle ligaments (surgery required)",
       "timeline": "Out for the next few months",
       "source": "BBC Sport",
-      "impact": "England captain will miss extended stretch for Bayern, reshaping their attacking options and international availability.",
-      "storyIndex": 1
+      "impact": "England captain will miss extended period; Bayern loses primary goal-scoring threat during critical league and European competition phases.",
+      "storyIndex": 10
     },
     {
-      "player": "Désiré Doué",
+      "player": "Kvaratskhelia",
       "team": "Paris Saint-Germain",
       "league": "SOCCER",
       "position": "FW",
       "status": "OUT",
-      "injury": "Knee injury (carried off in tears)",
+      "injury": "Injury (mentioned as recent loss)",
       "timeline": null,
       "source": "The Guardian",
-      "impact": "PSG loses attacking depth in their bid for Ligue 1 title, following recent loss of Kvaratskhelia to injury.",
-      "storyIndex": 1
+      "impact": "PSG's attacking options depleted as Doué injury arrives amid ongoing absence of Kvaratskhelia.",
+      "storyIndex": 9
     }
   ],
   "picks": [
@@ -5940,14 +5936,14 @@
       "_pendingGrade": true
     }
   ],
-  "updatedAt": "2026-04-23T00:00:00Z",
+  "updatedAt": "2026-11-21T23:59:59Z",
   "highlights": [
     {
       "league": "NBA",
-      "title": "Quinton Wilson, Wellington Sports Academy vs. Troy Fason Jr., DME | MADE Hoops Miami Tip-Off",
-      "videoId": "mCnZAbE_YBE",
-      "thumbnail": "https://img.youtube.com/vi/mCnZAbE_YBE/mqdefault.jpg",
-      "timeAgo": "10h ago",
+      "title": "EXTENDED: BUCKS at 76ERS | FULL GAME HIGHLIGHTS | November 21, 2026",
+      "videoId": "fD9ObwrdOHI",
+      "thumbnail": "https://img.youtube.com/vi/fD9ObwrdOHI/mqdefault.jpg",
+      "timeAgo": "3h ago",
       "isFallback": false
     },
     {
@@ -5955,23 +5951,23 @@
       "title": "Mina Kimes on the NFL Teams That Could Make a Surprise Super Bowl Run",
       "videoId": "w4AKLKnxjDc",
       "thumbnail": "https://img.youtube.com/vi/w4AKLKnxjDc/mqdefault.jpg",
-      "timeAgo": "13h ago",
+      "timeAgo": "21h ago",
       "isFallback": false
     },
     {
       "league": "MLB",
-      "title": "Team Canada vs. Team Great Britain: Full Game (3/11/2026) | 2026 World Baseball Classic",
-      "videoId": "vEH5wAaVYVQ",
-      "thumbnail": "https://img.youtube.com/vi/vEH5wAaVYVQ/mqdefault.jpg",
-      "timeAgo": "Just now",
+      "title": "FULL GAME: Caminero, Yandy's homers power Rays to the World Series! (2026 ALCS Game 6)",
+      "videoId": "5cdPiUMlclk",
+      "thumbnail": "https://img.youtube.com/vi/5cdPiUMlclk/mqdefault.jpg",
+      "timeAgo": "7h ago",
       "isFallback": false
     },
     {
       "league": "NHL",
-      "title": "Penguins vs. Predators | NHL Highlights | Nov 21, 2026",
-      "videoId": "ScUFxbP_mRk",
-      "thumbnail": "https://img.youtube.com/vi/ScUFxbP_mRk/mqdefault.jpg",
-      "timeAgo": "1h ago",
+      "title": "Wild vs. Canucks | NHL Highlights | Nov 21, 2026",
+      "videoId": "dbz_yuAaZMg",
+      "thumbnail": "https://img.youtube.com/vi/dbz_yuAaZMg/mqdefault.jpg",
+      "timeAgo": "4h ago",
       "isFallback": false
     },
     {
@@ -5979,19 +5975,179 @@
       "title": "Top Assists of the Year",
       "videoId": "e2war0Yjjf8",
       "thumbnail": "https://img.youtube.com/vi/e2war0Yjjf8/mqdefault.jpg",
-      "timeAgo": "1d ago",
+      "timeAgo": "2d ago",
       "isFallback": false
     },
     {
       "league": "SOCCER",
-      "title": "FULL REACTION to Premier League results 🍿 + LALIGA title race heating up | ESPN FC",
-      "videoId": "FJAi25UzEmY",
-      "thumbnail": "https://img.youtube.com/vi/FJAi25UzEmY/mqdefault.jpg",
-      "timeAgo": "1h ago",
+      "title": "All-out effort.",
+      "videoId": "txJQzooFwFw",
+      "thumbnail": "https://img.youtube.com/vi/txJQzooFwFw/mqdefault.jpg",
+      "timeAgo": "5h ago",
       "isFallback": false
     }
   ],
   "reels": [
+    {
+      "league": "NBA",
+      "title": "EXTENDED: BUCKS at 76ERS | FULL GAME HIGHLIGHTS | November 21, 2026",
+      "videoId": "fD9ObwrdOHI",
+      "author": "NBA",
+      "pubDate": "2026-11-22T07:24:02+00:00",
+      "link": "https://www.youtube.com/watch?v=fD9ObwrdOHI"
+    },
+    {
+      "league": "NBA",
+      "title": "NBA's Nightly Recap | November 21, 2026",
+      "videoId": "QIZUemPDDmU",
+      "author": "NBA",
+      "pubDate": "2026-11-22T07:23:42+00:00",
+      "link": "https://www.youtube.com/watch?v=QIZUemPDDmU"
+    },
+    {
+      "league": "NBA",
+      "title": "NBA's Top 10 Plays of the Night | November 21, 2026",
+      "videoId": "YodCnYfQvmU",
+      "author": "NBA",
+      "pubDate": "2026-11-22T07:11:24+00:00",
+      "link": "https://www.youtube.com/watch?v=YodCnYfQvmU"
+    },
+    {
+      "league": "NBA",
+      "title": "MSG was HYPEEEE🤩",
+      "videoId": "G1vB9oZ1Wkk",
+      "author": "NBA",
+      "pubDate": "2026-11-22T06:30:10+00:00",
+      "link": "https://www.youtube.com/watch?v=G1vB9oZ1Wkk"
+    },
+    {
+      "league": "NBA",
+      "title": "Celtics at Kings was a wild ending! 🤯",
+      "videoId": "Kw3EkYqm82c",
+      "author": "NBA",
+      "pubDate": "2026-11-22T06:28:08+00:00",
+      "link": "https://www.youtube.com/watch?v=Kw3EkYqm82c"
+    },
+    {
+      "league": "NHL",
+      "title": "Wild vs. Canucks | NHL Highlights | Nov 21, 2026",
+      "videoId": "dbz_yuAaZMg",
+      "author": "NHL",
+      "pubDate": "2026-11-22T06:27:01+00:00",
+      "link": "https://www.youtube.com/watch?v=dbz_yuAaZMg"
+    },
+    {
+      "league": "NBA",
+      "title": "Keegan Murray flew in for the tip in!",
+      "videoId": "-cZzZEzJ7u0",
+      "author": "NBA",
+      "pubDate": "2026-11-22T06:25:44+00:00",
+      "link": "https://www.youtube.com/watch?v=-cZzZEzJ7u0"
+    },
+    {
+      "league": "NHL",
+      "title": "Kraken vs. Sharks | NHL Highlights | Nov 21, 2026",
+      "videoId": "bsYEG5AraBA",
+      "author": "NHL",
+      "pubDate": "2026-11-22T06:21:27+00:00",
+      "link": "https://www.youtube.com/watch?v=bsYEG5AraBA"
+    },
+    {
+      "league": "NHL",
+      "title": "Goalies Still Can't Stop This Shootout Move 😏",
+      "videoId": "tpTgyEEGNI4",
+      "author": "NHL",
+      "pubDate": "2026-11-22T06:16:42+00:00",
+      "link": "https://www.youtube.com/watch?v=tpTgyEEGNI4"
+    },
+    {
+      "league": "NBA",
+      "title": "Final 4:12 WILD ENDING Celtics at Kings | November 21, 2026",
+      "videoId": "Soht9yokMEs",
+      "author": "NBA",
+      "pubDate": "2026-11-22T06:14:47+00:00",
+      "link": "https://www.youtube.com/watch?v=Soht9yokMEs"
+    },
+    {
+      "league": "SOCCER",
+      "title": "All-out effort.",
+      "videoId": "txJQzooFwFw",
+      "author": "ESPN FC",
+      "pubDate": "2026-11-22T05:58:59+00:00",
+      "link": "https://www.youtube.com/watch?v=txJQzooFwFw"
+    },
+    {
+      "league": "SOCCER",
+      "title": "Vanessa DiBernardo 💪",
+      "videoId": "LHy67bkPUjQ",
+      "author": "ESPN FC",
+      "pubDate": "2026-11-22T05:58:24+00:00",
+      "link": "https://www.youtube.com/watch?v=LHy67bkPUjQ"
+    },
+    {
+      "league": "NBA",
+      "title": "CELTICS at KINGS | FULL GAME HIGHLIGHTS | November 21, 2026",
+      "videoId": "m04w-QZ48rQ",
+      "author": "NBA",
+      "pubDate": "2026-11-22T05:47:55+00:00",
+      "link": "https://www.youtube.com/watch?v=m04w-QZ48rQ"
+    },
+    {
+      "league": "NHL",
+      "title": "Leafs Fans Have Reached This Stage 🔮😂",
+      "videoId": "_ufKfMWxbi8",
+      "author": "NHL",
+      "pubDate": "2026-11-22T05:36:03+00:00",
+      "link": "https://www.youtube.com/watch?v=_ufKfMWxbi8"
+    },
+    {
+      "league": "NHL",
+      "title": "Ducks vs. Mammoth | NHL Highlights | Nov 21, 2026",
+      "videoId": "zQ7ZT6QqPio",
+      "author": "NHL",
+      "pubDate": "2026-11-22T05:13:54+00:00",
+      "link": "https://www.youtube.com/watch?v=zQ7ZT6QqPio"
+    },
+    {
+      "league": "NHL",
+      "title": "Celebrini Put EVERYTHING Into This One!! 💥",
+      "videoId": "dyBwRU1ZO2U",
+      "author": "NHL",
+      "pubDate": "2026-11-22T04:27:09+00:00",
+      "link": "https://www.youtube.com/watch?v=dyBwRU1ZO2U"
+    },
+    {
+      "league": "NHL",
+      "title": "Got the Gas Station Windshield Treatment 😂",
+      "videoId": "jDFdC7PPdr8",
+      "author": "NHL",
+      "pubDate": "2026-11-22T04:17:32+00:00",
+      "link": "https://www.youtube.com/watch?v=jDFdC7PPdr8"
+    },
+    {
+      "league": "MLB",
+      "title": "FULL GAME: Caminero, Yandy's homers power Rays to the World Series! (2026 ALCS Game 6)",
+      "videoId": "5cdPiUMlclk",
+      "author": "MLB",
+      "pubDate": "2026-11-22T04:00:04+00:00",
+      "link": "https://www.youtube.com/watch?v=5cdPiUMlclk"
+    },
+    {
+      "league": "NHL",
+      "title": "Knies Comes Back to Bite Toronto 😬",
+      "videoId": "FUltL6qh-cc",
+      "author": "NHL",
+      "pubDate": "2026-11-22T03:36:03+00:00",
+      "link": "https://www.youtube.com/watch?v=FUltL6qh-cc"
+    },
+    {
+      "league": "SOCCER",
+      "title": "They both received yellow cards 😅",
+      "videoId": "YtgGwj0xYUo",
+      "author": "ESPN FC",
+      "pubDate": "2026-11-22T02:54:42+00:00",
+      "link": "https://www.youtube.com/watch?v=YtgGwj0xYUo"
+    },
     {
       "league": "MLB",
       "title": "Team Canada vs. Team Great Britain: Full Game (3/11/2026) | 2026 World Baseball Classic",
@@ -5999,86 +6155,6 @@
       "author": "MLB",
       "pubDate": "2026-11-22T02:30:05+00:00",
       "link": "https://www.youtube.com/watch?v=vEH5wAaVYVQ"
-    },
-    {
-      "league": "NHL",
-      "title": "Penguins vs. Predators | NHL Highlights | Nov 21, 2026",
-      "videoId": "ScUFxbP_mRk",
-      "author": "NHL",
-      "pubDate": "2026-11-22T02:15:08+00:00",
-      "link": "https://www.youtube.com/watch?v=ScUFxbP_mRk"
-    },
-    {
-      "league": "NBA",
-      "title": "Selena Gomez shows off the new Spurs jersey 🌟",
-      "videoId": "bLtnJJWEzVo",
-      "author": "NBA",
-      "pubDate": "2026-11-22T02:07:00+00:00",
-      "link": "https://www.youtube.com/watch?v=bLtnJJWEzVo"
-    },
-    {
-      "league": "NBA",
-      "title": "Wemby shows off the footwork 👽",
-      "videoId": "qazFPby8iQA",
-      "author": "NBA",
-      "pubDate": "2026-11-22T02:05:17+00:00",
-      "link": "https://www.youtube.com/watch?v=qazFPby8iQA"
-    },
-    {
-      "league": "NBA",
-      "title": "King Gibson, Spire Academy vs. Josiah Brooks, Slam Miami | MADE Hoops Miami Tip-Off",
-      "videoId": "dSAALemGeFw",
-      "author": "NBA",
-      "pubDate": "2026-11-22T02:04:55+00:00",
-      "link": "https://www.youtube.com/watch?v=dSAALemGeFw"
-    },
-    {
-      "league": "NBA",
-      "title": "Cooper Flagg comes down the lane with the huge one handed slam! 😤",
-      "videoId": "vDeF1qJTX_s",
-      "author": "NBA",
-      "pubDate": "2026-11-22T02:03:38+00:00",
-      "link": "https://www.youtube.com/watch?v=vDeF1qJTX_s"
-    },
-    {
-      "league": "NBA",
-      "title": "Wemby had to wait to watch it go in 👀😂",
-      "videoId": "Dof9F_bozRM",
-      "author": "NBA",
-      "pubDate": "2026-11-22T02:01:02+00:00",
-      "link": "https://www.youtube.com/watch?v=Dof9F_bozRM"
-    },
-    {
-      "league": "NHL",
-      "title": "Just Auston Matthews Things 😮‍💨🚨",
-      "videoId": "MMShyKMtjmE",
-      "author": "NHL",
-      "pubDate": "2026-11-22T02:00:43+00:00",
-      "link": "https://www.youtube.com/watch?v=MMShyKMtjmE"
-    },
-    {
-      "league": "NHL",
-      "title": "Sabres vs. Panthers | NHL Highlights | Nov 21, 2026",
-      "videoId": "PGgSeswxDPw",
-      "author": "NHL",
-      "pubDate": "2026-11-22T01:48:55+00:00",
-      "link": "https://www.youtube.com/watch?v=PGgSeswxDPw"
-    },
-    {
-      "league": "NHL",
-      "title": "A 90 MPH Wish Granted 🚀✨",
-      "videoId": "A1sZCjUr6vg",
-      "author": "NHL",
-      "pubDate": "2026-11-22T01:45:44+00:00",
-      "link": "https://www.youtube.com/watch?v=A1sZCjUr6vg"
-    },
-    {
-      "league": "NBA",
-      "title": "Selena Gomez is in the house for Spurs vs Pelicans",
-      "videoId": "G4nOEeme6h0",
-      "author": "NBA",
-      "pubDate": "2026-11-22T01:35:17+00:00",
-      "link": "https://www.youtube.com/watch?v=G4nOEeme6h0"
     },
     {
       "league": "SOCCER",
@@ -6089,14 +6165,6 @@
       "link": "https://www.youtube.com/watch?v=FJAi25UzEmY"
     },
     {
-      "league": "NBA",
-      "title": "Wemby rises up for the reverse dunk off of the alley oop 😤",
-      "videoId": "ruGNPYzebA0",
-      "author": "NBA",
-      "pubDate": "2026-11-22T01:31:56+00:00",
-      "link": "https://www.youtube.com/watch?v=ruGNPYzebA0"
-    },
-    {
       "league": "SOCCER",
       "title": "Inter Miami vs. Columbus Crew | MLS Cup Playoff Highlights | ESPN FC",
       "videoId": "WQb2tblUT44",
@@ -6105,44 +6173,12 @@
       "link": "https://www.youtube.com/watch?v=WQb2tblUT44"
     },
     {
-      "league": "NHL",
-      "title": "Pretty Sure That's Not Where That Goes 😭",
-      "videoId": "PUmAb9V1u5s",
-      "author": "NHL",
-      "pubDate": "2026-11-22T01:17:01+00:00",
-      "link": "https://www.youtube.com/watch?v=PUmAb9V1u5s"
-    },
-    {
       "league": "SOCCER",
       "title": "Can Man United beat Liverpool in Pochettino’s first match? 🤔 | ESPN FC Extra Time",
       "videoId": "R1mwI730OEQ",
       "author": "ESPN FC",
       "pubDate": "2026-11-22T01:16:50+00:00",
       "link": "https://www.youtube.com/watch?v=R1mwI730OEQ"
-    },
-    {
-      "league": "NHL",
-      "title": "That Deserves a Thank You from the Goalie 🙏",
-      "videoId": "ogNBDoD55mw",
-      "author": "NHL",
-      "pubDate": "2026-11-22T01:11:51+00:00",
-      "link": "https://www.youtube.com/watch?v=ogNBDoD55mw"
-    },
-    {
-      "league": "NHL",
-      "title": "Chicago Cashes In on OT Chaos 😱",
-      "videoId": "g1IthhDXZ0o",
-      "author": "NHL",
-      "pubDate": "2026-11-22T00:36:36+00:00",
-      "link": "https://www.youtube.com/watch?v=g1IthhDXZ0o"
-    },
-    {
-      "league": "NHL",
-      "title": "Saros Picked Up a Little Extra Equipment 😂",
-      "videoId": "UezbRssKx10",
-      "author": "NHL",
-      "pubDate": "2026-11-22T00:24:57+00:00",
-      "link": "https://www.youtube.com/watch?v=UezbRssKx10"
     },
     {
       "league": "SOCCER",
@@ -6159,30 +6195,6 @@
       "author": "ESPN FC",
       "pubDate": "2026-11-21T23:44:01+00:00",
       "link": "https://www.youtube.com/watch?v=JqzM7ELdh6g"
-    },
-    {
-      "league": "SOCCER",
-      "title": "Tottenham vs. Ipswich Town Reaction 👀 Things beginning to click for De Zerbi? | ESPN FC",
-      "videoId": "CZT3f1fREpg",
-      "author": "ESPN FC",
-      "pubDate": "2026-11-21T23:15:35+00:00",
-      "link": "https://www.youtube.com/watch?v=CZT3f1fREpg"
-    },
-    {
-      "league": "SOCCER",
-      "title": "‘It was EMBARRASSING!’ 😬 Shaka Hislop on Chelsea’s 4-1 loss to Leeds | ESPN FC",
-      "videoId": "fOUFt-mJTog",
-      "author": "ESPN FC",
-      "pubDate": "2026-11-21T23:05:44+00:00",
-      "link": "https://www.youtube.com/watch?v=fOUFt-mJTog"
-    },
-    {
-      "league": "SOCCER",
-      "title": "Arsenal drop points vs. Newcastle 👀 Reaction to the 2-2 draw | ESPN FC",
-      "videoId": "Xo9tugvKC14",
-      "author": "ESPN FC",
-      "pubDate": "2026-11-21T22:59:23+00:00",
-      "link": "https://www.youtube.com/watch?v=Xo9tugvKC14"
     },
     {
       "league": "MLB",
@@ -6217,14 +6229,6 @@
       "link": "https://www.youtube.com/watch?v=Xx6lNvB-c_o"
     },
     {
-      "league": "NBA",
-      "title": "Quinton Wilson, Wellington Sports Academy vs. Troy Fason Jr., DME | MADE Hoops Miami Tip-Off",
-      "videoId": "mCnZAbE_YBE",
-      "author": "NBA",
-      "pubDate": "2026-11-21T16:18:20+00:00",
-      "link": "https://www.youtube.com/watch?v=mCnZAbE_YBE"
-    },
-    {
       "league": "MLB",
       "title": "We Mic'd Up JJ Wetherholt &amp; MLB Stars on the Golf Course (Gunnar, AJ10, Ozzie Smith, Vince Coleman)",
       "videoId": "8E6JysOGkRs",
@@ -6247,14 +6251,6 @@
       "author": "NFL on ESPN",
       "pubDate": "2026-11-21T14:00:31+00:00",
       "link": "https://www.youtube.com/watch?v=w4AKLKnxjDc"
-    },
-    {
-      "league": "MLB",
-      "title": "The most EPIC home runs from the 2026 season! 💪 (Ft. Walk-off GRAND SLAMS, 3-homer games &amp; MORE!)",
-      "videoId": "YibY-nqrCeI",
-      "author": "MLB",
-      "pubDate": "2026-11-21T14:00:21+00:00",
-      "link": "https://www.youtube.com/watch?v=YibY-nqrCeI"
     },
     {
       "league": "NFL",
