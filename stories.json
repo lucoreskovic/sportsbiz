@@ -1,73 +1,81 @@
 {
   "clusters": [
     {
-      "category": "media",
-      "importance": 8,
-      "leadHeadline": "NBA sets new viewership mark for opening month of season",
-      "leadSource": "Sports Media Watch · 1h ago",
-      "leadUrl": "https://www.sportsmediawatch.com/2026/11/nba-viewership-most-watched-opening-month-record/",
-      "summary": "<cite index=\"22-3\">NBA national games averaged a record 2.62 million viewers in the season's first month, up 37% from last year.</cite> <cite index=\"12-2\">More than 75 million U.S. viewers watched games overall—the highest opening-month viewership in NBA history.</cite>",
-      "article": "<cite index=\"22-3\">The NBA averaged a record 2.62 million viewers per window across NBCUniversal, Prime Video and ESPN through its first month, up 37% year-over-year and the highest average at this point in an 82-game season.</cite> <cite index=\"12-2\">The combined 75 million viewers marked the league's highest opening-month total in its history, up 20% from the prior year.</cite>\n\n<cite index=\"22-5\">NBC led the way with an average of 4.50 million viewers across six game windows, up 27% from last season.</cite> <cite index=\"21-6\">The Opening Night matchup between New York and Philadelphia drew 7.7 million viewers, the most-watched NBA game of the 2026-27 season.</cite>\n\n<cite index=\"22-7,22-8\">The defending champion Knicks averaged 3.37 million viewers across their six national windows, up 108% from their opening month last season, helped by their featured Opening Night slot against the Sixers.</cite> <cite index=\"12-6\">Local game viewership was up 24% year-over-year.</cite>\n\nThe surge arrives under the NBA's 11-year media deal that brought NBC and Prime Video back into the equation. <cite index=\"13-8,13-9\">Younger viewers drove much of the increase. Fans under 35 account for 25% of viewership, up from 22% last season, while adults 18-34 viewership climbed 50% year-over-year.</cite>",
-      "tweets": []
-    },
-    {
       "category": "leagues",
       "importance": 8,
       "leadHeadline": "UK confirmed as host of 2035 Women's World Cup",
-      "leadSource": "The Guardian · 4h ago",
+      "leadSource": "The Guardian · 7h ago",
       "leadUrl": "https://www.theguardian.com/football/2026/nov/23/uk-confirmed-hosts-2035-womens-world-cup-fifa",
-      "summary": "England, Scotland, Wales, and Northern Ireland will jointly host the 2035 FIFA Women's World Cup, marking the first World Cup tournament on home soil since the men's 1966 edition. The UK bid was unopposed in the selection process.",
-      "article": "FIFA confirmed the United Kingdom as host of the 2035 Women's World Cup, making it the first time the country has staged a World Cup since the men's tournament in England in 1966. England, Scotland, Wales, and Northern Ireland will co-host the event across 22 proposed stadiums, according to the bid documentation. The UK bid was the only one under consideration for 2035 after other potential bidders withdrew or declined to pursue the tournament. The 2031 Women's World Cup will be held elsewhere, with Morocco, Australia, or New Zealand expected as alternatives. This marks a significant moment for women's football globally: the UK tournament will likely draw record crowds and television audiences given the country's soccer infrastructure and media reach. The win cements the UK's position as a major tournament host and comes as women's soccer viewership continues to climb across Europe and North America. The bid process was notably smoother than previous World Cup selections, with no competing national bids forcing FIFA into an extended deliberation.",
+      "summary": "England, Scotland, Wales and Northern Ireland will jointly host the 2035 Women's World Cup, featuring 48 teams in 104 matches across 22 proposed stadiums.",
+      "article": "<cite index=\"1-1,1-4\">FIFA confirmed the United Kingdom as host of the 2035 Women's World Cup on Monday at a virtual FIFA Congress meeting in Zurich</cite>. <cite index=\"6-3\">The UK was the sole bidder for the tournament</cite>.\n\n<cite index=\"1-5\">The tournament will feature 48 teams competing in 104 matches over 39 days, making it the largest single-sport event ever staged in the UK</cite>. <cite index=\"1-6\">It marks the first time a football World Cup has been held in the country since England hosted the men's tournament in 1966</cite>.\n\n<cite index=\"1-7\">The bid proposed 22 stadiums across 16 host cities, with 16 venues in England, three in Wales, two in Scotland and one in Northern Ireland</cite>. Major grounds include Wembley, Old Trafford, Manchester City's Etihad Stadium and Emirates Stadium.\n\n<cite index=\"12-10,12-11\">FA chief executive Mark Bullingham said the host country would \"give us the chance to build on that across all four nations\"</cite>, referencing Euro 2022's success in growing the women's game.",
+      "tweets": [
+        {
+          "url": "https://twitter.com/Lionesses/status/2124882298495758721",
+          "html": "<blockquote class=\"twitter-tweet\" data-dnt=\"true\" data-theme=\"dark\"><p>It's confirmed: England, Northern Ireland, Scotland and Wales will host the FIFA Women’s World Cup in 2035! 🌍 🏆 \n\n 🎙️ Michelle Agyemang 👏\n\n#WWC2035 https://t.co/XREYT7Vqgu</p>&mdash; Lionesses (@Lionesses) <a href=\"https://twitter.com/Lionesses/status/2124882298495758721\">November 23, 2026</a></blockquote>",
+          "author_name": "Lionesses",
+          "author_url": "https://twitter.com/Lionesses",
+          "dateMs": 1795446393000
+        }
+      ]
+    },
+    {
+      "category": "media",
+      "importance": 7,
+      "leadHeadline": "NBA sets new viewership mark for opening month of season",
+      "leadSource": "Sports Media Watch · 4h ago",
+      "leadUrl": "https://www.sportsmediawatch.com/2026/11/nba-viewership-most-watched-opening-month-record/",
+      "summary": "NBA opening-month viewership averaged 2.62 million per window across NBCUniversal, Prime Video, and ESPN, up 37% from last year. The league is tracking well ahead of even elevated 2024-25 viewership levels.",
+      "article": "The NBA opened its 2025-26 season with significant viewership momentum, averaging 2.62 million viewers per window across NBCUniversal, Prime Video, and ESPN in the season's opening month. The figure combines Nielsen and Adobe Analytics data for NBC games and represents a 37% increase from the same period last year.\n\nThe gains underscore strong subscriber engagement across the league's distributed media partners and reflect elevated interest heading into the new season. Prime Video's exclusive Thursday night window and NBC's traditional broadcast schedule both contributed to the aggregate. The jump extends a trend from the previous season, when the NBA saw increased viewership during marquee matchups and opening weeks.\n\nThese numbers matter for the NBA's upcoming media rights negotiations. Networks and streaming platforms are using early-season viewership as a barometer for cord-cutting trends and live sports consumption patterns. A 37% year-over-year increase in opening-month volume gives the league leverage in rights talks and signals that live basketball remains a primary draw for traditional and digital platforms.",
       "tweets": []
     },
     {
       "category": "contracts",
       "importance": 7,
       "leadHeadline": "Skubal's $450M Deal Is What MLB Owners Say They Want to Avoid",
-      "leadSource": "Sportico · 4h ago",
+      "leadSource": "Sportico · 8h ago",
       "leadUrl": "https://www.sportico.com/leagues/baseball/2026/skubal-mets-contract-cba-impact-450-million-mlb-mlbpa-1234959188/",
-      "summary": "Tarik Skubal signed a nine-year, $450 million deal with the Mets, the exact type of contract MLB ownership has been fighting to cap under its latest CBA proposal. The deal exposes the tension between owners and players as labor negotiations accelerate.",
-      "article": "The Mets signed pitcher Tarik Skubal to a nine-year, $450 million contract, a deal that directly contradicts MLB ownership's stated negotiating position. The league's most recent collective bargaining agreement proposal included a maximum contract size designed to prevent exactly this kind of commitment. Under the owners' proposal, free-agent signings would be capped at 15% of the overall salary cap, effectively limiting what teams could offer elite pitchers like Skubal. The deal is fully guaranteed and positions Skubal among the highest-paid pitchers ever, cementing the Mets' willingness to exceed any informal ceiling owners might propose. The signing complicates the landscape ahead of labor negotiations expected to intensify as the December lockout deadline approaches. Blue Jays general manager Ben Nicholson-Smith noted the Skubal agreement has shifted free-agent pricing across the market, forcing other contenders to recalibrate their starting pitching budgets. The contract also fuels congressional interest in stripping MLB of its antitrust exemption, a threat members of Congress have weaponized repeatedly during labor disputes over the past 75 years.",
+      "summary": "Tarik Skubal's nine-year, $450 million contract with the Mets exemplifies the long-term commitments MLB owners aim to restrict through a proposed salary cap. The deal underscores the tension between player earnings and league cost controls.",
+      "article": "Tarik Skubal's nine-year, $450 million deal with the New York Mets has become a flashpoint in MLB labor negotiations, embodying exactly the type of contract owners are attempting to cap. The pitcher's fully guaranteed commitment represents a maximum-length individual deal that players will defend fiercely as bargaining continues.\n\nMLB's latest collective bargaining proposal includes a maximum contract size mechanism, capping team-switching deals at 15 percent of the overall salary cap. Under such restrictions, a pitcher of Skubal's profile would face a ceiling on earning potential when signing with a new franchise. The rule is designed to constrain payroll flexibility and limit the mega-deals that have become standard for top starting pitchers in free agency.\n\nThe Mets' willingness to commit $450 million to Skubal reflects the current market reality: elite arms command nine-figure guarantees. Owners view deals of this scale as unsustainable and incompatible with league-wide financial stability. Players counter that such contracts represent fair market value for elite talent and that salary caps undermine the economic gains they won in previous bargaining rounds. The Skubal deal will likely anchor the negotiation over what constitutes a defensible maximum individual contract.",
       "tweets": []
     },
     {
       "category": "labor",
       "importance": 6,
-      "leadHeadline": "MLB's CBA Expiration Revives Antitrust Exemption Fight",
-      "leadSource": "Sportico · 6h ago",
-      "leadUrl": "https://www.sportico.com/law/analysis/2026/mlb-antitrust-exemption-repeal-impact-lockout-1234959083/",
-      "summary": "As the MLB lockout looms on December 2, members of Congress have resurfaced threats to strip baseball of its federal antitrust exemption. The tactic resurfaces every labor dispute but carries weight in salary-cap negotiations.",
-      "article": "Congressional members have dusted off their favorite threat as MLB's collective bargaining agreement expires: stripping baseball of its antitrust exemption from federal law. The lockout is expected to begin at 12:01 a.m. ET on December 2, and legislators have used the exemption as leverage in negotiations for the past 75 years, though none have successfully pursued removal. The exemption, granted to MLB in 1922 and reaffirmed throughout subsequent labor disputes, insulates the league from certain antitrust lawsuits and gives owners significant structural advantages in negotiations. Players' representatives view the exemption as a point of leverage to pressure ownership on salary cap provisions. Skubal's $450 million contract has accelerated the conversation by demonstrating what owners fear: uncapped free agency that drives pitcher compensation skyward. The antitrust lever is blunt but historically effective in focusing negotiations. Neither side expects Congress to actually strip the exemption, but the threat signals the depth of the coming fight over contract maximums and player compensation.",
+      "leadHeadline": "MLB Players: Latest League Proposals 'Don't Add a Single Dollar' to Overall Pay",
+      "leadSource": "Front Office Sports · 1h ago",
+      "leadUrl": "https://frontofficesports.com/article/mlb-players-latest-league-proposals-dont-add-single-dollar-overall-pay/",
+      "summary": "MLB players rejected the league's latest bargaining proposal, arguing it provides no net increase in total player compensation. Labor talks continue without resolution on core economic issues.",
+      "article": "MLB players have dismissed the league's most recent collective bargaining proposal, asserting that it fails to increase overall player compensation. The players' response signals a fundamental disconnect on the core economic terms that have stalled negotiations for weeks.\n\nWithout specific figures released from either side, the rejection hinges on how both parties calculate total value. The league's proposal may appear to offer higher salaries in certain brackets while reducing benefits or adjusting arbitration thresholds elsewhere, resulting in a net-zero or negative outcome for the player pool. This accounting difference has repeatedly derailed talks, as players demand guaranteed gains to real compensation, not mere repositioning of existing dollars.\n\nThe standoff reflects the structural tension in baseball's current labor environment. Owners are pushing for cost containment through salary caps and maximum contract limits, while players seek both higher minimums and protection for top earners. Without movement on either end, the cycle risks repeating: proposals exchanged, rejected on principle, no progress on fundamentals. A resolution typically requires one side to yield material ground on salary cap implementation or player earnings growth.",
       "tweets": []
     },
     {
       "category": "media",
       "importance": 6,
-      "leadHeadline": "Washington Spirit Fire Coach After Third Straight NWSL Title Game Loss",
-      "leadSource": "Front Office Sports · just now",
-      "leadUrl": "https://frontofficesports.com/article/washington-spirit-nwsl-fire-coach/",
-      "summary": "The Washington Spirit dismissed their head coach following a 2-1 loss to Kansas City in the NWSL Championship, marking the team's third consecutive title-game defeat. The firing signals a franchise reset after repeated postseason failures.",
-      "article": "The Washington Spirit fired their head coach after losing to Kansas City 2-1 in the NWSL Championship on Saturday, marking the third straight championship-game defeat for the franchise. The repeated final-round collapses forced the organization to make a change at the top position despite fielding competitive rosters. The Spirit's three consecutive title-game losses represent an unusual pattern of postseason execution failure, suggesting either tactical limitations or roster construction issues that required fresh eyes. The firing comes as the NWSL continues to stabilize its media presence and revenue model; a consistent champion in the nation's capital would strengthen the league's marketability in a major media market. The team will conduct a search for a new leader as it prepares for the 2026 season. The move also reflects the NWSL's growing financial stability, which now permits franchises to make high-profile coaching changes in pursuit of titles rather than accepting mediocrity for budget reasons.",
+      "leadHeadline": "Patriots reveal plan at QB after Drake Maye injury",
+      "leadSource": "NY Post Sports · 1h ago",
+      "leadUrl": "https://nypost.com/2026/11/23/sports/patriots-reveal-plan-at-qb-after-drake-maye-injury/",
+      "summary": "The Patriots outlined their quarterback contingency after Drake Maye's injury, committing to internal solutions. The move has implications for the team's depth chart and playoff viability.",
+      "article": "The New England Patriots have confirmed their quarterback plan following Drake Maye's injury, opting to remain with internal roster options rather than pursue external free agents. The decision reflects the team's confidence in backup options and signals a commitment to the current depth chart.\n\nMaye's injury created an immediate need to establish succession clarity. By announcing an internal solution, the Patriots avoid the market complications and salary-cap implications of a midseason acquisition. The move also sends a roster message: the organization believes its backup quarterback room is capable of competitive play in Maye's absence.\n\nThe specific timeline for Maye's return and the named backup weren't disclosed in the statement, but the internal commitment suggests either a near-term return or a multi-week absence with a trusted contingency. For playoff positioning, the Patriots' ability to maintain competitive performance during Maye's absence will determine whether the injury derails their season or becomes a temporary roster inconvenience.",
       "tweets": []
     },
     {
       "category": "media",
       "importance": 5,
-      "leadHeadline": "2026 UFC event schedule: Israel Adesanya vs. Shara Magomedov, Charles Oliveira vs. Diego Lopes on tap",
+      "leadHeadline": "LSU's MiLaysia Fulwiley back with Tigers, cleared to play after felony charges dropped",
       "leadSource": "CBS Sports · just now",
-      "leadUrl": "https://www.cbssports.com/ufc/news/2026-ufc-event-schedule-israel-adesanya-shara-magomedov-charles-oliveira-diego-lopes/",
-      "summary": "UFC announced its 2026 pay-per-view slate headlined by Israel Adesanya's middleweight bout against Shara Magomedov and Charles Oliveira versus Diego Lopes. The schedule outlines the promotion's strategic matchmaking for the year.",
-      "article": "The UFC released its 2026 pay-per-view and Fight Night card calendar, anchoring the year with middleweight and lightweight main events. Israel Adesanya will face Shara Magomedov in one headline matchup, while Charles Oliveira and Diego Lopes are slated for another prime slot across the promotion's events. The scheduling reflects the UFC's effort to build marquee matchups around its biggest stars while developing contenders in secondary slots. The full calendar spans the entire year and includes both numbered PPV events and regional Fight Night broadcasts. UFC has historically used calendar announcements to prime the market for ticket sales and media partnerships, particularly as streamers compete for flagship fight content.",
+      "leadUrl": "https://www.cbssports.com/womens-college-basketball/news/lsu-milaysia-fulwiley-returns-team-felony-charges-dropped-arrest/",
+      "summary": "LSU women's basketball player MiLaysia Fulwiley has been cleared to return after felony charges were dropped. She still faces three misdemeanor charges related to allegedly hitting a police officer with a vehicle.",
+      "article": "LSU women's basketball player MiLaysia Fulwiley has been cleared to rejoin the Tigers after felony charges against her were dropped. However, she still faces three misdemeanor charges stemming from an incident in which she allegedly struck a police officer with a vehicle.\n\nThe felony charge dismissal removes a significant legal barrier to her immediate participation. The remaining misdemeanor charges carry lesser penalties and don't typically result in automatic roster suspension for NCAA athletes, allowing Fulwiley to return to competition while the cases proceed through the courts.\n\nFulwiley's return adds depth to LSU's roster at a critical point in the season. Her availability strengthens the Tigers' depth chart and provides coach continuity. The misdemeanor charges will continue through the legal system independently of her athletic eligibility, a distinction that permits her playing status while the criminal proceedings unfold.",
       "tweets": []
     },
     {
       "category": "media",
-      "importance": 4,
-      "leadHeadline": "Scouts Analysis: What Canadiens, Red Wings get in Dylan Larkin trade",
-      "leadSource": "Sportsnet · 2h ago",
+      "importance": 5,
+      "leadHeadline": "Larkin's hidden desire to join Canadiens key to completing trade with Red Wings",
+      "leadSource": "Sportsnet · 3h ago",
       "leadUrl": "",
-      "summary": "Dylan Larkin was traded from the Detroit Red Wings to the Montreal Canadiens after months of publicly expressed frustration. Sportsnet analysts break down both sides of the deal.",
-      "article": "Dylan Larkin's trade from the Red Wings to the Canadiens ends a tenure marked by mounting frustration with Detroit's rebuild direction. The move addresses Larkin's desire for a contender while giving Montreal a veteran center entering its playoff push. Sportsnet's Jason Bukala and Rory Boylen analyzed the exchange, examining what each franchise gained. The Canadiens acquire a 28-year-old center with significant playoff experience, addressing a roster weakness as they pursue a postseason berth. Detroit receives assets that factor into its long-term rebuild, though the specifics of the return were not fully detailed in available reporting. The trade market remains active as deadline season approaches, with veteran players on non-contending teams seeking moves to playoff-bound rosters.",
+      "summary": "Dylan Larkin's preference to play for Montreal was instrumental in finalizing his trade from Detroit. The forward's willingness to waive his no-trade clause accelerated the deal with the Red Wings.",
+      "article": "Dylan Larkin's trade to the Montreal Canadiens hinged on a key factor: his desire to play for the team itself. When Larkin publicly acknowledged that Montreal was always an option for him, that wasn't strategic positioning but rather a reflection of a genuine preference that became central to completing the deal.\n\nLarkin's no-trade clause gave him leverage over destination. Rather than forcing Detroit to shop him across the league, he voluntarily waived the clause for Montreal specifically, knowing the Canadiens as an organization and market aligned with his long-term interests. That internal clarity accelerated negotiations significantly.\n\nFor the Red Wings, Larkin's willingness to accept Montreal simplified what could have been a prolonged process. Rather than negotiating with multiple teams and trying to maximize return while navigating player preference, Detroit could focus on a single deal. For Montreal, acquiring Larkin without a trade holdup signals his commitment to the organization and removes questions about player reluctance. His explicit desire to join the Canadiens, once confirmed internally, resolved a major negotiating variable.",
       "tweets": []
     }
   ],
@@ -2394,81 +2402,93 @@
   "deals": [],
   "ratings": [
     {
-      "event": "NBA Opening Month Average",
-      "network": "NBC/Prime Video/ESPN",
+      "event": "NBA opening month average viewership",
+      "network": "NBCUniversal/Prime Video/ESPN",
       "viewers_m": 2.62,
-      "peak_viewers_m": 4.5,
+      "peak_viewers_m": null,
       "league": "NBA",
       "storyIndex": 8,
-      "context": "Up 37% from prior year; NBC alone averaging 4.5M viewers across Nielsen and Adobe Analytics.",
-      "capturedAt": "2026-11-23T18:53:13.421Z"
+      "context": "Up 37% from previous year; combines Nielsen and Adobe Analytics data.",
+      "capturedAt": "2026-11-23T22:18:21.881Z"
     }
   ],
   "ticket_prices": [],
   "sidebar": [
     {
-      "headline": "Tyson Fury diagnosed with schizophrenia",
-      "source": "NY Post Sports · just now",
-      "article": "Tyson Fury revealed he has been diagnosed with schizophrenia following an episode in which he heard voices threatening his family. The heavyweight boxer described the incident as \"scary\" and indicated he sought professional help afterward. Fury joins other high-profile athletes who have publicly disclosed mental health diagnoses, contributing to broader conversation about mental wellness in professional sports. The fighter's decision to speak openly about his condition breaks stigma around schizophrenia and may encourage other athletes to seek treatment. Fury's career status and future fight schedule were not immediately detailed, though the disclosure suggests he is taking his health seriously at this stage of his career."
+      "headline": "Why Josh Hokit Deserves a Rematch Against Ciryl Gane",
+      "source": "Deadspin · 2h ago",
+      "article": "Josh Hokit and Ciryl Gane delivered a heavyweight title fight worth revisiting. The matchup showcased technical striking, wrestling exchanges, and competitive pacing that produced a close contest on the judges' scorecards. A rematch could reignite the UFC's heavyweight division by pitting two top contenders against each other again, this time with clearer stakes and tactical adjustments from both corners. The first fight proved both men belong at title contention, and a second engagement could determine the division's top challenger."
     },
     {
-      "headline": "Ravens' stability crumbles in recent weeks",
-      "source": "The Guardian · 10h ago",
-      "article": "The Baltimore Ravens, long regarded as one of the most stable franchises of the century, have entered a crisis period following a string of embarrassing losses. The team lost blowouts to Buffalo, Jacksonville, and Cincinnati, plus a divisional defeat to Cleveland and a shocking loss to a previously winless opponent. The Ravens' reputation for organizational competence has been dinged by recent events that have exposed either talent-evaluation shortcomings or coaching inconsistencies. The slide raises questions about leadership accountability and roster construction as the season enters its critical stretch. Baltimore's historical track record suggests capacity to recover, but the depth of recent defeats signals deeper issues requiring front-office attention."
+      "headline": "The Ravens have long been a model of stability. Now they're going off the rails",
+      "source": "The Guardian · 14h ago",
+      "article": "Baltimore has built a reputation as one of the NFL's most successful franchises this century, with consistent playoff appearances and disciplined organizational structure. Recent weeks have shattered that image. Blowout losses to Buffalo, Jacksonville, and Cincinnati, combined with an embarrassing defeat to a previously winless opponent, have exposed defensive vulnerabilities and inconsistent execution. The Ravens' fall from stability signals deeper roster or coaching issues that require immediate correction to salvage the season."
     },
     {
-      "headline": "Auriemma and Staley face off in pivotal UConn-South Carolina game",
-      "source": "CBS Sports · just now",
-      "article": "Geno Auriemma and Dawn Staley are back on the court for a crucial matchup between UConn and South Carolina, their first major meeting since last season's controversial Final Four ending. The two head coaches and programs have significant history, and Tuesday's game carries extra weight given the rivalry's intensity. Both teams are contenders in the women's college basketball landscape, and a win here shapes postseason seeding and perception. The game draws interest beyond the immediate matchup, as it reunites two of the sport's most accomplished coaches in a high-stakes contest. Staley and Auriemma's competitive dynamic continues to define elite women's basketball."
+      "headline": "De Bruyne's feelings for Man City will 'never change'",
+      "source": "BBC Sport · 1h ago",
+      "article": "Kevin de Bruyne says his loyalty to Manchester City and the club's ownership remains unchanged despite the Premier League's recent finding that City breached financial rules. De Bruyne expressed his continued 'love' for the organization and owners, signaling his commitment to the club through its legal challenges. His public statement provides stability for City's roster during a period of regulatory uncertainty and competitive questions."
     },
     {
-      "headline": "Jeremiah Smith's Heisman case grows despite Ohio State struggles",
-      "source": "Deadspin · 3h ago",
-      "article": "Jeremiah Smith continues to put up elite receiving numbers at Ohio State, leading the FBS in both touchdowns and yards. The wide receiver is building a compelling Heisman Trophy case regardless of his team's overall performance. Smith's individual productivity has been remarkable, and he remains in the conversation for college football's highest honor despite Ohio State's win-loss record. His output suggests he will be a first-round NFL Draft pick whenever he declares. The disconnect between team success and individual achievement raises questions about how voters weight team context in Heisman voting."
+      "headline": "Uncovering three key concerns facing the Oilers",
+      "source": "Sportsnet · 2h ago",
+      "article": "Edmonton's roster depth, special teams consistency, and goaltender performance are creating competitive vulnerabilities as the season progresses. The Oilers have talent at the top of the lineup but face questions in secondary scoring and penalty-kill execution. Addressing these three elements will determine whether Edmonton maintains playoff positioning or stumbles in the stretch run."
     },
     {
-      "headline": "Dodgers add depth with reclamation reliever project",
-      "source": "NY Post Sports · just now",
-      "article": "The Los Angeles Dodgers signed a former top prospect reliever who underperformed with the Angels, betting on a bounceback year. The move addresses the team's bullpen depth while carrying the risk of a continued decline. The reliever once carried high prospect pedigree but has struggled to convert that promise into consistent major league performance. The Dodgers' willingness to take a chance suggests organizational confidence in their coaching and development infrastructure. The signing is a low-cost, high-upside gamble typical of contending teams during the offseason."
+      "headline": "Tennis Prize Money Tracker: Which Player Has Earned the Most in 2026?",
+      "source": "Sportico · 2h ago",
+      "article": "Alexander Zverev leads all professional tennis players in 2026 earnings with $18.18 million, anchored by U.S. Open ($5.5M) and French Open ($3.27M) victories. Both major tournament purses increased 10 percent from the previous year's champion awards, reflecting broader prize-money expansion across the professional circuit. Zverev's Wimbledon final appearance also contributed significantly to his year-to-date total."
     },
     {
-      "headline": "David Raya's shoulder injury deemed not serious for Arsenal",
-      "source": "BBC Sport · 3h ago",
-      "article": "Arsenal goalkeeper David Raya suffered a shoulder injury at Newcastle but will not require surgery, according to manager Mikel Arteta. Raya will miss Tuesday's Champions League game against Borussia Dortmund but could return for Manchester City's upcoming visit. The injury was initially concerning but Arteta indicated optimism about the timeline. Raya's absence forces Arsenal to rely on backup options for the Dortmund match, though the manager expects to have him available soon. The goalkeeper's durability will be key to Arsenal's Champions League run."
+      "headline": "Monday Night Football prediction, odds, time: Bengals vs. Commanders",
+      "source": "CBS Sports · 1h ago",
+      "article": "R.J. White, riding a 35-18 run against the spread, provides expert picks for Cincinnati's visit to Washington in Week 11. The matchup features two Heisman Trophy-winning LSU alumni—a storyline that adds narrative interest to the Monday night contest. White's recent success on picks makes his analysis key for bettors and casual fans tuning in."
     }
   ],
   "poll": {
-    "question": "Will MLB ownership and the MLBPA reach a deal before the December 2 lockout deadline?",
+    "question": "Which storyline will have the bigger impact on the NFL season?",
     "options": [
-      "Yes, they'll negotiate a new CBA by midnight December 1",
-      "No, the lockout will begin and extend into next month",
-      "Yes, but only after a brief one-week work stoppage",
-      "Unclear, but Congress will intervene with antitrust threat"
+      "Drake Maye's injury and the Patriots' QB contingency plan",
+      "Ravens' recent collapse and defensive breakdowns",
+      "Bengals-Commanders matchup and playoff seeding implications",
+      "League-wide health and next wave of starter injuries"
     ]
   },
   "predictions": [
     {
-      "statement": "The NBA maintains 30% year-over-year viewership growth through the All-Star break.",
+      "statement": "NBA viewership sustains a 30%+ year-over-year increase through the All-Star break.",
       "probability": 62,
-      "rationale": "Current 37% bump is strong but front-loaded. Sustaining near that rate through mid-season is difficult historically. A 30% hold is aggressive but plausible if star injury rates remain low and streaming penetration continues."
+      "rationale": "Opening-month gains of 37% reflect genuine subscriber engagement across Prime and NBC, not artificial spikes. If marquee matchups maintain similar tune-in rates and playoff races stay competitive, the league can sustain momentum into February."
     },
     {
-      "statement": "The 2026 NFL Draft includes at least one quarterback selected in the top 5 overall.",
-      "probability": 88,
-      "rationale": "Four of the past five years have opened with a QB in the top five. Positional scarcity and franchise desperation make this near-certain. Only a historically weak QB class would prevent it."
+      "statement": "MLB reaches a labor deal by Opening Day 2026 without further negotiation delays.",
+      "probability": 45,
+      "rationale": "The salary-cap standoff is fundamental. Players have consistently rejected proposals they view as net-zero, and owners show no sign of moving off maximum contract caps. Historical lockouts lasted weeks; the structural gap here suggests continued stalling."
     },
     {
-      "statement": "Congress passes no legislation stripping MLB of antitrust exemption by 2027.",
-      "probability": 85,
-      "rationale": "Members have threatened exemption removal for 75 years without passing legislation. The threat functions as negotiating pressure, not genuine policy intent. Actual removal would face fierce lobbying."
+      "statement": "Drake Maye misses fewer than four games for the Patriots.",
+      "probability": 58,
+      "rationale": "The Patriots' internal-solution announcement suggests either a minor injury or high confidence in backup readiness. If Maye were facing a 4-6 week absence, the team would likely explore external options or provide a clearer timeline."
     },
     {
-      "statement": "The UK's 2035 Women's World Cup sets a new viewership record for the tournament.",
-      "probability": 74,
-      "rationale": "UK infrastructure, media reach, and women's soccer growth trajectory suggest strong audiences. English viewership alone would likely exceed prior tournaments. The only limiting factor is soccer's competition for broadcast slots."
+      "statement": "The 2035 Women's World Cup in the UK attracts record viewership for the tournament format.",
+      "probability": 71,
+      "rationale": "The UK has established broadcast infrastructure, strong domestic women's leagues, and massive soccer audience. Previous women's tournaments hosted in developed markets set viewership records; the UK's market size and infrastructure make a new high probable."
     }
   ],
   "injuries": [
+    {
+      "player": "Drake Maye",
+      "team": "New England Patriots",
+      "league": "NFL",
+      "position": "QB",
+      "status": "OUT",
+      "injury": "Injury (specific diagnosis not disclosed)",
+      "timeline": null,
+      "source": "NY Post Sports",
+      "impact": "Patriots activated contingency quarterback plan; team committing to internal options rather than external acquisition.",
+      "storyIndex": 2
+    },
     {
       "player": "David Raya",
       "team": "Arsenal",
@@ -2476,22 +2496,22 @@
       "position": "GK",
       "status": "QUESTIONABLE",
       "injury": "Shoulder injury",
-      "timeline": "Will miss Dortmund (Tues), could return for Man City",
-      "source": "BBC Sport",
-      "impact": "Arsenal will use backup goalkeeper for Champions League match against Borussia Dortmund; impact depends on backup quality and length of absence.",
-      "storyIndex": null
+      "timeline": "Will miss Dortmund match; could return for City clash",
+      "source": "BBC Sport / The Guardian",
+      "impact": "Arsenal's backup goalkeeper needed for Champions League match against Borussia Dortmund; Arteta expects injury not to require surgery.",
+      "storyIndex": 3
     },
     {
       "player": "Endrick",
       "team": "Real Madrid",
       "league": "SOCCER",
       "position": "FW",
-      "status": "DOUBTFUL",
+      "status": "OUT",
       "injury": "Muscle injury",
-      "timeline": "Not expected for PSV match (Tuesday)",
+      "timeline": "Out for Champions League match vs PSV Eindhoven on Tuesday",
       "source": "Sportsnet",
-      "impact": "Real Madrid will be without their striker for Champions League match versus PSV Eindhoven; impacts offensive flexibility and goal-scoring depth.",
-      "storyIndex": null
+      "impact": "Real Madrid striker unavailable for European competition; impacts attacking depth in Champions League fixture.",
+      "storyIndex": 3
     }
   ],
   "picks": [
@@ -5927,30 +5947,30 @@
       "_pendingGrade": true
     }
   ],
-  "updatedAt": "2026-04-23T14:30:00Z",
+  "updatedAt": "2026-04-23T23:59:59Z",
   "highlights": [
     {
       "league": "NBA",
-      "title": "Final 4:51 WILD ENDING Celtics at Warriors | November 22, 2026",
-      "videoId": "0Fc3z2y5F2s",
-      "thumbnail": "https://img.youtube.com/vi/0Fc3z2y5F2s/mqdefault.jpg",
-      "timeAgo": "3h ago",
+      "title": "10 YEARS AGO TODAY… KEVIN LOVE SCORED 34 IN THE FIRST QUARTER 🔥",
+      "videoId": "vPq9E3oU-Dw",
+      "thumbnail": "https://img.youtube.com/vi/vPq9E3oU-Dw/mqdefault.jpg",
+      "timeAgo": "2h ago",
       "isFallback": false
     },
     {
       "league": "NFL",
-      "title": "Further punishment coming for DK Metcalf? + Micah Parsons set to return?! | The Pat McAfee Show",
-      "videoId": "_ShAlhRrN30",
-      "thumbnail": "https://img.youtube.com/vi/_ShAlhRrN30/mqdefault.jpg",
+      "title": "Is Jackson Harris a Top WR in This Year's Draft? #nfl #espn #football # firstdraft",
+      "videoId": "BslDUbaAQ-E",
+      "thumbnail": "https://img.youtube.com/vi/BslDUbaAQ-E/mqdefault.jpg",
       "timeAgo": "Just now",
       "isFallback": false
     },
     {
       "league": "MLB",
-      "title": "Team Korea vs. Team Dominican Republic: Full Game (3/13/2026) | 2026 World Baseball Classic",
-      "videoId": "Zn6g438_KZg",
-      "thumbnail": "https://img.youtube.com/vi/Zn6g438_KZg/mqdefault.jpg",
-      "timeAgo": "1h ago",
+      "title": "Team United States vs. Team Canada: Full Game (3/13/2026) | 2026 World Baseball Classic",
+      "videoId": "fv63KI3UXIA",
+      "thumbnail": "https://img.youtube.com/vi/fv63KI3UXIA/mqdefault.jpg",
+      "timeAgo": "Just now",
       "isFallback": false
     },
     {
@@ -5958,7 +5978,7 @@
       "title": "Dylan Larkin's BEST Career Highlights!",
       "videoId": "j082ip2x1iM",
       "thumbnail": "https://img.youtube.com/vi/j082ip2x1iM/mqdefault.jpg",
-      "timeAgo": "4h ago",
+      "timeAgo": "7h ago",
       "isFallback": false
     },
     {
@@ -5971,29 +5991,157 @@
     },
     {
       "league": "SOCCER",
-      "title": "A young Jude Bellingham on international duty 😂 (via @pablotooshiesty/TT)",
-      "videoId": "hZ6zb3tHRto",
-      "thumbnail": "https://img.youtube.com/vi/hZ6zb3tHRto/mqdefault.jpg",
-      "timeAgo": "1h ago",
+      "title": "Paqueta after clinching Brazil's Serie A title with Flamengo 👏 (via @Flamengo/TT)",
+      "videoId": "Rn9Lh9oNoVI",
+      "thumbnail": "https://img.youtube.com/vi/Rn9Lh9oNoVI/mqdefault.jpg",
+      "timeAgo": "2h ago",
       "isFallback": false
     }
   ],
   "reels": [
     {
-      "league": "NFL",
-      "title": "Further punishment coming for DK Metcalf? + Micah Parsons set to return?! | The Pat McAfee Show",
-      "videoId": "_ShAlhRrN30",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-11-23T18:37:41+00:00",
-      "link": "https://www.youtube.com/watch?v=_ShAlhRrN30"
+      "league": "MLB",
+      "title": "Team United States vs. Team Canada: Full Game (3/13/2026) | 2026 World Baseball Classic",
+      "videoId": "fv63KI3UXIA",
+      "author": "MLB",
+      "pubDate": "2026-11-23T22:00:20+00:00",
+      "link": "https://www.youtube.com/watch?v=fv63KI3UXIA"
     },
     {
       "league": "NFL",
-      "title": "Are the Steelers playing the right person at QB? 👀",
-      "videoId": "FBEhCgWH3Jo",
+      "title": "Is Jackson Harris a Top WR in This Year's Draft? #nfl #espn #football # firstdraft",
+      "videoId": "BslDUbaAQ-E",
       "author": "NFL on ESPN",
-      "pubDate": "2026-11-23T18:01:14+00:00",
-      "link": "https://www.youtube.com/watch?v=FBEhCgWH3Jo"
+      "pubDate": "2026-11-23T22:00:00+00:00",
+      "link": "https://www.youtube.com/watch?v=BslDUbaAQ-E"
+    },
+    {
+      "league": "NFL",
+      "title": "How Brock Purdy Picked Brian Flores Apart",
+      "videoId": "gw8hxK8BmJc",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-11-23T21:53:22+00:00",
+      "link": "https://www.youtube.com/watch?v=gw8hxK8BmJc"
+    },
+    {
+      "league": "NFL",
+      "title": "🚨 Ben is SOLD on Fernando Mendoza 🏈",
+      "videoId": "wfE72-aMIrU",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-11-23T21:02:29+00:00",
+      "link": "https://www.youtube.com/watch?v=wfE72-aMIrU"
+    },
+    {
+      "league": "NBA",
+      "title": "10 YEARS AGO TODAY… KEVIN LOVE SCORED 34 IN THE FIRST QUARTER 🔥",
+      "videoId": "vPq9E3oU-Dw",
+      "author": "NBA",
+      "pubDate": "2026-11-23T20:42:57+00:00",
+      "link": "https://www.youtube.com/watch?v=vPq9E3oU-Dw"
+    },
+    {
+      "league": "NBA",
+      "title": "On this day in 1991, MJ swishes a free-throw with his eyes closed 😮‍💨",
+      "videoId": "Tg5gLzQMpp8",
+      "author": "NBA",
+      "pubDate": "2026-11-23T20:42:35+00:00",
+      "link": "https://www.youtube.com/watch?v=Tg5gLzQMpp8"
+    },
+    {
+      "league": "NBA",
+      "title": "Throwback to when David Stern tried on LeBron’s draft night jacket at the 2003 NBA Draft 🗓️",
+      "videoId": "HmhXDgKBeNI",
+      "author": "NBA",
+      "pubDate": "2026-11-23T20:42:16+00:00",
+      "link": "https://www.youtube.com/watch?v=HmhXDgKBeNI"
+    },
+    {
+      "league": "NBA",
+      "title": "KAT and Jose Alvarado with a little dance during KAT’s 3Q takeover 🔥",
+      "videoId": "feQQfA_xndI",
+      "author": "NBA",
+      "pubDate": "2026-11-23T20:42:01+00:00",
+      "link": "https://www.youtube.com/watch?v=feQQfA_xndI"
+    },
+    {
+      "league": "NBA",
+      "title": "Yaxel soaking it all in 🙌",
+      "videoId": "uRcgwNrxuFc",
+      "author": "NBA",
+      "pubDate": "2026-11-23T20:41:46+00:00",
+      "link": "https://www.youtube.com/watch?v=uRcgwNrxuFc"
+    },
+    {
+      "league": "NFL",
+      "title": "Adam Schefter believes Micah Parsons is getting closer to making his season debut 🙌",
+      "videoId": "0nSyN8o8kes",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-11-23T20:30:15+00:00",
+      "link": "https://www.youtube.com/watch?v=0nSyN8o8kes"
+    },
+    {
+      "league": "SOCCER",
+      "title": "Paqueta after clinching Brazil's Serie A title with Flamengo 👏 (via @Flamengo/TT)",
+      "videoId": "Rn9Lh9oNoVI",
+      "author": "ESPN FC",
+      "pubDate": "2026-11-23T20:30:04+00:00",
+      "link": "https://www.youtube.com/watch?v=Rn9Lh9oNoVI"
+    },
+    {
+      "league": "NFL",
+      "title": "Pump the brakes Cowboys fans ✋",
+      "videoId": "Qy3KQfIYvwQ",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-11-23T20:29:13+00:00",
+      "link": "https://www.youtube.com/watch?v=Qy3KQfIYvwQ"
+    },
+    {
+      "league": "NFL",
+      "title": "Big Day Takeaways 👀 Do the Steelers have a DK Metcalf problem? | Big Day with Peter Schrager",
+      "videoId": "6tGDykLlFy8",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-11-23T20:28:15+00:00",
+      "link": "https://www.youtube.com/watch?v=6tGDykLlFy8"
+    },
+    {
+      "league": "NBA",
+      "title": "Jordan's ICONIC Eyes-Closed Free Throw Game | 35th Anniversary | November 23, 1991",
+      "videoId": "5LWeBJ-E-yI",
+      "author": "NBA",
+      "pubDate": "2026-11-23T20:20:36+00:00",
+      "link": "https://www.youtube.com/watch?v=5LWeBJ-E-yI"
+    },
+    {
+      "league": "NFL",
+      "title": "Remembering the life and legacy of NFL and ESPN icon Tom Jackson | Big Day with Peter Schrager",
+      "videoId": "pByYcCjP4ns",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-11-23T20:18:22+00:00",
+      "link": "https://www.youtube.com/watch?v=pByYcCjP4ns"
+    },
+    {
+      "league": "MLB",
+      "title": "2026 Paul Skenes Highlights (SECOND STRAIGHT 200 strikeout season for the Pirates ace!)",
+      "videoId": "zbRK2WIoo4Q",
+      "author": "MLB",
+      "pubDate": "2026-11-23T20:00:33+00:00",
+      "link": "https://www.youtube.com/watch?v=zbRK2WIoo4Q"
+    },
+    {
+      "league": "NFL",
+      "title": "Charlie Becker to the Chargers? #espn #nfl #nfldraft #firstdraft",
+      "videoId": "Nu71KloL_64",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-11-23T20:00:20+00:00",
+      "link": "https://www.youtube.com/watch?v=Nu71KloL_64"
+    },
+    {
+      "league": "NBA",
+      "title": "NBA's TOP WILD ENDINGS of Week 5 | 2026-27 Season",
+      "videoId": "rhMH-LWYbiI",
+      "author": "NBA",
+      "pubDate": "2026-11-23T18:55:09+00:00",
+      "link": "https://www.youtube.com/watch?v=rhMH-LWYbiI"
     },
     {
       "league": "MLB",
@@ -6012,22 +6160,6 @@
       "link": "https://www.youtube.com/watch?v=hZ6zb3tHRto"
     },
     {
-      "league": "NFL",
-      "title": "CJ Carr the next Brock Purdy? 👀 #espn #football #nfldraft #melkiper",
-      "videoId": "SbwVdtBp4bE",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-11-23T17:30:33+00:00",
-      "link": "https://www.youtube.com/watch?v=SbwVdtBp4bE"
-    },
-    {
-      "league": "NFL",
-      "title": "Stephen A. stands by DK Metcalf's ejection vs. Eagles 👀 'It was highly unprofessional!' | First Take",
-      "videoId": "kMHShC49buw",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-11-23T17:10:22+00:00",
-      "link": "https://www.youtube.com/watch?v=kMHShC49buw"
-    },
-    {
       "league": "SOCCER",
       "title": "Asamoah Gyan's still got it 🤩",
       "videoId": "9Ku6RSfI8eI",
@@ -6042,22 +6174,6 @@
       "author": "NBA",
       "pubDate": "2026-11-23T16:18:21+00:00",
       "link": "https://www.youtube.com/watch?v=0Fc3z2y5F2s"
-    },
-    {
-      "league": "NFL",
-      "title": "'The 49ers BROKE the Vikings!' - Michael Irvin's impressed with win in Mexico City 👏 | First Take",
-      "videoId": "05PlpqEuKoI",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-11-23T16:13:10+00:00",
-      "link": "https://www.youtube.com/watch?v=05PlpqEuKoI"
-    },
-    {
-      "league": "NFL",
-      "title": "🚨 Week 11 Was WILD! Biggest Fantasy Winners &amp; Losers | Fantasy Focus 🏈",
-      "videoId": "8v5hmRuuk9k",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-11-23T16:08:42+00:00",
-      "link": "https://www.youtube.com/watch?v=8v5hmRuuk9k"
     },
     {
       "league": "MLB",
@@ -6092,38 +6208,6 @@
       "link": "https://www.youtube.com/watch?v=j082ip2x1iM"
     },
     {
-      "league": "NBA",
-      "title": "NBA's TOP Dunks of Week 5 | 2026-27 Season",
-      "videoId": "W5d89Z6PqPA",
-      "author": "NBA",
-      "pubDate": "2026-11-23T15:00:01+00:00",
-      "link": "https://www.youtube.com/watch?v=W5d89Z6PqPA"
-    },
-    {
-      "league": "NFL",
-      "title": "Bengals-Commanders PREVIEW! 3 things to watch for on MNF | Move the Sticks",
-      "videoId": "VUKtAm4UL-E",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-11-23T14:35:31+00:00",
-      "link": "https://www.youtube.com/watch?v=VUKtAm4UL-E"
-    },
-    {
-      "league": "NBA",
-      "title": "NBA's TOP Plays of Week 5 | 2026-27 Season",
-      "videoId": "wEgIdhr5z2M",
-      "author": "NBA",
-      "pubDate": "2026-11-23T14:03:49+00:00",
-      "link": "https://www.youtube.com/watch?v=wEgIdhr5z2M"
-    },
-    {
-      "league": "NFL",
-      "title": "Schefty weighs in 👀",
-      "videoId": "c9VJoaLlmOg",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-11-23T14:02:24+00:00",
-      "link": "https://www.youtube.com/watch?v=c9VJoaLlmOg"
-    },
-    {
       "league": "MLB",
       "title": "José Bautista's MLB career highlights | Iconic Blue Jays slugger (Ft. his ICONIC bat flip)",
       "videoId": "U3GTc_kOKrY",
@@ -6132,36 +6216,12 @@
       "link": "https://www.youtube.com/watch?v=U3GTc_kOKrY"
     },
     {
-      "league": "NBA",
-      "title": "NBA's Nightly Recap | November 22, 2026",
-      "videoId": "vm3YVrO_ug4",
-      "author": "NBA",
-      "pubDate": "2026-11-23T05:37:42+00:00",
-      "link": "https://www.youtube.com/watch?v=vm3YVrO_ug4"
-    },
-    {
-      "league": "NBA",
-      "title": "NBA's Top 5 Plays of the Night | November 22, 2026",
-      "videoId": "WLPoVCfp53k",
-      "author": "NBA",
-      "pubDate": "2026-11-23T04:52:03+00:00",
-      "link": "https://www.youtube.com/watch?v=WLPoVCfp53k"
-    },
-    {
       "league": "NHL",
       "title": "You Kant Stop Him!",
       "videoId": "2Fsplnwhpew",
       "author": "NHL",
       "pubDate": "2026-11-23T04:30:27+00:00",
       "link": "https://www.youtube.com/watch?v=2Fsplnwhpew"
-    },
-    {
-      "league": "NBA",
-      "title": "CELTICS at WARRIORS | FULL GAME HIGHLIGHTS | November 22, 2026",
-      "videoId": "CheW6PwsdoU",
-      "author": "NBA",
-      "pubDate": "2026-11-23T04:14:21+00:00",
-      "link": "https://www.youtube.com/watch?v=CheW6PwsdoU"
     },
     {
       "league": "NHL",
@@ -6178,22 +6238,6 @@
       "author": "NHL",
       "pubDate": "2026-11-23T04:06:39+00:00",
       "link": "https://www.youtube.com/watch?v=obNUh67Zxyg"
-    },
-    {
-      "league": "NBA",
-      "title": "Karl-Anthony Towns JOINS ELITE NBA HISTORY with 16th STRAIGHT DOUBLE-DOUBLE | November 22, 2026",
-      "videoId": "AJNxAdeVgHc",
-      "author": "NBA",
-      "pubDate": "2026-11-23T04:00:58+00:00",
-      "link": "https://www.youtube.com/watch?v=AJNxAdeVgHc"
-    },
-    {
-      "league": "NBA",
-      "title": "PACERS at KNICKS | FULL GAME HIGHLIGHTS | November 22, 2026",
-      "videoId": "sUFCZ146zk8",
-      "author": "NBA",
-      "pubDate": "2026-11-23T03:55:01+00:00",
-      "link": "https://www.youtube.com/watch?v=sUFCZ146zk8"
     },
     {
       "league": "NHL",
@@ -6268,36 +6312,12 @@
       "link": "https://www.youtube.com/watch?v=Y40dSDMqpXs"
     },
     {
-      "league": "MLB",
-      "title": "Team Italy vs. Team Mexico: Full Game (3/11/2026) | 2026 World Baseball Classic",
-      "videoId": "jm_xTI7R_mU",
-      "author": "MLB",
-      "pubDate": "2026-11-22T22:00:04+00:00",
-      "link": "https://www.youtube.com/watch?v=jm_xTI7R_mU"
-    },
-    {
       "league": "SOCCER",
       "title": "REACTION to Man United’s 4-0 loss to Liverpool in Pochettino’s first match | ESPN FC",
       "videoId": "WKx4PQms05s",
       "author": "ESPN FC",
       "pubDate": "2026-11-22T21:58:16+00:00",
       "link": "https://www.youtube.com/watch?v=WKx4PQms05s"
-    },
-    {
-      "league": "SOCCER",
-      "title": "Can Liverpool finish 2nd in the Premier League this season? | ESPN FC Extra Time",
-      "videoId": "wboYT6XE3tg",
-      "author": "ESPN FC",
-      "pubDate": "2026-11-22T21:05:14+00:00",
-      "link": "https://www.youtube.com/watch?v=wboYT6XE3tg"
-    },
-    {
-      "league": "MLB",
-      "title": "2026 Byron Buxton Highlights (BACK-TO-BACK All-Star appearances for the Twins outfielder!)",
-      "videoId": "bOVPlJIHtNs",
-      "author": "MLB",
-      "pubDate": "2026-11-22T20:00:17+00:00",
-      "link": "https://www.youtube.com/watch?v=bOVPlJIHtNs"
     }
   ]
 }
