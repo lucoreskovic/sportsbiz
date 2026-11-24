@@ -1,73 +1,81 @@
 {
   "clusters": [
     {
-      "category": "media",
-      "importance": 8,
-      "leadHeadline": "Netflix reportedly top World Cup bidder as FIFA solicits second round",
-      "leadSource": "Sports Media Watch · 1h ago",
-      "leadUrl": "https://www.sportsmediawatch.com/2026/11/netflix-top-bidder-2030-world-cup-rights-fifa-solicits-second-round/",
-      "summary": "Netflix submitted the highest first-round bid for 2030 World Cup U.S. rights; FIFA opened second round to drive up price in battle with Fox-Univision.",
-      "article": "<cite index=\"1-1\">Netflix has submitted the highest bid in the first round for U.S. rights to the 2030 World Cup</cite>, according to reporting from The Guardian's Matt Hughes. Only Netflix, Amazon, and a Fox-Univision consortium submitted bids by the November 19 deadline.\n\n<cite index=\"11-1\">FIFA is seeking a second round of bids \"in an attempt to drive up the price\" and create a \"bidding war\" between Netflix and Fox-Univision</cite>. <cite index=\"1-5\">The federation is asking for $1.5-2.0 billion for the combined English and Spanish-language rights</cite>.\n\nThe shift marks a departure from past World Cup auctions. <cite index=\"9-3\">FIFA has bundled English- and Spanish-language rights for the first time and is seeking a single buyer</cite>, a structure that favors streaming platforms over traditional networks. <cite index=\"1-7\">Netflix has already won rights to the 2030 tournament in Spain</cite>.\n\n<cite index=\"22-6\">Fox CEO Lachlan Murdoch said the company will be \"looking at the rights for 2030 and 2034 in a disciplined manner, as we would with all sports rights.\"</cite> Fox has broadcast the World Cup since 2018.\n\n<cite index=\"20-9\">FIFA intends to complete the process by the end of this year</cite>.",
-      "tweets": []
-    },
-    {
       "category": "leagues",
-      "importance": 7,
-      "leadHeadline": "SEC schedules vote on possible LSU expulsion as RJ Luis dispute pushes league to the brink",
-      "leadSource": "CBS Sports · 2h ago",
-      "leadUrl": "https://www.cbssports.com/college-basketball/news/sec-vote-lsu-expulsion-rj-luis/",
-      "summary": "The SEC voted to again consider expelling LSU from the conference Monday as the legal and financial dispute with the university over coach RJ Luis escalates, with major penalties still possible.",
-      "article": "The SEC has escalated its standoff with LSU into a formal vote on potential expulsion, marking a dramatic turn in one of college sports' most contentious recent disputes. The conference renewed its legal action against the university Monday, with the expulsion consideration now on the formal agenda.\n\nThe heart of the conflict centers on coach RJ Luis and LSU's handling of the situation, which has ballooned into a broader legal and financial fight. The SEC's willingness to pursue expulsion signals just how far the relationship has deteriorated and how seriously the conference views LSU's actions or violations.\n\nExpulsion from the SEC would have catastrophic financial and competitive consequences for LSU. The conference provides substantial revenue distribution to its members through media rights, bowl game payouts, and other shared revenue. Loss of SEC membership would force LSU to seek an alternative conference affiliation or independence, a process that could take years and would significantly reduce the program's resources and visibility.\n\nThe timing also matters: scheduling a vote keeps the threat active and creates pressure on LSU to reach a settlement or compliance agreement before the vote takes place. The conference retains the option to impose other penalties short of expulsion, including financial fines, recruiting restrictions, or competitive sanctions.\n\nThis remains one of the most significant conference governance disputes in recent college sports history, with implications for how leagues enforce rules and handle member conduct going forward.",
-      "tweets": []
+      "importance": 8,
+      "leadHeadline": "Lights go out on Commanders before they beat Bengals in final seconds",
+      "leadSource": "The Guardian · 14h ago",
+      "leadUrl": "https://www.theguardian.com/sport/2026/nov/23/lights-go-out-on-commanders-before-they-beat-bengals-in-final-seconds",
+      "summary": "Drew Stevens kicked a 26-yard field goal as time expired to lift Washington to a 22-20 win over Cincinnati on Monday. The Commanders drove 64 yards in 34 seconds, capping a night marred by a third-quarter blackout at Northwest Stadium.",
+      "article": "<cite index=\"1-1\">Drew Stevens nailed a 26-yard field goal as time expired and the Washington Commanders stunned the Cincinnati Bengals 22-20 on Monday night, with Jayden Daniels connecting on two deep throws to rookie Antonio Williams to move the team 64 yards in 34 seconds.</cite>\n\n<cite index=\"1-1\">Stevens converted his fifth field goal of the night, all in the second half, with the quarterback spiking it with 5 seconds left.</cite> <cite index=\"1-2\">Daniels finished with 283 yards passing and led the team with 55 yards rushing, while Williams had nine catches for 122 yards as Washington improved to 4-5-1.</cite>\n\n<cite index=\"1-6\">Burrow's 4-yard touchdown pass to Colbie Young put the Bengals ahead 17-10, and the Commanders rallied with three field goals by Stevens.</cite> <cite index=\"3-3\">Cincinnati kicker Evan McPherson hit a 56-yard field goal with 46 seconds to go, putting Cincinnati ahead 20-19.</cite>\n\n<cite index=\"20-7,20-8\">The lights went out at Northwest Stadium with 11:59 remaining in the third quarter and quickly came back on.</cite> <cite index=\"21-1\">The Commanders were in the red zone, trailing 10-7, when the stadium went dark and the game was halted.</cite> <cite index=\"23-1\">The outage lasted approximately four minutes due to an oversight by Northwest Stadium's lighting vendor.</cite>\n\n<cite index=\"1-5\">Coach Dan Quinn said, \"This was a full team win.\"</cite> <cite index=\"13-7,13-8\">Stevens shared his pregame routine, saying \"I'm gonna have kids\" when asked what he tells himself before a game-winning kick.</cite>",
+      "tweets": [
+        {
+          "url": "https://twitter.com/NFL/status/2125081931981209908",
+          "html": "<blockquote class=\"twitter-tweet\" data-dnt=\"true\" data-theme=\"dark\"><p>DREW STEVENS WINS IT FOR THE COMMANDERS ‼️ https://t.co/FkUbwKtqFH</p>&mdash; NFL (@NFL) <a href=\"https://twitter.com/NFL/status/2125081931981209908\">November 24, 2026</a></blockquote>",
+          "author_name": "NFL",
+          "author_url": "https://twitter.com/NFL",
+          "dateMs": 1795493989000
+        }
+      ]
     },
     {
       "category": "media",
+      "importance": 7,
+      "leadHeadline": "Netflix reportedly top World Cup bidder as FIFA solicits second round",
+      "leadSource": "Sports Media Watch · 15h ago",
+      "leadUrl": "https://www.sportsmediawatch.com/2026/11/netflix-top-bidder-2030-world-cup-rights-fifa-solicits-second-round/",
+      "summary": "Netflix has submitted the highest bid in the first round of FIFA World Cup media rights auctions for 2030 and emerged as the frontrunner after competing against traditional broadcasters and streaming platforms.",
+      "article": "Netflix has taken the lead in bidding for FIFA World Cup media rights for the 2030 tournament, according to reporting from The Guardian's Matt Hughes. The streaming giant submitted the highest offer in the first round of an auction that has drawn interest from broadcasters and digital platforms worldwide. FIFA is now moving into a second round of bidding as it seeks to maximize revenue from one of sports' most valuable media packages. Netflix's position as the frontrunner signals a continued shift in how major sporting events are distributed, with streaming services increasingly willing to commit massive budgets to secure marquee live content. The company has already invested heavily in sports programming, including live boxing and WWE content, and a World Cup rights package would represent a historic escalation of its sports ambitions. Traditional broadcasters including Fox and ESPN, along with international competitors, are expected to submit counter-bids in the second round. The outcome will reshape how the world's largest sporting event reaches audiences globally and could influence how other major sports properties structure their media negotiations in coming years.",
+      "tweets": []
+    },
+    {
+      "category": "labor",
       "importance": 6,
-      "leadHeadline": "NBA sets new viewership mark for opening month of season",
-      "leadSource": "Sports Media Watch · 10h ago",
-      "leadUrl": "https://www.sportsmediawatch.com/2026/11/nba-viewership-most-watched-opening-month-record/",
-      "summary": "The NBA's opening month averaged 2.62 million viewers across NBCUniversal, Prime Video, and ESPN, up 37% from the prior year, marking strong early-season momentum.",
-      "article": "NBA viewership is running significantly ahead of last season's already elevated levels, with the opening month of the 2025-26 season averaging 2.62 million viewers per window across NBCUniversal, Prime Video, and ESPN. The figure combines Nielsen and Adobe Analytics data for NBC games and represents a 37% year-over-year increase.\n\nThe strong start suggests sustained interest in the league following an offseason that included high-profile moves and continued marketing investments in star power. The multi-platform distribution across traditional broadcast, cable, and streaming has also allowed the league to reach audiences across different demographics and viewing preferences.\n\nOpening-month performance is typically a leading indicator for full-season trends. A 37% gain this early suggests the league has built on momentum from last year rather than experiencing a regression, a common risk when prior-year baselines are already elevated.\n\nThe data reflects viewership across regular prime-time windows, so the figures exclude special events like opening night, which typically draw larger audiences. It also underscores the NBA's ability to generate consistent engagement during the regular season, a metric that directly influences media rights valuations and sponsor partnerships.\n\nThis pace will be tested in January and February, when casual viewership typically dips and playoff race intensity becomes the primary driver of ratings.",
+      "leadHeadline": "MLBPA agrees to share media revenue between 30 clubs",
+      "leadSource": "Sports Media Watch · just now",
+      "leadUrl": "https://www.sportsmediawatch.com/2026/11/mlb-mlbpa-media-revenue-nfl-primetime-super-bowl-imax/",
+      "summary": "The MLB Players Association has agreed to allow media revenue sharing among all 30 clubs, a structural shift that could reshape how teams fund payrolls across baseball.",
+      "article": "The Major League Baseball Players Association has agreed to a revenue-sharing mechanism that distributes media earnings among all 30 clubs, marking a significant shift in baseball's economic structure. Details on the specific terms and implementation timeline were not immediately available, but the agreement suggests a willingness from the players' side to accept broader revenue pooling that could affect competitive balance and payroll flexibility across the league. This follows years of contentious labor negotiations between owners and players over how baseball's growing media revenues are distributed. The move could have implications for how small-market and large-market teams approach free agency and player spending. It may also influence ongoing discussions about salary caps, luxury tax thresholds, and how future collective bargaining agreements are structured. Industry observers will be watching closely to see how this revenue-sharing framework affects competitive balance and whether it signals a broader shift toward shared prosperity models in baseball.",
+      "tweets": []
+    },
+    {
+      "category": "revenue",
+      "importance": 6,
+      "leadHeadline": "Yoro red card overturned, but refs' chief Webb backs decision",
+      "leadSource": "BBC Sport · 1h ago",
+      "leadUrl": "https://www.bbc.co.uk/sport/football/articles/ck868g93djl5o?at_medium=RSS&amp;at_campaign=rss",
+      "summary": "Manchester United defender Leny Yoro has been cleared to face Brentford on Saturday after his red card at Anfield was overturned on appeal, though the Premier League's referees chief defended the original on-field call.",
+      "article": "Manchester United defender Leny Yoro will be available for Saturday's match against Brentford after the Premier League overturned his red card from the recent match at Liverpool. Despite the overturn, referees' chief Webb publicly backed the decision the official made in real time at Anfield, suggesting it was a close call that could have gone either way. The incident had drawn significant criticism on social media and from Manchester United supporters, who argued the dismissal was overly harsh. Webb's statement defending the on-field decision while allowing the appeal to succeed indicates a nuanced view of the tackle in question, one that likely caught Yoro in an awkward position but may not have merited a straight red upon closer review. With Yoro cleared to play, Manchester United gains back a key defensive piece for their upcoming match, though the reversal and Webb's comments underscore the continuing debate around consistency in Premier League officiating. The ruling suggests that while the original call was defensible in the moment, video review found enough ambiguity to overturn it.",
       "tweets": []
     },
     {
       "category": "contracts",
       "importance": 5,
-      "leadHeadline": "Skubal's $450M Deal Is What MLB Owners Say They Want to Avoid",
-      "leadSource": "Sportico · 14h ago",
-      "leadUrl": "https://www.sportico.com/leagues/baseball/2026/skubal-mets-contract-cba-impact-450-million-mlb-mlbpa-1234959188/",
-      "summary": "Tarik Skubal's nine-year, $450 million deal with the Mets exemplifies the long-term commitments MLB owners have proposed capping under new salary-cap collective bargaining framework.",
-      "article": "Tarik Skubal's nine-year, $450 million contract with the New York Mets has become exhibit A in MLB's debate over contract structure and league economics. The deal, signed by a pitcher in his prime after switching teams, is precisely the type of commitment MLB's ownership has signaled it wants to prevent or restrict under proposed salary-cap rules.\n\nML owners' latest collective bargaining proposal includes a maximum contract size, with teams switching pitchers capped at 15% of the overall salary cap. Under such rules, the Skubal deal would likely face restrictions or become impossible to structure as written.\n\nThe timing matters: Skubal inked this contract under the current system, before any new cap restrictions. His deal reflects how free agency works without caps: a pitcher of his caliber, acquired mid-career, commands nine-figure long-term security. The contract ties significant resources to a single player for the better part of a decade.\n\nOwners argue that uncapped individual deals distort roster construction and prevent competitive balance. Players counter that maximum-contract provisions would reduce earnings and limit their leverage in free agency, essentially capping their market value regardless of performance.\n\nSkubal's contract will likely feature prominently in the next round of labor negotiations, as it represents precisely the financial commitment structure owners seek to modify. Whether the Players Association accepts any form of maximum-contract language remains a central point of contention.",
+      "leadHeadline": "Corey Seager willing to waive no-trade clause for Phillies as MLB hot stove picks up",
+      "leadSource": "NY Post Sports · 1h ago",
+      "leadUrl": "https://nypost.com/2026/11/24/sports/corey-seager-willing-to-waive-no-trade-clause-for-phillies-as-mlb-hot-stove-picks-up/",
+      "summary": "Texas Rangers shortstop Corey Seager is open to waiving his no-trade clause to join the Philadelphia Phillies, signaling a willingness to return to the National League in free agency.",
+      "article": "Corey Seager is reportedly willing to waive his no-trade clause and explore a move to the Philadelphia Phillies, according to reporting from the New York Post. The Texas Rangers shortstop has become an open trade candidate as the Phillies look to upgrade their infield and bolster their roster after falling short in recent postseasons. Seager, a former MVP with deep roots in the National League from his time with the Los Angeles Dodgers, has indicated he would be receptive to returning to the NL East. The Phillies have been aggressive in the free agent market this offseason and view Seager as a potential centerpiece to their contention window. Seager's willingness to waive his clause removes a significant negotiating hurdle and could accelerate discussions between the Rangers and Phillies. The two teams would need to work out compensation terms, but Seager's openness to the deal makes a trade more feasible than it would be with an immovable no-trade clause. The move would reunite Seager with the National League pipeline and give the Phillies an offensive upgrade to complement their existing core.",
       "tweets": []
     },
     {
       "category": "leagues",
       "importance": 5,
-      "leadHeadline": "Lewis-Potter double and Janelt stunner ease Brentford past 10-man Everton",
-      "leadSource": "The Guardian · 6h ago",
-      "leadUrl": "https://www.theguardian.com/football/2026/nov/23/brentford-everton-premier-league-match-report",
-      "summary": "Brentford routed Everton 4-0 Monday after James Tarkowski received his first red card in 351 Premier League appearances, overshadowing David Moyes' 593rd game as Everton manager.",
-      "article": "Brentford demolished Everton 4-0 on Monday in a lopsided Premier League encounter defined by calamitous defending and a historic red card. The win was comfortable, but the story belonged to Everton captain James Tarkowski, who was sent off for the first time in his 351 Premier League appearances.\n\nTarkowski's dismissal came as Everton imploded defensively under the pressure. The nature of the red card has drawn immediate scrutiny, with debate over whether the decision was deserved or a harsh interpretation of the rules. Regardless, the numerical disadvantage accelerated Everton's decline from that point forward.\n\nThe timing added narrative weight: the match marked David Moyes' 593rd game in charge of Everton, breaking the club record previously held by Harry Catterick. Moyes' milestone was quickly overshadowed by the rout and his team's defensive collapse.\n\nBrentford's attackers exploited the space created by Everton's disorganization. Lewis-Potter scored twice, and Vitaly Janelt added a stunning individual effort that showcased the gulf between the sides' execution.\n\nFor Everton, the loss extends a difficult period and raises immediate questions about squad depth and mental resilience. For Tarkowski, the red card ends a streak that had become a point of pride in a career marked by consistency and professionalism. Everton will face disciplinary consequences and must navigate their next matches without their captain.",
+      "leadHeadline": "Michigan will not hire Trev Alberts as next AD: School could owe full buyout to ex-Texas A&M administrator",
+      "leadSource": "CBS Sports · just now",
+      "leadUrl": "https://www.cbssports.com/college-football/news/michigan-will-not-hire-texas-a-m-ad-trev-alberts-could-still-owe-full-buyout/",
+      "summary": "The University of Michigan has backed away from hiring Trev Alberts as athletic director, leaving the former Texas A&M administrator in a precarious employment situation and potentially triggering a full financial buyout.",
+      "article": "The University of Michigan has decided against hiring Trev Alberts as its next athletic director, according to CBS Sports. Alberts, the former Texas A&M athletic director, had been in talks to join Michigan for what would have been his third AD position in three years. The abrupt reversal leaves Alberts' job status in flux and could trigger a substantial financial settlement from Michigan, depending on how far contract negotiations had progressed. The decision represents a sharp reversal from earlier indications that Alberts was Michigan's leading candidate. AD positions at Power Five universities typically include multi-year contracts with significant buyout protections, meaning Alberts could be owed a full severance package despite not taking the job. His history of frequent job changes may have raised concerns for Michigan's administration about stability and long-term commitment. The situation underscores the volatility in college athletics administration, where top candidates often interview at multiple institutions simultaneously and negotiations can collapse at the last minute. Michigan now faces the prospect of restarting its AD search while potentially paying Alberts a substantial sum.",
       "tweets": []
     },
     {
-      "category": "leagues",
-      "importance": 5,
-      "leadHeadline": "McKenna helps Maple Leafs beat Islanders to end winless streak",
-      "leadSource": "Sportsnet · 1h ago",
-      "leadUrl": "",
-      "summary": "Rookie Gavin McKenna scored the go-ahead goal in the third period as the Maple Leafs snapped a winless streak with a victory over the Islanders.",
-      "article": "Gavin McKenna delivered a clutch third-period goal to lift the Toronto Maple Leafs past the New York Islanders and end a winless stretch. The rookie drove to the net and finished a loose puck, breaking the tie and providing the margin in a win the team needed.\n\nMcKenna's moment underscores the Leafs' depth scoring capability and the contributions younger players have made during a critical stretch of the season. Breaking a winless streak requires stops at multiple positions, and the win signals a return to form.\n\nThe victory carries weight in the playoff race context and provides momentum heading into the next sequence of games.",
-      "tweets": []
-    },
-    {
-      "category": "media",
+      "category": "revenue",
       "importance": 4,
-      "leadHeadline": "Tennis Prize Money Tracker: Which Player Has Earned the Most in 2026?",
-      "leadSource": "Sportico · 8h ago",
-      "leadUrl": "https://www.sportico.com/feature/tennis-prize-money-breakdowns-atp-wta-1234769498/",
-      "summary": "Alexander Zverev leads 2026 tennis prize money with $18.18 million earned, including $5.5 million for a U.S. Open title and $3.27 million for a French Open victory, both up 10% from prior-year winners.",
-      "article": "Alexander Zverev tops the 2026 tennis prize-money rankings with $18.18 million in earnings across the calendar year. The German captured the U.S. Open for $5.5 million and won the French Open in June for $3.27 million, with both purses reflecting a 10% year-over-year increase from the previous year's champions.\n\nZverev also reached the final at Wimbledon, adding significant earnings from a runner-up finish at the year's third major. His haul illustrates the financial rewards available to players who perform consistently across multiple grand-slam tournaments and secure victories at the sport's highest level.\n\nThe 10% increase in major-championship prize money signals continued investment by the grand-slam organizations in player compensation, a trend that reflects both the commercial value of the sport and competitive pressure to remain attractive to top talent.\n\nZverev's $18.18 million through mid-year positions him ahead of other top earners on the 2026 circuit. The figure includes only official prize money from tournaments and does not account for appearance fees, sponsorship deals, or other commercial revenue that elite players generate.",
+      "leadHeadline": "LIV Golf Creditors Threaten Chapter 7 Liquidation Over $2M Offer",
+      "leadSource": "Front Office Sports · 1h ago",
+      "leadUrl": "https://frontofficesports.com/article/liv-golf-creditors-threaten-chapter-7-liquidation-over-2m-offer/",
+      "summary": "Unsecured creditors of LIV Golf are rejecting a $2 million settlement offer and threatening to push the company into involuntary Chapter 7 liquidation, escalating the tour's financial crisis.",
+      "article": "Unsecured creditors of LIV Golf are threatening to force the company into involuntary Chapter 7 liquidation over what they view as an inadequate $2 million settlement offer, according to Front Office Sports. The creditors argue that the offer fails to cover their claims against the PIF-backed golf tour and want a full accounting of LIV's assets and liabilities before accepting any deal. A Chapter 7 liquidation would force LIV to cease operations and sell off its assets to satisfy creditor claims, an outcome that would effectively end the tour as it currently exists. The threat marks an escalation in LIV Golf's ongoing financial troubles as it attempts to stabilize its operations and attract investment. The creditors' position suggests significant skepticism about LIV Golf's long-term viability and its ability to service its obligations. Any forced liquidation would have ripple effects across professional golf, disrupting player careers and sponsorship commitments. LIV Golf officials have not publicly responded to the liquidation threat, but the creditors' aggressive stance suggests negotiations are deadlocked and time may be running out for a voluntary restructuring.",
       "tweets": []
     }
   ],
@@ -2392,105 +2400,94 @@
     "source": "espn"
   },
   "deals": [],
-  "ratings": [
-    {
-      "event": "NBA opening month average",
-      "network": "NBCUniversal / Prime Video / ESPN",
-      "viewers_m": 2.62,
-      "peak_viewers_m": null,
-      "league": "NBA",
-      "storyIndex": 17,
-      "context": "Up 37% from prior year; combines Nielsen and Adobe Analytics data.",
-      "capturedAt": "2026-11-24T04:08:36.606Z"
-    }
-  ],
+  "ratings": [],
   "ticket_prices": [],
   "sidebar": [
     {
-      "headline": "Kirk Herbstreit Distances Himself From Viral Video Mocking ESPN, CFP",
-      "source": "Front Office Sports · 5h ago",
-      "article": "Kirk Herbstreit appeared to have his image damaged by association when a viral video mocking ESPN and the College Football Playoff spread across social media. Herbstreit's cameo in a bank advertisement at the video's conclusion drew attention and raised questions about his involvement or approval. The ESPN analyst has since moved to distance himself from the content and clarify his role. The incident highlights the risks high-profile commentators face when their image or likeness becomes entangled with potentially controversial or mocking content, even if peripheral."
+      "headline": "World Chess Championship 2026 opens with Gukesh-Sindarov draw",
+      "source": "The Guardian · 1h ago",
+      "article": "The 2026 World Chess Championship got underway with Game 1 ending in a 38-move draw between Grandmaster D. Gukesh Dommaraju and challenger Javokhir Sindarov. The match marks the youngest title matchup in chess history, with both players representing a new generation of elite competition. Sindarov opened with the Berlin Defense, one of chess's most theoretically dense openings, signaling an intent to avoid early tactical fireworks and test Gukesh's preparation in the middlegame. The draw comes as no surprise given the opening choices, though it sets the stage for the remaining games of the match. Gukesh has stated his intention to win the title convincingly, while Sindarov dismissed the idea of playing for a draw, suggesting competitive intent from both sides. The match continues with Game 2 scheduled for later in the week. This championship holds significance as a symbolic passing of the torch in elite chess, with Gukesh as the latest prodigy to reach the pinnacle of the game."
     },
     {
-      "headline": "Patriots reveal plan at QB after Drake Maye injury",
-      "source": "NY Post Sports · 7h ago",
-      "article": "The New England Patriots have outlined their quarterback contingency plan following an injury to starter Drake Maye. Rather than look outside the organization, the team is sticking with internal options to manage the position in Maye's absence. The move signals confidence in the backup situation and reflects the Patriots' preference for continuity at the position. The specific timeline for Maye's return and the severity of his injury were not fully detailed, but the team's public commitment to an internal solution sets expectations for how the position will be handled."
+      "headline": "Senegal reinstated as Afcon 2025 winners after 10-month legal battle",
+      "source": "BBC Sport · 1h ago",
+      "article": "Senegal has been officially reinstated as champions of the 2025 Africa Cup of Nations following a Court of Arbitration for Sport ruling, nearly a year after the tournament concluded. The decision reverses an earlier result that had stripped Senegal of the title due to administrative violations or eligibility issues that emerged in post-tournament review. The reinstatement of Senegal as champions provides vindication for the team and fans who had seen their victory questioned by tournament administrators. The CAS ruling underscores the importance of due process and proper adjudication in international sports competitions, though the 10-month delay in resolution raises questions about how such disputes are handled going forward. Senegal's restoration as champions also affects the historical record and official standings of African football, ensuring the team's accomplishment is preserved in the official record. The decision concludes a contentious chapter for the tournament and affirms Senegal's place in African football history."
     },
     {
-      "headline": "The 2035 Women's World Cup has huge potential for women and girls in UK",
-      "source": "The Guardian · 7h ago",
-      "article": "England, Scotland, Wales, and Northern Ireland have been confirmed as joint hosts of the 2035 FIFA Women's World Cup, an announcement that was largely a foregone conclusion given the UK was the only bidder. Beyond the administrative fact, observers and analysts see the tournament as an opportunity to drive massive societal impact, particularly in combating misogyny and promoting women's participation in soccer. Maximizing that potential will require deliberate investment and coordination across multiple stakeholders. The confirmation closes one chapter and opens another: the work of turning a tournament into a cultural moment."
+      "headline": "Jalen Brunson pushes back on Taylor Swift-Knicks narrative at MSG",
+      "source": "NY Post Sports · 1h ago",
+      "article": "New York Knicks star Jalen Brunson expressed frustration with the ongoing story arc involving Taylor Swift's courtside presence at Madison Square Garden, saying the narrative has overshadowed the team's on-court performance. Brunson made clear he wants the focus to return solely to basketball, not celebrity attendance or fan-generated storylines. The singer's regular appearances at Knicks games this season have drawn intense media coverage and social media discussion, often diverting attention from the team's actual play and results. Brunson's comments reflect a common frustration among athletes when off-court narratives threaten to consume the news cycle and distract from their professional work. The Knicks guard stopped short of asking Swift to stop attending games, but his tone suggested he views the sustained media focus on her presence as a distraction the team could do without. Whether his public comments cool the story remains to be seen, though history suggests celebrity courtside attendance at major venues rarely fades from tabloid interest."
     },
     {
-      "headline": "Why Josh Hokit Deserves a Rematch Against Ciryl Gane",
-      "source": "Deadspin · 7h ago",
-      "article": "Josh Hokit and Ciryl Gane delivered a heavyweight title fight at UFC Qatar worth revisiting, according to analysis of their bout. A rematch between the two could reignite momentum in the UFC's heavyweight division, which has seen competitive depth and compelling narratives fluctuate. Hokit's performance earned him credibility and fan interest, factors that could justify a second meeting. The case for a rematch rests on both the quality of the first fight and the broader storyline it creates for the division's future trajectory."
+      "headline": "Texas bounces back into College Football Playoff picture with five-game win streak",
+      "source": "Deadspin · 3h ago",
+      "article": "The University of Texas Longhorns have won five straight games and re-emerged as a threat in the College Football Playoff conversation after an earlier stumble left their postseason hopes in doubt. The team can clinch an appearance in the SEC Championship game with a victory over in-state rival Texas A&M. The five-game streak represents a significant turnaround for a Texas program that entered the season with high expectations but faltered midway through the schedule. The Longhorns' offensive firepower and defensive adjustments have stabilized, allowing them to compete with elite-level conference opponents. An SEC Championship berth would put Texas squarely in the Playoff conversation, as a Power Five conference championship typically carries substantial weight in the selection process. The matchup against Texas A&M carries extra intrigue given the rivalry history and the stakes involved for both programs."
     },
     {
-      "headline": "Navajo Stirling Stuns Jiri Prochazka, Brian Ortega Retires After UFC Qatar",
-      "source": "Deadspin · 7h ago",
-      "article": "Navajo Stirling pulled off a shocking upset over Jiri Prochazka at UFC Qatar, while Brian Ortega announced his retirement following the same card. Dan Hooker called out Max Holloway in the aftermath, and Umar Nurmagomedov spoke out about his performance. The event produced multiple storylines across its fight card, reshaping narratives in the light heavyweight and featherweight divisions. Stirling's victory opens new possibilities at 205 pounds, while Ortega's exit removes a veteran presence from an evolving roster."
+      "headline": "MLB owners face pressure to open books as revenue-sharing talks continue",
+      "source": "CBS Sports · just now",
+      "article": "MLB owners have come under fire for citing poverty while simultaneously posting record revenues, according to analysis from CBS Sports' Snyder. The owners' refusal to open their financial records while advocating for a salary cap creates a credibility problem in ongoing labor negotiations with the players union. Industry observers note that MLB's media revenue has grown substantially, particularly from streaming rights and international broadcasting deals, yet the owners continue to argue for cost-containment measures that would limit player earnings. The lack of financial transparency feeds skepticism among players that the league's economic crisis claims are overblown. Without detailed books to examine, the MLBPA has little recourse but to challenge the owners' assertions through the collective bargaining process. This dynamic has become a recurring friction point in baseball labor relations."
     },
     {
-      "headline": "Jamey Eisenbergs Week 11 Stock Watch gives Saquon Barkley a boost but raises concerns for DAndre Swift",
-      "source": "CBS Sports · 2h ago",
-      "article": "Saquon Barkley's playoff schedule offers reason for optimism heading into the stretch run, but the outlook for DAndre Swift and Jaylen Warren faces uncertainty due to their murky workload distribution. Eisenberg's stock-watch analysis highlights how schedule strength and backfield volatility will shape fantasy implications and real-world team performance in weeks ahead. Barkley's favorable remaining slate makes him a focal point for teams depending on sustained production, while Swift and Warren's roles remain fluid and dependent on game flow and coaching decisions."
+      "headline": "Griffin and Gausman emerge as trade targets for Blue Jays' rotation search",
+      "source": "Sportsnet · 1h ago",
+      "article": "The Toronto Blue Jays are actively pursuing starting pitching upgrades on the trade market, with reliably informed industry sources indicating that Griffin and Gausman have emerged as names to watch in the team's search, according to Sportsnet. The Jays remain motivated and busy behind the scenes despite not yet making a formal acquisition announcement. Adding depth to the rotation remains a priority for the club as it aims to compete for playoff positioning. The willingness of the Jays to target established starting pitchers suggests confidence in the front office's ability to construct a competitive roster around their existing core. Market observers expect the team to make moves before the trade deadline if internal options do not materialize."
     }
   ],
   "poll": {
-    "question": "Will Netflix successfully secure 2030 World Cup streaming rights?",
+    "question": "Which storyline will dominate sports headlines this week?",
     "options": [
-      "Yes, Netflix's bid stands and they win the auction",
-      "No, a traditional broadcaster or rival streamer outbids them in round two",
-      "FIFA splits rights, Netflix gets some but not exclusive coverage",
-      "The deal collapses and FIFA returns to market a third time"
+      "Netflix's World Cup bidding strategy and media rights negotiations",
+      "MLB's revenue-sharing agreement and its impact on payroll structures",
+      "College Football Playoff race: Texas's SEC Championship push",
+      "Manchester United's defensive stability after Yoro's red card overturn"
     ]
   },
   "predictions": [
     {
-      "statement": "Netflix will win primary 2030 World Cup rights in FIFA's second bidding round",
+      "statement": "Netflix will win the FIFA World Cup media rights for 2030 after the second round of bidding concludes.",
       "probability": 62,
-      "rationale": "Netflix's leading first-round bid and aggressive sports content strategy make them the frontrunner, but traditional broadcasters and Apple TV+ could still escalate offers. FIFA's two-round process is designed to maximize competition, so a price surge in round two is likely."
+      "rationale": "The streaming giant's first-round lead and existing sports programming investments give it momentum, but traditional broadcasters like Fox typically retain premium soccer rights globally. International complexity may favor legacy media with regional distribution."
     },
     {
-      "statement": "LSU will reach a settlement with the SEC before the expulsion vote takes place",
-      "probability": 71,
-      "rationale": "Full expulsion has catastrophic financial consequences for LSU and complicated legal implications for the SEC. Both parties have incentives to negotiate rather than litigate through a vote. The formal agenda item creates negotiating pressure without foreclosing a deal."
+      "statement": "The Washington Commanders will make the playoffs this season following their dramatic win over Cincinnati.",
+      "probability": 55,
+      "rationale": "Jayden Daniels' late-game execution and clutch performance suggest playoff caliber play, but one dramatic win doesn't guarantee a full season's sustainability. Their remaining schedule and divisional competition will ultimately determine playoff odds."
     },
     {
-      "statement": "NBA viewership will maintain its 37% year-over-year growth through the regular season",
+      "statement": "The Philadelphia Phillies will acquire Corey Seager before the start of next season.",
       "probability": 48,
-      "rationale": "Opening-month performance rarely sustains through the full season; casual viewership typically dips in January and February. While the league has built audience momentum, regression is historically normal. Only exceptional circumstances (star-driven storylines, playoff seeding drama) prevent the decline."
+      "rationale": "Seager's willingness to waive his no-trade clause and the Phillies' aggressive posture create favorable conditions, but the Rangers may demand premium compensation that slows negotiations. Market alternatives for Seager could also emerge."
     },
     {
-      "statement": "MLB owners will successfully impose a maximum-contract provision in the next CBA",
-      "probability": 35,
-      "rationale": "The Players Association has fiercely resisted any mechanism that reduces player earnings or limits leverage. While owners will push hard on Skubal-sized deals as evidence of market dysfunction, the union's historical leverage and player solidarity make passage unlikely without major concessions from the league elsewhere."
+      "statement": "LIV Golf will file for voluntary Chapter 11 bankruptcy within six months to avoid creditor-forced liquidation.",
+      "probability": 71,
+      "rationale": "Creditors' liquidation threat and LIV's ongoing financial pressure make restructuring likely, though the PIF's backing may allow for private settlement deals. Chapter 11 preserves operations while Chapter 7 would end the tour entirely, making 11 the logical choice."
     }
   ],
   "injuries": [
     {
-      "player": "Drake Maye",
-      "team": "New England Patriots",
-      "league": "NFL",
-      "position": "QB",
-      "status": "OUT",
-      "injury": "Injury (specific diagnosis not disclosed)",
-      "timeline": null,
-      "source": "NY Post Sports",
-      "impact": "Patriots turn to internal backup options at quarterback, maintaining continuity over external solutions.",
-      "storyIndex": 11
+      "player": "Leny Yoro",
+      "team": "Manchester United",
+      "league": "SOCCER",
+      "position": "D",
+      "status": "RETURNING",
+      "injury": "Red card at Anfield (overturned on appeal)",
+      "timeline": "Available for Brentford match, Saturday",
+      "source": "BBC Sport",
+      "impact": "Yoro's return strengthens Manchester United's defense after the initial dismissal had threatened to leave the backline short-handed.",
+      "storyIndex": 4
     },
     {
-      "player": "David Raya",
-      "team": "Arsenal",
+      "player": "Saliba",
+      "team": "Canada",
       "league": "SOCCER",
-      "position": "GK",
-      "status": "QUESTIONABLE",
-      "injury": "Shoulder injury sustained at Newcastle",
-      "timeline": "Will miss Dortmund Champions League game Tuesday; could return for Manchester City clash",
-      "source": "The Guardian / BBC Sport",
-      "impact": "Arsenal faces Champions League game against Borussia Dortmund without their starting goalkeeper; backup fills in for high-stakes European fixture.",
+      "position": "D",
+      "status": "OUT",
+      "injury": "Ankle requiring surgery",
+      "timeline": "Out for tournament",
+      "source": "Sportsnet",
+      "impact": "Canada's national team squad depth takes a hit with the loss of a key defensive contributor during World Cup qualifying.",
       "storyIndex": 0
     }
   ],
@@ -5927,46 +5924,46 @@
       "_pendingGrade": true
     }
   ],
-  "updatedAt": "2026-04-23T14:30:00Z",
+  "updatedAt": "2026-04-23T17:45:00Z",
   "highlights": [
     {
       "league": "NBA",
-      "title": "CAVALIERS at BULLS | FULL GAME HIGHLIGHTS | November 23, 2026",
-      "videoId": "fPuiys2IFmk",
-      "thumbnail": "https://img.youtube.com/vi/fPuiys2IFmk/mqdefault.jpg",
-      "timeAgo": "Just now",
+      "title": "EVERY MOMENT From Wemby's HISTORIC 50-PT Performance 👽 | November 21, 2026",
+      "videoId": "jo9QSaH-0Qw",
+      "thumbnail": "https://img.youtube.com/vi/jo9QSaH-0Qw/mqdefault.jpg",
+      "timeAgo": "2h ago",
       "isFallback": false
     },
     {
       "league": "NFL",
-      "title": "Peyton &amp; Eli react to power outage on Monday Night Football | ManningCast",
-      "videoId": "z2qZdWL3YYo",
-      "thumbnail": "https://img.youtube.com/vi/z2qZdWL3YYo/mqdefault.jpg",
+      "title": "Brock Purdy stole the show in Week 11",
+      "videoId": "PQL5E_fKqxM",
+      "thumbnail": "https://img.youtube.com/vi/PQL5E_fKqxM/mqdefault.jpg",
       "timeAgo": "1h ago",
       "isFallback": false
     },
     {
       "league": "MLB",
-      "title": "FULL 2026 WORLD SERIES GAME 2: Brewers overcome 4-0 first-inning deficit! (Rays vs. Brewers)",
-      "videoId": "DusN2E6s-Is",
-      "thumbnail": "https://img.youtube.com/vi/DusN2E6s-Is/mqdefault.jpg",
-      "timeAgo": "2h ago",
+      "title": "Team Puerto Rico vs. Team Italy: Full Game (3/14/2026) | 2026 World Baseball Classic",
+      "videoId": "Vg-0C_QUOJ4",
+      "thumbnail": "https://img.youtube.com/vi/Vg-0C_QUOJ4/mqdefault.jpg",
+      "timeAgo": "1h ago",
       "isFallback": false
     },
     {
       "league": "NHL",
-      "title": "Dobes tempts the trapezoid 😅",
-      "videoId": "wFSccPHtkks",
-      "thumbnail": "https://img.youtube.com/vi/wFSccPHtkks/mqdefault.jpg",
-      "timeAgo": "Just now",
+      "title": "Best NHL Goals of Week 8",
+      "videoId": "LkiuugaZyt8",
+      "thumbnail": "https://img.youtube.com/vi/LkiuugaZyt8/mqdefault.jpg",
+      "timeAgo": "1h ago",
       "isFallback": false
     },
     {
       "league": "WNBA",
-      "title": "Top Assists of the Year",
-      "videoId": "e2war0Yjjf8",
-      "thumbnail": "https://img.youtube.com/vi/e2war0Yjjf8/mqdefault.jpg",
-      "timeAgo": "3d ago",
+      "title": "Atlanta Dream’s BEST Defensive Plays of 2026 🔒 | WNBA Defense Week",
+      "videoId": "_kTlgLkfOYA",
+      "thumbnail": "https://img.youtube.com/vi/_kTlgLkfOYA/mqdefault.jpg",
+      "timeAgo": "1h ago",
       "isFallback": false
     },
     {
@@ -5974,202 +5971,274 @@
       "title": "Manchester United's UNDERWHLEMING play in Pochettino's debut + Yamal's missed penalty | ESPN FC",
       "videoId": "tocZaDFGt9E",
       "thumbnail": "https://img.youtube.com/vi/tocZaDFGt9E/mqdefault.jpg",
-      "timeAgo": "4h ago",
+      "timeAgo": "18h ago",
       "isFallback": false
     }
   ],
   "reels": [
     {
-      "league": "NHL",
-      "title": "Dobes tempts the trapezoid 😅",
-      "videoId": "wFSccPHtkks",
-      "author": "NHL",
-      "pubDate": "2026-11-24T03:49:16+00:00",
-      "link": "https://www.youtube.com/watch?v=wFSccPHtkks"
-    },
-    {
-      "league": "NBA",
-      "title": "CAVALIERS at BULLS | FULL GAME HIGHLIGHTS | November 23, 2026",
-      "videoId": "fPuiys2IFmk",
-      "author": "NBA",
-      "pubDate": "2026-11-24T03:47:18+00:00",
-      "link": "https://www.youtube.com/watch?v=fPuiys2IFmk"
-    },
-    {
-      "league": "NHL",
-      "title": "Kings vs Canadiens 23/11/26 | Faits saillants",
-      "videoId": "hhKECXVj4Sc",
-      "author": "NHL",
-      "pubDate": "2026-11-24T03:45:14+00:00",
-      "link": "https://www.youtube.com/watch?v=hhKECXVj4Sc"
-    },
-    {
-      "league": "NBA",
-      "title": "BUCKS at RAPTORS | FULL GAME HIGHLIGHTS | November 23, 2026",
-      "videoId": "R2MWX8N1HO4",
-      "author": "NBA",
-      "pubDate": "2026-11-24T03:41:09+00:00",
-      "link": "https://www.youtube.com/watch?v=R2MWX8N1HO4"
-    },
-    {
-      "league": "NHL",
-      "title": "Flames vs. Senators | NHL Highlights | Nov 23, 2026",
-      "videoId": "Z0XAxO992Rs",
-      "author": "NHL",
-      "pubDate": "2026-11-24T03:40:55+00:00",
-      "link": "https://www.youtube.com/watch?v=Z0XAxO992Rs"
-    },
-    {
-      "league": "NHL",
-      "title": "Kings vs. Canadiens | NHL Highlights | Nov 23, 2026",
-      "videoId": "gh6CCHYSt9Q",
-      "author": "NHL",
-      "pubDate": "2026-11-24T03:37:45+00:00",
-      "link": "https://www.youtube.com/watch?v=gh6CCHYSt9Q"
-    },
-    {
-      "league": "NHL",
-      "title": "McKenna Didn't Miss This Chance 😤",
-      "videoId": "6MR_mVhIeR4",
-      "author": "NHL",
-      "pubDate": "2026-11-24T03:30:43+00:00",
-      "link": "https://www.youtube.com/watch?v=6MR_mVhIeR4"
-    },
-    {
-      "league": "NHL",
-      "title": "Maple Leafs vs. Islanders | NHL Highlights | Nov 23, 2026",
-      "videoId": "t_chinm_mLI",
-      "author": "NHL",
-      "pubDate": "2026-11-24T03:29:23+00:00",
-      "link": "https://www.youtube.com/watch?v=t_chinm_mLI"
-    },
-    {
-      "league": "NHL",
-      "title": "Mammoth vs. Jets | NHL Highlights | Nov 23, 2026",
-      "videoId": "pf25PfvOS98",
-      "author": "NHL",
-      "pubDate": "2026-11-24T03:26:07+00:00",
-      "link": "https://www.youtube.com/watch?v=pf25PfvOS98"
-    },
-    {
-      "league": "NBA",
-      "title": "THUNDER at PACERS | FULL GAME HIGHLIGHTS | November 23, 2026",
-      "videoId": "PHx8pJV7Qss",
-      "author": "NBA",
-      "pubDate": "2026-11-24T03:21:53+00:00",
-      "link": "https://www.youtube.com/watch?v=PHx8pJV7Qss"
-    },
-    {
-      "league": "NBA",
-      "title": "Jaden McDaniels Goes OFF for 34 PTS, 10 REB &amp; 6 AST | November 23, 2026",
-      "videoId": "4l_59ykTT5c",
-      "author": "NBA",
-      "pubDate": "2026-11-24T03:19:48+00:00",
-      "link": "https://www.youtube.com/watch?v=4l_59ykTT5c"
-    },
-    {
-      "league": "NBA",
-      "title": "NETS at TIMBERWOLVES | FULL GAME HIGHLIGHTS | November 23, 2026",
-      "videoId": "vGau3yaLQ7s",
-      "author": "NBA",
-      "pubDate": "2026-11-24T03:15:21+00:00",
-      "link": "https://www.youtube.com/watch?v=vGau3yaLQ7s"
-    },
-    {
-      "league": "NHL",
-      "title": "Disturbing the WORM 🪱",
-      "videoId": "WAncuIORqxA",
-      "author": "NHL",
-      "pubDate": "2026-11-24T03:15:07+00:00",
-      "link": "https://www.youtube.com/watch?v=WAncuIORqxA"
-    },
-    {
-      "league": "NBA",
-      "title": "Kelly Oubre gets the chase-down block and the Pacers get a wide open dunk!",
-      "videoId": "mw0zEQVOf_M",
-      "author": "NBA",
-      "pubDate": "2026-11-24T03:14:46+00:00",
-      "link": "https://www.youtube.com/watch?v=mw0zEQVOf_M"
-    },
-    {
-      "league": "NBA",
-      "title": "Jordan Poole gets the shooters bounce to go 😅",
-      "videoId": "HBkVUlOkAHA",
-      "author": "NBA",
-      "pubDate": "2026-11-24T03:11:30+00:00",
-      "link": "https://www.youtube.com/watch?v=HBkVUlOkAHA"
+      "league": "MLB",
+      "title": "Team Puerto Rico vs. Team Italy: Full Game (3/14/2026) | 2026 World Baseball Classic",
+      "videoId": "Vg-0C_QUOJ4",
+      "author": "MLB",
+      "pubDate": "2026-11-24T18:00:13+00:00",
+      "link": "https://www.youtube.com/watch?v=Vg-0C_QUOJ4"
     },
     {
       "league": "NFL",
-      "title": "Peyton &amp; Eli react to power outage on Monday Night Football | ManningCast",
-      "videoId": "z2qZdWL3YYo",
+      "title": "Brock Purdy stole the show in Week 11",
+      "videoId": "PQL5E_fKqxM",
       "author": "NFL on ESPN",
-      "pubDate": "2026-11-24T03:10:56+00:00",
-      "link": "https://www.youtube.com/watch?v=z2qZdWL3YYo"
+      "pubDate": "2026-11-24T17:41:16+00:00",
+      "link": "https://www.youtube.com/watch?v=PQL5E_fKqxM"
+    },
+    {
+      "league": "WNBA",
+      "title": "Atlanta Dream’s BEST Defensive Plays of 2026 🔒 | WNBA Defense Week",
+      "videoId": "_kTlgLkfOYA",
+      "author": "WNBA",
+      "pubDate": "2026-11-24T17:29:36+00:00",
+      "link": "https://www.youtube.com/watch?v=_kTlgLkfOYA"
+    },
+    {
+      "league": "NHL",
+      "title": "Best NHL Goals of Week 8",
+      "videoId": "LkiuugaZyt8",
+      "author": "NHL",
+      "pubDate": "2026-11-24T17:15:12+00:00",
+      "link": "https://www.youtube.com/watch?v=LkiuugaZyt8"
+    },
+    {
+      "league": "NFL",
+      "title": "What's the Best Game of the Thanksgiving Weekend Slate? | The Adam Schefter Podcast",
+      "videoId": "6KaFwQE7NKY",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-11-24T17:10:02+00:00",
+      "link": "https://www.youtube.com/watch?v=6KaFwQE7NKY"
+    },
+    {
+      "league": "NFL",
+      "title": "The Risk and Reward of Cincinnati’s Pass-Heavy Identity",
+      "videoId": "4lplmYIpdHY",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-11-24T17:00:12+00:00",
+      "link": "https://www.youtube.com/watch?v=4lplmYIpdHY"
+    },
+    {
+      "league": "NFL",
+      "title": "Chiefs vs. Bills and Eagles vs. Cowboys 🍿 What do these teams have to prove in Week 12? | First Take",
+      "videoId": "IBXWyIQ9HyY",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-11-24T16:50:48+00:00",
+      "link": "https://www.youtube.com/watch?v=IBXWyIQ9HyY"
+    },
+    {
+      "league": "MLB",
+      "title": "Teruaki Sato is reportedly bringing his prodigious power to the Cubs 🤯",
+      "videoId": "Qp64-8KvRTo",
+      "author": "MLB",
+      "pubDate": "2026-11-24T16:48:28+00:00",
+      "link": "https://www.youtube.com/watch?v=Qp64-8KvRTo"
     },
     {
       "league": "NBA",
-      "title": "Ant looking cool coaching up the Wolves 😎",
-      "videoId": "W1Nlg3op4K8",
+      "title": "EVERY MOMENT From Wemby's HISTORIC 50-PT Performance 👽 | November 21, 2026",
+      "videoId": "jo9QSaH-0Qw",
       "author": "NBA",
-      "pubDate": "2026-11-24T03:04:32+00:00",
-      "link": "https://www.youtube.com/watch?v=W1Nlg3op4K8"
+      "pubDate": "2026-11-24T16:40:21+00:00",
+      "link": "https://www.youtube.com/watch?v=jo9QSaH-0Qw"
     },
     {
       "league": "NFL",
-      "title": "Make sure mom sees him on MNF 😭",
-      "videoId": "Fk6YG2u7Zh8",
+      "title": "Jonah Coleman DOMINATES Raiders 😤 Has Sean Payton found his next great RB? | Move the Sticks",
+      "videoId": "nGKRQH9Ykl0",
       "author": "NFL on ESPN",
-      "pubDate": "2026-11-24T02:38:24+00:00",
-      "link": "https://www.youtube.com/watch?v=Fk6YG2u7Zh8"
+      "pubDate": "2026-11-24T16:30:25+00:00",
+      "link": "https://www.youtube.com/watch?v=nGKRQH9Ykl0"
     },
     {
       "league": "NFL",
-      "title": "Excused absence, signed by Joe Buck ✍️😂",
-      "videoId": "V3RS4x89GJA",
+      "title": "Micah Parsons RETURNING 👏 Season debut expectations + HIGH STAKES for Bears vs. Lions 🦃 | First Take",
+      "videoId": "CjETevUMFcM",
       "author": "NFL on ESPN",
-      "pubDate": "2026-11-24T02:37:44+00:00",
-      "link": "https://www.youtube.com/watch?v=V3RS4x89GJA"
+      "pubDate": "2026-11-24T16:26:21+00:00",
+      "link": "https://www.youtube.com/watch?v=CjETevUMFcM"
     },
     {
       "league": "NFL",
-      "title": "Need some insurance for those diamonds 💎",
-      "videoId": "Chn2zxY58_8",
+      "title": "Massive matchup 👀",
+      "videoId": "WqmzcrvP-kk",
       "author": "NFL on ESPN",
-      "pubDate": "2026-11-24T02:37:14+00:00",
-      "link": "https://www.youtube.com/watch?v=Chn2zxY58_8"
+      "pubDate": "2026-11-24T16:15:02+00:00",
+      "link": "https://www.youtube.com/watch?v=WqmzcrvP-kk"
     },
     {
       "league": "NFL",
-      "title": "Brotherly love 😂",
-      "videoId": "ARoyLyGMOGw",
+      "title": "Week 12 Waiver Wire Priority Adds + Full Game Previews | Fantasy Focus",
+      "videoId": "U-RU5ny-Akg",
       "author": "NFL on ESPN",
-      "pubDate": "2026-11-24T02:36:41+00:00",
-      "link": "https://www.youtube.com/watch?v=ARoyLyGMOGw"
+      "pubDate": "2026-11-24T16:06:21+00:00",
+      "link": "https://www.youtube.com/watch?v=U-RU5ny-Akg"
     },
     {
-      "league": "NFL",
-      "title": "Joe Burrow connects with Tee Higgins on the 31-yard touchdown 🙌 | NFL on ESPN",
-      "videoId": "ZQTMIKyeqnM",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-11-24T02:30:24+00:00",
-      "link": "https://www.youtube.com/watch?v=ZQTMIKyeqnM"
+      "league": "NHL",
+      "title": "Just Give the Man His Stick Back 😂",
+      "videoId": "VexajRHvQgI",
+      "author": "NHL",
+      "pubDate": "2026-11-24T16:00:36+00:00",
+      "link": "https://www.youtube.com/watch?v=VexajRHvQgI"
     },
     {
-      "league": "NFL",
-      "title": "C.J. Stroud talks playing against Joe Burrow, being teammates with Sonny Styles &amp; more | ManningCast",
-      "videoId": "y1Ew_y0Ftx4",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-11-24T02:28:56+00:00",
-      "link": "https://www.youtube.com/watch?v=y1Ew_y0Ftx4"
+      "league": "MLB",
+      "title": "Welcome to The Show! EVERY 1st CAREER HOME RUN from 2026! 👏 (Ft. Murakami, Griffin &amp; MORE!)",
+      "videoId": "1bwAG-EGD88",
+      "author": "MLB",
+      "pubDate": "2026-11-24T16:00:09+00:00",
+      "link": "https://www.youtube.com/watch?v=1bwAG-EGD88"
     },
     {
-      "league": "NFL",
-      "title": "The wink 😂",
-      "videoId": "9FLzh6nM8ko",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-11-24T02:03:39+00:00",
-      "link": "https://www.youtube.com/watch?v=9FLzh6nM8ko"
+      "league": "MLB",
+      "title": "BREAKING NEWS: Cubs, Teruaki Sato reportedly agree to deal | Won NPB Central League triple crown",
+      "videoId": "AdDSz8tLtRQ",
+      "author": "MLB",
+      "pubDate": "2026-11-24T15:58:30+00:00",
+      "link": "https://www.youtube.com/watch?v=AdDSz8tLtRQ"
+    },
+    {
+      "league": "WNBA",
+      "title": "The BLOCK LEADER 👑",
+      "videoId": "kd1-_Rrl96I",
+      "author": "WNBA",
+      "pubDate": "2026-11-24T15:04:46+00:00",
+      "link": "https://www.youtube.com/watch?v=kd1-_Rrl96I"
+    },
+    {
+      "league": "WNBA",
+      "title": "WNBA Defense Week 😤",
+      "videoId": "EGRauax9JNc",
+      "author": "WNBA",
+      "pubDate": "2026-11-24T15:03:10+00:00",
+      "link": "https://www.youtube.com/watch?v=EGRauax9JNc"
+    },
+    {
+      "league": "NBA",
+      "title": "NBA on Fire - 2026/27 - Episode 5",
+      "videoId": "4Y83ycD8YLE",
+      "author": "NBA",
+      "pubDate": "2026-11-24T15:02:53+00:00",
+      "link": "https://www.youtube.com/watch?v=4Y83ycD8YLE"
+    },
+    {
+      "league": "NHL",
+      "title": "SO CLOSE to a GOALIE GOAL! 😖",
+      "videoId": "5vyBpof_T3o",
+      "author": "NHL",
+      "pubDate": "2026-11-24T15:00:00+00:00",
+      "link": "https://www.youtube.com/watch?v=5vyBpof_T3o"
+    },
+    {
+      "league": "NHL",
+      "title": "Larkin on His First Day as a Canadien 🥹",
+      "videoId": "KgG6GW_MLZc",
+      "author": "NHL",
+      "pubDate": "2026-11-24T14:30:08+00:00",
+      "link": "https://www.youtube.com/watch?v=KgG6GW_MLZc"
+    },
+    {
+      "league": "NHL",
+      "title": "Larkin MISSES the open net! 😱",
+      "videoId": "UGXlrnvM3hw",
+      "author": "NHL",
+      "pubDate": "2026-11-24T14:00:14+00:00",
+      "link": "https://www.youtube.com/watch?v=UGXlrnvM3hw"
+    },
+    {
+      "league": "MLB",
+      "title": "Some of baseball's GREATEST MOMENTS in 2026 called in Spanish, Japanese and MORE! 🌎",
+      "videoId": "V6CQkjcBBM4",
+      "author": "MLB",
+      "pubDate": "2026-11-24T14:00:03+00:00",
+      "link": "https://www.youtube.com/watch?v=V6CQkjcBBM4"
+    },
+    {
+      "league": "MLB",
+      "title": "Bartolo Colon's MLB career highlights | 2005 AL Cy Young, Mets fan favorite (and yes, his home run!)",
+      "videoId": "V4SWN8yUW2Q",
+      "author": "MLB",
+      "pubDate": "2026-11-24T12:00:34+00:00",
+      "link": "https://www.youtube.com/watch?v=V4SWN8yUW2Q"
+    },
+    {
+      "league": "NBA",
+      "title": "NBA's Nightly Recap | November 23, 2026",
+      "videoId": "WVxW1iScWKg",
+      "author": "NBA",
+      "pubDate": "2026-11-24T07:05:21+00:00",
+      "link": "https://www.youtube.com/watch?v=WVxW1iScWKg"
+    },
+    {
+      "league": "NBA",
+      "title": "NBA's Top 10 Plays of the Night | November 23, 2026",
+      "videoId": "ow4aC9AmYCc",
+      "author": "NBA",
+      "pubDate": "2026-11-24T06:55:15+00:00",
+      "link": "https://www.youtube.com/watch?v=ow4aC9AmYCc"
+    },
+    {
+      "league": "NHL",
+      "title": "This Goal Was 100% Kaapo Kakko 💪🚨",
+      "videoId": "VCzVBN9P3cI",
+      "author": "NHL",
+      "pubDate": "2026-11-24T06:05:33+00:00",
+      "link": "https://www.youtube.com/watch?v=VCzVBN9P3cI"
+    },
+    {
+      "league": "NHL",
+      "title": "Wild vs. Sharks | NHL Highlights | Nov 23, 2026",
+      "videoId": "ql7bCMaZJuw",
+      "author": "NHL",
+      "pubDate": "2026-11-24T05:58:50+00:00",
+      "link": "https://www.youtube.com/watch?v=ql7bCMaZJuw"
+    },
+    {
+      "league": "NHL",
+      "title": "Ducks vs. Kraken | NHL Highlights | Nov 23, 2026",
+      "videoId": "lMiV23pE1EE",
+      "author": "NHL",
+      "pubDate": "2026-11-24T05:53:26+00:00",
+      "link": "https://www.youtube.com/watch?v=lMiV23pE1EE"
+    },
+    {
+      "league": "NBA",
+      "title": "JAZZ at LAKERS | FULL GAME HIGHLIGHTS | November 23, 2026",
+      "videoId": "Iqsnel9aWHg",
+      "author": "NBA",
+      "pubDate": "2026-11-24T05:53:19+00:00",
+      "link": "https://www.youtube.com/watch?v=Iqsnel9aWHg"
+    },
+    {
+      "league": "NBA",
+      "title": "EXTENDED: CLIPPERS at ROCKETS | FULL GAME HIGHLIGHTS | November 23, 2026",
+      "videoId": "Matd7OC5wW8",
+      "author": "NBA",
+      "pubDate": "2026-11-24T05:44:26+00:00",
+      "link": "https://www.youtube.com/watch?v=Matd7OC5wW8"
+    },
+    {
+      "league": "NBA",
+      "title": "Kelly Oubre’s reaction is everything 😅",
+      "videoId": "RTf8gciWK4U",
+      "author": "NBA",
+      "pubDate": "2026-11-24T05:44:07+00:00",
+      "link": "https://www.youtube.com/watch?v=RTf8gciWK4U"
+    },
+    {
+      "league": "NBA",
+      "title": "SPURS at KINGS | FULL GAME HIGHLIGHTS | November 23, 2026",
+      "videoId": "UXfAWMZHGtc",
+      "author": "NBA",
+      "pubDate": "2026-11-24T05:41:25+00:00",
+      "link": "https://www.youtube.com/watch?v=UXfAWMZHGtc"
     },
     {
       "league": "MLB",
@@ -6226,78 +6295,6 @@
       "author": "ESPN FC",
       "pubDate": "2026-11-23T23:06:22+00:00",
       "link": "https://www.youtube.com/watch?v=hpNNCiCaN6k"
-    },
-    {
-      "league": "MLB",
-      "title": "Team United States vs. Team Canada: Full Game (3/13/2026) | 2026 World Baseball Classic",
-      "videoId": "fv63KI3UXIA",
-      "author": "MLB",
-      "pubDate": "2026-11-23T22:00:20+00:00",
-      "link": "https://www.youtube.com/watch?v=fv63KI3UXIA"
-    },
-    {
-      "league": "SOCCER",
-      "title": "Paqueta after clinching Brazil's Serie A title with Flamengo 👏 (via @Flamengo/TT)",
-      "videoId": "Rn9Lh9oNoVI",
-      "author": "ESPN FC",
-      "pubDate": "2026-11-23T20:30:04+00:00",
-      "link": "https://www.youtube.com/watch?v=Rn9Lh9oNoVI"
-    },
-    {
-      "league": "MLB",
-      "title": "2026 Paul Skenes Highlights (SECOND STRAIGHT 200 strikeout season for the Pirates ace!)",
-      "videoId": "zbRK2WIoo4Q",
-      "author": "MLB",
-      "pubDate": "2026-11-23T20:00:33+00:00",
-      "link": "https://www.youtube.com/watch?v=zbRK2WIoo4Q"
-    },
-    {
-      "league": "MLB",
-      "title": "Team Korea vs. Team Dominican Republic: Full Game (3/13/2026) | 2026 World Baseball Classic",
-      "videoId": "Zn6g438_KZg",
-      "author": "MLB",
-      "pubDate": "2026-11-23T18:00:34+00:00",
-      "link": "https://www.youtube.com/watch?v=Zn6g438_KZg"
-    },
-    {
-      "league": "SOCCER",
-      "title": "A young Jude Bellingham on international duty 😂 (via @pablotooshiesty/TT)",
-      "videoId": "hZ6zb3tHRto",
-      "author": "ESPN FC",
-      "pubDate": "2026-11-23T18:00:34+00:00",
-      "link": "https://www.youtube.com/watch?v=hZ6zb3tHRto"
-    },
-    {
-      "league": "MLB",
-      "title": "The FUNNIEST moments and bloopers from the 2026 season! 🤣 (Ft. Tarps Off, magic wands &amp; MORE!)",
-      "videoId": "JZivXwuhFN4",
-      "author": "MLB",
-      "pubDate": "2026-11-23T16:00:14+00:00",
-      "link": "https://www.youtube.com/watch?v=JZivXwuhFN4"
-    },
-    {
-      "league": "MLB",
-      "title": "INSTANT REACTION: Mets, 1B Paul Goldschmidt reportedly agree to deal",
-      "videoId": "61RWNwHwGX8",
-      "author": "MLB",
-      "pubDate": "2026-11-23T15:46:18+00:00",
-      "link": "https://www.youtube.com/watch?v=61RWNwHwGX8"
-    },
-    {
-      "league": "MLB",
-      "title": "José Bautista's MLB career highlights | Iconic Blue Jays slugger (Ft. his ICONIC bat flip)",
-      "videoId": "U3GTc_kOKrY",
-      "author": "MLB",
-      "pubDate": "2026-11-23T12:00:13+00:00",
-      "link": "https://www.youtube.com/watch?v=U3GTc_kOKrY"
-    },
-    {
-      "league": "MLB",
-      "title": "FULL 2026 WORLD SERIES GAME 1: Brewers hang on during dramatic 9th inning! (Rays vs. Brewers)",
-      "videoId": "XVj0UF6DKhk",
-      "author": "MLB",
-      "pubDate": "2026-11-23T02:00:13+00:00",
-      "link": "https://www.youtube.com/watch?v=XVj0UF6DKhk"
     }
   ]
 }
