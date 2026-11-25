@@ -1,73 +1,81 @@
 {
   "clusters": [
     {
-      "category": "media",
+      "category": "leagues",
       "importance": 8,
-      "leadHeadline": "Chiefs-Bills Will Test Ceiling for Thanksgiving Night NFL Viewership",
-      "leadSource": "Front Office Sports · 1h ago",
-      "leadUrl": "https://frontofficesports.com/article/chiefs-bills-will-test-ceiling-for-thanksgiving-night-nfl-viewership/",
-      "summary": "Chiefs-Bills kicks off Thursday at 8:20 p.m. ET on NBC. Former Chiefs player Gehrig Dieter predicts it'll become the most-watched regular-season NFL game ever, surpassing last year's Chiefs-Cowboys game that drew 57.23 million viewers.",
-      "article": "<cite index=\"22-3,22-4\">The Kansas City Chiefs visit the Buffalo Bills at 8:20 p.m. ET on NBC</cite> on <cite index=\"21-1,21-2\">Thursday, Nov. 26, at Highmark Stadium in Orchard Park, New York</cite>. <cite index=\"22-9\">The Bills host a Thanksgiving game for the first time in franchise history</cite>.\n\n<cite index=\"1-3\">The 8-2 Kansas City Chiefs and 9-1 Buffalo Bills</cite> bring the game's star power and postseason stakes. <cite index=\"22-14\">The Bills have won the last five regular-season meetings</cite>. The late-night slot carries real weight: <cite index=\"3-4\">last season's Chiefs-Cowboys Thanksgiving game averaged 57.23 million viewers, setting the current record</cite>.\n\n<cite index=\"3-1\">Former Kansas City Chiefs player Gehrig Dieter predicts Thursday's Thanksgiving game between the Chiefs and Buffalo Bills will become the most-watched regular-season NFL game of all time</cite>. The forecast hinges on two fresh teams entering the game hot—a stark contrast to last year's matchup, when both squads carried losing records into their historic broadcast.",
-      "tweets": []
-    },
-    {
-      "category": "contracts",
-      "importance": 7,
-      "leadHeadline": "Blue Jays sign Japanese righty Kaima Taira to five-year, $80-million deal",
-      "leadSource": "Sportsnet · 16h ago",
-      "leadUrl": "",
-      "summary": "The Toronto Blue Jays signed right-hander Kaima Taira to a five-year, $80 million contract, marking the club's first major offseason move. Taira becomes a centerpiece of Toronto's rotation as the team rebuilds around Japanese talent.",
-      "article": "The Toronto Blue Jays have signed Japanese right-hander Kaima Taira to a five-year, $80 million deal, the club's opening salvo in what figures to be an active offseason. Taira, who pitched in Japan's NPB, brings international pedigree to a Blue Jays rotation that has seen turnover in recent seasons.\n\nThe contract represents Toronto's commitment to reinvesting after a down year and signals an aggressive front-office posture heading into free agency. At $16 million per season on average, Taira's deal sits in the middle tier for mid-rotation starters, a price point that reflects both his track record and the Blue Jays' willingness to spend.\n\nThe signing comes as MLB's international talent pipeline remains a focal point for rebuilding clubs. Toronto has increasingly looked to Japan and South Korea as sources of cost-effective, proven talent, a strategy that reduces the upfront risk of relying solely on the domestic prospect pool. Taira's arrival suggests the Blue Jays believe they can compete sooner rather than later, putting pressure on other AL East rivals to respond with their own offseason moves.",
-      "tweets": []
-    },
-    {
-      "category": "media",
-      "importance": 6,
-      "leadHeadline": "B1G upsets drive viewership in week twelve of CFB season",
-      "leadSource": "Sports Media Watch · 7h ago",
-      "leadUrl": "https://www.sportsmediawatch.com/2026/11/big-ten-upsets-viewership-nebraska-ohio-state-ucla-michigan/",
-      "summary": "Ohio State-Nebraska averaged 7.15 million viewers on FOX Big Noon Saturday, the top college football audience of week twelve and a 90% increase over Michigan's comparable slot. Big Ten upsets lifted the conference in the Nielsen rankings despite falling CFP standing.",
-      "article": "Big Ten upsets drove college football viewership in week twelve, with Ohio State-Nebraska on FOX Big Noon Saturday pulling 7.15 million viewers, the highest audience of the week and a 90 percent jump over Michigan's corresponding slot. The result marks a continued strength for Big Noon Saturday as a ratings engine, even as the conference's playoff positioning deteriorated in the latest CFP rankings.\n\nThe viewership bump underscores the persistent gap between traditional Big Ten brand equity and current on-field performance. Ohio State-Nebraska, a historic rivalry carrying weight independent of championship implications, delivered the week's largest audience across all college football broadcasts. By contrast, the latest CFP rankings suggest the Big Ten has narrowed to a single-bid league, with UCLA and Indiana plummeting in the selection committee's estimation.\n\nThe disconnect hints at a coming conversation about how Nielsen and advertising markets will value conference prestige versus playoff accessibility. If the Big Ten continues to draw top-tier audiences while producing fewer playoff bids, it may force ESPN and other broadcasters to rethink how they price inventory and allocate premium slots. For now, nostalgia and tradition remain strong enough to move the needle even in a down year.",
-      "tweets": []
+      "leadHeadline": "Aaron Rodgers blasts Steelers after benching and says McCarthy fell asleep in team meeting",
+      "leadSource": "The Guardian · 1h ago",
+      "leadUrl": "https://www.theguardian.com/sport/2026/nov/25/aaron-rodgers-steelers-mike-mccarthy-nfl",
+      "summary": "Aaron Rodgers announced he won't return to Pittsburgh after the Steelers benched him Tuesday in favor of Mason Rudolph. On Wednesday's Pat McAfee Show, Rodgers accused coach Mike McCarthy of falling asleep in meetings.",
+      "article": "<cite index=\"1-1,3-2\">The Pittsburgh Steelers benched Aaron Rodgers late Tuesday, naming Mason Rudolph the starting quarterback for Friday's game against Denver</cite>. <cite index=\"1-6\">Rodgers will be inactive</cite>, a stunning move as <cite index=\"1-7\">the Steelers sit 6-4 after losing two straight</cite>.\n\n<cite index=\"1-11\">Rodgers has posted an 86.6 passer rating this season, the lowest of his career</cite>. The benching contradicted <cite index=\"5-5\">McCarthy's assertion Monday that Rodgers remained Pittsburgh's quarterback</cite>.\n\nOn Wednesday's Pat McAfee Show, Rodgers went public with his grievances. <cite index=\"12-8\">He said McCarthy fell asleep in a quarterback meeting last Wednesday, arriving late and \"within 10 minutes, began snoring.\"</cite> <cite index=\"10-3\">According to Rodgers, McCarthy also said \"One, two, three, Packers\" during halftime of Sunday's loss to the Eagles</cite>, referring to his former team.\n\n<cite index=\"10-2\">Rodgers called McCarthy \"unhealthy\" and \"unwell\"</cite> and said the issues extended beyond this season. <cite index=\"12-4,12-6\">He learned of his benching through a phone call with tight end Pat Freiermuth, claiming the word \"benching\" never came up in prior conversations with coaches</cite>.\n\n<cite index=\"19-3,19-4\">When asked about his future with Pittsburgh, Rodgers said: \"At this point, I'm not going back to Pittsburgh. That ship has sailed.\"</cite> <cite index=\"23-1\">The Steelers are waiving Rodgers</cite>, ending his tenure in Pittsburgh after one season.",
+      "tweets": [
+        {
+          "url": "https://twitter.com/TomPelissero/status/2125442796467417433",
+          "html": "<blockquote class=\"twitter-tweet\" data-dnt=\"true\" data-theme=\"dark\"><p>Stunner: The Steelers are benching Aaron Rodgers and naming Mason Rudolph the starting quarterback for Friday's game against the Broncos.\n\nSources say this was a coach's decision. But Rodgers has struggled and now Mike McCarthy is making a change. https://t.co/wPSeMX3lmq</p>&mdash; Tom Pelissero (@TomPelissero) <a href=\"https://twitter.com/TomPelissero/status/2125442796467417433\">November 25, 2026</a></blockquote>",
+          "author_name": "Tom Pelissero",
+          "author_url": "https://twitter.com/TomPelissero",
+          "dateMs": 1795580026000
+        }
+      ]
     },
     {
       "category": "media",
       "importance": 6,
       "leadHeadline": "YouTube reportedly back in talks with NFL for mini-package",
-      "leadSource": "Sports Media Watch · 8h ago",
+      "leadSource": "Sports Media Watch · 16h ago",
       "leadUrl": "https://www.sportsmediawatch.com/2026/11/youtube-nfl-negotiating-mini-package-games-report/",
-      "summary": "YouTube has re-entered negotiations with the NFL for a three-game exclusive package after talks stalled last year. The streamer's return signals Google's continued interest in carving out a niche in the NFL's fragmented media landscape.",
-      "article": "YouTube is back in talks with the NFL to acquire a three-game exclusive package after negotiations went nowhere last year, according to Puck's John Ourand. The renewed dialogue represents Google-owned YouTube's second attempt to break into the league's domestic media rights ecosystem and signals both parties' willingness to find middle ground on a smaller, strategically valuable bundle.\n\nThe talks come as the NFL edges closer to its next full media rights negotiation cycle, expected to begin in earnest over the next 18 months. YouTube's interest in a mini-package, rather than a marquee primetime slot, reflects the broader fragmentation strategy that has defined recent NFL media deals. Amazon Prime secured Thursday Night Football, Peacock holds a Sunday Ticket spinoff, and Apple TV+ and other streamers continue to eye entry points.\n\nA three-game exclusive would give YouTube a toehold without demanding the premium pricing of a full Sunday or primetime package. For the NFL, YouTube's reach and existing sports infrastructure make it a credible alternative to traditional broadcasters, though the revenue question remains unsettled. Any deal would need to clear the $100 million annual hurdle that has become standard for NFL exclusivity, a threshold YouTube has shown willingness to approach but not exceed in prior negotiations.",
+      "summary": "YouTube has re-entered negotiations with the NFL to acquire an exclusive three-game package of games next season, resuming talks that stalled last year after extensive discussions.",
+      "article": "YouTube is back at the negotiating table with the NFL. After failed talks last year that produced no deal, Google-owned YouTube is pursuing an exclusive three-game package of NFL games for next season, according to Puck's John Ourand. The resumption of negotiations signals both YouTube's continued interest in live sports content and the NFL's openness to expanding its media footprint beyond traditional broadcast and cable partners. Last year's discussions went nowhere, but conditions may have shifted. YouTube's subscription base and advertising inventory have grown, and the NFL continues to explore new distribution channels for inventory outside its core Thursday Night Football package. A three-game package would represent modest exposure for YouTube but could serve as a testing ground for how the platform manages live sports production, commentary, and viewer experience. The timing is notable as the NFL approaches its next round of media-rights negotiations. If YouTube secures this deal, it would mark a significant evolution in how the league distributes content and could embolden other digital platforms to bid more aggressively on sports packages. YouTube's ability to monetize live sports through ads and memberships makes it a credible bidder. The outcome of these talks will shape the competitive landscape for future NFL media deals.",
       "tweets": []
     },
     {
-      "category": "labor",
+      "category": "contracts",
       "importance": 5,
-      "leadHeadline": "Usman Khawaja reveals peace deal text sent to Cricket Australia CEO over sandpapergate",
-      "leadSource": "The Guardian · 5h ago",
-      "leadUrl": "https://www.theguardian.com/sport/2026/nov/25/usman-khawaja-sandpapergate-peace-deal-text-cricket-australia-ceo",
-      "summary": "Former Australia batter Usman Khawaja disclosed that the entire 2018 Australian cricket team drafted a joint statement proposing collective responsibility for ball tampering and an end to the sandpaper scandal. The move represents an attempt to close a chapter that has divided the team for six years.",
-      "article": "Usman Khawaja has revealed that the 2018 Australian cricket team drafted a joint statement offering collective responsibility for the ball-tampering scandal in South Africa and proposing a path toward reconciliation with Cricket Australia. Speaking on the Grade Cricketer podcast, Khawaja outlined a proposed statement that would see the entire squad accept mutual accountability and move past the crisis that fractured the team's culture.\n\nThe disclosure adds a new dimension to sandpapergate, which has lingered as a reputational wound for Australian cricket since 2018. While skipper Steve Smith, vice-captain David Warner, and Cameron Bancroft bore the official brunt of the fallout through bans and sanctions, the broader team dynamic has remained tense. Khawaja's revelation suggests an effort to establish a unified front and prevent further division.\n\nThe timing of the statement's emergence comes amid fresh tension between Khawaja and current captain Pat Cummins, whom Khawaja accused of making a personal attack during a recent press conference. Cricket Australia has yet to respond officially to Khawaja's proposal, and it remains unclear whether the governing body would accept a collective responsibility framework after six years of individual accountability. The move reflects a broader challenge facing sports organizations: whether healing trauma requires acknowledgment of systemic failure or closure through individual penalties.",
+      "leadHeadline": "Why Tairas repertoire should translate with Blue Jays",
+      "leadSource": "Sportsnet · 3h ago",
+      "leadUrl": "",
+      "summary": "The Toronto Blue Jays signed Japanese right-hander Kaima Taira to a five-year, $80 million deal, making a significant bet on a pitcher who has not yet pitched in MLB.",
+      "article": "The Toronto Blue Jays committed serious money to unproven MLB talent this week. They signed Japanese right-hander Kaima Taira to a five-year, $80 million deal, taking a calculated risk on a pitcher with no major league experience. The signing reflects the Blue Jays' confidence in Taira's repertoire and his readiness to compete at the highest level immediately. Taira's skill set has drawn comparisons to successful Japanese imports and his fastball-slider combination projects well for North American baseball. The investment signals the Blue Jays' commitment to adding depth to their rotation after a disappointing season. At five years and $80 million, the deal is substantial for an unproven commodity, but Taira's international pedigree and training in Japan's professional league suggest he is ahead of the typical international prospect curve. Sportsnet reported that the pitcher's arsenal should translate well to MLB. The Blue Jays are banking on immediate productivity from their new import. If Taira performs, the deal will look like savvy value acquisition. If he struggles with the transition to American baseball or injuries derail his start, the multiyear commitment could become an albatross. The signing is part of a broader MLB trend of teams investing in Japanese talent before international posting windows open.",
       "tweets": []
     },
     {
-      "category": "revenue",
+      "category": "media",
       "importance": 5,
-      "leadHeadline": "NWSL Title Game Viewership Flat After Playoff Bump",
-      "leadSource": "Front Office Sports · 11h ago",
-      "leadUrl": "https://frontofficesports.com/article/nwsl-title-game-viewership-flat-after-playoff-bump/",
-      "summary": "The NWSL championship game drew flat viewership compared to the prior year, despite elevated audiences in the semifinal and quarterfinal rounds. The pattern suggests playoff interest wanes at the final stage rather than building through the tournament.",
-      "article": "The NWSL championship game drew flat viewership compared to last year, bucking the upward trend that defined the semifinal and quarterfinal rounds of the 2024 postseason. While earlier playoff rounds saw elevated audiences, the final failed to convert playoff momentum into a ratings spike, a pattern that presents challenges for the league's media strategy heading into next season.\n\nThe ratings trajectory contradicts the typical sports playoff arc, where marquee matchups build toward the climax. Instead, the NWSL's championship appeared to consolidate rather than expand its audience, suggesting either fatigue after a compressed playoff schedule or limited appeal of the particular team matchup. The earlier rounds' success, by contrast, hinted at growing mainstream interest in women's soccer, making the flatline at the finish line more pronounced.\n\nThe result carries implications for broadcasters and sponsors eyeing women's soccer as an emerging property. If the NWSL's audience peaks in the semifinals rather than the finals, it may force the league and its media partners to reconsider scheduling and marketing approaches. The championship slot commands premium advertising rates, and viewership that doesn't climb puts pressure on the league to either improve the fan experience leading into the final or accept lower-margin revenue from a narrower audience.",
+      "leadHeadline": "B1G upsets drive viewership in week twelve of CFB season",
+      "leadSource": "Sports Media Watch · 15h ago",
+      "leadUrl": "https://www.sportsmediawatch.com/2026/11/big-ten-upsets-viewership-nebraska-ohio-state-ucla-michigan/",
+      "summary": "Ohio State-Nebraska averaged 7.15 million viewers on FOX Big Noon Saturday, the top college football audience of week twelve and a 90% increase over the previous week's Michigan matchup.",
+      "article": "Big Ten upsets lifted college football viewership in week twelve. Ohio State-Nebraska averaged 7.15 million viewers on FOX Big Noon Saturday, marking the week's largest audience and jumping 90% from the previous week when Michigan played on the same slot. The surge reflects the draw of competitive Big Ten matchups and the appetite for traditional rivalries among cord-cutting and digital audiences alike. Conference upsets across Saturday's slate boosted Big Ten visibility in Nielsen rankings, though the same performances did not necessarily help the College Football Playoff's public narrative. Week twelve saw multiple ranked teams fall to unexpected challengers, a dynamic that tends to drive casual viewership. The 7.15 million figure positions Ohio State-Nebraska as the week's undisputed ratings leader for college football and signals that Big Ten matchups, especially those with historical weight, can still pull significant audiences on cable. The 90% week-over-week increase is substantial and suggests the Ohio State brand remains a major draw. Big Ten Network and FOX have capitalized on the conference's traditional appeal, and this viewership performance reinforces their negotiating position ahead of future media-rights discussions. The data supports the conference's claim that live college football on linear television still commands audiences comparable to premium cable content.",
       "tweets": []
     },
     {
       "category": "leagues",
       "importance": 4,
-      "leadHeadline": "Michigan's $17M Buyout for Failed AD Hire Tops Its Basketball Budget",
-      "leadSource": "Sportico · 17h ago",
-      "leadUrl": "https://www.sportico.com/leagues/college-sports/2026/michigan-trev-alberts-ad-buyout-basketball-budget-1234959361/",
-      "summary": "Michigan reversed its decision to hire Trev Alberts as athletic director after he signed a memorandum of understanding, triggering a $17 million buyout that exceeds the program's annual NCAA championship men's basketball budget. The failed hire ranks among the costliest AD departures in university history.",
-      "article": "Michigan's decision to backtrack on its hiring of Trev Alberts as athletic director will cost the university $17 million, a figure that surpasses the annual budget of its NCAA championship men's basketball program. Alberts, formerly the athletic director at Texas A&M, had signed a memorandum of understanding to move to Ann Arbor before the university reversed course and triggered the buyout clause.\n\nThe $17 million represents one of the largest financial missteps in recent university athletic administration, a category dominated by football coach buyouts rather than administrative hirings. For context, that sum exceeds what Michigan allocates annually to operate one of college basketball's flagship programs, a comparison that underscores both the scale of the reversal and the financial fragility of athletic department budgets.\n\nThe failed hire reflects broader challenges in college athletics: mounting scrutiny of administrative decisions, shifting donor expectations, and the compressed timelines that now govern searches. Michigan faced pressure after announcing Alberts, though the specific catalysts for the reversal remain unclear. The buyout obligation will likely reverberate through the athletic department's finances for the foreseeable future, potentially constraining investment in facilities, scholarships, or coaching salaries across multiple sports.",
+      "leadHeadline": "Avoid your family, catch the game: Rams release more Thanksgiving Eve tickets",
+      "leadSource": "NY Post Sports · just now",
+      "leadUrl": "https://nypost.com/2026/11/25/sports/rams-release-more-tickets-for-packers-game-on-thanksgiving-eve-at-sofi-stadium/",
+      "summary": "The Los Angeles Rams opened additional Standing Room Only tickets for their Thanksgiving Eve matchup against the Green Bay Packers at SoFi Stadium on Wednesday.",
+      "article": "The Los Angeles Rams released more inventory for their Thanksgiving Eve game. The team opened additional Standing Room Only sections for Wednesday's matchup against the Green Bay Packers at SoFi Stadium, announced by Kevin Demoff, the Rams' president of team and media operations, via social media. The move suggests strong early ticket demand for the marquee game and reflects the Rams' push to maximize attendance for a holiday-week matchup. Standing Room Only sections typically offer the most affordable available tickets and allow teams to increase capacity without permanent stadium modifications. The release came as sportsbooks and media outlets positioned the game as a compelling neutral-site battle between two traditional powerhouses on a high-traffic sports day. The Packers enter as slight favorites at plus-115 on the moneyline. The game's Wednesday timing, one day before Thanksgiving, creates a unique scheduling advantage for the Rams while positioning the matchup as a midweek alternative to family obligations. The additional ticket release suggests the team expects strong walk-up and last-minute demand from Los Angeles-area fans and traveling Packers supporters. SoFi Stadium's modern infrastructure and premium amenities position it as an attractive venue for the holiday game.",
+      "tweets": []
+    },
+    {
+      "category": "revenue",
+      "importance": 3,
+      "leadHeadline": "Where Every League Stands on Kalshi, Polymarket",
+      "leadSource": "Front Office Sports · 1h ago",
+      "leadUrl": "https://frontofficesports.com/article/where-every-league-stands-kalshi-polymarket-prediction-market/",
+      "summary": "Major women's professional leagues remain cautious about prediction markets Kalshi and Polymarket, holding off on participation as the broader sports industry continues to grapple with betting-related policies.",
+      "article": "Women's professional sports leagues have adopted a wait-and-see stance on prediction markets. Front Office Sports reported that the biggest women's pro leagues, including the WNBA, have held off from embracing prediction market platforms Kalshi and Polymarket, even as other sports organizations have begun testing betting integrations. The hesitation reflects broader regulatory uncertainty surrounding prediction markets in the United States and concerns about brand association with speculative betting products. Kalshi and Polymarket have emerged as significant players in the U.S. prediction market space following federal approval of certain platforms last year. Major men's leagues including the NFL, NBA, and MLB have navigated these waters more aggressively, striking sponsorship and data-licensing deals. Women's leagues, often more conservative in their corporate partnerships and sensitive to community feedback, have chosen to monitor developments before committing. The cautious approach preserves optionality: leagues can enter these markets later without penalty, while early adoption carries reputational risk if regulators tighten rules. Crypto.com's spinoff of its prediction market business, Nadex, also signals ongoing volatility in the space. As prediction market infrastructure matures and regulatory clarity improves, women's leagues will likely reassess. For now, they're observing rather than participating.",
+      "tweets": []
+    },
+    {
+      "category": "leagues",
+      "importance": 2,
+      "leadHeadline": "How Trev Alberts' Deposition 'Dummy' Act Cost Him Michigan Job",
+      "leadSource": "Sportico · 4h ago",
+      "leadUrl": "https://www.sportico.com/leagues/college-sports/2026/trev-alberts-deposition-nebraska-scoggin-1234959487/",
+      "summary": "Michigan rescinded its offer to Trev Alberts for athletic director after a deposition in a lawsuit altered the trajectory of his professional future, adding another layer of instability to the Wolverines' athletic department search.",
+      "article": "Michigan's offer to Trev Alberts as athletic director has been withdrawn, marking another chapter in the Wolverines' tumultuous leadership transition. Sportico reported that Alberts' performance during a deposition on December 4, 2025, stemming from a lawsuit involving his prior role at Texas A&M, became a determining factor in Michigan's decision to rescind the offer. The specific nature of his deposition testimony, described as a \"dummy\" act, apparently raised concerns among Michigan's leadership about his fitness for the role. Alberts had been positioned as a leading candidate to stabilize Michigan's athletic department following recent upheaval. The rescission signals that Michigan's vetting process flagged legal vulnerability or judgment concerns that outweighed his professional credentials. The timing is particularly damaging because it extends Michigan's search for a permanent athletic director and suggests the university's due diligence exposed problems that emerged only during litigation discovery. The deposition was connected to matters from his Texas A&M tenure, raising questions about how Michigan's search committee could have missed these issues during initial screening. The situation adds to Kyle Whittingham's challenge as interim leader of the football program and compounds uncertainty surrounding the department's strategic direction. Michigan will now resume its search for an athletic director under heightened scrutiny regarding thoroughness of background checks and reference vetting.",
       "tweets": []
     }
   ],
@@ -2236,15 +2244,6 @@
         "note": ""
       },
       {
-        "pick": 241,
-        "round": 7,
-        "team": "Buffalo Bills",
-        "player": "Ar'maj Reed-Adams",
-        "position": "OG",
-        "school": "",
-        "note": "Trade: From CHI"
-      },
-      {
         "pick": 242,
         "round": 7,
         "team": "Seattle Seahawks",
@@ -2270,15 +2269,6 @@
         "position": "S",
         "school": "",
         "note": "Trade: From HOU via MIN"
-      },
-      {
-        "pick": 245,
-        "round": 7,
-        "team": "New England Patriots",
-        "player": "Jam Miller",
-        "position": "RB",
-        "school": "",
-        "note": "Trade: From LAR via HOU and JAX"
       },
       {
         "pick": 246,
@@ -2398,89 +2388,102 @@
       "value_usd": 80000000,
       "term_years": 5,
       "league": "MLB",
-      "headline": "Blue Jays sign Taira to five-year, $80M deal",
+      "headline": "Blue Jays sign Japanese RHP Kaima Taira to 5-year, $80M deal",
       "storyIndex": 15,
-      "blurb": "Japanese right-hander Kaima Taira joins Toronto on a five-year, $80 million contract, the team's first major offseason signing.",
-      "capturedAt": "2026-11-25T11:55:12.408Z"
+      "blurb": "Taira, who has not pitched in MLB, signed a substantial five-year deal with Toronto, betting heavily on his repertoire.",
+      "capturedAt": "2026-11-25T20:18:08.659Z"
     }
   ],
   "ratings": [
     {
-      "event": "Ohio State vs Nebraska (FOX Big Noon Saturday)",
+      "event": "Ohio State vs Nebraska (Big Noon Saturday)",
       "network": "FOX",
       "viewers_m": 7.15,
       "peak_viewers_m": null,
       "league": "OTHER",
       "storyIndex": 8,
-      "context": "Top college football audience of week twelve, 90% increase over comparable Big Ten slot previous week.",
-      "capturedAt": "2026-11-25T11:55:12.409Z"
+      "context": "Top college football audience of week twelve, up 90% from previous week's Michigan matchup.",
+      "capturedAt": "2026-11-25T20:18:08.659Z"
     }
   ],
   "ticket_prices": [],
   "sidebar": [
     {
-      "headline": "Texas Back in CFP Picture After Five Straight Wins",
-      "source": "Deadspin · 21h ago",
-      "article": "Texas has silenced early-season skeptics with five consecutive wins and clawed back into College Football Playoff contention. The Longhorns can clinch an SEC Championship appearance with a win over Texas A&M, a result that would secure their playoff credentials and validate the roster's capability to compete at the highest level. The turnaround came after a sluggish start raised questions about execution and depth, but recent form suggests both are present."
+      "headline": "Crypto.com's Prediction Market Spinoff Faces Liquidity Crunch",
+      "source": "Sportico · 3h ago",
+      "article": "Crypto.com's decision to spin off its prediction market business, formerly known as Nadex, comes as the broader cryptocurrency and digital-betting landscape faces scaling challenges. The company had held an enviable position when U.S. prediction markets first surged last year, boasting one of the few federally approved exchanges dedicated to prediction betting. The spinoff suggests Crypto.com is repositioning away from prediction markets to focus on core crypto trading. The move reflects ongoing liquidity constraints in the prediction market sector and raises questions about whether these platforms can sustain growth without major institutional backing. For sports betting, the development signals that prediction markets remain niche products despite regulatory approval."
     },
     {
-      "headline": "Oilers Show Fatigue Signs in Vegas Loss After Six-Game Road Swing",
-      "source": "Sportsnet · 7h ago",
-      "article": "Edmonton looked tired, performed tired, and made tired mistakes in a loss to the Golden Knights on Tuesday following a punishing six-game Eastern road trip. The travel and schedule compression left visible marks on the team's execution and decision-making. Coach Todd McLelland will need to manage rest and rotation carefully as the Oilers navigate the season's compressed schedule."
+      "headline": "Leny Yoro Red Card Rescinded, But Row Between Man Utd and Pro Ref Continues",
+      "source": "BBC Sport · 4h ago",
+      "article": "Manchester United's Leny Yoro had his red card overturned following the club's match against Liverpool, but the reversal has sparked an unseemly public dispute between United and Pro Ref, the independent match official review body. The rescission acknowledges the initial decision was incorrect, but the acrimonious disagreement over the process and responsibility exposes growing friction between clubs and the oversight infrastructure. Man Utd challenged the call aggressively, and Pro Ref ultimately conceded, but neither party has emerged from the exchange looking cooperative. The incident underscores ongoing tensions in how European football handles VAR review and disciplinary appeals."
     },
     {
-      "headline": "St. John's Rolls Past Oregon, Faces No. 25 Louisville in Vegas Tournament",
-      "source": "NY Post Sports · 5h ago",
-      "article": "St. John's breezed past Oregon on Tuesday night, handling what was billed as the biggest concern—the opponent's style—with ease. The Red Storm's balanced attack and aggressive perimeter defense created spacing problems that Oregon couldn't solve. Next up is No. 25 Louisville in the tournament's next round, a matchup that will test whether St. John's can maintain its early-season form against ranked competition."
+      "headline": "Jude Bellingham's World Status Debated as Mourinho Calls Him 'Best Midfielder in the World'",
+      "source": "BBC Sport · 4h ago",
+      "article": "Jose Mourinho elevated Jude Bellingham's standing in world football by declaring the Real Madrid midfielder \"the best midfielder in the world,\" reigniting debate over the 20-year-old's exact standing among elite playmakers. Bellingham has had a stellar start to his Madrid career, combining defensive work with incisive passing and goal contributions. Mourinho's endorsement carries weight given his track record of identifying top talent, but the claim has sparked discussion among analysts about whether Bellingham has truly separated himself from other world-class midfielders or if Mourinho was exercising his well-known penchant for bold statements. The assessment reflects Bellingham's rapid integration into European elite football."
     },
     {
-      "headline": "Manchester United Face Defensive Crisis in Tough Sporting Lisbon Visit",
-      "source": "CBS Sports · just now",
-      "article": "Manchester United travel to Portugal facing a defensive injury crisis in a vital Champions League clash against Sporting Lisbon. The Red Devils' back line has been decimated by injuries and form issues, forcing Erik ten Hag to shuffle personnel and formations. Meanwhile, Liverpool's Florian Wirtz appears to have found his rhythm in attacking play, and Inter Milan must shore up a mistake-prone defense against Stuttgart in another key European fixture."
+      "headline": "Lakers Adjust Formula Without Austin Reaves in Key Win",
+      "source": "NY Post Sports · just now",
+      "article": "The Los Angeles Lakers executed a successful game plan without Austin Reaves, with a star player divulging the uncomfortable truth about how the team has had to alter its offensive structure to maintain success without him. The Lakers' ability to win without Reaves suggests their recent success is not solely dependent on him, though he remains a key contributor when healthy. The willingness to adjust offensive roles and shot distribution indicates coaching flexibility and depth beyond the star players. The report suggests the Lakers have identified contingency strategies that could prove valuable if injury issues persist late in the season."
     },
     {
-      "headline": "EA Adds AI-Generated John Motson Commentary to FC 27 Video Game",
-      "source": "BBC Sport · 2h ago",
-      "article": "EA Sports has integrated AI-generated commentary from legendary British commentator John Motson into FC 27, the latest installment of its flagship soccer video game. The AI version arrives with the consent of Motson's son and wife, honoring the broadcaster's legacy. Motson, who passed away recently, will appear in the game starting November 26, allowing new generations to experience his distinctive voice and cadence while playing."
+      "headline": "Packers-Rams Thanksgiving Eve Matchup Favors Green Bay Despite LA's Home Field",
+      "source": "Deadspin · 5h ago",
+      "article": "The Green Bay Packers offer value at plus-115 on the moneyline against the Los Angeles Rams on Thanksgiving Eve, despite playing at SoFi Stadium, because the Rams are dealing with significant injury depth issues. Betting professionals see the Packers' traditional strength and consistent roster health as an advantage that outweighs the Rams' home-field benefit. The injury concerns for Los Angeles, particularly along the defensive line and secondary, have shifted the market toward Green Bay. The Packers' ability to move the ball and generate scoring opportunities could exploit a diminished Rams defense."
     },
     {
-      "headline": "Pelé and Maradona: From Friends to Bitter Rivals",
-      "source": "The Guardian · 4h ago",
-      "article": "A new book traces the complicated relationship between soccer's two greatest players, beginning with their first meeting in Rio in April 1979. Maradona, fresh off leading Argentina's under-20 team to the World Youth Cup final, had long dreamed of meeting Pelé. The two forged an initial bond that would later curdle into one of sports' most renowned rivalries, shaped by ego, national pride, and competing legacies that neither could fully reconcile."
+      "headline": "USMNT's Next Head Coach Search Must Prioritize Competence Over Fame",
+      "source": "The Guardian · 10h ago",
+      "article": "The United States men's national soccer team's hunt for Mauricio Pochettino's successor requires a pragmatic bureaucrat rather than a marquee name. The job is to fine-tune a team that is on an upward trajectory, not rescue a program in crisis. The USMNT has stabilized under recent management and is positioned to compete respectably at the next World Cup. The search committee should resist the temptation to hire a household name for marketing purposes and instead find a technical leader who understands the team's current standing and can optimize player development and tactical consistency. The 2026 World Cup is approaching, and continuity matters more than a flashy appointment."
     }
   ],
   "poll": {
-    "question": "Will Chiefs-Bills on Thanksgiving night set an NBC network viewership record?",
+    "question": "Will Aaron Rodgers' public attack on Mike McCarthy harm his Hall of Fame legacy?",
     "options": [
-      "Yes, both teams' star power will drive over 32M average viewers",
-      "No, holiday viewership plateaued; expect 28-30M",
-      "Uncertain; depends on early game flow and competing programming",
-      "No, streaming fragmentation will suppress cable audience"
+      "Yes, the acrimony overshadows his on-field accomplishments",
+      "No, his Super Bowl and MVP awards stand on their own",
+      "It depends on how the Steelers finish the season",
+      "The story will be forgotten by next season"
     ]
   },
   "predictions": [
     {
-      "statement": "YouTube secures the NFL three-game package within 12 months for over $100M annually.",
+      "statement": "The Packers will beat the Rams on Thanksgiving Eve by more than 3 points.",
+      "probability": 58,
+      "rationale": "Green Bay's roster consistency and injury-free status give them an edge over an LA team dealing with defensive depth issues. The moneyline value reflects this disparity."
+    },
+    {
+      "statement": "YouTube will secure an exclusive three-game NFL package within the next fiscal year.",
       "probability": 62,
-      "rationale": "YouTube has the infrastructure and financial capacity to clear the threshold, and the NFL is actively fragmenting its portfolio. The two sides' renewed talks suggest serious negotiating intent, though past failures show alignment remains difficult."
+      "rationale": "YouTube's digital infrastructure, advertising scale, and strategic interest in live sports make it a credible bidder. The NFL's willingness to re-engage after failed talks signals both parties see mutual benefit."
     },
     {
-      "statement": "Big Ten receives multiple CFP bids despite one-bid status in current rankings.",
-      "probability": 55,
-      "rationale": "The committee typically re-evaluates late-season performance and conference championship games. Ohio State and other schools have time to improve, and the selection process has historically favored Big Ten prestige over strict seeding."
+      "statement": "Kaima Taira will record a winning record (more wins than losses) in his first MLB season.",
+      "probability": 45,
+      "rationale": "The transition from Japanese ball to MLB is significant. While his repertoire projects well, unproven international pitchers face adjustment curves. The Blue Jays' confidence suggests readiness, but execution risk remains."
     },
     {
-      "statement": "NWSL championship viewership rises year-over-year next season after addressing playoff fatigue issues.",
-      "probability": 48,
-      "rationale": "The league can tighten playoff scheduling and improve marketing, but women's soccer audience behavior remains unpredictable. Last year's flat finale suggests structural limits, not easily solved by cosmetic changes."
-    },
-    {
-      "statement": "Michigan recovers the $17M Alberts buyout through revenue increases within five fiscal years.",
-      "probability": 28,
-      "rationale": "Athletic departments rarely generate new revenue fast enough to offset one-time hits of this magnitude. The number is too large to absorb through ticket sales or sponsorship growth alone without major structural changes."
+      "statement": "Aaron Rodgers will not play another NFL game after his Steelers exit.",
+      "probability": 71,
+      "rationale": "At 42 years old, Rodgers' public exit from Pittsburgh suggests finality. No team will pursue him mid-season given the drama, and his age makes an offseason comeback unlikely despite his talent."
     }
   ],
-  "injuries": [],
+  "injuries": [
+    {
+      "player": "Aaron Rodgers",
+      "team": "Pittsburgh Steelers",
+      "league": "NFL",
+      "position": "QB",
+      "status": "OUT",
+      "injury": "Benched",
+      "timeline": "Out for season (effective immediately)",
+      "source": "The Guardian, Sportsnet",
+      "impact": "Steelers turn to Mason Rudolph as starter for remainder of season, eliminating veteran passing expertise.",
+      "storyIndex": 3
+    }
+  ],
   "picks": [
     {
       "type": "moneyline",
@@ -5918,61 +5921,213 @@
   "highlights": [
     {
       "league": "NBA",
-      "title": "NBA's Top 10 Plays of the Night | November 24, 2026",
-      "videoId": "8fxZAV3qXxk",
-      "thumbnail": "https://img.youtube.com/vi/8fxZAV3qXxk/mqdefault.jpg",
+      "title": "Count the interruptions 🤣",
+      "videoId": "CTqA7IMg_40",
+      "thumbnail": "https://img.youtube.com/vi/CTqA7IMg_40/mqdefault.jpg",
       "timeAgo": "4h ago",
       "isFallback": false
     },
     {
       "league": "NFL",
-      "title": "NFL Thanksgiving Games Preview: Packers vs. Rams, Bears-Lions, Bills, Steelers | Leaguewide",
-      "videoId": "qrltHaVNu-0",
-      "thumbnail": "https://img.youtube.com/vi/qrltHaVNu-0/mqdefault.jpg",
-      "timeAgo": "1h ago",
+      "title": "Aaron Rodgers recounts issues with Mike McCarthy",
+      "videoId": "VCcmekTfvi0",
+      "thumbnail": "https://img.youtube.com/vi/VCcmekTfvi0/mqdefault.jpg",
+      "timeAgo": "Just now",
       "isFallback": false
     },
     {
       "league": "MLB",
-      "title": "FULL 2026 WORLD SERIES GAME 3: Brewers score 8 runs with 2 outs in the 5th inning (Brewers vs. Rays)",
-      "videoId": "Q0HkeiruAUg",
-      "thumbnail": "https://img.youtube.com/vi/Q0HkeiruAUg/mqdefault.jpg",
-      "timeAgo": "10h ago",
+      "title": "2026 Elly De La Cruz Highlights (ELECTRIC 30-30 season for the Reds star!) 🤩",
+      "videoId": "sY0PGNpsPcY",
+      "thumbnail": "https://img.youtube.com/vi/sY0PGNpsPcY/mqdefault.jpg",
+      "timeAgo": "Just now",
       "isFallback": false
     },
     {
       "league": "NHL",
-      "title": "Knights vs. Oilers | NHL Highlights | Nov 24, 2026",
-      "videoId": "If4w8S4lTFo",
-      "thumbnail": "https://img.youtube.com/vi/If4w8S4lTFo/mqdefault.jpg",
-      "timeAgo": "5h ago",
+      "title": "Top NHL Saves of Week 8 | 2026-27 Season",
+      "videoId": "56rE2dvCT5g",
+      "thumbnail": "https://img.youtube.com/vi/56rE2dvCT5g/mqdefault.jpg",
+      "timeAgo": "2h ago",
       "isFallback": false
     },
     {
       "league": "WNBA",
-      "title": "The Barbie was a FORCE on the defensive end",
-      "videoId": "GLtc7UgzhLc",
-      "thumbnail": "https://img.youtube.com/vi/GLtc7UgzhLc/mqdefault.jpg",
-      "timeAgo": "16h ago",
+      "title": "Rhyne Howard’s BEST Blocks of the 2026 WNBA Season 🚫 | WNBA Defense Week",
+      "videoId": "LW93bpPLgSQ",
+      "thumbnail": "https://img.youtube.com/vi/LW93bpPLgSQ/mqdefault.jpg",
+      "timeAgo": "5h ago",
       "isFallback": false
     },
     {
       "league": "SOCCER",
-      "title": "Can anyone stop Jude Bellingham and Real Madrid? 😮‍💨 + Arsenal vs. Man City preview 🍿 | ESPN FC",
-      "videoId": "ds_H87r94Us",
-      "thumbnail": "https://img.youtube.com/vi/ds_H87r94Us/mqdefault.jpg",
-      "timeAgo": "12h ago",
+      "title": "Cunha asking this Man United fan for his pen 😅 (via @_uq67/IG)",
+      "videoId": "2BttbjcTRCU",
+      "thumbnail": "https://img.youtube.com/vi/2BttbjcTRCU/mqdefault.jpg",
+      "timeAgo": "3h ago",
       "isFallback": false
     }
   ],
   "reels": [
     {
       "league": "NFL",
-      "title": "NFL Thanksgiving Games Preview: Packers vs. Rams, Bears-Lions, Bills, Steelers | Leaguewide",
-      "videoId": "qrltHaVNu-0",
+      "title": "Aaron Rodgers recounts issues with Mike McCarthy",
+      "videoId": "VCcmekTfvi0",
       "author": "NFL on ESPN",
-      "pubDate": "2026-11-25T11:00:14+00:00",
-      "link": "https://www.youtube.com/watch?v=qrltHaVNu-0"
+      "pubDate": "2026-11-25T20:07:03+00:00",
+      "link": "https://www.youtube.com/watch?v=VCcmekTfvi0"
+    },
+    {
+      "league": "NFL",
+      "title": "'1, 2, 3 Packers is crazy' 😅",
+      "videoId": "U8tt4mbtzg0",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-11-25T20:05:26+00:00",
+      "link": "https://www.youtube.com/watch?v=U8tt4mbtzg0"
+    },
+    {
+      "league": "NFL",
+      "title": "Jeffrey Simmons Has Changed the Bears | Jason McCourty on Bears-Lions",
+      "videoId": "sx120G042eQ",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-11-25T20:00:13+00:00",
+      "link": "https://www.youtube.com/watch?v=sx120G042eQ"
+    },
+    {
+      "league": "MLB",
+      "title": "2026 Elly De La Cruz Highlights (ELECTRIC 30-30 season for the Reds star!) 🤩",
+      "videoId": "sY0PGNpsPcY",
+      "author": "MLB",
+      "pubDate": "2026-11-25T20:00:00+00:00",
+      "link": "https://www.youtube.com/watch?v=sY0PGNpsPcY"
+    },
+    {
+      "league": "NFL",
+      "title": "The backlash on &quot;Madden&quot; has been intense",
+      "videoId": "IUk13XJW-UY",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-11-25T19:00:31+00:00",
+      "link": "https://www.youtube.com/watch?v=IUk13XJW-UY"
+    },
+    {
+      "league": "NHL",
+      "title": "Top NHL Saves of Week 8 | 2026-27 Season",
+      "videoId": "56rE2dvCT5g",
+      "author": "NHL",
+      "pubDate": "2026-11-25T18:30:35+00:00",
+      "link": "https://www.youtube.com/watch?v=56rE2dvCT5g"
+    },
+    {
+      "league": "NFL",
+      "title": "Does the MVP belong to Brock Purdy?!",
+      "videoId": "nox4KQpZ1LY",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-11-25T18:17:30+00:00",
+      "link": "https://www.youtube.com/watch?v=nox4KQpZ1LY"
+    },
+    {
+      "league": "NFL",
+      "title": "What could have led to the Steelers benching Aaron Rodgers? 🤔",
+      "videoId": "-9LxQL7h40Y",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-11-25T18:16:25+00:00",
+      "link": "https://www.youtube.com/watch?v=-9LxQL7h40Y"
+    },
+    {
+      "league": "MLB",
+      "title": "Team United States vs. Team Dominican Republic: Full Game (3/15/2026) | 2026 World Baseball Classic",
+      "videoId": "lzp9Ceyfu_Q",
+      "author": "MLB",
+      "pubDate": "2026-11-25T18:00:31+00:00",
+      "link": "https://www.youtube.com/watch?v=lzp9Ceyfu_Q"
+    },
+    {
+      "league": "NFL",
+      "title": "Does Micah Parsons give the Packers the edge? + Have we seen the last of Aaron Rodgers? | First Take",
+      "videoId": "cHDfE_BO09c",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-11-25T17:34:52+00:00",
+      "link": "https://www.youtube.com/watch?v=cHDfE_BO09c"
+    },
+    {
+      "league": "NFL",
+      "title": "Has Puka Played His Last Game with the Rams?",
+      "videoId": "nTRj2LOmcFE",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-11-25T17:17:23+00:00",
+      "link": "https://www.youtube.com/watch?v=nTRj2LOmcFE"
+    },
+    {
+      "league": "SOCCER",
+      "title": "Cunha asking this Man United fan for his pen 😅 (via @_uq67/IG)",
+      "videoId": "2BttbjcTRCU",
+      "author": "ESPN FC",
+      "pubDate": "2026-11-25T17:00:18+00:00",
+      "link": "https://www.youtube.com/watch?v=2BttbjcTRCU"
+    },
+    {
+      "league": "NHL",
+      "title": "Landeskog reveals his secret talent",
+      "videoId": "bRPWq8ONGDA",
+      "author": "NHL",
+      "pubDate": "2026-11-25T17:00:01+00:00",
+      "link": "https://www.youtube.com/watch?v=bRPWq8ONGDA"
+    },
+    {
+      "league": "NBA",
+      "title": "Count the interruptions 🤣",
+      "videoId": "CTqA7IMg_40",
+      "author": "NBA",
+      "pubDate": "2026-11-25T16:23:16+00:00",
+      "link": "https://www.youtube.com/watch?v=CTqA7IMg_40"
+    },
+    {
+      "league": "MLB",
+      "title": "Absolute FILTH! 🤮 The NASTIEST pitches of 2026! (Ft. Misiorowski, Schlittler, Miller &amp;  MORE!)",
+      "videoId": "dN1kMm3rsu8",
+      "author": "MLB",
+      "pubDate": "2026-11-25T16:00:30+00:00",
+      "link": "https://www.youtube.com/watch?v=dN1kMm3rsu8"
+    },
+    {
+      "league": "NBA",
+      "title": "Darius Acuff Jr. tops Jeff Zillgitt’s Kia Rookie Ladder while No. 1!",
+      "videoId": "kCkLS4dplmM",
+      "author": "NBA",
+      "pubDate": "2026-11-25T15:57:54+00:00",
+      "link": "https://www.youtube.com/watch?v=kCkLS4dplmM"
+    },
+    {
+      "league": "NHL",
+      "title": "Frozen jerseys and holiday decorating as Never Offside celebrates Friendsgiving! | S3, Ep9",
+      "videoId": "Shls4qICJcY",
+      "author": "NHL",
+      "pubDate": "2026-11-25T15:55:07+00:00",
+      "link": "https://www.youtube.com/watch?v=Shls4qICJcY"
+    },
+    {
+      "league": "WNBA",
+      "title": "Rhyne Howard’s BEST Blocks of the 2026 WNBA Season 🚫 | WNBA Defense Week",
+      "videoId": "LW93bpPLgSQ",
+      "author": "WNBA",
+      "pubDate": "2026-11-25T15:20:35+00:00",
+      "link": "https://www.youtube.com/watch?v=LW93bpPLgSQ"
+    },
+    {
+      "league": "WNBA",
+      "title": "The BEST Steals of the 2026 WNBA Season 😈 | WNBA Defense Week",
+      "videoId": "aNJsmWFTNo4",
+      "author": "WNBA",
+      "pubDate": "2026-11-25T15:14:40+00:00",
+      "link": "https://www.youtube.com/watch?v=aNJsmWFTNo4"
+    },
+    {
+      "league": "MLB",
+      "title": "MLB’s Carded: The major card chases and stories from 2026!",
+      "videoId": "iluQ3kTbnpc",
+      "author": "MLB",
+      "pubDate": "2026-11-25T15:13:17+00:00",
+      "link": "https://www.youtube.com/watch?v=iluQ3kTbnpc"
     },
     {
       "league": "NBA",
@@ -6031,22 +6186,6 @@
       "link": "https://www.youtube.com/watch?v=Rwa23zfAvf4"
     },
     {
-      "league": "NBA",
-      "title": "Jayson Tatum giving AJ Dybantsa praise 👏",
-      "videoId": "a4ypfiv0Roc",
-      "author": "NBA",
-      "pubDate": "2026-11-25T05:22:28+00:00",
-      "link": "https://www.youtube.com/watch?v=a4ypfiv0Roc"
-    },
-    {
-      "league": "NBA",
-      "title": "How did Jamal Murray get this layup to fall!? 😱",
-      "videoId": "As1V0YM1PP4",
-      "author": "NBA",
-      "pubDate": "2026-11-25T05:21:40+00:00",
-      "link": "https://www.youtube.com/watch?v=As1V0YM1PP4"
-    },
-    {
       "league": "NHL",
       "title": "One second you're calling the game, next you're IN THE GAME! 🤣🎙️",
       "videoId": "h7Nco-SLBug",
@@ -6079,36 +6218,12 @@
       "link": "https://www.youtube.com/watch?v=L_XGzGYj4d8"
     },
     {
-      "league": "NHL",
-      "title": "&quot;I know what I'm talkin' about!&quot; 😆🔮",
-      "videoId": "Wf_igMf2yvo",
-      "author": "NHL",
-      "pubDate": "2026-11-25T02:25:31+00:00",
-      "link": "https://www.youtube.com/watch?v=Wf_igMf2yvo"
-    },
-    {
       "league": "MLB",
       "title": "FULL 2026 WORLD SERIES GAME 3: Brewers score 8 runs with 2 outs in the 5th inning (Brewers vs. Rays)",
       "videoId": "Q0HkeiruAUg",
       "author": "MLB",
       "pubDate": "2026-11-25T02:00:08+00:00",
       "link": "https://www.youtube.com/watch?v=Q0HkeiruAUg"
-    },
-    {
-      "league": "NHL",
-      "title": "Rethinking those seats now! 😱🤣",
-      "videoId": "OzWYA_sCEoQ",
-      "author": "NHL",
-      "pubDate": "2026-11-25T01:05:34+00:00",
-      "link": "https://www.youtube.com/watch?v=OzWYA_sCEoQ"
-    },
-    {
-      "league": "NHL",
-      "title": "Should I stay or should I go now? 🤣😂",
-      "videoId": "Z219vbzp9-4",
-      "author": "NHL",
-      "pubDate": "2026-11-25T00:45:36+00:00",
-      "link": "https://www.youtube.com/watch?v=Z219vbzp9-4"
     },
     {
       "league": "MLB",
@@ -6167,124 +6282,12 @@
       "link": "https://www.youtube.com/watch?v=jFAmS4iNWGo"
     },
     {
-      "league": "NFL",
-      "title": "‘VERY encouraged’ 📈 Fernando Mendoza progressing QUICKLY through two starts | Move the Sticks",
-      "videoId": "pEQ5nbhc-Yk",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-11-24T23:00:16+00:00",
-      "link": "https://www.youtube.com/watch?v=pEQ5nbhc-Yk"
-    },
-    {
-      "league": "NFL",
-      "title": "Which Players are due for a Week 12 Bounce Back?! 👀 | ESPN Fantasy",
-      "videoId": "UN7N4JNRKNg",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-11-24T22:34:14+00:00",
-      "link": "https://www.youtube.com/watch?v=UN7N4JNRKNg"
-    },
-    {
-      "league": "NFL",
-      "title": "David Bailey is ALREADY on an All-Pro level",
-      "videoId": "DDz6W0pMczM",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-11-24T22:00:38+00:00",
-      "link": "https://www.youtube.com/watch?v=DDz6W0pMczM"
-    },
-    {
       "league": "SOCCER",
       "title": "When Jude Bellingham linked up with Russ in Dubai 😅 (via @russmillions/TT)",
       "videoId": "52dPxJU1DNo",
       "author": "ESPN FC",
       "pubDate": "2026-11-24T22:00:25+00:00",
       "link": "https://www.youtube.com/watch?v=52dPxJU1DNo"
-    },
-    {
-      "league": "MLB",
-      "title": "Team Venezuela vs. Team Japan: Full Game (3/14/2026) | 2026 World Baseball Classic",
-      "videoId": "k0WCZMvaO0w",
-      "author": "MLB",
-      "pubDate": "2026-11-24T22:00:24+00:00",
-      "link": "https://www.youtube.com/watch?v=k0WCZMvaO0w"
-    },
-    {
-      "league": "NFL",
-      "title": "PREVIEWING the BIGGEST Bears-Lions Thanksgiving Day game in recent memory 🦃 | Big Day",
-      "videoId": "VOaLQXCFoes",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-11-24T20:46:21+00:00",
-      "link": "https://www.youtube.com/watch?v=VOaLQXCFoes"
-    },
-    {
-      "league": "NFL",
-      "title": "MNF Reaction 🏈 Is Dan Quinn making the case of keeping his job? | Big Day with Peter Schrager",
-      "videoId": "Z4YoRsZQLZk",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-11-24T20:32:16+00:00",
-      "link": "https://www.youtube.com/watch?v=Z4YoRsZQLZk"
-    },
-    {
-      "league": "MLB",
-      "title": "Paul Skenes &amp; Livvy Dunne Take On Japan!",
-      "videoId": "YhLwmXN8980",
-      "author": "MLB",
-      "pubDate": "2026-11-24T20:00:08+00:00",
-      "link": "https://www.youtube.com/watch?v=YhLwmXN8980"
-    },
-    {
-      "league": "WNBA",
-      "title": "The Barbie was a FORCE on the defensive end",
-      "videoId": "GLtc7UgzhLc",
-      "author": "WNBA",
-      "pubDate": "2026-11-24T19:44:47+00:00",
-      "link": "https://www.youtube.com/watch?v=GLtc7UgzhLc"
-    },
-    {
-      "league": "NFL",
-      "title": "J.J. Watt on what set Abdul Carter’s game apart 🧠",
-      "videoId": "HIji_CYwTsY",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-11-24T19:30:43+00:00",
-      "link": "https://www.youtube.com/watch?v=HIji_CYwTsY"
-    },
-    {
-      "league": "NFL",
-      "title": "‘Nobody does this!’ David Bailey ALREADY becoming ELITE pass rusher | Move the Sticks",
-      "videoId": "GO6W_mHcL28",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-11-24T19:30:12+00:00",
-      "link": "https://www.youtube.com/watch?v=GO6W_mHcL28"
-    },
-    {
-      "league": "MLB",
-      "title": "Team Puerto Rico vs. Team Italy: Full Game (3/14/2026) | 2026 World Baseball Classic",
-      "videoId": "Vg-0C_QUOJ4",
-      "author": "MLB",
-      "pubDate": "2026-11-24T18:00:13+00:00",
-      "link": "https://www.youtube.com/watch?v=Vg-0C_QUOJ4"
-    },
-    {
-      "league": "WNBA",
-      "title": "Atlanta Dream’s BEST Defensive Plays of 2026 🔒 | WNBA Defense Week",
-      "videoId": "_kTlgLkfOYA",
-      "author": "WNBA",
-      "pubDate": "2026-11-24T17:29:36+00:00",
-      "link": "https://www.youtube.com/watch?v=_kTlgLkfOYA"
-    },
-    {
-      "league": "MLB",
-      "title": "Teruaki Sato is reportedly bringing his prodigious power to the Cubs 🤯",
-      "videoId": "Qp64-8KvRTo",
-      "author": "MLB",
-      "pubDate": "2026-11-24T16:48:28+00:00",
-      "link": "https://www.youtube.com/watch?v=Qp64-8KvRTo"
-    },
-    {
-      "league": "MLB",
-      "title": "Welcome to The Show! EVERY 1st CAREER HOME RUN from 2026! 👏 (Ft. Murakami, Griffin &amp; MORE!)",
-      "videoId": "1bwAG-EGD88",
-      "author": "MLB",
-      "pubDate": "2026-11-24T16:00:09+00:00",
-      "link": "https://www.youtube.com/watch?v=1bwAG-EGD88"
     }
   ]
 }
