@@ -2,72 +2,80 @@
   "clusters": [
     {
       "category": "leagues",
-      "importance": 9,
-      "leadHeadline": "Caleb Williams throws for game-winning TD as Bears stun Lions on Thanksgiving",
-      "leadSource": "The Guardian · 1h ago",
-      "leadUrl": "https://www.theguardian.com/sport/2026/nov/26/nfl-roundup-thanksgiving-scores-bears-lions-eagles-cowboys-chiefs-bills",
-      "summary": "<cite index=\"1-1\">Caleb Williams threw a 6-yard touchdown pass to Rome Odunze with 3 seconds left to give the Chicago Bears a 39-35 win over the Detroit Lions on Thursday, breaking a first-place tie in the NFC North</cite>.",
-      "article": "<cite index=\"1-1\">Caleb Williams threw a 6-yard touchdown pass to Rome Odunze with 3 seconds left as the Chicago Bears beat the Detroit Lions 39-35 on Thanksgiving, taking their first lead of the game to break a first-place tie in the NFC North.</cite>\n\n<cite index=\"1-2\">Williams completed 30 of 44 passes for 345 yards and two touchdowns to help the Bears improve to 9-2.</cite> <cite index=\"1-5\">The Bears have now won six straight overall.</cite>\n\n<cite index=\"1-6\">The Bears trailed by 11 points midway through the fourth quarter following Jahmyr Gibbs' 70-yard run for his third score of the game before Williams led the comeback.</cite> <cite index=\"2-5\">Williams led the Bears on a 13-play drive in the final 2:14 to score the winning touchdown.</cite> <cite index=\"4-4,4-5,4-6\">\"We knew we needed a big one,\" Odunze said. \"Luckily the O-line held up for me. Caleb delivered the ball exactly where it needed to be, and I was able to make a play in the back of the end zone.\"</cite>\n\nThe Lions fall to 8-3. <cite index=\"13-7\">Detroit's six-game winning streak ended.</cite>",
-      "tweets": []
+      "importance": 8,
+      "leadHeadline": "Tyler Bass hits 57-yard field goal as time expires to lift Bills past Chiefs",
+      "leadSource": "Sportsnet · 7h ago",
+      "leadUrl": "",
+      "summary": "<cite index=\"1-1\">Tyler Bass drilled a 57-yard field goal as time expired at Highmark Stadium to give the Bills a 13-10 win over the Chiefs</cite>. <cite index=\"11-4\">Buffalo is now 10-1 for the first time since the 1991 season</cite>.",
+      "article": "<cite index=\"1-1\">Tyler Bass drilled a 57-yard field goal as time expired to give the Buffalo Bills a 13-10 victory over the Kansas City Chiefs Thursday night</cite>, capping the organization's first home Thanksgiving game.\n\n<cite index=\"1-5\">The kick was set up by a tipped punt and ensuing Greg Dortch return, with Bass connecting on a low kick through the uprights despite wet and wintry conditions</cite>. <cite index=\"23-4\">Bass, who had already tied the game from 54 yards, made his second kick from beyond 50 to give the Bills their seventh straight win</cite>.\n\n<cite index=\"23-5\">Bass became the first NFL kicker to make both a tying field goal and a winning field goal from at least 54 yards in the fourth quarter of the same game</cite>. <cite index=\"1-7\">The difference in the game, where both star quarterbacks struggled, was kicker Harrison Butker, who missed his field goal in the fourth quarter and Bass, who made his two attempts</cite>.\n\nWhen asked if it was his best kick ever, <cite index=\"25-4,25-5,25-6\">Bass said \"Hard to say. I've played in a lot of bad conditions here. Definitely was up there as far as conditions wise, but I just treat it as the next one and just try to put my best foot forward and trust it.\"</cite>\n\n<cite index=\"11-2,11-4\">The Bills improved to 10-1, their best record for the first time since the 1991 season, while the Chiefs fell to 8-3</cite>.",
+      "tweets": [
+        {
+          "url": "https://twitter.com/BuffaloBills/status/2126171004225384551",
+          "html": "<blockquote class=\"twitter-tweet\" data-dnt=\"true\" data-theme=\"dark\"><p>TYLER BASS CALLED GAME!!!!!!!!!!\n\n📺: NBC https://t.co/OXGtrPBFRE</p>&mdash; Buffalo Bills (@BuffaloBills) <a href=\"https://twitter.com/BuffaloBills/status/2126171004225384551\">November 27, 2026</a></blockquote>",
+          "author_name": "Buffalo Bills",
+          "author_url": "https://twitter.com/BuffaloBills",
+          "dateMs": 1795753644000
+        }
+      ]
     },
     {
       "category": "media",
       "importance": 8,
-      "leadHeadline": "NFL viewership nears high water mark entering Thanksgiving",
-      "leadSource": "Sports Media Watch · 5h ago",
-      "leadUrl": "https://www.sportsmediawatch.com/2026/11/nfl-viewership-nears-high-entering-thanksgiving-week/",
-      "summary": "NFL games averaged 18.2 million viewers through Week 11, up 3% year-over-year and the highest average at this point in a season. The league enters its most-watched day of the year with momentum heading into Thanksgiving matchups.",
-      "article": "The NFL is experiencing one of its strongest viewership seasons in recent memory. Through Week 11, game windows were averaging 18.2 million viewers, a 3% increase from the same point last year and officially the highest average this deep into a season.\n\nThe timing is significant: Thanksgiving marks the most-watched day of the NFL calendar, traditionally drawing outsized audiences as viewers gather around television sets across the country. This year, that event arrives amid already-elevated baseline interest.\n\nThe sustained ratings strength reflects several converging factors: playoff positioning tightening, emerging star quarterbacks like Caleb Williams, and consistent fantasy football engagement driving casual viewing. Week 12's doubleheader on Thanksgiving features compelling division matchups with real playoff implications.\n\nFor the league's media partners and advertisers, the numbers validate the NFL's pricing power and confirm that despite cord-cutting and streaming fragmentation, traditional television remains the dominant delivery method for football. Networks have aggressively promoted upcoming games to capitalize on peak interest.",
+      "leadHeadline": "Caleb Williams throws for game-winning TD as Bears stun Lions on Thanksgiving",
+      "leadSource": "CBS Sports · 6h ago",
+      "leadUrl": "https://www.cbssports.com/nfl/news/nfl-week-12-grades-thanksgiving-bears-earn-b-packers-get-d/",
+      "summary": "Caleb Williams led a late-game drive to throw a game-winning touchdown to Rome Odunze as Chicago upset Detroit on Thanksgiving in a high-scoring shootout. The Bears' victory marks a significant playoff statement and showcases the rookie's composure under pressure.",
+      "article": "Caleb Williams delivered a game-winning touchdown pass to Rome Odunze in the final moments as the Chicago Bears pulled off a stunning upset over the Detroit Lions on Thanksgiving in a shootout that underscored the NFL's most explosive offenses.\n\nThe rookie quarterback orchestrated a drive down the field in the game's final stretch, finding Odunze in stride for the decisive score. The play exemplified the kind of clutch execution that separates playoff contenders from pretenders and gave Chicago a signature win in one of the season's most-watched windows.\n\nDetroit's defense, which had been among the league's most reliable units, collapsed in the final moments. The Lions' inability to close out a game they'd largely controlled speaks to a vulnerability that could plague them in January. Jordan Love and the Lions' offense had moved the ball effectively throughout the afternoon, but the defense's late-game break cost them dearly.\n\nFor Williams, the moment validates the investment Chicago made trading up for him in April. His poise in a high-pressure situation—delivering a strike to a contested receiver with the game on the line—is the kind of trait scouts project onto young quarterbacks but rarely see this early. The Bears' win also reshuffles the NFC playoff picture and gives them genuine staying power heading into December.",
       "tweets": []
     },
     {
       "category": "labor",
       "importance": 7,
-      "leadHeadline": "'100% Confidence': Steelers Owner Backs McCarthy After Rodgers Claims",
-      "leadSource": "Front Office Sports · 3h ago",
-      "leadUrl": "https://frontofficesports.com/article/100-confidence-steelers-owner-backs-mccarthy-after-rodgers-claims/",
-      "summary": "Pittsburgh Steelers owner Art Rooney II publicly backed head coach Mike McCarthy and described Aaron Rodgers' actions as 'insubordination' after the quarterback was benched then waived. The statement escalates the team's internal rift into an open ownership declaration.",
-      "article": "Art Rooney II, the Steelers' owner and president, issued a full-throated endorsement of head coach Mike McCarthy while condemning Aaron Rodgers' recent conduct as \"insubordination.\"\n\nRodgers was benched mid-game on Tuesday night and waived the following day after accusing McCarthy of mismanaging the offense. Rooney's statement represents a decisive choice by ownership to stand behind the head coach and publicly reject Rodgers' narrative about the team's operational problems.\n\nThe public rebuke carries real weight in an NFL locker room. When an owner declares \"100% confidence\" in a coach while framing a star player's actions as insubordination, it signals that the organization views Rodgers' behavior, not McCarthy's coaching, as the problem. The language matters: insubordination implies a chain-of-command violation rather than a disagreement over football strategy.\n\nRodgers has been one of the league's most prominent voices on team governance and quarterback authority. His waiver and Rooney's statement suggest the Steelers organization decided that input did not excuse direct challenge to coaching authority.\n\nThe move leaves Rodgers in roster limbo as other teams weigh whether his talent outweighs the apparent management friction that consumed his Pittsburgh tenure.",
+      "leadHeadline": "How the WNBA's First Union Chief Sees Its Billion-Dollar Growth",
+      "leadSource": "Front Office Sports · 1h ago",
+      "leadUrl": "https://frontofficesports.com/article/coquese-washington-wnba-college-union/",
+      "summary": "The WNBA's new union chief outlined her vision for the league's expansion after a landmark collective bargaining agreement was ratified. The agreement, described as 'monumental,' positions the league for significant revenue growth.",
+      "article": "The WNBA's newly installed union leadership is charting an ambitious path forward following the ratification of a collective bargaining agreement that union chief Washington described as 'monumental.' The deal represents the most significant labor accord in league history and signals a fundamental shift in how the league's growth translates to player compensation.\n\nWashington's framing of the agreement underscores the union's confidence that the recent surge in viewership, attendance, and media interest has created a durable economic foundation. The CBA includes provisions designed to capture revenue from streaming, international play, and merchandise—areas that were either minimally addressed or absent from prior agreements.\n\nThe timing of the deal—concluded during a period of sustained growth in WNBA viewership and sponsorship interest—gives the union leverage it lacked in previous negotiations. Media companies have competed more aggressively for WNBA rights, and corporate partnerships have expanded beyond traditional sports sponsors.\n\nWashington's public positioning also reflects a strategic decision to frame the agreement as the beginning of a longer cycle of growth rather than a final settlement. By calling it 'monumental,' the union leader sets expectations for even larger deals down the road and positions the current players as part of a generational investment.\n\nThe WNBA is projected to exceed $1 billion in annual revenue within the next two seasons, a milestone that seemed distant just three years ago. The CBA locks in player gains as that threshold approaches.",
+      "tweets": []
+    },
+    {
+      "category": "leagues",
+      "importance": 7,
+      "leadHeadline": "Tomlin Calls Steelers Saga 'Dumpster Fire' As NFL Voices Pile On Rodgers",
+      "leadSource": "Front Office Sports · 8h ago",
+      "leadUrl": "https://frontofficesports.com/article/mike-tomlin-steelers-dumpster-fire-as-nfl-analysts-criticize-aaron-rodgers/",
+      "summary": "Pittsburgh Steelers head coach Mike Tomlin directly criticized Aaron Rodgers and the team's dysfunction, using stark language to describe the internal chaos. High-profile figures including Michael Strahan have joined the criticism of Rodgers' behavior.",
+      "article": "Mike Tomlin broke with his typical measured public posture to characterize the Pittsburgh Steelers' season as a 'dumpster fire,' a rare moment of directness from the normally circumspect head coach. The language signals deep frustration with Aaron Rodgers and the quarterback's impact on the locker room and team culture.\n\nTomlin's comments follow weeks of mounting tension between Rodgers and the organization. The quarterback's public statements and reported friction with coordinators have become a focal point for media scrutiny and player commentary. By using inflammatory language, Tomlin effectively validated the narrative that the dysfunction runs deeper than typical midseason struggles.\n\nMichael Strahan, ESPN's lead NFL analyst, delivered some of the harshest rebukes of Rodgers in recent broadcasts, suggesting that the quarterback's approach has exacerbated Pittsburgh's problems rather than solved them. Strahan's platform and prominence mean his criticism carries weight across the league and among casual viewers.\n\nThe public pile-on from both a head coach and a major media figure signals that patience with Rodgers is wearing thin. The Steelers are unlikely to make the postseason despite significant investment in a veteran roster constructed around the quarterback. The disconnect between expectation and result has created an environment where typically private grievances become public fodder.\n\nTomlin's willingness to critique Rodgers publicly also sets a marker for future negotiations. If the Steelers move on from the quarterback in the offseason, Tomlin's comments become part of the institutional record justifying that decision.",
       "tweets": []
     },
     {
       "category": "media",
       "importance": 6,
-      "leadHeadline": "Fury 'never received' schizophrenia diagnosis",
-      "leadSource": "BBC Sport · 2h ago",
-      "leadUrl": "https://www.bbc.co.uk/sport/boxing/articles/cwj3klxj10edo?at_medium=RSS&amp;at_campaign=rss",
-      "summary": "Paris Fury contradicted her own remarks in an upcoming Netflix documentary by stating Tyson Fury has never been diagnosed with schizophrenia, potentially saving the heavyweight's planned mega-fight against Anthony Joshua from jeopardy. The conflicting accounts raise questions about the film's accuracy.",
-      "article": "Paris Fury, the wife of heavyweight Tyson Fury, clarified that her husband has never received a schizophrenia diagnosis, walking back comments she made in an upcoming Netflix documentary that had threatened to derail his scheduled mega-fight against Anthony Joshua.\n\nIn the documentary, Paris apparently suggested Tyson was schizophrenic, sparking immediate concern within boxing circles about the fighter's mental fitness and the viability of the Joshua bout. Her latest statement attempts to neutralize that damage by directly contradicting the documentary's framing.\n\nThe conflicting accounts highlight the tension between documentary production, in which comments are recorded months before release, and real-time consequences in professional sports. Fury has been vocal about his mental health struggles in prior years, but those issues differ materially from a schizophrenia diagnosis.\n\nFor the Joshua fight, the clarification likely prevents regulatory bodies from intervening based on mental health grounds. Boxing commissions scrutinize fighter welfare closely, and an uncontroverted diagnosis would have triggered medical reviews before sanctioning the bout.\n\nThe episode underscores the complexity of mental health disclosure in sport and the speed at which media narratives can shift when stakes are high enough. Fury's $80 million+ payday against Joshua now appears secure, pending no further documentary revelations.",
+      "leadHeadline": "NBC to Bump Goo Goo Dolls for Mike Tomlin to Talk About Aaron Rodgers",
+      "leadSource": "Front Office Sports · 9h ago",
+      "leadUrl": "https://frontofficesports.com/article/nbc-to-bump-goo-goo-dolls-for-mike-tomlin-to-talk-about-aaron-rodgers/",
+      "summary": "NBC preempted a scheduled Goo Goo Dolls concert broadcast in Buffalo to air Mike Tomlin's comments on Aaron Rodgers and the Steelers' dysfunction. The programming decision reflects the intensity of media interest in the quarterback controversy.",
+      "article": "NBC made an unusual programming move by shelving a live Goo Goo Dolls concert set to air in Buffalo in order to broadcast Mike Tomlin's comments about Aaron Rodgers and the Steelers' chaos. The decision illustrates how thoroughly the Rodgers situation has dominated the NFL news cycle and how heavily media outlets are weighing the story against standard entertainment programming.\n\nThe concert cancellation signals that network executives believe Tomlin's interview will generate more viewer engagement than the scheduled music performance. In an era of streaming fragmentation, networks are increasingly willing to disrupt regular schedules for marquee news moments, especially those involving star power and drama.\n\nTomlin's platform on a major broadcast network amplifies the reach of his 'dumpster fire' comments beyond sports media channels and into mainstream audiences. The timing also matters: with Thanksgiving viewing at peak levels, NBC's audience for Tomlin's remarks will be substantially larger than a typical Tuesday broadcast.\n\nThe decision also reflects a calculation about audience appetite. Steelers fans, broader NFL audiences, and casual viewers all have reasons to tune in for Tomlin's rare public criticism of his franchise quarterback. That drew-down logic is what justified bumping entertainment programming.",
       "tweets": []
     },
     {
       "category": "media",
-      "importance": 5,
-      "leadHeadline": "Amazon's Push to Dominate Black Friday With All-Day Sports",
-      "leadSource": "Front Office Sports · 1h ago",
-      "leadUrl": "https://frontofficesports.com/article/amazon-push-dominate-black-friday-all-day-sports/",
-      "summary": "Amazon is preparing a 15-hour sports marathon for Black Friday, extending its play for premium sports rights and advertising reach during the year's highest consumer spending day. The move reflects intensifying competition among tech giants for sports content and viewership.",
-      "article": "Amazon is mounting an aggressive sports programming push for Black Friday, planning another 15-hour marathon that spans multiple sports and properties. The strategy reflects the company's broader effort to use live sports as a draw for Prime Video subscriptions and advertising inventory during the year's peak consumer spending window.\n\nBlack Friday represents a rare convergence of maximum television availability and maximum household engagement. By flooding the schedule with continuous sports content, Amazon positions itself as the destination for viewers seeking entertainment during the day's shopping and gathering rhythms.\n\nThe move is part of a wider arms race among tech platforms for premium sports rights. Amazon already holds Thursday Night Football; this Black Friday play suggests the company is testing whether bundling disparate sports properties can create a moat against competitors like Apple TV+, Netflix, and traditional broadcasters.\n\nFor advertisers, the extended window offers guaranteed reach at a moment when households are actively consuming media between retail outings. For Amazon, it validates investment in sports as a loss-leader for broader Prime ecosystem adoption.\n\nThe gambit also signals that Amazon views sports not as a standalone business but as programming that feeds subscriber acquisition and retention cycles. As traditional media rights pricing inflates, tech companies increasingly rely on sports to justify their streaming investments to shareholders.",
-      "tweets": []
-    },
-    {
-      "category": "media",
-      "importance": 4,
-      "leadHeadline": "Alex Ovechkin's Decline Shows Why Sidney Crosby Should Retire Before It's Too Late",
-      "leadSource": "Deadspin · 8h ago",
-      "leadUrl": "https://deadspin.com/alex-ovechkins-decline-shows-why-sidney-crosby-should-retire-before-its-too-late/",
-      "summary": "Alex Ovechkin's difficult farewell season serves as a cautionary tale for Sidney Crosby, whose future with Pittsburgh's rebuilding Penguins has grown uncertain in what could be his final years as a productive player. The comparison highlights the risks of overstaying in a declining organization.",
-      "article": "Alex Ovechkin's current season is unfolding as a stark reminder of what happens when superstar players remain with rebuilding teams past their prime. The Washington Capitals forward, once the league's most dominant scorer, is experiencing diminished production and relevance as the team bottoms out.\n\nSidney Crosby, Pittsburgh's captain and face of the franchise, now faces a similar crossroads. The Penguins are in full rebuild mode following Mike Tomlin's departure from the front office, and Crosby's window to compete for another Cup is closing rapidly. Unlike Ovechkin, who has stayed loyal to Washington through decades of fluctuating success and failure, Crosby has options.\n\nThe comparison isn't about individual talent. Both remain dangerous players. It's about organizational trajectory and the opportunity cost of aging in place. Ovechkin's legacy remains secure regardless of his final seasons, but his current year demonstrates the difficulty of maintaining impact when your team is intentionally losing.\n\nCrosby is entering his late 30s. If Pittsburgh's rebuild takes three to five years, he'll be in his 40s when the team competes again. The question for Crosby is whether legacy, loyalty, and financial security outweigh the diminishing chance to win another championship while still capable of leading a contender.\n\nHistory rarely judges athletes harshly for leaving late in their careers to chase one final title. It often remembers them kindly for knowing when to exit.",
+      "importance": 6,
+      "leadHeadline": "NFL viewership nears high water mark entering Thanksgiving",
+      "leadSource": "Sports Media Watch · 18h ago",
+      "leadUrl": "https://www.sportsmediawatch.com/2026/11/nfl-viewership-nears-high-entering-thanksgiving-week/",
+      "summary": "NFL game windows were averaging 18.2 million viewers through Week 11, up 3% from last year and marking the highest average at this point in the season. The league enters its most-watched day of the year with momentum.",
+      "article": "The NFL is tracking toward one of its most-watched seasons on record. Through Week 11, game windows were averaging 18.2 million viewers, up 3% compared to the same point last season and representing the highest average viewership at this stage of any recent season.\n\nThe gains have been consistent across networks and time slots. Thursday night games have drawn particular strength, while Sunday primetime continues to command the largest audiences. The momentum heading into Thanksgiving, historically the most-watched day of the NFL calendar, suggests the season-long trend will accelerate over the final six weeks.\n\nSeveral factors have contributed to the surge. The competitive balance across the AFC and NFC has created genuine playoff intrigue, keeping casual viewers engaged in races that could go down to Week 18. High-profile quarterback play—including both established names and emerging talents like Caleb Williams—has also broadened appeal beyond core enthusiasts.\n\nSponsor and media partners have taken note of the uptick, with several bidding for future rights packages at higher levels than previously anticipated. The ratings strength also validates recent contract extensions and rights deals that were negotiated based on projections of continued growth.\n\nThe Thanksgiving window represents a unique opportunity for the NFL to reach audiences beyond its traditional base. Family gatherings, casual viewers, and international audiences all tune in during the holiday programming block. If the league's current trajectory holds, the holiday period could set records.",
       "tweets": []
     },
     {
       "category": "leagues",
-      "importance": 3,
-      "leadHeadline": "Real Kypers Trade Board 3.0: Which star player could move next?",
-      "leadSource": "Sportsnet · 7h ago",
-      "leadUrl": "",
-      "summary": "With Dylan Larkin now traded, attention turns to Simon Edvinsson and other Detroit Red Wings assets in Nick Kypreos' updated trade board as the deadline looms. Multiple star players could change hands in coming weeks.",
-      "article": "The NHL's trade deadline season is accelerating. With Dylan Larkin's move completed, focus shifts to the next tier of players likely to generate interest from contending teams: Detroit's Simon Edvinsson topping the list of potential movers.\n\nKypreos' updated trade board reflects the reality that half-way through the season, contenders are identifying what they still need and sellers are starting to calculate whether holding assets for a playoff run is worth the risk of losing them for nothing in free agency.\n\nEdvinsson, a young defenseman with significant upside, represents the type of reclamation candidate teams will target: controllable, with term remaining, and capable of providing depth on a Cup-contending blue line. His availability would draw significant bidder interest.\n\nThe Larkin trade itself signals that Michigan's rebuild is advancing faster than expected. Teams that thought Detroit would be a seller come playoff time now see urgency in that timeline. The next week presents a critical window: players moved now fetch the highest return; those held longer risk becoming rentals heading into spring.\n\nSeveral other established names are likely monitoring the market. The board will evolve constantly as playoff positioning clarifies and contenders finalize their roster gaps. The deadline is still weeks away, but trade momentum has begun.",
+      "importance": 5,
+      "leadHeadline": "What happens now for Bayern Munich and Musiala?",
+      "leadSource": "BBC Sport · 5h ago",
+      "leadUrl": "https://www.bbc.co.uk/sport/football/articles/cmly5j49ypzqo?at_medium=RSS&amp;at_campaign=rss",
+      "summary": "Bayern Munich star Jamal Musiala faces a medical condition that will affect him for life and may prevent a return to his previous performance level. The diagnosis raises questions about his long-term trajectory at the Bundesliga club.",
+      "article": "Jamal Musiala's status at Bayern Munich has been complicated by a medical condition that will require management for the remainder of his career. The diagnosis raises significant questions about whether the attacking midfielder can return to the elite level of play that made him one of Europe's most coveted young talents.\n\nMusiala's physical condition represents a substantial shift in how Bayern approaches both his near-term deployment and his long-term contractual future. At 21, the midfielder has already established himself as a core player in the Bundesliga's most successful franchise, but the medical issue introduces uncertainty that extends beyond typical injury recovery timelines.\n\nBayern's coaching and medical staff will need to design a training and match-day protocol specifically tailored to Musiala's condition. This likely means managing his minutes more carefully than they would for a fully healthy player, potentially limiting the number of consecutive matches he can start and introducing more rotation into his schedule.\n\nFrom a contractual standpoint, Bayern must also consider how the condition affects Musiala's market value and long-term salary trajectory. If his peak years are limited or his performance trajectory altered, it could influence how the club values extension discussions and what terms it might offer.\n\nMusiala remains under contract through 2026, giving Bayern time to assess his adaptation to managing the condition. However, the diagnosis also makes him more attractive to potential suitors willing to structure deals around his availability rather than assume full-time starting status.",
       "tweets": []
     }
   ],
@@ -2394,92 +2402,104 @@
   "deals": [],
   "ratings": [
     {
-      "event": "NFL games, Week 11 average",
+      "event": "NFL Week 11 average through Thanksgiving",
       "network": "Various",
       "viewers_m": 18.2,
       "peak_viewers_m": null,
       "league": "NFL",
-      "storyIndex": 8,
-      "context": "Up 3% year-over-year and highest average at this point in season heading into Thanksgiving.",
-      "capturedAt": "2026-11-26T23:25:34.907Z"
+      "storyIndex": 16,
+      "context": "Up 3% from prior year at same point in season; highest average at this stage of any recent season.",
+      "capturedAt": "2026-11-27T11:37:20.165Z"
     }
   ],
   "ticket_prices": [],
   "sidebar": [
     {
-      "headline": "Bournemouth 'allowed to dream' as fans book Europa League final hotels",
-      "source": "BBC Sport · 1h ago",
-      "article": "Bournemouth has earned the right to dream after becoming one of a select group of teams to win their first five European games. The English club's perfect record in continental competition has sparked early enthusiasm among supporters, some of whom are already booking hotels for a potential Europa League final appearance. The Cherries are still in the early stages of the knockout rounds, but their defensive organization and clinical finishing have drawn comparisons to other surprise European runs. Manager Andoni Iraola has built a cohesive unit that plays with composure beyond what their domestic league standing might suggest. The club's fanbase, historically accustomed to mid-table mediocrity, is allowing itself to believe in something bigger this season."
+      "headline": "Man City owners should be forced to sell, say clubs",
+      "source": "BBC Sport · 5h ago",
+      "article": "Senior figures at multiple Premier League clubs have called for Manchester City's ownership to be forced to sell as punishment for the club's breach of financial regulations. The demand represents a significant escalation in the internal battle over governance and suggests institutional resistance to City's continued dominance. Clubs argue that forced divestiture is the only meaningful penalty for systematic rule-breaking. City denies wrongdoing and maintains the charges are without merit. The case remains in arbitration, but the public pressure from rival clubs signals a willingness to pursue punitive measures beyond traditional fines."
     },
     {
-      "headline": "Sporticast: Michigan's Losing Streak and the Trev Alberts Debacle",
-      "source": "Sportico · 12h ago",
-      "article": "The University of Michigan's failed hiring of Trev Alberts as athletic director has become the subject of intense scrutiny in collegiate sports circles. The 607th episode of Sporticast examined the fallout from the botched move, with legal expert Michael McCann joining Scott Soshnick and Kurt Badenhausen to dissect what went wrong. All parties had signed a memorandum of understanding to bring Alberts aboard, but Michigan reversed course before he was formally introduced. The move highlights the growing complexity of NCAA institutional decisions and the pressure athletic departments face from donors, faculty, and fan bases. The timing of the reversal and its communication raised questions about due diligence and decision-making at the university level."
+      "headline": "Real Kypers Trade Board 3.0: Which star player could move next?",
+      "source": "Sportsnet · 19h ago",
+      "article": "With Dylan Larkin's trade completed, attention has shifted to Simon Edvinsson and other Detroit Red Wings assets potentially on the market before the deadline. Nick Kypreos updated his trade board to reflect the shifting landscape of available talent. Edvinsson's contract situation creates urgency for the Wings, and multiple contenders are reportedly interested. The updated board also flags other players from non-contending teams who could move in coming weeks. The deadline remains several weeks away, but the pace of activity has already accelerated."
     },
     {
-      "headline": "Soccer's Most Loyal Fans May Lose Out in a Streaming 2030 World Cup",
-      "source": "Sportico · 1d ago",
-      "article": "As streaming platforms outbid traditional television networks for rights to distribute premium sporting events, fans are increasingly footing larger bills. The 2026 FIFA World Cup broke records for media rights spending, setting a template for 2030 that could shift the tournament away from linear television entirely. Soccer's core fanbase in the U.S., many of whom are accustomed to free or low-cost broadcast access, may face paywalls when the next World Cup arrives. The economics are clear: streamers can afford higher rights fees because they convert one-time viewers into subscribers at scale. But the trade-off is accessibility. Youth players, casual fans, and families with limited discretionary spending could be priced out of watching the world's biggest sporting event. The business logic of streaming contradicts soccer's growth mission in America."
+      "headline": "Louisville's buzzer-beater ends St. John's comeback try",
+      "source": "CBS Sports · 3h ago",
+      "article": "In one of the wildest Players Era games to date, Louisville hit a 3-pointer at the buzzer to stun St. John's on Thanksgiving night in Las Vegas. The win featured controversy, a near-historic collapse, and the narrative of Rick Pitino facing his old school. St. John's mounted a stunning rally but fell just short of completing the comeback. The game exemplified the unpredictability that has defined the new Players Era tournament format."
     },
     {
-      "headline": "Tony Romo lands first post-CBS role at gaming app",
-      "source": "Sports Media Watch · 20h ago",
-      "article": "Tony Romo has secured his first position since his departure from CBS, joining gaming company Betr as Chief Predictions Officer. The role capitalizes on Romo's reputation for in-game analysis and predictive insight, translating broadcast expertise into the burgeoning sports betting and gaming vertical. Betr plans to feature Romo prominently in original content and use him as the brand's public face. The move represents a broader trend of network talent migrating toward gaming platforms and digital-native companies, where their prediction skills and audience familiarity command premium compensation. Romo's high profile and credibility position him well in a space where prediction accuracy and entertainment value drive subscriber engagement. The timing suggests Betr is mounting a significant challenge to established fantasy and sports betting platforms."
+      "headline": "Alex Ovechkin's Decline Shows Why Sidney Crosby Should Retire Before It's Too Late",
+      "source": "Deadspin · 20h ago",
+      "article": "Alex Ovechkin's difficult farewell season is offering a cautionary tale for Sidney Crosby, whose future with the rebuilding Pittsburgh Penguins is suddenly complicated. The Russian winger's decline from dominance has been pronounced, raising questions about when elite players should step away. Crosby still possesses elite skill, but the Penguins' organizational instability and the quarterback situation with Aaron Rodgers create an uncertain environment. The comparison underscores how late-career decisions shape legacies and organizational direction."
     },
     {
-      "headline": "Champions League review: Lille monster Bayern, De Bruyne's sad return and more United chaos",
-      "source": "The Guardian · 8h ago",
-      "article": "Bayern Munich hit a snagging point in their Champions League campaign as injuries wrack Vincent Kompany's squad just as the manager returns from his own health scare. Lille earned their first group-stage win over the troubled German giants in a performance that raised questions about Bayern's ability to repeat their continental success. Kevin De Bruyne's return to action came amid broader Manchester City dysfunction, while Manchester United's tumultuous season generated fresh chaos. The matchdays underscore how injuries and institutional instability can derail even the continent's richest and most storied clubs. Bayern's injury list has grown extensive, testing Kompany's depth and squad rotation strategy at precisely the wrong moment in the calendar. Lille's win suggests groups are more competitive this season, with traditional giants vulnerable to talented underdogs who execute discipline and capitalize on set pieces."
+      "headline": "US Merchant Marine Academy looking to make more history in Division III football playoffs",
+      "source": "NY Post Sports · 3h ago",
+      "article": "The United States Merchant Marine Academy is pushing deeper into the Division III football playoffs, seeking to extend a historic run. The academy has emerged as one of the most compelling stories in the lower divisions this season. The team's success reflects years of development and a commitment to competing at the highest level within Division III. Their playoff run provides an underdog narrative that has resonated beyond typical college football audiences."
     },
     {
-      "headline": "Thanksgiving NFL TD Scorer Picks: Three Anytime Touchdown Scorer Predictions",
-      "source": "Deadspin · 8h ago",
-      "article": "Professional bettors are circling Thanksgiving's doubleheader with specific targeting of anytime touchdown scorers. Colston Loveland, Saquon Barkley, and Josh Allen headline the consensus predictions for scoring across Thursday's matchups. Loveland's availability in the slot against aggressive defenses makes him an attractive low-chalk option; Barkley's workload and goal-line touches have been consistent; Allen's scrambling ability and red-zone touches create multiple scoring pathways. The betting market's focus on individual scorer props reflects how modern NFL wagering has shifted away from pure game outcomes toward granular, play-by-play targeting. These types of bets have higher variance but outsized payouts when multiple legs hit. Thanksgiving's inflated viewership and relaxed scheduling also historically correlate with less sharp money, creating opportunities for informed bettors to find value."
+      "headline": "Babacar Sane shows Rick Pitino a lot of good things in St. John's loss to Louisville",
+      "source": "NY Post Sports · 3h ago",
+      "article": "Despite St. John's loss to Louisville on Thanksgiving, forward Babacar Sane delivered a performance that suggested positive development for the program under Rick Pitino. Sane's contributions on both ends of the floor hint at a core around which the Johnnies could build. The loss stings, but Pitino appears to be identifying and developing talent that could carry St. John's forward. The coach's recruitment and player development will determine whether this season's setbacks become next year's foundation."
     }
   ],
   "poll": {
-    "question": "Will Aaron Rodgers catch on with another NFL team before the 2026 playoff push?",
+    "question": "What's the biggest concern for Aaron Rodgers and the Pittsburgh Steelers heading into December?",
     "options": [
-      "Yes, by mid-December",
-      "Yes, but not until 2027 season",
-      "No, he'll retire or sit out",
-      "Too early to say"
+      "Locker room chemistry and player morale under Rodgers",
+      "Defensive performance and Mike Tomlin's ability to maintain control",
+      "Offensive line protection and play-calling alignment",
+      "Front office stability and potential offseason moves"
     ]
   },
   "predictions": [
     {
-      "statement": "Caleb Williams finishes 2025 with a top-5 MVP finish after the Bears' Thanksgiving momentum carries into December.",
-      "probability": 72,
-      "rationale": "The Bears' ability to execute clutch moments late in games is historically predictive of playoff success. Williams has demonstrated poise in high-leverage situations, and the NFC North is wide-open. A 9-2 start with six weeks of football remaining gives him a legitimate pathway to MVP consideration if Chicago stays in first place."
+      "statement": "The Buffalo Bills will finish as the AFC East champion, ending Miami's divisional reign.",
+      "probability": 62,
+      "rationale": "The Bills' Thanksgiving win over Kansas City signals a team peaking at the right moment, while their recent offensive surge and defensive improvements suggest sustainable performance. Miami has faltered down the stretch in prior seasons, and Buffalo's playoff experience gives them an edge."
     },
     {
-      "statement": "Simon Edvinsson is traded before the deadline for a package centered on a first-round pick plus depth.",
+      "statement": "The Chicago Bears will make the NFC playoffs and win at least one postseason game.",
+      "probability": 54,
+      "rationale": "Caleb Williams' composure in clutch moments and the recent upset over Detroit indicate the team has found an offensive identity. The NFC's depth means they don't need a division title, and their recent momentum suggests they can win a wild-card round."
+    },
+    {
+      "statement": "Aaron Rodgers and the Pittsburgh Steelers will part ways after this season.",
+      "probability": 71,
+      "rationale": "Mike Tomlin's public 'dumpster fire' comment is unprecedented and signals breakdown beyond repair. The Steelers will likely miss the playoffs, eliminating any argument for continuity. Rodgers' age and injury history make a fresh start more valuable than sunk-cost investment."
+    },
+    {
+      "statement": "The Detroit Lions will still finish with a top-two seed despite the Thanksgiving loss to Chicago.",
       "probability": 58,
-      "rationale": "Detroit's quickening rebuild timeline, highlighted by the Larkin move, suggests the organization is accelerating asset conversion. Edvinsson is young, controlled, and valuable to contenders. The deadline is still four weeks away, but trade momentum favors sellers who move early to maximize return."
-    },
-    {
-      "statement": "Amazon's Black Friday sports marathon drives measurable subscriber growth but under 2% incremental Prime take-up.",
-      "probability": 45,
-      "rationale": "Sports programming excels at capturing existing audiences but historically shows lower conversion rates for marginal new subscribers than tech companies project. Black Friday's sheer noise and existing shopping intent may limit the differentiation Amazon's sports content provides versus competitors' offerings."
-    },
-    {
-      "statement": "Tyson Fury defeats Anthony Joshua in their mega-fight without medical intervention from boxing commissions.",
-      "probability": 81,
-      "rationale": "Paris Fury's clarification that Tyson was never diagnosed with schizophrenia removes the primary regulatory hurdle. Boxing commissions are unlikely to block the fight on mental health grounds absent new, documented evidence. The bout proceeds as scheduled with full financial backing."
+      "rationale": "One loss, even a dramatic one, doesn't erase Detroit's strong season-long performance. They control their own destiny in the NFC North and have several remaining winnable games. The loss is a setback, not a season-ender."
     }
   ],
   "injuries": [
     {
-      "player": "Vincent Kompany",
+      "player": "Christian Watson",
+      "team": "Green Bay Packers",
+      "league": "NFL",
+      "position": "WR",
+      "status": "OUT",
+      "injury": "Not specified",
+      "timeline": null,
+      "source": "CBS Sports",
+      "impact": "Packers' offense loses a primary receiving target, forcing Jordan Love to work with secondary options in crucial late-season games.",
+      "storyIndex": 13
+    },
+    {
+      "player": "Jamal Musiala",
       "team": "Bayern Munich",
       "league": "SOCCER",
-      "position": "Manager",
-      "status": "RETURNING",
-      "injury": "Health scare (unspecified)",
-      "timeline": "Returned to work",
-      "source": "The Guardian",
-      "impact": "Bayern's injury crisis compounds with Kompany managing his own recovery while his squad battles extensive availability issues in Champions League competition.",
-      "storyIndex": 0
+      "position": "MF",
+      "status": "DAY_TO_DAY",
+      "injury": "Medical condition requiring lifelong management",
+      "timeline": null,
+      "source": "BBC Sport",
+      "impact": "Bayern must implement controlled minute management for the attacking midfielder, limiting consecutive starts and altering tactical deployment.",
+      "storyIndex": 12
     }
   ],
   "picks": [
@@ -5915,30 +5935,30 @@
       "_pendingGrade": true
     }
   ],
-  "updatedAt": "2025-11-27T18:45:00Z",
+  "updatedAt": "2024-11-28T18:45:00Z",
   "highlights": [
     {
       "league": "NBA",
       "title": "Top 10 NBA “Jams” of the Season So Far… But They Get Progressively Better! 💥",
       "videoId": "n5Ao_6YVjQk",
       "thumbnail": "https://img.youtube.com/vi/n5Ao_6YVjQk/mqdefault.jpg",
-      "timeAgo": "8h ago",
+      "timeAgo": "21h ago",
       "isFallback": false
     },
     {
       "league": "NFL",
-      "title": "STANKY TURKEY LEGS FOR DA BEARS 🍗 (via chicagobears/X)",
-      "videoId": "iYsJ4SwI0ks",
-      "thumbnail": "https://img.youtube.com/vi/iYsJ4SwI0ks/mqdefault.jpg",
-      "timeAgo": "Just now",
+      "title": "Brian Schottenheimer discusses ‘disappointing’ loss vs. Eagles | NFL on ESPN",
+      "videoId": "4M3_exjFlxM",
+      "thumbnail": "https://img.youtube.com/vi/4M3_exjFlxM/mqdefault.jpg",
+      "timeAgo": "9h ago",
       "isFallback": false
     },
     {
       "league": "MLB",
-      "title": "Team Venezuela vs. Team United States: Full Championship Game (3/17/2026) | World Baseball Classic",
-      "videoId": "xWT8J6UmxaY",
-      "thumbnail": "https://img.youtube.com/vi/xWT8J6UmxaY/mqdefault.jpg",
-      "timeAgo": "5h ago",
+      "title": "FULL 2026 WORLD SERIES GAME 5: Milwaukee’s wait is over! Brewers win World Series (Brewers vs. Rays)",
+      "videoId": "Voz7KcWeRgY",
+      "thumbnail": "https://img.youtube.com/vi/Voz7KcWeRgY/mqdefault.jpg",
+      "timeAgo": "10h ago",
       "isFallback": false
     },
     {
@@ -5946,7 +5966,7 @@
       "title": "Do these NHLers know how to cook?",
       "videoId": "1tS5TCGhoHI",
       "thumbnail": "https://img.youtube.com/vi/1tS5TCGhoHI/mqdefault.jpg",
-      "timeAgo": "1h ago",
+      "timeAgo": "14h ago",
       "isFallback": false
     },
     {
@@ -5954,7 +5974,7 @@
       "title": "The NASTIEST Blocks of the Season | WNBA Defense Week",
       "videoId": "76WEx9LcSS4",
       "thumbnail": "https://img.youtube.com/vi/76WEx9LcSS4/mqdefault.jpg",
-      "timeAgo": "6h ago",
+      "timeAgo": "19h ago",
       "isFallback": false
     },
     {
@@ -5962,11 +5982,27 @@
       "title": "'It feels like I'm playing baseball with my dad' 😂❤️ (via @IShowSpeed/TT)",
       "videoId": "2X7IS2GKkbc",
       "thumbnail": "https://img.youtube.com/vi/2X7IS2GKkbc/mqdefault.jpg",
-      "timeAgo": "3h ago",
+      "timeAgo": "16h ago",
       "isFallback": false
     }
   ],
   "reels": [
+    {
+      "league": "NFL",
+      "title": "Brian Schottenheimer discusses ‘disappointing’ loss vs. Eagles | NFL on ESPN",
+      "videoId": "4M3_exjFlxM",
+      "author": "NFL on ESPN",
+      "pubDate": "2026-11-27T02:23:42+00:00",
+      "link": "https://www.youtube.com/watch?v=4M3_exjFlxM"
+    },
+    {
+      "league": "MLB",
+      "title": "FULL 2026 WORLD SERIES GAME 5: Milwaukee’s wait is over! Brewers win World Series (Brewers vs. Rays)",
+      "videoId": "Voz7KcWeRgY",
+      "author": "MLB",
+      "pubDate": "2026-11-27T02:00:32+00:00",
+      "link": "https://www.youtube.com/watch?v=Voz7KcWeRgY"
+    },
     {
       "league": "NFL",
       "title": "STANKY TURKEY LEGS FOR DA BEARS 🍗 (via chicagobears/X)",
@@ -6232,14 +6268,6 @@
       "link": "https://www.youtube.com/watch?v=5W8iXXyUcUE"
     },
     {
-      "league": "NFL",
-      "title": "The Aaron Rodgers-Mike McCarthy Drama, Explained",
-      "videoId": "8KZFjpoDBwE",
-      "author": "NFL on ESPN",
-      "pubDate": "2026-11-26T03:11:09+00:00",
-      "link": "https://www.youtube.com/watch?v=8KZFjpoDBwE"
-    },
-    {
       "league": "MLB",
       "title": "FULL 2026 WORLD SERIES GAME 4: Williamson's walk-off while Rays face elimination (Brewers vs. Rays)",
       "videoId": "xMDVyy2Bjos",
@@ -6278,14 +6306,6 @@
       "author": "MLB",
       "pubDate": "2026-11-25T22:00:35+00:00",
       "link": "https://www.youtube.com/watch?v=A5O0pyv38TE"
-    },
-    {
-      "league": "MLB",
-      "title": "Antonio Cipriano (Off Campus) &amp; Ernie Clement Might Have a Budding Bromance",
-      "videoId": "OY5paIoWvz4",
-      "author": "MLB",
-      "pubDate": "2026-11-25T21:00:22+00:00",
-      "link": "https://www.youtube.com/watch?v=OY5paIoWvz4"
     }
   ]
 }
